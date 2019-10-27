@@ -1,0 +1,24 @@
+{
+  "name": "datasets",
+  "version": "0.0.1",
+  "description": "",
+  "main": "nope",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/withsiren/datasets.git"
+  },
+  "keywords": [],
+  "author": "blukai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/withsiren/datasets/issues"
+  },
+  "homepage": "https://github.com/withsiren/datasets#readme",
+  "dependencies": {
+    "@actions/core": "^1.1.1",
+    "got": "^9.6.0"
+  }
+}

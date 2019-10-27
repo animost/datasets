@@ -1,0 +1,12 @@
+name: pwd
+on:
+  schedule:
+    - cron:  '0 0 * * *'
+jobs:
+  pwd:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: withsiren/datasets/anidb@master
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}

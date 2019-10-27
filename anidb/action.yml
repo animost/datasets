@@ -1,0 +1,8 @@
+name: 'anidb'
+inputs:
+  github-token:
+    description: Github Token
+    required: true
+runs:
+  using: 'node12'
+  main: 'action.js'
