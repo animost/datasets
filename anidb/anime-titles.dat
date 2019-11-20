@@ -1,4 +1,4 @@
-# created: Mon Nov 18 03:00:02 2019
+# created: Tue Nov 19 03:00:02 2019
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2239,7 +2239,7 @@
 1779|1|x-jat|Arabian Nights: Sindbad no Bouken
 785|1|x-jat|Arabian Nights: Sindbad no Bouken (1975)
 14512|1|x-jat|Araburu Kisetsu no Otome-domo yo.
-14559|2|x-jat|Arad Senki: Dungeon and Fighter
+14559|2|x-jat|Arad Senki: Gyakuten no Wa
 6226|2|x-jat|Arad Senki: Slap Up Party
 14560|2|x-jat|Arad: Shukumei no Mon
 14560|1|x-zht|Arad: Suming Zhi Men
@@ -49064,7 +49064,7 @@
 9551|4|ja|アラタカンガタリ ~革神語~
 9259|4|ja|アラタなるセカイ WORLD`S/START/LOAD/END
 14560|2|ja|アラド: 宿命の門
-14559|4|ja|アラド戦記: Dungeon and Fighter
+14559|4|ja|アラド戦記 逆転の輪
 6226|2|ja|アラド戦記~スラップアップパーティー~
 785|4|ja|アラビアンナイト シンドバットの冒険
 1779|4|ja|アラビアンナイト シンドバッドの冒険
@@ -56222,8 +56222,8 @@
 14882|2|zh-Hans|功夫四侠2
 8499|4|zh|功夫料理娘
 6531|2|zh-Hans|加奈日记
-8691|4|zh-Hans|加速世界
 8691|4|zh-Hant|加速世界
+8691|4|zh-Hans|加速世界
 11680|4|zh|加速世界 INFINITE BURST
 6788|2|zh-Hans|动物侦探
 12301|4|zh-Hans|动画锻炼!XX
@@ -56300,8 +56300,8 @@
 3683|4|ja|千夜一夜物語
 10059|4|ja|千年の約束
 570|4|zh-Hans|千年女优
-570|4|ja|千年女優
 570|4|zh-Hant|千年女優
+570|4|ja|千年女優
 13250|4|zh-Hans|千绪的通学路
 112|4|zh-Hant|千與千尋
 13960|4|ja|千銃士
@@ -57427,8 +57427,8 @@
 5070|4|ja|家庭教師のおねえさん THE ANIMATION~Hの偏差値あげちゃいます~
 7849|4|ja|家庭教師のおねえさん2 THE ANIMATION~Hの偏差値あげちゃいます~
 2302|4|ja|家族ロビンソン漂流記ふしぎな島のフローネ
-14213|4|zh-Hant|家有女友
 14213|4|zh-Hans|家有女友
+14213|4|zh-Hant|家有女友
 3686|2|zh|家有恐龍
 3299|2|zh-Hans|家有色邻
 3686|2|zh|家有賤龍
@@ -57729,8 +57729,8 @@
 2331|2|zh|幻想叙谭艾尔西亚
 8102|4|zh-Hans|幻想嘉年华
 8824|4|zh-Hans|幻想嘉年华 EX Season
-8102|4|zh-x-nan|幻想嘉年華
 8102|4|zh-Hant|幻想嘉年華
+8102|4|zh-x-nan|幻想嘉年華
 2331|2|ja|幻想序譚エルシア
 488|4|ja|幻想魔伝 最遊記
 4973|4|ja|幻想魔伝最遊記-希望の罪過-
@@ -60208,8 +60208,8 @@
 6385|4|ja|白旗の少女 琉子
 14540|2|ja|白猫プロジェクト ゼロ・クロニクル
 14540|4|ja|白猫プロジェクトZERO CHRONICLE
-10779|4|zh-Hant|白箱
 10779|2|zh-Hans|白箱
+10779|4|zh-Hant|白箱
 6026|2|zh-Hans|白色相本
 6970|2|zh-Hans|白色相簿第二季
 14876|4|zh-Hans|白蛇: 缘起
@@ -60974,8 +60974,8 @@
 6914|4|ja|舌切雀
 15221|4|zh-Hans|舒克和贝塔
 1554|4|ja|舞-HiME
-3216|2|zh-Hans|舞-乙HiME
 3216|4|ja|舞-乙HiME
+3216|2|zh-Hans|舞-乙HiME
 5431|4|ja|舞-乙HiME 0 ~S.ifr~
 4567|4|ja|舞-乙HiME Zwei
 4603|4|ja|舞姫
