@@ -1,4 +1,4 @@
-name: pwd
+name: anidb
 on:
   schedule:
     - cron:  '0 0 * * *'
