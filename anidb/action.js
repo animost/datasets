@@ -12,10 +12,7 @@ const exec = util.promisify(childProcess.exec)
 
 async function main() {
   try {
-    const {
-      GITHUB_ACTOR,
-      GITHUB_WORKSPACE = path.join(__dirname, '..')
-    } = process.env
+    const { GITHUB_WORKSPACE = path.join(__dirname, '..') } = process.env
     const OUT_FILE = `${GITHUB_WORKSPACE}/anidb/anime-titles.dat`
 
     await pipeline(
@@ -32,8 +29,8 @@ async function main() {
       }
     }
 
-    await exec(`git config user.name "${GITHUB_ACTOR}"`, options)
-    await exec(`git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"`, options)
+    await exec('git config user.name "GitHub"', options)
+    await exec('git config user.email "noreply@github.com"', options)
 
     await exec(`git add ${OUT_FILE}`, options)
 
