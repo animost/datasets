@@ -1,4 +1,4 @@
-# created: Fri Feb  5 03:00:01 2021
+# created: Sat Feb  6 03:00:01 2021
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3545,13 +3545,13 @@
 241|2|es|Bateadores
 5611|3|en|Batman
 5611|4|cs|Batman - Gothamský rytíř
-13475|1|x-jat|Batman Ninja
 13475|4|ja|BATMAN NINJA
-13475|4|es|Batman Ninja
 13475|4|es-LA|Batman Ninja
+13475|4|es|Batman Ninja
+13475|1|x-jat|Batman Ninja
+5611|4|de|Batman: Gotham Knight
 5611|1|x-jat|Batman: Gotham Knight
 5611|4|en|Batman: Gotham Knight
-5611|4|de|Batman: Gotham Knight
 5611|4|hu|Batman: Gotham Lovagja
 5611|2|tr|Batman: Gotham Şövalyesi
 5611|4|pl|Batman: Rycerz Gotham
@@ -3590,13 +3590,13 @@
 5|2|en|Battle Flag of the Stars 2
 884|2|en|Battle Flag of The Stars Special
 6172|2|en|Battle for Beauty
-12080|4|fr|Battle Girl High School
 12080|1|x-jat|Battle Girl High School
+12080|4|fr|Battle Girl High School
 12080|4|en|Battle Girl High School
 8254|4|en|Battle Girls: Time Paradox
 15848|2|en|Battle in 5 Seconds After Meeting
-8758|4|ja|Battle of Clay
 8758|1|x-jat|Battle of Clay
+8758|4|ja|Battle of Clay
 15053|1|x-jat|Battle of Clay 2019
 15053|4|ja|Battle of Clay 2019
 3513|2|en|Battle of the Planets
@@ -3732,11 +3732,11 @@
 219|3|x-jat|bebop movie
 23|3|x-jat|Bebop TV
 7978|4|en|Because I Don`t Like My Big Brother at All!
-2320|4|fr|Beck - Mongolian Chop Squad
 2320|4|it|Beck - Mongolian Chop Squad
+2320|4|fr|Beck - Mongolian Chop Squad
 2320|4|ja|BECK MONGOLIAN CHOP SQUAD
-2320|1|x-jat|Beck: Mongolian Chop Squad
 2320|4|en|Beck: Mongolian Chop Squad
+2320|1|x-jat|Beck: Mongolian Chop Squad
 7541|2|en|Becoming your lover
 1372|3|x-jat|Bedaman
 2825|2|en|Bedaman: Fire Spirits
@@ -3744,8 +3744,8 @@
 7458|3|en|bee2
 7934|3|x-jat|beel
 14025|3|x-jat|beelmama
-7934|1|x-jat|Beelzebub
 7934|4|en|Beelzebub
+7934|1|x-jat|Beelzebub
 7934|4|fr|Beelzebub
 7934|2|x-jat|Beelzebub TV
 14025|1|x-jat|Beelzebub-jou no Oki ni Mesu Mama.
@@ -3758,8 +3758,8 @@
 3703|3|x-jat|Beet 2
 3703|3|en|Beet Excellion
 3703|3|x-jat|Beet Exelion
-2391|4|fr|Beet the Vandel Buster
 2391|4|en|Beet the Vandel Buster
+2391|4|fr|Beet the Vandel Buster
 3703|2|en|Beet the Vandel Buster 2
 3703|4|en|Beet the Vandel Buster Excellion
 2391|3|x-jat|Beet TV
@@ -3769,16 +3769,16 @@
 13876|2|en|Before You Wake Up
 1963|2|lt|Begėdis Daktaras
 11536|4|en|Beginning of Fashion
-13089|4|ja|behind a smile
 13089|1|x-jat|Behind a Smile
+13089|4|ja|behind a smile
 776|4|en|Behind Closed Doors
 595|4|lt|Beibleidai
 15567|2|en|Beijing Opera Cats
 2739|2|en|Belfi & Lilibit
 2739|4|nl|Belfi en Lillibit
 2739|4|en|Belfy and Lillabit
-2739|4|it|Belfy e Lillibit
 2739|4|pt|Belfy e Lillibit
+2739|4|it|Belfy e Lillibit
 2739|2|es|Belfy y Lillibit
 13002|1|x-jat|Believe
 13002|4|ja|Believe
@@ -3801,8 +3801,8 @@
 14014|2|en|Beloved Mother
 7988|2|en|Beloved Wife Diaries
 11358|1|x-jat|Beluga
-14664|4|en|Bem
 14664|1|x-jat|Bem
+14664|4|en|Bem
 14664|4|ja|BEM
 1447|4|it|Bem - Il Mostro Umano
 4334|4|it|Bem 2 - Il mostro umano
@@ -3835,27 +3835,27 @@
 9646|1|x-kot|Beongae Atom
 1134|2|en|Bequeath Work
 189|2|de|Berauschende Orchidee
-13912|4|en|Bermuda Triangle: Colorful Pastorale
 13912|1|x-jat|Bermuda Triangle: Colorful Pastorale
+13912|4|en|Bermuda Triangle: Colorful Pastorale
 13912|2|en|Bermuda Triangle: Colourful Pastorale
 12890|2|en|Bernard
 12226|1|x-jat|Bernard-jou Iwaku.
 161|4|x-kot|Berry Berry Mew Mew
 1406|4|it|Bersaglio che ride (Granata) - La sposa demoniaca (Polygram)
-98|4|en|Berserk
-98|4|fi|Berserk
 98|4|es|Berserk
 98|4|de|Berserk
-98|4|fr|Berserk
 98|4|pl|Berserk
-98|4|it|Berserk
+98|4|fr|Berserk
 98|2|sv|Berserk
 11851|1|x-jat|Berserk
+98|4|fi|Berserk
+98|4|it|Berserk
+98|4|en|Berserk
 7991|4|it|Berserk - L`epoca d`oro
 7991|4|es|Berserk - La Edad de Oro
 7991|4|fr|Berserk : l`Âge d`or
-11851|4|it|Berserk (2016)
 11851|4|en|Berserk (2016)
+11851|4|it|Berserk (2016)
 12414|1|x-jat|Berserk (2017)
 11851|4|fr|Berserk (Saison 1)
 12414|4|en|Berserk (Season 2)
@@ -3938,21 +3938,21 @@
 4016|2|en|Beyblade the Movie: Fierce Battle
 1964|4|en|Beyblade V Force
 1964|4|fr|Beyblade V-Force
-1964|4|pt|Beyblade V-Force
 1964|4|pt-BR|Beyblade V-Force
+1964|4|pt|Beyblade V-Force
 1964|4|de|Beyblade Vforce
 7520|4|pt|Beyblade vs O Sol: O Agressor em Chamas, Sol Blaze
 8298|4|en|Beyblade: Metal Fury
 6426|4|en|Beyblade: Metal Fusion
-7426|4|en|Beyblade: Metal Masters
 7426|4|hu|Beyblade: Metal Masters
+7426|4|en|Beyblade: Metal Masters
 9048|4|pt|Beyblade: Shogun Steel
 9048|4|en|Beyblade: Shogun Steel
 6426|4|hu|Beyblade(2)
 2564|1|x-jat|Beyond
 3118|2|en|Beyond
-14696|4|ja|Beyond Creation
 14696|1|x-jat|Beyond Creation
+14696|4|ja|Beyond Creation
 9518|4|en|Beyond the Boundary
 9518|4|fr|Beyond The Boundary
 10726|4|en|Beyond the Boundary: I`ll Be Here
@@ -6909,19 +6909,19 @@
 15614|4|en|Cooking with Valkyries II
 2655|1|x-jat|Cool Cool Bye
 36|2|en|Cool Couple
-188|4|en|Cool Devices
-188|4|de|Cool Devices
-188|4|fr|Cool Devices
 188|2|es|Cool Devices
+188|4|en|Cool Devices
+188|4|fr|Cool Devices
+188|4|de|Cool Devices
 188|1|x-jat|Cool Devices Series
 9955|2|en|Cool-Headed Hoozuki
-14574|1|x-jat|Cop Craft
-14574|4|en|Cop Craft
 14574|4|ja|COP CRAFT
+14574|4|en|Cop Craft
+14574|1|x-jat|Cop Craft
 8403|1|x-jat|Copihan
-7933|4|fr|Coppelion
 7933|1|x-jat|Coppelion
 7933|4|ja|COPPELION
+7933|4|fr|Coppelion
 7933|4|en|Coppelion
 8141|2|x-jat|Coquelicot Saka kara
 8141|1|x-jat|Coquelicot-zaka kara
@@ -6968,8 +6968,8 @@
 3967|1|x-jat|Cosmos Pink Shock
 3967|4|ja|COSMOS ピンクショック
 816|4|pt-BR|Cosmowarrior Zero
-816|2|fr|Cosmowarrior Zero
 816|4|de|Cosmowarrior Zero
+816|2|fr|Cosmowarrior Zero
 816|2|x-jat|Cosmowarrior Zero Gaiden
 1843|4|en|Cosplay Cafe
 278|1|x-jat|Cosplay Complex
@@ -7942,31 +7942,31 @@
 8141|4|ro|Dealul cu Maci
 641|1|x-jat|Dear Boys
 1137|4|en|Dear Brother
-1726|1|x-jat|DearS
-1726|4|de|DearS
 1726|4|fr|DearS
+1726|4|de|DearS
 1726|4|en|DearS
-9253|4|en|Death Billiards
+1726|1|x-jat|DearS
 9253|1|x-jat|Death Billiards
+9253|4|en|Death Billiards
 12603|3|x-jat|death march
 12603|1|x-jat|Death March kara Hajimaru Isekai Kyousoukyoku
 12603|4|en|Death March to the Parallel World Rhapsody
+4563|4|pt-BR|Death Note
+4563|4|fr|Death Note
+4563|4|de|Death Note
 4563|4|en|Death Note
 4563|4|ca|Death Note
-4563|4|pt|Death Note
-4563|4|fr|Death Note
 4563|1|x-jat|Death Note
-4563|4|es|Death Note
-4563|4|de|Death Note
 4563|4|es-LA|Death Note
-4563|4|ja|DEATH NOTE
-4563|4|pt-BR|Death Note
 4563|4|fi|Death Note
 4563|4|it|Death Note
+4563|4|es|Death Note
+4563|4|ja|DEATH NOTE
+4563|4|pt|Death Note
 4563|4|hu|Death Note - A halállista
 4563|4|ro|Death Note - Carnetul morţii
-4563|4|sk|Death Note - Zápisník smrti
 4563|4|cs|Death Note - Zápisník smrti
+4563|4|sk|Death Note - Zápisník smrti
 8146|4|pt|Death Note Relight: A Visão de um Deus
 8146|2|en|Death Note Rewrite: Visions of a God
 8146|4|hu|Death Note: Egy új világ istene
@@ -7979,9 +7979,9 @@
 8146|4|en|Death Note: Re-Light - Visions of a God
 8147|4|en|Death Note: Re-Light 2 - L`s Successors
 8147|2|en|Death Note: Rewrite 2: L`s Successors
-10905|4|it|Death Parade
 10905|1|x-jat|Death Parade
 10905|4|en|Death Parade
+10905|4|it|Death Parade
 15848|1|x-jat|Deatte 5 Byou de Battle
 11636|1|x-jat|Deban Desu Yo! Onigirizu
 1236|2|x-jat|Debiruman
@@ -8006,18 +8006,18 @@
 2646|2|tr|Dedektif Conan: Yüzyılın Son Sihirbazı
 8256|2|tr|Dedemin Kandili
 13158|2|x-jat|Deeky & Carina
-15270|4|ja|DEEMO
 15270|1|x-jat|Deemo
+15270|4|ja|DEEMO
 4700|2|en|Deep - Sea Legend Meremanoid
 4286|2|en|Deep Blue Fleet
-14388|1|x-jat|Deep Love
 14388|4|ja|Deep Love
+14388|1|x-jat|Deep Love
 4288|4|fr|Deep Sea : Mission Mû
 1979|1|x-jat|Deep Voice
 1979|2|x-jat|Deepvoice
 15238|2|en|Deer and Bull
-8423|1|x-jat|Defend Love
 8423|4|ja|Defend Love
+8423|1|x-jat|Defend Love
 8950|4|en|Defenders of Space
 3496|3|x-jat|Deimos
 3496|1|x-jat|Deimos no Hanayome: Ran no Kumikyoku
@@ -8039,17 +8039,17 @@
 2333|2|en|Delinquent Detective
 12945|4|en|Delinquent Hamsters
 2685|4|en|Delinquent in Drag
-4595|4|pl|Deltora Quest
+4595|4|it|Deltora Quest
 4595|1|x-jat|Deltora Quest
 4595|4|hu|Deltora Quest
-4595|4|it|Deltora Quest
-4203|1|x-jat|Deluxe Ariel
+4595|4|pl|Deltora Quest
 4203|4|ja|DELUXE ARIEL
+4203|1|x-jat|Deluxe Ariel
 15027|1|x-jat|Deluxe Da yo! Kai Shain
 3207|1|x-jat|Demashita! Powerpuff Girls Z
 3207|2|x-jat|Demashitaa! Powerpuff Girls Z
-1319|3|en|DEMC
 5587|3|x-jat|demc
+1319|3|en|DEMC
 5587|3|x-jat|demeci
 1811|2|en|Demetan Croaker, The Boy Frog
 1811|2|de|Demetan der Froschjunge
@@ -8068,8 +8068,8 @@
 1162|4|en|Demon Beast Resurrection
 1130|2|en|Demon Best Battle Line Adventure Kid
 11327|1|x-jat|Demon Busters: Ecchi na Ecchi na Demon Taiji - The Animation
-1023|4|fr|Demon City Shinjuku
 1023|4|de|Demon City Shinjuku
+1023|4|fr|Demon City Shinjuku
 1023|4|en|Demon City Shinjuku
 632|2|en|Demon Detective Roki - Ragnarok
 6754|2|en|Demon Father
@@ -8082,8 +8082,8 @@
 4000|2|en|Demon Hunter Makaryuudo
 611|2|en|Demon Hunter Yohko
 9287|2|en|Demon King and Hero
-6968|4|de|Demon King Daimao
 6968|4|en|Demon King Daimao
+6968|4|de|Demon King Daimao
 731|4|en|Demon Lord Dante
 731|4|pt-BR|Demon Lord Dante
 14391|4|en|Demon Lord, Retry!
@@ -8736,8 +8736,8 @@
 12132|4|en|Digimon Universe: App Monsters
 12132|1|x-jat|Digimon Universe: Appli Monsters
 2390|3|x-jat|Digimon X
-2390|2|x-jat|Digimon X-Evolution
 2390|2|en|Digimon X-Evolution
+2390|2|x-jat|Digimon X-Evolution
 7518|1|x-jat|Digimon Xros Wars
 8321|2|x-jat|Digimon Xros Wars II
 8616|3|en|Digimon Xros Wars III
@@ -8933,8 +8933,8 @@
 1611|4|en|DNA2 OVA
 81|1|x-jat|DNA2: Dokoka de Nakushita Aitsu no Aitsu
 1611|1|x-jat|DNA2: Dokoka de Nakushita Aitsu no Aitsu (1995)
-621|4|en|DNAngel
 621|3|ja|DNAngel
+621|4|en|DNAngel
 927|4|ja|DNAハンター
 1105|3|x-jat|DnD
 4241|2|sk|Dnes v triede 5-2
@@ -8942,8 +8942,8 @@
 13551|1|x-jat|Do S na Maina Kaichou-sama ga M Note ni Shihai Saremashita
 13551|2|x-jat|Do S na Seitokaichou-sama ga M Note ni Shihai Saremashita
 4488|4|en|Do You Know the Milfing Man?
-14454|4|en|Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?
 14454|4|de|Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?
+14454|4|en|Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?
 888|4|pt|Dó-Ré-Mi
 1763|4|pt|Dó-Ré-Mi (2000)
 1766|4|pt|Dó-Ré-Mi (2001)
@@ -9129,15 +9129,15 @@
 9713|2|en|Dooly, the Little Dinosaur (2008)
 9711|2|en|Dooly`s Backpacking
 1505|4|en|Doomed Megalopolis
-1505|4|de|Doomed Megalopolis
 1505|4|fi|Doomed Megalopolis
+1505|4|de|Doomed Megalopolis
 1837|2|en|Door to Summer
 8270|2|cs|Dopis pro Momo
 4250|4|de|Dora
 6719|3|x-jat|Doraeiga 2010
-1078|4|pt|Doraemon
-1078|4|it|Doraemon
 2110|1|x-jat|Doraemon
+1078|4|it|Doraemon
+1078|4|pt|Doraemon
 1078|4|fr|Doraemon
 6719|4|pt|Doraemon - A Lenda das Sereias
 4673|4|es|Doraemon - Animal Planet
@@ -9363,8 +9363,8 @@
 13505|4|en|Doreiku: The Animation
 13757|3|x-jat|doreima
 888|2|pt|Doremi
-888|3|x-jat|Doremi
 888|4|de|DoReMi
+888|3|x-jat|Doremi
 1763|2|pt|Doremi (2000)
 1766|2|pt|Doremi (2001)
 1767|2|pt|Doremi (2002)
@@ -9383,13 +9383,13 @@
 5059|1|x-jat|Dorimogu Daa!!
 14483|1|x-jat|Dorohedoro
 11652|2|en|Doronjo ZIP!
-13946|4|it|Dororo
 8770|1|x-jat|Dororo
 1119|4|en|Dororo
+13946|4|it|Dororo
 1119|2|x-jat|Dororo (1969)
-13946|1|x-jat|Dororo (2019)
-13946|2|tr|Dororo (2019)
 13946|4|en|Dororo (2019)
+13946|2|tr|Dororo (2019)
+13946|1|x-jat|Dororo (2019)
 1119|2|en|Dororo and Hyakkimaru
 8770|2|en|Dororo Pilot
 1119|1|x-jat|Dororo to Hyakkimaru
@@ -9463,8 +9463,8 @@
 6841|1|x-jat|Doubutsu Olympic Taikai
 2214|1|x-jat|Doubutsu Takarajima
 11105|1|x-jat|Doubutsu Tonarigumi
-8035|4|ja|Doudou
 8035|1|x-jat|Doudou
+8035|4|ja|Doudou
 2355|2|en|Dougram: Documentary of the Fang of the Sun
 5071|1|x-jat|Doujin Work
 9704|1|x-jat|Doukoku no Nightmare
@@ -9509,11 +9509,11 @@
 4655|2|en|Dr. Dokkiri
 15715|4|en|Dr. Ramune: Mysterious Disease Specialist
 541|1|x-jat|Dr. Rin ni Kiite Mite!
-1925|4|pl|Dr. Slump
-2273|1|x-jat|Dr. Slump
+532|4|de|Dr. Slump
 532|4|fr|Dr. Slump
 1925|4|es|Dr. Slump
-532|4|de|Dr. Slump
+1925|4|pl|Dr. Slump
+2273|1|x-jat|Dr. Slump
 1925|4|ca|Dr. Slump
 4015|2|en|Dr. Slump - Arale`s Amazing-man
 1925|4|it|Dr. Slump & Arale
@@ -9550,9 +9550,9 @@
 2286|4|en|Dr. Slump: The City of Dreams, Mechapolis
 2275|4|en|Dr. Slump: The Great Race Around the World
 2282|4|en|Dr. Slump: The Secret of Nanaba Castle
-14491|1|x-jat|Dr. Stone
-14491|4|en|Dr. Stone
 14491|4|pt-BR|Dr. Stone
+14491|4|en|Dr. Stone
+14491|1|x-jat|Dr. Stone
 15305|4|en|Dr. Stone: Stone Wars
 15305|1|x-jat|Dr. Stone: Stone Wars
 7572|2|x-jat|Dr. Typhoon
@@ -9572,29 +9572,29 @@
 541|4|ja|Dr.リンにきいてみて!
 13625|4|de|Drachenflieger
 13625|2|de|Drachenflieger: Hisone und Masotan
-5677|4|it|Dracula
 5677|4|fi|Dracula
+5677|4|it|Dracula
 5677|2|en|Dracula - Emperor of Darkness
 10378|1|x-jat|Dracula no Uta
 5677|4|en|Dracula: Sovereign of the Damned
 8557|1|x-jat|Dragon Age: Blood Mage no Seisen
 8557|4|en|Dragon Age: Dawn of the Seeker
 8557|4|cs|Dragon Age: Úsvit hledačů
-231|4|tr|Dragon Ball
-231|4|ja|DRAGON BALL
-231|4|it|Dragon Ball
-231|4|en|Dragon Ball
-231|4|el|Dragon Ball
-231|4|pt|Dragon Ball
-231|4|da|Dragon Ball
-231|4|pt-BR|Dragon Ball
 231|4|fr|Dragon Ball
-231|4|es-LA|Dragon Ball
+231|4|ro|Dragon Ball
+231|4|it|Dragon Ball
+231|4|ja|DRAGON BALL
+231|4|de|Dragon Ball
 231|4|pl|Dragon Ball
 231|4|hu|Dragon Ball
-231|4|de|Dragon Ball
+231|4|el|Dragon Ball
 231|1|x-jat|Dragon Ball
-231|4|ro|Dragon Ball
+231|4|pt-BR|Dragon Ball
+231|4|es-LA|Dragon Ball
+231|4|tr|Dragon Ball
+231|4|da|Dragon Ball
+231|4|en|Dragon Ball
+231|4|pt|Dragon Ball
 1954|2|pt|Dragon Ball - A Bela Adormecida do Castelo Amaldiçoado
 1129|4|it|Dragon Ball - Il cammino dell`eroe
 1142|4|it|Dragon Ball - Il torneo di Miifan
@@ -9614,19 +9614,19 @@
 1141|4|pt|Dragon Ball Filme 1 - A Lenda de Shenron
 1954|4|pt|Dragon Ball Filme 2 - O Castelo Fantástico
 1142|4|pt|Dragon Ball Filme 3 - Uma Aventura Inesquecível
+233|4|it|Dragon Ball GT
+233|4|fr|Dragon Ball GT
 233|4|hu|Dragon Ball GT
 233|4|ja|DRAGON BALL GT
-233|4|en|Dragon Ball GT
-233|4|pt-BR|Dragon Ball GT
-233|4|fr|Dragon Ball GT
-233|4|de|Dragon Ball GT
 233|4|pl|Dragon Ball GT
+233|4|es-LA|Dragon Ball GT
+233|4|de|Dragon Ball GT
+233|4|pt-BR|Dragon Ball GT
 233|4|pt|Dragon Ball GT
 233|1|x-jat|Dragon Ball GT
-233|4|es-LA|Dragon Ball GT
-233|4|it|Dragon Ball GT
-6399|1|x-jat|Dragon Ball Kai
+233|4|en|Dragon Ball GT
 6399|4|pt|Dragon Ball Kai
+6399|1|x-jat|Dragon Ball Kai
 10452|1|x-jat|Dragon Ball Kai (2014)
 10452|2|x-jat|Dragon Ball Kai: Majin Buu Saga
 1141|2|en|Dragon Ball Movie 1
@@ -9635,9 +9635,9 @@
 1142|2|en|Dragon Ball Movie 3
 1129|2|en|Dragon Ball Movie 4
 11210|1|x-jat|Dragon Ball Super
+11210|4|en|Dragon Ball Super
 11210|2|el|Dragon Ball Super
 11210|4|pl|Dragon Ball Super
-11210|4|en|Dragon Ball Super
 13657|4|pt|Dragon Ball Super - Broly
 14626|1|x-jat|Dragon Ball Super (Shin)
 13657|1|x-jat|Dragon Ball Super: Broly
@@ -10249,7 +10249,7 @@
 107|2|en|Earth Maiden Arjuna
 6687|2|en|Earth Story Telepath 2500
 1138|1|x-jat|Earthian
-15587|2|en|Earwig and the Witch
+15587|4|en|Earwig and the Witch
 3957|4|ja|EASY COOKING ANIMATION セイシュンの食卓
 3957|1|x-jat|Easy Cooking Animation: Seishun no Shokutaku
 3957|2|en|Easy Cooking Animation: Youth`s Dining Table
@@ -11707,8 +11707,8 @@
 3146|4|cs|Final Fantasy: Esence života
 446|2|en|Final Fantasy: Legend of the Crystals
 3146|4|ro|Final Fantasy: Spiritele Ascunse
-3146|4|en|Final Fantasy: The Spirits Within
 3146|1|x-jat|Final Fantasy: The Spirits Within
+3146|4|en|Final Fantasy: The Spirits Within
 3146|2|fi|Final Fantasy: The Spirits Within
 156|4|de|Final Fantasy: Unlimited
 156|4|en|Final Fantasy: Unlimited
@@ -11728,8 +11728,8 @@
 1471|2|en|Fire Emblem: Mystery of the Emblem
 14488|4|en|Fire Force
 15335|4|en|Fire Force (2020)
-3286|4|en|Fire Force DNA Sights 999.9
 3286|4|fr|Fire Force DNA Sights 999.9
+3286|4|en|Fire Force DNA Sights 999.9
 16016|2|en|Fire From My Fingertips 2: My Lover is a Firefighter
 3406|2|en|Fire Rain
 1511|1|x-jat|Fire Tripper
@@ -11747,8 +11747,8 @@
 9641|2|en|Fireflies
 637|1|x-jat|Firestorm
 637|4|ja|FIRESTORM ファイアーストーム
-12605|4|es|Fireworks
 12605|4|en|Fireworks
+12605|4|es|Fireworks
 12605|4|de|Fireworks - Alles eine Frage der Zeit
 12605|2|en|Fireworks, Should We See It from the Side or the Bottom?
 1478|2|en|First Adventurers: Legend of Crystania
@@ -11758,17 +11758,17 @@
 1080|2|en|First Kiss Story
 1080|1|x-jat|First Kiss Story: Kiss kara Hajimaru Monogatari
 1080|2|en|First Kiss Story: The Story That Starts With a Kiss
-8965|4|ja|First Love
-2376|2|en|First Love
 8965|1|x-jat|First Love
+2376|2|en|First Love
+8965|4|ja|First Love
 6323|2|en|First Love Limited
 11326|4|en|First Love Monster
 1166|4|en|First Loves
 870|2|en|First Night
 4401|2|en|First Squad
 4401|4|de|First Squad - Moment der Wahrheit
-4401|4|en|First Squad: The Moment of Truth
 4401|1|x-jat|First Squad: The Moment of Truth
+4401|4|en|First Squad: The Moment of Truth
 800|4|en|Fish in the Trap
 3425|2|en|Fisherman Sanpei
 15212|2|en|Fishing Child
@@ -11776,8 +11776,8 @@
 4750|2|en|Fist of the Blue Sky
 13540|4|en|Fist of the Blue Sky: Regenesis
 13843|4|en|Fist of the Blue Sky: Regenesis (2018)
-211|4|de|Fist of the North Star
 386|4|en|Fist of the North Star
+211|4|de|Fist of the North Star
 3040|4|pl|Fist of the North Star - Legend of Yuria
 5104|2|en|Fist of the North Star - Raoh Side Story Gekitou Arc
 3038|2|en|Fist of the North Star - Raoh Side Story Junai Arc
@@ -11828,11 +11828,11 @@
 1089|4|en|Flashback
 1089|1|x-jat|Flashback Game
 13846|4|en|Flavors of Youth
-117|4|de|FLCL
-117|4|it|FLCL
 117|4|es|FLCL
 117|4|en|FLCL
 117|4|fr|FLCL
+117|4|de|FLCL
+117|4|it|FLCL
 13258|4|en|FLCL Alternative
 12023|4|en|FLCL Progressive
 12023|4|ru|FLCL: прог
@@ -11848,15 +11848,15 @@
 3396|4|pt|Flint, O Detective do Tempo
 3396|4|hr|Flintove avanture
 12007|4|fr|Flip Flappers
-12007|1|x-jat|Flip Flappers
 12007|4|en|Flip Flappers
+12007|1|x-jat|Flip Flappers
 12007|4|zh-Hans|Flip Flappers
 12007|2|x-jat|Flipper Flappers
 3366|4|de|Flitz: Das Bienenkind
 2302|4|fr|Flo et les Robinson suisses
 2302|4|it|Flo, la piccola Robinson
-8127|1|x-jat|Floating Material
 8127|4|ja|Floating Material
+8127|1|x-jat|Floating Material
 540|2|en|Floral Magician Mary Bell
 6070|2|en|Floral Magician Mary Bell - The Phoenix Key
 11029|4|en|Flower
@@ -11867,8 +11867,8 @@
 2240|2|en|Flower Angel Ten-Ten
 13663|2|en|Flower Fairy
 540|2|en|Flower Witch Marybell
-11913|1|x-kot|Flowering Heart
 11913|4|en|Flowering Heart
+11913|1|x-kot|Flowering Heart
 14875|1|x-kot|Flowering Heart 2
 8989|2|en|Flowers and Moles
 9357|4|en|Flowers of Evil
@@ -12207,19 +12207,19 @@
 2710|4|de|Full Metal Panic! The Second Raid
 2710|4|en|Full Metal Panic! The Second Raid
 2710|4|sv|Full Metal Panic! The Second Raid
-2710|2|x-jat|Full Metal Panic! TSR
 2710|2|en|Full Metal Panic! TSR
+2710|2|x-jat|Full Metal Panic! TSR
+959|4|en|Full Metal Panic? Fumoffu
 959|4|cs|Full Metal Panic? Fumoffu
 959|4|it|Full Metal Panic? Fumoffu
-959|4|en|Full Metal Panic? Fumoffu
+959|4|fr|Full Metal Panic? Fumoffu
 959|4|de|Full Metal Panic? Fumoffu
 959|4|pt-BR|Full Metal Panic? Fumoffu
 959|4|hu|Full Metal Panic? Fumoffu
 959|4|ro|Full Metal Panic? Fumoffu
-959|4|fr|Full Metal Panic? Fumoffu
+21|4|en|Full Moon
 21|3|x-jat|full moon
 21|4|fr|Full Moon
-21|4|en|Full Moon
 21|1|x-jat|Full Moon o Sagashite
 13478|1|x-jat|Full Moon o Sagashite: Kawaii Kawaii Daibouken
 8444|1|x-jat|Full Moon Party
@@ -12363,8 +12363,8 @@
 3550|1|x-jat|Fushigi Sekai Atagoul Monogatari
 87|4|fr|Fushigi Yûgi
 165|4|fr|Fushigi Yûgi - Eikoden
-87|4|de|Fushigi Yûgi - The Mysterious Play
 163|4|fr|Fushigi Yûgi - The Mysterious Play
+87|4|de|Fushigi Yûgi - The Mysterious Play
 164|4|fr|Fushigi Yûgi - The Mysterious Play - 2
 164|4|de|Fushigi Yûgi - The Mysterious Play - New OVA
 163|2|fr|Fushigi Yûgi OAV
@@ -12506,8 +12506,8 @@
 252|3|x-jat|G SEED
 8574|1|x-jat|G Senjou no Higeki
 3126|2|en|G Spot Express
-4736|4|bg|G-9
 4736|1|x-jat|G-9
+4736|4|bg|G-9
 7668|4|uk|G-Best
 7668|2|ja|G-Best G-taste
 3513|2|pt-BR|G-Force: Defensores do Espaço
@@ -12517,12 +12517,12 @@
 480|2|ja|G-onらいだーす♡
 3126|4|en|G-Spot Express
 511|4|ja|G-taste
+511|1|x-jat|G-taste
 511|4|de|G-taste
 511|4|fr|G-taste
 511|4|pl|G-Taste
-511|1|x-jat|G-taste
-7668|4|ja|G-taste (2010)
 7668|1|x-jat|G-taste (2010)
+7668|4|ja|G-taste (2010)
 4736|4|ja|G-九
 6574|3|x-jat|G.A.
 191|4|it|G.T.O. - Great Teacher Onizuka
@@ -12542,10 +12542,10 @@
 5119|4|en|Ga-Ra-Ku-Ta: Mr. Stain on Junk Alley
 6113|2|da|Ga-rei -Zero-
 6113|2|x-jat|Ga-Rei Zero
-6113|2|x-jat|Ga-Rei-Zero
 6113|4|en|Ga-Rei-Zero
-6113|1|x-jat|Ga-Rei: Zero
+6113|2|x-jat|Ga-Rei-Zero
 6113|4|cs|Ga-Rei: Zero
+6113|1|x-jat|Ga-Rei: Zero
 6574|1|x-jat|GA: Geijutsuka Art Design Class
 108|3|x-jat|ga1
 259|3|x-jat|GA2
@@ -12553,13 +12553,13 @@
 1761|3|x-jat|GA4
 2079|2|fr|Gabby et les petits malins - Les aventures de Malinplage
 2078|2|fr|Gabby et les petits malins - Les aventures de Malinville
-12290|4|en|Gabriel Dropout
 12290|4|fr|Gabriel Dropout
+12290|4|en|Gabriel Dropout
 12290|1|x-jat|Gabriel Dropout
-692|4|fr|Gad Guard
 692|1|x-jat|Gad Guard
 692|2|ko|GAD GUARD
 692|4|en|Gad Guard
+692|4|fr|Gad Guard
 5235|3|x-jat|gadegade
 692|2|x-jat|Gadguard
 11806|1|x-jat|Gaegujang-i Cheonsadeul
@@ -12816,12 +12816,12 @@
 939|1|x-jat|Ganso Bakuretsu Hunter
 939|2|x-jat|Ganso Bakuretsu Hunters
 5494|1|x-jat|Ganso Tensai Bakabon
-2400|4|en|Gantz
-2400|4|fr|Gantz
-2400|4|it|Gantz
+2400|1|x-jat|Gantz
 2400|4|de|Gantz
 2400|4|pt-BR|Gantz
-2400|1|x-jat|Gantz
+2400|4|en|Gantz
+2400|4|it|Gantz
+2400|4|fr|Gantz
 2400|2|x-jat|Gantz - First Stage
 2400|2|x-jat|Gantz - Second Stage
 2400|2|ja|GANTZ ~the 2nd stage~
@@ -12887,9 +12887,9 @@
 15416|1|x-jat|Garugaku. Sei Girls Square Gakuin
 9227|3|x-jat|garupan
 2330|4|fi|Garzey`s Wing
-240|4|fr|Gasaraki
-240|4|es-LA|Gasaraki
 240|4|en|Gasaraki
+240|4|es-LA|Gasaraki
+240|4|fr|Gasaraki
 240|1|x-jat|Gasaraki
 638|3|x-jat|Gash
 638|3|x-jat|Gash Bell
@@ -12898,23 +12898,23 @@
 1676|3|en|gash movie 1
 4927|1|x-jat|Gasshin Sentai Mechander Robo
 3346|1|x-jat|Gatapishi
-858|4|ja|GATCHAMAN
-858|2|fr|Gatchaman
 858|1|x-jat|Gatchaman
 3513|4|en|Gatchaman
+858|4|ja|GATCHAMAN
+858|2|fr|Gatchaman
 858|4|fr|Gatchaman - La bataille des planètes
 858|4|en|Gatchaman (1994)
 858|2|x-jat|Gatchaman 1994
 858|2|en|Gatchaman 94
 858|2|en|Gatchaman Collection
-9820|1|x-jat|Gatchaman Crowds
 9820|4|fr|Gatchaman Crowds
 9820|4|ja|GATCHAMAN Crowds
 9820|4|en|Gatchaman Crowds
-10226|1|x-jat|Gatchaman Crowds Insight
+9820|1|x-jat|Gatchaman Crowds
+10226|4|fr|Gatchaman Crowds Insight
 10226|4|ja|GATCHAMAN CROWDS insight
 10226|4|en|Gatchaman Crowds Insight
-10226|4|fr|Gatchaman Crowds Insight
+10226|1|x-jat|Gatchaman Crowds Insight
 1450|3|x-jat|Gatchaman F
 1450|2|x-jat|Gatchaman Fighter
 1449|3|x-jat|Gatchaman II
@@ -12922,15 +12922,15 @@
 1449|2|fr|Gatchaman, le combat des galaxies
 5434|4|en|Gatchaman: The Movie
 1449|2|es|Gatchman
-10982|4|en|Gate
 10982|4|de|Gate
+10982|4|en|Gate
 10982|4|fr|Gate : Au-delà de la porte
 11602|4|en|Gate (2016)
-91|4|fr|Gate Keepers
 91|1|x-jat|Gate Keepers
+91|4|fr|Gate Keepers
 91|4|en|Gate Keepers
-248|4|fr|Gate Keepers 21
 248|1|x-jat|Gate Keepers 21
+248|4|fr|Gate Keepers 21
 11602|2|en|Gate S2
 11602|4|fr|Gate Saison 2
 10982|4|zh-Hans|GATE 奇幻自卫队
@@ -12944,10 +12944,10 @@
 11602|2|en|Gate: Thus the JSDF Fought There, Season 2
 91|2|x-jat|Gatekeepers
 248|2|x-jat|Gatekeepers 21
-3321|2|es-LA|Gato Negro
 3321|2|es|Gato Negro
-3321|2|pt-BR|Gato Preto
+3321|2|es-LA|Gato Negro
 3321|2|pt|Gato Preto
+3321|2|pt-BR|Gato Preto
 783|3|x-jat|Gatsu
 8877|1|x-jat|Gattai Robot Atranger
 2963|2|x-jat|Gattsu
@@ -12966,8 +12966,8 @@
 2679|3|x-jat|GBS2
 453|3|x-jat|gbtv
 880|3|x-jat|gbtv2
-45|3|x-jat|gc
 8480|3|en|gc
+45|3|x-jat|gc
 1632|3|x-jat|GD
 13582|2|x-jat|gd Men
 479|3|x-jat|GDangaioh
@@ -15567,8 +15567,8 @@
 15502|1|x-jat|Hataraku Saibou Black
 14791|2|x-jat|Hataraku Saibou S2
 14791|1|x-jat|Hataraku Saibou!!
-8768|4|ja|HATE YOU
 8768|1|x-jat|Hate You
+8768|4|ja|HATE YOU
 13037|4|en|Hatena Illusion
 13037|1|x-jat|Hatena Illusion
 5533|4|en|Hatenkou Yugi
@@ -15666,8 +15666,8 @@
 7620|3|en|heartcatch movie
 7285|1|x-jat|Heartcatch Precure!
 7620|2|en|Heartcatch Precure! Movie: Fashion Show in The City of Flowers!?
-7285|2|it|Heartcatch Pretty Cure
 7285|2|en|Heartcatch Pretty Cure
+7285|2|it|Heartcatch Pretty Cure
 13324|1|x-jat|Heartful Maman The Animation
 1042|3|x-jat|Heartwork
 1042|4|en|Heartwork - Love Guns
@@ -15711,19 +15711,19 @@
 13428|1|x-zht|Heibai Wushang
 13444|1|x-jat|Heibai Wushang Di Er Ji
 426|4|is|Heiða í Ölpunum
-426|4|hu|Heidi
-426|4|es|Heidi
 426|4|tr|Heidi
+426|4|hu|Heidi
+426|4|pt|Heidi
+426|2|en|Heidi
+426|4|es|Heidi
 426|4|fr|Heidi
 426|4|de|Heidi
 426|4|ca|Heidi
-426|4|pt|Heidi
+426|4|ro|Heidi
 426|4|pt-BR|Heidi
 426|4|it|Heidi
 426|4|nl|Heidi
-426|2|en|Heidi
 426|4|pl|Heidi
-426|4|ro|Heidi
 7658|2|en|Heidi - A Summer in the Mountains
 7659|4|de|Heidi - Ein Sommer voller Glück
 7658|4|de|Heidi - Kindheit in den Bergen
@@ -60600,8 +60600,8 @@
 11526|4|zh-Hans|偶像活动Stars! 剧场版
 9457|4|zh-Hans|偷·窥·的·小·洞
 9903|4|zh-Hant|偽戀
-8658|4|zh-Hant|偽物語
 8658|4|ja|偽物語
+8658|4|zh-Hant|偽物語
 4108|4|ja|傀儡哀~瞳裸外伝~
 293|2|zh-Hans|傀儡师左近
 9757|4|ja|傘編
@@ -60663,8 +60663,8 @@
 15406|4|ja|優等生 綾香のウラオモテ
 2373|4|ja|優遇接待 孤島の極楽へようこそ
 10111|4|zh-Hans|元气囝仔
-9298|4|zh-Hant|元气少女缘结神
 9298|4|zh-Hans|元气少女缘结神
+9298|4|zh-Hant|元气少女缘结神
 8326|4|ja|元気!! 江古田ちゃん
 5816|4|ja|元気爆発ガンバルガー
 10763|4|zh-Hant|元氣少女緣結神◎
@@ -60859,8 +60859,8 @@
 9076|4|zh-Hans|军火女王 PERFECT ORDER
 9076|2|zh-Hans|军火女王2
 9801|4|zh-Hans|农林
-2639|4|zh-Hans|冤罪
 2639|4|ja|冤罪
+2639|4|zh-Hans|冤罪
 12724|4|ja|冥刻學園 受胎編
 1005|4|ja|冥王計画[プロジェクト]ゼオライマー
 1005|2|ja|冥王計画ゼオライマー
@@ -60944,8 +60944,8 @@
 15318|4|ja|刀使ノ巫女 刻みし一閃の燈火
 13172|4|zh-Hans|刀使的巫女
 12031|4|zh-Hant|刀剑乱舞-花丸-
-8692|4|zh-Hans|刀剑神域
 8692|4|zh|刀剑神域
+8692|4|zh-Hans|刀剑神域
 13493|4|zh-Hans|刀剑神域 Alicization篇
 14796|4|zh-Hans|刀剑神域 Alicization篇 War of Underworld
 10376|4|zh-Hans|刀剑神域 II
@@ -61266,8 +61266,8 @@
 14882|2|zh-Hans|功夫四侠2
 8499|4|zh|功夫料理娘
 6531|2|zh-Hans|加奈日记
-8691|4|zh-Hans|加速世界
 8691|4|zh-Hant|加速世界
+8691|4|zh-Hans|加速世界
 11680|4|zh|加速世界 INFINITE BURST
 12746|4|zh-Hans|动作女主 水果应援团
 6788|2|zh-Hans|动物侦探
@@ -61845,8 +61845,8 @@
 4018|4|ja|地獄先生ぬ~べ~ 午前0時ぬ~べ~死す!
 4019|4|ja|地獄先生ぬ~べ~ 恐怖の夏休み!! 妖しの海の伝説!
 7935|4|ja|地獄堂霊界通信
-3291|4|zh-Hant|地獄少女
 3291|4|ja|地獄少女
+3291|4|zh-Hant|地獄少女
 5850|4|zh-Hant|地獄少女 三鼎
 4638|4|zh-Hant|地獄少女 二籠
 12889|4|ja|地獄少女 宵伽
@@ -64762,8 +64762,8 @@
 6262|4|ja|東方二次創作同人アニメ 夢想夏郷
 8532|4|ja|東映ロボットガールズ
 14302|4|ja|松が枝を結び
-11213|4|zh-Hans|枕男子
 11213|4|ja|枕男子
+11213|4|zh-Hans|枕男子
 9890|4|zh-Hant|果然我的青春戀愛喜劇搞錯了 OAD
 9310|4|zh-Hant|果然我的青春戀愛喜劇搞錯了.
 14764|4|zh-Hant|果然我的青春戀愛喜劇搞錯了。完
@@ -65816,8 +65816,8 @@
 12119|4|zh|狐妖小红娘
 13198|2|zh|狐妖小红娘 (2017)
 13735|2|ja|狐狸の声
-13735|4|ja|狐狸之声
 13735|4|zh-Hans|狐狸之声
+13735|4|ja|狐狸之声
 9663|4|zh-Hans|狗与剪刀的正确用法
 10437|4|ja|狙われた女神天使エンゼルティアー ~守った人間達に裏切られて~
 14654|4|zh-Hans|狠西游
@@ -66749,8 +66749,8 @@
 12201|4|ja|終末のイゼッタ Izetta, Die Letzte Hexe
 15561|4|ja|終末のハーレム
 15932|4|ja|終末のワルキューレ
-11350|4|ja|終物語
 11350|4|zh-Hant|終物語
+11350|4|ja|終物語
 13033|4|ja|終物語 (2017)
 13033|4|zh-Hant|終物語 第二季
 14300|4|ja|終電後, カプセルホテルで, 上司に微熱伝わる夜.
@@ -67296,8 +67296,8 @@
 6212|2|zh-Hans|草莓棉花糖 再来一次
 4559|2|zh-Hans|草莓棉花糖ova
 4223|2|zh-Hans|草莓狂热
-12522|4|zh-Hans|草裙舞女孩
 12522|4|x-zht|草裙舞女孩
+12522|4|zh-Hans|草裙舞女孩
 14850|4|ja|荒くれ純一の涙
 14512|4|ja|荒ぶる季節の乙女どもよ.
 7238|4|ja|荒川アンダーザブリッジ
@@ -67961,8 +67961,8 @@
 15619|4|ja|迷宮ブラックカンパニー
 5503|2|zh-Hant|迷宮塔
 6018|2|zh-Hant|迷宮塔第二季
-11863|4|zh-Hans|迷家
 11863|4|zh-Hant|迷家
+11863|4|zh-Hans|迷家
 11863|4|ja|迷家[マヨイガ]
 25|2|zh-Hans|迷糊女战士
 8364|2|zh-Hans|迷糊快餐厅2
