@@ -1,4 +1,4 @@
-# created: Sat Jul 13 03:00:02 2024
+# created: Sun Jul 14 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -215,7 +215,6 @@
 15249|4|ja|○○交配
 10306|4|ja|☆ケロロ☆
 4726|2|x-other|❄
-18195|2|x-unk|$1,000,000,000,000 Game
 18736|1|x-jat|0 Saiju Start Dash Monogatari
 2195|4|ja|0[ゼロ]テスター
 2196|4|ja|0[ゼロ]テスター 地球を守れ!
@@ -249,6 +248,7 @@
 2196|2|ja|0テスター 地球を守れ!
 5121|4|ja|0戦はやと
 13813|2|en|1 Day Outside Pass Foreman
+18195|2|x-unk|1,000,000,000,000$ Game
 3978|1|x-jat|1+2=Paradise
 3978|4|ja|1+2=パラダイス
 2170|2|en|10 Chikan Association
@@ -3576,6 +3576,7 @@
 16615|1|x-jat|Atasha Kawashiri Kodama Da yo: Dangerous Lifehacker no Tadareta Seikatsu
 16122|1|x-jat|Atashi Dake wo Mite
 4719|1|x-jat|Atashi Tenshi Anata Akuma
+18633|2|x-jat|Atashin`chi NEXT
 325|1|x-jat|Atashinchi
 3608|2|en|Atashinchi Movie
 18633|1|x-jat|Atashinchi Next
@@ -3617,6 +3618,7 @@
 12148|3|x-jat|atomtb
 12526|3|x-jat|atoz
 8877|3|x-jat|atranger
+17635|2|en|Atri - My Dear Moments
 17635|4|ja|ATRI -My Dear Moments-
 17635|1|x-jat|Atri: My Dear Moments
 17635|4|en|Atri: My Dear Moments
@@ -17969,6 +17971,7 @@
 17505|2|en|Great Journey of Teenagers 2nd Season Special
 18348|2|en|Great Journey of Teenagers 3rd Season
 13627|2|en|Great King of the Grave: Secrets of the Qilin
+15937|4|en|Great King of the Tomb: Battle at Ghost Capital
 956|1|x-jat|Great Mazinger
 2223|4|fr|Great Mazinger - Les aventuriers de la galaxie
 2221|1|x-jat|Great Mazinger Tai Getter Robo
@@ -34470,6 +34473,7 @@
 101|4|en|Nazca
 101|4|fr|Nazca
 18133|1|x-jat|Naze Boku no Sekai o Dare mo Oboeteinai no ka?
+18133|2|x-jat|Naze Boku no Sekai wo Daremo Oboeteinai no ka
 12070|1|x-jat|Naze Ikiru: Rennyo Shounin to Yoshizaki Enjou
 8853|1|x-jat|Nazo no Kanojo X
 8995|1|x-jat|Nazo no Kanojo X: Nazo no Natsu Matsuri
@@ -47606,7 +47610,7 @@
 15707|4|ja|TALES OF CRESTORIA-咎我ヲ背負いて彼は発つ-
 15707|4|en|Tales of Crestoria: The Wake of Sin
 15707|1|x-jat|Tales of Crestoria: Toga o Seoite Kare wa Tatsu
-18383|2|en|Tales Of Dark River
+18383|4|en|Tales Of Dark River
 13191|4|en|Tales of Demons and Gods
 13868|2|en|Tales of Demons and Gods 2
 14473|2|en|Tales of Demons and Gods 3
