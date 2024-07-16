@@ -1,4 +1,4 @@
-# created: Sun Jul 14 03:00:01 2024
+# created: Mon Jul 15 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -215,7 +215,7 @@
 15249|4|ja|○○交配
 10306|4|ja|☆ケロロ☆
 4726|2|x-other|❄
-18736|1|x-jat|0 Saiju Start Dash Monogatari
+18736|1|x-jat|0-saiji Start Dash Monogatari
 2195|4|ja|0[ゼロ]テスター
 2196|4|ja|0[ゼロ]テスター 地球を守れ!
 11391|1|x-jat|00:08
@@ -3618,6 +3618,7 @@
 12148|3|x-jat|atomtb
 12526|3|x-jat|atoz
 8877|3|x-jat|atranger
+17635|3|x-jat|atri
 17635|2|en|Atri - My Dear Moments
 17635|4|ja|ATRI -My Dear Moments-
 17635|1|x-jat|Atri: My Dear Moments
@@ -4026,6 +4027,7 @@
 8441|1|x-kot|Badaui Jeonseol Jangbogo
 7842|2|en|Badtz-Maru in The Ants and the Grasshopper
 7827|2|en|Badtz-Maru in The Shepherd Boy and the Wolf
+8438|2|x-unk|Baeku
 9582|2|id|Bagaimanapun Juga, Aku Tidak Populer Karena Salah Kalian Semua!
 1856|4|en|Baggy
 6884|1|x-jat|Baghdad Hime
@@ -6883,6 +6885,7 @@
 16123|1|en|Candy.zip
 17597|1|x-zht|Cang Lan Jue
 18078|1|x-zht|Cang Yuan Tu
+18755|1|x-zht|Cang Yuan Tu: Dong Ning Fu Fanwai Pian
 13348|1|x-jat|Cannon Busters
 13348|4|ja|CANNON BUSTERS
 15722|4|es|Canta con una chispa de armonía
@@ -10111,7 +10114,7 @@
 9287|2|en|Demon King and Hero
 6968|4|en|Demon King Daimao
 6968|4|de|Demon King Daimao
-17943|2|en|Demon Lord 2099
+17943|4|en|Demon Lord 2099
 731|4|en|Demon Lord Dante
 731|4|pt-BR|Demon Lord Dante
 14391|4|en|Demon Lord, Retry!
@@ -19491,6 +19494,7 @@
 8358|1|x-jat|Hayabusa: Back to the Earth (2011)
 4564|2|tr|Hayalet Avı
 5127|2|tr|Hayalet Takibi
+8438|2|x-unk|Hayan Ma-eum Baeggu
 8438|1|x-kot|Hayan ma-eum Baekgu
 4917|3|x-jat|Hayate
 4917|2|fr|Hayate le majordome
@@ -23750,6 +23754,7 @@
 4041|1|x-jat|Juudou Bu Monogatari
 3110|1|x-jat|Juudou Sanka
 2367|1|x-jat|Juugo Shounen Hyouryuuki
+10225|2|x-unk|Juugo Shounen Hyouryuuki Kaizoku Jima DE! Daibouken
 10225|1|x-jat|Juugo Shounen Hyouryuuki Kaizokujima DE! Daibouken
 10225|2|x-jat|Juugo Shounen Hyouryuuki: Kaizokujima DE! Daibouken
 1869|1|x-jat|Juuichinin Iru!
@@ -31326,7 +31331,7 @@
 3051|2|x-jat|Mechadoc
 4274|1|x-jat|Mechakko Dotakon
 12467|2|en|Mechanical Arms
-17627|2|en|Mechanical Arms (2024)
+17627|4|en|Mechanical Arms (2024)
 4274|2|en|Mechanical Boy Dotakon
 3051|2|x-jat|Mechanical Doctor
 8878|2|en|Mechanized Fairies
@@ -33630,6 +33635,7 @@
 1489|4|en|My Dear Marie
 18534|4|en|My Deer Friend Nokotan
 13647|2|en|My Disciple Died Yet Again
+8438|2|x-unk|My Dog Bakgu
 6365|2|en|My Dread is School!
 16250|4|en|My Dress-Up Darling
 17630|2|en|My Dress-Up Darling (Sequel)
@@ -33807,6 +33813,7 @@
 17128|4|ja|My song
 17128|1|x-jat|My Song
 17449|2|en|My Star
+18086|2|en|My Star (2024)
 5078|4|en|My Steady Is a Witch
 16457|4|en|My Stepmom`s Daughter Is My Ex
 13613|4|en|My Sweet Tyrant
@@ -33883,7 +33890,7 @@
 4835|3|x-jat|na
 15426|1|x-kot|Na Bbeun Sang Sa
 17495|4|x-kot|Na Honjaman Rebereop
-18271|2|x-jat|Na Nare Hana Nare
+18271|1|x-jat|Na Nare Hana Nare
 3440|3|en|na2
 5623|3|x-jat|NAA
 5988|3|x-jat|NAA2
@@ -34092,7 +34099,6 @@
 8864|4|fr|Nanana`s Buried Treasure
 12514|1|x-jat|Nananin no Ayakashi: Chimi Chimi Mouryou!! Gendai Monogatari
 17326|1|x-jat|Nanaraki: Seven Lucky Gods
-18271|1|x-jat|Nanare Hananare
 4581|3|x-jat|Nanase Ren
 13599|1|x-jat|Nanatsu no Bitoku
 17030|1|x-jat|Nanatsu no Maken ga Shihai Suru
@@ -34475,6 +34481,7 @@
 18133|1|x-jat|Naze Boku no Sekai o Dare mo Oboeteinai no ka?
 18133|2|x-jat|Naze Boku no Sekai wo Daremo Oboeteinai no ka
 12070|1|x-jat|Naze Ikiru: Rennyo Shounin to Yoshizaki Enjou
+18133|3|x-jat|nazeboku
 8853|1|x-jat|Nazo no Kanojo X
 8995|1|x-jat|Nazo no Kanojo X: Nazo no Natsu Matsuri
 8853|3|x-jat|nazokano
@@ -35797,6 +35804,7 @@
 2237|2|pt|O Pirata do Espaço
 56|2|pt-BR|O Príncipe do Tênis
 3647|4|pt|O Principezinho
+13545|4|pt|O Rapaz e a Garça
 10967|4|pt|O Rapaz e o Monstro
 679|4|pt-BR|O Reino dos Gatos
 679|4|pt|O Reino Dos Gatos
@@ -39955,6 +39963,7 @@
 15906|4|en|Puraore! Pride of Orange
 8407|2|ja|Purasu Chikku Neesan
 18110|2|en|Pure Decamelon
+8438|2|x-unk|Pure Heart Baekgu
 9940|4|en|Pure Hearted Girl Et Cetera
 15855|2|en|Pure Heterosexual Intercourse That Transforms a Plain Girl
 1426|4|en|Pure Love
@@ -50082,6 +50091,7 @@
 17057|4|en|Theatre of Darkness: Yamishibai 10
 18020|4|en|Theatre of Darkness: Yamishibai 11
 18402|4|en|Theatre of Darkness: Yamishibai 12
+18754|4|en|Theatre of Darkness: Yamishibai 13
 10717|4|en|Theatre of Darkness: Yamishibai 2
 11748|4|en|Theatre of Darkness: Yamishibai 3
 12575|4|en|Theatre of Darkness: Yamishibai 4
@@ -52743,6 +52753,7 @@
 8158|3|x-jat|vc ova
 1351|4|cs|Včelka Mája
 1351|4|sk|Včielka Maja
+17828|3|x-jat|vden
 303|4|ro|Vecinul Meu Totoro
 721|3|x-jat|Vegan
 17059|1|x-jat|Vegetable
@@ -53670,6 +53681,8 @@
 15514|2|en|White Cat Legend
 17853|4|en|White Cat Legend 2
 583|2|en|White Cross
+8438|2|x-unk|White Dog with White Heart
+8438|2|x-unk|White Heart Baekgu
 1694|2|en|White Heron Inn
 3949|1|x-jat|White Reflection
 3949|4|ja|WHITE REFLECTION
@@ -54674,6 +54687,7 @@
 17057|1|x-jat|Yami Shibai 10
 18020|1|x-jat|Yami Shibai 11
 18402|1|x-jat|Yami Shibai 12
+18754|1|x-jat|Yami Shibai 13
 10717|1|x-jat|Yami Shibai 2
 11748|1|x-jat|Yami Shibai 3
 12575|1|x-jat|Yami Shibai 4
@@ -55836,9 +55850,11 @@
 12063|1|x-jat|Zekkyou Gakkyuu: Tensei
 4193|4|lt|Žemjūrės pasakos
 1868|4|pl|Zemsta hrabiego Monte Cristo
+18741|2|x-jat|Zen Chiteki na Dokusha no Shiten kara
 17715|4|en|Zen: Grogu and Dust Bunnies
 17715|1|x-jat|Zen: Grogu to Makkuro Kurosuke
 16489|1|x-jat|Zenbu Misemasu: Toshi Wasure Dragon Ball Z!
+18741|2|x-jat|Zenchi-teki na Dokusha no Shiten kara
 18741|1|x-jat|Zenchiteki na Dokusha no Shiten kara
 13373|1|x-jat|Zenchuu Maite
 2547|3|x-jat|Zendarman
@@ -81341,6 +81357,7 @@
 8143|4|zh-Hans|木橱童子
 18073|4|ja|未ル
 1972|4|ja|未亡人 ~ぬめり合う肉欲と淫らに濡れる蜜壺~
+9492|2|ja|未亡人日記 ～憧れのあの女(ひと)と一つ屋根の下～
 9492|4|ja|未亡人日記 THE ANIMATION ~憧れのあの女[ひと]と一つ屋根の下~
 15154|4|ja|未体験HORIZON
 8395|4|zh-Hant|未來日記
@@ -82285,6 +82302,7 @@
 14994|4|zh-Hans|没落要塞
 17488|4|zh-Hans|沦落者之夜
 18078|4|zh-Hans|沧元图
+18755|4|zh-Hans|沧元图 东宁府番外篇
 4303|4|ja|河原崎家の一族 The Animation
 1622|4|ja|河原崎家の一族2 THE ANIMATION
 1622|2|zh-Hans|河原崎家的一族2
@@ -86209,6 +86227,7 @@
 17557|4|zh-Hant|轉生成自動販賣機的我今天也在迷宮徘徊
 14201|4|zh-Hant|轉生成蜘蛛又怎樣
 17702|2|zh-Hant|轉生為第七王子，隨心所欲的魔法學習之路
+18026|4|zh-Hant|轉生貴族憑鑑定技能扭轉人生
 17552|2|zh-Hant|轉生貴族的異世界冒險錄～不知自重的眾神使徒～
 16030|2|zh-Hant|轉生賢者的異世界生活～取得第二職業，成為世界最強～
 14237|4|zh-Hans|轩辕剑
@@ -86225,6 +86244,7 @@
 17569|4|zh-Hans|转生王女与天才千金的魔法革命
 16030|2|zh-Hans|转生贤者的异世界生活～取得第二职业，成为世界最强～
 16030|4|zh-Hans|转生贤者的异世界生活～获得第二职业并成为世界最强～
+18026|4|zh-Hans|转生贵族凭鉴定技能扭转人生
 17552|4|zh-Hans|转生贵族的异世界冒险录 〜不知自重的众神使徒〜
 18164|4|zh-Hans|轮回7次的恶役千金，在前敌国享受随心所欲的新婚生活
 8583|4|zh-Hans|轮回的拉格朗日
@@ -86959,6 +86979,7 @@
 15134|4|zh-Hant|闇影詩章
 17074|4|ja|闇憑村/めるてぃーりみっと The Animation
 9964|4|ja|闇芝居
+18754|4|ja|闇芝居 (2024)
 17057|4|ja|闇芝居 10
 18020|4|ja|闇芝居 11
 18402|4|ja|闇芝居 12
@@ -86977,6 +86998,7 @@
 15879|2|ja|闇芝居 八期
 14088|2|ja|闇芝居 六期
 18020|2|ja|闇芝居 十一期
+18754|2|ja|闇芝居 十三期
 18402|2|ja|闇芝居 十二期
 17057|2|ja|闇芝居 十期
 12575|2|ja|闇芝居 四期
