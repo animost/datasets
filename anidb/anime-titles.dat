@@ -1,4 +1,4 @@
-# created: Mon Jul 15 03:00:02 2024
+# created: Tue Jul 16 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1725,6 +1725,7 @@
 634|2|en|AirMaster
 634|2|x-jat|Airmaster
 2002|3|x-jat|airtv
+833|2|x-jat|Airu Maniax
 10141|1|x-jat|Airy Me
 10141|4|ja|Airy Me
 7988|1|x-jat|Aisai Nikki
@@ -17460,6 +17461,7 @@
 16980|3|en|Goal to the Future
 10077|1|x-jat|Goannai Shimasu Another World e
 18572|1|x-jat|Gobaku
+18572|4|en|Gobaku Moe Mama Tsurezure
 10614|2|en|Goblin and Snow Hare
 17798|2|en|Goblin Den
 13831|2|tr|Goblin Katili (Goblin Slayer)
@@ -26998,6 +27000,7 @@
 11031|1|x-jat|Kyoufu Shinbun (2014)
 11546|1|x-jat|Kyoufu! Zombie Neko
 1001|1|x-jat|Kyougoku Natsuhiko: Kousetsu Hyaku Monogatari
+774|2|x-jat|Kyouhaku 2 ~Mou Hitotsu no Ashita~
 774|3|x-jat|Kyouhaku II
 774|1|x-jat|Kyouhaku Second: Mou Hitotsu no Ashita The Animation
 243|1|x-jat|Kyouhaku: Owaranai Ashita
@@ -34975,6 +34978,7 @@
 7278|3|en|Nightraid
 17336|2|en|Nights with a Cat
 17814|2|en|Nights with a Cat (2023)
+17814|2|en|Nights with a Cat 2
 18504|2|en|Nights with a Cat 3
 2606|2|en|Nightsong of Splendor
 737|4|en|NightWalker
@@ -42797,6 +42801,7 @@
 17287|3|x-jat|sasamiya movie
 17077|3|x-jat|sasamiya ova
 17530|3|x-jat|sasapi
+18563|3|x-jat|sasapi2
 17819|1|x-jat|Sasayaku You ni Koi o Utau
 17819|2|x-jat|Sasayaku You ni Koi wo Utau
 3466|1|x-jat|Sasuga no Sarutobi
@@ -44834,6 +44839,7 @@
 17658|1|x-jat|Shy
 17658|4|ja|SHY
 17658|4|en|Shy
+18329|4|de|Shy - Staffel 2
 17658|2|en|SHY (2023)
 18329|4|ja|SHY (2024)
 18329|4|en|Shy (2024)
@@ -46062,6 +46068,7 @@
 6465|2|en|Spice and Wolf II OVA
 6465|2|en|Spice and Wolf OVA
 17221|4|en|Spice and Wolf: Merchant Meets the Wise Wolf
+17221|4|de|Spice and Wolf: Merchant Meets the Wise Wolf
 6465|4|en|Spice and Wolf: Wolf and Amber Melancholy
 5406|2|en|spice&wolf
 5406|2|en|spice+wolf
@@ -49425,6 +49432,9 @@
 15695|2|en|The Mirror: Twin Cities
 1839|4|en|The Mischievous Twins
 1839|2|en|The Mischievous Twins: Story of Clare Academy
+15131|4|de|The Misfit of Demon King Academy
+16101|4|de|The Misfit of Demon King Academy II
+16102|4|de|The Misfit of Demon King Academy II Cour 2
 16101|4|id|The Misfit of Demon King Academy Ⅱ: Raja Iblis Terkuat dalam Sejarah Bereinkarnasi dan Bersekolah dengan Keturunannya
 15131|4|en|The Misfit of Demon King Academy: History`s Strongest Demon King Reincarnates and Goes to School with His Descendants
 16101|4|en|The Misfit of Demon King Academy: History`s Strongest Demon King Reincarnates and Goes to School with His Descendants II
@@ -49519,6 +49529,7 @@
 14091|4|en|The Orbital Children
 14091|4|pl|The Orbital Children
 17965|4|en|The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible
+17965|4|de|The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible
 15599|2|en|The Outcast 3
 16719|2|en|The Outcast 4
 17095|2|en|The Outcast 5
@@ -55056,6 +55067,7 @@
 12647|1|x-jat|Yoru wa Mijikashi Aruke yo Otome
 17336|1|x-jat|Yoru wa Neko to Issho
 17814|1|x-jat|Yoru wa Neko to Issho (2023)
+17814|2|x-jat|Yoru wa Neko to Issho 2
 18504|1|x-jat|Yoru wa Neko to Issho 3
 17938|3|x-jat|Yorukura
 12647|3|x-jat|yorumi
@@ -74962,6 +74974,8 @@
 15081|4|ja|低燃費少女ハイジ
 889|4|ja|住めば都のコスモス荘 すっとこ大戦ドッコイダー
 9625|4|zh-Hans|住宅区友夫
+17530|2|ja|佐々木とPちゃん
+18563|2|ja|佐々木とPちゃん Season 2
 17530|4|ja|佐々木とピーちゃん
 18563|4|ja|佐々木とピーちゃん Season 2
 15865|4|ja|佐々木と宮野
@@ -77823,9 +77837,12 @@
 17001|4|zh-Hant|夫婦以上，戀人未滿
 10372|4|ja|失われた未来を求めて
 18145|2|zh-Hans|失忆投捕
+15765|2|zh-Hans|失忆投捕OAD
 12087|4|zh-Hans|失忆煽动WIXOSS
 9358|4|zh-Hans|失忆症
 12686|4|zh-Hans|失忆融合WIXOSS
+15765|4|zh-Hant|失憶投捕
+18145|4|zh-Hant|失憶投捕（2024）
 1988|4|ja|失格医師
 16029|4|ja|失格紋の最強賢者
 16029|2|zh-Hant|失格紋的最強賢者
@@ -78797,6 +78814,7 @@
 15466|4|zh-Hans|少年歌行
 18383|4|zh-Hans|少年歌行 暗河传
 18348|4|zh-Hans|少年歌行 海外仙山篇
+18348|2|zh-Hans|少年歌行 第三季
 16636|2|zh-Hans|少年歌行 第二季 上部
 16636|4|zh-Hans|少年歌行 风花雪月篇
 17032|4|zh-Hans|少年歌行 风花雪月篇 (2022)
@@ -79008,6 +79026,7 @@
 17317|4|zh-Hans|带着智能手机闯荡异世界。 第二季
 11112|4|ja|師匠シリーズ
 1405|4|ja|帰ってきたコートの中の天使達
+1405|2|ja|帰ってきたコートの天使達
 2692|4|ja|帰ってきたドラえもん
 11587|4|ja|帰ってきてよぉ富山から
 9857|4|ja|帰宅部活動記録
@@ -82245,6 +82264,7 @@
 389|4|zh-Hans|永恒传说
 17161|4|zh-Hans|永生
 18595|4|zh-Hans|永生 气壮山河
+18595|2|zh-Hans|永生 第三季
 18122|2|zh-Hans|永生 第二季
 18122|4|zh-Hans|永生之十年之约
 4897|4|zh-Hans|永生之酒
@@ -82485,6 +82505,7 @@
 2519|4|ja|淫獄病棟
 1433|4|ja|淫獣 ねらわれたアイドル
 1131|4|ja|淫獣 ねらわれた花嫁
+1433|2|ja|淫獣 狙われたアイドル
 1200|4|ja|淫獣VS女スパイ
 861|4|ja|淫獣エイリアン
 1201|4|ja|淫獣大決戦
@@ -85057,6 +85078,7 @@
 17423|2|zh-Hant|能幹貓今天也憂鬱
 14349|4|zh-Hans|能继续奔跑下去真是太好了。
 243|4|ja|脅迫~終わらない明日~
+774|2|ja|脅迫2 ～もうひとつの明日～
 774|3|ja|脅迫II
 774|4|ja|脅迫II[セカンド] ~もうひとつの明日~ THE ANIMATION
 9477|4|ja|脱出ガッシャポン
