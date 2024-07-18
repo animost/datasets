@@ -1,4 +1,4 @@
-# created: Tue Jul 16 03:00:02 2024
+# created: Wed Jul 17 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1633,6 +1633,8 @@
 15249|2|fr|Aide au jumelage
 13755|3|x-jat|aifriends
 14407|1|x-jat|Aigan Kaijuu
+14807|2|x-jat|Aihime
+14807|2|x-jat|Aihime Megohime
 280|4|fr|AIKa
 280|1|x-jat|Aika
 280|4|it|Aika
@@ -4042,6 +4044,7 @@
 11223|4|sv|BAHAMUTS VREDE – JUNGFRUSJÄL
 13451|1|x-zht|Bai Bian Zhu Zhu Xia
 13803|1|x-zht|Bai Dao
+18759|1|x-zht|Bai Fa Shen La
 14833|1|x-zht|Bai Ge Dao
 14853|1|x-jat|Bai Gui Youeryuan
 14872|1|x-zht|Bai Gui Youeryuan Di 2 Ji
@@ -6396,6 +6399,8 @@
 2391|3|x-jat|BtVB
 945|3|x-jat|btx
 2624|3|en|btx neo
+18757|1|x-zht|Bu Bai Chi Gu Shici Man Youji
+18758|1|x-zht|Bu Bai Chi Gu Shici Man Youji Di Er Ji
 17138|1|x-zht|Bu Bai Chi Hua Shanhai Jing
 7674|2|tr|Bu Bir Zombi Mi?
 13871|2|tr|Bu Kez Şlam Olarak Yeniden Dünyaya Geldim
@@ -26289,6 +26294,7 @@
 9403|3|x-jat|konodan s2
 10731|3|x-jat|konodan s3
 11792|3|x-jat|konodan s4
+17936|2|x-jat|KonoFuka
 13122|1|x-jat|Konohakaseki no Natsu
 13030|3|x-jat|konohana
 13030|1|x-jat|Konohana Kitan
@@ -31451,6 +31457,7 @@
 3545|2|ja|MEGAZONE23 III
 3545|4|ja|MEGAZONE23III
 14937|1|x-jat|Megido 72: Nagakisen Tabi no Katawara de
+14807|2|x-jat|Mego-hime
 14807|1|x-jat|Megohime
 5845|1|x-jat|Megumi
 17771|2|x-jat|Megumi no Daigo - Kyuukoku no Orange
@@ -35294,6 +35301,7 @@
 10645|1|x-jat|No Littering
 10645|4|ja|NO LITTERING
 17507|4|en|No Longer Allowed In Another World
+17507|4|de|No Longer Allowed in Another World
 7056|2|en|No Longer Human
 7189|2|en|No Longer Human: Director`s Cut Edition
 17507|2|en|No Longer Human...In Another World
@@ -37175,6 +37183,7 @@
 18587|1|x-jat|OVA Boku ni Harem Sexfriend ga Dekita Riyuu
 13769|2|en|OVA Complete Slut See their true colors Russian Step-Mother and Step-Sisters All you can have Sex
 18666|1|x-jat|OVA Imaria
+18756|1|x-jat|OVA Incha Couple ga You Gal-tachi to Sex Training Suru Hanashi
 18525|1|x-jat|OVA Kyonyuu Onna Shikan Sennou Saimin
 18494|1|x-jat|OVA Midareuchi
 13769|1|x-jat|OVA Muttsuri Do Sukebe Ro Gibo Shimai no Honshitsu Minuite Sex Zanmai
@@ -37199,6 +37208,7 @@
 18587|4|ja|OVA 僕にハーレムセフレが出来た理由
 18525|4|ja|OVA 巨乳女士官洗脳催眠
 11268|4|ja|OVA 東京喰種[トーキョーグール]
+18756|4|ja|OVA 陰キャカップルが陽ギャル達とSEXトレーニングする話
 1518|4|he|OVA1 פאטלייבור
 1195|4|he|OVA2 פאטלייבור
 3044|1|x-jat|Oval x Over
@@ -49387,6 +49397,7 @@
 15237|4|en|The Magic Paintbrush
 6893|2|en|The Magic Pen
 18282|4|en|The Magical Girl and the Evil Lieutenant Used to Be Archenemies
+18282|4|de|The Magical Girl and the Evil Lieutenant Used to Be Archenemies
 17569|4|en|The Magical Revolution of the Reincarnated Princess and the Genius Young Lady
 13124|2|en|The Magikarp Song
 14392|4|en|The Magnificent Kotobuki
@@ -53626,6 +53637,7 @@
 1063|3|x-jat|WFMdP
 8493|3|en|wga
 532|4|it|What a mess Slump e Arale
+18744|2|en|What A Scandal
 17337|2|en|What God Does in a World Without Gods
 8027|2|en|What if a Female Manager of a High School Baseball Team Read Drucker`s `Management`?
 8503|2|en|What Is Happiness?
@@ -73212,6 +73224,7 @@
 14937|4|ja|メギド72 長き戦旅の傍らで
 5845|4|ja|めぐみ
 7348|4|ja|めぐり逢う世界
+14807|5|ja|めごひめ
 4322|4|ja|めざめの方舟
 14089|4|ja|めしぬま.
 2168|4|ja|メジャー
@@ -74391,6 +74404,8 @@
 17904|4|ja|不滅のあなたへ Season3
 18503|4|zh-Hans|不灭神王
 17328|4|zh-Hant|不當哥哥了！
+18757|4|zh-Hans|不白吃古诗词漫游记
+18758|4|zh-Hant|不白吃古诗词漫游记 第二季
 17138|4|zh-Hans|不白吃话山海经
 16538|4|zh-Hans|不相信人类的冒险者们好像要去拯救世界
 15297|4|zh-Hant|不管養狗或是貓每天都很有趣
@@ -83695,6 +83710,7 @@
 2521|4|ja|白き天使達の輪舞
 8211|4|zh-Hans|白兔糖
 8211|4|zh-Hant|白兔糖
+18759|4|zh-Hans|白发沈辣
 17461|4|zh-Hans|白圣女与黑牧师
 14028|4|zh-Hans|白夜玲珑
 6385|4|ja|白旗の少女 琉子
