@@ -1,4 +1,4 @@
-# created: Wed Jul 17 03:00:02 2024
+# created: Thu Jul 18 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -17388,7 +17388,7 @@
 1168|1|x-jat|Gloria: Kindan no Ketsuzoku
 1168|2|en|Gloria: Private Lessons
 6183|2|en|Glorious Manga Tale of Old Edo
-18380|2|en|Glorious Revenge of Ye Feng
+18380|4|en|Glorious Revenge of Ye Feng
 18489|2|en|Glorious Revenge of Ye Feng 2
 104|4|pl|Głosy z odległej gwiazdy
 17564|4|fr|Gloutons et Dragons
@@ -24831,6 +24831,7 @@
 11216|1|x-jat|Kengan Ashura
 15110|1|x-jat|Kengan Ashura (2019)
 17274|1|x-jat|Kengan Ashura (2023)
+18762|1|x-jat|Kengan Ashura (2024)
 11216|3|x-jat|kenganashura
 15110|3|x-jat|kenganashura s2
 17274|3|x-jat|kenganashura s3
@@ -40515,9 +40516,9 @@
 367|4|pt-BR|Ranma 1/2 - Grande confusão em Nekonron, China
 193|4|en|Ranma 1/2 (1989)
 405|1|x-jat|Ranma 1/2 (1993)
+18700|1|x-jat|Ranma 1/2 (2024)
 18700|2|en|Ranma 1/2 (Completely New Anime)
 193|4|pt|Ranma 1/2 (Continuação)
-18700|1|x-jat|Ranma 1/2 (Kanzen Shinsaku Anime)
 193|4|fr|Ranma 1/2 (suite)
 4576|4|de|Ranma 1/2 (Teil 1)
 193|4|de|Ranma 1/2 (Teil 2)
@@ -44531,6 +44532,7 @@
 10779|4|de|Shirobako
 14061|4|en|Shirobako the Movie
 10550|1|x-jat|Shirogane no Ishi: Argevollen
+18760|1|x-jat|Shiroi Buta Kizoku Desu ga Zense no Kioku ga Haeta no de Hiyoko na Otouto Sodatemasu
 2360|1|x-jat|Shiroi Kiba: White Fang Monogatari
 12639|1|x-jat|Shiroi Michi
 15987|1|x-jat|Shiroi Suna no Aquatope
@@ -47422,6 +47424,8 @@
 18227|4|pl|T・P Bon
 18227|2|en|T・P BON
 18227|4|ja|T・Pぼん
+18761|4|ja|T・Pぼん 2nd Season
+18761|1|en|T.P BON Season 2
 7904|1|x-jat|T.P. Sakura: Time Paladin Sakura
 7904|2|ja|T.P.さくら ~タイムパラディンさくら~
 7904|4|ja|T.P.さくら 時空樹防衛戦
@@ -47884,6 +47888,7 @@
 11054|2|en|Tasty 2: Happy Together
 14343|1|x-jat|Tasukeai no Rekishi: Seimei Hoken no Hajimari
 18453|4|en|Tasuketsu: Fate of the Majority
+18453|4|de|Tasuketsu: Fate of the Majority
 18453|1|x-jat|Tasuu Ketsu
 15864|1|x-jat|Tasuu Ketsu: Judgement Assizes
 18453|2|en|Tasuuketsu
@@ -48379,7 +48384,7 @@
 17118|4|en|Teppen!!!!!!!!!!!!!!! Laughing `Til You Cry
 9634|2|x-kot|Tera
 12717|1|x-jat|Terajima-chou Kidan: Ginnagashi
-18275|1|en|Terminator: The Anime Series
+18275|1|en|Terminator Zero
 18071|4|pt|Terra de Alma Ⅱ: O Inigualável Clã Tang
 1416|1|x-jat|Terra e...
 5039|1|x-jat|Terra e... (2007)
@@ -68607,6 +68612,7 @@
 12748|4|ja|ケンカのあとは
 11216|4|ja|ケンガンアシュラ
 17274|4|ja|ケンガンアシュラ (2023)
+18762|4|ja|ケンガンアシュラ (20243)
 15110|4|ja|ケンガンアシュラ パート2
 10170|4|ja|げんきげんきノンタン
 10171|4|ja|げんきげんきノンタン (2004)
@@ -73692,7 +73698,7 @@
 367|4|ja|らんま 1/2 中国寝崑崙大決戦! 掟やぶりの激闘編!!
 4576|4|ja|らんま1/2
 405|4|ja|らんま1/2 (1993)
-18700|4|ja|らんま1/2 (完全新作アニメ)
+18700|4|ja|らんま1/2 (2024)
 2995|2|ja|らんま1/2 SPECIAL よみがえる記憶
 2996|4|ja|らんま1/2 SUPER
 2995|4|ja|らんま1/2 スペシャル
@@ -83735,6 +83741,7 @@
 14876|4|ja|白蛇：縁起
 16646|4|zh-Hans|白蛇Ⅱ: 青蛇劫起
 1861|4|ja|白蛇伝
+18760|4|ja|白豚貴族ですが前世の記憶が生えたので ひよこな弟育てます
 14540|4|zh-Hant|白貓 Project Zero Chronicle 零之紀元
 15936|4|zh-Hans|白金终局
 10550|4|ja|白銀の意思 アルジェヴォルン
