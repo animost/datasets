@@ -1,4 +1,4 @@
-# created: Fri Jul 19 03:00:01 2024
+# created: Sat Jul 20 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -146,6 +146,8 @@
 667|2|x-jat|[El]
 667|2|ja|[él]
 3531|2|ja|[etʃiːz]
+17449|2|en|[Oshi No Ko]
+18086|2|en|[Oshi No Ko] (2024)
 9977|3|x-jat|[UBW] 2014
 10760|3|x-jat|[UBW] 2015
 17449|4|th|[เกิดใหม่เป็นลูกโอชิ]
@@ -3967,6 +3969,8 @@
 7081|1|x-jat|Baboo Factory
 8637|4|ja|BaBuKa
 8637|1|x-jat|Babuka
+8637|2|x-jat|BaBuKa -Gokudou no Tsuma-
+8637|2|ja|BaBuKa -極道の妻-
 1419|2|en|Baby and Me
 3635|1|x-jat|Baby Baa-chan
 4616|2|en|Baby Dinosaur Dooly
@@ -6896,9 +6900,9 @@
 16123|1|en|Candy.zip
 17597|1|x-zht|Cang Lan Jue
 18078|1|x-zht|Cang Yuan Tu
-18764|1|x-zht|Cang Yuan Tu (2024)
+18764|2|x-zht|Cang Yuan Tu (2024)
 18764|2|x-zht|Cang Yuan Tu 2
-18755|1|x-zht|Cang Yuan Tu: Dong Ning Fu Fanwai Pian
+18764|1|x-zht|Cang Yuan Tu: Dongning Fu Fanwai Pian
 13348|1|x-jat|Cannon Busters
 13348|4|ja|CANNON BUSTERS
 15722|4|es|Canta con una chispa de armonía
@@ -7578,6 +7582,7 @@
 6452|2|x-jat|Chi`s Sweet Home: Atarashii O`uchi
 6452|2|x-jat|Chi`s Sweet Home: Atarashii Ouchi
 6452|2|en|Chi`s Sweet Home: New Address
+18500|4|en|Chi`s Sweet: Summer Vacation
 6452|3|x-jat|Chi2
 10143|2|x-jat|Chiaki Kuriyama: 「0」
 12255|1|x-jat|Chiba Pedal: Yowamushi Pedal to Manabu Jitensha Koutsuuanzen
@@ -25487,6 +25492,7 @@
 7319|4|de|King of Boobs
 7319|4|en|King of Breasts
 7319|2|en|King of Breasts 48: Don`t Think About Anything, Just Suck All the Breasts in Front of You!
+18585|2|en|King of Casual Cultivators
 4697|2|en|King of Classroom, Yamazaki
 3564|2|en|King of Fighters
 593|2|en|King of Games!
@@ -34488,10 +34494,10 @@
 4265|2|en|Naval Fleet of Glass
 2467|4|es|Nave Anti-Espacial
 235|4|pt|Navegante da Lua
-2539|4|pt|Navegante da Lua R
-2538|4|pt|Navegante da Lua S
-2540|4|pt|Navegante da Lua SuperS
-2542|4|pt|Navegante da Lua: Sailor Stars
+2539|2|pt|Navegante da Lua R
+2538|2|pt|Navegante da Lua S
+2540|2|pt|Navegante da Lua SuperS
+2542|2|pt|Navegante da Lua: Sailor Stars
 3695|1|x-jat|Navia Dratp
 8294|4|cs|Návrat Sépijky!
 4356|1|x-jat|Nayuta
@@ -40234,6 +40240,7 @@
 2222|4|it|Questo è un UFO! I dischi volanti
 15835|1|x-zht|Qui Shui Yiyun
 13363|4|es|Quiero comerme tu páncreas
+11904|4|es|Quiero ser seiyu
 2571|2|es|Quiltion
 1526|4|pl|Quintasan strikes back!
 3159|4|pt|Quintento de Gémeos
@@ -43479,6 +43486,8 @@
 6244|1|x-jat|Senjou no Valkyria: Valkyria Chronicles
 13960|1|x-jat|Senjuushi
 14411|1|x-jat|Senjuushi: Kijuushi-tachi no Happy Birthday!
+13960|2|x-unk|Senjyushi
+14411|2|x-unk|Senjyushi OVA
 963|1|x-jat|Senkaiden Houshin Engi
 8709|1|x-jat|Senki Zesshou Symphogear
 11955|1|x-jat|Senki Zesshou Symphogear AXZ
@@ -48841,6 +48850,8 @@
 15702|4|en|The Demon Girl Next Door 2
 18078|2|en|The Demon Hunter
 18764|4|en|The Demon Hunter (2024)
+18764|2|en|The Demon Hunter 2
+18764|2|en|The Demon Hunter SP
 18764|2|en|The Demon Hunter: Dongning Mansion Special
 18119|4|en|The Demon Prince of Momochi House
 16921|4|en|The Demon Sword Master of Excalibur Academy
@@ -49300,6 +49311,7 @@
 9322|2|en|The King of Pigs
 5223|2|en|The King of Shion
 18533|2|en|The King of Ten Thousand Domain
+18585|2|en|The King of Wandering Cultivators
 12560|4|en|The King`s Avatar
 13950|2|en|The King`s Avatar - Specials
 14978|2|en|The King`s Avatar (2019)
@@ -55468,6 +55480,7 @@
 1047|1|x-jat|Yu-No
 1047|4|ja|YU-NO
 12693|4|en|Yu-No: A Girl Who Chants Love at the Bound of This World
+17062|2|en|Yu☆Gi☆Oh! Go Rush!!
 438|3|en|YUA
 5234|3|en|YUA 3
 5234|3|en|YUA FT
@@ -81482,6 +81495,7 @@
 15293|2|ja|本好きの下剋上 司書になるためには手段を選んでいられません 第二部
 18302|4|ja|本好きの下剋上 司書になるためには手段を選んでいられません 領主の養女
 9941|4|ja|本当にあった
+9941|2|ja|本当にあった 女子○生 いけない秘密のアルバイト 明日香
 9941|2|ja|本当にあった人妻不倫告白 本村陶子の場合
 4007|2|ja|本気!
 4007|4|ja|本気(マジ)!
@@ -82373,8 +82387,8 @@
 14994|4|zh-Hans|没落要塞
 17488|4|zh-Hans|沦落者之夜
 18078|4|zh-Hans|沧元图
-18764|4|zh-Hans|沧元图 (2024)
-18755|4|zh-Hans|沧元图 东宁府番外篇
+18764|2|zh-Hans|沧元图 (2024)
+18764|4|zh-Hans|沧元图 东宁府番外篇
 18764|2|zh-Hans|沧元图2
 4303|4|ja|河原崎家の一族 The Animation
 1622|4|ja|河原崎家の一族2 THE ANIMATION
