@@ -1,4 +1,4 @@
-# created: Sat Jul 20 03:00:02 2024
+# created: Sun Jul 21 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3109,6 +3109,8 @@
 14282|1|x-jat|Ari to Kirigirisu
 11412|1|x-jat|Ari-chan
 2659|3|x-jat|Aria
+4243|4|es-419|Aria - The Natural
+4243|4|pt-BR|Aria - The Natural
 5424|2|it|Aria - The Origination
 4243|3|x-jat|Aria 2
 11059|3|x-jat|Aria 2015
@@ -3629,6 +3631,7 @@
 17635|3|x-jat|atri
 17635|2|en|Atri - My Dear Moments
 17635|4|ja|ATRI -My Dear Moments-
+17635|4|de|ATRI -My Dear Moments-
 17635|1|x-jat|Atri: My Dear Moments
 17635|4|en|Atri: My Dear Moments
 570|4|pt-BR|Atriz Milenar
@@ -3683,6 +3686,7 @@
 8094|1|x-jat|Attraction
 8094|4|en|Attraction
 8094|4|fr|Attraction
+18468|2|en|Attribute Collection
 12528|2|fr|Attributs & jeunesse étudiante à votre service !
 9007|4|en|Au Fou!
 15141|2|fr|Au palais des courtisanes mystiques
@@ -21570,6 +21574,7 @@
 18266|2|en|I Parry Everything: What Do You Mean I`m the Strongest? I`m Not Even an Adventurer Yet!
 18266|4|en|I Parry Everything!
 18468|2|en|I Picked Up An Attribute
+18468|2|en|I Picked Up An Attribute Collection
 2548|4|it|I predatori del tempo
 4193|4|it|I Racconti di Terramare
 14449|2|en|I Reincarnated into an Otome Game as a Villainess With Only Destruction Flags...
@@ -35960,6 +35965,7 @@
 9721|1|x-jat|Odoriko Clinoppe
 555|2|x-jat|Odorobou Jing
 14367|1|x-jat|Odoroki Ban
+18766|1|x-jat|Odoru Mowai-kun
 6801|1|x-jat|Odoru Pokemon Himitsu Kichi
 15457|4|pl|Odrodzony jako galareta
 8857|2|pl|Odwrócona Patema
@@ -47450,8 +47456,6 @@
 18227|4|pl|T・P Bon
 18227|2|en|T・P BON
 18227|4|ja|T・Pぼん
-18761|4|ja|T・Pぼん 2nd Season
-18761|1|en|T.P BON Season 2
 7904|1|x-jat|T.P. Sakura: Time Paladin Sakura
 7904|2|ja|T.P.さくら ~タイムパラディンさくら~
 7904|4|ja|T.P.さくら 時空樹防衛戦
@@ -50132,7 +50136,7 @@
 16537|4|en|The Wrong Way to Use Healing Magic
 16611|4|en|The Yakuza`s Guide to Babysitting
 3664|2|en|The Yearling
-17058|2|en|The Young Brewmaster’s Adventure
+17058|4|en|The Young Brewmaster`s Adventure
 18765|2|en|The Young Brewmaster`s Adventure 2nd Season
 13722|2|en|The Young Imperial Guards
 13820|2|en|The Young Imperial Guards 2
@@ -54807,6 +54811,7 @@
 15670|1|x-zht|Yao Shen Ji: Hei Yu Pian
 14473|2|x-zht|Yao Shen Ji: Ying Yao Pian
 16882|1|x-zht|Yao Wen Lu
+17885|4|en|Yao-Chinese Folktales
 12778|1|x-zht|Yaoguai Mingdan
 14078|1|x-jat|Yaoguai Mingdan 2nd Season
 3956|2|x-unk|Yap! Bun Bun
@@ -67547,6 +67552,7 @@
 7512|4|ja|おとめ妖怪 ざくろ
 7512|2|ja|おとめ妖怪ざくろ
 6801|4|ja|おどるポケモンひみつ基地
+18766|4|ja|おどるモワイくん
 8241|4|ja|オナ×2
 12591|4|ja|オナカの大きな王子さま
 14554|4|ja|おなか姫
@@ -81763,6 +81769,7 @@
 4696|4|ja|格闘料理伝説ビストロレシピ
 3953|4|ja|格闘美神 武龍
 4406|4|ja|格闘美神 武龍[ウーロン] REBIRTH
+18490|4|zh-Hant|格鬥實況
 13765|4|zh|桂宝之爆笑闯宇宙
 10403|4|zh-Hans|桃剑
 4971|4|zh-Hans|桃华月惮
