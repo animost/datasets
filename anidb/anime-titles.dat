@@ -1,4 +1,4 @@
-# created: Sun Jul 21 03:00:01 2024
+# created: Mon Jul 22 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -11381,6 +11381,7 @@
 7096|1|x-jat|Don: Gokudou Suikoden
 15859|2|en|Don`t Be A Hero
 15730|4|en|Don`t Call Us a Junk Game!
+18748|2|en|Don`t Give Up!
 16249|4|en|Don`t Hurt Me, My Healer!
 2022|4|en|Don`t Leave Me Alone, Daisy
 2719|4|en|Don`t Lose, Makendo
@@ -11405,7 +11406,6 @@
 14443|1|x-jat|Donguri to Yamaneko (1995)
 5094|1|x-jat|Donkikko
 12586|1|x-jat|Donna Donna
-18748|2|x-unk|Dont Give Up!
 10020|3|x-jat|donten
 12968|3|x-jat|donten gaiden
 10020|1|x-jat|Donten ni Warau
@@ -19571,6 +19571,7 @@
 2621|2|en|He`s My Master
 11439|1|x-jat|Head Spoon
 18736|4|en|HEAD START AT BIRTH
+18768|2|en|Headhunted to Another World: From Salaryman to Big Four!
 16286|4|en|Healer Girl
 16286|1|x-jat|Healer Girl
 15231|4|zh-Hans|Healin` Good ♥ 光之美少女
@@ -19740,6 +19741,7 @@
 17231|1|x-jat|Hell People!
 6294|4|ja|HELL TARGET
 6294|1|x-jat|Hell Target
+18767|2|en|Hell Teacher
 2100|2|en|Hell Teacher Nube
 2101|2|en|Hell Teacher Nube (1996)
 4017|4|en|Hell Teacher Nube OVA
@@ -21440,7 +21442,6 @@
 1249|2|x-jat|HYD Movie
 387|2|x-jat|HYD TV
 9015|3|x-jat|hyna
-6117|2|en|HynoLove 2
 13741|2|fr|Hynoplove : rencards étudiants
 6741|2|en|Hyoei and Heibei`s Tengu Hunt
 8855|2|x-jat|Hyoka
@@ -21483,6 +21484,7 @@
 15289|3|en|HypMic
 17950|3|x-jat|HypMic s2
 5982|4|en|HypnoLove
+6117|2|en|HypnoLove 2
 13356|2|fr|Hypnose extra-familiale
 6117|4|de|Hypnosis
 13741|2|en|Hypnosis Academy
@@ -23074,7 +23076,9 @@
 1911|4|it|Jeeg robot d`acciaio
 199|4|pl|Jego i Jej Okoliczności
 17938|4|en|Jellyfish Can`t Swim in the Night
+11020|2|en|Jellyfish Diner
 7531|2|en|Jellyfish Princess
+11020|2|en|Jellyfish Restaurant
 1390|4|pl|Jenny Jenny
 1072|4|it|Jenny la tennista
 9598|1|x-kot|Jeonjaingan 337
@@ -23182,6 +23186,7 @@
 2100|1|x-jat|Jigoku Sensei Nube
 2101|1|x-jat|Jigoku Sensei Nube (1996)
 4017|1|x-jat|Jigoku Sensei Nube (1998)
+18767|1|x-jat|Jigoku Sensei Nube (2025)
 4019|2|x-jat|Jigoku Sensei Nube MOVIE (1997 Summer)
 4018|1|x-jat|Jigoku Sensei Nube: Gozen 0 Ji Nube Shisu!
 4019|2|x-jat|Jigoku Sensei Nube: Kyofu no Natsu Yasumi!! Ayakashi no Umi no Densetsu!
@@ -28758,7 +28763,7 @@
 6143|2|es-419|Los Super Once
 6143|2|es|Los Super Once
 6470|3|x-jat|loscan
-18483|2|en|Losing Money to Be a Tycoon
+18483|4|en|Losing Money to Be a Tycoon
 6|2|en|Lost Chapter of the Stars
 13408|1|x-jat|Lost Forest
 13408|4|ja|LOST FOREST
@@ -42495,6 +42500,7 @@
 4134|4|fr|Salamander
 13195|1|x-kot|Salaoreum: Cheonnyeonui Donghaeng
 266|4|fi|Salapoliisi Conan
+18768|1|x-jat|Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi
 850|2|x-jat|Salaryman Kintaro
 850|1|x-jat|Salaryman Kintarou
 16920|4|en|Salaryman`s Club
@@ -49653,7 +49659,7 @@
 14051|4|fr|The Promised Neverland
 14801|4|en|The Promised Neverland (2021)
 14801|2|en|The Promised Neverland 2
-18398|2|en|The Proud Emperor of Eternity
+18398|4|en|The Proud Emperor of Eternity
 11978|2|en|The Proud General
 4409|2|en|The Psammead
 1928|2|en|The Pumpkin Wine
@@ -68316,6 +68322,7 @@
 2088|3|ja|きん注
 1930|4|ja|キン肉マン
 2133|4|ja|キン肉マン (1984)
+2131|2|x-unk|キン肉マン second generations
 2308|4|ja|キン肉マン ニューヨーク危機一髪!
 2283|4|ja|キン肉マン 大暴れ! 正義超人
 17913|4|ja|キン肉マン 完璧超人始祖編
@@ -68326,6 +68333,7 @@
 6714|4|ja|キン肉マン 決戦!! 七人の超人VS[たい]宇宙野武士
 2287|4|ja|キン肉マン 逆襲! 宇宙かくれ超人
 2090|4|ja|キン肉マン・キン肉星王位争奪編
+2131|2|x-unk|キン肉マンII世
 2131|4|ja|キン肉マンII世 second generations
 2130|4|ja|キン肉マンII世 second generations (2002)
 2134|4|ja|キン肉マンII世 ULTIMATE MUSCLE
@@ -69111,6 +69119,7 @@
 17650|4|ja|さらば長き注文（オーダー）
 14320|4|ja|さらば青春
 17414|4|ja|サラマンドラ
+18768|4|ja|サラリーマンが異世界に行ったら四天王になった話
 850|4|ja|サラリーマン金太郎
 11509|4|ja|さるかにがっせん (1996)
 11507|4|ja|サルカニ合戦
@@ -77240,6 +77249,7 @@
 2100|4|ja|地獄先生ぬ~べ~
 2101|4|ja|地獄先生ぬ~べ~ (1996)
 4017|4|ja|地獄先生ぬ~べ~ (1998)
+18767|4|ja|地獄先生ぬ~べ~ (2025)
 4018|4|ja|地獄先生ぬ~べ~ 午前0時ぬ~べ~死す!
 4019|4|ja|地獄先生ぬ~べ~ 恐怖の夏休み!! 妖しの海の伝説!
 7935|4|ja|地獄堂霊界通信
@@ -85764,6 +85774,7 @@
 9208|4|zh-Hans|被狙击的学园
 15400|4|zh-Hans|被神捡到的男人
 16364|4|zh-Hans|被神捡到的男人2
+18074|4|zh-Hans|被称为废物的原英雄，被家里流放后随心所欲地活下去
 17517|2|zh-Hans|被解雇的暗黑士兵（30多岁）开始了慢生活的第二人生
 17517|4|zh-Hans|被解雇的暗黑士兵（30岁）慢生活的第二人生
 14756|4|zh-Hans|被赠与的未来
