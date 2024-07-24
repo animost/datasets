@@ -1,4 +1,4 @@
-# created: Mon Jul 22 03:00:01 2024
+# created: Tue Jul 23 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6848,6 +6848,7 @@
 332|4|vi|Căn hầm đom đóm
 16285|2|en|Can I Make Your Ears Happy in 180 Seconds?
 14880|1|x-zht|Can Wa Yu Tianchi Guaishou Zhi Ruixue Zhao Fengnian
+18770|2|en|Can You Keep a Secret?
 5010|4|en|Can`t Stop Dreaming
 6275|4|fr|Canaan
 6275|1|x-jat|Canaan
@@ -21117,6 +21118,7 @@
 15505|4|en|How a Realist Hero Rebuilt the Kingdom
 16804|4|en|How a Realist Hero Rebuilt the Kingdom (2022)
 14094|4|en|How Clumsy You Are, Miss Ueno.
+18744|4|en|How Dare You!?
 13545|2|en|How Do You Live?
 14603|4|en|How Heavy Are the Dumbbells You Lift?
 18228|2|en|How I Attended an All-Guy`s Mixer
@@ -21546,6 +21548,7 @@
 17203|2|en|I give my virginity to Soushi Sazanami. Now, let`s take our time to love her.
 17580|4|en|I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too
 18241|2|en|I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too (New Anime Project)
+18770|2|en|I Have a Crush at Work
 10594|2|en|I Have Been Treated Nicely
 10387|2|en|I just can`t stand not getting between them! ~I made a wish to the stars and they got this big!~
 2536|2|en|I like what I like, so it can`t be helped
@@ -26283,6 +26286,7 @@
 8607|2|x-jat|Kono Danshi, Uchuujin to Tatakaemasu.: Bokura no Sekai no Mamorikata
 16249|1|x-jat|Kono Healer, Mendokusai
 4911|1|x-jat|Kono Hoshi no Ue ni
+18770|1|x-jat|Kono Kaisha ni Suki na Hito ga Imasu
 16799|1|x-jat|Kono Kaisha... Nanika Okashii!
 18050|1|x-jat|Kono Koi ni Kizuite The Animation
 13368|1|x-jat|Kono Mayonnaise wa Yuru Sugiru
@@ -30546,6 +30550,7 @@
 16378|4|en|Make My Day
 16378|4|pl|MAKE MY DAY
 4725|2|en|Make Way for Mr. Kunimatsu
+18317|3|x-jat|makeine
 18317|4|en|Makeine: Too Many Losing Heroines!
 13141|4|ja|makemagic
 13141|1|x-jat|makemagic
@@ -41453,7 +41458,9 @@
 1446|2|lt|Robotukas Marsas
 17440|4|en|RoboWarriors
 2202|4|es|Rock el Valiente
+18769|2|en|Rock Is a Lady`s Modesty
 2616|4|pt-BR|Rock Sexual
+18769|1|x-jat|Rock wa Lady no Tashinami Deshite
 2202|4|pt|Rock: O Valente
 591|2|en|Rock`n Cop
 16448|1|x-jat|Rock`n Oyone
@@ -65158,6 +65165,7 @@
 16968|2|ko|오타쿠에게 상냥한 갸루라든지, 거유의 소꿉친구라든지
 1958|4|ko|오토기조우시
 8795|2|ko|오토메도리
+18572|2|ko|오폭 ~모에마마 도련님~
 9331|2|ko|오후의 홍조 ~순애메로우보다
 754|2|ko|온 유어 마크
 11480|4|ko|온라인 게임의 신부는 여자아이가 아니라고 생각한거야?
@@ -68825,6 +68833,7 @@
 17936|4|ja|この世界は不完全すぎる
 8830|4|ja|この中に1人, 妹がいる!
 16799|4|ja|この会社... なにかおかしい!
+18770|4|ja|この会社に好きな人がいます
 18050|4|ja|この恋に気づいて THE ANIMATION
 4911|4|ja|この星の上に
 9403|4|ja|この男子, 人魚ひろいました.
@@ -74035,6 +74044,7 @@
 5873|4|ja|ロザリオとバンパイア Capu2
 17914|3|ja|ロシデレ
 403|4|ja|ロスト・ユニバース
+18769|4|ja|ロックは淑女の嗜みでして
 146|4|ja|ロックマンエグゼ
 1143|4|ja|ロックマンエグゼ AXESS
 2664|4|ja|ロックマンエグゼ ストリーム
@@ -75381,6 +75391,7 @@
 11325|4|ja|兄貴の嫁さんなら, 俺にハメられてヒイヒイ言ってるところだよ
 15621|4|ja|先輩がうざい後輩の話
 17945|4|ja|先輩はおとこのこ
+17945|6|ja|先輩はおとこのこ this is him (can`t be anyone else)
 11994|4|zh-Hans|光 ～联系着刈谷的故事～
 12751|4|ja|光GENJI パラダイス銀河
 12770|4|ja|光GENJI 太陽がいっぱい
