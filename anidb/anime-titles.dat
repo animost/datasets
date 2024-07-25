@@ -1,4 +1,4 @@
-# created: Tue Jul 23 03:00:02 2024
+# created: Wed Jul 24 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5390,6 +5390,8 @@
 2389|2|x-jat|Black Jack TV
 3119|2|en|Black Jack: Capital Transfer To Heian
 3506|1|x-jat|Black Jack: Futari no Kuroi Isha
+3119|2|en|Black Jack: Grandma
+3119|2|en|Black Jack: Granny
 3119|1|x-jat|Black Jack: Heian Sento
 2991|2|x-jat|Black Jack: Hyakumannen Chikyuu no Tabi Bander Book
 7544|2|x-jat|Black Jack: Internet-ban
@@ -20176,9 +20178,9 @@
 3406|1|x-jat|Hi no Ame ga Furu
 1553|1|x-jat|Hi no Tori
 1315|4|pt|Hi No Tori 2772
-1315|4|x-unk|Hi No Tori 2772 - Pássaro de Fogo 2772
 1315|1|x-jat|Hi no Tori 2772: Ai no CosmoZone
 1315|4|es|Hi no Tori 2772: El niño del espacio
+1315|2|pt|Hi No Tori 2772: Pássaro de Fogo 2772
 14926|1|x-jat|Hi no Tori: Dougo Onsen Hen
 18113|1|x-jat|Hi no Tori: Eden no Hana
 17743|1|x-jat|Hi no Tori: Eden no Sora
@@ -21580,6 +21582,7 @@
 18266|4|en|I Parry Everything!
 18468|2|en|I Picked Up An Attribute
 18468|2|en|I Picked Up An Attribute Collection
+18468|2|en|I Picked Up Lots of Attributes
 2548|4|it|I predatori del tempo
 4193|4|it|I Racconti di Terramare
 14449|2|en|I Reincarnated into an Otome Game as a Villainess With Only Destruction Flags...
@@ -27212,8 +27215,8 @@
 4260|4|it|L`orsetto Mysha
 10272|2|it|L`ospite indesiderato
 2560|3|it|L`uccellino azzurro
-1315|2|it|L`Uccello di Fuoco - Hinotori 2772
 1315|4|it|L`uccello di fuoco 2772
+1315|2|it|L`Uccello di Fuoco: Hinotori 2772
 864|4|it|L`uomo tigre
 4777|3|ja|L☆S
 421|3|x-jat|L3
@@ -29532,7 +29535,7 @@
 17288|4|ja|Lv1魔王とワンルーム勇者
 17288|4|zh-Hans|LV1魔王与独居废勇者
 17288|4|zh-Hant|LV1魔王與獨居廢勇者
-18247|1|x-jat|Lv2 kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life
+18247|1|x-jat|Lv2 kara Cheat Datta Moto Yuusha Kouho no Mattari Isekai Life
 18247|2|x-jat|Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life
 18247|4|ja|Lv2からチートだった元勇者候補のまったり異世界ライフ
 18247|3|ja|Lv2チート
@@ -48360,7 +48363,7 @@
 18707|1|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru (2024)
 18026|2|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta
 17569|1|x-jat|Tensei Oujo to Tensai Reijou no Mahou Kakumei
-17702|1|x-jat|Tensei Shitara Dai Nana Ouji Datta no de, Kimamani Majutsu o Kiwamemasu
+17702|1|x-jat|Tensei Shitara Dai Nana Ouji Datta no de, Kimama ni Majutsu o Kiwamemasu
 18694|1|x-jat|Tensei Shitara Dai Nana Ouji Datta no de, Kimamani Majutsu o Kiwamemasu 2
 16785|1|x-jat|Tensei Shitara Ken Deshita
 17789|1|x-jat|Tensei Shitara Ken Deshita 2
@@ -50405,6 +50408,7 @@
 1066|4|en|Time Colored Scarlet
 2850|2|pt-BR|Time do Ranma versus Lendária Fênix
 13211|4|ja|TIME DRIVER 僕らが描いた未来
+13211|2|x-jat|Time Driver: Bokura ga Egaita Mirai
 13211|1|x-jat|Time Driver: Bokura ga Kaita Mirai
 2546|2|en|Time Fighters
 5007|2|ja|Time For Action Series BAVI STOCK-I
@@ -82824,7 +82828,7 @@
 454|4|ja|火魅子伝
 454|4|zh-Hans|火魅子传
 1553|4|zh-Hans|火鸟
-1315|4|zh-Hans|火鸟2772：爱的宇宙空间
+1315|4|zh-Hans|火鸟2772: 爱的宇宙空间
 11712|4|ja|灰と幻想のグリムガル
 11712|4|zh-Hans|灰与幻想的格林姆迦尔
 8088|4|ja|灰土警部の事件簿 人喰山
