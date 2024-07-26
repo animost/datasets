@@ -1,4 +1,4 @@
-# created: Wed Jul 24 03:00:02 2024
+# created: Thu Jul 25 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4483,6 +4483,7 @@
 4681|2|en|Bartender TV
 17673|4|ja|BARTENDER 神のグラス
 17673|4|en|Bartender: Glass of God
+17673|4|de|Bartender: Glass of God
 17673|1|x-jat|Bartender: Kami no Glass
 11630|1|x-jat|Bary-san no Imabari-ben Kouza
 13530|1|x-jat|Bary-san x Gospe Rats: Tonde Bari Bari Story
@@ -5388,14 +5389,15 @@
 2672|2|en|Black Jack Special: The 4 Miracles of Life
 2389|4|en|Black Jack TV
 2389|2|x-jat|Black Jack TV
-3119|2|en|Black Jack: Capital Transfer To Heian
+3119|2|en|Black Jack: Capital Transfer to Heian
 3506|1|x-jat|Black Jack: Futari no Kuroi Isha
 3119|2|en|Black Jack: Grandma
 3119|2|en|Black Jack: Granny
-3119|1|x-jat|Black Jack: Heian Sento
+3119|2|x-jat|Black Jack: Heian Sento
 2991|2|x-jat|Black Jack: Hyakumannen Chikyuu no Tabi Bander Book
 7544|2|x-jat|Black Jack: Internet-ban
 756|2|x-jat|Black Jack: Kaitei Choutokkyuu Marine Express
+3119|1|x-jat|Black Jack: Obaa-chan
 7876|2|x-jat|Black Jack: Ravex in Tezuka World
 7387|1|x-jat|Black Jack: Sora kara Kita Kodomo
 8488|2|x-jat|Black Jack: Tezuka Osamu ga Kieta?! 20 Seiki Saigo no Kaijiken
@@ -15612,6 +15614,7 @@
 12766|1|x-jat|Future Card Buddyfight Batzz
 13984|1|x-jat|Future Card Buddyfight Batzz: All-Star Fight
 11960|1|x-jat|Future Card Buddyfight DDD
+11077|4|en|Future Card Buddyfight Hundred
 12766|4|en|Future Card Buddyfight X
 14030|1|x-jat|Future Card Shin Buddyfight
 7432|2|en|Future Diary
@@ -17410,6 +17413,7 @@
 6183|2|en|Glorious Manga Tale of Old Edo
 18380|4|en|Glorious Revenge of Ye Feng
 18489|2|en|Glorious Revenge of Ye Feng 2
+18489|2|en|Glorious Revenge of Ye Feng Season 2
 104|4|pl|Głosy z odległej gwiazdy
 17564|4|fr|Gloutons et Dragons
 2237|2|en|Gloyzer X
@@ -43970,6 +43974,8 @@
 16636|1|x-zht|Shaonian Ge Xing: Fenghuaxueyue Pian
 17032|1|x-zht|Shaonian Ge Xing: Fenghuaxueyue Pian (2022)
 18348|1|x-zht|Shaonian Ge Xing: Haiwai Xianshan Pian
+13722|2|x-zht|Shaonian Jinyiwei
+13820|2|x-zht|Shaonian Jinyiwei 2nd Season
 14598|1|x-zht|Shaonu Qianxian: Renxing Xiao Juchang
 16097|1|x-zht|Shaonu Qianxian: Renxing Xiao Juchang 2
 5638|4|en|Shape of Love: Do You Hate Girls With Dirty Minds?
@@ -46929,7 +46935,7 @@
 13122|4|en|Summer of Fossil Leaves
 13693|4|ja|Summer Pockets
 13693|1|x-jat|Summer Pockets
-18376|2|en|Summer Punch
+18376|4|en|Summer Punch
 9126|2|en|Summer Snow Rendezvous
 6340|2|en|Summer Storm
 6340|2|en|Summer Storm!
@@ -50156,6 +50162,7 @@
 18765|2|en|The Young Brewmaster`s Adventure 2nd Season
 13722|2|en|The Young Imperial Guards
 13820|2|en|The Young Imperial Guards 2
+13820|2|en|The Young Imperial Guards 2nd Season
 13875|2|en|The Young Innkeeper Is a Grade Schooler!
 13875|2|en|The Young Mistress Is a Grade Schooler!
 18015|4|en|The Yuzuki Family`s Four Sons
@@ -72275,11 +72282,12 @@
 7544|4|ja|ブラック・ジャック (2001)
 4377|4|ja|ブラック・ジャック 21
 8845|4|ja|ブラック・ジャック FINAL
+3119|4|ja|ブラック・ジャック おばあちゃん
 3506|4|ja|ブラック・ジャック ふたりの黒い医者
 7387|4|ja|ブラック・ジャック 空からきた子ども
 7387|2|ja|ブラック・ジャック 空からきた子供
 7544|2|ja|ブラック・ジャック(インターネット版)
-3119|4|ja|ブラック・ジャック/平安遷都
+3119|2|ja|ブラック・ジャック/平安遷都
 4416|4|ja|ブラック・ブラッド・ブラザーズ
 10181|4|ja|ブラック・ブレット
 3395|2|ja|ブラック・ラグーン
