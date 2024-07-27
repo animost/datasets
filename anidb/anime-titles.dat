@@ -1,4 +1,4 @@
-# created: Thu Jul 25 03:00:02 2024
+# created: Fri Jul 26 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1539,6 +1539,7 @@
 186|4|fr|Ah! My Mini Goddess
 4153|2|ro|Ah! Zeiţa Mea: Oricine are Aripi
 4153|2|x-jat|Ah!! My Goddess: Sorezore no Hane
+12006|2|x-jat|Ahare! Meisaku-kun
 16505|3|x-jat|aharen
 16505|2|en|Aharen Is Indecipherable
 16505|4|vi|Aharen thật khó hiểu
@@ -3179,6 +3180,8 @@
 107|4|es-419|Arjuna
 107|4|pl|Arjuna - córka Ziemi
 773|3|en|ark
+18771|4|ko|ARK
+18771|1|x-kot|Ark
 9534|2|en|Ark IX
 9534|2|en|Ark Nine
 9534|1|x-jat|Ark Nine
@@ -17564,6 +17567,7 @@
 1104|2|x-jat|Godanner
 3490|1|x-jat|Goddamn
 17612|2|en|Goddess Cafe Terrace
+18080|2|en|Goddess Café Terrace 2
 14625|2|en|Goddess of Spectacles
 10908|3|x-jat|godeater (2009)
 13786|3|x-jat|godeater ona
@@ -22128,6 +22132,7 @@
 15215|4|fr|Imagine, un cambrousard du dernier donjon dans la ville de départ !
 16198|2|en|Imaizumi`s Place Became a Gal Hang-Out Spot for Some Reason
 16198|1|x-jat|Imaizumin-chi wa Douyara Gal no Tamariba ni Natteru Rashii
+12005|2|x-jat|Imakara Atashi......
 10299|1|x-jat|Imako System
 12278|1|x-jat|Imarine Project
 4773|3|x-jat|Imas
@@ -31471,6 +31476,8 @@
 10726|3|x-jat|meganehen movie
 3103|3|x-jat|megaten
 12296|4|en|Megaton Musashi
+12296|4|de|MEGATON MUSASHI
+17027|4|de|MEGATON MUSASHI Season 2
 12296|1|x-jat|Megaton-kyuu Musashi
 17027|1|x-jat|Megaton-kyuu Musashi (2022)
 1729|3|x-jat|megazone
@@ -35294,6 +35301,7 @@
 587|1|x-jat|Nitabou: Tsugaru Shamisen Shiso Gaibun
 18367|2|x-zht|Nitian Xie Shen (2023)
 16583|2|x-zht|Nitian Zhizun
+18772|1|en|Niwatori Fighter
 15360|1|x-zht|Nizhuan Ciyuan: AI Jueqi
 13345|3|x-jat|njns
 9453|3|x-jat|nkmg
@@ -35785,6 +35793,7 @@
 4189|2|hu|Nyüzsgi
 2270|2|pl|O Aladynie i Zaczarowanej Lampie
 979|2|pt-BR|O Alquimista de Aço
+4217|2|x-jat|O bake no... Holly
 1818|4|pt-BR|O Barão Vermelho
 2737|4|pt|O Bocas
 4966|2|pt-BR|O Caçador da Bruxa
@@ -35873,6 +35882,7 @@
 162|2|pt|O Xerife do Espaço
 1920|4|el|O Βασιλιάς Αρθούρος
 844|4|el|O Θρύλος της Lemnear
+4217|2|x-jat|O-bake no... Holly
 11662|1|x-kot|O-di-syeon
 9617|2|x-jat|O-Parts: Oman
 12004|3|x-jat|O;N
@@ -41270,7 +41280,7 @@
 4569|1|x-jat|Ringetsu The Animation
 4569|4|en|Ringetsu The Animation
 3551|4|en|Ringing Bell
-18697|2|en|Ringing Fate
+18697|4|en|Ringing Fate
 16809|1|x-jat|Ringo to Shoujo
 3500|2|en|Rink of Glory
 17948|1|x-jat|Rinkai!
@@ -46011,6 +46021,7 @@
 1315|4|pl|Space Firebird
 1315|4|de|Space Firebird
 1315|2|en|Space Firebird 2772
+1315|2|de|Space Firebird 2772
 13312|4|en|Space Fish: Between the Sky and Sea
 77|2|en|Space Fortress Macross
 17774|1|x-jat|Space Idol
@@ -66695,6 +66706,7 @@
 1317|4|ja|あばしり一家
 1902|4|ja|アパッチ野球軍
 12006|4|ja|あはれ! 名作くん
+12006|2|x-jat|あはれ! 名作くん
 14760|4|ja|あはれ! 名作くん (2017)
 14761|4|ja|あはれ! 名作くん (2018)
 14762|4|ja|あはれ! 名作くん (2019)
@@ -71145,6 +71157,7 @@
 2654|4|ja|ニルスのふしぎな旅
 7428|4|ja|ニルスのふしぎな旅 劇場版
 11859|4|ja|ニルバナ
+18772|4|ja|ニワトリ・ファイター
 14266|4|ja|にんぎょひめ
 18644|2|ja|ニンジャ スクーラー
 10588|4|ja|ニンジャスレイヤー フロムアニメイシヨン
