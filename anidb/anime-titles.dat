@@ -1,4 +1,4 @@
-# created: Fri Jul 26 03:00:02 2024
+# created: Sat Jul 27 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -816,6 +816,7 @@
 5609|2|en|A Connectiv System
 11104|2|en|A Corpse Is Buried Under Sakurako`s Feet
 16188|4|en|A Couple of Cuckoos
+18773|2|en|A Couple of Cuckoos (2025)
 2630|4|hu|A csodálatos Triton
 8229|4|en|A Dark Rabbit Has Seven Lives
 12874|2|en|A Day After a Hundred Years
@@ -4697,7 +4698,7 @@
 11422|4|ja|BE BLUES!~青になれ~
 4235|4|fr|Be Bop High School
 2239|4|en|Be Forever Yamato
-17141|4|en|Be Forever Yamato: Rebel 3199
+17141|2|en|Be Forever Yamato: Rebel 3199
 4205|4|en|Be Lifesized My Lover - Mechanic Minami vs. Human Minami
 14860|2|en|Be My Wife
 15926|2|en|Be My Wife Season 2
@@ -9056,6 +9057,7 @@
 4247|2|en|Cubix: Robots for Everyone
 16188|3|x-jat|cuckoo
 16188|1|x-jat|Cuckoo no Iinazuke
+18773|1|x-jat|Cuckoo no Iinazuke (2025)
 16188|2|en|Cuckoo`s Fiancee
 112|4|sl|Čudežno potovanje
 2654|4|pl|Cudowna podróż
@@ -15519,6 +15521,7 @@
 6516|2|en|Fushigi na Taiko
 14157|1|x-jat|Fushigi no Kuni e
 2744|1|x-jat|Fushigi no Kuni no Alice
+2744|2|x-jat|Fushigi no Kuni no Arisu
 451|1|x-jat|Fushigi no Kuni no Miyuki-chan
 17880|1|x-jat|Fushigi no Kuni no Succubus
 40|1|x-jat|Fushigi no Umi no Nadia
@@ -17492,8 +17495,7 @@
 3668|1|x-jat|Goal Field Hunter
 16980|3|en|Goal to the Future
 10077|1|x-jat|Goannai Shimasu Another World e
-18572|1|x-jat|Gobaku
-18572|4|en|Gobaku Moe Mama Tsurezure
+18572|1|x-jat|Gobaku: Moe Mama Tsurezure
 10614|2|en|Goblin and Snow Hare
 17798|2|en|Goblin Den
 13831|2|tr|Goblin Katili (Goblin Slayer)
@@ -24531,6 +24533,7 @@
 6263|3|x-jat|karaage
 16087|1|x-jat|Karada de Kaiketsu: Hyakkiya Tantei Jimusho - Hyakkiya Hikari no Youkai Jikenbo
 13145|1|x-jat|Karada Sagashi
+221|2|x-jat|Karafuru
 13270|1|x-jat|Karakai Jouzu no Takagi-san
 14591|1|x-jat|Karakai Jouzu no Takagi-san 2
 16559|1|x-jat|Karakai Jouzu no Takagi-san 3
@@ -26996,6 +26999,7 @@
 15876|1|x-jat|Kyokou Suiri Season 2
 14602|3|x-jat|kyokousuiri
 15876|3|x-jat|kyokousuiri s2
+18775|1|x-jat|Kyokugen Chikan Tokuiten 3 The Animation
 10741|1|x-jat|Kyokugen Dasshutsu ADV: Zennin Shibou Death
 4287|1|x-jat|Kyokujitsu no Kantai
 4318|1|x-jat|Kyomu Senshi Miroku
@@ -31374,6 +31378,7 @@
 10130|1|x-jat|Mebae no Asa
 18448|1|x-jat|Mebuki The Animation
 7881|1|x-jat|Mecha Afro-kun
+18774|1|x-jat|Mecha Gishi Resta no Daibouken
 4909|2|en|Mecha God Wars: Gigantic Formula
 9649|2|en|Mecha Robot Corps 3
 3051|4|en|Mecha-Doc
@@ -35301,7 +35306,7 @@
 587|1|x-jat|Nitabou: Tsugaru Shamisen Shiso Gaibun
 18367|2|x-zht|Nitian Xie Shen (2023)
 16583|2|x-zht|Nitian Zhizun
-18772|1|en|Niwatori Fighter
+18772|1|x-jat|Niwatori Fighter
 15360|1|x-zht|Nizhuan Ciyuan: AI Jueqi
 13345|3|x-jat|njns
 9453|3|x-jat|nkmg
@@ -36896,6 +36901,7 @@
 1326|4|sv|Orguss 02
 1326|2|x-jat|Orguss 02
 1326|2|ja|ORGUSS 02
+1326|4|pt|Orguss 02 - O Super Robô Decimator
 1326|4|fi|Orguss 2
 1326|3|x-jat|orguss ova
 1039|2|x-jat|Orguss TV
@@ -41612,6 +41618,7 @@
 12551|4|zh-Hans|Room Mate ～One Room side M～
 15061|2|en|Room Sharing the Animation
 11394|2|en|Rooms for Twentysomethings
+18772|2|en|Rooster Fighter
 4324|3|x-jat|roots
 3363|4|en|Roots Search: Life Devourer X
 3363|1|x-jat|Roots Search: Shokushin Buttai X
@@ -46414,6 +46421,7 @@
 14804|2|en|Star Blazers 2205
 2661|2|en|Star Blazers 3
 8787|2|en|Star Blazers: Space Battleship Yamato 2199
+17141|4|en|Star Blazers: Space Battleship Yamato 3199
 2661|4|en|Star Blazers: The Bolar Wars
 2662|4|en|Star Blazers: The Comet Empire
 648|2|en|Star Blazers: The Quest for Iscandar
@@ -55123,6 +55131,9 @@
 8288|1|x-jat|Yondemasu yo, Azazel-san. (2011)
 9501|1|x-jat|Yondemasu yo, Azazel-san. Z
 17161|1|x-zht|Yong Sheng
+18122|2|x-zht|Yong Sheng 2
+18122|2|x-zht|Yong Sheng 2nd Season
+18595|2|x-zht|Yong Sheng 3
 18595|2|x-zht|Yong Sheng 3rd Season
 18122|1|x-zht|Yong Sheng Zhi Shi Nian Zhi Yue
 18595|1|x-zht|Yong Sheng: Qizhuang Shanhe
@@ -67886,6 +67897,7 @@
 6694|2|ja|カックンカフェ
 10697|4|ja|がっこうぐらし!
 16188|4|ja|カッコウの許嫁
+18773|4|ja|カッコウの許嫁 (2025)
 7996|4|ja|カッコカワイイ宣言!
 8634|4|ja|カッコカワイイ宣言! 第二期
 7514|4|ja|カッタ君物語
@@ -72187,6 +72199,7 @@
 4208|4|ja|ふしぎなコアラ ブリンキー
 3050|4|ja|ふしぎなメルモ
 6516|4|ja|ふしぎな太鼓
+2744|5|ja|ふしぎのくにのアリス
 8891|4|ja|ふしぎのヤッポ島 プキプキとポイ
 2744|4|ja|ふしぎの国のアリス
 40|4|ja|ふしぎの海のナディア
@@ -73311,6 +73324,7 @@
 14625|4|ja|メガネnoメガミ
 9948|4|ja|メガネブ!
 13517|4|ja|メガロボクス
+18774|4|ja|メカ技師リスタの大冒険
 14937|4|ja|メギド72 長き戦旅の傍らで
 5845|4|ja|めぐみ
 7348|4|ja|めぐり逢う世界
@@ -79871,6 +79885,7 @@
 17999|4|ja|愚かな天使は悪魔と踊る
 15018|4|ja|愚者のパレード
 10243|4|zh-Hans|愚者信长
+17999|4|zh-Hans|愚蠢天使与恶魔共舞
 17999|2|zh-Hant|愚蠢天使與惡魔共舞
 2870|4|ja|愛
 13077|4|ja|愛 think so,
@@ -81933,6 +81948,7 @@
 17643|4|ja|極主夫道 (2023)
 2696|2|zh-Hant|極速攝殺
 15812|4|zh-Hant|極道主夫
+18775|4|ja|極限痴漢特異点3 The Animation
 10741|4|ja|極限脱出ADV 善人シボウデス
 10069|4|zh-Hant|極黑的布倫希爾德
 10069|4|ja|極黒のブリュンヒルデ
@@ -85945,9 +85961,7 @@
 1062|2|ja|誘惑カウントダウン
 14164|4|ja|誘拐アンナ
 11470|4|ja|語りべ少女ほのか
-18572|4|ja|誤爆
-18572|2|ja|誤爆 ~萌えママ徒然~
-18572|2|ja|誤爆〜萌えママ徒然〜
+18572|4|ja|誤爆~萌えママ徒然~
 18709|4|ja|誰ソ彼ホテル
 13885|4|ja|誰も知らない
 7406|4|ja|課長の恋
