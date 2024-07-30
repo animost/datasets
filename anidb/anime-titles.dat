@@ -1,4 +1,4 @@
-# created: Sun Jul 28 03:00:02 2024
+# created: Mon Jul 29 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2024,6 +2024,7 @@
 1078|2|en|Albert and Sydney
 3368|4|ro|Albinuţa Hutch
 4144|2|en|Alchemist Grade 3: Magical Pokahn
+18042|2|en|Alchemy Master
 979|2|ro|Alchimistul de Oţel
 10445|3|x-jat|ald0
 10846|3|x-jat|ald0 s2
@@ -9649,6 +9650,8 @@
 14469|2|en|Dark Knight Ingrid
 14469|4|en|Dark Knight Ingrid: Re - Dark Knight Who Fell into a Female Pig Slave
 3130|4|en|Dark Love
+18777|1|x-jat|Dark Machine
+18777|4|ja|Dark Machine
 2920|2|en|Dark Myth
 8229|4|fr|Dark Rabbit
 4730|2|en|Dark Sea, Moon Shadow
@@ -14587,6 +14590,7 @@
 18414|1|x-zht|Fengzi Wuyu: Xian Luo Pian
 16639|1|x-zht|Fengzi Wuyu: Yinhe Pian
 16640|1|x-zht|Fengzi Wuyu: Yinhe Pian (2021)
+1553|2|es-419|Fénix
 1553|4|pt-BR|Fênix
 6818|2|de|Fesseln des Verrats
 2421|4|pt-BR|Festa do Prazer
@@ -16471,7 +16475,7 @@
 8778|2|x-jat|Gekijouban Meguca
 10240|1|x-jat|Gekijouban Meiji Tokyo Renka
 7520|1|x-jat|Gekijouban Metal Fight Beyblade vs Taiyou: Shakunetsu no Shinryakusha Sol Blaze
-17466|1|x-jat|Gekijouban Mononoke: Karakasa
+17466|1|x-jat|Gekijouban Mononoke
 6427|2|x-jat|Gekijouban Munto
 15997|1|x-jat|Gekijouban Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi
 13286|1|x-jat|Gekijouban Nanatsu no Taizai: Tenkuu no Torawarebito
@@ -24260,6 +24264,7 @@
 17006|1|x-jat|Kami Kuzu Idol
 14518|1|x-jat|Kami Machi Sana-chan The Animation
 15391|1|x-jat|Kami no Tou
+17559|2|x-jat|Kami no Tou 2
 17559|1|x-jat|Kami no Tou: Ouji no Kikan
 7568|1|x-jat|Kami nomi zo Shiru Sekai
 8167|1|x-jat|Kami nomi zo Shiru Sekai II
@@ -28974,6 +28979,7 @@
 549|2|en|Love Princess
 12553|4|en|Love Rice
 13249|4|en|Love Rice 2
+13249|2|en|Love Rice: We Love Rice - Second Crop
 8004|1|x-jat|Love Rollercoaster
 8004|4|ja|Love Rollercoaster
 5979|4|ja|Love Selection: THE ANIMATION
@@ -44043,6 +44049,7 @@
 13596|2|x-zht|Shen Qi Huan Qi Tan
 13596|1|x-zht|Shen Qi Huan Qitan
 17085|1|x-zht|Shen Wu Tianzun
+18779|1|x-zht|Shen Wu Tianzun (2024)
 18582|2|x-zht|Shen Yi Jiu Xiao Jie Di Er Ji
 17039|1|x-zht|Shen Yi Jiu Xiaojie
 18582|1|x-zht|Shen Yi Jiu Xiaojie 2
@@ -47221,7 +47228,7 @@
 17258|4|en|Supreme Lord of Galaxy
 17333|4|en|Supreme Lord of Galaxy 2
 3602|2|en|Supreme Ruler of the Hot Sands Gandahara
-18393|2|en|Supreme Sword God
+18393|4|en|Supreme Sword God
 3962|1|x-jat|Surf Side High-School
 3962|2|ja|SURF SIDE HIGH-SCHOOL
 17884|2|en|Surgeon Elise
@@ -51227,6 +51234,7 @@
 15391|4|en|Tower of God
 15391|4|fr|Tower of God
 17559|2|en|Tower of God 2nd Season
+17559|4|en|Tower of God Season 2
 17559|2|en|Tower of God: Return of the prince
 8852|3|x-jat|TOxA
 2411|2|en|Toyama Cherry Blossom Space Commander: His Name is Gold
@@ -55137,6 +55145,7 @@
 18595|2|x-zht|Yong Sheng 3
 18595|2|x-zht|Yong Sheng 3rd Season
 18122|1|x-zht|Yong Sheng Zhi Shi Nian Zhi Yue
+18778|1|x-zht|Yong Sheng: Hai Shi Xian Ling
 18595|1|x-zht|Yong Sheng: Qizhuang Shanhe
 18642|2|x-zht|Yong Zhe Da Mao Xian
 18642|1|x-zht|Yong Zhe Da Maoxian
@@ -76297,7 +76306,7 @@
 13612|4|ja|劇場版メイドインアビス 深き魂の黎明
 5839|3|ja|劇場版メジャー
 7520|4|ja|劇場版メタルファイト ベイブレードVS太陽 灼熱の侵略者ソルブレイズ
-17466|4|ja|劇場版モノノ怪 唐傘
+17466|4|ja|劇場版モノノ怪
 2912|4|ja|劇場版ロックマンエグゼ 光と闇の遺産[プログラム]
 4131|2|ja|劇場版甲虫王者ムシキング グレイテストチャンピオンへの道
 12439|4|ja|劇場版総集編 OVERLORD
@@ -77334,7 +77343,7 @@
 615|4|ja|地球防衛家族
 4861|2|zh-Hant|地球防衛少年
 14757|4|ja|地縛少年花子くん
-17791|4|ja|地縛少年花子くん 2
+17791|4|ja|地縛少年花子くん2
 14757|4|zh-Hans|地缚少年花子君
 11881|4|ja|坂本ですが?
 8870|4|ja|坂道のアポロン
@@ -82403,6 +82412,7 @@
 18595|2|zh-Hans|永生 第三季
 18122|2|zh-Hans|永生 第二季
 18122|4|zh-Hans|永生之十年之约
+18778|4|zh-Hans|永生之海噬仙灵
 4897|4|zh-Hans|永生之酒
 8184|4|zh-Hans|永远之久远
 605|2|zh-Hans|永远和你在一起
@@ -84212,6 +84222,7 @@
 10763|4|ja|神様はじめました◎
 4147|4|ja|神様家族
 17085|4|zh-Hans|神武天尊
+18779|4|zh-Hans|神武天尊 (2024)
 17006|4|zh-Hans|神渣☆爱豆
 17006|4|zh-Hant|神渣偶像
 17146|4|zh-Hans|神渴望着游戏。
