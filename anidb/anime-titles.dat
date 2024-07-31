@@ -1,4 +1,4 @@
-# created: Mon Jul 29 03:00:01 2024
+# created: Tue Jul 30 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4962,6 +4962,7 @@
 16383|4|cs|Běsy podle Grimmů
 4054|4|lt|Betonas, geležis, raumenys
 6818|2|en|Betrayal Knows My Name
+18781|2|en|Betrothed to My Sister`s Ex
 8334|1|x-jat|Betsu ni Anta no Tame ni Ookiku Nattanja Naindakara ne!!
 18231|1|x-jat|Betsu Sekai
 745|1|x-jat|Betterman
@@ -9871,6 +9872,7 @@
 9307|3|x-jat|dciii
 5652|3|x-jat|dciiss
 2832|3|x-jat|dcss
+16129|2|en|DCTM
 266|3|en|dctv
 13016|2|ja|DCスーパーヒーローズvs鷹の爪団
 133|3|x-jat|DD
@@ -14676,6 +14678,7 @@
 15147|2|en|Fights Break Sphere 3
 16179|2|en|Fights Break Sphere 4
 17052|2|en|Fights Break Sphere 5
+17052|2|en|Fights Break Sphere Ⅴ
 17524|2|en|Fights Break Sphere: The Origin
 225|4|fr|Figure 17
 225|1|x-jat|Figure 17: Tsubasa & Hikaru
@@ -15247,6 +15250,7 @@
 14490|3|x-jat|fruba1
 14988|3|x-jat|fruba2
 15738|3|x-jat|fruba3
+18783|4|en|Fruit Brains
 34|4|sv|Fruits Basket
 34|4|fi|Fruits Basket
 34|4|fr|Fruits Basket
@@ -16530,6 +16534,7 @@
 13847|1|x-jat|Gekijouban PriPara & Kiratto Pri Chan: Kirakira Memorial Live
 10783|1|x-jat|Gekijouban PriPara: Minna Atsumare! Prism Tours
 12510|1|x-jat|Gekijouban PriPara: Minna de Kagayake! Kirarin Star Live!
+18780|1|x-jat|Gekijouban Project Sekai: Kowareta Sekai to Utaenai Miku
 10066|1|x-jat|Gekijouban Psycho-Pass
 17573|1|x-jat|Gekijouban Psycho-Pass: Providence
 16180|1|x-jat|Gekijouban Re:cycle of the Penguindrum
@@ -22170,6 +22175,7 @@
 17161|2|en|Immortality
 18122|2|en|Immortality 2
 18595|2|en|Immortality 3
+18778|2|en|Immortality 4
 16431|2|en|Immortals of the Godless
 93|3|x-jat|IMMSE
 9546|3|x-jat|ImoCho
@@ -22993,6 +22999,7 @@
 3484|4|pt|Jacky, o Urso de Tallac
 17548|2|en|Jade Dynasty
 18577|2|en|Jade Dynasty 2
+18577|2|en|Jade Dynasty Ⅱ
 18244|1|x-jat|Jadou Sugiru
 335|4|sv|Jag kan höra havet
 1746|3|x-jat|jagainu
@@ -26692,6 +26699,7 @@
 2298|2|tr|Kücük Prenses Sara
 2298|4|tr|Küçük Prenses Sara
 12713|1|x-jat|Kud Wafter
+18783|1|ja|Kudamonou
 7419|1|x-jat|Kudan
 4108|1|x-jat|Kugutsu Ai: Doura Gaiden
 18483|2|x-zht|Kui Cheng Shou Fu Cong You Xi Kai Shi
@@ -48411,6 +48419,7 @@
 14526|2|x-jat|Tensei Shitara Slime Datta Ken OAD
 14526|2|ja|Tensei Shitara Slime Datta Ken OVA
 17873|1|x-jat|Tensei Shitara Slime Datta Ken: Coleus no Yume
+18785|1|x-jat|Tensei Shitara Slime Datta Ken: Sukuwareru Ramriris
 15457|1|x-jat|Tensei Shitara Slime Datta Ken: Tensura Nikki
 16385|2|x-jat|Tensei Shoya Kara Musabari Ecchi: Ouji no Honmei wa Akuyaku Reijou
 16030|3|x-jat|tenseikenja
@@ -49370,6 +49379,7 @@
 14978|2|en|The King`s Avatar (2019)
 14978|4|en|The King`s Avatar 2
 16589|2|en|The King`s Avatar 3
+16589|2|en|The King`s Avatar Ⅲ
 13950|2|en|The King`s Avatar SP
 13950|2|en|The King`s Avatar Specials
 15035|2|en|The King`s Avatar: For the Glory
@@ -49440,6 +49450,8 @@
 17181|1|en|The Legend of Sealed Book
 11411|4|en|The Legend of Shangri-La
 1141|2|en|The Legend of Shenlong
+17085|2|en|The Legend of Sky Lord
+18779|4|en|The Legend of Sky Lord (2024)
 3674|2|en|The Legend of Snow White
 15029|2|en|The Legend of Super Normal City Kashiwa R
 18423|4|en|The Legend of Super Normal Pref. Chiba
@@ -50126,6 +50138,7 @@
 6838|2|en|The Whale
 6874|2|en|The Whale (1952)
 3190|2|en|The Whale Hunt
+18782|2|en|The White Mage Who Was Banished From the Hero`s Party Is Picked up by an S Rank Adventurer ~ This White Mage Is Too Out of the Ordinary!
 1861|2|en|The White Snake Enchantress
 3659|4|en|The White Whale of Mu
 2201|2|en|The Wicked Prince`s Hunt of the Big Snake
@@ -51079,6 +51092,7 @@
 2630|4|it|Toriton
 15781|2|en|Tormented: Revenge Hypnosis
 16409|1|x-jat|Torokase Orgasm The Animation
+16129|2|x-jat|Toromera
 15805|1|x-jat|Toromitsu Musume no Hitou Service: Torottoro Churu Churu Gohoushi Sasete Kudasai
 3464|3|en|Tortov
 10532|1|x-jat|Toruru`s Adventure
@@ -54253,6 +54267,7 @@
 15381|1|x-zht|Wu Liuqi: Zui Qiang Fa Xing Shi
 15381|2|en|Wu Liuqi`s Strongest Hair Stylist
 18375|1|x-zht|Wu Nao Monu
+18784|1|x-zht|Wu Nao Monu (2024)
 15631|1|x-zht|Wu Ren Shen Chuanshuo
 15663|1|x-zht|Wu Shan Wu Xing
 17241|1|x-zht|Wu Shan Wu Xing: Xichuan Huan Zi Lin
@@ -55144,6 +55159,8 @@
 18122|2|x-zht|Yong Sheng 2nd Season
 18595|2|x-zht|Yong Sheng 3
 18595|2|x-zht|Yong Sheng 3rd Season
+18778|2|x-zht|Yong Sheng 4
+18778|2|en|Yong Sheng 4th Season
 18122|1|x-zht|Yong Sheng Zhi Shi Nian Zhi Yue
 18778|1|x-zht|Yong Sheng: Hai Shi Xian Ling
 18595|1|x-zht|Yong Sheng: Qizhuang Shanhe
@@ -55833,6 +55850,8 @@
 1717|1|x-jat|Yuusha Ou GaoGaiGar Final
 3152|1|x-jat|Yuusha Ou GaoGaiGar Final Grand Glorious Gathering
 17444|1|x-jat|Yuusha Party o Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau
+18782|1|x-jat|Yuusha Party o Tsuihou Sareta Hakuma Doushi, S Rank Boukensha ni Hirowareru: Kono Hakuma Doushi ga Kikakugai Sugiru
+18782|2|x-jat|Yuusha Party wo Tsuihousareta Hakuma Doushi, S Rank Boukensha ni Hirowareru - Kono Hakuma Doushi ga Kikakugai sugiru
 1819|1|x-jat|Yuusha Raideen
 2459|1|x-jat|Yuusha Shirei Dagwon
 3153|1|x-jat|Yuusha Shirei Dagwon: Suishou no Hitomi no Shounen
@@ -56348,6 +56367,7 @@
 12156|1|x-jat|Zunda Horizon
 18045|1|x-zht|Zuo Shou Shang Lan
 14524|1|x-zht|Zuori Qing Kong
+18781|1|x-jat|Zutaboro Reijou wa Ane no Moto Kon`yakusha ni Dekiai Sareru
 11376|1|x-jat|Zutto Mae kara Suki Deshita. Kokuhaku Jikkouiinkai
 16147|1|x-jat|Zutto Mayonaka de Ii no ni.: Mune no Kemuri
 15773|1|x-jat|Zutto Mayonaka de Iinoni.: Byoushin o Kamu
@@ -69616,6 +69636,7 @@
 17173|4|ja|スタこれ
 7240|3|ja|スタスカ
 7591|3|ja|スタドラ
+18781|4|ja|ずたぼろ令嬢は姉の元婚約者に溺愛される
 11144|2|ja|スタミュ
 13511|4|ja|スタミュinハロウィン
 14398|4|ja|スタンドマイヒーローズ PIECE OF TRUTH
@@ -76293,6 +76314,7 @@
 12510|4|ja|劇場版プリパラ み~んなでかがやけ! キラリン☆スターライブ!
 10783|4|ja|劇場版プリパラ みーんなあつまれ! プリズム☆ツアーズ
 17955|4|ja|劇場版ブルーロック -EPISODE 凪-
+18780|4|ja|劇場版プロジェクトセカイ 壊れたセカイと歌えないミク
 7092|4|ja|劇場版ペンギンの問題 幸せの青い鳥でごペンなさい
 7092|3|ja|劇場版ペン問
 14993|4|ja|劇場版ポケットモンスター ココ
@@ -76366,6 +76388,7 @@
 9659|4|ja|勇者になれなかった俺はしぶしぶ就職を決意しました.
 10113|4|ja|勇者になれなかった俺はしぶしぶ就職を決意しました. 勇者になれなかった俺の妹が上京してきました.
 17444|4|ja|勇者パーティーを追放されたビーストテイマー, 最強種の猫耳少女と出会う
+18782|4|ja|勇者パーティーを追放された白魔導師, Sランク冒険者に拾われる ~この白魔導師が規格外すぎる~
 1819|4|ja|勇者ライディーン
 1710|4|zh-Hans|勇者传说
 18124|4|ja|勇者刑に処す 懲罰勇者9004隊刑務記録
@@ -77512,6 +77535,7 @@
 18675|4|ja|外れスキル《木の実マスター》~スキルの実 (食べたら死ぬ) を無限に食べられるようになった件について~
 14736|4|zh-Hans|外之国的少女
 16091|4|zh-Hans|外之国的少女（2022）
+18297|2|zh-Hans|外星笔记
 14123|2|ja|外環開通スペシャルムービー[GAIKAN CHIBA]
 17884|4|ja|外科医エリーゼ
 17884|4|zh-Hans|外科医生爱丽丝
@@ -79790,6 +79814,7 @@
 1963|4|ja|恥辱診察室
 1963|2|zh-Hant|恥辱診察室
 6320|4|ja|息子の友達に犯されて
+17819|4|zh-Hant|恰如細語般的戀歌
 9357|4|zh-Hans|恶之华
 5678|2|zh-Hans|恶作剧之吻
 13611|4|zh-Hant|恶作剧魔女与不夜城
@@ -80642,6 +80667,7 @@
 17052|4|zh-Hans|斗破苍穹 年番
 16566|4|zh-Hans|斗破苍穹 特别篇3 三年之约
 15147|4|zh-Hans|斗破苍穹 第3季
+17052|2|zh-Hans|斗破苍穹 第5季
 13721|2|zh-Hans|斗破苍穹 第一季
 15147|4|zh-Hant|斗破苍穹 第三季
 13851|4|zh-Hans|斗破苍穹 第二季
@@ -80955,6 +80981,7 @@
 15492|4|zh-Hans|无能力者娜娜
 15492|2|zh-Hans|无能的奈奈
 18375|4|zh-Hans|无脑魔女
+18784|4|zh-Hans|无脑魔女 (2024)
 17244|4|zh-Hans|无良公会
 8732|4|zh-Hans|无责任舰长OVA
 13224|4|zh-Hans|无责任银河☆泰勒
@@ -81153,6 +81180,7 @@
 18291|4|ja|星降る王国のニナ
 23|4|zh-Hant|星際牛仔
 219|4|zh-Hant|星際牛仔: 天國之門
+18297|4|zh-Hant|星際莊的戀愛日記
 17663|4|zh-Hant|星靈感應
 16003|4|zh-Hans|星骸骑士
 16438|4|zh-Hans|星骸骑士 下半季
@@ -82411,6 +82439,7 @@
 18595|4|zh-Hans|永生 气壮山河
 18595|2|zh-Hans|永生 第三季
 18122|2|zh-Hans|永生 第二季
+18778|2|zh-Hans|永生 第四季
 18122|4|zh-Hans|永生之十年之约
 18778|4|zh-Hans|永生之海噬仙灵
 4897|4|zh-Hans|永生之酒
@@ -86017,6 +86046,7 @@
 2481|4|zh|诗片
 2481|4|zh-Hans|诗片
 17548|4|zh-Hans|诛仙
+18577|2|zh-Hans|诛仙 第2季
 18577|4|zh-Hans|诛仙 第二季
 15835|4|zh|诡水疑云
 14376|4|zh-Hans|请吃红小豆吧!
@@ -86365,6 +86395,7 @@
 14767|4|ja|転生したらスライムだった件 (2021)
 17709|4|ja|転生したらスライムだった件 (2024)
 17873|4|ja|転生したらスライムだった件 コリウスの夢
+18785|4|ja|転生したらスライムだった件 救われるラミリス
 15457|4|ja|転生したらスライムだった件 転スラ日記
 16785|4|ja|転生したら剣でした
 17789|4|ja|転生したら剣でした 2
@@ -87312,6 +87343,7 @@
 5630|4|zh-Hans|隐之王
 5630|2|zh-Hans|隐王
 15267|4|zh-Hans|隐瞒之事
+17289|4|zh-Hant|隔壁的妖怪鄰居
 5630|4|ja|隠の王
 8582|4|ja|隣の野郎
 15267|4|zh-Hant|隱瞞之事
