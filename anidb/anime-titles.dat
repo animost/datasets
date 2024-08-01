@@ -1,4 +1,4 @@
-# created: Tue Jul 30 03:00:02 2024
+# created: Wed Jul 31 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4941,6 +4941,7 @@
 730|2|tr|Beş Yıldız Öyküleri
 11979|4|es|Bésalo a él, no a mí
 1836|4|es|Bésame Licia
+5678|2|es-419|Beso travieso
 16089|1|x-jat|Bessatsu Kamen Rider Saber: Tanpen Katsudou Mangashuu
 15390|1|x-jat|Bessatsu Olympia Kyklos
 17297|2|en|Best Lay Ever
@@ -22874,6 +22875,7 @@
 15464|1|x-jat|Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2
 5678|3|x-jat|itakiss
 5678|4|en|ItaKiss
+5678|4|es-419|Itakiss
 3126|4|de|Itazura
 13611|1|x-jat|Itazura Majo to Nemuranai Machi
 5678|1|x-jat|Itazura na Kiss
@@ -34593,6 +34595,8 @@
 3973|4|de|Negadon - Das Monster vom Mars
 3973|4|en|NEGADON - the Monster from Mars
 3973|4|cs|Negadon: Stvůra z Marsu
+18786|1|x-jat|NegaPosi Angler
+18786|2|en|Negative Positive Angler
 2605|3|x-jat|negi
 6151|1|x-jat|Negibouzu no Asatarou
 2605|3|x-jat|negima
@@ -49538,7 +49542,7 @@
 18388|2|en|The Melee Mage
 1551|4|en|The Melody of Oblivion
 7976|2|en|The Messenger from the Sea
-18524|2|en|The Metaverse
+18524|4|en|The Metaverse
 9896|1|x-jat|The Midnight Animals
 8614|2|en|The Midnight Parasites
 5195|2|en|The Mighty Orbots
@@ -50915,6 +50919,7 @@
 332|2|en|Tombstone for Fireflies
 4192|2|x-jat|Tomei Ningen
 7627|3|x-jat|tomh
+18788|1|x-jat|Tomica Heroes Jobraver: Tokusou Gattai Robo
 12721|1|x-jat|Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu
 13607|1|x-jat|Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu (2018)
 15355|1|x-jat|Tomica Kizuna Gattai: Earth Granner
@@ -55832,6 +55837,7 @@
 16600|1|x-jat|Yuukoku no Moriarty (2022)
 15774|2|x-jat|Yuukoku no Moriarty Part 2
 13552|4|en|Yuuna and the Haunted Hot Springs
+18787|1|x-jat|Yuurei Funaikusa
 13321|1|x-jat|Yuurei Yashiki
 6949|1|x-jat|Yuurei-sen
 12012|1|x-jat|Yuuri!!! on Ice
@@ -62684,6 +62690,7 @@
 13536|4|te|బనాన ఫిష్‌
 11223|4|te|రేజ్ ఆఫ్ బహమట్ వర్జిన్ సోల్
 13293|4|te|వోటాకోయ్: లవ్ ఇస్ హార్డ్ ఫర్ ఓటాకు
+13844|4|th|ก็บอกว่าขอแค่ค่าเฉลี่ยไงล่ะคะ
 4151|4|th|กระโดดจัมพ์ ทะลุข้ามเวลา
 13734|4|th|ก๊วนป่วนชวนบุ๋งๆ
 4326|2|th|กะคุเอง เฮฟเว่น
@@ -62761,6 +62768,7 @@
 854|4|th|ชาช่า หนูน้อยหมวกแดง
 869|4|th|ชาช่า หนูน้อยหมวกแดง (โอวีเอ)
 92|4|th|ชาแมนคิง ราชันแห่งภูต
+18247|4|th|ชีวิตชิล ๆ ในต่างโลกกับอดีตแคนดิเดตผู้กล้าที่หลังจากเลเวล 2 ก็โคตรโกง
 2429|4|th|แชมเปี้ยน เจปัง สูตรดังเขย่าโลก!!
 4214|4|th|โชเน็น อนเมียวจิ จอมเวทปราบมาร
 16785|4|th|ซวยเหลือหลายเกิดใหม่กลายเป็นดาบ
@@ -62896,6 +62904,7 @@
 15492|4|th|แผนลับดับศัตรู
 3562|4|th|พลพรรคสัตว์เพี้ยน ป่วนทะลุมิติ
 16|4|th|พลีสทีชเชอร์ สอนนักรักซะ
+17702|4|th|พอได้เกิดใหม่เป็นองค์ชายลำดับที่เจ็ด ก็เพื่อเรียนเวทให้สนุก
 15812|4|th|พ่อบ้านสุดเก๋า
 306|4|th|พอร์โค รอสโซ สลัดอากาศประจัญบาน
 3298|2|th|พานิ โพนิ แดช
@@ -64291,6 +64300,7 @@
 15093|2|ko|발키리 해저드
 7102|2|ko|발키리조교・정액탱크 전처녀 10자매
 1395|2|ko|발튜스：티아의 빛
+18661|2|ko|밤놀이 생활!
 12647|4|ko|밤은 짧아 걸어 아가씨야
 267|2|ko|밤이 온다
 12946|4|ko|밥묵자
@@ -70827,6 +70837,7 @@
 11626|4|ja|トマトになった男の子
 12721|4|ja|トミカハイパーレスキュー ドライブヘッド 機動救急警察
 13607|4|ja|トミカハイパーレスキュー ドライブヘッド 機動救急警察 (2018)
+18788|4|ja|トミカヒーローズ ジョブレイバー 特装合体ロボ
 8741|4|ja|トミカ未来緊急隊アースコマンダー
 15355|4|ja|トミカ絆合体 アースグランナー
 786|4|ja|ドミニオン
@@ -71238,6 +71249,7 @@
 5623|4|ja|ネオアンジェリーク Abyss
 5623|2|ja|ネオアンジェリーク アビス
 8866|4|ja|ネオ里見八犬伝 サトミちゃんちの8男子
+18786|4|ja|ネガポジアングラー
 6151|4|ja|ねぎぼうずのあさたろう
 4565|4|ja|ネギま!?
 4812|4|ja|ネギま!? 夏 スペシャル
@@ -76520,6 +76532,7 @@
 1362|4|ja|卒業M ~オレ達のカーニバル~
 15384|2|ja|卒業痴漢電車
 6908|4|ja|協力防空戦
+18225|4|zh-Hans|单间、光照尚好、附带天使。
 10073|4|zh|卖猪
 12769|4|ja|南の国から来た手紙
 10565|4|ja|南の島のデラちゃん
@@ -77125,6 +77138,7 @@
 2748|4|ja|喪失郷
 7704|4|ja|喪服妻
 15287|4|zh-Hant|喬瑟與虎與魚群
+18225|4|zh-Hant|單人房、日照一般、附天使。
 10023|4|zh-Hant|單色小姐
 10507|4|ja|喰ヒ人
 6113|4|ja|喰霊 -零-
@@ -79320,6 +79334,7 @@
 17207|4|zh-Hans|幽零幻镜
 13321|4|ja|幽霊屋敷
 6949|4|ja|幽霊船
+18787|4|ja|幽霊船戦
 7|4|zh-Hant|幽靈公主
 17763|4|ja|幾多の北
 1810|2|zh-Hans|库拉乌 幻之记忆
