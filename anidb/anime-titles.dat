@@ -1,4 +1,4 @@
-# created: Wed Jul 31 03:00:02 2024
+# created: Thu Aug  1 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -15290,6 +15290,7 @@
 9980|3|x-jat|ft s2
 13295|3|x-jat|ft s3
 16637|3|x-jat|ft s4
+16637|3|x-unk|ft100
 9980|3|x-jat|ft2
 13295|3|x-unk|ft3
 13295|3|en|FT3
@@ -23563,7 +23564,7 @@
 8332|2|x-jat|Joshi Kosei to Inkou Kyoushi 4
 14909|1|x-jat|Joshi Luck!
 14112|3|x-jat|joshi ochi
-14112|2|x-jat|Joshi Ochi! 2-kai kara Onnanoko ga... Futte Kita - Falling Girls! A Girl Comes... Falling from the Second Floor
+14112|2|x-jat|Joshi Ochi! 2-kai kara Onnanoko ga... Futte Kita
 14112|1|x-jat|Joshi Ochi! Nikai kara Onnanoko ga... Futte Kita!?
 4294|2|en|Joshidai, Ecchi Soudanshitsu
 14471|3|x-jat|Joshikai
@@ -34176,6 +34177,7 @@
 8864|4|fr|Nanana`s Buried Treasure
 12514|1|x-jat|Nananin no Ayakashi: Chimi Chimi Mouryou!! Gendai Monogatari
 17326|1|x-jat|Nanaraki: Seven Lucky Gods
+18271|2|x-jat|Nanare Hananare
 4581|3|x-jat|Nanase Ren
 13599|1|x-jat|Nanatsu no Bitoku
 17030|1|x-jat|Nanatsu no Maken ga Shihai Suru
@@ -37078,7 +37080,7 @@
 12935|1|x-jat|Osomatsu-san: Sentou Quiz 2
 17247|1|x-jat|Osomatsu-san: Tamashii no Takoyaki Party to Densetsu no Otomarikai
 1737|3|x-jat|osr
-17965|3|x-unk|Ossan Newbie
+17965|3|en|Ossan Newbie
 171|3|x-jat|ostar
 2190|4|pl|Ostatni strażnik magii
 6238|2|sv|Österns Paradis
@@ -41637,7 +41639,7 @@
 12551|4|zh-Hans|Room Mate ～One Room side M～
 15061|2|en|Room Sharing the Animation
 11394|2|en|Rooms for Twentysomethings
-18772|2|en|Rooster Fighter
+18772|4|en|Rooster Fighter
 4324|3|x-jat|roots
 3363|4|en|Roots Search: Life Devourer X
 3363|1|x-jat|Roots Search: Shokushin Buttai X
@@ -42412,7 +42414,7 @@
 8870|1|x-jat|Sakamichi no Apollon
 18654|1|x-jat|Sakamoto Days
 18654|4|ja|SAKAMOTO DAYS
-18654|2|en|Sakamoto Days
+18654|4|en|Sakamoto Days
 11881|1|x-jat|Sakamoto Desu ga?
 11881|4|fr|Sakamoto, pour vous servir !
 8857|1|x-jat|Sakasama no Patema
@@ -44946,6 +44948,7 @@
 18329|4|ja|SHY (2024)
 18329|4|en|Shy (2024)
 18329|1|x-jat|Shy (2024)
+18329|2|en|Shy Season 2
 18329|2|ja|SHY 東京奪還編
 17658|4|zh-Hans|SHY 腼腆英雄
 17658|4|zh-Hant|SHY 靦腆英雄
@@ -46321,6 +46324,7 @@
 17784|4|en|Spy x Family (2023)
 17785|4|en|Spy x Family Code: White
 17785|4|es|Spy x Family Código: Blanco
+16947|4|th|SPY x FAMILY ซีซั่น 2
 16947|4|ja|SPY×FAMILY
 17061|4|ja|SPY×FAMILY (2022)
 17784|4|ja|SPY×FAMILY (2023)
@@ -48840,6 +48844,7 @@
 16376|2|en|The Company Slave Wants to Be Healed by a Little Ghost Girl
 11978|2|en|The Conceited General
 18001|4|en|The Concierge
+18001|4|de|The Concierge
 18001|2|en|The Concierge at Hokkyoku Department Store
 5802|2|en|The Conquering King of the Heavens: Fist of the North Star Raoh`s Story
 1314|4|en|The Cosmopolitan Prayers
@@ -51362,6 +51367,7 @@
 6677|2|fr|Trapéze
 6677|4|fr|Trapèze
 18314|1|x-jat|Trapezium
+18314|4|de|Trapezium
 2293|4|en|Trapp Family Story
 2293|1|x-jat|Trapp Ikka Monogatari
 17005|4|en|Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs
@@ -52332,6 +52338,8 @@
 17924|4|en|Undead Murder Farce
 17586|1|x-jat|Undead Unluck
 17586|4|en|Undead Unluck
+18789|2|en|Undead Unluck (2025)
+18789|1|x-jat|Undead Unluck (2025)
 11233|4|en|Undefeated Bahamut Chronicle
 11233|4|de|Undefeated Bahamut Chronicle
 16588|1|x-jat|Under Ninja
@@ -63036,6 +63044,9 @@
 1858|2|th|สตราโตส 4 (2004)
 445|2|th|สตราโตส 4 ภาค ทีวี
 2896|2|th|สตราโตส 4 แอดวานซ์
+16947|2|th|สปาย × แฟมิลี ซีซัน 2
+16947|2|th|สปาย × แฟมิลี พาร์ต 1
+17061|2|th|สปาย × แฟมิลี พาร์ต 2
 4121|4|th|สมาคมคนหนีโลก
 4563|4|th|สมุดโน้ตกระชากวิญญาณ
 590|4|th|สแลมดั๊งค์
@@ -66928,6 +66939,7 @@
 2648|2|ja|アンティーク・ハート
 3085|4|ja|アンデス少年 ペペロの冒険
 17586|4|ja|アンデッドアンラック
+18789|4|ja|アンデッドアンラック (2025)
 17924|4|ja|アンデッドガール・マーダーファルス
 2208|4|ja|アンデルセン物語
 2314|4|ja|アンデルセン物語 (1971)
@@ -77465,6 +77477,7 @@
 10104|4|ja|声をきかせて
 10937|4|zh-Hans|声之形
 7625|4|zh-Hans|声优初体验! The ANIMATION
+17788|4|zh-Hans|声优广播的幕前幕后
 3960|2|zh-Hans|声优白皮书
 17788|4|ja|声優ラジオのウラオモテ
 8331|4|ja|声優刑事
@@ -85242,6 +85255,7 @@
 17966|2|zh-Hant|聖魔大戰
 11667|4|zh|聪明的一休之反斗公主
 14204|2|zh-Hant|聯盟空軍航空魔法音樂隊 光輝魔女
+17788|4|zh-Hant|聲優廣播的幕前幕後
 335|2|zh|聽到海濤聲
 15136|4|zh-Hant|聽我的電波吧
 13846|2|zh-Hans|肆式青春
