@@ -1,4 +1,4 @@
-# created: Thu Aug  1 03:00:01 2024
+# created: Fri Aug  2 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1798,6 +1798,7 @@
 11082|3|x-jat|akagami
 11082|1|x-jat|Akagami no Shirayuki-hime
 11348|1|x-jat|Akagami no Shirayuki-hime (2016)
+11348|2|x-jat|Akagami no Shirayuki-hime S2
 11524|1|x-jat|Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page
 11082|2|x-jat|Akagami no Shirayukihime
 11348|2|x-jat|Akagami no Shirayukihime (2016)
@@ -5912,7 +5913,14 @@
 14416|2|x-jat|Boku no Hero Academia 4
 15484|2|x-unk|Boku no Hero Academia 5th Season
 17931|2|x-jat|Boku no Hero Academia 7th Season
+12344|2|x-jat|Boku no Hero Academia OVA
 12344|2|en|Boku no Hero Academia OVA (2016)
+12233|2|x-jat|Boku no Hero Academia S2
+13485|2|x-jat|Boku no Hero Academia S3
+14416|2|x-jat|Boku no Hero Academia S4
+15484|2|x-jat|Boku no Hero Academia S5
+16793|2|x-jat|Boku no Hero Academia S6
+17931|2|x-jat|Boku no Hero Academia S7
 13485|2|x-jat|Boku no Hero Academia Season 3
 17931|2|x-jat|Boku no Hero Academia Season 7
 14776|1|x-jat|Boku no Hero Academia the Movie - Heroes:Rising
@@ -11992,6 +12000,7 @@
 14491|1|x-jat|Dr. Stone
 14491|4|en|Dr. Stone
 14491|4|pl|Dr. Stone
+15305|2|en|Dr. Stone S2: Stone Wars
 17053|1|x-jat|Dr. Stone: New World
 17053|4|de|Dr. Stone: New World
 17053|4|en|Dr. Stone: New World
@@ -13724,6 +13733,7 @@
 4777|2|pt|Estrela da Sorte
 12758|2|fr|Et si ma gentille et fidèle petite amie se faisait tringler par le pire groupe de cette planète ?
 5516|4|fr|Et voici la petite Lulu
+16513|2|en|Eternal 831
 3985|4|fr|Eternal Alice
 3985|2|en|Eternal Alice
 17262|1|x-jat|Eternal Boys
@@ -15236,6 +15246,7 @@
 15929|1|x-jat|From North Field
 15929|4|ja|from North Field
 12005|2|en|From now, I`m......
+18793|2|en|From Old Country Bumpkin to Master Swordsman
 1383|4|en|From the Apennines to the Andes
 4751|4|en|From the Apennines to the Andes: The Movie
 9002|4|en|From the New World
@@ -17126,6 +17137,7 @@
 7039|1|x-jat|Ginga Tetsudou 999: Diamond Ring no Kanata e
 4315|1|x-jat|Ginga Tetsudou 999: Eien no Tabibito Emeraldas
 2033|1|x-jat|Ginga Tetsudou 999: Eternal Fantasy
+13306|2|x-jat|Ginga Tetsudou 999: Fumetsu no Kuukankidou
 2231|1|x-jat|Ginga Tetsudou 999: Glass no Clair
 4122|1|x-jat|Ginga Tetsudou 999: Kimi wa Haha no You ni Aiseruka!!
 4230|1|x-jat|Ginga Tetsudou 999: Kimi wa Senshi no You ni Ikirareruka!!
@@ -22729,6 +22741,8 @@
 10329|1|x-jat|IS: Infinite Stratos 2 - World Purge Hen
 8586|1|x-jat|IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou
 8586|4|en|IS: Infinite Stratos Encore - The Sextet Yearns to Be in Love
+9849|2|en|IS: Infinite Stratos S2
+10329|2|en|IS: Infinite Stratos S2 - World Purge Hen
 7727|2|bg|IS: Безкрайни небеса
 7727|2|fa|IS: آسمان بی انتها
 7727|2|ko|IS: 인피니트 스트라토스
@@ -24639,6 +24653,7 @@
 733|1|x-jat|Kasumin 3rd Series
 16387|1|x-jat|Kata no Ato
 13420|1|x-jat|Katainaka ni Totsui de Kita Russia Musume to H Shimakuru Ohanashi
+18793|1|x-jat|Katainaka no Ossan, Kensei ni Naru
 6987|1|x-jat|Kataku: Nou "Motometsuka" yori
 13172|4|en|Katana Maidens
 13172|4|fr|Katana Maidens
@@ -25412,6 +25427,7 @@
 8014|2|pt-BR|Kimi ni Todoke 2
 8014|1|x-jat|Kimi ni Todoke 2nd Season
 18179|1|x-jat|Kimi ni Todoke 3rd Season
+18179|2|x-jat|Kimi ni Todoke Season 3
 6466|4|en|Kimi ni Todoke: From Me to You
 8014|4|en|Kimi ni Todoke: From Me to You (2011)
 8014|2|en|Kimi ni Todoke: From Me to You 2nd Season
@@ -37997,6 +38013,7 @@
 209|4|en|Pet Shop of Horrors
 209|4|ja|Pet Shop of Horrors ペットショップ・オブ・ホラーズ
 2542|4|it|Petali di stelle per Sailor Moon
+18791|2|en|Petals of Reincarnation
 15107|4|en|Peter Grill and the Philosopher`s Time
 16973|4|en|Peter Grill and the Philosopher`s Time: Super Extra
 15107|1|x-jat|Peter Grill to Kenja no Jikan
@@ -40983,6 +41000,7 @@
 18437|2|en|Reincarnated as the Daughter of the Legendary Hero and the Queen of Spirits
 16057|2|en|Reincarnated into Demon King Evelogia`s World
 18624|2|en|Reincarnated Marquis
+18791|1|x-jat|Reincarnation no Hanabira
 327|4|fr|Réincarnations - Please Save My Earth
 1600|4|fr|Reines, princesses et soumission
 2017|1|x-jat|Reinou Tantei Miko
@@ -43571,7 +43589,7 @@
 14962|1|x-jat|Senpai Club
 15621|1|x-jat|Senpai ga Uzai Kouhai no Hanashi
 17945|4|en|Senpai Is an Otokonoko
-17945|6|en|Senpai Is an Otokonoko: this is him (can`t be anyone else)
+17945|2|en|Senpai Is an Otokonoko: This Is Him (Can`t Be Anyone Else)
 17945|1|x-jat|Senpai wa Otokonoko
 9166|1|x-jat|Senran Kagura
 9166|4|en|Senran Kagura
@@ -46307,6 +46325,7 @@
 17256|4|en|Spy Classroom
 17979|4|en|Spy Classroom (2023)
 17979|2|en|Spy Classroom 2nd Season
+17979|2|en|Spy Classroom Season 2
 6822|2|en|Spy Destruction
 6822|1|x-jat|Spy Gekimetsu
 17256|1|x-jat|Spy Kyoushitsu
@@ -48482,6 +48501,7 @@
 17118|4|en|Teppen!!!!!!!!!!!!!!! Laughing `Til You Cry
 9634|2|x-kot|Tera
 12717|1|x-jat|Terajima-chou Kidan: Ginnagashi
+18792|1|x-jat|Terminator 0
 18275|1|en|Terminator Zero
 18071|4|pt|Terra de Alma Ⅱ: O Inigualável Clã Tang
 1416|1|x-jat|Terra e...
@@ -56200,6 +56220,7 @@
 13464|1|x-zht|Zhu Zhu Xia: Zhong Ji Jue Zhan
 13738|1|x-zht|Zhu Zhu Xia: Zhong Ji Jue Zhan Qian Ye Pian
 18006|1|x-zht|Zhui Xu
+18790|1|x-zht|Zhui Xu 2
 16594|1|x-zht|Zi Chuan
 14866|1|x-zht|Zi Gu Yingxiong Chu Shaonian
 16594|2|x-zht|ZICHUAN
@@ -70102,6 +70123,7 @@
 2498|4|ja|ダーティペア ラブリーエンジェルより愛をこめて
 1174|4|ja|ダーティペア 謀略の005便
 402|4|ja|ダーティペアFLASH
+18792|4|ja|ターミネーター 0
 1128|4|ja|ダーリン
 13259|4|ja|ダーリン・イン・ザ・フランキス
 2813|4|ja|ターンエーガンダムI 地球光
@@ -70523,6 +70545,7 @@
 3692|4|ja|でこぼこフレンズ
 17614|4|ja|でこぼこ魔女の親子事情
 8789|4|ja|テコンV
+2979|5|ja|デザート・ローズ ゆきのもくしろく
 10010|4|ja|てさぐれ! 部活もの
 10374|4|ja|てさぐれ! 部活もの あんこーる
 10974|4|ja|てさぐれ! 部活もの すぴんおふ プルプルんシャルムと遊ぼう
@@ -73867,6 +73890,7 @@
 16069|4|ja|リアデイルの大地にて
 15878|4|ja|リアルエロゲシチュエーション! 2 THE ANIMATION
 13556|4|ja|リアルエロゲシチュエーション! THE ANIMATION
+18791|4|ja|リィンカーネーションの花弁
 18676|4|ja|リヴァイアサン
 13891|2|ja|リヴィジョンズ
 6348|4|ja|リカちゃん ふしぎな魔法のリング
@@ -77731,6 +77755,7 @@
 4087|4|ja|大暴れ孫悟空
 17233|4|ja|大槌カイ物語 -Departure 出航-
 14990|2|zh-Hans|大欺诈师
+18280|4|zh-Hans|大欺诈师 razbliuto
 15938|4|ja|大正オトメ御伽話
 12557|2|ja|大正ちっちゃいさん
 12557|4|ja|大正メビウスライン ちっちゃいさん
@@ -83258,6 +83283,7 @@
 16663|4|zh-Hans|爸妈来自二次元
 13420|4|ja|片田舎に嫁いできた○シア娘とHしまくるお話
 13420|2|ja|片田舎に嫁いできたロシア娘とHしまくるお話
+18793|4|ja|片田舎のおっさん, 剣聖になる
 9182|4|ja|片翼のクロノスギア
 4264|2|zh-Hans|牙
 4264|4|zh-Hans|牙 -KIBA-
@@ -84688,7 +84714,7 @@
 2792|4|ja|精霊使い
 9999|4|ja|精霊使いの剣舞
 15875|4|ja|精霊幻想記
-16962|4|ja|精霊幻想記 2
+16962|4|ja|精霊幻想記2
 9999|4|zh-Hant|精靈使的劍舞
 2729|2|zh-Hant|精靈俏女巫
 230|4|zh-Hant|精靈寶可夢
@@ -86157,6 +86183,7 @@
 5427|4|zh-Hans|赌博默示录: 逆境無頼
 8242|4|zh-Hans|赌博默示录：破戒录篇
 18006|4|zh-Hans|赘婿
+18790|4|zh-Hans|赘婿 第二季
 2643|2|zh-Hans|赛亚人灭绝计划 ~地球篇|宇宙篇~
 15610|2|zh-Hans|赛博朋克：边缘行者
 15610|4|zh-Hans|赛博浪客
@@ -86939,6 +86966,7 @@
 13306|4|ja|銀河鉄道999 (2002)
 2033|4|ja|銀河鉄道999 エターナルファンタジー
 7039|4|ja|銀河鉄道999 ダイヤモンドリングの彼方へ
+13306|2|ja|銀河鉄道999 不滅の空間軌道
 4230|4|ja|銀河鉄道999 君は戦士のように生きられるか!!
 4122|4|ja|銀河鉄道999 君は母のように愛せるか!!
 4315|4|ja|銀河鉄道999 永遠の旅人エメラルダス
