@@ -1,4 +1,4 @@
-# created: Fri Aug  2 03:00:01 2024
+# created: Sat Aug  3 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -18913,6 +18913,7 @@
 14928|1|x-jat|Haishin Yuusha
 9295|1|x-jat|Haitai Nanafa
 9747|1|x-jat|Haitai Nanafa (2013)
+18794|1|x-jat|Haite Kudasai, Takamine-san
 15822|1|x-jat|Haitoku no Kyoukai
 658|1|x-jat|Haitoku no Shoujo
 4081|1|x-jat|Haitoku Tsuma
@@ -24652,7 +24653,7 @@
 6058|1|x-jat|Kasumin 2nd Series
 733|1|x-jat|Kasumin 3rd Series
 16387|1|x-jat|Kata no Ato
-13420|1|x-jat|Katainaka ni Totsui de Kita Russia Musume to H Shimakuru Ohanashi
+13420|1|x-jat|Katainaka ni Totsuide Kita **ssiya Musume to H Shimakuru Ohanashi
 18793|1|x-jat|Katainaka no Ossan, Kensei ni Naru
 6987|1|x-jat|Kataku: Nou "Motometsuka" yori
 13172|4|en|Katana Maidens
@@ -38481,6 +38482,7 @@
 9142|2|en|Pleasant Goat and Big Big Wolf 4
 8430|2|en|Pleasant Goat and Big Big Wolf: The Super Adventure
 5158|2|en|Please My Melody Refreshed
+18794|2|en|Please Put Them On, Takamine-san
 8978|1|x-jat|Please Rape Me!
 327|4|en|Please Save My Earth
 12921|2|en|Please Take Away My Brother
@@ -43210,6 +43212,7 @@
 1895|2|en|Secrets of Akko-chan (1998)
 1894|2|en|Secrets of Akko-chan 2
 1893|2|en|Secrets of Little Akko
+18795|2|en|Secrets of the Silent Witch
 16020|4|ro|Secția de Extragere a Spermei
 10596|4|hr|Sedam smrtnih grijeha
 1542|4|cs|Sedm Samurajů
@@ -45038,6 +45041,7 @@
 2334|2|x-jat|Silent Moebius: The Motion Picture
 1185|4|en|Silent Service
 10937|4|fr|Silent Voice
+18795|1|x-jat|Silent Witch: Chinmoku no Majo no Kakushigoto
 4560|2|en|Silk Road Boy Yuto
 4560|1|x-jat|Silk Road Shounen Yuuto
 564|2|en|Silver Armor Knight Ordian
@@ -50768,7 +50772,7 @@
 4151|2|x-jat|Toki wo Kakeru Shoujo
 5944|1|x-jat|Toki-iro Kaima
 10080|1|x-jat|Toki: Kono Hoshi no Mirai o Mitsumete
-17914|1|x-jat|Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san
+17914|1|x-jat|Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san
 6441|2|lt|Tokijas: 8.0 Balų žemės drebėjimas
 1217|4|lt|Tokijo krikštatėviai
 1217|4|sl|Tokijski botri
@@ -54235,6 +54239,7 @@
 15647|4|en|World Witches Take Off!
 15647|2|en|World Witches: Take Off!
 17229|4|en|World, Before You End
+9259|4|en|World`s End
 15561|4|en|World`s End Harem
 15561|4|de|World`s End Harem
 2227|2|en|World`s Famous Stories for Children: Thumb Princess
@@ -55884,8 +55889,8 @@
 1717|1|x-jat|Yuusha Ou GaoGaiGar Final
 3152|1|x-jat|Yuusha Ou GaoGaiGar Final Grand Glorious Gathering
 17444|1|x-jat|Yuusha Party o Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau
-18782|1|x-jat|Yuusha Party o Tsuihou Sareta Hakuma Doushi, S Rank Boukensha ni Hirowareru: Kono Hakuma Doushi ga Kikakugai Sugiru
-18782|2|x-jat|Yuusha Party wo Tsuihousareta Hakuma Doushi, S Rank Boukensha ni Hirowareru - Kono Hakuma Doushi ga Kikakugai sugiru
+18782|1|x-jat|Yuusha Party o Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugai Sugiru
+18782|2|x-jat|Yuusha Party wo Tsuihousareta Shiro Madoushi, S Rank Boukensha ni Hirowareru - Kono Shiro Madoushi ga Kikakugai sugiru
 1819|1|x-jat|Yuusha Raideen
 2459|1|x-jat|Yuusha Shirei Dagwon
 3153|1|x-jat|Yuusha Shirei Dagwon: Suishou no Hitomi no Shounen
@@ -69132,6 +69137,7 @@
 11169|4|ja|サイボーグ009VSデビルマン
 1341|4|ja|サイボーグクロちゃん
 1796|4|ja|サイボットロボッチ
+18795|4|ja|サイレント・ウィッチ 沈黙の魔女の隠しごと
 5885|2|ja|サイレントチェイサー カガミ
 5885|2|ja|サイレントチェイサー狩神
 455|4|ja|サイレントメビウス
@@ -79083,6 +79089,7 @@
 12613|4|ja|展覧会で逢った女の子
 3470|4|ja|展覧会の絵
 10011|4|zh-Hans|属性同好会D-FRAGMENTS
+18794|4|ja|履いてください, 鷹峰さん
 17729|4|ja|山
 11296|4|zh|山T老夫子
 9189|4|ja|山に輝く ガイド犬平治号
@@ -88332,9 +88339,11 @@
 15131|4|ja|魔王学院の不適合者 ~史上最強の魔王の始祖, 転生して子孫たちの学校へ通う~
 16101|4|ja|魔王学院の不適合者 ~史上最強の魔王の始祖, 転生して子孫たちの学校へ通う~ II
 16102|4|ja|魔王学院の不適合者 ~史上最強の魔王の始祖, 転生して子孫たちの学校へ通う~ II (2024)
+16102|4|zh-Hans|魔王学院的不适任者 ～史上最强的魔王始祖，转生就读子孙们的学校～Ⅱ 第二季度
 15131|4|zh-Hans|魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～
 16101|4|zh-Hans|魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～ Ⅱ
 15131|4|zh-Hant|魔王學院的不適任者～史上最強的魔王始祖，轉生就讀子孫們的學校～
+16102|4|zh-Hant|魔王學院的不適任者～史上最強的魔王始祖，轉生就讀子孫們的學校～ II 第二季度
 16101|4|zh-Hant|魔王學院的不適任者～史上最強的魔王始祖，轉生就讀子孫們的學校～ 第2季
 14391|4|ja|魔王様, リトライ!
 18167|4|ja|魔王様, リトライ! R
