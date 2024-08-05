@@ -1,4 +1,4 @@
-# created: Sat Aug  3 03:00:02 2024
+# created: Sun Aug  4 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1446,6 +1446,9 @@
 18367|2|en|Against the Gods
 16583|2|en|Against the Sky Supreme
 16433|1|en|AgainsttheGods
+18375|4|en|Agate
+18784|4|en|Agate (2024)
+18784|2|en|Agate 2
 2161|3|x-jat|agatha
 2161|1|x-jat|Agatha Christie no Meitantei Poirot to Marple
 2161|2|pt-BR|Agatha Christie: Grandes Detetives Poirot e Marple
@@ -1547,6 +1550,8 @@
 16505|3|x-jat|Aharen-san
 16505|4|en|Aharen-san wa Hakarenai
 16505|1|x-jat|Aharen-san wa Hakarenai
+18798|1|x-jat|Aharen-san wa Hakarenai Season 2
+18798|2|en|Aharen-san wa Hakarenai Season 2
 12746|3|x-jat|ahcf
 15727|4|es-419|Ahí está el Cuello de Botella
 12881|1|x-jat|Ahiru no Ko
@@ -6249,6 +6254,8 @@
 372|4|fr|Brain Powerd
 372|4|it|Brain Powerd
 372|2|en|Brain Powered
+18375|2|en|Brainless Witch
+18784|2|en|Brainless Witch 2nd Season
 4906|4|pl|Brama piekieł
 8655|2|pl|Brama Steina: Brzemię déjà vu
 10982|2|pl|Brama: Jak rozpętała się wojna międzyświatowa
@@ -7838,6 +7845,7 @@
 570|3|en|Chiyoko
 570|2|en|Chiyoko Millennial Actress
 16537|1|x-jat|Chiyu Mahou no Machigatta Tsukaikata
+18799|1|x-jat|Chiyu Mahou no Machigatta Tsukaikata 2
 16537|3|x-jat|chiyumahou
 13177|1|x-jat|Chizu no Nai Bouken
 16400|1|x-jat|Chizuru-chan Kaihatsu Nikki
@@ -12644,7 +12652,9 @@
 15471|1|x-jat|Duel Masters King
 17195|1|x-jat|Duel Masters King Max
 16009|1|x-jat|Duel Masters King!
+18797|4|ja|Duel Masters LOST ~月下の死神~
 18521|4|ja|Duel Masters LOST ~追憶の水晶~
+18797|1|x-jat|Duel Masters Lost: Gekka no Shinigami
 18521|1|x-jat|Duel Masters Lost: Tsuioku no Suishou
 2911|2|x-jat|Duel Masters Movie
 2911|2|en|Duel Masters Movie 1
@@ -14407,15 +14417,18 @@
 14239|4|el|Fate/Grand Order Η ΤΑΙΝΙΑ Θεϊκό Βασίλειο της Στρογγυλής Τραπέζης: Κάμελοτ
 14238|4|zh-Hans|Fate/Grand Order 绝对魔兽战线 巴比伦尼亚
 17804|4|ja|Fate/Grand Order 藤丸立香はわからない
+18796|4|ja|Fate/Grand Order 藤丸立香はわからない (2024)
 15461|4|en|Fate/Grand Order: Final Singularity - Grand Temple of Time: Solomon
 12519|1|x-jat|Fate/Grand Order: First Order
 12519|4|en|Fate/Grand Order: First Order
 17804|1|x-jat|Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai
+18796|1|x-jat|Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai (2024)
 13643|1|x-jat|Fate/Grand Order: Moonlight/Lostroom
 13643|4|en|Fate/Grand Order: Moonlight/Lostroom
 15461|1|x-jat|Fate/Grand Order: Shuukyoku Tokuiten - Kan`i Jikan Shinden Solomon
 14239|4|en|Fate/Grand Order: The Sacred Round Table Realm Camelot
 17804|4|en|Fate/Grand Order: You`ve Lost Ritsuka Fujimaru
+18796|2|en|Fate/Grand Order: You`ve Lost Ritsuka Fujimaru (2024)
 14238|1|x-jat|Fate/Grand Order: Zettai Majuu Sensen Babylonia
 18092|1|x-jat|Fate/Grand Order: Zettai Majuu Sensen Babylonia Soushuuhen
 18092|4|en|Fate/Grand Order: Zettai Majuu Sensen Babylonia Summary
@@ -20861,6 +20874,7 @@
 2048|1|x-jat|Honey Honey no Suteki na Bouken
 2048|2|en|Honey Honey`s Wonderful Adventures
 18516|1|x-jat|Honey Lemon Soda
+18516|4|en|Honey Lemon Soda
 16116|2|en|Honey Suicide Machine
 7911|1|x-jat|Honey Tokyo
 4367|4|en|Honey x Honey Drops
@@ -24653,6 +24667,7 @@
 6058|1|x-jat|Kasumin 2nd Series
 733|1|x-jat|Kasumin 3rd Series
 16387|1|x-jat|Kata no Ato
+13420|2|x-jat|Katainaka ni Totsuide Kita **ssia Musume to H Shimakuru Ohanashi
 13420|1|x-jat|Katainaka ni Totsuide Kita **ssiya Musume to H Shimakuru Ohanashi
 18793|1|x-jat|Katainaka no Ossan, Kensei ni Naru
 6987|1|x-jat|Kataku: Nou "Motometsuka" yori
@@ -27305,6 +27320,7 @@
 4151|4|es-419|La chica que saltaba a través del tiempo
 4588|4|fr|La Chorale - Furusato Japan
 1300|4|fr|La cicatrice de la sirène
+9126|4|es-419|La cita de Natsuyuki
 1040|4|fr|La cité interdite
 1040|4|it|La città delle bestie incantatrici
 112|4|it|La Città Incantata
@@ -33808,6 +33824,7 @@
 18150|4|en|My Hero Academia: You`re Next
 18150|4|fr|My Hero Academia: You`re Next
 18006|2|en|My Heroic Husband
+18790|4|en|My Heroic Husband 2
 1554|2|en|My Hime
 14029|2|en|My Holy Weapon
 17471|1|x-jat|My Home Hero
@@ -34959,6 +34976,7 @@
 1364|4|ja|NG騎士ラムネ&40
 1366|4|ja|NG騎士ラムネ&40DX ワクワク時空 炎の大捜査戦
 1365|4|ja|NG騎士ラムネ&40EX ビクビクトライアングル愛の嵐大作戦
+17870|4|vi|Nhật ký bào chế thuốc
 3464|2|vi|Nhật ký của Tortov Roddle
 1327|2|x-unk|Nhật ký Midori
 4472|3|x-jat|NHG
@@ -35073,8 +35091,8 @@
 7278|3|en|Nightraid
 17336|2|en|Nights with a Cat
 17814|2|en|Nights with a Cat (2023)
+18504|2|en|Nights with a Cat (2024)
 17814|2|en|Nights with a Cat 2
-18504|2|en|Nights with a Cat 3
 2606|2|en|Nightsong of Splendor
 737|4|en|NightWalker
 17760|3|x-jat|nigoriri
@@ -41636,7 +41654,7 @@
 17783|2|en|Ron Kamonohashi: Deranged Detective
 17783|4|fr|Ron Kamonohashi: Deranged Detective
 17783|4|en|Ron Kamonohashi`s Forbidden Deductions
-18350|2|en|Ron Kamonohashi`s Forbidden Deductions 2nd Season
+18350|4|en|Ron Kamonohashi`s Forbidden Deductions Season 2
 10421|2|en|Ronia the Robber`s Daughter
 460|2|en|Ronin Warriors
 3377|2|en|Ronin Warriors Gaiden
@@ -48505,7 +48523,6 @@
 17118|4|en|Teppen!!!!!!!!!!!!!!! Laughing `Til You Cry
 9634|2|x-kot|Tera
 12717|1|x-jat|Terajima-chou Kidan: Ginnagashi
-18792|1|x-jat|Terminator 0
 18275|1|en|Terminator Zero
 18071|4|pt|Terra de Alma Ⅱ: O Inigualável Clã Tang
 1416|1|x-jat|Terra e...
@@ -48998,7 +49015,7 @@
 14797|4|pl|The Disastrous Life of Saiki K.: Reawakened
 14797|4|cs|The Disastrous Life of Saiki K.: Reawakened
 14797|4|my|The Disastrous Life of Saiki K.: Reawakened
-18013|2|en|The Do-Over Damsel Conquers the Dragon Emperor
+18013|4|en|The Do-Over Damsel Conquers the Dragon Emperor
 17844|4|en|The Dog & the Boy
 1646|4|en|The Dog of Flanders
 1646|4|ja|THE DOG OF FLANDERS
@@ -50229,6 +50246,7 @@
 18207|2|en|The World`s Finest Assassin Gets Reincarnated in Another World as an Aristocrat 2
 7051|4|en|The World`s Greatest Fairy Tales
 16537|4|en|The Wrong Way to Use Healing Magic
+18799|4|en|The Wrong Way to Use Healing Magic 2
 16611|4|en|The Yakuza`s Guide to Babysitting
 3664|2|en|The Yearling
 17058|4|en|The Young Brewmaster`s Adventure
@@ -50773,6 +50791,7 @@
 5944|1|x-jat|Toki-iro Kaima
 10080|1|x-jat|Toki: Kono Hoshi no Mirai o Mitsumete
 17914|1|x-jat|Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san
+17914|2|x-jat|Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san
 6441|2|lt|Tokijas: 8.0 Balų žemės drebėjimas
 1217|4|lt|Tokijo krikštatėviai
 1217|4|sl|Tokijski botri
@@ -51474,6 +51493,7 @@
 7208|4|cs|Trigun: Rachot v Badlands
 17464|3|x-jat|Trigun: Stampede
 18195|1|x-jat|Trillion Game
+18195|4|en|Trillion Game
 7047|2|en|Trilogy About Cloud
 7047|2|en|Trilogy About Clouds
 2810|3|x-jat|trinity
@@ -52135,6 +52155,7 @@
 4992|1|x-jat|Ugokie Kori no Tatehiki
 15916|1|x-jat|Ugoku! Nya Shogi
 9156|1|x-jat|Uhou Renka
+18800|1|x-jat|Uji ni wa Monogatari ga Aru
 11274|1|x-kot|Uju Heukgisa
 15913|1|x-kot|Uju Jeonsa Hong Gildong
 2481|3|x-jat|UK
@@ -53842,6 +53863,7 @@
 9823|2|en|White Album II
 6970|2|ja|WHITE ALBUM 後半
 6970|2|ja|WHITE ALBUM 後期
+6026|4|es-419|WHITE ALBUM: Discografía de Recuerdos
 9823|4|ja|WHITE ALBUM2
 13803|2|en|White Bird
 15705|1|x-jat|White Blue
@@ -54306,6 +54328,8 @@
 15381|2|en|Wu Liuqi`s Strongest Hair Stylist
 18375|1|x-zht|Wu Nao Monu
 18784|1|x-zht|Wu Nao Monu (2024)
+18784|2|x-zht|Wu Nao Monu 2nd Season
+18784|2|x-zht|Wu Nao Monu Di Er Ji
 15631|1|x-zht|Wu Ren Shen Chuanshuo
 15663|1|x-zht|Wu Shan Wu Xing
 17241|1|x-zht|Wu Shan Wu Xing: Xichuan Huan Zi Lin
@@ -55234,8 +55258,8 @@
 12647|1|x-jat|Yoru wa Mijikashi Aruke yo Otome
 17336|1|x-jat|Yoru wa Neko to Issho
 17814|1|x-jat|Yoru wa Neko to Issho (2023)
+18504|1|x-jat|Yoru wa Neko to Issho (2024)
 17814|2|x-jat|Yoru wa Neko to Issho 2
-18504|1|x-jat|Yoru wa Neko to Issho 3
 17938|3|x-jat|Yorukura
 12647|3|x-jat|yorumi
 7171|1|x-jat|Yosan Seiji
@@ -55870,7 +55894,7 @@
 16600|1|x-jat|Yuukoku no Moriarty (2022)
 15774|2|x-jat|Yuukoku no Moriarty Part 2
 13552|4|en|Yuuna and the Haunted Hot Springs
-18787|1|x-jat|Yuurei Funaikusa
+18787|1|x-jat|Yuurei Sensen
 13321|1|x-jat|Yuurei Yashiki
 6949|1|x-jat|Yuurei-sen
 12012|1|x-jat|Yuuri!!! on Ice
@@ -56226,6 +56250,8 @@
 13738|1|x-zht|Zhu Zhu Xia: Zhong Ji Jue Zhan Qian Ye Pian
 18006|1|x-zht|Zhui Xu
 18790|1|x-zht|Zhui Xu 2
+18790|2|x-zht|Zhui Xu 2nd Season
+18790|2|x-zht|Zhui Xu Di Er Ji
 16594|1|x-zht|Zi Chuan
 14866|1|x-zht|Zi Gu Yingxiong Chu Shaonian
 16594|2|x-zht|ZICHUAN
@@ -67231,6 +67257,7 @@
 11053|4|ja|うしおととら (2015)
 11318|4|ja|うしおととら (2016)
 15498|4|ja|うしちち食べ放題!ジ・アニメーション
+18800|4|ja|うじには物語がある
 3630|4|ja|うしろの正面だあれ
 4236|4|ja|うしろの百太郎
 15063|4|ja|うずまき
@@ -67661,6 +67688,7 @@
 2860|4|ja|おとぎ銃士 赤ずきん
 2859|4|ja|おとぎ銃士 赤ずきん (2006)
 12730|4|ja|オトコのコ♂デリバリー
+8262|2|ja|オトコの娘 お嬢様っ 光と綾奈の秘密コレクション
 8262|4|ja|オトコの娘お嬢様っ 光と綾奈の秘密コレクション
 13105|4|ja|オトッペ
 8747|2|ja|オトナの童話シリーズ 世にも恐ろしいグリム童話
@@ -70129,7 +70157,6 @@
 2498|4|ja|ダーティペア ラブリーエンジェルより愛をこめて
 1174|4|ja|ダーティペア 謀略の005便
 402|4|ja|ダーティペアFLASH
-18792|4|ja|ターミネーター 0
 1128|4|ja|ダーリン
 13259|4|ja|ダーリン・イン・ザ・フランキス
 2813|4|ja|ターンエーガンダムI 地球光
@@ -74789,6 +74816,7 @@
 17360|4|ja|久保さんは僕を許さない
 17360|4|zh-Hans|久保同学不放过我
 11918|4|zh-Hans|乌冬面之国的金色毛毬
+18253|4|zh-Hans|乌鸦不择主
 1824|4|zh-Hans|乌龙派出所
 12224|4|zh-Hans|乌龙派出所 THE FINAL 两津勘吉最后的一天
 1823|4|zh-Hans|乌龙派出所 剧场版：史上最恶爆弹大作战
@@ -76068,6 +76096,7 @@
 15735|4|zh-Hans|剧场版 刀剑神域 进击篇 无星之夜的咏叹调
 16951|4|zh-Hans|剧场版 刀剑神域 进击篇 阴沉薄暮的诙谐曲
 12962|4|zh-Hans|剧场版 吹响！悠风号～想要传达的旋律～
+11747|4|zh-Hans|剧场版 吹响吧！上低音号～欢迎来到北宇治高中吹奏乐部～
 16169|4|zh-Hans|剧场版 咒术回战 0
 418|4|zh-Hans|剧场版 咕噜咕噜魔法阵
 13830|4|zh-Hans|剧场版 在地下城寻求邂逅是否搞错了什么：俄里翁之箭
@@ -76998,7 +77027,10 @@
 6017|2|zh-Hans|吸血鬼骑士.罪
 10889|4|zh-Hans|吹响! 上低音号
 11746|4|zh-Hans|吹响！悠风号 第二季
+10889|2|zh-Hans|吹响吧！上低音号
 14935|4|zh-Hans|吹响吧！上低音号 第三季
+11746|2|zh-Hans|吹响吧！上低音号 第二季
+12962|2|zh-Hans|吹响吧！上低音号～想要传达的旋律～
 13207|4|zh-Hans|吹响吧！上低音号~誓言的终曲~
 17717|4|ja|吾輩は犬である ドン松五郎の生活
 6576|4|ja|吾輩は猫である
@@ -77619,7 +77651,7 @@
 11564|4|ja|夜の灯
 17336|4|ja|夜は猫といっしょ
 17814|4|ja|夜は猫といっしょ (2023)
-18504|4|ja|夜は猫といっしょ3
+18504|4|ja|夜は猫といっしょ (2024)
 12647|4|ja|夜は短し歩けよ乙女
 16246|4|zh-Hant|夜之國
 10897|4|zh-Hans|夜之小双侠
@@ -78405,6 +78437,7 @@
 12239|4|ja|妻みぐい3 THE ANIMATION
 18509|4|ja|妻を同窓会にいかせたら
 4075|4|ja|姉, ちゃんとしようよっ!
+18174|2|ja|姉○尽くし
 4735|4|ja|姉☆孕みっくす
 8590|4|ja|姉SUMMER!
 10716|4|ja|姉キュン! ~女子が家に来た!~
@@ -80524,6 +80557,7 @@
 15612|4|zh-Hans|搏斗运动员们 大运动会 重启！
 13552|4|zh-Hant|搖曳莊的幽奈小姐
 13659|4|zh-Hant|搖曳莊的幽奈小姐 OAD
+17676|4|zh-Hant|搖曳露營△ 第三季
 15281|4|zh-Hant|搖滾少女!! 活力棉花糖!!
 16432|4|zh-Hans|搜玄录之宸灵纪
 10475|4|zh-Hans|搞姬日常
@@ -80540,6 +80574,7 @@
 8844|4|zh-Hans|摇曳百合♪♪
 8844|2|zh-Hans|摇曳百合2
 12743|4|zh-Hans|摇曳露营△
+17676|4|zh-Hans|摇曳露营△ 第三季
 14437|4|zh-Hans|摇曳露营△ 第二季
 2320|2|zh-Hans|摇滚新乐团
 16448|4|zh-Hans|摇滚永生
@@ -81042,6 +81077,7 @@
 15492|2|zh-Hans|无能的奈奈
 18375|4|zh-Hans|无脑魔女
 18784|4|zh-Hans|无脑魔女 (2024)
+18784|2|zh-Hans|无脑魔女 第二季
 17244|4|zh-Hans|无良公会
 8732|4|zh-Hans|无责任舰长OVA
 13224|4|zh-Hans|无责任银河☆泰勒
@@ -82568,6 +82604,7 @@
 5056|4|zh-Hans|河童之夏
 16537|4|zh-Hans|治愈魔法的错误使用方法
 16537|4|ja|治癒魔法の間違った使い方
+18799|4|ja|治癒魔法の間違った使い方 2
 16537|2|zh-Hant|治癒魔法的錯誤使用法
 10899|4|ja|沼の大将
 10496|4|zh-Hans|法兰雀丝卡
@@ -83330,6 +83367,7 @@
 5469|4|ja|特別病棟
 17441|4|ja|特別編 響け! ユーフォニアム アンサンブルコンテスト編
 1878|2|zh-Hans|特别授业
+17441|4|zh-Hans|特别篇 吹响吧！上低音号～合奏比赛～
 14835|4|zh-Hans|特别车队
 250|4|ja|特務戦隊シャインズマン
 4810|4|ja|特務捜査官レイ & 風子
@@ -84141,6 +84179,7 @@
 16114|2|zh|真琴开发日记
 18143|4|zh-Hans|真阳武神
 7309|4|ja|真章 幻夢館
+7309|2|ja|真章・幻夢館
 6397|2|zh-Hans|真魔神Z
 1462|4|ja|真魔神伝 バトルロイヤルハイスクール
 5795|4|ja|真魔神英雄伝ワタル 魔神山編
@@ -84679,6 +84718,7 @@
 8523|4|ja|箱入少女-Virgin Territory-
 15737|4|ja|範馬刃牙 SON OF OGRE
 17271|4|ja|範馬刃牙 SON OF OGRE 2
+18557|4|zh-Hant|範馬刃牙 VS 拳願阿修羅
 18557|4|ja|範馬刃牙VSケンガンアシュラ
 6332|2|zh|簡單易懂的現代魔法
 16995|4|zh-Hans|米多的涂鸦日记
@@ -85478,6 +85518,8 @@
 10351|4|zh-Hant|花舞少女
 11869|4|zh-Hans|花辫儿的小神明
 18058|4|ja|花野井くんと恋の病
+18058|4|zh-Hans|花野井同学与恋爱病
+18058|4|zh-Hant|花野井同學與戀愛病
 7874|2|zh-Hant|花開物語
 10934|4|zh-Hans|苍之彼方的四重奏
 2154|4|zh-Hans|苍之流星SPT雷兹纳
@@ -85549,6 +85591,7 @@
 6212|4|ja|苺ましまろ encore
 14848|4|ja|茂雄はハンサム
 15737|4|zh-Hans|范马刃牙
+18557|4|zh-Hans|范马刃牙 VS 拳愿阿修罗
 1292|4|ja|茄子 アンダルシアの夏
 5110|4|ja|茄子 スーツケースの渡り鳥
 1292|4|zh-Hans|茄子 安达卢西亚之夏
@@ -87356,6 +87399,7 @@
 12944|4|zh-Hans|阿松 第二季
 2702|4|zh-Hans|阿松（1988）
 16505|4|ja|阿波連さんははかれない
+18798|4|ja|阿波連さんははかれない season2
 106|2|zh|阿滋漫画大王
 106|4|zh-Hans|阿滋漫画大王
 15013|4|zh-Hant|阿爾蒂
