@@ -1,4 +1,4 @@
-# created: Sun Aug  4 03:00:02 2024
+# created: Mon Aug  5 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -443,6 +443,7 @@
 5323|2|en|21 Emon: Welcome to the Space!!
 4965|1|x-jat|21 Seiki Manga Hajimete Monogatari
 4922|2|ja|21 エモン
+299|2|x-jat|21-ji no Onna ~Newscaster Katsuragi Miki~
 2691|1|x-jat|2112-nen Doraemon Tanjou
 2691|4|ja|2112年 ドラえもん誕生
 2691|4|zh-Hans|2112年哆啦A梦的诞生
@@ -5371,6 +5372,7 @@
 13924|4|de|Black Fox
 2254|4|en|Black Gate
 2254|4|de|Black Gate
+2254|2|x-jat|Black Gate Kan`in no Gakuen
 2254|2|x-jat|Black Gate Kanin no Gakuen
 2254|2|ko|Black Gate 간음 학원
 2254|4|ja|BLACK GATE ブラックゲート 姦淫の学園
@@ -19112,6 +19114,7 @@
 16141|1|x-jat|Han`you no Yashahime: Sengoku Otogizoushi (2021)
 16141|2|x-jat|Han`you no Yashahime: Sengoku Otogizoushi Ni no Shou
 11029|1|x-jat|Hana
+18802|1|x-jat|Hana Doll*: Reinterpretation of Flowering
 1973|1|x-jat|Hana Dorei
 10886|4|it|Hana e Alice - Il caso di omicidio
 8498|1|x-jat|Hana Hen
@@ -24426,6 +24429,7 @@
 11820|2|x-jat|Kanamewo
 6275|2|lt|Kanana
 2781|3|x-jat|kanantv
+1994|2|x-jat|Kanariya wa Kago no Naka
 16923|1|x-jat|Kanashiki Debu Neko-chan
 12589|1|x-jat|Kanashiki Mongoose
 3289|1|x-jat|Kanashimi no Belladonna
@@ -27313,6 +27317,7 @@
 6395|4|it|La casa dei piccoli cubi
 15831|4|es|La Casa Encantada en el Cabo
 2805|4|fr|La chevauchée des Valkyries
+18000|4|es|La chica de abajo
 6959|2|es|La Chica de los Libros
 3291|2|es|La chica infernal
 677|4|es|La chica ninja
@@ -43574,6 +43579,7 @@
 18543|4|en|Sengoku Youko (2024)
 18543|1|x-jat|Sengoku Youko (2024)
 18543|2|x-jat|Sengoku Youko: Sen Ma Konton Hen
+18543|2|x-jat|Sengoku Youko: Senma Konton Hen
 18156|2|x-jat|Sengoku Youko: Yonaoshi Kyoudai Hen
 12718|2|tr|Sengoku’nun Yabani Hayat Karikatürleri 2
 12319|2|tr|Sengoku`nun Yabani Hayat Karikatürleri
@@ -45291,6 +45297,7 @@
 1606|2|en|Slavery Academy
 1973|4|en|Slaves to Passion
 5818|3|en|Slay Rev
+18801|2|en|Slay The Gods
 39|1|x-jat|Slayers
 39|4|ro|Slayers
 39|4|fr|Slayers
@@ -48961,10 +48968,10 @@
 14630|4|en|The Demon Girl Next Door
 15702|4|en|The Demon Girl Next Door 2
 18078|2|en|The Demon Hunter
-18764|4|en|The Demon Hunter (2024)
+18764|2|en|The Demon Hunter (2024)
 18764|2|en|The Demon Hunter 2
 18764|2|en|The Demon Hunter SP
-18764|2|en|The Demon Hunter: Dongning Mansion Special
+18764|4|en|The Demon Hunter: Dongning Mansion Special
 18119|4|en|The Demon Prince of Momochi House
 16921|4|en|The Demon Sword Master of Excalibur Academy
 14860|2|en|The Demonic King Who Chases His Wife
@@ -53089,7 +53096,7 @@
 5406|2|lt|Vilkė ir Prieskoniai
 449|2|lt|Vilkų lietus
 3519|2|en|Village of the Hermit
-18594|2|en|Villain Initialization
+18594|4|en|Villain Initialization
 17937|4|en|Villainess Level 99: I May Be the Hidden Boss but I`m Not the Demon Lord
 2008|3|x-jat|Villgust
 9514|4|no|Vinden stiger
@@ -56179,6 +56186,7 @@
 3969|3|en|ZGII -Lovers-
 11653|1|x-zht|Zhan Long Si Qu
 17541|1|x-zht|Zhan Qiannian
+18801|1|x-zht|Zhan Shen: Fanchen Shenyu
 15563|1|x-zht|Zhan Shou Zhi Ren
 16754|1|x-zht|Zhan Shuang Panini
 16777|1|x-zht|Zhan Yi Yingxiong
@@ -73923,6 +73931,7 @@
 16069|4|ja|リアデイルの大地にて
 15878|4|ja|リアルエロゲシチュエーション! 2 THE ANIMATION
 13556|4|ja|リアルエロゲシチュエーション! THE ANIMATION
+18791|5|ja|りぃんかーねーしょんのかべん
 18791|4|ja|リィンカーネーションの花弁
 18676|4|ja|リヴァイアサン
 13891|2|ja|リヴィジョンズ
@@ -80839,6 +80848,7 @@
 10407|4|zh-Hans|斩! 赤红之瞳
 15563|4|zh|斩兽之刃
 9875|4|zh-Hans|斩服少女
+18801|4|zh-Hans|斩神之凡尘神域
 12116|2|zh-Hans|斩首循环: 蓝色学者与戏言跟班
 18320|4|ja|断れない母
 9510|4|zh-Hans|断裁分离的罪恶之剪
@@ -85652,6 +85662,7 @@
 16716|4|zh-Hans|菜包狗大反击
 16732|4|zh-Hant|菜鳥煉金術師開店營業中
 1973|4|ja|華・奴隷
+18802|4|ja|華Doll* -Reinterpretation of Flowering-
 9317|4|ja|華ヤカ哉, 我ガ一族 キネトグラフ
 2606|4|ja|華星夜曲
 17920|2|zh-Hant|萊莎的鍊金工房 ～常闇女王與秘密藏身處～
