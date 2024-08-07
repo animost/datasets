@@ -1,4 +1,4 @@
-# created: Mon Aug  5 03:00:02 2024
+# created: Tue Aug  6 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4096,6 +4096,7 @@
 7740|1|x-jat|Baikinman tai Baikinman!?
 7748|1|x-jat|Baikinman to 3-bai Punch
 6773|4|es|Bailando con Vampiros
+18804|1|x-zht|Baise Shandian
 15721|2|fr|Baiser les yeux fermés, d’un amour aveugle
 15137|2|fr|Baisers d’amour
 13566|1|x-jat|Baito-saki wa "Aku no Soshiki"!?
@@ -14960,6 +14961,7 @@
 8127|4|ja|Floating Material
 540|2|en|Floral Magician Mary Bell
 6070|2|en|Floral Magician Mary Bell - The Phoenix Key
+6443|4|es-419|Flores Azules
 11029|4|en|Flower
 4079|4|fr|Flower & Snake
 4079|4|en|Flower & Snake The Animation
@@ -24132,11 +24134,11 @@
 13975|4|en|Kaiju Girls Black
 13401|4|en|Kaiju Girls: Season 2
 17550|4|en|Kaiju No. 8
-18722|4|en|Kaiju No. 8 (Sequel)
+18722|4|en|Kaiju No. 8 (2025)
 17550|2|en|Kaiju No.EIGHT
 17358|1|x-zht|Kaiju Yi Zuo Shan
 17550|1|x-jat|Kaijuu 8 Gou
-18722|1|x-jat|Kaijuu 8 Gou (Zokuhen)
+18722|1|x-jat|Kaijuu 8 Gou (2025)
 15269|2|x-jat|Kaijuu Decode
 17369|1|x-jat|Kaijuu ga Yattekuru
 13975|1|x-jat|Kaijuu Girls (Kuro): Ultra Kaijuu Gijinka Keikaku
@@ -25285,6 +25287,7 @@
 981|3|x-jat|kikaider ova
 2494|3|x-jat|kikaider ova 2
 981|2|x-jat|kikaider-01
+18803|1|x-jat|Kikaijikake no Marie
 4300|3|x-jat|kikansha
 17944|3|x-jat|kikansha (2023)
 17944|1|x-jat|Kikansha no Mahou wa Tokubetsu Desu
@@ -29588,7 +29591,7 @@
 421|2|en|lupins1
 1484|3|en|lupins2
 1485|2|en|lupins3
-5031|4|ro|Luptatoarea Anti-Demoni Asagi
+5031|2|ro|Luptatoarea Anti-Demoni Asagi
 6685|2|ro|Luptătoarele
 861|2|en|Lust Alien
 934|3|en|Lust of Shame
@@ -41025,7 +41028,8 @@
 18437|2|en|Reincarnated as the Daughter of the Legendary Hero and the Queen of Spirits
 16057|2|en|Reincarnated into Demon King Evelogia`s World
 18624|2|en|Reincarnated Marquis
-18791|1|x-jat|Reincarnation no Hanabira
+18791|2|x-jat|Reincarnation no Hanabira
+18791|1|x-jat|Reincarnation no Kaben
 327|4|fr|Réincarnations - Please Save My Earth
 1600|4|fr|Reines, princesses et soumission
 2017|1|x-jat|Reinou Tantei Miko
@@ -41385,6 +41389,7 @@
 14618|2|en|Rise Up! Animal Road
 18305|1|x-jat|Rising Impact
 18305|4|en|Rising Impact
+18805|1|x-zht|Rising Impact (2024)
 971|3|x-jat|Risky Safety
 18319|1|x-jat|Risou no Himo Seikatsu
 6384|2|ja|Rispara
@@ -43285,6 +43290,7 @@
 15720|1|x-jat|Seijo no Maryoku wa Bannou Desu
 17246|1|x-jat|Seijo no Maryoku wa Bannou Desu (2023)
 308|1|x-jat|Seijun Kango Gakuin Shinjin Nurse "Yumi" Chigyaku no Kango Jisshuu
+308|2|x-jat|Seijun Kango Gakuin Shinjin Nurse `Yumi` Chigyaku no Kango Jisshuu
 1278|1|x-jat|Seijuuden: Twin Dolls
 1615|1|x-jat|Seijuuki Cyguard
 17318|2|en|Seika Girls` Academy High School Certified Male Prostitute
@@ -53302,7 +53308,7 @@
 16551|1|x-jat|Voyager
 1975|4|en|Voyeur`s Digest
 9513|3|x-jat|VQ
-9276|4|ro|Vrăjitoarea De Oțel Annerose
+9276|2|ro|Vrăjitoarea De Oțel Annerose
 2738|4|nl|Vrouwtje Theelepel
 1367|4|en|VS Knight Lamune & 40 Fire
 547|2|x-jat|VS Knight Lamune & 40 Fresh
@@ -56442,6 +56448,7 @@
 18045|1|x-zht|Zuo Shou Shang Lan
 14524|1|x-zht|Zuori Qing Kong
 18781|1|x-jat|Zutaboro Reijou wa Ane no Moto Kon`yakusha ni Dekiai Sareru
+18781|2|x-jat|Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru
 11376|1|x-jat|Zutto Mae kara Suki Deshita. Kokuhaku Jikkouiinkai
 16147|1|x-jat|Zutto Mayonaka de Ii no ni.: Mune no Kemuri
 15773|1|x-jat|Zutto Mayonaka de Iinoni.: Byoushin o Kamu
@@ -73808,6 +73815,7 @@
 16182|4|ja|ライアー・ライアー
 17920|4|ja|ライザのアトリエ ~常闇の女王と秘密の隠れ家~
 18305|4|ja|ライジングインパクト
+18805|4|ja|ライジングインパクト (2024)
 9359|4|ja|ライチDE光クラブ
 4808|4|ja|ライディーン
 419|4|ja|ライディング・ビーン
@@ -74878,6 +74886,7 @@
 4576|4|zh-Hant|亂馬1/2
 193|4|zh-Hant|亂馬1/2 熱鬥篇
 7171|4|ja|予算政治
+17320|2|zh-Hans|事与愿违的不死冒险者
 17720|4|ja|事情を知らない転校生がグイグイくる.
 14679|4|ja|二ノ国
 9061|4|ja|二人の王子さま
@@ -79784,7 +79793,7 @@
 7651|4|ja|怪物王女 (2010)
 7651|4|zh-Hans|怪物王女 OAD
 17550|4|ja|怪獣8号
-18722|4|ja|怪獣8号 (続編)
+18722|4|ja|怪獣8号 (2025)
 17369|4|ja|怪獣がやってくる
 15269|2|ja|怪獣デコード
 12971|4|ja|怪獣のバラード
@@ -82284,6 +82293,7 @@
 1801|4|ja|機巧奇傳 ヒヲウ戦記
 9665|4|ja|機巧少女は傷つかない
 17147|2|zh-Hant|機戰少女 Alice Expansion
+18803|4|ja|機械じかけのマリー
 9128|2|zh-Hant|機械學報告
 7433|4|ja|機甲兵団 J-PHOENIX PFリップス小隊
 1370|4|ja|機甲創世記モスピーダ
@@ -84000,6 +84010,7 @@
 6026|4|zh-Hans|白色相簿
 9823|4|zh-Hans|白色相簿2
 6970|2|zh-Hans|白色相簿第二季
+18804|4|ja|白色闪电
 16386|4|ja|白菜アニメ
 14876|4|zh-Hant|白蛇: 緣起
 14876|4|zh-Hans|白蛇: 缘起
@@ -86245,6 +86256,7 @@
 8242|4|zh-Hans|赌博默示录：破戒录篇
 18006|4|zh-Hans|赘婿
 18790|4|zh-Hans|赘婿 第二季
+18790|2|zh-Hans|赘婿 龙蛇篇
 2643|2|zh-Hans|赛亚人灭绝计划 ~地球篇|宇宙篇~
 15610|2|zh-Hans|赛博朋克：边缘行者
 15610|4|zh-Hans|赛博浪客
@@ -88273,6 +88285,7 @@
 4688|4|ja|魔法少女リリカルなのはStrikerS
 10795|4|ja|魔法少女リリカルなのはViVid
 18282|4|zh-Hans|魔法少女与恶曾是敌人。
+18282|2|zh-Hans|魔法少女与邪恶曾经敌对。
 11691|4|zh-Hans|魔法少女什么的已经够了啦。
 12317|4|zh-Hans|魔法少女什么的已经够了啦。第二季
 10770|4|zh-Hans|魔法少女俺
