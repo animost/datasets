@@ -1,4 +1,4 @@
-# created: Tue Aug  6 03:00:01 2024
+# created: Wed Aug  7 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -11461,6 +11461,7 @@
 1505|4|de|Doomed Megalopolis
 1505|4|en|Doomed Megalopolis
 17443|4|en|Doomsday with My Dog
+12191|2|en|Door Guardians
 1837|2|en|Door to Summer
 8270|2|cs|Dopis pro Momo
 4250|4|de|Dora
@@ -17811,6 +17812,7 @@
 16862|4|zh-Hans|Gon的旱獭之獭獭突然想到
 11314|2|en|Good Bye Elvis and USA
 11313|2|en|Good Bye Marilyn
+18537|4|de|Good Bye, Dragon Life
 6558|2|en|Good Evening Just For You
 17510|4|en|Good Friend
 16194|4|ja|Good job!
@@ -29020,7 +29022,7 @@
 15288|2|fr|Love Mary, l’Archange céleste de l’Amour – Conception malsaine
 1836|2|en|Love Me Knight
 14883|2|en|Love Me, Love Me Not
-17071|2|en|Love Me: Kaede and Suzu
+17071|4|en|Love Me: Kaede and Suzu The Animation
 17071|1|x-jat|Love Me: Kaede to Suzu The Animation
 8578|2|en|Love of Kemeko
 15917|4|en|Love of Kill
@@ -41389,7 +41391,7 @@
 14618|2|en|Rise Up! Animal Road
 18305|1|x-jat|Rising Impact
 18305|4|en|Rising Impact
-18805|1|x-zht|Rising Impact (2024)
+18805|1|x-jat|Rising Impact (2024)
 971|3|x-jat|Risky Safety
 18319|1|x-jat|Risou no Himo Seikatsu
 6384|2|ja|Rispara
@@ -49495,7 +49497,7 @@
 14676|2|en|The Legend of Huainanzi
 14677|2|en|The Legend of Huainanzi 2nd Season
 16778|2|en|The Legend of Liu Yi
-18382|2|en|The Legend of Magic Outfit
+18382|4|en|The Legend of Magic Outfit
 3446|2|en|The Legend of Mahjong: Akagi
 2020|2|en|The Legend of Manxmouse
 5037|2|en|The Legend of Marine Snow
@@ -50361,7 +50363,8 @@
 3639|2|en|Three Musketeers, The MOVIE
 15613|2|en|Three Swordsman Half Face
 5486|2|en|Three Tales
-17309|2|en|Three Thoughsand Roads
+17309|4|en|Three Thousand Roads
+18379|4|en|Three Thousand Roads 2
 18379|2|en|Three Thousand Roads 2nd Season
 7224|2|en|Three Way Struggle
 7948|2|en|Three Way Struggle Increases!
@@ -54350,6 +54353,7 @@
 15443|1|x-zht|Wu Shen Zhuzai
 17309|1|x-zht|Wu Ying Sanqian Dao
 18379|1|x-zht|Wu Ying Sanqian Dao 2
+18379|2|x-zht|Wu Ying Sanqian Dao Di Er Ji
 9417|3|ja|WU,G!
 9417|3|en|wug
 10245|3|en|wug movie
