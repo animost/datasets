@@ -1,4 +1,4 @@
-# created: Thu Aug  8 03:00:02 2024
+# created: Fri Aug  9 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6587,6 +6587,7 @@
 4516|3|x-jat|BuRe
 15683|2|en|Bureau of Paranormal Investigation
 18759|2|en|Bureau of Paranormal Investigation (2024)
+18759|2|en|Bureau of Paranormal Investigation 2
 6847|2|en|Burglars of Baghdad Castle
 15448|4|ja|BURN THE WITCH
 15448|1|x-jat|Burn the Witch
@@ -6804,6 +6805,7 @@
 14479|4|en|Cagaster of an Insect Cage
 1994|4|en|Cage
 1994|4|de|Cage
+18808|4|en|Caged Character
 320|3|x-jat|cagliostro
 16716|1|x-zht|Cai Bao Gou Da Fanji
 647|3|de|Cain
@@ -14013,6 +14015,7 @@
 8148|4|ro|Exorcistul albastru
 9088|4|de|Expelled from Paradise
 9088|4|en|Expelled from Paradise
+18457|2|en|Expelled From Paradise Resonance of the Heart
 5268|1|x-jat|Exper Zenon
 5268|4|ja|EXPER ZENON
 17973|2|fr|Expériences avec des elfes vicelardes
@@ -14608,7 +14611,12 @@
 700|4|en|Fencer of Minerva
 700|4|de|Fencer of Minerva
 13447|1|x-zht|Feng Ling Yu Xiu
+18159|2|x-zht|Feng Ling Yu Xiu 2
+18807|2|x-zht|Feng Ling Yu Xiu 2: Special
+18159|2|x-zht|Feng Ling Yu Xiu 2nd Season
+18807|2|x-zht|Feng Ling Yu Xiu 2nd Season: Tebie Pian
 18159|1|x-zht|Feng Ling Yu Xiu Di Er Ji
+18807|1|x-zht|Feng Ling Yu Xiu Di Er Ji: Tebie Pian
 17106|1|x-zht|Feng Qi Luoyang: Shen Ji Shaonian
 13092|1|x-zht|Feng Shen Bang
 14893|1|x-zht|Feng Shen Bang Chuanqi
@@ -25506,6 +25514,7 @@
 8587|3|x-jat|kimimachi
 10162|3|x-jat|kimimachi ova 2
 9751|3|x-jat|kimimachi tv
+14041|2|x-jat|KimiMote
 14465|3|x-jat|kiminami
 896|3|x-jat|kiminozo
 5470|3|x-jat|Kiminozo OVA
@@ -28421,6 +28430,7 @@
 16182|1|x-jat|Liar Liar
 16182|4|en|Liar, Liar
 16182|3|x-jat|Liar2
+18457|2|en|Liberated from Paradise: Resonance of the Heart
 12333|4|en|Libra of Nil Admirari
 13418|1|x-jat|Library Cross Infinite
 5558|4|en|Library War
@@ -28767,6 +28777,7 @@
 16852|1|x-zht|Long Zai Na Li?
 14577|1|x-zht|Long Zhi Gu: Jingling Wangzuo
 14304|1|x-zht|Long Zhi Gu: Poxiao Qibing
+18808|1|x-zht|Long Zhong Ren
 16595|1|x-zht|Long Zu
 18493|1|x-jat|Look Back
 16489|2|en|Looking Back at it All: The Dragon Ball Z Year-End Show!
@@ -43661,6 +43672,7 @@
 17703|2|x-jat|Sentai Daishikkaku
 12572|1|x-jat|Sentai Hero Sukiyaki Force: Gunma no Heiwa o Negau Season
 13716|1|x-jat|Sentai Hero Sukiyaki Force: Gunma no Heiwa o Negau Season - E, Mata?
+18809|1|x-jat|Sentai Red Isekai de Boukensha ni Naru
 17389|1|x-jat|Sentaku Jab Jab
 4995|1|x-jat|Sentakuya Shin-chan
 18124|2|en|Sentenced to Be a Hero
@@ -44172,6 +44184,8 @@
 14313|1|x-zht|Shi Wan Ge Leng Xiaohua Di San Ji
 14311|1|x-zht|Shi Wan Ge Leng Xiaohua Di Yi Ji
 18704|1|x-zht|Shi Wangzhe A?
+18705|2|x-zht|Shi Wangzhe A? 2nd Season
+18706|2|x-zht|Shi Wangzhe A? 3rd Season
 18705|1|x-zht|Shi Wangzhe A? Di 2 Ji: Yun Zhong Bu Wanquan Jiao Fei Riji
 18706|1|x-zht|Shi Wangzhe A? Di 3 Ji: Youqiubiying Xingzhi Dui
 13353|1|x-zht|Shi Xiong
@@ -45985,7 +45999,10 @@
 12331|2|ja|Soul Worker: Your Destiny Awaits
 12742|2|en|Soul: Insert
 13447|4|en|Soulmate Adventure
+18159|2|en|Soulmate Adventure S2
+18807|2|en|Soulmate Adventure S2: Special
 18159|2|en|Soulmate Adventure Season 2
+18807|2|en|Soulmate Adventure Season 2: Special
 270|3|x-jat|soultaker
 12331|4|ja|Soulworker: Your Destiny Awaits
 12331|1|x-jat|Soulworker: Your Destiny Awaits
@@ -47086,6 +47103,7 @@
 9482|4|en|Sunday Without God
 4176|2|en|Sunflower!
 15782|2|en|Sunflowers Bloom at Night
+18698|2|en|Sunny Cafe
 3047|2|en|Sunny Ryoko
 3645|4|en|Sunny Ryoko! Kasumi You Were There in a Dream
 9556|3|x-jat|Sunoga
@@ -49824,6 +49842,7 @@
 7478|2|en|The Recollections of a Certain Pilot
 14716|2|en|The Record of Unusual Creatures
 8246|2|en|The Red
+18809|2|en|The Red Ranger Becomes an Adventurer in Another World
 1850|2|en|The Red-Blooded Eleven
 11745|4|ja|THE REFLECTION
 11745|1|x-jat|The Reflection
@@ -59171,6 +59190,7 @@
 6400|2|ru|Несравненная принцесса любви [ТВ2]
 11321|2|ru|Несчастные
 9998|2|ru|Нет игры - нет жизни
+12276|2|ru|Нет игры — нет жизни: Начало
 10876|2|ru|Нетронутая принцесса
 10385|2|ru|Неудержимая юность
 14094|2|ru|Неуклюжая Уэно
@@ -59873,6 +59893,7 @@
 16274|4|ru|Ресторан из другого мира 2
 14969|4|ru|Рецензенты других рас
 14940|4|ru|Ржавые доспехи
+17422|2|bg|Рик и Морти: Anime
 1829|4|bg|Рими
 5586|2|bg|Рицар Вампир
 9892|4|bg|Рицарите на "Сидония"
@@ -80436,6 +80457,7 @@
 111|4|ja|戦闘妖精雪風
 13716|4|ja|戦隊ヒーロー スキヤキフォース -ぐんまの平和を願うシーズン え, また?-
 12572|4|ja|戦隊ヒーロー スキヤキフォース -ぐんまの平和を願うシーズン-
+18809|4|ja|戦隊レッド 異世界で冒険者になる
 17703|4|ja|戦隊大失格
 18725|4|ja|戦隊大失格 (2025)
 12116|2|ja|戯言シリーズ
@@ -81497,6 +81519,8 @@
 12062|4|zh-Hans|昭和元禄落语心中 -助六再临篇-
 10773|4|zh-Hans|昭和元禄落语心中 OAD
 8135|4|ja|昭和物語
+18704|4|zh-Hans|是王者啊?
+18705|2|zh-Hans|是王者啊? 第二季
 18705|4|zh-Hans|是王者啊？第2季 云中不完全剿匪日记
 18706|4|zh-Hans|是王者啊？第3季 有求必应星之队
 13439|4|zh-Hans|昴宿七星
@@ -84742,6 +84766,7 @@
 16936|4|zh-Hans|第二次被异世界召唤
 13028|4|ja|第二次裏入学試験 THE ANIMATION
 1869|4|zh-Hans|第十一人
+18808|4|zh-Hans|笼中人
 16872|4|zh|等明天
 4205|4|ja|等身大マイラバー~ミナミ対メカミナミ~
 17913|2|zh-Hans|筋肉人 完美超人始祖篇
@@ -87848,6 +87873,7 @@
 16640|4|zh-Hans|风姿物语 银河篇 (2021)
 13447|4|zh-Hans|风灵玉秀
 18159|4|zh-Hans|风灵玉秀 第二章
+18807|4|zh-Hans|风灵玉秀 第二章 特别篇
 314|2|zh|风筝
 314|4|zh-Hans|风筝
 6201|4|zh-Hans|风筝的妈妈
