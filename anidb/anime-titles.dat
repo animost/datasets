@@ -1,4 +1,4 @@
-# created: Fri Aug  9 03:00:01 2024
+# created: Sat Aug 10 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5151,6 +5151,7 @@
 11724|4|fr|Big Order
 11724|1|x-jat|Big Order (2016)
 4823|2|en|Big Sister Juice the Animation: Leave the Three Sisters to Shirakawa
+15694|2|en|Big Talk Youth Tour
 1464|4|en|Big Wars
 1464|4|de|Big Wars
 1464|4|ja|BIG WARS 神撃つ朱き荒野に
@@ -6539,6 +6540,7 @@
 2705|4|en|Bumpety Boo
 2705|3|de|Bumpety Boo
 2705|4|de|Bumpety Boo - Der kleine gelbe Superflitzer
+15328|2|x-jat|BunAl
 6839|1|x-jat|Bunbuku Chagama
 14338|1|x-jat|Bunbuku Chagama (1958)
 6773|3|x-jat|Bund
@@ -7845,6 +7847,7 @@
 12516|1|x-jat|Chiryokumaru
 9325|2|en|Chisato stared
 9158|1|x-jat|Chitose Get You!!
+18811|1|x-jat|Chitose-kun wa Ramune Bin no Naka
 11126|3|en|Chivalry
 11126|4|en|Chivalry of a Failed Knight
 213|1|x-jat|Chivas 1-2-3
@@ -9395,6 +9398,7 @@
 2460|4|en|Dagon In The Lands Of Weeds
 2459|3|x-jat|dagwon
 18172|4|en|Dahlia in Bloom: Crafting a Fresh Start with Magical Tools
+15694|2|x-zht|Dahua Zhi Shaonian You
 15694|1|x-zht|Dahua: Shaonian You
 13641|1|x-zht|Dahufa
 14203|1|x-jat|Dai 501 Tougou Sentou Koukuu Dan Strike Witches: Road to Berlin
@@ -14101,6 +14105,7 @@
 18259|2|en|Fabulous Beasts
 18658|2|en|Fabulous Beasts 2
 18657|2|en|Fabulous Beasts 3
+18810|2|en|Fabulous Beasts 4
 17349|2|en|Face on Lie
 1088|2|en|Faceless Moon
 1063|2|pt-BR|Fada Egoísta Mirumo de Pon!
@@ -18078,6 +18083,7 @@
 18280|4|en|GREAT PRETENDER razbliuto
 18280|1|x-jat|Great Pretender: Razbliuto
 11362|1|x-jat|Great Rabbit
+15694|2|en|Great Story: The Young Men`s Journey
 191|4|de|Great Teacher Onizuka
 191|4|pl|Great Teacher Onizuka
 191|4|en|Great Teacher Onizuka
@@ -21341,6 +21347,7 @@
 13526|4|ja|HuGっと! プリキュア
 13526|2|ja|HUGっと！プリキュア
 18624|1|x-zht|Hui Ming: Fenghuo San Yue
+18624|2|x-zht|Hui Ming: Fenghuo Sanyue
 15829|1|x-jat|Hula Fulla Dance
 15829|4|en|Hula Fulla Dance
 4323|1|x-jat|Hula Kapper
@@ -31399,6 +31406,7 @@
 7623|1|x-jat|Mazinkaizer SKL
 7623|4|it|Mazinkaizer SKL
 7623|2|x-jat|Mazinkaizer Skull
+18812|1|x-jat|Mazome Soap de Aimashou!
 15389|3|x-jat|mazure
 356|3|x-jat|mb
 1259|3|x-jat|mb movie
@@ -40512,6 +40520,7 @@
 2119|2|en|Raimuiro Senkitan ~Southern Romance Story~
 448|2|x-jat|Raimuro Senkitan
 3614|2|en|Rain Boy
+10086|2|en|Rain in the Sunshine
 3406|2|en|Rain of Fire
 8324|1|x-jat|Rain Town
 8324|4|ja|rain town
@@ -46445,6 +46454,7 @@
 42|3|x-jat|ss tv
 732|3|x-jat|SS99
 3219|3|en|ssb
+10007|3|x-jat|SSB
 3221|3|en|ssb movie
 13927|3|en|ssb ova
 3508|3|en|ssb ova 2
@@ -48562,6 +48572,7 @@
 9634|2|x-kot|Tera
 12717|1|x-jat|Terajima-chou Kidan: Ginnagashi
 18275|1|en|Terminator Zero
+18275|4|ja|Terminator Zero
 18071|4|pt|Terra de Alma Ⅱ: O Inigualável Clã Tang
 1416|1|x-jat|Terra e...
 5039|1|x-jat|Terra e... (2007)
@@ -50032,6 +50043,7 @@
 6675|2|en|The Story of 15 Beautiful Girls Adrift
 6304|2|en|The Story of a Holy Machine Wielder from Another World
 6304|2|en|The Story of a Seikishi from Another World
+15694|2|en|The Story of a Young Man
 13092|2|en|The Story of Chinese Gods
 3677|2|en|The Story of Cinderella
 2683|2|en|The Story of Fifteen Boys
@@ -53843,6 +53855,7 @@
 14374|2|en|Westbound Discipline
 18308|2|en|Westward - Cave of the Qiongqi
 18309|2|en|Westward - Shadow Demon City
+15694|2|en|Westward Juvenile Journey
 2199|2|en|Westward Voyage
 2145|4|en|Wet Summer Days
 1063|3|x-jat|WFMdP
@@ -53919,6 +53932,7 @@
 8438|2|x-unk|White Dog with White Heart
 8438|2|x-unk|White Heart Baekgu
 1694|2|en|White Heron Inn
+18804|4|en|White Lightning
 3949|1|x-jat|White Reflection
 3949|4|ja|WHITE REFLECTION
 14876|4|en|White Snake
@@ -55344,6 +55358,7 @@
 18259|1|x-zht|You Shou Yan
 18658|1|x-zht|You Shou Yan 2
 18657|1|x-zht|You Shou Yan 3
+18810|1|x-zht|You Shou Yan 4
 4610|2|x-jat|You Shoumei Bijutsukan: Line
 12070|2|en|You Were Born for a Reason: The Real Purpose of Life
 15681|1|x-zht|You Yao
@@ -73158,6 +73173,7 @@
 684|4|ja|マスターモスキートン`99
 15389|3|ja|マズレ
 11638|5|ja|まそうがくえん ハイブリッド・ハート
+18812|4|ja|マゾメスソープで逢いましょう!
 62|4|ja|またまたセイバーマリオネットJ
 16944|4|ja|マチェーリカ
 14630|4|ja|まちカドまぞく
@@ -76630,6 +76646,7 @@
 570|4|zh-Hant|千年女優
 764|4|zh-Hans|千年女王
 14411|4|zh-Hans|千枪士 OVA
+18811|4|ja|千歳くんはラムネ瓶のなか
 13250|4|zh-Hans|千绪的通学路
 112|4|zh-Hant|千與千尋
 13960|4|ja|千銃士
@@ -81672,6 +81689,7 @@
 18259|4|zh|有兽焉
 18657|4|zh-Hans|有兽焉 第三季
 18658|4|zh-Hans|有兽焉 第二季
+18810|4|zh-Hans|有兽焉 第四季
 15681|4|zh-Hans|有药
 17051|4|zh-Hans|有药2
 15681|4|zh-Hant|有藥
@@ -84052,7 +84070,7 @@
 6026|4|zh-Hans|白色相簿
 9823|4|zh-Hans|白色相簿2
 6970|2|zh-Hans|白色相簿第二季
-18804|4|ja|白色闪电
+18804|4|zh-Hans|白色闪电
 16386|4|ja|白菜アニメ
 14876|4|zh-Hant|白蛇: 緣起
 14876|4|zh-Hans|白蛇: 缘起
@@ -86921,6 +86939,7 @@
 9401|4|ja|都合のよいセックスフレンド?
 11290|4|ja|都市伝説シリーズ
 6268|4|ja|都市伝説物語 ひきこ
+18801|2|zh-Hans|都市奇幻 · 热血战斗
 17339|4|zh-Hant|鄰人似銀河
 9235|4|zh-Hant|鄰座的怪同學
 14928|4|ja|配信勇者
