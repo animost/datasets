@@ -1,4 +1,4 @@
-# created: Sat Aug 10 03:00:02 2024
+# created: Sun Aug 11 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -7830,6 +7830,7 @@
 13250|1|x-jat|Chio-chan no Tsuugakuro
 13250|4|en|Chio`s School Road
 2068|4|es|Chiquitina
+18811|3|x-jat|Chiramune
 11356|1|x-jat|Chirico
 3551|1|x-jat|Chirin no Suzu
 3551|2|en|Chirin`s Bell
@@ -9916,6 +9917,7 @@
 9517|3|x-jat|dd3
 351|3|en|ddd
 8643|1|x-jat|DDD Niokeru Ikeda Bakuhatsurou to Watt no Honmyou
+18670|2|en|DDDD
 18670|2|zh-Hans|DDDD 恶魔的破坏
 8643|4|ja|DDDにおける池田爆発郎とwattの本名
 1619|3|x-jat|DDL
@@ -10059,6 +10061,7 @@
 14243|2|fr|Déclencheur d’œstrus : des femmes entraînées dans la débauche
 4194|4|fr|Décolletés lubriques
 17273|3|x-jat|Dededede
+18670|2|en|DeDeDeDe
 11870|1|x-jat|Dededen
 266|4|tr|Dedektif Conan
 2645|2|tr|Dedektif Conan: 14. Hedef
@@ -17079,6 +17082,7 @@
 1822|4|pl|Gigi
 4012|4|pt-BR|Gigi e a Fonte da Juventude
 4012|4|pt|Gigi e a Fonte da Juventude
+16516|2|x-kot|Gigi Goegoe Sunghyungsoo
 4012|4|pl|Gigi i fontanna młodości
 1822|4|it|Gigi la trottola
 16516|1|x-kot|Gigigoegoe Sunghyungsoo
@@ -32921,6 +32925,7 @@
 8794|2|pl|Moja młodsza siostrzyczka - Diabełek z małymi cycuszkami
 4662|2|en|Mojacko
 4662|1|x-jat|Mojakou
+18538|4|cs|Moje holka je démon
 17304|4|pl|Moje szczęśliwe małżeństwo
 3404|2|x-jat|Moke Moke Taishou Dendo Musume Arisa
 3404|1|x-jat|Moke Moke Taishou Dendou Musume Arisa
@@ -47375,6 +47380,7 @@
 6888|1|x-jat|Suteneko Tora-chan
 640|3|x-jat|sutepri
 1872|3|x-jat|sutesuta
+10198|2|x-jat|Sutoraikuu~itchīzu: Operēshon bikutorīarō
 12073|4|en|Sutra Stories
 18442|1|x-jat|Suufunkan no Yell o
 530|4|et|Suur panda ja väike panda
@@ -49147,6 +49153,7 @@
 17614|4|en|The Family Circumstances of the Irregular Witch
 615|2|en|The Family`s Defensive Alliance
 1267|4|en|The Fantastic Adventures of Unico
+13596|2|en|The Fantasy of the Sacred Deeds
 16261|4|en|The Faraway Paladin
 17078|4|pt-BR|The Faraway Paladin: O senhor das Montanhas de Ferrugem
 17078|4|en|The Faraway Paladin: The Lord of Rust Mountains
@@ -49523,6 +49530,7 @@
 16414|2|en|The Laws of the Universe: The Age of Elohim
 12856|4|en|The Lazy Fox
 4207|2|en|The Legacy of Al Caral
+13596|4|en|The Legend of Ancient Soul
 8441|2|en|The Legend of Blue
 18472|2|en|The Legend of Dragon Soldier
 15253|2|en|The Legend of Hei
@@ -49560,6 +49568,7 @@
 17582|2|en|The Legend of Sword Domain
 17985|2|en|The Legend of Sword Domain 2nd Season
 18346|2|en|The Legend of Sword Domain 3rd Season
+13596|2|en|The Legend of the Ancient Soul
 797|2|en|The Legend of the Blue Wolf
 2554|2|en|The Legend of the Fierce Fighting God Oni
 1533|2|en|The Legend of the Four Kings
@@ -49596,6 +49605,7 @@
 17150|2|en|The Lucifer and Biscuit Hammer
 1015|2|en|The Lunar Chronicle
 5225|2|en|The Lunch Box
+13596|2|en|The Magic and Fantasy of the Holy Deed
 17332|2|en|The Magic Chef of Ice and Fire
 18373|2|en|The Magic Chef of Ice and Fire 2nd Season
 1893|2|en|The Magic Mirror
@@ -50023,7 +50033,7 @@
 11744|1|x-jat|The Sound of Tiger & Bunny: Too Many Cooks Spoil the Broth.
 11744|6|x-jat|The Sound of Tiger & Bunny: Too Many Cooks Spoil the Broth. - Sendou Ooku Shite Fune Yama ni Noboru
 1177|2|en|The Southern Cross
-18469|2|en|The Sovereign`s Ascension
+18469|4|en|The Sovereign`s Ascension
 793|2|en|The Space Between
 1833|2|en|The Space Sagittarius
 18042|2|en|The Spagiric Master
@@ -50536,6 +50546,7 @@
 8694|4|hu|Tiltott varázslatok jegyzéke - Endymion csodája
 12216|1|x-jat|Timbre A to Z
 12216|4|ja|Timbre A to Z
+16290|2|en|Time Agent
 17321|2|en|Time and Space
 633|2|en|Time and Space Adventures Nuumamonjaa
 2546|1|x-jat|Time Bokan
@@ -69841,6 +69852,7 @@
 10198|4|ja|ストライクウィッチーズ Operation Victory Arrow
 8272|4|ja|ストライクウィッチーズ 劇場版
 14965|4|ja|ストライクウィッチーズ 劇場版 501部隊発進しますっ!
+10198|2|ja|ストライクウィッチーズ： オペレーション・ビクトリーアロー
 5970|4|ja|ストライクウィッチーズ(2008)
 7542|4|ja|ストライクウィッチーズ2
 445|4|ja|ストラトス・フォー
@@ -70493,6 +70505,7 @@
 10580|4|ja|ちょぼらうにょぽみ劇場第二幕 あいまいみー ~妄想カタストロフ~
 2356|4|ja|チョロQダグラム
 6934|4|ja|ちょん切れ蛇
+18811|3|ja|チラムネ
 3551|4|ja|チリンの鈴
 13994|4|ja|チルドレンレコード
 12418|4|ja|ちるらん にぶんの壱
