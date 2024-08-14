@@ -1,4 +1,4 @@
-# created: Mon Aug 12 03:00:01 2024
+# created: Tue Aug 13 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1998,6 +1998,7 @@
 2051|1|x-jat|Akuma-kun: Youkoso Akuma Land e!!
 11848|2|tr|Akuma`nın Gri Çocuğu: Azizlerin Gecesi
 1480|1|x-jat|Akuu Daisakusen Srungle
+17937|2|x-jat|Akuyaku LV99
 17937|3|x-jat|Akuyaku Reijou Level 99
 17937|1|x-jat|Akuyaku Reijou Level 99: Watashi wa Ura Boss Desu ga Maou de wa Arimasen
 16826|1|x-jat|Akuyaku Reijou nano de Last Boss o Katte Mimashita
@@ -14129,6 +14130,7 @@
 7304|4|en|Fafner: Heaven and Earth
 10710|3|x-jat|fafnir
 12563|3|en|fag
+18438|3|en|Failure Frame
 18438|4|en|Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells
 16876|2|en|Failure Witch
 8670|4|en|Fair, then Partly Piggy
@@ -18275,6 +18277,7 @@
 2039|1|x-jat|Gu-Gu Ganmo (1985)
 2039|4|ja|GU-GU ガンモ
 1935|4|ja|Gu-Guガンモ
+18813|1|x-zht|Guai Xiang Shou
 14159|1|x-zht|Guan Hai Ce
 15667|2|x-zht|Guan Hai Ce zhi Tie Qi Xiang Guan
 15667|1|x-zht|Guan Hai Ce: Tieqi Xiangguan
@@ -19108,6 +19111,7 @@
 17846|3|x-jat|hametsu
 3225|1|x-jat|Hametsu no Mars
 17846|1|x-jat|Hametsu no Oukoku
+18814|1|x-jat|Hamidashi Creative
 3411|4|en|Hammerboy
 3411|4|fr|Hammerboy
 3411|4|pt|Hammerboy: O Rapaz do Martelo
@@ -29515,7 +29519,7 @@
 1485|1|x-jat|Lupin Sansei: Part III
 10021|1|x-jat|Lupin Sansei: Princess of the Breeze - Kakusareta Kuuchuu Toshi
 15198|1|x-jat|Lupin Sansei: Prison of the Past
-987|1|x-jat|Lupin Sansei: Russia yori Ai o Komete
+987|1|x-jat|Lupin Sansei: Rossiya yori Ai o Komete
 3181|2|x-jat|Lupin Sansei: Secret File
 4634|1|x-jat|Lupin Sansei: Seven Days` Rhapsody
 6065|1|x-jat|Lupin Sansei: Sweet Lost Night - Mahou no Lamp wa Akumu no Yokan
@@ -44709,8 +44713,8 @@
 10779|4|ko|SHIROBAKO
 10779|4|de|Shirobako
 14061|4|en|Shirobako the Movie
+18760|1|x-jat|Shirobuta Kizoku Desu ga Zense no Kioku ga Haeta no de Hiyoko na Otouto Sodatemasu
 10550|1|x-jat|Shirogane no Ishi: Argevollen
-18760|1|x-jat|Shiroi Buta Kizoku Desu ga Zense no Kioku ga Haeta no de Hiyoko na Otouto Sodatemasu
 2360|1|x-jat|Shiroi Kiba: White Fang Monogatari
 12639|1|x-jat|Shiroi Michi
 15987|1|x-jat|Shiroi Suna no Aquatope
@@ -47277,7 +47281,7 @@
 5945|2|x-jat|Super Tokkyu Mazinger 7
 1314|2|en|Super Transformation Cosprayers
 8257|2|en|Super Veggie Torracman
-18590|2|en|SUPER XIANG
+18590|4|en|SUPER XIANG
 2108|4|en|Super Yoyo
 2108|4|th|Super YOYO ลูกดิ่งสายฟ้า
 3547|1|x-jat|Super Zugan
@@ -48462,7 +48466,7 @@
 56|1|x-jat|Tennis no Ouji-sama
 8373|1|x-jat|Tennis no Ouji-sama OVA Another Story II: Ano Toki no Bokura
 6442|1|x-jat|Tennis no Ouji-sama OVA Another Story: Kako to Mirai no Message
-8344|1|x-jat|Tennis no Ouji-sama: Atobe kara no Okurimono - Kimi ni Sasageru Tenipri Matsuri
+8344|1|x-jat|Tennis no Ouji-sama: Atobe kara no Okurimono - Kimi ni Sasageru Tennipri Matsuri
 12484|1|x-jat|Tennis no Ouji-sama: Best Games!!
 14771|1|x-jat|Tennis no Ouji-sama: TV Anime Ban Pair Puri
 4244|1|x-jat|Tennis no Ouji-sama: Zenkoku Taikai Hen
@@ -53905,6 +53909,7 @@
 17667|2|en|Where Does the Doomsday Train Go?
 15232|4|en|Where is Mama
 6051|2|en|Where the Seagulls Cry
+18813|4|en|Whimsical Wish
 4037|2|en|Whirlwind! Iron Leaguer
 17819|4|en|Whisper Me a Love Song
 336|4|en|Whisper of the Heart
@@ -71093,6 +71098,7 @@
 397|2|ja|ドラゴンボールZ 龍拳爆発!! 悟空がやらねば誰がやる
 12311|4|ja|ドラゴンボールZ・ザ・リアル 4-D
 11210|5|ja|ドラゴンボールスーパー
+1530|5|ja|ドラゴンボールゼット
 6399|4|ja|ドラゴンボール改
 10452|4|ja|ドラゴンボール改 (2014)
 10452|2|ja|ドラゴンボール改 魔人ブウ編
@@ -71842,6 +71848,7 @@
 535|4|ja|バブルガムクラッシュ
 5150|2|ja|バベルの本
 10169|4|ja|ハマトラ THE ANIMATION
+18814|4|ja|ハミダシクリエイティブ
 13912|4|ja|バミューダトライアングル ~カラフル・パストラーレ~
 10215|4|ja|はむこ参る!
 12894|4|ja|ハムスターサム
@@ -79833,6 +79840,7 @@
 4377|4|zh-Hans|怪医黑杰克21
 17815|4|zh-Hans|怪异与少女与神隐
 12395|4|zh-Hans|怪怪守护神
+18813|4|zh-Hans|怪想售
 4319|4|zh-Hans|怪杰佐罗力 谜之宝物大作战
 1539|4|zh-Hans|怪物
 5164|4|ja|怪物くん
@@ -84302,7 +84310,7 @@
 13906|4|ja|砂の惑星
 15357|2|ja|砂の灯
 15357|4|ja|砂ノ灯
-2979|4|ja|砂の薔薇[デザート・ローズ] 雪の黙示録
+2979|4|ja|砂の薔薇 雪の黙示録
 2166|4|ja|砂ぼうず
 15357|4|zh-Hans|砂之灯
 4116|4|ja|砂沙美 -魔法少女クラブ-
@@ -86293,6 +86301,8 @@
 12635|2|ja|貴方ハ私ノモノドS彼女とドM彼氏
 18192|4|ja|貼りまわれ! こいぬ
 18555|4|ja|貼りまわれ! こいぬ (2024)
+18192|2|ja|貼りまわれ！こいぬ
+18555|2|ja|貼りまわれ！こいぬ (2024)
 15578|3|ja|賢でし
 7720|4|ja|賢治のトランク
 13477|4|ja|賢者の孫
