@@ -1,4 +1,4 @@
-# created: Tue Aug 13 03:00:01 2024
+# created: Wed Aug 14 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4029,7 +4029,7 @@
 13619|4|ja|Back Street Girls -ゴクドルズ-
 13619|1|x-jat|Back Street Girls: Gokudols
 2295|2|en|Back to the Forest
-18624|2|en|Back to the Great Ming
+18624|4|en|Back to the Great Ming
 15830|4|en|Backflip!!
 15830|4|pl|Backflip!!
 12890|1|x-kot|Backkom
@@ -23323,6 +23323,7 @@
 83|4|sv|Jin Roh the Wolf Brigade
 8454|1|x-zht|Jin Sheng Yuan
 15538|2|x-zht|Jin Tian Kai Shi Zuo Ming Xing
+18667|2|x-zht|Jin Wu Wei
 18388|1|x-zht|Jin Zhan Fashi
 83|4|de|Jin-Roh
 83|4|es|Jin-Roh
@@ -38977,12 +38978,12 @@
 2848|2|en|Pokemon Movie 8 - Lucario and The Mystery of Mew
 991|4|cs|Pokémon navždy
 7891|4|it|Pokemon Nero & Bianco
+8826|4|pt|Pokémon o Filme - Kyurem Contra a Espada da Justiça
 8012|4|pt|Pokémon o Filme: Branco - Victini e Zekrom
 10318|4|pt|Pokémon O Filme: Diancie e o Casulo de Destruição
 12646|4|pt|Pokémon o Filme: Escolho-te a ti!
 9564|4|pt|Pokémon o Filme: Genesect e a Lenda Revelada
 10966|4|pt|Pokémon O Filme: Hoopa e o Duelo Lendário
-8826|4|pt|Pokémon o Filme: Kyurem Contra a Espada da Justiça
 8269|4|pt|Pokémon o Filme: Preto - Victini e Reshiram
 11842|4|pt|Pokémon O Filme: Volcanion e a Maravilha Mecânica
 10031|4|en|Pokemon Origins
@@ -84283,6 +84284,7 @@
 17331|4|ja|眠れないオオカミ
 15031|4|ja|眠れぬ夜の小さなお話
 16391|4|zh-Hans|眷思量
+17105|2|zh-Hans|眷思量 第2季
 17105|4|zh-Hans|眷思量 第二季
 7878|4|ja|眼鏡なカノジョ
 7878|4|zh-Hans|眼镜女友
