@@ -1,4 +1,4 @@
-# created: Wed Aug 14 03:00:01 2024
+# created: Thu Aug 15 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -17073,6 +17073,7 @@
 1427|3|x-jat|GIF
 1427|3|x-jat|GIFinal
 1135|3|x-jat|gift
+16127|4|en|Gift
 14404|1|x-jat|Gift Plus Minus
 4585|3|x-jat|gift-er
 4585|1|x-jat|Gift: Eternal Rainbow
@@ -39873,6 +39874,7 @@
 4352|4|en|Project Boobs
 17744|1|x-jat|Project Bullet/Bullet
 17744|4|ja|Project BULLET/BULLET
+16250|2|en|Project Cosplay
 1032|2|x-jat|Project E.D.E.N.
 13860|1|x-jat|Project HAL
 13860|4|ja|PROJECT HAL
@@ -54397,6 +54399,7 @@
 15381|2|en|Wu Liuqi`s Strongest Hair Stylist
 18375|1|x-zht|Wu Nao Monu
 18784|1|x-zht|Wu Nao Monu (2024)
+18784|2|x-zht|Wu Nao Monu 2
 18784|2|x-zht|Wu Nao Monu 2nd Season
 18784|2|x-zht|Wu Nao Monu Di Er Ji
 15631|1|x-zht|Wu Ren Shen Chuanshuo
@@ -58023,6 +58026,7 @@
 9789|2|ru|Заморозка Вибрация
 1218|4|bg|Замъкът на Хаул
 6044|2|ru|Замыкание
+9257|4|uk|Заохочення до підкорення вершин
 15073|2|ru|Западные ворота парка Икебукуро
 14632|2|ru|Запасной ключик
 6531|2|ru|Записки Каны
@@ -64964,6 +64968,7 @@
 1988|2|ko|실격의사
 5640|2|ko|실락원
 1997|2|ko|실습생
+18588|2|ko|실을 꼬다
 12739|4|ko|실험품 가족: 크리쳐스 패밀리 데이즈
 13698|4|ko|싫은 얼굴을 하면서 팬티 보여줬으면 한다
 14259|4|ko|싫은 얼굴을 하면서 팬티 보여줬으면 한다 2
@@ -65003,6 +65008,7 @@
 14527|2|ko|아내가 예뻐진 이유
 13168|2|ko|아내가 온천에서 서클 남자들에게 육변기가 되버렸습니까...
 8981|2|ko|아내는 천사
+18509|2|ko|아내를 동창회에 보내면
 4924|2|ko|아내와 마마와 보잉
 8636|2|ko|아내의 어머니 사유리
 11193|2|ko|아네요메 콰르텟
@@ -65287,6 +65293,7 @@
 17315|2|ko|여름방학 끝에 그녀는
 14529|2|ko|여름방학 보물찾기
 15518|2|ko|여름이 끝날 때까지 The Animation
+18570|2|ko|여름이 끝날 때까지 여름의 끝
 14923|2|ko|여마왕 메리사의 H한 모험기
 14449|4|ko|여성향 게임의 파멸 플래그밖에 없는 악역 영애로 환생해버렸다...
 15604|4|ko|여성향 게임의 파멸 플래그밖에 없는 악역 영애로 환생해버렸다...X
@@ -83773,6 +83780,7 @@
 11544|2|zh-Hans|玛娜利亚魔法学院
 995|2|zh-Hans|玛琳
 11544|4|zh-Hans|玛纳利亚的密友
+6087|4|zh-Hans|玛莉亚†狂热
 7400|2|zh-Hans|玩伴猫耳娘
 8505|4|zh-Hans|玩伴猫耳娘 OVA
 7400|4|zh-Hant|玩伴貓耳娘
