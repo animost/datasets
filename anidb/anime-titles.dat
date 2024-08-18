@@ -1,4 +1,4 @@
-# created: Fri Aug 16 03:00:01 2024
+# created: Sat Aug 17 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3044,6 +3044,7 @@
 14559|2|x-unk|Arad: Reversal of Fate
 14560|2|x-jat|Arad: Shukumei no Mon
 14560|1|x-zht|Arad: Suming Zhi Men
+18818|1|x-jat|Arafou Otoko no Isekai Tsuuhan
 15353|3|x-jat|aragne movie 2
 12898|1|x-jat|Aragne no Mushikago
 12898|4|en|Aragne: Sign of Vermillion
@@ -21007,7 +21008,7 @@
 2980|1|x-jat|Honoo no Tenkousei
 2786|1|x-jat|Honoo no Toukyuuji: Dodge Danpei
 1511|2|x-jat|Honoo Tripper
-18409|2|en|Honor of Kings: Chapter of Glory
+18409|4|en|Honor of Kings: Chapter of Glory
 14639|2|en|Honor of the Divine Blade
 13910|2|en|Honor Students After School
 2980|3|x-jat|honoten
@@ -32415,6 +32416,7 @@
 8395|4|de|Mirai Nikki
 8395|1|x-jat|Mirai Nikki (2011)
 9585|1|x-jat|Mirai Nikki Redial: Data Ikou
+18817|1|x-jat|Mirai no Kuromaku-kei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho
 18737|1|x-jat|Mirai no Kuromakukei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho
 13174|1|x-jat|Mirai no Mirai
 12367|1|x-jat|Mirai o Mukete Bousai o Kangaeru
@@ -48972,6 +48974,7 @@
 15407|2|en|The Cursed One-piece
 1525|4|en|The Dagger of Kamui
 615|4|en|The Daichis - Earth`s Defense Family
+18818|2|en|The Daily Life of a Middle-Aged Online Shopper in Another World
 14718|4|en|The Daily Life of the Immortal King
 16359|4|en|The Daily Life of the Immortal King (2021)
 16359|2|en|The Daily Life of the Immortal King Season 2
@@ -54099,6 +54102,8 @@
 9276|2|en|Witch of Steel: Annerose
 17080|2|en|Witch on the Holy Night
 2821|1|x-jat|Witch Village Story
+18816|4|ja|WITCH WATCH
+18816|1|x-jat|Witch Watch
 286|2|en|Witch`s Delivery Service
 2511|1|x-jat|Witchblade
 2511|4|de|Witchblade
@@ -55532,6 +55537,7 @@
 15466|2|en|Youths and Golden Coffin
 17032|2|en|Youths and Golden Coffin 2
 16636|2|en|Youths and Golden Coffin 2 Part 1
+18348|2|en|Youths and Golden Coffin 3
 11558|2|en|YouTube Space Tokyo
 17923|1|x-jat|YouTuNya
 17923|4|zh-Hans|YouTu喵
@@ -66974,6 +66980,7 @@
 6226|2|ja|アラド戦記~スラップアップパーティー~
 785|4|ja|アラビアンナイト シンドバットの冒険
 1779|4|ja|アラビアンナイト シンドバッドの冒険
+18818|4|ja|アラフォー男の異世界通販
 14212|4|ja|あらら
 11083|4|ja|アラルガンド The Animation
 5324|4|ja|アリーズ -神話の星座宮-
@@ -81756,6 +81763,7 @@
 14665|2|ja|未来だって引越はアート!
 12367|4|ja|未来に向けて 防災を考える
 13174|4|ja|未来のミライ
+18817|4|ja|未来の黒幕系悪役令嬢モリアーティーの異世界完全犯罪白書
 10148|4|ja|未来への虹 -僕のおじさんは, ハンセン病-
 2250|4|ja|未来ロボ ダルタニアス
 11458|4|ja|未来光子 播磨サクラ
@@ -85351,6 +85359,7 @@
 11298|4|zh-Hant|老夫子之小水虎傳奇
 11297|4|zh|老夫子反斗偵探
 11230|4|zh-Hant|老夫子水虎傳
+18153|4|zh-Hant|老夫老妻重返青春
 16846|4|zh-Hans|老婆婆的棗樹
 3360|2|zh-Hans|老婆是女高中生
 1697|2|zh-Hans|老师的时间
