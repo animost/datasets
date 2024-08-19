@@ -1,4 +1,4 @@
-# created: Sat Aug 17 03:00:01 2024
+# created: Sun Aug 18 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -32135,6 +32135,8 @@
 2444|4|en|Midnight Sleazy Train 2
 9190|2|en|Midnight Sleazy Train Next
 4204|4|en|Midnight Strike Force
+18819|1|x-jat|Midnight Vampire
+18819|4|ja|Midnight Vampire
 3619|4|hr|Midori
 3619|2|en|Midori
 3619|4|fr|Midori
@@ -41084,6 +41086,7 @@
 18154|1|x-jat|Rekishi ni Nokoru Akujo ni Naru zo
 571|1|x-jat|Rekka no Honoo
 9426|1|x-jat|Rekka no Honoo: Final Burning
+15583|2|en|Release That Witch
 13760|4|ja|RELEASE THE SPYCE
 13760|1|x-jat|Release the Spyce
 13760|4|en|Release the Spyce
@@ -44555,6 +44558,7 @@
 17303|2|x-jat|Shingeki no Kyojin: The Final Season - Kanketsuhen
 16177|1|x-jat|Shingeki no Kyojin: The Final Season (2022)
 17303|1|x-jat|Shingeki no Kyojin: The Final Season (2023)
+18820|1|x-jat|Shingeki no Kyojin: The Last Attack
 11468|1|x-jat|Shingeki! Kyojin Chuugakkou
 1015|1|x-jat|Shingetsutan Tsukihime
 482|3|en|shingu tv
@@ -86870,6 +86874,7 @@
 13241|2|ja|進撃の巨人3
 14444|2|ja|進撃の巨人3.5
 14977|2|ja|進撃の巨人４
+18820|4|ja|進撃の巨人THE LAST ATTACK
 9541|4|zh-Hant|進擊的巨人
 14977|4|zh-Hant|進擊的巨人 The Final Season
 10583|4|zh-Hant|進擊的巨人 劇場版
