@@ -1,4 +1,4 @@
-# created: Sun Aug 18 03:00:02 2024
+# created: Mon Aug 19 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -500,6 +500,7 @@
 2|4|ja|3×3 EYES
 3|4|ja|3×3 EYES -聖魔伝説-
 18114|1|x-jat|30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii
+18821|1|x-jat|30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii Tokubetsu Henshuuban
 18114|2|x-jat|30-sai made Doutei dato Mahoutsukai ni Nareru Rashii
 8106|1|x-jat|30-sai no Hoken Taiiku
 2213|2|en|30,000 Leagues Under The Sea
@@ -518,6 +519,7 @@
 8106|4|zh-Hans|30岁的保健体育
 8106|4|ja|30歳の保健体育
 18114|4|ja|30歳まで童貞だと魔法使いになれるらしい
+18821|4|ja|30歳まで童貞だと魔法使いになれるらしい 特別編集版
 17984|2|en|365 Days to the Wedding
 1845|2|en|37℃ Fever
 12729|2|en|3D Heaven
@@ -1257,6 +1259,7 @@
 18638|2|en|Ace of the Diamond (Sequel)
 14504|2|en|Ace of the Diamond Act II
 14504|4|en|Ace of the Diamond: Act II
+14504|4|fr|Ace of the Diamond: Act II
 1072|2|x-jat|Ace wo Nerae
 1072|2|x-jat|Ace wo Nerae!
 1074|2|x-jat|Ace wo Nerae! (1979)
@@ -5768,9 +5771,9 @@
 7056|2|en|Blue Literature Series
 16519|4|en|Blue Lock
 16519|1|x-jat|Blue Lock
-17954|1|x-jat|Blue Lock (2024)
-17954|4|en|Blue Lock (2024)
 17954|2|x-jat|Blue Lock S2
+17954|1|x-jat|Blue Lock vs. U-20 Japan
+17954|4|en|Blue Lock vs. U-20 Japan
 17955|4|en|Blue Lock: Episode Nagi
 2467|3|x-jat|Blue Noah
 2467|4|it|Blue Noah - Mare spaziale
@@ -7597,6 +7600,7 @@
 16279|1|x-jat|Cherry and Virgin
 16279|4|ja|CHERRY AND VIRGIN
 18114|4|en|Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!
+18821|2|en|Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! Special Edition
 1579|4|fr|Cherry Miel
 6670|1|x-jat|Cherry no Manma
 6670|2|en|Cherry Scandal
@@ -9923,6 +9927,7 @@
 351|3|en|ddd
 8643|1|x-jat|DDD Niokeru Ikeda Bakuhatsurou to Watt no Honmyou
 18670|2|en|DDDD
+17273|2|en|DDDD movie
 18670|2|zh-Hans|DDDD 恶魔的破坏
 8643|4|ja|DDDにおける池田爆発郎とwattの本名
 1619|3|x-jat|DDL
@@ -14260,6 +14265,7 @@
 15583|1|x-zht|Fang Kai Nage Nuwu
 2352|2|en|Fang of the Sun Dagram
 2352|2|en|Fang of the Sun Dougram
+15583|2|x-zht|Fangkai Nage Nuwu
 18594|1|x-zht|Fanpai Chushihua
 15425|2|x-zht|Fanren Xiu Xian Chuan
 16039|2|zh-Hans|Fanren Xiu Xian Chuan SP
@@ -22538,6 +22544,7 @@
 12999|4|ja|insomniac
 12999|1|x-jat|Insomniac
 17131|4|en|Insomniacs After School
+17131|4|fr|Insomniacs After School
 4686|4|es|Inspector Fabre
 4686|4|en|Inspector Fabre
 9127|2|pl|Inspektor Tsunemori Akane
@@ -28001,6 +28008,7 @@
 3497|4|fr|Le prince et la sirène
 9369|4|fr|Le Prince Nezha triomphe du Roi Dragon
 11725|4|it|Le ragazze anelano alla landa selvaggia
+10960|4|fr|Le Rakugo ou la vie
 5631|2|fr|Le recueil des faits improbables de Ryoko Yakushiji
 676|4|fr|Le retour de la Blue Girl
 1496|2|fr|Le retour de Léo
@@ -29446,6 +29454,7 @@
 14616|4|de|Lupin III.: Fujiko Mines Lüge
 12398|4|de|Lupin III.: Goemon Ishikawa, der es Blut regnen lässt
 421|4|de|Lupin III.: Part 1
+10882|4|de|Lupin III.: Part 4
 15003|4|de|Lupin III.: The First
 9031|4|de|Lupin III.: The Woman Called Fujiko Mine
 9937|1|x-jat|Lupin Ikka Seizoroi
@@ -44076,6 +44085,7 @@
 6267|4|en|Shangri-La
 13140|1|x-jat|Shangri-La (2011)
 17501|4|en|Shangri-La Frontier
+17501|4|fr|Shangri-La Frontier
 18578|4|en|Shangri-La Frontier (2024)
 17501|1|x-jat|Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su
 18578|1|x-jat|Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su (2024)
@@ -44242,7 +44252,9 @@
 4296|2|en|Shibawanko`s Spirit of Tradition
 4296|2|en|Shibawanko`s Spirit of Wa
 18492|1|x-jat|Shibuya Hachi
+18822|1|x-jat|Shibuya Hachi (2024)
 18492|4|ja|SHIBUYA♡HACHI
+18822|4|ja|SHIBUYA♡HACHI (2024)
 16119|1|x-jat|Shichigahama de Mitsuketa
 853|1|x-jat|Shichinin no Nana
 13439|1|x-jat|Shichisei no Subaru
@@ -48586,8 +48598,8 @@
 17118|4|en|Teppen!!!!!!!!!!!!!!! Laughing `Til You Cry
 9634|2|x-kot|Tera
 12717|1|x-jat|Terajima-chou Kidan: Ginnagashi
-18275|1|en|Terminator Zero
-18275|4|ja|Terminator Zero
+18275|1|x-jat|Terminator Zero
+18275|4|en|Terminator Zero
 18071|4|pt|Terra de Alma Ⅱ: O Inigualável Clã Tang
 1416|1|x-jat|Terra e...
 5039|1|x-jat|Terra e... (2007)
@@ -63008,6 +63020,7 @@
 8286|4|th|นัตสึเมะกับบันทึกพิศวง ภาค 3
 8667|4|th|นัตสึเมะกับบันทึกพิศวง ภาค 4
 12009|4|th|นัตสึเมะกับบันทึกพิศวง ภาค 5
+14156|4|th|นางฟ้าตัวน้อยได้ลงมาโปรดฉันค่ะ
 4143|4|th|นานะ
 586|4|th|นารุเอะ อลวนลุ้นรักสาวต่างดาว
 4880|4|th|นารูโตะ ตำนานวายุสลาตัน
@@ -70258,6 +70271,7 @@
 2498|4|ja|ダーティペア ラブリーエンジェルより愛をこめて
 1174|4|ja|ダーティペア 謀略の005便
 402|4|ja|ダーティペアFLASH
+18275|4|ja|ターミネーターゼロ
 1128|4|ja|ダーリン
 13259|4|ja|ダーリン・イン・ザ・フランキス
 2813|4|ja|ターンエーガンダムI 地球光
@@ -72654,7 +72668,7 @@
 2627|4|ja|ブルーリメイン
 18263|4|ja|フルール THE ANIMATION
 16519|4|ja|ブルーロック
-17954|4|ja|ブルーロック (2024)
+17954|4|ja|ブルーロック VS. U-20 JAPAN
 10502|4|ja|フルエルクチビル
 4588|4|ja|ふるさと-JAPAN
 4588|2|ja|ふるさとJAPAN
