@@ -1,4 +1,4 @@
-# created: Tue Aug 20 03:00:01 2024
+# created: Wed Aug 21 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3364,6 +3364,7 @@
 9514|4|pt|As Asas do Vento
 1105|2|es-GA|As aventuras de Fly
 3675|4|pt|As Aventuras de Huckleberry Finn
+4727|4|pt|As Aventuras de Pipi
 2200|4|pt|As Aventuras de Robin
 3604|4|pt-BR|As aventuras de Shadow Boy
 1779|4|pt|As Aventuras de Simbad - O Marinheiro
@@ -31359,6 +31360,7 @@
 18454|1|x-jat|Mayonaka Punch
 18454|4|en|Mayonaka Punch
 12802|1|x-jat|Mayonaka wa Junketsu
+18454|2|x-jat|Mayopan
 3984|1|x-jat|Mayutoro The Toons
 459|3|x-jat|Maze
 602|4|en|Maze
@@ -32140,6 +32142,7 @@
 14706|4|en|Midnight Occult Civil Servants: The Blind Alley, the Boy, and I
 1279|1|x-jat|Midnight Panther
 1279|4|de|Midnight Panther
+18454|2|en|Midnight Punch
 1359|4|en|Midnight Sleazy Train
 2444|4|en|Midnight Sleazy Train 2
 9190|2|en|Midnight Sleazy Train Next
@@ -53608,6 +53611,7 @@
 8128|1|x-jat|Wana: Hakudaku Mamire no Houkago
 639|3|x-jat|wandaba
 639|4|en|Wandaba Style
+18823|2|en|Wandance
 17893|4|ja|WANDER BURABURA BAKKAMU
 17893|1|x-jat|Wander Burabura Bakkamu
 90|2|en|Wanderer Kenshin
@@ -54222,6 +54226,7 @@
 15388|2|en|Womanizing Private Tutor`s Cuckoldry Report: Indecent and Busty Mother-Daughter Threesome
 2963|4|en|Women at Work
 17171|1|x-zht|Womende Dong Ao
+18823|1|x-jat|Wondance
 11433|1|x-jat|Wonder
 11433|4|ja|WONDER
 2876|2|en|Wonder 3
@@ -55799,6 +55804,7 @@
 12500|4|en|Yuki Yuna Is a Hero: Hero Chapter
 15665|4|en|Yuki Yuna Is a Hero: The Great Mankai Chapter
 13728|4|en|Yuki Yuna Is a Hero: The Washio Sumi Chapter
+12501|2|en|Yuki Yuna Is A Hero: Washio Sumi Chapter 3 - Promise
 4726|4|fr|Yuki, le secret de la montagne magique
 4726|2|en|Yuki: Snow Fairy
 10314|4|en|Yuki`s Sun
@@ -74437,6 +74443,7 @@
 18294|4|ja|わんだふるぷりきゅあ!
 18539|4|ja|わんだふるぷりきゅあ! ざ・むーびー!
 17154|4|ja|ワンダリズム きみを呼ぶ声
+18823|4|ja|ワンダンス
 6139|4|ja|ワンナウツ
 2874|4|ja|わんぱく探偵団
 2201|4|ja|わんぱく王子の大蛇退治
@@ -85101,6 +85108,7 @@
 9734|4|zh-Hans|约会大作战 OAD
 13533|4|zh-Hans|约会大作战 第三季
 9935|4|zh-Hans|约会大作战 第二季
+17476|4|zh-Hans|约会大作战 第五季
 15106|2|zh-Hans|约会大作战 第四季
 15100|4|zh-Hans|约会大作战 赤黑新章：虚或实
 10688|2|zh-Hans|约会大作战：万由里审判
