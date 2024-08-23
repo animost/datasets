@@ -1,4 +1,4 @@
-# created: Wed Aug 21 03:00:02 2024
+# created: Thu Aug 22 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -739,6 +739,8 @@
 16172|2|en|86 2nd Part
 15441|4|en|86 Eighty-Six
 16172|4|en|86 Eighty-Six (2021)
+16172|2|en|86 Eighty-Six Part 2
+16172|2|x-unk|86 Part 2
 15441|4|ru|86 ВОСЕМЬДЕСЯТ ШЕСТЬ
 15441|2|ja|86-エイティシックス-
 16172|2|ja|86-エイティシックス- (2021)
@@ -1799,6 +1801,7 @@
 16085|1|x-jat|Akachan Honbuchou
 17123|1|x-jat|Akachan Honbuchou (2022)
 17306|1|x-jat|Akachan Honbuchou 3rd Series
+17123|2|x-unk|Akachan Honbuchou Seaosn 2
 1419|1|x-jat|Akachan to Boku
 11739|4|pl|Akademia bohaterów
 12233|4|pl|Akademia bohaterów (2017)
@@ -2272,6 +2275,7 @@
 17410|1|x-jat|Ame ga Sora Kara Fureba
 13076|1|x-jat|Ame no Bus Stop Hen
 16801|1|x-jat|Ame o Tsugeru Hyouryuu Danchi
+18824|1|x-jat|Ame to Kimi to
 14464|1|x-jat|Ame to Kusari
 2983|1|x-jat|Ame to Shoujo to Watashi no Tegami: Short Short Story
 8832|2|de|Ame und Yuki - Die Wolfskinder
@@ -4158,6 +4162,20 @@
 18557|4|en|Baki Hanma VS Kengan Ashura
 15737|3|x-jat|baki ova
 17271|3|x-jat|baki ova 2
+453|3|x-unk|baki s1
+880|3|x-unk|baki s2
+12569|3|x-unk|baki s3
+14772|3|x-unk|baki s4
+15737|3|x-unk|baki s5
+17271|3|x-unk|baki s6
+18579|3|x-unk|baki s7
+453|2|x-unk|Baki Season 1
+880|2|x-unk|Baki Season 2
+12569|2|x-unk|Baki Season 3
+14772|2|x-unk|Baki Season 4
+15737|2|x-unk|Baki Season 5
+17271|2|x-unk|Baki Season 6
+18579|2|x-unk|Baki Season 7
 453|4|fr|Baki The Grappler
 453|4|en|Baki The Grappler
 880|4|fr|Baki The Grappler - The Ultimate Tournament
@@ -5072,6 +5090,7 @@
 9518|4|de|Beyond the Boundary: Kyoukai no Kanata
 469|3|en|Beyond The Clouds
 469|2|en|Beyond The Clouds, The Promised Place
+18825|1|x-kot|Beyond the Gaze
 6408|2|en|Beyond the Heavens
 14855|2|en|Beyond the Ocean
 17082|2|en|Beyond the Ocean 2
@@ -6217,6 +6236,7 @@
 3142|1|x-jat|Boukensha-tachi: Gamba to Nanbiki no Nakama
 15765|1|x-jat|Boukyaku Battery
 18145|1|x-jat|Boukyaku Battery (2024)
+18145|2|x-unk|Boukyaku Battery (TV)
 1551|1|x-jat|Boukyaku no Senritsu
 2705|4|fr|Boumbo
 1095|4|de|Boundary Between Dream & Reality
@@ -7642,6 +7662,7 @@
 4893|2|en|Chibi Goddess Karin
 17889|1|x-jat|Chibi Godzilla no Gyakushuu
 18631|1|x-jat|Chibi Godzilla no Gyakushuu (2024)
+18631|2|x-unk|Chibi Godzilla no Gyakushuu Season 2
 17889|4|en|Chibi Godzilla Raids Again
 7420|1|x-jat|Chibi Kero: Kero Ball no Himitsu!?
 1841|4|de|Chibi Maruko Chan
@@ -9625,6 +9646,7 @@
 15111|3|x-jat|danmachi s3
 16032|3|x-jat|danmachi s4
 17652|3|x-jat|danmachi s5
+17652|2|x-unk|DanMachi Season 4 Part 2
 18267|3|x-jat|DanMachi V
 10894|4|es-419|DanMachi: ¿Está mal seducir chicas en un calabozo?
 10894|4|es|DanMachi: ¿Qué tiene de malo intentar ligar en una mazmorra?
@@ -12035,11 +12057,13 @@
 14491|4|en|Dr. Stone
 14491|4|pl|Dr. Stone
 15305|2|en|Dr. Stone S2: Stone Wars
+18064|2|x-unk|Dr. Stone Season 3 Part 2
 17053|1|x-jat|Dr. Stone: New World
 17053|4|de|Dr. Stone: New World
 17053|4|en|Dr. Stone: New World
 18064|4|en|Dr. Stone: New World (2023)
 18064|1|x-jat|Dr. Stone: New World (2023)
+18064|2|x-unk|Dr. Stone: New World Part 2
 16164|4|en|Dr. Stone: Ryusui
 16164|1|x-jat|Dr. Stone: Ryuusui
 18336|1|x-jat|Dr. Stone: Science Future
@@ -13071,6 +13095,8 @@
 4844|1|x-jat|Eiga Futari wa Precure Splash Star: Tick Tack Kiki Ippatsu!
 15102|1|x-jat|Eiga Given
 17929|1|x-jat|Eiga Given (2024)
+17929|2|x-unk|Eiga Given 2
+17929|2|x-unk|Eiga Given 3
 16165|1|x-jat|Eiga Go-Toubun no Hanayome
 11341|1|x-jat|Eiga Go! Princess Precure Go! Go!! Gouka 3-bondate!!!
 9527|1|x-jat|Eiga Hana Kappa Hana-sake! Pakkaan Chou no Kuni no Daibouken
@@ -13523,6 +13549,10 @@
 15335|1|x-jat|En`en no Shouboutai Ni no Shou
 17420|1|x-jat|En`en no Shouboutai San no Shou
 18742|1|x-jat|En`en no Shouboutai San no Shou (2026)
+17420|2|x-unk|En`en no Shouboutai San no Shou Part 1
+18742|2|x-unk|En`en no Shouboutai San no Shou Part 2
+17420|2|x-unk|En`en no Shouboutai Season 3 Part 1
+18742|2|x-unk|En`en no Shouboutai Season 3 Part 2
 5141|1|x-jat|En`yoku
 2862|3|x-jat|EnA
 10559|1|x-jat|Enbi
@@ -13561,6 +13591,8 @@
 14488|2|x-jat|enen
 15335|2|en|enen 2
 14488|2|x-jat|Enen no Shouboutai
+17420|2|x-unk|Enen no Shouboutai San no Shou Part 1
+17420|2|x-unk|Enen no Shouboutai Season 3 Part 1
 15335|3|x-jat|enen s2
 17420|3|x-jat|enen s3
 15335|3|x-jat|enen2
@@ -14454,6 +14486,7 @@
 12519|4|en|Fate/Grand Order: First Order
 17804|1|x-jat|Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai
 18796|1|x-jat|Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai (2024)
+18796|2|x-unk|Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2
 13643|1|x-jat|Fate/Grand Order: Moonlight/Lostroom
 13643|4|en|Fate/Grand Order: Moonlight/Lostroom
 15461|1|x-jat|Fate/Grand Order: Shuukyoku Tokuiten - Kan`i Jikan Shinden Solomon
@@ -14832,6 +14865,7 @@
 15335|4|en|Fire Force (2020)
 17420|4|en|Fire Force (2025)
 18742|4|en|Fire Force (2026)
+17420|2|x-unk|Fire Force Chapter Three (2025)
 3286|4|en|Fire Force DNA Sights 999.9
 3286|4|fr|Fire Force DNA Sights 999.9
 17420|2|en|Fire Force Season 3
@@ -17730,6 +17764,7 @@
 15812|4|hu|Gokushufudou - Jakuzafőnökből háztartásbeli férj
 16200|1|x-jat|Gokushufudou (2021)
 17643|1|x-jat|Gokushufudou (2023)
+16200|2|x-unk|Gokushufudou Part 2
 15812|4|hr|Gokushufudou: Od yakuze do kućanice
 15812|4|pt-BR|Gokushufudou: Tatsu Imortal
 17716|4|ja|Gokuu Gaiden! Yuuki no Akashi wa Sixingqiu
@@ -19317,6 +19352,7 @@
 2048|2|es-419|Hany Hany
 15546|2|x-jat|Hanyou no Yashahime: Sengoku Otogizoushi
 16141|2|x-jat|Hanyou no Yashahime: Sengoku Otogizoushi (2021)
+16141|2|x-unk|Hanyou no Yashahime: Sengoku Otogizoushi Season 2
 17510|1|x-zht|Hao pengyou
 6088|2|lv|Haoss;Galva
 542|1|x-jat|Haou Taikei Ryuu Knight
@@ -19422,6 +19458,7 @@
 5665|1|x-jat|Harenchi Koumon Manyuuki
 18192|1|x-jat|Hari Maware! Koinu
 18555|1|x-jat|Hari Maware! Koinu (2024)
+18555|2|x-unk|Hari Maware! Koinu Season 2
 191|2|tr|Harika Öğretmen Onizuka
 1562|2|x-jat|Hariken Polymar
 18555|2|x-jat|Harimaware! Koinu (2024)
@@ -19551,8 +19588,10 @@
 16104|2|x-jat|Hataraku Maou-sama S2
 9466|1|x-jat|Hataraku Maou-sama!
 16104|2|x-jat|Hataraku Maou-sama! 2
+17649|2|x-unk|Hataraku Maou-sama! Season 2 Part 2
 16104|1|x-jat|Hataraku Maou-sama!!
 17649|1|x-jat|Hataraku Maou-sama!! (2023)
+17649|2|x-unk|Hataraku Maou-sama!! Part 2
 13573|1|x-jat|Hataraku Onii-san!
 13995|1|x-jat|Hataraku Onii-san! No 2!
 12440|1|x-jat|Hataraku Otona no Ren`ai Jijou The Animation
@@ -21031,12 +21070,16 @@
 15293|3|x-jat|Honzuki no Gekokujou 2
 15634|2|x-jat|Honzuki no Gekokujou 3
 14727|1|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen
+15293|2|x-unk|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen
 15300|1|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Eustachius no Shitamachi Sennyuu Daisakusen / Corinna-sama no Otaku Houmon
 18302|1|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Ryoushu no Youjo
 15293|1|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen (2020)
 15634|1|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen (2022)
 15293|2|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen 2
 15293|2|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen Dainibu
+15293|2|x-unk|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen Season 2
+15634|2|x-unk|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen Season 3
+15293|2|x-unk|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erande Iraremasen Season 2
 15300|3|x-jat|Honzuki OVA
 15293|3|x-jat|Honzuki s2
 15634|3|x-jat|Honzuki s3
@@ -21186,6 +21229,7 @@
 14386|1|x-jat|Houkago Saikoro Club
 18171|1|x-jat|Houkago Shounen Hanako-kun
 18272|1|x-jat|Houkago Shounen Hanako-kun (2024)
+18272|2|x-unk|Houkago Shounen Hanako-kun Part 2
 14827|1|x-jat|Houkago Teibou Nisshi
 2877|1|x-jat|Houkago: Nureta Seifuku
 527|1|x-jat|Houma Hunter Lime
@@ -24184,6 +24228,7 @@
 17358|1|x-zht|Kaiju Yi Zuo Shan
 17550|1|x-jat|Kaijuu 8 Gou
 18722|1|x-jat|Kaijuu 8 Gou (2025)
+18722|2|x-unk|Kaijuu 8 Gou Season 2
 15269|2|x-jat|Kaijuu Decode
 17369|1|x-jat|Kaijuu ga Yattekuru
 13975|1|x-jat|Kaijuu Girls (Kuro): Ultra Kaijuu Gijinka Keikaku
@@ -24283,6 +24328,7 @@
 2178|4|ru|Kakurenbo: игра в прятки
 13564|1|x-jat|Kakuriyo no Yadomeshi
 18607|1|x-jat|Kakuriyo no Yadomeshi (2025)
+18607|2|x-unk|Kakuriyo no Yadomeshi Season 2
 13564|4|en|Kakuriyo: Bed & Breakfast for Spirits
 18607|2|en|Kakuriyo: Bed & Breakfast for Spirits (2025)
 9753|1|x-jat|Kakushi Dere
@@ -24389,6 +24435,7 @@
 17925|1|x-jat|Kamierabi
 18334|1|x-jat|Kamierabi (2024)
 17925|4|en|KamiErabi GOD.app
+18334|2|x-jat|Kamierabi Season 2
 10305|1|x-jat|Kamigami no Asobi
 10305|4|es|Kamigami no Asobi
 10305|4|en|Kamigami no Asobi
@@ -24537,6 +24584,8 @@
 15743|1|x-jat|Kanojo, Okarishimasu (2022)
 17629|1|x-jat|Kanojo, Okarishimasu (2023)
 18753|1|x-jat|Kanojo, Okarishimasu (2025)
+17629|2|x-unk|Kanojo, Okarishimasu Season 3
+18753|2|x-unk|Kanojo, Okarishimasu Season 4
 461|3|x-jat|kanojoneko
 11874|3|x-jat|kanojoneko tv
 15851|3|x-jat|kanokano
@@ -24972,6 +25021,7 @@
 15110|1|x-jat|Kengan Ashura (2019)
 17274|1|x-jat|Kengan Ashura (2023)
 18762|1|x-jat|Kengan Ashura (2024)
+17274|2|x-unk|Kengan Ashura Season 2 Part 1
 11216|3|x-jat|kenganashura
 15110|3|x-jat|kenganashura s2
 17274|3|x-jat|kenganashura s3
@@ -26355,6 +26405,7 @@
 16300|2|x-jat|Komi-san wa, Comyushou Desu.
 16300|1|x-jat|Komi-san wa, Komyushou Desu.
 17072|1|x-jat|Komi-san wa, Komyushou Desu. (2022)
+17072|2|x-unk|Komi-san wa, Komyushou Desu. Part 2
 17072|3|x-jat|komi2
 11323|4|en|Komori-san Can`t Decline!
 11323|1|x-jat|Komori-san wa Kotowarenai!
@@ -26604,6 +26655,7 @@
 16427|1|x-jat|Koukaku Kidoutai: SAC_2045 - Jizoku Kanou Sensou
 15512|1|x-jat|Koukaku Kidoutai: SAC_2045 (2022)
 15512|2|x-jat|Koukaku Kidoutai: SAC_2045 Season 2
+15512|2|x-unk|Koukaku Kidoutai: SAC_2045 Season 2
 17940|1|x-jat|Koukaku Kidoutai: SAC_2045: Saigo no Ningen
 10824|1|x-jat|Koukaku Kidoutai: Shin Gekijouban
 12360|1|x-jat|Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi
@@ -27169,6 +27221,7 @@
 8886|2|x-jat|Kyoukai Senjou no Horizon S2
 16128|1|x-jat|Kyoukai Senki
 17091|1|x-jat|Kyoukai Senki (2022)
+17091|2|x-unk|Kyoukai Senki Part 2
 17871|1|x-jat|Kyoukai Senki: Kyokkou no Souki
 8323|3|x-jat|kyoukaisen
 8886|3|x-jat|kyoukaisen s2
@@ -29060,6 +29113,7 @@
 16927|1|x-jat|Love Live! Superstar!! (2022)
 16927|4|en|Love Live! Superstar!! (2022)
 17665|1|x-jat|Love Live! Superstar!! (2024)
+17665|2|x-jat|Love Live! Superstar!! Season 2
 10720|1|x-jat|Love Live! The School Idol Movie
 10720|4|en|Love Live! The School Idol Movie
 9927|4|zh-Hans|Love Live! 第二季
@@ -30379,6 +30433,7 @@
 11982|2|en|Mahou Tsukai no Yome OVA
 17599|1|x-jat|Mahou Tsukai no Yome Season 2
 18076|1|x-jat|Mahou Tsukai no Yome Season 2 (2023)
+18076|2|x-jat|Mahou Tsukai no Yome Season 2 Part 2
 11982|1|x-jat|Mahou Tsukai no Yome: Hoshi Matsu Hito
 16113|1|x-jat|Mahou Tsukai no Yome: Nishi no Shounen to Seiran no Kishi
 17080|1|x-jat|Mahou Tsukai no Yoru
@@ -30414,6 +30469,7 @@
 17098|1|x-jat|Mahouka Koukou no Rettousei (2024)
 15132|2|x-jat|Mahouka Koukou no Rettousei 2nd Season
 15132|2|x-jat|Mahouka Koukou no Rettousei S2
+17098|2|x-unk|Mahouka Koukou no Rettousei Season 3
 15132|1|x-jat|Mahouka Koukou no Rettousei: Raihousha Hen
 16081|1|x-jat|Mahouka Koukou no Rettousei: Tsuioku Hen
 15952|1|x-jat|Mahouka Koukou no Yuutousei
@@ -30429,6 +30485,7 @@
 5830|2|x-jat|Mahoutsukai ni Taisetsu na Koto: Natsu no Sora
 12942|2|x-jat|Mahoutsukai no Yome
 18076|2|en|Mahoutsukai no Yome Season 2
+18076|2|x-jat|Mahoutsukai no Yome Season 2 Part 2
 11982|2|x-jat|Mahoutsukai no Yome: Hoshi Matsu Hito
 16113|2|x-jat|Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi
 11794|2|x-jat|Mahoutsukai Precure!
@@ -30525,6 +30582,7 @@
 14660|1|x-jat|Mairimashita! Iruma-kun
 15428|1|x-jat|Mairimashita! Iruma-kun (2021)
 16627|1|x-jat|Mairimashita! Iruma-kun (2022)
+15428|2|x-unk|Mairimashita! Iruma-kun 2
 6111|4|en|Maison de Castle
 288|1|x-jat|Maison Ikkoku
 491|4|pl|Maison Ikkoku
@@ -30784,6 +30842,7 @@
 6746|2|en|Mamegoma, Teeny Tiny Seals
 17620|1|x-jat|Mamekichi Mameko NEET no Nichijou
 18023|1|x-jat|Mamekichi Mameko NEET no Nichijou (2023)
+18023|2|x-unk|Mamekichi Mameko NEET no Nichijou Season 2
 17620|2|en|Mamekichi Mameko: The Daily Life of a NEET
 18023|2|en|Mamekichi Mameko: The Daily Life of a NEET (2023)
 9829|1|x-jat|Mameshiba
@@ -30934,8 +30993,10 @@
 18701|1|zh|Mao Zhi Ming 2
 444|4|en|Mao-chan
 15131|3|x-jat|maogaku
+16102|2|x-unk|Maogaku (2024)
 16101|3|x-jat|maogaku s2
 16102|3|x-jat|maogaku s3
+16102|2|x-unk|Maohgaku (2024)
 16894|1|x-zht|Maomao De Gushi
 14391|3|x-jat|maorito
 15095|3|x-jat|maosumi
@@ -30946,9 +31007,11 @@
 16057|1|x-jat|Maou Evelogia ni Mi o Sasageyo
 1677|2|en|Maou from now on!
 15131|2|x-jat|Maou Gakuin
+16102|2|x-unk|Maou Gakuin no Futekigousha Season 2 Part 2
 15131|1|x-jat|Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou
 16101|1|x-jat|Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou II
 16102|1|x-jat|Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou II (2024)
+16102|2|x-unk|Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou II Part 2
 18427|1|x-jat|Maou Gun Saikyou no Majutsushi wa Ningen Datta
 16057|2|x-jat|Maou Ibrogia ni Mi o Sasageyo
 17686|1|x-jat|Maou no Ore ga Dorei Elf o Yome ni Shitanda ga, Dou Medereba Ii?
@@ -30957,6 +31020,7 @@
 15095|1|x-jat|Maou-jou de Oyasumi
 14391|1|x-jat|Maou-sama, Retry!
 18167|1|x-jat|Maou-sama, Retry! R
+16102|2|x-unk|Maougaku (2024)
 18427|2|x-jat|Maougun Saikyou no Majutsushi wa Ningen Datta
 15095|2|x-jat|Maoujou de Oyasumi
 9287|4|en|Maoyu: Archenemy & Hero
@@ -31243,6 +31307,7 @@
 17010|1|x-jat|Massara
 1029|1|x-jat|Massugu ni Ikou.
 2327|1|x-jat|Massugu ni Ikou. (2004)
+2327|2|x-unk|Massugu ni Ikou. Season 2
 11185|4|en|Master and Man
 11661|1|x-jat|Master Blaster
 11661|4|ja|MASTER BLASTER
@@ -31496,6 +31561,7 @@
 3051|4|en|Mecha-Doc
 12467|1|x-jat|Mecha-ude
 17627|1|x-jat|Mecha-ude (2024)
+17627|2|x-jat|Mecha-ude Full Series
 3051|2|x-jat|Mechadoc
 4274|1|x-jat|Mechakko Dotakon
 12467|2|en|Mechanical Arms
@@ -31578,6 +31644,7 @@
 1722|1|x-jat|Megami Kyoujyu
 17612|1|x-jat|Megami no Cafe Terrace
 18080|1|x-jat|Megami no Cafe Terrace (2024)
+18080|2|x-unk|Megami no Cafe Terrace Season 2
 1476|4|en|Megami Paradise
 1476|1|x-jat|Megami Paradise
 832|1|x-jat|Megami Tantei Vinus File
@@ -33099,6 +33166,8 @@
 16976|1|x-jat|Mononogatari
 16976|4|de|Mononogatari - Die Wächter der Artefaktgeister
 17958|1|x-jat|Mononogatari (2023)
+17958|2|x-unk|Mononogatari Part 2
+17958|2|x-unk|Mononogatari Second Chapter
 5113|1|x-jat|Mononoke
 5113|4|en|Mononoke
 7|3|x-jat|mononoke (1997)
@@ -33703,6 +33772,7 @@
 14758|1|x-jat|Mushoku Tensei: Isekai Ittara Honki Dasu
 15954|1|x-jat|Mushoku Tensei: Isekai Ittara Honki Dasu (2021)
 15954|2|x-jat|Mushoku Tensei: Isekai Ittara Honki Dasu Part 2
+18104|2|x-unk|Mushoku Tensei: Isekai Ittara Honki Dasu Season 2 Part 2
 14758|4|en|Mushoku Tensei: Jobless Reincarnation
 15954|4|en|Mushoku Tensei: Jobless Reincarnation (2021)
 17236|4|en|Mushoku Tensei: Jobless Reincarnation Season 2
@@ -33767,6 +33837,7 @@
 17073|1|x-jat|Muv-Luv Alternative (2022)
 17073|4|ja|Muv-Luv ALTERNATIVE (2022)
 17073|4|en|Muv-Luv Alternative (2022)
+17073|2|x-unk|Muv-Luv Alternative Season 2
 15230|2|x-unk|Muv-Luv Alternative The Animation
 8549|4|ja|MUV-LUV ALTERNATIVE TOTAL ECLIPSE
 8549|4|zh-Hans|Muv-Luv Alternative Total Eclipse
@@ -34299,6 +34370,7 @@
 14819|1|x-jat|Nanatsu no Taizai: Kamigami no Gekirin
 17355|1|x-jat|Nanatsu no Taizai: Mokushiroku no Yonkishi
 18558|1|x-jat|Nanatsu no Taizai: Mokushiroku no Yonkishi (2024)
+18558|2|x-unk|Nanatsu no Taizai: Mokushiroku no Yonkishi Season 2
 12047|1|x-jat|Nanatsu no Taizai: Seisen no Shirushi
 2288|1|x-jat|Nanatsu no Umi no Tico
 4884|1|x-jat|Nanatsu-iro Drops: First Love That Encompasses You
@@ -35115,6 +35187,7 @@
 18134|4|ja|NieR:Automata Ver1.1a (2024)
 18134|1|x-jat|NieR:Automata Ver1.1a (2024)
 18134|4|en|NieR:Automata Ver1.1a (2024)
+18134|2|x-jat|NieR:Automata Ver1.1a Season 2
 3412|2|pl|Nieśmiertelny: W poszukiwaniu zemsty
 17909|1|x-jat|Nige Jouzu no Wakagimi
 18410|1|x-jat|Niger Monogatari
@@ -36046,6 +36119,7 @@
 17450|4|en|Obey Me! (2022)
 17450|4|ja|Obey Me! (2022)
 17450|1|x-jat|Obey Me! (2022)
+17450|2|x-unk|Obey Me! Season 2
 17450|2|ja|Obey Me! The Anime Season 2
 1815|2|fr|Objectif planète Terre
 18145|4|en|Oblivion Battery
@@ -36797,6 +36871,7 @@
 13100|1|x-jat|Ooi! Hanimaru
 18019|2|ja|Ooi! Tonbo
 18721|1|x-jat|Ooi! Tonbo (2024)
+18721|2|x-unk|Ooi! Tonbo Season 2
 7134|3|x-jat|Ookami
 7381|3|x-jat|ookami (2010)
 7134|1|x-jat|Ookami Kakushi
@@ -37153,6 +37228,7 @@
 16133|1|x-jat|Oshiri Tantei (2021)
 16946|1|x-jat|Oshiri Tantei (2022)
 17701|1|x-jat|Oshiri Tantei (2023)
+16946|2|x-unk|Oshiri Tantei Season 6
 17875|1|x-jat|Oshiri Tantei: Cosmic Front
 6350|1|x-jat|Oshiruko: The Summertime Mischief
 12485|2|x-jat|Oshitsu Kyoshi Haine
@@ -38466,6 +38542,7 @@
 12470|1|x-jat|Pittanko! Nekozakana
 13535|1|x-jat|Pittanko!! Nekozakana
 15624|1|x-jat|Pittanko!! Nekozakana (2020)
+15624|2|x-unk|Pittanko!! Nekozakana Season 2
 2314|4|de|Pixi im Wolkenkuckucksheim
 4935|2|tr|Piyanonun Ormanı
 13537|2|tr|Piyanonun Ormanı (2018)
@@ -40882,6 +40959,7 @@
 15593|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season (2021)
 15593|2|en|Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season 2nd Part
 15593|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2
+15593|2|x-unk|Re:Zero kara Hajimeru Isekai Seikatsu Season 2 Part 2
 11370|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu Shin Henshuuban
 13430|3|x-jat|re:zero ova
 1662|4|ja|Re:キューティーハニー
@@ -43709,6 +43787,7 @@
 5810|1|x-jat|Sensuikan ni Koi o Shita Kujira no Hanashi
 17703|1|x-jat|Sentai Dai Shikkaku
 18725|1|x-jat|Sentai Dai Shikkaku (2025)
+18725|2|x-unk|Sentai Dai Shikkaku Season 2
 17703|2|x-jat|Sentai Daishikkaku
 12572|1|x-jat|Sentai Hero Sukiyaki Force: Gunma no Heiwa o Negau Season
 13716|1|x-jat|Sentai Hero Sukiyaki Force: Gunma no Heiwa o Negau Season - E, Mata?
@@ -44043,6 +44122,7 @@
 15596|1|x-jat|Shaman King (2021)
 15596|4|ja|SHAMAN KING (2021)
 17327|4|ja|SHAMAN KING FLOWERS
+15596|2|x-unk|Shaman King Remake
 17327|1|x-jat|Shaman King: Flowers
 15596|4|vi|Shaman King: Vua pháp thuật (2021)
 310|1|x-jat|Shamanic Princess
@@ -44093,7 +44173,9 @@
 18578|4|en|Shangri-La Frontier (2024)
 17501|1|x-jat|Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su
 18578|1|x-jat|Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su (2024)
+18578|2|x-unk|Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su Season 2
 6267|2|x-jat|Shangrila
+18826|1|x-zht|Shanhai Jihui
 17598|1|x-zht|Shanhai Juelun
 16584|1|x-zht|Shanhe Jian Xin Di Er Ji
 14766|1|x-zht|Shanhe Sheji Tu
@@ -44567,6 +44649,8 @@
 14444|1|x-jat|Shingeki no Kyojin Season 3 (2019)
 14444|2|x-jat|Shingeki no Kyojin Season 3 Part 2
 14977|2|x-jat|Shingeki no Kyojin Season 4
+16177|2|x-unk|Shingeki no Kyojin Season 4 Part 2
+17303|2|x-unk|Shingeki no Kyojin Season 4 Part 3
 9541|2|x-jat|Shingeki no Kyojin TV
 15582|1|x-jat|Shingeki no Kyojin: Chronicle
 9826|2|x-jat|Shingeki no Kyojin: Lost Girls
@@ -44583,6 +44667,8 @@
 16036|1|x-jat|Shinigami Bocchan to Kuro Maid
 16755|1|x-jat|Shinigami Bocchan to Kuro Maid (2023)
 18213|1|x-jat|Shinigami Bocchan to Kuro Maid (2024)
+16755|2|x-unk|Shinigami Bocchan to Kuro Maid Season 2
+18213|2|x-unk|Shinigami Bocchan to Kuro Maid Season 3
 3572|1|x-jat|Shinigami no Ballad
 8834|4|en|Shining Hearts
 8834|4|ja|Shining Hearts -幸せのパン-
@@ -47696,6 +47782,7 @@
 14604|1|x-kot|Taegeugsonyeon Huin Dogsuli
 15101|1|x-jat|Taeko no Nichijou
 15581|1|x-jat|Taeko no Nichijou (2020)
+15581|2|x-unk|Taeko no Nichijou Season 2
 14605|1|x-kot|Taekwon Dongja Maruchi Arachi
 916|3|x-jat|TaG
 13784|3|x-jat|tagatame
@@ -48547,6 +48634,7 @@
 17709|2|x-jat|Tensei Shitara Slime Datta Ken 3rd Season
 14526|2|x-jat|Tensei Shitara Slime Datta Ken OAD
 14526|2|ja|Tensei Shitara Slime Datta Ken OVA
+15456|2|x-unk|Tensei shitara Slime Datta Ken Season 2 Part 2
 17873|1|x-jat|Tensei Shitara Slime Datta Ken: Coleus no Yume
 18785|1|x-jat|Tensei Shitara Slime Datta Ken: Sukuwareru Ramriris
 15457|1|x-jat|Tensei Shitara Slime Datta Ken: Tensura Nikki
@@ -51000,6 +51088,7 @@
 15485|4|en|Tokyo Mew Mew New
 17633|1|x-jat|Tokyo Mew Mew New (2023)
 17633|4|en|Tokyo Mew Mew New (2023)
+17633|2|x-unk|Tokyo Mew Mew New Season 2
 14737|1|x-jat|Tokyo One Piece Tower: Tongarijima no Dai Hihou
 2989|4|en|Tokyo Pig
 802|4|fr|Tokyo Police Privée
@@ -51058,6 +51147,7 @@
 11806|4|en|Tomboy Angels
 18420|2|en|Tombs of Fallen Immortals
 332|2|en|Tombstone for Fireflies
+15604|2|x-unk|tome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta... Season 2
 4192|2|x-jat|Tomei Ningen
 7627|3|x-jat|tomh
 18788|1|x-jat|Tomica Heroes Jobraver: Tokusou Gattai Robo
@@ -52508,6 +52598,7 @@
 131|2|en|Unearthly Ceres
 18137|2|en|Unexpected Love
 17794|2|en|Unfaithful with ... THE ANIMATION
+17652|2|x-unk|ungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth Season 4 Part 2
 8485|3|x-jat|ungo
 2921|3|x-jat|UnH
 11321|2|zh-Hant|Unhappy♪
@@ -52681,6 +52772,7 @@
 382|2|fr|Urusei Yatsura - The final chapter
 384|1|x-jat|Urusei Yatsura (1985)
 17096|1|x-jat|Urusei Yatsura (2022)
+17861|2|x-jat|Urusei Yatsura (2022) Season 2
 17861|1|x-jat|Urusei Yatsura (2024)
 379|1|x-jat|Urusei Yatsura 2: Beautiful Dreamer
 380|1|x-jat|Urusei Yatsura 3: Remember My Love
@@ -52694,6 +52786,7 @@
 382|4|en|Urusei Yatsura Movie 5: The Final Chapter
 383|2|x-jat|Urusei Yatsura Movie 6
 383|4|en|Urusei Yatsura Movie 6: Always My Darling
+17861|2|x-jat|Urusei Yatsura Remake Season 2
 377|2|x-jat|Urusei Yatsura TV
 383|1|x-jat|Urusei Yatsura: Itsudatte My Darling
 382|1|x-jat|Urusei Yatsura: Kanketsuhen
@@ -53003,6 +53096,7 @@
 7221|2|en|Vanishment of Haruhi Suzumiya
 16174|1|x-jat|Vanitas no Karte
 16367|1|x-jat|Vanitas no Karte (2022)
+16367|2|x-unk|Vanitas no Karte 2
 16174|2|x-jat|Vanitas no Shuki
 16367|2|x-jat|Vanitas no Shuki (2022)
 4346|2|no|Vannspråk
@@ -54139,6 +54233,7 @@
 16325|2|en|With a Fogie Reincarnated as a Pretty Fantasy Girl
 12100|2|en|With Love
 605|4|ja|With You ~みつめていたい~
+18824|2|en|With You and the Rain
 605|1|x-jat|With You: Mitsumeteitai
 8754|1|x-jat|Within the Bloody Woods
 8754|4|ja|WITHIN THE BLOODY WOODS
@@ -55365,6 +55460,7 @@
 17814|1|x-jat|Yoru wa Neko to Issho (2023)
 18504|1|x-jat|Yoru wa Neko to Issho (2024)
 17814|2|x-jat|Yoru wa Neko to Issho 2
+17814|2|x-unk|Yoru wa Neko to Issho Season 2
 17938|3|x-jat|Yorukura
 12647|3|x-jat|yorumi
 7171|1|x-jat|Yosan Seiji
@@ -56188,6 +56284,7 @@
 15092|4|zh-Hant|ZENONZARD THE ANIMATION
 5913|1|x-jat|Zenryoku Usagi
 17190|1|x-jat|Zenryoku Usagi (2023)
+17190|2|x-unk|Zenryoku Usagi Season 2
 15953|4|ja|Zenryoku Yobikou 5.5 Seminar
 15953|1|x-jat|Zenryoku Yobikou 5.5 Seminar
 18547|1|x-jat|Zenshuu.
@@ -58768,7 +58865,6 @@
 1484|2|bg|Люпет Трети (1977)
 320|2|uk|Люпін ІІІ ~Замок Каліостро~
 779|2|uk|Ляльки-паразити
-16408|4|ru|Мабороси
 16408|4|uk|мабороші
 1057|2|ru|Мабурахо
 14038|4|ru|Маг-читер из другого мира
@@ -60654,6 +60750,7 @@
 11053|2|bg|Ушио и Тигъра (2015)
 4563|4|mn|Үхлийн Тэмдэглэл
 7382|2|mn|Үхэгсдийн Ахлах Сургууль
+16408|4|ru|Фабрика иллюзий Алисы и Терезы
 2478|2|ru|Фаза Луны
 5904|2|uk|Файрбол
 490|2|ru|Фальшивка
@@ -64948,6 +65045,7 @@
 9892|2|ko|시도니아의 기사
 10713|2|ko|시도니아의 기사: 제9 혹성전역
 17135|4|ko|시맨틱 에러
+18825|4|ko|시선의 너머
 8646|2|ko|시오후키 머메이드
 5836|2|ko|시온
 10538|4|ko|시원찮은 그녀를 위한 육성방법
@@ -71095,6 +71193,7 @@
 1105|2|ja|ドラゴンクエスト ダイの大冒険
 2092|2|ja|ドラゴンクエスト ダイの大冒険 (1991)
 15321|2|ja|ドラゴンクエスト ダイの大冒険 (2020)
+15321|2|x-unk|ドラゴンクエスト ダイの大冒険 (2020)
 2094|2|ja|ドラゴンクエスト ダイの大冒険 ぶちやがれ!! 新生6大将軍
 2093|2|ja|ドラゴンクエスト ダイの大冒険 起ちあがれ!! アバンの使徒
 14685|2|ja|ドラゴンクエスト ユア・ストーリー
@@ -79271,6 +79370,7 @@
 16584|4|zh-Hans|山河剑心 第二季
 14766|4|zh-Hans|山河社稷图
 17598|4|ja|山海绝伦
+18826|4|zh-Hans|山海际会
 17467|4|ja|山火事
 10683|4|ja|山田くんと7人の魔女
 10955|4|ja|山田くんと7人の魔女 (2015)
@@ -87636,6 +87736,7 @@
 7005|4|ja|難船ス物語 第二篇 海賊船
 6935|4|ja|難船ス物語 第壱篇 猿ヶ島
 17410|4|ja|雨が空から降れば
+18824|4|ja|雨と君と
 2983|4|ja|雨と少女と私の手紙 short short story
 13076|4|ja|雨のバス停編
 3614|4|ja|雨ふり小僧
