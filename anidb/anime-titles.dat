@@ -1,4 +1,4 @@
-# created: Thu Aug 22 03:00:02 2024
+# created: Fri Aug 23 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3052,6 +3052,7 @@
 14560|2|x-jat|Arad: Shukumei no Mon
 14560|1|x-zht|Arad: Suming Zhi Men
 18818|1|x-jat|Arafou Otoko no Isekai Tsuuhan
+18818|3|x-jat|arafou tsuuhan
 15353|3|x-jat|aragne movie 2
 12898|1|x-jat|Aragne no Mushikago
 12898|4|en|Aragne: Sign of Vermillion
@@ -19689,6 +19690,7 @@
 18675|1|x-jat|Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) o Mugen ni Taberareru You ni Natta Ken ni Tsuite
 18675|2|x-jat|Hazure Sukiru “Konomi Masuta”: Sukiru no Mi (Tabetara Shinu) o Mugen ni Tabe Rareru yo ni Natta Kudan
 18438|1|x-jat|Hazure Waku no "Joutai Ijou Skill" de Saikyou ni Natta Ore ga Subete o Juurin Suru made
+18438|2|x-jat|Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete o Juurin Suru made
 18438|2|x-jat|Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin suru made
 18438|2|x-jat|Hazurewaku
 2835|3|x-jat|hc
@@ -29751,6 +29753,7 @@
 244|4|ja|M.E.M.~汚された純潔~
 14357|4|ja|M.S.CHANDA
 14357|1|x-jat|M.S.Chanda
+18826|4|en|M&S Organization
 6087|3|en|m+h
 427|3|x-jat|m0
 3423|3|x-jat|m2
@@ -31372,6 +31375,8 @@
 14302|1|x-jat|Matsugae o Musubi
 18177|1|x-jat|Matsuinu
 6639|2|x-jat|Matsumoto Fragment
+18827|1|x-jat|Mattaku Saikin no Tantei to Kitara
+18827|3|x-jat|mattan
 11452|1|x-jat|Mattsu to Yanma to Moburi-san 2: Suigun Otakara to Nazotoki no Shimajima
 11451|1|x-jat|Mattsu to Yanma to Moburi-san: Nanatsu no Hihou to Soratobu Oshiro
 11452|4|en|Mattsu, Yamma and Moburi 2: Navy`s Treasure and Islands with Mystery to Be Hunted
@@ -33425,6 +33430,7 @@
 16424|1|x-jat|Mou Ippon!
 8736|1|x-jat|Moudouken Quill no Isshou
 17729|1|x-jat|Mountain
+18826|2|en|Mountain and Sea Organization
 7443|3|x-jat|moupai
 9293|3|x-jat|moupai movie
 1897|1|x-jat|Mouretsu Atarou
@@ -50171,6 +50177,7 @@
 15694|2|en|The Story of a Young Man
 13092|2|en|The Story of Chinese Gods
 3677|2|en|The Story of Cinderella
+18414|2|en|The Story of Fengzhi Senla
 2683|2|en|The Story of Fifteen Boys
 3623|2|en|The Story of Helen Keller: Angel of Love and Light
 1864|2|en|The Story of Hikari
@@ -67104,6 +67111,7 @@
 785|4|ja|アラビアンナイト シンドバットの冒険
 1779|4|ja|アラビアンナイト シンドバッドの冒険
 18818|4|ja|アラフォー男の異世界通販
+18818|3|ja|アラフォー通販
 14212|4|ja|あらら
 11083|4|ja|アラルガンド The Animation
 5324|4|ja|アリーズ -神話の星座宮-
@@ -73347,6 +73355,8 @@
 17478|4|ja|マッシュル-MASHLE-
 1029|4|ja|まっすぐにいこう.
 2327|4|ja|まっすぐにいこう. (2004)
+18827|4|ja|まったく最近の探偵ときたら
+18827|3|ja|まったん
 7029|4|ja|マッチ売りの少女
 11451|4|ja|マッツとヤンマとモブリさん -七つの秘宝と空飛ぶお城-
 11452|4|ja|マッツとヤンマとモブリさん2 -水軍お宝と謎解きの島々-
