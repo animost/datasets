@@ -1,4 +1,4 @@
-# created: Fri Aug 23 03:00:02 2024
+# created: Sat Aug 24 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -390,6 +390,7 @@
 18008|4|ja|1LDK+J系 いきなり同居?密着!? 初エッチ!!?
 69|3|x-jat|1P
 11123|3|x-jat|1PM
+18830|4|en|1st Kiss
 4401|3|en|1st squad
 2900|4|ja|1ポンドの福音
 13813|2|ja|1日外出録ハンチョウ
@@ -5127,7 +5128,7 @@
 8305|1|x-jat|Bi-chiku Beach: Nangoku Nyuujoku Satsueikai
 1123|1|x-jat|Bi-Indoushi Miija: Injoku no Gakuen
 1906|4|pl|Bia - Czarodziejskie Wyzwanie
-1906|4|pt|Bia, a pequena feiticeira
+1906|4|pt|Bia, a Pequena Feiticeira
 1906|4|it|Bia, la sfida della magia
 2985|4|pl|Biały delfin Um
 1499|2|pl|Biały lew Kimba
@@ -12118,10 +12119,15 @@
 231|4|pt-BR|Dragon Ball
 231|4|pt|Dragon Ball
 1954|2|pt|Dragon Ball - A Bela Adormecida do Castelo Amaldiçoado
+1129|4|pt|Dragon Ball - A Lei do Mais Forte
+1141|4|pt|Dragon Ball - A Lenda de Shenron
 1129|4|it|Dragon Ball - Il cammino dell`eroe
 1142|4|it|Dragon Ball - Il torneo di Miifan
 1954|4|it|Dragon Ball - La bella addormentata a Castel Demonio
 1141|4|it|Dragon Ball - La leggenda delle sette sfere
+1954|4|pt|Dragon Ball - O Castelo Fantástico
+1129|2|pt|Dragon Ball - The Way To The Strongest
+1142|4|pt|Dragon Ball - Uma Aventura Inesquecível
 1142|2|pt|Dragon Ball - Uma Aventura Mística
 6127|4|fr|Dragon Ball : Salut ! Son Goku et ses amis sont de retour !!
 6127|2|ro|Dragon Ball : Yo! Reintoarcerea Lui Son Goku Si A Prietenilor Sai
@@ -12134,9 +12140,6 @@
 11210|2|x-jat|Dragon Ball Chou (Super)
 18238|1|x-jat|Dragon Ball Daima
 8809|4|ja|DRAGON BALL EPISODE of BARDOCK
-1141|4|pt|Dragon Ball Filme 1 - A Lenda de Shenron
-1954|4|pt|Dragon Ball Filme 2 - O Castelo Fantástico
-1142|4|pt|Dragon Ball Filme 3 - Uma Aventura Inesquecível
 233|1|x-jat|Dragon Ball GT
 233|4|pt-BR|Dragon Ball GT
 233|4|it|Dragon Ball GT
@@ -12196,9 +12199,14 @@
 1530|4|es-419|Dragon Ball Z
 1530|4|es-GA|Dragon Ball Z
 2336|4|pt|Dragon Ball Z - A Descoberta do Herói
+905|4|pt|Dragon Ball Z - A Força Suprema
+1071|4|pt|Dragon Ball Z - A Fusão
+762|4|pt|Dragon Ball Z - A Grande Batalha
+10742|4|pt|Dragon Ball Z - A Ressurreição de Freezer
 1043|4|pt|Dragon Ball Z - A Zona Morta
-906|2|pt|Dragon Ball Z - Ataque do Super Guerreiro
+9314|4|pt|Dragon Ball Z - Batalha dos Deuses
 1071|4|de|Dragon Ball Z - Der Film
+1069|4|pt|Dragon Ball Z - Encontro de Campeões
 1043|4|fi|Dragon Ball Z - Garlicin jäljillä
 548|4|it|Dragon Ball Z - I tre Super Saiyan
 1045|2|it|Dragon Ball Z - Il destino dei Saiyan
@@ -12214,11 +12222,17 @@
 1474|4|it|Dragon Ball Z - La storia di Trunks
 1043|4|it|Dragon Ball Z - La vendetta divina
 2336|4|it|Dragon Ball Z - Le origini del mito
+397|4|pt|Dragon Ball Z - O Ataque do Dragão
+906|2|pt|Dragon Ball Z - O Ataque do Super Guerreiro
 1474|4|pt|Dragon Ball Z - O Desafio Final
+548|4|pt|Dragon Ball Z - O Destemido Songoku
+1046|4|pt|Dragon Ball Z - O Poder Misterioso
 1044|4|pt|Dragon Ball Z - O Super Herói
+1045|4|pt|Dragon Ball Z - Os Grandes Rivais
 1045|4|fi|Dragon Ball Z - Pahimmat viholliset
 1070|2|pt|Dragon Ball Z - Rivais Perigosos
 1070|4|it|Dragon Ball Z - Sfida alla leggenda
+763|4|pt|Dragon Ball Z - Super Saya Son Goku
 1046|4|fi|Dragon Ball Z - Taistelu ylivoimaa vastaan
 1070|4|de|Dragon Ball Z - The Movie: Brolys Rückkehr
 762|2|de|Dragon Ball Z - The Movie: Die Entscheidungsschlacht
@@ -12246,19 +12260,10 @@
 1070|4|fr|Dragon Ball Z 10 - Rivaux dangereux
 906|4|fr|Dragon Ball Z 11 - Attaque super warrior
 906|2|fr|Dragon Ball Z 11 - Bio Broly
-1071|4|pt|Dragon Ball Z 12 - A Fusão
 1071|4|fr|Dragon Ball Z 12 - Fusion
 1071|2|fr|Dragon Ball Z 12 - Janemba
 397|4|fr|Dragon Ball Z 13 - L`attaque du dragon
-397|4|pt|Dragon Ball Z 13 - O Ataque do Dragão
 397|2|fr|Dragon Ball Z 13 - Tapion
-762|4|pt|Dragon Ball Z 3 - A Grande Batalha
-763|4|pt|Dragon Ball Z 4 - Super Saya Son Goku
-1045|4|pt|Dragon Ball Z 5 - Os Grandes Rivais
-1046|4|pt|Dragon Ball Z 6 - O Poder Misterioso
-548|4|pt|Dragon Ball Z 7 - O Destemido Songoku
-905|4|pt|Dragon Ball Z 8 - A Força Suprema
-1069|4|pt|Dragon Ball Z 9 - Encontro de Campeões
 2643|2|en|Dragon Ball Z Gaiden: Plan to Destroy the Saiyajin
 2643|2|en|Dragon Ball Z Gaiden: Plan to Eradicate the Saiyans
 2643|1|x-jat|Dragon Ball Z Gaiden: Saiya-jin Zetsumetsu Keikaku
@@ -12399,7 +12404,6 @@
 1141|4|ja|DRAGON BALL 神龍の伝説
 8172|4|ja|DRAGON BALL 超[スーパー]サイヤ人絶滅計画
 1954|4|ja|DRAGON BALL 魔神城のねむり姫
-1129|4|pt|Dragon Ball: A Lei do Mais Forte
 1142|4|es|Dragon Ball: Aventura Mística
 1141|4|en|Dragon Ball: Curse of the Blood Rubies
 1129|2|pl|Dragon Ball: Droga ku potędze
@@ -12421,7 +12425,6 @@
 8172|1|x-jat|Dragon Ball: Super Saiya-jin Zetsumetsu Keikaku
 1129|4|en|Dragon Ball: The Path to Power
 1129|2|en|Dragon Ball: The Path to Ultimate Strength
-1129|2|pt|Dragon Ball: The Way To The Strongest
 6127|2|pt-BR|Dragon Ball: Yeah! O retorno de Goku e seus amigos!!
 6127|2|en|Dragon Ball: Yo! Son Goku and His Friends Return!!
 6127|4|en|Dragon Ball: Yo! The Return of Son-Goku and Friends!!
@@ -12653,11 +12656,13 @@
 15339|4|en|Drug Store in Another World: The Slow Life of a Cheat Pharmacist
 15339|2|en|Drugstore in Another World: The Slow Life of a Cheat Pharmacist
 161|4|sr|Družina Mjau - Mjau
+15113|2|en|ds movie
 15113|2|x-unk|ds movie 1
 14107|3|en|ds s1
 16803|3|en|ds s2
 16054|3|en|ds s3
 17198|3|en|ds s4
+18067|2|en|ds s5
 63|3|x-jat|dsa
 562|2|zh-Hans|DT
 3311|1|x-jat|DT Eightron
@@ -23295,6 +23300,7 @@
 10117|1|x-jat|Ji no Nai Hagaki
 14377|2|x-unk|Ji Yi U-pan
 18535|1|x-zht|Jian Gu
+18828|1|x-zht|Jian Lai
 15818|1|x-zht|Jian Wang 3: Xia Gan Yi Dan Shen Jian Xin - Changpiao
 16568|1|x-zht|Jian Wang 3: Xia Gan Yi Dan Shen Jianxin Season 3
 14854|1|x-zht|Jian Wang 3: Xiaganyidan Shen Jianxin
@@ -28251,6 +28257,7 @@
 1750|4|zh-Hans|LEGENDZ 苏生龙王传说
 1750|2|en|Legendz: Tale of the Dragon Kings
 1750|1|x-jat|Legendz: Yomigaeru Ryuuou Densetsu
+18098|4|pl|Legion samobójców: Isekai
 14659|4|hu|Legoshi, a farkas
 461|2|it|Lei e il suo gatto
 12792|1|x-zht|Lei Su Deng Shandian Chong Xian
@@ -28871,6 +28878,7 @@
 18808|1|x-zht|Long Zhong Ren
 16595|1|x-zht|Long Zu
 18493|1|x-jat|Look Back
+18493|4|en|Look Back
 16489|2|en|Looking Back at it All: The Dragon Ball Z Year-End Show!
 4103|2|en|Looking for a Home
 14790|4|en|Looking for Magical Doremi
@@ -35136,6 +35144,7 @@
 6721|3|x-jat|nhnh s2
 6721|3|x-jat|nhnh2
 5351|2|vi|Nhu Tam Quốc Chí đột kích!! Ryofuko-chan
+18830|1|x-zht|Ni De Rensheng Shi Wo Lai Chi Le
 1423|2|x-jat|Ni Kakeru Ichi
 14679|1|x-jat|Ni no Kuni
 16433|4|x-zht|Ni Tian Xie Shen
@@ -44738,6 +44747,7 @@
 16732|1|x-jat|Shinmai Renkinjutsushi no Tenpo Keiei
 16036|3|x-jat|shinmaid
 16755|2|x-jat|shinmaid2
+18213|2|x-jat|shinmaid3
 10529|3|x-jat|Shinmaou
 11142|3|x-jat|Shinmaou Burst
 13543|3|x-jat|Shinmaou Departures
@@ -47634,6 +47644,7 @@
 13902|1|x-jat|Sword Gai
 10858|1|x-jat|Sword Gai The Animation
 14000|1|x-jat|Sword Gai The Animation Part II
+18828|4|en|Sword of Coming
 16614|4|de|Sword of the Demon Hunter
 16614|2|en|Sword of the Demon Hunter
 4181|2|en|Sword of the Destroyer
@@ -50006,7 +50017,7 @@
 18503|2|en|The Rich God
 18483|2|en|The Richest Man In Game
 7440|2|en|The Riot of Flowers: Samurai Girls
-18473|2|en|The Rise of the Weak
+18473|4|en|The Rise of the Weak
 8805|2|x-jat|The Rising
 13246|4|en|The Rising of the Shield Hero
 13246|4|fr|The Rising of the Shield Hero
@@ -52458,6 +52469,7 @@
 13034|3|x-jat|Uma Musume
 13034|2|x-jat|Uma Musume - Pretty Derby
 13034|2|x-jat|Uma Musume Pretty Derby
+18829|1|x-jat|Uma Musume: Cinderella Gray
 13034|1|x-jat|Uma Musume: Pretty Derby
 17212|2|en|Uma Musume: Pretty Derby - 1st Anniversary Special Animation
 17351|1|x-jat|Uma Musume: Pretty Derby - Road to the Top
@@ -52610,8 +52622,8 @@
 2921|3|x-jat|UnH
 11321|2|zh-Hant|Unhappy♪
 1267|1|x-jat|Unico
-1267|4|pt|Unico
 1267|4|de|Unico - Das Hörnchen
+1267|4|pt|Unico - O Pequeno Unicórnio
 1361|4|es|Unico en la isla de la magia
 1379|4|it|Unico Il Piccolo Unicorno
 1361|4|en|Unico in the Island of Magic
@@ -67530,6 +67542,7 @@
 13380|4|ja|ウマのフレンズ
 17352|4|ja|うまゆる
 14537|4|ja|うまよん
+18829|4|ja|ウマ娘 シンデレラグレイ
 13034|4|ja|ウマ娘 プリティーダービー
 17212|4|ja|ウマ娘 プリティーダービー (2022)
 17351|4|ja|ウマ娘 プリティーダービー Road to the Top
@@ -75485,6 +75498,7 @@
 16828|3|zh-Hans|你我战 第二季
 896|4|zh-Hans|你所期望的永远
 5235|2|zh-Hans|你是主人我是仆
+18830|4|zh-Hans|你的人生是我来迟了
 12991|4|zh-Hans|你的光芒~牵牛花与加濑同学~
 11829|2|zh-Hant|你的名字
 11829|4|zh-Hant|你的名字.
@@ -76298,6 +76312,7 @@
 17985|4|zh-Hans|剑域风云 (2023)
 18346|4|zh-Hans|剑域风云 第三季
 17985|2|zh-Hans|剑域风云 第二季
+18828|4|zh-Hans|剑来
 10432|4|zh-Hans|剑灵
 13685|4|zh-Hans|剑王朝
 13687|4|zh-Hans|剑王朝 (2017)
@@ -81156,6 +81171,7 @@
 18029|4|zh-Hans|新上司是天然呆
 9259|4|zh-Hans|新世界 未来篇
 9002|4|ja|新世界より
+18270|2|zh-Hans|新世界之门
 736|4|ja|新世紀 淫魔聖伝
 739|4|ja|新世紀GPXサイバーフォーミュラ
 2461|4|ja|新世紀GPXサイバーフォーミュラ EARLYDAYS RENEWAL
