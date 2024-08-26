@@ -1,4 +1,4 @@
-# created: Sat Aug 24 03:00:01 2024
+# created: Sun Aug 25 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1068,6 +1068,7 @@
 15373|4|en|A Whisker Away
 15373|4|pl|A Whisker Away
 13365|4|en|A whistle
+18831|2|en|A Wild Last Boss Appeared!
 15693|4|en|A Will Eternal
 16619|2|en|A Will Eternal 2
 18384|2|en|A Will Eternal 3
@@ -5294,6 +5295,7 @@
 6755|1|x-kot|Birthday Boy
 14589|1|x-jat|Birthday Wonderland
 9431|3|x-jat|BiS
+18833|1|x-jat|Bishoku-ke no Rule
 7066|2|x-jat|Bishoujo Animerama 3
 7063|2|x-jat|Bishoujo Animerama 4
 7064|2|x-jat|Bishoujo Animerama: Minami no Watashi no Heart ni Tacchi Shite...
@@ -8453,6 +8455,7 @@
 8914|4|zh-Hans|Code Geass 反叛的鲁鲁修 娜娜莉梦游仙境
 12566|4|zh-Hans|Code Geass 复活的鲁鲁修
 15910|2|zh-Hans|Code Geass 夺还的罗赛
+15910|4|zh-Hant|CODE GEASS 奪回的Rozé
 12566|4|zh|Code Geass 復活的魯路修
 7508|2|en|Code Geass: Akito of the Ruined Nation
 7508|2|it|Code Geass: Akito the Exiled
@@ -8489,6 +8492,7 @@
 5373|2|tr|Code Geass: Lelouch`un Başkaldırısı R2
 8914|2|en|Code Geass: Nunnally in Wonderland
 15910|4|en|Code Geass: Roze of the Recapture
+15910|4|es-419|CODE GEASS: Rozé y la reconquista
 12566|2|pl|Code Geass: Zmartwychwstanie Leloucha
 11516|2|x-jat|code realize
 5023|4|ja|CODE-E
@@ -26903,6 +26907,7 @@
 15291|1|x-jat|Kukuriraige: Sanseitai Denki
 15291|2|x-jat|Kukuriraige: Sanxingdui Denki
 5001|4|et|Külaarst
+17773|4|hu|Küldetés: A Yozakura család
 469|2|tr|Kulenin Gizemi
 6969|2|lt|Kūlverstukas
 7885|4|lt|Kūlverstukas Filmas
@@ -27566,6 +27571,7 @@
 6367|2|fr|La mélancolie de Haruhi Suzumiya (2009)
 1551|4|es|La Melodía del olvido
 6783|4|fr|La mélodie du ciel
+17773|4|es-419|La Misión de la Familia Yozakura
 1859|4|es|La nave fantasma
 1131|4|es|La novia de la oscuridad
 14530|4|es-419|La Novia del Maestro Nobunaga
@@ -32554,9 +32560,14 @@
 7041|1|x-jat|Misato-chan no Yume Nikki
 5678|2|en|Mischievious Kiss
 2579|4|fr|Mise tout sur le ring !
+17773|4|cs|Mise: Rodina Yozakura
 10123|1|x-jat|Misenai Namida wa, Kitto Itsuka
 4260|4|en|Misha
 4260|4|fr|Misha
+17773|4|sk|Misia: Rodina Yozakuraovcov
+17773|4|es|Misión: Familia Yozakura
+17773|4|ro|Misiunea: Familia Yozakura
+17773|4|pl|Misja: Rodzina Yozakura
 12226|4|en|Miss Bernard Said.
 13589|2|en|Miss Caretaker of Sunohara-sou
 48|2|en|Miss Critical Moment
@@ -32579,6 +32590,7 @@
 11553|4|en|Miss Monochrome: The Animation 3
 15566|4|en|Miss Muramata`s Secret
 16376|4|en|Miss Shachiku and the Little Baby Ghost
+17773|4|pt|Missão: Familia Yozakura
 1134|2|de|Missbraucht von dreckigen Händen
 9909|2|en|Missile of Obscenity
 9605|4|de|Missing Kings
@@ -44784,6 +44796,7 @@
 8294|1|x-jat|Shinryaku!? Ika Musume
 11818|1|x-jat|Shinsei Futanari Idol: Dekatama Kei! Shasei no Utage wa Chouzetsu Max
 13139|1|x-jat|Shinsei Kamattechan
+18834|1|x-jat|Shinsei Kourin Dacryon Luna
 22|1|x-jat|Shinseiki Evangelion
 202|1|x-jat|Shinseiki Evangelion Gekijouban: Air / Magokoro o, Kimi ni
 326|1|x-jat|Shinseiki Evangelion Gekijouban: Shi to Shinsei
@@ -46561,6 +46574,7 @@
 17061|4|zh-Hant|SPY×FAMILY 間諜家家酒
 17784|4|zh-Hant|SPY×FAMILY 間諜家家酒 第二季
 16947|4|zh-Hant|SPY×FAMILY間諜家家酒
+17703|4|it|Squalificati - Ranger Reject
 267|4|de|Square of the moon
 267|4|en|Square of the Moon
 267|2|en|Square of the Moon: The Night is Coming!
@@ -47174,6 +47188,7 @@
 1877|2|en|Sukidayo!
 17820|3|x-jat|Sukimega
 9236|3|x-jat|Sukinayo
+9600|2|x-jat|Sukinayo OVA
 2536|4|en|Sukisho
 2536|3|x-jat|sukisho
 2536|2|x-jat|Sukisyo
@@ -47853,10 +47868,12 @@
 6315|4|en|Taisho Baseball Girls
 6315|2|en|Taisho Era Baseball Daughters
 6315|2|en|Taisho Era Baseball Girls
+18832|2|en|Taisho Era Contract Marriage: The Substitute Bride and a Soldier`s Fierce Love
 12557|4|en|Taisho Mebiusline Chicchaisan
 15938|3|en|Taisho Otome
 15938|4|en|Taisho Otome Fairy Tale
 12557|2|x-jat|Taishou Chicchai-san
+18832|1|x-jat|Taishou Itsuwari Bridal: Migawari Hanayome to Gunpuku no Mou Ai
 12557|1|x-jat|Taishou Mebiusline: Chicchai-san
 15938|1|x-jat|Taishou Otome Otogibanashi
 17436|1|x-jat|Taishou Roman
@@ -55188,6 +55205,7 @@
 3471|1|x-jat|Yasashii Lion
 9263|1|x-jat|Yasashii March
 10118|1|x-jat|Yasashii Ookami
+18831|1|x-jat|Yasei no Last Boss ga Arawareta!
 15546|3|en|Yashahime 1
 16141|3|en|Yashahime 2
 15546|4|en|Yashahime: Princess Half-Demon
@@ -56704,6 +56722,7 @@
 50|2|el|Απήεντο Σομα
 50|2|el|Απήεντο Σώμα
 6466|2|el|Από μένα για σένα
+17773|4|el|Αποστολή: Οικογένεια Γιοζακούρα
 2548|4|el|Αστρομαχητές του κακού
 13812|4|el|Αυτά Είπε ο Ρόχαν Κίσιμπε
 3393|4|el|Αυτοκίνητα Ρομπότ
@@ -57826,6 +57845,7 @@
 4151|2|ru|Девочка, перепрыгнувшая время
 4151|4|ru|Девочка, покорившая время
 6176|2|ru|Девочка, покорившая вселенную
+16320|2|ru|Девочки-волшебницы: Волшебные разрушительницы
 13238|4|ru|Девочки-мангаки
 3546|2|ru|Девушка Бобби
 4003|2|ru|Девушка влюбилась в старшую сестру
@@ -65886,6 +65906,7 @@
 5200|2|ko|전교생
 8848|4|ko|전국 컬렉션
 4345|4|ko|전뇌 코일 Coil a Circle of Children
+17703|4|ko|전대대실격
 5147|2|ko|전라계 수영부 우미쇼
 12934|2|ko|전생검노 아이 만들기 투기장 [하렘 콜로세움]
 13871|4|ko|전생했더니 슬라임이었던 건
@@ -66244,6 +66265,7 @@
 6257|4|ko|케이온!
 4301|2|ko|코・코・로・・・
 13030|4|ko|코노하나 기담
+15910|4|ko|코드 기아스 탈환의 로제
 8914|2|ko|코드 기아스: 반역의 를르슈 - 나나리 in 원더랜드
 7127|2|ko|코드 기어스: 반역의 를르슈 R2 Special Edition - Zero Requiem
 7126|2|ko|코드 기어스: 반역의 를르슈 Special Edition - Black Rebellion
@@ -76853,6 +76875,7 @@
 15546|4|zh-Hans|半妖的夜叉姬
 16141|2|zh-Hans|半妖的夜叉姬 第二季
 11908|4|zh-Hans|半田君
+18833|4|ja|卑触家のルール
 2845|4|ja|卒業 Next Graduation
 1241|4|ja|卒業~Graduation~
 15384|4|ja|卒業○○電車
@@ -78053,6 +78076,7 @@
 15938|4|ja|大正オトメ御伽話
 12557|2|ja|大正ちっちゃいさん
 12557|4|ja|大正メビウスライン ちっちゃいさん
+18832|4|ja|大正偽りブラヰダル 身代わり花嫁と軍服の猛愛
 15938|2|ja|大正処女御伽話
 15938|4|zh-Hans|大正处女御伽话
 12557|4|zh-Hans|大正小小先生
@@ -80667,6 +80691,7 @@
 12116|2|ja|戯言シリーズ
 14867|4|zh-Hant|戰國FAN
 15413|4|zh-Hant|戰翼的希格德莉法
+17703|4|zh-Hant|戰隊大失格
 15440|4|zh-Hant|戰鬥員派遣中！
 11595|4|zh-Hans|房东妹子青春期
 14439|4|zh-Hant|房間露營
@@ -84657,6 +84682,7 @@
 10690|4|zh-Hans|神罗万象~天地神明之章~
 10690|4|ja|神羅万象~天地神明の章~
 13139|4|ja|神聖かまってちゃん
+18834|4|ja|神聖昂燐ダクリュオン・ルナ
 5720|2|zh-Hans|神薙
 5720|4|zh-Hant|神薙
 18360|4|zh-Hans|神藏
@@ -87173,6 +87199,7 @@
 3488|4|ja|野球狂の詩
 7663|4|ja|野球狂の詩 北の狼南の虎
 11349|4|ja|野球部あるある
+18831|4|ja|野生のラスボスが現れた!
 13210|4|ja|野良スコ
 8083|4|zh-Hans|野良剧
 11864|4|zh-Hans|野良和皇女和流浪猫之心
