@@ -1,4 +1,4 @@
-# created: Sun Aug 25 03:00:01 2024
+# created: Mon Aug 26 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -526,6 +526,7 @@
 12729|2|en|3D Heaven
 13581|1|x-jat|3D Kanojo: Real Girl
 14165|1|x-jat|3D Kanojo: Real Girl (2019)
+14165|2|x-unk|3D Kanojo: Real Girl Season 2
 1391|4|en|3D Magical Play
 12729|2|x-jat|3D Tengoku
 14165|4|ko|3D 그녀: 리얼 걸 (2019)
@@ -12509,7 +12510,7 @@
 1826|2|en|Dragon Slayer: The Legend of Heroes
 2091|4|en|Dragon Warrior
 15142|1|x-jat|Dragon, Ie o Kau.
-17179|2|en|Dragon`s Disciple
+17179|4|en|Dragon`s Disciple
 14746|1|x-jat|Dragon`s Dogma
 14746|2|en|Dragon`s Dogma
 14746|4|ja|DRAGON`S DOGMA
@@ -23805,6 +23806,7 @@
 16169|4|fr|Jujutsu Kaisen 0
 16169|4|pt-BR|Jujutsu Kaisen 0: O Filme
 16169|4|pl|Jujutsu Kaisen 0: The Movie
+18835|1|x-jat|Jujutsu Kaisen: Kaigyoku / Gyokusetsu
 18363|1|x-jat|Jujutsu Kaisen: Shimetsu Kaiyuu
 13419|1|x-jat|Jukujo Shigan
 3667|4|fr|Julie et Stéphane
@@ -61158,7 +61160,7 @@
 12012|4|ru|Юри на льду!!!
 15201|4|ru|Я 300 лет убивала слизь и прокачалась на максимум
 10323|2|ru|Я буду хвостики носить
-17766|4|ru|Я влюбилась в золодейку
+17766|4|ru|Я влюбилась в злодейку
 16826|4|ru|Я злодейка, поэтому должна заарканить последнего босса
 17523|4|ru|Я коплю 80.000 золотых в другом мире на пенсию
 16826|4|uk|Я лиходійка, тому маю заарканити останнього боса
@@ -77323,6 +77325,7 @@
 15407|2|ja|呪いのワンピース
 15275|4|ja|呪術廻戦
 17196|4|ja|呪術廻戦 (2023)
+18835|4|ja|呪術廻戦 懐玉・玉折
 18363|4|ja|呪術廻戦 死滅回游
 4380|4|ja|味楽る! ミミカ
 12519|4|zh-Hans|命运/冠位指定:序章
