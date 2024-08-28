@@ -1,4 +1,4 @@
-# created: Mon Aug 26 03:00:01 2024
+# created: Tue Aug 27 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1804,7 +1804,7 @@
 16085|1|x-jat|Akachan Honbuchou
 17123|1|x-jat|Akachan Honbuchou (2022)
 17306|1|x-jat|Akachan Honbuchou 3rd Series
-17123|2|x-unk|Akachan Honbuchou Seaosn 2
+17123|2|x-unk|Akachan Honbuchou Season 2
 1419|1|x-jat|Akachan to Boku
 11739|4|pl|Akademia bohaterów
 12233|4|pl|Akademia bohaterów (2017)
@@ -8095,6 +8095,7 @@
 8883|3|x-jat|chu2koi
 13176|3|x-jat|chu2koi movie
 9874|3|x-jat|chu2ren
+15644|2|x-unk|Chuan Shu Zi Jiu Zhi Nan
 15644|1|x-zht|Chuan Shu Zijiu Zhinan
 16685|1|x-zht|Chuanyue Huoxian: Youling Jihua
 3466|2|en|Chubby Ninja
@@ -12770,6 +12771,7 @@
 16032|1|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth IV
 17652|1|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth IV (2023)
 17652|2|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth IV Part 2
+17652|2|x-unk|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth Season 4 Part 2
 18267|1|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth V
 15111|2|x-jat|Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka 3
 16032|2|x-jat|Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka 4
@@ -19716,6 +19718,7 @@
 2621|4|de|He is my Master
 2621|2|de|He Is My Master - stets zu ihren Diensten!
 15768|1|x-jat|He Jing Shao Nian
+15644|2|x-unk|Hệ Thống Tự Cứu Của Nhân Vật Phản Diện
 13632|2|fr|Hé, on tente ?
 2621|2|en|He`s My Master
 11439|1|x-jat|Head Spoon
@@ -37363,6 +37366,7 @@
 8795|2|x-jat|Otome Dori
 14449|3|x-jat|Otome Game no Hametsu
 14449|1|x-jat|Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta...
+15604|2|x-unk|Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta... Season 2
 15604|1|x-jat|Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta... X
 16445|1|x-jat|Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta... X: Unmei no Hito ni Deatte Shimatta...
 17005|2|x-jat|Otome Game Sekai wa Mob ni Kibishii Sekai Desu
@@ -40984,10 +40988,13 @@
 14792|1|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu (2020)
 15593|1|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu (2021)
 17947|1|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu (2024)
+14792|2|x-unk|Re:Zero kara Hajimeru Isekai Seikatsu 2
 14792|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
 15593|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season (2021)
 15593|2|en|Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season 2nd Part
 15593|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2
+14792|2|x-unk|Re:Zero kara Hajimeru Isekai Seikatsu S2
+14792|2|x-unk|Re:Zero kara Hajimeru Isekai Seikatsu Season 2 Part 1
 15593|2|x-unk|Re:Zero kara Hajimeru Isekai Seikatsu Season 2 Part 2
 11370|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu Shin Henshuuban
 13430|3|x-jat|re:zero ova
@@ -41245,6 +41252,7 @@
 1827|4|it|Remy, la bambina senza famiglia
 1827|4|es|Remy, la niña sin hogar
 15644|2|x-zht|Ren Zha Fan Pai Zi Jiu Xi Tong
+15644|2|x-unk|Ren Zha Fanpai Zijiu Xitong
 11822|1|x-jat|Ren`ai Boukun
 17282|1|x-jat|Ren`ai Flops
 10533|1|x-jat|Ren`ai Fuyou Gakuha The Animation
@@ -41401,6 +41409,8 @@
 13430|3|x-jat|rezero movie
 14792|3|x-jat|rezero s2
 15593|3|x-jat|rezero s2.5
+14792|3|x-unk|rezero s2p1
+15593|3|x-unk|rezero s2p2
 17947|3|x-jat|rezero s3
 14792|3|x-jat|rezero2
 15014|2|x-jat|Reバース for you
@@ -43311,6 +43321,7 @@
 47|1|x-jat|Scryed
 8342|1|x-jat|Scryed Alteration
 8342|3|x-jat|scryed movie
+15644|2|x-unk|Scum Villain`s Self-Saving System
 11998|4|en|Scum`s Wish
 15644|4|en|Scumbag System
 590|3|x-jat|SD
@@ -48671,6 +48682,7 @@
 14526|2|x-jat|Tensei Shitara Slime Datta Ken OAD
 14526|2|ja|Tensei Shitara Slime Datta Ken OVA
 15456|2|x-unk|Tensei shitara Slime Datta Ken Season 2 Part 2
+17709|2|x-unk|Tensei Shitara Slime Datta Ken Season 3
 17873|1|x-jat|Tensei Shitara Slime Datta Ken: Coleus no Yume
 18785|1|x-jat|Tensei Shitara Slime Datta Ken: Sukuwareru Ramriris
 15457|1|x-jat|Tensei Shitara Slime Datta Ken: Tensura Nikki
@@ -50073,6 +50085,7 @@
 7054|2|en|The School of Knowledge
 7033|2|en|The School Supergirl Corps
 2523|2|en|The School`s Hunter
+15644|2|x-unk|The Scum Villain`s Self-Saving System
 3681|2|en|The Sea`s Aurora
 8095|1|x-jat|The Seasons
 8095|4|ja|the seasons
@@ -50086,6 +50099,7 @@
 7548|2|en|The Secret of Tsumiki Castle
 7258|4|en|The Secret World of Arrietty
 18449|2|en|The Secrets of Star Divine Arts
+15644|2|x-unk|The Self-Rescue System of the Protagonist
 12843|4|en|The Senior Class
 12843|4|de|The Senior Class
 3358|4|en|The Sensualist
@@ -51184,7 +51198,6 @@
 11806|4|en|Tomboy Angels
 18420|2|en|Tombs of Fallen Immortals
 332|2|en|Tombstone for Fireflies
-15604|2|x-unk|tome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta... Season 2
 4192|2|x-jat|Tomei Ningen
 7627|3|x-jat|tomh
 18788|1|x-jat|Tomica Heroes Jobraver: Tokusou Gattai Robo
@@ -52636,7 +52649,6 @@
 131|2|en|Unearthly Ceres
 18137|2|en|Unexpected Love
 17794|2|en|Unfaithful with ... THE ANIMATION
-17652|2|x-unk|ungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth Season 4 Part 2
 8485|3|x-jat|ungo
 2921|3|x-jat|UnH
 11321|2|zh-Hant|Unhappy♪
@@ -59296,6 +59308,7 @@
 750|2|uk|Нащадки пітьми
 15622|2|uk|Не знущайся з мене, Наґаторо!
 15622|4|ru|Не издевайся надо мной, Нагаторо
+16926|4|ru|Не издевайся надо мной, Нагаторо: Вторая атака
 14523|2|ru|Не люблю боль, поэтому собираюсь вложить всё в защиту
 7525|2|uk|Не може моя сестра бути такою милою
 15362|4|ru|Не называй ЭТО любовью
@@ -62945,7 +62958,7 @@
 69|4|ar|ون بيس
 6537|2|ar|ون بيس: العالم القوي
 4285|4|ar|ويب دايفر
-14534|4|ar|ويذرنق وذ يو
+14534|2|ar|ويذرنق وذ يو
 14103|4|ar|ياتوغامي-تشان كانساتسو نيكي
 14957|4|ar|ياتوغامي-تشان كانساتسو نيكي المجلد 2
 10601|3|ar|ياهاري
@@ -70422,6 +70435,7 @@
 2498|4|ja|ダーティペア ラブリーエンジェルより愛をこめて
 1174|4|ja|ダーティペア 謀略の005便
 402|4|ja|ダーティペアFLASH
+18275|5|ja|たーみねーたー ぜろ
 18275|4|ja|ターミネーターゼロ
 1128|4|ja|ダーリン
 13259|4|ja|ダーリン・イン・ザ・フランキス
