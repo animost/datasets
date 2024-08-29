@@ -1,4 +1,4 @@
-# created: Tue Aug 27 03:00:02 2024
+# created: Wed Aug 28 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2063,6 +2063,8 @@
 10846|4|ja|ALDNOAH.ZERO (2015)
 10846|4|en|Aldnoah.Zero (2015)
 10846|4|zh-Hant|ALDNOAH.ZERO 2nd
+10846|2|x-unk|Aldnoah.Zero 2nd Part
+10846|2|x-unk|Aldnoah.Zero Part 2
 10846|2|x-jat|Aldnoah.Zero S2
 10846|4|zh-Hans|ALDNOAH.ZERO 第二季
 1840|2|it|Alè Alè Alè oo
@@ -3531,6 +3533,7 @@
 8560|1|x-jat|Astarotte no Omocha! EX
 8062|2|en|Astarotte Toy
 8062|4|en|Astarotte`s Toy
+11673|2|x-unk|Asterisk p2
 11177|2|tr|Asterisk Savaşı
 11673|2|tr|Asterisk Savaşı (2016)
 11177|4|fr|Asterisk War
@@ -4393,6 +4396,8 @@
 11910|4|en|Bananya
 15036|3|x-jat|Bananya 2
 15036|4|en|Bananya and the Curious Bunch
+18837|1|x-jat|Bananya: Around the World
+18837|4|en|Bananya: Around the World
 15036|1|x-jat|Bananya: Fushigi na Nakama-tachi
 2991|3|x-jat|Bander Book
 1521|2|es|Bandidos del Tiempo
@@ -7614,6 +7619,7 @@
 8014|2|pt-BR|Chegando Até Você 2
 8014|2|pt-BR|Chegando Até Você: Segunda Temporada
 14610|1|x-kot|Chel-in sacheon-wang
+18744|2|x-unk|Cheng He Ti Tong
 18744|1|x-zht|Cheng He Titong
 11060|1|x-zht|Chengyu Donghua Lang
 15750|1|x-kot|Cheonbangjichuk Hani
@@ -7642,6 +7648,8 @@
 5801|3|en|Chi
 11168|1|x-zht|Chi Jian Chuan Qi
 12103|4|fr|Chi mon chaton
+18836|2|x-unk|Chi Yan Jin Yi Wei
+18836|1|x-zht|Chi Yan Jinyiwei
 7446|1|x-jat|Chi-Sui Maru
 8759|1|x-jat|Chi-Sui Maru 2nd Season
 5801|4|fr|Chi, une vie de chat
@@ -9161,7 +9169,11 @@
 87|2|en|Curious Play
 12471|1|x-jat|Curly
 2526|1|x-jat|Curry no Kuni no Kobal
+15275|2|x-unk|Curse of the Dead
+17196|2|x-unk|Curse of the Dead 2
 347|2|en|Curse of the Undead Yoma
+15275|2|x-unk|Curse Return
+17196|2|x-unk|Curse Return 2
 5114|2|x-unk|Curtain Call
 10159|1|x-jat|Curucuru and Friends
 825|2|x-jat|Custom Dorei
@@ -14662,6 +14674,7 @@
 16642|1|x-zht|Fei Zhi Baike Yuanlai Ni Shi Zheyang Di Zhiwu
 16644|1|x-zht|Fei Zhi Baike Yuanlai Ni Shi Zheyang Di Zhiwu (2021)
 17506|1|x-zht|Feiqi Zhi Cheng
+12704|2|x-unk|Feito/Apokurifa
 4594|2|pt-BR|Felicidade!
 12871|1|x-jat|Felix no Mei Tantei
 12871|4|ja|FELIXノ迷探偵
@@ -15963,6 +15976,8 @@
 1491|3|x-jat|gakusaver
 11177|1|x-jat|Gakusen Toshi Asterisk
 11673|1|x-jat|Gakusen Toshi Asterisk (2016)
+11673|2|x-unk|Gakusen Toshi Asterisk 2nd Part
+11673|2|x-unk|Gakusen Toshi Asterisk Part 2
 13023|3|x-jat|Gakusit
 15072|4|en|Gal & Dino
 15072|2|en|Gal and Dinosaur
@@ -17942,6 +17957,7 @@
 6573|1|x-jat|Gorillaman
 11655|1|x-jat|Goro-chan
 1210|2|pl|Górogłowa
+17759|2|x-unk|Görünüşçülük
 3961|2|en|Gosaurer
 1021|1|x-jat|Gosenzo San`e
 1865|2|x-jat|Gosenzo-sama Banbanzai!
@@ -20489,6 +20505,8 @@
 14780|1|x-jat|High Score Girl II
 14418|1|x-jat|High Score Girl: Extra Stage
 4031|2|en|High Speed Jessie
+9858|2|x-unk|High Speed!
+13548|2|x-unk|High Speed! Dive to the Future
 15811|4|en|High-Rise Invasion
 8332|2|en|High-School Girl and a Lewd Teacher 4
 9877|2|en|High-School Girls` Waists
@@ -21086,12 +21104,14 @@
 15634|2|x-jat|Honzuki no Gekokujou 3
 14727|1|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen
 15293|2|x-unk|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen
+15634|2|x-unk|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen  S2
 15300|1|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Eustachius no Shitamachi Sennyuu Daisakusen / Corinna-sama no Otaku Houmon
 18302|1|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Ryoushu no Youjo
 15293|1|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen (2020)
 15634|1|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen (2022)
 15293|2|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen 2
 15293|2|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen Dainibu
+15293|2|x-unk|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen Part 2
 15293|2|x-unk|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen Season 2
 15634|2|x-unk|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen Season 3
 15293|2|x-unk|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erande Iraremasen Season 2
@@ -21275,6 +21295,7 @@
 15505|4|en|How a Realist Hero Rebuilt the Kingdom
 16804|4|en|How a Realist Hero Rebuilt the Kingdom (2022)
 14094|4|en|How Clumsy You Are, Miss Ueno.
+18744|2|x-unk|How dare you do that?
 18744|4|en|How Dare You!?
 13545|2|en|How Do You Live?
 14603|4|en|How Heavy Are the Dumbbells You Lift?
@@ -22260,6 +22281,7 @@
 9736|2|it|Il Sole Penetra le Illusioni
 2342|4|it|Il Tulipano Nero
 2342|2|it|Il Tulipano Nero - La stella della Senna
+12020|2|pt|Ilha
 4599|2|pl|Ilustrowany pamiętnik Mikana
 2787|3|x-jat|IM
 8068|4|de|Im Bad mit Hinako
@@ -23809,6 +23831,10 @@
 16169|4|fr|Jujutsu Kaisen 0
 16169|4|pt-BR|Jujutsu Kaisen 0: O Filme
 16169|4|pl|Jujutsu Kaisen 0: The Movie
+17196|2|x-unk|Jujutsu Kaisen 2
+17196|2|x-unk|Jujutsu Kaisen S2
+17196|2|x-unk|Jujutsu Kaisen Season 2
+18835|2|x-unk|Jujutsu Kaisen: Ball/Break
 18835|1|x-jat|Jujutsu Kaisen: Kaigyoku / Gyokusetsu
 18363|1|x-jat|Jujutsu Kaisen: Shimetsu Kaiyuu
 13419|1|x-jat|Jukujo Shigan
@@ -24434,6 +24460,7 @@
 3195|2|x-jat|Kami-sama wa Chuugakusei
 15400|1|x-jat|Kami-tachi ni Hirowareta Otoko
 16364|1|x-jat|Kami-tachi ni Hirowareta Otoko 2
+16364|2|x-unk|Kami-tachi ni Hirowareta Otoko Season 2
 9036|1|x-jat|Kami-Usagi Rope
 12282|1|x-jat|Kami-Usagi Rope: Warau Asa ni wa Fuku Kitarutte Majissu ka!?
 16080|1|x-jat|Kamiari Algorithm
@@ -28710,6 +28737,7 @@
 9822|1|x-jat|Little Busters! Refrain
 9822|4|fr|Little Busters! Refrain
 9822|4|en|Little Busters! Refrain
+9822|2|x-unk|Little Busters!: Refrain
 8025|1|x-jat|Little Charo
 8026|1|x-jat|Little Charo 2
 9089|1|x-jat|Little Charo: Touhoku Hen
@@ -29115,9 +29143,11 @@
 9927|4|fr|Love Live! School Idol Project (saison 2)
 7956|2|x-jat|Love Live! School Idol Project 1
 8071|2|x-jat|Love Live! School Idol Project 2
+9927|2|x-unk|Love Live! School Idol Project 2
 9927|4|en|Love Live! School Idol Project 2nd Season
 8520|2|x-jat|Love Live! School Idol Project 3
 10177|1|x-jat|Love Live! School Idol Project OVA
+9927|2|x-unk|Love Live! School Idol Project Season 2
 8071|2|x-jat|Love Live! Snow Halation
 11878|1|x-jat|Love Live! Sunshine!!
 11878|4|en|Love Live! Sunshine!!
@@ -34531,6 +34561,8 @@
 4880|2|cs|Naruto Kronika Hurikánu
 1456|3|en|Naruto Movie
 1456|3|en|Naruto Movie 1
+9588|2|x-unk|Naruto Movie 10
+9588|2|x-unk|Naruto Movie 10: Naruto the Movie: The Last
 3030|3|en|Naruto Movie 2
 3030|4|cs|Naruto Movie 2: Legenda o kameni Gelel
 4421|3|en|Naruto Movie 3
@@ -36236,6 +36268,7 @@
 5042|3|en|oedorocket
 17759|1|x-kot|Oemo Jisang Juui
 17759|2|x-kot|Oemo Jisangjuui
+17759|2|x-unk|Oemojisangjuui
 7291|3|x-jat|OF2
 1640|2|en|Offenders of the Universe
 17203|4|en|Offering My Virginity to a Gangster
@@ -39641,6 +39674,7 @@
 2764|2|en|Precure Movie
 3566|2|x-jat|Precure Movie 2
 4117|2|x-jat|Precure Splash Star
+4117|4|en|PreCure Splash Star
 14459|3|x-jat|precure stp
 9523|3|x-jat|precure10
 9690|3|x-jat|precure10 movie
@@ -40436,8 +40470,10 @@
 6679|2|vi|Quản thư chiến - Quyển sách của Bantorra
 13171|2|x-zht|Quan Zhi Fa Shi
 14572|2|x-zht|Quan Zhi Fa Shi 3
+15397|2|x-unk|Quan Zhi Fa Shi 4
 13469|2|x-zht|Quan Zhi Fa Shi II
 15397|2|x-zht|Quan Zhi Fa Shi IV
+15397|2|x-unk|Quan Zhi Fa Shi IV
 14978|2|x-zht|Quan Zhi Gao Shou Season 2
 10509|2|fr|Quand les batailles surnaturelles deviennent ordinaires
 3574|2|pt-BR|Quando as Cigarras Choram
@@ -40452,7 +40488,9 @@
 13171|1|x-zht|Quanzhi Fashi
 13469|1|x-zht|Quanzhi Fashi 2
 14572|1|x-zht|Quanzhi Fashi 3
+15397|2|x-unk|Quanzhi Fashi 4
 15397|1|x-zht|Quanzhi Fashi IV
+15397|2|x-unk|Quanzhi Fashi Season 4
 16490|1|x-zht|Quanzhi Fashi V
 16579|1|x-zht|Quanzhi Fashi VI
 12560|1|x-zht|Quanzhi Gaoshou
@@ -40526,6 +40564,7 @@
 7971|3|x-jat|qwaser ova
 8154|3|x-jat|qwaser s2
 8154|3|x-jat|Qwaser2
+15397|3|x-unk|qzf4
 13171|3|x-jat|qzfs
 13469|3|x-jat|qzfs s2
 14572|3|x-jat|qzfs s3
@@ -41397,12 +41436,17 @@
 11643|4|ja|Rewrite
 11643|4|en|Rewrite
 11643|4|zh-Hans|Rewrite
+12429|2|x-unk|Rewrite 2nd Part
+12429|2|x-unk|Rewrite 2nd part: Moon-hen/Terra-hen
 12429|1|x-jat|Rewrite 2nd Season
 12429|4|ja|Rewrite 2nd Season
 12429|4|en|Rewrite 2nd Season
 12429|2|ja|Rewrite 2nd Season Moon編 / Terra編
 12429|2|x-jat|Rewrite 2nd Season: Moon Hen / Terra Hen
+12429|2|x-unk|Rewrite 2ndシーズン
+12429|2|x-unk|Rewrite Part 2
 12429|3|x-jat|Rewrite S2
+12429|2|x-unk|Rewrite: Moon and Terra
 15596|4|es-419|Rey chamán (2021)
 1212|1|x-jat|Reyon Densetsu Flair
 11370|3|x-jat|rezero
@@ -45965,6 +46009,7 @@
 17644|4|en|Sorcerous Stabber Orphen: Chaos in Urbanrama
 17912|4|en|Sorcerous Stabber Orphen: Doom of Dragon`s Sanctuary
 15275|2|en|Sorcery Fight
+18835|2|x-unk|Sorcery Fight: Ball/Break
 13611|4|en|Sorcery in the Big City
 10178|2|fr|Sorcière de gré, pucelle de force
 9941|4|en|Sordid Secret Lives
@@ -46410,6 +46455,8 @@
 1787|4|de|Speed Racer
 1788|4|en|Speed Racer 2000
 1788|2|en|Speed Racer X
+15275|2|x-unk|Spell Return
+17196|2|x-unk|Spell Return 2
 7413|4|en|Spellbound! Magical Princess Lil`Pri
 8290|2|en|Spelunker Is a Teacher
 8290|1|x-jat|Spelunker-sensei
@@ -46705,6 +46752,7 @@
 648|2|en|Star Blazers: The Quest for Iscandar
 2814|2|en|Star Blazers: The Quest for Iscandar (movie)
 1586|2|en|Star Demon
+15867|2|x-unk|Star Devourer
 7591|3|ja|Star Driver
 7591|4|en|Star Driver
 9410|1|x-jat|Star Driver The Movie
@@ -47387,6 +47435,8 @@
 12197|4|en|Super Lovers 2
 12022|2|en|Super Lovers OVA
 1683|4|es-419|Super Magnetrón
+4552|2|x-unk|Super Mario Bros. Film
+4552|2|x-unk|Super Mario Bros. Movie
 4391|1|x-jat|Super Mario Brothers: Peach-hime Kyuushutsu Daisakusen!
 4391|2|en|Super Mario Brothers: The Great Mission to Rescue Princess Peach!
 13542|1|x-jat|Super Mario no Shouboutai
@@ -47685,7 +47735,7 @@
 11974|4|en|Sword Oratoria: Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side
 17525|2|en|Sword Quest
 18471|2|en|Sword Saint of Heavenly Realm
-18471|2|en|Sword Saint of The Ten Realms
+18471|4|en|Sword Saint of The Ten Realms
 6613|2|en|Sword Stories
 10858|4|it|SWORDGAI The Animation
 16947|3|x-jat|sxf
@@ -48669,6 +48719,7 @@
 17569|1|x-jat|Tensei Oujo to Tensai Reijou no Mahou Kakumei
 17702|1|x-jat|Tensei Shitara Dai Nana Ouji Datta no de, Kimama ni Majutsu o Kiwamemasu
 18694|1|x-jat|Tensei Shitara Dai Nana Ouji Datta no de, Kimamani Majutsu o Kiwamemasu 2
+17702|2|x-unk|Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu
 16785|1|x-jat|Tensei Shitara Ken Deshita
 17789|1|x-jat|Tensei Shitara Ken Deshita 2
 13871|1|x-jat|Tensei Shitara Slime Datta Ken
@@ -48979,6 +49030,7 @@
 11588|4|en|The Art of 10^64 -Understanding Vastness-
 11177|4|en|The Asterisk War
 11177|4|de|The Asterisk War
+11673|2|x-unk|The Asterisk War Part 2
 11673|4|de|The Asterisk War: 2. Staffel
 11673|4|en|The Asterisk War: 2nd Season
 11177|2|en|The Asterisk War: The Academy City on the Water
@@ -49339,6 +49391,7 @@
 5377|1|x-jat|The Five Killers
 5377|4|ja|The Five Killers
 730|4|en|The Five Star Stories
+18836|2|x-unk|The Flame Imperial Guards
 16759|2|en|The Flavor
 4287|2|en|The Fleet of the Rising Sun
 6871|2|en|The Flower and the Butterfly
@@ -49726,6 +49779,7 @@
 17085|2|en|The Legend of Sky Lord
 18779|4|en|The Legend of Sky Lord (2024)
 3674|2|en|The Legend of Snow White
+15867|2|x-unk|The Legend Of Spacewalker
 15029|2|en|The Legend of Super Normal City Kashiwa R
 18423|4|en|The Legend of Super Normal Pref. Chiba
 17582|2|en|The Legend of Sword Domain
@@ -49762,6 +49816,7 @@
 2201|2|en|The Little Prince and the Eight Headed Dragon
 5062|2|en|The Little Twins
 2200|2|en|The Littlest Warrior
+4552|2|x-unk|The Lord of the Rings: The War of the Rohirrim
 11863|4|en|The Lost Village
 14395|2|en|The Love That I Feel for You
 15144|2|en|The Low Tier Character "Tomozaki-kun"
@@ -50076,6 +50131,7 @@
 6546|4|en|The Sacred Blacksmith
 15720|4|en|The Saint`s Magic Power Is Omnipotent
 17246|4|en|The Saint`s Magic Power Is Omnipotent (2023)
+17246|2|x-unk|The Saint`s Magic Power is Omnipotent 2
 17246|2|en|The Saint`s Magic Power is Omnipotent Season 2
 2124|1|x-jat|The Samurai
 2124|4|en|The Samurai
@@ -50266,6 +50322,8 @@
 6735|2|en|The Sun and the Frogs
 9482|2|en|The Sunday Without God
 996|2|en|The Super Dimension Fortress Macross Do You Remember Love
+4552|2|x-unk|The Super Mario Bros Movie
+4552|2|x-unk|The Super Mario Bros. Movie
 544|4|en|The Super Milk-chan Show
 1035|1|x-jat|The Supergal
 17596|2|en|The Sword Fairy Is Here
@@ -50556,6 +50614,7 @@
 16249|2|en|This Healer`s a Handful
 14477|2|en|This Hero Is Invincible but "Too Cautious"
 7674|2|en|This is a Zombie?
+18744|2|x-unk|This Is Ridiculous
 1824|2|en|This is the Police Station in Front of Kameari Park in Katsushika Ward
 13368|4|en|This Mayonnaise is too liquid.
 1431|2|en|This Ugly and Beautiful World
@@ -52058,6 +52117,7 @@
 14740|4|ja|Tug-Tug
 570|4|lt|Tūkstantmečio aktorė
 332|4|fi|Tulikärpästen hauta
+15867|2|x-unk|Tun Shi Xing Kong
 11784|2|vi|Tung tiền hữu tọa linh kiếm sơn
 15867|1|x-zht|Tunshi Xingkong
 18364|1|x-zht|Tunshi Xingkong 3
@@ -69381,6 +69441,7 @@
 6166|4|ja|ザ・サティスファクション
 2124|4|ja|ザ・サムライ
 1035|5|ja|ザ・スーパーギャル
+4552|2|x-unk|ザ・スーパーマリオブラザーズ・ムービー
 5008|4|ja|ザ・チョコレートパニック・ピクチャーショー
 18270|2|ja|ザ・ニュー・ゲート
 1501|4|ja|ザ・ハード BOUNTY HUNTER
@@ -70173,6 +70234,7 @@
 8760|4|ja|セイクリッドセブン 銀月の翼
 9945|4|ja|せいこう! ~Lose a Virgin for the First Term~
 9945|2|ja|せいこう! ~幼なじみは照れくさそうに嘘をつく~
+17246|5|x-unk|せいじょのまりょくはばんのうです II
 13155|4|ja|せいぜいがんばれ! 魔法少女くるみ
 14290|4|ja|せいぜいがんばれ! 魔法少女くるみ (2018)
 15639|4|ja|せいぜいがんばれ! 魔法少女くるみ (2020)
@@ -71999,6 +72061,7 @@
 13536|2|ja|バナナフィッシュ
 11506|4|ja|バナナ村に雨がふる
 11910|4|ja|ばなにゃ
+18837|4|ja|ばなにゃ あらうんど ざ わーるど
 15036|4|ja|ばなにゃ ふしぎななかまたち
 11436|4|ja|はなのはなし
 16525|4|ja|ハナビちゃんは遅れがち
@@ -72549,6 +72612,7 @@
 5719|4|ja|フェアリーフォレスト レミちゃん
 490|2|ja|ふぇいく
 15899|5|ja|フェイト・グランドカーニバル
+12704|2|x-unk|フェイト/アポクリファ
 3348|2|ja|フェイト/ステイナイト
 7206|2|ja|フェイト/ステイナイト (2010)
 9977|2|ja|フェイト/ステイナイト (2014)
@@ -77925,6 +77989,7 @@
 17884|4|ja|外科医エリーゼ
 17884|4|zh-Hans|外科医生爱丽丝
 17759|4|ja|外見至上主義
+17759|2|x-unk|外見至上主義
 2841|3|ja|外道乙女隊
 1181|4|ja|外道学園
 11659|4|ja|多摩グラあばよ ~もきゅもきゅスーパーデラックス~
@@ -84432,6 +84497,7 @@
 15071|4|zh-Hant|盾之勇者成名錄 第三季
 15070|2|zh-Hant|盾之勇者成名錄 第二季
 16132|4|zh-Hans|看得见的女孩
+17759|2|x-unk|看脸时代
 388|4|zh-Hans|看见风的少年
 2686|4|ja|県立地球防衛軍
 8103|4|ja|県立海空高校野球部員山下たろーくん
@@ -85595,6 +85661,7 @@
 16921|2|zh-Hant|聖劍學院的魔劍使
 15720|4|ja|聖女の魔力は万能です
 17246|4|ja|聖女の魔力は万能です (2023)
+17246|2|x-unk|聖女の魔力は万能です2
 15720|2|zh-Hant|聖女魔力無所不能
 17246|4|zh-Hant|聖女魔力無所不能 第二季
 16907|4|ja|聖奴隷学園2
@@ -86590,6 +86657,7 @@
 6831|4|ja|赤垣源蔵徳利の別れ
 1061|4|ja|赤毛のアン
 7526|4|ja|赤毛のアン グリーンゲーブルズへの道
+18836|4|zh-Hans|赤焰锦衣卫
 2887|4|zh-Hans|赤牙
 3071|4|ja|赤胴鈴之助
 6276|4|ja|赤色エレジー
