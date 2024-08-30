@@ -1,4 +1,4 @@
-# created: Wed Aug 28 03:00:01 2024
+# created: Thu Aug 29 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2963,6 +2963,7 @@
 16757|2|en|Apocalypse
 1181|4|fr|Apocalypse Angel`s - Les anges de l`apocalypse
 18702|2|en|Apocalypse Bringer Mynoghra
+18838|1|x-jat|Apocalypse Hotel
 6473|2|en|Apocalypse Meow
 44|2|en|Apocalypse of Devilman
 928|4|en|Apocalypse Zero
@@ -7255,6 +7256,7 @@
 11753|4|en|Case Closed: The Darkest Nightmare
 14520|4|en|Case Closed: The Fist of Blue Sapphire
 2646|2|en|Case Closed: The Last Magician of the Century
+18219|4|en|Case Closed: The Million-Dollar Pentagram
 6245|2|en|Case Closed: The Raven Chaser
 13605|4|en|Case Closed: Zero the Enforcer
 14257|4|it|Case File N° 221: Kabukicho
@@ -10602,6 +10604,7 @@
 8806|2|en|Detective Conan: The Eleventh Striker
 2645|2|en|Detective Conan: The Fourteenth Target
 7250|2|en|Detective Conan: The Lost Ship in the Sky
+18219|2|en|Detective Conan: The Million-Dollar Pentagram
 9152|2|en|Detective Conan: The Miracle of Excalibur
 4187|2|en|Detective Conan: The Private Eyes` Requiem
 6245|2|en|Detective Conan: The Raven Chaser
@@ -23224,6 +23227,7 @@
 14623|3|x-jat|Jashin s2
 15749|3|x-jat|Jashin s3
 16328|1|x-jat|Jashin Shoukan: Inran Kyonyuu Oyako Ikenie Gishiki
+18024|2|en|Jashin special
 13637|3|x-jat|jashin-chan
 13637|1|x-jat|Jashin-chan Dropkick
 18024|1|x-jat|Jashin-chan Dropkick "Seikimatsu Hen"
@@ -33659,6 +33663,7 @@
 18508|1|x-jat|Mugoku no Kuni no Alice
 15343|1|x-jat|Mugyutto! Black Clover
 13916|3|x-jat|muhyo
+14953|2|x-jat|Muhyo (2020)
 13916|4|fr|Muhyo & Rôji – Bureau d`investigation des affaires du paranormal
 14953|4|fr|Muhyo & Rôji – Bureau d`investigation des affaires du paranormal - Saison 2
 13916|4|en|Muhyo & Roji`s Bureau of Supernatural Investigation
@@ -35503,6 +35508,7 @@
 994|4|ja|Ninja者
 6739|1|x-jat|Ninjutsu Hinotama Kozou: Edo no Maki
 7130|1|x-jat|Ninki no Shouten ni Tateru Gotou Shinpei
+18596|3|x-jat|Ninkoro
 712|4|ja|NINKŪ
 1730|4|ja|NINKŪ (1995)
 1730|4|en|Ninku The Movie
@@ -43508,7 +43514,7 @@
 15257|2|x-jat|Seiin Koukou Danshi Volley Bu
 17662|1|x-jat|Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
 15720|1|x-jat|Seijo no Maryoku wa Bannou Desu
-17246|1|x-jat|Seijo no Maryoku wa Bannou Desu (2023)
+17246|1|x-jat|Seijo no Maryoku wa Bannou Desu II
 308|1|x-jat|Seijun Kango Gakuin Shinjin Nurse "Yumi" Chigyaku no Kango Jisshuu
 308|2|x-jat|Seijun Kango Gakuin Shinjin Nurse `Yumi` Chigyaku no Kango Jisshuu
 1278|1|x-jat|Seijuuden: Twin Dolls
@@ -57244,6 +57250,8 @@
 9722|2|uk|Безтурботні часи
 10232|2|uk|Безтурботні часи: А потім ми відбули в Окінаву
 12834|4|ru|Безумный азарт
+13718|4|ru|Безумный азарт ××
+16967|2|ru|Безумный азарт: Близнецы
 1074|2|ru|Бей эйс! - Фильм
 1072|2|ru|Бей эйс! [ТВ-1]
 1073|2|ru|Бей эйс! [ТВ-2]
@@ -67182,6 +67190,7 @@
 70|4|ja|アベノ橋魔法☆商店街
 10409|4|ja|アベンジャーズ コンフィデンシャル: ブラックウィドウとパニッシャー
 12803|4|ja|アホガール
+18838|4|ja|アポカリプスホテル
 3168|4|ja|あまえないでよっ!!
 4145|4|ja|あまえないでよっ!! 喝!!
 11693|4|ja|アマカノ
