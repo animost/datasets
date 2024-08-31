@@ -1,4 +1,4 @@
-# created: Thu Aug 29 03:00:01 2024
+# created: Fri Aug 30 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -16422,6 +16422,7 @@
 1181|1|x-jat|Gedou Gakuen
 2841|3|x-jat|Gedou Otometai
 4193|3|x-jat|gedsen
+18839|1|x-jat|Geesen Shoujo to Ibunka Kouryuu
 2242|2|de|Gefährlicher Countdown für Cyborg 009
 13742|4|en|Gegege no Kitaro
 7357|2|en|GeGeGe no Kitaro movie 8: Ghost Nighter
@@ -18870,6 +18871,7 @@
 14242|2|x-jat|Hachigatsu no Cinderella Nine Re fine
 14242|2|x-jat|Hachigatsu no Cinderella Nine Re:fine
 6621|1|x-jat|Hachigatsu no Symphony: Shibuya 2002-2003
+2706|2|x-jat|Hachijunichikan Sekai Isshuu
 2835|3|x-jat|HachiKuro
 4422|3|x-jat|Hachikuro II
 4422|3|x-jat|hachikuro2
@@ -28213,7 +28215,7 @@
 844|1|x-jat|Legend of Lemnear: Kyokuguro no Tsubasa Valkisas
 844|2|pl|Legend of Lemnear: Skrzydła ostatecznego mroku
 1864|2|en|Legend of Light
-18413|2|en|Legend of Lotus Sword Fairy
+18413|4|en|Legend of Lotus Sword Fairy
 1212|4|en|Legend of Lyon Flare
 16407|4|en|Legend of Mana: The Teardrop Crystal
 3660|2|en|Legend of Moby Dick
@@ -34361,6 +34363,8 @@
 9479|1|x-jat|Namiuchigiwa no Muromi-san
 9770|1|x-jat|Namiuchigiwa no Muromi-san: Pangea Choutairiku no Muromi-san
 15136|3|x-jat|namiyo
+14256|2|x-unk|Namu Amida Butsu! -Rendai Utena-
+14256|2|x-unk|Namu Amida Butsu! -Utena-
 14256|1|x-jat|Namu Amida Butsu! Utena
 14256|4|en|Namuamidabutsu! Utena
 4143|1|x-jat|Nana
@@ -36005,6 +36009,7 @@
 6185|3|x-jat|ny2
 8286|3|x-jat|ny3
 8667|3|x-jat|ny4
+18840|1|x-jat|Nyaaaanvy
 12882|1|x-jat|Nyago Dance
 18501|1|x-jat|Nyaight of the Living Cat
 10431|1|x-jat|Nyamen
@@ -43514,6 +43519,7 @@
 15257|2|x-jat|Seiin Koukou Danshi Volley Bu
 17662|1|x-jat|Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
 15720|1|x-jat|Seijo no Maryoku wa Bannou Desu
+17246|2|x-unk|Seijo no Maryoku wa Bannou Desu 2
 17246|1|x-jat|Seijo no Maryoku wa Bannou Desu II
 308|1|x-jat|Seijun Kango Gakuin Shinjin Nurse "Yumi" Chigyaku no Kango Jisshuu
 308|2|x-jat|Seijun Kango Gakuin Shinjin Nurse `Yumi` Chigyaku no Kango Jisshuu
@@ -54633,6 +54639,7 @@
 15682|3|x-zht|Wu Geng Ji III
 15682|1|x-zht|Wu Geng Ji III: Sanjie Yuanqi
 14379|2|x-zht|Wu Geng Ji Zhi Tianqi
+18841|1|x-zht|Wu Jin Shen Yu
 12251|2|zh|Wu Kong Da Zhan Er Lang Shen
 11650|1|x-zht|Wu Lan Qi Qi Ge
 17852|1|x-zht|Wu Liuqi: Anying Suming
@@ -67144,6 +67151,7 @@
 5358|4|ja|あねき... MY SWEET ELDER SISTER THE ANIMATION
 8911|4|ja|アネキの口内解禁日
 14116|4|ja|あねちじょ♥マックスハート
+14116|2|ja|あねちじょvマックスハート
 16288|4|ja|アネットさんとリリアナさん THE ANIMATION
 16549|4|ja|アネハメ 俺の初恋が実姉なわけがない
 11193|4|ja|あねよめカルテット
@@ -69061,6 +69069,7 @@
 9095|4|ja|くわがたツマミ
 16416|4|ja|ぐんまちゃん
 17319|4|ja|ぐんまちゃん シーズン2
+18839|4|ja|ゲーセン少女と異文化交流
 4778|4|ja|ケータイ少女
 18339|4|ja|ケーちゃんの絵日記
 11602|2|ja|ゲート SEASON2 自衛隊 彼の海にて, 斯く戦えり
@@ -71621,6 +71630,7 @@
 10712|4|ja|ニャンだ?フルチャンネル
 6860|4|ja|ニャンの浦島
 8225|4|ja|にゃんぱいあ The Animation
+18840|4|ja|ニャンビー
 11945|4|ja|にゃんぼー!
 10712|2|ja|にゃん符
 5232|2|ja|ニュードリームハンター麗夢
@@ -72659,6 +72669,8 @@
 6894|2|ja|フクチャンの潜水艦
 11022|4|ja|ふくびき! トライアングル~双葉はあたふた~♥~ 小悪魔イタズラっ娘の壁ドン哀歌
 7375|4|ja|ふくびき! トライアングル~美晴アフター~
+11022|2|ja|ふくびき!トライアングル～双葉はあたふた～
+7375|2|ja|ふくびきトライアングル～美晴アフター～
 5318|4|ja|ふくやま劇場
 10436|2|ja|ふさわしい場所
 14268|4|ja|ふしぎないど
@@ -73070,6 +73082,7 @@
 8378|2|ja|ペルソナ4アニメーション
 13331|2|ja|ペルソナ5
 6232|4|ja|ヘルタースケルター ~白濁の村~
+6232|2|ja|ヘルタースケルター 白濁の村
 14265|4|ja|ベルとかいじゅう王子
 181|3|ja|ベルばら
 17231|4|ja|ヘルピポ!
@@ -74912,6 +74925,7 @@
 10480|4|zh-Hans|三坪房间的侵略者！
 17581|4|zh-Hans|三寸人间
 14584|4|ja|三射面談~連鎖する恥辱・調教の学園~
+14584|2|ja|三射面談～連鎖する恥辱・調教の学園～
 14165|4|zh-Hant|三次元女友
 11654|4|zh|三毛流浪记
 7533|4|ja|三毛猫ホームズの幽霊城主
@@ -84249,6 +84263,7 @@
 4657|4|zh-Hans|男孩?女孩?
 7094|4|ja|男樹
 7237|4|ja|町ぐるみの罠 白濁にまみれた肢体
+7237|2|ja|町ぐるみの罠～白濁にまみれた肢体～
 6982|4|ja|町一番のけちんぼう
 12206|4|zh-Hans|画江湖之不良人
 16314|4|zh-Hans|画江湖之不良人 IV
@@ -86207,6 +86222,7 @@
 9879|4|ja|虜ノ契 ~家族のために身体を差し出す姉と妹~
 12636|4|ja|虜ノ鎖~処女たちを穢す淫らな楔~
 14593|4|ja|虜ノ雫 ~夏の豪華客船で穢される処女たち~
+8082|2|ja|虜姫 ～白濁まみれの令嬢～
 8082|4|ja|虜姫~白濁まみれの令嬢~
 17157|4|ja|虫かぶり姫
 5212|2|zh-Hans|虫之歌
@@ -88432,6 +88448,11 @@
 7850|4|ja|鬼父2
 10920|4|ja|鬼父2 -harvest-
 10061|4|ja|鬼父2 -REVENGE-
+10920|2|ja|鬼父2〜harvest〜
+8285|2|ja|鬼父Re-birth
+8761|2|ja|鬼父Re-born
+10184|2|ja|鬼父Rebuild
+11269|2|ja|鬼父Refresh
 11481|4|zh-Hans|鬼牌游戏
 9183|2|ja|鬼物語
 10263|4|ja|鬼畜 ~母姉妹調教日記~
