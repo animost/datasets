@@ -1,4 +1,4 @@
-# created: Fri Aug 30 03:00:02 2024
+# created: Sat Aug 31 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -13463,6 +13463,7 @@
 18412|2|en|Elf Can`t Be on a Diet.
 4944|4|de|Elf hungrige Katzen
 4945|2|de|Elf hungrige Katzen und ein Albatros
+18843|1|x-jat|Elf ni Inmon o Tsukeru Hon The Animation
 6557|1|x-jat|Elf no Futago Hime: Willan to Arsura
 14115|1|x-jat|Elf no Oshiego to Sensei
 851|1|x-jat|Elf no Wakaokusama
@@ -42985,6 +42986,7 @@
 11654|1|x-zht|San Mao Liu Lang Ji (2006)
 16641|1|x-zht|San San Di Ezuoju Chufang
 16635|1|x-zht|San San Di Shenghuo Guoran You Wenti
+18842|1|x-zht|San Shaonu
 17778|1|x-zht|San Ti
 18585|2|x-zht|San Xiu Zhi Wang
 18585|1|x-zht|San Xiuzhi Wang
@@ -49403,7 +49405,7 @@
 5377|1|x-jat|The Five Killers
 5377|4|ja|The Five Killers
 730|4|en|The Five Star Stories
-18836|2|x-unk|The Flame Imperial Guards
+18836|4|en|The Flame Imperial Guards
 16759|2|en|The Flavor
 4287|2|en|The Fleet of the Rising Sun
 6871|2|en|The Flower and the Butterfly
@@ -49731,7 +49733,7 @@
 11008|2|en|The Labyrinth of Grisaia
 11008|4|en|The Labyrinth of Grisaia: The Cocoon of Caprice 0
 158|2|en|The Lament of an Otherwise Healthy Girl
-17534|2|en|The Land of Miracles
+17534|4|en|The Land of Miracles
 18027|2|en|The Land of Miracles 2nd Season
 18481|2|en|The Land of Miracles 3rd Season
 14766|2|en|The Landscape of Mountains and Rivers
@@ -50430,6 +50432,7 @@
 12881|2|en|The Ugly Duckling
 5215|2|en|The Ultimate Esper "R"
 2347|1|x-jat|The Ultraman
+18842|4|en|The Umbrella Fairy
 11428|4|en|The Undertaker and the Dog
 7193|2|en|The Underwater Tyrant
 17291|2|en|The Unforgiven
@@ -62416,6 +62419,7 @@
 3667|4|ar|زهرة الجبل
 2762|4|ar|زهرة والسيف المضيء
 17304|4|ar|زواجي السعيد
+3360|2|ar|زوجتي فتاة في الثانونية
 3162|4|ar|زيكو العجيب
 1351|4|ar|زينة ونحول
 3663|2|ar|زينة ونحول 2
@@ -63132,6 +63136,7 @@
 4264|4|th|คิบะ ศึกอภินิหารข้ามภพ
 2605|4|th|คุณครูจอมเวท เนกิมะ!
 4565|4|th|คุณครูจอมเวท เนกิมะ!?
+17914|4|th|คุณอาเรียโต๊ะข้างๆ พูดรัสเซียหวานใส่ซะหัวใจจะวาย
 1099|4|th|คุโรมาตี้ โรงเรียนคนบวม
 5056|4|th|คู กัปปะน้อยเพื่อนรัก
 6257|2|th|เค-อง!
@@ -67827,6 +67832,7 @@
 1544|4|ja|エルフェンリート
 18239|4|ja|エルフェンリート 通り雨にて 或いは、少女はいかにしてその心情に至ったか?（REGENSCHAUER）
 18412|4|ja|エルフさんは痩せられない.
+18843|4|ja|エルフに淫紋を付ける本 The Animation
 6557|4|ja|エルフの双子姫 ウィランとアルスラ
 14115|4|ja|エルフの教え子と先生
 851|4|ja|エルフの若奥様
@@ -75560,6 +75566,7 @@
 1807|4|ja|伝説巨神イデオン
 1808|4|ja|伝説巨神イデオン 接触篇
 1809|4|ja|伝説巨神イデオン 発動篇
+18842|4|zh-Hans|伞少女
 7315|4|zh-Hans|传说中的勇者传说
 3427|3|zh|传诵
 3427|2|zh|传诵之物
