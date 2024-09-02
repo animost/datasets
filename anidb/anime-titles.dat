@@ -1,4 +1,4 @@
-# created: Sat Aug 31 03:00:01 2024
+# created: Sun Sep  1 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -733,6 +733,7 @@
 10250|1|x-kot|84 Taekwon V
 15441|4|ja|86
 15441|1|x-jat|86
+15441|4|ko|86 -에이티식스-
 15441|4|zh-Hans|86 -不存在的战区-
 16172|4|zh-Hans|86 -不存在的战区- (2021)
 16172|2|x-jat|86 (2 Cour)
@@ -14678,7 +14679,6 @@
 16642|1|x-zht|Fei Zhi Baike Yuanlai Ni Shi Zheyang Di Zhiwu
 16644|1|x-zht|Fei Zhi Baike Yuanlai Ni Shi Zheyang Di Zhiwu (2021)
 17506|1|x-zht|Feiqi Zhi Cheng
-12704|2|x-unk|Feito/Apokurifa
 4594|2|pt-BR|Felicidade!
 12871|1|x-jat|Felix no Mei Tantei
 12871|4|ja|FELIXノ迷探偵
@@ -18171,7 +18171,7 @@
 14990|1|x-jat|Great Pretender
 14990|4|ja|GREAT PRETENDER
 18280|4|ja|GREAT PRETENDER razbliuto
-18280|4|en|GREAT PRETENDER razbliuto
+18280|4|en|Great Pretender Razbliuto
 18280|1|x-jat|Great Pretender: Razbliuto
 11362|1|x-jat|Great Rabbit
 15694|2|en|Great Story: The Young Men`s Journey
@@ -22941,6 +22941,7 @@
 14964|1|x-jat|Isekai Quartet 2
 14964|4|en|Isekai Quartet 2
 15481|4|en|Isekai Quartet the Movie: Another World
+18809|3|x-jat|Isekai Red
 17507|1|x-jat|Isekai Shikkaku
 12385|1|x-jat|Isekai Shokudou
 16274|1|x-jat|Isekai Shokudou 2
@@ -25072,7 +25073,9 @@
 15110|1|x-jat|Kengan Ashura (2019)
 17274|1|x-jat|Kengan Ashura (2023)
 18762|1|x-jat|Kengan Ashura (2024)
+17274|2|x-unk|Kengan Ashura Season 2
 17274|2|x-unk|Kengan Ashura Season 2 Part 1
+17274|2|x-unk|Kengan Ashura Season 2 Part 2
 11216|3|x-jat|kenganashura
 15110|3|x-jat|kenganashura s2
 17274|3|x-jat|kenganashura s3
@@ -28744,7 +28747,6 @@
 9822|1|x-jat|Little Busters! Refrain
 9822|4|fr|Little Busters! Refrain
 9822|4|en|Little Busters! Refrain
-9822|2|x-unk|Little Busters!: Refrain
 8025|1|x-jat|Little Charo
 8026|1|x-jat|Little Charo 2
 9089|1|x-jat|Little Charo: Touhoku Hen
@@ -30352,6 +30354,7 @@
 17127|4|en|Mahjong Soul Pon
 11794|2|en|Maho Girls Precure!
 12269|2|en|Maho Girls PreCure! the Movie: The Miraculous Transformation! Cure Mofurun!
+18599|2|x-jat|Mahō Tsukai no Yakusoku - Promise of Wizard
 141|4|de|Maho Tsukai Tai! Magic User`s Club
 17910|3|x-jat|mahoako
 18282|3|x-jat|mahoaku
@@ -30542,6 +30545,7 @@
 8821|3|x-jat|mahoushoujolyricalnanohaas movie
 458|2|x-jat|Mahoutsukai ni Taisetsu na Koto
 5830|2|x-jat|Mahoutsukai ni Taisetsu na Koto: Natsu no Sora
+18599|2|x-jat|Mahoutsukai no Yakusoku
 12942|2|x-jat|Mahoutsukai no Yome
 18076|2|en|Mahoutsukai no Yome Season 2
 18076|2|x-jat|Mahoutsukai no Yome Season 2 Part 2
@@ -32252,6 +32256,7 @@
 1933|2|ro|Micuţa Memol
 1574|3|x-jat|Midara
 14519|1|x-jat|Midara na Ao-chan wa Benkyou ga Dekinai
+18366|2|en|Middle-Aged Man`s Noble Daughter Reincarnation
 10110|3|x-jat|mideshin
 4211|2|x-jat|Midnight Anime: Lemon Angel
 4212|2|x-jat|Midnight Anime: Lemon Angel (II)
@@ -43890,6 +43895,7 @@
 12572|1|x-jat|Sentai Hero Sukiyaki Force: Gunma no Heiwa o Negau Season
 13716|1|x-jat|Sentai Hero Sukiyaki Force: Gunma no Heiwa o Negau Season - E, Mata?
 18809|1|x-jat|Sentai Red Isekai de Boukensha ni Naru
+18809|2|x-jat|Sentai Red: Isekai de Boukensha ni Naru
 17389|1|x-jat|Sentaku Jab Jab
 4995|1|x-jat|Sentakuya Shin-chan
 18124|2|en|Sentenced to Be a Hero
@@ -44344,6 +44350,7 @@
 18472|1|x-zht|Shen Ji Long Wei
 18641|1|x-zht|Shen Ji Long Wei (Xia Ji)
 17534|1|x-zht|Shen Lan Qi Yu Wushuang Zhu
+18027|2|x-zht|Shen Lan Qi Yu Wushuang Zhu 2
 18027|1|x-zht|Shen Lan Qi Yu Wushuang Zhu II
 18481|1|x-zht|Shen Lan Qi Yu Wushuang Zhu: Tianmo Pian
 18425|1|x-zht|Shen Ming Zhi Zhou
@@ -45252,6 +45259,7 @@
 18329|4|en|Shy (2024)
 18329|1|x-jat|Shy (2024)
 18329|2|en|Shy Season 2
+18329|4|th|SHY ฮีโร่ขี้อาย หัวใจไฟเตอร์ ภาคกอบกู้โตเกียว
 18329|2|ja|SHY 東京奪還編
 17658|4|zh-Hans|SHY 腼腆英雄
 17658|4|zh-Hant|SHY 靦腆英雄
@@ -48804,7 +48812,7 @@
 17118|4|en|Teppen!!!!!!!!!!!!!!! Laughing `Til You Cry
 9634|2|x-kot|Tera
 12717|1|x-jat|Terajima-chou Kidan: Ginnagashi
-18275|1|x-jat|Terminator Zero
+18275|1|x-jat|Terminator 0
 18275|4|en|Terminator Zero
 18071|4|pt|Terra de Alma Ⅱ: O Inigualável Clã Tang
 1416|1|x-jat|Terra e...
@@ -49734,6 +49742,7 @@
 11008|4|en|The Labyrinth of Grisaia: The Cocoon of Caprice 0
 158|2|en|The Lament of an Otherwise Healthy Girl
 17534|4|en|The Land of Miracles
+18027|2|en|The Land of Miracles 2
 18027|2|en|The Land of Miracles 2nd Season
 18481|2|en|The Land of Miracles 3rd Season
 14766|2|en|The Landscape of Mountains and Rivers
@@ -49974,6 +49983,8 @@
 3045|4|en|The Old Crocodile
 11095|4|en|The Old Man and the Sea
 15763|2|en|The Old Man and Two Mountains
+18366|2|en|The Old Man Reincarnated as a Villainess
+18366|2|x-jat|The Old Man Transmigrated as a Villainess
 3137|2|en|The Old Man`s Survival Guide
 6298|2|en|The Olympic Adventures of Fuwa
 18440|4|en|The Olympic Challenge
@@ -58951,10 +58962,10 @@
 52|2|ru|Любовь и Хина - весенний спецвыпуск
 51|2|ru|Любовь и Хина - рождественский спецвыпуск
 16183|4|ru|Любовь после порабощения мира
+12906|4|ru|Любовь похожа на прошедший дождь
 16250|4|ru|Любовь с иголочки
 9552|2|ru|Любовь старшей сестры
 7995|2|ru|Любовь цыплёнка
-12906|4|ru|Любовь, как ясный день после дождя
 2012|2|ru|Любого, которого можешь... Я могу лучше
 10660|2|ru|Любой фетиш!
 83|2|uk|Люди-вовки
@@ -59016,6 +59027,7 @@
 15275|4|ru|Магическая битва
 187|2|ru|Магическая Девочка-Кошка Таруто
 17569|4|ru|Магическая революция перерождённой принцессы и гениальной дочери благородного дома
+16320|4|ru|Магические крушители
 70|2|ru|Магический округ Абэнобаси
 521|2|bg|Магическият ангел Крийми Мами
 4602|2|bg|Магическият ангел Крийми Мами: Дългото сбогуване
@@ -63430,6 +63442,7 @@
 4583|4|th|ศึกนางฟ้าเหนือมนุษย์
 1554|2|th|ศึกศาตราเจ้าหญิงแห่งดวงดาว
 15216|4|th|ศึกสุดท้ายของเธอกับผมคือจุดเริ่มต้นของโลกใบใหม่
+16828|4|th|ศึกสุดท้ายของเธอกับผมคือจุดเริ่มต้นของโลกใบใหม่ ภาคที่ 2
 5044|4|th|ศึกอภินิหารมังกรสีน้ำเงิน
 3216|2|th|ศึกอัญมณีสาวน้อยแห่งดวงดาว
 640|4|th|สแคร๊ป ปริ๊นเซส
@@ -65558,6 +65571,7 @@
 9699|2|ko|여름방학
 17315|2|ko|여름방학 끝에 그녀는
 14529|2|ko|여름방학 보물찾기
+17040|4|ko|여름을 향한 터널, 이별의 출구
 15518|2|ko|여름이 끝날 때까지 The Animation
 18570|2|ko|여름이 끝날 때까지 여름의 끝
 14923|2|ko|여마왕 메리사의 H한 모험기
@@ -70522,7 +70536,7 @@
 1174|4|ja|ダーティペア 謀略の005便
 402|4|ja|ダーティペアFLASH
 18275|5|ja|たーみねーたー ぜろ
-18275|4|ja|ターミネーターゼロ
+18275|4|ja|ターミネーター0
 1128|4|ja|ダーリン
 13259|4|ja|ダーリン・イン・ザ・フランキス
 2813|4|ja|ターンエーガンダムI 地球光
@@ -85691,8 +85705,8 @@
 16407|4|zh-Hant|聖劍傳說 Legend of Mana - The Teardrop Crystal -
 16921|2|zh-Hant|聖劍學院的魔劍使
 15720|4|ja|聖女の魔力は万能です
-17246|4|ja|聖女の魔力は万能です (2023)
 17246|2|x-unk|聖女の魔力は万能です2
+17246|4|ja|聖女の魔力は万能ですII
 15720|2|zh-Hant|聖女魔力無所不能
 17246|4|zh-Hant|聖女魔力無所不能 第二季
 16907|4|ja|聖奴隷学園2
