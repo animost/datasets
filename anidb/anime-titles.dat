@@ -1,4 +1,4 @@
-# created: Sun Sep  1 03:00:01 2024
+# created: Mon Sep  2 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -951,6 +951,7 @@
 16091|4|pt-BR|A Menina do Outro Lado
 4151|2|pt-BR|A Menina que Corre Através do Tempo
 1836|4|pt|A Minha Amiga Licia
+18846|4|en|A Moment But Forever
 17004|2|en|A Mortals Journey
 14990|4|hu|A nagy színlelő
 18597|1|x-jat|A New Dawn
@@ -4915,6 +4916,7 @@
 14664|4|en|Bem
 1447|4|it|Bem - Il Mostro Umano
 4334|4|it|Bem 2 - Il mostro umano
+4334|2|x-jat|Bem 2006
 15585|4|zh-Hant|BEM 妖怪人類貝姆劇場版～BECOME HUMAN～
 4121|2|pt-BR|Bem-vindo à NHK!
 15585|4|en|BEM: Become Human
@@ -8361,6 +8363,7 @@
 17237|2|en|Classroom of the Elite 3rd Season
 17208|4|en|Classroom of the Elite II
 17237|4|en|Classroom of the Elite III
+18844|2|en|Classroom of the Elite IV
 11147|4|ja|Classroom☆Crisis
 4392|2|en|Claws of a Beast
 4892|4|it|Claymore
@@ -9416,6 +9419,7 @@
 4087|2|x-zht|Da no tien gu
 3574|2|sv|Då Sångstritaren Gråter
 16699|1|x-zht|Da Shi Jie
+16699|2|x-zht|Da Shijie
 16356|2|x-zht|Da Wang Rao Ming
 18391|2|x-zht|Da Wang Rao Ming 2
 13121|2|x-zht|Da Wei Beiken Zhi Daomei Tegong Xiong
@@ -13134,6 +13138,7 @@
 7620|1|x-jat|Eiga Heartcatch Precure! Hana no Miyako de Fashion Show... Desuka!?
 11155|1|x-jat|Eiga High Speed!: Free! Starting Days
 13926|1|x-jat|Eiga Hugtto! Precure x Futari wa Precure: All Stars Memories
+18848|1|x-jat|Eiga Inazuma Eleven Soushuuhen: Densetsu no Kickoff
 2321|1|x-jat|Eiga Inuyasha: Guren no Houraijima
 903|1|x-jat|Eiga Inuyasha: Kagami no Naka no Mugenjou
 1320|1|x-jat|Eiga Inuyasha: Tenka Hadou no Ken
@@ -16567,6 +16572,7 @@
 17809|1|x-jat|Gekijouban Idolish Seven: Live 4bit - Beyond the Period
 9265|1|x-jat|Gekijouban Inazuma Eleven GO vs Danball Senki W
 8512|1|x-jat|Gekijouban Inazuma Eleven GO: Kyuukyoku no Kizuna Gryphon
+18849|1|x-jat|Gekijouban Inazuma Eleven: Aratanaru Eiyuu-tachi no Joshou
 9265|2|x-jat|Gekijouban Inazuma Eleven: Inazuma Eleven GO vs Danball Senki W
 7703|1|x-jat|Gekijouban Inazuma Eleven: Saikyou Gundan Ogre Shuurai
 13400|1|x-jat|Gekijouban Infini-T Force: Gatchaman - Saraba Tomo yo
@@ -19388,6 +19394,7 @@
 15546|2|x-jat|Hanyou no Yashahime: Sengoku Otogizoushi
 16141|2|x-jat|Hanyou no Yashahime: Sengoku Otogizoushi (2021)
 16141|2|x-unk|Hanyou no Yashahime: Sengoku Otogizoushi Season 2
+16699|2|x-zht|Hao Jile
 17510|1|x-zht|Hao pengyou
 6088|2|lv|Haoss;Galva
 542|1|x-jat|Haou Taikei Ryuu Knight
@@ -19677,6 +19684,7 @@
 143|1|x-jat|Haunted Junction
 143|4|ja|HAUNTEDじゃんくしょん
 1218|2|x-jat|Hauru no Ugoku Shiro
+16699|2|en|Have a Nice Day
 11881|4|en|Haven`t You Heard? I`m Sakamoto
 4087|2|en|Havoc in Heaven
 14216|1|x-jat|Hawaiian Conu
@@ -22439,6 +22447,7 @@
 6143|4|es|Inazuma Eleven
 6143|4|es-419|Inazuma Eleven
 6143|4|pl|Inazuma Eleven
+18848|2|en|Inazuma Eleven Compilation Film: Legendary Kickoff
 8381|1|x-jat|Inazuma Eleven GO
 8381|4|pl|Inazuma Eleven Go
 9045|4|pl|Inazuma Eleven Go (2012)
@@ -22454,6 +22463,7 @@
 9045|4|pt|Inazuma Eleven GO! Chrono Stone
 8512|4|pl|Inazuma Eleven Movie: The Ultimate Bound, Griffon
 7703|4|pl|Inazuma Eleven Movie: The Ultimate Force Team Ogre Attacks!
+18849|2|en|Inazuma Eleven the Movie: The New Heroes` Prologue
 12292|1|x-jat|Inazuma Eleven: Ares no Tenbin
 11027|1|x-jat|Inazuma Eleven: Chou Jigen Dream Match
 14327|1|x-jat|Inazuma Eleven: Orion no Kokuin
@@ -22997,6 +23007,7 @@
 11723|1|x-jat|Isobe Isobee Monogatari: Ukiyo wa Tsurai yo
 5668|1|x-jat|Isourou Tengoku
 8586|3|x-jat|isova
+18098|3|x-jat|iss
 7220|1|x-jat|Issho ni Ecchi
 7226|1|x-jat|Issho ni H Shiyo!
 7295|1|x-jat|Issho ni Sleeping: Sleeping with Hinako
@@ -34042,6 +34053,7 @@
 17471|4|en|My Home Hero
 5895|2|en|My Honny is College School Gal
 14484|2|en|My Household`s Liliana-san
+8794|2|x-jat|My Imouto: Koakuma na A-Cup
 17749|4|en|My Instant Death Ability Is Overpowered
 17749|2|en|My Instant Death Ability Is So Overpowered, No One in this Other World Stands a Chance Against Me!
 16030|2|en|My Isekai Life
@@ -35219,6 +35231,7 @@
 17257|1|x-zht|Ni Yian Jian Shen
 17335|1|x-zht|Ni Zhenshi Ge Tiancai
 17594|1|x-zht|Nian Shou da Zuozhan
+18846|1|x-zht|Nian Wushuang
 8729|2|en|nichibros
 8168|4|fr|Nichijō
 8168|1|x-jat|Nichijou
@@ -38716,6 +38729,7 @@
 3293|2|x-jat|Playball
 12214|1|x-jat|Playground
 12214|4|ja|PLAYGROUND
+18845|2|en|Playing Death Games to Put Food on the Table
 9769|2|en|Playtime for Everyone: Anpanman and the Mischievous Ghost
 13826|3|x-jat|pldr
 12147|1|x-jat|Ple Ple Pleiades
@@ -40463,6 +40477,7 @@
 17254|1|x-zht|Qing Wa Wang Guo: Bingdong Da Maoxian
 14873|1|x-zht|Qing Wa Wang Zi Li Xian Ji
 8248|1|x-zht|Qingcong: Youth
+14650|2|x-zht|qipasanguo
 366|3|en|qm
 6071|3|x-jat|QMA
 7255|3|x-jat|QMA 2
@@ -44351,12 +44366,14 @@
 18641|1|x-zht|Shen Ji Long Wei (Xia Ji)
 17534|1|x-zht|Shen Lan Qi Yu Wushuang Zhu
 18027|2|x-zht|Shen Lan Qi Yu Wushuang Zhu 2
+18481|2|x-zht|Shen Lan Qi Yu Wushuang Zhu 3
 18027|1|x-zht|Shen Lan Qi Yu Wushuang Zhu II
 18481|1|x-zht|Shen Lan Qi Yu Wushuang Zhu: Tianmo Pian
 18425|1|x-zht|Shen Ming Zhi Zhou
 18426|1|x-zht|Shen Ming Zhi Zhou 2
 18426|2|x-zht|Shen Ming Zhi Zhou 2nd Season
 17522|1|x-zht|Shen Mu
+18847|1|x-zht|Shen Mu 2
 1597|2|x-jat|Shen Mue
 13664|1|x-zht|Shen Po
 13596|2|x-zht|Shen Qi Huan Qi Tan
@@ -44442,6 +44459,7 @@
 4296|2|en|Shibawanko`s Japanese Spirit
 4296|2|en|Shibawanko`s Spirit of Tradition
 4296|2|en|Shibawanko`s Spirit of Wa
+18845|1|x-jat|Shibou Yuugi de Meshi o Kuu.
 18492|1|x-jat|Shibuya Hachi
 18822|1|x-jat|Shibuya Hachi (2024)
 18492|4|ja|SHIBUYA♡HACHI
@@ -49744,6 +49762,7 @@
 17534|4|en|The Land of Miracles
 18027|2|en|The Land of Miracles 2
 18027|2|en|The Land of Miracles 2nd Season
+18481|2|en|The Land of Miracles 3
 18481|2|en|The Land of Miracles 3rd Season
 14766|2|en|The Landscape of Mountains and Rivers
 6712|2|en|The Larks` Moving Day
@@ -55713,6 +55732,7 @@
 13153|1|x-jat|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
 17208|1|x-jat|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season
 17237|1|x-jat|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season
+18844|1|x-jat|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season
 17208|2|x-jat|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S2
 7271|1|x-jat|Youkoso Lodoss-tou e!
 8988|1|x-jat|Youkoso Uchuujin
@@ -71352,7 +71372,6 @@
 1105|2|ja|ドラゴンクエスト ダイの大冒険
 2092|2|ja|ドラゴンクエスト ダイの大冒険 (1991)
 15321|2|ja|ドラゴンクエスト ダイの大冒険 (2020)
-15321|2|x-unk|ドラゴンクエスト ダイの大冒険 (2020)
 2094|2|ja|ドラゴンクエスト ダイの大冒険 ぶちやがれ!! 新生6大将軍
 2093|2|ja|ドラゴンクエスト ダイの大冒険 起ちあがれ!! アバンの使徒
 14685|2|ja|ドラゴンクエスト ユア・ストーリー
@@ -74157,6 +74176,7 @@
 13153|4|ja|ようこそ実力至上主義の教室へ
 17208|4|ja|ようこそ実力至上主義の教室へ 2nd Season
 17237|4|ja|ようこそ実力至上主義の教室へ 3rd Season
+18844|4|ja|ようこそ実力至上主義の教室へ 4th Season
 6332|4|ja|よくわかる現代魔法
 424|4|ja|ヨコハマ買い出し紀行
 468|4|ja|ヨコハマ買い出し紀行 Quiet Country Cafe
@@ -76614,6 +76634,7 @@
 2189|4|ja|劇場版 XXX HOLiC 真夏ノ夜ノ夢
 206|4|ja|劇場版 ああっ女神さまっ
 10482|4|ja|劇場版 アイカツ! アイドルカツドウ!
+18849|4|ja|劇場版 イナズマイレブン 新たなる英雄たちの序章
 9265|4|ja|劇場版 イナズマイレブンGO vs ダンボール戦機W
 14013|4|ja|劇場版 ヴァイオレット・エヴァーガーデン
 12688|4|ja|劇場版 うたの☆プリンスさまっ♪ マジLOVEキングダム
@@ -80122,6 +80143,7 @@
 6271|4|zh-Hans|快要坏掉的八音盒
 12279|4|ja|念仏物語
 6277|4|ja|念仏物語 親鸞さま ねがい, そして ひかり.
+18846|4|zh-Hans|念无双
 3314|4|zh-Hans|怀念奶奶
 15122|2|zh-Hans|怕羞的小黄莺
 15122|2|zh-Hans|怕羞的黄莺
@@ -81698,6 +81720,7 @@
 5572|4|ja|映画 Yes! プリキュア5 鏡の国のミラクル大冒険!
 6453|4|ja|映画 Yes! プリキュア5GoGo! お菓子の国のハッピーバースデイ♪
 3608|4|ja|映画 あたしンち
+18848|4|ja|映画 イナズマイレブン総集編 伝説のキックオフ
 13175|4|ja|映画 えんとつ町のプペル
 4650|4|ja|映画 おじゃる丸 約束の夏 おじゃるとせみら
 1764|4|ja|映画 おジャ魔女どれみ#
@@ -82807,6 +82830,7 @@
 8147|4|zh-Hans|死亡笔记特别篇 L的继承者
 8146|4|zh-Hans|死亡笔记特别篇 幻觉之神
 4563|4|zh-Hant|死亡筆記本
+18845|4|ja|死亡遊戯で飯を食う.
 11255|4|zh-Hans|死亡黑标
 6467|4|zh-Hans|死刑判决
 5549|2|zh-Hans|死后文
@@ -84731,6 +84755,7 @@
 15540|4|zh-Hans|神在月的孩子
 15540|4|zh-Hant|神在月的孩子
 17522|4|zh-Hans|神墓
+18847|4|zh-Hans|神墓 第二季
 230|2|zh-Hant|神奇寶貝
 15608|4|zh-Hant|神奇柑仔店
 15608|4|zh-Hans|神奇柑仔店
@@ -84783,6 +84808,8 @@
 17534|4|zh-Hans|神澜奇域无双珠
 18481|4|zh-Hans|神澜奇域无双珠 天魔篇
 18027|4|zh-Hans|神澜奇域无双珠II
+18481|2|zh-Hans|神澜奇域无双珠之天魔篇
+18481|2|zh-Hans|神澜奇域无双珠天魔篇
 5127|2|zh-Hans|神灵狩
 17337|4|ja|神無き世界のカミサマ活動
 2142|4|ja|神無月の巫女
@@ -88688,6 +88715,7 @@
 17910|4|ja|魔法少女にあこがれて
 18109|4|ja|魔法少女ノーブル・ローズ THE ANIMATION
 10461|4|ja|魔法少女はキスして変身[かわ]る ~相手が彼以外の人だなんて......~
+10461|2|ja|魔法少女はキスして変身る
 1075|4|ja|魔法少女プリティサミー
 741|4|ja|魔法少女プリティサミー(1996)
 16320|4|ja|魔法少女マジカルデストロイヤーズ
