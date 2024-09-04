@@ -1,4 +1,4 @@
-# created: Mon Sep  2 03:00:02 2024
+# created: Tue Sep  3 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -13612,6 +13612,8 @@
 2394|1|x-jat|End of the World
 2394|4|ja|End of the world
 2401|2|en|End-of-the-Century Darling
+18851|2|en|Endless God Realm
+18851|2|en|Endless Heaven Realm
 1048|4|en|Endless Serenade
 1048|1|x-jat|Endless Serenade
 17075|4|en|Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte
@@ -28230,6 +28232,7 @@
 844|1|x-jat|Legend of Lemnear: Kyokuguro no Tsubasa Valkisas
 844|2|pl|Legend of Lemnear: Skrzydła ostatecznego mroku
 1864|2|en|Legend of Light
+18850|2|en|Legend of Lingwu Continent
 18413|4|en|Legend of Lotus Sword Fairy
 1212|4|en|Legend of Lyon Flare
 16407|4|en|Legend of Mana: The Teardrop Crystal
@@ -28694,6 +28697,7 @@
 12656|1|x-zht|Ling Qi
 13503|2|x-zht|Ling Qi 2
 13503|1|x-zht|Ling Qi: Huangquan Zhi Qi
+18850|1|x-zht|Ling Wu Dalu
 14816|1|x-zht|Ling Xie Ji
 13787|1|en|Ling Yu
 14227|2|en|Ling Yu 6th Season
@@ -28712,6 +28716,7 @@
 1207|4|de|Lingeries
 1207|2|en|Lingeries Office
 1207|2|de|Lingeries Office
+18850|2|en|Lingwu Continent
 16648|2|en|Lingyun Code
 6529|4|pt-BR|Linha Vermelha
 16290|4|en|Link Click
@@ -33850,6 +33855,7 @@
 5212|1|x-jat|Mushiuta
 18232|1|x-jat|Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakattanda ga
 17236|1|x-jat|Mushoku Tensei II: Isekai Ittara Honki Dasu
+17236|2|x-jat|Mushoku Tensei II: Isekai Ittara Honki Dasu (2023)
 18104|1|x-jat|Mushoku Tensei II: Isekai Ittara Honki Dasu (2024)
 18104|2|x-jat|Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2
 17236|2|en|Mushoku Tensei II: Jobless Reincarnation
@@ -39729,6 +39735,7 @@
 2765|3|x-jat|precure2
 2764|3|x-jat|precure2 movie
 17742|3|x-jat|precure20
+18294|3|x-unk|precure21
 4117|3|x-jat|precure3
 4844|3|x-jat|precure3 movie
 4901|3|x-jat|precure5
@@ -44374,6 +44381,8 @@
 18426|2|x-zht|Shen Ming Zhi Zhou 2nd Season
 17522|1|x-zht|Shen Mu
 18847|1|x-zht|Shen Mu 2
+18847|2|x-zht|Shen Mu 2nd Season
+18847|2|x-zht|Shen Mu Di Er Ji
 1597|2|x-jat|Shen Mue
 13664|1|x-zht|Shen Po
 13596|2|x-zht|Shen Qi Huan Qi Tan
@@ -51299,6 +51308,8 @@
 11626|1|x-jat|Tomato ni Natta Otokonoko
 7204|2|x-jat|Tomatoman
 17522|2|en|Tomb of Fallen Gods
+18847|2|en|Tomb of Fallen Gods 2
+18847|2|en|Tomb of Fallen Gods 2nd Season
 11806|4|en|Tomboy Angels
 18420|2|en|Tombs of Fallen Immortals
 332|2|en|Tombstone for Fireflies
@@ -54696,6 +54707,7 @@
 9417|3|en|wug
 10245|3|en|wug movie
 10785|3|x-jat|wug zoo
+18851|1|x-zht|Wujin Shenyu
 12251|1|x-zht|Wukong Dazhan Er Lang Shen
 18748|1|x-zht|Wuliao Jiu Wanjie
 14288|3|x-zht|wuliuqi s1
@@ -65030,6 +65042,7 @@
 4867|2|ko|성소녀완구 아리스 돌
 1399|2|ko|성소녀전대 레이커즈 EX
 1278|2|ko|성수전 트윈돌즈
+18608|2|ko|성욕 불끈불끈
 899|2|ko|성전사 단바인
 4213|2|ko|성조노예
 1403|2|ko|성지
@@ -80838,6 +80851,7 @@
 18725|4|ja|戦隊大失格 (2025)
 12116|2|ja|戯言シリーズ
 14867|4|zh-Hant|戰國FAN
+18543|4|zh-Hant|戰國妖狐 千魔混沌篇
 15413|4|zh-Hant|戰翼的希格德莉法
 17703|4|zh-Hant|戰隊大失格
 15440|4|zh-Hant|戰鬥員派遣中！
@@ -81493,6 +81507,7 @@
 10523|4|zh-Hans|无头骑士异闻录 DuRaRaRa!!×2 承
 10867|4|zh-Hans|无头骑士异闻录×2 结
 10866|4|zh-Hans|无头骑士异闻录×2 转
+18851|4|zh-Hans|无尽神域
 11500|4|zh-Hans|无彩限的怪灵世界
 14934|4|zh-Hans|无敌侠：舞动的英雄
 761|4|zh-Hans|无敌王
@@ -83474,6 +83489,7 @@
 13503|4|zh-Hans|灵契·黄泉之契
 13503|2|zh-Hans|灵契第二季
 10782|4|zh-Hans|灵感少女
+18850|4|zh-Hans|灵武大陆
 1132|4|zh-Hans|灵猫
 15632|4|zh-Hans|灵笼: INCARNATION 上半季
 15674|4|zh-Hans|灵笼:INCARNATION 下半季
