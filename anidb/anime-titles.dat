@@ -1,4 +1,4 @@
-# created: Wed Sep  4 03:00:02 2024
+# created: Thu Sep  5 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -984,6 +984,7 @@
 7478|4|pt-BR|A Princesa e o Piloto
 7|4|pt|A Princesa Mononoke
 4953|4|pt|A Rã Valente
+18852|1|x-jat|A Rank Party o Ridatsu Shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu o Mezasu.
 17038|2|en|A Raven in the Harem
 15425|2|en|A Record of a Mortal`s Journey to Immortality
 17004|2|en|A Record of a Mortal`s Journey to Immortality Season 2
@@ -3903,6 +3904,7 @@
 11873|4|ja|Aサイズ クラスメイト
 8107|4|ja|Aチャンネル THE ANIMATION
 8597|4|ja|Aチャンネル+smile
+18852|4|ja|Aランクパーティを離脱した俺は, 元教え子たちと迷宮深部を目指す.
 8107|4|zh-Hans|A频道
 8597|4|zh-Hans|A频道+smile
 7286|1|x-jat|B Gata H Kei
@@ -12297,6 +12299,7 @@
 6399|4|de|Dragon Ball Z Kai
 6399|4|pl|Dragon Ball Z Kai
 10452|4|pl|Dragon Ball Z Kai (2014)
+10452|2|en|Dragon Ball Z Kai (2014)
 10452|4|en|Dragon Ball Z Kai: The Final Chapters
 10452|4|de|Dragon Ball Z Kai: The Final Chapters
 2336|2|fr|Dragon Ball Z Spécial 1 : Baddack contre Freezer
@@ -21752,6 +21755,7 @@
 18770|2|en|I Have a Crush at Work
 10594|2|en|I Have Been Treated Nicely
 10387|2|en|I just can`t stand not getting between them! ~I made a wish to the stars and they got this big!~
+18852|2|en|I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!
 2536|2|en|I like what I like, so it can`t be helped
 2536|2|en|I like what I like, so there!
 3171|4|vi|I Love Bubu Chacha
@@ -24305,6 +24309,7 @@
 13401|2|en|Kaijuu Girls S2
 12021|1|x-jat|Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku
 13401|1|x-jat|Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku (2018)
+17550|2|x-jat|Kaijuu № 8
 12971|1|x-jat|Kaijuu no Ballad
 14221|1|x-jat|Kaijuu no Kodomo
 11246|1|x-jat|Kaijuu Sakaba Kanpaai!
@@ -31342,9 +31347,9 @@
 3636|1|x-jat|Mashin Eiyuuden Wataru
 5755|2|en|Mashin Eiyuuden Wataru - The Never-Ending Tale of Time
 3637|1|x-jat|Mashin Eiyuuden Wataru 2
-15194|1|x-jat|Mashin Eiyuuden Wataru: Nana Tamashii no Ryuujinmaru
-16929|1|x-jat|Mashin Eiyuuden Wataru: Nana Tamashii no Ryuujinmaru - Saikai
 5755|1|x-jat|Mashin Eiyuuden Wataru: Owarinaki Toki no Monogatari
+15194|1|x-jat|Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru
+16929|1|x-jat|Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru - Saikai
 5974|1|x-jat|Mashin Eiyuuden Wataru: Soukaizan Eiyuu Densetsu
 1083|4|en|Mashin Hero Wataru Super
 18406|1|x-jat|Mashin Souzou Den Wataru
@@ -39718,6 +39723,7 @@
 10227|2|en|Precure All Stars New Stage Movie 3: Friends Forever
 8817|2|en|Precure All Stars New Stage Movie: Friends of the Future
 8751|1|x-jat|Precure kara Minna e no Ouen Movie
+2765|4|en|PreCure Max Heart
 15204|2|en|Precure Miracle Leap: A Wonderful Day with Everyone
 2764|2|en|Precure Movie
 3566|2|x-jat|Precure Movie 2
@@ -41952,6 +41958,7 @@
 12551|2|ja|Room Mate ~One Room side M~
 12551|4|zh-Hans|Room Mate ～One Room side M～
 15061|2|en|Room Sharing the Animation
+18853|4|en|Roommates
 11394|2|en|Rooms for Twentysomethings
 18772|4|en|Rooster Fighter
 4324|3|x-jat|roots
@@ -42766,6 +42773,7 @@
 400|4|pl|Sakura - wojny ducha
 102|4|ro|Sakura , Stăpâna Cărţilor Magice
 10771|1|x-jat|Sakura Capsule
+10771|2|x-jat|Sakura Capusule
 102|4|es-419|Sakura Card Captor
 514|4|es-419|Sakura Card Captor: La Carta Sellada
 102|4|pt-BR|Sakura Card Captors
@@ -54923,6 +54931,7 @@
 16989|1|x-zht|Xie Wang Zhui Qi: Shennu Guilai
 15926|1|x-zht|Xie Wang Zhui Qi: Yishi Qingcheng
 18651|1|x-zht|Xiehou Ta de Shaonu Shidai
+18853|1|x-zht|Xijing Sushe
 17996|1|x-zht|Xiling Jiyuan
 15800|1|x-zht|Xin Jue
 17120|1|x-zht|Xin Qin Shi Mingyue
@@ -55121,7 +55130,6 @@
 10601|1|x-jat|Yahari Ore no Seishun Lovecome wa Machigatte Iru. Zoku
 12077|1|x-jat|Yahari Ore no Seishun Lovecome wa Machigatte Iru. Zoku: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekite Iru.
 935|2|x-jat|Yahrima Queen
-18612|4|ja|YAIBA
 18612|1|x-jat|Yaiba
 329|4|pl|Yaiba - legendarny samuraj
 329|4|pt|Yaiba - O Pequeno Samurai
@@ -57704,6 +57712,7 @@
 10982|2|ru|Врата
 7729|2|ru|Врата Штейна
 11167|2|ru|Врата Штейна 0
+10887|2|ru|Врата Штейна: Великая мудрость когнитивного компьютера
 11602|4|ru|Врата: Силы Самообороны приняли бой
 10982|2|ru|Врата: Там бьются наши воины
 11602|2|ru|Врата: Там бьются наши воины — Огнедышащие драконы
@@ -62090,7 +62099,7 @@
 2219|4|ar|القاطرة يامون
 5377|2|ar|القتلة الخمسة
 12046|4|ar|القدر/ الظهور الأخير
-8160|4|ar|القدر/زيرو
+8160|2|ar|القدر/زيرو
 4260|4|ar|القرية الأليفة
 1341|4|ar|القط الأسود
 132|4|ar|القناص
@@ -62192,7 +62201,7 @@
 235|2|ar|بحار القمر
 2245|4|ar|بحيرة البجع
 5553|4|ar|بحيرة الحوت
-11370|4|ar|بدء الحياة من الصفر في عالم آخر
+11370|2|ar|بدء الحياة من الصفر في عالم آخر
 14792|4|ar|بدء الحياة من الصفر في عالم آخر الموسم الثاني
 98|4|fa|برسرک
 14690|2|ar|برنسس كونكت! ري:دايف
@@ -62541,6 +62550,7 @@
 13991|2|ar|سيدة الإغاظة تاكاغي-سان: المنزلق المائي
 2185|2|ar|سيف الغريب
 386|4|ar|سيف النار
+8692|4|ar|سيف النجاة
 8376|2|fa|سی به توان 3
 14257|4|ar|شارلوك كابوكيتشو
 617|4|ar|شارلوك هولمز
@@ -62636,7 +62646,7 @@
 177|2|ar|فاندريد
 178|2|ar|فاندريد 2
 446|2|ar|فاينل فانتاسي
-1208|4|ar|فاينل فانتزي : مجيء الأطفال
+1208|2|ar|فاينل فانتزي : مجيء الأطفال
 1208|4|fa|فاینال فانتزی 7 فرزندان ظهور
 1208|2|fa|فاینال فانتزی 7 نجات کودکان
 3291|2|ar|فتاة الجحيم
@@ -62670,12 +62680,11 @@
 2302|4|ar|فلونة
 3396|4|ar|فلينت محقق الزمن
 8692|2|ar|فن السيف عبر الإنترنت
-8692|4|ar|فن السيف عبر الانترنت
 14796|2|ar|فن السيف على الإنترنت: التأليس - حرب العالم السفلي
 15146|2|ar|فن السيف على الإنترنت: التأليس - حرب العالم السفلي (2020)
 15275|2|ar|فنون الجوجتسو
 17196|2|ar|فنون الجوجتسو (2023)
-5975|4|ar|فهرس السحر
+5975|2|ar|فهرس السحر
 8694|4|ar|فهرس السحر: معجزة إنديميون
 505|4|fa|فوتبالیست ها
 508|4|fa|فوتبالیست ها 2001
@@ -62767,7 +62776,6 @@
 4404|2|ar|كانون 2006
 5427|3|ar|كايجي
 2007|2|ar|كبامارو
-4563|4|ar|كـتـاب الـموت
 6679|3|ar|كتاب بانتورا
 10539|4|ar|كذبتك في أبريل
 231|2|ar|كرة التنين
@@ -62881,7 +62889,6 @@
 2079|4|ar|مدينة النخيل
 2652|2|ar|مذكرات آن فرانك
 4599|4|ar|مذكرات ميكان
-4563|2|ar|مذكرة المـوت
 4563|2|ar|مذكرة الموت
 14532|4|ar|مرحبًا أيها العالم
 5960|2|ar|مرحبا انا اكو
@@ -62941,6 +62948,7 @@
 3388|4|ar|مغامرات هاني وعاصم
 10206|2|ar|مغامرة جوجو الغريبة - ستاردست الصليبيين
 788|2|ar|مغامرة جوجو الغريبة (1993) (اوفا)
+4563|4|ar|مفكرة الموت
 210|2|ar|مقاتلوا الشوارع ألفا
 8934|4|ar|مقهى الدب القطبي
 13257|4|ar|مكان أبعد من السماء
@@ -80547,6 +80555,7 @@
 15002|4|zh-Hant|戀與製作人
 18197|4|zh-Hans|戍天伏魔录
 10554|4|zh-Hans|戏剧性谋杀
+18853|4|zh-Hans|戏精宿舍
 18744|4|zh-Hans|成何体统
 586|4|ja|成恵の世界
 586|4|zh-Hans|成惠的世界
@@ -84606,6 +84615,7 @@
 16419|4|zh-Hans|真・一骑当千
 14658|4|ja|真・中華一番!
 15336|4|ja|真・中華一番! (2021)
+18612|4|ja|真･侍伝 YAIBA
 1221|4|ja|真・女神転生 東京黙示録
 1968|4|ja|真･女神転生D[デビル]チルドレン ライト&ダーク
 1967|4|ja|真・女神転生デビチル[デビルチルドレン]
