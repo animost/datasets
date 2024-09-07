@@ -1,4 +1,4 @@
-# created: Thu Sep  5 03:00:02 2024
+# created: Fri Sep  6 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -985,6 +985,7 @@
 7|4|pt|A Princesa Mononoke
 4953|4|pt|A Rã Valente
 18852|1|x-jat|A Rank Party o Ridatsu Shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu o Mezasu.
+18852|2|x-jat|A Rank Party wo Ridatsu Shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.
 17038|2|en|A Raven in the Harem
 15425|2|en|A Record of a Mortal`s Journey to Immortality
 17004|2|en|A Record of a Mortal`s Journey to Immortality Season 2
@@ -1093,6 +1094,7 @@
 7685|1|x-jat|A-Ko The Versus
 7685|4|ja|A-Ko The VS[ヴァーサス]
 1719|2|x-jat|A-LI-CE
+18852|2|x-jat|A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.
 16667|1|x-zht|A-Shuai
 16669|1|x-zht|A-Shuai Di 3 Ji
 16670|1|x-zht|A-Shuai Di 4 Ji
@@ -1491,6 +1493,11 @@
 15034|1|x-jat|Aggressive Retsuko (2020)
 15949|1|x-jat|Aggressive Retsuko (2021)
 17056|1|x-jat|Aggressive Retsuko (2023)
+17056|2|x-jat|Aggressive Retsuko 5
+13636|2|x-jat|Aggressive Retsuko Season 1
+14199|2|x-jat|Aggressive Retsuko Season 2
+15034|2|x-jat|Aggressive Retsuko Season 3
+15949|2|x-jat|Aggressive Retsuko Season 4
 14531|1|x-jat|Aggressive Retsuko: We Wish You a Metal Christmas
 13636|4|en|Aggretsuko
 14531|4|fr|Aggretsuko : Joyeux Noël et bon metal !
@@ -1509,6 +1516,8 @@
 14531|4|cs|Aggretsuko: Veselé Vánoce a kovový nový rok
 14531|4|en|Aggretsuko: We Wish You a Metal Christmas
 14531|4|pl|Aggretsuko: Wesołych Świąt i metalowego Nowego Roku
+15034|3|x-jat|aggretsuko3
+17056|3|x-jat|aggretsuko5
 4616|1|x-kot|Agigongryong Dooly
 9710|1|x-kot|Agigongryong Dooly (1988)
 9712|1|x-kot|Agigongryong Dooly: Aeouleumbyul`daemohum
@@ -1718,6 +1727,7 @@
 2120|2|x-jat|Aim for the Top! Gunbuster 2
 11397|1|x-jat|Aimai Elegy
 14322|1|x-jat|Ainone
+18856|3|x-jat|aiomodarkelf
 15047|3|x-jat|aiparade
 15983|3|x-jat|aiplanet
 2002|1|x-jat|Air
@@ -2953,6 +2963,7 @@
 1902|3|x-jat|apache
 1902|1|x-jat|Apache Yakyuugun
 17759|4|es|Apari3ncias
+18852|3|x-jat|aparida
 11409|1|x-jat|Apartment!
 11409|4|ja|Apartment!
 4338|4|en|Ape Escape
@@ -7954,6 +7965,7 @@
 2356|2|x-jat|Choro Q Dagram
 2356|1|x-jat|Choro Q Dougram
 2356|2|en|Choro Q Dougram
+18856|1|x-jat|Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita
 15246|1|x-jat|Chotto Ugoku!? "Futeneko"
 10369|1|x-jat|Chou Akuukan Bouheki Cheese Neapolitan
 7245|1|x-jat|Chou Den`ei Ban SD Gundam Sangokuden: Brave Battle Warriors
@@ -14628,6 +14640,7 @@
 9977|2|en|Fate/stay night: Unlimited Blade Works (2014)
 10760|1|x-jat|Fate/Stay Night: Unlimited Blade Works (2015)
 10760|2|en|Fate/stay night: Unlimited Blade Works (2015)
+10760|2|x-jat|Fate/stay night: Unlimited Blade Works 2
 10760|2|en|Fate/stay night: Unlimited Blade Works 2nd Season
 9977|4|vi|Fate/stay night: Vô hạn kiếm giới
 18093|1|x-jat|Fate/Strange Fake
@@ -14708,6 +14721,7 @@
 13447|1|x-zht|Feng Ling Yu Xiu
 18159|2|x-zht|Feng Ling Yu Xiu 2
 18807|2|x-zht|Feng Ling Yu Xiu 2: Special
+18807|2|x-zht|Feng Ling Yu Xiu 2: Tebie Pian
 18159|2|x-zht|Feng Ling Yu Xiu 2nd Season
 18807|2|x-zht|Feng Ling Yu Xiu 2nd Season: Tebie Pian
 18159|1|x-zht|Feng Ling Yu Xiu Di Er Ji
@@ -23868,6 +23882,7 @@
 18835|2|x-jat|Jujutsu Kaisen: Ball/Break
 18835|1|x-jat|Jujutsu Kaisen: Kaigyoku / Gyokusetsu
 18363|1|x-jat|Jujutsu Kaisen: Shimetsu Kaiyuu
+18854|3|x-jat|jukishi
 13419|1|x-jat|Jukujo Shigan
 3667|4|fr|Julie et Stéphane
 3649|4|it|Julie rosa di bosco
@@ -24323,6 +24338,7 @@
 2986|1|x-jat|Kaiketsu Tamagon
 5978|1|x-jat|Kaiketsu Zorori
 1334|1|x-jat|Kaiketsu Zorori (2005)
+12953|2|x-jat|Kaiketsu Zorori Movie: ZZ no Himitsu
 5997|1|x-jat|Kaiketsu Zorori: Mahou Tsukai no Deshi / Dai Kaizoku no Takara Sagashi
 2863|1|x-jat|Kaiketsu Zorro
 17517|1|x-jat|Kaiko Sareta Ankoku Heishi (30-dai) no Slow na Second Life
@@ -25688,6 +25704,7 @@
 13545|1|x-jat|Kimitachi wa Dou Ikiru ka
 6466|3|x-jat|KimiTodo
 8014|3|x-jat|kimitodo 2
+18179|3|x-jat|kimitodo 3
 10539|3|x-jat|kimiuso
 10892|3|x-jat|kimiuso ova
 17616|3|x-jat|Kimizero
@@ -27247,6 +27264,7 @@
 14110|2|x-jat|Kyonyuu JK ga Ojisan Chinpo to Jupo Jupo Iyarashii Sex Shitemasu.
 10429|1|x-jat|Kyonyuu Kazoku Saimin: Kazoku no Kizuna
 17259|1|x-jat|Kyonyuu Onna Senshi Dogeza Saimin
+18525|2|x-jat|Kyonyuu Onna Shikan Sennou Saimin OVA
 15295|1|x-jat|Kyonyuu Princess Saimin
 12528|1|x-jat|Kyonyuu Reijou MC Gakuen
 10705|1|x-jat|Kyonyuu Try! Tanki Shuuchuu Chichi Momi Lesson
@@ -30114,6 +30132,7 @@
 2354|2|x-jat|Madouou Grandzort: Bouken Hen
 2353|2|x-jat|Madouou Grandzort: Saigo no Magical Taisen
 1516|3|x-jat|Madox
+18855|1|x-jat|Maebashi Witches
 4259|1|x-jat|Maegami Tarou
 13309|4|en|Maerchen Maedchen
 13309|2|x-jat|Maerchen Maedchen
@@ -33767,7 +33786,7 @@
 13867|1|x-kot|Munyeodo
 6705|1|x-jat|Mura Matsuri
 16100|2|x-jat|Murabito A
-17458|2|en|Murai in Love
+17458|4|en|Murai in Love
 17458|1|x-jat|Murai no Koi
 3479|1|x-jat|Muramasa
 15566|1|x-jat|Muramata-san no Himitsu
@@ -34065,6 +34084,7 @@
 18150|4|fr|My Hero Academia: You`re Next
 18006|2|en|My Heroic Husband
 18790|4|en|My Heroic Husband 2
+18790|2|en|My Heroic Husband: Dragon and Snake Chapter
 1554|2|en|My Hime
 14029|2|en|My Holy Weapon
 17471|1|x-jat|My Home Hero
@@ -37110,6 +37130,7 @@
 11974|2|pt|Oratória da Espada: É Errado Tentar Pegar Garotas em uma Masmorra?
 2383|4|fi|Oravan seikkailut
 11447|2|en|Orb Panic Adventure!
+17480|4|en|Orb: On the Movements of the Earth
 7185|4|fr|Orbital
 14991|1|x-jat|Orbital Era
 14991|4|ja|ORBITAL ERA
@@ -39697,8 +39718,6 @@
 16|2|lt|Prašau Mokytoja!
 796|4|it|Pratiche fuori orario
 8240|3|x-jat|praurora
-18540|4|ja|pray
-18540|1|x-jat|Pray
 17201|1|x-jat|Prayer X
 17201|4|ja|Prayer X
 3331|1|x-jat|Prayers
@@ -41653,7 +41672,7 @@
 7931|4|ja|Rio -Rainbow Gate!-
 7931|1|x-jat|Rio: Rainbow Gate!
 7931|4|en|Rio: Rainbow Gate!
-18394|2|en|Rise of the Dragon
+18394|4|en|Rise of the Dragon
 15541|2|en|Rise to Immortality
 15542|2|en|Rise to Immortality II
 15543|2|en|Rise to Immortality III
@@ -46284,6 +46303,8 @@
 12331|2|ja|Soul Worker: Your Destiny Awaits
 12742|2|en|Soul: Insert
 13447|4|en|Soulmate Adventure
+18159|2|en|Soulmate Adventure 2
+18807|2|en|Soulmate Adventure 2: Special
 18159|2|en|Soulmate Adventure S2
 18807|2|en|Soulmate Adventure S2: Special
 18159|2|en|Soulmate Adventure Season 2
@@ -46605,6 +46626,8 @@
 975|4|en|Spirit Warrior (1-2)
 1802|4|en|Spirit Warrior (3-5)
 13447|2|en|Spirit Wind Elegance
+18159|2|en|Spirit Wind Elegance 2
+18807|2|en|Spirit Wind Elegance SP
 112|4|en|Spirited Away
 112|4|sv|Spirited Away
 112|4|pl|Spirited Away: W krainie bogów
@@ -48861,6 +48884,7 @@
 12717|1|x-jat|Terajima-chou Kidan: Ginnagashi
 18275|1|x-jat|Terminator 0
 18275|4|en|Terminator Zero
+18275|4|pl|Terminator Zero
 18071|4|pt|Terra de Alma Ⅱ: O Inigualável Clã Tang
 1416|1|x-jat|Terra e...
 5039|1|x-jat|Terra e... (2007)
@@ -49422,6 +49446,8 @@
 8117|4|en|The Everyday Tales of a Cat God
 8932|4|en|The Everyday Tales of a Cat God - Cherry Blossom Viewing Ghost Busters
 16031|4|en|The Executioner and Her Way of Life
+18854|2|en|The Exiled Heavy Knight Knows How to Game the System
+18854|2|en|The Exiled Reincarnated Heavy Knight Is Unrivaled in Game Knowledge
 14800|2|en|The Extraordinary Adventures of the Mouse and His Child
 6973|2|en|The Extravagant Muchabee
 18108|1|x-jat|The Fable
@@ -49706,7 +49732,7 @@
 2135|4|ja|THE INCREDIBLE GYÔKAI VIDEO JUNK BOY
 2135|1|x-jat|The Incredible Gyoukai Video Junk Boy
 17163|2|en|The Indomitable
-17738|1|en|The Infinitors
+17750|4|en|The Infinitors
 4821|2|en|The Inland Sea Bride
 6126|2|en|The Inland Sea Bride OVA
 18210|2|en|The Insipid Prince`s Furtive Grab for the Throne
@@ -49819,7 +49845,7 @@
 4207|2|en|The Legacy of Al Caral
 13596|4|en|The Legend of Ancient Soul
 8441|2|en|The Legend of Blue
-18472|2|en|The Legend of Dragon Soldier
+18472|4|en|The Legend of Dragon Soldier
 15253|2|en|The Legend of Hei
 15253|4|de|The Legend of Hei - Die Kraft in Dir
 16112|4|ja|The Legend of Heroes 閃の軌跡 Northern War
@@ -52045,6 +52071,7 @@
 17291|1|x-jat|Tsugunai
 6155|1|x-jat|Tsui no Sora
 5568|1|x-jat|Tsuide ni Tonchinkan
+18854|1|x-jat|Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru
 13351|2|x-jat|Tsuin Seishin Tantei
 14354|1|x-jat|Tsuiseki
 12761|1|x-jat|Tsuki ga Kirei
@@ -54704,7 +54731,6 @@
 15682|3|x-zht|Wu Geng Ji III
 15682|1|x-zht|Wu Geng Ji III: Sanjie Yuanqi
 14379|2|x-zht|Wu Geng Ji Zhi Tianqi
-18841|1|x-zht|Wu Jin Shen Yu
 12251|2|zh|Wu Kong Da Zhan Er Lang Shen
 11650|1|x-zht|Wu Lan Qi Qi Ge
 17852|1|x-zht|Wu Liuqi: Anying Suming
@@ -54743,7 +54769,6 @@
 16397|1|x-zht|Wushang Shen Di Di Er Ji
 15443|2|x-zht|Wushen Zhuzai
 15638|1|x-zht|Wuxian Shaonu 48
-17738|4|zh|Wuxian Shijie
 17750|1|x-zht|Wuxian Shijie
 2707|3|en|WWTM
 3528|3|en|WWW
@@ -55301,6 +55326,7 @@
 8807|1|x-jat|Yanase Takashi Marchen Gekijou
 4045|2|en|Yanbo, Ninbo and Tonbo
 4045|1|x-jat|Yanbou Ninbou Tonbou
+18856|2|en|Yandere Dark Elf: She Chased Me All the Way from Another World!
 12205|1|x-jat|Yanesenondo
 17026|1|x-jat|Yaneura no Rudger
 18698|1|x-zht|Yangguang Kafei Ting Zhi Xin You Ji
@@ -55755,6 +55781,7 @@
 9930|1|x-jat|Youkai Watch
 16077|1|x-jat|Youkai Watch (2021)
 15268|1|x-jat|Youkai Watch Jam: Youkai Gakuen Y - N to no Souguu
+11288|2|x-jat|Youkai Watch Movie 2
 17727|1|x-jat|Youkai Watch: Jibanyan vs Komasan - Monge Daikessen da Nyan
 13807|1|x-jat|Youkai Watch: Shadow Side
 14687|1|x-jat|Youkai Watch!
@@ -61994,7 +62021,7 @@
 2209|4|ar|الأمير الصغير
 4238|2|ar|الأميرة الأميرة
 516|2|ar|الأميرة توتو
-7|4|ar|الأميرة مونونوكي
+7|2|ar|الأميرة مونونوكي
 7|2|ar|الأميرة مونونوكيه
 2482|4|ar|الأميرة ياقوت
 10537|4|ar|الإرهاب في طوكيو
@@ -62191,7 +62218,7 @@
 6255|4|fa|باسکواش
 4897|2|ar|باكانو
 5098|4|ar|باكوغان
-6327|4|ar|باكيمونوغاتاري
+6327|2|ar|باكيمونوغاتاري
 6327|2|fa|باکمونوگاتاری
 271|4|fa|بال گچی ها
 3123|4|ar|بالديو
@@ -62216,7 +62243,7 @@
 13924|4|ar|بلاك فوكس
 12665|2|ar|بلاك كلوفر
 7934|2|fa|بلزباب
-13225|4|ar|بلونو
+13225|4|ar|بلوتو
 2369|4|ar|بليتش
 2369|4|fa|بلیچ
 2369|4|ur|بلیچ
@@ -62240,7 +62267,7 @@
 6426|4|ar|بي بليد المعركة الحديدية
 15107|2|ar|بيتر غريل ووقت الرجل الحكيم
 3585|4|ar|بيدا بول
-98|4|ar|بيرزيرك
+98|2|ar|بيرزيرك
 98|2|ar|بيرسيرك
 7991|2|ar|بيرسيرك: فصل العصر الذهبي
 154|2|ar|بيرفيكت بلو
@@ -62530,7 +62557,6 @@
 590|4|ar|سلام دانك
 34|4|ar|سلة الفواكه
 14200|4|ar|سماء النجوم المنبجلة
-4409|4|ar|سميد
 3376|4|ar|سنان
 2383|4|ar|سنجوب
 3677|4|ar|سندريلا
@@ -62577,7 +62603,7 @@
 10779|4|ar|شيروباكو
 9002|3|ar|شينسيكاي يوري
 2436|4|ar|شينوبي
-112|4|ar|شيهيرو
+112|2|ar|شيهيرو
 6335|2|ar|صائدو العناصر
 1955|4|ar|صاحب الظل الطويل
 1056|4|ar|صانع السلام
@@ -62704,7 +62730,6 @@
 15113|2|ar|فيلم قاتل الشياطين: قطار اللانهاية
 5914|2|ar|فيلم ناروتو شيبودن الثاني
 7036|2|ar|فيلم يو غي أوه :الانصهار الخارق ! تخطي حاجز الزمان والمكان
-13945|4|ar|فينلاند ساغا
 12138|4|ar|فيوليت
 14840|4|ar|فيوليت إيفرغاردن - القصة الجانبية: الأبدية ودمية الذكريات الآلية
 8131|2|fa|فی برین: پازل ایزدی
@@ -62874,6 +62899,7 @@
 9268|4|ar|متاهة السحر
 1783|2|ar|مجتمع دراسة الثقافة المرئية الحديثة
 2854|2|ar|محاربو طوكيو العشرة
+6438|2|ar|محب الأميرات
 6788|4|ar|محققو الحيوانات
 6788|2|ar|محققوا الحيوانات كيرومينزو
 4392|2|ar|مخالب وحش
@@ -62918,7 +62944,7 @@
 1122|2|ar|مغامرات الكوكب المهجور
 2737|4|ar|مغامرات بسيط
 3304|4|ar|مغامرات بن بن
-2294|2|ar|مغامرات بيتر بان
+2294|4|ar|مغامرات بيتر بان
 2303|2|ar|مغامرات توم سوير
 2597|4|ar|مغامرات تيرانغ
 5411|4|ar|مغامرات جامبا
@@ -62929,6 +62955,7 @@
 1925|4|ar|مغامرات رنا
 3091|4|ar|مغامرات ساسوكي
 2923|4|ar|مغامرات سبانك
+4409|4|ar|مغامرات سميد
 3369|2|ar|مغامرات سنان
 2247|4|ar|مغامرات سنبل
 785|4|ar|مغامرات سندباد
@@ -62958,6 +62985,7 @@
 8376|2|fa|مکعب X نفرین شده X کنجکاو
 8376|2|fa|مکعب سی
 12482|2|ar|ملجأ
+13945|4|ar|ملحمة فينلاند
 14580|2|ar|ملف قضايا اللورد إل-ميلوي الثاني - نغمة إضافية ريل زيبيلين
 14573|2|ar|ملف قضايا اللورد إل-ميلوي الثاني - نغمة إضافية ريل زيبيلين - حارس قبر وقط وساحر
 4763|4|ar|ملك الديناصورات
@@ -67874,6 +67902,7 @@
 11967|4|ja|えなじぃキョーカ!!
 13277|4|ja|えのしまんず
 17621|4|ja|えの素 The Animation
+18852|3|ja|エパリダ
 15847|4|ja|エビシー修業日記
 8860|4|ja|えびてん 公立海老栖川高校天悶部
 9245|4|ja|えびてん 公立海老栖川高校天悶部 ギガゾーン23 PART II 秘密く・だ・さ・い
@@ -70855,6 +70884,7 @@
 5986|4|ja|チョコレート・アンダーグラウンド
 11387|4|ja|チョコレート・アンダーグラウンド ぼくらのチョコレート戦争
 4002|4|ja|チョッちゃん物語
+18856|4|ja|ちょっとだけ愛が重いダークエルフが異世界から追いかけてきた
 15246|4|ja|ちょっと動く！？「フテネコ」
 12|4|ja|ちょびっツ
 12115|4|ja|ちょびっとづかん
@@ -76500,6 +76530,7 @@
 2264|4|ja|刻音色(ときねいろ)
 15332|4|zh-Hans|剃须。然后捡到女高中生。
 14291|2|ja|削岩ラビリンスマーカー
+18855|4|ja|前橋ウィッチーズ
 14996|4|zh-Hant|前說！
 15621|4|zh-Hant|前輩有夠煩
 17945|2|zh-Hans|前辈是伪娘
@@ -80523,6 +80554,7 @@
 3057|4|zh-Hant|愛的教育
 15288|4|ja|愛聖天使ラブメアリー ~悪性受胎~ THE ANIMATION
 11397|4|ja|愛迷エレジー
+18856|3|ja|愛重ダークエルフ
 2435|2|zh-Hant|愛麗絲學園
 6765|4|ja|感染 淫欲の連鎖
 14214|4|ja|感染ソドム
@@ -87153,6 +87185,7 @@
 5760|4|zh-Hans|迷走王Border
 7229|4|zh-Hans|迷途猫OVER RUN
 7229|2|zh-Hans|迷途猫Overrun!
+18854|4|ja|追放された転生重騎士はゲーム知識で無双する
 14354|4|ja|追跡
 8073|4|zh-Hans|追逐繁星的孩子
 13230|4|ja|退魔針
@@ -87390,6 +87423,7 @@
 10864|4|zh-Hans|重装武器
 11074|4|zh-Hans|重返17岁
 5587|4|zh-Hans|重金属摇滚双面人
+18854|3|ja|重騎士
 1205|4|ja|野々村病院の人々
 14345|4|ja|野ばら
 3649|4|ja|野ばらのジュリー
