@@ -1,4 +1,4 @@
-# created: Fri Sep  6 03:00:02 2024
+# created: Sat Sep  7 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -176,6 +176,8 @@
 13933|4|ja|【ゾンミちゃん】ハロウィン☆スペシャルムービー!
 17724|4|ja|【ブルアカ】1.5周年記念ショートアニメーション
 18086|2|zh-Hans|【我推的孩子】 第二季
+17449|2|ja|【推しの子】
+18086|2|ja|【推しの子】(2024)
 17724|4|zh-Hans|【碧蓝档案】1.5周年纪念短篇动画
 15249|1|x-jat|**** Kouhai
 10932|4|ja|&lt;harmony/&gt;
@@ -6079,6 +6081,7 @@
 16111|1|x-jat|Bokutachi wa Benkyou ga Dekinai!: Chapel no Kane wa [X] o Shukufuku Suru
 327|3|x-jat|bokutama
 17547|3|x-jat|bokuyaba
+18066|3|x-jat|BokuYaba 2
 18066|3|x-jat|bokuyaba s2
 5222|4|sk|Bol raz jeden život
 2786|2|pt-BR|Bola de Dan
@@ -9686,6 +9689,7 @@
 13829|3|x-jat|danmachi s2
 15111|3|x-jat|danmachi s3
 16032|3|x-jat|danmachi s4
+17652|3|x-jat|danmachi s4p2
 17652|3|x-jat|danmachi s5
 17652|2|x-jat|DanMachi Season 4 Part 2
 18267|3|x-jat|DanMachi V
@@ -9698,6 +9702,7 @@
 13829|3|x-jat|danmachi2
 15111|3|x-jat|danmachi3
 16032|3|x-jat|danmachi4
+18267|3|x-jat|danmachi5
 10676|1|x-jat|Danna ga Nani o Itte Iruka Wakaranai Ken
 11002|1|x-jat|Danna ga Nani o Itte Iruka Wakaranai Ken 2 Sureme
 10676|2|x-jat|Danna ga Nani o Itteiruka Wakaranai Ken
@@ -10049,6 +10054,7 @@
 1170|4|de|Dead Leaves
 1170|4|pt|Dead Leaves - O Filme
 1170|4|ru|Dead Leaves: Звёздная тюряга
+18787|4|en|Dead Ma`am`s Chest
 17719|4|en|Dead Mount Death Play
 17719|1|x-jat|Dead Mount Death Play
 17915|1|x-jat|Dead Mount Death Play (2023)
@@ -12807,6 +12813,7 @@
 17652|1|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth IV (2023)
 17652|2|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth IV Part 2
 17652|2|x-unk|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth Season 4 Part 2
+18267|2|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth Season 5
 18267|1|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth V
 15111|2|x-jat|Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka 3
 16032|2|x-jat|Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka 4
@@ -13603,6 +13610,7 @@
 18742|2|x-jat|En`en no Shouboutai San no Shou Part 2
 17420|2|x-jat|En`en no Shouboutai Season 3 Part 1
 18742|2|x-jat|En`en no Shouboutai Season 3 Part 2
+18742|2|x-jat|En`en no Shouboutai: Third Chapter Part 2
 5141|1|x-jat|En`yoku
 2862|3|x-jat|EnA
 10559|1|x-jat|Enbi
@@ -13644,7 +13652,9 @@
 15335|2|en|enen 2
 14488|2|x-jat|Enen no Shouboutai
 17420|2|x-jat|Enen no Shouboutai San no Shou Part 1
+18742|2|x-jat|Enen no Shouboutai San no Shou Part 2
 17420|2|x-jat|Enen no Shouboutai Season 3 Part 1
+18742|2|x-jat|Enen no Shouboutai: San no Shou Part 2
 15335|3|x-jat|enen s2
 17420|3|x-jat|enen s3
 15335|3|x-jat|enen2
@@ -17648,6 +17658,7 @@
 10732|1|x-jat|Go! Go! Kadendanshi (2014)
 17703|4|en|Go! Go! Loser Ranger!
 18725|2|en|Go! Go! Loser Ranger! (2025)
+18725|2|en|Go! Go! Loser Ranger! Season 2
 3159|2|en|Go! Go! Quintuplets Land
 17972|1|x-jat|Go! Go! Vehicle Zoo
 10903|1|x-jat|Go! Princess Precure
@@ -19168,6 +19179,7 @@
 5954|1|x-jat|Hakushaku to Yousei
 2740|1|x-jat|Hakushon Daimaou
 15344|1|x-jat|Hakushon Daimaou 2020
+15344|2|x-jat|Hakushon Daimaou Season 2
 6793|2|x-jat|Hakuyoku no Seiyaku ~Pure Engagement~
 13336|4|en|Hakyu Hoshin Engi
 13336|1|x-jat|Hakyuu Houshin Engi
@@ -19210,6 +19222,7 @@
 16727|3|x-jat|hamefura movie
 16445|3|x-jat|hamefura ova
 15604|3|x-jat|hamefura s2
+15604|2|x-jat|HameFura Season 2
 15604|3|x-jat|hamefurax
 16445|3|x-jat|hamefurax ova
 775|3|x-jat|hameln
@@ -19220,6 +19233,7 @@
 3225|1|x-jat|Hametsu no Mars
 17846|1|x-jat|Hametsu no Oukoku
 18814|1|x-jat|Hamidashi Creative
+18814|3|x-jat|hamikuri
 3411|4|en|Hammerboy
 3411|4|fr|Hammerboy
 3411|4|pt|Hammerboy: O Rapaz do Martelo
@@ -21153,6 +21167,7 @@
 15634|2|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen Season 3
 15293|2|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erande Iraremasen
 15293|2|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erande Iraremasen Part 2
+15634|2|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erande Iraremasen Season 3
 15300|3|x-jat|Honzuki OVA
 15293|3|x-jat|Honzuki s2
 15634|3|x-jat|Honzuki s3
@@ -23858,6 +23873,7 @@
 15361|1|x-zht|Jue Ming Xiang Ying
 17669|1|x-zht|Juedai Shuang Jiao
 16610|2|x-zht|Jueding
+11983|4|es-419|Juego de "La Garra" para niñas
 1205|2|es|Juego de Enfermeras
 1434|4|es|Juegos calientes
 18071|2|x-zht|Jueshi Tangmen
@@ -24687,6 +24703,8 @@
 17629|3|x-jat|KanoKari 3
 15743|3|x-jat|kanokari s2
 17629|3|x-jat|kanokari s3
+18753|3|x-jat|KanoKari s4
+18753|3|x-jat|KanoKari4
 5575|1|x-jat|Kanokon
 6787|2|x-jat|Kanokon OVA
 6787|1|x-jat|Kanokon: Manatsu no Daishanikusai
@@ -31105,6 +31123,7 @@
 15131|3|x-jat|maogaku
 16102|2|x-jat|Maogaku (2024)
 16101|3|x-jat|maogaku s2
+16102|3|x-jat|maogaku s2p2
 16102|3|x-jat|maogaku s3
 16102|2|x-jat|Maohgaku (2024)
 16894|1|x-zht|Maomao De Gushi
@@ -33285,6 +33304,7 @@
 16976|1|x-jat|Mononogatari
 16976|4|de|Mononogatari - Die Wächter der Artefaktgeister
 17958|1|x-jat|Mononogatari (2023)
+17958|2|x-jat|Mononogatari Dai Ni Shou
 17958|2|x-jat|Mononogatari Part 2
 17958|2|x-jat|Mononogatari Second Chapter
 5113|1|x-jat|Mononoke
@@ -36252,6 +36272,7 @@
 17450|4|ja|Obey Me! (2022)
 17450|1|x-jat|Obey Me! (2022)
 17450|2|x-jat|Obey Me! Season 2
+16185|2|x-jat|Obey Me! The Anime
 17450|2|ja|Obey Me! The Anime Season 2
 1815|2|fr|Objectif planète Terre
 18145|4|en|Oblivion Battery
@@ -37343,6 +37364,7 @@
 17449|4|en|Oshi no Ko
 17449|4|fr|Oshi no Ko
 18086|4|en|Oshi no Ko (2024)
+18086|2|x-jat|Oshi no Ko 2
 18086|2|x-jat|Oshi no Ko Season 2
 14087|3|x-jat|Oshibudou
 13836|1|x-jat|Oshie to Tabi Suru Otoko
@@ -37365,7 +37387,12 @@
 16133|1|x-jat|Oshiri Tantei (2021)
 16946|1|x-jat|Oshiri Tantei (2022)
 17701|1|x-jat|Oshiri Tantei (2023)
+13203|2|x-unk|Oshiri Tantei Season 1-2
+15084|2|x-jat|Oshiri Tantei Season 3
+15429|2|x-unk|Oshiri Tantei Season 4
+16133|2|x-jat|Oshiri Tantei Season 5
 16946|2|x-jat|Oshiri Tantei Season 6
+17701|2|x-jat|Oshiri Tantei Season 7
 17875|1|x-jat|Oshiri Tantei: Cosmic Front
 6350|1|x-jat|Oshiruko: The Summertime Mischief
 12485|2|x-jat|Oshitsu Kyoshi Haine
@@ -41672,6 +41699,7 @@
 7931|4|ja|Rio -Rainbow Gate!-
 7931|1|x-jat|Rio: Rainbow Gate!
 7931|4|en|Rio: Rainbow Gate!
+17760|4|es-419|Ririsa, una chica en 2.5D
 18394|4|en|Rise of the Dragon
 15541|2|en|Rise to Immortality
 15542|2|en|Rise to Immortality II
@@ -43251,6 +43279,7 @@
 9466|2|en|Satan
 16104|2|en|Satan 2
 16104|3|en|satan s2
+17649|3|en|satan s2p2
 17649|3|en|satan s3
 16104|3|x-jat|satan2
 13725|1|x-jat|Satanika
@@ -43948,6 +43977,7 @@
 5810|1|x-jat|Sensuikan ni Koi o Shita Kujira no Hanashi
 17703|1|x-jat|Sentai Dai Shikkaku
 18725|1|x-jat|Sentai Dai Shikkaku (2025)
+18725|2|x-jat|Sentai Dai Shikkaku 2
 18725|2|x-jat|Sentai Dai Shikkaku Season 2
 17703|2|x-jat|Sentai Daishikkaku
 12572|1|x-jat|Sentai Hero Sukiyaki Force: Gunma no Heiwa o Negau Season
@@ -48807,6 +48837,7 @@
 17552|1|x-jat|Tensei Kizoku no Isekai Boukenroku: Jichou o Shiranai Kamigami no Shito
 18026|1|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru
 18707|1|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru (2024)
+18707|2|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru Season 2
 18026|2|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta
 17569|1|x-jat|Tensei Oujo to Tensai Reijou no Mahou Kakumei
 17702|1|x-jat|Tensei Shitara Dai Nana Ouji Datta no de, Kimama ni Majutsu o Kiwamemasu
@@ -49341,6 +49372,7 @@
 9466|4|de|The Devil Is a Part-Timer!
 17649|4|en|The Devil Is a Part-Timer! (2023)
 16104|4|en|The Devil Is a Part-Timer! Season 2
+17649|2|en|The Devil is a Part-Timer! Season 2 Part 2
 749|4|en|The Devil Lady
 12967|2|en|The Devil Ring
 8104|2|en|The Devil`s Virgins
@@ -53133,6 +53165,7 @@
 11084|1|x-jat|Uwabaki Cook
 15611|1|x-jat|Uwaki to Honki The Animation
 3427|3|x-jat|uwm
+13570|2|x-jat|uwm ova
 11272|3|x-jat|uwm2
 15206|3|x-jat|uwm3
 377|3|x-jat|UY
@@ -56314,6 +56347,7 @@
 15324|1|x-jat|Yuukoku no Moriarty
 15774|1|x-jat|Yuukoku no Moriarty (2021)
 16600|1|x-jat|Yuukoku no Moriarty (2022)
+16600|2|x-jat|Yuukoku no Moriarty OVA
 15774|2|x-jat|Yuukoku no Moriarty Part 2
 13552|4|en|Yuuna and the Haunted Hot Springs
 18787|1|x-jat|Yuurei Sensen
@@ -57740,6 +57774,7 @@
 7729|2|ru|Врата Штейна
 11167|2|ru|Врата Штейна 0
 10887|2|ru|Врата Штейна: Великая мудрость когнитивного компьютера
+8655|4|ru|Врата Штейна: Зона загрузки дежавю
 11602|4|ru|Врата: Силы Самообороны приняли бой
 10982|2|ru|Врата: Там бьются наши воины
 11602|2|ru|Врата: Там бьются наши воины — Огнедышащие драконы
@@ -72237,6 +72272,7 @@
 535|4|ja|バブルガムクラッシュ
 5150|2|ja|バベルの本
 10169|4|ja|ハマトラ THE ANIMATION
+18814|3|ja|ハミクリ
 18814|4|ja|ハミダシクリエイティブ
 13912|4|ja|バミューダトライアングル ~カラフル・パストラーレ~
 10215|4|ja|はむこ参る!
@@ -74029,6 +74065,7 @@
 6960|4|ja|ものしり大学 明日のカレンダー
 16976|4|ja|もののがたり
 17958|4|ja|もののがたり (2023)
+17958|2|ja|もののがたり 第二章
 15109|4|ja|モノのかみさま ここたま
 11478|4|ja|モノノケダンス
 7|4|ja|もののけ姫
