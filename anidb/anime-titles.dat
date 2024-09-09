@@ -1,4 +1,4 @@
-# created: Sat Sep  7 03:00:02 2024
+# created: Sun Sep  8 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -9094,6 +9094,7 @@
 6424|1|x-jat|Cross Game
 6424|4|en|Cross Game
 10458|1|x-jat|Cross Road
+18839|2|en|Cross-Cultural Exchange With the Girl at the Arcade
 15249|2|en|Crossbreeding Assistance
 8262|2|en|Crossdresser and Princess
 6424|2|x-jat|crossgame
@@ -9172,6 +9173,7 @@
 4193|4|es|Cuentos de Terramar
 12747|2|en|CUG: King of Heroes
 5574|2|cs|Cukroušek
+18839|2|en|Cultural Exchange With Game Center Girl
 8685|2|en|Cumulonimbus Graffiti
 12046|4|vi|Cuộc chiến Chén Thánh: Chạm tới Chén Thánh
 12704|4|vi|Cuộc chiến Chén Thánh: Ngụy thư
@@ -16145,6 +16147,7 @@
 238|2|en|Gambler Legend Tetsuya
 12834|4|fr|Gambling School
 3088|1|x-jat|Game Center Arashi
+18839|2|x-jat|Game Center Shoujo to Ibunka Kouryuu
 593|2|en|Game King!
 8773|1|x-jat|Game Tengoku
 16385|4|en|Game World Reincarnation
@@ -21352,7 +21355,7 @@
 18744|4|en|How Dare You!?
 13545|2|en|How Do You Live?
 14603|4|en|How Heavy Are the Dumbbells You Lift?
-18228|2|en|How I Attended an All-Guy`s Mixer
+18228|4|en|How I Attended an All-Guy`s Mixer
 18587|2|en|How I made a Harem of Sex Friends
 13757|4|en|How Not to Summon a Demon Lord
 13757|4|de|How Not to Summon a Demon Lord
@@ -24659,6 +24662,7 @@
 17276|1|x-jat|Kangoshi! PV
 11579|1|x-jat|Kanimanji Engi
 5770|1|x-jat|Kankara Sanshin
+18857|1|x-jat|Kankin Kuiki Level X
 11489|2|en|Kankore Movie
 9116|1|x-jat|Kankou Taisen Saitama: Sakuya no Tatakai
 15540|4|hu|Kanna és az istenek hónapja
@@ -25898,6 +25902,7 @@
 2305|2|en|Kinnikuman: Hour-of-Triumph! Justice Superman
 2285|2|en|Kinnikuman: Justice Superman Vs. Ancient Superman
 2313|2|en|Kinnikuman: Justice Superman vs. Soldier Superman
+17913|2|x-jat|Kinnikuman: Kanpeki Choujin Shiso Hen
 17913|2|x-jat|Kinnikuman: Kanpeki Chоujin Shiso Hen
 6714|2|x-jat|Kinnikuman: Kessen! Shichinin no Seigi Choujin vs Uchuu Nobushi
 6714|1|x-jat|Kinnikuman: Kessen!! Shichinin no Choujin Tai Uchuu Nobushi
@@ -31843,6 +31848,7 @@
 2289|1|x-jat|Meiken Lassie
 647|4|en|MeiKing
 647|1|x-jat|MeiKing
+12461|2|x-jat|Meikoi
 12724|1|x-jat|Meikoku Gakuen Jutai Hen
 15619|1|x-jat|Meikyuu Black Company
 734|2|lt|Meilės Bangos
@@ -44535,6 +44541,7 @@
 4296|2|en|Shibawanko`s Spirit of Tradition
 4296|2|en|Shibawanko`s Spirit of Wa
 18845|1|x-jat|Shibou Yuugi de Meshi o Kuu.
+18845|2|x-jat|Shibou Yuugi de Meshi wo Kuu.
 18492|1|x-jat|Shibuya Hachi
 18822|1|x-jat|Shibuya Hachi (2024)
 18492|4|ja|SHIBUYA♡HACHI
@@ -84641,6 +84648,7 @@
 14562|4|ja|監獄実験 -プリズンラボ-
 6528|4|ja|監獄戦艦
 10526|4|ja|監督不行届
+18857|4|ja|監禁区域レベルX
 10631|4|ja|目玉焼きの黄身 いつつぶす?
 10360|4|zh-Hans|目隐都市的演绎者
 10360|4|zh-Hant|目隱都市的演繹者
