@@ -1,4 +1,4 @@
-# created: Sun Sep  8 03:00:02 2024
+# created: Mon Sep  9 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -761,8 +761,8 @@
 299|2|en|9 O`clock Woman
 3354|2|uk|9 історій кохання
 3354|2|ar|9 قصص حب
-18660|4|ja|9-nine-
-18660|1|x-jat|9-Nine-
+18660|4|ja|9-nine- Ruler`s Crown
+18660|1|x-jat|9: Ruler`s Crown
 12014|4|ja|91 Days
 12014|1|x-jat|91 Days
 12014|4|en|91 Days
@@ -11900,6 +11900,7 @@
 15151|1|x-zht|Dou Long Zhanshi 4 Shuanglong He
 15152|1|x-jat|Dou Long Zhanshi 5
 15153|1|x-zht|Dou Long Zhanshi: Xing Yin Luopan
+13721|2|x-jat|Dou Po Cang Qiong
 16179|2|x-zht|Dou Po Cang Qiong 4
 14891|1|x-zht|Dou Po Cang Qiong: Q Ban Xiao Juchang
 14892|1|x-zht|Dou Po Cang Qiong: Q Ban Xiao Juchang 2
@@ -12023,6 +12024,7 @@
 18069|1|x-zht|Douluo Dalu: Zhangu Zsn Xie
 15273|1|x-jat|Dounika Naru Hibi
 13721|2|x-zht|Doupo Cangqiong
+13721|2|x-jat|Doupo Capong
 4250|1|x-jat|Doura
 18506|1|x-jat|Douse, Koishite Shimaunda.
 11567|1|x-jat|Doushitemo Eto ni Hairitai
@@ -42690,7 +42692,9 @@
 1889|2|x-jat|Saint Seiya: Movie 4
 1418|2|x-jat|Saint Seiya: Movie 5
 1884|4|pt-BR|Saint Seiya: O Santo Guerreiro
+11056|2|x-jat|Saint Seiya: Oogonkon
 13347|4|pt-BR|SAINT SEIYA: Os Cavaleiros do Zodíaco
+11056|2|x-jat|Saint Seiya: Ougon Tamashii
 13347|4|pl|SAINT SEIYA: Rycerze Zodiaku
 13347|4|cs|SAINT SEIYA: Rytíři zvěrokruhu
 12648|4|en|Saint Seiya: Saintia Sho
@@ -43915,8 +43919,8 @@
 18156|4|en|Sengoku Youko
 18156|1|x-jat|Sengoku Youko
 18543|4|en|Sengoku Youko (2024)
-18543|1|x-jat|Sengoku Youko (2024)
-18543|2|x-jat|Sengoku Youko: Sen Ma Konton Hen
+18543|2|x-jat|Sengoku Youko (2024)
+18543|1|x-jat|Sengoku Youko: Sen Ma Konton Hen
 18543|2|x-jat|Sengoku Youko: Senma Konton Hen
 18156|2|x-jat|Sengoku Youko: Yonaoshi Kyoudai Hen
 12718|2|tr|Sengoku’nun Yabani Hayat Karikatürleri 2
@@ -59170,6 +59174,7 @@
 4193|2|bg|Магьосникът от Землемория
 5189|2|bg|Магьосници под наем
 1654|2|ru|Мадлакс
+9853|2|ru|Мазохист на десерт
 3216|2|ru|Май-Отомэ
 4567|2|ru|Май-Отомэ OVA-1
 1554|2|ru|Май-Химэ
@@ -64495,6 +64500,7 @@
 15878|2|ko|리얼 에로게 시츄에이션! 2
 1212|2|ko|리욘 전설：플레어
 5543|2|ko|리조트 보잉
+18647|2|ko|리지네타 씨의 모험
 307|2|ko|리틀 모니카 이야기
 9132|4|ko|리틀 버스터즈!
 9822|4|ko|리틀 버스터즈! ~Refrain~
@@ -66042,6 +66048,7 @@
 10594|2|ko|이렇게 따뜻하게 대해진 적은
 10594|2|ko|이렇게 부드럽게 풀어져 버렸...
 2169|4|ko|이리야의 하늘, UFO의 여름
+18666|2|ko|이마리아
 16198|2|ko|이마이즈미네 집은 아무래도 갸루의 아지트가 된 모양이다
 10299|2|ko|이마코 시스템
 13262|2|ko|이별의 아침에 약속의 꽃을 장식하자
@@ -80918,9 +80925,9 @@
 1036|4|ja|戦国奇譚 妖刀伝 総集編
 3164|4|ja|戦国奇譚妖刀伝
 18156|4|ja|戦国妖狐
-18543|4|ja|戦国妖狐 (2024)
+18543|2|ja|戦国妖狐 (2024)
 18156|2|ja|戦国妖狐 世直し姉弟編
-18543|2|ja|戦国妖狐 千魔混沌編
+18543|4|ja|戦国妖狐 千魔混沌編
 5306|4|ja|戦国武将列伝 爆風童子ヒッサツマン
 10913|4|ja|戦国無双
 10298|4|ja|戦国無双SP 真田の章
