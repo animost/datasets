@@ -1,4 +1,4 @@
-# created: Mon Sep  9 03:00:01 2024
+# created: Tue Sep 10 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -18,6 +18,7 @@
 9466|4|fa|!پادشاه دیوها، کارگر نیمه وقته
 7672|2|ar|!كايتشو
 8861|4|fa|!کامپیونه
+6564|2|ar|!نبضات الملاك
 9257|4|es-419|¡Atrévete a escalar!
 1760|2|es|¡Azusa ayudará!
 4121|2|es|¡Bienvenidos a NHK!
@@ -889,6 +890,7 @@
 16984|4|en|A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized
 18258|2|en|A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized 2
 10596|4|hu|A hét főbűnös
+18858|2|en|A History of the Romelia
 14300|4|en|A Hot Night With My Boss in a Capsule Hotel
 18009|2|en|A Housewife`s Healing Touch
 5308|1|x-jat|A Hundred Percents
@@ -16077,6 +16079,7 @@
 7039|2|en|Galaxy Express 999 - Beyond the Diamond Ring
 765|4|it|Galaxy Express 999 - Capolinea Andromeda
 485|4|it|Galaxy Express 999 - Ferrovia Galattica
+4230|4|it|Galaxy Express 999 - Il guerriero
 485|2|it|Galaxy Express 999 - The Movie
 485|4|en|Galaxy Express 999 (1979)
 485|4|fr|Galaxy Express 999 (1979)
@@ -19670,9 +19673,11 @@
 16104|2|x-jat|Hataraku Maou-sama S2
 9466|1|x-jat|Hataraku Maou-sama!
 16104|2|x-jat|Hataraku Maou-sama! 2
+17649|2|x-jat|Hataraku Maou-sama! 3
 17649|2|x-jat|Hataraku Maou-sama! Season 2 Part 2
 16104|1|x-jat|Hataraku Maou-sama!!
 17649|1|x-jat|Hataraku Maou-sama!! (2023)
+17649|2|x-jat|Hataraku Maou-sama!! 2nd Season
 17649|2|x-jat|Hataraku Maou-sama!! Part 2
 13573|1|x-jat|Hataraku Onii-san!
 13995|1|x-jat|Hataraku Onii-san! No 2!
@@ -35468,6 +35473,7 @@
 299|4|en|Nine O`clock Woman
 14402|2|en|Nine Songs of the Moving Heavens
 3149|1|x-jat|Nine: Kanketsuhen
+18660|2|en|Nine: Ruler`s Crown
 3607|2|x-jat|Nineteen - 19
 3607|1|x-jat|Nineteen 19
 3607|4|ja|NINETEEN 19
@@ -41975,6 +41981,7 @@
 10359|1|x-jat|Romantica Clock
 17583|4|cs|Romantika na zabití
 4832|3|x-jat|RomeJuli
+18858|1|x-jat|Romelia Senki
 2023|3|x-jat|romeo
 2023|4|en|Romeo and The Black Brothers
 4832|4|hu|Rómeó és Júlia
@@ -49382,6 +49389,7 @@
 9466|4|en|The Devil Is a Part-Timer!
 9466|4|de|The Devil Is a Part-Timer!
 17649|4|en|The Devil Is a Part-Timer! (2023)
+17649|2|en|The Devil is a Part-Timer! 3rd Season
 16104|4|en|The Devil Is a Part-Timer! Season 2
 17649|2|en|The Devil is a Part-Timer! Season 2 Part 2
 749|4|en|The Devil Lady
@@ -53753,6 +53761,7 @@
 547|4|ja|VS騎士ラムネ&40フレシュ
 1367|4|ja|VS騎士ラムネ&40炎
 17828|4|en|VTuber Legend: How I Went Viral After Forgetting to Turn Off My Stream
+17828|2|x-jat|VTuber Nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta
 17828|1|x-jat|VTuber Nanda ga Haishin Kiriwasuretara Densetsu ni Natteta
 17828|2|x-jat|VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta
 17828|4|ja|VTuberなんだが配信切り忘れたら伝説になってた
@@ -63091,7 +63100,6 @@
 473|2|ar|ناناكا
 1950|2|ar|نانامي - شان
 275|2|ar|ناوسيكا فتاة وادي الرياح
-6564|2|ar|نبضات الملاك
 9554|4|fa|نجات یافته اهریمنی 2
 4777|2|ar|نجم محظوظ
 6474|2|ar|نجمة الطبخ
@@ -74760,6 +74768,7 @@
 17583|4|ja|ロマンティック・キラー
 4832|4|ja|ロミオ×ジュリエット
 2023|4|ja|ロミオの青い空
+18858|4|ja|ロメリア戦記
 3571|4|ja|ロリータアニメ
 3313|4|ja|ロリータアニメ (にっかつビデオ)
 11201|4|ja|ろんぐらいだぁす!
@@ -86294,6 +86303,13 @@
 7893|4|ja|蒼白シスフェリア
 1806|4|ja|蒼穹のファフナー
 17084|4|ja|蒼穹のファフナー BEHIND THE LINE
+1806|6|ja|蒼穹のファフナー Dead Aggressor
+17084|6|ja|蒼穹のファフナー Dead Aggressor BEHIND THE LINE
+9639|6|ja|蒼穹のファフナー Dead Aggressor EXODUS
+11176|6|ja|蒼穹のファフナー Dead Aggressor EXODUS (2015)
+7304|6|ja|蒼穹のファフナー Dead Aggressor HEAVEN AND EARTH
+3323|6|ja|蒼穹のファフナー Dead Aggressor RIGHT OF LEFT
+12701|6|ja|蒼穹のファフナー Dead Aggressor THE BEYOND
 9639|4|ja|蒼穹のファフナー EXODUS
 11176|4|ja|蒼穹のファフナー EXODUS (2015)
 7304|4|ja|蒼穹のファフナー HEAVEN AND EARTH
