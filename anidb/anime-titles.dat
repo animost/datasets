@@ -1,4 +1,4 @@
-# created: Tue Sep 10 03:00:01 2024
+# created: Wed Sep 11 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5187,6 +5187,7 @@
 1372|4|lt|Bidamanų kovos
 3663|2|de|Biene Maja (2. Staffel)
 1351|2|de|Biene Maya
+6677|4|es-419|Bienvenido a la oficina de Irabu
 2373|4|fr|Bienvenue à l`île de la jouissance
 4121|2|fr|Bienvenue à la NHK
 9010|2|en|Big Breasts Fantasy
@@ -9225,11 +9226,15 @@
 9371|1|x-jat|Cuticle Tantei Inaba
 1579|4|en|Cutie Honey
 1579|1|x-jat|Cutie Honey
+1238|2|pt|Cutie Honey Clarão
+1580|2|pt|Cutie Honey Clarão: O Filme
 1238|1|x-jat|Cutie Honey Flash
 1580|1|x-jat|Cutie Honey Flash (1997)
+1580|2|en|Cutie Honey Flash: The Movie
 13676|4|ja|Cutie Honey Universe
 13676|1|x-jat|Cutie Honey Universe
 13676|4|en|Cutie Honey Universe
+13676|2|pt|Cutie Honey Universo
 7514|1|x-jat|Cutta-kun Monogatari
 14642|4|ro|Cuvinte nerostite
 816|3|x-jat|CWZ
@@ -13613,10 +13618,7 @@
 17420|1|x-jat|En`en no Shouboutai San no Shou
 18742|1|x-jat|En`en no Shouboutai San no Shou (2026)
 17420|2|x-jat|En`en no Shouboutai San no Shou Part 1
-18742|2|x-jat|En`en no Shouboutai San no Shou Part 2
 17420|2|x-jat|En`en no Shouboutai Season 3 Part 1
-18742|2|x-jat|En`en no Shouboutai Season 3 Part 2
-18742|2|x-jat|En`en no Shouboutai: Third Chapter Part 2
 5141|1|x-jat|En`yoku
 2862|3|x-jat|EnA
 10559|1|x-jat|Enbi
@@ -13658,9 +13660,7 @@
 15335|2|en|enen 2
 14488|2|x-jat|Enen no Shouboutai
 17420|2|x-jat|Enen no Shouboutai San no Shou Part 1
-18742|2|x-jat|Enen no Shouboutai San no Shou Part 2
 17420|2|x-jat|Enen no Shouboutai Season 3 Part 1
-18742|2|x-jat|Enen no Shouboutai: San no Shou Part 2
 15335|3|x-jat|enen s2
 17420|3|x-jat|enen s3
 15335|3|x-jat|enen2
@@ -13695,7 +13695,6 @@
 13198|1|x-jat|Enmusubi no Youko-chan
 12119|2|x-jat|Enmusubi no Youko-chan (Original Chinese Version)
 14488|6|x-jat|Enn Enn no Shouboutai
-18742|6|x-jat|Enn Enn no Shouboutai San no Shou (2026)
 17621|1|x-jat|Enomoto The Animation
 13277|1|x-jat|Enoshimans
 11810|1|x-jat|Ensemble Stars!
@@ -20443,6 +20442,7 @@
 10889|1|x-jat|Hibike! Euphonium
 11746|1|x-jat|Hibike! Euphonium 2
 14935|1|x-jat|Hibike! Euphonium 3
+17441|2|x-jat|Hibike! Euphonium: Ensemble Contest-hen
 14935|2|x-jat|Hibike! Euphonium: Kumiko 3 Nensei Hen
 10101|1|x-jat|Hibike! Wadaiko
 17139|1|x-jat|Hidamari no Ie
@@ -21159,13 +21159,11 @@
 9941|1|x-jat|Hontou ni Atta
 14727|3|x-jat|Honzuki
 15293|3|x-jat|Honzuki 2
-15634|2|x-jat|Honzuki 2nd Season
 15634|3|x-jat|Honzuki 3
 14727|3|ja|Honzuki no Gekokujou
 15293|3|x-jat|Honzuki no Gekokujou 2
 15634|2|x-jat|Honzuki no Gekokujou 3
 14727|1|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen
-15634|2|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen  S2
 15300|1|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Eustachius no Shitamachi Sennyuu Daisakusen / Corinna-sama no Otaku Houmon
 18302|1|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Ryoushu no Youjo
 15293|1|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen (2020)
@@ -21174,10 +21172,8 @@
 15293|2|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen Dainibu
 15293|2|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen Part 2
 15293|2|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen Season 2
-15634|2|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen Season 3
 15293|2|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erande Iraremasen
 15293|2|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erande Iraremasen Part 2
-15634|2|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erande Iraremasen Season 3
 15300|3|x-jat|Honzuki OVA
 15293|3|x-jat|Honzuki s2
 15634|3|x-jat|Honzuki s3
@@ -22731,6 +22727,7 @@
 8289|2|en|Into the Forest of Fireflies` Light
 4193|4|ro|Întoarcerea Dragonilor
 4570|4|en|Intrigue in the Bakumatsu: Irohanihoheto
+18859|2|en|Introduction to Mineralogy
 17260|1|x-jat|Inu ni Nattara Suki na Hito ni Hirowareta.
 9663|1|x-jat|Inu to Hasami wa Tsukaiyou
 15297|1|x-jat|Inu to Neko Docchi mo Katteru to Mainichi Tanoshii
@@ -23041,8 +23038,8 @@
 12371|1|x-jat|Ishiyama-dera Engi Emaki
 17866|1|x-jat|Ishura
 17866|4|en|Ishura
-18542|1|x-jat|Ishura 2
-18542|2|en|Ishura 2
+18542|1|x-jat|Ishura (2025)
+18542|2|en|Ishura (2025)
 14969|1|x-jat|Ishuzoku Reviewers
 114|3|x-jat|ISIB
 9913|2|tr|Işık Saçan Ateş Böcekleri
@@ -25910,7 +25907,6 @@
 2285|2|en|Kinnikuman: Justice Superman Vs. Ancient Superman
 2313|2|en|Kinnikuman: Justice Superman vs. Soldier Superman
 17913|2|x-jat|Kinnikuman: Kanpeki Choujin Shiso Hen
-17913|2|x-jat|Kinnikuman: Kanpeki Chоujin Shiso Hen
 6714|2|x-jat|Kinnikuman: Kessen! Shichinin no Seigi Choujin vs Uchuu Nobushi
 6714|1|x-jat|Kinnikuman: Kessen!! Shichinin no Choujin Tai Uchuu Nobushi
 2090|1|x-jat|Kinnikuman: Kinnikusei Oui Soudatsu Hen
@@ -32483,6 +32479,7 @@
 6130|4|en|Millennium Old Journal: The Tale of Genji
 17541|2|en|Millenniums Of Warring States
 14381|4|en|Million Arthur
+13952|2|en|Million Arthur (2018)
 11066|4|en|Million Doll
 11066|1|x-jat|Million Doll
 2068|4|it|Milly un giorno dopo l`altro
@@ -35971,6 +35968,7 @@
 11708|1|x-jat|Nouryou Anime: Denkyuu Ika Matsuri
 14387|4|fr|Nous, les chiens
 16532|2|fr|Nouvelle & double exposition royale – Des femmes esclaves en spectacle
+215|2|pt|Nova Cutie Honey
 7185|4|cs|Nová vesmírná Odyssea
 1751|4|pt|Novas Histórias GRIMM Encantar
 6322|2|es|Novia Electromagnética
@@ -36922,6 +36920,7 @@
 7850|1|x-jat|Oni Chichi 2
 10920|1|x-jat|Oni Chichi 2: Harvest
 10061|1|x-jat|Oni Chichi 2: Revenge
+18860|1|x-jat|Oni Chichi Harem
 11687|2|en|Oni Chichi Vacation
 11687|1|x-jat|Oni Chichi: Bacation
 11687|2|x-jat|Oni Chichi: Kakeeshon
@@ -41084,6 +41083,7 @@
 10620|2|ja|Re: ␣ハマトラ
 1662|2|x-jat|Re: Cutey Honey
 1662|2|x-jat|Re: Cutie Honey
+1662|2|pt|RE: Cutie Honey
 10620|2|x-jat|Re: Hamatora
 10620|4|en|Re: Hamatora
 10620|4|fr|Re: Hamatora
@@ -41123,7 +41123,11 @@
 17947|4|en|Re:Zero - Starting Life in Another World (2024)
 14792|2|en|Re:Zero - Starting Life in Another World 2nd Season
 11370|4|es|Re:Zero -Empezar de cero en un mundo diferente-
+14792|4|de|Re:ZERO -Starting Life in Another World- 2
+15593|4|de|Re:ZERO -Starting Life in Another World- 2 Cour 2
+17947|4|de|Re:ZERO -Starting Life in Another World- 3
 13430|2|en|Re:ZERO -Starting Life in Another World- OVAs
+13430|4|de|Re:ZERO -Starting Life in Another World- OVAs
 11370|4|vi|Re:Zero – Bắt đầu lại ở thế giới khác
 11370|4|fr|Re:Zero –Starting Life in Another World–
 14792|4|fr|Re:Zero –Starting Life in Another World– (Saison 2 Partie 1)
@@ -41982,6 +41986,8 @@
 17583|4|cs|Romantika na zabití
 4832|3|x-jat|RomeJuli
 18858|1|x-jat|Romelia Senki
+18858|2|x-jat|Romelia Senki: Maou wo Taoshita Ato mo Jinrui Yabasou Dakara Guntai Soshiki Shita
+18858|2|en|Romélia War Chronicle: The Count’s Daughter Rallies an Army in the Wake of Mankind’s Victory
 2023|3|x-jat|romeo
 2023|4|en|Romeo and The Black Brothers
 4832|4|hu|Rómeó és Júlia
@@ -42224,6 +42230,7 @@
 810|2|x-jat|Rupan Sansei: Twilight Gemini no Himitsu
 976|2|x-jat|Rupan Sansei: Warusa P38 - In Gedenken an die Walther P38
 823|2|x-jat|Rupan vs Fukusei-ningen
+18859|1|x-jat|Ruri no Houseki
 7676|1|x-jat|Ruriiro Princess
 4531|3|x-jat|ruriirona
 90|3|en|RuroKen
@@ -50316,6 +50323,9 @@
 10596|4|he|The Seven Deadly Sins
 10596|4|fi|The Seven Deadly Sins
 11646|4|it|The Seven Deadly Sins - Il ritorno dei Dieci Comandamenti
+14819|4|fr|The Seven Deadly Sins : La colère impériale des Dieux
+15459|4|fr|The Seven Deadly Sins : Le jugement du Dragon
+11646|4|fr|The Seven Deadly Sins : Le retour des commandements
 11138|2|en|The Seven Deadly Sins OVA
 15459|2|en|The Seven Deadly Sins Season 4
 15997|2|en|The Seven Deadly Sins the Movie: Cursed by Light
@@ -55407,6 +55417,7 @@
 15670|1|x-zht|Yao Shen Ji: Hei Yu Pian
 14473|2|x-zht|Yao Shen Ji: Ying Yao Pian
 16882|1|x-zht|Yao Wen Lu
+17870|2|x-zht|Yao Wu Shaonu de Ninan
 17885|4|en|Yao-Chinese Folktales
 12778|1|x-zht|Yaoguai Mingdan
 14078|1|x-jat|Yaoguai Mingdan 2nd Season
@@ -56051,6 +56062,7 @@
 10310|2|en|Yu-Gi-Oh! Arc-V
 10310|4|pt|Yu-Gi-Oh! Arc-V
 10310|4|fr|Yu-Gi-Oh! Arc-V
+18861|1|en|Yu-Gi-Oh! Capsule Monsters
 18467|4|ja|Yu-Gi-Oh! CARD GAME THE CHRONICLES
 18467|1|x-jat|Yu-Gi-Oh! Card Game: The Chronicles
 2061|2|en|Yu-Gi-Oh! Duel Monsters
@@ -56493,6 +56505,7 @@
 13024|1|x-jat|Zannen Onna Kanbu Black General-san
 10537|3|x-jat|zante
 17425|1|x-zht|Zanting! Rang Wo Cha Gonglue
+17425|2|x-jat|Zanting! Rang Wo Cha Gonglüe
 3661|2|es|Zany Knight Don de la Mancha
 15564|4|es|Zapatos Rojos y los Siete Trolls
 17870|2|pl|Zapiski zielarki
@@ -68229,6 +68242,7 @@
 10427|4|ja|おにくだいすき! ゼウシくん
 11914|4|ja|おにくだいすき! ゼウシくん (2014)
 12092|4|ja|オニズシ
+18860|4|ja|おにちちハーレム
 17178|4|ja|おにぱん!
 17328|3|ja|おにまい
 13294|4|ja|おにゃんこポン
@@ -84309,6 +84323,7 @@
 9394|4|ja|琴浦さん
 9394|4|zh-Hans|琴浦小姐
 16672|4|zh-Hans|琴语
+18859|4|ja|瑠璃の宝石
 7105|4|zh-Hans|瑶玲啊瑶玲
 14255|4|zh-Hant|環戰公主CIRCLET PRINCESS
 14335|4|ja|瓜子姫とあまのじゃく
@@ -84495,7 +84510,7 @@
 13757|4|ja|異世界魔王と召喚少女の奴隷魔術
 15493|4|ja|異世界魔王と召喚少女の奴隷魔術Ω
 17866|4|ja|異修羅
-18542|4|ja|異修羅 2
+18542|4|ja|異修羅 (2025)
 11033|4|ja|異国なレトロ
 5453|4|ja|異国色恋浪漫譚
 8180|4|ja|異国迷路のクロワーゼ The Animation La croisée dans un labyrinthe étranger
