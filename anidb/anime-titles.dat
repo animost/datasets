@@ -1,4 +1,4 @@
-# created: Wed Sep 11 03:00:02 2024
+# created: Thu Sep 12 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1462,6 +1462,7 @@
 4196|3|x-jat|AG
 7669|3|x-jat|AG OVA
 18367|2|en|Against the Gods
+18367|2|en|Against the Gods (2023)
 16583|2|en|Against the Sky Supreme
 16433|1|en|AgainsttheGods
 18375|4|en|Agate
@@ -13892,6 +13893,7 @@
 10904|4|en|Etotama
 10904|1|x-jat|Etotama: Eto Tamashii
 12241|1|x-jat|Etotama: Eto Tamashii - Nyan Kyaku Banrai
+12241|2|en|Etotama: Meow-llions of Customers
 11085|1|x-jat|Etsuraku no Tane
 8603|2|x-jat|Etty no Monogatari
 16542|2|fr|Étude de la puberté
@@ -19354,6 +19356,7 @@
 7874|4|en|Hanasaku Iroha: Blossoms for Tomorrow
 8827|1|x-jat|Hanasaku Iroha: Home Sweet Home
 6329|3|x-jat|HanaSei
+18683|3|x-jat|Hanashura
 1555|4|en|Hanaukyo Maid Team: La Verite
 1555|2|x-unk|Hanaukyo Maid Team: La Vérité
 54|2|en|Hanaukyo Maids
@@ -23040,6 +23043,7 @@
 17866|4|en|Ishura
 18542|1|x-jat|Ishura (2025)
 18542|2|en|Ishura (2025)
+18542|2|x-jat|Ishura Season 2
 14969|1|x-jat|Ishuzoku Reviewers
 114|3|x-jat|ISIB
 9913|2|tr|Işık Saçan Ateş Böcekleri
@@ -35661,6 +35665,7 @@
 587|3|x-jat|Nitaboh
 587|4|ja|NITABOH 仁太坊-津軽三味線始祖外聞
 587|1|x-jat|Nitabou: Tsugaru Shamisen Shiso Gaibun
+18367|2|x-zht|Nitian Xie Shen
 18367|2|x-zht|Nitian Xie Shen (2023)
 16583|2|x-zht|Nitian Zhizun
 18772|1|x-jat|Niwatori Fighter
@@ -55946,7 +55951,7 @@
 16638|2|x-zht|Youxia Zhanji
 4114|1|x-jat|Youyou no Neko Tsumami
 16984|1|x-jat|Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei
-18258|1|x-jat|Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei (2024)
+18258|1|x-jat|Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei Season 2
 11605|1|x-jat|Yowai Mushi
 12529|1|x-jat|Yowamushi Chinsengumi
 9591|1|x-jat|Yowamushi Pedal
@@ -85029,6 +85034,7 @@
 381|4|zh-Hans|福星小子：鬼姬传说
 17096|4|zh-Hant|福星小子（2022）
 17096|4|zh-Hans|福星小子（2022）
+17861|4|zh-Hans|福星小子（2024）
 7565|4|zh-Hans|福音战士新剧场版：Q
 4847|4|zh-Hans|福音战士新剧场版：序
 6171|4|zh-Hans|福音战士新剧场版：破
@@ -89334,7 +89340,7 @@
 14189|4|zh-Hans|齐木楠雄的灾难 完结篇
 12691|4|zh-Hans|齐木楠雄的灾难 第二季
 16984|4|ja|齢5000年の草食ドラゴン, いわれなき邪竜認定
-18258|4|ja|齢5000年の草食ドラゴン, いわれなき邪竜認定 (2024)
+18258|4|ja|齢5000年の草食ドラゴン, いわれなき邪竜認定 season2
 9251|4|ja|龍-RYO-
 10602|4|ja|龍ヶ嬢七々々の埋蔵金
 8864|4|ja|龍ヶ嬢七々々の埋蔵金(2014)
