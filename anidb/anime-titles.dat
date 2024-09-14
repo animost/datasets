@@ -1,4 +1,4 @@
-# created: Thu Sep 12 03:00:02 2024
+# created: Fri Sep 13 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6249,6 +6249,9 @@
 1498|4|de|Boubou, König der Tiere
 7507|4|fr|Bouddha - Le grand départ
 10853|3|x-jat|boueibu
+13706|2|x-jat|boueibu (2018)
+11488|2|x-jat|boueibu 2
+12993|2|x-jat|boueibu ova
 14523|3|x-jat|Boufuri
 15464|3|x-jat|boufuri 2
 7196|1|x-jat|Bouken Dankichi: Hyouryuu no Maki
@@ -41552,6 +41555,7 @@
 287|2|en|Revolutionary Girl Utena TV
 256|4|en|Revolutionary Girl Utena: The Adolescence of Utena
 13152|4|en|Revue Starlight
+15254|2|en|Revue Starlight: Rondo Rondo Rondo
 15255|4|en|Revue Starlight: The Movie
 287|2|pl|Rewolucjonistka Utena
 11643|4|fr|Rewrite
@@ -50802,6 +50806,7 @@
 2707|2|en|Three Musketeers TV
 3639|2|en|Three Musketeers, The MOVIE
 15613|2|en|Three Swordsman Half Face
+15613|4|en|Three Swordsman: Half Face
 5486|2|en|Three Tales
 17309|4|en|Three Thousand Roads
 18379|4|en|Three Thousand Roads 2
@@ -62594,6 +62599,7 @@
 4172|2|ar|سآحرة الغرب الطيبة
 1173|4|ar|سابق ولاحق ماكس
 1171|4|ar|سابق ولاحق!!
+1830|2|ar|سازايه-سان
 400|4|ar|ساكورا
 6246|2|ar|ساكي
 2298|4|ar|سالي
@@ -62721,6 +62727,7 @@
 13812|3|ar|على لسان كيشيبي روهان
 2215|2|ar|علي بابا والأربعين حرامي
 16389|2|ar|عمّ من عالم آخر
+10313|2|ar|عندما كانت مارني هناك
 6051|2|ar|عندما يبكي النورس
 2023|4|ar|عهد الأصدقاء
 679|4|ar|عودة القط
@@ -64914,6 +64921,7 @@
 10291|4|ko|버디 컴플렉스
 10669|4|ko|버디 컴플렉스: 완결편 - 그 하늘로 돌아갈 미래에서
 13912|4|ko|버뮤다 트라이앵글 ~컬러풀 파스토랄레~
+18625|2|ko|버블 de 하우스 de◯◯◯
 6755|4|ko|버스데이 보이
 1108|2|ko|버추얼 콜 2
 14583|4|ko|버추얼씨는 보고 있다
