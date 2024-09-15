@@ -1,4 +1,4 @@
-# created: Fri Sep 13 03:00:01 2024
+# created: Sat Sep 14 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3076,6 +3076,7 @@
 14560|2|x-jat|Arad: Shukumei no Mon
 14560|1|x-zht|Arad: Suming Zhi Men
 18818|1|x-jat|Arafou Otoko no Isekai Tsuuhan
+18818|2|x-jat|Arafou Otoko no Isekai Tsuuhan Seikatsu
 18818|3|x-jat|arafou tsuuhan
 15353|3|x-jat|aragne movie 2
 12898|1|x-jat|Aragne no Mushikago
@@ -3319,6 +3320,7 @@
 2576|3|x-jat|ARMS2
 11024|4|ja|around
 11024|1|x-jat|Around
+18818|2|x-jat|Around 40 Otoko no Isekai Tsuuhan Seikatsu
 2706|2|en|Around the World in Eighty Days
 2706|4|en|Around the World with Willy Fog
 14292|4|ja|ARP Backstage Pass
@@ -6795,6 +6797,8 @@
 10988|1|x-jat|By Your Side
 17723|1|x-jat|Bye Bye, Earth
 17723|4|en|Bye Bye, Earth
+18862|1|x-jat|Bye Bye, Earth (2025)
+18862|2|en|Bye Bye, Earth (2025)
 9264|2|x-unk|Byeol byeol i-ya-gi 2 - Yeo-seot bat-kkal moo-ji-gae
 5321|1|x-kot|Byeolnala Samchongsa
 5081|4|cs|Byl jednou jeden vesmír
@@ -15480,6 +15484,8 @@
 8683|1|x-jat|Fugue no Gihou
 18712|3|x-jat|fugukan
 18712|1|x-jat|Fuguu-shoku "Kanteishi" ga Jitsu wa Saikyou Datta
+18712|2|x-jat|Fuguu-shoku [Kanteishi] ga Jitsu wa Saikyou Datta
+18712|2|x-jat|Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta
 8682|1|x-jat|Fuichin-san
 7060|1|x-jat|Fujiko F. Fujio Anime Special: SF Adventure - Time-Patrol Bon
 7071|1|x-jat|Fujiko F. Fujio: Sukoshi Fushigi Tanpen Theater
@@ -44013,6 +44019,7 @@
 18725|2|x-jat|Sentai Dai Shikkaku 2
 18725|2|x-jat|Sentai Dai Shikkaku Season 2
 17703|2|x-jat|Sentai Daishikkaku
+18725|2|x-jat|Sentai Daishikkaku (2025)
 12572|1|x-jat|Sentai Hero Sukiyaki Force: Gunma no Heiwa o Negau Season
 13716|1|x-jat|Sentai Hero Sukiyaki Force: Gunma no Heiwa o Negau Season - E, Mata?
 18809|1|x-jat|Sentai Red Isekai de Boukensha ni Naru
@@ -48874,6 +48881,7 @@
 18707|2|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru Season 2
 18026|2|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta
 17569|1|x-jat|Tensei Oujo to Tensai Reijou no Mahou Kakumei
+17702|2|x-jat|Tensei Shitara Dai Nana Ōji Datta no de, Kimama ni Majutsu o Kiwamemasu
 17702|1|x-jat|Tensei Shitara Dai Nana Ouji Datta no de, Kimama ni Majutsu o Kiwamemasu
 18694|1|x-jat|Tensei Shitara Dai Nana Ouji Datta no de, Kimamani Majutsu o Kiwamemasu 2
 17702|2|x-jat|Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu
@@ -49291,7 +49299,7 @@
 679|4|en|The Cat Returns
 679|2|en|The Cat Returns the Favor
 679|2|en|The Cat`s Repayment
-18659|2|en|The Charm of Soul Pets
+18659|4|en|The Charm of Soul Pets
 9065|2|en|The Cherry Tree
 14930|2|en|The Chinese Standards
 14931|2|en|The Chinese Standards Season 2
@@ -62658,6 +62666,7 @@
 386|4|ar|سيف النار
 8692|4|ar|سيف النجاة
 8376|2|fa|سی به توان 3
+15373|2|ar|شارب بعيد
 14257|4|ar|شارلوك كابوكيتشو
 617|4|ar|شارلوك هولمز
 3408|2|ar|شانا
@@ -67421,6 +67430,7 @@
 785|4|ja|アラビアンナイト シンドバットの冒険
 1779|4|ja|アラビアンナイト シンドバッドの冒険
 18818|4|ja|アラフォー男の異世界通販
+18818|2|ja|アラフォー男の異世界通販生活
 18818|3|ja|アラフォー通販
 14212|4|ja|あらら
 11083|4|ja|アラルガンド The Animation
@@ -72078,6 +72088,7 @@
 2465|4|ja|ハイヌウェレ 収穫の夜
 417|4|ja|はいぱーぽりす
 17723|4|ja|ばいばい, アース
+18862|4|ja|ばいばい, アース (2025)
 11533|2|ja|はいふり
 15120|4|ja|バイブリー
 11638|2|ja|ハイブリッド ハート
