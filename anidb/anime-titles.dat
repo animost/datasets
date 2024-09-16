@@ -1,4 +1,4 @@
-# created: Sat Sep 14 03:00:02 2024
+# created: Sun Sep 15 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -716,6 +716,8 @@
 853|3|en|7o7
 14507|4|ja|7SEEDS
 15229|4|ja|7SEEDS (2020)
+17355|3|x-jat|7sins 4knights
+18558|3|x-jat|7sins 4knights 2
 17702|3|en|7th shota
 18164|3|en|7th time loop
 18164|4|en|7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!
@@ -6522,6 +6524,7 @@
 17025|4|en|Bubble
 17025|4|pl|Bubble
 18625|1|x-jat|Bubble de House de *** The Animation
+18625|2|x-jat|Bubble de House de OOO The Animation
 535|4|de|Bubblegum Crash
 535|4|fr|Bubblegum Crash
 535|4|pt|Bubblegum Crash - Os Cavaleiros Sabre
@@ -6799,6 +6802,8 @@
 17723|4|en|Bye Bye, Earth
 18862|1|x-jat|Bye Bye, Earth (2025)
 18862|2|en|Bye Bye, Earth (2025)
+18862|2|x-jat|Bye Bye, Earth Season 2
+17723|3|x-jat|bye2earth
 9264|2|x-unk|Byeol byeol i-ya-gi 2 - Yeo-seot bat-kkal moo-ji-gae
 5321|1|x-kot|Byeolnala Samchongsa
 5081|4|cs|Byl jednou jeden vesmír
@@ -21276,6 +21281,7 @@
 4104|2|x-jat|Hoshi wo Katta Hi
 8073|2|x-jat|Hoshi wo Ou Kodomo
 14200|1|x-jat|Hoshiai no Sora
+18291|2|x-jat|Hoshifuru Oukoku no Nina
 17551|1|x-jat|Hoshigari Hime no Bouken
 13067|2|x-jat|Hoshiiro Girl Drop
 8166|3|x-jat|hoshikaka
@@ -25723,6 +25729,7 @@
 8367|3|x-jat|kimiboku
 6485|1|x-jat|Kimihagu
 6485|4|de|Kimihagu
+18344|3|x-jat|kimihameidosama
 15414|3|x-jat|kimikana
 5276|3|x-jat|kimikiss
 5276|1|x-jat|KimiKiss Pure Rouge
@@ -32488,6 +32495,7 @@
 570|4|es|Millennium Actress
 570|4|de|Millennium Actress
 570|4|en|Millennium Actress
+570|4|pt|Millennium Actress - A Chave da Vida
 570|2|en|Millennium Actress Chiyoko
 6130|4|en|Millennium Old Journal: The Tale of Genji
 17541|2|en|Millenniums Of Warring States
@@ -33203,7 +33211,7 @@
 3088|2|it|Molletta il terribile
 1737|2|en|Molly Star-Racer
 18651|2|en|Mom Im Sorry
-18651|2|en|Mom, I`m Sorry
+18651|4|en|Mom, I`m Sorry
 15661|2|en|Mom`s Friend Caught Me Stroking Myself.
 13513|2|en|Moment by Moment
 18600|1|x-jat|Momentary Lily
@@ -34385,6 +34393,7 @@
 11163|3|x-jat|nagatoyuki ova
 10815|3|x-jat|nagatoyukichan
 11163|3|x-jat|nagatoyukichan ova
+18498|2|x-jat|Nageki no Bourei ha Intai Shitai
 18498|1|x-jat|Nageki no Bourei wa Intai Shitai
 158|1|x-jat|Nageki no Kenkou Yuuryouji
 9387|1|x-jat|Nagi no Asukara
@@ -45173,6 +45182,7 @@
 9125|1|x-jat|Short Peace
 9125|4|en|Short Peace
 18405|4|en|Shoshimin: How to Become Ordinary
+18864|2|en|Shoshimin: How to Become Ordinary (2025)
 16031|3|x-jat|shosho
 9894|1|x-zht|Shou Hu Zhe Sen Lin
 6834|1|x-jat|Shou-chan no Bouken
@@ -45247,6 +45257,7 @@
 2412|1|x-jat|Shouri Toushu
 11129|1|x-jat|Shousei Shikisai Gensou
 18405|1|x-jat|Shoushimin Series
+18864|1|x-jat|Shoushimin Series (2025)
 10383|1|x-jat|Shouta no Sushi: Kokoro ni Hibiku Shari no Aji
 3610|1|x-jat|Shouwa Ahozoushi Akanuke Ichiban!
 10773|1|x-jat|Shouwa Genroku Rakugo Shinjuu
@@ -54965,6 +54976,7 @@
 16470|1|x-zht|Xi Yang Yang Yu Hui Tailang: Yichu Da Maoxian
 16481|1|x-zht|Xi Yang Yang Yu Hui Tailang: Yiguo Da Yingjiu
 16472|1|x-zht|Xi Yang Yang Yu Hui Tailang: Yuanshi Shijie Lixian Ji
+18863|1|x-zht|Xi Yangyang Yu Hui Tailang: Xi Qi Yangyang Guo She Nian
 17964|1|x-zht|Xi Yangyang Yu Hui Tailang: Yang Nian Xi Yangyang
 13562|1|x-jat|Xi You Ji
 17855|1|x-zht|Xi You Ji Zhi Qi Shi Er Bian
@@ -59592,6 +59604,7 @@
 2169|2|ru|Небо Ирии, или лето НЛО
 1540|4|uk|Небо і Земля
 2570|4|uk|Невдалий Виклик
+9280|2|ru|Неверные жёны
 4339|2|ru|Неверный путь
 9304|2|bg|Невероятните приключения на Джо-Джо (2012)
 10206|2|bg|Невероятните приключения на Джо-Джо и звездните кръстоносци
@@ -77770,6 +77783,7 @@
 16483|4|zh-Hans|喜羊羊与灰太狼之决战次时代
 16472|4|zh-Hans|喜羊羊与灰太狼之原始世界历险记
 16476|4|zh-Hans|喜羊羊与灰太狼之发明大作战
+18863|4|zh|喜羊羊与灰太狼之喜气羊羊过蛇年
 16473|4|zh-Hans|喜羊羊与灰太狼之嘻哈闯世界
 16477|4|zh-Hans|喜羊羊与灰太狼之奇幻天空岛
 16471|4|zh-Hans|喜羊羊与灰太狼之妈妈乐疯狂
@@ -79493,6 +79507,7 @@
 9419|4|zh-Hans|小小大叔
 9|4|zh-Hans|小小雪精灵
 18405|4|ja|小市民シリーズ
+18864|4|ja|小市民シリーズ (2025)
 18405|4|zh-Hans|小市民系列
 6062|3|ja|小恋
 8997|4|zh-Hans|小恐龙阿贡
@@ -83442,6 +83457,7 @@
 12327|4|zh-Hans|清恋
 12758|4|ja|清楚で真面目な彼女が, 最凶ヤリサーに勧誘されたら...? THE ANIMATION
 2693|2|zh-Hans|清純女教師
+308|2|ja|清純看護婦学院
 308|4|ja|清純看護学院 新人ナース"祐未"恥虐の看護実習
 308|2|zh-Hans|清纯看护学院
 15963|4|zh-Hans|渔港的肉子酱
@@ -87603,7 +87619,6 @@
 3624|4|ja|鉄仮面を追え 「ダルタニャン物語」より
 5197|4|ja|鉄子の旅
 567|4|ja|鉄拳
-17577|1|x-jat|鉄拳 : Bloodline
 8414|4|ja|鉄拳 BLOOD VENGEANCE
 3563|4|ja|鉄拳チンミ
 7760|4|ja|鉄火のマキちゃんと金のかまめしどん
@@ -88104,6 +88119,7 @@
 5630|4|ja|隠の王
 8582|4|ja|隣の野郎
 15267|4|zh-Hant|隱瞞之事
+608|2|ja|隷奴市場
 2379|4|ja|隷嬢キャスター ~淫虐の罠~
 1606|4|ja|隷従学園
 6733|4|ja|雀のお宿
