@@ -1,4 +1,4 @@
-# created: Sun Sep 15 03:00:02 2024
+# created: Mon Sep 16 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5985,6 +5985,7 @@
 14416|2|x-jat|Boku no Hero Academia 4
 15484|2|x-unk|Boku no Hero Academia 5th Season
 17931|2|x-jat|Boku no Hero Academia 7th Season
+17356|2|x-jat|Boku no Hero Academia HLA
 12344|2|x-jat|Boku no Hero Academia OVA
 12344|2|en|Boku no Hero Academia OVA (2016)
 12233|2|x-jat|Boku no Hero Academia S2
@@ -5999,9 +6000,11 @@
 13633|1|x-jat|Boku no Hero Academia the Movie: Futari no Hero
 15873|1|x-jat|Boku no Hero Academia the Movie: World Heroes` Mission
 18150|1|x-jat|Boku no Hero Academia the Movie: You`re Next
+17356|2|x-jat|Boku no Hero Academia: Hero League Baseball
 14776|2|x-jat|Boku no Hero Academia: Heroes Rising
 15672|1|x-jat|Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren
 18199|2|ja|Boku no Hero Academia: UA Heroes Battle
+17356|2|x-jat|Boku no Hero Academia: Warae! Jigoku no You ni
 18199|1|x-jat|Boku no Hero Academia: Yuuei Heroes Battle
 9522|1|x-jat|Boku no Imouto wa "Osaka Okan"
 9522|2|x-jat|Boku no Imouto wa Osaka Okan
@@ -9917,8 +9920,11 @@
 12381|4|ja|DAYS (2017)
 12381|4|zh-Hans|DAYS OAD
 15033|4|en|Days of Urashimasakatasen
+12621|3|x-jat|Days OVA
 17529|4|en|Days with My Stepsister
 12621|2|ja|DAYS 東院学園編
+12621|2|x-jat|Days: Touin Gakuen Ikusa!
+12621|2|x-jat|Days: Touin Gakuen-sen!
 12621|1|x-jat|Days: Touin Gakuensen!
 12621|4|ja|DAYS東院学園戦!
 14020|1|x-jat|Daze
@@ -20348,6 +20354,7 @@
 1217|4|es-419|Héroes al Rescate
 15859|2|en|Heroes Don`t Bi-Bi
 13992|4|es|Héroes humildes
+17356|2|en|Heroes League Baseball
 14333|1|x-jat|Heroes: Battle Disk Densetsu
 14333|4|en|Heroes: Legend of Battle Disks
 14333|2|en|Heroes: Legend of the Battle Disks
@@ -20888,6 +20895,8 @@
 33|3|x-jat|HL
 835|3|x-jat|HLA
 104|4|cs|Hlasy z hvězd
+17356|3|x-jat|HLB
+17356|2|x-jat|HLB: Hero League Baseball
 2118|2|x-jat|HLFOVA
 598|3|x-jat|HLOVA
 2118|3|x-jat|hltf
@@ -25721,7 +25730,7 @@
 14465|1|x-jat|Kimi to, Nami ni Noretara
 17131|1|x-jat|Kimi wa Houkago Insomnia
 15414|1|x-jat|Kimi wa Kanata
-18344|1|x-jat|Kimi wa Meido-sama
+18344|1|x-jat|Kimi wa Meido-sama.
 12839|1|x-jat|Kimi wa Tomodachi
 17013|1|x-jat|Kimi wa Yasashiku Netorareru The Animation
 16707|3|x-jat|kimiai
@@ -26620,6 +26629,7 @@
 13317|2|en|Kono Subarashii Sekai ni Shukufuku o! 2 Episode 11
 13317|1|x-jat|Kono Subarashii Sekai ni Shukufuku o! 2: Kono Subarashii Geijutsu ni Shukufuku o!
 17431|1|x-jat|Kono Subarashii Sekai ni Shukufuku o! 3
+18865|1|x-jat|Kono Subarashii Sekai ni Shukufuku o! 3 OVA
 11854|2|en|Kono Subarashii Sekai ni Shukufuku o! Episode 11
 11854|1|x-jat|Kono Subarashii Sekai ni Shukufuku o! Kono Subarashii Choker ni Shukufuku o!
 13310|1|x-jat|Kono Subarashii Sekai ni Shukufuku o! Kurenai Densetsu
@@ -26627,6 +26637,7 @@
 11261|2|x-jat|Kono Subarashii Sekai ni Shukufuku wo!
 11992|2|x-jat|Kono Subarashii Sekai ni Shukufuku wo! 2
 17431|2|x-jat|Kono Subarashii Sekai ni Shukufuku wo! 3
+18865|2|x-jat|Kono Subarashii Sekai ni Shukufuku wo! 3 OVA
 12693|1|x-jat|Kono Yo no Hate de Koi o Utau Shoujo Yu-no
 11735|3|x-jat|konobi
 8607|3|x-jat|konodan s1
@@ -26659,6 +26670,7 @@
 13317|4|en|Konosuba: God`s Blessing on This Wonderful World! 2 God`s Blessing on These Wonderful Works of Art!
 13317|2|en|Konosuba: God`s Blessing on This Wonderful World! 2 God`s Blessing on This Wonderful Work of Art!
 17431|4|en|Konosuba: God`s Blessing on This Wonderful World! 3
+18865|2|en|Konosuba: God`s Blessing on This Wonderful World! 3 OVA
 11854|4|en|Konosuba: God`s Blessing on This Wonderful World! God`s Blessing on This Wonderful Choker!
 11992|4|pt-BR|KONOSUBA! 2 As bençãos de Deus neste mundo maravilhoso!
 13310|4|de|Konosuba! Legend of Crimson
@@ -44652,6 +44664,7 @@
 16029|1|x-jat|Shikkaku Mon no Saikyou Kenja
 16029|3|x-jat|shikkakumon
 16029|2|x-jat|Shikkakumon no Saikyou Kenja
+16029|2|x-jat|Shikkakumon no Saikyoukenja
 12547|1|x-jat|Shikkoku no Shaga The Animation
 17321|1|x-zht|Shikong Zhi Xi
 15721|1|x-jat|Shikoyaka naru Toki mo Hameru Toki mo
@@ -52759,6 +52772,7 @@
 13034|1|x-jat|Uma Musume: Pretty Derby
 17212|2|en|Uma Musume: Pretty Derby - 1st Anniversary Special Animation
 17351|1|x-jat|Uma Musume: Pretty Derby - Road to the Top
+18359|2|x-jat|Uma Musume: Pretty Derby - Shin Jidai no Tobira
 18359|1|x-jat|Uma Musume: Pretty Derby - Shinjidai no Tobira
 17212|1|x-jat|Uma Musume: Pretty Derby (2022)
 15739|1|x-jat|Uma Musume: Pretty Derby Season 2
@@ -55348,6 +55362,7 @@
 17637|1|x-jat|Yamada-kun to Lv999 no Koi o Suru
 10683|1|x-jat|Yamada-kun to Nananin no Majo
 10955|1|x-jat|Yamada-kun to Nananin no Majo (2015)
+10955|2|x-jat|Yamadakun to Nananin no Majo
 10683|2|x-jat|Yamadakun to Nananin no Majo OAD
 370|3|en|Yamadas
 12597|1|x-jat|Yamaguchi-san Chi no Tsutomu-kun
@@ -69554,6 +69569,7 @@
 11992|4|ja|この素晴らしい世界に祝福を! 2
 13317|4|ja|この素晴らしい世界に祝福を! 2 この素晴らしい芸術に祝福を!
 17431|4|ja|この素晴らしい世界に祝福を! 3
+18865|4|ja|この素晴らしい世界に祝福を! 3 OVA
 11854|4|ja|この素晴らしい世界に祝福を! この素晴らしいチョーカーに祝福を!
 13310|4|ja|この素晴らしい世界に祝福を! 紅伝説
 11735|3|ja|この美
