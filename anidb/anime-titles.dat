@@ -1,4 +1,4 @@
-# created: Mon Sep 16 03:00:02 2024
+# created: Tue Sep 17 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -9784,6 +9784,12 @@
 3130|4|en|Dark Love
 18777|1|x-jat|Dark Machine
 18777|4|ja|Dark Machine
+18869|6|ja|DARK MOON -黒の月:月の祭壇-
+18869|2|x-kot|DARK MOON: Dal-ui Jedan
+18869|2|en|Dark Moon: The Blood Altar
+18869|2|en|DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN
+18869|2|x-jat|Dark Moon: Tsuki no Saidan
+18869|4|ko|DARK MOON: 달의 제단
 2920|2|en|Dark Myth
 8229|4|fr|Dark Rabbit
 4730|2|en|Dark Sea, Moon Shadow
@@ -11210,6 +11216,7 @@
 4763|4|es-419|Dino Rey
 4665|2|en|Dino-Planet
 2433|1|x-jat|Dinobreaker
+13051|2|pt|DinoCavaleiros
 14927|4|pl|Dinołaczka
 15574|4|pl|Dinołaczka (2020)
 15962|1|x-jat|Dinosaur Biyori
@@ -23039,6 +23046,7 @@
 16441|1|x-jat|Isekai Yakkyoku
 17242|1|x-jat|Isekai Yarisaa
 18295|1|x-jat|Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu
+18295|2|x-jat|Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu
 13757|3|x-jat|isekaimaou
 15493|3|x-jat|isekaimaou s2
 15918|3|x-jat|isekaimeikyuu
@@ -24779,6 +24787,7 @@
 9180|1|x-zht|Kao An
 17555|1|x-zht|Kao Ni La! Zhanshen Xitong
 1088|1|x-jat|Kao no Nai Tsuki
+18867|1|x-jat|Kaoru Hana wa Rin to Saku
 16930|1|x-jat|Kaoru no Taisetsu na Mono
 1088|2|x-jat|Kaotsuki
 516|2|ja|Kapital des Kiikens
@@ -25082,6 +25091,7 @@
 13873|1|x-jat|Kekkero Kee
 1867|4|en|Kekko Kamen
 12838|1|x-jat|Kekkon Soudan Sho
+17984|2|x-jat|Kekkon suru tte, Hontou desu ka
 17984|1|x-jat|Kekkon Surutte, Hontou Desuka
 17826|1|x-jat|Kekkon Yubiwa Monogatari
 18559|1|x-jat|Kekkon Yubiwa Monogatari 2
@@ -27154,6 +27164,7 @@
 17204|1|x-jat|Kuro no Shoukanshi
 10201|2|x-jat|Kuro no Su
 10201|2|x-jat|Kuro no Sumika Chronus
+18869|1|x-jat|Kuro no Tsuki: Tsuki no Saidan
 5924|1|x-jat|Kuro Nyago
 6048|2|x-jat|Kuro Shitsuji
 9478|1|x-jat|Kuro to Kin no Akanai Kagi.
@@ -30647,6 +30658,7 @@
 15952|3|x-jat|mahouka: alt
 17098|3|x-jat|mahouka: zokuhen
 15132|3|x-jat|mahouka2
+13916|3|x-jat|mahouritsu
 8821|3|x-jat|mahoushoujolyricalnanohaas movie
 458|2|x-jat|Mahoutsukai ni Taisetsu na Koto
 5830|2|x-jat|Mahoutsukai ni Taisetsu na Koto: Natsu no Sora
@@ -31568,6 +31580,7 @@
 2237|2|es|Maxinger X
 16001|4|ja|May
 16001|1|x-jat|May
+18868|2|en|May I Ask for One Final Thing?
 6100|4|en|May`s Hot Night
 1351|4|nl|Maya de Bij
 1351|4|fr|Maya l`abeille
@@ -33790,6 +33803,7 @@
 13916|1|x-jat|Muhyo to Roji no Mahouritsu Soudan Jimusho
 14953|1|x-jat|Muhyo to Roji no Mahouritsu Soudan Jimusho (2020)
 13916|2|x-jat|Muhyo to Rouji no Mahouritsu Soudan Jimusho
+14953|2|x-jat|Muhyo to Rouji no Mahouritsu Soudan Jimusho (2020)
 14953|2|x-unk|Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season
 10322|4|cs|Můj přítel Bernard
 303|4|cs|Můj soused Totoro
@@ -34405,7 +34419,6 @@
 11163|3|x-jat|nagatoyuki ova
 10815|3|x-jat|nagatoyukichan
 11163|3|x-jat|nagatoyukichan ova
-18498|2|x-jat|Nageki no Bourei ha Intai Shitai
 18498|1|x-jat|Nageki no Bourei wa Intai Shitai
 158|1|x-jat|Nageki no Kenkou Yuuryouji
 9387|1|x-jat|Nagi no Asukara
@@ -37215,7 +37228,7 @@
 15557|1|x-jat|Ore dake Haireru Kakushi Dungeon
 15557|2|x-jat|Ore Dake Haireru Kakushi Dungeon: Kossori Kitaete Sekai Saikyou
 17495|1|x-jat|Ore dake Level Up na Ken
-18576|1|x-jat|Ore dake Level Up na Ken Season 2: Arise from the Shadow
+18576|1|x-jat|Ore dake Level Up na Ken: Arise from the Shadow
 13763|1|x-jat|Ore ga Kanojo o ***su Wake
 13763|2|x-jat|Ore ga Kanojo o Okasu Wake
 13763|2|ja|Ore ga Mei Kanojo wo Okasu Wake
@@ -39863,6 +39876,7 @@
 2686|4|en|Prefectural Earth Defense Force
 18178|2|en|Pregnancy Club
 18609|2|en|Pregnancy Officer
+13051|2|en|Prehistoric Warriors
 241|4|it|Prendi il mondo e vai
 7|4|tr|Prenses Mononoke
 516|2|tr|Prenses Tutu
@@ -41352,7 +41366,6 @@
 679|4|ro|Regatul Pisicilor
 92|4|ro|Regele Șaman
 15596|4|ro|Regele șaman (2021)
-18647|1|x-jat|Reginetta-san no Bouken
 5911|3|x-jat|Regios
 5911|2|lt|Regios - miestas po kiautu
 14716|2|es-419|Registro de Criaturas Fantásticas
@@ -41672,6 +41685,7 @@
 10436|1|x-jat|Right Places: Sono Toki, Boku no Irubeki Basho
 10436|2|en|Right Places: Where I Was Meant To Be At That Time
 6561|4|de|Righteous Ninja Haruka
+18647|1|x-jat|Riginetta-san no Bouken
 15210|1|x-jat|Rikaisha
 14590|1|x-jat|Rikei ga Koi ni Ochita no de Shoumei Shite Mita.
 15788|1|x-jat|Rikei ga Koi ni Ochita no de Shoumei Shite Mita. Heart
@@ -42537,9 +42551,11 @@
 12923|2|en|SAI: Part 1 / Revolving... to the Core
 10220|1|x-kot|Saibi
 2204|2|x-unk|Saibôgu 009
+18868|1|x-jat|Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka
 5135|1|x-jat|Saigo no Door o Shimero!
 16261|1|x-jat|Saihate no Paladin
 17078|1|x-jat|Saihate no Paladin: Tetsusabi no Yama no Ou
+18868|3|x-jat|saihito
 11233|1|x-jat|Saijaku Muhai no Bahamut
 17712|1|x-jat|Saijaku Tamer wa Gomi Hiroi no Tabi o Hajimemashita.
 17712|2|x-jat|Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.
@@ -46030,7 +46046,7 @@
 11545|4|es-419|Soldados Valientes
 5261|1|x-jat|Soliton no Akuma
 17495|4|en|Solo Leveling
-18576|4|en|Solo Leveling Season 2: Arise from the Shadow
+18576|4|en|Solo Leveling: Arise from the Shadow
 2858|3|x-jat|solty
 2858|1|x-jat|Solty Rei
 2858|4|de|Solty Rei
@@ -48090,6 +48106,7 @@
 2690|1|x-jat|Taiho Shichau zo: You`re Under Arrest
 438|1|x-jat|Taiho Shichau zo: You`re Under Arrest (1996)
 5234|2|x-jat|Taiho Shichauzo Full Throttle
+993|2|x-jat|Taiho Shichauzo The Movie
 6691|1|x-jat|Taiiku Day
 2838|2|en|Taiko Drum Master
 2838|1|x-jat|Taiko no Tatsujin
@@ -49607,6 +49624,7 @@
 15617|2|en|The Founder of Diabolism Q
 9115|1|x-jat|The Four Seasons
 6695|2|en|The Foxes of Chironup Island
+18867|2|en|The Fragrant Flower Blooms with Dignity
 6919|2|en|The Frog`s Dream
 4408|1|x-jat|The Frogman Show
 17295|4|en|The Fruit of Evolution 2: Before I Knew It, My Life Had It Made
@@ -53672,6 +53690,7 @@
 1492|2|en|Virgin in the School Uniform
 870|2|en|Virgin Night
 870|1|x-jat|Virgin Night
+18866|1|x-jat|Virgin Punk
 1627|4|en|Virgin Touch
 11223|3|x-jat|virginsoul
 1647|1|x-jat|Virtua Fighter
@@ -67738,6 +67757,7 @@
 9386|4|ja|うーさーのその日暮らし
 10998|4|ja|うーさーのその日暮らし 夢幻編
 10038|4|ja|うーさーのその日暮らし 覚醒編
+18866|4|ja|ヴァージン・パンク
 12138|4|ja|ヴァイオレット・エヴァーガーデン
 14840|4|ja|ヴァイオレット・エヴァーガーデン 外伝~永遠と自動手記人形~
 583|5|ja|ヴァイス クロイツ
@@ -75953,7 +75973,7 @@
 13763|4|ja|俺が姪[かのじょ]を○す理由[わけ]
 13763|2|ja|俺が姪を○す理由
 17495|4|ja|俺だけレベルアップな件
-18576|4|ja|俺だけレベルアップな件 Season 2 -Arise from the Shadow-
+18576|4|ja|俺だけレベルアップな件 -Arise from the Shadow-
 15557|4|ja|俺だけ入れる隠しダンジョン
 8112|4|ja|俺たちに翼はない -under the innocent sky.
 8351|4|ja|俺たちに翼はない -under the innocent sky. 肌色率九割増
@@ -76371,6 +76391,7 @@
 17695|4|ja|冒険者になりたいと都に出て行った娘がSランクになってた
 585|4|ja|冒険遊記プラスターワールド
 40|2|zh|冒險少女娜汀亞
+18868|3|ja|最ひと
 18592|4|ja|最凶の支援職【話術士】である俺は世界最強クランを従える
 6968|4|zh-Hans|最后大魔王
 581|2|zh-Hans|最后流亡
@@ -76396,6 +76417,7 @@
 16883|4|zh-Hans|最强蜗牛x不速之客
 10005|4|zh-Hans|最强银河 究极ZERO ～Battle Spirits～
 17159|4|zh-Hans|最强阴阳师的异世界转生记
+18868|4|ja|最後にひとつだけお願いしてもよろしいでしょうか
 5135|4|ja|最後のドアを閉めろ!
 15453|4|ja|最後の召喚師
 6968|2|zh-Hant|最後大魔王
@@ -86444,6 +86466,7 @@
 15988|4|zh-Hans|薇薇 -萤石眼之歌-
 15731|4|ja|薔薇王の葬列
 15731|2|zh-Hant|薔薇王的葬列
+18867|4|ja|薫る花は凛と咲く
 17870|4|ja|薬屋のひとりごと
 18562|4|ja|薬屋のひとりごと (2025)
 5631|4|ja|薬師寺涼子の怪奇事件簿
@@ -89350,6 +89373,7 @@
 17204|4|ja|黒の召喚士
 11117|4|ja|黒の教室
 159|4|ja|黒の断章
+18869|4|ja|黒の月: 月の祭壇
 10201|2|ja|黒の栖 ―クロノス―
 10201|4|ja|黒の栖[クロノス]
 8681|3|ja|黒バス
