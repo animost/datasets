@@ -1,4 +1,4 @@
-# created: Tue Sep 17 03:00:01 2024
+# created: Wed Sep 18 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4475,8 +4475,10 @@
 16015|1|x-jat|Bangs
 15853|2|pt|Banido da Festa do Herói, Decidi Viver uma Vida Tranquila no Campo
 15853|2|en|Banished from the Brave Man`s Group, I Decided to Lead a Slow Life in the Back Country.
+17693|2|en|Banished from the Hero`s Party Season 2
 15853|4|en|Banished from the Hero`s Party, I Decided to Live a Quiet Life in the Countryside
 17693|4|en|Banished from the Hero`s Party, I Decided to Live a Quiet Life in the Countryside 2nd
+17693|2|en|Banished from the Hero`s Party, I Decided To Live A Quiet Life In The Countryside Part Season 2
 15853|2|en|Banished from the Heroes` Party
 4|4|en|Banner of the Stars
 5|2|en|Banner of the Stars 2
@@ -8934,7 +8936,7 @@
 219|2|es|Cowboy Bebop: la película
 219|4|es-419|Cowboy Bebop: La Película
 219|2|es|Cowboy Bebop: llamando a las puertas del cielo
-219|4|pl|Cowboy Bebop: Pukając do nieba bram
+219|2|pl|Cowboy Bebop: Pukając do nieba bram
 219|1|x-jat|Cowboy Bebop: Tengoku no Tobira
 4327|3|x-jat|Coyote
 16901|1|x-jat|Coyote no Kubikazari
@@ -14687,6 +14689,7 @@
 9977|4|vi|Fate/stay night: Vô hạn kiếm giới
 18093|1|x-jat|Fate/Strange Fake
 18093|4|ja|Fate/strange Fake
+18093|4|en|Fate/Strange Fake
 17636|4|de|Fate/strange Fake -Whispers of Dawn-
 17636|4|en|Fate/Strange Fake: Whispers of Dawn
 8160|4|fr|Fate/Zero
@@ -21888,6 +21891,7 @@
 13698|2|en|I Want You To Make a Disgusted Face and Show Me Your Underwear
 14259|2|en|I Want You To Make a Disgusted Face and Show Me Your Underwear 2
 10729|2|en|I Was Abducted by an Elite All-Girls School as a Sample Commoner
+17693|2|en|I Was Kicked out of the Hero`s Party Because I Wasn`t a True Companion so I Decided to Have a Slow Life at the Frontier 2nd
 10729|2|en|I Was Kidnapped As a "Sample Commoner" for a Princess School
 17557|2|en|I Was Reborn as a Vending Machine
 17702|4|en|I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
@@ -26897,7 +26901,6 @@
 219|2|pl|Kowboj Bebop
 219|2|pl|Kowboj Bebop the Movie
 219|2|pl|Kowboj Bebop: Pukając do nieba bram
-219|2|pl|Kowboj Bepop
 11725|3|x-jat|koya
 11726|3|x-jat|koya: Anime Edition
 13691|2|en|Koyomi Reverse
@@ -37228,6 +37231,8 @@
 15557|1|x-jat|Ore dake Haireru Kakushi Dungeon
 15557|2|x-jat|Ore Dake Haireru Kakushi Dungeon: Kossori Kitaete Sekai Saikyou
 17495|1|x-jat|Ore dake Level Up na Ken
+18576|2|x-jat|Ore dake Level Up na Ken 2
+18576|2|x-jat|Ore dake Level Up na Ken Season 2
 18576|1|x-jat|Ore dake Level Up na Ken: Arise from the Shadow
 13763|1|x-jat|Ore ga Kanojo o ***su Wake
 13763|2|x-jat|Ore ga Kanojo o Okasu Wake
@@ -42551,6 +42556,7 @@
 12923|2|en|SAI: Part 1 / Revolving... to the Core
 10220|1|x-kot|Saibi
 2204|2|x-unk|Saibôgu 009
+18868|2|x-jat|Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshō ka
 18868|1|x-jat|Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka
 5135|1|x-jat|Saigo no Door o Shimero!
 16261|1|x-jat|Saihate no Paladin
@@ -44830,7 +44836,9 @@
 17693|3|x-jat|Shin no Nakama 2nd
 15853|1|x-jat|Shin no Nakama ja Nai to Yuusha no Party o Oidasareta node, Henkyou de Slow Life Suru Koto ni Shimashita
 17693|1|x-jat|Shin no Nakama ja Nai to Yuusha no Party o Oidasareta node, Henkyou de Slow Life Suru Koto ni Shimashita 2nd
+17693|2|x-jat|Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life Suru Koto ni Shimashita 2nd
 17693|2|x-jat|Shin no Nakama S2
+17693|2|x-jat|Shin no Nakama Season 2
 2585|1|x-jat|Shin Obake no Q-Tarou
 4748|1|x-jat|Shin Onimusha: Dawn of Dreams the Story
 7095|1|x-jat|Shin Otokogi
@@ -45138,6 +45146,7 @@
 2032|1|x-jat|Shitai o Arau The Animation
 2032|2|ja|Shitai wo Arau
 6914|1|x-jat|Shitakiri Suzume
+18870|1|x-jat|Shitasaki kara Koi Mini Anime
 10647|1|x-jat|Shitcom
 10647|4|ja|Shitcom
 5640|1|x-jat|Shitsurakuen
@@ -45698,6 +45707,8 @@
 18120|4|ja|SKYSONAR
 18120|1|x-jat|Skysonar
 4224|3|x-jat|sl
+17495|3|en|sl
+18576|3|en|sl2
 590|4|ja|SLAM DUNK
 590|1|x-jat|Slam Dunk
 590|4|fr|Slam Dunk
@@ -46046,6 +46057,9 @@
 11545|4|es-419|Soldados Valientes
 5261|1|x-jat|Soliton no Akuma
 17495|4|en|Solo Leveling
+18576|2|en|Solo Leveling 2
+18576|2|en|Solo Leveling Season 2
+18576|2|en|Solo Leveling Second Season
 18576|4|en|Solo Leveling: Arise from the Shadow
 2858|3|x-jat|solty
 2858|1|x-jat|Solty Rei
@@ -54077,6 +54091,7 @@
 3543|1|x-jat|Wankorobee
 16281|1|x-zht|Wanmei Shijie
 16892|1|x-zht|Wanmei Shijie Shuang Shi Ji
+18871|1|x-zht|Wanmei Shijie: Juchang Ban
 9794|4|fr|Wanna Be the Strongest in the World!
 9794|4|en|Wanna Be the Strongest in the World!
 11541|1|x-jat|Wanna Be.jk
@@ -59095,6 +59110,7 @@
 7307|2|ru|Легкая музыка!!
 6332|2|ru|Легко осваимая современная магия
 7009|2|ru|Леди против Дворецких!
+17473|2|ru|Ледяной парень и его спокойная коллега
 687|2|ru|Лезвие ангела
 2803|4|ru|Лезвие Ангела - Наказание
 1528|2|ru|Лезвие дракона
@@ -79348,6 +79364,7 @@
 14468|2|ja|完璧イリナお嬢様
 14468|4|ja|完璧お嬢様の私が土下座でマゾ堕ちするちょろインなワケないですわ!
 16281|4|zh-Hans|完美世界
+18871|4|zh-Hans|完美世界剧场版
 16892|4|zh-Hans|完美世界双食记
 4734|2|zh-Hans|完美小姐进化论
 6770|4|ja|宗谷物語
@@ -84825,6 +84842,7 @@
 17693|3|ja|真の仲間2nd
 15853|4|ja|真の仲間じゃないと勇者のパーティーを追い出されたので, 辺境でスローライフすることにしました
 17693|4|ja|真の仲間じゃないと勇者のパーティーを追い出されたので, 辺境でスローライフすることにしました 2nd
+17693|2|ja|真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました 第2期
 6397|4|ja|真マジンガー 衝撃! Z編 on television
 8230|4|ja|真剣で私に恋しなさい!!
 8230|3|ja|真剣恋
@@ -86090,6 +86108,7 @@
 16706|4|zh-Hans|致我深爱的每个你
 16707|4|zh-Hans|致深爱你的那个我
 16325|2|zh-Hant|與變成了異世界美少女的大叔一起冒險
+18870|4|ja|舌先から恋 ミニアニメ
 6914|4|ja|舌切雀
 15221|4|zh-Hans|舒克和贝塔
 1554|4|ja|舞-HiME
