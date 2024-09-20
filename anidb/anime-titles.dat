@@ -1,4 +1,4 @@
-# created: Wed Sep 18 03:00:02 2024
+# created: Thu Sep 19 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -525,7 +525,7 @@
 8106|4|ja|30歳の保健体育
 18114|4|ja|30歳まで童貞だと魔法使いになれるらしい
 18821|4|ja|30歳まで童貞だと魔法使いになれるらしい 特別編集版
-17984|2|en|365 Days to the Wedding
+17984|4|en|365 Days to the Wedding
 1845|2|en|37℃ Fever
 12729|2|en|3D Heaven
 13581|1|x-jat|3D Kanojo: Real Girl
@@ -1289,6 +1289,7 @@
 648|4|es|Acorazado espacial Yamato
 974|4|es|Acoso en el Instituto
 17745|1|x-jat|Acro Trip
+17745|4|en|Acro Trip
 3052|2|it|Acrobunch, la leggenda del paese magico
 3052|4|en|Acrobunch: The Quest for Treasure
 15048|2|ja|Act! Addict! Actors! Season Autumn & Winter
@@ -2237,6 +2238,7 @@
 3389|2|en|Always My Santa!
 4039|2|en|Always the Sun in My Soul
 17914|4|en|Alya Sometimes Hides Her Feelings in Russian
+18872|2|en|Alya Sometimes Hides Her Feelings in Russian Season 2
 634|3|x-jat|AM
 17611|4|en|Am I Actually the Strongest?
 11952|3|x-jat|amaama
@@ -3981,6 +3983,8 @@
 11950|4|ja|B: The Beginning
 11950|4|en|B: The Beginning
 11950|4|it|B: The Beginning
+14136|2|x-jat|B: The Beginning 2
+14136|2|x-jat|B: The Beginning Season 2
 14136|4|ja|B: The Beginning Succession
 14136|1|x-jat|B: The Beginning Succession
 11950|4|zh-Hans|B：起点
@@ -6068,6 +6072,7 @@
 6011|1|x-jat|Bokura Mangaka: Tokiwa-sou Monogatari
 4861|1|x-jat|Bokura no
 18105|1|x-jat|Bokura no Ame-iro Protocol
+18105|2|x-jat|Bokura no Ameiro Protocol
 7901|1|x-jat|Bokura no Hero
 7956|1|x-jat|Bokura no Live Kimi to no Life
 14071|1|x-jat|Bokura no Nanokakan Sensou
@@ -10214,6 +10219,7 @@
 17423|1|x-jat|Dekiru Neko wa Kyou mo Yuuutsu
 18074|2|x-jat|Dekisoko
 18074|1|x-jat|Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta no de Suki Katte ni Ikiru Koto ni Shita
+18074|2|x-jat|Dekisokonai to Yobareta Motoeiyuu wa, Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita
 4151|4|sl|Dekle, ki je skočilo skozi čas
 3692|1|x-jat|Deko Boko Friends
 17614|1|x-jat|Dekoboko Majo no Oyako Jijou
@@ -14267,6 +14273,7 @@
 12563|3|en|fag
 18438|3|en|Failure Frame
 18438|4|en|Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells
+18438|4|de|Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells
 16876|2|en|Failure Witch
 8670|4|en|Fair, then Partly Piggy
 15966|2|en|Fairies Album
@@ -21360,7 +21367,6 @@
 14386|1|x-jat|Houkago Saikoro Club
 18171|1|x-jat|Houkago Shounen Hanako-kun
 18272|1|x-jat|Houkago Shounen Hanako-kun (2024)
-18272|2|x-jat|Houkago Shounen Hanako-kun Part 2
 14827|1|x-jat|Houkago Teibou Nisshi
 2877|1|x-jat|Houkago: Nureta Seifuku
 527|1|x-jat|Houma Hunter Lime
@@ -24590,7 +24596,7 @@
 17925|1|x-jat|Kamierabi
 18334|1|x-jat|Kamierabi (2024)
 17925|4|en|KamiErabi GOD.app
-18334|2|x-jat|Kamierabi Season 2
+18334|4|en|KamiErabi God.app (2024)
 10305|1|x-jat|Kamigami no Asobi
 10305|4|es|Kamigami no Asobi
 10305|4|en|Kamigami no Asobi
@@ -24653,6 +24659,7 @@
 17783|1|x-jat|Kamonohashi Ron no Kindan Suiri
 18350|1|x-jat|Kamonohashi Ron no Kindan Suiri 2nd Season
 17783|3|x-jat|kamoron
+18350|2|x-jat|KamoRon 2
 14283|1|x-jat|Kamotori Gonbee
 1416|2|sv|Kampen om Jorden
 6685|4|en|Kampfer
@@ -24785,6 +24792,7 @@
 10161|2|en|Kantai Collection
 10161|1|x-jat|Kantai Collection: KanColle
 18026|2|x-jat|KanteiSkill
+18707|2|x-jat|KanteiSkill 2
 10526|1|x-jat|Kantoku Fuyukitodoki
 2680|1|x-jat|Kanzen Mushuusei: Sorezore no Houkago
 6317|1|x-jat|Kanzen Shouri Daiteiou
@@ -25068,6 +25076,7 @@
 11922|4|en|Keijo!!!!!!!!
 11922|4|de|Keijo!!!!!!!!
 17616|1|x-jat|Keiken Zumi na Kimi to, Keiken Zero na Ore ga, Otsukiai Suru Hanashi.
+17616|2|x-jat|Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.
 18349|1|x-jat|Keio Yugekitai: Katsugeki-hen
 6257|2|x-jat|keion
 7307|3|x-jat|keion 2
@@ -25737,6 +25746,7 @@
 17100|1|x-jat|Kimi shika Inai
 10956|1|x-jat|Kimi to Boku
 15216|1|x-jat|Kimi to Boku no Saigo no Senjou, Arui wa Sekai ga Hajimaru Seisen
+16828|2|x-jat|Kimi to Boku no Saigo no Senjou, Arui wa Sekai ga Hajimaru Seisen 2
 16828|1|x-jat|Kimi to Boku no Saigo no Senjou, Arui wa Sekai ga Hajimaru Seisen Season II
 8367|1|x-jat|Kimi to Boku.
 8875|1|x-jat|Kimi to Boku. 2
@@ -25752,7 +25762,6 @@
 8367|3|x-jat|kimiboku
 6485|1|x-jat|Kimihagu
 6485|4|de|Kimihagu
-18344|3|x-jat|kimihameidosama
 15414|3|x-jat|kimikana
 5276|3|x-jat|kimikiss
 5276|1|x-jat|KimiKiss Pure Rouge
@@ -28602,7 +28611,7 @@
 799|4|ja|Lesson XX
 12933|2|en|Lessons with Chii-chan
 17425|4|en|Let Me Check the Walkthrough First
-18498|2|en|Let This Grieving Soul Retire!
+18498|4|en|Let This Grieving Soul Retire
 11837|2|x-jat|Let You, Get You, Saru Get You
 7757|2|en|Let’s Go! Anpanman – The Amazing Naganegiman and Yakisobapanman
 1171|4|pt|Let`s & Go
@@ -31748,11 +31757,10 @@
 3051|4|en|Mecha-Doc
 12467|1|x-jat|Mecha-ude
 17627|1|x-jat|Mecha-ude (2024)
-17627|2|x-jat|Mecha-ude Full Series
+17627|4|en|Mecha-Ude: Mechanical Arms
 3051|2|x-jat|Mechadoc
 4274|1|x-jat|Mechakko Dotakon
 12467|2|en|Mechanical Arms
-17627|4|en|Mechanical Arms (2024)
 4274|2|en|Mechanical Boy Dotakon
 3051|2|x-jat|Mechanical Doctor
 8878|2|en|Mechanized Fairies
@@ -31924,6 +31932,8 @@
 14245|2|x-jat|Meisei Touch
 5760|1|x-jat|Meisou-ou Border
 10600|1|x-jat|Meisou! Underworld
+17783|4|de|Meisterdetektiv Ron Kamonohashi
+18350|4|de|Meisterdetektiv Ron Kamonohashi Staffel 2
 266|1|x-jat|Meitantei Conan
 9181|1|x-jat|Meitantei Conan Bonus File: Fantasista no Hana
 7252|1|x-jat|Meitantei Conan Magic File 2: Kudou Shin`ichi Nazo no Kabe to Kuro Lab Jiken
@@ -31997,6 +32007,7 @@
 617|2|x-jat|Meitantei Houmuzu
 10294|1|x-jat|Meitantei Rascal
 18288|1|x-jat|Meitou "Isekai no Yu" Kaitaku-ki: Arafou Onsen Mania no Tensei Saki wa, Nonbiri Onsen Tengoku Deshita
+18288|2|x-jat|Meitou "Isekai no Yu" Kaitakuki: Around 40 Onsen Mania no Tensei Saki wa, Nonbiri Onsen Tengoku deshita
 16877|1|zh|Meitounao He Bugaoxing
 2697|1|x-jat|Mejoku
 10360|2|x-jat|Mekaku City Actors
@@ -34978,7 +34989,7 @@
 3973|4|en|NEGADON - the Monster from Mars
 3973|4|cs|Negadon: Stvůra z Marsu
 18786|1|x-jat|NegaPosi Angler
-18786|2|en|Negative Positive Angler
+18786|4|en|Negative Positive Angler
 2605|3|x-jat|negi
 6151|1|x-jat|Negibouzu no Asatarou
 2605|3|x-jat|negima
@@ -36190,6 +36201,7 @@
 8667|3|x-jat|nyc s4
 12009|3|x-jat|nyc s5
 12675|3|x-jat|nyc s6
+18089|2|x-jat|nyc s7
 6185|3|x-jat|nyc2
 8286|3|x-jat|nyc3
 5029|2|en|Nymphet
@@ -42109,6 +42121,7 @@
 3542|2|en|Rose of Versailles Movie
 1297|2|de|Rosen unter Marias Obhut
 17914|3|x-jat|roshidere
+18872|3|x-jat|Roshidere S2
 17661|1|x-jat|Roshutsu-kei Mahou Joshidaisei Christhea
 17661|2|x-jat|Roshutsu-kei Mahou Joshidaisei Crystear
 285|4|it|Rossana
@@ -42151,6 +42164,7 @@
 3169|2|en|Rozen Maiden: Dreaming
 4772|4|en|Rozen Maiden: Ouverture
 4772|1|x-jat|Rozen Maiden: Ouverture
+4772|2|x-jat|Rozen Maiden: Ouvertüre
 3169|1|x-jat|Rozen Maiden: Traumend
 9508|3|x-jat|rozen2013
 3169|3|x-jat|rozenmaiden s2
@@ -42308,7 +42322,7 @@
 73|2|en|Rurouni Kenshin Tsuiokuhen
 90|2|en|Rurouni Kenshin TV
 422|2|x-jat|Rurouni Kenshin: Ishin Shishi e no Requiem
-18323|2|en|Rurouni Kenshin: Kyoto Disturbance
+18323|4|en|Rurouni Kenshin: Kyoto Disturbance
 90|1|x-jat|Rurouni Kenshin: Meiji Kenkaku Romantan
 422|1|x-jat|Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Requiem
 18323|1|x-jat|Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran
@@ -44440,6 +44454,7 @@
 8483|3|x-jat|Shana3
 8483|3|x-jat|ShanaF
 17501|3|x-jat|shanfro
+18578|2|x-jat|Shanfro 2
 6267|1|x-jat|Shangri-La
 6267|4|en|Shangri-La
 13140|1|x-jat|Shangri-La (2011)
@@ -47899,6 +47914,7 @@
 13494|4|en|Sword Art Online Alternative: Gun Gale Online
 13494|3|de|Sword Art Online Alternative: Gun Gale Online
 18116|1|x-jat|Sword Art Online Alternative: Gun Gale Online II
+18116|4|en|Sword Art Online Alternative: Gun Gale Online II
 10022|2|de|Sword Art Online EE - Die Unterwasser-Quest
 10022|4|fr|Sword Art Online Ex
 10022|4|zh|Sword Art Online Extra Edition
@@ -50135,7 +50151,7 @@
 11924|4|en|The Morose Mononokean
 14177|4|en|The Morose Mononokean II
 17688|4|en|The Most Heretical Last Boss Queen: From Villainess to Savior
-18592|2|en|The Most Notorious "Talker" Runs the World`s Greatest Clan
+18592|4|en|The Most Notorious "Talker" Runs the World`s Greatest Clan
 16987|2|en|The Most Proud of the World
 6830|4|en|The Mountain Where Old Women Are Abandoned
 18041|2|en|The Mourning Children: Nagiko and the Girls Wearing Tsurubami Black
@@ -50255,7 +50271,7 @@
 10368|2|en|The Prince of Tennis II OVAs vs Genius 10
 15536|4|en|The Prince of Tennis II: Hyotei vs. Rikkai - Game of Future
 16878|4|en|The Prince of Tennis II: U-17 World Cup
-18054|2|en|The Prince of Tennis II: U-17 World Cup Semifinal
+18054|4|en|The Prince of Tennis II: U-17 World Cup Semifinal
 4244|4|en|The Prince of Tennis OVA: The National Tournament
 8344|2|en|The Prince of Tennis: A Gift from Atobe
 5750|4|en|The Prince of Tennis: The National Tournament- Final
@@ -50502,6 +50518,7 @@
 6982|4|en|The Stingiest Man in Town
 6922|2|en|The Stolen Lump
 6702|2|en|The Stolen Lump (1929)
+14461|4|en|The Stories of Girls Who Couldn`t Be Magicians
 6975|2|en|The Story and Development of Japanese Animated Cartoons
 10729|2|en|The Story In Which I Was Kidnapped By A Young Lady’s School To Be A “Sample Of The Common People”
 6675|2|en|The Story of 15 Beautiful Girls Adrift
@@ -51318,6 +51335,7 @@
 10080|1|x-jat|Toki: Kono Hoshi no Mirai o Mitsumete
 17914|2|x-jat|Tokidoki Bosotto Roshia-go de Dereru Tonari no Alya-san
 17914|1|x-jat|Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san
+18872|1|x-jat|Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san Season 2
 17914|2|x-jat|Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san
 6441|2|lt|Tokijas: 8.0 Balų žemės drebėjimas
 1217|4|lt|Tokijo krikštatėviai
@@ -52267,6 +52285,7 @@
 17911|1|x-jat|Tsuma, Shougakusei ni Naru.
 1629|1|x-jat|Tsumamigui
 12239|1|x-jat|Tsumamigui 3 The Animation
+17911|4|en|TsumaSho
 6395|1|x-jat|Tsumiki no Ie
 13761|1|x-jat|Tsun M! Gyutto Shibatte Shidoushite The Animation
 13761|2|fr|Tsun M! Resserrons nos liens
@@ -56842,6 +56861,7 @@
 9580|2|en|Zillions of Enemy X Ignition
 13664|4|en|Zinba
 2171|2|lt|Žinių Pranešėja Etsuko
+14180|2|en|Zip Shimezo
 2535|1|x-jat|Zipang
 2120|2|tr|Zirveyi Hedefle 2! NihaiAvcı
 185|2|tr|Zirveyi Hedefle! Avcı Silah
@@ -58340,6 +58360,7 @@
 8880|2|uk|Доля/Початок II
 16198|2|ru|Дом Имаидзуми каким-то образом стал местом тусовки гяру
 7248|4|ru|Дом пяти листьев
+7139|2|ru|Дом пяти пороков
 786|2|bg|Доминион: Танкова полиция
 897|2|ru|Доминион: Танковая полиция
 150|4|ru|Домоправительница Эбитю
@@ -74836,6 +74857,7 @@
 5273|4|ja|ロザリオとバンパイア
 5873|4|ja|ロザリオとバンパイア Capu2
 17914|3|ja|ロシデレ
+18872|3|ja|ロシデレ S2
 403|4|ja|ロスト・ユニバース
 18769|4|ja|ロックは淑女の嗜みでして
 146|4|ja|ロックマンエグゼ
@@ -82142,6 +82164,7 @@
 18706|4|zh-Hans|是王者啊？第3季 有求必应星之队
 13439|4|zh-Hans|昴宿七星
 17914|4|ja|時々ボソッとロシア語でデレる隣のアーリャさん
+18872|4|ja|時々ボソッとロシア語でデレる隣のアーリャさん Season2
 4151|4|ja|時をかける少女
 2613|4|ja|時元戦国史 黒の獅士 陣内篇
 16290|4|ja|時光代理人 -LINK CLICK-
