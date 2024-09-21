@@ -1,4 +1,4 @@
-# created: Thu Sep 19 03:00:01 2024
+# created: Fri Sep 20 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5797,6 +5797,7 @@
 8148|4|fr|Blue Exorcist
 8148|4|en|Blue Exorcist
 8148|4|de|Blue Exorcist
+17786|2|en|Blue Exorcist Season 3
 18561|4|en|Blue Exorcist: Beyond the Snow Saga
 12240|4|en|Blue Exorcist: Kyoto Saga
 12574|2|en|Blue Exorcist: Kyoto Saga OVA
@@ -17078,6 +17079,7 @@
 13161|4|en|GGO Football
 13161|4|pt|GGO Football
 14462|2|en|GGO Football 2
+18116|2|x-unk|ggo2
 1003|3|x-jat|ggr
 1003|3|x-jat|ggrave
 834|3|x-jat|GGTV
@@ -56670,6 +56672,7 @@
 17190|2|x-jat|Zenryoku Usagi Season 2
 15953|4|ja|Zenryoku Yobikou 5.5 Seminar
 15953|1|x-jat|Zenryoku Yobikou 5.5 Seminar
+18547|4|en|Zenshu
 18547|1|x-jat|Zenshuu.
 1799|4|de|Zentrix
 1799|4|zh-Hans|Zentrix
@@ -60892,6 +60895,7 @@
 7206|2|bg|Съдба/Нощна битка: телевизионна репродукция
 3348|2|bg|Съдба/Под булото на нощта
 9977|2|bg|Съдба/Под булото на нощта (2014)
+9897|2|ru|Съёмочная группа
 3299|4|bg|Съседи!
 271|2|bg|Съюзът на Среброкрилите
 15364|4|ru|Сыщик-миллионер - Balance: UNLIMITED
@@ -62981,6 +62985,7 @@
 2322|4|ar|كرش جير
 2211|4|ar|كركور وحذاء السعادة
 1617|4|ar|كريستوفر كولومبوس
+12491|2|ar|كسر العادة
 1949|4|ar|كعبول
 5101|2|ar|كلاناد
 5841|2|ar|كلاناد ما بعد القصة
