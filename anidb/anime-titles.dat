@@ -1,4 +1,4 @@
-# created: Fri Sep 20 03:00:02 2024
+# created: Sat Sep 21 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -25417,6 +25417,7 @@
 777|1|x-jat|Kidou Keisatsu Patlabor
 1195|1|x-jat|Kidou Keisatsu Patlabor (1990)
 395|1|x-jat|Kidou Keisatsu Patlabor 2 the Movie
+13226|1|x-jat|Kidou Keisatsu Patlabor EZY
 777|2|x-jat|Kidou Keisatsu Patlabor Gekijouban
 1518|2|x-jat|Kidou Keisatsu Patlabor OVA
 12298|2|x-jat|Kidou Keisatsu Patlabor Reboot
@@ -38154,8 +38155,6 @@
 395|4|en|Patlabor 2 the Movie
 395|4|es-419|Patlabor 2: La Película
 537|4|fr|Patlabor 3 : WXIII
-13226|1|x-jat|Patlabor EZY
-13226|4|ja|PATLABOR EZY
 1518|4|fr|Patlabor la police mobile
 1518|4|ja|PATLABOR MOBILE POLICE
 777|2|en|Patlabor Movie 1
@@ -38337,6 +38336,10 @@
 4734|4|de|Perfect Girl Evolution
 6317|2|en|Perfect Victory Daiteiou
 16281|2|en|Perfect World
+18871|2|en|Perfect World Embers of Fire
+18871|2|en|Perfect World Movie
+18871|2|en|Perfect World Theater Edition
+18871|2|en|Perfect World: Theatrical Movie
 154|3|x-jat|perfectb
 9469|2|en|Perfectly Observed Compulsory Child-Making Permit!!
 10950|4|es-419|Perfecto Infiltrado
@@ -72363,7 +72366,6 @@
 220|4|ja|バトルファイターズ餓狼伝説
 2121|4|ja|バトルファイターズ餓狼伝説2
 8863|4|ja|バトルブレイク
-13226|2|ja|パトレイバー EZY
 537|2|ja|パトレイバー WXIII
 6651|4|ja|バトン
 7415|4|ja|はなかっぱ
@@ -79391,7 +79393,10 @@
 14468|2|ja|完璧イリナお嬢様
 14468|4|ja|完璧お嬢様の私が土下座でマゾ堕ちするちょろインなワケないですわ!
 16281|4|zh-Hans|完美世界
+18871|2|zh-Hans|完美世界之火之灰烬
 18871|4|zh-Hans|完美世界剧场版
+18871|2|zh-Hans|完美世界剧场版 火之灰烬
+18871|2|zh-Hans|完美世界剧场版（总集篇）
 16892|4|zh-Hans|完美世界双食记
 4734|2|zh-Hans|完美小姐进化论
 6770|4|ja|宗谷物語
@@ -82970,6 +82975,7 @@
 1518|4|zh-Hant|機動警察
 1518|2|ja|機動警察パトレイバー
 1195|4|ja|機動警察パトレイバー (1990)
+13226|4|ja|機動警察パトレイバー EZY
 778|4|ja|機動警察パトレイバー PATLABOR ON TELEVISION
 777|4|ja|機動警察パトレイバー PATLABOR THE MOBILE POLICE
 777|2|ja|機動警察パトレイバー 劇場版
@@ -84582,6 +84588,8 @@
 12206|4|zh-Hans|画江湖之不良人
 16314|4|zh-Hans|画江湖之不良人 IV
 17145|4|zh-Hans|画江湖之不良人 V
+12504|2|zh-Hans|画江湖之不良人 第2季
+14647|2|zh-Hans|画江湖之不良人 第3季
 12504|4|zh-Hans|画江湖之不良人II
 14647|4|zh-Hans|画江湖之不良人III
 17292|4|zh-Hans|画江湖之不良人VI
