@@ -1,4 +1,4 @@
-# created: Sat Sep 21 03:00:01 2024
+# created: Sun Sep 22 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8331,6 +8331,8 @@
 17506|4|de|City of Lost Things
 1600|4|en|City of Sin
 1600|2|en|City of Violation
+18874|4|ja|CITY THE ANIMATION
+18874|1|x-jat|City the Animation
 1481|2|en|Civil War Devil-God GoShogun
 8785|2|en|CJ7 - The Animation
 8785|2|en|CJ7, Love the Earth
@@ -13221,6 +13223,7 @@
 9037|1|x-jat|Eiga Kami-Usagi Rope: Tsuka, Natsuyasumi Rasuichitte Majissuka!?
 12456|1|x-jat|Eiga Kamisama Minarai: Himitsu no Cocotama - Kiseki o Okose Teppuru to Dokidoki Cocotama Kai
 13006|1|x-jat|Eiga Kirakira Precure A La Mode: Paris to! Omoide no Mille-Feuille!
+18873|1|x-jat|Eiga Kobayashi-san Chi no Maidragon: Samishi ga Riya no Ryuu
 10937|1|x-jat|Eiga Koe no Katachi
 13310|2|x-jat|Eiga Kono Subarashii Sekai ni Shukufuku o!
 14508|1|x-jat|Eiga Korasho no Kaitei Wakuwaku Daibouken!
@@ -22212,6 +22215,7 @@
 17472|1|x-jat|Iinchou wa Saimin Appli o Shinjiteru.
 12427|4|de|Iizuka-Senpai X Blazer - The Animation
 12427|1|x-jat|Iizuka-senpai x Blazer: Ane Kyun! yori The Animation
+12427|4|en|Iizuka`s Bangin` Blazer
 11776|1|x-jat|Ijigen Gattai Mojibakeru Z
 207|1|x-jat|Ijigen no Sekai El-Hazard
 10153|1|x-jat|Ijime wa Zettai Warui!
@@ -30728,6 +30732,7 @@
 12091|2|x-jat|Maid Dragon
 14678|3|x-jat|Maid Dragon S
 17886|2|en|Maid Education
+11245|4|en|Maid for Loving
 8506|4|en|Maid for Pleasure
 5277|3|x-jat|maid guy
 54|2|en|Maid in Hanaukyo
@@ -32762,6 +32767,7 @@
 12091|4|en|Miss Kobayashi`s Dragon Maid
 12091|4|fr|Miss Kobayashi`s Dragon Maid
 14678|4|en|Miss Kobayashi`s Dragon Maid S
+18873|2|en|Miss Kobayashi`s Dragon Maid: A Lonely Dragon Wants to Be Loved
 12091|4|it|Miss Kobayashi`s Dragon Name
 16425|4|en|Miss Kuroitsu from the Monster Development Department
 4056|4|en|Miss Machiko
@@ -37726,6 +37732,7 @@
 5072|1|x-jat|OverDrive
 15274|1|x-jat|Overflow
 15274|4|en|Overflow
+15274|4|es-419|Overflow: Desbordándose
 10816|1|x-jat|Overlord
 10816|4|ja|OVERLORD
 10816|4|en|Overlord
@@ -82059,6 +82066,7 @@
 11816|4|ja|映画 妖怪ウォッチ 空飛ぶクジラとダブル世界の大冒険だニャン!
 10680|4|ja|映画 妖怪ウォッチ 誕生の秘密だニャン!
 14754|4|ja|映画 妖怪ウォッチJam 妖怪学園Y 猫はHEROになれるか
+18873|4|ja|映画 小林さんちのメイドラゴン さみしがりやの竜
 3640|4|ja|映画 忍たま乱太郎
 14713|4|ja|映画 爆釣バーハンター 謎のバーコードトライアングル! 爆釣れ! 神海魚ポセイドン
 1320|4|ja|映画 犬夜叉 天下覇道の剣
