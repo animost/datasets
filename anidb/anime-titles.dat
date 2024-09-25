@@ -1,4 +1,4 @@
-# created: Mon Sep 23 03:00:02 2024
+# created: Tue Sep 24 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -13403,6 +13403,7 @@
 3558|4|es|El gigoló - Dochinpira
 1682|4|es|El Gladiador
 14990|4|es-419|El gran farsante
+11997|4|es-419|El gran pasaje
 264|4|es-CA|El gran suixi
 264|2|es-CA|El gran sushi
 264|2|es|El Gran Sushi
@@ -28986,6 +28987,7 @@
 10511|2|fr|Lobotomisée et soumise : une folie sans concession !
 148|3|en|LoCH
 2907|3|en|loch2
+18857|2|en|Lockdown Zone Lv. X
 1753|4|pt-BR|Locke - O Superman das Galáxias
 1753|2|pl|Locke - superczłowiek
 1753|2|pl|Locke Superczłowiek
@@ -34129,7 +34131,7 @@
 13217|4|fr|My Girlfriend Is Too Much to Handle
 17304|4|en|My Happy Marriage
 18545|2|en|My Happy Marriage (2024)
-18205|4|en|My Happy Marriage 2
+18205|4|en|My Happy Marriage (2025)
 17989|4|en|My Hashtag Does Not Shine
 10959|2|en|My Heart Wants to Shout
 5188|2|en|My Heartfelt Sympathy, Ninomiya-kun
@@ -37129,6 +37131,7 @@
 6169|1|x-jat|Ookami to Koushinryou II
 6465|1|x-jat|Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu
 17221|1|x-jat|Ookami to Koushinryou: Merchant Meets the Wise Wolf
+18876|1|x-jat|Ookami to Koushinryou: Merchant Meets the Wise Wolf 2
 7381|3|x-jat|Ookami-san
 7381|1|x-jat|Ookami-san to Shichinin no Nakama-tachi
 7381|2|tr|Ookami-san ve Yedi Arkadaşı
@@ -40472,6 +40475,8 @@
 18315|2|en|Puniru Is a Cute Slime
 18315|1|x-jat|Puniru wa Kawaii Slime
 17590|1|x-jat|Punirunes
+17590|4|en|Punirunes
+18877|1|x-jat|Punirunes: Puni 2
 2514|4|en|Punishment
 17482|2|en|Punishment 2
 17482|2|en|Punishment 2: Crazy Depaga Guidance
@@ -54221,7 +54226,7 @@
 11432|1|x-jat|Watashi no Kao
 17766|1|x-jat|Watashi no Oshi wa Akuyaku Reijou.
 17304|1|x-jat|Watashi no Shiawase na Kekkon
-18205|1|x-jat|Watashi no Shiawase na Kekkon 2
+18205|1|x-jat|Watashi no Shiawase na Kekkon (2025)
 18545|1|x-jat|Watashi no Shiawase na Kekkon: Watashi no Shiawase no Katachi
 7125|1|x-jat|Watashi no Shiranai Mesu no Kao
 7125|2|x-jat|Watashi no Shiranai Tsuma no Kao
@@ -73050,6 +73055,7 @@
 65|4|ja|ぷにぷに☆ぽえみぃ
 18315|4|ja|ぷにるはかわいいスライム
 17590|4|ja|ぷにるんず
+18877|4|ja|ぷにるんず ぷに2
 10271|4|ja|プピポー!
 11761|2|ja|ブブキ・ブランキ
 11761|4|ja|ブブキ･ブランキ
@@ -74971,7 +74977,7 @@
 11432|2|ja|ワタシノカオ
 9140|4|ja|わたしのコーヒー・サムライ ~自販機的な彼氏~
 17304|4|ja|わたしの幸せな結婚
-18205|4|ja|わたしの幸せな結婚 2
+18205|4|ja|わたしの幸せな結婚 (2025)
 18545|4|ja|わたしの幸せな結婚 わたしの幸せのかたち
 12633|4|ja|わたしの紙風船
 12599|4|ja|わたしは「とうふ」です
@@ -84193,6 +84199,7 @@
 6031|2|zh-Hans|狱·再见! 绝望老师
 5406|4|ja|狼と香辛料
 17221|4|ja|狼と香辛料 MERCHANT MEETS THE WISE WOLF
+18876|4|ja|狼と香辛料 MERCHANT MEETS THE WISE WOLF 2
 6169|4|ja|狼と香辛料II
 6465|2|ja|狼と香辛料II OVA
 6465|4|ja|狼と香辛料II 狼と琥珀色の憂鬱
