@@ -1,4 +1,4 @@
-# created: Tue Sep 24 03:00:02 2024
+# created: Wed Sep 25 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -10180,6 +10180,8 @@
 14994|4|zh-Hant|DECA - DENCE
 14994|1|x-jat|Deca-Dence
 14994|4|en|Deca-Dence
+18880|1|x-jat|Decapolice
+18880|4|ja|DECAPOLICE
 11302|4|en|December Song
 5484|2|en|Decision
 14243|2|fr|Déclencheur d’œstrus : des femmes entraînées dans la débauche
@@ -17972,6 +17974,7 @@
 4534|2|en|Goliath the Super Fighter
 4534|2|en|Goliath the Warrior
 3507|3|x-jat|golion
+3507|4|it|Golion
 3668|2|hu|Gólkirály
 12904|3|en|Goma-chan Season 2
 13838|3|en|Goma-chan Season 3
@@ -18049,6 +18052,7 @@
 1816|2|en|Gordian the Warrior
 13414|1|x-jat|Gori Papa Ikka no Nougyou wa Omoshiroi
 1480|2|en|Gorilla Force
+18879|1|x-jat|Gorilla no Kami kara Kago Sareta Reijou wa Ouritsu Kishidan de Kawaigarareru
 6573|1|x-jat|Gorillaman
 11655|1|x-jat|Goro-chan
 1210|2|pl|Górogłowa
@@ -37132,6 +37136,7 @@
 6465|1|x-jat|Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu
 17221|1|x-jat|Ookami to Koushinryou: Merchant Meets the Wise Wolf
 18876|1|x-jat|Ookami to Koushinryou: Merchant Meets the Wise Wolf 2
+18878|1|x-jat|Ookami to Koushinryou: Merchant Meets the Wise Wolf S2
 7381|3|x-jat|Ookami-san
 7381|1|x-jat|Ookami-san to Shichinin no Nakama-tachi
 7381|2|tr|Ookami-san ve Yedi Arkadaşı
@@ -46721,6 +46726,7 @@
 6465|2|en|Spice and Wolf OVA
 17221|4|en|Spice and Wolf: Merchant Meets the Wise Wolf
 17221|4|de|Spice and Wolf: Merchant Meets the Wise Wolf
+18878|4|en|Spice and Wolf: Merchant Meets the Wise Wolf Season 2
 6465|4|en|Spice and Wolf: Wolf and Amber Melancholy
 5406|2|en|spice&wolf
 5406|2|en|spice+wolf
@@ -50969,6 +50975,7 @@
 16750|1|x-zht|Tian Huang Zhan Shen
 16043|1|x-zht|Tian Mei De Yao Hen
 16757|1|x-zht|Tian Qi Ri
+18692|2|x-zht|Tian Ting Ban Zhuan Xia
 14402|1|x-zht|Tian Xing Jiu Ge
 14985|1|x-zht|Tian Xing Jiu Ge Di Er Ji
 15452|1|x-zht|Tian Yu
@@ -56521,6 +56528,7 @@
 3152|1|x-jat|Yuusha Ou GaoGaiGar Final Grand Glorious Gathering
 17444|1|x-jat|Yuusha Party o Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau
 18782|1|x-jat|Yuusha Party o Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugai Sugiru
+17444|2|x-jat|Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau
 18782|2|x-jat|Yuusha Party wo Tsuihousareta Shiro Madoushi, S Rank Boukensha ni Hirowareru - Kono Shiro Madoushi ga Kikakugai sugiru
 1819|1|x-jat|Yuusha Raideen
 2459|1|x-jat|Yuusha Shirei Dagwon
@@ -69694,6 +69702,7 @@
 11827|2|ja|コヨミモノガタリ
 13414|4|ja|ゴリパパ一家の農業はオモシロイ
 6573|4|ja|ゴリラーマン
+18879|4|ja|ゴリラの神から加護された令嬢は王立騎士団で可愛がられる
 1076|4|ja|ゴルゴ13
 18630|4|ja|ゴルゴ13 (1971)
 5746|4|ja|ゴルゴ13 (2008)
@@ -71236,6 +71245,7 @@
 10221|2|ja|デカくてHな俺の姉
 10221|4|ja|デカくてエッチな俺の姉
 14994|4|ja|デカダンス
+18880|2|ja|デカポリス
 6156|4|ja|テガミバチ ~光と青の幻想夜話~
 6772|4|ja|テガミバチ LETTER BEE
 7458|4|ja|テガミバチ REVERSE
