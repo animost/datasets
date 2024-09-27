@@ -1,4 +1,4 @@
-# created: Wed Sep 25 03:00:01 2024
+# created: Thu Sep 26 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6731,6 +6731,7 @@
 2292|3|x-jat|Bush Baby
 2292|2|en|Bush Baby, Little Angel of the Grasslands
 2292|4|en|Bush Baby, Little Angel of the Great Plains
+9989|2|x-jat|Bushiroad
 4711|2|en|Business Commando Yamazaki: Long Distance Call
 14973|1|x-jat|Business Fish
 4516|4|en|Buso Renkin
@@ -41457,7 +41458,7 @@
 14095|2|x-jat|Reizou Kono Kuni no Cocomong 2
 14096|2|x-jat|Reizou Kono Kuni no Cocomong 3
 1436|1|x-jat|Rejuvenation
-18154|1|x-jat|Rekishi ni Nokoru Akujo ni Naru zo
+18154|1|x-jat|Rekishi ni Nokoru Akujo ni Naruzo
 571|1|x-jat|Rekka no Honoo
 9426|1|x-jat|Rekka no Honoo: Final Burning
 15583|2|en|Release That Witch
@@ -48764,6 +48765,7 @@
 15513|2|x-jat|TEN DE BU
 8019|1|x-jat|Ten no Kawa
 16396|2|en|Ten Thousand Worlds
+17799|2|en|Ten Thousand Worlds 2
 17799|2|en|Ten Thousand Worlds 2nd Season
 2854|2|en|Ten Tokyo Warriors
 2867|2|en|Ten Tokyo Warriors: The Fuma Gogyo Scriptures
@@ -54077,7 +54079,11 @@
 15723|1|x-zht|Wan Guo Zhi
 15521|1|x-zht|Wan Jie Chun Qiu
 15521|2|x-zht|Wan Jie Chunqiu
-16396|1|x-zht|Wan Jie Duzun
+16396|1|x-zht|Wan Jie Du Zun
+17799|2|x-zht|Wan Jie Du Zun 2
+17799|2|x-zht|Wan Jie Du Zun 2nd Season
+17799|2|x-zht|Wan Jie Du Zun Di Er ji
+16396|2|x-zht|Wan Jie Duzun
 17799|1|x-zht|Wan Jie Duzun Di Er Ji
 16749|1|x-zht|Wan Jie Fa Shen
 16743|1|x-zht|Wan Jie Qi Yuan
@@ -59230,6 +59236,7 @@
 2870|2|bg|Любов
 5053|2|bg|Любовен Комплекс
 9906|4|bg|Любовна сцена!!
+8727|2|ru|Любовница: Нежная женщина
 6463|2|ru|Любовные неприятности: Trouble
 10992|2|ru|Любовные неприятности: Тьма 2
 9162|2|ru|Любовные неприятности: Тьма 2 OVA
