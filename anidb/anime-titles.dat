@@ -1,4 +1,4 @@
-# created: Thu Sep 26 03:00:02 2024
+# created: Fri Sep 27 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -13175,6 +13175,7 @@
 9690|1|x-jat|Eiga DokiDoki! Precure: Mana Kekkon!!? Mirai ni Tsunagu Kibou no Dress
 18102|2|x-jat|Eiga Doraemon: Nobita no Chikyuu Koukyougaku
 18102|1|x-jat|Eiga Doraemon: Nobita no Chikyuu Symphony
+18883|1|x-jat|Eiga Doraemon: Nobita no E Sekai Monogatari
 14446|1|x-jat|Eiga Doraemon: Nobita no Getsumen Tansaki
 9316|1|x-jat|Eiga Doraemon: Nobita no Himitsu Dougu Museum
 6594|2|x-jat|Eiga Doraemon: Nobita no Little Star Wars
@@ -13269,6 +13270,7 @@
 17287|1|x-jat|Eiga Sasaki to Miyano: Sotsugyou Hen
 15711|1|x-jat|Eiga Sayonara Watashi no Cramer: First Touch
 9950|2|x-jat|Eiga Sekaiichi Hatsukoi
+18881|1|x-jat|Eiga Senpai wa Otokonoko: Ame Nochi Hare
 13553|1|x-jat|Eiga Shimajirou: Mahou no Shima no Daibouken
 17068|1|x-jat|Eiga Shimajirou: Shimajirou to Kirakira Oukoku no Ouji-sama
 15239|1|x-jat|Eiga Shimajirou: Shimajirou to Sora Tobu Fune
@@ -31624,6 +31626,7 @@
 16895|1|x-zht|Mayi Gongzhu
 8179|1|x-jat|Mayo Chiki!
 8179|4|en|Mayo Chiki!
+7726|2|x-jat|Mayo Elle Otoko no Ko
 7726|2|x-jat|Mayo elle Otokonoko
 7726|2|x-jat|Mayoelle Otokonoko
 7726|1|x-jat|Mayoeru Otokonoko
@@ -48022,6 +48025,7 @@
 8828|1|x-jat|Sylvanian Families
 18075|1|x-jat|Sylvanian Families: Freya no Go for Dream!
 17610|1|x-jat|Sylvanian Families: Freya no Happy Diary
+18882|1|x-jat|Sylvanian Families: Freya no Piece of Secret
 17020|4|de|Sylvanian Families: Mini Episodes - Peony
 13423|1|x-jat|Sylvanian Families: Mini Story
 15112|1|x-jat|Sylvanian Families: Mini Story - Clover
@@ -70257,6 +70261,7 @@
 8828|4|ja|シルバニアファミリー
 18075|4|ja|シルバニアファミリー フレアのゴー・フォー・ドリーム!
 17610|4|ja|シルバニアファミリー フレアのハッピーダイアリー
+18882|4|ja|シルバニアファミリー フレアのピース・オブ・シークレット
 13423|4|ja|シルバニアファミリー ミニストーリー
 14451|4|ja|シルバニアファミリー ミニストーリー Season 2
 14451|2|ja|シルバニアファミリー ミニストーリー アイビー
@@ -82088,6 +82093,7 @@
 13176|4|ja|映画 中二病でも恋がしたい! -Take On Me-
 16165|4|ja|映画 五等分の花嫁
 17287|4|ja|映画 佐々木と宮野 -卒業編-
+18881|4|ja|映画 先輩はおとこのこ あめのち晴れ
 14158|4|ja|映画 妖怪ウォッチ FOREVER FRIENDS
 11288|4|ja|映画 妖怪ウォッチ エンマ大王と5つの物語だニャン!
 12577|4|ja|映画 妖怪ウォッチ シャドウサイド 鬼王の復活
@@ -82156,6 +82162,7 @@
 13228|4|ja|映画ドラえもん のび太の宝島
 14984|4|ja|映画ドラえもん のび太の新恐竜
 14446|4|ja|映画ドラえもん のび太の月面探査記
+18883|4|ja|映画ドラえもん のび太の絵世界物語
 7770|4|ja|映画ドラえもん 新・のび太と鉄人兵団 ~はばたけ 天使たち~
 9975|4|ja|映画ドラえもん 新・のび太の大魔境 ~ペコと5人の探検隊~
 6383|4|ja|映画ドラえもん 新・のび太の宇宙開拓史
