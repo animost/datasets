@@ -1,4 +1,4 @@
-# created: Fri Sep 27 03:00:02 2024
+# created: Sat Sep 28 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -16801,6 +16801,7 @@
 6325|1|x-jat|Gekijouban Tengen Toppa Gurren Lagann: Lagann Hen
 8374|1|x-jat|Gekijouban Tennis no Ouji-sama: Eikoku Shiki Teikyuu Shiro Kessen!
 2380|1|x-jat|Gekijouban Tennis no Ouji-sama: Futari no Samurai - The First Game
+18885|1|x-jat|Gekijouban Tensei Shitara Slime Datta Ken 2
 16776|1|x-jat|Gekijouban Tensei Shitara Slime Datta Ken: Guren no Kizuna Hen
 8805|1|x-jat|Gekijouban Tiger & Bunny
 8694|1|x-jat|Gekijouban Toaru Majutsu no Index: Endymion no Kiseki
@@ -31489,6 +31490,7 @@
 17478|4|en|Mashle: Magic and Muscles
 18088|4|en|Mashle: Magic and Muscles - The Divine Visionary Candidate Exam Arc
 18088|1|x-jat|Mashle: Shinkakusha Kouho Senbatsu Shiken Hen
+18653|2|en|Mashle: Tri-Magic-Athalon Divine Visionary Final Exam Arc
 17478|4|ru|MASHLE: Магия и мускулы
 2024|2|x-jat|Masho no Kao
 2024|1|x-jat|Mashou no Kao
@@ -33840,8 +33842,6 @@
 13916|1|x-jat|Muhyo to Roji no Mahouritsu Soudan Jimusho
 14953|1|x-jat|Muhyo to Roji no Mahouritsu Soudan Jimusho (2020)
 13916|2|x-jat|Muhyo to Rouji no Mahouritsu Soudan Jimusho
-14953|2|x-jat|Muhyo to Rouji no Mahouritsu Soudan Jimusho (2020)
-14953|2|x-unk|Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season
 10322|4|cs|Můj přítel Bernard
 303|4|cs|Můj soused Totoro
 10567|1|x-jat|Mujaki no Rakuen
@@ -44675,6 +44675,9 @@
 16021|1|x-jat|Shidoukan Day After The Animation
 13246|3|en|Shield
 13246|3|en|Shield Hero
+15070|2|en|Shield Hero 2
+15071|2|en|Shield Hero 3
+18439|2|en|Shield Hero 4
 10539|1|x-jat|Shigatsu wa Kimi no Uso
 10539|4|de|Shigatsu Wa Kimi No Uso - Sekunden in Moll
 10892|1|x-jat|Shigatsu wa Kimi no Uso: Moments
@@ -48999,6 +49002,7 @@
 14767|2|x-jat|Tensei Shitara Slime Datta Ken 2nd Season
 15456|2|x-jat|Tensei shitara Slime Datta Ken 2nd Season Part 2
 17709|2|x-jat|Tensei Shitara Slime Datta Ken 3rd Season
+18884|1|x-jat|Tensei Shitara Slime Datta Ken Dai 4 Ki
 14526|2|x-jat|Tensei Shitara Slime Datta Ken OAD
 14526|2|ja|Tensei Shitara Slime Datta Ken OVA
 15456|2|x-jat|Tensei shitara Slime Datta Ken Season 2 Part 2
@@ -49209,8 +49213,10 @@
 14767|4|en|That Time I Got Reincarnated as a Slime (2021)
 17709|4|en|That Time I Got Reincarnated as a Slime (2024)
 14767|2|en|That Time I Got Reincarnated as a Slime 2nd Season
+18884|2|en|That Time I Got Reincarnated as a Slime 4
 16776|4|es|That Time I Got Reincarnated as a Slime la película: El vínculo escarlata
 14526|4|en|That Time I Got Reincarnated as a Slime OAD
+18885|2|en|That Time I Got Reincarnated as a Slime the Movie
 16776|4|en|That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond
 17873|4|en|That Time I Got Reincarnated as a Slime: Visions of Coleus
 13763|2|en|That`s (the reason) Why I`m Going To (Rape my niece) Her
@@ -73821,6 +73827,7 @@
 12669|4|ja|まっくら森の歌
 17010|4|ja|まっさら
 18653|4|ja|マッシュル (続編)
+18653|2|ja|マッシュル 三魔対争神覚者最終試験編
 18088|4|ja|マッシュル 神覚者候補選抜試験編
 17478|4|ja|マッシュル-MASHLE-
 1029|4|ja|まっすぐにいこう.
@@ -77047,6 +77054,7 @@
 14011|4|ja|劇場版 若おかみは小学生!
 10715|4|ja|劇場版 蒼き鋼のアルペジオ
 9000|4|ja|劇場版 薄桜鬼
+18885|4|ja|劇場版 転生したらスライムだった件 2
 16776|4|ja|劇場版 転生したらスライムだった件 紅蓮の絆編
 10583|4|ja|劇場版 進撃の巨人
 13546|4|ja|劇場版 進撃の巨人 Season 2 覚醒の咆哮
@@ -81010,6 +81018,7 @@
 5435|4|zh-Hans|我自己；你自己
 10729|4|zh-Hans|我被绑架到贵族女校当“庶民样本”
 18266|2|zh-Hans|我要【招架】一切〜反误解的世界最强想成为冒险者〜
+18266|4|zh-Hans|我要【招架】一切～反误解的世界最强想成为冒险家～
 1139|4|zh-Hans|我要上太空
 13979|4|zh-Hans|我让最想被拥抱的男人给威胁了。
 728|4|zh-Hans|我青春的世外桃源
@@ -82689,7 +82698,9 @@
 1266|4|zh-Hans|柯塞特的肖像
 16778|4|zh-Hans|柳毅传奇
 8986|4|zh-Hans|柴犬子
-12895|4|ja|柿の木モッキィ
+12895|4|ja|柿の木もっきぃ
+12895|2|ja|柿の木もっきい
+12895|2|ja|柿の木モッキィ
 6359|4|ja|栄光へのシュプール 猪谷千春物語
 790|4|ja|校内写生
 7907|4|zh-Hans|校园恐怖传说 - 新·花子来了
@@ -87300,6 +87311,7 @@
 17709|4|ja|転生したらスライムだった件 (2024)
 17873|4|ja|転生したらスライムだった件 コリウスの夢
 18785|4|ja|転生したらスライムだった件 救われるラミリス
+18884|4|ja|転生したらスライムだった件 第4期
 15457|4|ja|転生したらスライムだった件 転スラ日記
 16785|4|ja|転生したら剣でした
 17789|4|ja|転生したら剣でした 2
