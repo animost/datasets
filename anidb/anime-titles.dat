@@ -1,4 +1,4 @@
-# created: Sat Sep 28 03:00:01 2024
+# created: Sun Sep 29 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4894,6 +4894,7 @@
 6046|2|en|Before Green Gables
 13876|2|en|Before You Wake Up
 1963|2|lt|Begėdis Daktaras
+18888|1|en|Beginning English with Doraemon
 11536|4|en|Beginning of Fashion
 13089|1|x-jat|Behind a Smile
 13089|4|ja|behind a smile
@@ -12985,6 +12986,7 @@
 3535|2|en|Ear of the Golden Dragon
 3535|2|en|Ear of The Yellow Dragon
 5954|4|en|Earl and Fairy
+18887|1|x-jat|Early English With Doraemon
 689|1|x-jat|Early Reins
 689|4|en|Early Reins
 9387|2|en|Earth color of a calm
@@ -15432,6 +15434,7 @@
 17617|4|it|Frieren - Oltre la Fine del Viaggio
 17617|4|pt-BR|Frieren e a Jornada para o Além
 17617|4|en|Frieren: Beyond Journey`s End
+18886|2|en|Frieren: Beyond Journey`s End 2
 17617|4|es-419|Frieren: Más allá del final del viaje
 17617|4|de|Frieren: Nach dem Ende der Reise
 17617|4|es|Frieren: Tras finalizar el viaje
@@ -31214,6 +31217,7 @@
 16102|2|x-jat|Maohgaku (2024)
 16894|1|x-zht|Maomao De Gushi
 14391|3|x-jat|maorito
+18167|2|x-jat|Maorito 2
 15095|3|x-jat|maosumi
 14155|2|en|MaoTu: Phoenix Rising
 1677|3|en|Maou
@@ -31624,6 +31628,7 @@
 6358|1|x-jat|Maya no Isshou
 12649|4|no|Maya og hekseblomsten
 1351|4|en|Maya the Bee
+1120|4|de|Maya und der Sexdämon
 4604|2|en|Maybe You
 16895|1|x-zht|Mayi Gongzhu
 8179|1|x-jat|Mayo Chiki!
@@ -32724,7 +32729,6 @@
 8395|1|x-jat|Mirai Nikki (2011)
 9585|1|x-jat|Mirai Nikki Redial: Data Ikou
 18817|1|x-jat|Mirai no Kuromaku-kei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho
-18737|1|x-jat|Mirai no Kuromakukei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho
 13174|1|x-jat|Mirai no Mirai
 12367|1|x-jat|Mirai o Mukete Bousai o Kangaeru
 13174|2|en|Mirai of the Future
@@ -33597,7 +33601,6 @@
 15324|4|en|Moriarty the Patriot
 15774|4|en|Moriarty the Patriot (2021)
 15774|2|en|Moriarty the Patriot Part 2
-18737|4|en|Moriarty`s Perfect Crime
 15774|3|x-jat|Moriarty2
 4403|3|x-jat|Moribito
 4403|4|es|Moribito, guardián del Espíritu Sagrado
@@ -44531,6 +44534,7 @@
 14598|1|x-zht|Shaonu Qianxian: Renxing Xiao Juchang
 16097|1|x-zht|Shaonu Qianxian: Renxing Xiao Juchang 2
 5638|4|en|Shape of Love: Do You Hate Girls With Dirty Minds?
+16639|4|en|Shape of the Wind
 16906|1|x-jat|Sharedol
 10087|1|x-jat|Shashinkan
 15894|1|x-jat|Shashinki
@@ -46527,6 +46531,7 @@
 9532|1|x-jat|Soushisouai Note The Animation
 2748|1|x-jat|Soushitsukyou
 17617|1|x-jat|Sousou no Frieren
+18886|1|x-jat|Sousou no Frieren 2
 13040|1|x-jat|Soutai Sekai
 14430|3|x-jat|soutai sekai movie
 6408|1|x-jat|Souten Kouro
@@ -49299,6 +49304,7 @@
 2427|2|en|The Anthology of Japanese Literature
 17870|4|en|The Apothecary Diaries
 18562|4|en|The Apothecary Diaries (2025)
+18562|2|en|The Apothecary Diaries S2
 16809|4|en|The Apple and the Girl
 15987|4|en|The Aquatope on White Sand
 785|2|en|The Arabian Nights: Adventures of Sinbad
@@ -86482,6 +86488,7 @@
 8123|4|zh-Hans|葫芦小金刚
 11428|4|ja|葬儀屋と犬
 17617|4|ja|葬送のフリーレン
+18886|4|ja|葬送のフリーレン 2
 17617|4|zh-Hans|葬送的芙莉莲
 17617|4|zh-Hant|葬送的芙莉蓮
 836|4|zh-Hans|蒲公英
@@ -88104,10 +88111,10 @@
 15134|4|zh-Hant|闇影詩章
 17074|4|ja|闇憑村/めるてぃーりみっと The Animation
 9964|4|ja|闇芝居
-18754|4|ja|闇芝居 (2024)
 17057|4|ja|闇芝居 10
 18020|4|ja|闇芝居 11
 18402|4|ja|闇芝居 12
+18754|4|ja|闇芝居 13
 10717|4|ja|闇芝居 2
 11748|4|ja|闇芝居 3
 12575|4|ja|闇芝居 4
