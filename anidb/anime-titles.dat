@@ -1,4 +1,4 @@
-# created: Sun Sep 29 03:00:01 2024
+# created: Mon Sep 30 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1338,6 +1338,8 @@
 16806|2|en|Addictive Pheromone
 3650|2|it|Addio Giuseppina!
 2229|4|it|Addio Yamato
+18891|1|x-jat|Addition and Subtraction with Doraemon
+18891|4|en|Addition and Subtraction with Doraemon
 542|4|fr|Adeos le chevalier vaillant
 616|4|fr|Adeos le chevalier vaillant (OAV)
 3633|2|x-jat|Adesugata Mahou no Mami Pelsia Emi
@@ -6102,6 +6104,7 @@
 327|3|x-jat|bokutama
 17547|3|x-jat|bokuyaba
 18066|3|x-jat|BokuYaba 2
+18890|3|x-jat|bokuyaba movie
 18066|3|x-jat|bokuyaba s2
 5222|4|sk|Bol raz jeden život
 2786|2|pt-BR|Bola de Dan
@@ -16598,6 +16601,7 @@
 5352|1|x-jat|Gekijouban Bleach: The DiamondDust Rebellion Mou Hitotsu no Hyourinmaru
 8375|1|x-jat|Gekijouban Blood-C: The Last Dark
 17955|1|x-jat|Gekijouban Blue Lock: Episode Nagi
+18890|1|x-jat|Gekijouban Boku no Kokoro no Yabai Yatsu
 18068|1|x-jat|Gekijouban Boku to Roboco
 6959|1|x-jat|Gekijouban Bungaku Shoujo
 513|1|x-jat|Gekijouban Cardcaptor Sakura
@@ -18173,6 +18177,8 @@
 12496|1|x-jat|Grancrest Senki
 13734|1|x-jat|Grand Blue
 13734|4|en|Grand Blue Dreaming
+18892|2|en|Grand Blue Dreaming Season 2
+18892|1|x-jat|Grand Blue Season 2
 15483|4|en|Grand Blues!
 14975|2|fr|Grand frère, reste jusqu’au petit matin !
 1681|4|hu|Grand Prix
@@ -23479,6 +23485,7 @@
 17985|1|x-zht|Jian Yu Fengyun (2023)
 18346|1|x-zht|Jian Yu Fengyun 3rd Season
 18393|1|x-zht|Jiandao Di Yi Xian
+18893|1|x-zht|Jiandao Di Yi Xian 2
 18393|2|x-zht|Jiandao Diyi Xian
 15375|1|x-zht|Jiang Ziya
 13235|1|x-zht|Jianzhen Da he shang
@@ -36534,7 +36541,7 @@
 4148|3|en|OHSHC
 15050|1|x-jat|Oi-san to 40 no Monogatari
 3638|1|x-jat|Oi! Ryouma
-18019|1|x-jat|Oi! Tonbo
+18019|2|ja|Oi! Tonbo
 13170|1|x-jat|Oide yo! Mizuryuu Kei Land
 12305|1|x-jat|Oide yo! Shiritsu Yarima*ri Gakuen
 12305|2|x-jat|Oide yo! Shiritsu Yarimakuri Gakuen
@@ -37125,7 +37132,7 @@
 7291|3|x-jat|oofuri2
 6361|1|x-jat|Ooi! Adacchi!
 13100|1|x-jat|Ooi! Hanimaru
-18019|2|ja|Ooi! Tonbo
+18019|1|x-jat|Ooi! Tonbo
 18721|1|x-jat|Ooi! Tonbo (2024)
 18721|2|x-jat|Ooi! Tonbo Season 2
 7134|3|x-jat|Ookami
@@ -37143,7 +37150,6 @@
 6465|1|x-jat|Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu
 17221|1|x-jat|Ookami to Koushinryou: Merchant Meets the Wise Wolf
 18876|1|x-jat|Ookami to Koushinryou: Merchant Meets the Wise Wolf 2
-18878|1|x-jat|Ookami to Koushinryou: Merchant Meets the Wise Wolf S2
 7381|3|x-jat|Ookami-san
 7381|1|x-jat|Ookami-san to Shichinin no Nakama-tachi
 7381|2|tr|Ookami-san ve Yedi Arkadaşı
@@ -41745,6 +41751,7 @@
 15788|3|x-jat|RikeKoi 2
 15788|3|x-jat|rikekoi s2
 3995|4|en|Riki-Oh 2: Child of Destruction
+3995|2|x-jat|Riki-Oh 2: Horobi no Ko
 3994|4|en|Riki-Oh: The Walls of Hell
 3995|1|x-jat|Riki-Ou 2: Horobi no Ko
 3994|1|x-jat|Riki-Ou: Toukatsu Jigoku
@@ -44670,6 +44677,7 @@
 18845|2|x-jat|Shibou Yuugi de Meshi wo Kuu.
 18492|1|x-jat|Shibuya Hachi
 18822|1|x-jat|Shibuya Hachi (2024)
+18822|2|x-jat|Shibuya Hachi Part 2
 18492|4|ja|SHIBUYA♡HACHI
 18822|4|ja|SHIBUYA♡HACHI (2024)
 16119|1|x-jat|Shichigahama de Mitsuketa
@@ -46738,7 +46746,6 @@
 6465|2|en|Spice and Wolf OVA
 17221|4|en|Spice and Wolf: Merchant Meets the Wise Wolf
 17221|4|de|Spice and Wolf: Merchant Meets the Wise Wolf
-18878|4|en|Spice and Wolf: Merchant Meets the Wise Wolf Season 2
 6465|4|en|Spice and Wolf: Wolf and Amber Melancholy
 5406|2|en|spice&wolf
 5406|2|en|spice+wolf
@@ -49477,6 +49484,7 @@
 4603|2|en|The Dancing Girl
 17547|4|en|The Dangers in My Heart
 18066|4|en|The Dangers in My Heart (2024)
+18890|2|en|The Dangers in My Heart the Movie
 18497|2|en|The Dark History of the Reincarnated Villainess
 6554|4|en|The Dark Knight Ingrid
 2920|4|fr|The Dark Myth
@@ -52257,6 +52265,7 @@
 10536|1|x-jat|Tsubu Doll
 10536|2|x-unk|Tsubu★Doll
 18482|1|x-jat|Tsue to Tsurugi no Wistoria
+18889|1|x-jat|Tsue to Tsurugi no Wistoria 2
 9401|1|x-jat|Tsugou no Yoi Sexfriend?
 14728|1|x-jat|Tsugu Tsugumomo
 14728|4|en|Tsugu Tsugumomo
@@ -53354,6 +53363,7 @@
 162|4|tr|Uzay Şövalyeleri
 6299|4|lt|Užmaršties sala
 15063|1|x-jat|Uzumaki
+15063|4|en|Uzumaki
 721|3|x-jat|V Gundam
 9376|2|cs|V koutě našeho světa
 1557|1|x-jat|V.G.Neo The Animation
@@ -54626,6 +54636,7 @@
 8076|4|en|Wish Upon the Pleiades
 10958|4|en|Wish Upon the Pleiades (2015)
 18482|4|en|Wistoria: Wand and Sword
+18889|2|en|Wistoria: Wand and Sword 2
 4121|2|pl|Witaj w NHK!
 9496|1|x-jat|Witch Craft Works
 9496|4|en|Witch Craft Works
@@ -69299,6 +69310,7 @@
 2232|5|ja|グランダーむさしレボリューション
 2232|4|ja|グランダー武蔵RV
 13734|4|ja|ぐらんぶる
+18892|4|ja|ぐらんぶる Season 2
 11597|2|ja|グランブルーファンタジー
 13524|2|ja|グランブルーファンタジー The Animation Season 2
 14717|4|ja|グランベルム
@@ -76803,6 +76815,7 @@
 5108|4|zh-Hans|剑豪生死斗
 5108|2|zh-Hans|剑豪生死门
 18393|4|zh-Hans|剑道第一仙
+18893|4|zh-Hans|剑道第一仙 第二季
 11851|3|zh-Hans|剑风传奇
 12414|4|zh-Hans|剑风传奇 次篇
 7991|4|zh-Hans|剑风传奇 黄金时代篇
@@ -77016,6 +77029,7 @@
 16727|4|ja|劇場版 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった...
 13612|4|zh-Hant|劇場版 來自深淵 深沉靈魂的黎明
 18068|4|ja|劇場版 僕とロボコ
+18890|4|ja|劇場版 僕の心のヤバイやつ
 16169|4|ja|劇場版 呪術廻戦 0
 10726|4|ja|劇場版 境界の彼方-I`LL BE HERE-
 13512|4|ja|劇場版 夏目友人帳 ~うつせみに結ぶ~
@@ -82570,6 +82584,7 @@
 3479|4|ja|村正
 6705|4|ja|村祭
 18482|4|ja|杖と剣のウィストリア
+18889|4|ja|杖と剣のウィストリア 2
 18482|2|zh-Hans|杖与剑的魔剑谭
 7471|4|ja|杜子春
 16188|4|zh-Hant|杜鵑婚約
