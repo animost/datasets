@@ -1,4 +1,4 @@
-# created: Tue Oct  1 03:00:01 2024
+# created: Wed Oct  2 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8203,6 +8203,7 @@
 9874|2|x-jat|Chuunibyou demo Koi ga Shitai! 2
 9874|1|x-jat|Chuunibyou demo Koi ga Shitai! Ren
 14414|1|x-jat|Chuusotsu Worker kara Hajimeru Koukou Seikatsu
+18894|1|x-jat|Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo o Toite Shimau kara.
 9391|1|x-jat|Chuuzumou
 2558|4|it|Ciao Sabrina
 781|3|x-jat|CiBo
@@ -21050,7 +21051,6 @@
 15971|3|x-jat|HoloGra
 15965|4|ja|HOLOGRAM CIRCUS
 15965|1|x-jat|Hologram Circus
-16334|1|x-jat|Hololive Alternative
 2209|3|x-jat|hols
 2209|2|x-jat|Hols no Daiboken
 2209|2|en|Hols the Prince of the Sun
@@ -50200,6 +50200,7 @@
 4087|4|en|The Monkey King: Uproar in Heaven
 6706|2|en|The Monkey Sword Masamune
 6849|2|en|The Monkey`s Big Catch
+18894|2|en|The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries
 7539|2|en|The Monster Kid: Invitation to Monster Land
 1009|2|en|The Moomins
 2064|2|en|The Moon is East, The Sun is West: Operation Sanctuary
@@ -54003,6 +54004,7 @@
 9877|2|en|Waistful Days of High School Girls
 8620|4|en|Waiting in the Summer
 8620|4|de|Waiting in the Summer
+18592|2|x-jat|Wajutsushi
 11139|1|x-jat|Wakaba Girl
 11139|4|en|Wakaba Girl
 6796|4|pl|Wakacje Pikachu
@@ -59810,6 +59812,7 @@
 382|2|ru|Несносные пришельцы: Последняя глава (фильм #5)
 379|2|ru|Несносные пришельцы: Прекрасная мечтательница (фильм #2)
 378|2|ru|Несносные пришельцы: Только ты (фильм #1)
+9665|2|ru|Несокрушимая механическая кукла
 5922|2|ru|Несравненная принцесса любви
 6400|2|ru|Несравненная принцесса любви [ТВ2]
 11321|2|ru|Несчастные
@@ -60536,6 +60539,7 @@
 5278|2|ru|Робот Моей Мечты
 964|2|ru|Робот-гигант
 14791|2|uk|Робота клітин
+12681|2|ru|Рождённый в Бездне
 181|2|ru|Роза Версаля
 11756|2|uk|Розкажи-но Галю!
 11756|4|uk|Розкажи-но, Галю!
@@ -60834,7 +60838,10 @@
 14997|2|ru|Совершенно Новый Зверь
 1335|2|ru|Совершенно частный урок!
 6332|2|ru|Современная магия для чайников
+12681|4|ru|Созданный в Бездне
 13941|4|ru|Созданный в Бездне (movie)
+13612|4|ru|Созданный в Бездне: Заря глубинной души
+13612|2|ru|Созданный в Бездне: Рассвет глубокой души
 14571|2|ru|Созерцая колготки
 7234|2|ru|Сокрушение гигантов
 1350|2|ru|Сол Бьянка
@@ -73664,7 +73671,6 @@
 15971|3|ja|ホロぐら
 12609|4|ja|ホロスコープ~あなたの星座~
 15971|4|ja|ホロのぐらふぃてぃ
-16334|4|ja|ホロライブ・オルタナティブ
 7023|4|ja|ポロンギター
 6020|4|ja|ポロンポロン ポロロ
 15705|2|ja|ホワイト ブルー
@@ -75533,6 +75539,7 @@
 8935|4|ja|中学星 スーパーデラックス
 14414|4|zh-Hans|中学毕业劳动者开始高中生活
 16779|4|zh-Hans|中小治棒棒哒
+18894|4|ja|中禅寺先生物怪講義録 先生が謎を解いてしまうから.
 434|4|ja|中華一番!
 13813|4|ja|中間管理録トネガワ
 13813|4|zh-Hans|中间管理录利根川
