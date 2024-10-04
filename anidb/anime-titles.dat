@@ -1,4 +1,4 @@
-# created: Wed Oct  2 03:00:02 2024
+# created: Thu Oct  3 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -890,7 +890,7 @@
 16801|4|hu|A ház lelke
 671|4|en|A Heat for All Seasons
 16984|4|en|A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized
-18258|2|en|A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized 2
+18258|4|en|A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized Season 2
 10596|4|hu|A hét főbűnös
 18858|2|en|A History of the Romelia
 14300|4|en|A Hot Night With My Boss in a Capsule Hotel
@@ -1041,7 +1041,7 @@
 5612|2|en|A Tale of Seven Cities - the Arctic Front
 14045|1|x-zht|A Tang Qiyu
 335|4|hu|A Tenger Zúgása
-18321|2|en|A Terrified Teacher at Ghoul School!
+18321|4|en|A Terrified Teacher at Ghoul School!
 8106|2|en|A Thirty-Year Old`s Health and Physical Education
 3683|2|en|A Thousand & One Nights
 3683|4|de|A Thousand & One Nights
@@ -5841,6 +5841,7 @@
 17954|1|x-jat|Blue Lock vs. U-20 Japan
 17954|4|en|Blue Lock vs. U-20 Japan
 17955|4|en|Blue Lock: Episode Nagi
+18193|4|en|Blue Miburo
 2467|3|x-jat|Blue Noah
 2467|4|it|Blue Noah - Mare spaziale
 15993|4|pl|Blue Period
@@ -14861,6 +14862,7 @@
 2322|2|en|Fight! Crash Gear TURBO
 2322|2|en|Fight! Crush Gear TURBO
 436|4|en|Fight! Iczer-One
+4552|2|x-unk|Fight! Super Robot Lifeform Transformers
 2419|4|ja|FIGHT!!
 2419|1|x-jat|Fight!!
 436|2|en|Fight!! Iczer-1
@@ -22932,6 +22934,7 @@
 197|4|en|Iria Zeiram: The Animation
 197|3|x-jat|Iria Zeriam
 197|1|x-jat|Iria: Zeiram The Animation
+18896|1|x-jat|Iribitari Gal ni Manko Tsukawasete Morau Hanashi
 16130|4|en|Irina: The Vampire Cosmonaut
 17707|1|x-jat|Iris the Movie: Full Energy!!
 2169|3|x-jat|iriya
@@ -29333,7 +29336,7 @@
 16927|1|x-jat|Love Live! Superstar!! (2022)
 16927|4|en|Love Live! Superstar!! (2022)
 17665|1|x-jat|Love Live! Superstar!! (2024)
-17665|2|x-jat|Love Live! Superstar!! Season 2
+17665|4|en|Love Live! Superstar!! (2024)
 10720|1|x-jat|Love Live! The School Idol Movie
 10720|4|en|Love Live! The School Idol Movie
 9927|4|zh-Hans|Love Live! 第二季
@@ -31099,6 +31102,7 @@
 8282|2|en|Man and Whale
 14351|1|x-jat|Man and Woman and Dog
 14351|4|ja|MAN and WOMAN and DOG
+18895|1|x-zht|Man Huang Xian Jie
 4111|2|x-jat|Man in Densha
 13013|1|x-zht|Man Tou Riji
 15947|4|ja|MAN WITH A MISSION THE ANIMATION
@@ -31843,6 +31847,7 @@
 1906|2|fr|Meg la petite sorcière
 1906|2|fr|Meg la sorcière
 1906|2|en|Meg the Witch Girl
+4552|2|x-unk|Mega Man
 5203|4|de|Megachu
 5203|1|x-jat|Megachu! The Animation
 4529|2|x-jat|Megadere
@@ -34033,7 +34038,7 @@
 17236|3|x-jat|mushokutensei s3
 2127|1|x-jat|Mushrambo
 5876|1|x-jat|Mushrambo (2008)
-18628|2|en|Mushroom Pup
+18628|4|en|Mushroom Pup
 15805|2|en|Mushy and Gooey Girls` Secret Hot Spring Service: Please Let Us Provide You with A Gooey and Slippery Service
 11102|2|en|Music Girl
 13913|4|en|Music Girls
@@ -40493,6 +40498,7 @@
 4149|3|en|Punie
 2111|2|es|Punio de la estrella del sur
 18315|2|en|Puniru Is a Cute Slime
+18315|4|en|Puniru Is a Kawaii Slime
 18315|1|x-jat|Puniru wa Kawaii Slime
 17590|1|x-jat|Punirunes
 17590|4|en|Punirunes
@@ -41202,6 +41208,7 @@
 14792|4|ko|Re: 제로부터 시작하는 이세계 생활 2기
 15593|4|ko|Re: 제로부터 시작하는 이세계 생활 2기 Part2
 11370|4|zh-Hans|Re: 从零开始的异世界生活
+17947|2|zh-Hans|Re: 从零开始的异世界生活 第三季
 14792|4|zh-Hans|Re: 从零开始的异世界生活 第二季
 15593|4|zh-Hans|Re: 从零开始的异世界生活 第二季 Part 2
 1662|4|zh-Hans|Re: 甜心战士
@@ -41257,6 +41264,7 @@
 15593|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season (2021)
 15593|2|en|Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season 2nd Part
 15593|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2
+17947|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season
 14792|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu S2
 14792|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu Season 2 Part 1
 15593|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu Season 2 Part 2
@@ -41472,6 +41480,7 @@
 14095|2|x-jat|Reizou Kono Kuni no Cocomong 2
 14096|2|x-jat|Reizou Kono Kuni no Cocomong 3
 1436|1|x-jat|Rejuvenation
+18154|3|x-jat|Rekiaku
 18154|1|x-jat|Rekishi ni Nokoru Akujo ni Naruzo
 571|1|x-jat|Rekka no Honoo
 9426|1|x-jat|Rekka no Honoo: Final Burning
@@ -41682,6 +41691,7 @@
 15593|3|x-jat|rezero s2p2
 17947|3|x-jat|rezero s3
 14792|3|x-jat|rezero2
+17947|3|x-jat|rezero3
 15014|2|x-jat|Reバース for you
 4522|3|x-jat|RG
 465|4|en|RG Veda
@@ -42012,6 +42022,7 @@
 5816|2|es|Rocket Kidz: els herois de la ciutat
 12131|1|x-jat|Rocket-dan
 591|4|fi|Rockikyttä
+4552|2|x-unk|Rockman
 146|2|x-jat|Rockman EXE
 3621|2|x-jat|Rockman EXE Beast
 2912|2|en|Rockman EXE the Movie: Program of Light and Dark
@@ -44050,6 +44061,7 @@
 18543|2|x-jat|Sengoku Youko (2024)
 18543|1|x-jat|Sengoku Youko: Sen Ma Konton Hen
 18543|2|x-jat|Sengoku Youko: Senma Konton Hen
+18543|2|en|Sengoku Youko: The Thousandfold Chaos Arc
 18156|2|x-jat|Sengoku Youko: Yonaoshi Kyoudai Hen
 12718|2|tr|Sengoku’nun Yabani Hayat Karikatürleri 2
 12319|2|tr|Sengoku`nun Yabani Hayat Karikatürleri
@@ -48581,6 +48593,8 @@
 15864|1|x-jat|Tasuu Ketsu: Judgement Assizes
 18453|2|en|Tasuuketsu
 1955|4|cs|Táta Sekáč
+4552|2|x-unk|Tatakae! Chou Robot Seimeitai Transformers
+4552|2|x-unk|Tatakae! Chou Robot Seimeitai Transformers 2010
 2065|1|x-jat|Tatakae! Chou Robot Seimeitai Transformers Victory
 6669|1|x-jat|Tatakae! Chou Robot Seimeitai Transformers: Scramble City Hatsudou Hen
 5076|1|x-jat|Tatakae! Osper
@@ -49839,6 +49853,7 @@
 6844|2|en|The Hare and The Tortoise
 12860|4|en|The Hare in Inaba
 2465|4|en|The Harvest Night
+18451|4|en|The Healer Who Was Banished From His Party, Is, in Fact, the Strongest
 16601|4|en|The Heike Story
 14514|4|en|The Helpful Fox Senko-san
 1712|2|en|The Hentai Academy
@@ -49917,6 +49932,7 @@
 17918|1|x-jat|The Idolmaster Shiny Colors
 17918|4|en|The Idolmaster Shiny Colors
 18523|1|x-jat|The Idolmaster Shiny Colors 2nd Season
+18523|4|en|The Idolmaster Shiny Colors Season 2
 12820|1|x-jat|The Idolmaster Side M
 10585|4|en|The Idolmaster: Cinderella Girls
 10585|1|x-jat|The Idolmaster: Cinderella Girls
@@ -51973,7 +51989,9 @@
 1342|4|hr|Transformers Energon
 1342|4|hu|Transformers Energon
 1342|4|fr|Transformers Energon
+4552|2|x-unk|Transformers Generation 1
 7924|4|ja|TRANSFORMERS ROBOT MASTERS
+4552|2|x-unk|Transformers the Movie
 2065|2|x-jat|Transformers V
 2065|2|x-jat|Transformers Victory
 2103|2|en|Transformers Z
@@ -76345,6 +76363,7 @@
 10998|4|zh-Hans|兔宝的悲惨日常 梦幻篇
 10038|4|zh-Hans|兔宝的悲惨日常 觉醒篇
 11865|4|zh-Hans|兔龟
+18896|4|ja|入り浸りギャルにま〇こ使わせて貰う話
 14660|4|zh-Hant|入間同學入魔了！
 14660|4|zh-Hans|入间同学入魔了
 16627|4|zh-Hans|入间同学入魔了 第三季
@@ -86711,6 +86730,7 @@
 6919|4|ja|蛙の夢
 6931|4|ja|蛙は蛙
 6936|4|ja|蛙三勇士
+18895|4|zh-Hans|蛮荒仙界
 6837|4|ja|蛸の骨
 17066|4|zh-Hans|蜀山奇仙录
 4422|3|zh-Hans|蜂蜜2
@@ -88722,6 +88742,7 @@
 6113|2|zh-Hans|食灵~零
 16984|4|zh|食草老龙被冠以恶龙之名
 18258|4|zh|食草老龙被冠以恶龙之名 2
+18258|2|zh-Hans|食草老龙被冠以恶龙之名 第二季
 16103|4|zh-Hant|食鏽末世錄
 16103|4|zh-Hans|食锈末世录
 12427|4|ja|飯塚先輩×ブレザー -姉キュン! より- THE ANIMATION
