@@ -1,4 +1,4 @@
-# created: Thu Oct  3 03:00:02 2024
+# created: Fri Oct  4 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -12780,6 +12780,7 @@
 18489|2|x-zht|Du Bu Wan Gu Di Er Ji
 15679|2|x-zht|Du Bu Xiao Yao
 14868|1|x-zht|Du Dang Man
+18897|1|x-zht|Du Shi Gu Xian Yi
 15540|4|vi|Đứa con của tháng các vị thần
 14534|4|vi|Đứa con của thời tiết
 82|4|fr|Dual
@@ -20743,6 +20744,7 @@
 18215|1|x-jat|Hime dorei
 5950|1|x-jat|Hime Dorei: Mesu e to Ochiyuku Futago no Oujo
 8118|1|x-jat|Hime Gal Paradise: Love and Beauty
+18898|1|x-jat|Hime Kishi wa Barbaroi no Yome
 842|3|x-jat|Hime-chan
 842|1|x-jat|Hime-chan no Ribbon
 842|4|en|Hime-chan`s Ribbon
@@ -27626,6 +27628,7 @@
 676|4|en|La Blue Girl Returns
 17206|2|en|La Blue Girl: Revenge of the Shikima Realm
 10446|4|fr|La Bonne Vie
+18278|4|es|La caja azul
 7280|2|it|La Campanella Della Benedizione
 12523|4|es|La canción perdida
 784|2|it|La canzone delle pecore
@@ -49351,6 +49354,7 @@
 11235|4|ja|The Baby Birds of Norman McLaren
 13783|2|en|The Badminton Play of Ayano Hanesaki!
 18074|4|en|The Banished Former Hero Lives as He Pleases
+18898|2|en|The Barbarian’s Bride
 8681|2|en|The Basketball Which Kuroko Plays
 8681|2|en|THE BASKETBALL WHICH KUROKO PLAYS.
 6704|2|en|The Bat
@@ -49411,6 +49415,7 @@
 1811|2|en|The Brave Frog
 1811|2|en|The Brave Frog`s Greatest Adventure
 3154|2|en|The Brave of Gold Goldran
+18898|2|en|The Bride of Barbaroi
 18528|2|en|The Brilliant Healer`s New Life in the Shadows
 13112|2|en|The Brothers of Hungboo and Nolboo
 11949|2|en|The Buffalo Boy and His Flute
@@ -50779,6 +50784,7 @@
 15216|2|en|The War Ends the World / Raises the World
 6356|2|en|The War of the Girl
 15784|2|en|The Warrior From Qin
+18898|2|en|The Warrior Princess and the Barbaric King
 1816|4|en|The Warrior, Gordian
 4485|4|en|The Water Seed
 5261|4|fr|The Wave of Rage
@@ -79274,6 +79280,7 @@
 2176|4|ja|姫辱 プリンセスダブル狩り
 5639|4|ja|姫騎士アンジェリカ THE ANIMATION
 10216|4|ja|姫騎士オリヴィア
+18898|4|ja|姫騎士は蛮族の嫁
 4493|4|ja|姫騎士リリア
 3140|4|ja|姿三四郎
 4833|2|zh-Hans|威尔伯物语
@@ -87731,6 +87738,7 @@
 9401|4|ja|都合のよいセックスフレンド?
 11290|4|ja|都市伝説シリーズ
 6268|4|ja|都市伝説物語 ひきこ
+18897|4|zh-Hans|都市古仙医
 18801|2|zh-Hans|都市奇幻 · 热血战斗
 17339|4|zh-Hant|鄰人似銀河
 9235|4|zh-Hant|鄰座的怪同學
