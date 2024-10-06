@@ -1,4 +1,4 @@
-# created: Fri Oct  4 03:00:02 2024
+# created: Sat Oct  5 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -9680,6 +9680,7 @@
 4829|2|x-jat|Dancougar Nova
 1692|4|fr|Dancougar, les cadets de l`espace
 1740|4|en|Dancougar: Blazing Epilogue
+18290|2|en|Dandadan
 6738|2|en|Danemon`s Monster Hunt at Shojoji
 10937|2|x-unk|Dáng hình thanh âm
 10937|4|vi|Dáng Hình Thanh Âm
@@ -14062,6 +14063,7 @@
 7565|4|pl|Evangelion: 3.33 (Nie) możesz powtórzyć.
 7565|2|en|Evangelion: 3.33 You Can (Not) Redo
 7565|2|en|Evangelion: 3.333 You Can (Not) Redo
+326|2|en|Evangelion: Death (True)²
 326|4|pt|Evangelion: Death & Rebirth
 8895|2|x-jat|Evangelion: Final
 326|4|es-GA|Evangelion: morte e resurrección
@@ -17813,6 +17815,7 @@
 14518|2|en|God Waiting Sana-chan
 1677|2|en|God? Save Our King
 17925|2|en|GOD.app
+18334|2|en|GOD.app (2024)
 8370|2|en|god`s notebook
 4534|4|it|Godam
 4534|2|en|Godam
@@ -22459,6 +22462,7 @@
 1688|4|en|Immorality
 1688|4|de|Immorality
 15822|2|en|Immorality Boundary
+18897|2|en|Immortal Doctor In Modern City
 14718|2|en|Immortal King
 16359|2|en|Immortal King 2
 13660|2|en|IMMORTAL LEGENDS : GRAVE ROBBERS
@@ -28396,7 +28400,7 @@
 17066|2|en|Legend of Shu
 4989|2|en|Legend of Sirius
 3674|2|en|Legend of Snow White
-17119|2|en|Legend of Soldier
+17119|4|en|Legend of Soldier
 18387|2|en|Legend of Supreme Soldier
 4989|2|en|Legend of Syrius
 15615|2|en|Legend of Tang
@@ -30711,6 +30715,7 @@
 15132|3|x-jat|mahouka2
 13916|3|x-jat|mahouritsu
 8821|3|x-jat|mahoushoujolyricalnanohaas movie
+14461|2|x-jat|Mahoutsukai ni Narenakatta Onnanoko no Hanashi
 458|2|x-jat|Mahoutsukai ni Taisetsu na Koto
 5830|2|x-jat|Mahoutsukai ni Taisetsu na Koto: Natsu no Sora
 18599|2|x-jat|Mahoutsukai no Yakusoku
@@ -36093,6 +36098,7 @@
 3155|2|en|Nozomi in the Sun
 2704|1|x-jat|Nozomi Witches
 10672|2|x-jat|Nozomi x Kimio
+18786|2|en|NP Angler
 277|3|en|ns
 9333|3|x-jat|ns (2012)
 681|3|en|NS tv
@@ -36279,6 +36285,7 @@
 1868|4|pt|O Conde de Monte Cristo
 5954|2|pt-BR|O Conde e a Fada
 9515|4|pt|O Conto da Princesa Kaguya
+18451|2|pt-BR|O curandeiro que foi banido do seu grupo é na verdade, o mais forte!
 4698|4|pl|O czym szumią wierzby
 7221|2|pt-BR|O Desaparecimento de Haruhi Suzumiya
 7221|2|pt-BR|O Desaparecimento de Suzumiya Haruhi
@@ -43329,6 +43336,8 @@
 13493|2|x-jat|SAO Alicization
 13494|3|en|SAO Alternative: GGO
 11681|2|en|SAO Movie Ordinal Scale
+13494|2|en|SAO: GGO
+18116|2|en|SAO: GGO S2
 8692|3|en|SAO1
 10376|3|x-jat|SAO2
 13493|3|en|SAO3
@@ -47976,6 +47985,7 @@
 10376|4|fr|Sword Art Online 2: Phantom Bullet
 13493|4|en|Sword Art Online Alicization
 13493|4|de|Sword Art Online Alicization
+18116|2|en|Sword Art Online Alternative - Gun Gale Online S2
 13494|1|x-jat|Sword Art Online Alternative: Gun Gale Online
 13494|4|en|Sword Art Online Alternative: Gun Gale Online
 13494|3|de|Sword Art Online Alternative: Gun Gale Online
@@ -49911,6 +49921,7 @@
 9701|4|ja|THE IDOLM@STER MOVIE 輝きの向こう側へ!
 17918|4|ja|THE IDOLM@STER SHINY COLORS
 18523|4|ja|THE IDOLM@STER SHINY COLORS 2nd season
+18523|2|en|The iDOLM@STER Shiny Colors S2
 9283|4|ja|THE iDOLM@STER SHINY FESTA
 12820|4|en|The Idolm@ster Side M
 12820|4|fr|THE IDOLM@STER Side M
@@ -50363,6 +50374,7 @@
 4942|2|en|The Princess Knight "Janne"
 4942|2|en|The Princess Knight ``Janne`` The Animation
 14249|2|en|The Princess with a Cursed Sword is Very Lewd
+18898|2|en|The Princess-Knight Bride of Barbaroi
 11864|2|en|The Princess, the Stray Cat, and Matters of the Heart
 8947|2|en|The Princesses` Annoying Love
 13726|2|en|The Prisoners of Time
@@ -50752,6 +50764,7 @@
 11428|4|en|The Undertaker and the Dog
 7193|2|en|The Underwater Tyrant
 17291|2|en|The Unforgiven
+18895|2|en|The Uninhabited Wonderland
 5578|2|en|The Unknown Girl Friend
 9421|2|en|The Unlimited Hyobu Kyosuke
 9421|4|zh-Hans|THE UNLIMITED 兵部京介
@@ -52126,6 +52139,7 @@
 17464|3|x-jat|Trigun: Stampede
 18195|1|x-jat|Trillion Game
 18195|4|en|Trillion Game
+18195|2|en|Trillion Game (2024)
 7047|2|en|Trilogy About Cloud
 7047|2|en|Trilogy About Clouds
 2810|3|x-jat|trinity
@@ -54596,6 +54610,7 @@
 809|4|ja|WILD ARMS Twilight Venom
 809|1|x-jat|Wild Arms: Twilight Venom
 1233|4|en|Wild Cardz
+18895|2|en|Wild Fairyland
 17467|1|en|Wild Fire
 3456|2|en|Wild Knights Gulkeeva
 4098|4|en|Wild Seven
