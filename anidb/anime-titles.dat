@@ -1,4 +1,4 @@
-# created: Sat Oct  5 03:00:01 2024
+# created: Sun Oct  6 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -9738,6 +9738,10 @@
 18267|3|x-jat|DanMachi V
 10894|4|es-419|DanMachi: ¿Está mal seducir chicas en un calabozo?
 10894|4|es|DanMachi: ¿Qué tiene de malo intentar ligar en una mazmorra?
+13829|4|es|DanMachi: ¿Qué tiene de malo intentar ligar en una mazmorra? II
+15111|4|es|DanMachi: ¿Qué tiene de malo intentar ligar en una mazmorra? III
+16032|4|es|DanMachi: ¿Qué tiene de malo intentar ligar en una mazmorra? IV
+18267|4|es|DanMachi: ¿Qué tiene de malo intentar ligar en una mazmorra? V
 13830|4|es-419|DanMachi: Arrow of the Orion
 10894|4|it|DanMachi: È sbagliato cercare di incontrare ragazze in un dungeon?
 10894|4|de|Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?
@@ -18028,6 +18032,7 @@
 16862|4|zh-Hans|Gon的旱獭之獭獭突然想到
 11314|2|en|Good Bye Elvis and USA
 11313|2|en|Good Bye Marilyn
+18537|4|en|Good Bye, Dragon Life
 18537|4|de|Good Bye, Dragon Life
 6558|2|en|Good Evening Just For You
 17510|4|en|Good Friend
@@ -18059,7 +18064,6 @@
 16418|1|x-jat|Goodbye, Don Glees!
 16418|2|x-jat|Goodbye, DonGlees!
 16418|4|it|Goodbye, DonGlees!
-18537|2|en|Goodbye, Dragon Life
 18643|2|en|Goodbye, Lara
 10530|2|en|Google it! Kokkuri-san
 12979|1|x-jat|Gooorgeous
@@ -18878,6 +18882,7 @@
 7237|2|en|Gurumi Town`s Trap: Stained Body in the Clouds
 15018|1|x-jat|Gusha no Parade
 17910|4|en|Gushing over Magical Girls
+18899|2|en|Gushing over Magical Girls 2
 8922|2|x-jat|Guskô Budori no Denki
 6572|1|x-jat|Guskou Budori no Denki
 8922|1|x-jat|Guskou Budori no Denki (2012)
@@ -21814,6 +21819,7 @@
 3609|2|en|Hypo and Thomas
 3609|4|pl|Hyppo and Thomas
 17910|2|en|I Admire Magical Girls, and...
+18899|2|en|I Admire Magical Girls, and... 2
 6576|2|en|I Am a Cat
 15860|2|en|I Am a Great God
 14781|2|en|I am Bai Xiaofei
@@ -30250,6 +30256,7 @@
 2353|2|x-jat|Madou Ou Granzort: Saigo no Magical Taisen
 14162|4|x-jat|Madou Soshi
 14428|4|x-jat|Madou Soshi (2019)
+18172|3|en|madougushi
 18172|1|x-jat|Madougushi Dahlia wa Utsumukanai
 18172|2|x-jat|Madougushi Dahliya wa Utsumukanai
 531|2|x-jat|Madouou Grandzort
@@ -30536,6 +30543,7 @@
 1619|2|x-jat|Mahojin Guru Guru 2
 311|2|x-jat|Mahojin Guruguru
 1619|2|x-jat|Mahojin Guruguru 2
+14461|2|x-jat|Mahonare
 2443|3|x-jat|Mahoraba
 2443|1|x-jat|Mahoraba: Heartful Days
 109|4|fr|Mahoromatic
@@ -30633,6 +30641,7 @@
 12317|4|en|Mahou Shoujo Nante Mouiidesukara Second Season
 187|2|x-jat|Mahou Shoujo Neko Taruto
 17910|1|x-jat|Mahou Shoujo ni Akogarete
+18899|1|x-jat|Mahou Shoujo ni Akogarete 2
 18109|1|x-jat|Mahou Shoujo Noble Rose The Animation
 10770|1|x-jat|Mahou Shoujo Ore
 1075|1|x-jat|Mahou Shoujo Pretty Sammy
@@ -31886,6 +31895,7 @@
 253|1|x-jat|Megami Kouhosei
 263|2|x-jat|Megami Kouhosei OVA
 263|1|x-jat|Megami Kouhosei Special Curriculum: Nakama
+18806|4|x-jat|Megami Kourin
 1722|2|x-jat|Megami Kyouju
 1722|1|x-jat|Megami Kyoujyu
 17612|1|x-jat|Megami no Cafe Terrace
@@ -35443,6 +35453,7 @@
 46|4|de|NieA_7
 46|4|fr|NieA_7
 361|4|pl|Niebieska łódź podwodna
+18278|4|pl|Niebieskie pudełko
 11616|1|x-jat|Niedola
 11616|4|ja|Niedola
 15996|1|x-jat|Niehime to Kemono no Ou
@@ -36344,6 +36355,7 @@
 10967|4|pt|O Rapaz e o Monstro
 679|4|pt-BR|O Reino dos Gatos
 679|4|pt|O Reino Dos Gatos
+17480|4|pl|O ruchach Ziemi
 286|4|pt-BR|O Serviço de Entregas da Kiki
 1681|4|pt|O Super Prémio
 847|4|pt|O Teatro de Rumiko
@@ -43474,12 +43486,11 @@
 18643|1|x-jat|Sayonara Lara
 13262|1|x-jat|Sayonara no Asa ni Yakusoku no Hana o Kazarou
 16195|1|x-jat|Sayonara no Tsubasa: The End of Triangle
-18537|1|x-jat|Sayonara Ryuusei, Konnichiwa Jinsei
 15708|1|x-jat|Sayonara Watashi no Cramer
 5083|1|x-jat|Sayonara Zetsubou-sensei
 14069|2|x-jat|Sayonara, Tyranno
 14069|4|x-jat|Sayonara, Tyrano
-18537|2|x-jat|Sayounara Ryuusei, Konnichiwa Jinsei
+18537|1|x-jat|Sayounara Ryuusei, Konnichiwa Jinsei
 8636|2|en|Sayuri, the Mother-in-Law
 1830|3|x-jat|sazae
 1830|1|x-jat|Sazae-san
@@ -54681,6 +54692,7 @@
 6791|2|en|Wish upon a Star: Fantastic Cat
 8076|4|en|Wish Upon the Pleiades
 10958|4|en|Wish Upon the Pleiades (2015)
+18482|3|en|wistoria
 18482|4|en|Wistoria: Wand and Sword
 18889|2|en|Wistoria: Wand and Sword 2
 4121|2|pl|Witaj w NHK!
@@ -63660,6 +63672,7 @@
 3626|4|th|นินจารันทาโร่
 4812|2|th|เนกิมะ!? ภาคพิเศษฤดูร้อน
 3408|4|th|เนตรเพลิงชานะ
+18534|4|th|โนโกะตัน เพื่อนฉันพันธุ์กวาง
 4691|3|th|โนดาเมะ
 333|4|th|ในความทรงจำที่ไม่มีวันจาง
 9077|4|th|บทเพลงบรรเลงฝัน
@@ -74354,6 +74367,7 @@
 16915|4|ja|モブサイコ100 III
 13527|4|ja|モブサイコ100 REIGEN ~知られざる奇跡の霊能力者~
 14941|4|ja|モブサイコ100 第一回霊とか相談所慰安旅行~ココロ満たす癒やしの旅~
+17996|4|ja|モブ皇帝
 2500|4|ja|もみじ
 18600|4|ja|もめんたりー・リリィ
 194|4|ja|ももいろシスターズ
@@ -79057,6 +79071,7 @@
 14421|4|zh-Hant|女神異聞錄5 the Animation (2018)
 17612|4|zh-Hans|女神的露天咖啡厅
 18080|2|x-unk|女神的露天咖啡厅 第二季
+18806|4|ja|女神降臨
 4617|4|ja|女系家族 ~淫謀~
 10850|4|ja|女系家族III~秘密HIMITSU卑蜜~ THE ANIME
 3103|3|ja|女転
@@ -82315,6 +82330,7 @@
 10570|4|ja|時季[とき]は巡る ~TOKYO STATION~
 1860|4|ja|時空[とき]の旅人 Time Stranger
 1860|2|ja|時空の旅人
+17321|4|ja|時空の隙
 633|4|ja|時空冒険ヌウマモンジャ~
 633|2|x-jat|時空冒険ヌウマモンジャー
 1799|4|ja|時空冒険記 ゼントリックス
@@ -84894,6 +84910,7 @@
 10811|4|zh-Hans|百合熊风暴
 4109|4|ja|百喜夜行 ~わらし~
 15966|4|ja|百妖譜
+15967|4|ja|百妖譜 第2期
 15967|2|zh-Hans|百妖谱 2
 17535|4|zh-Hans|百妖谱 京师篇
 17821|4|zh-Hans|百妖谱 司府篇
@@ -86224,6 +86241,7 @@
 6685|2|zh-Hans|肯普法
 6685|4|zh-Hant|肯普法
 8163|4|zh-Hans|肯普法 为了爱
+18290|4|zh-Hans|胆大党
 15822|4|ja|背徳の境界
 658|4|ja|背徳の少女
 4081|4|ja|背徳妻
@@ -89150,6 +89168,7 @@
 11691|4|ja|魔法少女なんてもういいですから.
 12317|4|ja|魔法少女なんてもういいですから. セカンドシーズン
 17910|4|ja|魔法少女にあこがれて
+18899|4|ja|魔法少女にあこがれて 2
 18109|4|ja|魔法少女ノーブル・ローズ THE ANIMATION
 10461|4|ja|魔法少女はキスして変身[かわ]る ~相手が彼以外の人だなんて......~
 10461|2|ja|魔法少女はキスして変身る
@@ -89348,6 +89367,10 @@
 16618|4|zh-Hans|魔道祖师 完结篇
 14428|4|zh|魔道祖师 羡云篇
 15617|4|zh-Hans|魔道祖师Q
+14162|4|ja|魔道祖師
+14428|2|ja|魔道祖師 (2019)
+16618|2|ja|魔道祖師 (2021)
+16618|4|ja|魔道祖師 完結編
 14428|4|ja|魔道祖師 羨雲編
 15617|4|zh-Hant|魔道祖師Q
 15617|4|ja|魔道祖師Q
