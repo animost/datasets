@@ -1,4 +1,4 @@
-# created: Sun Oct  6 03:00:02 2024
+# created: Mon Oct  7 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -112,6 +112,7 @@
 16424|2|en|"Ippon" Again!
 17449|1|x-jat|"Oshi no Ko"
 18086|1|x-jat|"Oshi no Ko" (2024)
+18901|1|x-jat|"Oshi no Ko" 3
 14586|2|en|"Parade" de Satie
 15157|1|x-jat|"Uchuu Senkan Yamato" to Iu Jidai: Seireki 2202-nen no Sentaku
 10143|2|en|"Zero"
@@ -159,6 +160,7 @@
 18086|4|zh-Hans|[我推的孩子] (2024)
 17449|4|ja|[推しの子]
 18086|4|ja|[推しの子] (2024)
+18901|4|ja|[推しの子] 3
 16168|2|x-jat|{takt: op. Destiny}
 18424|4|ja|〈物語〉シリーズ オフ＆モンスターシーズン
 10143|4|ja|「0」
@@ -2605,6 +2607,7 @@
 5211|1|x-jat|Ani*Kuri15
 1061|4|pl|Ania z Zielonego Wzgórza
 11325|1|x-jat|Aniki no Yome-san nara, Ore ni Hamerarete Hiihii Itteru Tokoro Da yo
+5211|2|x-jat|Anikuri 15
 8028|1|x-jat|Anima
 13756|1|x-jat|Anima Yell!
 13756|4|en|Anima Yell!
@@ -2878,6 +2881,7 @@
 361|2|x-jat|Ao no 6-gou
 11333|1|x-jat|Ao no Doumon
 8148|1|x-jat|Ao no Exorcist
+18561|2|x-jat|Ao no Exorcist - Yuki no Hate-hen
 8689|1|x-jat|Ao no Exorcist Gekijouban
 18429|4|ja|Ao no Exorcist: Kuro no Iede
 12240|1|x-jat|Ao no Exorcist: Kyoto Fujouou Hen
@@ -21514,6 +21518,7 @@
 7382|3|x-jat|HSOTDTV
 13276|3|x-jat|htr
 3296|3|en|HU
+18905|1|x-zht|Hu He Yao Shi Lu
 17102|1|x-zht|Hu Li Da Lieren
 13735|2|x-zht|Hu Li Zhi Sheng
 8293|1|x-zht|Hu wang gui lai
@@ -32849,6 +32854,7 @@
 5870|1|x-jat|Mission-E
 5870|4|ja|MISSION-E
 17773|4|en|Mission: Yozakura Family
+18900|2|en|Mission: Yozakura Family 2
 2291|4|de|Missis Jo und ihre fröhliche Familie
 264|1|x-jat|Mister Ajikko
 1678|2|en|Mister Ikkyu
@@ -35470,6 +35476,7 @@
 18134|2|x-jat|NieR:Automata Ver1.1a Season 2
 3412|2|pl|Nieśmiertelny: W poszukiwaniu zemsty
 17909|1|x-jat|Nige Jouzu no Wakagimi
+18903|1|x-jat|Nige Jouzu no Wakagimi 2
 18410|1|x-jat|Niger Monogatari
 17909|3|x-jat|Nigewaka
 15834|4|ja|NIGHT HEAD 2041
@@ -37506,6 +37513,7 @@
 17449|4|fr|Oshi no Ko
 18086|4|en|Oshi no Ko (2024)
 18086|2|x-jat|Oshi no Ko 2
+18901|2|en|Oshi no Ko 3
 18086|2|x-jat|Oshi no Ko Season 2
 14087|3|x-jat|Oshibudou
 13836|1|x-jat|Oshie to Tabi Suru Otoko
@@ -41249,6 +41257,7 @@
 14192|1|x-jat|Re:Stage! Dream Days
 14192|4|en|Re:Stage! Dream Days
 14192|4|zh-Hans|Re:Stage！Dream Days♪
+15538|2|ja|Re:STARS
 11370|3|ja|Re:Zero
 11370|4|en|Re:Zero - Starting Life in Another World
 11370|4|de|Re:Zero - Starting Life in Another World
@@ -41503,7 +41512,7 @@
 14096|2|x-jat|Reizou Kono Kuni no Cocomong 3
 1436|1|x-jat|Rejuvenation
 18154|3|x-jat|Rekiaku
-18154|1|x-jat|Rekishi ni Nokoru Akujo ni Naruzo
+18154|1|x-jat|Rekishi ni Nokoru Akujo ni Naru zo
 571|1|x-jat|Rekka no Honoo
 9426|1|x-jat|Rekka no Honoo: Final Burning
 15583|2|en|Release That Witch
@@ -43615,6 +43624,8 @@
 14288|2|en|Scissor Seven 0
 15961|2|en|Scissor Seven 3
 17852|2|en|Scissor Seven 4
+18904|2|en|Scissor Seven 5
+18904|2|en|Scissor Seven: Fragments of Memory
 1099|2|x-jat|SCK
 5065|1|x-jat|Scoopers
 203|2|en|Scorched Bread
@@ -46243,6 +46254,7 @@
 17630|2|x-jat|Sono Kisekae Ningyou wa Koi o Suru 2
 8345|1|x-jat|Sono Mukou no Mukougawa
 14339|1|x-jat|Sono Toki, Kanojo wa.
+18451|3|x-unk|sonochiyushi
 7541|3|en|sonohana
 14339|3|x-jat|sonokano
 9631|1|x-kot|Sonyeon 007 Eunhateukgongdae
@@ -49667,6 +49679,7 @@
 15349|2|en|The Elder Sister Like One
 8911|2|en|The Elder Sister`s Free Oral Day
 17909|4|en|The Elusive Samurai
+18903|2|en|The Elusive Samurai 2
 851|4|en|The Elven Bride
 16073|4|en|The Eminence in Shadow
 17877|4|en|The Eminence in Shadow 2nd Season
@@ -49879,6 +49892,7 @@
 6844|2|en|The Hare and The Tortoise
 12860|4|en|The Hare in Inaba
 2465|4|en|The Harvest Night
+18451|2|en|The Healer
 18451|4|en|The Healer Who Was Banished From His Party, Is, in Fact, the Strongest
 16601|4|en|The Heike Story
 14514|4|en|The Helpful Fox Senko-san
@@ -51056,6 +51070,7 @@
 18692|2|x-zht|Tian Ting Ban Zhuan Xia
 14402|1|x-zht|Tian Xing Jiu Ge
 14985|1|x-zht|Tian Xing Jiu Ge Di Er Ji
+18906|1|x-zht|Tian Ying
 15452|1|x-zht|Tian Yu
 15370|1|x-zht|Tian Yu 2
 15370|2|x-zht|Tian Yu 2nd Season: Cang Gu Zhi Ban
@@ -51088,6 +51103,7 @@
 7927|2|zh|Tiě shàn gōngzhǔ
 104|2|vi|Tiếng gọi từ vì sao xa
 1544|4|vi|Tiếng hát yêu nhân
+17480|4|es|Tierra, sangre, conocimiento: Sobre el movimiento de la Tierra
 558|4|vi|Tiểu Thần Zenki
 5062|4|de|Tiffel & Taffel
 8101|1|x-jat|Tiger & Bunny
@@ -51955,6 +51971,7 @@
 15391|4|en|Tower of God
 15391|4|fr|Tower of God
 17559|2|en|Tower of God 2nd Season
+17559|2|en|Tower of God S2
 17559|4|en|Tower of God Season 2
 17559|2|en|Tower of God: Return of the prince
 8852|3|x-jat|TOxA
@@ -52719,6 +52736,7 @@
 14187|1|x-jat|Uchuu Senkan Tiramisu II
 648|1|x-jat|Uchuu Senkan Yamato
 2814|1|x-jat|Uchuu Senkan Yamato (1977)
+18902|1|x-jat|Uchuu Senkan Yamato (Shinsaku Anime Eizou)
 2662|1|x-jat|Uchuu Senkan Yamato 2
 8787|1|x-jat|Uchuu Senkan Yamato 2199
 10430|1|x-jat|Uchuu Senkan Yamato 2199: Hoshi-Meguru Hakobune
@@ -53419,6 +53437,7 @@
 6299|4|lt|Užmaršties sala
 15063|1|x-jat|Uzumaki
 15063|4|en|Uzumaki
+15063|2|en|Uzumaki: Spiral Into Horror
 721|3|x-jat|V Gundam
 9376|2|cs|V koutě našeho světa
 1557|1|x-jat|V.G.Neo The Animation
@@ -55012,6 +55031,7 @@
 12251|2|zh|Wu Kong Da Zhan Er Lang Shen
 11650|1|x-zht|Wu Lan Qi Qi Ge
 17852|1|x-zht|Wu Liuqi: Anying Suming
+18904|1|x-zht|Wu Liuqi: Jiyi Suipian
 15961|1|x-zht|Wu Liuqi: Xuanwu Guo Pian
 15381|1|x-zht|Wu Liuqi: Zui Qiang Fa Xing Shi
 15381|2|en|Wu Liuqi`s Strongest Hair Stylist
@@ -55032,6 +55052,8 @@
 9417|3|en|wug
 10245|3|en|wug movie
 10785|3|x-jat|wug zoo
+18907|1|x-zht|Wuhang Zhanshen
+18908|1|x-zht|Wuhang Zhanshen 2
 18851|1|x-zht|Wujin Shenyu
 12251|1|x-zht|Wukong Dazhan Er Lang Shen
 18748|1|x-zht|Wuliao Jiu Wanjie
@@ -55904,6 +55926,7 @@
 6795|2|x-jat|Yona Yona Penguin
 6795|4|hu|Yona, a pingvinek királynője
 6795|4|fr|Yona, la légende de l`oiseau sans ailes
+10725|2|es|Yona, la princesa del amanecer
 10725|4|es|Yona, princesa del amanecer
 10725|4|fr|Yona, princesse de l`aube
 6795|4|pt|Yona: A Lenda da Ave Sem Asas
@@ -56199,6 +56222,8 @@
 9817|2|en|Yozakura Quartet: Howl at the Moon
 9817|1|x-jat|Yozakura Quartet: Tsuki ni Naku
 17773|1|x-jat|Yozakura-san Chi no Daisakusen
+18900|1|x-jat|Yozakura-san Chi no Daisakusen 2
+18900|2|x-jat|Yozakura-san Chi no Daisakusen Season 2
 4901|3|x-jat|YPC5
 5976|3|x-jat|yq
 7460|3|en|yqhnu
@@ -73049,7 +73074,9 @@
 12728|4|ja|ふうせんいぬティニー なんだかふしぎな きょうりゅうのくに
 11614|4|ja|ふうせんいぬティニー(第2シリーズ)
 4456|2|ja|フウムーン
+16607|2|ja|フェ～レンザイ
 18752|4|ja|フェ～レンザイ -神さまの日常-
+13852|4|ja|フェ～レンザイ -神さまの日常- (2)
 13295|2|ja|フェアリー・テイル (2018)
 14627|2|ja|フェアリーゴーン
 14916|2|ja|フェアリーゴーン(第2クール)
@@ -75183,6 +75210,7 @@
 7847|4|ja|一休さん 春だ! やんちゃ姫
 1680|4|ja|一休さんとやんちゃ姫
 1678|4|zh-Hant|一休和尚
+18195|4|zh-Hant|一兆遊戲
 5499|2|zh-Hans|一千零一夜
 10273|4|zh-Hans|一周的朋友。
 17900|4|zh-Hans|一定要与猫和解
@@ -75714,6 +75742,8 @@
 14247|4|zh-Hans|五等分的新娘
 14903|4|zh-Hans|五等分的新娘∬
 17968|4|zh-Hans|五等分的新娘∽
+18907|4|zh-Hans|五行战神
+18908|4|zh-Hans|五行战神 第二季
 3358|4|ja|井原西鶴 好色一代男
 11577|4|zh-Hans|亚人
 11265|4|zh-Hans|亚人 剧场版
@@ -75975,6 +76005,7 @@
 15381|4|zh|伍六七之最强发型师
 17852|4|zh-Hans|伍六七之暗影宿命
 15961|4|zh-Hans|伍六七之玄武国篇
+18904|4|zh-Hans|伍六七之记忆碎片
 15961|2|zh-Hans|伍六七第三季
 9074|4|ja|伏 鉄砲娘の捕物帳
 9074|4|zh-Hans|伏 铁炮娘的捕物帐
@@ -76081,6 +76112,7 @@
 12307|4|ja|侍霊演武[ソウルバスター] 将星乱
 12307|2|zh|侍靈演武
 5099|4|zh-Hans|依巴拉度~时间篇
+18592|4|zh-Hans|依靠最弱辅助职能【话术士】的我统领世界最强氏族
 18438|2|zh-Hans|依靠被嫌弃的【状态异常技能】而成为最强的我最终蹂躏一切
 17165|4|zh-Hans|侠岚
 15220|2|zh-Hans|侠岚 第七季
@@ -76518,6 +76550,7 @@
 17162|4|ja|兵主奇魂
 17162|4|zh-Hans|兵主奇魂
 17857|4|zh-Hans|兵主奇魂 (2023)
+16651|4|ja|兵馬俑の城
 17000|4|ja|其れ, 則ちスケッチ.
 8830|4|zh|其中一个是妹妹
 17611|4|zh-Hans|其实，我是最强的？
@@ -76614,6 +76647,7 @@
 399|4|zh-Hans|最游记 Requiem 落选者的镇魂歌
 2446|4|zh-Hans|最游记OVA
 1081|4|zh-Hans|最游记RELOAD
+18592|4|zh-Hant|最狂輔助職業【話術士】世界最強戰團聽我號令
 113|4|ja|最終兵器彼女
 2700|4|ja|最終兵器彼女 Another love song
 1359|4|ja|最終痴漢電車
@@ -76720,6 +76754,7 @@
 4024|4|ja|凌辱人妻温泉
 4302|4|ja|凌辱女子学園
 13792|4|ja|凌辱輪廻
+18404|4|zh-Hant|凍牌~地下麻將鬥牌錄~
 18404|4|ja|凍牌~裏レート麻雀闘牌録~
 18265|4|zh-Hans|凡人修仙传 星海飞驰篇 序章
 16039|2|zh-Hant|凡人修仙传 特别篇: 燕家堡大战
@@ -76794,6 +76829,7 @@
 11681|4|zh|刀劍神域劇場版：序列爭戰
 11681|4|zh-Hant|刀劍神域劇場版：序列爭戰
 13494|4|zh-Hant|刀劍神域外傳 Gun Gale Online
+18116|4|zh-Hant|刀劍神域外傳 Gun Gale Online II
 10022|4|zh-Hant|刀劍神域特別篇
 6613|4|ja|刀語
 6613|4|zh-Hans|刀语
@@ -77188,6 +77224,7 @@
 17809|4|ja|劇場版アイドリッシュセブン LIVE 4bit BEYOND THE PERiOD
 2731|3|ja|劇場版アキ電
 5390|4|ja|劇場版アクエリオン
+17707|2|ja|劇場版アニメ i☆Ris the Movie - Full Energy!! -
 7983|4|ja|劇場版アニメ 忍たま乱太郎 忍術学園 全員出動! の段
 9356|4|ja|劇場版あの日見た花の名前を僕達はまだ知らない.
 15977|4|ja|劇場版アルゴナビス AXIA
@@ -77504,6 +77541,7 @@
 14410|4|ja|厨病激発ボーイ
 14658|4|zh-Hans|厨神小当家
 11017|4|ja|厳格クールな先生がアヘボテオチ!
+18228|4|zh-Hant|去參加聯誼，卻發現完全沒有女生在場
 9924|4|ja|参乗合体 トランスフォーマーGo!
 14880|4|zh-Hans|参娃与天池怪兽之瑞雪兆丰年
 16026|4|ja|友達の妹が俺にだけウザい
@@ -78055,6 +78093,7 @@
 15675|4|zh-Hans|嗜谎之神
 18498|4|ja|嘆きの亡霊は引退したい
 158|4|ja|嘆きの健康優良児
+18498|4|zh-Hant|嘆氣的亡靈想隱退
 9069|4|ja|嘘喰い
 8679|4|zh-Hans|嘟嘟猫观察日记
 14868|4|zh-Hans|嘟当曼
@@ -78211,6 +78250,7 @@
 13829|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 2
 16032|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 4
 15111|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 第三季
+18267|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 第五季
 13830|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼：俄里翁之箭
 17580|4|zh-Hans|在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～
 17580|2|zh-Hant|在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～
@@ -78218,6 +78258,7 @@
 9376|4|zh-Hans|在这世界的角落
 15095|4|zh-Hant|在魔王城說晚安
 15095|4|zh-Hans|在魔王城说晚安
+17480|4|zh-Hans|地。―关于地球的运动―
 4528|2|zh-Hans|地上最强的新娘
 10394|4|ja|地下すぎアイドル あかえちゃん
 17092|4|ja|地下城の魔物
@@ -78506,6 +78547,7 @@
 17938|4|zh-Hans|夜晚的水母不会游泳
 17938|4|zh-Hant|夜晚的水母不會游泳
 17773|4|ja|夜桜さんちの大作戦
+18900|4|ja|夜桜さんちの大作戦 2
 9816|4|ja|夜桜四重奏 ~ハナノウタ~
 7460|4|ja|夜桜四重奏 ~ホシノウミ~
 5976|4|ja|夜桜四重奏 ~ヨザクラカルテット~
@@ -78804,6 +78846,7 @@
 16312|2|zh-Hans|天宝伏妖录 2
 16312|2|zh|天宝伏妖录 第二季
 18692|4|zh-Hans|天庭板砖侠
+18906|4|zh-Hans|天影
 7449|4|ja|天才? Dr.ハマックス
 8653|4|ja|天才えりちゃん金魚を食べた
 10762|4|ja|天才バカヴォン ~蘇るフランダースの犬~
@@ -79344,6 +79387,7 @@
 10117|4|ja|字のないはがき
 12249|4|zh-Hant|孙悟空: 与三件宝贝
 12250|4|zh-Hant|孙悟空: 大戰火焰山
+18432|4|zh-Hant|孤單一人的異世界攻略
 13041|4|ja|孤独のグルメ
 16063|4|zh-Hans|孤独摇滚！
 13041|4|zh-Hans|孤独的美食家
@@ -79478,6 +79522,7 @@
 14187|4|ja|宇宙戦艦ティラミスII
 648|4|ja|宇宙戦艦ヤマト
 2814|4|ja|宇宙戦艦ヤマト (1977)
+18902|4|ja|宇宙戦艦ヤマト (新作アニメ映像)
 1956|4|ja|宇宙戦艦ヤマト 完結編
 2811|4|ja|宇宙戦艦ヤマト 新たなる旅立ち
 6680|4|ja|宇宙戦艦ヤマト・復活篇
@@ -80815,6 +80860,8 @@
 7341|4|ja|悪魔島のプリンス 三つ目がとおる
 12589|4|ja|悲しきマングース
 17688|4|ja|悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします.
+18786|4|zh-Hans|悲喜渔生
+18786|4|zh-Hant|悲喜漁生
 4781|2|zh-Hans|悲惨世界 少女柯塞特
 934|4|ja|悲花陵辱~罠にはまった義兄妹(ふたり)~
 18303|4|ja|悶えてよ, アダムくん
@@ -81862,6 +81909,7 @@
 17965|4|ja|新米オッサン冒険者, 最強パーティに死ぬほど鍛えられて無敵になる.
 16732|4|ja|新米錬金術師の店舗経営
 16878|4|zh-Hant|新網球王子 U-17 世界盃
+18054|4|zh-Hant|新網球王子 U-17 世界盃 SEMIFINAL
 518|2|zh-Hans|新结行军歌
 8601|4|zh-Hans|新网球王子
 16878|4|zh-Hans|新网球王子 U-17 WORLD CUP
@@ -83141,6 +83189,7 @@
 17147|2|zh-Hant|機戰少女 Alice Expansion
 18803|4|ja|機械じかけのマリー
 9128|2|zh-Hant|機械學報告
+17627|4|zh-Hant|機械臂
 7433|4|ja|機甲兵団 J-PHOENIX PFリップス小隊
 1370|4|ja|機甲創世記モスピーダ
 1112|4|ja|機甲戦記ドラグナー
@@ -84584,6 +84633,7 @@
 4611|4|ja|現代畸聞録 怪異物語
 1783|2|ja|現代視覚文化研究会
 18743|4|ja|現代誤訳
+18743|4|zh-Hant|現代誤譯
 15505|4|ja|現実主義勇者の王国再建記
 16804|4|ja|現実主義勇者の王国再建記 (2022)
 16804|2|zh-Hant|現實主義勇者的王國重建記 2
@@ -84812,6 +84862,7 @@
 16046|4|ja|異能のアイシス ESP & HIGH SCHOOL DETECTIVE
 10509|4|ja|異能バトルは日常系のなかで
 13323|2|zh-Hant|畫江湖之杯莫停
+14461|4|zh-Hant|當不成魔法師的女孩
 11694|2|zh-Hant|當女孩遇到熊
 10943|4|zh-Hans|疏忽大意 动画版 女教师中善寺绫乃的淫秽未来
 17982|4|ja|疑似ハーレム
@@ -85179,6 +85230,7 @@
 15116|4|zh-Hans|神兵小将
 15129|4|zh-Hans|神兵小将2
 17065|2|zh-Hant|神劍闖江湖 ―明治劍客浪漫譚―
+18323|4|zh-Hant|神劍闖江湖 ―明治劍客浪漫譚― 京都動亂
 422|4|zh-Hant|神劍闖江湖 維新志士的鎮魂曲
 17039|4|zh-Hans|神医九小姐
 18582|4|zh-Hans|神医九小姐 第二季
@@ -85756,6 +85808,7 @@
 12861|4|ja|結核豫防
 1937|4|ja|結界
 4574|4|ja|結界師
+17994|4|zh-Hant|結緣甘神神社
 10745|4|zh-Hant|絕對雙刃
 1641|4|ja|絢爛舞踏祭 ザ･マーズ･デイブレイク
 16573|4|zh-Hant|給不滅的你 第二季
@@ -86226,6 +86279,7 @@
 17788|4|zh-Hant|聲優廣播的幕前幕後
 335|2|zh|聽到海濤聲
 15136|4|zh-Hant|聽我的電波吧
+17984|4|zh-Hant|聽說你們要結婚！？
 13846|2|zh-Hans|肆式青春
 1852|4|ja|肉体転移
 3524|4|ja|肉嫁 高柳家の人々
@@ -86269,6 +86323,7 @@
 6926|4|ja|腰折燕
 7978|4|zh-Hans|腹黑妹妹控兄记!!
 18329|2|zh-Hans|腼腆英雄 东京夺还篇
+18290|4|zh-Hant|膽大黨
 1422|4|ja|臀撃おしおき娘ゴータマン~ゴータマン誕生篇
 5214|4|ja|臀撃おしおき娘ゴータマンR~愛と哀しみのファイナルバトル!!
 7452|4|zh-Hans|臀犬
@@ -86643,6 +86698,7 @@
 16919|4|zh-Hans|蓝色巨星
 15993|4|zh-Hans|蓝色时期
 16519|4|zh-Hans|蓝色监狱
+17954|4|zh-Hans|蓝色监狱 VS. U-20 日本
 17314|4|zh-Hans|蓝色管弦乐
 4374|2|zh-Hans|蓝色计划-地球SOS
 5044|2|zh|蓝龙
@@ -86703,6 +86759,7 @@
 5910|2|zh-Hans|虎子
 8293|4|zh|虎王归来
 11971|4|zh-Hans|虎面人W
+18905|4|zh-Hans|虎鹤妖师录
 4860|2|zh-Hans|虐杀姬
 10540|4|ja|虐殺器官 GENOCIDAL ORGAN
 16031|2|zh-Hant|處刑少女的生存之道
@@ -87568,6 +87625,7 @@
 8073|4|zh-Hans|追逐繁星的孩子
 13230|4|ja|退魔針
 17909|4|ja|逃げ上手の若君
+18903|4|ja|逃げ上手の若君 2
 10976|4|ja|逃亡者・毛利小五郎
 17803|4|zh-Hans|逃走中 GREAT MISSION
 17803|4|ja|逃走中 グレートミッション
@@ -87796,6 +87854,7 @@
 2488|4|ja|重戦機エルガイムII フェアウェル マイ ラブリー+ペンタゴナ ドールズ
 2489|4|ja|重戦機エルガイムIII フルメタル ソルジャー
 14391|4|zh-Hans|重来吧，魔王大人！
+18167|4|zh-Hans|重来吧、魔王大人！R
 17944|4|zh-Hant|重生者的魔法一定要特別
 17944|4|zh-Hans|重生者的魔法一定要特别
 12252|4|ja|重神機パンドーラ
@@ -88386,6 +88445,7 @@
 17437|4|zh-Hans|雄兵连Ⅲ雷霆万钧
 14869|4|zh-Hans|雄兵连之诸天降临
 16633|4|zh-Hans|雄狮少年
+16633|4|ja|雄獅少年／ライオン少年
 3336|4|ja|集団痴漢電車
 18448|4|ja|雌吹 THE ANIMATION
 12349|4|zh-Hans|雏子的笔记
