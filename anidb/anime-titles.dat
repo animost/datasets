@@ -1,4 +1,4 @@
-# created: Mon Oct  7 03:00:02 2024
+# created: Tue Oct  8 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -7703,6 +7703,7 @@
 4396|2|x-jat|Chevalier
 16198|2|fr|Chez Imaizumi, point de chute pour filles faciles
 5801|3|en|Chi
+17480|2|x-jat|Chi - Chikyuu no Undou ni Tsuite
 11168|1|x-zht|Chi Jian Chuan Qi
 12103|4|fr|Chi mon chaton
 18836|2|x-zht|Chi Yan Jin Yi Wei
@@ -15083,6 +15084,10 @@
 3573|2|pt-BR|Fitando a Meia-Lua no Céu
 652|1|x-jat|Five Card
 4409|2|en|Five Children and It (1985)
+18907|4|en|Five Element God of War
+18908|2|en|Five Element God of War 2
+18908|2|en|Five Element God of War 2nd Season
+18907|2|en|Five Elements God of War
 8083|4|en|Five Numbers!
 730|2|x-jat|Five Star Monogatari
 730|1|x-jat|Five Star Stories
@@ -19935,6 +19940,7 @@
 8271|4|en|Heaven`s Lost Property: The Angeloid of Clockwork
 8370|4|en|Heaven`s Memo Pad
 15648|2|en|Heaven`s Official Blessing
+18906|2|en|Heaven`s Shadow
 18692|2|en|Heavenly Brick Knight
 18692|2|en|Heavenly Brick Man
 2799|4|en|Heavenly Chronicles
@@ -20773,6 +20779,7 @@
 5639|1|x-jat|Himekishi Angelica The Animation
 4493|1|x-jat|Himekishi Lilia
 10216|1|x-jat|Himekishi Olivia
+18898|2|x-jat|Himekishi wa Barbaroi no Yome
 8118|3|x-jat|himepara
 9375|1|x-jat|Himeyuri
 13585|1|x-jat|Himeyuri no Tou
@@ -41867,6 +41874,7 @@
 7931|4|ja|Rio -Rainbow Gate!-
 7931|1|x-jat|Rio: Rainbow Gate!
 7931|4|en|Rio: Rainbow Gate!
+17760|4|pt-BR|Ririsa, Uma Garota em 2.5D
 17760|4|es-419|Ririsa, una chica en 2.5D
 18394|4|en|Rise of the Dragon
 15541|2|en|Rise to Immortality
@@ -44418,7 +44426,9 @@
 2055|4|en|Shadow
 16073|2|en|Shadow Garden
 9213|1|x-kot|Shadow Love
+18906|2|en|Shadow of Heaven
 10880|4|en|Shadow of the Cherry Blossoms
+18906|2|en|Shadow of the Sky
 2543|1|x-jat|Shadow Skill
 2543|4|fr|Shadow Skill
 42|4|de|Shadow Skill
@@ -45807,6 +45817,7 @@
 4383|2|en|Sky Girls OVA
 5269|2|x-jat|Sky Girls TV
 2169|4|en|Sky of Iriya, Summer of UFO
+18906|2|en|Sky Shadow
 10736|4|fr|Sky Wizards Academy
 10736|4|en|Sky Wizards Academy
 10736|4|de|Sky Wizards Academy
@@ -45857,7 +45868,7 @@
 1606|2|en|Slavery Academy
 1973|4|en|Slaves to Passion
 5818|3|en|Slay Rev
-18801|2|en|Slay The Gods
+18801|4|en|Slay The Gods
 39|1|x-jat|Slayers
 39|4|ro|Slayers
 39|4|fr|Slayers
@@ -53339,6 +53350,7 @@
 1360|2|tr|Ushio Ve Tora
 11053|3|x-jat|ushiototora
 11318|3|x-jat|ushiototora2
+4236|2|x-jat|Ushiro no Hyakutaro
 4236|1|x-jat|Ushiro no Hyakutarou
 3630|2|x-jat|Ushiro no Shomen Daare
 3630|1|x-jat|Ushiro no Shoumen Daare
@@ -55054,6 +55066,8 @@
 10785|3|x-jat|wug zoo
 18907|1|x-zht|Wuhang Zhanshen
 18908|1|x-zht|Wuhang Zhanshen 2
+18908|2|x-zht|Wuhang Zhanshen 2nd Season
+18908|2|x-zht|Wuhang Zhanshen Di Er Ji
 18851|1|x-zht|Wujin Shenyu
 12251|1|x-zht|Wukong Dazhan Er Lang Shen
 18748|1|x-zht|Wuliao Jiu Wanjie
@@ -75928,6 +75942,7 @@
 11784|4|zh-Hans|从前有座灵剑山
 12030|4|zh-Hans|从前有座灵剑山 第二季
 18703|4|zh-Hans|从姑获鸟开始之龙城风云
+18358|4|zh-Hans|从小人物开始的探索英雄谭
 11376|4|zh-Hans|从很久以前就喜欢你了。～告白实行委员会～
 18403|4|zh-Hans|从红月开始
 18358|2|zh-Hans|从路人角色开始的探索英雄谭
@@ -78630,6 +78645,7 @@
 6700|4|ja|大力太郎の無茶修業
 13121|4|zh|大卫贝肯之倒霉特工熊
 11322|4|zh-Hans|大叔与棉花糖
+17965|4|zh-Hans|大叔新人冒险者，被最强小队拼死锻炼后无敌了
 17965|2|zh-Hans|大叔新人冒险者被最强小队拼死锻炼后无敌了。
 1771|4|zh-Hans|大和零号
 16703|4|zh-Hans|大嘴巴嘟嘟
@@ -81973,6 +81989,7 @@
 18104|4|zh-Hans|无职转生～到了异世界就拿出真本事～ 第二季 第二季度
 15492|4|zh-Hans|无能力者娜娜
 15492|2|zh-Hans|无能的奈奈
+5493|2|zh-Hans|无能老爸
 18375|4|zh-Hans|无脑魔女
 18784|4|zh-Hans|无脑魔女 (2024)
 18784|2|zh-Hans|无脑魔女 第二季
