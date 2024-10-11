@@ -1,4 +1,4 @@
-# created: Wed Oct  9 03:00:02 2024
+# created: Thu Oct 10 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -880,6 +880,7 @@
 7294|2|pt|A Garota dos Livros: Lanche de Hoje - Primeiro Amor
 7441|2|pt|A Garota dos Livros: Memória
 4151|2|pt-BR|A Garota que Salta Através do Tempo
+18914|2|en|A Gentle Noble`s Vacation Recommendation
 17666|4|en|A Girl & Her Guard Dog
 7044|2|en|A Girl at Dojo Temple
 1090|2|en|A Girl in a Lower Grade
@@ -957,6 +958,7 @@
 16091|4|pt|A Menina do Outro Lado
 16091|4|pt-BR|A Menina do Outro Lado
 4151|2|pt-BR|A Menina que Corre Através do Tempo
+18914|2|en|A Mild Noble`s Vacation Suggestion
 1836|4|pt|A Minha Amiga Licia
 18846|4|en|A Moment But Forever
 17004|2|en|A Mortals Journey
@@ -7446,6 +7448,10 @@
 11895|4|ja|celebration and chorale
 11895|1|x-jat|Celebration and Chorale
 8966|2|x-jat|Celebrity Kano
+17548|2|en|Celestial Destroyer
+17548|2|en|Celestial Destroyer - Scroll of White Silk Cloud
+17548|2|en|Celestial Destroyer Online
+17548|2|en|Celestial Destroyer: Jade Dynasty
 10525|4|en|Celestial Method
 10525|4|es-419|Celestial Method
 10525|4|es|Celestial Method
@@ -7999,6 +8005,7 @@
 9654|1|x-jat|Chokkyuu Hyoudai Robot Anime: Straight Title
 14857|1|x-jat|Chokotto Anime Kemono Friends 3
 4350|2|x-jat|Chokotto Sister
+18659|2|x-zht|Chong Mei
 6934|1|x-jat|Chongire Hebi
 15580|1|x-zht|Chongwu Lianmeng: Pets United
 5303|1|x-kot|Chonnyonyeouu Yeouubi
@@ -9185,6 +9192,7 @@
 2211|4|hu|Csizmás Kandúr mesebeli kalandjai
 2225|4|hu|Csizmás Kandúr: A Világ Körül
 15914|3|x-jat|CSM
+18659|3|en|CSP
 505|3|x-jat|CT
 508|3|x-jat|CT2001
 894|4|cs|Čti nebo zemři
@@ -9727,12 +9735,16 @@
 6711|1|x-jat|Dankichi-jima no Olympic Taikai
 10894|3|x-jat|danmachi
 10894|4|fr|DanMachi : Familia Myth
+17652|3|x-jat|DanMachi 4 Part 2
+18267|3|x-jat|DanMachi 5
+18267|2|x-jat|DanMachi 5th Season
 11974|3|x-jat|danmachi gaiden
 11974|2|en|DanMachi Gaiden: Sword Oratoria
 11974|4|fr|Danmachi Gaiden: Sword Oratoria
 13829|3|x-jat|DanMachi II
 15111|3|x-jat|DanMachi III
 16032|3|x-jat|DanMachi IV
+17652|3|x-jat|DanMachi IV Part 2
 13830|3|x-jat|danmachi movie
 11941|3|x-jat|danmachi ova
 13829|3|x-jat|danmachi s2
@@ -12872,6 +12884,7 @@
 17564|4|pt-BR|Dungeon Meshi
 18687|1|x-jat|Dungeon Meshi 2
 13932|1|x-jat|Dungeon Meshi: Senshi no Kantan Cooking!
+18267|2|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka 5th Season
 11974|1|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden: Sword Oratoria
 18267|2|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka V: Houjou no Megami Hen
 10894|1|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth
@@ -12893,6 +12906,7 @@
 13829|2|x-jat|Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darouka: Familia Myth II
 15111|2|x-jat|Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darouka: Familia Myth III
 16032|2|x-jat|Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka S4
+18267|2|x-jat|Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen
 18162|1|x-jat|Dungeon no Naka no Hito
 18162|4|en|Dungeon People
 8691|2|id|Dunia Percepatan
@@ -23012,6 +23026,7 @@
 10894|2|nl|Is het Verkeerd om Meisjes Op te Pikken in Een Dungeon?
 12350|2|en|Is It True That It’s Summer Vacation?
 10652|2|en|Is it worth it?
+18267|2|en|Is It Wrong That I Want to Meet You in a Dungeon 5
 10894|4|en|Is It Wrong to Try to Pick Up Girls in a Dungeon?
 13829|4|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? II
 15111|4|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? III
@@ -23019,6 +23034,7 @@
 11941|2|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? Is It Wrong to Try to Soak in a Hot Spring in a Dungeon?
 16032|4|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? IV
 17652|4|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? IV (2023)
+18267|2|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? Season 5
 11974|2|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? Sword Oratoria
 18267|4|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? V
 13830|4|en|Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion
@@ -29024,6 +29040,9 @@
 6466|4|es|Llegando a ti
 542|3|en|llrk
 11878|3|x-jat|lls
+15374|3|x-jat|lls1
+16927|3|x-jat|lls2
+17665|3|x-jat|lls3
 13497|2|en|LMDA
 181|3|en|LO
 3442|3|x-jat|LO FF7
@@ -29367,7 +29386,14 @@
 16927|4|en|Love Live! Superstar!! (2022)
 17665|1|x-jat|Love Live! Superstar!! (2024)
 17665|4|en|Love Live! Superstar!! (2024)
+16927|2|x-jat|Love Live! Superstar!! 2
+17665|2|x-jat|Love Live! Superstar!! 3
+17665|2|x-jat|Love Live! Superstar!! 3rd Season
+15374|2|x-jat|Love Live! Superstar!! S1
+16927|2|x-jat|Love Live! Superstar!! S2
 17665|2|en|Love Live! Superstar!! S3
+16927|2|en|Love Live! Superstar!! Season 2
+17665|2|en|Love Live! Superstar!! Season 3
 10720|1|x-jat|Love Live! The School Idol Movie
 10720|4|en|Love Live! The School Idol Movie
 9927|4|zh-Hans|Love Live! 第二季
@@ -35489,6 +35515,7 @@
 18134|4|ja|NieR:Automata Ver1.1a (2024)
 18134|1|x-jat|NieR:Automata Ver1.1a (2024)
 18134|4|en|NieR:Automata Ver1.1a (2024)
+18134|2|x-jat|NieR:Automata Ver1.1a Part 2
 18134|2|x-jat|NieR:Automata Ver1.1a Season 2
 3412|2|pl|Nieśmiertelny: W poszukiwaniu zemsty
 17909|1|x-jat|Nige Jouzu no Wakagimi
@@ -36481,6 +36508,7 @@
 13504|1|x-jat|Odaishi-sama
 8869|3|x-jat|odanobuna
 8869|3|x-jat|Odaya
+18914|1|x-jat|Odayaka Kizoku no Kyuuka no Susume.
 10145|4|hr|Odbojka
 15989|1|x-jat|Odd Taxi
 15989|4|ja|ODD TAXI
@@ -39649,6 +39677,8 @@
 15626|4|en|PokeToon
 15626|1|x-jat|PokeToon
 15626|4|ja|POKÉTOON
+18915|1|x-jat|PokeToon (2024)
+18915|4|ja|POKÉTOON (2024)
 3291|4|hu|Pokoli Lány
 4693|1|x-jat|Pokonyan!
 8411|1|x-jat|Pokopon no Yukai na Saiyuuki
@@ -47889,6 +47919,7 @@
 18393|4|en|Supreme Sword God
 18893|2|en|Supreme Sword God 2
 18893|2|en|Supreme Sword God 2nd Season
+18659|2|en|Supreme Tamer
 3962|1|x-jat|Surf Side High-School
 3962|2|ja|SURF SIDE HIGH-SCHOOL
 17884|2|en|Surgeon Elise
@@ -48711,6 +48742,7 @@
 12814|3|en|TC
 3304|4|fr|Tchaou & Grodo
 3304|2|fr|Tchaou et Grodo
+18659|3|en|TCOSP
 6191|3|x-jat|TCS
 2159|3|x-jat|TDD
 8549|3|x-jat|TE
@@ -51134,6 +51166,8 @@
 8101|2|en|Tiger and Bunny
 8101|4|el|Tiger and Bunny
 13713|2|en|Tiger and Bunny 2
+18905|2|en|Tiger Crane
+18905|2|en|Tiger Crane Demon Master Record
 8101|4|hr|Tiger i Bunny
 864|1|x-jat|Tiger Mask
 7647|1|x-jat|Tiger Mask (1970)
@@ -51144,6 +51178,8 @@
 6971|1|x-jat|Tiger Mask: Fukumen League Sen
 6971|2|en|Tiger Mask: War to the League of Masked Wrestlers
 8101|4|ro|Tiger și Bunny
+18905|2|en|Tiger x Crane
+18905|2|en|Tiger x Crane Demon Master
 5909|2|en|Tiger x Dragon
 5909|4|zh|TIGER x DRAGON!
 5909|4|zh-Hant|TIGER×DRAGON！
@@ -56418,6 +56454,7 @@
 2766|3|x-jat|yugx
 13395|1|x-kot|Yuhuwa Chingudeul
 3529|4|it|Yui ragazza virtuale
+16927|3|x-jat|yuigaoka2
 17665|3|x-jat|yuigaoka3
 12740|1|x-jat|Yukai na Animal Bus
 13111|1|x-jat|Yukai na Animal Bus (2017)
@@ -57007,6 +57044,8 @@
 18790|1|x-zht|Zhui Xu 2
 18790|2|x-zht|Zhui Xu 2nd Season
 18790|2|x-zht|Zhui Xu Di Er Ji
+17548|2|x-zht|Zhuxian
+18577|2|x-zht|Zhuxian (2024)
 16594|1|x-zht|Zi Chuan
 14866|1|x-zht|Zi Gu Yingxiong Chu Shaonian
 16594|2|x-zht|ZICHUAN
@@ -80796,6 +80835,7 @@
 8984|4|ja|恋距離遠愛
 14883|4|zh-Hans|恋途未卜
 1675|4|ja|恋風
+1675|4|zh-Hans|恋风
 9848|4|ja|恋騎士 Purely☆Kiss The Animation
 1107|4|ja|恐怖のバイオ人間 最終教師
 5681|4|ja|恐怖伝説 怪奇! フランケンシュタイン
@@ -85557,6 +85597,7 @@
 13393|4|ja|稲川淳二のすご~く恐い話
 10391|4|zh-Hans|稻荷恋之歌 OAD
 8685|4|ja|積乱雲グラフィティ
+18914|4|ja|穏やか貴族の休暇のすすめ.
 10871|4|ja|穴の奥のいい秘部[ところ]
 1867|4|zh-Hans|穴光假面
 1261|4|ja|究極のSEXアドベンチャー カーマスートラ
@@ -86786,6 +86827,7 @@
 9296|4|ja|藤子不二雄のキテレツ大百科
 17870|4|zh-Hant|藥師少女的獨語
 16853|4|zh-Hans|蘿蔔回來了
+18905|2|x-zht|虎x鹤妖师录
 5909|2|zh-Hans|虎X龙
 864|4|zh-Hans|虎头假面
 5910|2|zh-Hans|虎子
