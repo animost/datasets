@@ -1,4 +1,4 @@
-# created: Thu Oct 10 03:00:01 2024
+# created: Fri Oct 11 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1900,6 +1900,10 @@
 11995|2|en|Akashic Records of Bastard Magical Instructor
 10725|1|x-jat|Akatsuki no Yona
 11143|1|x-jat|Akatsuki no Yona (2015)
+11143|2|x-jat|Akatsuki no Yona OVA
+11143|2|x-jat|Akatsuki no Yona: Sono Se ni wa
+11143|2|x-jat|Akatsuki no Yona: Zeno Hen
+11143|2|x-jat|Akatsuki no Yona: Zeno-hen
 854|1|x-jat|Akazukin Chacha
 869|1|x-jat|Akazukin Chacha (1995)
 869|2|x-jat|Akazukin Chacha OVA
@@ -2884,6 +2888,7 @@
 11333|1|x-jat|Ao no Doumon
 8148|1|x-jat|Ao no Exorcist
 18561|2|x-jat|Ao no Exorcist - Yuki no Hate-hen
+18561|2|x-jat|Ao no Exorcist 4th Season
 8689|1|x-jat|Ao no Exorcist Gekijouban
 18429|4|ja|Ao no Exorcist: Kuro no Iede
 12240|1|x-jat|Ao no Exorcist: Kyoto Fujouou Hen
@@ -5628,6 +5633,7 @@
 2369|4|it|Bleach
 5352|4|hu|Bleach - A Gyémántpor lázadás
 15449|2|en|Bleach 2
+18220|3|x-jat|Bleach 4
 6041|2|en|BLEACH Fade to Black : I call your name
 4515|2|tr|Bleach Film: Hiçkimsenin Hatıraları
 4515|4|fr|Bleach le film - Memories of Nobody
@@ -5637,6 +5643,7 @@
 6041|3|en|Bleach Movie 3
 7666|3|en|Bleach Movie 4
 4515|4|cs|Bleach Movie: Vzpomínky nikoho
+18220|2|x-jat|Bleach Season 4
 5352|4|pl|Bleach the diamondDust rebellion
 5352|2|en|BLEACH The DiamondDust Rebellion Another Hyourinmaru
 4515|4|de|Bleach The Movie - Memories of Nobody
@@ -5663,6 +5670,7 @@
 15449|1|x-jat|Bleach: Sennen Kessen Hen
 17765|1|x-jat|Bleach: Sennen Kessen Hen - Ketsubetsu Tan
 18220|1|x-jat|Bleach: Sennen Kessen Hen - Soukoku Tan
+18220|2|x-jat|Bleach: Sennen Kessen Hen Part 3
 15449|4|de|Bleach: Thousand-Year Blood War
 15449|4|en|Bleach: Thousand-Year Blood War
 15449|4|fr|Bleach: Thousand-Year Blood War
@@ -5670,6 +5678,7 @@
 18220|4|de|Bleach: Thousand-Year Blood War - The Conflict
 17765|4|en|Bleach: Thousand-Year Blood War - The Separation
 17765|4|de|Bleach: Thousand-Year Blood War - The Separation
+18220|2|en|Bleach: Thousand-Year Blood War Arc Part 3
 15449|2|bg|Bleach: Хилядолетната кървава война
 2560|4|pl|Błękitny ptak
 12694|1|x-jat|Blend S
@@ -5843,7 +5852,10 @@
 7056|2|en|Blue Literature Series
 16519|4|en|Blue Lock
 16519|1|x-jat|Blue Lock
+17954|2|x-jat|BLUE LOCK 2
+17954|2|x-jat|BLUE LOCK 2nd Season
 17954|2|x-jat|Blue Lock S2
+17954|2|x-jat|BLUE LOCK Season 2
 17954|1|x-jat|Blue Lock vs. U-20 Japan
 17954|4|en|Blue Lock vs. U-20 Japan
 17955|4|en|Blue Lock: Episode Nagi
@@ -10133,6 +10145,7 @@
 17719|1|x-jat|Dead Mount Death Play
 17915|1|x-jat|Dead Mount Death Play (2023)
 17915|4|en|Dead Mount Death Play (2023)
+17915|2|x-jat|Dead Mount Death Play Part 2
 13298|4|ja|Dead World
 13298|1|x-jat|Dead World
 15361|4|en|Deadly Response
@@ -26990,6 +27003,8 @@
 219|2|pl|Kowboj Bebop
 219|2|pl|Kowboj Bebop the Movie
 219|2|pl|Kowboj Bebop: Pukając do nieba bram
+18917|1|x-jat|Kowloon Generic Romance
+18917|2|en|Kowloon Generic Romance
 11725|3|x-jat|koya
 11726|3|x-jat|koya: Anime Edition
 13691|2|en|Koyomi Reverse
@@ -31944,6 +31959,9 @@
 1722|1|x-jat|Megami Kyoujyu
 17612|1|x-jat|Megami no Cafe Terrace
 18080|1|x-jat|Megami no Cafe Terrace (2024)
+18080|2|x-jat|Megami no Cafe Terrace 2
+18080|2|x-jat|Megami no Café Terrace 2
+18080|2|x-jat|Megami no Café Terrace 2nd Season
 18080|2|x-jat|Megami no Cafe Terrace Season 2
 1476|4|en|Megami Paradise
 1476|1|x-jat|Megami Paradise
@@ -35863,6 +35881,7 @@
 9998|1|x-jat|No Game No Life
 9998|4|en|No Game No Life
 9998|4|de|No Game No Life
+12276|2|x-jat|No Game No Life -Zero-
 12276|1|x-jat|No Game No Life Zero
 12276|4|de|No Game No Life Zero
 12276|4|en|No Game No Life Zero
@@ -37385,6 +37404,7 @@
 7334|1|x-jat|Ore wa Chokkaku
 7998|1|x-jat|Ore wa Kanojo o Shinjiteru!
 18266|1|x-jat|Ore wa Subete o "Parry" Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai
+18266|2|x-jat|Ore wa Subete wo "Parry" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai
 18266|2|x-jat|Ore wa Subete wo Parry suru
 3485|1|x-jat|Ore wa Teppei
 8119|1|x-jat|Ore-sama Kingdom
@@ -37867,6 +37887,7 @@
 335|3|en|OW
 10813|1|x-jat|Owari no Seraph
 10984|2|en|Owari no Seraph 2
+10984|2|x-jat|Owari no Seraph Part 2
 11809|1|x-jat|Owari no Seraph: Kyuuketsuki Shahar
 10984|1|x-jat|Owari no Seraph: Nagoya Kessen Hen
 11350|1|x-jat|Owarimonogatari
@@ -50215,6 +50236,7 @@
 4151|2|en|The Little Girl Who Conquered Time
 1685|4|en|The Little Judge from Hell
 17285|4|en|The Little Lies We All Tell
+18918|4|en|The Little Master`s Better Life
 7029|2|en|The Little Match Girl
 2220|2|en|The Little Mermaid Movie
 2209|2|en|The Little Norse Prince
@@ -51683,6 +51705,8 @@
 17522|2|en|Tomb of Fallen Gods
 18847|2|en|Tomb of Fallen Gods 2
 18847|2|en|Tomb of Fallen Gods 2nd Season
+18916|1|x-jat|Tomb Raider: The Legend of Lara Croft
+18916|4|ja|Tomb Raider: The Legend of Lara Croft
 11806|4|en|Tomboy Angels
 18420|2|en|Tombs of Fallen Immortals
 332|2|en|Tombstone for Fireflies
@@ -53388,6 +53412,9 @@
 1360|1|x-jat|Ushio to Tora
 11053|1|x-jat|Ushio to Tora (2015)
 11318|1|x-jat|Ushio to Tora (2016)
+11318|2|x-jat|Ushio to Tora Cour 2
+11318|2|x-jat|Ushio to Tora Part 2
+11318|2|x-jat|Ushio to Tora Season 1 Part 2
 1360|2|tr|Ushio Ve Tora
 11053|3|x-jat|ushiototora
 11318|3|x-jat|ushiototora2
@@ -55046,6 +55073,7 @@
 13293|4|tr|Wotakoi: Otaku İçin Zor Aşk
 13293|2|x-jat|Wotaku ni Koi wa Muzukashii
 14405|2|x-jat|Wotaku ni Koi wa Muzukashii (2019)
+14405|2|x-jat|Wotaku ni Koi wa Muzukashii: Youth
 336|3|en|WotH
 14695|2|en|Would you love a pervert as long as she`s cute?
 4470|4|en|Wounded Man
@@ -55729,6 +55757,7 @@
 18013|1|x-jat|Yarinaoshi Reijou wa Ryuutei Heika o Kouryakuchuu
 18013|2|x-jat|Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu
 18013|2|x-jat|Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu
+18013|2|x-jat|Yariryuu
 4423|1|x-jat|Yaruki Manman
 4423|2|de|Yaruki Manman
 6203|1|x-jat|Yasai no Yousei: N.Y. Salad
@@ -55933,6 +55962,7 @@
 16971|1|x-jat|Yofukashi no Uta
 18531|1|x-jat|Yofukashi no Uta 2
 2373|4|de|Yogusettai
+18321|2|x-jat|Yohaji
 17479|4|en|Yohane the Parhelion: Sunshine in the Mirror
 611|4|fr|Yohko la chasseuse de démons
 3954|1|x-jat|Yoi Ko
@@ -57002,6 +57032,7 @@
 18143|1|x-zht|Zhen Yang Wushen
 15223|1|x-zht|Zheng Chenggong
 15224|1|x-zht|Zheng Yi Hong Shi
+18918|1|x-zht|Zhengjing Shao Zhu de Xingfu Shenghuo
 14832|1|x-zht|Zhengjiu Zhuluoji
 18698|2|en|Zhenji and His Friends
 16884|1|x-zht|Zhi Yu
@@ -68111,6 +68142,7 @@
 1360|4|ja|うしおととら
 11053|4|ja|うしおととら (2015)
 11318|4|ja|うしおととら (2016)
+11318|2|ja|うしおととら(TVシリーズ・第3クール)
 15498|4|ja|うしちち食べ放題!ジ・アニメーション
 18800|4|ja|うじには物語がある
 3630|4|ja|うしろの正面だあれ
@@ -75755,6 +75787,7 @@
 8120|4|zh|九色鹿
 18377|4|zh-Hans|九辰风云录
 10040|4|ja|九頭竜川と少年
+18917|4|ja|九龍ジェネリックロマンス
 7370|4|zh-Hans|书家
 16752|4|zh-Hans|书灵记
 16753|4|zh-Hans|书灵记 (2020)
@@ -83323,6 +83356,7 @@
 6834|4|ja|正ちゃんの冒険
 15224|4|zh-Hans|正义红师
 11762|4|zh-Hans|正确的KADO
+18918|4|zh-Hans|正经少主的幸福生活
 1576|4|ja|正義を愛する者 月光仮面
 11762|4|ja|正解するカド
 14101|2|ja|正解するカド KADO:Beyond Information
