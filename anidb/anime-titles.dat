@@ -1,4 +1,4 @@
-# created: Fri Oct 11 03:00:01 2024
+# created: Sat Oct 12 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -26,6 +26,7 @@
 9858|4|es|¡Free! Club de Natación Iwatobi
 16418|4|es|¡Hasta siempre, Don Glees!
 18019|4|es-419|¡Oye, Tonbo!
+18721|4|es-419|¡Oye, Tonbo! Segunda temporada
 4022|2|es|¡Perro Divino!
 17878|4|es|¡Sobreviviré a base de pociones!
 690|2|es-419|¡Voy a ser un angel!
@@ -2074,6 +2075,7 @@
 3368|4|ro|Albinuţa Hutch
 4144|2|en|Alchemist Grade 3: Magical Pokahn
 18042|2|en|Alchemy Master
+18920|4|en|Alchemy Supreme
 979|2|ro|Alchimistul de Oţel
 10445|3|x-jat|ald0
 10846|3|x-jat|ald0 s2
@@ -2817,6 +2819,7 @@
 8556|4|zh-Hans|Another
 8625|2|x-jat|Another 0-kan
 8625|2|ja|Another 0巻
+18919|4|en|Another Journey to the West
 1113|4|en|Another Lady Innocent
 15094|2|en|Another man`s wife, Honey & Meat
 8625|2|en|Another The Other -Karma-
@@ -9498,6 +9501,8 @@
 1710|2|x-jat|Da Garn
 8156|2|x-zht|Da Hai
 15694|2|x-zht|Da Hua: Shao Nian You
+15514|2|x-zht|Da Li Si Rizhi
+17853|2|x-zht|Da Li Si Rizhi 2nd Season
 4087|1|x-zht|Da Nao Tian Gong
 16865|1|x-zht|Da Nao Xiyou
 4087|2|x-zht|Da no tien gu
@@ -9635,7 +9640,10 @@
 11545|1|x-kot|Dalam-iwa Goseumdochi
 12380|1|x-kot|Dalbitkungkwol
 15514|1|x-zht|Dali Si Rizhi
+17853|2|x-zht|Dali Si Rizhi 2
 17853|1|x-zht|Dali Si Rizhi Er
+15514|2|x-zht|Dalisi Rizhi
+17853|2|x-zht|Dalisi Rizhi 2
 1468|1|x-jat|Dallos
 1468|4|hu|Dallos
 1468|4|en|Dallos
@@ -9656,6 +9664,7 @@
 2824|1|x-jat|Damekko Doubutsu
 18290|4|en|Dan Da Dan
 18290|1|x-jat|Dan Da Dan
+18920|1|x-zht|Dan Dao Zhizun
 18042|1|x-zht|Dan Dao Zongshi
 1653|4|ja|DAN DOH!!
 1653|1|x-jat|Dan Doh!!
@@ -23526,6 +23535,7 @@
 16729|1|x-zht|Ji Jia Shou Shen Di Er Ji
 16520|1|x-zht|Ji Jia Shou Shen Zhi Baolie Feiche
 10117|1|x-jat|Ji no Nai Hagaki
+18919|1|x-zht|Ji Yao Lu: Qicheng Pian
 14377|2|x-unk|Ji Yi U-pan
 18535|1|x-zht|Jian Gu
 18828|1|x-zht|Jian Lai
@@ -23798,11 +23808,15 @@
 788|1|x-jat|JoJo no Kimyou na Bouken
 789|1|x-jat|JoJo no Kimyou na Bouken (2000)
 9304|1|x-jat|JoJo no Kimyou na Bouken (2012)
+10835|2|x-jat|JoJo no Kimyou na Bouken 3
+10835|2|x-jat|JoJo no Kimyou na Bouken 3rd Season
+10835|2|x-jat|JoJo no Kimyou na Bouken Season 3
 11734|1|x-jat|JoJo no Kimyou na Bouken: Diamond wa Kudakenai
 14173|1|x-jat|JoJo no Kimyou na Bouken: Ougon no Kaze
 4918|1|x-jat|JoJo no Kimyou na Bouken: Phantom Blood
 10206|1|x-jat|JoJo no Kimyou na Bouken: Stardust Crusaders
 10835|2|x-jat|JoJo no Kimyou na Bouken: Stardust Crusaders - Egypt Hen
+10835|2|x-jat|JoJo no Kimyou na Bouken: Stardust Crusaders - Egypt-hen
 10835|1|x-jat|JoJo no Kimyou na Bouken: Stardust Crusaders (2015)
 16187|1|x-jat|JoJo no Kimyou na Bouken: Stone Ocean
 17286|1|x-jat|JoJo no Kimyou na Bouken: Stone Ocean (Part 2)
@@ -23832,8 +23846,10 @@
 9304|4|fr|Jojo`s Bizarre Adventure (2012)
 9304|4|en|JoJo`s Bizarre Adventure (2012)
 788|4|fr|JoJo`s Bizarre Adventure (suite)
+10835|2|en|JoJo`s Bizarre Adventure 3rd Season
 10206|2|en|JoJo`s Bizarre Adventure Part 3
 11734|2|en|Jojo`s Bizarre Adventure Part 4: Diamond is Unbreakable
+10835|2|en|JoJo`s Bizarre Adventure Season 3
 11734|2|en|JoJo`s Bizarre Adventure: Diamond Is Not Crash
 11734|4|en|JoJo`s Bizarre Adventure: Diamond Is Unbreakable
 11734|4|fr|JoJo`s Bizarre Adventure: Diamond Is Unbreakable
@@ -42464,6 +42480,7 @@
 17065|4|en|Rurouni Kenshin (2023)
 422|2|x-jat|Rurouni Kenshin Movie
 195|2|x-jat|Rurouni Kenshin OVA 2
+18323|2|x-jat|Rurouni Kenshin Season 2
 73|2|en|Rurouni Kenshin Tsuiokuhen
 90|2|en|Rurouni Kenshin TV
 422|2|x-jat|Rurouni Kenshin: Ishin Shishi e no Requiem
@@ -50097,6 +50114,8 @@
 10896|2|en|The Japan Animator Expo
 6977|2|en|The Japanese Illustrated Story Agenda: History of Animation
 6569|2|en|The Japanese Tom Thumb
+15514|2|en|The Journal of Dali Temple
+17853|2|en|The Journal of Dali Temple 2
 16938|4|en|The Journey
 14054|4|en|The Journey Home
 1428|4|en|The Jungle Book
@@ -54651,6 +54670,7 @@
 10779|2|en|White Box
 15514|2|en|White Cat Legend
 17853|4|en|White Cat Legend 2
+17853|2|en|White Cat Legend Season 2
 583|2|en|White Cross
 8438|2|en|White Dog with White Heart
 8438|2|en|White Heart Baekgu
@@ -55093,6 +55113,8 @@
 191|2|pl|Wspaniały belfer Onizuka
 262|2|pl|Wspomnienia
 12700|3|x-jat|wttb
+18919|2|x-zht|Wu Chengen Ji Yao Lu
+18919|2|en|Wu Chengen`s Demon Recording
 14649|1|x-zht|Wu Dong Qiankun
 16580|1|x-zht|Wu Dong Qiankun (2021)
 15687|1|x-zht|Wu Dong Qiankun Di Er Ji
@@ -75731,6 +75753,7 @@
 7939|4|zh-Hans|丹特丽安的书架
 7939|4|zh-Hant|丹特麗安的書架
 18042|4|zh-Hans|丹道宗师
+18920|4|zh-Hans|丹道至尊
 17523|4|zh-Hans|为了养老金去异世界存八万金
 14693|2|zh-Hans|为了女儿，我说不定连魔王都能干掉
 14693|4|zh-Hans|为了女儿，我说不定连魔王都能干掉。
@@ -77968,6 +77991,7 @@
 4120|4|ja|吟遊黙示録 マイネリーベ wieder(ウィーダ)
 15136|4|zh-Hans|听我的电波吧
 15136|3|zh-Hans|听着这电波
+18919|2|zh-Hans|吴承恩缉妖录
 8263|4|ja|吸尻鬼
 7446|4|zh-Hans|吸血丸
 8759|4|zh-Hans|吸血丸 2
@@ -78342,6 +78366,7 @@
 12693|4|zh-Hans|在世界尽头咏唱恋曲的少女YU-NO
 10894|4|zh-Hans|在地下城寻求邂逅是否搞错了什么
 16032|4|zh-Hans|在地下城寻求邂逅是否搞错了什么 IV
+18267|4|zh-Hans|在地下城寻求邂逅是否搞错了什么 第五季 丰饶女神篇
 13829|4|zh-Hans|在地下城寻求邂逅是否搞错了什么Ⅱ
 15111|4|zh-Hans|在地下城寻求邂逅是否搞错了什么Ⅲ
 10894|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼
@@ -78789,7 +78814,10 @@
 18391|2|zh-Hans|大王饶命 2
 18391|4|zh-Hans|大王饶命 第二季
 15514|4|zh-Hans|大理寺日志
+17853|2|zh-Hans|大理寺日志 第2季
 17853|4|zh-Hans|大理寺日志 贰
+17853|2|zh-Hans|大理寺日志2
+17853|2|zh-Hans|大理寺日志第二季
 7394|4|zh-Hans|大盗五右卫门 次元城的恶梦
 7381|4|zh-Hans|大神与七位伙伴
 15258|4|zh-Hans|大神同学想要被吃掉
@@ -80294,6 +80322,7 @@
 11287|4|zh-Hans|干物妹！小埋 OAD
 15135|4|zh-Hans|平凡职业成就世界最强 第二季
 13624|4|zh-Hans|平凡职业造就世界最强
+17615|4|zh-Hans|平凡职业造就世界最强 第三季
 15135|2|zh-Hans|平凡职业造就世界最强 第二季
 13624|4|zh-Hant|平凡職業造就世界最強
 15135|4|zh-Hant|平凡職業造就世界最強 第二季
@@ -82031,6 +82060,7 @@
 11835|4|ja|旅街レイトショー Awaiting my journey
 11835|4|zh-Hans|旅街晚间秀
 1694|4|ja|旅館白鷺
+15063|4|zh-Hans|旋涡
 8421|2|zh-Hant|旋轉企鵝罐
 10784|4|zh-Hans|旋转少女
 103|4|ja|旋風の用心棒
@@ -82810,6 +82840,7 @@
 16675|2|zh-Hans|李林克的小馆儿
 17858|4|zh-Hans|李林克的小馆儿 第二季
 17458|4|ja|村井の恋
+17458|4|zh-Hans|村井之恋
 15566|4|ja|村又さんの秘密
 3479|4|ja|村正
 6705|4|ja|村祭
@@ -86121,6 +86152,7 @@
 322|4|zh-Hans|绿色传奇 乱
 14373|2|zh-Hans|绿蓝 Beryl and Sapphire
 14035|4|zh|缇可 冬季篇
+18919|4|zh-Hans|缉妖录之启程篇
 11997|4|zh-Hans|编舟记
 7656|4|zh-Hans|缘之空
 15272|4|zh-Hans|缘结熊本！
@@ -86801,6 +86833,7 @@
 16881|4|zh-Hans|蓝猫淘气3000问之星际大战
 16889|4|zh-Hans|蓝猫淘气3000问之海洋世界
 16887|4|zh-Hans|蓝猫淘气3000问之运动系列
+18278|2|zh-Hans|蓝箱
 724|4|zh-Hans|蓝色乐章
 16919|4|zh-Hans|蓝色巨星
 15993|4|zh-Hans|蓝色时期
@@ -88724,6 +88757,7 @@
 8689|4|ja|青の祓魔師[エクソシスト] -劇場版-
 361|2|zh-Hans|青之6号
 7056|2|zh-Hans|青之文学系列 人间失格篇
+18278|2|zh-Hans|青之箱
 16358|4|zh-Hans|青之芦苇
 6443|2|zh-Hans|青之花
 8148|4|zh-Hans|青之驱魔师
@@ -88749,6 +88783,7 @@
 17862|4|ja|青春ブタ野郎はランドセルガールの夢を見ない
 12973|4|ja|青春ミッドナイトランナーズ「潮騒」
 10385|4|zh-Hans|青春之旅
+18278|4|zh-Hans|青春之箱
 5565|2|ja|青春夫婦物語 恋子の毎日
 13900|4|zh-Hans|青春期笨蛋不做兔女郎学姐的梦
 12329|4|zh-Hans|青春歌舞伎
