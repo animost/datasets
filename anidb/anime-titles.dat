@@ -1,4 +1,4 @@
-# created: Sat Oct 12 03:00:02 2024
+# created: Sun Oct 13 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -172,6 +172,7 @@
 4317|4|ja|「エイジ」
 15157|4|ja|「宇宙戦艦ヤマト」という時代 西暦2202年の選択
 12142|4|ja|「英雄」解体
+18922|4|ja|「鬼滅の刃」上弦集結、そして刀鍛冶の里へ
 18160|4|ja|『Fate/Grand Order』 Memorial Movie 2023
 17129|4|ja|『あなたを一言で表してください』の質問が苦手だ.
 1028|4|ja|『サクラ大戦』~神崎すみれ引退記念~「す・み・れ」
@@ -3049,6 +3050,7 @@
 8055|4|en|Appleseed XIII
 8311|4|en|Appleseed XIII: Tartaros & Ouranos
 10636|2|ja|Appleseed α
+10636|4|pt|Appleseed: Alpha - O filme
 5080|4|pl|Appleseed: Ex Machina
 5080|4|en|Appleseed: Ex Machina
 5080|4|nl|Appleseed: Ex Machina
@@ -5666,6 +5668,7 @@
 18220|4|zh-Hant|BLEACH 死神 千年血戰篇 -相剋譚-
 17765|4|zh-Hant|BLEACH 死神 千年血戰篇-訣別譚-
 7666|2|tr|Bleach: Cehennem Bölümü
+15449|2|x-jat|Bleach: Chitose Kessen Hen
 4515|4|hu|Bleach: Elveszett emlékek
 6041|2|en|Bleach: Fade to Black
 7666|2|en|Bleach: Hell Chapter
@@ -5926,6 +5929,7 @@
 15484|3|x-jat|bnha s5
 16793|3|x-jat|bnha s6
 17931|3|x-jat|bnha s7
+18921|3|x-jat|bnha s8
 15672|3|x-jat|BNHA: Ikinokore! Kesshi no Survival Kunren
 17356|3|en|bnha(Web)
 12233|3|x-jat|bnha2
@@ -5936,6 +5940,7 @@
 16793|3|en|bnha6, heroaca6
 17931|3|x-jat|bnha7
 17931|3|x-unk|bnha7, heroaca7
+18921|3|x-jat|bnha8
 15320|3|en|BnR
 1551|3|x-jat|bns
 5842|3|x-jat|BnX
@@ -6011,12 +6016,14 @@
 15484|1|x-jat|Boku no Hero Academia (2021)
 16793|1|x-jat|Boku no Hero Academia (2022)
 17931|1|x-jat|Boku no Hero Academia (2024)
+18921|1|x-jat|Boku no Hero Academia (2025)
 17356|1|x-jat|Boku no Hero Academia (Web)
 12233|2|x-jat|Boku no Hero Academia 2
 13485|2|x-jat|Boku no Hero Academia 3
 14416|2|x-jat|Boku no Hero Academia 4
 15484|2|x-unk|Boku no Hero Academia 5th Season
 17931|2|x-jat|Boku no Hero Academia 7th Season
+18921|2|x-jat|Boku no Hero Academia Final Season
 17356|2|x-jat|Boku no Hero Academia HLA
 12344|2|x-jat|Boku no Hero Academia OVA
 12344|2|en|Boku no Hero Academia OVA (2016)
@@ -9494,6 +9501,7 @@
 9307|2|x-jat|Da Capo 3
 7986|2|en|Da Capo D.C. I&II P.S.P.
 7986|2|x-jat|Da Capo D.C. I+II P.S.P.
+5652|2|x-jat|Da Capo Season 2 Part 2
 2832|2|en|Da Capo Second Graduation
 2832|2|en|Da Capo Second Season
 2832|2|en|Da Capo Second Story
@@ -9757,8 +9765,6 @@
 10894|3|x-jat|danmachi
 10894|4|fr|DanMachi : Familia Myth
 17652|3|x-jat|DanMachi 4 Part 2
-18267|3|x-jat|DanMachi 5
-18267|2|x-jat|DanMachi 5th Season
 11974|3|x-jat|danmachi gaiden
 11974|2|en|DanMachi Gaiden: Sword Oratoria
 11974|4|fr|Danmachi Gaiden: Sword Oratoria
@@ -9788,7 +9794,6 @@
 13829|3|x-jat|danmachi2
 15111|3|x-jat|danmachi3
 16032|3|x-jat|danmachi4
-18267|3|x-jat|danmachi5
 10676|1|x-jat|Danna ga Nani o Itte Iruka Wakaranai Ken
 11002|1|x-jat|Danna ga Nani o Itte Iruka Wakaranai Ken 2 Sureme
 10676|2|x-jat|Danna ga Nani o Itteiruka Wakaranai Ken
@@ -10367,6 +10372,7 @@
 731|4|pt-BR|Demon Lord Dante
 14391|4|en|Demon Lord, Retry!
 18167|4|en|Demon Lord, Retry! R
+18167|2|en|Demon Lord, Retry! Season 2
 15022|2|en|Demon Nursery: The Pregnant Princess of the Abyss
 1715|4|en|Demon of Steel: Battle of the Great Demon Beasts
 1899|2|en|Demon of the Kick
@@ -12906,7 +12912,6 @@
 17564|4|pt-BR|Dungeon Meshi
 18687|1|x-jat|Dungeon Meshi 2
 13932|1|x-jat|Dungeon Meshi: Senshi no Kantan Cooking!
-18267|2|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka 5th Season
 11974|1|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden: Sword Oratoria
 18267|2|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka V: Houjou no Megami Hen
 10894|1|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth
@@ -12928,7 +12933,6 @@
 13829|2|x-jat|Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darouka: Familia Myth II
 15111|2|x-jat|Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darouka: Familia Myth III
 16032|2|x-jat|Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka S4
-18267|2|x-jat|Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen
 18162|1|x-jat|Dungeon no Naka no Hito
 18162|4|en|Dungeon People
 8691|2|id|Dunia Percepatan
@@ -23048,7 +23052,6 @@
 10894|2|nl|Is het Verkeerd om Meisjes Op te Pikken in Een Dungeon?
 12350|2|en|Is It True That It’s Summer Vacation?
 10652|2|en|Is it worth it?
-18267|2|en|Is It Wrong That I Want to Meet You in a Dungeon 5
 10894|4|en|Is It Wrong to Try to Pick Up Girls in a Dungeon?
 13829|4|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? II
 15111|4|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? III
@@ -23056,7 +23059,6 @@
 11941|2|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? Is It Wrong to Try to Soak in a Hot Spring in a Dungeon?
 16032|4|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? IV
 17652|4|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? IV (2023)
-18267|2|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? Season 5
 11974|2|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? Sword Oratoria
 18267|4|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? V
 13830|4|en|Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion
@@ -25801,6 +25803,7 @@
 15113|4|es|Kimetsu no Yaiba: Guardianes de la Noche - Tren infinito
 18067|1|x-jat|Kimetsu no Yaiba: Hashira Geiko Hen
 16258|1|x-jat|Kimetsu no Yaiba: Hashira Gou Kaigi - Chouyashiki Hen
+18922|1|x-jat|Kimetsu no Yaiba: Jougen Shuuketsu, Soshite Katanakaji no Sato
 17198|1|x-jat|Kimetsu no Yaiba: Katanakaji no Sato Hen
 18529|1|x-jat|Kimetsu no Yaiba: Katanakaji no Sato Hen - Tokubetsu Henshuu Ban
 14689|1|x-jat|Kimetsu no Yaiba: Kyoudai no Kizuna
@@ -27323,6 +27326,7 @@
 8681|4|fr|kuroko no basket
 9603|2|x-jat|Kuroko no Basket 2
 10662|2|x-jat|Kuroko no Basket 3
+9603|2|x-jat|Kuroko no Basket Season 2
 11966|2|x-jat|Kuroko no Basket: Last Game
 8681|2|x-jat|Kuroko no Basuke
 9603|2|x-jat|Kuroko no Basuke 2
@@ -32570,6 +32574,7 @@
 3613|1|x-jat|Midori no Neko
 12961|1|x-jat|Midori-chan: Nice to Meat You
 8086|1|x-jat|Midori-ko
+3619|2|x-jat|Midori: Shoujo Tsubaki
 7464|3|x-jat|midoriyama
 7464|1|x-jat|Midoriyama Koukou Koushien Hen
 7465|1|x-jat|Midoriyama Koukou Koushien Hen (Gekijouban)
@@ -34271,8 +34276,10 @@
 15484|4|pt|My Hero Academia - Temporada 5
 16793|4|pt|My Hero Academia - Temporada 6
 15873|2|pt|My Hero Academia - Uma Missão Para os Heróis Mundiais
+18921|2|en|My Hero Academia (2025)
 17356|4|en|My Hero Academia (Web)
 17356|4|fr|My Hero Academia (Web)
+18921|2|en|My Hero Academia Final Season
 12344|4|en|My Hero Academia OVA
 12344|4|fr|My Hero Academia OVA
 11739|2|en|My Hero Academia S1
@@ -35463,6 +35470,7 @@
 14759|3|x-jat|ngl
 15143|3|x-jat|ngl s2
 9998|3|x-jat|NGNL
+12276|3|x-jat|NGNL 0
 12276|3|x-jat|ngnl movie
 12276|3|en|NGNL Zero
 12276|3|x-jat|ngnl0
@@ -35898,6 +35906,7 @@
 9998|4|en|No Game No Life
 9998|4|de|No Game No Life
 12276|2|x-jat|No Game No Life -Zero-
+12276|2|x-jat|No Game No Life 0
 12276|1|x-jat|No Game No Life Zero
 12276|4|de|No Game No Life Zero
 12276|4|en|No Game No Life Zero
@@ -37152,6 +37161,7 @@
 9230|3|x-jat|oniai
 9230|4|en|OniAi
 7621|1|x-jat|Onigamiden
+7621|4|pt|Onigamiden - A Lenda do Dragão Milenar
 7621|4|de|Onigamiden - Legend of the Millenium Dragon
 7621|4|pt-BR|Onigamiden: A Lenda do Dragão Milenar
 6362|1|x-jat|Onigara
@@ -49160,6 +49170,7 @@
 15456|2|x-jat|Tensei shitara Slime Datta Ken Season 2 Part 2
 17709|2|x-jat|Tensei Shitara Slime Datta Ken Season 3
 17873|1|x-jat|Tensei Shitara Slime Datta Ken: Coleus no Yume
+17873|2|x-jat|Tensei Shitara Slime Datta Ken: Corius no Yume
 18785|1|x-jat|Tensei Shitara Slime Datta Ken: Sukuwareru Ramriris
 15457|1|x-jat|Tensei Shitara Slime Datta Ken: Tensura Nikki
 16385|2|x-jat|Tensei Shoya Kara Musabari Ecchi: Ouji no Honmei wa Akuyaku Reijou
@@ -55339,6 +55350,10 @@
 15315|1|x-zht|Xiao Hua Xian 5 - Si Shi Huayu Chun Xia Part 1 Chun
 15232|1|x-zht|Xiao Kadou Zhao Mama
 14373|1|x-zht|Xiao Lu He Xiao Lan
+18923|1|x-zht|Xiao Lu He Xiao Lan II
+18924|1|x-zht|Xiao Lu He Xiao Lan III
+18925|1|x-zht|Xiao Lu He Xiao Lan IV
+18926|1|x-zht|Xiao Lu He Xiao Lan V
 12191|1|x-zht|Xiao Men Shen
 14834|2|en|Xiao Ming And King Cat
 14834|1|x-zht|Xiao Ming He Wang Mao
@@ -72299,6 +72314,7 @@
 14759|4|ja|ノー・ガンズ・ライフ
 15143|4|ja|ノー・ガンズ・ライフ (2020)
 9998|4|ja|ノーゲーム・ノーライフ
+12276|2|ja|ノーゲーム・ノーライフ 0
 12276|4|ja|ノーゲーム・ノーライフ ゼロ
 10054|4|ja|ノーマン・ザ・スノーマン ~北の国のオーロラ(仮)~
 3988|2|ja|ノーラ
@@ -76444,7 +76460,9 @@
 15484|4|ja|僕のヒーローアカデミア (2021)
 16793|4|ja|僕のヒーローアカデミア (2022)
 17931|4|ja|僕のヒーローアカデミア (2024)
+18921|4|ja|僕のヒーローアカデミア (2025)
 17356|4|ja|僕のヒーローアカデミア (Web)
+18921|2|ja|僕のヒーローアカデミア FINAL SEASON
 13633|4|ja|僕のヒーローアカデミア THE MOVIE -2人の英雄[ヒーロー]-
 14776|4|ja|僕のヒーローアカデミア THE MOVIE ヒーローズ:ライジング
 18150|4|ja|僕のヒーローアカデミア THE MOVIE ユアネクスト
@@ -79949,6 +79967,10 @@
 15483|4|zh-Hant|小碧藍幻想！
 854|4|zh-Hans|小红帽恰恰
 14373|4|zh-Hans|小绿和小蓝
+18923|4|zh|小绿和小蓝 II
+18924|4|zh|小绿和小蓝 III
+18925|4|zh|小绿和小蓝 IV
+18926|4|zh|小绿和小蓝 V
 1009|4|zh|小肥肥一族
 13663|4|zh|小花仙
 13710|4|ja|小花仙 第三季
