@@ -1,4 +1,4 @@
-# created: Sun Oct 13 03:00:02 2024
+# created: Mon Oct 14 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -9537,6 +9537,7 @@
 5419|3|x-jat|dacapo s3
 5652|3|x-jat|dacapo s4
 9307|3|x-jat|dacapo s5
+18927|1|x-zht|Dadao Chaotian
 6986|4|en|Daddy Long Legs
 1153|2|en|Daft Punk & Leiji Matsumoto`s INTERSTELLA 5555: The 5tory of the 5ecret 5tar 5ystem
 1153|4|hu|Daft Punk: Interstella 5555
@@ -19925,7 +19926,7 @@
 2621|2|en|He`s My Master
 11439|1|x-jat|Head Spoon
 18736|4|en|Head Start at Birth
-18768|2|en|Headhunted to Another World: From Salaryman to Big Four!
+18768|4|en|Headhunted to Another World: From Salaryman to Big Four!
 16286|4|en|Healer Girl
 16286|1|x-jat|Healer Girl
 15231|4|zh-Hans|Healin` Good ♥ 光之美少女
@@ -31926,7 +31927,7 @@
 9272|2|x-jat|Medaka Box 2
 9272|4|en|Medaka Box Abnormal
 9272|1|x-jat|Medaka Box: Abnormal
-18627|2|en|Medaka Kuroiwa Is Impervious to My Charms
+18627|4|en|Medaka Kuroiwa Is Impervious to My Charms
 2259|1|x-jat|Medaka no Gakkou
 9272|3|x-jat|medaka s2
 9272|3|x-jat|medakaabn
@@ -39197,6 +39198,7 @@
 4312|2|x-jat|Poca-Poca-Mori no Rascal
 11979|2|pl|Pocałuj jego, kolego
 15386|1|x-jat|Poccolies
+18912|2|x-jat|Pochaazu
 7824|4|en|Pochacco in Jack and the Beanstalk
 7824|1|x-jat|Pochacco no Jack to Mame no Ki
 7832|1|x-jat|Pochacco no Wakuwaku Birthday
@@ -44640,6 +44642,7 @@
 17501|4|en|Shangri-La Frontier
 17501|4|fr|Shangri-La Frontier
 18578|4|en|Shangri-La Frontier (2024)
+18578|2|en|Shangri-La Frontier 2nd Season
 17501|1|x-jat|Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su
 18578|1|x-jat|Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su (2024)
 18578|2|x-jat|Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su Season 2
@@ -49387,7 +49390,7 @@
 191|4|vi|Thầy giáo vĩ đại Onizuka
 9341|4|en|The "Hentai" Prince and the Stony Cat.
 17906|4|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You
-18343|2|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You (2025)
+18343|4|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You (2025)
 13597|2|en|The 25 Year Old High School Girl
 5377|2|en|The 5 Killers
 14535|4|en|The 8th Son? Are You Kidding Me?
@@ -51541,7 +51544,7 @@
 10140|2|en|Toilet no Kami-sama
 10140|2|en|Toilet of God
 14757|4|en|Toilet-bound Hanako-kun
-17791|2|en|Toilet-bound Hanako-kun 2
+17791|4|en|Toilet-bound Hanako-kun Season 2
 6366|2|ja|Toire no Hanako-san
 15909|2|x-unk|Toire no Hanako-san vs Kukkyou Taimashi
 13172|1|x-jat|Toji no Miko
@@ -78853,6 +78856,7 @@
 13641|2|zh-Hant|大護法
 15694|4|zh-Hans|大话之少年游
 15409|4|zh-Hant|大貴族
+18927|4|zh-Hans|大道朝天
 78|2|zh-Hans|大都会
 78|2|zh-Hant|大都會
 964|4|zh-Hans|大铁人 地球静止之日
