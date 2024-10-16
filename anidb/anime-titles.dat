@@ -1,4 +1,4 @@
-# created: Mon Oct 14 03:00:01 2024
+# created: Tue Oct 15 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -14723,8 +14723,6 @@
 10804|4|zh-Hans|Fate/kaleid liner 魔法少女☆伊莉雅 第二季 OAD
 10833|4|zh-Hans|Fate/kaleid liner 魔法少女☆依莉雅 2wei! Herz!
 11639|4|zh-Hans|Fate/kaleid liner 魔法少女☆依莉雅 3rei!!
-18746|4|ja|Fate/Prototype
-18746|1|x-jat|Fate/Prototype
 3348|3|x-jat|Fate/SN
 9977|3|x-jat|Fate/SN UBW (2014)
 3348|1|x-jat|Fate/Stay Night
@@ -21405,6 +21403,7 @@
 5849|1|x-jat|Hoshikuzu Paradise
 17663|1|x-jat|Hoshikuzu Telepath
 5849|3|x-jat|hoshikuzupsm
+18291|2|x-jat|HoshiNina
 17663|3|x-jat|hoshitele
 8166|1|x-jat|Hoshizora e Kakaru Hashi
 4502|1|x-jat|Hoshizora Kiseki
@@ -50443,6 +50442,7 @@
 17095|2|en|The Outcast 5
 2218|2|en|The Panda`s Great Adventure
 4886|2|en|The Path of Wind
+18927|2|en|The Path Toward Heaven
 11160|4|en|The Patients of Dr. Maro
 18340|2|en|The Peak of True Martial Arts
 18341|2|en|The Peak of True Martial Arts 2nd Season
