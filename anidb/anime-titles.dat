@@ -1,4 +1,4 @@
-# created: Tue Oct 15 03:00:02 2024
+# created: Wed Oct 16 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5648,6 +5648,8 @@
 6041|3|en|Bleach Movie 3
 7666|3|en|Bleach Movie 4
 4515|4|cs|Bleach Movie: Vzpomínky nikoho
+15449|2|x-jat|Bleach Season 2
+17765|2|x-jat|Bleach Season 3
 18220|2|x-jat|Bleach Season 4
 5352|4|pl|Bleach the diamondDust rebellion
 5352|2|en|BLEACH The DiamondDust Rebellion Another Hyourinmaru
@@ -5686,6 +5688,8 @@
 17765|4|de|Bleach: Thousand-Year Blood War - The Separation
 18220|2|en|Bleach: Thousand-Year Blood War Arc Part 3
 15449|2|bg|Bleach: Хилядолетната кървава война
+15449|3|x-jat|Bleach2
+17765|3|x-jat|Bleach3
 2560|4|pl|Błękitny ptak
 12694|1|x-jat|Blend S
 12694|2|en|Blend S
@@ -20957,6 +20961,7 @@
 16719|2|x-jat|Hitori no Shita: The Outcast 4
 17095|2|x-jat|Hitori no Shita: The Outcast 5
 7635|1|x-jat|Hitoribocchi
+18432|3|ja|Hitoribocchi
 18432|1|x-jat|Hitoribocchi no Isekai Kouryaku
 13989|1|x-jat|Hitoribocchi no Marumaru Seikatsu
 13989|4|en|Hitoribocchi no Marumaruseikatsu
@@ -37097,6 +37102,7 @@
 5499|2|en|One Thousand and One Arabian Nights (1998)
 5499|2|x-jat|One Thousand and One Nights
 17248|2|en|One Turn Kill Sister in Another World: I Started Living in Another World with My Older Sister
+18927|2|en|One Way or Another
 10273|4|en|One Week Friends
 10273|2|en|One Week Friends.
 15704|2|x-jat|One-&gt;Shota&lt;-One The Animation
@@ -52004,6 +52010,7 @@
 11096|4|ja|tough guy!
 3446|1|x-jat|Touhai Densetsu Akagi: Yami ni Maiorita Tensai
 18404|1|x-jat|Touhai: Ura Rate Mahjong Touhai Roku
+18404|2|x-jat|Touhai: Ura Route Mahjong Touhairoku
 13798|1|x-jat|Touhokutou, Juunana no Sora
 6262|3|x-jat|touhou
 8624|2|x-jat|Touhou Gensou Mangekyou: The Memories of Phantasm
@@ -65375,6 +65382,7 @@
 11539|2|ko|불꽃의 임신 더 발육 신체측정2
 6186|4|ko|불꽃의 임신 동급생
 4737|2|ko|불꽃의 임신 전학생
+18717|2|ko|불마소녀 샬롯
 8950|4|ko|불사조 로보트 피닉스킹
 2666|2|ko|불순이성교제 ~소중한 너에게~
 14177|4|ko|불쾌한 모노노케안 속
@@ -65592,6 +65600,7 @@
 6126|4|ko|세토의 신부 OVA
 18569|2|ko|섹스 프랜드 선배
 15412|2|ko|섹스 프렌드 소꿉친구 -처녀와 동정은 부끄럽다고 모두가 말하니까-
+18672|2|ko|섹스를 좋아하고 정말 좋아하는 클래스메이트 그 아이
 1642|2|ko|섹스친구
 15331|2|ko|섹파학원
 112|4|ko|센과 치히로의 행방불명
@@ -65620,6 +65629,7 @@
 7609|2|ko|소녀전기 소울이터
 9631|4|ko|소년 007 은하특공대
 9632|4|ko|소년 007 지하제국
+18680|2|ko|소년이 어른이 되는 여름
 8692|4|ko|소드 아트 온라인
 10376|4|ko|소드 아트 온라인 II
 13494|4|ko|소드 아트 온라인 얼터너티브: 건 게일 온라인
@@ -78129,6 +78139,7 @@
 15306|4|zh-Hans|哆啦A梦：伴我同行2
 17500|4|zh-Hans|哆啦A梦：大雄与天空的理想乡
 6719|4|zh-Hans|哆啦A梦：大雄的人鱼大海战
+18102|4|zh-Hans|哆啦A梦：大雄的地球交响乐
 15852|4|zh-Hans|哆啦A梦：大雄的宇宙小战争 2021
 6599|4|zh-Hans|哆啦A梦：大雄的宇宙漂流记
 4757|4|zh-Hans|哆啦A梦：大雄的恐龙 2006
@@ -78161,7 +78172,9 @@
 15250|4|zh-Hans|哪吒之魔童降世
 14637|4|zh|哪吒传奇
 9369|4|zh-Hans|哪吒闹海
+18249|4|zh-Hans|唯愿来世不相识
 16585|4|zh-Hans|唯我独神
+18249|4|zh-Hant|唯願來世不相識
 14789|4|zh-Hant|啄木鳥偵探社
 14789|4|ja|啄木鳥探偵處
 9332|4|ja|問題児たちが異世界から来るそうですよ?
@@ -78244,6 +78257,8 @@
 12745|4|zh-Hant|噗利噗利奇!!
 12745|4|zh-Hans|噗利噗利奇!!
 10271|4|zh-Hans|噗哔啵 来自未来
+18315|4|zh-Hant|噗妮露是可愛史萊姆
+18315|4|zh-Hans|噗妮露是可爱史莱姆
 2740|4|zh-Hant|噴嚏大魔王
 15344|4|zh-Hant|噴嚏大魔王 2020
 10842|4|zh-Hans|噬神者
@@ -79174,9 +79189,11 @@
 4801|4|ja|奥様は魔法使い
 7928|4|ja|女スパイ拷問 敵の基地は女体拷問所
 17549|4|ja|女の園の星
+18344|4|zh-Hans|女仆冥土小姐。
 7569|4|zh-Hans|女仆咖啡厅
 17886|4|zh-Hans|女仆教育。－没落贵族 瑠璃川椿－ THE ANIMATION
 16106|4|zh|女他
+18344|4|zh-Hant|女僕冥土小姐
 15851|4|zh-Hans|女友成双
 17628|4|zh-Hans|女友成双 第二季
 15851|2|zh-Hant|女友成堆
@@ -79373,6 +79390,8 @@
 17499|4|zh-Hans|妖怪图鉴！
 14754|4|zh-Hans|妖怪学园Y 猫也能成为HERO 吗
 18321|4|ja|妖怪学校の先生はじめました!
+18321|4|zh-Hans|妖怪学校的新人教师！
+18321|4|zh-Hant|妖怪學校的菜鳥老師
 13084|4|ja|妖怪少女
 7512|2|zh-Hans|妖怪少女石榴
 7404|2|zh-Hant|妖怪少爺
@@ -79462,6 +79481,8 @@
 1629|4|ja|妻みぐい
 12239|4|ja|妻みぐい3 THE ANIMATION
 18509|4|ja|妻を同窓会にいかせたら
+17911|4|zh-Hans|妻子变成小学生。
+17911|4|zh-Hant|妻子變成小學生。
 4075|4|ja|姉, ちゃんとしようよっ!
 18174|2|ja|姉○尽くし
 4735|4|ja|姉☆孕みっくす
@@ -79859,6 +79880,7 @@
 743|4|zh-Hans|寻宝探险记L
 10372|4|zh-Hans|寻找失去的未来
 14790|4|zh-Hans|寻找见习魔女
+18170|4|zh-Hans|寻神的旅途
 16000|4|ja|対ありでした. ~お嬢さまは格闘ゲームなんてしない~
 3629|4|ja|対馬丸 -さようなら沖縄-
 3629|2|ja|対馬丸 -さよなら沖縄-
@@ -79880,6 +79902,7 @@
 11537|4|ja|将棋アワー
 14790|4|zh-Hant|尋找小魔女 DoReMi
 21|2|zh|尋找滿月
+18170|4|zh-Hant|尋神的旅途
 7478|4|zh|對某飛行員的追憶
 12356|4|ja|導きの星
 6761|4|ja|小さい潜水艦に恋したでかすぎるクジラの話
@@ -81640,6 +81663,7 @@
 13354|2|zh|撸时代第2季
 17592|4|zh-Hant|撿走被人悔婚的千金，教會她壞壞的幸福生活
 16559|2|zh-Hant|擅長捉弄人的高木同學 第三季
+17909|4|zh-Hant|擅長逃跑的殿下
 16559|2|zh-Hans|擅长捉弄人的高木同学 第三季
 13270|4|zh-Hans|擅长捉弄的高木同学
 16560|4|zh-Hans|擅长捉弄的高木同学 剧场版
@@ -82896,6 +82920,7 @@
 8677|4|zh-Hans|极乐院女子高寮物语
 17840|4|zh-Hans|极品全能高手
 15355|4|zh-Hans|极速牵绊 地球先锋队
+18327|4|zh-Hans|极速车魂 第二季
 466|4|zh-Hans|极道君漫游记
 1330|4|zh-Hans|极道鲜师
 18394|4|zh-Hans|极道龙神
@@ -85110,6 +85135,7 @@
 12296|4|zh-Hans|百万吨级武藏
 17027|4|zh-Hans|百万吨级武藏 第二季
 18119|4|ja|百千さん家のあやかし王子
+18119|4|zh-Hans|百千家的妖怪王子
 635|4|zh-Hans|百变之星
 4123|4|zh-Hans|百变之星 不死鸟传说 ～蕾拉・汉密尔顿物语～
 13451|4|zh-Hans|百变猪猪侠
@@ -85386,6 +85412,7 @@
 15391|4|zh-Hans|神之塔
 17559|2|ja|神之塔 2nd SEASON
 17559|4|ja|神之塔 王子の帰還
+17559|2|zh-Hans|神之塔 王子的归来
 17559|2|zh-Hans|神之塔 第二季
 1258|4|zh-Hans|神八剑传
 1258|4|ja|神八剣伝
@@ -85854,6 +85881,8 @@
 18412|2|zh-Hans|精灵小姐瘦不了。
 1780|4|zh-Hans|精灵小鬼头
 15875|4|zh-Hans|精灵幻想记
+16962|4|zh-Hans|精灵幻想记 2
+16962|2|zh-Hans|精灵幻想记 第二季
 16765|4|zh-Hans|精灵梦叶罗丽
 16766|4|zh-Hans|精灵梦叶罗丽 第2季
 16767|4|zh-Hans|精灵梦叶罗丽 第3季
@@ -85872,7 +85901,9 @@
 9999|4|zh-Hant|精靈使的劍舞
 2729|2|zh-Hant|精靈俏女巫
 230|4|zh-Hant|精靈寶可夢
+18412|4|zh-Hant|精靈小姐瘦不了
 15875|4|zh-Hant|精靈幻想記
+16962|4|zh-Hant|精靈幻想記 2
 14541|4|zh-Hans|糖果世界大冒险
 18588|4|ja|糸を撚る
 14051|4|zh-Hant|約定的夢幻島
@@ -87111,6 +87142,8 @@
 17517|2|zh-Hans|被解雇的暗黑士兵（30多岁）开始了慢生活的第二人生
 17517|4|zh-Hans|被解雇的暗黑士兵（30岁）慢生活的第二人生
 14756|4|zh-Hans|被赠与的未来
+18451|4|zh-Hant|被逐出隊伍的治癒師，其實是最強
+18451|4|zh-Hans|被队伍驱逐的治愈师，其实是最强的
 10858|6|ja|装刀凱 The Animation
 14000|2|ja|装刀凱 The Animation (2018)
 15496|4|ja|装煌聖姫イースフィア ~淫虐の洗脳改造~
@@ -87675,6 +87708,7 @@
 16727|4|zh-Hant|轉生成女性向遊戲只有毀滅END的壞人大小姐 劇場版
 17557|4|zh-Hant|轉生成自動販賣機的我今天也在迷宮徘徊
 14201|4|zh-Hant|轉生成蜘蛛又怎樣
+18532|4|zh-Hant|轉生成貓咪的大叔
 17702|2|zh-Hant|轉生為第七王子，隨心所欲的魔法學習之路
 18026|4|zh-Hant|轉生貴族憑鑑定技能扭轉人生
 17552|2|zh-Hant|轉生貴族的異世界冒險錄～不知自重的眾神使徒～
@@ -87688,6 +87722,7 @@
 16785|2|zh-Hans|转生成为魔剑
 16785|4|zh-Hans|转生成为魔剑了
 17789|4|zh-Hans|转生成为魔剑了 2
+18532|4|zh-Hans|转生成猫咪的大叔
 17557|4|zh-Hans|转生成自动贩卖机的我今天也在迷宫徘徊
 14201|4|zh-Hans|转生成蜘蛛又怎样！
 17569|4|zh-Hans|转生王女与天才千金的魔法革命
@@ -87715,6 +87750,7 @@
 9515|4|zh-Hans|辉夜姬物语
 15072|4|zh-Hant|辣妹與恐龍
 17869|4|zh-Hans|辣糖甜心
+18291|4|zh-Hans|辰星降临之国的妮娜
 5018|4|ja|辱アナ
 5465|4|ja|辱妻
 7738|3|ja|農ムス
@@ -88786,9 +88822,11 @@
 18278|2|zh-Hans|青之箱
 16358|4|zh-Hans|青之芦苇
 6443|2|zh-Hans|青之花
+18561|2|zh-Hant|青之驅魔師 雪之盡頭篇
 8148|4|zh-Hans|青之驱魔师
 12240|4|zh-Hans|青之驱魔师 京都不净王篇
 8689|4|zh-Hans|青之驱魔师 剧场版
+18561|4|zh-Hans|青之驱魔师 第四季
 12574|4|zh-Hans|青之驱魔师（OAD）
 1137|4|zh-Hans|青兰圆舞曲
 74|2|zh-Hans|青出于蓝
@@ -89921,6 +89959,7 @@
 1530|4|zh-Hans|龙珠Z
 10742|4|zh-Hans|龙珠Z 复活的F
 9314|4|zh-Hans|龙珠Z 神与神
+18238|4|zh-Hans|龙珠大魔
 6399|2|zh-Hans|龙珠改
 10452|4|zh-Hans|龙珠改 魔人布欧篇
 11210|4|zh-Hans|龙珠超
