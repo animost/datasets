@@ -1,4 +1,4 @@
-# created: Wed Oct 16 03:00:01 2024
+# created: Thu Oct 17 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4283,6 +4283,7 @@
 14709|4|en|Bakugan: Battle Planet
 17239|1|x-jat|Bakugan: Evolutions
 16167|1|x-jat|Bakugan: Geogan Rising
+16167|4|pt|Bakugan: Geogan Rising
 7535|3|x-jat|Bakugan: Gundalian Invaders
 17932|1|x-jat|Bakugan: Legends
 17932|4|en|Bakugan: Legends
@@ -21578,6 +21579,7 @@
 8293|1|x-zht|Hu wang gui lai
 12119|1|x-zht|Hu Yao Xiao Hongniang
 18586|1|x-zht|Hu Yao Xiao Hongniang (2024)
+18928|1|x-zht|Hu Yao Xiao Hongniang (2025)
 13198|2|x-zht|Hu Yao Xiao Hongniang (Japanese Version)
 16864|1|x-zht|Hu Yao Xiao Hongniang Di Shiyi Ji
 16864|2|x-zht|Hu Yao Xiao Hongniang Season 11
@@ -35931,6 +35933,7 @@
 17507|4|en|No Longer Allowed In Another World
 17507|4|de|No Longer Allowed in Another World
 7056|2|en|No Longer Human
+17507|2|en|No Longer Human in Another World
 7189|2|en|No Longer Human: Director`s Cut Edition
 17507|2|en|No Longer Human...In Another World
 17703|4|fr|No Longer Rangers
@@ -52141,6 +52144,7 @@
 14961|4|en|Transformable Shinkansen Robot Shinkalion Movie: The Mythically Fast ALFA-X that Comes from the Future
 3393|4|lt|Transformeriai: Užsimaskavę robotai
 525|4|fr|Transformers - Armada
+3393|4|pt|Transformers - O Regresso dos Transformers
 525|4|hu|Transformers Armada
 525|4|el|Transformers Armada
 2978|2|en|Transformers Beast Wars 2: Lio Convoy`s Close Call!
@@ -66441,6 +66445,7 @@
 1313|2|ko|음욕의 방
 5360|4|ko|음욕특급 절륜왕
 1688|2|ko|음의 방정식
+18756|2|ko|음침한 커플이 밝은 갸루들과 섹스트레이닝을 하는 이야기
 4942|2|ko|음타 공주기사 쟌느
 861|2|ko|음탕한 외계인
 13762|2|ko|음행 교사 4 feat. 에로 의원 선생
@@ -84539,6 +84544,7 @@
 18586|2|zh-Hans|狐妖小红娘  镜花缘篇
 13198|2|zh|狐妖小红娘 (2017)
 18586|4|zh-Hans|狐妖小红娘 (2024)
+18928|4|zh-Hans|狐妖小红娘 (2025)
 16617|4|zh-Hans|狐妖小红娘 两生花篇
 16616|4|zh-Hans|狐妖小红娘 沐天城篇
 16864|4|zh-Hans|狐妖小红娘 第十一季
