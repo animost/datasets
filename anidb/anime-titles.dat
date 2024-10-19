@@ -1,4 +1,4 @@
-# created: Thu Oct 17 03:00:02 2024
+# created: Fri Oct 18 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -751,7 +751,9 @@
 16172|4|ja|86 (2021)
 16172|2|en|86 2nd Part
 15441|4|en|86 Eighty-Six
+15441|4|pl|86 eighty-six
 16172|4|en|86 Eighty-Six (2021)
+16172|4|pl|86 eighty-six (2021)
 16172|2|en|86 Eighty-Six Part 2
 16172|2|x-jat|86 Part 2
 15441|4|ru|86 ВОСЕМЬДЕСЯТ ШЕСТЬ
@@ -5453,6 +5455,7 @@
 12351|1|x-jat|Black Clover
 12665|4|fr|Black Clover
 12665|4|en|Black Clover
+12665|4|pl|Black Clover
 12665|1|x-jat|Black Clover (2017)
 12665|2|x-unk|Black Clover (TV)
 16176|4|pt|Black Clover: A Espada do Rei Feiticeiro
@@ -7205,6 +7208,7 @@
 3972|1|x-jat|Captain Tsubasa: Saikyou no Teki! Holanda Youth
 3561|1|x-jat|Captain Tsubasa: Sekai Daikessen!! Jr. World Cup
 3560|2|en|Captain Tsubasa: The Japanese Youth Selection Is in Danger
+18930|2|en|Captivated, by You
 5141|2|en|Captivating Lust
 14593|2|en|Captive Drops: Virgins Defiled on a Luxury Cruise Ship in Summer
 505|3|x-jat|captsuba
@@ -12218,6 +12222,7 @@
 14491|1|x-jat|Dr. Stone
 14491|4|en|Dr. Stone
 14491|4|pl|Dr. Stone
+15305|4|pl|Dr. Stone (2021)
 15305|2|en|Dr. Stone S2: Stone Wars
 18064|2|x-jat|Dr. Stone Season 3 Part 2
 17053|1|x-jat|Dr. Stone: New World
@@ -24977,6 +24982,7 @@
 12575|2|tr|Karanlığın Tiyatrosu: Japon Hayalet Hikâyeleri 4
 4651|2|en|Karaoke Fighter Jiro Mike
 4651|2|en|Karaoke Fighter Mike-tarou
+18929|1|x-jat|Karaoke Iko!
 4651|1|x-jat|Karaoke Senshi Mike Jirou
 2179|1|x-jat|Karas
 2179|4|pl|Karas
@@ -28741,6 +28747,7 @@
 3056|4|en|Let`s Dance with Papa
 7226|2|en|Let`s Do It
 5951|2|en|Let`s Fall in Love Like the Ero-manga
+18929|2|en|Let`s Go Karaoke!
 995|2|en|Let`s Go Marine-chan
 7400|2|en|Let`s Go Play!
 3159|4|en|Let`s Go Quintuplets
@@ -29130,7 +29137,9 @@
 9677|1|x-jat|Log Horizon
 9677|4|fr|Log Horizon
 9677|4|en|Log Horizon
+9677|4|pl|Log horizon
 10551|1|x-jat|Log Horizon (2014)
+10551|4|pl|Log horizon (2014)
 10551|4|en|Log Horizon 2
 10551|4|nl|Log Horizon 2
 15363|2|en|Log Horizon 3
@@ -33944,6 +33953,7 @@
 141|3|en|MUC OVA
 140|3|en|MUC TV
 14220|1|x-jat|Muchi Muchi Kyousei Seichouchuu!!!
+18930|1|x-jat|Muchuusa, Kimi ni.
 7261|2|x-jat|Mudadzumo Naki Kaikaku
 11248|1|x-jat|Mudai
 7261|3|x-jat|mudazumo
@@ -34586,6 +34596,7 @@
 11163|3|x-jat|nagatoyuki ova
 10815|3|x-jat|nagatoyukichan
 11163|3|x-jat|nagatoyukichan ova
+18498|3|x-jat|nageki
 18498|1|x-jat|Nageki no Bourei wa Intai Shitai
 158|1|x-jat|Nageki no Kenkou Yuuryouji
 9387|1|x-jat|Nagi no Asukara
@@ -41854,6 +41865,7 @@
 17422|1|x-jat|Rick and Morty: The Anime
 17422|4|en|Rick and Morty: The Anime
 17422|2|en|Rick and Morty: The Anime Series
+17422|4|pl|Rick i Morty: Anime
 2082|4|fr|Ricky Star
 9916|4|en|Riddle Story of Devil
 6235|1|x-jat|Ride Back
@@ -42260,6 +42272,7 @@
 3380|2|en|Ronin Warriors Message
 3377|2|en|Ronin Warriors OAV
 3379|2|en|Ronin Warriors: Legend of the Inferno Armor
+10421|2|pl|Ronja
 10421|2|de|Ronja Räubertochter
 10421|4|sv|Ronja Rövardotter
 10421|4|da|Ronja Røverdatter
@@ -49449,6 +49462,7 @@
 16113|4|es|The Ancient Magus Bride: El chico del oeste y el caballero de la brisa
 12942|4|en|The Ancient Magus` Bride
 12942|4|fr|The Ancient Magus` Bride
+12942|4|pl|The Ancient Magus` Bride
 17599|4|en|The Ancient Magus` Bride Season 2
 18076|4|en|The Ancient Magus` Bride Season 2 (2023)
 16113|4|en|The Ancient Magus` Bride: The Boy from the West and the Knight of the Blue Storm
@@ -54579,7 +54593,9 @@
 6219|2|en|Welcome home, Minami-ke!
 14040|2|en|Welcome to Convenience Store
 14660|4|en|Welcome to Demon School! Iruma-kun
+14660|4|pl|Welcome to Demon School! Iruma-kun
 15428|4|en|Welcome to Demon School! Iruma-kun (2021)
+15428|4|pl|Welcome to Demon School! Iruma-kun (2021)
 16627|4|en|Welcome to Demon School! Iruma-kun (2022)
 15428|2|en|Welcome to Demon School! Iruma-kun: Season 2
 14592|2|en|Welcome to Hinagiku Virgin Lost Club
@@ -69026,6 +69042,7 @@
 14283|4|ja|かもとりごんべえ
 8486|4|ja|かよえ! チュー学
 4651|4|ja|カラオケ戦士 マイク次郎
+18929|4|ja|カラオケ行こ!
 13270|4|ja|からかい上手の高木さん
 13991|4|ja|からかい上手の高木さん ウォータースライダー
 14591|4|ja|からかい上手の高木さん2
@@ -78743,6 +78760,7 @@
 6911|4|ja|夢の魔術師
 7209|4|ja|夢みる機械
 6543|4|ja|夢をかなえるゾウ
+18930|4|ja|夢中さ, きみに.
 4185|4|ja|夢使い
 8413|2|ja|夢喰い
 8413|4|ja|夢喰い -つるみく式ゲーム製作-
