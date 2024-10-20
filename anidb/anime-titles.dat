@@ -1,4 +1,4 @@
-# created: Fri Oct 18 03:00:01 2024
+# created: Sat Oct 19 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -871,6 +871,7 @@
 3189|4|hu|A fehér farkas
 18442|2|en|A Few Moments of Cheers
 11505|2|en|A Field of Intention Named Ayato Shiki
+13545|4|hu|A fiú és a szürke gém
 1919|2|pt-BR|A Flor das Sete Cores
 2043|2|pt-BR|A Flor das Sete Cores: O Filme
 4935|2|pt|A Floresta do Piano
@@ -4159,6 +4160,7 @@
 17535|1|x-zht|Bai Yao Pu Jing Shi Pia
 17821|1|x-zht|Bai Yao Pu Si Fu Pian
 14028|2|zh-Hans|Bai Ye Ling Long
+13545|4|ro|Băiatul și stârcul
 18524|2|x-zht|Baijia Jue: Jianghu Gui Shi Lu
 7740|1|x-jat|Baikinman tai Baikinman!?
 7748|1|x-jat|Baikinman to 3-bai Punch
@@ -5005,6 +5007,7 @@
 13912|2|en|Bermuda Triangle: Colourful Pastorale
 12890|2|en|Bernard
 12226|1|x-jat|Bernard-jou Iwaku.
+13545|4|lt|Berniukas ir garnys
 161|4|x-kot|Berry Berry Mew Mew
 1406|4|it|Bersaglio che ride (Granata) - La sposa demoniaca (Polygram)
 98|4|fr|Berserk
@@ -8541,6 +8544,7 @@
 12457|1|x-jat|Cocolors
 18084|1|x-jat|Cocoon
 18084|4|ja|cocoon
+13545|4|tr|Çocuk ve Balıkçıl
 9065|2|tr|Çocuk ve Kiraz Ağacı
 8673|2|x-unk|Code Breaker
 4521|4|fr|Code Geass
@@ -10247,6 +10251,7 @@
 14994|4|zh-Hant|DECA - DENCE
 14994|1|x-jat|Deca-Dence
 14994|4|en|Deca-Dence
+13545|4|sr|Dečak i čaplja
 18880|1|x-jat|Decapolice
 18880|4|ja|DECAPOLICE
 11302|4|en|December Song
@@ -11392,6 +11397,7 @@
 1319|2|x-jat|Divergence Eve 2
 1319|4|en|Divergence Eve: Misaki Chronicles
 12327|4|es|Divina Juventud
+18932|2|en|Divine Dragon Star Lord
 11266|1|x-jat|Divine Gate
 11266|4|en|Divine Gate
 11266|4|fr|Divine Gate
@@ -11406,6 +11412,7 @@
 14559|1|x-zht|Dixia Cheng Yu Yongshi: Nizhuan Zhi Lun
 16163|3|ja|DIY!!
 8832|4|hr|Djeca vukovi
+13545|4|hr|Dječak i čaplja
 1428|4|sv|Djungelboken
 2737|4|sv|Djurgården
 8729|3|ja|DKN
@@ -12669,6 +12676,7 @@
 1826|1|x-jat|Dragon Slayer Eiyuu Densetsu: Ouji no Tabidachi
 1826|4|pt-BR|Dragon Slayer: A Lenda de um Herói
 1826|2|en|Dragon Slayer: The Legend of Heroes
+18932|4|en|Dragon Star Lord
 2091|4|en|Dragon Warrior
 15142|1|x-jat|Dragon, Ie o Kau.
 17179|4|en|Dragon`s Disciple
@@ -12764,6 +12772,7 @@
 11360|4|ja|DREAMS
 6630|2|en|Dreamy Urashima
 2708|4|de|Drei kleine Geister
+13545|4|da|Drengen og hejren
 2571|4|en|Dress-up Battle-team Kildian
 4835|2|en|Drift off to Blue Orchid Island
 11164|1|x-jat|Drifters
@@ -13524,6 +13533,8 @@
 1847|4|es|El mercenario del sexo
 1919|2|es|El Misterio de la Flor Mágica
 632|4|es|El misterioso Loki
+13545|4|es-419|El niño y la garza
+13545|4|es-CA|El noi i l`ocell
 4260|4|es|El osito Misha
 1432|2|es|el pecado del deseo y la vergüenza
 264|2|es|El Pequeño Chef
@@ -18947,6 +18958,7 @@
 6572|1|x-jat|Guskou Budori no Denki
 8922|1|x-jat|Guskou Budori no Denki (2012)
 4953|2|en|Gutsy Frog
+13545|4|no|Gutten og hegren
 228|3|x-jat|Guu
 317|3|x-jat|Guu Deluxe
 1282|3|x-jat|guu final
@@ -19911,11 +19923,7 @@
 18675|1|x-jat|Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) o Mugen ni Taberareru You ni Natta Ken ni Tsuite
 18675|2|x-jat|Hazure Sukiru “Konomi Masuta”: Sukiru no Mi (Tabetara Shinu) o Mugen ni Tabe Rareru yo ni Natta Kudan
 18438|1|x-jat|Hazure Waku no "Joutai Ijou Skill" de Saikyou ni Natta Ore ga Subete o Juurin Suru made
-18438|2|x-jat|Hazure Waku no "Joutai Ijou Skill" de Saikyou ni Natta Ore ga Subete wo Juurin Suru made
-18438|2|x-jat|Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete o Juurin Suru made
-18438|2|x-jat|Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin suru made
 18438|2|x-jat|Hazurewaku
-18438|2|x-jat|Hazurewaku no "Joutai Ijou Skill" de Saikyou ni Natta Ore ga Subete wo Juurin suru made
 2835|3|x-jat|hc
 4422|3|x-jat|hc s2
 4422|3|x-jat|hc2
@@ -20446,6 +20454,7 @@
 4275|2|tr|Hermes: Aşk Rüzgarları
 4275|4|en|Hermes: Winds of Love
 3519|2|en|Hermit Village
+18921|2|en|Hero Academia 8
 10389|1|x-jat|Hero Bank
 16792|2|en|Hero Classroom
 11171|1|x-jat|Hero Company
@@ -21351,6 +21360,7 @@
 9229|3|x-jat|horimiya
 15733|1|x-jat|Horimiya
 15733|4|en|Horimiya
+9229|3|x-jat|horimiya ova
 17946|1|x-jat|Horimiya: Piece
 17946|4|en|Horimiya: The Missing Pieces
 8323|3|x-jat|horizon
@@ -24809,6 +24819,7 @@
 3289|1|x-jat|Kanashimi no Belladonna
 14661|1|x-jat|Kanata no Astra
 17999|3|x-jat|kanaten
+18931|1|x-jat|Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyou Gakari ga, Jitsuwa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi
 10161|4|en|KanColle
 10161|3|x-jat|KanColle
 10161|4|fr|KanColle
@@ -39299,12 +39310,15 @@
 907|4|pl|Pogodynka
 947|4|cs|Pohádky bratří Grimmů
 1751|4|cs|Pohádky bratří Grimmů (2)
+13545|4|fi|Poika ja haikara
 10967|4|fi|Poika ja peto
 2999|4|fi|Poika ja valkoinen valas
 12005|2|fr|Point de non-retour
 2161|3|x-jat|poirot
 2161|4|fr|Poirot et Marple les grands détectives d`Agatha Christie
+13545|4|et|Poiss ja haigur
 2852|4|pl|Pojedynek aniołów
+13545|4|sv|Pojken och hägern
 4312|1|x-jat|Poka Poka Mori no Rascal
 4144|3|x-jat|Pokan
 4728|2|el|pokemon
@@ -44772,6 +44786,7 @@
 963|3|x-jat|shengi
 10238|1|x-zht|Shengshi Chuanshuo
 18428|1|x-zht|Shengsi Huifang
+18932|1|x-zht|Shenlong Xing Zhu
 13852|2|x-unk|Shenme Gui
 16866|1|x-jat|Shenmi Shijie Lixian Ji
 16867|1|x-zht|Shenmi Shijie Lixian Ji 2
@@ -44791,8 +44806,8 @@
 617|4|hu|Sherlock Holmes, a mesterkopó
 617|4|en|Sherlock Hound
 617|4|fi|Sherlock Koira
-16984|2|x-zht|Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming
-18258|2|x-zht|Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming 2
+16984|1|zh-Hans|Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming
+18258|1|zh-Hans|Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming 2
 18471|1|x-zht|Shi Fang Jian Sheng
 18386|1|x-zht|Shi Fang Wu Sheng
 18161|1|zh-Hans|Shi Hang
@@ -49564,6 +49579,9 @@
 10967|4|en|The Boy and the Beast
 9064|2|en|The Boy and the Blue Sea
 13545|4|en|The Boy and the Heron
+13545|4|id|The Boy and the Heron
+13545|4|my|The Boy and the Heron
+13545|4|nl|The Boy and the Heron
 388|4|en|The Boy Who Saw the Wind
 2494|2|en|The Boy with the Guitar -Kikaider VS Inazuman-
 1811|2|en|The Brave Frog
@@ -50911,6 +50929,7 @@
 5215|2|en|The Ultimate Esper "R"
 2347|1|x-jat|The Ultraman
 18842|4|en|The Umbrella Fairy
+18931|2|en|The Unaware Atelier Master
 11428|4|en|The Undertaker and the Dog
 7193|2|en|The Underwater Tyrant
 17291|2|en|The Unforgiven
@@ -51095,6 +51114,7 @@
 2551|2|en|Thief Glittering Man
 354|2|en|Thief of the Heavenly Wind Joan of Arc
 12654|4|vi|Thiết giáp chi thành: Hải môn quyết chiến
+13545|4|vi|Thiếu Niên và Chim Diệc
 7972|2|en|Thinking and Drawing: Japanese Art Animation of the New Millenium
 7972|1|x-jat|Thinking and Drawing: Nihon no Shinseiki Art Animation
 2213|2|en|Thirty Thousand Miles Under the Sea
@@ -56337,8 +56357,8 @@
 16638|1|x-zht|Youxia Zhan Ji
 16638|2|x-zht|Youxia Zhanji
 4114|1|x-jat|Youyou no Neko Tsumami
-16984|1|x-jat|Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei
-18258|1|x-jat|Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei Season 2
+16984|2|x-jat|Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei
+18258|2|x-jat|Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei Season 2
 11605|1|x-jat|Yowai Mushi
 12529|1|x-jat|Yowamushi Chinsengumi
 9591|1|x-jat|Yowamushi Pedal
@@ -56969,6 +56989,7 @@
 17190|2|x-jat|Zenryoku Usagi Season 2
 15953|4|ja|Zenryoku Yobikou 5.5 Seminar
 15953|1|x-jat|Zenryoku Yobikou 5.5 Seminar
+13545|4|lv|Zēns un gārnis
 18547|4|en|Zenshu
 18547|1|x-jat|Zenshuu.
 1799|4|de|Zentrix
@@ -57283,6 +57304,7 @@
 408|2|x-jat|Zone of the Enders 2167 Idolo
 412|4|en|Zone of the Enders: Dolores
 408|4|en|Zone of the Enders: Idolo
+18933|1|x-zht|Zongmen Li Chule Wo Dou Shi Wodi
 11989|1|x-jat|Zonmi-chan
 13933|1|x-jat|Zonmi-chan: Halloween Special Movie!
 11989|2|en|Zonmi-chan: Meat Pie of the Dead
@@ -57573,6 +57595,7 @@
 3324|4|el|Τζουμαρού Ο Ηλεκτρονικός Ιππότης
 5787|2|el|Το "βιβλίο των φίλων" του Νατσούμε
 1169|4|el|Το Αγαπημένο Ζωάκι του Καθηγητή
+13545|4|el|Το Αγόρι και ο Ερωδιός
 1428|4|el|Το Βιβλίο της Ζούγκλας
 2226|4|el|Το Δάσος των Κύκνων
 2654|4|el|Το θαυμαστό ταξίδι του Νίλς Χόλγκερσον
@@ -59629,6 +59652,7 @@
 14194|2|ru|Маленькое зло
 9|2|bg|Малката снежна фея Шугър
 291|2|bg|Малкият Ханада
+13545|4|ru|Мальчик и птица
 100|2|ru|Мальчишки есть мальчишки
 14454|2|ru|Мамка-попаданка
 10295|2|bg|Манга художникът и неговите асистенти
@@ -61551,6 +61575,7 @@
 6238|2|uk|Хіґаші но Еден
 6247|2|ru|Хлам-таун: Город мусора
 356|2|uk|Хлопець-мармелад
+13545|4|uk|Хлопчик і чапля
 909|2|uk|Хлопчик-пара
 388|2|uk|Хлопчик, що бачив вітер
 2178|2|uk|Хованки
@@ -62015,6 +62040,7 @@
 5081|4|he|היה היה... חלל
 4241|2|he|היום בכיתה ה`-2
 4917|2|he|הייטה גוטוקו!
+13545|4|he|הילד והאנפה
 4151|2|he|הילדה שזינקה מבעד לזמן
 4151|2|he|הילדה שקפצה בזמן
 13625|4|he|היסונה והדרקון
@@ -62575,6 +62601,7 @@
 508|4|ar|الشبح
 1929|4|ar|الشجعان الثلاثة
 8122|4|ar|الشجعان السبعة
+13545|4|ar|الصبي ومالك الحزين
 6322|2|ar|الصديقة الكهرومغناطيسية
 2858|4|ar|الصياد
 2233|4|ar|الصياد الجرئ
@@ -63641,6 +63668,7 @@
 13734|4|hi|ग्रैंड ब्लू ड्रीमिंग
 4563|4|hi|डेथ नोट
 17564|4|hi|तहखाने के चटोरे
+13545|4|hi|द बॉय ऐंड द हेरन
 13536|4|hi|बनाना फिश
 17662|4|hi|महान दिव्य- इंसान
 5693|6|hi|रामायण: श्री राम कथा
@@ -63807,6 +63835,7 @@
 4549|4|th|ดีเกรย์แมน
 621|4|th|ดีเอ็นแองเจิ้ล
 2061|4|th|ดูเอลมอนสเตอร์ ยูกิโอ
+13545|4|th|เด็กชายกับนกกระสา
 15540|4|th|เด็กเดือนตุลา
 8073|4|th|เด็กสาวกับเสียงเพรียกแห่งพิภพเทวา
 56|4|th|เดอะ ปริ้นซ์ ออฟ เทนนิส
@@ -64355,6 +64384,7 @@
 6946|2|ko|그녀는 신부 후보생
 461|2|ko|그녀와 그녀의 고양이
 11874|2|x-kot|그녀와 그녀의 고양이: Everything Flows
+13545|4|ko|그대들은 어떻게 살 것인가
 13593|4|ko|그라미의 서커스쇼
 14182|4|ko|그라제니 (2018)
 14717|4|ko|그란벨름
@@ -77548,6 +77578,7 @@
 3518|4|ja|動物村ものがたり
 15755|4|zh-Hant|動畫 水豚君
 4992|4|ja|動絵狐狸達引(うごきえこりのたてひき)
+18931|4|ja|勘違いの工房主~英雄パーティの元雑用係が, 実は戦闘以外がSSSランクだったというよくある話~
 2412|4|ja|勝利投手
 238|4|ja|勝負師[ギャンブラー]伝説 哲也
 17261|4|ja|勝連おもろそうし
@@ -79785,6 +79816,7 @@
 16892|4|zh-Hans|完美世界双食记
 4734|2|zh-Hans|完美小姐进化论
 6770|4|ja|宗谷物語
+18933|4|zh-Hans|宗门里除了我都是卧底
 6398|4|ja|宙のまにまに
 16487|4|zh-Hans|定海浮生录
 15067|4|zh-Hans|宝可梦
@@ -85562,6 +85594,7 @@
 148|2|zh-Hant|神鵰俠侶
 2907|4|zh|神鵰俠侶 II 襄陽風雲
 6376|4|zh|神鵰俠侶 III: 相約十六年
+18932|4|zh-Hans|神龙星主
 15996|4|zh-Hans|祭品公主与兽之王
 8798|2|zh-Hans|禁区骑士
 11039|4|zh-Hant|禁忌咒纹
