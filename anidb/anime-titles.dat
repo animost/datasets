@@ -1,4 +1,4 @@
-# created: Sat Oct 19 03:00:01 2024
+# created: Sun Oct 20 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6946,6 +6946,7 @@
 18401|1|x-jat|Calabi Yau no Sukima
 9285|4|en|Calamity of a Zombie Girl
 9285|2|en|Calamity of the Zombie Girl
+112|4|ro|Călătoria lui Chihiro
 575|2|ro|Călătoria lui Kino: Lumea frumoasă
 1781|2|en|Calendar Man
 1781|4|it|Calendar Man
@@ -7370,6 +7371,11 @@
 1218|4|ro|Castelul umblător al lui Howl
 1338|1|x-jat|Castle Fantasia: Seima Taisen
 331|2|en|Castle in the Sky
+331|4|my|Castle in the Sky
+331|4|id|Castle in the Sky
+331|4|tl|Castle in the Sky
+331|4|nl|Castle in the Sky
+331|4|ro|Castle in the Sky
 10931|4|en|Castle Town Dandelion
 754|2|en|Castles in the Air
 754|2|en|Castles in the sky
@@ -8793,6 +8799,7 @@
 15706|2|en|Confession Executive Committee movie 3
 13038|2|en|Confession Executive Committee tv
 17847|2|en|Confession...
+7|4|vi|Công chúa Mononoke
 7|2|vi|Công chúa sói
 18703|1|x-zht|Cong Gu Huo Niao Kaishi: Long Cheng Fengyun
 18403|1|x-zht|Cong Hong Yue Kaishi
@@ -13458,6 +13465,7 @@
 17219|4|es|El Castillo a través del Espejo
 1218|4|es|El Castillo Ambulante
 331|4|es|El Castillo en el Cielo
+331|4|es-419|El castillo en el cielo
 1218|2|es|El castillo errante de Howl
 4966|3|x-jat|El Cazador
 4966|4|pl|El Cazador de la Bruja
@@ -14200,6 +14208,7 @@
 11130|2|en|Everyday Life with Monster Girls
 936|2|en|Everyday Seems Sunday
 10289|2|en|Everyone Gather! Falcom Academy
+18933|2|en|Everyone in the Sect Except Me is an Undercover Agent
 16057|4|en|Everything for Demon King Evelogia
 16057|2|en|Everything for the Demon King Evelogia
 8769|1|x-jat|Evidence
@@ -14504,6 +14513,7 @@
 18265|1|x-zht|Fanren Xiu Xian Chuan: Xinghai Feichi Pian Xuzhang
 15425|1|x-zht|Fanren Xiuxian Chuan: Feng Qi Tian Nan
 17033|1|x-zht|Fanren Xiuxian Chuan: Feng Qi Tian Nan Er
+13545|4|sl|Fant in čaplja
 1581|2|pt-BR|Fantaman
 1581|4|it|Fantaman
 1581|2|pt-BR|Fantaman, o guerreiro da justiça
@@ -15512,7 +15522,6 @@
 16948|2|en|Friends Games
 8174|1|x-jat|Friends: Mononoke Shima no Naki
 8174|2|en|Friends: Naki of Monster Island
-17617|3|en|Frieren
 17617|4|fr|Frieren
 17617|4|it|Frieren - Oltre la Fine del Viaggio
 17617|4|pt-BR|Frieren e a Jornada para o Além
@@ -15544,6 +15553,7 @@
 1113|1|x-jat|Front Innocent: Mou Hitotsu no Lady Innocent
 17501|2|pt|Fronteira Xangrilá
 1209|4|es-419|Frontera sin ley
+18404|2|en|Frozen Mahjong: Underground Mahjong Battle Record
 34|3|x-jat|fruba
 16410|3|x-jat|fruba movie
 14490|3|x-jat|fruba1
@@ -17770,7 +17780,7 @@
 8810|4|ja|GO AROUND
 8810|1|x-jat|Go Around
 15691|2|en|Go Calf
-18815|2|en|Go for It, Nakamura!
+18815|4|en|Go for It, Nakamura-kun!!
 3143|2|en|Go for It, Tabuchi: Violent Pennant Contest
 1923|2|en|Go For It! Genki
 4561|2|en|Go for It! Hidemaru
@@ -19551,6 +19561,7 @@
 13783|4|en|Hanebado!
 196|4|lt|Hanėjų Sparnai
 2423|2|en|Hang in There, Goemon!
+303|4|vi|Hàng xóm của tôi là Totoro
 13684|1|x-kot|Hanguksa Siganyeohaeng
 13952|1|x-jat|Hangyaku-sei Million Arthur
 14381|1|x-jat|Hangyaku-sei Million Arthur (2019)
@@ -20648,6 +20659,9 @@
 17957|1|x-jat|High Card (2024)
 17957|2|en|HIGH CARD Season 2
 17957|2|x-jat|High Card Season 2
+18934|4|ja|HIGH CARD THE FLOWERS BLOOM
+18934|1|x-jat|High Card: The Flowers Bloom
+18934|4|en|High Card: The Flowers Bloom
 12990|4|de|High Fall of a Fine Daughter The Animation
 5017|1|x-jat|High School Agent
 3980|2|x-jat|High School Aura Buster
@@ -21547,6 +21561,9 @@
 1218|1|x-jat|Howl no Ugoku Shiro
 1218|4|en|Howl`s Moving Castle
 1218|4|nl|Howl`s Moving Castle
+1218|4|my|Howl`s Moving Castle
+1218|4|id|Howl`s Moving Castle
+1218|4|tl|Howl`s Moving Castle
 1218|2|tr|Howl`un Yürüyen Şatosu
 1218|4|et|Howli liikuv kindlus
 1218|2|hr|Howlov putujući dvorac
@@ -22052,7 +22069,7 @@
 430|1|x-jat|I`ll/CKBC
 430|4|ja|I`ll/CKBC
 18541|2|en|I`m a Behemoth, an S-Ranked Monster, but Mistaken for a Cat, I Live as an Elf Girl`s Pet
-18536|2|en|I`m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic
+18536|4|en|I`m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic
 11817|4|en|I`m a sexaholic!
 18058|2|en|I`m Addicted to You.
 3357|2|en|I`m All Yours
@@ -22068,6 +22085,7 @@
 14673|2|en|I`m Joybo 2nd Season
 14674|2|en|I`m Joybo OVA
 16615|4|en|I`m Kodama Kawashiri
+18491|4|en|I`m Living with an Otaku NEET Kunoichi!?
 3318|2|en|I`m My Little Sister`s Secret
 4086|2|en|I`m Not an Angel!
 16917|4|en|I`m Quitting Heroing
@@ -23447,7 +23465,6 @@
 7056|2|lt|Japonų literatūros klasika
 2971|1|x-jat|Jarinko Chie
 2974|1|x-jat|Jarinko Chie (1981)
-16984|3|x-jat|Jaryuu Nintei
 4293|4|pl|Jaś i Czarodziejska Fasola
 4293|2|pl|Jaś i Magiczna Fasola
 13637|3|x-jat|Jashin
@@ -25061,6 +25078,7 @@
 168|1|x-jat|Kashou no Tsuki: Aki Kyougen
 2843|2|x-jat|Kasimasi
 4078|2|de|Kasumi - Heimliche Liebe
+11749|4|en|Kasumi`s Sex Crisis
 6057|1|x-jat|Kasumin 1st Series
 6058|1|x-jat|Kasumin 2nd Series
 733|1|x-jat|Kasumin 3rd Series
@@ -27904,6 +27922,7 @@
 366|2|es|La Princesa de los 1000 Años
 366|4|es-419|La Princesa de los 1000 Años
 7|4|es|La Princesa Mononoke
+7|4|es-419|La princesa Mononoke
 1890|4|es-419|La Princesa Sally
 2298|4|es|La Princesa Sara
 7478|2|es|La Princesa y el Piloto
@@ -28156,6 +28175,7 @@
 331|2|ro|Laputa: Castel în Cer
 331|4|en|Laputa: Castle in the Sky
 331|4|no|Laputa: Himmelslottet
+331|4|vi|Laputa: Lâu đài trên không
 331|4|fi|Laputa: Linna taivaalla
 331|4|cs|Laputa: Nebeský zámek
 331|2|pt-BR|Laputa: O Castelo no Céu
@@ -28239,6 +28259,7 @@
 3498|4|pl|Latający dom
 1859|2|pl|Latający statek widmo
 14002|4|en|Late Night! The Genius Bakabon
+1218|4|vi|Lâu đài bay của pháp sư Howl
 1218|2|vi|Lâu đài di động của Howl
 5466|2|en|Laughing Nurse
 2106|2|en|Laughing Salesman
@@ -33150,6 +33171,8 @@
 11803|1|x-jat|Mob Psycho 100
 11803|4|en|Mob Psycho 100
 11803|4|es-419|Mob Psycho 100
+11803|4|pl|Mob Psycho 100
+13939|4|pl|Mob Psycho 100 (2019)
 14941|3|en|Mob Psycho 100 2 OAV
 13939|1|x-jat|Mob Psycho 100 II
 13939|4|en|Mob Psycho 100 II
@@ -34405,6 +34428,10 @@
 6635|2|en|My Neighbor 801-chan R
 9809|2|en|My Neighbor Seki
 303|4|en|My Neighbor Totoro
+303|4|my|My Neighbor Totoro
+303|4|nl|My Neighbor Totoro
+303|4|id|My Neighbor Totoro
+303|4|tl|My Neighbor Totoro
 370|4|en|My Neighbors the Yamadas
 303|2|en|My Neighbour Totoro
 370|2|en|My Neighbours the Yamadas
@@ -34431,6 +34458,7 @@
 14253|4|en|My Roommate Is a Cat
 3389|4|it|My Santa
 3389|4|fr|My Santa!
+18933|2|en|My Sectarian Members Are Spies
 13647|2|en|My Senior Brother Has a Pit in His Brain
 17856|2|en|My Senior Brother is Too Steady
 18330|2|en|My Senior Brother is Too Steady Season 2
@@ -34781,6 +34809,7 @@
 10423|1|x-jat|Nandaka Velonica
 2675|1|x-jat|Nandarou
 14413|1|x-jat|Nande Koko ni Sensei ga!?
+275|4|vi|Nàng công chúa ở Thung lũng gió
 16250|4|vi|Nàng Nổi Loạn X Chàng Thợ May
 1126|1|x-jat|Nangoku Shounen Papuwa-kun
 11446|1|x-jat|Nani ga Dekiru ka na
@@ -35091,9 +35120,11 @@
 275|3|x-jat|Naushika
 275|3|x-jat|Nausicaa
 275|3|x-unk|Nausicaä
+275|4|no|Nausicaä - Prinsessen fra Vindens Dal
 275|4|de|Nausicaä aus dem Tal der Winde
 275|4|fr|Nausicaä de la vallée du vent
 275|4|es|Nausicaä del valle del viento
+275|4|es-419|Nausicaä del Valle del Viento
 275|4|it|Nausicaä della valle del vento
 275|4|ro|Nausicaa din Valea Vântului
 275|4|pt|Nausicaä do Vale do Vento
@@ -35103,12 +35134,17 @@
 275|4|sl|Nausicaä iz Dežele vetra
 275|4|en|Nausicaa of the Valley of the Wind
 275|2|x-other|Nausicaä of the Valley of the Wind
+275|4|nl|Nausicaä of the Valley of the Wind
+275|4|my|Nausicaä of the Valley of the Wind
+275|4|tl|Nausicaä of the Valley of the Wind
+275|4|id|Nausicaä of the Valley of the Wind
 275|4|pl|Nausicaä z Doliny Wiatru
 275|2|lt|Nausika iš Vėjų slėnio
 275|4|cs|Naušika z Větrného údolí
 275|4|lt|Nausikaja iš Vėjų slėnio
 275|4|sr|Nausikaja iz doline Vetra
 275|2|sr|Nausikaja iz doline Vjetra
+275|4|hr|Nausikaja iz Doline vjetra
 275|4|hu|Nauszika - A szél harcosai
 9998|2|la|Nav Spēles Nav Dzīves
 4265|2|en|Naval Fleet of Glass
@@ -36772,6 +36808,7 @@
 609|3|x-jat|okg
 4148|3|x-jat|okhc
 18095|1|x-jat|Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru
+18095|4|en|Okitsura
 13875|4|cs|Okkin hostinec
 13875|4|hu|Okko szállója
 14011|4|de|Okko und ihre Geisterfreunde -Der Film-
@@ -40245,6 +40282,10 @@
 2998|4|fr|Princess Minerva
 2998|4|en|Princess Minerva
 7|4|en|Princess Mononoke
+7|4|my|Princess Mononoke
+7|4|nl|Princess Mononoke
+7|4|id|Princess Mononoke
+7|4|tl|Princess Mononoke
 227|4|fr|Princess Nine
 227|4|en|Princess Nine
 227|2|en|Princess Nine: Kisaragi Female Baseball Club
@@ -40294,7 +40335,9 @@
 2107|4|it|Principessa dai capelli blu
 9515|4|fi|Prinsessa Kaguyan taru
 7|4|fi|Prinsessa Mononoke
+7|4|sv|Prinsessan Mononoke
 7|4|da|Prinsesse Mononoke
+7|4|no|Prinsesse Mononoke
 18690|1|x-jat|Prinsession Orchestra
 7|4|ro|Prinţesa Mononoke
 333|4|ro|Printre Amintiri
@@ -41991,6 +42034,8 @@
 7931|4|en|Rio: Rainbow Gate!
 17760|4|pt-BR|Ririsa, Uma Garota em 2.5D
 17760|4|es-419|Ririsa, una chica en 2.5D
+11821|4|en|Risa`s Freaky Family Relations Part 1
+12365|4|en|Risa`s Freaky Family Relations Part 2
 18394|4|en|Rise of the Dragon
 15541|2|en|Rise to Immortality
 15542|2|en|Rise to Immortality II
@@ -42838,6 +42883,7 @@
 18210|1|x-jat|Saikyou Degarashi Ouji no An`yaku Teii Arasoi: Munou o Enjiru SS Rank Ouji wa Koui Keishou-sen o Kage kara Shihai Suru
 10005|1|x-jat|Saikyou Ginga Ultimate Zero: Battle Spirits
 15651|1|x-jat|Saikyou Kamizmode!
+18935|1|x-jat|Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru?
 18592|1|x-jat|Saikyou no Shien-shoku "Wajutsushi" Dearu Ore wa Sekai Saikyou Clan o Shitagaeru
 18592|2|x-jat|Saikyou no Shienshoku "Wajutsushi" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru
 17159|1|x-jat|Saikyou Onmyouji no Isekai Tenseiki
@@ -46317,7 +46363,6 @@
 458|4|en|Someday`s Dreamers
 5830|4|en|Someday`s Dreamers II: Sora
 458|2|en|Somedays Dreamers
-18491|2|en|Somehow, I Started Living With a NEET Otaku Kunoichi
 9655|2|en|Someone`s Gaze
 5026|1|x-jat|Something Great Chizu ni Nai Machi
 16799|2|en|Something is Wrong... with This Company!
@@ -46997,6 +47042,9 @@
 18807|2|en|Spirit Wind Elegance SP
 112|4|en|Spirited Away
 112|4|sv|Spirited Away
+112|4|tl|Spirited Away
+112|4|id|Spirited Away
+112|4|my|Spirited Away
 112|4|pl|Spirited Away: W krainie bogów
 828|4|it|Spiriti & Affini S.R.L. (Società a Razionalità Limitata)
 12656|4|ja|SPIRITPACT
@@ -47072,9 +47120,11 @@
 17979|2|en|Spy Room (2023)
 16947|1|x-jat|Spy x Family
 16947|4|en|Spy x Family
+16947|4|pl|Spy x Family
 18677|1|x-jat|Spy x Family  Season 3
 17061|1|x-jat|Spy x Family (2022)
 17061|4|en|Spy x Family (2022)
+17061|4|pl|Spy x Family (2022)
 17784|1|x-jat|Spy x Family (2023)
 17784|4|en|Spy x Family (2023)
 17784|2|x-jat|Spy x Family 2nd Season
@@ -47082,6 +47132,7 @@
 17785|4|es|Spy x Family Código: Blanco
 17784|2|x-jat|Spy x Family Season 2
 16947|4|th|SPY x FAMILY ซีซั่น 2
+18933|4|en|Spy x Sect
 16947|4|ja|SPY×FAMILY
 17061|4|ja|SPY×FAMILY (2022)
 17784|4|ja|SPY×FAMILY (2023)
@@ -48815,6 +48866,7 @@
 6296|4|en|Tayutama: Kiss on My Deity
 2810|3|x-jat|TB
 7458|3|x-jat|tb2
+18935|3|en|tbate
 5722|3|x-jat|tbd
 1945|3|x-jat|tbd ova
 7013|3|x-jat|tbd ova 2
@@ -49535,6 +49587,7 @@
 13772|2|en|The Beauty Blogger
 13794|2|en|The Beetles
 8805|2|x-jat|The Beginning
+18935|4|en|The Beginning After the End
 3620|2|en|The Bells of Nagasaki
 2964|2|en|The Best Student Council
 6411|2|en|The Best!! Extremely Cool Student Council President
@@ -49580,6 +49633,7 @@
 9064|2|en|The Boy and the Blue Sea
 13545|4|en|The Boy and the Heron
 13545|4|id|The Boy and the Heron
+13545|4|tl|The Boy and the Heron
 13545|4|my|The Boy and the Heron
 13545|4|nl|The Boy and the Heron
 388|4|en|The Boy Who Saw the Wind
@@ -50661,6 +50715,7 @@
 7548|2|en|The Secret of Tsumiki Castle
 7258|4|en|The Secret World of Arrietty
 18449|2|en|The Secrets of Star Divine Arts
+18933|2|en|The Sect
 15644|2|en|The Self-Rescue System of the Protagonist
 12843|4|en|The Senior Class
 12843|4|de|The Senior Class
@@ -52643,6 +52698,7 @@
 14380|1|x-zht|Tu Bian Yingxiong LEAF
 12939|2|x-zht|Tu Bian Yingxiong LEAF (Japanese Version)
 17694|1|x-zht|Tu Bian Yingxiong X
+17753|4|es|Tu color
 4351|2|pl|Tu Detektyw Jeż
 12635|2|fr|Tu m’appartiens – Une copine ultra-sado & son petit ami ultra-maso
 14642|4|vi|Từ ngữ nổi lên như bọt soda
@@ -58134,6 +58190,7 @@
 6670|2|ru|Вишнёвый переполох
 15988|2|uk|Віві: пісня флюоритового ока
 679|2|uk|Віддяка кота
+112|4|uk|Віднесені привидами
 286|2|uk|Відьомська пошта
 8480|2|uk|Вінець Провини
 15441|2|uk|Вісімдесят шість
@@ -63276,6 +63333,7 @@
 612|2|fa|قلب گشنه: استرایکر وحشی
 2926|2|ar|قلب ملاك
 77|2|ar|قلعة الأبعاد الخارقة ماكروس
+331|4|ar|قلعة في السماء
 1218|2|ar|قلعة هاول المتحركة
 1218|4|fa|قلعه متحرک هاول
 6288|2|ar|قلوب باندورا
@@ -63556,6 +63614,7 @@
 4143|2|ar|نانا
 473|2|ar|ناناكا
 1950|2|ar|نانامي - شان
+275|4|ar|ناوسيكا أميرة وادي الرياح
 275|2|ar|ناوسيكا فتاة وادي الرياح
 9554|4|fa|نجات یافته اهریمنی 2
 4777|2|ar|نجم محظوظ
@@ -63666,14 +63725,20 @@
 10951|4|hi|कबनेरी ऑफ़ द आयरन फोर्ट्रेस
 12888|4|hi|किलिंग बाइट्स
 13734|4|hi|ग्रैंड ब्लू ड्रीमिंग
+303|4|hi|जादुई दोस्त तोतोरो
 4563|4|hi|डेथ नोट
 17564|4|hi|तहखाने के चटोरे
 13545|4|hi|द बॉय ऐंड द हेरन
 13536|4|hi|बनाना फिश
 17662|4|hi|महान दिव्य- इंसान
+275|4|hi|राजकुमारी नौसिका की जंग
+7|4|hi|राजकुमारी मोनोनोके
 5693|6|hi|रामायण: श्री राम कथा
 11223|4|hi|रेज ऑफ़ बहामट विर्जिन सोल
 13293|4|hi|वोटाकोई: लव इज़ हार्ड फ़ॉर ओटाकु
+112|4|hi|स्पिरिटेड अवे
+331|4|hi|हवाई किला
+1218|4|hi|हाउल का चलता-फिरता महल
 69|4|bd|ওয়ান পিস্
 4880|2|bd|নারূতঃ সিপ্পুডেন
 12653|4|ta|இனியஷிகி லாஸ்ட் ஹீரோ
@@ -63765,6 +63830,7 @@
 3395|4|th|จารชนพันธุ์เถื่อน
 56|2|th|เจ้าชายลูกสักหลาด
 1656|4|th|เจ้าหญิงเงือกน้อย Pure
+7|4|th|เจ้าหญิงจิตวิญญาณแห่งพงไพร
 15996|4|th|เจ้าหญิงผู้เสียสละกับราชาอสูร
 11126|4|th|เจ้าหญิงสีชาดกับอัศวินดาบไร้เทียมทาน
 3309|4|th|เจ้าหนูนักซิ่ง สิงห์ภูเขา
@@ -63909,6 +63975,7 @@
 2389|4|th|แบล็คแจ็คหมอปีศาจ
 6327|4|th|ปกรณัมของเหล่าภูต
 7727|4|th|ปฏิบัติการรักจักรกลทะยานฟ้า
+1218|4|th|ปราสาทเวทมนตร์ของฮาวล์
 8855|4|th|ปริศนาความทรงจำ
 571|2|th|เปลวฟ้าผ่าปฐพี
 15853|4|th|ผมโดนกลุ่มผู้กล้าขับไสเลยต้องไปสโลว์ไลฟ์ที่ชายแดน
@@ -63946,11 +64013,13 @@
 15275|4|th|มหาเวทย์ผนึกมาร
 15932|4|th|มหาศึกคนชนเทพ
 3348|4|th|มหาสงครามจอกศักดิ์สิทธิ์
+275|4|th|มหาสงครามหุบเขาแห่งสายลม
 10894|2|th|มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน
 16408|4|th|มาโบโรชิ
 6087|4|th|มาเรีย†โฮลิค
 201|2|th|มาโฮโระมาติก 2
 2142|4|th|มิโกะ คนทรงหุ่นเทวะ
+112|4|th|มิติวิญญาณมหัศจรรย์
 1327|4|th|มือขวากับขาโจ๋
 1056|4|th|มือปราบดาบซามูไร
 1222|4|th|มือปราบป่วนมาร OVA
@@ -64519,6 +64588,7 @@
 12362|4|ko|꿈왕국과 잠자는 100명의 왕자님
 4445|2|ko|꿈차원 헌터 판도라
 1048|2|ko|끝없는 세레나데
+18935|4|ko|끝이 아닌 시작
 14131|2|ko|끼워줄께
 17495|4|ko|나 혼자만 레벨업
 10815|4|ko|나가토 유키짱의 소실
@@ -67288,6 +67358,7 @@
 4917|4|ko|하야테처럼
 8438|4|ko|하얀 마음 백구
 14540|4|ko|하얀고양이 프로젝트: ZERO CHRONICLE
+1218|4|ko|하울의 움직이는 성
 4303|2|ko|하원기가일족
 1622|2|ko|하원기가일족2
 10352|4|ko|하이 스코어 걸
@@ -76828,6 +76899,7 @@
 17712|4|zh-Hans|最弱魔物使开始了捡垃圾之旅。
 17712|2|zh-Hant|最弱魔物使開始了撿垃圾之旅。
 18229|4|ja|最強タンクの迷宮攻略 ~体力9999のレアスキル持ちタンク, 勇者パーティーを追放される~
+18935|4|ja|最強の王様, 二度目の人生は何をする?
 2350|4|ja|最強ロボ ダイオージャ
 18210|4|ja|最強出涸らし皇子の暗躍帝位争い 無能を演じるSSランク皇子は皇位継承戦を影から支配する
 7434|4|ja|最強武将伝 三国演義
@@ -82826,6 +82898,7 @@
 10110|4|ja|未確認で進行形
 10572|2|ja|未確認で進行形 OAD
 10572|4|ja|未確認で進行形 鴨肉って緑っぽい味がするのね.
+8181|2|zh-Hant|未聞花名
 8181|3|zh-Hans|未闻花名
 9356|3|zh-Hans|未闻花名 剧场版
 154|4|zh-Hans|未麻的部屋
@@ -86956,6 +87029,7 @@
 17314|4|zh-Hans|蓝色管弦乐
 4374|2|zh-Hans|蓝色计划-地球SOS
 5044|2|zh|蓝龙
+18493|4|zh-Hans|蓦然回首
 7043|4|ja|蓮如とその母
 7353|4|ja|蓮如物語
 17834|2|zh-Hans|蔚蓝档案
@@ -88075,7 +88149,6 @@
 14623|4|zh-Hans|邪神与厨二病少女 2
 15749|4|zh-Hans|邪神与厨二病少女 3
 18024|4|zh-Hans|邪神与厨二病少女 世纪末篇
-16984|3|ja|邪竜認定
 17339|4|zh-Hans|邻人似银河
 13966|4|zh-Hans|邻家的吸血鬼小妹
 17108|2|zh-Hans|邻家的天使同学
@@ -88823,6 +88896,7 @@
 494|2|ja|電脳戦隊ヴギィ`ズ★エンジェル
 4979|2|ja|電脳戦隊ヴギィ`ズ★エンジェル FOREVER AND EVER
 7201|2|ja|電脳戦隊ヴギィ`ズ★エンジェル外伝 進め! スーパー★エンジェルス!
+4345|4|zh-Hant|電腦線圈
 8400|4|ja|電車かもしれない
 15610|4|zh-Hant|電馭叛客：邊緣行者
 15663|4|zh-Hans|雾山五行
@@ -88830,6 +88904,7 @@
 12030|4|ja|霊剣山 叡智への資格
 11784|4|ja|霊剣山 星屑たちの宴
 2017|4|ja|霊能探偵ミコ
+1218|4|zh-Hant|霍爾的移動城堡
 8696|4|ja|霧谷伯爵家の六姉妹
 12738|3|zh-Hant|露之歌
 17661|4|zh-Hans|露出系女大学生克莉丝提亚
