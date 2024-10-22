@@ -1,4 +1,4 @@
-# created: Sun Oct 20 03:00:01 2024
+# created: Mon Oct 21 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2023,6 +2023,7 @@
 2688|1|x-jat|Akuei to Gacchinpo
 3426|1|x-jat|Akuei to Gacchinpo - Tenkomori
 3618|1|x-jat|Akuemon
+18941|1|x-jat|Akujiki Reijou to Kyouketsu Koushaku
 16826|3|x-jat|akulas
 16826|3|x-unk|akulas
 1854|3|x-jat|akuma
@@ -5577,6 +5578,8 @@
 8162|4|pt|Blade
 14912|4|pt|Blade - A Lâmina do Imortal
 8162|4|pl|Blade - Wieczny łowca
+18937|1|x-jat|Blade & Bastard
+18937|2|en|Blade & Bastard
 10432|4|en|Blade & Soul
 10432|4|ja|Blade & Soul
 10432|1|x-jat|Blade & Soul
@@ -8520,6 +8523,7 @@
 13810|4|zh-Hans|CMFU学院-王子碰碰球
 13808|4|zh-Hans|CMFU学院-绅士击击剑
 1266|3|x-jat|CnS
+5107|4|vi|Cô bé người cá Ponyo
 4301|2|x-jat|Co Co Lo
 4151|2|x-unk|Cô gái đi xuyên thời gian
 8069|4|vi|Cô gái phép thuật Madoka
@@ -11006,6 +11010,7 @@
 2433|3|en|DICE
 2433|4|cs|DICE
 2433|4|hu|DICE - A mentőcsapat
+286|4|vi|Dịch vụ giao hàng của phù thủy Kiki
 13844|4|en|Didn`t I Say to Make My Abilities Average in the Next Life?!
 191|2|lt|Didysis mokytojas Onizuka
 725|4|de|Die Abenteuer des fantastischen Weltraumpiraten Captain Harlock
@@ -13910,6 +13915,7 @@
 15677|2|fr|Erin, la mercenaire de garenne
 6187|2|pl|Erin: piastunka Bestii
 10313|4|de|Erinnerungen an Marnie
+18938|1|x-jat|Eris no Seihai
 14814|2|fr|Éris, la Flamme Ardente
 7384|2|lt|Ernis
 16945|1|x-jat|Ero Ishi: Seijun Bishoujo o Kotoba Takumi ni Hametai Houdai
@@ -22097,6 +22103,7 @@
 11114|4|ja|I`m stuck!! ~life of the dead~
 11114|1|x-jat|I`m Stuck!!: Life of the Dead
 3144|2|en|I`m the Crane Princess -- !
+18939|2|en|I`m the Evil Lord of an Intergalactic Empire!
 17747|2|en|I`m the Only Guy in the Class!?
 16826|4|en|I`m the Villainess, So I`m Taming the Final Boss
 17951|4|ja|I`m Your Treasure Box ＊あなたは マリンせんちょうを たからばこからみつけた。
@@ -23595,7 +23602,11 @@
 18346|2|x-zht|Jian Yu Chuanqi 3
 17582|1|x-zht|Jian Yu Fengyun
 17985|1|x-zht|Jian Yu Fengyun (2023)
+17985|2|x-zht|Jian Yu Fengyun 2
+18346|2|x-zht|Jian Yu Fengyun 3
 18346|1|x-zht|Jian Yu Fengyun 3rd Season
+17985|2|x-zht|Jian Yu Fengyun Di Er Ji
+18346|2|x-zht|Jian Yu Fengyun Di San Ji
 18393|1|x-zht|Jiandao Di Yi Xian
 18893|1|x-zht|Jiandao Di Yi Xian 2
 18893|2|x-zht|Jiandao Di Yi Xian 2nd Season
@@ -24926,6 +24937,7 @@
 14468|2|x-jat|Kanpeki Irina Ojou-sama
 14468|1|x-jat|Kanpeki Ojou-sama no Watakushi ga Dogeza de Maso Ochi Suru Choroin na Wakenai Desu wa!
 14468|2|x-jat|Kanpeki Ojousama no Watakushi ga Dogeza de Maso Ochi Suru Choroin na Wakenai Desu wa!
+18940|1|x-jat|Kanpeki Sugite Kawaige ga Nai to Kon`yaku Hakisareta Seijo wa Ringoku ni Urareru
 7259|2|x-jat|Kansen 2 Inzai Toushi
 7259|1|x-jat|Kansen 2: Inzai Toshi
 7652|1|x-jat|Kansen 3: Shuto Houkai
@@ -25730,9 +25742,14 @@
 9195|1|x-jat|Kiki to Lala no Papa to Mama ni Aitai
 286|4|es-419|Kiki, Entregas a Domicilio
 286|4|pt|Kiki: A Aprendiz de Feiticeira
+286|4|ro|Kiki: Livrări la domiciliu
 286|4|en|Kiki`s Delivery Service
+286|4|my|Kiki`s Delivery Service
+286|4|id|Kiki`s Delivery Service
+286|4|tl|Kiki`s Delivery Service
 286|4|nl|Kiki`s Vliegende Koeriersdienst
 286|4|fi|Kikin lähettipalvelu
+286|4|no|Kikis budservice
 286|4|sv|Kikis expressbud
 286|4|de|Kikis kleiner Lieferservice
 4652|1|x-jat|Kiko-chan Smile
@@ -37497,6 +37514,7 @@
 15329|1|x-jat|Ore o Suki na no wa Omae dake ka yo: Oretachi no Game Set
 7334|1|x-jat|Ore wa Chokkaku
 7998|1|x-jat|Ore wa Kanojo o Shinjiteru!
+18939|1|x-jat|Ore wa Seikan Kokka no Akutoku Ryoushu!
 18266|1|x-jat|Ore wa Subete o "Parry" Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai
 18266|2|x-jat|Ore wa Subete wo "Parry" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai
 18266|2|x-jat|Ore wa Subete wo Parry suru
@@ -38330,6 +38348,7 @@
 1543|2|lt|Paslaptingas Samurajus
 6048|2|lt|Paslaptingasis liokajus
 3082|1|x-jat|Pasocon Travel Tanteidan
+18941|2|en|Pass the Monster Meat, Milady!
 10570|2|en|Passage of Time: Tokyo Station
 14889|4|pt|Pássaro que Canta Não Voa - Nuvens que se Fundem
 8437|1|x-jat|Passion
@@ -39867,19 +39886,26 @@
 9396|4|ja|PONY METAL U-GAIM PROMOTION FILM
 5107|4|pl|Ponyo
 5107|3|en|ponyo
+5107|4|tl|Ponyo
+5107|4|my|Ponyo
+5107|4|ro|Ponyo
 5107|4|de|Ponyo - Das grosse Abenteuer am Meer
 5107|2|de|Ponyo - Das große Abenteuer am Meer
 5107|4|pt|Ponyo à Beira-Mar
+5107|4|hu|Ponyo a tengerparti sziklán
 5107|4|lt|Ponyo ant uolos prie jūros
 5107|2|de|Ponyo das verzauberte Goldfischmädchen
 5107|4|es|Ponyo en el Acantilado
 5107|4|et|Ponyo mäe otsas
 5107|2|pl|Ponyo na klifie
+5107|4|hr|Ponyo na litici kraj mora
 5107|2|en|Ponyo On A Cliff
 5107|4|en|Ponyo on the Cliff by the Sea
 5107|4|nl|Ponyo on the Cliff by the Sea
+5107|4|id|Ponyo on the Cliff by the Sea
 5107|4|sv|Ponyo på klippan vid havet
 5107|4|da|Ponyo på klippen ved havet
+5107|4|no|Ponyo på klippen ved havet
 5107|4|fi|Ponyo rantakalliolla
 5107|4|it|Ponyo sulla scogliera
 5107|4|fr|Ponyo sur la falaise
@@ -41968,6 +41994,7 @@
 444|1|x-jat|Rikujou Boueitai Mao-chan
 15874|1|x-jat|Rikujoubu Joshi wa Ore no Nama Onaho!!! The Animation
 444|2|x-jat|rikumao
+18936|1|x-jat|Rilakkuma
 13528|4|en|Rilakkuma and Kaoru
 13528|4|pl|Rilakkuma i Kaoru
 13528|1|x-jat|Rilakkuma to Kaoru-san
@@ -45816,7 +45843,7 @@
 9968|2|en|Silver Spoon S2
 9968|4|en|Silver Spoon Season 2
 3385|2|en|Silver-Haired Agito
-785|4|pt|Simbad
+785|6|pt|Simbad
 1779|4|es|Simbad el marino
 114|4|tr|Şimdi ve Sonra, Burada ve Orada
 4548|2|lt|Simfonijos pasakos
@@ -45846,6 +45873,7 @@
 11041|4|en|Sinbad
 785|4|nl|Sinbad de Zeeman
 785|4|fr|Sinbad le marin
+785|4|pt|Sinbad, o Marinheiro
 14074|1|x-kot|Sinbi Apartment 444 Ho
 18403|2|en|Since The Red Moon Appeared
 18106|1|x-jat|Sincereality
@@ -47999,6 +48027,7 @@
 5945|2|x-jat|Super Tokkyu Mazinger 7
 1314|2|en|Super Transformation Cosprayers
 8257|2|en|Super Veggie Torracman
+13278|4|pl|Super Wings: Strażnicy Świata
 18590|4|en|SUPER XIANG
 2108|4|en|Super Yoyo
 2108|4|th|Super YOYO ลูกดิ่งสายฟ้า
@@ -50104,6 +50133,7 @@
 7382|4|pt|The Highschool of The Dead - A Escola dos Mortos
 4078|4|en|The Hills Have Size
 9058|2|en|The Himalayan Kingdom of Light
+18938|2|en|The Holy Grail of Eris
 15952|4|en|The Honor at Magic High School
 15952|4|de|The Honor at Magic High School
 15952|2|en|The Honor Student at Magic High School
@@ -50337,7 +50367,9 @@
 15029|2|en|The Legend of Super Normal City Kashiwa R
 18423|4|en|The Legend of Super Normal Pref. Chiba
 17582|2|en|The Legend of Sword Domain
+17985|2|en|The Legend of Sword Domain 2
 17985|2|en|The Legend of Sword Domain 2nd Season
+18346|2|en|The Legend of Sword Domain 3
 18346|2|en|The Legend of Sword Domain 3rd Season
 13596|2|en|The Legend of the Ancient Soul
 797|2|en|The Legend of the Blue Wolf
@@ -50960,6 +50992,7 @@
 6701|2|en|The Tiny One Makes It Big
 15447|2|en|The Titan`s Bride
 2795|4|en|The Tokyo Project
+18940|2|en|The Too-Perfect Saint: Tossed Aside by My Fiance and Sold to Another Kingdom
 16610|2|en|The Top
 18425|2|en|The Totem Warrior
 18426|2|en|The Totem Warrior 2
@@ -55685,6 +55718,7 @@
 18612|1|x-jat|Yaiba
 329|4|pl|Yaiba - legendarny samuraj
 329|4|pt|Yaiba - O Pequeno Samurai
+18612|4|en|Yaiba: Samurai Legend
 3993|1|x-jat|Yajikita Gakuen Douchuuki
 5540|1|x-jat|Yakata Jukujo
 10819|1|x-jat|Yakata: Kannou Kitan
@@ -57618,6 +57652,7 @@
 921|4|el|Πόκεμον: Ήρωες
 2274|4|el|Πόλεμος στο Μέλλον
 2274|2|el|Πόλεμος των Άστρων 198Χ
+5107|4|el|Πόνιο: Το Κορίτσι του Ωκεανού
 7|4|el|Πριγκίπισσα Μονονόκε
 39|4|el|Ρίνα η Ξιφομάχος
 1060|4|el|Ρομπέν των δασών
@@ -60834,6 +60869,7 @@
 16274|4|ru|Ресторан из другого мира 2
 14969|4|ru|Рецензенты других рас
 14940|4|ru|Ржавые доспехи
+5107|4|uk|Рибка Поньо на кручі
 17422|2|bg|Рик и Морти: Anime
 1829|4|bg|Рими
 5586|2|bg|Рицар Вампир
@@ -62829,6 +62865,7 @@
 8419|4|fa|بوکو وا توموداچی گا سکونای
 2297|4|ar|بوليانا
 2705|4|ar|بومبو - السيارة المرحة
+5107|4|ar|بونيو على جرف البحر
 595|4|ar|بي بليد
 6426|4|ar|بي بليد المعركة الحديدية
 15107|2|ar|بيتر غريل ووقت الرجل الحكيم
@@ -63723,12 +63760,14 @@
 12653|4|hi|इनुयाशिकी लास्ट हीरो
 17662|2|hi|एक वेतनभोगी का दूसरी दुनिया में जीवित रहने का तरीका
 10951|4|hi|कबनेरी ऑफ़ द आयरन फोर्ट्रेस
+286|4|hi|किकि की डिलीवरी सर्विस
 12888|4|hi|किलिंग बाइट्स
 13734|4|hi|ग्रैंड ब्लू ड्रीमिंग
 303|4|hi|जादुई दोस्त तोतोरो
 4563|4|hi|डेथ नोट
 17564|4|hi|तहखाने के चटोरे
 13545|4|hi|द बॉय ऐंड द हेरन
+5107|4|hi|पॉन्यो
 13536|4|hi|बनाना फिश
 17662|4|hi|महान दिव्य- इंसान
 275|4|hi|राजकुमारी नौसिका की जंग
@@ -63978,6 +64017,7 @@
 1218|4|th|ปราสาทเวทมนตร์ของฮาวล์
 8855|4|th|ปริศนาความทรงจำ
 571|2|th|เปลวฟ้าผ่าปฐพี
+5107|4|th|โปเนียว ธิดาสมุทรผจญภัย
 15853|4|th|ผมโดนกลุ่มผู้กล้าขับไสเลยต้องไปสโลว์ไลฟ์ที่ชายแดน
 17693|4|th|ผมโดนกลุ่มผู้กล้าขับไสเลยต้องไปสโลว์ไลฟ์ที่ชายแดน ภาคที่ 2
 10951|4|th|ผ่าพิภพดงผีดิบ
@@ -64763,6 +64803,7 @@
 9762|2|ko|누키도킷!
 12594|2|ko|누키도킷! 레볼루션
 2174|2|ko|눈 오는 밤 이야기
+18896|2|ko|눌러앉은 갸루가 보지 쓰게 해주는 이야기
 11736|4|ko|뉴 게임!
 12819|4|ko|뉴 게임!!
 7489|2|ko|뉴마노이드 캠
@@ -65066,6 +65107,7 @@
 14360|4|ko|마기아 레코드 마법소녀 마도카☆마기카 외전
 11544|2|ko|마나리아 프렌즈
 1331|2|ko|마나미 & 나미 스프라이트
+286|4|ko|마녀 배달부 키키
 17741|2|ko|마녀는 결국 그 손님과... THE ANIMATION
 15202|4|ko|마녀의 여행
 10317|4|ko|마당을 나온 암탉
@@ -65451,6 +65493,7 @@
 1557|2|ko|베리어블 지오 네오
 12809|4|ko|베이블레이드 버스트 갓
 14025|4|ko|벨제붑 아가씨의 뜻대로
+5107|4|ko|벼랑 위의 포뇨
 153|4|ko|변덕쟁이 오렌지☆로드
 11995|4|ko|변변찮은 마술강사와 금기교전
 12957|4|ko|별 셋 컬러즈
@@ -68526,6 +68569,7 @@
 7089|4|ja|エリア88 劇場版
 8798|4|ja|エリアの騎士 THE KNIGHT in THE AREA
 2368|4|ja|エリアル
+18938|4|ja|エリスの聖杯
 8798|3|ja|エリ騎士
 667|4|ja|エル
 4966|4|ja|エル・カザド EL CAZADOR DE LA BRUJA
@@ -73680,6 +73724,7 @@
 10426|4|ja|ブレイクブレイド BROKEN BLADE (2014)
 8162|4|ja|ブレイド
 10432|2|ja|ブレイド&ソウル
+18937|4|ja|ブレイド&バスタード
 10432|2|ja|ブレイドアンドソウル
 2879|4|ja|ブレイブ・ストーリー
 8571|2|ja|ブレイブ・テン
@@ -75093,6 +75138,7 @@
 14551|2|ja|リョーマ! 新生 劇場版テニスの王子様
 1212|4|ja|リヨン伝説フレア
 11643|2|ja|リライト
+18936|4|ja|リラックマ
 13528|4|ja|リラックマとカオルさん
 15814|4|ja|リラックマと遊園地
 13760|2|ja|リリース ザ スパイス
@@ -75481,6 +75527,7 @@
 7847|4|ja|一休さん 春だ! やんちゃ姫
 1680|4|ja|一休さんとやんちゃ姫
 1678|4|zh-Hant|一休和尚
+18195|2|zh-Hant|一兆＄遊戲
 18195|4|zh-Hant|一兆遊戲
 5499|2|zh-Hans|一千零一夜
 10273|4|zh-Hans|一周的朋友。
@@ -76479,6 +76526,7 @@
 10208|4|ja|俺の脳内選択肢が, 学園ラブコメを全力で邪魔している (2014)
 18266|4|ja|俺は全てを【パリイ】する ~逆勘違いの世界最強は冒険者になりたい~
 7998|4|ja|俺は彼女を信じてる!
+18939|4|ja|俺は星間国家の悪徳領主!
 14442|4|ja|俺を好きなのはお前だけかよ
 15329|4|ja|俺を好きなのはお前だけかよ ~俺たちのゲームセット~
 9305|3|ja|俺修羅
@@ -76863,6 +76911,7 @@
 4004|4|zh-Hans|再续前缘
 16418|2|zh-Hans|再見了，橡果兄弟！
 332|4|zh|再見螢火蟲
+18537|4|zh-Hant|再見龍生，你好人生
 765|4|zh-Hans|再见 银河铁道999 安卓梅达终点站
 17723|2|zh-Hans|再见，地球
 5083|2|zh-Hans|再见! 绝望先生
@@ -79880,6 +79929,7 @@
 2680|4|ja|完全無修正 それぞれの放課後
 14468|2|ja|完璧イリナお嬢様
 14468|4|ja|完璧お嬢様の私が土下座でマゾ堕ちするちょろインなワケないですわ!
+18940|4|ja|完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる
 16281|4|zh-Hans|完美世界
 18871|2|zh-Hans|完美世界之火之灰烬
 18871|4|zh-Hans|完美世界剧场版
@@ -81155,6 +81205,7 @@
 17937|4|ja|悪役令嬢レベル99 ~私は裏ボスですが魔王ではありません~
 18366|4|ja|悪役令嬢転生おじさん
 3126|4|ja|悪戯~いたずら~The Animation
+18941|4|ja|悪食令嬢と狂血公爵
 3496|4|ja|悪魔[ディモス]の花嫁~蘭の組曲
 1854|4|ja|悪魔くん
 2050|4|ja|悪魔くん (1989)
@@ -89207,6 +89258,7 @@
 17501|4|zh-Hans|香格里拉・开拓异境～粪作猎手挑战神作～
 17501|4|zh-Hant|香格里拉・開拓異境～糞作獵手挑戰神作～
 15036|4|zh-Hans|香蕉喵 不可思议的伙伴们
+18837|4|zh-Hant|香蕉喵遊世界
 11910|4|zh-Hans|香蕉猫咪
 6847|4|ja|馬具田城の盗賊
 14537|4|zh-Hant|馬娘四格
@@ -89703,6 +89755,7 @@
 4232|4|ja|魔獣戦線
 709|4|ja|魔獣戦線 THE APOCALYPSE
 11718|4|ja|魔獣浄化少女ウテア
+17943|4|zh-Hant|魔王 2099
 17943|4|ja|魔王2099
 16057|4|ja|魔王イブロギアに身を捧げよ
 731|4|ja|魔王ダンテ
