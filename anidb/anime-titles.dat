@@ -1,4 +1,4 @@
-# created: Mon Oct 21 03:00:01 2024
+# created: Tue Oct 22 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2666,6 +2666,7 @@
 517|4|fr|Animatrix
 517|4|tr|Animatrix
 517|2|x-jat|Animatrix
+517|4|pt|Animatrix
 517|4|hu|Animátrix
 517|4|fi|Animatrix 1-9
 2706|1|x-jat|Anime 80 Nichikan Sekai Isshuu
@@ -3361,6 +3362,10 @@
 16926|4|fr|Arrête de me chauffer, Nagatoro ! 2ème attaque
 7258|4|no|Arriettas hemmelige verden
 7258|3|x-jat|Arrietty
+7258|4|id|Arrietty
+7258|4|nl|Arrietty
+7258|4|tl|Arrietty
+7258|4|my|Arrietty
 7258|4|de|Arrietty - Die wundersame Welt der Borger
 7258|4|hu|Arrietty - Elvitte a manó
 7258|4|it|Arrietty - il mondo segreto sotto il pavimento
@@ -3675,6 +3680,7 @@
 17920|4|en|Atelier Ryza: Ever Darkness & the Secret Hideout
 8509|1|x-jat|Aterui
 332|2|tr|Ateş Böceklerinin Mezarı
+332|4|tr|Ateşböceklerinin Mezarı
 5904|2|tr|Ateştopu
 18554|2|x-jat|Ateuma Chara No Kuse Shite, Supadari Ouji Ni Choai Sareteimasu.
 18554|1|x-jat|Ateuma Chara no Kuse Shite, Supadari Ouji ni Chouai Sarete Imasu.
@@ -13546,6 +13552,7 @@
 1847|4|es|El mercenario del sexo
 1919|2|es|El Misterio de la Flor Mágica
 632|4|es|El misterioso Loki
+7258|4|es-419|El mundo secreto de Arrietty
 13545|4|es-419|El niño y la garza
 13545|4|es-CA|El noi i l`ocell
 4260|4|es|El osito Misha
@@ -17557,6 +17564,7 @@
 10993|3|en|gintama4
 12419|3|en|gintama5
 13263|3|en|gintama6
+9514|4|vi|Gió nổi
 34|2|vi|Giỏ Trái Cây
 2600|4|it|Giochi d`amore
 5746|2|lt|Giolginas 13
@@ -18322,6 +18330,10 @@
 12496|3|x-jat|Grasen
 12931|1|x-jat|Grasshopper Monogatari
 332|4|en|Grave of the Fireflies
+332|4|id|Grave of the Fireflies
+332|4|my|Grave of the Fireflies
+332|4|nl|Grave of the Fireflies
+332|4|tl|Grave of the Fireflies
 5614|4|en|Graveyard Kitarou
 472|4|en|Gravion
 472|4|pt|Gravion
@@ -22525,6 +22537,8 @@
 9736|2|it|Il Sole Penetra le Illusioni
 2342|4|it|Il Tulipano Nero
 2342|2|it|Il Tulipano Nero - La stella della Senna
+332|4|no|Ildfluens grav
+332|4|da|Ildfluernes grav
 12020|2|pt|Ilha
 4599|2|pl|Ilustrowany pamiętnik Mikana
 2787|3|x-jat|IM
@@ -29210,6 +29224,7 @@
 9677|3|x-jat|loghora
 10551|3|x-jat|loghora s2
 15363|3|x-jat|loghora s3
+336|4|vi|Lời thì thầm của trái tim
 15373|4|fr|Loin de moi, près de toi
 4060|2|pl|Lokal pełen próśb
 632|3|x-jat|loki
@@ -29683,6 +29698,7 @@
 17861|2|pt|Lum, a Rapariga do Espaço (2024)
 377|4|es|Lum, la chica invasora
 17096|2|en|Lum, the Invader Girl
+7258|4|ro|Lumea secretă a lui Arrietty
 134|3|x-jat|luminous
 14204|2|x-jat|Luminous Witches
 1919|2|en|Lun Lun the Flower Child
@@ -34882,6 +34898,7 @@
 12089|4|en|Napping Princess
 11037|1|x-jat|Nar Doma
 10313|4|sv|När Marnie var där
+9514|4|da|Når vinden rejser sig
 10799|1|x-kot|Narara Superboard
 10873|1|x-kot|Narara Superboard (1998)
 10874|1|x-kot|Narara Superboard (2001)
@@ -35996,6 +36013,7 @@
 9998|4|zh-Hant|NO GAME NO LIFE 遊戲人生
 12276|2|en|No Game No Life: Zero
 9998|2|en|No Game, No Life
+9998|4|pt|No Game, No Life
 12276|2|en|No Game, No Life Zero
 12276|2|en|No Game, No Life: Zero
 14759|4|en|No Guns Life
@@ -39975,6 +39993,7 @@
 306|4|de|Porco Rosso
 306|4|no|Porco Rosso
 306|4|sv|Porco Rosso
+306|4|es-419|Porco Rosso
 306|4|hu|Porco Rosso - A mesterpilóta
 306|4|pt|Porco Rosso: O Porquinho Voador
 306|4|pt-BR|Porco Rosso: O Último Herói Romântico
@@ -41837,6 +41856,7 @@
 8079|4|pl|Resident Evil: Potępienie
 6108|4|cs|Resident Evil: Rozklad
 11709|4|en|Resident Evil: Vendetta
+11709|4|pt|Resident Evil: Vendetta
 15744|4|pl|Resident Evil: Wieczny mrok
 6108|2|pl|Resident Evil: Wynaturzenie
 17859|4|pl|Resident Evil: Wyspa śmierci
@@ -42628,6 +42648,7 @@
 3665|4|es|Ruy el pequeño Cid
 3665|4|en|Ruy the Little Cid
 3665|2|it|Ruy, il piccolo Cid
+9514|4|tr|Rüzgar Yükseliyor
 275|4|tr|Rüzgarlı Vadi
 17277|2|en|RWBY Anime
 17277|4|ru|RWBY Ледяное королевство
@@ -43571,6 +43592,7 @@
 15735|3|x-jat|saop movie
 16951|3|x-jat|saop movie 2
 162|4|fi|Sapeliratsastaja
+336|4|hr|Šaptaj srca
 2298|3|x-jat|Sara
 17387|1|x-jat|Saraba Jamaica
 17650|1|x-jat|Saraba Nagaki Order
@@ -44918,6 +44940,7 @@
 1947|1|x-jat|Shiawase Sou no Okojo-san
 8503|1|x-jat|Shiawasette Naani
 8986|1|x-jat|Shiba Inuko-san
+9173|2|x-jat|Shibai Taroka
 9173|1|x-jat|Shibaitaroka
 4296|3|x-jat|shibawanko
 4296|1|x-jat|Shibawanko no Wa no Kokoro
@@ -45608,6 +45631,7 @@
 18405|1|x-jat|Shoushimin Series
 18864|1|x-jat|Shoushimin Series (2025)
 10383|1|x-jat|Shouta no Sushi: Kokoro ni Hibiku Shari no Aji
+3610|2|x-jat|Shouwa Aho Zoushi Akanuke Ichiban
 3610|1|x-jat|Shouwa Ahozoushi Akanuke Ichiban!
 10773|1|x-jat|Shouwa Genroku Rakugo Shinjuu
 10960|1|x-jat|Shouwa Genroku Rakugo Shinjuu (2016)
@@ -48111,6 +48135,7 @@
 4672|1|x-jat|Susie-chan to Marvy
 8832|2|fi|Susilapset Ame ja Yuki
 336|4|pt|Sussurro do Coração
+336|4|pt-BR|Sussurros do Coração
 14012|1|x-jat|Susume, Karolina.
 13082|1|x-jat|Susume! Godzilland
 13082|2|x-jat|Susume! Gojiraland
@@ -51087,6 +51112,10 @@
 200|4|de|The Wind of Amnesia - Wind des Vergessens
 9514|4|en|The Wind Rises
 9514|4|el|The Wind Rises
+9514|4|id|The Wind Rises
+9514|4|my|The Wind Rises
+9514|4|tl|The Wind Rises
+9514|4|nl|The Wind Rises
 9006|2|en|The Window
 2330|2|en|The Wings of Garzey
 16195|2|en|The Wings of Goodbye: The End of Triangle
@@ -51220,6 +51249,7 @@
 18744|2|en|This Is Ridiculous
 1824|2|en|This is the Police Station in Front of Kameari Park in Katsushika Ward
 13368|4|en|This Mayonnaise is too liquid.
+18942|2|en|This Monster Wants to Eat Me
 1431|2|en|This Ugly and Beautiful World
 1431|4|en|This Ugly Yet Beautiful World
 377|2|en|Those Obnoxious Aliens
@@ -53849,6 +53879,7 @@
 4346|2|no|Vannspråk
 9513|4|ja|VANQUISHED QUEENS
 9513|1|x-jat|Vanquished Queens
+9514|4|ro|Vântul se întețește
 17997|1|en|Vapor Trail
 4092|3|x-jat|Varanoir
 235|4|hu|Varázslatos álmok
@@ -54164,6 +54195,7 @@
 1281|4|en|Vixens
 2611|3|x-jat|vj
 3435|3|x-jat|VJ: HW
+9514|4|hr|Vjetar se diže
 5586|3|x-jat|vk
 6017|3|x-jat|vk s2
 5586|3|x-jat|vk1
@@ -54592,6 +54624,7 @@
 7125|1|x-jat|Watashi no Shiranai Mesu no Kao
 7125|2|x-jat|Watashi no Shiranai Tsuma no Kao
 17362|1|x-jat|Watashi no Yuri wa Oshigoto Desu!
+18942|1|x-jat|Watashi o Tabetai, Hitodenashi
 3325|1|x-jat|Watashi to Watashi: Futari no Lotte
 12599|1|x-jat|Watashi wa Tofu Desu
 11817|1|x-jat|Watashi wa, Kairaku Izonshou
@@ -54795,6 +54828,11 @@
 4037|2|en|Whirlwind! Iron Leaguer
 17819|4|en|Whisper Me a Love Song
 336|4|en|Whisper of the Heart
+336|4|id|Whisper of the Heart
+336|4|my|Whisper of the Heart
+336|4|tl|Whisper of the Heart
+336|4|nl|Whisper of the Heart
+336|4|no|Whisper of the Heart
 6462|2|en|Whispered Words
 126|2|x-jat|Whistle
 126|1|x-jat|Whistle!
@@ -55207,6 +55245,7 @@
 6263|2|en|World reflected in the pupils of a girl watching the sky
 10657|1|x-jat|World Trigger
 10657|4|en|World Trigger
+10657|4|pl|World Trigger
 15322|1|x-jat|World Trigger 2nd Season
 15322|4|en|World Trigger 2nd Season
 15934|1|x-jat|World Trigger 3rd Season
@@ -57465,6 +57504,7 @@
 16146|1|x-jat|Zutto Mayonaka de Iinoni.: Tadashiku Narenai
 16157|1|x-jat|Zutto Mayonaka de Iinoni.: Tei Chi Boruto
 12806|1|x-jat|Zutto Suki Datta
+9514|4|cs|Zvedá se vítr
 10212|3|x-jat|zvezda
 1869|4|hr|Zvijezda Odisej
 3321|2|nl|Zwarte Kat
@@ -57606,6 +57646,7 @@
 1220|4|el|Ο Πρίγκιπας και η Πριγκίπισσα
 92|4|el|Ο Σαμάνος Πρίγκιπας
 162|4|el|Ο Σερίφης του Διαστήματος
+332|4|el|Ο Τάφος των Πυγολαμπίδων
 686|4|el|Ο Χειρούργος με τα Θεϊκά Χέρια
 336|4|el|Ο Ψίθυρος της Καρδιάς
 5548|4|el|Ο Ψωμάνθρωπος
@@ -62704,6 +62745,7 @@
 477|4|ar|الطاقة الزرقاء
 15131|2|ar|الطالب غير المؤهل في أكاديمية ملك الشياطين
 5198|4|ar|العائلة السعيدة
+7258|4|ar|العالم السري لآريتي
 4888|2|ar|العين الزجاجية
 2309|4|ar|الغابة الخضراء
 1496|4|ar|الغابة السعيدة
@@ -63214,6 +63256,7 @@
 1056|4|ar|صانع السلام
 2279|2|ar|صبي الأحراش
 7713|4|ar|صراع الجبابرة
+9514|4|ar|صعود الرياح
 8740|4|ar|صفر صفر واحد
 943|4|ar|صقور الأرض
 13612|2|ar|صنع في الهاوية فجر الروح العميقة
@@ -63700,6 +63743,7 @@
 10894|4|ar|هل من الخطأ الإيقاع بفتياتٍ في ديماس؟
 13829|4|ar|هل من الخطأ الإيقاع بفتياتٍ في ديماس؟ II
 15111|4|ar|هل من الخطأ الإيقاع بفتياتٍ في ديماس؟ III
+336|4|ar|همس القلب
 336|2|ar|همس القلوب
 11735|4|ar|هناك مشكلة بنادي الفنون هذا!
 8692|4|fa|هنر شمشیر زنی آنلاین
@@ -63762,11 +63806,14 @@
 10951|4|hi|कबनेरी ऑफ़ द आयरन फोर्ट्रेस
 286|4|hi|किकि की डिलीवरी सर्विस
 12888|4|hi|किलिंग बाइट्स
+332|4|hi|ग्रेव ऑफ़ द फ़ायरफ़्लाइज़
 13734|4|hi|ग्रैंड ब्लू ड्रीमिंग
 303|4|hi|जादुई दोस्त तोतोरो
 4563|4|hi|डेथ नोट
 17564|4|hi|तहखाने के चटोरे
 13545|4|hi|द बॉय ऐंड द हेरन
+336|4|hi|दिल की पुकार
+7258|4|hi|नन्हीं दुनिया की एरिएटी
 5107|4|hi|पॉन्यो
 13536|4|hi|बनाना फिश
 17662|4|hi|महान दिव्य- इंसान
@@ -63776,6 +63823,7 @@
 11223|4|hi|रेज ऑफ़ बहामट विर्जिन सोल
 13293|4|hi|वोटाकोई: लव इज़ हार्ड फ़ॉर ओटाकु
 112|4|hi|स्पिरिटेड अवे
+9514|4|hi|हवा के संग-संग
 331|4|hi|हवाई किला
 1218|4|hi|हाउल का चलता-फिरता महल
 69|4|bd|ওয়ান পিস্
@@ -64016,6 +64064,7 @@
 7727|4|th|ปฏิบัติการรักจักรกลทะยานฟ้า
 1218|4|th|ปราสาทเวทมนตร์ของฮาวล์
 8855|4|th|ปริศนาความทรงจำ
+9514|4|th|ปีกแห่งฝัน วันแห่งรัก
 571|2|th|เปลวฟ้าผ่าปฐพี
 5107|4|th|โปเนียว ธิดาสมุทรผจญภัย
 15853|4|th|ผมโดนกลุ่มผู้กล้าขับไสเลยต้องไปสโลว์ไลฟ์ที่ชายแดน
@@ -64142,6 +64191,7 @@
 35|4|th|เลิฟฮินะ
 632|4|th|โลกิ ปริศนาแร็กนาร็อค
 17097|2|th|ไลโคริส รีคอยล์
+336|4|th|วันนั้น...วันไหน หัวใจจะเป็นสีชมพู
 69|4|th|วันพีซ
 100|4|th|วัยรุ่น วุ่นรัก
 10538|4|th|วิธีปั้นสาวบ้านให้มาเป็นนางเอกของผม
@@ -64223,6 +64273,7 @@
 4396|4|th|อัศวินสีเลือด
 28|4|th|อากิระ คนไม่ใช่คน
 4145|2|th|อามาเอะไนเดโยะ!ลงทัณฑ์!
+7258|4|th|อาริเอตี้ มหัศจรรย์ความลับคนตัวจิ๋ว
 113|4|th|อาวุธสุดท้ายคือเธอ-ไซดาโนะ
 1678|4|th|อิคคิวซัง เณรน้อยเจ้าปัญญา
 2855|4|th|อิทธิฤทธิ์พิชิตมายา
@@ -65113,6 +65164,7 @@
 10317|4|ko|마당을 나온 암탉
 10706|2|ko|마돈나 완숙바디
 11160|2|ko|마로의 환자는 가텐계
+7258|4|ko|마루 밑 아리에티
 1187|4|ko|마리 이야기
 995|2|ko|마린짱 프로젝트
 1186|2|ko|마마
@@ -74299,6 +74351,7 @@
 16982|2|ja|まぼうたい
 8906|4|ja|まほうつかいじじぃ
 14813|4|ja|まほうのルミティア
+14461|3|ja|まほなれ
 2443|4|ja|まほらば -Heartful days-
 7339|4|ja|まぼろしまぼちゃん
 109|4|ja|まほろまてぃっく Automatic Maiden
@@ -76542,6 +76595,7 @@
 2867|4|ja|倒凶十将伝 封魔五行伝承
 7258|4|ja|借りぐらしのアリエッティ
 7258|4|zh-Hans|借东西的小人阿丽埃蒂
+7258|4|zh-Hant|借物少女艾莉緹
 5452|4|ja|借金姉妹
 9102|4|zh-Hans|值得擁有的是
 13697|4|zh-Hans|倾福小姐
@@ -80856,6 +80910,7 @@
 10959|4|ja|心が叫びたがってるんだ.
 10129|4|ja|心のキャッチボール
 10898|4|ja|心の力
+336|4|zh-Hant|心之谷
 15776|4|ja|心予報
 13849|2|zh-Hans|心动小房东
 2729|2|zh-Hant|心動月夜
@@ -85782,6 +85837,7 @@
 7125|2|ja|私の知らない妻（メス）の貌（カオ）
 7125|4|ja|私の知らない妻[メス]の貌
 11817|4|ja|私は, 快楽依存症
+18942|4|ja|私を喰べたい, ひとでなし
 12193|4|ja|私立らいよん学園
 4482|4|ja|私立探偵・土岐正造トラブル・ノート ハード&ルーズ
 1192|4|ja|私立荒磯高等学校生徒会執行部
@@ -87257,6 +87313,7 @@
 6688|4|ja|蝶のさいなん
 2450|4|ja|螢子
 332|2|zh|螢火蟲之墓
+332|4|zh-Hant|螢火蟲之墓
 11711|4|zh-Hans|螳螂捕蝉
 2563|4|ja|螺旋回廊
 11175|4|ja|螺旋遡行のディストピア
