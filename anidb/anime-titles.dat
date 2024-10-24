@@ -1,4 +1,4 @@
-# created: Tue Oct 22 03:00:02 2024
+# created: Wed Oct 23 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2354,6 +2354,7 @@
 3534|4|es|Amiga y Maestra
 158|4|es|Amigas para Todo
 10146|1|x-jat|Amigo Tomodachi
+10313|4|hu|Amikor Marnie ott volt
 262|2|ro|Amintiri
 93|3|x-jat|AMMSE
 8852|3|x-jat|amnesia
@@ -3445,6 +3446,7 @@
 127|4|pt|As Guerreiras Mágicas de Rayearth
 9230|2|en|As Long as There`s Love, It Doesn`t Matter If He Is My Brother, Right?
 3593|4|pt|As Mais Belas Histórias do Mundo
+10313|4|pt-BR|As Memórias de Marnie
 3207|4|pt-BR|As Meninas Superpoderosas: Geração Z
 3683|4|pt|As Mil e Uma Noites para Adultos
 5047|4|es-GA|As mil e unha noites de Doraemon
@@ -7759,6 +7761,7 @@
 16198|2|fr|Chez Imaizumi, point de chute pour filles faciles
 5801|3|en|Chi
 17480|2|x-jat|Chi - Chikyuu no Undou ni Tsuite
+333|4|vi|Chỉ còn ngày hôm qua
 11168|1|x-zht|Chi Jian Chuan Qi
 12103|4|fr|Chi mon chaton
 18836|2|x-zht|Chi Yan Jin Yi Wei
@@ -9279,6 +9282,7 @@
 8685|2|en|Cumulonimbus Graffiti
 12046|4|vi|Cuộc chiến Chén Thánh: Chạm tới Chén Thánh
 12704|4|vi|Cuộc chiến Chén Thánh: Ngụy thư
+334|4|vi|Cuộc chiến gấu mèo
 17304|4|vi|Cuộc hôn nhân hạnh phúc của tôi
 9304|4|vi|Cuộc phiêu lưu kì lạ của JoJo (2012)
 12112|4|vi|Cuộc sống khắc nghiệt của Saiki K.
@@ -9578,6 +9582,7 @@
 13355|1|x-jat|Dagashi Kashi 2
 13355|2|x-jat|Dagashi Kashi S2
 13355|2|en|Dagashi Kashi Season 2
+333|4|no|Dagen i går
 1525|4|fr|Dagger of Kamui
 1525|2|bg|Dagger of Kamui
 2460|3|x-jat|Dagon
@@ -13567,6 +13572,9 @@
 2254|4|es|El portal del vicio
 4401|4|es-419|El primer escuadrón
 386|4|es|El Puño de la Estrella del Norte
+10313|4|es|El recuerdo de Marnie
+10313|4|es-419|El recuerdo de Marnie
+679|3|es-419|El regreso del gato
 14167|4|es-CA|El Rei Cérvol
 1920|4|es|El Rey Arturo
 14167|4|es|El Rey Ciervo
@@ -21335,9 +21343,9 @@
 13910|2|en|Honor Students After School
 2980|3|x-jat|honoten
 8245|3|x-jat|honto ni atta
+14218|1|x-jat|Honto ni Atta Gakkou Kaidan
 8245|2|x-jat|Honto ni Atta! Reibai Sensei
 8245|1|x-jat|Honto ni Atta! Reibai-sensei
-14218|1|x-jat|Hontoni Atta Gakko Kaidan
 9941|1|x-jat|Hontou ni Atta
 14727|3|x-jat|Honzuki
 15293|3|x-jat|Honzuki 2
@@ -22061,6 +22069,8 @@
 10989|4|zh-nan|I-城
 197|2|ja|I・Я・I・A
 2990|2|en|I, Pataliro!
+18943|1|en|I.Cinnamoroll
+18943|4|ja|I.Cinnamoroll
 17398|1|x-jat|I.m.
 17398|4|ja|I.m.
 3706|4|fi|I"s Pure
@@ -24390,6 +24400,7 @@
 406|4|fr|Kacho-Ohji - Hard Rock save the Space
 7406|1|x-jat|Kachou no Koi
 406|1|x-jat|Kachou Ouji: Hard Rock Save the Space
+10313|4|hr|Kad je Marnie bila ovdje
 11982|2|tr|Kadim Büyücünün Gelini: Bir Yıldızı Bekleyenler
 14101|1|x-jat|Kado: Beyond Information
 11762|4|en|Kado: The Right Answer
@@ -25156,6 +25167,8 @@
 8223|1|x-jat|Katte ni Kaizou
 4898|1|x-jat|Katte ni Shirokuma
 8223|2|x-jat|Katteni Kaizou
+679|4|no|Katteprinsen
+679|4|sv|Katternas rike
 8613|1|x-jat|Kattobase! Dreamers: Carp Tanjou Monogatari
 1025|2|de|Katzenauge
 8367|2|id|Kau dan Aku
@@ -27889,6 +27902,7 @@
 691|4|it|La leggenda di Crystania
 1478|4|it|La leggenda di Crystania - Il sovrano errante
 2921|4|es|La ley de Ueki
+2921|4|es-419|La ley de Ueki
 2331|4|es-419|La leyenda de Ellcia
 1722|2|es|La leyenda de la mujer lobo
 9515|4|es-419|La leyenda de la princesa Kaguya
@@ -29166,6 +29180,7 @@
 1893|4|it|Lo Specchio Magico
 2738|4|it|Lo strano mondo di Minù
 538|2|it|Lo stregone Orphen
+679|4|vi|Loài mèo trả ơn
 274|3|x-jat|lob
 18525|2|fr|Lobotomies & hypnoses galactiques
 10511|2|fr|Lobotomisée et soumise : une folie sans concession !
@@ -31574,7 +31589,10 @@
 1259|4|es|Marmalade Boy (La Familia Crece): La Película
 10313|3|x-jat|Marnie
 10313|2|da|Marnie - min hemmelige veninde
+10313|4|no|Marnie - min hemmelige venninne
 10313|4|fi|Marnie - tyttö ikkunassa
+10313|4|tr|Marnie Oradayken
+10313|4|vi|Marnie trong ký ức
 10313|4|pl|Marnie. Przyjaciółka ze snów
 11160|1|x-jat|Maro no Kanja wa Gatenkei
 1866|1|x-jat|Maroko
@@ -32299,6 +32317,7 @@
 262|2|pt|Memórias
 10313|4|pt|Memórias de Marnie
 333|4|pt|Memórias de Ontem
+333|4|pt-BR|Memórias de Ontem
 262|4|pt-BR|Memories
 262|4|ja|MEMORIES
 262|4|sv|Memories
@@ -32821,6 +32840,7 @@
 1834|4|en|Mind Game
 1834|4|fr|Mind Game
 1834|4|de|Mind Game
+333|4|da|Minder fra i går
 1834|2|x-jat|Mindgame
 8466|2|en|Minding My Own Business
 16061|1|x-jat|Minegishi-san wa Otsu-kun ni Tabesasetai
@@ -37306,7 +37326,11 @@
 17495|2|en|Only I Level Up
 13383|2|en|Only My Oppai Soul
 333|4|sv|Only Yesterday
+333|4|tl|Only Yesterday
 333|4|en|Only Yesterday
+333|4|nl|Only Yesterday
+333|4|id|Only Yesterday
+333|4|my|Only Yesterday
 4648|4|ja|Only You ビバ! キャバクラ
 4648|2|x-jat|Only You: Viva! Cabaret Club
 4648|1|x-jat|Only You: Viva! Kyabakura
@@ -39870,6 +39894,13 @@
 334|4|de|Pom Poko
 334|4|pt|Pom Poko
 334|4|ro|Pom Poko
+334|4|id|Pom Poko
+334|4|it|Pom Poko
+334|4|my|Pom Poko
+334|4|tl|Pom Poko
+334|4|nl|Pom Poko
+334|4|cs|Pom poko
+334|4|hr|Pom Poko
 334|4|hu|Pom Poko - A tanukik birodalma
 334|4|lt|Pom Poko: Meškėnų karas
 334|4|et|Pom Poko: Pesukarude sõda
@@ -39884,6 +39915,10 @@
 13405|2|en|Pompo: The Cinéphile
 334|4|fr|Pompoko
 334|4|es|Pompoko
+334|4|da|Pompoko
+334|4|sv|Pompoko
+334|4|no|Pompoko
+334|4|pt-BR|PomPoko: A Grande Batalha dos Guaxinins
 7853|2|en|Pompompurin in The North Wind and the Sun
 7852|2|en|Pompompurin in The Tortoise and the Hare
 18043|1|x-jat|Pon no Michi
@@ -39994,6 +40029,13 @@
 306|4|no|Porco Rosso
 306|4|sv|Porco Rosso
 306|4|es-419|Porco Rosso
+306|4|id|Porco Rosso
+306|4|my|Porco Rosso
+306|4|tl|Porco Rosso
+306|4|ro|Porco Rosso
+306|4|hr|Porco Rosso
+306|4|nl|Porco Rosso
+306|4|vi|Porco Rosso
 306|4|hu|Porco Rosso - A mesterpilóta
 306|4|pt|Porco Rosso: O Porquinho Voador
 306|4|pt-BR|Porco Rosso: O Último Herói Romântico
@@ -40047,6 +40089,7 @@
 755|2|cs|Poválečný Gundam X
 481|4|ro|Povestiri cu Fantome
 2309|4|ro|Povestiri din Padurea Verde
+679|4|hr|Povratak mačke
 14525|1|x-kot|Power Battle Watch Car
 14942|1|x-kot|Power Battle Watch Car Season 2
 1237|1|x-jat|Power Dolls
@@ -41615,6 +41658,7 @@
 11033|2|fr|Récréation domestique
 262|4|es-419|Recuerdos
 333|4|es|Recuerdos del ayer
+333|4|es-419|Recuerdos del ayer
 262|4|es|Recuerdos peligrosos
 13345|2|pt-BR|Recuperação de uma Viciada em MMO
 14714|1|x-jat|Recycle Zoo
@@ -45198,7 +45242,7 @@
 2438|1|x-jat|Shin Seiki GPX Cyber Formula Sin
 2462|1|x-jat|Shin Seiki GPX Cyber Formula Zero
 736|1|x-jat|Shin Seiki Inma Seiden
-10641|1|x-jat|Shin Seikimatsu: Yatsuto no Souguu
+10641|1|x-jat|Shin Seikimatsu: Yatsu to no Souguu
 9002|4|pt-BR|Shin Sekai Yori: Do Novo Mundo
 17295|1|x-jat|Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei
 3310|2|x-jat|Shin Shintaisou
@@ -49724,6 +49768,11 @@
 320|2|en|The Castle of Cagliostro
 12882|4|en|The Cat Purr Dance
 679|4|en|The Cat Returns
+679|4|id|The Cat Returns
+679|4|tl|The Cat Returns
+679|4|nl|The Cat Returns
+679|4|da|The Cat Returns
+679|4|my|The Cat Returns
 679|2|en|The Cat Returns the Favor
 679|2|en|The Cat`s Repayment
 18659|4|en|The Charm of Soul Pets
@@ -54287,6 +54336,7 @@
 5454|2|vi|Vùng đất xa xăm 3: Trăng Đỏ
 4783|3|x-jat|VVV
 13257|4|cs|Vzdálenější než vesmír
+333|4|cs|Vzpomínky jako kapky deště
 721|3|ja|Vガン
 721|2|ja|Vガンダム
 2188|4|ko|W ~위시~
@@ -54804,7 +54854,11 @@
 8030|1|x-jat|Wheels
 4894|2|en|When Cicadas Cry 2nd Series
 16693|2|en|When History Meows
+10313|4|id|When Marnie Was There
 10313|4|en|When Marnie Was There
+10313|4|tl|When Marnie Was There
+10313|4|my|When Marnie Was There
+10313|4|nl|When Marnie Was There
 11162|2|en|When My Girlfriend Put on Cat Ears
 6051|2|en|When Seagulls Cry
 10509|4|en|When Supernatural Battles Became Commonplace
@@ -60623,6 +60677,8 @@
 6271|2|ru|Полусломанная музыкальная шкатулка
 11265|2|ru|Получеловек
 334|4|bg|Пом Поко
+334|4|uk|Помпоко: Війна танукі в епоху Хейсей
+334|4|ru|Помпоко: война тануки в период Хэйсэй
 3677|4|uk|Попелюшка
 836|2|ru|Попотан
 306|2|uk|Порко Россо
@@ -61260,6 +61316,7 @@
 1787|2|ru|Спиди-гонщик
 262|2|uk|Спогади
 333|2|uk|Спогади наче краплі дощу
+10313|4|uk|Спогади про Марні
 262|2|bg|Спомени
 218|4|ru|Спригган
 14734|4|ru|Спригган (2022)
@@ -63001,6 +63058,7 @@
 4932|2|ar|حدود الفراغ : حديقة الآثمين
 4797|2|ar|حديقة الشتاء
 9589|2|ar|حديقة الكلمات
+334|4|ar|حرب الراكون
 584|4|ar|حرب الكواكب
 6249|2|ar|حروب الصيف
 10901|3|ar|حروب الطعام
@@ -63815,8 +63873,11 @@
 336|4|hi|दिल की पुकार
 7258|4|hi|नन्हीं दुनिया की एरिएटी
 5107|4|hi|पॉन्यो
+334|4|hi|पॉम पोको
+306|4|hi|पोर्को रॉसो
 13536|4|hi|बनाना फिश
 17662|4|hi|महान दिव्य- इंसान
+10313|4|hi|मार्नी और मैं
 275|4|hi|राजकुमारी नौसिका की जंग
 7|4|hi|राजकुमारी मोनोनोके
 5693|6|hi|रामायण: श्री राम कथा
@@ -63916,6 +63977,7 @@
 4691|2|th|จังหวะรัก หัวใจดนตรี
 3395|4|th|จารชนพันธุ์เถื่อน
 56|2|th|เจ้าชายลูกสักหลาด
+679|4|th|เจ้าแมวยอดนักสืบ
 1656|4|th|เจ้าหญิงเงือกน้อย Pure
 7|4|th|เจ้าหญิงจิตวิญญาณแห่งพงไพร
 15996|4|th|เจ้าหญิงผู้เสียสละกับราชาอสูร
@@ -64064,6 +64126,7 @@
 7727|4|th|ปฏิบัติการรักจักรกลทะยานฟ้า
 1218|4|th|ปราสาทเวทมนตร์ของฮาวล์
 8855|4|th|ปริศนาความทรงจำ
+334|4|th|ปอมโปโกะ ทานูกิป่วนโลก
 9514|4|th|ปีกแห่งฝัน วันแห่งรัก
 571|2|th|เปลวฟ้าผ่าปฐพี
 5107|4|th|โปเนียว ธิดาสมุทรผจญภัย
@@ -64078,6 +64141,7 @@
 4574|4|th|ผู้ผนึกมาร
 6685|4|th|ผู้พิทักษ์สลับขั้ว
 15492|4|th|แผนลับดับศัตรู
+10313|4|th|ฝันของฉันต้องมีเธอ
 3562|4|th|พลพรรคสัตว์เพี้ยน ป่วนทะลุมิติ
 16|4|th|พลีสทีชเชอร์ สอนนักรักซะ
 17702|4|th|พอได้เกิดใหม่เป็นองค์ชายลำดับที่เจ็ด ก็เพื่อเรียนเวทให้สนุก
@@ -67043,6 +67107,8 @@
 1359|2|ko|최종 치한 전차
 9190|2|ko|최종 치한 전차 NEXT
 12|4|ko|쵸빗츠
+333|4|ko|추억은 방울방울
+10313|4|ko|추억의 마니
 5594|2|ko|춘연 소녀
 13278|4|ko|출동! 슈퍼윙스
 3433|4|ko|충사
@@ -67369,6 +67435,7 @@
 3436|4|ko|폭풍우 치는 밤에
 6817|2|ko|폴트!!
 9549|4|ko|폴트!! S 새로운 연적
+334|4|ko|폼포코 너구리 대작전
 16801|4|ko|표류단지
 9208|4|ko|표적이 된 학원
 9905|4|ko|푸른 강철의 아르페지오
@@ -72505,6 +72572,7 @@
 2615|4|ja|ネクスト戦記EHRGEIZ
 2615|2|ja|ネクスト戦記エーアガイツ
 3536|4|ja|ねこ·ねこ·幻想曲[ファンタジア]
+18532|3|ja|ねこおじ
 13858|4|ja|ネコこのゴロ
 13858|2|ja|ネコこのゴロ 令和版
 3287|4|ja|ねこぢる劇場 ぢるぢるORIGINAL
@@ -76742,6 +76810,7 @@
 15406|4|ja|優等生 綾香のウラオモテ
 2373|4|ja|優遇接待 孤島の極楽へようこそ
 2373|2|zh-Hant|優遇接待 歡迎來到孤島的極樂
+333|4|zh-Hans|儿时的点点滴滴
 18671|4|zh-Hans|元尊
 10111|4|zh-Hans|元气囝仔
 9298|4|zh-Hant|元气少女缘结神
@@ -79492,6 +79561,8 @@
 253|2|zh-Hans|女神候补生
 253|4|ja|女神候補生
 263|4|ja|女神候補生 スペシャルカリキュラム ~仲間~
+17612|2|zh-Hans|女神咖啡厅
+18080|4|zh-Hans|女神咖啡厅 第二季
 1476|4|ja|女神天国
 1476|4|zh-Hans|女神天国
 15522|4|zh-Hans|女神宿舍的管理员。
@@ -79597,6 +79668,7 @@
 14036|4|zh|妈妈咪鸭
 17660|2|zh-Hans|妈妈活
 131|4|ja|妖しのセレス
+18321|3|ja|妖はじ
 2402|4|ja|妖世紀水滸伝 -魔星 降臨-
 1040|2|zh-Hans|妖兽都市
 4204|4|ja|妖囁
@@ -80618,6 +80690,7 @@
 13022|4|ja|平成松江怪談~怪し~
 334|4|zh-Hans|平成狸合战
 334|4|ja|平成狸合戦ぽんぽこ
+334|4|zh-Hant|平成狸合戰
 3131|2|zh-Hant|平流層之妖精
 15676|4|zh-Hans|平稳世代的韦驮天们
 15676|4|ja|平穏世代の韋駄天達
@@ -87595,6 +87668,7 @@
 6331|2|zh-Hans|豹头王传说
 679|4|zh|貓之報恩
 14570|4|zh-Hant|貓娘樂園
+679|4|zh-Hant|貓的報恩
 18317|4|ja|負けヒロインが多すぎる!
 2719|4|ja|負けるな!魔剣道
 4492|4|ja|貧乏姉妹物語
