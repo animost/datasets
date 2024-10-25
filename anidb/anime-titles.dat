@@ -1,4 +1,4 @@
-# created: Wed Oct 23 03:00:01 2024
+# created: Thu Oct 24 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3864,9 +3864,16 @@
 1210|3|x-jat|ay
 235|4|tr|Ay Savaşçısı
 74|3|x-jat|AYA
+15587|4|pt-BR|Aya e a Bruxa
+15587|4|pt|Aya e a Feiticeira
 1059|3|x-jat|aya enishi
+15587|4|fr|Aya et la sorcière
 11505|1|x-jat|Aya Hito Shiki to Iu Na no Ishi Hata
+15587|4|hr|Aya i vještica
+15587|4|fi|Aya ja noita
+15587|4|sv|Aya och häxan
 15587|2|da|Aya og heksen
+15587|4|no|Aya og heksen
 15587|1|x-jat|Aya to Majo
 15587|4|de|Aya und die Hexe
 74|3|x-jat|aya1
@@ -4997,6 +5004,7 @@
 15549|1|x-zht|Benghuai 3: Zuihou Yi Ke
 15701|1|x-zht|Benghuai 3: Zuiren Wange
 14625|2|fr|Bénies soient les lunettes !
+15587|4|tr|Benim Annem Bir Cadı
 6859|1|x-jat|Benkei Tai Ushiwaka
 6859|2|en|Benkei vs Ushiwaka
 17140|1|x-jat|Benriya Saitou-san, Isekai ni Iku
@@ -6854,6 +6862,7 @@
 493|3|en|bux
 8069|2|tr|Büyücü Kız Madoka Magica
 13734|4|tr|Büyük Mavi Rüya
+335|4|tr|Büyülü Dalgalar
 2808|4|ja|BUZZER BEATER
 2808|1|x-jat|Buzzer Beater
 5224|1|x-jat|Buzzer Beater (2007)
@@ -8271,6 +8280,7 @@
 14414|1|x-jat|Chuusotsu Worker kara Hajimeru Koukou Seikatsu
 18894|1|x-jat|Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo o Toite Shimau kara.
 9391|1|x-jat|Chuuzumou
+9515|4|vi|Chuyện công chúa Kaguya
 2558|4|it|Ciao Sabrina
 781|3|x-jat|CiBo
 4828|4|it|Cicala d`Inverno
@@ -9276,6 +9286,7 @@
 7051|4|es|Cuentos Clásicos
 947|2|es|Cuentos de los hermanos Grimm
 4193|4|es|Cuentos de Terramar
+4193|4|es-419|Cuentos de Terramar
 12747|2|en|CUG: King of Heroes
 5574|2|cs|Cukroušek
 18839|2|en|Cultural Exchange With Game Center Girl
@@ -13098,7 +13109,19 @@
 6687|2|en|Earth Story Telepath 2500
 1138|1|x-jat|Earthian
 13660|2|en|Earthly Song
+15587|4|cs|Earwig a čarodějnice
 15587|4|en|Earwig and the Witch
+15587|4|nl|Earwig and the Witch
+15587|4|th|Earwig and the Witch
+15587|4|id|Earwig and the Witch
+15587|4|my|Earwig and the Witch
+15587|4|tl|Earwig and the Witch
+15587|4|it|Earwig e la strega
+15587|4|hu|Earwig és a boszorkány
+15587|4|ro|Earwig și vrăjitoarea
+15587|4|vi|Earwig và phù thủy
+15587|4|es|Earwig y la bruja
+15587|4|es-419|Earwig y la bruja
 17013|2|en|Easily Cucked
 3957|4|ja|EASY COOKING ANIMATION セイシュンの食卓
 3957|1|x-jat|Easy Cooking Animation: Seishun no Shokutaku
@@ -14051,6 +14074,7 @@
 8603|2|x-jat|Etty no Monogatari
 16542|2|fr|Étude de la puberté
 335|2|pt-BR|Eu Posso Ouvir o Mar
+335|4|pt-BR|Eu Posso Ouvir o Oceano
 13363|2|pt|Eu Quero Comer o Teu Pâncreas
 14099|2|en|Eudemon Quest
 8508|4|ro|Euforia
@@ -15407,8 +15431,10 @@
 7889|4|en|Forsaken
 7889|4|ja|Forsaken
 9214|2|en|Forsaken Tempest
+9515|4|da|Fortællingen om Prinsesse Kaguya
 77|2|pt-BR|Fortaleza Superdimensional Macross
 996|2|pt-BR|Fortaleza Superdimensonal Macross: Você se Lembra do Amor?
+9515|4|no|Fortellingen om prinsesse Kaguya
 77|4|it|Fortezza superdimensionale Macross
 15963|4|pl|Fortuna sprzyja pani Nikuko
 7890|4|zh-Hans|FORTUNE ARTERIAL -赤之约束-
@@ -15570,6 +15596,11 @@
 1560|2|en|From Today I`ll
 1677|2|en|From today on, a demon king
 8141|4|en|From Up on Poppy Hill
+8141|4|id|From Up on Poppy Hill
+8141|4|nl|From Up on Poppy Hill
+8141|4|el|From Up on Poppy Hill
+8141|4|my|From Up on Poppy Hill
+8141|4|tl|From Up on Poppy Hill
 1113|4|fr|Front Innocent
 1113|1|x-jat|Front Innocent: Mou Hitotsu no Lady Innocent
 17501|2|pt|Fronteira Xangrilá
@@ -17328,6 +17359,7 @@
 14059|3|x-jat|Ghoul4
 545|3|x-jat|GI
 11904|2|x-jat|Gi(a)rlish Number
+370|4|vi|Gia đình nhà Yamada
 979|2|vi|Giả Kim Thuật
 1485|2|it|Giacca rosa
 1484|2|it|Giacca rossa
@@ -21815,6 +21847,7 @@
 2227|4|hu|Hüvelyk Panna
 3672|4|hu|Hüvelyk Panna nyomában
 13198|2|x-zht|Huyao Xiao Hongniang
+4193|4|vi|Huyền thoại đất liền và đại dương
 1|2|cs|Hvězdný erb
 162|4|sk|Hviezdny šerif Saber Rider
 584|3|x-jat|HvK
@@ -23544,6 +23577,7 @@
 1911|3|x-jat|Jeeg
 5022|3|x-jat|jeeg (2007)
 1911|4|it|Jeeg robot d`acciaio
+335|4|da|Jeg kan høre havet
 199|4|pl|Jego i Jej Okoliczności
 17938|4|en|Jellyfish Can`t Swim in the Night
 11020|2|en|Jellyfish Diner
@@ -23992,6 +24026,7 @@
 2578|1|x-jat|Joou-heika no Petite Angie
 879|1|x-jat|Joou-sama wa M Dorei
 16035|4|en|Joran: The Princess of Snow and Blood
+4193|4|no|Jordsjø-krønikene
 8842|1|x-jat|Jormungand
 8842|4|en|Jormungand
 9076|2|x-jat|Jormungand 2
@@ -24476,6 +24511,7 @@
 14111|3|en|Kaguya
 15207|3|en|Kaguya 2
 15806|3|x-jat|Kaguya 3
+9515|4|hu|Kaguya hercegnő története
 17477|3|x-jat|kaguya movie
 15807|3|en|Kaguya OVA
 15207|3|x-jat|kaguya s2
@@ -26744,6 +26780,7 @@
 17847|1|x-jat|Kokuhaku......
 4150|3|x-jat|Kokumono
 8141|2|x-jat|Kokuriko Saka kara
+8141|4|hu|Kokuriko-zaka kara
 8141|2|x-jat|Kokurikozaka kara
 2707|4|fi|Kolme muskettikoiraa
 9578|1|x-jat|Komachi to Dangorou
@@ -27816,6 +27853,7 @@
 1198|4|it|La clinica dell`amore
 1963|2|fr|La clinique de l`humiliation
 8141|4|es-419|La Colina de las Amapolas
+8141|4|es|La colina de las amapolas
 8141|4|it|La collina dei papaveri
 8141|4|fr|La colline aux coquelicots
 1529|4|it|La coppa dei dragoni
@@ -31199,6 +31237,7 @@
 14534|4|lv|Mākoņu pavēlniece
 1831|4|de|Makoto Chan
 7361|1|x-jat|Makoto-chan
+8141|4|cs|Maková hora
 8141|4|pl|Makowe wzgórze
 6529|4|lt|MAKSIMALUS GREITIS
 11378|1|x-jat|Maku
@@ -32813,6 +32852,7 @@
 303|4|no|Min nabo Totoro
 303|4|da|Min nabo Totoro
 4177|3|x-jat|Mina
+370|4|sv|Mina grannar Yamadas
 11492|3|x-jat|Minakama
 11492|4|en|Minami Kamakura High School Girls Cycling Club
 11492|1|x-jat|Minami Kamakura Koukou Joshi Jitensha Bu
@@ -32843,6 +32883,8 @@
 333|4|da|Minder fra i går
 1834|2|x-jat|Mindgame
 8466|2|en|Minding My Own Business
+370|4|no|Mine naboer Yamada
+370|4|da|Mine naboer Yamadaerne
 16061|1|x-jat|Minegishi-san wa Otsu-kun ni Tabesasetai
 700|4|fr|Minerva
 700|1|x-jat|Minerva no Kenshi
@@ -32981,6 +33023,7 @@
 2267|3|x-jat|mirumo s3
 3197|3|x-jat|mirumo s4
 370|4|es|Mis Vecinos los Yamada
+370|4|es-419|Mis vecinos los Yamada
 1319|2|x-jat|Misaki Chronicle Divergence Eve
 1319|1|x-jat|Misaki Chronicle: Divergence Eve
 15831|1|x-jat|Misaki no Mayoiga
@@ -33481,6 +33524,7 @@
 4662|1|x-jat|Mojakou
 18538|4|cs|Moje holka je démon
 17304|4|pl|Moje szczęśliwe małżeństwo
+370|3|hr|Moji susjedi Yamade
 3404|2|x-jat|Moke Moke Taishou Dendo Musume Arisa
 3404|1|x-jat|Moke Moke Taishou Dendou Musume Arisa
 7670|1|x-jat|Mokei Senshi Gunpla Builders Beginning G
@@ -33859,6 +33903,7 @@
 1488|2|en|Most Dangerous Geist II
 1488|2|en|Most Dangerous Geist II - Death Force
 3436|4|vi|Một Đêm Giông Bão
+8141|4|no|Møte på valmueåsen
 8636|4|en|Mother In Love
 3595|4|en|Mother Knows Breast
 15522|4|en|Mother of the Goddess` Dormitory
@@ -34486,6 +34531,10 @@
 303|4|id|My Neighbor Totoro
 303|4|tl|My Neighbor Totoro
 370|4|en|My Neighbors the Yamadas
+370|4|tl|My Neighbors the Yamadas
+370|4|nl|My Neighbors the Yamadas
+370|4|id|My Neighbors the Yamadas
+370|4|my|My Neighbors the Yamadas
 303|2|en|My Neighbour Totoro
 370|2|en|My Neighbours the Yamadas
 18029|4|en|My New Boss Is Goofy
@@ -34609,6 +34658,7 @@
 4835|3|x-jat|na
 15426|1|x-kot|Na Bbeun Sang Sa
 17495|4|x-kot|Na Honjaman Rebereop
+8141|4|hr|Na Makovom brdu
 18271|1|x-jat|Na Nare Hana Nare
 3440|3|en|na2
 5623|3|x-jat|NAA
@@ -35061,6 +35111,7 @@
 8943|2|ja|NARUTOSD ロック・リーの青春フルパワー忍伝
 679|4|pl|Narzeczona dla kota
 1171|2|pt|Nas Asas de um Turbo
+370|4|cs|Naši sousedé Jamadovi
 10876|4|en|Nasty Thoughts, Dirty Deeds
 1292|3|x-jat|nasu
 1292|4|de|Nasu - Sommer in Andalusien
@@ -35595,6 +35646,7 @@
 12276|3|x-jat|ngnl0
 14840|4|vi|Ngoại truyện: Sự vĩnh hằng và búp bê ký ức
 4777|2|vi|Ngôi sao may mắn
+8141|4|vi|Ngọn đồi hoa hồng anh
 303|2|vi|Người bạn hàng xóm Totoro
 7723|4|vi|Người Sắt
 1364|4|ja|NG騎士ラムネ&40
@@ -36511,6 +36563,7 @@
 1868|4|pt|O Conde de Monte Cristo
 5954|2|pt-BR|O Conde e a Fada
 9515|4|pt|O Conto da Princesa Kaguya
+9515|4|pt-BR|O Conto da Princesa Kaguya
 18451|2|pt-BR|O curandeiro que foi banido do seu grupo é na verdade, o mais forte!
 4698|4|pl|O czym szumią wierzby
 7221|2|pt-BR|O Desaparecimento de Haruhi Suzumiya
@@ -36647,6 +36700,12 @@
 12004|1|x-jat|Occultic;Nine
 12004|4|en|Occultic;Nine
 335|4|en|Ocean Waves
+335|4|my|Ocean Waves
+335|4|no|Ocean Waves
+335|4|nl|Ocean Waves
+335|4|pt|Ocean Waves
+335|4|id|Ocean Waves
+335|4|tl|Ocean Waves
 979|2|cs|Ocelový alchymista
 1106|1|x-jat|Ocha-ken: Chokotto Monogatari
 9679|1|x-jat|Ocha-ken: Hotto Monogatari
@@ -40087,6 +40146,7 @@
 13175|4|it|Poupelle della città dei camini
 13175|4|en|Poupelle of Chimney Town
 755|2|cs|Poválečný Gundam X
+9515|4|ro|Povestea prințesei Kaguya
 481|4|ro|Povestiri cu Fantome
 2309|4|ro|Povestiri din Padurea Verde
 679|4|hr|Povratak mačke
@@ -40215,6 +40275,7 @@
 18609|2|en|Pregnancy Officer
 13051|2|en|Prehistoric Warriors
 241|4|it|Prendi il mondo e vai
+9515|4|tr|Prenses Kaguya Masalı
 7|4|tr|Prenses Mononoke
 516|2|tr|Prenses Tutu
 8240|3|x-jat|prerhyth
@@ -40271,9 +40332,11 @@
 11858|4|ja|PRETTY×CATION THE ANIMATION
 12861|4|en|Preventing Tuberculosis
 14466|4|cs|Příběh koček
+9515|4|cs|Příběh o princezně Kaguje
 8156|4|cs|Příběh stoleté ryby
 5305|2|cs|Příběhy z hnojárny
 4193|4|cs|Příběhy ze Zeměmoří
+9515|4|hr|Priča o princezi Kaguyi
 10942|2|en|Price Of A Secret
 10942|4|de|Price Of A Secret #1 - The Animation
 11035|4|de|Price Of A Secret #2 - The Animation (ep1)
@@ -40745,6 +40808,7 @@
 1844|2|en|Pudding Warrior
 4698|4|es-419|Pueblo de Sauces
 335|4|es|Puedo escuchar el mar
+335|4|es-419|Puedo escuchar el mar
 8069|4|es|Puella Magi Madoka Magica
 8069|4|en|Puella Magi Madoka Magica
 8069|4|fr|Puella Magi Madoka Magica
@@ -42904,6 +42968,7 @@
 11855|1|x-jat|Saga-ken o Meguru Animation
 12779|1|x-jat|Saga-ken o Meguru Animation (2017)
 11855|2|x-jat|Sagaken wo Meguru Animation
+9515|4|sv|Sagan om prinsessan Kaguya
 10556|1|x-jat|Sagashita no wa Oheya, Mitsuketa no wa Mirai
 1833|4|es|Sagitario espacial
 12422|3|x-jat|sagrada
@@ -46244,6 +46309,7 @@
 2176|2|en|Slutty Princess Diaries
 2176|4|en|Slutty-Princess Diaries
 7008|4|pl|Służąca przewodnicząca
+335|4|cs|Slyším mořské vlny
 235|3|x-jat|SM
 2152|3|x-jat|sm (1993)
 2151|3|x-jat|sm (1994)
@@ -46469,6 +46535,7 @@
 581|2|tr|Son Sürgün
 12252|2|tr|Son Umut
 947|4|es|Soñar con los ojos abiertos
+335|4|vi|Sóng đại dương
 3488|4|en|Song of Baseball Enthusiasts
 4186|2|en|Song of Liang Chu Li
 4186|2|en|Song of Raiyantsuuri
@@ -48647,6 +48714,11 @@
 15492|4|en|Talentless Nana
 199|2|en|Tales at North Hills High
 4193|4|en|TALES from EARTHSEA
+4193|4|hr|Tales from Earthsea
+4193|4|id|Tales from Earthsea
+4193|4|tl|Tales from Earthsea
+4193|4|nl|Tales from Earthsea
+4193|4|my|Tales from Earthsea
 7946|2|en|Tales From The Snow Country
 11273|2|x-jat|Tales of 20th Anniversary Animation
 15537|2|en|Tales of A Harem in Another World
@@ -49408,6 +49480,7 @@
 11688|4|ja|TEO THE MAGIC PLANET
 11688|1|x-jat|Teo the Magic Planet
 18583|1|x-jat|Teogonia
+8141|4|tr|Tepedeki Ev
 3485|3|x-jat|Teppei
 9175|1|x-jat|Teppen
 17118|2|x-jat|Teppen!!!
@@ -51012,6 +51085,11 @@
 4150|2|en|The Tale of the Luminous Cloud Palace
 17488|2|en|The Tale of the Outcasts
 9515|4|en|The Tale of the Princess Kaguya
+9515|4|my|The Tale of the Princess Kaguya
+9515|4|id|The Tale of the Princess Kaguya
+9515|4|tl|The Tale of the Princess Kaguya
+9515|4|nl|The Tale of The Princess Kaguya
+9515|4|el|The Tale of The Princess Kaguya
 18395|2|en|The Tale of The Spirit Stone
 18396|2|en|The Tale of The Spirit Stone 2
 1861|2|en|The Tale of the White Serpent
@@ -53811,6 +53889,7 @@
 7102|2|en|Valkyrie Training: Semen Tank of 10 Battlemaid Sisters
 14065|1|en|Valley of White Birds
 10859|4|nl|Valse Liefde:
+335|4|ro|Valurile oceanului
 9568|3|x-jat|valvrave
 9949|3|x-jat|Valvrave 2
 9949|3|x-jat|Valvrave S2
@@ -57571,6 +57650,7 @@
 1426|4|el|Αγνή Αγάπη
 10937|4|el|Αθόρυβη Φωνή
 12235|4|el|Ακαδημία Μικρών Μαγισσών
+335|4|el|Ακούω τη Θάλασσα
 365|4|el|Αμαρτία
 174|4|el|Ανήθικες Αδερφές
 1061|4|el|Άννα, το Κορίτσι της Χαράς
@@ -57638,8 +57718,10 @@
 5321|4|el|Η τρεις σωματοφύλακες στο διάστημα
 760|4|el|Η Φρουρά του Γαλαξία
 3674|4|el|Η Χιονάτη και οι 7 Νάνοι
+15587|4|el|Η Ψαλίδα και η Μάγισσα
 326|4|el|Θάνατος και Αναγέννηση
 802|4|el|Ιδιωτική Ασφάλεια Τόκιο
+4193|4|el|Ιστορίες από τη Γαιοθάλασσα
 933|4|el|Κate, η Σκλάβα Βασίλισσα
 2007|4|el|Καμπαμαρού
 1913|4|el|Κάντυ Κάντυ
@@ -57974,6 +58056,8 @@
 206|2|bg|Ах! Богиньо моя! Филмът
 4153|2|ru|Ах! Моя богиня: у каждого есть крылья
 4904|4|ru|Ачи и Сипак: Убойный дуэт
+15587|4|ru|Ая и ведьма
+15587|4|uk|Ая та відьма
 17685|3|ru|Аяка
 3654|2|ru|Аякаси - Классика японских ужасов
 5446|2|bg|Аякаши
@@ -59118,6 +59202,7 @@
 5855|2|ru|Зимняя Соната
 4828|2|ru|Зимняя цикада
 5855|4|uk|Зимова Соната
+8141|4|uk|Зі схилів Кокуріко
 3575|2|uk|Зірка бавовняної країни
 3413|2|uk|Зірка гігантів
 570|3|uk|Зірка На Віки
@@ -59266,6 +59351,7 @@
 10951|4|ru|Кабанэри железной крепости
 14479|4|ru|Кагастер. Убийца насекомых
 15807|2|ru|Кагуя: В любви как на войне OVA
+9515|4|uk|Казка про принцесу Каґую
 16827|4|uk|Казка про цукрове яблуко
 5673|2|uk|Каіба
 5673|2|ru|Кайба
@@ -59996,6 +60082,7 @@
 1440|4|ru|Могучий Атом
 14642|4|ru|Мое семнадцатое лето
 8131|2|ru|Мозг Фи: Божественная головоломка
+370|4|uk|Мої сусіди Ямада
 17720|4|ru|Мой глупый первый друг
 7230|2|ru|Мой господин и я
 5278|4|ru|Мой любимый робот
@@ -62140,6 +62227,7 @@
 14416|2|he|אקדמיית הגיבורים שלי עונה 4
 28|4|he|אקירה
 30|4|he|אקס
+15587|4|he|ארוויג והמכשפה
 13165|2|he|ארץ אבני החן
 14051|2|he|ארץ לעולם לא המובטחת
 14801|2|he|ארץ לעולם לא המובטחת (2021)
@@ -62641,6 +62729,7 @@
 13844|4|ar|ألم أقل أن تجعل قدراتي معتدلة في الحياة الأخرى؟!
 2744|4|ar|أليس في بلاد العجائب
 6520|2|ar|أمل البطل
+335|4|ar|أمواج المحيط
 15750|4|ar|أمي نبع الحنان
 56|2|ar|أمير التنس
 2380|2|ar|أمير التنس - السامورايين: اللعبة الأولى
@@ -62672,6 +62761,7 @@
 8289|4|ar|إلى غابة اليراعات
 15597|4|ar|إيدينز زيرو
 2558|4|ar|إيروكا
+15587|4|ar|إيرويغ والساحرة
 1678|4|ar|إيكوسان
 144|4|ar|إينوياشا
 6716|2|ar|إينوياشا : الفصل الاخير
@@ -63068,10 +63158,12 @@
 9298|2|fa|حضرت ایزد از ملاقاتتون خوشوقتم
 7404|2|ar|حفيد نوراريهيون
 6046|2|ar|حكايات آن
+4193|4|ar|حكايات البر والبحر
 4548|4|ar|حكايات سيمفونيا
 3593|4|ar|حكايات عالمية
 2277|4|ar|حكايات لا تنسى
 3676|4|ar|حكايات ما أحلاها
+9515|4|ar|حكاية اﻷميرة كاجويا
 9515|2|ar|حكاية الأميرة كاغويا
 13734|4|ar|حلم الأزرق الكبير
 12654|4|ar|حماة الحصون المنيعة: معركة الحصن المهجور
@@ -63705,6 +63797,7 @@
 2828|2|ar|ملكة الثلج
 570|2|ar|ممثلة الألفية
 1122|4|ar|من أجل البقاء
+8141|4|ar|من أعلى تلة الخشخاش
 9002|4|ar|من العالم الجديد
 13624|2|ar|من المعتاد إلى الأقوى في العالم
 8419|2|fa|من دوستان زیادی ندارم
@@ -63859,7 +63952,9 @@
 2766|4|ar|يوغي جي اكس
 1327|2|ar|يوميات ميدوري
 9484|4|fa|یک ریلگان علمی خاص اس
+4193|4|hi|अर्थसी की कहानियां
 12653|4|hi|इनुयाशिकी लास्ट हीरो
+15587|4|hi|ईयरविग ऐंड द विच
 17662|2|hi|एक वेतनभोगी का दूसरी दुनिया में जीवित रहने का तरीका
 10951|4|hi|कबनेरी ऑफ़ द आयरन फोर्ट्रेस
 286|4|hi|किकि की डिलीवरी सर्विस
@@ -63873,11 +63968,15 @@
 336|4|hi|दिल की पुकार
 7258|4|hi|नन्हीं दुनिया की एरिएटी
 5107|4|hi|पॉन्यो
+8141|4|hi|पॉपी हिल पर एक नई सुबह
 334|4|hi|पॉम पोको
 306|4|hi|पोर्को रॉसो
 13536|4|hi|बनाना फिश
+335|4|hi|बीते लम्हे
 17662|4|hi|महान दिव्य- इंसान
 10313|4|hi|मार्नी और मैं
+370|4|hi|मेरे पड़ोसी यमाडा
+9515|4|hi|राजकुमारी कगुया की कहानी
 275|4|hi|राजकुमारी नौसिका की जंग
 7|4|hi|राजकुमारी मोनोनोके
 5693|6|hi|रामायण: श्री राम कथा
@@ -63978,6 +64077,7 @@
 3395|4|th|จารชนพันธุ์เถื่อน
 56|2|th|เจ้าชายลูกสักหลาด
 679|4|th|เจ้าแมวยอดนักสืบ
+9515|4|th|เจ้าหญิงกระบอกไม้ไผ่
 1656|4|th|เจ้าหญิงเงือกน้อย Pure
 7|4|th|เจ้าหญิงจิตวิญญาณแห่งพงไพร
 15996|4|th|เจ้าหญิงผู้เสียสละกับราชาอสูร
@@ -64126,6 +64226,7 @@
 7727|4|th|ปฏิบัติการรักจักรกลทะยานฟ้า
 1218|4|th|ปราสาทเวทมนตร์ของฮาวล์
 8855|4|th|ปริศนาความทรงจำ
+8141|4|th|ป๊อปปี้ ฮิลล์ ร่ำร้องขอปาฏิหาริย์
 334|4|th|ปอมโปโกะ ทานูกิป่วนโลก
 9514|4|th|ปีกแห่งฝัน วันแห่งรัก
 571|2|th|เปลวฟ้าผ่าปฐพี
@@ -64265,6 +64366,7 @@
 9977|4|th|เวทย์ศาสตรา มหาสงคราม
 12138|4|th|ไวโอเล็ต เอเวอร์การ์เดน
 10596|4|th|ศึกตำนาน 7 อัศวิน
+4193|4|th|ศึกเทพมังกรพิภพสมุทร
 4583|4|th|ศึกนางฟ้าเหนือมนุษย์
 1554|2|th|ศึกศาตราเจ้าหญิงแห่งดวงดาว
 15216|4|th|ศึกสุดท้ายของเธอกับผมคือจุดเริ่มต้นของโลกใบใหม่
@@ -64374,6 +64476,7 @@
 557|4|th|แฮมทาโร่ แก๊งจิ๋วผจญภัย
 4032|2|th|โฮลิค
 14479|4|ko|가가스테루의 습격
+9515|4|ko|가구야공주 이야기
 9682|2|ko|가든
 5450|2|ko|가르쳐줘 Re:메이드
 13811|4|ko|가르쳐줘 마법의 펜듈럼 ~리루리루 페어리루~
@@ -66169,6 +66272,7 @@
 1102|2|ko|아스가르드 ~왜곡의 테스터먼트~
 8062|4|ko|아스타롯테의 장난감!
 8560|4|ko|아스타롯테의 장난감! EX
+15587|4|ko|아야와 마녀
 17574|2|ko|아오하루 스내치
 9855|2|ko|아웃브레이크 컴퍼니
 17872|2|ko|아이 낳는 섬 ~주 7회 낳는 암컷들~
@@ -66784,6 +66888,7 @@
 6304|2|ko|이세계의 성기사 이야기
 10692|2|ko|이스카
 659|2|ko|이웃집 누나
+370|4|ko|이웃집 야마다 군
 303|4|ko|이웃집 토토로
 13966|4|ko|이웃집 흡혈귀
 15245|2|ko|이웃집의 아네트씨
@@ -67238,6 +67343,7 @@
 12365|4|ko|코와레모노: 리사 PLUS
 11906|2|ko|코이나가 ~작은시골에서 첫사랑 질내사정 섹슈얼 라이프
 10922|2|ko|코이메구와리
+8141|4|ko|코쿠리코 언덕에서
 16795|4|ko|코타로는 1인 가구
 9394|2|ko|코토우라 양
 300|2|ko|코트 위의 천사들
@@ -71556,6 +71662,7 @@
 8903|4|ja|ダンボール戦機W
 9738|4|ja|ダンボール戦機WARS
 9738|2|ja|ダンボール戦機ウォーズ
+18267|3|ja|ダンまち5
 13829|3|ja|ダンまちII
 17652|2|ja|ダンまちIV 深章 厄災篇
 18267|3|ja|ダンまちⅤ
@@ -78730,7 +78837,9 @@
 15855|4|zh-Hans|地味变!!～改变土妹子的纯洁异性交往～
 13177|4|ja|地図のない冒険
 4193|4|zh-Hans|地海传说
+4193|2|zh-Hant|地海傳說
 4193|4|zh|地海戰記
+4193|4|zh-Hant|地海戰記
 13660|4|zh-Hans|地灵曲
 13660|2|zh-Hans|地灵曲——楼兰古城
 16012|4|zh-Hans|地狱乐
@@ -80050,6 +80159,7 @@
 14904|4|ja|安達としまむら
 14904|4|zh-Hant|安達與島村
 5264|4|ja|安部譲二かっとび青春記 渋谷ホンキィトンク
+15587|4|zh-Hant|安雅與魔女
 14372|4|zh-Hans|宋代足球小将
 6317|4|ja|完全勝利ダイテイオー
 2680|4|ja|完全無修正 それぞれの放課後
@@ -83217,6 +83327,7 @@
 13612|4|zh-Hans|来自深渊 深沉灵魂的黎明
 13941|4|zh-Hans|来自深渊 漂泊的黄昏
 15359|2|zh-Hans|来自深渊 烈日的黄金乡
+8141|4|zh-Hans|来自红花坂
 9387|4|zh-Hans|来自风平浪静的明天
 7546|4|zh-Hans|极上！！超人气委员长 第二季
 6411|2|zh-Hans|极上!!超激人气委员长
@@ -84130,6 +84241,7 @@
 7345|4|ja|海底都市の出来るまで
 7531|4|ja|海月姫
 7531|4|zh-Hans|海月姬
+335|4|zh-Hans|海潮之声
 335|4|zh-Hant|海潮之聲
 6402|2|zh-Hans|海物语
 6402|4|zh-Hans|海物语～有你陪伴～
@@ -88004,6 +88116,7 @@
 9053|4|ja|輝け!友情のVサイン
 14111|4|zh-Hant|輝夜姬想讓人告白~天才們的戀愛頭腦戰~
 15207|4|zh-Hant|輝夜姬想讓人告白～天才們的戀愛頭腦戰～ 第二季
+9515|4|zh-Hant|輝耀姬物語
 8421|4|ja|輪るピングドラム
 3525|4|ja|輪奸学園
 3525|6|ja|輪奸学園 「やめてっ! ...お母さん, 見ないで!」
@@ -88906,6 +89019,7 @@
 16670|4|zh-Hans|阿衰 第4季
 16671|4|zh-Hans|阿衰 第5季
 16668|4|zh-Hans|阿衰 第二季
+15587|4|zh-Hans|阿雅与魔女
 17646|4|zh-Hans|阿鲁斯的巨兽
 444|4|zh-Hans|陆上防卫队
 1663|4|zh-Hans|陆奥圆明流外传 修罗之刻
@@ -88946,6 +89060,8 @@
 5630|2|zh-Hans|隐王
 15267|4|zh-Hans|隐瞒之事
 17289|4|zh-Hant|隔壁的妖怪鄰居
+370|4|zh-Hans|隔壁的山田君
+370|4|zh-Hant|隔壁的山田君
 5630|4|ja|隠の王
 8582|4|ja|隣の野郎
 15267|4|zh-Hant|隱瞞之事
