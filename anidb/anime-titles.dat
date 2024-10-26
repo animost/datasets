@@ -1,4 +1,4 @@
-# created: Thu Oct 24 03:00:02 2024
+# created: Fri Oct 25 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5146,6 +5146,7 @@
 7520|4|pt|Beyblade vs O Sol: O Agressor em Chamas, Sol Blaze
 18181|1|x-jat|Beyblade X
 18181|4|ja|BEYBLADE X
+18181|4|pt|Beyblade X
 11291|2|en|Beyblade: Beyblade Burst
 12809|2|en|Beyblade: Beyblade Burst Evolution
 14688|2|en|Beyblade: Beyblade Burst Rise
@@ -5827,6 +5828,24 @@
 17724|1|x-jat|Blue Archive: 1.5 Shuunenkinen Short Animation
 2559|4|en|Blue Blink
 18278|4|en|Blue Box
+18278|4|fr|Blue Box
+18278|4|no|Blue Box
+18278|4|fi|Blue Box
+18278|4|da|Blue Box
+18278|4|pt|Blue Box
+18278|4|sv|Blue Box
+18278|4|pt-BR|Blue Box
+18278|4|tl|Blue Box
+18278|4|de|Blue Box
+18278|4|it|Blue Box
+18278|4|nl|Blue Box
+18278|4|el|Blue Box
+18278|4|tr|Blue Box
+18278|4|hu|Blue Box
+18278|4|id|Blue Box
+18278|4|vi|Blue Box
+18278|4|ro|Blue Box
+18278|4|my|Blue Box
 3515|1|x-jat|Blue Butterfly Fish
 15069|4|en|Blue Cat
 2154|2|en|Blue Comet SPT Layzner
@@ -9719,6 +9738,16 @@
 2824|1|x-jat|Damekko Doubutsu
 18290|4|en|Dan Da Dan
 18290|1|x-jat|Dan Da Dan
+18290|4|pl|DAN DA DAN
+18290|4|es|DAN DA DAN
+18290|4|vi|DAN DA DAN
+18290|4|my|DAN DA DAN
+18290|4|es-419|DAN DA DAN
+18290|4|fr|DAN DA DAN
+18290|4|id|DAN DA DAN
+18290|4|pt-BR|DAN DA DAN
+18290|4|tl|DAN DA DAN
+18290|4|it|DAN DA DAN
 18920|1|x-zht|Dan Dao Zhizun
 18042|1|x-zht|Dan Dao Zongshi
 1653|4|ja|DAN DOH!!
@@ -9770,7 +9799,9 @@
 4829|2|x-jat|Dancougar Nova
 1692|4|fr|Dancougar, les cadets de l`espace
 1740|4|en|Dancougar: Blazing Epilogue
+18290|4|tr|Dandadan
 18290|2|en|Dandadan
+18290|4|de|Dandadan
 6738|2|en|Danemon`s Monster Hunt at Shojoji
 10937|2|x-unk|Dáng hình thanh âm
 10937|4|vi|Dáng Hình Thanh Âm
@@ -22737,6 +22768,7 @@
 6143|4|es|Inazuma Eleven
 6143|4|es-419|Inazuma Eleven
 6143|4|pl|Inazuma Eleven
+12292|4|pt|Inazuma Eleven Ares
 18848|2|en|Inazuma Eleven Compilation Film: Legendary Kickoff
 8381|1|x-jat|Inazuma Eleven GO
 8381|4|pl|Inazuma Eleven Go
@@ -22753,6 +22785,7 @@
 9045|4|pt|Inazuma Eleven GO! Chrono Stone
 8512|4|pl|Inazuma Eleven Movie: The Ultimate Bound, Griffon
 7703|4|pl|Inazuma Eleven Movie: The Ultimate Force Team Ogre Attacks!
+14327|4|pt|Inazuma Eleven Orion
 18849|2|en|Inazuma Eleven the Movie: The New Heroes` Prologue
 12292|1|x-jat|Inazuma Eleven: Ares no Tenbin
 11027|1|x-jat|Inazuma Eleven: Chou Jigen Dream Match
@@ -22776,6 +22809,7 @@
 13481|3|en|Index3
 5278|4|en|Indian Summer
 13314|1|x-kot|Indie Anibox: Selma Danbaekjil Coffee
+18944|1|x-jat|Indoor na Chiba New Joshi no Watashi ni Sugu Karande Kuru Kinoshita Danshi ga Yatara Uzai
 7025|1|x-jat|Inemuri Buuchan
 7259|2|en|Infection 2: City of Sin
 7652|2|en|Infection 3: Fall of the Capital
@@ -27829,6 +27863,7 @@
 676|4|en|La Blue Girl Returns
 17206|2|en|La Blue Girl: Revenge of the Shikima Realm
 10446|4|fr|La Bonne Vie
+18278|4|es-419|La caja azul
 18278|4|es|La caja azul
 7280|2|it|La Campanella Della Benedizione
 12523|4|es|La canción perdida
@@ -33196,6 +33231,7 @@
 2599|3|x-jat|ML
 4120|2|x-jat|ML2
 8549|3|x-jat|MLA:TE
+18278|4|cs|Mládí na hřišti
 8549|3|x-jat|MLATE
 632|3|x-jat|mlr
 4120|3|x-jat|mlw
@@ -39212,6 +39248,7 @@
 564|2|en|Platinumhugen Ordian
 294|1|x-jat|Platonic Chain
 6045|3|en|Platonic Heart
+18278|4|hr|Plava kutija
 2107|4|sr|Plava princeza
 3324|2|en|Plawres Sanshiro
 3324|1|x-jat|Plawres Sanshirou
@@ -41460,6 +41497,34 @@
 2995|2|en|Ranma OVA Special
 2996|2|en|Ranma OVA Super
 193|3|x-jat|ranma s2
+18700|4|es|Ranma1/2 (2024)
+18700|4|it|Ranma1/2 (2024)
+18700|4|my|Ranma1/2 (2024)
+18700|4|pl|Ranma1/2 (2024)
+18700|4|uk|Ranma1/2 (2024)
+18700|4|de|Ranma1/2 (2024)
+18700|4|nl|Ranma1/2 (2024)
+18700|4|sv|Ranma1/2 (2024)
+18700|4|en|Ranma1/2 (2024)
+18700|4|es-419|Ranma1/2 (2024)
+18700|4|da|Ranma1/2 (2024)
+18700|4|pt|Ranma1/2 (2024)
+18700|4|th|Ranma1/2 (2024)
+18700|4|pt-BR|Ranma1/2 (2024)
+18700|4|id|Ranma1/2 (2024)
+18700|4|tl|Ranma1/2 (2024)
+18700|4|fr|Ranma1/2 (2024)
+18700|4|ar|Ranma1/2 (2024)
+18700|4|tr|Ranma1/2 (2024)
+18700|4|vi|Ranma1/2 (2024)
+18700|4|fi|Ranma1/2 (2024)
+18700|4|hr|Ranma1/2 (2024)
+18700|4|no|Ranma1/2 (2024)
+18700|4|he|Ranma1/2 (2024)
+18700|4|ro|Ranma1/2 (2024)
+18700|4|cs|Ranma1/2 (2024)
+18700|4|hu|Ranma1/2 (2024)
+18700|4|el|Ranma1/2 (2024)
 367|3|x-jat|ranmov1
 368|3|x-jat|ranmov2
 405|3|x-jat|ranova
@@ -41583,6 +41648,7 @@
 15593|4|en|Re:Zero - Starting Life in Another World (2021)
 17947|4|en|Re:Zero - Starting Life in Another World (2024)
 14792|2|en|Re:Zero - Starting Life in Another World 2nd Season
+17947|2|en|Re:Zero - Starting Life in Another World Season 3
 11370|4|es|Re:Zero -Empezar de cero en un mundo diferente-
 14792|4|de|Re:ZERO -Starting Life in Another World- 2
 15593|4|de|Re:ZERO -Starting Life in Another World- 2 Cour 2
@@ -41617,6 +41683,7 @@
 15593|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu Season 2 Part 2
 11370|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu Shin Henshuuban
 13430|3|x-jat|re:zero ova
+17947|2|en|Re:Zero Season 3
 1662|4|ja|Re:キューティーハニー
 14192|4|ja|Re:ステージ! ドリームデイズ♪
 11370|4|ja|Re:ゼロから始める異世界生活
@@ -51493,6 +51560,7 @@
 7927|2|zh|Tiě shàn gōngzhǔ
 104|2|vi|Tiếng gọi từ vì sao xa
 1544|4|vi|Tiếng hát yêu nhân
+17480|4|es-419|Tierra, sangre, conocimiento: Sobre el movimiento de la Tierra
 17480|4|es|Tierra, sangre, conocimiento: Sobre el movimiento de la Tierra
 558|4|vi|Tiểu Thần Zenki
 5062|4|de|Tiffel & Taffel
@@ -58170,6 +58238,7 @@
 4411|2|ru|Благородный демон Эмма
 15795|4|ru|Благословлённое лунным светом приключение в другом мире
 361|2|uk|Блакитна номер 6
+18278|4|uk|Блакитна скринька
 15993|4|uk|Блакитний період
 4158|2|bg|Бледа какавида
 4158|2|ru|Бледный кокон
@@ -62294,6 +62363,7 @@
 4325|2|he|דמעות אמיתיות
 231|2|he|דרגון בול
 11210|4|he|דרגון בול סופר
+18278|4|he|האולם הכחול
 1061|4|he|האסופית
 12235|4|he|האקדמיה למכשפות קטנות
 3652|2|he|הגבירה ג`ורג`י
@@ -62884,6 +62954,7 @@
 8122|4|ar|الشجعان السبعة
 13545|4|ar|الصبي ومالك الحزين
 6322|2|ar|الصديقة الكهرومغناطيسية
+18278|4|ar|‎الصندوق الأزرق
 2858|4|ar|الصياد
 2233|4|ar|الصياد الجرئ
 3077|4|ar|الضربة الصاعقة
@@ -63194,6 +63265,7 @@
 9515|4|fa|داستان شاهزاده خانم کاگویا
 2879|4|fa|داستان شجاعت
 2300|2|fa|داستان های آلپ: آنت من
+18290|4|ar|داندادان
 2433|4|ar|دايس
 7903|2|fa|دختر الکترو مغناطیسی و پسر نوجوان
 10404|4|fa|دختران طبیعی دبیرستان
@@ -64013,6 +64085,7 @@
 13293|4|te|వోటాకోయ్: లవ్ ఇస్ హార్డ్ ఫర్ ఓటాకు
 13844|4|th|ก็บอกว่าขอแค่ค่าเฉลี่ยไงล่ะคะ
 4151|4|th|กระโดดจัมพ์ ทะลุข้ามเวลา
+18278|4|th|กล่องรักวัยใส
 13734|4|th|ก๊วนป่วนชวนบุ๋งๆ
 4326|2|th|กะคุเอง เฮฟเว่น
 496|4|th|กันดั้มวิง เอนเลสวอลซ์
@@ -64142,6 +64215,7 @@
 16164|4|th|ดอกเตอร์สโตน ภาคพิเศษ
 8181|4|th|ดอกไม้ มิตรภาพ และ ความทรงจำ
 1002|2|th|ดอกไม้เพชฌฆาต
+18290|4|th|ดันดาดัน
 14107|4|th|ดาบพิฆาตอสูร
 15113|4|th|ดาบพิฆาตอสูร เดอะมูฟวี่ : ศึกรถไฟสู่นิรันดร์
 17198|4|th|ดาบพิฆาตอสูร ภาคหมู่บ้านช่างตีดาบ
@@ -65065,6 +65139,7 @@
 9555|3|ko|단간론파
 11804|4|ko|단간론파 3 -The End of 키보가미네 학원 - 미래편
 12035|4|ko|단간론파 3 -The End of 키보가미네 학원 - 절망편
+18290|4|ko|단다단
 10480|2|ko|단칸방의 침략자!?
 7939|4|ko|단탈리안의 서가
 8214|2|ko|달려라 마징가 X
@@ -65224,6 +65299,7 @@
 580|4|ko|라제폰
 8333|2|ko|란→셈 백탁 모델 아내의 미라 잡기
 4576|4|ko|란마 1/2
+18700|4|ko|란마1/2 (2024)
 10856|2|ko|란스01: 빛을 찾아서
 1207|2|ko|란제리 오피스
 2034|2|ko|란제리 전사 파피용 로제
@@ -67062,6 +67138,7 @@
 8926|4|ko|쥬블스
 13750|4|ko|즐겁게 놀아보세
 14127|4|ko|즐겁게 놀아보세: 코스프레 대회 / 어른인 나에게
+17480|4|ko|지. －지구의 운동에 대하여
 5039|4|ko|지구로
 428|2|ko|지구방위기업 다이가드
 17297|2|ko|지금까지 제일 좋았던 섹스
@@ -67546,6 +67623,7 @@
 9208|4|ko|표적이 된 학원
 9905|4|ko|푸른 강철의 아르페지오
 2667|2|ko|푸른 고백
+18278|4|ko|푸른 상자
 5897|2|ko|푸른 요정
 9445|4|ko|푸치마스!
 10135|4|ko|푸치마스!!
@@ -68482,6 +68560,7 @@
 16495|4|ja|インセクトランド
 1153|2|ja|インターステラ5555：THE 5TORY OF THE 5ECRET 5TAR 5YSTEM
 1645|4|ja|インタールード
+18944|4|ja|インドアな千葉ニュー女子の私にすぐからんでくる木下男子がやたらウザイ
 14564|2|ja|インフィニット・デンドログラム
 12034|2|ja|インフィニティーフォース
 4220|4|ja|インフェリウス惑星戦史外伝 CONDITION GREEN
@@ -76249,6 +76328,7 @@
 10949|4|zh-Hans|乱步奇谭
 10949|4|ja|乱歩奇譚 Game of Laplace
 4576|4|zh-Hans|乱马1/2
+18700|4|zh-Hans|乱马1/2 (2024)
 193|4|zh-Hans|乱马1/2 热斗篇
 2995|4|zh-Hans|乱马1/2 苏醒的记忆
 6141|4|zh-Hans|乱马1/2特别篇 恶梦!春眠香
@@ -76256,6 +76336,7 @@
 1687|4|ja|乳母
 10236|4|ja|乳色吐息
 4576|4|zh-Hant|亂馬1/2
+18700|4|zh-Hant|亂馬1/2 (2024)
 193|4|zh-Hant|亂馬1/2 熱鬥篇
 7171|4|ja|予算政治
 17320|2|zh-Hans|事与愿违的不死冒险者
@@ -78822,6 +78903,7 @@
 9376|4|zh-Hans|在这世界的角落
 15095|4|zh-Hant|在魔王城說晚安
 15095|4|zh-Hans|在魔王城说晚安
+17480|4|zh-Hant|地。－關於地球的運動
 17480|4|zh-Hans|地。―关于地球的运动―
 4528|2|zh-Hans|地上最强的新娘
 10394|4|ja|地下すぎアイドル あかえちゃん
