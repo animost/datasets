@@ -1,4 +1,4 @@
-# created: Fri Oct 25 03:00:02 2024
+# created: Sat Oct 26 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -18526,6 +18526,7 @@
 3541|3|x-jat|grgg
 6634|1|x-jat|Grick no Bouken
 17037|1|x-jat|Gridman Universe
+17037|4|en|Gridman Universe
 17037|2|ja|GRIDMAN×DYNAZENON
 9749|3|x-jat|GriKaji
 15891|4|ja|GRIM
@@ -32357,6 +32358,7 @@
 29|2|tr|Melek Tapınağı
 7048|1|x-jat|Mellow
 1161|3|x-jat|Mellowlink
+1161|2|pt|Mellowlink o Caçador de Armaduras
 3395|2|lv|Melnā Lagūna
 6048|2|lv|Melnais Virssulainis
 4416|2|lv|Melno Asiņu Brāļi
@@ -36718,7 +36720,7 @@
 1815|2|fr|Objectif planète Terre
 18145|4|en|Oblivion Battery
 6299|4|en|Oblivion Island: Haruka and the Magic Mirror
-11982|4|pl|Oblubienica czarnoksiężnika
+11982|2|pl|Oblubienica czarnoksiężnika
 7284|1|x-jat|Obocchama-kun
 7324|2|en|Obscene Campus Dreams
 2519|2|en|Obscene Prison Ward
@@ -84506,6 +84508,7 @@
 12685|4|zh-Hant|漂流武士
 12685|4|zh-Hans|漂流武士 第二季
 10181|2|zh-Hans|漆黑的子弹
+10181|2|zh-Hant|漆黑的子彈
 12547|4|zh-Hans|漆黑的射干
 12547|4|ja|漆黒のシャガ THE ANIMATION
 17203|4|ja|漣蒼士に純潔を捧ぐ
@@ -87461,6 +87464,7 @@
 864|4|zh-Hans|虎头假面
 5910|2|zh-Hans|虎子
 8293|4|zh|虎王归来
+5909|2|zh-Hant|虎與龍
 11971|4|zh-Hans|虎面人W
 18905|4|zh-Hans|虎鹤妖师录
 4860|2|zh-Hans|虐杀姬
@@ -90438,6 +90442,7 @@
 233|4|zh-Hant|龍珠GT
 1530|4|zh-Hant|龍珠二世
 11484|4|ja|龍神沼
+5909|2|zh-Hant|龍與虎
 303|4|zh-Hant|龍貓
 8037|4|ja|龍馬 30 Seconds
 9251|4|zh-Hans|龙 -RYO-
