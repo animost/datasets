@@ -1,4 +1,4 @@
-# created: Sat Oct 26 03:00:01 2024
+# created: Sun Oct 27 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -11462,10 +11462,12 @@
 1319|2|x-jat|Divergence Eve 2
 1319|4|en|Divergence Eve: Misaki Chronicles
 12327|4|es|Divina Juventud
+18945|2|en|Divine Dao Emperor
 18932|2|en|Divine Dragon Star Lord
 11266|1|x-jat|Divine Gate
 11266|4|en|Divine Gate
 11266|4|fr|Divine Gate
+18945|4|en|Divine Lord of the Heavens
 862|2|en|Divine Love
 9298|2|fr|Divine Nanami
 1277|2|en|Divine Punishment: Angel Rabbie OVA
@@ -24181,6 +24183,7 @@
 1434|4|es|Juegos calientes
 18071|2|x-zht|Jueshi Tangmen
 16612|1|x-zht|Jueshi Wu Hun
+16612|2|x-zht|Jueshi Wuhun
 18604|1|x-zht|Jueshi Zhan Hun
 2078|2|hu|Juharfalva lakói
 14843|4|ja|Juicy Jungle
@@ -44713,7 +44716,7 @@
 15412|2|x-jat|Sex Friend Osananajimi: Shojo to Doutei wa Hazukashii tte Minna ga Iu kara The Animation
 1642|2|x-jat|Sex Friends
 9401|2|en|Sex Friends Convenience?
-18672|1|x-jat|Sex ga Suki de Suki de Daisuki na Classmate no Ano Musume
+18672|1|x-jat|Sex ga Suki de Suki de Daisuki na Classmate no Ano Ko
 6117|2|en|Sex Hypnotist 2
 9785|2|en|Sex Hypnotist Zero
 18168|2|en|Sex Is Part of Undercover Agents` Job?
@@ -44916,6 +44919,7 @@
 16041|1|x-zht|Shan He Jian Xin
 14766|2|x-zht|Shan He She Ji Tu
 15214|1|x-zht|Shan Liang De Xia Wu Dong
+18946|1|x-zht|Shan Shantian Tianjian
 11939|2|x-zht|Shan Shui Qing
 11296|2|x-zht|Shan T Laofuzi
 5145|3|x-jat|SHANA 2
@@ -45053,6 +45057,7 @@
 18590|1|x-zht|Shen Zhi Yi Jiao
 18590|2|x-zht|Shen Zhiyi Jiao
 15237|1|x-zht|Shenbi
+18945|1|x-zht|Shendao Dizun
 13772|1|x-zht|Sheng Shi Zhuang Niang
 13406|1|x-zht|Sheng Xiao Chuan Qi
 18446|1|x-zht|Sheng Zu
@@ -46510,6 +46515,7 @@
 2745|3|x-jat|SO
 14201|4|en|So I`m a Spider, So What?
 5576|2|en|So Long Mr. Despair Extreme
+18007|2|ja|So Low
 13925|2|en|So Many Colors in the Future What a Wonderful World
 18007|1|x-jat|So_low
 18007|4|ja|so_low
@@ -56689,6 +56695,8 @@
 16638|1|x-zht|Youxia Zhan Ji
 16638|2|x-zht|Youxia Zhanji
 4114|1|x-jat|Youyou no Neko Tsumami
+16984|3|x-jat|Yowai 5000-nen no Soushoku Dragon
+18258|3|x-jat|Yowai 5000-nen no Soushoku Dragon Season 2
 16984|2|x-jat|Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei
 18258|2|x-jat|Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei Season 2
 11605|1|x-jat|Yowai Mushi
@@ -74600,6 +74608,7 @@
 17073|2|ja|マブラヴ オルタネイティヴ (2022)
 8549|2|ja|マブラヴ オルタネイティヴ トータル・イクリプス
 1057|4|ja|まぶらほ
+18282|3|ja|まほあく
 11691|3|ja|まほいい
 12317|3|ja|まほいい 2
 15132|5|ja|まほうかこうこうのれっとうせい らいほうしゃへん
@@ -80691,6 +80700,7 @@
 3616|4|ja|山太郎かえる
 5467|4|ja|山姫の実
 8322|4|ja|山姫の花 真穂
+18946|4|zh-Hans|山山田田间
 11939|2|zh-Hant|山水情
 11939|4|zh-Hans|山水情
 16041|4|zh-Hans|山河剑心
@@ -86025,6 +86035,7 @@
 5720|4|zh-Hant|神薙
 18360|4|zh-Hans|神藏
 17925|4|zh-Hans|神选
+18945|4|zh-Hans|神道帝尊
 15400|4|ja|神達に拾われた男
 16364|4|ja|神達に拾われた男2
 15117|4|ja|神酒ノ尊~絆の物語~
@@ -89334,6 +89345,7 @@
 18561|4|ja|青の祓魔師 雪ノ果篇
 8689|4|ja|青の祓魔師[エクソシスト] -劇場版-
 361|2|zh-Hans|青之6号
+18193|4|zh-Hans|青之壬生浪
 7056|2|zh-Hans|青之文学系列 人间失格篇
 18278|2|zh-Hans|青之箱
 16358|4|zh-Hans|青之芦苇
