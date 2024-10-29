@@ -1,4 +1,4 @@
-# created: Sun Oct 27 03:00:01 2024
+# created: Mon Oct 28 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6180,6 +6180,7 @@
 14968|1|x-jat|Bokutachi wa Benkyou ga Dekinai!
 16111|1|x-jat|Bokutachi wa Benkyou ga Dekinai!: Chapel no Kane wa [X] o Shukufuku Suru
 327|3|x-jat|bokutama
+18518|3|x-jat|bokutsuma
 17547|3|x-jat|bokuyaba
 18066|3|x-jat|BokuYaba 2
 18890|3|x-jat|bokuyaba movie
@@ -12863,6 +12864,7 @@
 3476|2|en|Drop
 11719|1|x-jat|Drop Out
 11719|2|fr|Drop Out : l’abandon de soi
+18896|2|en|Drop-in Gyaru Lets Me Use Her Pussy
 18024|2|en|Dropkick on My Devil! "Apocalypse Arc"
 13637|4|en|Dropkick on My Devil!!
 14623|2|en|Dropkick on My Devil!! 2
@@ -46016,6 +46018,7 @@
 5885|1|x-jat|Silent Chaser Kagami
 5885|2|ko|SILENT CHASER 카가미
 5885|4|ja|SILENT CHASER 狩神
+16582|2|en|Silent House
 455|2|en|Silent Mebius
 455|1|x-jat|Silent Mobius
 455|4|pt-BR|Silent Mobius
@@ -51073,6 +51076,8 @@
 11744|6|x-jat|The Sound of Tiger & Bunny: Too Many Cooks Spoil the Broth. - Sendou Ooku Shite Fune Yama ni Noboru
 1177|2|en|The Southern Cross
 18469|4|en|The Sovereign`s Ascension
+18947|2|en|The Sovereign`s Ascension 2
+18947|2|en|The Sovereign`s Ascension 2nd Season
 793|2|en|The Space Between
 1833|2|en|The Space Sagittarius
 18042|2|en|The Spagiric Master
@@ -56347,6 +56352,9 @@
 15248|2|x-zht|Yinyang Shi: Pingan Wuyu Di Er Ji
 18461|2|x-zht|Yiren Jun Moxie
 18469|1|x-zht|Yishi Du Zun
+18947|2|x-zht|Yishi Du Zun 2
+18947|1|x-zht|Yishi Du Zun 2nd Season
+18947|2|x-zht|Yishi Du Zun Di Er Ji
 18465|1|x-zht|Yishi Zhi Zun
 2429|3|x-jat|YJ
 5307|1|x-jat|YJ Ban Lemon Angel
@@ -64295,6 +64303,7 @@
 35|2|th|บ้านพักอลเวง
 16801|4|th|บ้านล่องลอย
 13536|4|th|บานาน่าฟิช
+11233|4|th|บาฮามุท มังกรเหล็กไร้พ่าย
 2391|4|th|บี๊ท นักล่าอสูร
 3703|4|th|บี๊ท นักล่าอสูร เอ็กซ์เซลเลี่ยน
 14659|4|th|บีสตาร์
@@ -75827,6 +75836,7 @@
 18465|4|zh-Hans|一世之尊
 14860|2|zh-Hans|一世倾城
 18469|4|zh-Hans|一世独尊
+18947|4|zh-Hans|一世独尊 第二季
 13989|4|zh-Hans|一个人的○○小日子
 12200|4|zh-Hans|一人之下
 12200|4|ja|一人之下 THE OUTCAST
