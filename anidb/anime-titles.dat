@@ -1,4 +1,4 @@
-# created: Mon Oct 28 03:00:01 2024
+# created: Tue Oct 29 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -7798,7 +7798,12 @@
 7446|1|x-jat|Chi-Sui Maru
 8759|1|x-jat|Chi-Sui Maru 2nd Season
 5801|4|fr|Chi, une vie de chat
+17480|4|hu|Chi: A Föld mozgása
 17480|2|en|Chi: About the Movement of the Earth
+17480|4|hr|Chi: O kretanju Zemlje
+17480|4|cs|Chi: O pohybu Země
+17480|4|vi|Chi: Về sự chuyển động của Địa Cầu
+17480|4|el|Chi: Σχετικά με τις Κινήσεις της Γης
 17480|1|x-jat|Chi. Chikyuu no Undou ni Tsuite
 12103|2|tr|Chi`nin Sevimli Macerası
 6452|4|en|Chi`s New Address
@@ -12920,6 +12925,7 @@
 18489|2|x-zht|Du Bu Wan Gu Di Er Ji
 15679|2|x-zht|Du Bu Xiao Yao
 14868|1|x-zht|Du Dang Man
+17480|4|fr|Du mouvement de la Terre
 18897|1|x-zht|Du Shi Gu Xian Yi
 15540|4|vi|Đứa con của tháng các vị thần
 14534|4|vi|Đứa con của thời tiết
@@ -22598,6 +22604,7 @@
 303|4|it|Il mio vicino Totoro
 40|2|it|Il mistero della pietra azzurra
 17870|4|it|Il Monologo della Speziale
+17480|4|it|Il movimento della Terra
 2314|4|it|Il paese del c`era una volta
 1476|4|it|Il paradiso delle dee
 10272|2|it|Il Parassita
@@ -25586,6 +25593,7 @@
 11569|1|x-jat|Ketsuekigata-kun! 3
 11826|1|x-jat|Ketsuekigata-kun! 4
 7452|1|x-jat|Ketsuinu
+17480|4|de|Ketzer – Tödliches Wissen über die Bewegung der Erde
 302|3|x-jat|key
 302|4|pt|Key - O Ídolo Metálico
 302|4|de|Key - The Metal Idol
@@ -34266,6 +34274,7 @@
 71|1|x-jat|Musekinin Kanchou Tylor: Tokubetsu Hen - Hitoribocchi no Sensou
 3344|2|x-jat|Musha Kishi Commando SD Gundam Kinkyuu Shutsugeki
 3344|1|x-jat|Musha Knight Commando: SD Gundam Scramble
+18949|1|x-zht|Mushen Ji
 3433|3|x-jat|Mushi
 10991|3|x-jat|mushi movie
 13136|1|x-jat|Mushi no Tameiki
@@ -34441,6 +34450,7 @@
 4272|2|x-jat|My Father`s Dragon
 4190|4|en|My Favorite Fairy Tales
 7051|2|en|My Favorite Fairy Tales (2)
+18948|2|en|My Female Disciples Are Big Cheeses
 12554|4|en|My First Girlfriend Is a Gal
 15387|2|en|My Former Delinquent Stepsister is A Nursing Mother
 10322|2|en|My Friend Bernard
@@ -37616,6 +37626,18 @@
 2383|4|fi|Oravan seikkailut
 11447|2|en|Orb Panic Adventure!
 17480|4|en|Orb: On the Movements of the Earth
+17480|4|no|Orb: On the Movements of the Earth
+17480|4|tl|Orb: On the Movements of the Earth
+17480|4|fi|Orb: On the Movements of the Earth
+17480|4|pt|Orb: On the Movements of the Earth
+17480|4|da|Orb: On the Movements of the Earth
+17480|4|id|Orb: On the Movements of the Earth
+17480|4|my|Orb: On the Movements of the Earth
+17480|4|ro|Orb: On the Movements of the Earth
+17480|4|tr|Orb: On the Movements of the Earth
+17480|4|sv|Orb: On the Movements of the Earth
+17480|4|nl|Orb: On the Movements of the Earth
+17480|4|pt-BR|Orbe: Sobre os Movimentos da Terra
 7185|4|fr|Orbital
 14991|1|x-jat|Orbital Era
 14991|4|ja|ORBITAL ERA
@@ -38095,6 +38117,7 @@
 6737|2|en|Over a Drink
 5072|2|ja|Over Drive
 5072|2|es|Over Drive
+18948|4|en|Over Goddess
 10816|2|ja|Over Lord
 17454|1|x-jat|Over the Rainbow
 17454|4|ja|OVER THE RAINBOW
@@ -39179,7 +39202,7 @@
 13537|2|tr|Piyanonun Ormanı (2018)
 3991|2|en|Piyoko Can Help You pyo!
 3991|1|x-jat|Piyoko ni Omakase pyo!
-12326|1|x-jat|PJ Berry no Mogumogu Munyamunya
+12326|1|x-jat|PJ Berri no Mogumogu Munyamunya
 12326|4|ja|PJベリーのもぐもぐむにゃむにゃ
 3145|3|x-jat|PKiss
 230|3|en|pkmn
@@ -44957,6 +44980,7 @@
 17501|4|fr|Shangri-La Frontier
 18578|4|en|Shangri-La Frontier (2024)
 18578|2|en|Shangri-La Frontier 2nd Season
+18578|2|en|Shangri-La Frontier Season 2
 17501|1|x-jat|Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su
 18578|1|x-jat|Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su (2024)
 18578|2|x-jat|Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su Season 2
@@ -52977,6 +53001,7 @@
 13814|1|x-zht|Tu Xia Chuanqi
 13815|1|x-zht|Tu Xia: Qing Li Chuanshuo
 1431|3|en|tuabw
+18948|1|x-zht|Tudi Ge Ge Shi Da Lao
 4151|4|et|Tüdruk, kes hüppas läbi aja
 14534|4|et|Tüdruk, kes muutis ilma
 14740|1|x-jat|Tug-Tug
@@ -61006,6 +61031,7 @@
 18663|2|ru|Причина полюбить её: Экстра
 10273|4|bg|Приятели за седмица
 15772|2|uk|Пріоритет диво-яйця
+17480|4|uk|Про рух Землі
 7115|4|ru|Провал великого плана
 15002|4|ru|Продюсер и любовь: EVOL×LOVE
 4374|4|ru|Проект «Земля SOS»
@@ -62602,6 +62628,7 @@
 1949|4|he|עוגי דוגי
 1949|2|he|עוגידוגי
 11177|4|he|עיר אקדמיית הקרבות אסטריסק
+17480|4|he|על תנועת כדור הארץ
 4781|2|he|עלובי החיים
 2247|4|he|עלילות בבאי
 2744|4|he|עליסה בארץ הפלאות
@@ -63790,6 +63817,7 @@
 9268|4|ar|متاهة السحر
 1783|2|ar|مجتمع دراسة الثقافة المرئية الحديثة
 2854|2|ar|محاربو طوكيو العشرة
+17480|4|ar|محاكم التفتيش ودوران الأرض
 6438|2|ar|محب الأميرات
 6788|4|ar|محققو الحيوانات
 6788|2|ar|محققوا الحيوانات كيرومينزو
@@ -64495,6 +64523,7 @@
 4046|4|th|สึบาสะ สงครามเทพข้ามมิติ ปี 2
 4420|3|th|สึโยคิส
 16012|4|th|สุขาวดีอเวจี
+17480|4|th|สุริยะปราชญ์ ทฤษฎีสีเลือด
 332|2|th|สุสานหิ่งห้อย
 4222|2|th|สูตรรักฉบับนักเรียน เทอม 2
 17564|4|th|สูตรลับตำรับดันเจียน
@@ -81171,6 +81200,7 @@
 199|4|ja|彼氏彼女の事情
 17038|4|ja|後宮の烏
 17038|2|zh-Hant|後宮之烏
+18948|4|zh-Hans|徒弟个个是大佬
 12814|4|zh-Hans|徒然Children
 12814|4|ja|徒然チルドレン
 18247|4|zh-Hant|從Lv2開始開外掛的前勇者候補過著悠哉異世界生活
@@ -84979,6 +85009,7 @@
 6547|4|ja|牝教師 淫辱の教室
 11474|4|ja|牝教師4 ~穢された教壇~
 2299|4|ja|牧場の少女カトリ
+18949|4|zh-Hans|牧神记
 11949|4|zh-Hans|牧笛
 16976|4|zh-Hans|物之古物奇谭
 5052|2|zh-Hans|物怪
