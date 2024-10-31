@@ -1,4 +1,4 @@
-# created: Tue Oct 29 03:00:02 2024
+# created: Wed Oct 30 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -7661,6 +7661,7 @@
 8785|2|x-zht|Chang Jiang 7 Hao: Ai Diqiu
 8785|2|x-zht|Chang Jiang Qi Hao: Ai Diqiu
 4917|2|vi|Chàng quản gia
+18950|1|x-zht|Chang Sheng Jie
 16587|2|en|Chang’an The Fantasy Street
 949|2|en|Change!! Getter Robo
 949|1|x-jat|Change!! Getter Robo: Sekai Saigo no Hi
@@ -24991,6 +24992,7 @@
 2142|3|x-jat|kannamiko
 2142|3|x-jat|kannazuki
 2142|1|x-jat|Kannazuki no Miko
+18951|1|x-jat|Kanojo Face The Animation
 9524|1|x-jat|Kanojo ga Flag o Oraretara
 10665|1|x-jat|Kanojo ga Flag o Oraretara: Christmas? Sonna Mono ga Boku ni Tsuuyou Suru to Omou no ka?
 9524|2|x-jat|Kanojo ga Flag wo Oraretara
@@ -30468,6 +30470,7 @@
 15359|2|fi|Made in Abyss: Auringon paahtama kultainen kaupunki
 13612|4|en|Made in Abyss: Dawn of the Deep Soul
 15359|4|de|Made in Abyss: Die Goldene Stadt der sengenden Sonne
+13612|4|es|Made in Abyss: El amanecer del Alma Profunda
 15359|4|es|Made in Abyss: La ciudad dorada del sol abrasador
 15359|1|x-jat|Made in Abyss: Retsujitsu no Ougonkyou
 13612|4|de|Made in Abyss: Seelen der Finsternis
@@ -34791,7 +34794,6 @@
 11163|3|x-jat|nagatoyuki ova
 10815|3|x-jat|nagatoyukichan
 11163|3|x-jat|nagatoyukichan ova
-18498|3|x-jat|nageki
 18498|1|x-jat|Nageki no Bourei wa Intai Shitai
 158|1|x-jat|Nageki no Kenkou Yuuryouji
 9387|1|x-jat|Nagi no Asukara
@@ -48846,6 +48848,7 @@
 13442|2|en|Tales of Exorcism
 8942|1|x-jat|Tales of Gekijou
 10159|2|en|Tales of Greenery
+18949|4|en|Tales of Herding Gods
 14250|2|x-jat|Tales of Homeroom
 14250|1|x-jat|Tales of HR
 307|2|en|Tales of Little Monica
@@ -48859,6 +48862,7 @@
 1374|4|fr|Tales of Phantasia - The Animation
 1374|4|en|Tales of Phantasia - The Animation
 1374|1|x-jat|Tales of Phantasia The Animation
+18949|2|en|Tales of Qin Mu
 1609|4|en|Tales of Seduction
 790|2|en|Tales of Sintillation
 4548|2|x-jat|Tales of Symphonia
@@ -50168,6 +50172,7 @@
 3606|2|en|The Era of the Great Dinosaurs
 5175|4|en|The Erotic Adventures of Tom Thumb
 2862|4|en|The Eternal Aseria
+18950|2|en|The Eternal Realm
 18284|2|en|The Eternal Strife
 896|2|en|The Eternity You Wish For
 8400|2|en|The Evening Traveling
@@ -55477,6 +55482,7 @@
 7154|2|en|World Masterpiece Theater Complete Edition: The Trapp Family Story
 7157|2|en|World Masterpiece Theater Complete Edition: Tico & Friends
 12947|2|en|World of Dark Encyclopedia
+18950|4|en|World of Immortals
 16069|2|en|World of Leadale
 12709|2|en|World of Super Sand Box: Being the Reality
 2640|2|en|World of the Talisman
@@ -81186,6 +81192,7 @@
 11874|4|ja|彼女と彼女の猫 -Everything Flows-
 11900|4|ja|彼女はゾンビ
 10915|4|ja|彼女は誰とでもセックスする.
+18951|4|ja|彼女フェイス THE ANIMATION
 3118|4|ja|彼岸
 12465|4|ja|彼岸島X
 15107|4|zh-Hant|彼得・格里爾的賢者時間
@@ -89007,6 +89014,7 @@
 16587|4|zh-Hans|长安幻街
 3620|4|zh-Hans|长崎1945 天使之钟
 8785|4|zh-Hans|长江7号爱地球
+18950|4|zh-Hans|长生界
 11163|4|zh-Hans|长门有希的消失 无法结束的暑假
 10815|4|zh-Hans|长门有希酱的消失
 11201|4|zh-Hans|长骑美眉
