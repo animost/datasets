@@ -1,4 +1,4 @@
-# created: Wed Oct 30 03:00:01 2024
+# created: Thu Oct 31 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3086,6 +3086,7 @@
 5154|4|en|Aquatic
 4346|4|en|Aquatic Language
 15987|2|en|Aquatope of White Sand
+16776|2|pt|Aquela Vez Que Reencarnei Como Uma Lesma o Filme: Ligação Escarlate
 4156|3|en|ar tonelico
 4156|2|en|Ar tonelico: The Girl Who Sings at the End of the World
 4156|3|x-jat|Ar-Tonelico
@@ -21382,6 +21383,8 @@
 14137|2|x-zht|Hongmao Lantu Chuang Taikong
 14154|2|en|Hongmao Lantu Sidequels: Tiao-tiao the Guardian
 15549|2|x-jat|Honkai 3rd: Saigo no Jugyou
+15550|2|en|Honkai Impact 3 The Animation - Cyberangel ZERO Exception
+15548|2|en|Honkai Impact 3 The Animation - Will of the Herrscher
 15550|2|en|Honkai Impact 3: Angel Refactoring
 15552|2|en|Honkai Impact 3: Awakening of Dark Seele
 15553|2|en|Honkai Impact 3: Bronia
@@ -22031,6 +22034,7 @@
 3050|4|it|I bon bon magici di Lilly
 79|2|it|I Cacciatori di Elfi
 7467|1|x-jat|I Can
+18953|2|en|I Can Have Infinite Enlightenment
 335|2|en|I can hear the ocean
 335|2|en|I Can Hear the Sea
 15985|2|en|I can`t reach you, far away.
@@ -25604,6 +25608,7 @@
 302|1|x-jat|Key the Metal Idol
 302|4|fr|Key the Metal Idol
 302|4|en|Key the Metal Idol
+18952|2|en|Keyboard Immortal
 251|3|x-jat|kg
 4999|3|x-jat|KGA
 896|3|x-jat|kgne
@@ -28267,8 +28272,11 @@
 7258|4|sv|Lånaren Arrietty
 10622|1|x-jat|Lance N` Masques
 10622|4|en|Lance N` Masques
+18952|2|en|Land Key Fairy
+18952|2|en|Land Key Immortal
 1732|2|ja|LAND LOCK
 17474|2|en|Land of Gold, Land of Water
+18952|2|en|Land of the Keyboard Immortal
 13165|4|en|Land of the Lustrous
 15402|2|en|Landlady and Me
 1732|1|x-jat|Landlock
@@ -29743,6 +29751,7 @@
 534|3|en|lstd
 4777|3|x-jat|LSTV
 403|3|x-jat|LU
+18952|2|zh-Hant|Lu Di Jian Xian
 12738|4|it|Lu e la città delle sirene
 15238|1|x-zht|Lu He Niu
 14373|2|x-zht|Lu Lan Beryl and Sapphire
@@ -29781,6 +29790,7 @@
 2301|4|pl|Lucy May
 2301|4|en|Lucy of the Southern Rainbows
 2301|2|en|Lucy-May of the Southern Rainbow
+18952|1|x-zht|Ludi Jian Xian
 11594|1|x-jat|Luger Code 1951
 9894|2|x-zht|Lulin Da Maoxian
 14541|2|x-zht|Lulin Da Maoxian: Tangguo Shijie
@@ -55310,6 +55320,7 @@
 18468|1|x-zht|Wo Jian Qile Yi Di Shuxing
 14781|1|x-zht|Wo Jiao Bai Xiao Fei
 15508|1|x-zht|Wo Kai Dongwuyuan Naxie Nian
+18953|1|x-zht|Wo Neng Wuxian Dunwu
 16630|2|x-zht|Wo Qi Ku Le Baiwan Xiulianzhe
 16630|2|x-zht|Wo Qi Ku Liao Bai Wan Xiulian Zhe
 16630|1|x-zht|Wo Qi Ku Liao Baiwan Xiulian Zhe
@@ -81897,6 +81908,7 @@
 15415|4|zh-Hant|我立於百萬生命之上
 10970|4|zh-Hans|我老婆是学生会长
 11901|4|zh-Hans|我老婆是学生会长!+!
+18953|4|zh-Hans|我能无限顿悟
 5435|4|zh-Hans|我自己；你自己
 10729|4|zh-Hans|我被绑架到贵族女校当“庶民样本”
 18266|2|zh-Hans|我要【招架】一切〜反误解的世界最强想成为冒险者〜
@@ -89168,6 +89180,7 @@
 15587|4|zh-Hans|阿雅与魔女
 17646|4|zh-Hans|阿鲁斯的巨兽
 444|4|zh-Hans|陆上防卫队
+18952|4|zh-Hans|陆地键仙
 1663|4|zh-Hans|陆奥圆明流外传 修罗之刻
 13442|4|zh-Hans|降灵记
 8543|4|ja|限りなき楽園
