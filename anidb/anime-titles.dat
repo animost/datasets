@@ -1,4 +1,4 @@
-# created: Thu Oct 31 03:00:01 2024
+# created: Fri Nov  1 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5037,6 +5037,7 @@
 98|4|pl|Berserk
 98|4|de|Berserk
 11851|1|x-jat|Berserk
+98|4|es-419|Berserk
 7991|4|it|Berserk - L`epoca d`oro
 7991|4|es|Berserk - La Edad de Oro
 7991|4|fr|Berserk : l`Âge d`or
@@ -19308,8 +19309,10 @@
 11040|2|en|Haikyu!! Movie 1
 11040|4|de|Haikyu!! Movie 1 - Ende und Anfang | Haikyu!! Movie 2 - Gewinner und Verlierer
 12982|4|de|Haikyu!! Movie 3 und 4
+17570|2|en|Haikyu!! Movie: The Dumpster Battle
 10954|4|de|Haikyu!! OADs
 10954|4|en|Haikyu!! OADs
+17570|2|en|HAIKYU!! The Dumpster Battle
 14552|4|en|Haikyu!! To the Top
 14552|4|de|Haikyu!! To the Top
 15283|4|de|Haikyu!! To the Top - Cour 2
@@ -19327,6 +19330,7 @@
 10981|4|pt|Haikyuu!! II
 11991|1|x-jat|Haikyuu!! Karasuno Koukou vs Shiratorizawa Gakuen Koukou
 13332|1|x-jat|Haikyuu!! Karasuno Koukou vs Shiratorizawa Gakuen Koukou: Tokushuu! Haru Kou Volley ni Kaketa Seishun
+17570|2|x-jat|Haikyuu!! Movie: Gomisuteba no Kessen
 12982|2|en|Haikyuu!! Movies 3-4
 16162|1|x-jat|Haikyuu!! Ningyou Anime
 15045|2|x-jat|Haikyuu!! Riku vs Kuu
@@ -19334,6 +19338,7 @@
 14552|1|x-jat|Haikyuu!! To the Top
 15283|1|x-jat|Haikyuu!! To the Top (2020)
 15283|2|en|Haikyuu!! To the Top 2
+17570|2|x-jat|Haikyuu!!: Gomi Suteba no Kessen
 15283|2|en|Haikyuu!!: To the Top 2nd Season
 10145|3|x-jat|Haikyuu1
 10981|3|x-jat|Haikyuu2
@@ -22020,6 +22025,10 @@
 18899|2|en|I Admire Magical Girls, and... 2
 6576|2|en|I Am a Cat
 15860|2|en|I Am a Great God
+18954|2|en|I Am a Great God 2
+18954|2|en|I Am a Great God 2nd Season
+18955|2|en|I Am a Great God 3
+18955|2|en|I Am a Great God 3rd Season
 14781|2|en|I am Bai Xiaofei
 18541|2|en|I Am Behemoth of the S Rank Monster, but I Am Mistaken as a Cat and I Live as a Pet of Elf Girl
 2105|2|en|I Am Hanitarou
@@ -22644,6 +22653,7 @@
 17379|1|x-jat|Ima demo Senchou to Yobarete iru Senchou no Yoru
 12005|1|x-jat|Ima kara Atashi......
 12453|1|x-jat|Ima no Watashi ni Dekiru Koto...
+18666|2|x-jat|Ima Ria
 11119|1|x-jat|Ima, Futari no Michi
 114|1|x-jat|Ima, Soko ni Iru Boku
 114|2|x-jat|Ima, Sokoni Iru Boku
@@ -55327,7 +55337,12 @@
 17137|1|x-zht|Wo Shi Bu Bai Chi
 15860|2|x-zht|Wo Shi Da Shen Xian
 15860|1|x-zht|Wo Shi Da Shenxian
-15860|2|x-zht|Wo Shi Da Shenxian Di Er Ji
+18954|1|x-zht|Wo Shi Da Shenxian 2
+18954|2|x-zht|Wo Shi Da Shenxian 2nd Season
+18955|1|x-zht|Wo Shi Da Shenxian 3
+18955|2|x-zht|Wo Shi Da Shenxian 3rd Season
+18954|2|x-zht|Wo Shi Da Shenxian Di Er Ji
+18955|2|x-zht|Wo Shi Da Shenxian Di San Ji
 15860|6|x-zht|Wo Shi Da Shenxian Xian Kao Pian
 13737|1|x-zht|Wo Shi Jiang Xiaobai
 14673|1|x-zht|Wo Shi Jiang Xiaobai Di Er Ji
@@ -70361,6 +70376,7 @@
 7884|4|ja|コイ☆セント
 8822|4|ja|こいけん! ~私たちアニメになっちゃった!~
 2831|4|ja|こいこい7
+14707|5|ja|こいするアステロイド
 15362|5|ja|こいとよぶにはきもちわるい
 11906|4|ja|こいなか -小田舎で初恋×中出しセクシャルライフ- THE ANIMATION
 14823|4|ja|こえだちゃん
@@ -77959,6 +77975,7 @@
 8337|2|ja|劇場版ハートの国のアリス
 11040|4|ja|劇場版ハイキュー!!
 17570|4|ja|劇場版ハイキュー!! FINAL
+17570|2|ja|劇場版ハイキュー!! ゴミ捨て場の決戦
 10783|2|ja|劇場版プリパラ
 12510|4|ja|劇場版プリパラ み~んなでかがやけ! キラリン☆スターライブ!
 10783|4|ja|劇場版プリパラ みーんなあつまれ! プリズム☆ツアーズ
@@ -80757,6 +80774,7 @@
 5467|4|ja|山姫の実
 8322|4|ja|山姫の花 真穂
 18946|4|zh-Hans|山山田田间
+4683|2|zh|山林小猎人
 11939|2|zh-Hant|山水情
 11939|4|zh-Hans|山水情
 16041|4|zh-Hans|山河剑心
@@ -81821,7 +81839,8 @@
 1560|4|zh-Hans|我是大哥大
 15860|4|zh-Hans|我是大神仙
 15860|6|zh-Hans|我是大神仙 仙考篇
-15860|2|zh-Hans|我是大神仙 第二季
+18955|4|zh-Hans|我是大神仙 第三季
+18954|4|zh-Hans|我是大神仙 第二季
 521|4|zh-Hans|我是小甜甜
 1863|4|zh-Hans|我是小甜甜 永远的再一次
 4602|4|zh-Hans|我是小甜甜 漫长的告别
