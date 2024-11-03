@@ -1,4 +1,4 @@
-# created: Fri Nov  1 03:00:02 2024
+# created: Sat Nov  2 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -25294,6 +25294,8 @@
 14600|1|x-jat|Kawauso Labo
 18339|4|x-jat|Kay-chan no Enikki
 18339|4|en|Kay`s Daily Doodles
+18956|2|en|Kaya-chan Isn`t Scary
+18956|1|x-jat|Kaya-chan wa Kowakunai
 12523|4|tr|Kayıp Şarkı
 8486|1|x-jat|Kayoe! Chuugaku
 3630|2|en|Kayoko`s Diary
@@ -25722,6 +25724,7 @@
 2009|1|x-jat|Kidou Senshi Gundam 0083: Zeon no Zankou
 8494|1|x-jat|Kidou Senshi Gundam AGE
 9719|1|x-jat|Kidou Senshi Gundam AGE: Memory of Eden
+18957|1|x-jat|Kidou Senshi Gundam ALC Encounter
 5252|1|x-jat|Kidou Senshi Gundam Double O
 5903|1|x-jat|Kidou Senshi Gundam Double O (2008)
 7183|1|x-jat|Kidou Senshi Gundam Double O Special Edition I: Celestial Being
@@ -25753,6 +25756,7 @@
 4758|1|x-jat|Kidou Senshi Gundam SEED Destiny: Sadame no Gouka
 4466|1|x-jat|Kidou Senshi Gundam SEED Destiny: Sorezore no Tsurugi
 14032|1|x-jat|Kidou Senshi Gundam SEED Freedom
+18958|1|x-jat|Kidou Senshi Gundam SEED Freedom Zero
 14032|2|x-jat|Kidou Senshi Gundam SEED Ignited
 2445|1|x-jat|Kidou Senshi Gundam SEED MSV ASTRAY
 4169|2|x-jat|Kidou Senshi Gundam SEED Special Edition I: Kokuu no Senjou
@@ -69569,6 +69573,7 @@
 17841|2|ja|ガメラ リバース
 2779|4|ja|カメレオン
 14283|4|ja|かもとりごんべえ
+18956|4|ja|カヤちゃんはコワくない
 8486|4|ja|かよえ! チュー学
 4651|4|ja|カラオケ戦士 マイク次郎
 18929|4|ja|カラオケ行こ!
@@ -83847,6 +83852,7 @@
 729|4|ja|機動戦士ガンダム (1981)
 716|4|ja|機動戦士ガンダム 0080 ポケットの中の戦争
 717|4|ja|機動戦士ガンダム 0083 スターダストメモリー
+18957|4|ja|機動戦士ガンダム ALC ENCOUNTER
 626|4|ja|機動戦士ガンダム F91
 5252|6|ja|機動戦士ガンダム MOBILE SUIT GUNDAM 00[ダブルオー]
 7408|6|ja|機動戦士ガンダム MOBILE SUIT GUNDAM 00[ダブルオー] -A wakening of the Trailblazer-
@@ -83917,6 +83923,7 @@
 4905|4|ja|機動戦士ガンダムSEED DESTINY 自由の代償
 4758|4|ja|機動戦士ガンダムSEED DESTINY 運命[さだめ]の業火
 14032|4|ja|機動戦士ガンダムSEED FREEDOM
+18958|4|ja|機動戦士ガンダムSEED FREEDOM ZERO
 14032|2|ja|機動戦士ガンダムSEED ignited
 2445|4|ja|機動戦士ガンダムSEED MSV ASTRAY
 4169|2|ja|機動戦士ガンダムSEED スペシャルエディション 虚空の戦場
