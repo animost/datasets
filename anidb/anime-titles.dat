@@ -1,4 +1,4 @@
-# created: Sat Nov  2 03:00:02 2024
+# created: Sun Nov  3 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -198,7 +198,7 @@
 10250|4|ko|`84 태권V
 10250|2|x-kot|`Pal-siip sa Taekwon V
 18082|4|en|`Tis Time for "Torture," Princess
-18566|2|en|`Tis Time for "Torture," Princess 2
+18566|4|en|`Tis Time for "Torture," Princess 2
 72|4|he|`איטמן 98
 2369|4|he|`בליץ
 11649|2|x-other|°
@@ -16685,6 +16685,7 @@
 4521|3|x-jat|geass1
 5373|3|x-jat|geass2
 12566|3|x-jat|geass3
+18960|1|x-jat|Geats Extra: Geats Anime Another Grand Prix
 6605|1|x-jat|Geba Geba Shou Time!
 15775|1|x-jat|Gebaude Baude
 584|3|x-jat|GED
@@ -17012,6 +17013,7 @@
 15801|1|x-jat|Gekijouban Tsurune: Hajimari no Issha
 12688|1|x-jat|Gekijouban Uta no Prince-sama: Maji Love Kingdom
 16173|1|x-jat|Gekijouban Uta no Prince-sama: Maji Love Starish Tours
+18961|1|x-jat|Gekijouban Uta no Prince-sama: Taboo Night Kisses
 14013|1|x-jat|Gekijouban Violet Evergarden
 14011|1|x-jat|Gekijouban Wakaokami wa Shougakusei!
 2189|2|x-jat|Gekijouban xxxHOLiC - Manatsu no Yoru no Yume
@@ -22077,7 +22079,7 @@
 18770|2|en|I Have a Crush at Work
 10594|2|en|I Have Been Treated Nicely
 10387|2|en|I just can`t stand not getting between them! ~I made a wish to the stars and they got this big!~
-18852|2|en|I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!
+18852|4|en|I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!
 2536|2|en|I like what I like, so it can`t be helped
 2536|2|en|I like what I like, so there!
 3171|4|vi|I Love Bubu Chacha
@@ -25015,7 +25017,6 @@
 7929|1|x-jat|Kanojo ga Mimai ni Konai Wake
 11162|1|x-jat|Kanojo ga Nekomimi ni Kigaetara
 15586|1|x-jat|Kanojo ga Yatsu ni Dakareta Hi
-15586|2|x-jat|Kanojo ga Yatsu ni Idakareta Hi
 15851|1|x-jat|Kanojo mo Kanojo
 17628|1|x-jat|Kanojo mo Kanojo (2023)
 461|1|x-jat|Kanojo to Kanojo no Neko
@@ -37168,6 +37169,7 @@
 18719|2|en|Once Upon a Witch`s Death
 335|2|pt-BR|Ondas do Oceano
 136|3|x-jat|One
+136|2|en|One ~To the Radiant Season~
 136|2|ko|ONE ~빛나는 계절로~
 1720|2|ko|ONE ~빛나는 계절로~ True Stories
 136|4|ja|ONE ~輝く季節へ~
@@ -37369,6 +37371,7 @@
 3094|2|en|One-shot Kanta
 136|1|x-jat|One: Kagayaku Kisetsu e
 1720|1|x-jat|One: Kagayaku Kisetsu e - True Stories
+136|2|en|One: To a Shining Season
 1720|4|en|One: True Stories
 16|3|x-jat|one1
 751|3|x-jat|One2
@@ -39134,6 +39137,7 @@
 688|4|en|Ping Pong Club
 10400|4|en|Ping Pong the Animation
 10400|1|x-jat|Ping Pong the Animation
+18804|2|en|Ping Pong!
 10400|3|x-jat|pingpong
 13421|4|ja|Pingu in the City
 13421|1|x-jat|Pingu in the City
@@ -56964,6 +56968,7 @@
 16016|1|x-jat|Yubisaki kara Honki no Netsujou 2: Koibito wa Shouboushi
 14924|1|x-jat|Yubisaki kara Honki no Netsujou: Osananajimi wa Shouboushi
 18101|1|x-jat|Yubisaki to Renren
+18959|1|x-jat|Yudatte Saikou! Revice Anime: Yukemuri Paradise A Go Go!
 14536|1|x-jat|Yue ni Hitozuma wa Netorareta.
 10284|1|x-jat|Yugami-kun ni wa Tomodachi ga Inai
 2061|3|x-jat|yugioh
@@ -57365,7 +57370,9 @@
 12045|1|x-jat|Zegapain ADP
 18176|1|x-jat|Zegapain STA
 18176|2|x-jat|Zegapain Statement Alpha
+4178|2|x-jat|Zegapain: Memories in the Shell
 18176|2|x-jat|Zegapain: Olta Moda Hen
+18176|2|x-jat|Zegapain: Reminiscence Hen
 1879|3|x-jat|Zeguy
 1879|2|en|Zeguy: Cloudworld Labyrinth
 12744|1|x-jat|Zekkyou Gakkyuu
@@ -69720,6 +69727,7 @@
 4082|4|ja|カンブリアン
 1209|2|ja|ガンフロンティア
 2597|4|ja|キ・ファイター テラン
+18960|4|ja|ギーツエクストラ ギーツあにめ あなざーぐらんぷり
 14756|4|ja|ギヴン
 16357|4|ja|ギヴン うらがわの存在
 981|4|ja|キカイダー01 THE ANIMATION
@@ -71392,8 +71400,10 @@
 4178|4|ja|ゼーガペイン
 12045|2|ja|ゼーガペイン Adaptation
 12045|4|ja|ゼーガペイン ADP
+4178|2|ja|ゼーガペイン Memories in the shell
 18176|2|ja|ゼーガペイン エスティーエー
 18176|2|ja|ゼーガペイン オルタモーダ編
+18176|2|ja|ゼーガペイン レミニセンス編
 18176|4|ja|ゼーガペインSTA
 6477|2|ja|セーラームーン美恵ちゃん VS セーラームーン祐ちゃん洋ちゃん
 1183|4|ja|セーラー戦士 ヴィーナス♥ファイブ
@@ -75255,6 +75265,7 @@
 4726|4|ja|ゆき
 10314|4|ja|ユキの太陽
 8980|2|ja|ゆけ! 小英くん
+18959|4|ja|ゆだって最高! リバイスアニメ 湯けむりパラダイス A GO！GO！
 7276|4|ja|ゆとりちゃん
 1267|4|ja|ユニコ
 1361|4|ja|ユニコ 魔法の島へ
@@ -77799,6 +77810,7 @@
 18849|4|ja|劇場版 イナズマイレブン 新たなる英雄たちの序章
 9265|4|ja|劇場版 イナズマイレブンGO vs ダンボール戦機W
 14013|4|ja|劇場版 ヴァイオレット・エヴァーガーデン
+18961|4|ja|劇場版 うたの☆プリンスさまっ♪ TABOO NIGHT XXXX
 12688|4|ja|劇場版 うたの☆プリンスさまっ♪ マジLOVEキングダム
 16173|4|ja|劇場版 うたの☆プリンスさまっ♪ マジLOVEスターリッシュツアーズ
 16297|2|ja|劇場版 オーバーロード 聖王国編
