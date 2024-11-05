@@ -1,4 +1,4 @@
-# created: Sun Nov  3 03:00:02 2024
+# created: Mon Nov  4 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5873,6 +5873,7 @@
 8148|4|en|Blue Exorcist
 8148|4|de|Blue Exorcist
 17786|2|en|Blue Exorcist Season 3
+18561|2|en|Blue Exorcist Season 4
 18561|4|en|Blue Exorcist: Beyond the Snow Saga
 12240|4|en|Blue Exorcist: Kyoto Saga
 12574|2|en|Blue Exorcist: Kyoto Saga OVA
@@ -28630,6 +28631,7 @@
 18000|2|x-kot|Lee Du-Na!
 17772|2|x-jat|Lee Tantei Jimusho
 17772|4|en|Lee`s Detective Agency: A Day in Lungmen
+1161|2|en|Leechers Army Merowlink
 4207|2|en|Legacy of Aru Kararu
 14399|2|fr|Légalité du viol
 13814|2|en|Legend of a Rabbit
@@ -48490,6 +48492,7 @@
 13493|4|en|Sword Art Online Alicization
 13493|4|de|Sword Art Online Alicization
 18116|2|en|Sword Art Online Alternative - Gun Gale Online S2
+18116|2|en|Sword Art Online Alternative - Gun Gale Online Season 2
 13494|1|x-jat|Sword Art Online Alternative: Gun Gale Online
 13494|4|en|Sword Art Online Alternative: Gun Gale Online
 13494|3|de|Sword Art Online Alternative: Gun Gale Online
@@ -50916,7 +50919,9 @@
 13726|2|en|The Prisoners of Time
 14051|4|en|The Promised Neverland
 14051|4|fr|The Promised Neverland
+14051|4|de|The Promised Neverland
 14801|4|en|The Promised Neverland (2021)
+14801|4|de|The Promised Neverland (2021)
 14801|2|en|The Promised Neverland 2
 18398|4|en|The Proud Emperor of Eternity
 11978|2|en|The Proud General
@@ -54852,6 +54857,8 @@
 17243|2|en|Wasimo Special
 10422|4|zh-Hans|WASIMO（第1期）
 537|2|en|Wasted 13: Patlabor the Movie 3
+18962|1|x-jat|Wasted Chef
+18962|4|ja|WASTED CHEF
 14471|4|en|Wasteful Days of High School Girls
 11457|1|x-jat|Wasure-boshi
 11457|2|x-jat|Wasureboshi
@@ -56353,6 +56360,7 @@
 10796|2|x-kot|Yeongsimi
 4734|2|x-kot|Yeopgi Ingeol Sunako
 18806|1|x-kot|Yeosin Gangnim
+18806|2|x-kot|Yeosingangnim
 5303|2|en|Yeouubi, The Five-Tailed Fox
 11596|2|tr|Yer Çekimi Saldırısı: Giriş
 4193|4|tr|Yerdeniz Öyküleri
