@@ -1,4 +1,4 @@
-# created: Tue Nov  5 03:00:02 2024
+# created: Wed Nov  6 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3347,6 +3347,7 @@
 550|3|x-jat|ARMS
 4516|2|en|Arms Alchemy
 2576|3|x-jat|ARMS2
+18967|1|x-jat|Arne no Jikenbo
 11024|4|ja|around
 11024|1|x-jat|Around
 18818|2|x-jat|Around 40 Otoko no Isekai Tsuuhan Seikatsu
@@ -3478,6 +3479,7 @@
 6151|2|en|Asataro the Onion Samurai
 18964|1|x-jat|Asatir 2: Mirai no Mukashibanashi
 15489|1|x-jat|Asatir: Mirai no Mukashibanashi
+18969|1|x-jat|Asatir: Mirai no Mukashibanashi (2024)
 4339|3|x-jat|asatte
 4755|1|x-jat|Asatte Dance
 4339|1|x-jat|Asatte no Houkou.
@@ -16048,6 +16050,7 @@
 7432|2|en|Future Diary
 8395|2|en|Future Diary (2011)
 15489|4|en|Future Folktales
+18969|4|ja|Future Folktales 2
 739|2|en|Future GPX Cyber Formula
 2463|2|en|Future GPX Cyber Formula 11
 2461|2|en|Future GPX Cyber Formula Early Days Renewal
@@ -35804,6 +35807,7 @@
 46|4|fr|NieA_7
 361|4|pl|Niebieska łódź podwodna
 18278|4|pl|Niebieskie pudełko
+18249|4|pl|Niech śmierć nas rozdzieli
 11616|1|x-jat|Niedola
 11616|4|ja|Niedola
 15996|1|x-jat|Niehime to Kemono no Ou
@@ -37257,6 +37261,7 @@
 8940|4|en|One Piece Film: Z
 11529|4|pt|One Piece Gold
 11529|4|es|One Piece Gold
+18968|1|en|One Piece Log: Fish-Man Island Saga
 411|3|en|One Piece Movie
 411|2|en|One Piece Movie 1
 6537|2|en|One Piece Movie 10
@@ -40921,6 +40926,7 @@
 8069|2|it|Puella Magi Madoka Magica
 8778|4|en|Puella Magi Madoka Magica the Movie
 16278|4|en|Puella Magi Madoka Magica the Movie - Walpurgisnacht: Rising
+16278|4|de|Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-
 8778|4|fr|Puella Magi Madoka★Magica the Movie
 8362|4|en|Puella Magi Sonico Magica
 1708|1|x-jat|Pugyuru
@@ -47233,6 +47239,7 @@
 5584|4|it|Special A
 5584|4|en|Special A
 4359|2|en|Special Armored Battalion Dorvack
+18968|4|ja|SPECIAL EDITED VERSION『ONE PIECE』魚人島編
 13824|2|x-unk|Special Edition Turning Mecard W: The Secret of Vandyne
 7457|2|en|Special Express: Michishio
 5469|2|en|Special Hospital Ward
@@ -49972,6 +49979,7 @@
 12859|4|en|The Candy Man`s Raccoon Dog Dance
 2663|4|en|The Capricious Robot
 15263|2|en|The Carnal Cult
+18967|2|en|The Case Book of Arne
 10442|4|en|The Case File of Young Kindaichi Returns
 11367|4|en|The Case File of Young Kindaichi Returns (2015)
 15038|4|en|The Case Files of Jeweler Richard
@@ -68455,6 +68463,7 @@
 4156|4|ja|アルトネリコ 世界の終わりで詩い続ける少女
 10445|2|ja|アルドノア・ゼロ
 10846|2|ja|アルドノア・ゼロ (2015)
+18967|4|ja|アルネの事件簿
 7502|4|ja|アルバイトしよっ!! Let`s Arbeit!
 18223|4|ja|アルプスと危険な森
 426|4|ja|アルプスの少女ハイジ
