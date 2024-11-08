@@ -1,4 +1,4 @@
-# created: Wed Nov  6 03:00:01 2024
+# created: Thu Nov  7 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3477,9 +3477,9 @@
 1926|2|x-jat|Asari-chan: Ai no Marchen Shoujo
 6151|4|es|Asataro el Samurai Cebolla
 6151|2|en|Asataro the Onion Samurai
+18964|2|en|Asatir 2 - Mirai no Mukashi Banashi
 18964|1|x-jat|Asatir 2: Mirai no Mukashibanashi
 15489|1|x-jat|Asatir: Mirai no Mukashibanashi
-18969|1|x-jat|Asatir: Mirai no Mukashibanashi (2024)
 4339|3|x-jat|asatte
 4755|1|x-jat|Asatte Dance
 4339|1|x-jat|Asatte no Houkou.
@@ -16050,7 +16050,7 @@
 7432|2|en|Future Diary
 8395|2|en|Future Diary (2011)
 15489|4|en|Future Folktales
-18969|4|ja|Future Folktales 2
+18964|4|en|Future Folktales 2
 739|2|en|Future GPX Cyber Formula
 2463|2|en|Future GPX Cyber Formula 11
 2461|2|en|Future GPX Cyber Formula Early Days Renewal
@@ -16066,6 +16066,7 @@
 2274|4|ja|FUTURE WAR 198X年
 2274|2|en|Future War Year 198X
 15489|2|en|Future`s Folktales
+18964|2|en|Future`s Folktales 2
 17001|1|x-jat|Fuufu Ijou, Koibito Miman.
 18033|1|x-jat|Fuufu Koukan: Modorenai Yoru
 1759|1|x-jat|Fuujin Monogatari
@@ -23304,6 +23305,7 @@
 15918|1|x-jat|Isekai Meikyuu de Harem o
 18702|1|x-jat|Isekai Mokushiroku Mynoghra
 18702|2|x-jat|Isekai Mokushiroku Mynoghra:Hametsu no Bunmei de Hajimeru Sekai Seifuku
+18970|1|x-jat|Isekai Munchkin: HP 1 no Mama de Saikyou Saisoku Dungeon Kouryaku
 6304|1|x-jat|Isekai no Seikishi Monogatari
 17290|1|x-jat|Isekai Nonbiri Nouka
 16389|1|x-jat|Isekai Ojisan
@@ -36996,6 +36998,7 @@
 17374|1|x-jat|Okaasan no Kao
 10098|1|x-jat|Okaasan no Yasashii Te
 7435|3|x-jat|okagaku
+18972|1|x-jat|Okaimono Panda!
 4270|1|x-jat|Okama Hakusho
 7381|3|en|okami (2010)
 7381|4|en|Okami-san and Her Seven Companions
@@ -37990,6 +37993,7 @@
 2864|4|en|Other Worlds
 15423|4|en|Otherside Picnic
 18461|2|en|Otherworldly Evil Monarch
+18970|2|en|Otherworldly Munchkin: Let`s Speedrun the Dungeon with Only 1 HP!
 5406|3|x-jat|otk
 6169|3|x-jat|otk2
 4003|3|x-jat|Otoboku
@@ -41464,6 +41468,7 @@
 12310|3|x-jat|rakuroji s2
 12018|3|x-jat|rakuroji: hina logi
 918|1|x-jat|Rakushou! Hyper Doll
+18972|2|en|Rakuten Panda!
 9088|3|x-jat|rakutsu
 5693|3|en|Ramayana
 5693|4|cs|Ramayana - legenda o princi Ramovi
@@ -45804,6 +45809,7 @@
 12672|1|x-jat|Shooting Hero
 1491|2|en|Shooting Star Gakusaver
 8868|2|en|Shooting Star Lens
+18972|2|en|Shopping Panda!
 8745|2|en|Short Animation of Shintaro Kago
 9125|1|x-jat|Short Peace
 9125|4|en|Short Peace
@@ -56236,6 +56242,8 @@
 12945|1|x-jat|Yankee Hamster
 16335|1|x-jat|Yankee Hamster Season 2
 5814|1|x-jat|Yankee Reppuu Tai
+18971|1|x-jat|Yano-kun no Futsuu no Hibi
+18971|2|en|Yano-kun`s Ordinary Days
 7616|2|x-jat|YANS! GANS!
 15436|1|x-zht|Yao Jing Zhong Zhi Shou Ce
 13191|1|x-zht|Yao Shen Ji
@@ -69376,6 +69384,7 @@
 1106|4|ja|お茶犬 ちょこっとものがたり
 6867|4|ja|お蝶夫人の幻想
 13402|4|ja|お見合い相手は教え子, 強気な, 問題児.
+18972|4|ja|お買いものパンダ!
 13147|4|ja|お酒は夫婦になってから
 4645|4|ja|お金がないっ
 17470|4|ja|お金は回る －くらしと金融－
@@ -85649,6 +85658,7 @@
 15537|4|ja|異世界ハーレム物語
 13004|4|ja|異世界はスマートフォンとともに.
 17317|4|ja|異世界はスマートフォンとともに. 2
+18970|4|ja|異世界マンチキン -HP1のままで最強最速ダンジョン攻略-
 17242|2|ja|異世界ヤリサー
 18295|4|ja|異世界ゆるり紀行 ~子育てしながら冒険者します~
 17248|4|ja|異世界ワンターンキル姉さん ~姉同伴の異世界生活はじめました~
@@ -85963,6 +85973,7 @@
 2683|4|ja|瞳のなかの少年 15少年漂流記
 2647|2|zh-Hans|瞳孔中的暗杀者
 4250|4|ja|瞳裸
+18971|4|ja|矢野くんの普通の日々
 12516|4|ja|知力丸
 14779|4|zh-Hans|知晓天空之蓝的人啊
 14779|4|zh-Hant|知道天空有多藍的人啊
