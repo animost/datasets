@@ -1,4 +1,4 @@
-# created: Fri Nov  8 03:00:01 2024
+# created: Sat Nov  9 03:00:00 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -411,7 +411,7 @@
 17491|1|x-jat|2.43 Mini Anime: Fukui-ben Kouza
 17492|1|x-jat|2.43 Mini Anime: Inside Story
 17490|1|x-jat|2.43 Mini Anime: Volleyball Kouza
-15257|3|x-jat|2.43 Seiin Volley Bu
+15257|2|x-jat|2.43 Seiin Volley Bu
 15257|4|zh-Hans|2.43 清阴高校男子排球部
 15257|4|ja|2.43 清陰高校男子バレー部
 17489|4|ja|2.43 清陰高校男子バレー部 ミニアニメ
@@ -2044,7 +2044,6 @@
 11848|2|tr|Akuma`nın Gri Çocuğu: Azizlerin Gecesi
 1480|1|x-jat|Akuu Daisakusen Srungle
 17937|2|x-jat|Akuyaku LV99
-17937|3|x-jat|Akuyaku Reijou Level 99
 17937|1|x-jat|Akuyaku Reijou Level 99: Watashi wa Ura Boss Desu ga Maou de wa Arimasen
 16826|1|x-jat|Akuyaku Reijou nano de Last Boss o Katte Mimashita
 18366|1|x-jat|Akuyaku Reijou Tensei Ojisan
@@ -3477,6 +3476,7 @@
 1926|2|x-jat|Asari-chan: Ai no Marchen Shoujo
 6151|4|es|Asataro el Samurai Cebolla
 6151|2|en|Asataro the Onion Samurai
+18964|2|en|Asateer 2: Future`s Folktales
 18964|2|en|Asatir 2 - Mirai no Mukashi Banashi
 18964|1|x-jat|Asatir 2: Mirai no Mukashibanashi
 15489|1|x-jat|Asatir: Mirai no Mukashibanashi
@@ -9320,6 +9320,7 @@
 947|2|es|Cuentos de los hermanos Grimm
 4193|4|es|Cuentos de Terramar
 4193|4|es-419|Cuentos de Terramar
+8117|4|es-419|Cuentos de un Gato Sagrado
 12747|2|en|CUG: King of Heroes
 5574|2|cs|Cukroušek
 18839|2|en|Cultural Exchange With Game Center Girl
@@ -15754,7 +15755,6 @@
 5318|1|x-jat|Fukuyama Gekijou
 1481|4|fr|Fulgutor
 117|2|fr|Fuli Culi
-15905|3|en|Full Dive
 15905|4|fr|Full Dive : L`ultime RPG est encore plus foireux que la réalité !
 15905|4|en|Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier Than Real Life!
 979|2|pl|Full Matal Alchemist/Stalowy Alchemik
@@ -17108,7 +17108,6 @@
 3559|1|x-jat|Genji Tsuushin Agedama
 2970|2|x-jat|Genjikuu Senki Shinden
 15116|2|en|Genjin General
-15505|3|x-jat|Genjitsu
 16804|3|x-jat|Genjitsu 2
 17479|1|x-jat|Genjitsu no Yohane: Sunshine in the Mirror
 16804|3|x-jat|genjitsu s2
@@ -17130,7 +17129,6 @@
 8326|1|x-jat|Genki!! Ekoda-chan
 8326|2|en|Genki!! Ekodachan
 10105|1|x-jat|Genkichi Jiisan to Kogitsune
-15505|3|x-unk|genkoku
 15505|3|x-jat|Genkoku
 16804|3|x-jat|genkoku 2
 16804|3|x-jat|genkoku s2
@@ -17940,7 +17938,6 @@
 3668|2|x-jat|Goal FH
 3668|4|en|Goal Field Hunter
 3668|1|x-jat|Goal Field Hunter
-16980|3|en|Goal to the Future
 10077|1|x-jat|Goannai Shimasu Another World e
 18572|1|x-jat|Gobaku: Moe Mama Tsurezure
 10614|2|en|Goblin and Snow Hare
@@ -18366,7 +18363,6 @@
 11597|2|tr|Gran`ın Gök Hayali
 14717|1|x-jat|Granbelm
 14717|4|en|Granbelm
-11597|3|en|Granblue
 13524|3|en|Granblue 2
 11597|1|x-jat|Granblue Fantasy The Animation
 11597|4|ja|GRANBLUE FANTASY The Animation
@@ -19037,7 +19033,6 @@
 12361|3|x-jat|gup movie 2
 10009|3|x-jat|gup ova
 12361|3|x-jat|GuP Saishuushou
-11597|3|x-jat|guraburu s1
 13524|3|x-jat|guraburu s2
 15483|1|x-jat|Guraburu!
 12995|1|x-jat|Gurazeni
@@ -19131,7 +19126,6 @@
 10540|1|x-jat|Gyakusatsu Kikan
 720|3|x-jat|Gyakusha
 11256|1|x-jat|Gyakuten Majo Saiban: Chijo na Majo ni Sabakarechau The Animation
-11598|3|x-jat|Gyakuten Saiban
 13396|1|x-jat|Gyakuten Saiban 6 Prologue
 11598|1|x-jat|Gyakuten Saiban: Sono "Shinjitsu", Igi Ari!
 13918|1|x-jat|Gyakuten Saiban: Sono "Shinjitsu", Igi Ari! Season 2
@@ -19544,7 +19538,6 @@
 17122|1|x-zht|Han Hua Ri Ji Di San Ji
 18463|1|x-zht|Han Hua Ri Ji Di Si Ji
 14745|1|x-jat|Han Solo/Star Wars Story
-15546|2|x-jat|Han`you no Yashahime
 15546|1|x-jat|Han`you no Yashahime: Sengoku Otogizoushi
 16141|1|x-jat|Han`you no Yashahime: Sengoku Otogizoushi (2021)
 16141|2|x-jat|Han`you no Yashahime: Sengoku Otogizoushi Ni no Shou
@@ -21443,7 +21436,6 @@
 14727|3|x-jat|Honzuki
 15293|3|x-jat|Honzuki 2
 15634|3|x-jat|Honzuki 3
-14727|3|ja|Honzuki no Gekokujou
 15293|3|x-jat|Honzuki no Gekokujou 2
 15634|2|x-jat|Honzuki no Gekokujou 3
 14727|1|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen
@@ -21585,6 +21577,7 @@
 7382|3|en|HOTD
 7953|3|en|HOTD OVA
 7382|3|x-jat|HOTDTV
+18973|1|x-jat|Hotel Inhumans
 2842|3|x-jat|hotori
 2842|2|en|Hotori ~The Simple Hope for Joy~
 2842|1|x-jat|Hotori: Tada Saiwai o Koinegau.
@@ -22233,7 +22226,6 @@
 404|3|x-jat|I`s
 11376|4|en|I`ve Always Liked You: Confess Your Love Committee
 12806|2|en|I`ve always loved you
-15201|3|en|I`ve Been Killing Slimes for 300 Years
 15201|4|en|I`ve Been Killing Slimes for 300 Years and Maxed Out My Level
 17110|2|en|I`ve Been Killing Slimes for 300 Years and Maxed Out My Level 2
 11691|2|en|I`ve Had Enough of Being a Magical Girl.
@@ -23219,7 +23211,6 @@
 14660|3|x-jat|iruma
 15428|3|x-jat|iruma s2
 16627|3|x-jat|iruma s3
-14660|3|en|Iruma-kun
 15428|3|x-jat|Iruma-kun s2
 16627|3|x-jat|Iruma-kun s3
 7727|3|x-jat|IS
@@ -23298,7 +23289,6 @@
 12562|4|en|Isekai Izakaya: Japanese Food from Another World
 12562|1|x-jat|Isekai Izakaya: Koto Aitheria no Izakaya Nobu
 17653|1|x-jat|Isekai Kita no de Sukebe Skill de Zenryoku Ouka Shiyou to Omou The Animation
-13757|3|x-jat|Isekai Maou to Shoukan
 13757|1|x-jat|Isekai Maou to Shoukan Shoujo no Dorei Majutsu
 15493|1|x-jat|Isekai Maou to Shoukan Shoujo no Dorei Majutsu Omega
 15493|2|x-jat|Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω
@@ -29404,7 +29394,6 @@
 17759|4|pl|Lookism
 18164|1|x-jat|Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuukimama na Hanayome Seikatsu o Mankitsu Suru
 18164|3|x-jat|loop7
-14580|3|en|Lord El-Melloi II
 14573|2|en|Lord El-Melloi II Case Files
 14580|2|x-jat|Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note
 14573|2|x-jat|Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi
@@ -30605,7 +30594,7 @@
 9807|1|x-jat|Magi: The Kingdom of Magic
 9268|1|x-jat|Magi: The Labyrinth of Magic
 9268|4|en|Magi: The Labyrinth of Magic
-16404|3|en|Magia Record Final Season
+16404|2|en|Magia Record Final Season
 14360|1|x-jat|Magia Record: Mahou Shoujo Madoka Magica Gaiden
 15472|1|x-jat|Magia Record: Mahou Shoujo Madoka Magica Gaiden 2nd Season - Kakusei Zen`ya
 15472|2|x-jat|Magia Record: Mahou Shoujo Madoka Magica Gaiden 2nd Season - Kakusei Zenya
@@ -33866,6 +33855,7 @@
 9022|4|pl|Monsuno
 9022|4|pt|Monsuno
 9795|4|pt|Monsuno - 2ª Temporada
+9795|2|en|Monsuno Season 2
 9795|4|pl|Monsuno: Chaos walki
 9795|2|en|Monsuno: Combat Chaos
 9022|2|en|Monsuno: World Master
@@ -36623,7 +36613,7 @@
 8667|3|x-jat|nyc s4
 12009|3|x-jat|nyc s5
 12675|3|x-jat|nyc s6
-18089|2|x-jat|nyc s7
+18089|3|x-jat|nyc s7
 6185|3|x-jat|nyc2
 8286|3|x-jat|nyc3
 5029|2|en|Nymphet
@@ -38034,7 +38024,6 @@
 7200|1|x-jat|Otome Chibaku Yuugi: Kutsujoku Baigaeshi ADV
 13251|1|x-jat|Otome Domain The Animation
 8795|2|x-jat|Otome Dori
-14449|3|x-jat|Otome Game no Hametsu
 14449|1|x-jat|Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta...
 15604|2|x-unk|Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta... Season 2
 15604|1|x-jat|Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta... X
@@ -40521,7 +40510,6 @@
 15690|1|x-jat|Princess Connect! Re:Dive Season 2
 15690|4|en|Princess Connect! Re:Dive Season 2
 2755|2|en|Princess Connection
-15546|3|en|Princess Half-Demon
 16141|3|en|Princess Half-Demon S2
 1665|1|x-jat|Princess Holiday: Korogaru Ringo Tei Sen`ya Ichiya
 1665|4|ja|Princess Holiday~転がるりんご亭千夜一夜~
@@ -41993,7 +41981,6 @@
 13123|2|x-jat|ReLIFE Kanketsuhen
 13123|4|en|Relife OVA
 13123|4|zh-Hans|ReLIFE 完结篇
-15980|3|en|Reload Zeroin
 15320|4|en|Remake Our Life!
 4039|2|en|Remember the Sun in the Heart
 1827|2|x-jat|Remi
@@ -44097,6 +44084,7 @@
 14288|4|pl|Scissor Seven
 15381|4|pl|Scissor Seven (2019)
 15961|4|pl|Scissor Seven (2021)
+17852|4|pl|Scissor Seven (2023)
 14288|2|en|Scissor Seven 0
 15961|2|en|Scissor Seven 3
 17852|2|en|Scissor Seven 4
@@ -44269,7 +44257,6 @@
 171|1|x-jat|Seihou Bukyou Outlaw Star
 223|1|x-jat|Seihou Tenshi Angel Links
 223|2|x-jat|Seihou Tenshi Angel Rinks
-15257|2|x-jat|Seiin Koukou Danshi Volley Bu
 17662|1|x-jat|Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
 15720|1|x-jat|Seijo no Maryoku wa Bannou Desu
 17246|2|x-jat|Seijo no Maryoku wa Bannou Desu 2
@@ -46013,7 +46000,6 @@
 8325|1|x-jat|Shuukan Shimakou
 10774|1|x-jat|Shuukan Storyland
 18507|1|x-jat|Shuumatsu Hospital
-12238|3|x-jat|Shuumatsu Nani Shitemasu ka?
 12238|1|x-jat|Shuumatsu Nani Shitemasuka? Isogashii Desuka? Sukutte Moratte Ii Desuka?
 15561|1|x-jat|Shuumatsu no Harem
 12201|1|x-jat|Shuumatsu no Izetta
@@ -48771,7 +48757,6 @@
 6315|2|en|Taisho Era Baseball Girls
 18832|2|en|Taisho Era Contract Marriage: The Substitute Bride and a Soldier`s Fierce Love
 12557|4|en|Taisho Mebiusline Chicchaisan
-15938|3|en|Taisho Otome
 15938|4|en|Taisho Otome Fairy Tale
 12557|2|x-jat|Taishou Chicchai-san
 18832|1|x-jat|Taishou Itsuwari Bridal: Migawari Hanayome to Gunpuku no Mou Ai
@@ -49169,7 +49154,6 @@
 15070|3|x-jat|tate2
 15071|3|x-jat|tate3
 4889|1|x-jat|Tatoe Kimi ga Sekaijuu no Teki ni Natte mo
-15215|3|x-jat|Tatoeba Last Dungeon
 15215|1|x-jat|Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu You na Monogatari
 2230|2|x-jat|Tatsu no Ko Taro
 2230|1|x-jat|Tatsu no Ko Tarou
@@ -49225,7 +49209,6 @@
 6547|4|en|Teachers in Heat
 6547|2|en|Teachers: Classroom of Humiliation
 13146|1|x-jat|Teakamamire no Tenshi The Animation
-17608|3|x-jat|tearmoon
 17608|4|en|Tearmoon Empire
 17608|2|en|Tearmoon Empire Story
 17608|1|x-jat|Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story
@@ -49552,7 +49535,6 @@
 12215|4|ja|TENSAI BANPAKU -GENIUS EXPO-
 12215|1|x-jat|Tensai Banpaku Opening
 8653|1|x-jat|Tensai Eri-chan Kingyo o Tabeta
-16028|3|x-jat|Tensai Ouji
 16028|1|x-jat|Tensai Ouji no Akaji Kokka Saisei Jutsu
 7449|1|x-jat|Tensai? Dr. Hamax
 16028|3|x-jat|tensaiouji
@@ -54480,7 +54462,6 @@
 9242|1|x-jat|Vividred Operation
 9242|4|zh-Hans|Vividred Operation
 9242|4|en|Vividred Operation
-15988|3|en|Vivy
 15988|4|zh-Hant|Vivy -Fluorite Eye`s Song
 15988|4|ja|Vivy -Fluorite Eye`s Song-
 15988|1|x-jat|Vivy: Fluorite Eye`s Song
@@ -55299,7 +55280,6 @@
 6791|2|en|Wish upon a Star: Fantastic Cat
 8076|4|en|Wish Upon the Pleiades
 10958|4|en|Wish Upon the Pleiades (2015)
-18482|3|en|wistoria
 18482|4|en|Wistoria: Wand and Sword
 18889|2|en|Wistoria: Wand and Sword 2
 4121|2|pl|Witaj w NHK!
@@ -55622,9 +55602,7 @@
 16498|2|en|Wu Geng Ji 4th Season
 17970|2|en|Wu Geng Ji 4th Season Part 2
 16498|2|x-zht|Wu Geng Ji Di Si Ji
-14379|3|x-zht|Wu Geng Ji II
 14379|1|x-zht|Wu Geng Ji II: Tianqi
-15682|3|x-zht|Wu Geng Ji III
 15682|1|x-zht|Wu Geng Ji III: Sanjie Yuanqi
 14379|2|x-zht|Wu Geng Ji Zhi Tianqi
 12251|2|zh|Wu Kong Da Zhan Er Lang Shen
@@ -56280,9 +56258,7 @@
 10459|1|x-jat|Yariman Fudousan
 12886|1|x-jat|Yarimoku Beach ni Shuugakuryokou de!! The Animation
 18013|1|x-jat|Yarinaoshi Reijou wa Ryuutei Heika o Kouryakuchuu
-18013|2|x-jat|Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu
-18013|2|x-jat|Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu
-18013|2|x-jat|Yariryuu
+18013|3|x-jat|Yariryuu
 4423|1|x-jat|Yaruki Manman
 4423|2|de|Yaruki Manman
 6203|1|x-jat|Yasai no Yousei: N.Y. Salad
@@ -56692,7 +56668,6 @@
 13017|1|x-jat|Youkai Apaato no Yuuga na Nichijou
 13017|2|x-jat|Youkai Apartment no Yuuga na Nichijou
 18321|1|x-jat|Youkai Gakkou no Sensei Hajimemashita!
-15268|3|x-jat|Youkai Gakuen Y: N to no Souguu
 1447|1|x-jat|Youkai Ningen Bem
 4334|1|x-jat|Youkai Ningen Bem (2006)
 13084|1|x-jat|Youkai Shoujo
@@ -56799,8 +56774,7 @@
 16638|1|x-zht|Youxia Zhan Ji
 16638|2|x-zht|Youxia Zhanji
 4114|1|x-jat|Youyou no Neko Tsumami
-16984|3|x-jat|Yowai 5000-nen no Soushoku Dragon
-18258|3|x-jat|Yowai 5000-nen no Soushoku Dragon Season 2
+18258|2|x-jat|Yowai 5000-nen no Soushoku Dragon Season 2
 16984|2|x-jat|Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei
 18258|2|x-jat|Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei Season 2
 11605|1|x-jat|Yowai Mushi
@@ -74465,6 +74439,7 @@
 6883|4|ja|ポッポやさんののんき駅長
 4981|4|ja|ボディジャック 楽しい幽体離脱
 4919|4|ja|ぽてまよ
+18973|4|ja|ホテル・インヒューマンズ
 7919|4|ja|ボトムズファインダー
 2842|4|ja|ほとり~たださいわいを希う.~
 11329|4|ja|ホネホネロック
