@@ -1,4 +1,4 @@
-# created: Sat Nov  9 03:00:00 2024
+# created: Sun Nov 10 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -25,6 +25,7 @@
 4594|2|es|¡Felicidad!
 9858|4|es|¡Free! Club de Natación Iwatobi
 16418|4|es|¡Hasta siempre, Don Glees!
+15855|4|es-419|¡No Sé Cómo Tener una Amistad con el Sexo Opuesto!
 18019|4|es-419|¡Oye, Tonbo!
 18721|4|es-419|¡Oye, Tonbo! Segunda temporada
 4022|2|es|¡Perro Divino!
@@ -1502,6 +1503,8 @@
 280|4|de|Agent Aika
 280|4|en|Agent Aika
 16701|2|en|Agent Backkom: Kings Bear
+18975|1|x-jat|Agent Blue
+18975|4|ja|Agent Blue
 5106|4|et|Agent Vexille
 5106|2|lt|Agentė Veksilė
 315|2|ja|Agga Ruta
@@ -26012,7 +26015,6 @@
 5470|1|x-jat|Kimi ga Nozomu Eien: Next Season
 15826|1|x-jat|Kimi ga Suki. The Animation
 13983|1|x-jat|Kimi Koe Project
-6466|2|pt-BR|Kimi ni Todoke
 6466|1|x-jat|Kimi ni Todoke
 8014|2|pt-BR|Kimi ni Todoke 2
 8014|1|x-jat|Kimi ni Todoke 2nd Season
@@ -28223,6 +28225,7 @@
 12743|4|en|Laid-Back Camp
 14437|4|en|Laid-Back Camp Season 2
 17676|4|en|Laid-Back Camp Season 3
+18974|2|en|Laid-Back Camp Season 4
 14438|4|en|Laid-Back Camp the Movie
 14450|1|x-jat|Laidbackers
 14450|4|ja|LAIDBACKERS
@@ -30825,7 +30828,6 @@
 17127|4|en|Mahjong Soul Pon
 11794|2|en|Maho Girls Precure!
 12269|2|en|Maho Girls PreCure! the Movie: The Miraculous Transformation! Cure Mofurun!
-18599|2|x-jat|Mahō Tsukai no Yakusoku - Promise of Wizard
 141|4|de|Maho Tsukai Tai! Magic User`s Club
 17910|3|x-jat|mahoako
 18282|3|x-jat|mahoaku
@@ -38191,6 +38193,7 @@
 14008|3|x-jat|overlord s3
 16296|3|x-jat|overlord s4
 16297|4|en|Overlord: The Sacred Kingdom
+16297|4|pl|Overlord: The Sacred Kingdom
 10816|2|en|Overlord1
 12952|3|x-jat|overlord2
 609|1|x-jat|Overman King Gainer
@@ -44014,6 +44017,7 @@
 5536|4|en|School Days: Magical Heart Kokoro-chan
 5685|1|x-jat|School Days: Valentine Days
 5685|2|pl|School Days: Walentynki
+6102|2|en|School Ghosts
 4605|2|en|School Girl
 5705|4|en|School Girl Special Lesson
 8071|2|en|School Idol Project Snow Halation
@@ -45347,6 +45351,7 @@
 3376|1|x-jat|Shin Don Chuck Monogatari
 7007|1|x-jat|Shin Dousei Jidai: Hawaiian Breeze
 8895|1|x-jat|Shin Evangelion Gekijouban:||
+18978|1|x-jat|Shin Gakkou no Yuurei
 1452|2|x-jat|Shin Gegege no Kitarou
 9987|1|x-jat|Shin Gekijouban Initial D
 16062|1|x-jat|Shin Gengou Nyankogelion
@@ -46218,17 +46223,17 @@
 15596|3|x-jat|SK (2021)
 15736|2|x-jat|SK Eight
 15736|4|ja|SK∞
-16422|4|ja|SK∞ (OVA)
 17572|4|ja|SK∞ (TV)
+16422|4|ja|SK∞ EXTRA PART
 15736|2|ja|SK∞ エスケーエイト
-16422|2|ja|SK∞ エスケーエイト (OVA)
 17572|2|ja|SK∞ エスケーエイト (TV)
+16422|2|ja|SK∞ エスケーエイト EXTRA PART
 15736|1|x-jat|SK8
-16422|1|x-jat|SK8 (OVA)
 17572|1|x-jat|SK8 (TV)
+16422|1|x-jat|SK8 Extra Part
 15736|4|en|SK8 the Infinity
-16422|2|en|SK8 the Infinity (OVA)
 17572|2|en|SK8 the Infinity (TV)
+16422|2|en|SK8 the Infinity Extra Part
 15736|2|ja|SK8 エスケーエイト
 15736|4|ru|SK8: На скейте в бесконечность
 2714|2|lt|Skaitmeninės Sultys
@@ -53597,6 +53602,7 @@
 3497|4|it|Una sirenetta innamorata
 1900|4|it|Una sirenetta tra noi
 332|4|it|Una tomba per le lucciole
+14112|4|es-419|Una Venida de Altura
 10937|4|es-419|Una voz silenciosa
 299|2|de|unanständige Miki
 2571|4|es|Unas Gemelas Muy Especiales
@@ -55617,6 +55623,7 @@
 18784|2|x-zht|Wu Nao Monu 2
 18784|2|x-zht|Wu Nao Monu 2nd Season
 18784|2|x-zht|Wu Nao Monu Di Er Ji
+18977|1|x-zht|Wu Ni
 15631|1|x-zht|Wu Ren Shen Chuanshuo
 15663|1|x-zht|Wu Shan Wu Xing
 17241|1|x-zht|Wu Shan Wu Xing: Xichuan Huan Zi Lin
@@ -57128,6 +57135,7 @@
 14437|2|x-jat|Yuru Camp S2
 14437|1|x-jat|Yuru Camp Season 2
 17676|1|x-jat|Yuru Camp Season 3
+18974|1|x-jat|Yuru Camp Season 4
 17676|2|x-jat|Yuru Camp△ Season 3
 8353|1|x-jat|Yuru Yuri
 8844|1|x-jat|Yuru Yuri 2
@@ -75304,6 +75312,7 @@
 12743|4|ja|ゆるキャン△
 14437|4|ja|ゆるキャン△ SEASON2
 17676|4|ja|ゆるキャン△ SEASON3
+18974|4|ja|ゆるキャン△ SEASON4
 6355|4|ja|ゆるめいつ
 9144|4|ja|ゆるめいつ (2012)
 8253|4|ja|ゆるめいつ は?
@@ -84104,6 +84113,7 @@
 8513|4|ja|武装神姫 MOON ANGEL
 9237|4|zh-Hans|武装神姬
 4516|4|ja|武装錬金
+18977|4|zh-Hans|武逆
 333|4|zh|歲月的童話
 18154|4|ja|歴史に残る悪女になるぞ
 18154|3|ja|歴悪
@@ -85874,6 +85884,7 @@
 2686|4|ja|県立地球防衛軍
 8103|4|ja|県立海空高校野球部員山下たろーくん
 10610|4|ja|真 ストレンジ・プラス
+18978|4|ja|真 学校の幽霊
 16419|4|ja|真・一騎当千
 16419|4|zh-Hans|真・一骑当千
 14658|4|ja|真・中華一番!
