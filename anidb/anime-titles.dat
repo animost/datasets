@@ -1,4 +1,4 @@
-# created: Sun Nov 10 03:00:01 2024
+# created: Mon Nov 11 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6380,6 +6380,7 @@
 15765|1|x-jat|Boukyaku Battery
 18145|1|x-jat|Boukyaku Battery (2024)
 18145|2|x-jat|Boukyaku Battery (TV)
+18979|1|x-jat|Boukyaku Battery 2
 1551|1|x-jat|Boukyaku no Senritsu
 2705|4|fr|Boumbo
 1095|4|de|Boundary Between Dream & Reality
@@ -36768,6 +36769,7 @@
 17450|2|ja|Obey Me! The Anime Season 2
 1815|2|fr|Objectif planète Terre
 18145|4|en|Oblivion Battery
+18979|2|en|Oblivion Battery 2
 6299|4|en|Oblivion Island: Haruka and the Magic Mirror
 11982|2|pl|Oblubienica czarnoksiężnika
 7284|1|x-jat|Obocchama-kun
@@ -44220,6 +44222,7 @@
 10596|4|hr|Sedam smrtnih grijeha
 1542|4|cs|Sedm Samurajů
 10596|4|cs|Sedm smrtelných hříchů
+16048|2|en|Seduced by My Best Friend
 8561|2|fr|Séductions éphémères
 2028|4|pt-BR|Seduzida: A História de Nakano Takashiro
 2449|4|en|See In
@@ -45868,6 +45871,7 @@
 2279|1|x-jat|Shounen Kenya
 11543|1|x-jat|Shounen Maid
 7984|2|x-jat|Shounen Maid Kuro-kun
+7984|2|x-jat|Shounen Maid Kuuro-kun: Tenshi no Uta
 7359|1|x-jat|Shounen Miyamoto Musashi: Wanpaku Nitouryuu
 1881|1|x-jat|Shounen Ninja Kaze no Fujimaru
 7640|1|x-jat|Shounen Ninja Kaze no Fujimaru: Nazo no Arabiya Ningyou
@@ -81376,6 +81380,7 @@
 1551|4|ja|忘却の旋律
 15765|4|ja|忘却バッテリー
 18145|4|ja|忘却バッテリー (2024)
+18979|4|ja|忘却バッテリー2
 5188|2|zh|忧伤大人二之宫
 15774|4|zh-Hans|忧国的莫里亚蒂
 11924|4|zh-Hans|忧郁的物怪庵
