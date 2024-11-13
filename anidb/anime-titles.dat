@@ -1,4 +1,4 @@
-# created: Mon Nov 11 03:00:02 2024
+# created: Tue Nov 12 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2800,6 +2800,8 @@
 14629|1|x-jat|Ano Danchi no Tsuma-tachi wa... The Animation
 8181|3|x-jat|Ano Hana
 8181|2|en|Ano Hana
+8181|2|pt|Ano Hana: A Flor que Vimos Naquele Dia
+9356|2|pt|Ano Hana: A Flor que Vimos Naquele Dia - O Filme
 8181|4|it|Ano Hana: Ancora non conosciamo il nome del fiore che abbiamo visto quel giorno
 8181|1|x-jat|Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai.
 13299|2|ja|Ano Hi no Kanojo-tachi
@@ -11790,6 +11792,7 @@
 6596|4|es|Doraemon Atlantis: El castillo del mal
 6584|4|pt|Doraemon e a Fábrica de Brinquedos
 6584|4|es-GA|Doraemon e a fábrica de xoguetes
+6585|4|pt|Doraemon e a História da Criação do Mundo
 13228|4|pt|Doraemon e a Ilha do Tesouro
 7770|4|pt|Doraemon e a Revolução dos Robôs
 6592|4|pt|Doraemon e a Viagem à China Antiga
@@ -54802,6 +54805,7 @@
 18398|1|x-zht|Wangu Kuang Di
 17933|1|x-zht|Wangu Shenhua
 13922|2|x-zht|Wangu Xian Qiong II
+18980|1|x-zht|Wangu Zui Qiang Zong
 18409|1|x-zht|Wangzhe Rongyao: Rongyao Zhi Zhang
 13850|1|x-zht|Wangzhe Wai Chuan
 14652|1|x-zht|Wangzhe Wai Chuan Di Er Ji
@@ -57419,6 +57423,7 @@
 15092|4|zh-Hant|ZENONZARD THE ANIMATION
 5913|1|x-jat|Zenryoku Usagi
 17190|1|x-jat|Zenryoku Usagi (2023)
+18981|1|x-jat|Zenryoku Usagi (2025)
 17190|2|x-jat|Zenryoku Usagi Season 2
 15953|4|ja|Zenryoku Yobikou 5.5 Seminar
 15953|1|x-jat|Zenryoku Yobikou 5.5 Seminar
@@ -76079,6 +76084,7 @@
 15821|4|zh-Hans|万古仙穹 Ⅳ 银月城篇
 14871|2|zh-Hans|万古仙穹 第3季
 14871|2|zh-Hans|万古仙穹: 恶人谷篇
+18980|4|zh-Hans|万古最强宗
 16957|4|zh-Hans|万古剑神
 18421|4|zh-Hans|万古剑神 (2022)
 18398|4|zh-Hans|万古狂帝
@@ -77201,6 +77207,7 @@
 18547|4|ja|全修.
 5913|4|ja|全力ウサギ
 17190|4|ja|全力ウサギ (2023)
+18981|4|ja|全力ウサギ (2025)
 5913|4|zh-Hans|全力兔子
 10006|2|ja|全力愚少女!!アクション!!
 15437|4|zh-Hans|全员恶玉
@@ -88314,6 +88321,7 @@
 4306|4|ja|車畜~車の中で飼ってます~
 14350|4|ja|軌跡
 14237|4|ja|軒轅剣 蒼き曜
+14237|2|ja|軒轅剣・蒼き曜
 17873|3|ja|転スラ コリウスの夢
 16785|3|ja|転剣
 17569|3|ja|転天
