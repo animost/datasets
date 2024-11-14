@@ -1,4 +1,4 @@
-# created: Tue Nov 12 03:00:02 2024
+# created: Wed Nov 13 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4176,6 +4176,7 @@
 17708|1|x-zht|Bai Lian Cheng Shen
 18252|1|x-zht|Bai Lian Cheng Shen 2
 16646|1|x-zht|Bai She II: Qing She Jie Qi
+18983|1|x-zht|Bai She: Fusheng
 14876|1|x-zht|Bai She: Yuanqi
 15967|2|x-zht|Bai Yao Pu 2
 17535|2|x-zht|Bai Yao Pu 3
@@ -45032,6 +45033,7 @@
 18578|1|x-jat|Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su (2024)
 18578|2|x-jat|Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su Season 2
 6267|2|x-jat|Shangrila
+18982|1|x-zht|Shanhai Fu Mo Lu
 18826|1|x-zht|Shanhai Jihui
 17598|1|x-zht|Shanhai Juelun
 16584|1|x-zht|Shanhe Jian Xin Di Er Ji
@@ -80832,6 +80834,7 @@
 16041|4|zh-Hans|山河剑心
 16584|4|zh-Hans|山河剑心 第二季
 14766|4|zh-Hans|山河社稷图
+18982|4|zh-Hans|山海伏魔录
 17598|4|ja|山海绝伦
 18826|4|zh-Hans|山海际会
 17467|4|ja|山火事
@@ -85761,6 +85764,7 @@
 16386|4|ja|白菜アニメ
 14876|4|zh-Hant|白蛇: 緣起
 14876|4|zh-Hans|白蛇: 缘起
+18983|4|zh-Hans|白蛇：浮生
 14876|4|ja|白蛇：縁起
 16646|4|zh-Hans|白蛇Ⅱ: 青蛇劫起
 1861|4|ja|白蛇伝
@@ -86810,6 +86814,7 @@
 11809|4|zh-Hans|终结的炽天使 OAD
 10984|4|x-zht|终结的炽天使 名古屋决战篇
 10984|4|zh-Hans|终结的炽天使 名古屋决战篇
+18275|4|zh-Hans|终结者 0
 17713|4|zh-Hans|绊之Allele
 18083|4|zh-Hans|绊之Allele 第二季
 17616|2|zh-Hans|经验丰富的你与经验为零的我交往的故事
@@ -86895,6 +86900,7 @@
 137|2|zh-Hans|罗德岛战记TV 英雄骑士传
 6751|2|zh-Hans|罪与罚与赎的少女
 12337|4|zh-Hans|罪人与龙共舞
+1026|2|ja|罪恶 VICIOUS -ウィシャス-
 8480|4|zh-Hans|罪恶王冠
 9092|4|zh-Hans|罪恶王冠: 失落的圣诞
 8480|4|zh-Hant|罪惡王冠
