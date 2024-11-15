@@ -1,4 +1,4 @@
-# created: Wed Nov 13 03:00:02 2024
+# created: Thu Nov 14 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8532,6 +8532,7 @@
 17237|4|en|Classroom of the Elite III
 18844|2|en|Classroom of the Elite IV
 11147|4|ja|Classroom☆Crisis
+18728|3|x-jat|ClaSta
 4392|2|en|Claws of a Beast
 4892|4|it|Claymore
 4892|1|x-jat|Claymore
@@ -9880,6 +9881,7 @@
 17652|3|x-jat|danmachi s4p2
 17652|3|x-jat|danmachi s5
 17652|2|x-jat|DanMachi Season 4 Part 2
+18267|2|en|DanMachi Season 5
 18267|3|x-jat|DanMachi V
 10894|4|es-419|DanMachi: ¿Está mal seducir chicas en un calabozo?
 10894|4|es|DanMachi: ¿Qué tiene de malo intentar ligar en una mazmorra?
@@ -18864,7 +18866,6 @@
 720|2|en|Gundam: Char`s Counterattack
 7245|2|x-jat|Gundam: Chou Den`ei Ban SD Gundam Sangokuden: Brave Battle Warriors
 16702|2|x-jat|Gundam: Cucuruz Doan no Shima
-18096|2|x-jat|Gundam: Fukushuu no Requiem
 10531|2|x-jat|Gundam: G no Reconguista
 11984|2|x-jat|Gundam: G no Reconguista: From the Past to the Future
 14032|2|x-jat|Gundam: Gekijou Kidou Senshi Gundam SEED
@@ -23234,6 +23235,7 @@
 11941|2|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? Is It Wrong to Try to Soak in a Hot Spring in a Dungeon?
 16032|4|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? IV
 17652|4|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? IV (2023)
+18267|2|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? Season 5
 11974|2|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? Sword Oratoria
 18267|4|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? V
 13830|4|en|Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion
@@ -42771,6 +42773,7 @@
 7609|2|en|Ruin Arms Soul Eater
 392|4|en|Ruin Explorers
 18353|1|x-jat|Ruins Seeker
+18493|2|x-jat|Rukku Bakku
 6993|4|en|Rules of the night
 16184|4|en|Rumble Garanndoll
 896|4|fr|Rumbling Hearts
@@ -43434,6 +43437,9 @@
 18654|1|x-jat|Sakamoto Days
 18654|4|ja|SAKAMOTO DAYS
 18654|4|en|Sakamoto Days
+18984|1|x-jat|Sakamoto Days (2025)
+18984|4|ja|SAKAMOTO DAYS (2025)
+18984|4|en|Sakamoto Days (2025)
 11881|1|x-jat|Sakamoto Desu ga?
 11881|4|fr|Sakamoto, pour vous servir !
 8857|1|x-jat|Sakasama no Patema
@@ -53587,6 +53593,7 @@
 15384|2|fr|Un nouvel aiguillage scolaire – À la poursuite de souvenirs enfouis
 2288|4|it|Un oceano di avventure
 17764|4|fr|Un ours blanc très tire-au-flanc
+8166|4|es-419|Un puente al cielo estrellado
 14747|4|es|Un vampiro en el jardín
 8485|4|fr|Un-Go
 8485|4|en|UN-GO
@@ -70113,6 +70120,7 @@
 11344|4|ja|クラシカロイド
 13069|4|ja|クラシカロイド (2017)
 18728|4|ja|クラシック★スターズ
+18728|3|ja|クラスタ
 2392|4|ja|クラスターエッジ
 18209|4|ja|クラスで2番目に可愛い女の子と友だちになった
 17747|4|ja|クラスで男は僕一人!?
