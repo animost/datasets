@@ -1,4 +1,4 @@
-# created: Thu Nov 14 03:00:02 2024
+# created: Fri Nov 15 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1399,6 +1399,7 @@
 1275|2|en|Adventure! Iczer-3
 11309|1|x-jat|Adventures in Beauty Wonderland
 11309|2|ja|Adventures in Beauty Wonderland
+18982|4|en|Adventures in Subduing the Demons
 1517|2|en|Adventures of Goku
 2325|4|en|Adventures of Kotetsu
 3665|2|en|Adventures of Little El Cid
@@ -2201,6 +2202,7 @@
 147|4|es|Alita, ángel de combate
 11403|1|x-jat|All Alone With You
 11403|4|ja|All Alone With You
+18980|4|en|All Hail the Sect Leader
 11580|1|x-jat|All Out!!
 11580|4|ja|ALL OUT!!
 11580|4|en|All Out!!
@@ -4453,6 +4455,7 @@
 11419|2|en|Balloon
 11504|1|x-jat|Balloon
 11504|4|ja|Balloon
+18985|1|x-jat|Ballpark de Tsukamaete!
 12700|1|x-jat|Ballroom e Youkoso
 1395|4|fr|Balthus
 1395|1|x-jat|Balthus: Tia no Kagayaki
@@ -31748,6 +31751,7 @@
 11856|1|x-jat|Marshmallow, Imouto, Succubus
 18614|2|en|Martial God Asura
 18682|2|en|Martial God Stream
+18977|4|en|Martial Inverse
 15443|2|en|Martial Master
 14649|2|en|Martial Universe
 15687|2|en|Martial Universe 2nd Season
@@ -43472,6 +43476,7 @@
 14291|2|x-jat|Sakugan Labyrinth Marker
 15725|1|x-jat|Sakugasaku
 18527|4|en|Sakuna: Of Rice and Ruin
+18986|2|en|Sakuna: Of Rice and Ruin (Sequel)
 400|2|pl|Sakura - wojna ducha
 400|2|pl|Sakura - wojna dusz
 400|4|pl|Sakura - wojny ducha
@@ -49611,6 +49616,7 @@
 12451|1|x-jat|Tenshi no Three Piece!
 18225|3|x-jat|tenshitsuki
 18527|1|x-jat|Tensui no Sakuna-hime
+18986|1|x-jat|Tensui no Sakuna-hime (Zokuhen)
 13871|3|x-jat|tensura
 15456|3|x-jat|Tensura (2021 Part 2)
 14767|3|en|TenSura 2
@@ -51215,6 +51221,7 @@
 17447|2|en|The Strongest Male Protagonist of All Time
 16029|2|en|The Strongest Sage of Disqualified Crest
 16029|4|en|The Strongest Sage with the Weakest Crest
+18980|2|en|The Strongest Sect of All Ages
 18229|4|en|The Strongest Tank`s Labyrinth Raids: A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero`s Party
 17601|4|en|The Success of Empyrean Xuan Emperor
 17602|4|en|The Success of Empyrean Xuan Emperor 2
@@ -51417,6 +51424,7 @@
 17575|4|en|The Witch and the Beast
 17741|2|en|The Witch and the Customer
 4966|2|en|The Witch-Hunter
+18982|2|en|The Wizard Lord
 3669|2|en|The Wizard of Oz
 7084|4|en|The Wizard of Oz (1982)
 6465|2|en|The Wolf and the Amber Melancholy
@@ -74336,6 +74344,7 @@
 370|4|ja|ホーホケキョとなりの山田くん
 8541|2|ja|ホーリーナイト
 4787|4|ja|ポールのミラクル大作戦
+18985|4|ja|ボールパークでつかまえて!
 17734|4|ja|ポールプリンセス!!
 11557|4|ja|ボールよどこへゆく
 12700|4|ja|ボールルームへようこそ
@@ -79681,6 +79690,7 @@
 16447|4|ja|天神
 29|3|ja|天禁
 18527|4|ja|天穂のサクナヒメ
+18986|4|ja|天穂のサクナヒメ (続編)
 18527|4|zh-Hans|天穗之咲稻姬
 184|4|ja|天空のエスカフローネ
 331|4|ja|天空の城ラピュタ
