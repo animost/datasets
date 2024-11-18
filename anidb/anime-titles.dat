@@ -1,4 +1,4 @@
-# created: Sat Nov 16 03:00:01 2024
+# created: Sun Nov 17 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1821,6 +1821,7 @@
 11265|2|tr|Ajin
 12111|1|x-jat|Ajin (2016 Dai 2 Cour)
 11577|1|x-jat|Ajin (2016)
+18993|1|x-jat|Ajin ga Osuki nan Desu ne
 11758|1|x-jat|Ajin OAD
 11758|4|en|Ajin OVA
 12111|2|en|Ajin Part 2 (2016)
@@ -10295,7 +10296,9 @@
 17187|2|en|Death Hall
 12603|3|x-jat|death march
 12603|1|x-jat|Death March kara Hajimaru Isekai Kyousoukyoku
+18991|1|x-jat|Death March kara Hajimaru Isekai Kyousoukyoku 2
 12603|4|en|Death March to the Parallel World Rhapsody
+18991|2|en|Death March to the Parallel World Rhapsody 2
 17453|4|ja|DEath MAtCH ~リアルに恋してる~
 17453|1|x-jat|Death Match: Real ni Koi Shiteru
 4563|4|pt-BR|Death Note
@@ -10386,6 +10389,7 @@
 3496|1|x-jat|Deimos no Hanayome: Ran no Kumikyoku
 16494|1|x-jat|Deji Meets Girl
 10221|1|x-jat|Dekakute Ecchi na Ore no Ane
+18990|1|x-jat|Dekin no Mogura
 17423|3|x-jat|dekineko
 13026|1|x-jat|Dekiru ka na
 17423|1|x-jat|Dekiru Neko wa Kyou mo Yuuutsu
@@ -16021,6 +16025,7 @@
 4512|1|x-jat|Futari no Joe
 9061|1|x-jat|Futari no Oujisama
 10149|1|x-jat|Futari no Tarou
+18992|1|x-jat|Futari no Yume Mochi
 12677|1|x-jat|Futari wa 80-sai
 9678|1|x-jat|Futari wa Milky Holmes
 1413|1|x-jat|Futari wa Precure
@@ -35928,6 +35933,7 @@
 1650|4|de|Niklaas, ein Junge aus Flandern
 5226|3|x-jat|nikopun
 10756|1|x-jat|Niku Mesu R30: Nikuyoku ni Ochita Mesu-tachi The Animation
+18994|1|x-jat|Nikuen
 15963|4|cs|Nikuko z přístavního města
 1852|1|x-jat|Nikutai Ten`i
 1852|4|de|Nikutai Teni
@@ -38601,6 +38607,7 @@
 8857|2|pt|Patema Invertida
 8857|2|cs|Patema nohama vzhůru
 8857|4|sv|Patema upp och ner
+8857|4|es|Patema: Dos mundos opuestos
 14009|1|x-jat|Patisserie no Monster
 7229|2|en|Patisserie Straycats
 778|4|fr|Patlabor
@@ -49919,6 +49926,7 @@
 11235|4|ja|The Baby Birds of Norman McLaren
 13783|2|en|The Badminton Play of Ayano Hanesaki!
 18074|4|en|The Banished Former Hero Lives as He Pleases
+18990|2|en|The Banned Mole
 18898|2|en|The Barbarian’s Bride
 8681|2|en|The Basketball Which Kuroko Plays
 8681|2|en|THE BASKETBALL WHICH KUROKO PLAYS.
@@ -50387,7 +50395,7 @@
 4277|4|en|The Golden Laws
 4907|2|en|The Golden Monkey Conquers the Evil
 9635|2|en|The Golden Pencil and the Alien Boy
-18679|2|en|The Golden Wug
+18679|4|en|The Golden Wug
 10871|2|en|The good spot in the back of a hole
 4172|4|en|The Good Witch Of The West
 4172|4|de|The Good Witch of the West - Astraea Testament
@@ -72206,6 +72214,7 @@
 9253|4|ja|デスビリヤード
 12603|3|ja|デスマ
 12603|4|ja|デスマーチからはじまる異世界狂想曲
+18991|4|ja|デスマーチからはじまる異世界狂想曲 2
 16190|2|ja|テスラノート
 2642|4|ja|でたとこプリンセス
 17901|4|ja|でたらめな世界のメロドラマ
@@ -73936,6 +73945,7 @@
 4512|4|ja|ふたりのジョー
 10149|4|ja|ふたりのタロウ
 4547|4|ja|ふたりの兄嫁
+18992|4|ja|ふたりの夢もち
 12677|4|ja|ふたりは80才
 1413|4|ja|ふたりはプリキュア
 2765|4|ja|ふたりはプリキュア ー マックスハート
@@ -76553,6 +76563,7 @@
 12111|4|ja|亜人 (2016 第2クール)
 11577|4|ja|亜人 (2016)
 11758|4|ja|亜人 OAD
+18993|4|ja|亜人がお好きなんですね
 12374|4|ja|亜人ちゃんは語りたい
 4182|4|ja|亜人戦士
 1480|4|ja|亜空大作戦 スラングル
@@ -77604,6 +77615,7 @@
 11462|4|zh-Hans|出来吧小魔神 胡巴
 18074|4|ja|出来損ないと呼ばれた元英雄は, 実家から追放されたので好き勝手に生きることにした
 11636|4|ja|出番ですよ! オニギリズ
+18990|4|ja|出禁のモグラ
 15299|4|zh-Hant|出租女友
 15743|4|zh-Hant|出租女友 2
 5189|2|zh-Hans|出租魔法使
@@ -87171,6 +87183,7 @@
 17984|4|zh-Hant|聽說你們要結婚！？
 13846|2|zh-Hans|肆式青春
 1852|4|ja|肉体転移
+18994|4|ja|肉園
 3524|4|ja|肉嫁 高柳家の人々
 534|4|ja|肉欲玩具宅配人
 10756|4|ja|肉牝R30 ~肉欲に堕ちた牝たち~ THE ANIMATION
