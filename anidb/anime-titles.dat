@@ -1,4 +1,4 @@
-# created: Sun Nov 17 03:00:02 2024
+# created: Mon Nov 18 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -10286,7 +10286,6 @@
 1137|4|en|Dear Brother
 18444|1|x-jat|Dearest Blue
 18444|4|ja|Dearest Blue
-18444|2|ja|DearestBlue
 1726|1|x-jat|DearS
 1726|4|fr|DearS
 1726|4|de|DearS
@@ -31144,6 +31143,7 @@
 14660|1|x-jat|Mairimashita! Iruma-kun
 15428|1|x-jat|Mairimashita! Iruma-kun (2021)
 16627|1|x-jat|Mairimashita! Iruma-kun (2022)
+18995|1|x-jat|Mairimashita! Iruma-kun (Dai 4 Series)
 15428|2|x-jat|Mairimashita! Iruma-kun 2
 6111|4|en|Maison de Castle
 288|1|x-jat|Maison Ikkoku
@@ -55065,6 +55065,7 @@
 15428|4|en|Welcome to Demon School! Iruma-kun (2021)
 15428|4|pl|Welcome to Demon School! Iruma-kun (2021)
 16627|4|en|Welcome to Demon School! Iruma-kun (2022)
+18995|2|en|Welcome to Demon School! Iruma-kun 4
 15428|2|en|Welcome to Demon School! Iruma-kun: Season 2
 14592|2|en|Welcome to Hinagiku Virgin Lost Club
 6677|4|en|Welcome to Irabu`s Office
@@ -85272,7 +85273,9 @@
 6465|4|ja|狼と香辛料II 狼と琥珀色の憂鬱
 5406|2|zh-Hans|狼与香辛料
 17221|4|zh-Hans|狼与香辛料 行商邂逅贤狼
+18876|4|zh-Hans|狼与香辛料 行商邂逅贤狼 第二季
 6169|2|zh-Hans|狼与香辛料II
+6465|4|zh-Hans|狼与香辛料II 狼与琥珀色的忧郁
 10589|4|zh-Hans|狼少女与黑王子
 10919|4|zh-Hans|狼少女与黑王子 OAD
 1684|4|ja|狼少年ケン
@@ -89991,6 +89994,7 @@
 14660|4|ja|魔入りました! 入間くん
 15428|4|ja|魔入りました! 入間くん (2021)
 16627|4|ja|魔入りました! 入間くん (2022)
+18995|4|ja|魔入りました! 入間くん (第4シリーズ)
 8265|4|zh-Hans|魔具少女
 8566|4|zh-Hans|魔具少女！OAD
 9406|4|zh-Hans|魔具少女！通
