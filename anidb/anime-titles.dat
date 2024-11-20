@@ -1,4 +1,4 @@
-# created: Mon Nov 18 03:00:02 2024
+# created: Tue Nov 19 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6829,6 +6829,7 @@
 5547|1|x-jat|Bus Gamer
 5547|4|fr|Bus Gamer
 5547|4|ja|BUS GAMER
+18996|1|x-jat|Busamen Gachi Fighter
 14790|4|es|Buscando a la Mágica Doremi
 14790|4|es-CA|Buscant la màgica Doremi
 2292|4|de|Buschbabies - Im Land der wilden Tiere
@@ -10298,6 +10299,7 @@
 18991|1|x-jat|Death March kara Hajimaru Isekai Kyousoukyoku 2
 12603|4|en|Death March to the Parallel World Rhapsody
 18991|2|en|Death March to the Parallel World Rhapsody 2
+18991|2|en|Death March to the Parallel World Rhapsody Season 2
 17453|4|ja|DEath MAtCH ~リアルに恋してる~
 17453|1|x-jat|Death Match: Real ni Koi Shiteru
 4563|4|pt-BR|Death Note
@@ -10335,6 +10337,7 @@
 10905|4|en|Death Parade
 10905|4|it|Death Parade
 18428|2|en|Death Rewind PlayBack
+18991|3|x-jat|deathma2
 15848|3|x-jat|deatle
 15848|1|x-jat|Deatte 5 Byou de Battle
 11636|1|x-jat|Deban Desu yo! Onigirizu
@@ -10670,6 +10673,7 @@
 2142|4|en|Destiny of the Shrine Maiden
 14449|2|en|Destruction Flag Otome
 12603|3|x-jat|desuma
+18991|3|x-jat|desuma2
 12603|3|x-jat|Desumachi
 9514|4|sv|Det blåser upp en vind
 1218|4|sv|Det levande slottet
@@ -19259,9 +19263,12 @@
 8522|2|en|Haganai OVA
 9206|3|x-jat|haganai ova 2
 9342|3|x-jat|Haganai s2
+9342|2|pt|Haganai Seguinte: Não Tenho Muitos Amigos
 9206|4|en|Haganai: A Round-Robin Story`s Ending is Way Extreme
 9206|2|en|Haganai: Add-on Disc
 9206|4|de|Haganai: Die Rundlauf-Geschichte
+8419|2|pt|Haganai: Não Tenho Muitos Amigos
+9206|2|pt|Haganai: O Final de Uma História Extremamente Complicada
 979|1|x-jat|Hagane no Renkinjutsushi
 6107|1|x-jat|Hagane no Renkinjutsushi (2009)
 979|2|x-jat|Hagane no Renkinjutsushi 2003
@@ -31557,11 +31564,8 @@
 18701|1|zh|Mao Zhi Ming 2
 444|4|en|Mao-chan
 15131|3|x-jat|maogaku
-16102|2|x-jat|Maogaku (2024)
 16101|3|x-jat|maogaku s2
-16102|3|x-jat|maogaku s2p2
 16102|3|x-jat|maogaku s3
-16102|2|x-jat|Maohgaku (2024)
 16894|1|x-zht|Maomao De Gushi
 14391|3|x-jat|maorito
 18167|2|x-jat|Maorito 2
@@ -31573,11 +31577,10 @@
 16057|1|x-jat|Maou Evelogia ni Mi o Sasageyo
 1677|2|en|Maou from now on!
 15131|2|x-jat|Maou Gakuin
+16101|1|x-jat|Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou
+16102|1|x-jat|Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou (2024)
 16102|2|x-jat|Maou Gakuin no Futekigousha Season 2 Part 2
 15131|1|x-jat|Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou
-16101|1|x-jat|Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou II
-16102|1|x-jat|Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou II (2024)
-16102|2|x-jat|Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou II Part 2
 18427|1|x-jat|Maou Gun Saikyou no Majutsushi wa Ningen Datta
 16057|2|x-jat|Maou Ibrogia ni Mi o Sasageyo
 17686|1|x-jat|Maou no Ore ga Dorei Elf o Yome ni Shitanda ga, Dou Medereba Ii?
@@ -31586,7 +31589,6 @@
 15095|1|x-jat|Maou-jou de Oyasumi
 14391|1|x-jat|Maou-sama, Retry!
 18167|1|x-jat|Maou-sama, Retry! R
-16102|2|x-jat|Maougaku (2024)
 18427|2|x-jat|Maougun Saikyou no Majutsushi wa Ningen Datta
 15095|2|x-jat|Maoujou de Oyasumi
 9287|4|en|Maoyu: Archenemy & Hero
@@ -53422,6 +53424,7 @@
 2602|1|x-jat|UG*Ultimate Girls
 2602|4|ja|UG☆アルティメットガール
 335|3|x-jat|ugk
+18996|2|en|Uglymug, Epicfighter
 17924|3|x-jat|UGMF
 515|2|lt|Ugninis Labirintas
 3095|4|it|Ugo il Re del Judo
@@ -73913,6 +73916,7 @@
 11022|2|ja|ふくびき!トライアングル～双葉はあたふた～
 7375|2|ja|ふくびきトライアングル～美晴アフター～
 5318|4|ja|ふくやま劇場
+18996|4|ja|ブサメンガチファイター
 10436|2|ja|ふさわしい場所
 14268|4|ja|ふしぎないど
 5151|4|ja|ふしぎなエレベーター
@@ -80753,6 +80757,7 @@
 11034|4|zh-Hant|少女教育
 14691|4|ja|少女教育RE
 3619|4|ja|少女椿
+17998|2|zh-Hant|少女樂團 吶喊吧
 13152|3|zh-Hans|少女歌剧
 11892|2|zh-Hans|少女波子汽水
 5931|2|zh-Hans|少女派别
@@ -83871,6 +83876,7 @@
 17643|4|ja|極主夫道 (2023)
 2696|2|zh-Hant|極速攝殺
 15812|4|zh-Hant|極道主夫
+18775|2|ja|極限○○特異点3 The Animation
 18775|4|ja|極限痴漢特異点3 The Animation
 10741|4|ja|極限脱出ADV 善人シボウデス
 10069|4|zh-Hant|極黑的布倫希爾德
@@ -90307,8 +90313,8 @@
 9287|4|zh-Hans|魔王勇者
 15095|4|ja|魔王城でおやすみ
 15131|4|ja|魔王学院の不適合者 ~史上最強の魔王の始祖, 転生して子孫たちの学校へ通う~
-16101|4|ja|魔王学院の不適合者 ~史上最強の魔王の始祖, 転生して子孫たちの学校へ通う~ II
-16102|4|ja|魔王学院の不適合者 ~史上最強の魔王の始祖, 転生して子孫たちの学校へ通う~ II (2024)
+16101|4|ja|魔王学院の不適合者II ~史上最強の魔王の始祖, 転生して子孫たちの学校へ通う~
+16102|4|ja|魔王学院の不適合者II ~史上最強の魔王の始祖, 転生して子孫たちの学校へ通う~ (2024)
 16102|4|zh-Hans|魔王学院的不适任者 ～史上最强的魔王始祖，转生就读子孙们的学校～Ⅱ 第二季度
 15131|4|zh-Hans|魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～
 16101|4|zh-Hans|魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～ Ⅱ
