@@ -1,4 +1,4 @@
-# created: Tue Nov 19 03:00:01 2024
+# created: Wed Nov 20 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1083,6 +1083,7 @@
 2706|4|pt|A Volta ao Mundo em 80 Dias com Willy Fog
 2225|4|pt|A Volta ao Mundo em 80 Dias do Gato das Botas
 10937|4|pt-BR|A Voz do Silêncio
+18997|4|en|A War between Humans and AI
 4060|2|en|A Well-Ordered Restaurant (1991)
 11948|2|en|A Well-Ordered Restaurant (1994)
 15373|4|en|A Whisker Away
@@ -29447,6 +29448,8 @@
 2687|2|en|Lord of Lords Ryu Knight: Adeu`s Legend Final
 1235|2|en|Lord of Lords Ryu Knight: Adeu`s Legend II
 17126|2|en|Lord of Planet
+18999|2|en|Lord of Planet 2
+18999|2|en|Lord of Planet 2nd Season
 1868|2|en|Lord of the Cave
 14651|2|en|Lord of the Universe
 13958|2|x-jat|Lord of Vermilion - Guren no Ou
@@ -34710,6 +34713,9 @@
 17353|4|en|My Unique Skill Makes Me OP Even at Level 1
 12266|2|en|My Very Own Hero
 17564|4|vi|Mỹ vị hầm ngục
+18998|2|en|My WeChat Connects to the Dragon Palace
+18998|2|en|My WeChat is connected to Dragon Palace
+18998|2|en|My WeChat Link to Dragon Palace
 18518|4|en|My Wife Has No Emotion
 3360|2|en|My Wife Is a High School Girl
 2650|2|en|My Wife Is a Magical Girl: Bewitched Agnes
@@ -51530,6 +51536,7 @@
 2708|2|en|There, Here and Where
 12584|2|en|There`s a Hole in My Bucket
 13647|2|en|There`s a Pit in My Our Big Brother`s Brain
+19001|4|en|There`s No Freaking Way I`ll be Your Lover! Unless...
 14468|2|en|There`s No Way That A Perfect Lady Like Me Will Easily Kneel Down And Degrade Myself Into A Mere Masochist!
 16799|4|en|There`s Something Off With This Company...!
 8831|1|x-jat|Thermae Romae
@@ -54813,6 +54820,9 @@
 2202|1|x-jat|Wan Wan Chuushingura
 4124|2|x-jat|Wan Wan Serepuu Sore Yuke! Tetsunoshin
 17126|1|x-zht|Wan Yu Feng Shen
+18999|1|x-zht|Wan Yu Feng Shen 2
+18999|2|x-zht|Wan Yu Feng Shen 2nd Season
+18999|2|x-zht|Wan Yu Feng Shen Di Er Ji
 18533|1|x-zht|Wan Yu Zhi Wang
 8128|1|x-jat|Wana: Hakudaku Mamire no Houkago
 639|3|x-jat|wandaba
@@ -54927,6 +54937,7 @@
 10064|3|x-jat|watamote OVA
 10064|2|en|Watamote OVA
 9582|4|en|Watamote: No Matter How I Look at It, It`s You Guys` Fault I`m Not Popular!
+19001|3|x-jat|watanare
 14783|1|x-jat|Watanuki-san Chi no
 15520|1|x-jat|Watanuki-san Chi to
 17766|3|x-unk|wataoshi
@@ -54935,6 +54946,7 @@
 18203|2|en|Watari-kun`s ****** Is About to Collapse
 18749|1|x-jat|Wataridori to Katatsumuri
 3636|3|x-jat|wataru
+19001|1|x-jat|Watashi ga Koibito ni Nareru Wakenaijan, Muri Muri! (*Muri Janakatta!?)
 9582|1|x-jat|Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!
 10064|1|x-jat|Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!: Motenai shi, Nazo Meite Miru
 11979|1|x-jat|Watashi ga Motete Dou Sunda
@@ -55394,6 +55406,7 @@
 13588|2|x-zht|Wǒ De Tiān Jié Nǚ Yǒu
 13588|1|x-zht|Wo De Tian Jie Nuyou
 13588|2|x-zht|Wo de Tian Jie Nüyou
+18998|1|x-zht|Wo de Wei Xin Tong Longgong
 17308|1|x-zht|Wo De Yi Jie Zhi Lu
 17978|1|x-zht|Wo Jia Da Shixiong You Dian Kaopu
 18468|1|x-zht|Wo Jian Qile Yi Di Shuxing
@@ -57397,6 +57410,7 @@
 10537|3|x-jat|zante
 17425|1|x-zht|Zanting! Rang Wo Cha Gonglue
 17425|2|x-jat|Zanting! Rang Wo Cha Gonglüe
+18997|1|x-zht|Zanting! Zhi Xu Chongzu
 3661|2|es|Zany Knight Don de la Mancha
 15564|4|es|Zapatos Rojos y los Siete Trolls
 17870|2|pl|Zapiski zielarki
@@ -69433,10 +69447,12 @@
 13060|4|ja|カードキャプターさくら クリアカード編 プロローグ さくらとふたつのくま
 7989|2|ja|カードファイト!! ヴァンガード
 13635|2|ja|カードファイト!! ヴァンガード (2018)
+14681|2|ja|カードファイト!! ヴァンガード (2019)
 18248|4|ja|カードファイト!! ヴァンガード Divinez
 18591|4|ja|カードファイト!! ヴァンガード Divinez Season2
 15646|4|ja|カードファイト!! ヴァンガード OverDress
 15995|4|ja|カードファイト!! ヴァンガード OverDress (2021)
+15995|2|ja|カードファイト!! ヴァンガード overDress Season2
 16681|4|ja|カードファイト!! ヴァンガード will+Dress
 16682|4|ja|カードファイト!! ヴァンガード will+Dress Season2
 17459|4|ja|カードファイト!! ヴァンガード will+Dress Season3
@@ -75919,6 +75935,7 @@
 8468|4|ja|わすれなぐも
 10131|4|ja|わすれるもんか!
 13692|4|ja|わたくしたちの法然さま
+19001|4|ja|わたしが恋人になれるわけないじゃん, ムリムリ! (※ムリじゃなかった!?)
 13594|4|ja|わたしたちが伝えたい,大切なこと
 3325|4|ja|わたしとわたし -ふたりのロッテ-
 14156|5|ja|わたしにてんしがまいおりた!
@@ -75929,6 +75946,7 @@
 18545|4|ja|わたしの幸せな結婚 わたしの幸せのかたち
 12633|4|ja|わたしの紙風船
 12599|4|ja|わたしは「とうふ」です
+19001|3|ja|わたなれ
 16399|4|ja|ワッチャプリマジ!
 5553|4|ja|ワット・ポーとぼくらのお話
 13886|4|ja|わらいかわせみに話すなよ
@@ -76142,6 +76160,7 @@
 16592|4|zh-Hans|万圣街3
 18533|4|zh-Hans|万域之王
 17126|4|zh-Hans|万域封神
+18999|4|zh-Hans|万域封神 第二季
 14943|4|zh-Hans|万界仙踪
 15345|4|zh-Hans|万界仙踪 第三季
 14944|4|zh-Hans|万界仙踪 第二季
@@ -81985,6 +82004,7 @@
 17304|4|zh-Hant|我的幸福婚約
 17304|4|zh-Hans|我的幸福婚约
 17308|4|zh-Hans|我的异界之旅
+18998|4|zh-Hans|我的微信通龙宫
 17766|4|zh-Hans|我的推是坏人大小姐
 17766|4|zh-Hant|我的推是壞人大小姐
 18029|2|zh-Hans|我的新上司是天然呆
@@ -83282,6 +83302,7 @@
 11927|4|zh-Hans|智龙迷城X
 10725|4|ja|暁のヨナ
 11143|4|ja|暁のヨナ (2015)
+18997|4|zh-Hans|暂停！智序重组
 17425|4|zh-Hans|暂停！让我查攻略
 11843|4|zh-Hans|暖暖日记
 3548|4|zh-Hans|暖暖日记（1995）
