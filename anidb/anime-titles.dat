@@ -1,4 +1,4 @@
-# created: Thu Nov 21 03:00:02 2024
+# created: Fri Nov 22 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6719,6 +6719,8 @@
 17725|4|en|Bullbuster
 17025|4|fr|Bulles
 2213|4|fr|Bulles sous les mers
+17744|4|ja|BULLET/BULLET
+17744|1|x-jat|Bullet/Bullet
 15781|2|en|Bullied: Revenge Hypnosis
 4038|2|en|Bullying Grandmother
 3093|2|en|Bullying Grandmother (1996)
@@ -7473,6 +7475,8 @@
 1025|4|en|Cat`s Eye
 14582|1|x-jat|Cat`s Eye (1984)
 14582|4|en|Cat`s Eye (1984)
+19004|4|ja|CAT`S EYE (2025)
+19004|1|x-jat|Cat`s Eye (2025)
 17417|1|x-jat|Cat`s Eye Love
 16775|2|en|Cat`s Tea
 4926|1|x-jat|Catblue Dynamite
@@ -11488,7 +11492,8 @@
 13028|4|en|Dishonor Student
 10281|1|x-jat|Disk Wars: Avengers
 13578|1|x-jat|Disney Tsum Tsum
-16908|1|x-jat|Disney: Twisted-Wonderland
+19008|1|x-jat|Disney Twisted-Wonderland the Animation
+16908|1|x-jat|Disney: Twisted-Wonderland the Animation
 1988|2|en|Disqualified Doctor
 70|2|es|Distrito comercial mágico Abenobashi
 15540|4|cs|Dítě měsíce bohů
@@ -15200,6 +15205,7 @@
 3286|4|en|Fire Force DNA Sights 999.9
 3286|4|fr|Fire Force DNA Sights 999.9
 17420|2|en|Fire Force Season 3
+18742|2|en|Fire Force Season 3 Part 2
 16016|2|en|Fire From My Fingertips 2: My Lover is a Firefighter
 14924|4|en|Fire in His Fingertips -My Childhood Friend is a Fireman-
 16016|4|en|Fire in His Fingertips 2 -My Boyfriend is a Fireman-
@@ -34404,6 +34410,7 @@
 18727|2|en|Mushoku Tensei: Jobless Reincarnation Season 3
 14758|4|ru|Mushoku Tensei: Перерождение безработного
 14758|3|x-jat|mushokutensei
+15954|2|x-jat|mushokutensei s1p2
 15954|3|x-jat|mushokutensei s2
 18104|3|x-jat|mushokutensei s2p2
 17236|3|x-jat|mushokutensei s3
@@ -34529,6 +34536,7 @@
 17304|4|en|My Happy Marriage
 18545|2|en|My Happy Marriage (2024)
 18205|4|en|My Happy Marriage (2025)
+18545|4|en|My Happy Marriage: The Shape of My Happiness
 17989|4|en|My Hashtag Does Not Shine
 10959|2|en|My Heart Wants to Shout
 5188|2|en|My Heartfelt Sympathy, Ninomiya-kun
@@ -38166,6 +38174,7 @@
 18587|2|x-jat|OVA Boku ni Harem Sefure ga Dekita Riyuu
 18587|1|x-jat|OVA Boku ni Harem Sexfriend ga Dekita Riyuu
 13769|2|en|OVA Complete Slut See their true colors Russian Step-Mother and Step-Sisters All you can have Sex
+19007|1|x-jat|OVA Ikuiku Succubus Saikyouiku
 18756|1|x-jat|OVA Incha Couple ga You Gal-tachi to Sex Training Suru Hanashi
 13769|1|x-jat|OVA Muttsuri Do Sukebe Ro Gibo Shimai no Honshitsu Minuite Sex Zanmai
 11268|1|x-jat|OVA Tokyo Ghoul
@@ -38176,6 +38185,7 @@
 16065|2|ko|OVA 네토카노
 16328|2|ko|OVA 사신창관―음란 거유 모녀 산 제물의식
 15780|2|ko|OVA 수국이 질 때
+19007|4|ja|OVA イクイク サキュバス再教育
 6285|4|ja|OVA うたわれるもの
 18049|2|ja|OVA ツンデロシリーズ
 11271|4|ja|OVA ツンプリ
@@ -40747,8 +40757,6 @@
 4374|4|ja|Project BLUE 地球SOS
 4374|4|pl|Project Blue: SOS dla Ziemi!
 4352|4|en|Project Boobs
-17744|1|x-jat|Project Bullet/Bullet
-17744|4|ja|Project BULLET/BULLET
 16250|2|en|Project Cosplay
 1032|2|x-jat|Project E.D.E.N.
 13860|1|x-jat|Project HAL
@@ -47649,8 +47657,10 @@
 14544|2|en|Star Twinkle Precure: Wish Upon a Celestial Ballad
 1753|2|en|Star Warriors
 16420|4|ja|STAR WARS VISIONS
+19005|4|ja|STAR WARS VISIONS (2025)
 16420|1|x-jat|Star Wars: Visions
 18140|1|x-jat|Star Wars: Visions (2023)
+19005|1|x-jat|Star Wars: Visions (2025)
 17044|1|x-jat|Star Wars/Force no Kakusei
 8837|4|ja|STAR☆jewel
 3603|2|en|Starcat Full House
@@ -52464,6 +52474,7 @@
 3329|2|x-jat|Tottoko Hamtarou OVA 3
 3330|2|x-jat|Tottoko Hamtarou OVA 4
 13387|1|x-jat|Tottoko Hamtarou: Anime Dechu!
+19006|1|x-jat|Tottoko Hamtarou: Best Hit Ham-chan`zu Music Clip
 15529|1|x-jat|Tottoko Hamtarou: Hiragana Tanken
 557|2|x-jat|Tottoko Hamutaro
 10976|1|x-jat|Toubousha Mouri Kogorou
@@ -54049,6 +54060,7 @@
 6299|4|lt|Užmaršties sala
 15063|1|x-jat|Uzumaki
 15063|4|en|Uzumaki
+15063|4|es-419|Uzumaki
 15063|2|en|Uzumaki: Spiral Into Horror
 721|3|x-jat|V Gundam
 9376|2|cs|V koutě našeho světa
@@ -69940,6 +69952,7 @@
 1025|4|ja|キャッツ・アイ
 14582|4|ja|キャッツ・アイ (1984)
 17417|4|ja|キャッツ・アイ・ラブ
+19004|2|ja|キャッツ♥アイ (2025)
 6473|2|ja|キャットシットワン
 4926|2|ja|キャットブルー・ダイナマイト
 4926|2|ja|キャットブルー: ダイナマイト
@@ -72151,7 +72164,8 @@
 11875|2|ja|デイズ
 14020|4|ja|デイズ (2014)
 10281|4|ja|ディスク・ウォーズ: アベンジャーズ
-16908|4|ja|ディズニー ツイステッドワンダーランド
+19008|4|ja|ディズニー ツイステッドワンダーランド  ザ アニメーション
+16908|4|ja|ディズニー ツイステッドワンダーランド ザ アニメーション
 13578|4|ja|ディズニー ツムツム
 13158|2|ja|ディッキー&カリーナ
 1363|4|ja|ディテクティブ file.1禁断の愛
@@ -72476,6 +72490,7 @@
 557|4|ja|とっとこハム太郎
 9163|4|ja|とっとこハム太郎 (2012)
 8297|4|ja|とっとこハム太郎 でちゅ
+19006|4|ja|とっとこハム太郎 ベストヒットハムちゃんず ミュージッククリップ
 8297|2|ja|とっとこハム太郎でちゅ
 9462|4|ja|とっとこハム太郎は~い!
 15529|4|ja|とっとこハム太郎ひらがなたんけん
@@ -73464,6 +73479,7 @@
 972|4|ja|パレードパレード
 3622|2|ja|ハレー伝説 ラブ・ポジション
 8915|4|ja|パレオはエメラルド
+17744|2|ja|バレット/バレット
 2989|4|ja|はれときどきぶた
 8670|4|ja|はれときどきぶた (1988)
 2989|3|ja|はれぶた
