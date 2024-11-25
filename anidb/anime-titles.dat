@@ -1,4 +1,4 @@
-# created: Sat Nov 23 03:00:02 2024
+# created: Sun Nov 24 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -34580,6 +34580,7 @@
 16793|4|de|My Hero Academia Season 6
 17931|4|en|My Hero Academia Season 7
 17931|4|de|My Hero Academia Staffel 7
+18921|4|de|My Hero Academia Staffel 8
 13633|2|en|My Hero Academia the Movie: The Two Heroes
 13633|2|fr|My Hero Academia The Movie: Two Heroes
 14776|4|fi|My Hero Academia: Heroes Rising
@@ -44395,10 +44396,11 @@
 279|1|x-jat|Seishoujo Kantai Virgin Fleet
 2427|1|x-jat|Seishun Anime Zenshuu
 18107|1|x-jat|Seishun Archive
-18300|1|x-jat|Seishun Buta Yarou Series: Daigakusei Hen
+18300|2|x-jat|Seishun Buta Yarou Series: Daigakusei Hen
 13900|1|x-jat|Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai
 17640|1|x-jat|Seishun Buta Yarou wa Odekake Sister no Yume o Minai
 17862|1|x-jat|Seishun Buta Yarou wa Ransel Girl no Yume o Minai
+18300|1|x-jat|Seishun Buta Yarou wa Santa Claus no Yume o Minai
 14397|1|x-jat|Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai
 5565|2|x-jat|Seishun Fuufu Monogatari: Koiko no Mainichi
 12973|1|x-jat|Seishun Midnight Runners: Shiosai
@@ -89620,8 +89622,9 @@
 11110|4|ja|青春x機関銃
 18107|4|ja|青春アーカイブ
 2427|4|ja|青春アニメ全集
-18300|4|ja|青春ブタ野郎シリーズ 大学生編
+18300|2|ja|青春ブタ野郎シリーズ 大学生編
 17640|4|ja|青春ブタ野郎はおでかけシスターの夢を見ない
+18300|4|ja|青春ブタ野郎はサンタクロースの夢を見ない
 13900|4|ja|青春ブタ野郎はバニーガール先輩の夢を見ない
 14397|4|ja|青春ブタ野郎はゆめみる少女の夢を見ない
 17862|4|ja|青春ブタ野郎はランドセルガールの夢を見ない
