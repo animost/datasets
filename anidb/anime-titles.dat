@@ -1,4 +1,4 @@
-# created: Sun Nov 24 03:00:02 2024
+# created: Mon Nov 25 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4909,6 +4909,7 @@
 5359|4|de|Beautiful Wives
 11968|1|x-jat|Beautiful World
 16516|4|en|Beauty Water
+1648|4|es-419|Bebé, Mi Amor
 23|3|x-jat|Bebop
 4235|2|x-jat|Bebop High School
 219|3|x-jat|bebop movie
@@ -15986,7 +15987,7 @@
 40|1|x-jat|Fushigi no Umi no Nadia
 603|1|x-jat|Fushigi no Umi no Nadia Gekijou You Original Ban
 603|2|x-jat|Fushigi no Umi no Nadia Mechanic Anthologie
-8891|1|x-jat|Fushigi no Yappo Shima: Pukipuki to Poi
+8891|1|x-jat|Fushigi no Yappojima: Pukipuki to Poi
 3550|1|x-jat|Fushigi Sekai Atagoul Monogatari
 87|4|fr|Fushigi Yûgi
 165|4|fr|Fushigi Yûgi - Eikoden
@@ -35597,6 +35598,7 @@
 224|4|fr|Neoranga
 224|1|x-jat|Neoranga
 2185|2|lt|Nepažįstamojo Kardas
+18578|2|en|Nephilim Hollow
 10076|1|x-jat|Nepos Napos
 9989|1|x-jat|Neppuu Kairiku Bushi Road
 9989|2|x-jat|Neppuu Kairiku Bushiroad
@@ -36980,6 +36982,7 @@
 15050|1|x-jat|Oi-san to 40 no Monogatari
 3638|1|x-jat|Oi! Ryouma
 18019|2|ja|Oi! Tonbo
+18721|2|x-jat|Oi! Tonbo 2nd Season
 13170|1|x-jat|Oide yo! Mizuryuu Kei Land
 12305|1|x-jat|Oide yo! Shiritsu Yarima*ri Gakuen
 12305|2|x-jat|Oide yo! Shiritsu Yarimakuri Gakuen
@@ -37583,6 +37586,7 @@
 13100|1|x-jat|Ooi! Hanimaru
 18019|1|x-jat|Ooi! Tonbo
 18721|1|x-jat|Ooi! Tonbo (2024)
+18721|2|x-jat|Ooi! Tonbo 2nd Season
 18721|2|x-jat|Ooi! Tonbo Season 2
 7134|3|x-jat|Ookami
 7381|3|x-jat|ookami (2010)
@@ -41491,7 +41495,10 @@
 12358|1|x-zht|Rakshasa Street
 15940|2|en|Rakshasa Street 2
 18139|2|en|Rakshasa Street 3
+19009|2|en|Rakshasa Street 4
+19009|2|en|Rakshasa Street 4th Season
 16372|2|en|Rakshasa Street II
+19009|2|en|Rakshasa Street Ⅳ
 11126|1|x-jat|Rakudai Kishi no Cavalry
 11126|2|x-jat|Rakudai Kishi no Eiyuutan
 16876|1|x-jat|Rakudai Majo: Fuuka to Yami no Majo
@@ -44314,6 +44321,7 @@
 16962|3|x-jat|seigen s2
 1576|1|x-jat|Seigi o Ai Suru Mono Gekkou Kamen
 1576|2|x-jat|Seigi o Aisuru Mono Gekkou Kamen
+19010|1|x-jat|Seihantai na Kimi to Boku
 171|1|x-jat|Seihou Bukyou Outlaw Star
 223|1|x-jat|Seihou Tenshi Angel Links
 223|2|x-jat|Seihou Tenshi Angel Rinks
@@ -44377,6 +44385,7 @@
 16962|2|x-jat|Seirei Gensouki S2
 15875|4|en|Seirei Gensouki: Spirit Chronicles
 16962|4|en|Seirei Gensouki: Spirit Chronicles 2
+16962|2|en|Seirei Gensouki: Spirit Chronicles Season 2
 4403|1|x-jat|Seirei no Moribito
 2792|1|x-jat|Seirei Tsukai
 9999|1|x-jat|Seirei Tsukai no Blade Dance
@@ -56681,6 +56690,7 @@
 13502|2|en|Yotsuiro Biyori
 5275|1|x-jat|Yotsunoha
 14822|3|x-jat|YoU
+19010|2|en|You and I Are Polar Opposites
 8367|4|en|You and Me
 8875|4|en|You and Me 2
 17335|2|en|You Are a Genius
@@ -57620,7 +57630,10 @@
 16530|2|x-zht|Zhen Dao Ge: Chenshi Hang
 16267|1|x-zht|Zhen Dao Ge: Qianli Bu Liu Xing
 12358|2|x-zht|Zhen Hun Jie
+19009|1|x-zht|Zhen Hun Jie 4
+19009|2|x-zht|Zhen Hun Jie 4th Season
 18139|1|x-zht|Zhen Hun Jie Di San Ji
+19009|2|x-zht|Zhen Hun Jie Di Si Ji
 12358|2|x-zht|Zhen Hun Jie Di Yi Ji
 15940|1|x-zht|Zhen Hun Jie: Bei Luo Shi Men Pian
 16372|1|x-zht|Zhen Hun Jie: Bei Luo Shi Men Pian 2021
@@ -80199,7 +80212,7 @@
 18099|4|ja|妻に黙って即売会に行くんじゃなかった
 13792|2|ja|妻ネトリ 凌辱輪廻
 18112|4|ja|妻ネトリ 姦 美術教師の場合
-18909|4|ja|妻ネトリ 零 ～僕の過ち 彼女の選択～
+18909|4|ja|妻ネトリ 零 ~僕の過ち 彼女の選択~
 13792|2|ja|妻ネトリ・凌辱輪廻
 17691|4|ja|妻ネトリ3～快楽に堕ちた淫汁教師たち～
 8636|4|ja|妻の母さゆり
@@ -80618,7 +80631,7 @@
 11604|4|ja|対魔忍アサギ2
 12552|4|ja|対魔忍アサギ3
 10189|4|ja|対魔忍ユキカゼ
-16784|4|ja|対魔忍不知火〜淫欲の奴隷娼婦〜
+16784|4|ja|対魔忍不知火~淫欲の奴隷娼婦~
 13234|2|ja|寿司忍者
 11600|4|zh-Hans|寿司警察
 13092|4|zh|封神榜
@@ -84185,6 +84198,7 @@
 4121|2|zh-Hant|歡迎加入NHK!
 6834|4|ja|正ちゃんの冒険
 15224|4|zh-Hans|正义红师
+19010|4|ja|正反対な君と僕
 11762|4|zh-Hans|正确的KADO
 18918|4|zh-Hans|正经少主的幸福生活
 1576|4|ja|正義を愛する者 月光仮面
@@ -89196,6 +89210,7 @@
 15820|4|ja|镇魂街 北落师门篇 下
 12358|2|zh-Hans|镇魂街 第一季
 18139|4|zh-Hans|镇魂街 第三季
+19009|4|zh-Hans|镇魂街 第四季
 15940|2|zh-Hans|镇魂街第二季
 16355|4|zh-Hans|镖人
 17107|4|zh-Hans|镜·双城
