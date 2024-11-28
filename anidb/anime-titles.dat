@@ -1,4 +1,4 @@
-# created: Tue Nov 26 03:00:02 2024
+# created: Wed Nov 27 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6065,6 +6065,7 @@
 14523|4|fr|Bofuri: Je suis pas venue ici pour souffrir alors j`ai tout mis en défense.
 14523|2|pl|Bofuri: Nie lubię bólu, dlatego maksymalizuję swoją obronę.
 10990|1|x-kot|Bogeul Bogeul Bomulseon
+18675|4|en|Bogus Skill &lt;&lt;Fruitmaster&gt;&gt;: About That Time I Became Able to Eat Unlimited Numbers of Skill Fruits (That Kill You)
 8658|2|en|Bogustory
 7952|1|x-jat|Bohemian Rhapsody feat. Matsumoto Reiji
 5610|4|cs|Bohové smrti
@@ -20085,7 +20086,6 @@
 2038|4|tr|Hazine Adası
 4054|4|tr|Hazine Şehri
 18675|1|x-jat|Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) o Mugen ni Taberareru You ni Natta Ken ni Tsuite
-18675|2|x-jat|Hazure Sukiru “Konomi Masuta”: Sukiru no Mi (Tabetara Shinu) o Mugen ni Tabe Rareru yo ni Natta Kudan
 18438|1|x-jat|Hazure Waku no "Joutai Ijou Skill" de Saikyou ni Natta Ore ga Subete o Juurin Suru made
 18438|2|x-jat|Hazurewaku
 2835|3|x-jat|hc
@@ -20950,7 +20950,6 @@
 84|3|x-jat|HikaGo
 2924|3|x-jat|Hikalion
 1864|2|de|Hikari - Die kleinen Superstars
-18649|1|x-jat|Hikari ga Shinda Natsu
 1864|1|x-jat|Hikari no Densetsu
 15654|1|x-jat|Hikari no Megami
 15832|1|x-jat|Hikari no Ou
@@ -20959,6 +20958,7 @@
 11994|1|x-jat|Hikari: Kariya o Tsunagu Monogatari
 6333|4|pt|Hikarian
 4064|2|en|Hikarian 2 : Lightning Attack Express
+18649|1|x-jat|Hikaru ga Shinda Natsu
 12751|1|x-jat|Hikaru Genji: Paradise Ginga
 12770|1|x-jat|Hikaru Genji: Taiyou ga Ippai
 84|1|x-jat|Hikaru no Go
@@ -38932,6 +38932,7 @@
 18791|2|en|Petals of Reincarnation
 15107|4|en|Peter Grill and the Philosopher`s Time
 16973|4|en|Peter Grill and the Philosopher`s Time: Super Extra
+15107|2|pt|Peter Grill e o Tempo do Filósofo
 15107|1|x-jat|Peter Grill to Kenja no Jikan
 16973|1|x-jat|Peter Grill to Kenja no Jikan: Super Extra
 2295|4|en|Peter of Placid Forest
