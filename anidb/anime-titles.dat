@@ -1,4 +1,4 @@
-# created: Wed Nov 27 03:00:02 2024
+# created: Thu Nov 28 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -271,8 +271,10 @@
 10174|1|x-jat|100 Banme no Saru
 8766|1|x-jat|100 Byou Cinema: Robo to Shoujo (Kari)
 17906|2|en|100 Girlfriends
+18343|2|en|100 Girlfriends 2
 1001|2|lt|100 Istorijų
 17906|2|x-jat|100 Kanojo
+18343|2|ja|100 Kanojo 2
 15455|1|x-jat|100 Nichikan Ikita Wani
 17906|4|id|100 Pacar yang Sungguh Sangat Amat Benar-benar Mencintaimu
 12362|4|en|100 Sleeping Princes & the Kingdom of Dreams
@@ -309,6 +311,7 @@
 15930|3|x-jat|100man s2
 15455|3|x-jat|100wani
 17906|3|ja|100カノ
+18343|3|ja|100カノ 2
 10174|4|ja|100ばんめのサル
 15415|4|ja|100万の命の上に俺は立っている
 15930|4|ja|100万の命の上に俺は立っている (2021)
@@ -21980,6 +21983,7 @@
 7440|1|x-jat|Hyakka Ryouran: Samurai Girls
 5156|1|x-jat|Hyakka Zukan
 17906|3|x-jat|hyakkano
+18343|3|x-jat|hyakkano 2
 1628|1|x-jat|Hyakki
 4109|2|x-jat|Hyakki Yako: Warashi
 1628|4|es|Hyakki, el secreto de la isla del diablo
@@ -26197,6 +26201,7 @@
 3564|2|en|King of Fighters
 593|2|en|King of Games!
 9645|2|en|King of Inventors, Maniac
+14860|2|en|King of Jin in Tang Dynasty
 18585|2|en|King of Loose Cultivators
 18553|4|ja|KING OF PRISM -Dramatic PRISM.1-
 12403|4|ja|KING OF PRISM -PRIDE the HERO-
@@ -41120,6 +41125,7 @@
 18485|1|x-zht|Qi Hou Bilu
 17104|1|x-zht|Qi Jie Diyi Xian
 17874|2|en|Qi Refining for 3000 Years
+19016|1|x-zht|Qia Tongxue Shaonian
 17163|1|x-zht|Qian Cong Shou
 14836|1|x-zht|Qiang Ling Ji Hua
 13609|1|x-zht|Qiang Niang
@@ -46206,6 +46212,7 @@
 4239|4|en|Simoun
 15855|4|en|Simple yet Sexy
 612|4|tr|Şimşek Santrafor
+8112|4|es-419|Sin Alas para Volar
 2212|4|es|Sin familia
 4363|1|x-jat|Sin in the Rain
 4363|4|ja|sin in the rain
@@ -50604,6 +50611,7 @@
 14375|4|en|The Invasion of Awakening
 16491|2|en|The Invasion Of Awakening Part 2
 18386|2|en|The Invincible
+19015|2|en|The Invisible Man and His Soon-to-Be Wife
 4192|4|en|The Invisible Stud
 8414|2|en|The Iron Fist: Blood Vengeance
 10182|4|en|The Irregular at Magic High School
@@ -51295,7 +51303,7 @@
 8242|2|en|The Suffering Pariah Kaiji: Backslide Arc
 8242|2|en|The Suffering Pariah Kaiji: Maverick Arc
 5427|2|en|The Suffering Pariah Kaiji: Ultimate Survivor
-18649|2|en|The Summer Hikaru Died
+18649|4|en|The Summer Hikaru Died
 6633|2|en|The Summer of Dioxin
 14529|2|en|The Summer Vacation Treasure Hunt
 6350|2|en|The Summertime Mischief
@@ -52564,6 +52572,7 @@
 2554|1|x-jat|Touma Kijin Den Oni
 4192|1|x-jat|Toumei Ningen
 7262|1|x-jat|Toumei Ningen R
+19015|1|x-jat|Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari
 14936|1|x-jat|Toumei Shounen Tantei Akira
 12031|3|x-jat|tourabu
 13484|3|x-jat|tourabu movie 1
@@ -53039,6 +53048,7 @@
 17691|1|x-jat|Tsuma Netori 3: Kairaku ni Ochita Injiru Kyoushi-tachi
 18112|1|x-jat|Tsuma Netori Kan: Bijutsu Kyoushi no Baai
 18909|1|x-jat|Tsuma Netori Rei: Boku no Ayamachi Kanojo no Sentaku
+18909|2|en|Tsuma Netori Zero: My Mistake, Her Choice
 13792|2|x-jat|Tsuma Netori: Ryoujoku Rinne
 18099|1|x-jat|Tsuma ni Damatte Sokubaikai ni Ikun ja Nakatta
 8636|1|x-jat|Tsuma no Haha Sayuri
@@ -58143,6 +58153,7 @@
 2654|4|el|Το θαυμαστό ταξίδι του Νίλς Χόλγκερσον
 331|4|el|Το Κάστρο στον Ουρανό
 1218|4|el|Το Κινούμενο Κάστρο
+2279|2|el|Το Παιδί της Ζούγκλας
 1681|4|el|Το Ράλλυ του Μόντε Κάρλο
 1133|4|el|Το Τρίγωνο
 2316|4|el|Το χρυσό πουλί
@@ -65344,6 +65355,7 @@
 5005|2|ko|다비드의 별
 9596|4|ko|다윗과 골리앗
 4527|2|ko|다이버스터 극장판
+18832|2|ko|다이쇼 가짜 브라이덜 대리신부와 군복의 맹렬한 사랑
 12557|2|ko|다이쇼 꼬마
 8979|2|ko|다크 블루
 2403|2|ko|다크 쉘
@@ -71643,8 +71655,7 @@
 412|2|ja|ゾーン オブ エンダーズ ドロレス・アイ
 1382|4|ja|ゾイド
 3070|4|ja|ゾイド ジェネシス
-1775|4|ja|ゾイド・フューザース
-1775|2|ja|ゾイドフューザーズ
+1775|4|ja|ゾイドフューザーズ
 13845|4|ja|ゾイドワイルド
 15026|4|ja|ゾイドワイルド ZERO
 17186|4|ja|ゾイドワイルド戦記
@@ -81740,6 +81751,7 @@
 1963|4|ja|恥辱診察室
 1963|2|zh-Hant|恥辱診察室
 6320|4|ja|息子の友達に犯されて
+19016|4|zh-Hans|恰同学少年
 17819|4|zh-Hant|恰如細語般的戀歌
 9357|4|zh-Hans|恶之华
 5678|2|zh-Hans|恶作剧之吻
@@ -85246,6 +85258,7 @@
 9183|4|ja|物語シリーズ セカンドシーズン
 9183|4|zh-Hant|物語系列 第二季
 9183|4|zh-Hans|物语系列 第二季
+18424|4|zh-Hans|物语系列 第外季&第怪季
 13409|4|zh-Hans|牵牛花与加濑同学。
 17279|4|ja|特『刀剣乱舞-花丸-』~雪月華~
 3499|2|zh-Hans|特公
@@ -88668,6 +88681,7 @@
 4192|4|ja|透明人間
 7262|4|ja|透明人間R
 14936|4|ja|透明少年探偵アキラ
+19015|4|ja|透明男と人間女~そのうち夫婦になるふたり~
 483|4|zh-Hans|透镜人
 7316|4|ja|這いよる! ニャルアニ
 7992|4|ja|這いよる!ニャルアニ リメンバー・マイ・ラブ(クラフト先生)
@@ -89890,6 +89904,7 @@
 17501|4|zh-Hans|香格里拉・开拓异境～粪作猎手挑战神作～
 18578|4|zh-Hans|香格里拉・开拓异境～粪作猎手挑战神作～ 第二季
 17501|4|zh-Hant|香格里拉・開拓異境～糞作獵手挑戰神作～
+18578|4|zh-Hant|香格里拉・開拓異境～糞作獵手挑戰神作～ 第二季
 15036|4|zh-Hans|香蕉喵 不可思议的伙伴们
 18837|4|zh-Hant|香蕉喵遊世界
 11910|4|zh-Hans|香蕉猫咪
