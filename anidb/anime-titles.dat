@@ -1,4 +1,4 @@
-# created: Thu Nov 28 03:00:02 2024
+# created: Fri Nov 29 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -429,6 +429,7 @@
 17492|4|ja|2.43ミニアニメ inside story
 17491|4|ja|2.43ミニアニメ 福井弁講座
 17760|4|en|2.5 Dimensional Seduction
+17760|4|de|2.5 Dimensional Seduction
 17760|1|x-jat|2.5 Jigen no Ririsa
 17760|2|x-jat|2.5 Jigen no Yuuwaku
 17760|4|es|2.5 Seducción Dimensional
@@ -7828,7 +7829,6 @@
 4396|2|x-jat|Chevalier
 16198|2|fr|Chez Imaizumi, point de chute pour filles faciles
 5801|3|en|Chi
-17480|2|x-jat|Chi - Chikyuu no Undou ni Tsuite
 333|4|vi|Chỉ còn ngày hôm qua
 11168|1|x-zht|Chi Jian Chuan Qi
 12103|4|fr|Chi mon chaton
@@ -15671,6 +15671,7 @@
 17617|4|es-419|Frieren: Más allá del final del viaje
 17617|4|de|Frieren: Nach dem Ende der Reise
 17617|4|es|Frieren: Tras finalizar el viaje
+17617|4|pl|Frieren. U kresu drogi
 1113|4|de|Frivole Unschuld
 13189|4|en|Frog Kingdom
 14873|2|en|Frog Prince Adventures
@@ -22532,6 +22533,7 @@
 7486|3|x-jat|ikamusume
 9046|3|x-jat|IkaMusume OVA
 8294|3|x-jat|ikamusume2
+19017|1|x-jat|Ikari no Daichi
 688|1|x-jat|Ike! Ina-chuu Takkyuubu
 14521|1|x-jat|Ikebukuro
 14521|4|ja|IKEBUKURO
@@ -26102,6 +26104,7 @@
 8367|1|x-jat|Kimi to Boku.
 8875|1|x-jat|Kimi to Boku. 2
 16553|1|x-jat|Kimi to Fit Boxing
+19019|1|x-jat|Kimi to Idol Precure
 14465|1|x-jat|Kimi to, Nami ni Noretara
 17131|1|x-jat|Kimi wa Houkago Insomnia
 15414|1|x-jat|Kimi wa Kanata
@@ -40798,6 +40801,7 @@
 10255|2|ja|Project575
 281|3|x-jat|projectako
 281|4|pl|Projekt A-ko
+16250|4|pl|Projekt: cosplay
 4708|2|lt|Projektas Laisvė
 13261|4|fr|Promare
 13261|1|x-jat|Promare
@@ -53405,6 +53409,7 @@
 7231|1|x-jat|Uchuu Show e Youkoso
 3124|1|x-jat|Uchuu Taitei God Sigma
 13257|2|x-jat|Uchuu yori mo Tooi Basho
+19018|1|x-jat|Uchuujin Mumu
 5073|1|x-jat|Uchuujin Pipi
 4623|1|x-jat|Uchuujin Tanaka Tarou
 1833|1|x-jat|Uchuusen Sagittarius
@@ -56711,6 +56716,7 @@
 5275|1|x-jat|Yotsunoha
 14822|3|x-jat|YoU
 19010|2|en|You and I Are Polar Opposites
+19019|2|en|You and Idol Precure
 8367|4|en|You and Me
 8875|4|en|You and Me 2
 17335|2|en|You Are a Genius
@@ -57627,6 +57633,7 @@
 15090|1|x-jat|Zettaizetsumei Dangerous Jii-san
 4371|1|x-jat|Zettaizetsumei Dangerous Jii-san (2004)
 15091|1|x-jat|Zettaizetsumei Dangerous Jii-san (2005)
+16971|4|pl|Zew nocy
 3969|2|x-jat|ZGII
 3969|3|en|ZGII -Lovers-
 11653|1|x-zht|Zhan Long Si Qu
@@ -69968,6 +69975,7 @@
 17616|3|ja|キミゼロ
 14041|4|ja|キミだけにモテたいんだ.
 14465|4|ja|きみと, 波にのれたら
+19019|4|ja|キミとアイドルプリキュア♪
 16553|4|ja|キミとフィットボクシング
 10956|4|ja|キミとボク
 15216|4|ja|キミと僕の最後の戦場, あるいは世界が始まる聖戦
@@ -80428,6 +80436,7 @@
 11299|4|ja|宇宙一直線
 2410|4|ja|宇宙交響詩メーテル ~銀河鉄道999外伝~
 5073|4|ja|宇宙人ピピ
+19018|4|ja|宇宙人ムームー
 1016|4|ja|宇宙伝説ユリシーズ31
 8865|4|zh-Hans|宇宙兄弟
 8865|4|ja|宇宙兄弟
@@ -81558,6 +81567,7 @@
 6277|4|ja|念仏物語 親鸞さま ねがい, そして ひかり.
 18846|4|zh-Hans|念无双
 3314|4|zh-Hans|怀念奶奶
+19017|4|ja|怒りの大地
 15122|2|zh-Hans|怕羞的小黄莺
 15122|2|zh-Hans|怕羞的黄莺
 15122|4|zh-Hant|怕羞的黄鶯
