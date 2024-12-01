@@ -1,4 +1,4 @@
-# created: Fri Nov 29 03:00:01 2024
+# created: Sat Nov 30 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -277,6 +277,7 @@
 18343|2|ja|100 Kanojo 2
 15455|1|x-jat|100 Nichikan Ikita Wani
 17906|4|id|100 Pacar yang Sungguh Sangat Amat Benar-benar Mencintaimu
+17806|4|pl|100 rzeczy do zrobienia, zanim zostanę zombie
 12362|4|en|100 Sleeping Princes & the Kingdom of Dreams
 1001|2|en|100 Stories
 15415|3|en|100-man
@@ -1835,6 +1836,8 @@
 4182|1|x-jat|Ajin Senshi
 11577|4|en|Ajin: Demi-Human
 11577|4|fr|Ajin: Demi-Human
+11577|4|pl|Ajin: Demi-Human
+12111|4|pl|Ajin: Demi-Human Sezon 2
 12111|3|x-jat|ajin: part 2
 11577|4|es-419|Ajin: Semihumano
 11577|2|tr|Ajin: Yarı İnsan
@@ -3032,6 +3035,7 @@
 8870|3|x-jat|apollon
 13910|2|fr|Apothéoses d’après-cours
 17708|4|en|Apotheosis
+18252|2|en|Apotheosis 2
 18252|2|en|Apotheosis 2nd Season
 18252|2|en|Apotheosis S2
 15145|3|x-jat|appare
@@ -4189,6 +4193,8 @@
 18524|2|en|Bai Jia Jue: The Strange Stories of Jianghu
 17708|1|x-zht|Bai Lian Cheng Shen
 18252|1|x-zht|Bai Lian Cheng Shen 2
+18252|2|x-zht|Bai Lian Cheng Shen 2nd Season
+18252|2|x-zht|Bai Lian Cheng Shen Di Er Ji
 16646|1|x-zht|Bai She II: Qing She Jie Qi
 18983|1|x-zht|Bai She: Fusheng
 14876|1|x-zht|Bai She: Yuanqi
@@ -17287,6 +17293,7 @@
 1838|2|x-jat|Getter Robo: Shin Getter Robo
 881|2|x-jat|Getter Robo: Shin Getter Robo Tai Neo Getter Robo
 17512|1|x-kot|Geu Yeoreum
+19021|1|x-kot|Geu Yeoreum (2023)
 12796|2|x-kot|Geugjangpan Annyeong Jadooya
 12796|1|x-kot|Geugjangpan Annyeong Jaduya
 13825|1|x-kot|Geugjangpan Turning Mecard W: Black Mirror ui Buhwal
@@ -22813,6 +22820,7 @@
 9376|2|en|In This Corner (and Other Corners) of the World
 9376|4|en|In This Corner of the World
 9376|4|de|In this Corner of the World
+14233|4|en|In This Corners of the World
 5466|2|x-jat|In Warau Kangofu The Animation
 14602|4|en|In/Spectre
 15876|4|en|In/Spectre Season 2
@@ -23097,6 +23105,7 @@
 144|4|de|Inu Yasha
 14949|2|x-jat|Inu-oh
 14949|4|en|Inu-Oh
+14949|4|fr|Inu-Oh
 14949|1|x-jat|Inu-Ou
 8564|3|x-jat|inuboku
 10398|2|en|Inugami and Nekoyama
@@ -30230,6 +30239,8 @@
 823|4|en|Lupin the 3rd: The Mystery of Mamo
 810|4|de|Lupin the 3rd: The Secret of Twilight Gemini
 986|4|de|Lupin the 3rd: Voyage To Danger
+19020|1|x-jat|Lupin the IIIrd the Movie
+19020|4|ja|LUPIN THE IIIRD THE MOVIE
 14616|4|ja|LUPIN THE IIIRD 峰不二子の嘘
 10535|4|ja|LUPIN THE IIIRD 次元大介の墓標
 12398|4|ja|LUPIN THE IIIRD 血煙の石川五ェ門
@@ -33812,6 +33823,7 @@
 7|3|x-jat|mononoke (1997)
 11478|1|x-jat|Mononoke Dance
 7|2|en|Mononoke Princess
+17466|4|en|Mononoke The Movie
 5113|3|ja|mononoke tv
 7|1|x-jat|Mononoke-hime
 5113|3|x-jat|mononoke07
@@ -65078,6 +65090,7 @@
 12566|2|ko|극장판 코드 기아스: 부활의 를르슈
 13825|4|ko|극장판 터닝메카드 W: 블랙미러의 부활
 15812|4|ko|극주부도
+18775|2|ko|극한치한특이점3
 14721|4|ko|글레이프니르
 1168|2|ko|글로리아 금단의 혈족
 9290|2|ko|금단의 병동
@@ -72988,7 +73001,6 @@
 18459|4|ja|ぬきたし THE ANIMATION
 9762|4|ja|ヌキどきッ! ~天使と悪魔の搾精バトル~
 12594|4|ja|ヌキどきッ! ~天使と悪魔の搾精バトル~ Revolution
-12594|2|ja|ヌキどきッ！Revolution ～天使と悪魔の搾精バトル～
 9119|4|ja|ぬっこ.
 7404|4|ja|ぬらりひょんの孫
 9368|4|ja|ぬらりひょんの孫 (2012)
