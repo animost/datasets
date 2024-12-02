@@ -1,4 +1,4 @@
-# created: Sat Nov 30 03:00:02 2024
+# created: Sun Dec  1 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1901,6 +1901,7 @@
 10407|1|x-jat|Akame ga Kill!
 10407|4|en|Akame ga Kill!
 10407|4|de|Akame ga Kill!
+10407|4|pl|Akame ga Kill!
 1892|3|x-jat|akane
 6025|4|en|Akane Iro ni Somaru Saka
 2425|1|x-jat|Akane Maniax
@@ -2195,6 +2196,7 @@
 3084|2|en|Alice`s Detective Agency
 2744|4|es|Alicia en el País de las Maravillas
 2744|2|pl|Alicja w Krainie Czarów
+8337|4|pl|Alicja w Krainie Serc
 58|2|fr|Alien 9
 58|2|x-jat|Alien 9
 1655|4|en|Alien Defender Geo-Armor: Kishin Corps
@@ -2844,6 +2846,7 @@
 8556|1|x-jat|Another
 8556|4|en|Another
 8556|4|zh-Hans|Another
+8556|4|pl|Another
 8625|2|x-jat|Another 0-kan
 8625|2|ja|Another 0巻
 18919|4|en|Another Journey to the West
@@ -2917,6 +2920,7 @@
 361|2|x-jat|Ao no 6-gou
 11333|1|x-jat|Ao no Doumon
 8148|1|x-jat|Ao no Exorcist
+8148|4|pl|Ao No Exorcist
 18561|2|x-jat|Ao no Exorcist - Yuki no Hate-hen
 18561|2|x-jat|Ao no Exorcist 4th Season
 8689|1|x-jat|Ao no Exorcist Gekijouban
@@ -3706,6 +3710,7 @@
 10241|2|en|Atelier Escha & Logy - Alchemists of the Dusk Sky
 10241|4|en|Atelier Escha & Logy: Alchemists of the Dusk Sky
 17920|4|en|Atelier Ryza: Ever Darkness & the Secret Hideout
+17305|4|pl|Atelier spiczastych kapeluszy
 8509|1|x-jat|Aterui
 332|2|tr|Ateş Böceklerinin Mezarı
 332|4|tr|Ateşböceklerinin Mezarı
@@ -26541,8 +26546,6 @@
 10139|1|x-jat|Kizudarake no Ringo
 8357|1|x-jat|Kizumonogatari
 8357|4|en|Kizumonogatari
-18669|4|ja|Kizumonogatari III: Reiketsu-hen
-18669|1|x-jat|Kizumonogatari Part 3: Reiketsu
 18187|1|x-jat|Kizumonogatari: Koyomi Vamp
 794|1|x-jat|Kizuna
 3459|4|de|Kizuna - Liebe und viel Lärm um nichts
@@ -34235,7 +34238,7 @@
 141|3|en|MUC OVA
 140|3|en|MUC TV
 14220|1|x-jat|Muchi Muchi Kyousei Seichouchuu!!!
-18930|1|x-jat|Muchuusa, Kimi ni.
+18930|1|x-jat|Muchuu sa, Kimi ni.
 7261|2|x-jat|Mudadzumo Naki Kaikaku
 11248|1|x-jat|Mudai
 7261|3|x-jat|mudazumo
@@ -62102,6 +62105,7 @@
 7873|2|bg|Фрактейл
 5001|2|ru|Франц Кафка - Сельский врач
 4708|2|bg|Фрийдъм
+17617|4|ru|Фрирен, провожающая в последний путь
 8176|2|uk|Фуджілог
 117|2|ru|Фури Кури
 117|2|bg|Фури Кури
