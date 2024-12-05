@@ -1,4 +1,4 @@
-# created: Tue Dec  3 03:00:02 2024
+# created: Wed Dec  4 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3258,7 +3258,6 @@
 17615|3|x-jat|arifure s3
 13624|1|x-jat|Arifureta Shokugyou de Sekai Saikyou
 15135|1|x-jat|Arifureta Shokugyou de Sekai Saikyou 2nd Season
-17647|1|x-jat|Arifureta Shokugyou de Sekai Saikyou 2nd Season: Maboroshi no Bouken to Kiseki no Kaikou
 17615|1|x-jat|Arifureta Shokugyou de Sekai Saikyou Season 3
 13624|2|x-jat|Arifureta Shokugyou de Sekaisaikyou
 13624|4|en|Arifureta: From Commonplace to World`s Strongest
@@ -10878,6 +10877,7 @@
 2052|3|en|Detective Conan: Movie 7
 2328|3|en|Detective Conan: Movie 8
 2763|3|en|Detective Conan: Movie 9
+19025|2|en|Detective Conan: One-Eyed Flashback
 9505|2|en|Detective Conan: Private Eye in the Distant Sea
 8121|2|en|Detective Conan: Quarter of Silence
 4187|2|en|Detective Conan: Requiem of the Detectives
@@ -21085,6 +21085,7 @@
 13106|1|x-jat|Himouto! Umaru-chan R
 13106|4|en|Himouto! Umaru-chan R
 11287|1|x-jat|Himouto! Umaru-chan: Umaru-chan Mou Ikkai!
+19023|1|en|Himouto! Umaru-chanS
 18567|1|x-jat|Hina
 12018|3|x-jat|hina logi
 12018|1|x-jat|Hina Logi: From Luck & Logic
@@ -23603,6 +23604,7 @@
 17316|4|ja|J〇限界交尾 ~合意挿入でバチバチ肉穴化~
 1332|3|x-jat|J2
 14743|1|x-jat|JA Kumamoto Keizairen
+17507|2|pt|Já não é Permitido em Outro Mundo
 332|4|et|Jaanimardikate haud
 4293|4|en|Jack and the Beanstalk
 7614|2|en|Jack and the Beanstalk (1989)
@@ -25823,6 +25825,7 @@
 7408|1|x-jat|Kidou Senshi Gundam Double O: A Wakening of the Trailblazer
 626|1|x-jat|Kidou Senshi Gundam F91
 15346|1|x-jat|Kidou Senshi Gundam G40
+19026|1|x-jat|Kidou Senshi Gundam GQuuuuuuX
 729|2|x-jat|Kidou Senshi Gundam I: Tokubetsu Hen
 4166|1|x-jat|Kidou Senshi Gundam II: Ai Senshi Hen
 4167|1|x-jat|Kidou Senshi Gundam III: Meguriai Sora Hen
@@ -32438,6 +32441,7 @@
 12537|1|x-jat|Meitantei Conan: Nazo no Suisei Kaijuu o Oe!
 18087|1|x-jat|Meitantei Conan: Necchuushou no Nazo wo Toke!
 2646|1|x-jat|Meitantei Conan: Seikimatsu no Majutsushi
+19025|1|x-jat|Meitantei Conan: Sekigan no Flashback
 5934|1|x-jat|Meitantei Conan: Senritsu no Full Score
 16301|1|x-jat|Meitantei Conan: Shakunetsu no Galaxy Railroad
 6245|1|x-jat|Meitantei Conan: Shikkoku no Chaser
@@ -56969,6 +56973,7 @@
 9591|3|x-jat|yowapeda
 10643|3|x-jat|yowapeda 2
 11154|3|x-jat|yowapeda movie
+19024|1|x-jat|Yowayowa Sensei
 9464|4|de|Yoyo & Nene - Die magischen Schwestern
 4114|2|x-jat|Yoyo no Neko Tsumami
 5976|3|x-jat|yoza
@@ -68612,7 +68617,6 @@
 2215|4|ja|アリババと40匹の盗賊
 13624|4|ja|ありふれた職業で世界最強
 15135|4|ja|ありふれた職業で世界最強 2nd season
-17647|4|ja|ありふれた職業で世界最強 2nd season 幻の冒険と奇跡の邂逅
 17615|4|ja|ありふれた職業で世界最強 season 3
 4207|4|ja|アル・カラルの遺産
 14739|4|ja|あるアパートの一室
@@ -75559,6 +75563,7 @@
 8842|4|ja|ヨルムンガンド
 9076|4|ja|ヨルムンガンド PERFECT ORDER
 3051|4|ja|よろしくメカドック
+19024|4|ja|よわよわ先生
 7275|4|ja|よんでますよ, アザゼルさん.
 8288|4|ja|よんでますよ, アザゼルさん. (2011)
 9501|4|ja|よんでますよ, アザゼルさん. Z
@@ -78750,6 +78755,7 @@
 2052|4|ja|名探偵コナン 迷宮の十字路(クロスロード)
 2328|4|ja|名探偵コナン 銀翼の奇術師[マジシャン]
 5444|4|ja|名探偵コナン 阿笠からの挑戦状! 阿笠vsコナン&少年探偵団
+19025|4|ja|名探偵コナン 隻眼の残像
 17334|4|ja|名探偵コナン 黒鉄の魚影
 10953|4|ja|名探偵コナン・業火の向日葵
 10290|4|ja|名探偵コナン・異次元の狙撃手[スナイパー]
@@ -84083,6 +84089,7 @@
 284|4|zh-Hans|橙路 那个夏天的开始
 8000|4|ja|機兵戦記レガシーズ
 170|4|ja|機動天使エンジェリックレイヤー
+19026|4|ja|機動戦士Gundamジークアクス
 596|4|ja|機動戦士SDガンダム
 1037|4|ja|機動戦士SDガンダム Mk-II
 3060|4|ja|機動戦士SDガンダム Mk-III
