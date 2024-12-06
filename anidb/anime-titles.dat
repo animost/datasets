@@ -1,4 +1,4 @@
-# created: Wed Dec  4 03:00:01 2024
+# created: Thu Dec  5 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -109,6 +109,7 @@
 4317|1|x-jat|"Eiji"
 12936|1|x-jat|"Eikou Naki Tensai-tachi" kara no Monogatari
 12142|1|x-jat|"Eiyuu" Kaitai
+19028|1|x-jat|"Fate/Grand Order" Explore Movie 2024
 18160|1|x-jat|"Fate/Grand Order" Memorial Movie 2023
 15460|1|x-jat|"Hataraku Saibou!!" Saikyou no Teki, Futatabi. Karada no Naka wa "Chou" Oosawagi!
 12142|2|en|"Heroes" Dismissed
@@ -176,6 +177,7 @@
 15157|4|ja|「宇宙戦艦ヤマト」という時代 西暦2202年の選択
 12142|4|ja|「英雄」解体
 18922|4|ja|「鬼滅の刃」上弦集結、そして刀鍛冶の里へ
+19028|4|ja|『Fate/Grand Order』 Explore Movie 2024
 18160|4|ja|『Fate/Grand Order』 Memorial Movie 2023
 17129|4|ja|『あなたを一言で表してください』の質問が苦手だ.
 1028|4|ja|『サクラ大戦』~神崎すみれ引退記念~「す・み・れ」
@@ -11525,7 +11527,6 @@
 13028|4|en|Dishonor Student
 10281|1|x-jat|Disk Wars: Avengers
 13578|1|x-jat|Disney Tsum Tsum
-19008|1|x-jat|Disney Twisted-Wonderland the Animation
 16908|1|x-jat|Disney: Twisted-Wonderland the Animation
 1988|2|en|Disqualified Doctor
 70|2|es|Distrito comercial mágico Abenobashi
@@ -12035,6 +12036,7 @@
 18102|2|en|Doraemon: Nobita`s Earth Symphony
 6586|2|en|Doraemon: Nobita`s Fantastical Three Musketeers
 5046|2|en|Doraemon: Nobita`s Galactic Express
+6585|4|en|Doraemon: Nobita`s Genesis Diary
 3315|4|en|Doraemon: Nobita`s Great Adventure in the South Seas
 6595|2|en|Doraemon: Nobita`s Great Adventure into the Underworld
 6719|2|en|Doraemon: Nobita`s Great Battle of the Mermaid King
@@ -25825,7 +25827,7 @@
 7408|1|x-jat|Kidou Senshi Gundam Double O: A Wakening of the Trailblazer
 626|1|x-jat|Kidou Senshi Gundam F91
 15346|1|x-jat|Kidou Senshi Gundam G40
-19026|1|x-jat|Kidou Senshi Gundam GQuuuuuuX
+19027|1|x-jat|Kidou Senshi Gundam GQuuuuuuX
 729|2|x-jat|Kidou Senshi Gundam I: Tokubetsu Hen
 4166|1|x-jat|Kidou Senshi Gundam II: Ai Senshi Hen
 4167|1|x-jat|Kidou Senshi Gundam III: Meguriai Sora Hen
@@ -33522,6 +33524,7 @@
 626|4|fr|Mobile Suit Gundam F91
 626|4|de|Mobile Suit Gundam F91
 15346|2|en|Mobile Suit Gundam G40
+19027|2|en|Mobile Suit Gundam GQuuuuuuX
 729|4|en|Mobile Suit Gundam I
 729|4|cs|Mobile Suit Gundam I
 729|4|it|Mobile Suit Gundam I
@@ -41536,6 +41539,7 @@
 1885|2|en|Rainbow Squadron Robin
 7389|4|ja|RAINBOW 二舎六房の七人
 8928|2|en|Rainbow-Coloured Fireflies: The Eternal Summer Vacation
+7389|6|es-419|RAINBOW: Los siete de la celda 6 bloque 2
 7389|1|x-jat|Rainbow: Nisha Rokubou no Shichinin
 4990|4|en|Rainbowman
 10994|4|en|Rainy Cocoa
@@ -72271,7 +72275,6 @@
 11875|2|ja|デイズ
 14020|4|ja|デイズ (2014)
 10281|4|ja|ディスク・ウォーズ: アベンジャーズ
-19008|4|ja|ディズニー ツイステッドワンダーランド  ザ アニメーション
 16908|4|ja|ディズニー ツイステッドワンダーランド ザ アニメーション
 13578|4|ja|ディズニー ツムツム
 13158|2|ja|ディッキー&カリーナ
@@ -84089,7 +84092,7 @@
 284|4|zh-Hans|橙路 那个夏天的开始
 8000|4|ja|機兵戦記レガシーズ
 170|4|ja|機動天使エンジェリックレイヤー
-19026|4|ja|機動戦士Gundamジークアクス
+19027|4|ja|機動戦士Gundam GQuuuuuuX
 596|4|ja|機動戦士SDガンダム
 1037|4|ja|機動戦士SDガンダム Mk-II
 3060|4|ja|機動戦士SDガンダム Mk-III
