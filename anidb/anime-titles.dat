@@ -1,4 +1,4 @@
-# created: Thu Dec  5 03:00:02 2024
+# created: Fri Dec  6 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -20310,6 +20310,8 @@
 5850|4|en|Hell Girl: Three Vessels
 4638|4|en|Hell Girl: Two Mirrors
 6554|2|en|Hell Knight Ingrid
+19029|2|en|Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing
+19029|1|x-jat|Hell Mode: Yarikomi Suki No Gamer wa Hai Settei no Isekai de Musou Suru - Hajimari no Shoukan Samurai
 17231|1|x-jat|Hell People!
 6294|4|ja|HELL TARGET
 6294|1|x-jat|Hell Target
@@ -32779,6 +32781,7 @@
 6087|3|x-jat|mhtv
 288|3|x-jat|MI
 18534|4|es|Mi Amiga Nokotan es un Ciervo
+18534|4|es-419|Mi Amiga Nokotan es un Ciervo
 4693|4|es|Mi Amigo el Mapache
 16994|1|x-zht|Mi Bao Chuanshuo: Bai Cheng Ming Huan You Ji
 16269|1|x-zht|Mi Bao Zhi Guo
@@ -74481,6 +74484,7 @@
 181|3|ja|ベルばら
 17231|4|ja|ヘルピポ!
 4275|4|ja|ヘルメス 愛は風の如く
+19029|4|ja|ヘルモード ~やり込み好きのゲーマーは廃設定の異世界で無双する~ はじまりの召喚士
 7192|4|ja|ペレストロイカ
 3623|4|ja|ヘレン・ケラー物語 愛と光の天使
 9933|4|ja|ぺろぺろ☆てぃーちゃー
