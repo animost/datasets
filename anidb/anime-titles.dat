@@ -1,4 +1,4 @@
-# created: Sat Dec  7 03:00:02 2024
+# created: Sun Dec  8 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3991,7 +3991,8 @@
 15327|4|en|Azur Lane: Slow Ahead!
 18188|2|en|Azur Lane: Slow Ahead! 2
 18078|2|en|Azure Legacy
-18764|2|en|Azure Legacy 2
+19030|2|en|Azure Legacy 2
+18764|2|en|Azure Legacy Special
 14396|3|x-jat|azurlane
 15327|3|x-jat|azurlane (2021)
 1760|2|it|Azusa ci Aiuterà
@@ -4265,6 +4266,7 @@
 6327|1|x-jat|Bakemonogatari
 6327|4|en|Bakemonogatari
 6327|4|fr|Bakemonogatari
+6327|4|pl|Bakemonogatari
 5113|2|x-jat|bakeneko
 18502|1|x-jat|Bakeneko Anzu-chan
 453|4|de|Baki
@@ -4371,6 +4373,9 @@
 7251|3|x-jat|bakuman
 7251|4|de|Bakuman
 7251|2|en|Bakuman
+7251|4|pl|Bakuman
+8150|4|pl|Bakuman 2
+8836|4|pl|Bakuman 3
 8150|2|en|Bakuman S2
 8836|2|en|Bakuman S3
 7251|1|x-jat|Bakuman.
@@ -4659,6 +4664,7 @@
 2436|4|fi|Basilisk
 2436|4|en|Basilisk
 2436|4|es-419|Basilisk
+2436|4|pl|Basilisk
 2436|4|pt|Basilisk - O Pergaminho Secreto do Ninja Kouga
 2436|4|de|Basilisk: Chronik der Koga-Ninja
 2436|1|x-jat|Basilisk: Kouga Ninpou Chou
@@ -4734,6 +4740,7 @@
 147|4|de|Battle Angel Alita
 147|4|sv|Battle Angel Alita
 147|2|en|Battle Angel Alita
+147|4|pl|Battle Angel Alita
 9327|2|en|Battle Angel Alita - Motorball CG Movie
 1293|4|en|Battle Arena Toshinden
 848|4|en|Battle Athletes
@@ -5238,8 +5245,14 @@
 14915|1|x-jat|Beywheelz
 3573|2|lt|Bežiūrint į dylantį mėnulį
 11523|4|pl|Bezpańscy Literaci
+17131|4|pl|Bezsenność po szkole
 5533|2|pl|Bezsensowna gra
 12743|2|pl|Beztroski Kemping
+14438|4|pl|Beztroski kemping Film
+14437|4|pl|Beztroski kemping Sezon 2
+17676|4|pl|Beztroski kemping Sezon 3
+18974|4|pl|Beztroski kemping Sezon 4
+11487|4|pl|Beztroskie dni
 5053|4|cs|Bezvadná dvojka
 1092|3|en|BF
 3445|2|x-jat|bfer
@@ -5793,6 +5806,7 @@
 17714|4|en|Blood and Heart: The Legendary Life of a Japanese Youth in China
 10663|4|en|Blood Blockade Battlefront
 10663|4|fr|Blood Blockade Battlefront
+10663|4|pl|Blood Blockade Battlefront
 12571|4|en|Blood Blockade Battlefront & Beyond
 12571|4|fr|Blood Blockade Battlefront & Beyond
 11889|2|en|Blood Blockade Battlefront King Of Kings Restaurant Fit For A King
@@ -5961,12 +5975,14 @@
 7056|2|en|Blue Literature Series
 16519|4|en|Blue Lock
 16519|1|x-jat|Blue Lock
+16519|4|pl|Blue Lock
 17954|2|x-jat|BLUE LOCK 2
 17954|2|x-jat|BLUE LOCK 2nd Season
 17954|2|x-jat|Blue Lock S2
 17954|2|x-jat|BLUE LOCK Season 2
 17954|1|x-jat|Blue Lock vs. U-20 Japan
 17954|4|en|Blue Lock vs. U-20 Japan
+17954|4|pl|Blue Lock vs. U-20 Japan
 17955|4|en|Blue Lock: Episode Nagi
 18193|4|en|Blue Miburo
 2467|3|x-jat|Blue Noah
@@ -6359,6 +6375,7 @@
 12661|2|en|boruto tv
 12661|1|x-jat|Boruto: Naruto Next Generations
 12661|4|en|Boruto: Naruto Next Generations
+12661|4|pl|Boruto: Naruto Next Generations
 17896|1|x-jat|Boruto: Naruto Next Generations (Dai Ni Bu)
 17896|4|en|Boruto: Naruto Next Generations (Part 2)
 10961|1|x-jat|Boruto: Naruto the Movie
@@ -6619,6 +6636,7 @@
 10069|4|fr|Brynhildr in the Darkness
 10069|4|es|Brynhildr in the Darkness
 10069|4|de|Brynhildr in the Darkness
+2743|4|pl|Brzoskwinia
 644|3|x-jat|bs
 361|3|en|BS6
 11523|3|x-jat|bsd
@@ -6786,6 +6804,11 @@
 11965|3|x-jat|bungosd2
 14230|3|x-jat|bungosd3
 11523|1|x-jat|Bungou Stray Dogs
+11523|2|pl|Bungou Stray Dogs – Bezpańscy literaci
+11965|4|pl|Bungou Stray Dogs – Bezpańscy literaci Sezon 2
+14230|4|pl|Bungou Stray Dogs – Bezpańscy literaci Sezon 3
+16965|4|pl|Bungou Stray Dogs – Bezpańscy literaci Sezon 4
+17962|4|pl|Bungou Stray Dogs – Bezpańscy literaci Sezon 5
 11965|1|x-jat|Bungou Stray Dogs (2016)
 14230|1|x-jat|Bungou Stray Dogs (2019)
 16965|1|x-jat|Bungou Stray Dogs (2023)
@@ -7171,7 +7194,10 @@
 17597|1|x-zht|Cang Lan Jue
 18078|1|x-zht|Cang Yuan Tu
 18764|2|x-zht|Cang Yuan Tu (2024)
-18764|2|x-zht|Cang Yuan Tu 2
+19030|1|x-zht|Cang Yuan Tu 2
+19030|2|x-zht|Cang Yuan Tu 2nd Season
+19030|2|x-zht|Cang Yuan Tu Di Er Ji
+18764|2|x-zht|Cang Yuan Tu Special
 18764|1|x-zht|Cang Yuan Tu: Dongning Fu Fanwai Pian
 13348|1|x-jat|Cannon Busters
 13348|4|ja|CANNON BUSTERS
@@ -24560,6 +24586,7 @@
 1224|4|en|K.O. Beast
 12425|3|x-jat|k&m
 15054|4|ja|K×Drop!!
+19031|1|x-zht|Ka Tu
 15661|1|x-jat|Kaa-chan no Tomodachi ni Shikotteru Tokoro Mirareta. The Animation
 6391|4|en|Kaasan Mom`s Life
 7360|1|x-jat|Kaba Enshou no Doubutsuen Nikki
@@ -25378,6 +25405,7 @@
 679|4|no|Katteprinsen
 679|4|sv|Katternas rike
 8613|1|x-jat|Kattobase! Dreamers: Carp Tanjou Monogatari
+19031|2|x-zht|Katu
 1025|2|de|Katzenauge
 8367|2|id|Kau dan Aku
 8875|2|id|Kau dan Aku 2
@@ -31858,6 +31886,7 @@
 18682|2|en|Martial God Stream
 18977|4|en|Martial Inverse
 15443|2|en|Martial Master
+19032|4|en|Martial Peak
 14649|2|en|Martial Universe
 15687|2|en|Martial Universe 2nd Season
 16580|2|en|Martial Universe 3rd Season
@@ -32267,6 +32296,7 @@
 9272|3|x-jat|medaka s2
 9272|3|x-jat|medakaabn
 18030|1|x-jat|Medalist
+18030|4|en|Medalist
 10631|1|x-jat|Medamayaki no Kimi Itsu Tsubusu?
 3303|1|x-jat|Medarot
 3303|4|it|Medarot
@@ -38921,6 +38951,7 @@
 3085|4|tr|Pepero`nun Maceraları
 16521|2|en|Peppa Pig
 296|4|es|Pequeña Princesa Yucie
+12760|4|es-419|Perdóname que he pecado
 7192|1|x-jat|Perestroika
 154|4|et|Perfect Blue
 154|1|x-jat|Perfect Blue
@@ -47751,7 +47782,9 @@
 12051|4|de|Star Blazers 2202
 14804|2|en|Star Blazers 2205
 2661|2|en|Star Blazers 3
+15157|4|en|Star Blazers Chronicle 2202
 8787|2|en|Star Blazers: Space Battleship Yamato 2199
+14804|4|en|Star Blazers: Space Battleship Yamato 2205
 17141|4|en|Star Blazers: Space Battleship Yamato 3199
 2661|4|en|Star Blazers: The Bolar Wars
 2662|4|en|Star Blazers: The Comet Empire
@@ -50289,8 +50322,10 @@
 15702|4|en|The Demon Girl Next Door 2
 18078|2|en|The Demon Hunter
 18764|2|en|The Demon Hunter (2024)
-18764|2|en|The Demon Hunter 2
+19030|2|en|The Demon Hunter 2
+19030|2|en|The Demon Hunter 2nd Season
 18764|2|en|The Demon Hunter SP
+18764|2|en|The Demon Hunter Special
 18764|4|en|The Demon Hunter: Dongning Mansion Special
 18119|4|en|The Demon Prince of Momochi House
 16921|4|en|The Demon Sword Master of Excalibur Academy
@@ -50698,7 +50733,7 @@
 17591|2|en|The Idolmaster: Eternity Memories
 5751|1|x-jat|The Idolmaster: Live for You!
 9283|1|x-jat|The Idolmaster: Shiny Festa
-17026|2|en|The Imaginary
+17026|4|en|The Imaginary
 17026|4|my|The Imaginary
 17026|4|id|The Imaginary
 17026|4|tl|The Imaginary
@@ -50934,6 +50969,7 @@
 17711|4|en|The Marginal Service
 14536|4|en|The Married Woman is Inevitably Stolen.
 1666|2|en|The Marshmallow Times
+19032|2|en|The Martial Peak
 7336|2|en|The Marvelous Adventures of Noel
 5277|2|en|The Masked Maid Guy
 14162|2|en|The Master of Diabolism
@@ -51558,6 +51594,7 @@
 11229|2|en|The Voyages of Dr. Dolittle
 4734|4|en|The Wallflower
 15216|2|en|The War Ends the World / Raises the World
+19031|4|en|The War of Cards
 6356|2|en|The War of the Girl
 15784|2|en|The Warrior From Qin
 18898|2|en|The Warrior Princess and the Barbaric King
@@ -55836,6 +55873,7 @@
 14379|2|x-zht|Wu Geng Ji Zhi Tianqi
 12251|2|zh|Wu Kong Da Zhan Er Lang Shen
 11650|1|x-zht|Wu Lan Qi Qi Ge
+19032|1|x-zht|Wu Lian Dianfeng
 17852|1|x-zht|Wu Liuqi: Anying Suming
 18904|1|x-zht|Wu Liuqi: Jiyi Suipian
 15961|1|x-zht|Wu Liuqi: Xuanwu Guo Pian
@@ -60295,6 +60333,7 @@
 2555|2|bg|Магическият идол Пастел Юми
 17944|4|ru|Магия вернувшегося должна быть особенной
 5189|2|ru|Магия напрокат
+17246|2|ru|Магия святой всемогуща 2
 15275|4|uk|Магічна Битва
 17569|4|uk|Магічна революція переродженої принцеси та геніальної панянки
 2605|2|uk|Магічний вчитель Неґіма!
@@ -70088,7 +70127,8 @@
 15279|4|ja|きまぐれオレンジ★ロード ふたりの恋のレパートリー
 7586|2|ja|きまぐれオレンジ★ロード もぎたてスペシャル
 7588|4|ja|きまぐれオレンジ★ロード ルージュの伝言
-7583|4|ja|きまぐれオレンジ★ロード 吾輩は猫であったりおサカナであったり
+7583|4|ja|きまぐれオレンジ★ロード わが輩は猫であったりおサカナであったり
+7583|2|ja|きまぐれオレンジ★ロード 吾輩は猫であったりおサカナであったり
 7587|4|ja|きまぐれオレンジ★ロード 思いがけないシチュエーション
 7586|2|ja|きまぐれオレンジ★ロード 恋のステージ=HEART ON FIRE! スター誕生
 7586|4|ja|きまぐれオレンジ★ロード 恋のステージ=HEART ON FIRE! スタア誕生!
@@ -78545,6 +78585,7 @@
 13592|4|zh-Hans|卡利古拉
 1525|4|zh-Hans|卡姆伊之剑
 6531|2|zh-Hant|卡娜筆記
+19031|4|zh-Hans|卡徒
 7989|4|zh-Hans|卡片战斗先导者
 13635|4|zh-Hans|卡片战斗先导者 (2018)
 18591|2|zh-Hans|卡片战斗先导者 DivineZ 第二季
@@ -84399,6 +84440,7 @@
 11455|4|ja|武想少女隊ぶれいど☆ブライダーズ THE ANIMATION
 17309|4|zh-Hans|武映三千道
 18379|4|zh-Hans|武映三千道 第二季
+19032|4|zh-Hans|武炼巅峰
 15443|4|zh-Hans|武神主宰
 3344|4|ja|武者・騎士・コマンド SDガンダム緊急出撃
 13070|4|zh-Hant|武藏野!
@@ -84634,8 +84676,9 @@
 17488|4|zh-Hans|沦落者之夜
 18078|4|zh-Hans|沧元图
 18764|2|zh-Hans|沧元图 (2024)
+18764|2|zh-Hans|沧元图 Special
 18764|4|zh-Hans|沧元图 东宁府番外篇
-18764|2|zh-Hans|沧元图2
+19030|4|zh-Hans|沧元图 第二季
 4303|4|ja|河原崎家の一族 The Animation
 1622|4|ja|河原崎家の一族2 THE ANIMATION
 1622|2|zh-Hans|河原崎家的一族2
