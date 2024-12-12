@@ -1,4 +1,4 @@
-# created: Tue Dec 10 03:00:02 2024
+# created: Wed Dec 11 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -912,6 +912,7 @@
 16984|4|en|A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized
 18258|4|en|A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized Season 2
 10596|4|hu|A hét főbűnös
+15997|4|hu|A hét főbűnös: A fény átka
 18858|2|en|A History of the Romelia
 14300|4|en|A Hot Night With My Boss in a Capsule Hotel
 18009|2|en|A Housewife`s Healing Touch
@@ -44647,8 +44648,10 @@
 18795|2|en|Secrets of the Silent Witch
 16020|4|ro|Secția de Extragere a Spermei
 10596|4|hr|Sedam smrtnih grijeha
+15997|4|hr|Sedam smrtnih grijeha: Prokletstvo svjetla
 1542|4|cs|Sedm Samurajů
 10596|4|cs|Sedm smrtelných hříchů
+15997|4|cs|Sedm smrtelných hříchů: Prokletí světlem
 16048|2|en|Seduced by My Best Friend
 8561|2|fr|Séductions éphémères
 2028|4|pt-BR|Seduzida: A História de Nakano Takashiro
@@ -50226,6 +50229,7 @@
 5996|2|en|That Girl Goes to 1000%
 5996|2|en|That Girl is 1000%
 10596|4|vi|Thất hình đại tội
+15997|4|vi|Thất hình đại tội: Lời nguyền của ánh sáng
 14629|2|en|That Housewives at That Apartment Complex are...
 11011|2|en|That Is a Voice Actor!
 2222|2|en|That is an UFO! The Flying Saucer
@@ -51534,6 +51538,8 @@
 10596|4|pt|The Seven Deadly Sins
 10596|4|sv|The Seven Deadly Sins
 11646|4|it|The Seven Deadly Sins - Il ritorno dei Dieci Comandamenti
+13286|4|pt-BR|The Seven Deadly Sins - Prisioneiros do Céu
+13286|4|el|The Seven Deadly Sins - Η Ταινία: Αιχμάλωτοι του Ουρανού
 14819|4|fr|The Seven Deadly Sins : La colère impériale des Dieux
 15459|4|fr|The Seven Deadly Sins : Le jugement du Dragon
 11646|4|fr|The Seven Deadly Sins : Le retour des commandements
@@ -51543,9 +51549,35 @@
 13286|4|it|The Seven Deadly Sins the Movie: Prisoners of the Sky
 13286|4|en|The Seven Deadly Sins the Movie: Prisoners of the Sky
 13286|4|pl|The Seven Deadly Sins the Movie: Prisoners of the Sky
+13286|4|pt|The Seven Deadly Sins the Movie: Prisoners of the Sky
+13286|4|id|The Seven Deadly Sins the Movie: Prisoners of the Sky
+13286|4|fi|The Seven Deadly Sins the Movie: Prisoners of the Sky
+13286|4|da|The Seven Deadly Sins the Movie: Prisoners of the Sky
+13286|4|es|The Seven Deadly Sins the Movie: Prisoners of the Sky
+13286|4|fr|The Seven Deadly Sins the Movie: Prisoners of the Sky
+13286|4|no|The Seven Deadly Sins the Movie: Prisoners of the Sky
+13286|4|de|The Seven Deadly Sins the Movie: Prisoners of the Sky
+13286|4|nl|The Seven Deadly Sins the Movie: Prisoners of the Sky
+13286|4|sv|The Seven Deadly Sins the Movie: Prisoners of the Sky
+13286|4|tr|The Seven Deadly Sins the Movie: Prisoners of the Sky
 12047|4|de|The Seven Deadly Sins: Anzeichen eines Heiligen Kriegs
+15997|4|ro|The Seven Deadly Sins: Blestemul luminii
 15997|4|pl|The Seven Deadly Sins: Cursed by Light
 15997|4|en|The Seven Deadly Sins: Cursed by Light
+15997|4|it|The Seven Deadly Sins: Cursed by Light
+15997|4|fr|The Seven Deadly Sins: Cursed by Light
+15997|4|id|The Seven Deadly Sins: Cursed by Light
+15997|4|my|The Seven Deadly Sins: Cursed by Light
+15997|4|nl|The Seven Deadly Sins: Cursed by Light
+15997|4|de|The Seven Deadly Sins: Cursed by Light
+15997|4|da|The Seven Deadly Sins: Cursed by Light
+15997|4|fi|The Seven Deadly Sins: Cursed by Light
+15997|4|tr|The Seven Deadly Sins: Cursed by Light
+15997|4|es|The Seven Deadly Sins: Cursed by Light
+15997|4|sv|The Seven Deadly Sins: Cursed by Light
+15997|4|pt|The Seven Deadly Sins: Cursed by Light
+15997|4|no|The Seven Deadly Sins: Cursed by Light
+15997|4|pt-BR|The Seven Deadly Sins: Cursed by Light
 11646|4|de|The Seven Deadly Sins: Die Rückkehr der Gebote
 15459|4|en|The Seven Deadly Sins: Dragon`s Judgement
 16963|4|es|The Seven Deadly Sins: El Rencor de Edimburgo
@@ -51557,9 +51589,12 @@
 14819|4|fi|The Seven Deadly Sins: Jumalten majesteettinen viha
 14819|4|de|The Seven Deadly Sins: Kaiserlicher Zorn der Götter
 11646|4|fi|The Seven Deadly Sins: Käskyjen uusi kukoistus
+15997|4|es-419|The Seven Deadly Sins: La maldición de la luz
 17355|4|es|The Seven Deadly Sins: Los cuatro jinetes del apocalipsis
 11646|4|pl|The Seven Deadly Sins: Odrodzenie Przykazań
+13286|4|es-419|The Seven Deadly Sins: Prisioneros del cielo
 13286|2|en|The Seven Deadly Sins: Prisoners of the Sky
+13286|4|ro|The Seven Deadly Sins: Prizonierii văzduhului
 12047|4|fi|The Seven Deadly Sins: Pyhän sodan merkit
 11646|4|en|The Seven Deadly Sins: Revival of the Commandments
 14890|2|en|The Seven Deadly Sins: Revival of the Commandments (2018)
@@ -51570,6 +51605,8 @@
 12047|4|pl|The Seven Deadly Sins: Ślady Świętej Wojny
 15459|4|pl|The Seven Deadly Sins: Smoczy Rozsądek
 14819|2|en|The Seven Deadly Sins: Wrath of the Gods
+15997|4|el|The Seven Deadly Sins: Η Κατάρα του Φωτός
+15997|4|he|The Seven Deadly Sins: קללת האור
 13599|4|en|The Seven Heavenly Virtues
 10686|2|en|The Seven Impregnated Women Who Sneaked into the Night
 4734|2|en|The Seven Metamorphoses of Yamato Nadeshiko
@@ -61955,6 +61992,7 @@
 4734|2|ru|Семь обличий Надэсико Ямато
 10596|2|ru|Семь Смертных Грехов
 11646|2|ru|Семь смертных грехов: Возрождение заповедей
+15997|4|ru|Семь смертных грехов: проклятие света
 16947|4|ru|Семья шпиона
 17061|4|ru|Семья шпиона (2022)
 112|3|uk|Сен та Чіхіро
@@ -62007,6 +62045,7 @@
 5084|2|ru|Сияющие Слёзы И Ветер
 5001|2|uk|Сільський лікар
 10596|4|uk|Сім смертних гріхів
+15997|4|uk|Сім смертних гріхів: Прокляття світла
 17488|2|ru|Сказ о парии
 7243|2|ru|Сказ о четырёх с половиной татами
 9515|2|ru|Сказание о принцессе Кагуя
@@ -62494,6 +62533,7 @@
 5479|4|ru|Фея Флоренс
 8131|2|bg|Фи Брейн: Господарят на пъзелите
 130|2|ru|Фильм об отаку 1982 & 1985
+13286|4|ru|Фильм Семь смертных грехов: узники небес
 4476|2|ru|Флаг
 1646|2|ru|Фландрийский пес
 1646|2|ru|Фландрийский пес - Фильм
@@ -63576,7 +63616,9 @@
 6529|2|ar|الخط الأحمر
 10596|2|ar|الخطايا السبع المميتة
 11646|4|ar|الخطايا السبع المميتة 2
+13286|4|ar|الخطايا السبع المُميتة: سجناء السماء
 14819|2|ar|الخطايا السبع المميتة: سخط الآلهة الملكي
+15997|4|ar|الخطايا السبع المُميتة: لعنة الضوء
 13743|2|ar|الخلايا العاملة
 17026|4|ar|الخيالي
 979|2|ar|الخيميائي المعدني
@@ -65119,6 +65161,8 @@
 9977|4|th|เวทย์ศาสตรา มหาสงคราม
 12138|4|th|ไวโอเล็ต เอเวอร์การ์เดน
 10596|4|th|ศึกตำนาน 7 อัศวิน
+13286|4|th|ศึกตำนาน 7 อัศวิน: นักโทษแห่งท้องนภา (เดอะ มูฟวี่)
+15997|4|th|ศึกตํานาน 7 อัศวิน: สาปแห่งแสง
 4193|4|th|ศึกเทพมังกรพิภพสมุทร
 4583|4|th|ศึกนางฟ้าเหนือมนุษย์
 1554|2|th|ศึกศาตราเจ้าหญิงแห่งดวงดาว
@@ -65520,6 +65564,7 @@
 206|2|ko|극장판 오! 나의 여신님
 13717|2|ko|극장판 유녀전기
 12501|2|ko|극장판 유우키 유우나는 용사다: 와시오 스미의 장
+13286|4|ko|극장판 일곱 개의 대죄: 천공의 포로
 5390|2|ko|극장판 창성의 아쿠에리온
 6325|2|ko|극장판 천원돌파 그렌라간: 나암편
 5783|2|ko|극장판 천원돌파 그렌라간: 홍련편
@@ -66250,6 +66295,7 @@
 998|2|ko|메조 DSA
 214|2|ko|메조 포르테
 2697|2|ko|메조쿠 복수학원
+18774|2|ko|메카 기사 리스타의 대모험
 13180|4|ko|메타제트
 517|4|ko|메트릭스 르네상스
 8306|2|ko|멘쿠이
@@ -67674,6 +67720,7 @@
 1992|2|ko|인형의 집
 2571|2|ko|인형전대 킬티안
 10596|4|ko|일곱 개의 대죄
+15997|4|ko|일곱 개의 대죄: 빛에 저주받은 자들
 13599|4|ko|일곱개의 미덕
 13383|2|ko|일구유혼
 4870|4|ko|일기당천 Dragon Destiny
@@ -76656,6 +76703,8 @@
 11646|4|zh-Hans|七大罪 戒律的复活
 17355|4|zh-Hant|七大罪 啟示錄四騎士
 14819|4|zh-Hans|七大罪 诸神的逆鳞
+15997|4|zh-Hant|七大罪：被光詛咒的人們
+13286|4|zh-Hant|七大罪劇場版：天空的囚人
 11178|4|zh-Hant|七彩卡通老夫子
 3215|4|zh-Hans|七彩的素描
 13439|4|ja|七星のスバル
