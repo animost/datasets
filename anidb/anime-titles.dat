@@ -1,4 +1,4 @@
-# created: Wed Dec 11 03:00:01 2024
+# created: Thu Dec 12 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8409,6 +8409,7 @@
 1478|4|fr|Chroniques de la guerre de Lodoss - La légende de Crystania - Le film
 691|4|fr|Chroniques de la guerre de Lodoss - La légende de Crystania - OAV
 137|4|fr|Chroniques de la guerre de Lodoss : La légende du chevalier héroïque
+700|2|fr|Chroniques De La Querre De Minerva
 137|2|fr|Chroniques de Lodoss : La légende du chevalier héroïque
 17133|2|fr|Chroniques sexuelles hypnotiques d’un conseiller immodeste
 1052|4|de|Chrono Crusade
@@ -20500,7 +20501,7 @@
 4638|4|en|Hell Girl: Two Mirrors
 6554|2|en|Hell Knight Ingrid
 19029|2|en|Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing
-19029|1|x-jat|Hell Mode: Yarikomi Suki No Gamer wa Hai Settei no Isekai de Musou Suru - Hajimari no Shoukan Samurai
+19029|1|x-jat|Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru - Hajimari no Shoukan Samurai
 17231|1|x-jat|Hell People!
 6294|4|ja|HELL TARGET
 6294|1|x-jat|Hell Target
@@ -37081,6 +37082,7 @@
 2245|4|pt|O Lago dos Cisnes
 3672|4|pt|O Livro de Thumbelina
 3081|4|pt|O Livro Incrível
+18427|2|pt|O Mago Mais Forte do Exército do Lorde Demónio era um Humano
 14512|4|en|O Maidens in Your Savage Season
 1044|4|es-GA|O máis forte do mundo
 1916|4|pt-BR|O Menino Biônico
@@ -48897,7 +48899,10 @@
 15867|2|en|Swallowed Star
 18364|2|en|Swallowed Star 3rd Season
 18365|2|en|Swallowed Star 4th Season
+19039|4|en|Swallowed Star Movie: Blood Luo Continent
 17093|2|en|Swallowed Star S2
+19039|2|en|Swallowed Star The Movie: Xueluo Continent
+19039|2|en|Swallowed Star: Blood Luo Continent
 1694|4|en|Swallowtail Inn
 13222|2|ko|Swamp Stamp
 13222|4|ja|SWAMP STAMP Anime Edition
@@ -53584,6 +53589,8 @@
 15867|1|x-zht|Tunshi Xingkong
 18364|1|x-zht|Tunshi Xingkong 3
 18365|1|x-zht|Tunshi Xingkong 4
+19039|2|x-zht|Tunshi Xingkong Juchang Ban: Xueluo Dalu
+19039|1|x-zht|Tunshi Xingkong Movie: Xueluo Dalu
 17093|1|x-zht|Tunshi Xingkong Zhuangzhi Lingyun
 17026|4|vi|Tưởng tượng
 17801|4|ja|Turkey!
@@ -79300,6 +79307,7 @@
 18364|4|zh-Hans|吞噬星空 第三季
 17093|2|zh-Hans|吞噬星空 第二季
 18365|4|zh-Hans|吞噬星空 第四季
+19039|4|zh-Hans|吞噬星空剧场版 血洛大陆
 4120|2|zh-Hans|吟游默示录II
 2599|4|ja|吟遊黙示録 マイネリーベ
 4120|4|ja|吟遊黙示録 マイネリーベ wieder(ウィーダ)
