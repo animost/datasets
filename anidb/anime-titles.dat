@@ -1,4 +1,4 @@
-# created: Thu Dec 12 03:00:02 2024
+# created: Fri Dec 13 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -10810,6 +10810,7 @@
 2210|4|de|Der gestiefelte Kater
 2225|4|de|Der gestiefelte Kater reist um die Welt
 2295|2|de|Der große Plan der Tiere vom Nodoka-Wald
+19043|1|de|Der Herr der Ringe: Die Schlacht der Rohirrim
 17026|4|de|Der Imaginäre
 10967|4|de|Der Junge und das Biest
 13545|4|de|Der Junge und der Reiher
@@ -15052,6 +15053,7 @@
 10091|1|x-jat|Fate/Kaleid Liner Prisma Illya Zwei!
 10804|1|x-jat|Fate/Kaleid Liner Prisma Illya Zwei! (2015)
 10804|2|x-jat|Fate/Kaleid Liner Prisma Illya Zwei!: Mahou Shoujo in Onsen Ryokou
+15565|2|pl|Fate/Kaleid Liner Prisma Illya: Bezimienne dziecię
 9900|2|en|Fate/Kaleid Liner Prisma Illya: Dance at the Sports Festival!
 9900|4|de|Fate/Kaleid Liner Prisma Illya: Der Tanz am Sporttag
 9900|2|pl|Fate/Kaleid Liner Prisma Illya: Dzień sportu
@@ -23624,6 +23626,7 @@
 9507|4|en|Ishida & Asakura
 9507|1|x-jat|Ishida to Asakura
 9507|4|pt-BR|Ishida to Asakura
+9507|4|es-419|Ishida y Asakura
 4061|1|x-jat|Ishii Hisaichi no Dai Seikai
 8100|1|x-jat|Ishii Hisaichi no Nanda Kanda Gekijou
 11647|1|x-jat|Ishikeri
@@ -27274,7 +27277,7 @@
 13317|2|en|Kono Subarashii Sekai ni Shukufuku o! 2 Episode 11
 13317|1|x-jat|Kono Subarashii Sekai ni Shukufuku o! 2: Kono Subarashii Geijutsu ni Shukufuku o!
 17431|1|x-jat|Kono Subarashii Sekai ni Shukufuku o! 3
-18865|1|x-jat|Kono Subarashii Sekai ni Shukufuku o! 3 OVA
+18865|1|x-jat|Kono Subarashii Sekai ni Shukufuku o! 3 Bonus Stage
 11854|2|en|Kono Subarashii Sekai ni Shukufuku o! Episode 11
 11854|1|x-jat|Kono Subarashii Sekai ni Shukufuku o! Kono Subarashii Choker ni Shukufuku o!
 13310|1|x-jat|Kono Subarashii Sekai ni Shukufuku o! Kurenai Densetsu
@@ -27315,7 +27318,7 @@
 13317|4|en|Konosuba: God`s Blessing on This Wonderful World! 2 God`s Blessing on These Wonderful Works of Art!
 13317|2|en|Konosuba: God`s Blessing on This Wonderful World! 2 God`s Blessing on This Wonderful Work of Art!
 17431|4|en|Konosuba: God`s Blessing on This Wonderful World! 3
-18865|2|en|Konosuba: God`s Blessing on This Wonderful World! 3 OVA
+18865|2|en|Konosuba: God`s Blessing on This Wonderful World! 3 Bonus Stage
 11854|4|en|Konosuba: God`s Blessing on This Wonderful World! God`s Blessing on This Wonderful Choker!
 11992|4|pt-BR|KONOSUBA! 2 As bençãos de Deus neste mundo maravilhoso!
 13310|4|de|Konosuba! Legend of Crimson
@@ -35770,6 +35773,8 @@
 13061|4|ja|Nebula feat. Hatsune Miku
 7268|2|en|Necrodemon
 4463|4|en|Necromancer
+19042|2|en|Necronomico and the Cosmic Horror Show
+19042|1|x-jat|Necronomico no Cosmic Horror Show
 8590|1|x-jat|Nee Summer!
 4075|1|x-jat|Nee, Chanto Shiyou yo!
 4075|2|x-jat|Nee, Chanto Shiyouyo!
@@ -45561,6 +45566,8 @@
 18582|2|x-zht|Shen Yi Jiu Xiaojie Season 2
 17350|1|x-zht|Shen Yin Wangzuo (2022)
 18458|1|x-zht|Shen Yin Wangzuo 2
+18458|2|x-zht|Shen Yin Wangzuo 2nd Season
+18458|2|x-zht|Shen Yin Wangzuo Di Er Ji
 18590|1|x-zht|Shen Zhi Yi Jiao
 18590|2|x-zht|Shen Zhiyi Jiao
 15237|1|x-zht|Shenbi
@@ -49359,6 +49366,7 @@
 1374|4|fr|Tales of Phantasia - The Animation
 1374|4|en|Tales of Phantasia - The Animation
 1374|1|x-jat|Tales of Phantasia The Animation
+19040|1|x-jat|Tales of Puppet
 18949|2|en|Tales of Qin Mu
 1609|4|en|Tales of Seduction
 790|2|en|Tales of Sintillation
@@ -49404,6 +49412,7 @@
 10666|1|x-jat|Tales of Zestiria: Doushi no Yoake
 10666|2|en|Tales of Zestiria: The Shepherd`s Advent
 11273|2|x-jat|Tales of Zestiria: The X
+19040|4|ja|TALES OF パペット
 790|4|en|Tales Trilogy
 2084|4|fr|Talulu le magicien
 11654|2|vi|Tam Mao Phiêu Lưu Ký Ta
@@ -51168,6 +51177,7 @@
 5062|2|en|The Little Twins
 2200|2|en|The Littlest Warrior
 4552|2|x-unk|The Lord of the Rings: The War of the Rohirrim
+19043|4|en|The Lord of the Rings: The War of the Rohirrim
 11863|4|en|The Lost Village
 14395|2|en|The Love That I Feel for You
 15144|2|en|The Low Tier Character "Tomozaki-kun"
@@ -51208,6 +51218,7 @@
 7336|2|en|The Marvelous Adventures of Noel
 5277|2|en|The Masked Maid Guy
 14162|2|en|The Master of Diabolism
+14428|4|en|The Master of Diabolism (2019)
 13896|4|en|The Master of Ragnarok & Blesser of Einherjar
 17423|4|en|The Masterful Cat Is Depressed Again Today
 11379|4|en|The Mechanism of Spring
@@ -52084,6 +52095,7 @@
 14577|2|en|Throne of Elves
 14577|4|de|Throne of Elves: Die Chroniken von Altera
 17350|4|en|Throne of Seal
+18458|2|en|Throne of Seal 2
 18458|2|en|Throne of Seal 2nd Season
 14668|4|ja|Through the Windows
 14668|1|x-jat|Through the Windows
@@ -55349,6 +55361,7 @@
 13850|1|x-zht|Wangzhe Wai Chuan
 14652|1|x-zht|Wangzhe Wai Chuan Di Er Ji
 15521|2|x-zht|Wanjie Chunqiu
+19041|1|x-zht|Wanjie Zhuzai
 3543|1|x-jat|Wankorobee
 16281|1|x-zht|Wanmei Shijie
 16892|1|x-zht|Wanmei Shijie Shuang Shi Ji
@@ -66619,6 +66632,7 @@
 2564|2|ko|비욘드
 4080|2|ko|비인전 가우스
 1281|2|ko|비죠나리
+18833|2|ko|비촉가의 규칙
 14547|2|ko|비치 학원이 청순할 리가 없어
 16047|2|ko|비치스러운 음란 누나
 8305|2|ko|비치크 비치 ~남극유욕촬영회~
@@ -71168,7 +71182,7 @@
 11992|4|ja|この素晴らしい世界に祝福を! 2
 13317|4|ja|この素晴らしい世界に祝福を! 2 この素晴らしい芸術に祝福を!
 17431|4|ja|この素晴らしい世界に祝福を! 3
-18865|4|ja|この素晴らしい世界に祝福を! 3 OVA
+18865|4|ja|この素晴らしい世界に祝福を! 3 -BONUS STAGE-
 11854|4|ja|この素晴らしい世界に祝福を! この素晴らしいチョーカーに祝福を!
 13310|4|ja|この素晴らしい世界に祝福を! 紅伝説
 11735|3|ja|この美
@@ -73526,6 +73540,7 @@
 4510|4|ja|ネギま!? 春 スペシャル!?
 2615|4|ja|ネクスト戦記EHRGEIZ
 2615|2|ja|ネクスト戦記エーアガイツ
+19042|4|ja|ネクロノミ子のコズミックホラーショウ
 3536|4|ja|ねこ·ねこ·幻想曲[ファンタジア]
 18532|3|ja|ねこおじ
 13858|4|ja|ネコこのゴロ
@@ -76749,6 +76764,7 @@
 18533|4|zh-Hans|万域之王
 17126|4|zh-Hans|万域封神
 18999|4|zh-Hans|万域封神 第二季
+19041|4|zh-Hans|万界主宰
 14943|4|zh-Hans|万界仙踪
 15345|4|zh-Hans|万界仙踪 第三季
 14944|4|zh-Hans|万界仙踪 第二季
