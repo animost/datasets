@@ -1,4 +1,4 @@
-# created: Fri Dec 13 03:00:02 2024
+# created: Sat Dec 14 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -436,10 +436,12 @@
 17760|4|en|2.5 Dimensional Seduction
 17760|4|de|2.5 Dimensional Seduction
 17760|1|x-jat|2.5 Jigen no Ririsa
+19047|1|x-jat|2.5 Jigen no Ririsa 2
 17760|2|x-jat|2.5 Jigen no Yuuwaku
 17760|4|es|2.5 Seducción Dimensional
 17760|2|x-jat|2.5-jigen no Ririsa
 17760|4|ja|2.5次元の誘惑
+19047|4|ja|2.5次元の誘惑 2
 17760|4|zh-Hans|2.5次元的诱惑
 1423|4|ja|2×1
 1423|2|ja|2×1 スペシ
@@ -1015,7 +1017,6 @@
 7|4|pt|A Princesa Mononoke
 4953|4|pt|A Rã Valente
 18852|1|x-jat|A Rank Party o Ridatsu Shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu o Mezasu.
-18852|2|x-jat|A Rank Party wo Ridatsu Shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.
 17038|2|en|A Raven in the Harem
 15425|2|en|A Record of a Mortal`s Journey to Immortality
 17004|2|en|A Record of a Mortal`s Journey to Immortality Season 2
@@ -1125,7 +1126,6 @@
 7685|1|x-jat|A-Ko The Versus
 7685|4|ja|A-Ko The VS[ヴァーサス]
 1719|2|x-jat|A-LI-CE
-18852|2|x-jat|A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.
 16667|1|x-zht|A-Shuai
 16669|1|x-zht|A-Shuai Di 3 Ji
 16670|1|x-zht|A-Shuai Di 4 Ji
@@ -2357,6 +2357,7 @@
 14039|1|x-jat|Ame-iro Cocoa: Side G
 12906|3|x-jat|ameagari
 3614|1|x-jat|Amefurikozou
+18581|4|en|Ameku M.D.: Doctor Detective
 18581|1|x-jat|Ameku Takao no Suiri Karte
 18581|2|en|Ameku Takao`s Detective Karte
 16813|1|x-jat|Amemiya-san
@@ -5872,6 +5873,7 @@
 15449|2|bg|Bleach: Хилядолетната кървава война
 15449|3|x-jat|Bleach2
 17765|3|x-jat|Bleach3
+17834|2|pl|Błękitne archiwum
 2560|4|pl|Błękitny ptak
 12694|1|x-jat|Blend S
 12694|2|en|Blend S
@@ -7824,6 +7826,8 @@
 7114|1|x-jat|Chamebou Shin Gachou: Nomi Fuufu Shikaeshi no Maki
 5379|1|x-jat|Chameko no Ichinichi
 2779|1|x-jat|Chameleon
+19046|1|x-jat|Champignon no Majo
+19046|2|en|Champignon Witch
 1816|2|en|Champion Gordian
 1631|4|en|Champion Joe
 1458|4|en|Champion Joe 2
@@ -15666,6 +15670,7 @@
 13630|2|fr|Folie d’une nuit
 13050|2|en|Folktales from Japan Season 2
 10166|1|x-jat|Follow Me
+19045|1|x-jat|Food Court de, Mata Ashita.
 10901|4|fr|Food Wars ! Shokugeki no Soma
 11828|4|fr|Food Wars, second service
 11664|4|en|Food Wars! OVAs
@@ -19200,6 +19205,7 @@
 7670|2|x-jat|Gundam: Mokei Senshi Gunpla Builders Beginning G
 3344|2|x-jat|Gundam: Musha Knight Commando: SD Gundam Scramble
 18096|4|en|Gundam: Requiem for Vengeance
+18096|2|pt|Gundam: Réquiem para a Vingança
 9038|2|x-jat|Gundam: Ring of Gundam
 1703|2|x-jat|Gundam: SD Gundam Force
 7399|2|x-jat|Gundam: SD Gundam Sangokuden: Brave Battle Warriors
@@ -21375,7 +21381,6 @@
 16719|2|x-jat|Hitori no Shita: The Outcast 4
 17095|2|x-jat|Hitori no Shita: The Outcast 5
 7635|1|x-jat|Hitoribocchi
-18432|3|ja|Hitoribocchi
 18432|1|x-jat|Hitoribocchi no Isekai Kouryaku
 13989|1|x-jat|Hitoribocchi no Marumaru Seikatsu
 13989|4|en|Hitoribocchi no Marumaruseikatsu
@@ -22354,7 +22359,6 @@
 17203|2|en|I give my virginity to Soushi Sazanami. Now, let`s take our time to love her.
 17580|4|en|I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too
 18241|2|en|I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too (New Anime Project)
-18708|2|en|I Got Married to the Girl I Hate Most in Class
 18770|2|en|I Have a Crush at Work
 10594|2|en|I Have Been Treated Nicely
 10387|2|en|I just can`t stand not getting between them! ~I made a wish to the stars and they got this big!~
@@ -22375,7 +22379,7 @@
 1648|2|en|I Love You, Baby
 13124|4|ja|I LOVE コイキング
 3171|2|en|I Love! BuBu ChaCha
-18118|2|en|I May Be a Guild Receptionist, but I`ll Solo Any Boss to Clock Out on Time
+18118|4|en|I May Be a Guild Receptionist, but I`ll Solo Any Boss to Clock Out on Time
 370|4|it|I miei vicini Yamada
 1009|4|sv|I Mumindalen
 9495|2|x-jat|I My Me
@@ -22416,7 +22420,7 @@
 13363|4|en|I Want to Eat Your Pancreas
 13363|4|de|I want to eat your pancreas
 18264|2|en|I Want to Escape from Princess Education
-18264|2|en|I Want to Escape from Princess Lessons
+18264|4|en|I Want to Escape from Princess Lessons
 11376|2|en|I Want to Let You Know That I Love You.
 4184|2|en|I want to win 5th prize
 13698|2|en|I Want You To Make a Disgusted Face and Show Me Your Underwear
@@ -22472,6 +22476,7 @@
 18058|2|en|I`m Addicted to You.
 3357|2|en|I`m All Yours
 14550|2|en|I`m from Japan
+18708|4|en|I`m Getting Married to a Girl I Hate in My Class
 17592|4|en|I`m Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness
 14349|2|en|I`m glad I could keep running.
 690|4|pt-BR|i`m gonna be an angel
@@ -26054,6 +26059,7 @@
 626|1|x-jat|Kidou Senshi Gundam F91
 15346|1|x-jat|Kidou Senshi Gundam G40
 19027|1|x-jat|Kidou Senshi Gundam GQuuuuuuX
+19044|1|x-jat|Kidou Senshi Gundam GQuuuuuuX: Beginning
 729|2|x-jat|Kidou Senshi Gundam I: Tokubetsu Hen
 4166|1|x-jat|Kidou Senshi Gundam II: Ai Senshi Hen
 4167|1|x-jat|Kidou Senshi Gundam III: Meguriai Sora Hen
@@ -26800,6 +26806,7 @@
 10139|1|x-jat|Kizudarake no Ringo
 8357|1|x-jat|Kizumonogatari
 8357|4|en|Kizumonogatari
+18187|4|es-419|Kizumonogatari - Vampiro Koyomi -
 18187|1|x-jat|Kizumonogatari: Koyomi Vamp
 794|1|x-jat|Kizuna
 3459|4|de|Kizuna - Liebe und viel Lärm um nichts
@@ -33768,6 +33775,7 @@
 626|4|de|Mobile Suit Gundam F91
 15346|2|en|Mobile Suit Gundam G40
 19027|2|en|Mobile Suit Gundam GQuuuuuuX
+19044|2|en|Mobile Suit Gundam GQuuuuuuX: Beginning
 729|4|en|Mobile Suit Gundam I
 729|4|cs|Mobile Suit Gundam I
 729|4|it|Mobile Suit Gundam I
@@ -33969,6 +33977,7 @@
 15661|2|en|Mom`s Friend Caught Me Stroking Myself.
 13513|2|en|Moment by Moment
 18600|1|x-jat|Momentary Lily
+18600|4|en|Momentary Lily
 2500|1|x-jat|Momiji
 2500|4|en|Momiji
 2500|4|pt-BR|Momiji
@@ -37416,7 +37425,7 @@
 609|3|x-jat|okg
 4148|3|x-jat|okhc
 18095|1|x-jat|Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru
-18095|4|en|Okitsura
+18095|4|en|Okitsura: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She`s Saying
 13875|4|cs|Okkin hostinec
 13875|4|hu|Okko szállója
 14011|4|de|Okko und ihre Geisterfreunde -Der Film-
@@ -38099,7 +38108,6 @@
 15557|1|x-jat|Ore dake Haireru Kakushi Dungeon
 15557|2|x-jat|Ore Dake Haireru Kakushi Dungeon: Kossori Kitaete Sekai Saikyou
 17495|1|x-jat|Ore dake Level Up na Ken
-18576|2|x-jat|Ore dake Level Up na Ken 2
 18576|2|x-jat|Ore dake Level Up na Ken Season 2
 18576|1|x-jat|Ore dake Level Up na Ken: Arise from the Shadow
 13763|1|x-jat|Ore ga Kanojo o ***su Wake
@@ -40649,7 +40657,7 @@
 11552|3|x-jat|PoSA
 11924|2|pl|Posępny Mononokean
 1152|2|fr|Possession
-18620|2|en|Possibly the Greatest Alchemist of All Time
+18620|4|en|Possibly the Greatest Alchemist of All Time
 335|2|it|Posso sentire il mare
 2143|2|x-jat|Post Pet Momobin
 2143|1|x-jat|PostPet Momobin
@@ -41155,7 +41163,7 @@
 13261|4|en|Promare
 13261|4|de|Promare
 4547|4|de|Promise
-18599|2|en|Promise of Wizard
+18599|4|en|Promise of Wizard
 12225|1|x-jat|Promised Town
 12225|4|ja|Promised Town
 17776|2|en|Proof of Two
@@ -44668,6 +44676,7 @@
 2449|2|ko|See in 청
 2449|4|ja|See In 青
 8873|2|en|See Me After Class
+19045|2|en|See You Tomorrow at the Food Court
 252|3|x-jat|Seed
 2186|3|x-jat|SEED2
 18016|2|en|Seeding With My Daddy Uncle
@@ -47102,10 +47111,7 @@
 11545|4|es-419|Soldados Valientes
 5261|1|x-jat|Soliton no Akuma
 17495|4|en|Solo Leveling
-18576|2|en|Solo Leveling 2
-18576|2|en|Solo Leveling Season 2
-18576|2|en|Solo Leveling Second Season
-18576|4|en|Solo Leveling: Arise from the Shadow
+18576|4|en|Solo Leveling Season 2: Arise from the Shadow
 2858|3|x-jat|solty
 2858|1|x-jat|Solty Rei
 2858|4|de|Solty Rei
@@ -47958,6 +47964,7 @@
 15312|4|en|SSSS.Dynazenon
 17769|1|x-jat|SSSS.Dynazenon Gekijou Soushuuhen
 17769|4|ja|SSSS.DYNAZENON 劇場総集編
+17769|4|en|SSSS.Dynazenon: Grand Episode
 13260|4|ja|SSSS.GRIDMAN
 13260|1|x-jat|SSSS.Gridman
 13260|4|en|SSSS.Gridman
@@ -50516,7 +50523,7 @@
 15407|2|en|The Cursed One-piece
 1525|4|en|The Dagger of Kamui
 615|4|en|The Daichis - Earth`s Defense Family
-18818|2|en|The Daily Life of a Middle-Aged Online Shopper in Another World
+18818|4|en|The Daily Life of a Middle-Aged Online Shopper in Another World
 14718|4|en|The Daily Life of the Immortal King
 16359|4|en|The Daily Life of the Immortal King (2021)
 16359|2|en|The Daily Life of the Immortal King Season 2
@@ -51453,7 +51460,7 @@
 7478|2|en|The Recollections of a Certain Pilot
 14716|2|en|The Record of Unusual Creatures
 8246|2|en|The Red
-18809|2|en|The Red Ranger Becomes an Adventurer in Another World
+18809|4|en|The Red Ranger Becomes an Adventurer in Another World
 1850|2|en|The Red-Blooded Eleven
 11745|4|ja|THE REFLECTION
 11745|1|x-jat|The Reflection
@@ -54236,6 +54243,7 @@
 17639|4|en|UniteUp!
 18141|4|ja|UniteUp! -Uni:Birth-
 18141|1|x-jat|UniteUp! Uni:Birth
+18141|4|en|UniteUp! Uni:Birth
 6508|1|x-jat|Universe
 4294|4|en|University Girls
 4294|2|en|University Girls Special Counseling
@@ -55589,7 +55597,7 @@
 15428|2|en|Welcome to Demon School! Iruma-kun: Season 2
 14592|2|en|Welcome to Hinagiku Virgin Lost Club
 6677|4|en|Welcome to Irabu`s Office
-18361|2|en|Welcome to Japan, Ms. Elf!
+18361|4|en|Welcome to Japan, Ms. Elf!
 14223|4|en|Welcome to Japari Park
 7271|2|en|Welcome to Lodoss Island!
 13170|2|en|Welcome to Mizuryukei Land!
@@ -69305,6 +69313,7 @@
 13173|4|ja|イリオンとカリシア
 2169|4|ja|イリヤの空, UFOの夏
 2985|4|ja|イルカと少年
+18250|2|ja|イルカのクリスマス ジェレミーの木
 5973|4|ja|イレギュラーハンターX
 6751|2|ja|イレブンアイズ
 16933|4|ja|イロドリミドリ
@@ -71688,6 +71697,7 @@
 7343|4|ja|ジャンケンマン 怪獣大決戦
 17127|4|ja|じゃんたま PONG☆
 18390|4|ja|じゃんたま カン!!
+19046|4|ja|シャンピニオンの魔女
 3472|4|ja|ジャンピング
 15209|4|ja|シャンプーの匂いがした
 17501|3|ja|シャンフロ
@@ -74417,6 +74427,7 @@
 8328|4|ja|プ~ねこ
 8683|4|ja|フーガの技法
 6310|4|ja|フーセンのドラ太郎
+19045|4|ja|フードコートで, また明日.
 11275|4|ja|フーパのおでまし大作戦!!
 11940|4|ja|ブーブーボーイ
 11940|2|ja|ブーブーボーイだっぷ
@@ -84578,6 +84589,7 @@
 8000|4|ja|機兵戦記レガシーズ
 170|4|ja|機動天使エンジェリックレイヤー
 19027|4|ja|機動戦士Gundam GQuuuuuuX
+19044|4|ja|機動戦士Gundam GQuuuuuuX -Beginning-
 596|4|ja|機動戦士SDガンダム
 1037|4|ja|機動戦士SDガンダム Mk-II
 3060|4|ja|機動戦士SDガンダム Mk-III
