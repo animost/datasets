@@ -1,4 +1,4 @@
-# created: Sat Dec 14 03:00:01 2024
+# created: Sun Dec 15 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3144,6 +3144,7 @@
 15353|3|x-jat|aragne movie 2
 12898|1|x-jat|Aragne no Mushikago
 12898|4|en|Aragne: Sign of Vermillion
+19049|1|x-jat|Araiguma Calcal-dan
 2306|1|x-jat|Araiguma Rascal
 1192|3|x-jat|araiso
 1192|2|en|Araiso Private High School Student Council Executive Committee
@@ -7486,6 +7487,7 @@
 8974|1|x-jat|Cardfight!! Vanguard: Asia Circuit Hen
 18248|1|x-jat|Cardfight!! Vanguard: Divinez
 18248|4|en|Cardfight!! Vanguard: Divinez
+19050|1|x-jat|Cardfight!! Vanguard: Divinez Deluxe Hen
 18591|4|en|Cardfight!! Vanguard: Divinez Season 2
 18591|1|x-jat|Cardfight!! Vanguard: Divinez Season 2
 10483|1|x-jat|Cardfight!! Vanguard: Legion Mate Hen
@@ -29742,6 +29744,8 @@
 16421|4|en|Lord El-Melloi II`s Case Files: Rail Zeppelin Grace Note - Special Episode
 10744|4|en|Lord Marksman and Vanadis
 18446|4|en|Lord of All Lords
+19041|2|en|Lord of All Realms
+19041|2|en|Lord of All Worlds
 2725|2|en|Lord of Elementals Cybaster
 616|2|en|Lord of Lords Adeu`s Legend OVA
 542|2|en|Lord of Lords Ryu Knight
@@ -29760,6 +29764,7 @@
 11531|1|x-jat|Lord of Vermilion III Special Anime Movie
 13958|1|x-jat|Lord of Vermilion: Guren no Ou
 13958|4|en|Lord of Vermilion: The Crimson King
+19041|2|en|Lord of Wonderlands
 9566|3|x-jat|LOS
 16174|2|es|Los Apuntes de Vanitas
 1619|2|es|Los Caballeros de Kodai
@@ -49138,6 +49143,7 @@
 1786|1|x-jat|Tabako Ippon no Story: Heart Cocktail
 4361|1|x-jat|Tabako to Hai
 13854|1|x-jat|Tabechattatte Ii no ni na!
+19048|1|x-jat|Tabekko Doubutsu
 6990|1|x-jat|Tabi
 11835|1|x-jat|Tabi Machi Late Show: Awaiting My Journey
 9349|1|x-jat|Tabi Suru Nuigurumi: Traveling "Daru"
@@ -69044,6 +69050,7 @@
 17063|4|ja|あやかしトライアングル
 4785|4|ja|あゆまゆ劇場
 12898|4|ja|アラーニェの虫籠
+19049|4|ja|あらいぐま カルカル団
 2306|4|ja|あらいぐまラスカル
 5602|4|ja|あらいめんとゆーゆー THE ANIMATION
 3436|4|ja|あらしのよるに
@@ -70050,6 +70057,7 @@
 14681|2|ja|カードファイト!! ヴァンガード (2019)
 18248|4|ja|カードファイト!! ヴァンガード Divinez
 18591|4|ja|カードファイト!! ヴァンガード Divinez Season2
+19050|4|ja|カードファイト!! ヴァンガード Divinez デラックス編
 15646|4|ja|カードファイト!! ヴァンガード OverDress
 15995|4|ja|カードファイト!! ヴァンガード OverDress (2021)
 15995|2|ja|カードファイト!! ヴァンガード overDress Season2
@@ -72467,6 +72475,7 @@
 2188|2|ja|ダブルウィッシュ
 10276|4|ja|ダブルサークル
 8484|4|ja|だぶるじぇい
+19048|4|ja|たべっ子どうぶつ THE MOVIE
 11909|4|ja|タマ&フレンズ うちのタマ知りませんか?
 17270|4|ja|タマ&フレンズ 探せ!魔法のプニプニストーン
 7078|4|ja|たまごっち!
