@@ -1,4 +1,4 @@
-# created: Sun Dec 15 03:00:02 2024
+# created: Mon Dec 16 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2879,6 +2879,7 @@
 7754|1|x-jat|Anpanman to Yukai na Nakama-tachi
 14595|2|en|Anpanman Twinkle! Princess Vanilla of Ice Cream Land
 10581|2|en|Anpanman: Apple Boy and Everyone`s Hope
+18519|2|en|Anpanman: Baikinman and Lulun in the Picture Book
 7553|4|en|Anpanman: Star-Spirited Dollie
 9916|3|en|AnR
 16055|3|x-jat|Ansatsu Kizoku
@@ -9329,6 +9330,7 @@
 12767|2|en|Crayon Shin-chan Side Story: Lone Wolf and Family
 13201|2|en|Crayon Shin-chan Side Story: O O O no Shinnosuke
 12517|2|en|Crayon Shin-chan Side Story: Toy Wars
+18306|2|en|Crayon Shin-chan the Movie: Our Dinosaur Diary
 4624|1|x-jat|Crayon Shin-chan: Action Kamen vs Haigure Maou
 4704|1|x-jat|Crayon Shin-chan: Ankoku Tamatama Daitsuiseki
 3316|1|x-jat|Crayon Shin-chan: Arashi o Yobu Appare! Sengoku Daikassen
@@ -15588,7 +15590,7 @@
 11029|4|en|Flower
 4079|4|fr|Flower & Snake
 4079|4|en|Flower & Snake The Animation
-18683|2|en|Flower and Ashura
+18683|4|en|Flower and Asura
 4079|2|en|Flower and Snake
 1919|2|en|Flower Angel
 2240|2|en|Flower Angel Ten-Ten
@@ -15882,6 +15884,7 @@
 13189|4|en|Frog Kingdom
 14873|2|en|Frog Prince Adventures
 3689|2|en|From Aesop`s Tales: The Bull and the Frog / The Greedy Dog
+18366|4|en|From Bureaucrat to Villainess: Dad`s Been Reincarnated!
 404|4|pl|From I"S
 404|4|fr|From I``s
 404|4|de|From I``s
@@ -16472,6 +16475,7 @@
 3704|5|x-jat|Gaiking: Legend of Daikuu Maryuu
 3704|2|x-jat|Gaiking: Legend of Daikuu-Maryuu
 16262|1|x-jat|Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu
+19053|1|x-jat|Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II
 13440|1|x-jat|Gaikotsu Shoten`in Honda-san
 13440|2|x-jat|Gaikotsu Shotenin Honda-san
 16262|3|x-jat|gaikotsukishisama
@@ -22472,7 +22476,6 @@
 2140|2|en|I`ll Make a Habit of It
 430|1|x-jat|I`ll/CKBC
 430|4|ja|I`ll/CKBC
-18541|2|en|I`m a Behemoth, an S-Ranked Monster, but Mistaken for a Cat, I Live as an Elf Girl`s Pet
 18536|4|en|I`m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic
 11817|4|en|I`m a sexaholic!
 18058|2|en|I`m Addicted to You.
@@ -25138,8 +25141,10 @@
 17006|1|x-jat|Kami Kuzu Idol
 14518|1|x-jat|Kami Machi Sana-chan The Animation
 15391|1|x-jat|Kami no Tou
+17559|1|x-jat|Kami no Tou (2024)
 17559|2|x-jat|Kami no Tou 2
-17559|1|x-jat|Kami no Tou: Ouji no Kikan
+17559|2|x-jat|Kami no Tou: Koubou-sen
+17559|2|x-jat|Kami no Tou: Ouji no Kikan
 7568|1|x-jat|Kami nomi zo Shiru Sekai
 8167|1|x-jat|Kami nomi zo Shiru Sekai II
 8490|1|x-jat|Kami nomi zo Shiru Sekai: 4-nin to Idol
@@ -33104,7 +33109,6 @@
 1574|3|x-jat|Midara
 14519|1|x-jat|Midara na Ao-chan wa Benkyou ga Dekinai
 18494|1|x-jat|Midareuchi
-18366|2|en|Middle-Aged Man`s Noble Daughter Reincarnation
 10110|3|x-jat|mideshin
 4211|2|x-jat|Midnight Anime: Lemon Angel
 4212|2|x-jat|Midnight Anime: Lemon Angel (II)
@@ -36871,6 +36875,7 @@
 9457|1|x-jat|Nozoki Ana
 15114|1|x-jat|Nozoki Kanojo
 17320|1|x-jat|Nozomanu Fushi no Boukensha
+19052|1|x-jat|Nozomanu Fushi no Boukensha 2
 3155|2|en|Nozomi in the Sun
 2704|1|x-jat|Nozomi Witches
 10672|2|x-jat|Nozomi x Kimio
@@ -46709,6 +46714,7 @@
 2038|4|af|Skateiland
 3500|2|en|Skating Rink Kaleidoscope
 16262|4|en|Skeleton Knight in Another World
+19053|2|en|Skeleton Knight in Another World II
 2698|3|x-jat|skelter
 2698|2|x-jat|Skelter+Heaven
 8039|3|x-jat|sket
@@ -51339,8 +51345,6 @@
 3045|4|en|The Old Crocodile
 11095|4|en|The Old Man and the Sea
 15763|2|en|The Old Man and Two Mountains
-18366|2|en|The Old Man Reincarnated as a Villainess
-18366|2|x-jat|The Old Man Transmigrated as a Villainess
 3137|2|en|The Old Man`s Survival Guide
 6298|2|en|The Olympic Adventures of Fuwa
 18440|4|en|The Olympic Challenge
@@ -51879,6 +51883,7 @@
 11844|2|en|The Unresurrected Phoenix
 18071|2|en|The Unrivaled Tang Sect
 17320|4|en|The Unwanted Undead Adventurer
+19052|2|en|The Unwanted Undead Adventurer 2
 1691|4|ja|THE UROTSUKI
 1691|1|x-jat|The Urotsuki
 14803|2|en|The Vampire
@@ -53075,6 +53080,7 @@
 17559|2|en|Tower of God S2
 17559|4|en|Tower of God Season 2
 17559|2|en|Tower of God: Return of the prince
+17559|2|en|Tower of God: Workshop Battle
 8852|3|x-jat|TOxA
 2411|2|en|Toyama Cherry Blossom Space Commander: His Name is Gold
 5957|2|en|Toybox Series #3: Picture Book 1936
@@ -53455,6 +53461,7 @@
 6155|1|x-jat|Tsui no Sora
 5568|1|x-jat|Tsuide ni Tonchinkan
 18854|1|x-jat|Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru
+19054|1|x-jat|Tsuihousha Shokudou e Youkoso!
 13351|2|x-jat|Tsuin Seishin Tantei
 14354|1|x-jat|Tsuiseki
 12761|1|x-jat|Tsuki ga Kirei
@@ -53722,6 +53729,7 @@
 5317|1|x-jat|Twinkle Heart Part 1: Gingakei made Todokanai
 7600|1|x-jat|Twinkle Nora Rock Me!
 7600|4|ja|Twinkle NORA Rock me!
+19051|1|x-jat|Twins Hinahima
 11650|2|en|Twins on the Pasture
 13351|2|en|Twins Spirit Investigators
 10323|3|x-jat|twintail
@@ -55621,6 +55629,7 @@
 4121|4|fr|Welcome to the N.H.K
 4121|2|it|Welcome to the NHK
 4121|2|en|Welcome to the NHK
+19054|2|en|Welcome to the Outcast`s Restaurant!
 7231|4|de|Welcome to the Space Show
 7231|4|en|Welcome to the Space Show
 8988|2|en|Welcome, Aliens
@@ -72672,6 +72681,7 @@
 12253|4|ja|ツインエンジェルBREAK
 1156|4|ja|ツインシグナル ~ファミリー・ゲーム~
 1156|2|ja|ツインシグナル ~ファミリーゲーム~
+19051|4|ja|ツインズひなひま
 2492|4|ja|ツインビーPARADISE
 13322|4|ja|つうかあ Racing Sidecar
 10925|4|ja|ツキウタ. THE ANIMATION
@@ -84075,6 +84085,7 @@
 16948|4|zh-Hans|朋友游戏
 16948|4|zh-Hant|朋友遊戲
 17320|4|ja|望まぬ不死の冒険者
+19052|4|ja|望まぬ不死の冒険者 2
 15769|4|ja|望古神话之天选者
 8416|4|ja|朝からずっしり・ミルクポット
 11415|4|ja|朝が来る前に ~さすらいバージョン~
@@ -86794,8 +86805,10 @@
 18590|4|zh-Hans|神之一脚
 15391|4|ja|神之塔
 15391|4|zh-Hans|神之塔
+17559|4|ja|神之塔 (2024)
 17559|2|ja|神之塔 2nd SEASON
-17559|4|ja|神之塔 王子の帰還
+17559|2|ja|神之塔 工房戦
+17559|2|ja|神之塔 王子の帰還
 17559|2|zh-Hans|神之塔 王子的归来
 17559|2|zh-Hans|神之塔 第二季
 1258|4|zh-Hans|神八剑传
@@ -89225,6 +89238,7 @@
 7229|4|zh-Hans|迷途猫OVER RUN
 7229|2|zh-Hans|迷途猫Overrun!
 18854|4|ja|追放された転生重騎士はゲーム知識で無双する
+19054|4|ja|追放者食堂へようこそ!
 14354|4|ja|追跡
 8073|4|zh-Hans|追逐繁星的孩子
 13230|4|ja|退魔針
@@ -90518,6 +90532,7 @@
 13440|4|zh-Hans|骸骨书店员本田君
 16262|4|zh-Hant|骸骨騎士大人異世界冒險中
 16262|4|ja|骸骨騎士様, 只今異世界へお出掛け中
+19053|4|ja|骸骨騎士様, 只今異世界へお出掛け中II
 16262|4|zh-Hans|骸骨骑士大人奇幻世界冒险中
 16262|2|zh-Hans|骸骨骑士大人异世界冒险中
 15689|4|zh-Hant|體操武士
