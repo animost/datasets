@@ -1,4 +1,4 @@
-# created: Mon Dec 16 03:00:01 2024
+# created: Tue Dec 17 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6855,6 +6855,7 @@
 16266|1|x-jat|Build Divide: Code White
 481|4|hu|Bújj, bújj szellem!
 481|2|hu|Bújj,bújj szellem
+19056|1|x-jat|Bukiyou na Senpai.
 1264|1|x-kot|Bulg-eunmae
 17725|4|ja|BULLBUSTER
 17725|1|x-jat|Bullbuster
@@ -29727,6 +29728,7 @@
 16595|1|x-zht|Long Zu
 18493|1|x-jat|Look Back
 18493|4|en|Look Back
+18493|4|pl|Look Back
 16489|2|en|Looking Back at it All: The Dragon Ball Z Year-End Show!
 4103|2|en|Looking for a Home
 14790|4|en|Looking for Magical Doremi
@@ -32183,6 +32185,7 @@
 2073|2|en|Masked Ninja Akakage
 3951|4|en|Masked Rider Super-Deformed
 5277|2|tr|Maskeli Hizmetkâr
+18812|2|x-jat|Maso Mesu Soap de Aimashou!
 4568|4|hu|Másodpercenként 5 centiméter
 15666|3|x-jat|masoto
 11638|3|x-jat|masou
@@ -34830,6 +34833,7 @@
 336|3|x-jat|mws
 13980|3|en|MWZ
 4367|3|x-jat|mxmd
+19056|2|en|My Awkward Senpai
 1187|4|en|My Beautiful Girl Mari
 10221|2|en|My big and horny sisters
 12867|4|en|My Big Emergency
@@ -37882,6 +37886,7 @@
 7978|2|x-jat|Oniichan no Koto Nanka Zenzen Suki Janain Dakara ne
 13996|1|x-jat|Oniichan Zurui
 1137|2|x-jat|Oniisama E...
+19055|1|x-jat|Oniisan... Ohitori desu ka?
 3494|1|x-jat|Onikirimaru
 10427|1|x-jat|Oniku Daisuki! Zeushi-kun
 11914|1|x-jat|Oniku Daisuki! Zeushi-kun (2014)
@@ -43305,7 +43310,6 @@
 90|2|en|Rurouni Kenshin - Legend of Kyoto
 195|2|en|Rurouni Kenshin - Reflection
 422|2|en|Rurouni Kenshin - Requiem for the Restoration Royalists
-195|2|x-jat|Rurouni Kenshin - Seiso Hen -
 90|2|en|Rurouni Kenshin - Tales of the Meiji
 73|2|x-jat|Rurouni Kenshin - Tsuiokuhen OVA
 90|2|en|Rurouni Kenshin - Wandering Samurai
@@ -50698,6 +50702,7 @@
 10952|4|en|The Empire of Corpses
 6634|4|en|The Enchanted Journey
 202|4|es-419|The End of Evangelion
+202|4|pl|The End of Evangelion
 2150|2|en|The Enemy is the Pirate: Banquet of Cats
 2150|4|en|The Enemy`s the Pirates!
 8184|2|en|The Ephemeral Petal
@@ -70010,6 +70015,7 @@
 6840|4|ja|お伽囃 文福茶釜
 1958|4|ja|お伽草子
 1198|4|ja|お元気クリニック
+19055|4|ja|お兄さん…おひとりですか？
 14975|4|ja|お兄ちゃん, 朝までずっとギュッてして!
 13996|4|ja|お兄ちゃんずるい
 9230|4|ja|お兄ちゃんだけど愛さえあれば関係ないよねっ
@@ -76888,6 +76894,7 @@
 4659|4|zh-Hans|不可思议魔法药店
 13899|4|zh-Hant|不吉波普不笑
 13899|4|zh-Hans|不吉波普不笑
+19056|4|ja|不器用な先輩.
 10888|2|zh-Hans|不存在下流梗的无聊世界
 10888|2|zh-Hans|不存在黄段子的无聊世界
 7000|4|zh-Hans|不射之射
