@@ -1,4 +1,4 @@
-# created: Tue Dec 17 03:00:02 2024
+# created: Wed Dec 18 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -11440,6 +11440,7 @@
 561|4|en|Digimon Adventure 02
 1151|4|en|Digimon Adventure 02 - Diablomon Strikes Back
 1151|1|x-jat|Digimon Adventure 02: Diablomon no Gyakushuu
+16509|4|pt|Digimon Adventure 02: O Início
 16509|1|x-jat|Digimon Adventure 02: The Beginning
 1150|1|x-jat|Digimon Adventure 02: Zenpen Digimon Hurricane Jouriku!! - Kouhen Chouzetsu Shinka!! Ougon no Digimental
 7444|1|x-jat|Digimon Adventure 3D: Digimon Grand Prix!
@@ -27497,6 +27498,7 @@
 11648|1|x-jat|Koumonteki Juuku Ketsujiru Juke
 6704|1|x-jat|Koumori
 790|1|x-jat|Kounai Shasei
+19058|1|x-jat|Koupen-chan
 17425|2|x-jat|Kouryaku Wanted! Isekai Sukuimasu!?
 2008|1|x-jat|Kouryuu Densetsu Villgust
 3535|1|x-jat|Kouryuu no Mimi: Mina no Shou
@@ -38563,6 +38565,7 @@
 19007|1|x-jat|OVA Ikuiku Succubus Saikyouiku
 18756|1|x-jat|OVA Incha Couple ga You Gal-tachi to Sex Training Suru Hanashi
 13769|1|x-jat|OVA Muttsuri Do Sukebe Ro Gibo Shimai no Honshitsu Minuite Sex Zanmai
+19057|1|x-jat|OVA Nonohara Yuzuka no Himitsu no Haishin
 11268|1|x-jat|OVA Tokyo Ghoul
 11271|1|x-jat|OVA Tsunpuri
 6285|1|x-jat|OVA Utawarerumono
@@ -38579,6 +38582,7 @@
 6285|2|zh-Hans|OVA 传颂之物
 18587|4|ja|OVA 僕にハーレムセフレが出来た理由
 11268|4|ja|OVA 東京喰種[トーキョーグール]
+19057|4|ja|OVA 野々原柚花のヒミツのハイシン
 18756|4|ja|OVA 陰キャカップルが陽ギャル達とSEXトレーニングする話
 1518|4|he|OVA1 פאטלייבור
 1195|4|he|OVA2 פאטלייבור
@@ -71106,6 +71110,7 @@
 14707|5|ja|こいするアステロイド
 15362|5|ja|こいとよぶにはきもちわるい
 11906|4|ja|こいなか -小田舎で初恋×中出しセクシャルライフ- THE ANIMATION
+19058|4|ja|コウペンちゃん
 14823|4|ja|こえだちゃん
 7625|4|ja|こえでおしごと! The ANIMATION
 6932|4|ja|こがねの花
