@@ -1,4 +1,4 @@
-# created: Wed Dec 18 03:00:02 2024
+# created: Thu Dec 19 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -13670,6 +13670,7 @@
 18520|1|x-jat|Eiga Oshiri Tantei: Saraba Itoshiki Oshiri yo
 16924|1|x-jat|Eiga Oshiri Tantei: Shiriarty
 16272|1|x-jat|Eiga Oshiri Tantei: Souffle-tou no Himitsu
+19059|1|x-jat|Eiga Oshiri Tantei: Star and Moon
 15310|1|x-jat|Eiga Oshiri Tantei: Tentou Mushi Iseki no Nazo
 17054|1|x-jat|Eiga Oshiri Tantei: Yume no Jumbo Sweet Potato Matsuri
 12069|1|x-jat|Eiga Panpaka Pants: Bananan Oukoku no Hihou
@@ -83836,6 +83837,7 @@
 14712|4|ja|映画おしりたんてい カレーなる じけん
 18520|4|ja|映画おしりたんてい さらば愛しき相棒よ
 16924|2|ja|映画おしりたんてい シリアーティ
+19059|4|ja|映画おしりたんてい スター・アンド・ムーン
 16272|4|ja|映画おしりたんてい スフーレ島のひみつ
 15310|4|ja|映画おしりたんてい テントウムシいせきの なぞ
 17054|4|ja|映画おしりたんてい 夢のジャンボスイートポテトまつり
