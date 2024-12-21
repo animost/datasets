@@ -1,4 +1,4 @@
-# created: Thu Dec 19 03:00:01 2024
+# created: Fri Dec 20 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -9956,6 +9956,8 @@
 18290|4|pt-BR|DAN DA DAN
 18290|4|tl|DAN DA DAN
 18290|4|it|DAN DA DAN
+19060|1|x-jat|Dan Da Dan (2025)
+19060|2|en|Dan Da Dan (2025)
 18920|1|x-zht|Dan Dao Zhizun
 18042|1|x-zht|Dan Dao Zongshi
 1653|4|ja|DAN DOH!!
@@ -14076,6 +14078,7 @@
 2695|4|en|Emma: A Victorian Romance
 4729|4|en|Emma: A Victorian Romance Season 2
 2695|4|pt|Emma: Romance Victoriano
+2695|2|es-419|Emma: Un Romance de Época
 2695|3|x-jat|emma1
 4729|3|x-jat|emma2
 18368|1|x-zht|Emo Faze
@@ -21867,6 +21870,7 @@
 7953|3|en|HOTD OVA
 7382|3|x-jat|HOTDTV
 18973|1|x-jat|Hotel Inhumans
+18709|4|es-419|Hotel Tasokare
 2842|3|x-jat|hotori
 2842|2|en|Hotori ~The Simple Hope for Joy~
 2842|1|x-jat|Hotori: Tada Saiwai o Koinegau.
@@ -72551,6 +72555,7 @@
 6773|4|ja|ダンスインザヴァンパイアバンド
 8143|4|ja|たんすわらし.
 18290|4|ja|ダンダダン
+19060|4|ja|ダンダダン (2025)
 7939|4|ja|ダンタリアンの書架
 8944|4|ja|ダンタリアンの書架 荊姫
 11081|4|ja|だんちがい
