@@ -1,4 +1,4 @@
-# created: Fri Dec 20 03:00:02 2024
+# created: Sat Dec 21 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1678,7 +1678,7 @@
 14434|1|x-jat|Ai to Shi
 1392|1|x-jat|Ai to Yuuki no Pig Girl Tonde Buurin
 17081|1|x-jat|Ai to Yuuto: Hajimete no Otsukai
-646|1|x-jat|Ai wa Kagi no Kazu dake
+646|1|x-jat|Ai wa Kagi no Kazu dake... Fuuzoku Mansion
 8961|1|x-jat|Ai wa Kat-Tun
 74|4|fr|Ai Yori Aoshi
 74|4|en|Ai Yori Aoshi
@@ -3185,6 +3185,7 @@
 726|2|en|Arcadia of My Youth: Infinite Course SSX
 8971|1|x-jat|Arcana Famiglia: La Storia della Arcana Famiglia
 8971|4|de|Arcana Famiglia: La storia della Arcana Famiglia
+19064|1|x-jat|Arcanadea
 9287|2|en|Archenemy and Hero
 7000|2|en|Archer Without a Bow
 2010|1|x-jat|Archetypes Forces
@@ -13666,6 +13667,7 @@
 14293|1|x-jat|Eiga no Osomatsu-san
 14697|1|x-jat|Eiga no Osomatsu-san: Gekijou Koukai Kinen - Original Tanpen Gekijou
 17076|1|x-jat|Eiga Odd Taxi: In the Woods
+19062|1|x-jat|Eiga Odekake Kozame: Tokai no Otomodachi
 1764|1|x-jat|Eiga Ojamajo Doremi #
 4650|1|x-jat|Eiga Ojarumaru: Yakusoku no Natsu Ojaru to Semira
 14712|1|x-jat|Eiga Oshiri Tantei: Curry Naru Jiken
@@ -22251,6 +22253,7 @@
 13896|1|x-jat|Hyakuren no Haou to Seiyaku no Valkyria
 17684|1|x-jat|Hyakushou Kizoku
 18328|1|x-jat|Hyakushou Kizoku 2nd Season
+19065|1|x-jat|Hyakushou Kizoku 3rd Season
 10049|1|x-jat|Hybrid Child
 10049|4|ja|Hybrid Child
 8096|1|x-jat|Hybrid Deka
@@ -24535,6 +24538,7 @@
 17196|2|x-jat|Jujutsu Kaisen S2
 17196|2|x-jat|Jujutsu Kaisen Season 2
 18835|2|x-jat|Jujutsu Kaisen: Ball/Break
+18363|2|en|Jujutsu Kaisen: Culling Game
 18835|1|x-jat|Jujutsu Kaisen: Kaigyoku / Gyokusetsu
 18363|1|x-jat|Jujutsu Kaisen: Shimetsu Kaiyuu
 18854|3|x-jat|jukishi
@@ -24796,6 +24800,7 @@
 14257|3|x-jat|kabulock
 15497|3|x-jat|kabulock ova
 18292|1|x-jat|Kabushikigaisha Magilumiere
+19063|1|x-jat|Kabushikigaisha Magilumiere 2
 2636|4|en|Kabuto
 4756|3|x-jat|kabutoborg
 2816|2|x-jat|Kabutomushi Ouja Mushiking: Mori no Tami no Densetsu
@@ -31148,7 +31153,8 @@
 4074|1|x-jat|Magikano
 4074|4|en|Magikano
 18292|2|en|Magilumiere Co. Ltd.
-18292|2|en|Magilumiere Magical Girls Inc.
+18292|4|en|Magilumiere Magical Girls Inc.
+19063|2|en|Magilumiere Magical Girls Inc. 2
 10609|2|x-jat|Magimoji Rurumo
 10609|4|en|Magimoji Rurumo
 14406|4|en|Magimoji Rurumo: The Conclusion
@@ -32192,7 +32198,7 @@
 2073|2|en|Masked Ninja Akakage
 3951|4|en|Masked Rider Super-Deformed
 5277|2|tr|Maskeli Hizmetkâr
-18812|2|x-jat|Maso Mesu Soap de Aimashou!
+18812|1|x-jat|Maso Mesu Soap de Aimashou!
 4568|4|hu|Másodpercenként 5 centiméter
 15666|3|x-jat|masoto
 11638|3|x-jat|masou
@@ -32410,7 +32416,6 @@
 7623|1|x-jat|Mazinkaizer SKL
 7623|4|it|Mazinkaizer SKL
 7623|2|x-jat|Mazinkaizer Skull
-18812|1|x-jat|Mazome Soap de Aimashou!
 15389|3|x-jat|mazure
 356|3|x-jat|mb
 1259|3|x-jat|mb movie
@@ -36648,6 +36653,7 @@
 15591|2|en|Noble & Knightess Duo`s Vulgarific Exhibition
 17684|2|en|Noble Farmer
 18328|2|en|Noble Farmer 2nd Season
+19065|2|en|Noble Farmer 3rd Season
 17552|4|fr|Noble New World Adventures
 15409|1|x-jat|Noblesse
 15409|4|en|Noblesse
@@ -41017,6 +41023,7 @@
 1519|1|x-jat|Princess Rouge
 2298|1|x-jat|Princess Sara
 2298|2|en|Princess Sarah
+18690|2|x-jat|Princess Session Orchestra
 5950|2|de|Princess Tita
 516|1|x-jat|Princess Tutu
 516|4|fr|Princess Tutu
@@ -41030,6 +41037,7 @@
 2482|4|fr|Princesse Saphir
 2298|4|fr|Princesse Sarah
 172|2|fr|Princesse vampire Miyu
+18690|1|x-jat|Princession Orchestra
 14064|3|x-jat|princessprincipal movie
 7|4|hr|Princeza Mononoke
 7478|4|cs|Princezna a pilot
@@ -41042,7 +41050,6 @@
 7|4|sv|Prinsessan Mononoke
 7|4|da|Prinsesse Mononoke
 7|4|no|Prinsesse Mononoke
-18690|1|x-jat|Prinsession Orchestra
 7|4|ro|Prinţesa Mononoke
 333|4|ro|Printre Amintiri
 7|4|et|Printsess Mononoke
@@ -46745,10 +46752,12 @@
 18989|3|x-jat|Skill Mugen Gacha
 16981|2|en|Skip & Loafers
 16981|4|en|Skip and Loafer
+19061|2|en|Skip and Loafer 2
 6103|2|x-jat|Skip Beat
 6103|1|x-jat|Skip Beat!
 6103|4|en|Skip Beat!
 16981|1|x-jat|Skip to Loafer
+19061|1|x-jat|Skip to Loafer 2
 13192|1|x-jat|Skirt no Naka wa Kedamono Deshita.
 7277|3|x-jat|skmot
 7258|4|lt|Skoliniautojai
@@ -69129,6 +69138,7 @@
 14739|4|ja|あるアパートの一室
 8878|4|ja|アルヴ・レズル -機械仕掛けの妖精たち-
 8971|4|ja|アルカナ・ファミリア La storia della Arcana Famiglia
+19064|4|ja|アルカナディア
 15256|2|ja|アルゴナビス from BanG Dream! ANIMATION
 50|4|ja|アルジェントソーマ ΑΠΗΕΝΤΟ ΣΟΜΑ
 3308|2|ja|アルス THE ADVENTURE
@@ -71905,6 +71915,7 @@
 11220|4|ja|スキージャンプ・ペア ~Road to TORINO 2006~
 6103|4|ja|スキップ・ビート!
 16981|4|ja|スキップとローファー
+19061|4|ja|スキップとローファー 2
 18989|3|ja|スキル無限ガチャ
 5065|4|ja|スクーパーズ
 12502|4|ja|スクールガールストライカーズ Animation Channel
@@ -82489,7 +82500,7 @@
 3065|4|ja|愛の若草山物語
 2290|4|ja|愛の若草物語
 8961|4|ja|愛はKAT-TUN
-646|4|ja|愛は鍵の数だけ
+646|4|ja|愛は鍵の数だけ... 風俗マンション
 12100|4|ja|愛をこめて
 17400|4|ja|愛を着て
 16183|4|zh-Hant|愛在征服世界後
@@ -83759,6 +83770,7 @@
 4650|4|ja|映画 おじゃる丸 約束の夏 おじゃるとせみら
 1764|4|ja|映画 おジャ魔女どれみ#
 17076|2|ja|映画 オッドタクシー イン・ザ・ウッズ
+19062|4|ja|映画 おでかけ子ザメ とかいのおともだち
 9194|4|ja|映画 かいけつゾロリ だ・だ・だ・だいぼうけん!
 9970|4|ja|映画 かいけつゾロリ まもるぜ! きょうりゅうのたまご
 15102|4|ja|映画 ギヴン
@@ -84437,6 +84449,7 @@
 4222|2|zh-Hant|校園迷糊大王 二學期
 8282|4|ja|校長先生とクジラ
 18292|4|ja|株式会社マジルミエ
+19063|4|ja|株式会社マジルミエ 2
 15768|4|ja|核晶少年
 7933|4|zh-Hans|核爆末世录
 7933|4|zh-Hant|核爆末世錄
@@ -86567,6 +86580,7 @@
 15967|4|zh-Hant|百妖谱 第貳季
 17684|4|ja|百姓貴族
 18328|4|ja|百姓貴族 2nd Season
+19065|4|ja|百姓貴族 3rd Season
 18524|4|zh-Hans|百家诀之江湖诡事录
 12874|4|ja|百年後の或る日
 13912|4|zh-Hans|百慕大三角～Colorful Pastrale～
