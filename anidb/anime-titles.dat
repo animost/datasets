@@ -1,4 +1,4 @@
-# created: Sun Dec 22 03:00:01 2024
+# created: Mon Dec 23 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3463,6 +3463,7 @@
 29|3|en|AS
 18026|4|en|As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World
 18707|4|en|As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World (2024)
+19070|2|en|As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World 3
 196|2|pt|As Asas de Honneamise
 9514|4|pt|As Asas do Vento
 1105|2|es-GA|As aventuras de Fly
@@ -14076,13 +14077,13 @@
 262|4|hu|Emlékek
 2695|3|x-jat|Emma
 2695|4|de|Emma - Eine viktorianische Liebe
+2695|4|es-419|Emma - Un romance de época
 2695|4|it|Emma - Una storia romantica
 2695|3|x-jat|emma 1
 4729|3|x-jat|emma 2
 2695|4|en|Emma: A Victorian Romance
 4729|4|en|Emma: A Victorian Romance Season 2
 2695|4|pt|Emma: Romance Victoriano
-2695|2|es-419|Emma: Un Romance de Época
 2695|3|x-jat|emma1
 4729|3|x-jat|emma2
 18368|1|x-zht|Emo Faze
@@ -28304,6 +28305,7 @@
 15093|2|fr|La disgrâce des Valkyries
 7221|4|fr|La Disparition de Haruhi Suzumiya
 10815|4|fr|La disparition de Yuki Nagato
+5922|4|es-419|La doncella Musou
 14252|2|fr|Là encore, je tiens à ma compagne
 3606|2|es|La era de los dinosaurios
 700|4|es|La Esclava de Minelva
@@ -28411,6 +28413,7 @@
 1131|4|es|La novia de la oscuridad
 14530|4|es-419|La Novia del Maestro Nobunaga
 2293|2|es|La Novicia Rebelde
+6400|4|es-419|La Nueva Doncella Musou
 1250|4|fr|La nuit du Galaxy Express
 757|4|es|La panda de Julia
 4669|4|es|La Pandilla de Hanamaru
@@ -33020,14 +33023,16 @@
 9309|3|x-jat|MF
 17094|1|x-jat|MF Ghost
 17094|4|en|MF Ghost
-18327|1|x-jat|MF Ghost (2024)
-18327|4|en|MF Ghost (2024)
+18327|1|x-jat|MF Ghost 2nd Season
+18327|4|en|MF Ghost 2nd Season
+19071|1|x-jat|MF Ghost 3rd Season
+19071|2|en|MF Ghost 3rd Season
 18327|2|en|MF Ghost Season 2
 4106|3|ja|MF5
 14622|3|fr|MFKZ
 17094|4|ja|MFゴースト
-18327|4|ja|MFゴースト (2024)
-18327|2|ja|MFゴースト 2nd Season
+18327|4|ja|MFゴースト 2nd Season
+19071|4|ja|MFゴースト3rd Season
 1213|3|x-jat|MG
 311|3|x-jat|mgg
 418|3|x-jat|mgg movie
@@ -33530,7 +33535,7 @@
 5870|1|x-jat|Mission-E
 5870|4|ja|MISSION-E
 17773|4|en|Mission: Yozakura Family
-18900|2|en|Mission: Yozakura Family 2
+18900|2|en|Mission: Yozakura Family (2026)
 2291|4|de|Missis Jo und ihre fröhliche Familie
 264|1|x-jat|Mister Ajikko
 1678|2|en|Mister Ikkyu
@@ -34959,6 +34964,7 @@
 13633|4|fr|My Hero Academia: Two Heroes
 18199|4|en|My Hero Academia: UA Heroes Battle
 18199|4|fr|My Hero Academia: UA Heroes Battle
+19069|2|en|My Hero Academia: Vigilantes
 15873|4|en|My Hero Academia: World Heroes` Mission
 15873|4|fr|My Hero Academia: World Heroes` Mission
 18150|4|en|My Hero Academia: You`re Next
@@ -41409,7 +41415,9 @@
 2111|2|es|Punio de la estrella del sur
 18315|2|en|Puniru Is a Cute Slime
 18315|4|en|Puniru Is a Kawaii Slime
+19072|2|en|Puniru Is a Kawaii Slime 2
 18315|1|x-jat|Puniru wa Kawaii Slime
+19072|1|x-jat|Puniru wa Kawaii Slime 2
 17590|1|x-jat|Punirunes
 17590|4|en|Punirunes
 18877|1|x-jat|Punirunes: Puni 2
@@ -50067,6 +50075,7 @@
 17552|1|x-jat|Tensei Kizoku no Isekai Boukenroku: Jichou o Shiranai Kamigami no Shito
 18026|1|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru
 18707|1|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru (2024)
+19070|1|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru 3
 18707|2|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru Season 2
 18026|2|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta
 17569|1|x-jat|Tensei Oujo to Tensai Reijou no Mahou Kakumei
@@ -50438,6 +50447,7 @@
 904|2|x-jat|The Big-O
 6572|2|en|The Biography of Guskou Budori
 2691|3|en|The Birth of Doraemon
+16107|4|en|The Birth of Kitaro: The Mystery of GeGeGe
 16675|2|en|The Bistro of Li Linke
 17858|2|en|The Bistro of Li Linke Season 2
 804|4|en|The Bizarre Cage
@@ -54931,6 +54941,8 @@
 2365|3|x-jat|vifam ova 3
 2366|3|x-jat|vifam ova 4
 2362|3|x-jat|vifam s2
+19069|1|x-jat|Vigilante: Boku no Hero Academia Illegals
+19069|2|en|Vigilante: My Hero Academia Illegals
 1428|4|fi|Viidakkokirja
 2279|4|fi|Viidakkopoika
 1825|4|tr|Vikingler
@@ -57439,7 +57451,7 @@
 9817|2|en|Yozakura Quartet: Howl at the Moon
 9817|1|x-jat|Yozakura Quartet: Tsuki ni Naku
 17773|1|x-jat|Yozakura-san Chi no Daisakusen
-18900|1|x-jat|Yozakura-san Chi no Daisakusen 2
+18900|1|x-jat|Yozakura-san Chi no Daisakusen (2026)
 18900|2|x-jat|Yozakura-san Chi no Daisakusen Season 2
 4901|3|x-jat|YPC5
 5976|3|x-jat|yq
@@ -69432,6 +69444,7 @@
 1026|2|ja|ヴィシャス
 16171|4|ja|ヴィジュアルプリズン
 1281|4|ja|ヴィジョナリィ
+19069|4|ja|ヴィジランテ -僕のヒーローアカデミア ILLEGALS-
 13934|2|ja|ウィズ
 2534|2|ja|ウィッシュ
 7608|4|ja|ウィッシュエンジェル -翼は小さいけれど-
@@ -74669,6 +74682,7 @@
 17377|4|ja|フニクリ フニクラ
 65|4|ja|ぷにぷに☆ぽえみぃ
 18315|4|ja|ぷにるはかわいいスライム
+19072|4|ja|ぷにるはかわいいスライム 2
 17590|4|ja|ぷにるんず
 18877|4|ja|ぷにるんず ぷに2
 10271|4|ja|プピポー!
@@ -78105,6 +78119,7 @@
 16418|4|zh-Hans|再见了，橡果兄弟！
 2229|4|zh-Hans|再见宇宙战舰大和号 爱的战士们
 5083|4|zh-Hans|再见绝望先生
+18537|4|zh-Hans|再见龙生，你好人生
 6032|2|zh-Hans|再造人卡夏
 81|4|zh-Hans|再造基因
 1275|4|ja|冒険!イクサー3
@@ -80084,7 +80099,7 @@
 17938|4|zh-Hans|夜晚的水母不会游泳
 17938|4|zh-Hant|夜晚的水母不會游泳
 17773|4|ja|夜桜さんちの大作戦
-18900|4|ja|夜桜さんちの大作戦 2
+18900|4|ja|夜桜さんちの大作戦 (2026)
 9816|4|ja|夜桜四重奏 ~ハナノウタ~
 7460|4|ja|夜桜四重奏 ~ホシノウミ~
 5976|4|ja|夜桜四重奏 ~ヨザクラカルテット~
@@ -89140,6 +89155,7 @@
 17569|4|ja|転生王女と天才令嬢の魔法革命
 18026|4|ja|転生貴族, 鑑定スキルで成り上がる
 18707|4|ja|転生貴族, 鑑定スキルで成り上がる (2024)
+19070|4|ja|転生貴族, 鑑定スキルで成り上がる 3
 17552|4|ja|転生貴族の異世界冒険録 ~自重を知らない神々の使徒~
 16030|4|ja|転生賢者の異世界ライフ~第二の職業を得て, 世界最強になりました~
 4435|4|ja|軽井沢シンドローム
