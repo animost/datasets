@@ -1,4 +1,4 @@
-# created: Mon Dec 23 03:00:01 2024
+# created: Tue Dec 24 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -20258,6 +20258,7 @@
 5533|3|x-jat|hatenkou
 5533|4|en|Hatenkou Yugi
 5533|1|x-jat|Hatenkou Yuugi
+19073|1|x-jat|Hateshi Naki Scarlet
 5533|3|x-jat|HateYuu
 262|2|tr|Hatıralar
 8327|1|x-jat|Hato no Oyomesan
@@ -23162,6 +23163,7 @@
 12034|1|x-jat|Infini-T Force
 12034|4|fr|Infini-T Force
 12034|4|en|Infini-T Force
+13400|2|en|Infini-T Force: Gatchaman: Goodbye, My Friends
 14564|1|x-jat|Infinite Dendrogram
 14564|4|ja|INFINITE DENDROGRAM
 14564|4|en|Infinite Dendrogram
@@ -26502,6 +26504,7 @@
 9645|2|en|King of Inventors, Maniac
 14860|2|en|King of Jin in Tang Dynasty
 18585|2|en|King of Loose Cultivators
+18356|2|en|King of Martial Arts
 18553|4|ja|KING OF PRISM -Dramatic PRISM.1-
 12403|4|ja|KING OF PRISM -PRIDE the HERO-
 14134|4|ja|KING OF PRISM -Shiny Seven Stars-
@@ -29028,6 +29031,7 @@
 18413|4|en|Legend of Lotus Sword Fairy
 1212|4|en|Legend of Lyon Flare
 16407|4|en|Legend of Mana: The Teardrop Crystal
+18356|2|en|Legend of Martial Immortal
 3660|2|en|Legend of Moby Dick
 16002|2|en|Legend of Nine Nights
 3674|2|en|Legend of Princess Snow White
@@ -41997,7 +42001,6 @@
 193|4|en|Ranma 1/2 (1989)
 405|1|x-jat|Ranma 1/2 (1993)
 18700|1|x-jat|Ranma 1/2 (2024)
-18700|2|en|Ranma 1/2 (Completely New Anime)
 193|4|pt|Ranma 1/2 (Continuação)
 193|4|fr|Ranma 1/2 (suite)
 4576|4|de|Ranma 1/2 (Teil 1)
@@ -44476,6 +44479,7 @@
 6023|1|x-jat|Scarecrowman
 12065|1|x-jat|Scared Rider Xechs
 12065|2|ja|Scared Rider XechS
+19073|2|en|Scarlet
 8840|2|en|Scarlet Fragment
 16135|1|x-jat|Scarlet Nexus
 16135|4|ja|SCARLET NEXUS
@@ -53656,6 +53660,7 @@
 332|4|fi|Tulikärpästen hauta
 15867|2|x-zht|Tun Shi Xing Kong
 11784|2|vi|Tung tiền hữu tọa linh kiếm sơn
+17040|4|de|Tunnel to Summer
 15867|1|x-zht|Tunshi Xingkong
 18364|1|x-zht|Tunshi Xingkong 3
 18365|1|x-zht|Tunshi Xingkong 4
@@ -56432,11 +56437,13 @@
 18682|1|x-zht|Xian Wu Cangqiong
 18356|1|x-zht|Xian Wu Chuan
 18357|1|x-zht|Xian Wu Chuan 2
+18357|2|x-zht|Xian Wu Chuan Di Er Ji
 13442|1|x-zht|Xiang Ling Ji
 4856|2|en|Xiangqi Master
 4856|1|x-zht|Xiangqi Wang
 16632|1|x-zht|Xiangzhe Mingliang Nuo Fang
 17598|2|x-zht|Xianshan Liaoluan: Shanhai Juelun
+18356|2|x-zht|Xianwu Dizun
 18356|2|en|Xianwu Emperor
 18682|2|en|Xianwu Heaven
 16634|1|x-zht|Xianyu Ge
@@ -77463,6 +77470,7 @@
 17598|2|zh-Hans|仙山缭乱之山海绝伦
 18356|4|zh-Hans|仙武传
 18357|4|zh-Hans|仙武传 第二季
+18356|2|zh-Hans|仙武帝尊
 18682|4|zh-Hans|仙武苍穹
 14718|4|zh|仙王的日常生活
 17125|4|zh-Hans|仙王的日常生活 第三季
@@ -84417,6 +84425,7 @@
 16530|4|zh-Hans|枕刀歌之尘世行
 11213|4|ja|枕男子
 11213|4|zh-Hans|枕男子
+19073|4|ja|果てしなきスカーレッ
 9890|4|zh-Hant|果然我的青春戀愛喜劇搞錯了 OAD
 9310|4|zh-Hant|果然我的青春戀愛喜劇搞錯了.
 14764|4|zh-Hant|果然我的青春戀愛喜劇搞錯了。完
