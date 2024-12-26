@@ -1,4 +1,4 @@
-# created: Tue Dec 24 03:00:01 2024
+# created: Wed Dec 25 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -18470,6 +18470,7 @@
 13838|3|en|Goma-chan Season 3
 14492|1|x-jat|Goman-hiki
 10128|1|x-jat|Gomen ne, Mii-chan
+19074|1|x-jat|Gomu o Tsukete to Iimashita yo ne...
 8997|1|x-jat|Gon
 11153|1|x-jat|Gon (2015)
 16859|1|x-zht|Gon Di Hanta
@@ -29297,6 +29298,7 @@
 12933|2|en|Lessons with Chii-chan
 17425|4|en|Let Me Check the Walkthrough First
 18498|4|en|Let This Grieving Soul Retire
+19075|2|en|Let This Grieving Soul Retire 2
 11837|2|x-jat|Let You, Get You, Saru Get You
 7757|2|en|Let’s Go! Anpanman – The Amazing Naganegiman and Yakisobapanman
 1171|4|pt|Let`s & Go
@@ -35262,6 +35264,7 @@
 10815|3|x-jat|nagatoyukichan
 11163|3|x-jat|nagatoyukichan ova
 18498|1|x-jat|Nageki no Bourei wa Intai Shitai
+19075|1|x-jat|Nageki no Bourei wa Intai Shitai 2
 158|1|x-jat|Nageki no Kenkou Yuuryouji
 9387|1|x-jat|Nagi no Asukara
 9387|4|fr|Nagi no Asukara
@@ -71296,6 +71299,7 @@
 116|4|ja|こみっくパーティー
 1225|4|ja|こみっくパーティーRevolution
 3068|4|ja|こみっくパーティーRevolution (2005)
+19074|4|ja|ゴムをつけてといいましたよね...
 11453|4|ja|コメット・ルシファー
 10128|4|ja|ごめんね, ミーちゃん
 4327|4|ja|コヨーテ ラグタイムショー
@@ -79646,6 +79650,7 @@
 2740|4|zh-Hans|喷嚏大魔王
 15675|4|zh-Hans|嗜谎之神
 18498|4|ja|嘆きの亡霊は引退したい
+19075|4|ja|嘆きの亡霊は引退したい 2
 158|4|ja|嘆きの健康優良児
 18498|4|zh-Hant|嘆氣的亡靈想隱退
 9069|4|ja|嘘喰い
