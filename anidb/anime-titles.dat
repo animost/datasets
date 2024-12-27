@@ -1,4 +1,4 @@
-# created: Wed Dec 25 03:00:02 2024
+# created: Thu Dec 26 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -10336,6 +10336,7 @@
 231|3|x-jat|DBTV
 1530|3|x-jat|DBZ
 2643|3|x-jat|dbz gaiden
+10452|3|en|DBZ Kai TFC
 1043|3|en|DBZ Movie 1
 1070|3|en|DBZ Movie 10
 906|3|en|DBZ Movie 11
