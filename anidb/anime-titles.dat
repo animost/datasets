@@ -1,4 +1,4 @@
-# created: Thu Dec 26 03:00:01 2024
+# created: Fri Dec 27 03:00:01 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -22317,6 +22317,7 @@
 13741|2|en|Hypnosis Academy
 12512|2|en|Hypnosis Class: Turning All the Girls into Sluts Before they Even Know it
 6269|2|en|Hypnosis Humiliation School
+19076|1|x-jat|Hypnosis Mic: Division Rap Battle
 15289|1|x-jat|Hypnosis Mic: Division Rap Battle - Rhyme Anima
 17950|1|x-jat|Hypnosis Mic: Division Rap Battle - Rhyme Anima +
 10429|2|en|Hypnosis on the Huge-Breast Family
@@ -74428,6 +74429,7 @@
 7247|4|ja|ヒピラくん
 15289|4|ja|ヒプノシスマイク -Division Rap Battle- Rhyme Anima
 17950|4|ja|ヒプノシスマイク -Division Rap Battle- Rhyme Anima +
+19076|4|ja|ヒプノシスマイク –Division Rap Battle-
 12808|4|ja|ビブリア古書堂の事件手帖
 2128|4|ja|ピポパポパトルくん
 9058|4|ja|ヒマラヤの光の王国
@@ -77265,6 +77267,7 @@
 17968|4|ja|五等分の花嫁∽
 14247|4|zh-Hant|五等分的新娘
 14247|4|zh-Hans|五等分的新娘
+18603|4|zh-Hans|五等分的新娘＊
 14903|4|zh-Hans|五等分的新娘∬
 17968|4|zh-Hans|五等分的新娘∽
 18907|4|zh-Hans|五行战神
@@ -77609,6 +77612,7 @@
 12896|4|zh|佛教動畫-大勢至菩薩念佛圓通章
 15216|4|zh-Hans|你与我最后的战场，亦或是世界起始的圣战
 16828|2|zh-Hans|你与我最后的战场，亦或是世界起始的圣战 第二季
+17984|4|zh-Hans|你们还真就结婚啦？
 15414|4|zh-Hant|你在他方
 14532|4|zh-Hans|你好 世界
 9295|4|zh-Hans|你好七叶
@@ -79204,6 +79208,7 @@
 17447|4|zh-Hans|史上最强男主角
 7729|2|zh-Hant|史塔斯閘門
 4336|2|zh-Hans|史诗创造者年代记
+18498|4|zh-Hans|叹气的亡灵想隐退
 10946|4|zh-Hans|吃豆人世界
 16839|4|zh|吃货宇宙
 16654|4|zh-Hans|吃鸡大作战
@@ -85145,6 +85150,7 @@
 14098|2|zh-Hans|没有给我哥吃的药2
 10888|4|zh-Hans|没有黄段子存在的无聊世界
 9659|4|zh-Hans|没能成为勇者的我无可奈何决定去工作
+14461|4|zh-Hans|没能成为魔法师的女孩子的故事
 18536|4|ja|没落予定の貴族だけど, 暇だったから魔法を極めてみた
 14994|4|zh-Hans|没落要塞
 17488|4|zh-Hans|沦落者之夜
@@ -90394,6 +90400,7 @@
 17320|4|zh-Hans|非自愿的不死冒险者
 17555|4|zh-Hans|靠你啦！战神系统
 9180|4|zh|靠岸
+18438|4|zh-Hans|靠废柴技能【状态异常】成为最强的我将蹂躏一切
 18438|4|zh-Hant|靠廢柴技能【狀態異常】成為最強的我將蹂躪一切
 17878|4|zh-Hans|靠著魔法药水在异世界活下去
 17878|4|zh-Hant|靠著魔法藥水在異世界活下去
@@ -90442,6 +90449,7 @@
 145|4|ja|頭文字D Second Stage
 625|4|ja|頭文字D Third Stage
 1088|4|ja|顔のない月
+17745|4|zh-Hans|顶尖恶路
 17118|4|zh-Hans|顶点!!!!!!!!!!!!!!!
 1947|4|zh-Hans|顽皮小白貂
 14646|4|zh|领风者
