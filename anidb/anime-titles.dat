@@ -1,4 +1,4 @@
-# created: Fri Dec 27 03:00:01 2024
+# created: Sat Dec 28 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -9395,6 +9395,7 @@
 6|2|en|Crest of the Stars: Fragment Birth of Stars
 8832|2|pt|Crianças Lobo
 8073|2|pt|Crianças que Perseguem as Vozes Perdidas
+3363|2|es-419|Criatura del Espacio
 1610|2|en|Crime of Passion
 2450|4|en|Crimson Climax
 8994|1|x-jat|Crimson Girls: Chikan Shihai
@@ -9517,6 +9518,7 @@
 4193|4|es-419|Cuentos de Terramar
 8117|4|es-419|Cuentos de un Gato Sagrado
 12747|2|en|CUG: King of Heroes
+19077|2|fr|Cuisson dans le Fermat
 5574|2|cs|Cukroušek
 18839|2|en|Cultural Exchange With Game Center Girl
 8685|2|en|Cumulonimbus Graffiti
@@ -15250,6 +15252,8 @@
 16640|1|x-zht|Fengzi Wuyu: Yinhe Pian (2021)
 1553|2|es-419|Fénix
 1553|4|pt-BR|Fênix
+19077|1|x-jat|Fermat no Ryouri
+19077|2|en|Fermat`s Cuisine
 6818|2|de|Fesseln des Verrats
 2421|4|pt-BR|Festa do Prazer
 11312|1|x-jat|Fetish Doll
@@ -18886,6 +18890,7 @@
 18734|4|ja|GROTESQUE
 18734|1|x-jat|Grotesque
 7903|4|en|Ground Control to Psychoelectric Girl
+7903|4|es-419|Ground Control to Psychoelectric Girl
 444|2|en|Ground Defence Mao-chan
 444|2|en|Ground Defense Force! Mao-chan
 15844|2|en|Growing Up
@@ -74591,6 +74596,7 @@
 10660|4|ja|ふぇちかの!
 12097|4|ja|フェラハメりっぷす
 10363|4|ja|フェラピュア ~御手洗さん家の事情~ THE ANIMATION
+19077|4|ja|フェルマーの料理
 7889|2|ja|フォーセイクン
 7579|2|ja|フォーチュン アテリアル
 7890|2|ja|フォーチュン アテリアル 赤い約束
