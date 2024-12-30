@@ -1,4 +1,4 @@
-# created: Sat Dec 28 03:00:02 2024
+# created: Sun Dec 29 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5852,6 +5852,7 @@
 2369|2|x-jat|bleach tv
 15449|4|ja|BLEACH 千年血戦篇
 18220|4|ja|BLEACH 千年血戦篇-相剋譚-
+19079|4|ja|BLEACH 千年血戦篇-禍進譚-
 17765|4|ja|BLEACH 千年血戦篇-訣別譚-
 18220|4|zh-Hans|BLEACH 死神 千年血战篇 -相克谭-
 17765|4|zh-Hans|BLEACH 死神 千年血战篇-诀别谭-
@@ -5865,12 +5866,15 @@
 7666|2|en|Bleach: Hell Chapter
 4515|4|pl|Bleach: Memories of Nobody
 15449|1|x-jat|Bleach: Sennen Kessen Hen
+19079|1|x-jat|Bleach: Sennen Kessen Hen - Kashin Tan
 17765|1|x-jat|Bleach: Sennen Kessen Hen - Ketsubetsu Tan
 18220|1|x-jat|Bleach: Sennen Kessen Hen - Soukoku Tan
 18220|2|x-jat|Bleach: Sennen Kessen Hen Part 3
 15449|4|de|Bleach: Thousand-Year Blood War
 15449|4|en|Bleach: Thousand-Year Blood War
 15449|4|fr|Bleach: Thousand-Year Blood War
+19079|4|en|Bleach: Thousand-Year Blood War - The Calamity
+19079|4|de|Bleach: Thousand-Year Blood War - The Calamity
 18220|4|en|Bleach: Thousand-Year Blood War - The Conflict
 18220|4|de|Bleach: Thousand-Year Blood War - The Conflict
 17765|4|en|Bleach: Thousand-Year Blood War - The Separation
@@ -9604,6 +9608,7 @@
 15610|4|ja|CYBERPUNK: EDGERUNNERS
 15610|4|en|Cyberpunk: Edgerunners
 15610|4|pl|Cyberpunk: Edgerunners
+15610|4|cs|Cyberpunk: Edgerunners
 15610|4|pt-BR|Cyberpunk: Mercenários
 15610|4|th|CYBERPUNK: อาชญากรแดนเถื่อน
 1524|4|fr|Cybersix
@@ -12286,6 +12291,7 @@
 14483|1|x-jat|Dorohedoro
 14483|4|en|Dorohedoro
 14483|4|pl|Dorohedoro
+14483|4|cs|Dorohedoro
 18397|1|x-jat|Dorohedoro (Zokuhen)
 11652|2|en|Doronjo ZIP!
 1119|4|en|Dororo
@@ -12594,6 +12600,7 @@
 541|4|ja|Dr.リンにきいてみて!
 13625|4|de|Drachenflieger
 13625|2|de|Drachenflieger: Hisone und Masotan
+14746|4|cs|Dračí prokletí
 16622|2|en|Draco Monster
 5677|4|it|Dracula
 5677|4|fi|Dracula
@@ -13199,6 +13206,7 @@
 18489|2|x-zht|Dubu Wangu Di Er Ji
 18489|2|x-zht|Dubu Wangu Season 2
 15679|1|x-zht|Dubu Xiaoyao
+13098|4|cs|Duch ve stroji: SAC_2045
 61|2|pl|Duch w pancerzu
 890|2|pl|Duch w pancerzu II: Niewinność
 11396|2|en|Duck Brigade
@@ -13366,6 +13374,7 @@
 83|4|lt|Džin Ro: Vilko brigada
 4241|2|pl|Dzisiaj w klasie 5-2
 1428|4|lt|Džiunglių knyga
+17446|4|cs|Džundži Itó: Japonské děsy
 6783|2|pl|Dźwięk Nieba
 6783|2|pl|Dźwięk Niebios
 1165|2|pl|Dźwiękowy insekt - Noiseman
@@ -14034,6 +14043,7 @@
 1340|4|it|Eliseo
 10722|1|x-jat|Elite Jack!!
 8023|1|x-jat|Elite!!
+14734|4|cs|Elitní agenti Spriggan
 1340|2|lt|Eliziumas
 14698|4|es-419|Ella y yo en el baño de mujeres
 2331|4|en|Ellcia
@@ -15889,6 +15899,7 @@
 8174|2|en|Friends: Naki of Monster Island
 17617|4|fr|Frieren
 17617|4|it|Frieren - Oltre la Fine del Viaggio
+17617|2|pt|Frieren e a Jornada para o Além
 17617|4|pt-BR|Frieren e a Jornada para o Além
 17617|4|en|Frieren: Beyond Journey`s End
 18886|2|en|Frieren: Beyond Journey`s End 2
@@ -19919,6 +19930,7 @@
 8827|1|x-jat|Hanasaku Iroha: Home Sweet Home
 6329|3|x-jat|HanaSei
 18683|3|x-jat|Hanashura
+18683|4|id|Hanashura: Laung Mekar sang Bunga, bagai Ashura
 1555|4|en|Hanaukyo Maid Team: La Verite
 1555|2|x-unk|Hanaukyo Maid Team: La Vérité
 54|2|en|Hanaukyo Maids
@@ -25517,7 +25529,6 @@
 2828|2|tr|Karlar Kraliçesi
 14358|1|x-jat|Karma
 5030|4|en|Karma Saiyuki
-306|4|cs|Karmínové prase
 9334|1|x-jat|Karneval
 9186|4|en|Karneval
 9186|1|x-jat|Karneval (2013)
@@ -29526,8 +29537,10 @@
 16648|2|en|Lingyun Code
 6529|4|pt-BR|Linha Vermelha
 16290|4|en|Link Click
+19078|2|en|Link Click - Bridon Arc
 16531|2|en|Link Click 2nd Season
 16531|4|de|Link Click II
+19078|4|en|Link Click: Bridon Arc
 13014|4|en|Link Planets
 13015|2|en|Link Planets (Movie)
 5205|4|en|Linked Hospital Ward
@@ -31067,6 +31080,7 @@
 8821|2|x-jat|Magical Girl Lyrical Nanoha A`s - The Movie 2nd
 13301|4|ja|Magical Girl Lyrical NANOHA Detonation
 13301|1|x-jat|Magical Girl Lyrical Nanoha Detonation
+19080|2|en|Magical Girl Lyrical Nanoha Exceeds: Gun Blaze Vengeance
 9788|1|x-jat|Magical Girl Lyrical Nanoha Reflection
 9788|4|ja|Magical Girl Lyrical NANOHA Reflection
 4688|4|en|Magical Girl Lyrical Nanoha StrikerS
@@ -31298,6 +31312,7 @@
 2430|1|x-jat|Mahou Shoujo Lyrical Nanoha
 3440|1|x-jat|Mahou Shoujo Lyrical Nanoha A`s
 13301|2|x-jat|Mahou Shoujo Lyrical Nanoha Detonation
+19080|1|x-jat|Mahou Shoujo Lyrical Nanoha Exceeds: Gun Blaze Vengeance
 9788|2|x-jat|Mahou Shoujo Lyrical Nanoha Reflection
 4688|1|x-jat|Mahou Shoujo Lyrical Nanoha StrikerS
 6075|2|x-jat|Mahou Shoujo Lyrical Nanoha The Movie 1st
@@ -39851,6 +39866,7 @@
 13225|4|ja|PLUTO
 13225|1|x-jat|Pluto
 13225|4|en|Pluto
+13225|4|cs|Pluto
 13225|4|zh-Hans|PLUTO 冥王
 13225|4|zh-Hant|PLUTO 冥王
 230|2|x-jat|PM
@@ -40677,6 +40693,7 @@
 306|4|hr|Porco Rosso
 306|4|nl|Porco Rosso
 306|4|vi|Porco Rosso
+306|4|cs|Porco Rosso
 306|4|hu|Porco Rosso - A mesterpilóta
 306|4|pt|Porco Rosso: O Porquinho Voador
 306|4|pt-BR|Porco Rosso: O Último Herói Romântico
@@ -44599,6 +44616,7 @@
 5065|1|x-jat|Scoopers
 203|2|en|Scorched Bread
 12040|4|en|Scorching Ping Pong Girls
+18283|4|cs|Scott Pilgrim jde na věc
 18283|1|x-jat|Scott Pilgrim Takes Off
 18283|4|en|Scott Pilgrim Takes Off
 18283|4|pl|Scott Pilgrim zaskakuje
@@ -45740,6 +45758,7 @@
 16290|1|x-zht|Shiguang Dailiren
 16531|2|x-zht|Shiguang Dailiren 2nd Season
 16531|1|x-zht|Shiguang Dailiren II
+19078|1|x-jat|Shiguang Dailiren: Yingdu Pian
 13726|1|x-zht|Shiguang Guiyu
 5108|1|x-jat|Shigurui
 5108|4|en|Shigurui: Death Frenzy
@@ -48127,6 +48146,7 @@
 16420|1|x-jat|Star Wars: Visions
 18140|1|x-jat|Star Wars: Visions (2023)
 19005|1|x-jat|Star Wars: Visions (2025)
+16420|4|cs|Star Wars: Vize
 17044|1|x-jat|Star Wars/Force no Kakusei
 8837|4|ja|STAR☆jewel
 3603|2|en|Starcat Full House
@@ -48780,6 +48800,7 @@
 1683|4|es-419|Super Magnetrón
 4552|2|x-unk|Super Mario Bros. Film
 4552|2|x-unk|Super Mario Bros. Movie
+4391|2|en|Super Mario Bros.: The Great Mission to Rescue Princess Peach!
 4391|1|x-jat|Super Mario Brothers: Peach-hime Kyuushutsu Daisakusen!
 4391|2|en|Super Mario Brothers: The Great Mission to Rescue Princess Peach!
 13542|1|x-jat|Super Mario no Shouboutai
@@ -49829,6 +49850,7 @@
 567|4|fr|Tekken - The Motion Picture
 3563|1|x-jat|Tekken Chinmi
 8414|1|x-jat|Tekken: Blood Vengeance
+17578|4|cs|Tekken: Bloodline
 17578|1|en|Tekken: Bloodline
 17578|4|pl|Tekken: Bloodline
 567|4|en|Tekken: The Motion Picture
@@ -50175,6 +50197,7 @@
 18275|1|x-jat|Terminator 0
 18275|4|en|Terminator Zero
 18275|4|pl|Terminator Zero
+18275|4|cs|Terminator Zero
 18071|4|pt|Terra de Alma Ⅱ: O Inigualável Clã Tang
 1416|1|x-jat|Terra e...
 5039|1|x-jat|Terra e... (2007)
@@ -54620,6 +54643,7 @@
 15063|1|x-jat|Uzumaki
 15063|4|en|Uzumaki
 15063|4|es-419|Uzumaki
+15063|4|cs|Uzumaki
 15063|2|en|Uzumaki: Spiral Into Horror
 721|3|x-jat|V Gundam
 9376|2|cs|V koutě našeho světa
@@ -83657,6 +83681,7 @@
 4287|4|zh-Hans|旭日舰队
 15664|4|zh-Hans|时之歌—花与焰的狂想诗
 16290|4|zh-Hans|时光代理人
+19078|4|zh-Hans|时光代理人 英都篇
 16531|4|zh-Hans|时光代理人II -LINK CLICK-
 14763|2|zh-Hans|时光沙漏
 14763|4|zh-Hans|时光碎片
@@ -90971,6 +90996,7 @@
 2042|4|ja|魔法少女ララベル 海が呼ぶ夏休み
 2430|4|ja|魔法少女リリカルなのは
 13301|2|ja|魔法少女リリカルなのは Detonation
+19080|4|ja|魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance
 9788|2|ja|魔法少女リリカルなのは Reflection
 6075|2|ja|魔法少女リリカルなのは The MOVIE 1st
 8821|2|ja|魔法少女リリカルなのは The MOVIE 2nd A`s
