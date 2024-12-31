@@ -1,4 +1,4 @@
-# created: Sun Dec 29 03:00:02 2024
+# created: Mon Dec 30 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4219,6 +4219,7 @@
 18252|2|x-zht|Bai Lian Cheng Shen 2nd Season
 18252|2|x-zht|Bai Lian Cheng Shen Di Er Ji
 16646|1|x-zht|Bai She II: Qing She Jie Qi
+19082|1|x-zht|Bai She: Fu Sheng
 18983|1|x-zht|Bai She: Fusheng
 14876|1|x-zht|Bai She: Yuanqi
 15967|2|x-zht|Bai Yao Pu 2
@@ -11311,6 +11312,8 @@
 8395|2|pt-BR|Diário do Futuro
 17870|4|pt|Diários de uma Apotecária
 17870|4|pt-BR|Diários de uma Apotecária
+18562|4|pt|Diários de uma Apotecária (2025)
+18562|2|pt|Diários de uma Apotecária S2
 1880|2|en|Diary of a Fishing Fool
 14827|4|en|Diary of Our Days at the Breakwater
 17529|2|pt|Dias Com a Minha Meia-Irmã
@@ -16856,6 +16859,7 @@
 3382|4|pt-BR|Garota Violada
 344|2|pt-BR|Garotas Marionetes
 873|1|x-jat|Garou Densetsu: The Motion Picture
+18593|4|cs|Garouden: Cesta vlka samotáře
 18593|1|x-jat|Garouden: The Way of the Lone Wolf
 18593|4|en|Garouden: The Way of the Lone Wolf
 13390|3|x-jat|garovl
@@ -19815,6 +19819,7 @@
 17846|3|x-jat|hametsu
 3225|1|x-jat|Hametsu no Mars
 17846|1|x-jat|Hametsu no Oukoku
+19081|1|x-jat|Hametsu no Yuuwaku
 18814|1|x-jat|Hamidashi Creative
 18814|3|x-jat|hamikuri
 3411|4|en|Hammerboy
@@ -35852,7 +35857,7 @@
 13632|1|x-jat|Nee,... Shiyo
 6467|1|x-jat|Needless
 6467|4|en|Needless
-18491|1|x-jat|NEET Kunoichi to Naze ka Dousei Hajimemashita
+18491|1|x-jat|NEET Kunoichi to Nazeka Dousei Hajimemashita
 3973|4|de|Negadon - Das Monster vom Mars
 3973|4|en|NEGADON - the Monster from Mars
 3973|4|cs|Negadon: Stvůra z Marsu
@@ -42566,6 +42571,7 @@
 4744|4|de|Reporter Blues
 5249|1|x-jat|Reporter Blues (1992)
 5249|4|fr|Reporter Blues (suite)
+15249|2|pt|Reprodução Assistida
 3498|4|hu|Repülő ház
 3452|1|x-jat|Requiem
 3452|4|de|Requiem
@@ -43605,6 +43611,9 @@
 11221|2|x-jat|Saenai Kanojo no Sodatekata Flat
 14889|1|x-jat|Saezuru Tori wa Habatakanai
 15395|1|x-jat|Saezuru Tori wa Habatakanai: Don`t Stay Gold
+11905|2|pt|Saga da Tanya, a Malvada
+13717|2|pt|Saga da Tanya, a Malvada (2019)
+13717|2|pt|Saga da Tanya, a Malvada: O Filme
 15793|1|x-jat|Saga Incident
 2505|4|fr|Saga Manga X
 11905|4|en|Saga of Tanya the Evil
@@ -51229,6 +51238,7 @@
 1141|2|en|The Legend of Shenlong
 17085|2|en|The Legend of Sky Lord
 18779|4|en|The Legend of Sky Lord (2024)
+18779|2|en|The Legend of Sky Lord 3D
 3674|2|en|The Legend of Snow White
 15867|2|en|The Legend Of Spacewalker
 15029|2|en|The Legend of Super Normal City Kashiwa R
@@ -55821,6 +55831,7 @@
 3949|4|ja|WHITE REFLECTION
 14876|4|en|White Snake
 16646|4|en|White Snake 2: The Tribulation of the Green Snake
+19082|4|en|White Snake: Afloat
 14028|4|en|Whited Nighttime
 8830|2|en|Who is Imouto
 15123|4|en|Who Meowed?
@@ -74117,6 +74128,7 @@
 3328|4|ja|ハムちゃんずの宝さがし大作戦~はむはー!すてきな海のなつやすみ~
 1649|4|ja|ハム太郎のおたんじょうび ~ママをたずねて三千てちてち~
 17846|4|ja|はめつのおうこく
+19081|4|ja|ハメツの誘惑
 14449|3|ja|はめふら
 15604|3|ja|はめふら 2
 4917|4|ja|ハヤテのごとく!
@@ -86606,6 +86618,7 @@
 6970|2|zh-Hans|白色相簿第二季
 18804|4|zh-Hans|白色闪电
 16386|4|ja|白菜アニメ
+19082|4|zh-Hans|白蛇: 浮生
 14876|4|zh-Hant|白蛇: 緣起
 14876|4|zh-Hans|白蛇: 缘起
 18983|4|zh-Hans|白蛇：浮生
