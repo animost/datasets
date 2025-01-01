@@ -1,4 +1,4 @@
-# created: Mon Dec 30 03:00:02 2024
+# created: Tue Dec 31 03:00:02 2024
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -7667,6 +7667,9 @@
 2879|2|vi|Câu chuyện của lòng dũng cảm
 14477|4|en|Cautious Hero: The Hero Is Overpowered but Overly Cautious
 14477|4|de|Cautious Hero: The Hero Is Overpowered but Overly Cautious
+674|2|pt|Cavaleiro de Dragões
+3982|2|pt|Cavaleiro de Dragões: Outro Cavaleiro na Cidade
+985|2|pt|Cavaleiro de Dragões: Roda do Tempo
 826|4|pt|Cavaleiros do Zodíaco
 11126|3|en|Cavalry
 1868|2|en|Cavern King
@@ -21794,6 +21797,7 @@
 9637|1|x-kot|Hopiwa Chadol Bawi
 1882|3|x-jat|hopper
 11647|2|en|Hopscotch
+8068|2|pt|Hora do Banho com Hinako e Hiyoko
 14306|4|x-jat|Hora, Mimi ga Mieteru yo!
 14733|4|x-jat|Hora, Mimi ga Mieteru yo! (2019)
 9955|3|x-jat|horei
@@ -35209,6 +35213,7 @@
 4880|3|en|n2tv
 4835|3|x-jat|na
 15426|1|x-kot|Na Bbeun Sang Sa
+7295|2|pt|Na Cama com Hinako
 17495|4|x-kot|Na Honjaman Rebereop
 8141|4|hr|Na Makovom brdu
 18271|1|x-jat|Na Nare Hana Nare
@@ -37821,6 +37826,7 @@
 11123|1|x-jat|One Punch Man
 11123|2|en|One Punch Man
 11123|4|it|One Punch Man
+11123|4|pl|One Punch Man
 12430|1|x-jat|One Punch Man (2019)
 12430|4|en|One Punch Man (2019)
 17576|1|x-jat|One Punch Man 3
@@ -53300,6 +53306,7 @@
 2778|4|en|Treasure Town
 15792|2|en|Treat me like my Daughter
 1508|2|en|Tree in the Sun
+6504|2|pt|Treinar com Hinako
 16275|1|x-jat|Trepanation
 1137|4|fr|Très cher frère
 548|4|es-GA|Tres grandes superguerreiros
