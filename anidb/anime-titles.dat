@@ -1,4 +1,4 @@
-# created: Tue Dec 31 03:00:02 2024
+# created: Wed Jan  1 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -14989,6 +14989,7 @@
 9977|4|zh-Hant|Fate stay night [Unlimited Blade Works]
 9977|2|x-jat|Fate Stay Night 2014
 10760|2|x-jat|Fate Stay Night 2015
+18093|2|en|Fate Strange Fake
 17636|4|ja|Fate strange Fake Whispers of Dawn
 17636|1|x-jat|Fate Strange Fake: Whispers of Dawn
 8160|2|en|Fate Zero
@@ -15707,6 +15708,7 @@
 13050|2|en|Folktales from Japan Season 2
 10166|1|x-jat|Follow Me
 19045|1|x-jat|Food Court de, Mata Ashita.
+19083|2|en|Food for the Soul
 10901|4|fr|Food Wars ! Shokugeki no Soma
 11828|4|fr|Food Wars, second service
 11664|4|en|Food Wars! OVAs
@@ -16884,6 +16886,7 @@
 2776|3|x-jat|gash movie 2
 4927|1|x-jat|Gasshin Sentai Mechander Robo
 3346|1|x-jat|Gatapishi
+5539|2|pt|Gatas Siamesas: Primeira Missão
 858|4|ja|GATCHAMAN
 858|2|fr|Gatchaman
 858|1|x-jat|Gatchaman
@@ -21030,6 +21033,7 @@
 3047|1|x-jat|Hiatari Ryoukou!
 3645|1|x-jat|Hiatari Ryoukou! Kasumi Yume no Naka ni Kimi ga Ita
 6712|1|x-jat|Hibari no Yadogae
+19083|1|x-jat|Hibi wa Sugiredo Meshi Umashi
 10889|1|x-jat|Hibike! Euphonium
 11746|1|x-jat|Hibike! Euphonium 2
 14935|1|x-jat|Hibike! Euphonium 3
@@ -23431,6 +23435,8 @@
 273|4|it|Inuyasha - The Movie: Un sentimento che trascende il tempo
 1320|2|en|InuYasha - The World Conquering Swords
 903|4|pt|Inuyasha 2 - O Castelo de Sonhos no Espelho
+903|2|pt|Inuyasha 2: O Castelo da Fantasia no Espelho
+903|2|pt|InuYasha 2: O Castelo para lá do Espelho
 273|4|fr|Inuyasha Film 1 : Au-delà du Temps
 903|4|fr|Inuyasha Film 2 : Le château des Illusions
 6716|1|x-jat|Inuyasha Kanketsuhen
@@ -25139,6 +25145,7 @@
 1167|2|en|Kakyuusei Elf Version
 1167|4|en|Kakyuusei: Elf Version
 3675|4|hu|Kalandozás a Mississippin
+18748|4|id|Kalau Bosan Akhiri Saja
 9042|4|fr|Kaleid liner Prisma Illya
 635|4|pt|Kaleido Star
 635|4|pt-BR|Kaleido Star
@@ -27315,6 +27322,7 @@
 4911|1|x-jat|Kono Hoshi no Ue ni
 18770|1|x-jat|Kono Kaisha ni Suki na Hito ga Imasu
 16799|1|x-jat|Kono Kaisha... Nanika Okashii!
+18748|2|x-jat|Kono Koi de Hanaji wo Tomete
 18050|1|x-jat|Kono Koi ni Kizuite The Animation
 13368|1|x-jat|Kono Mayonnaise wa Yuru Sugiru
 1431|1|x-jat|Kono Minikuku mo Utsukushii Sekai
@@ -51741,6 +51749,7 @@
 5638|4|de|The Shape of Love
 18414|2|en|The Shape of the Wind: Siam Era
 10937|2|en|The Shape of Voice
+19003|2|en|The Share House`s Secret Rule
 250|2|en|The Shinesman
 18496|2|en|The Shiunji Family Children
 15122|4|en|The Shy Oriole
@@ -57291,6 +57300,7 @@
 14822|3|x-jat|YoU
 19010|2|en|You and I Are Polar Opposites
 19019|2|en|You and Idol Precure
+19019|2|en|You and Idol Pretty Cure
 8367|4|en|You and Me
 8875|4|en|You and Me 2
 17335|2|en|You Are a Genius
@@ -63036,6 +63046,7 @@
 15332|4|ru|Я побрился. И приютил школьницу
 15332|2|uk|Я поголився. А потім привів додому старшокласницю.
 17561|2|ru|Я призвал суккуба, но пришла... моя мама?!
+17937|2|ru|Я скрытый босс 99го уровня, но не Демон-лорд
 17328|4|uk|Я став сестрою!
 17328|4|ru|Я стал сестрой!
 15415|2|ru|Я стою на миллионах трупов
@@ -65122,6 +65133,7 @@
 12009|4|th|นัตสึเมะกับบันทึกพิศวง ภาค 5
 14156|4|th|นางฟ้าตัวน้อยได้ลงมาโปรดฉันค่ะ
 4143|4|th|นานะ
+18748|4|th|น่าเบื่อก็จบเกม
 18432|4|th|นายโดดเดี่ยวพิชิตต่างโลก
 586|4|th|นารุเอะ อลวนลุ้นรักสาวต่างดาว
 4880|4|th|นารูโตะ ตำนานวายุสลาตัน
@@ -71298,6 +71310,7 @@
 8830|4|ja|この中に1人, 妹がいる!
 16799|4|ja|この会社... なにかおかしい!
 18770|4|ja|この会社に好きな人がいます
+18748|4|ja|この恋で鼻血を止めて
 18050|4|ja|この恋に気づいて THE ANIMATION
 4911|4|ja|この星の上に
 9403|4|ja|この男子, 人魚ひろいました.
@@ -78313,6 +78326,7 @@
 15471|4|zh-Hans|决斗大师 KING
 17195|4|zh-Hans|决斗大师 KING MAX
 16009|4|zh-Hans|决斗大师 KING！
+18521|4|zh-Hans|决斗大师 LOST ～追忆的水晶～
 8363|4|zh-Hans|决斗大师 Victory
 9149|4|zh-Hans|决斗大师 Victory V
 9818|4|zh-Hans|决斗大师 Victory V3
@@ -81823,6 +81837,7 @@
 17944|4|ja|帰還者の魔法は特別です
 18345|4|ja|帰還者の魔法は特別です 2
 13004|4|zh-Hant|帶著智慧型手機闖蕩異世界。
+18814|4|zh-Hans|常轨脱离
 15729|4|zh-Hans|帽子革命瓶子人
 11378|4|ja|幕
 10505|4|ja|幕末Rock
@@ -82644,6 +82659,7 @@
 18197|4|zh-Hans|戍天伏魔录
 10554|4|zh-Hans|戏剧性谋杀
 18853|4|zh-Hans|戏精宿舍
+18154|4|zh-Hans|成为名垂青史的恶役千金吧
 18744|4|zh-Hans|成何体统
 586|4|ja|成恵の世界
 586|4|zh-Hans|成惠的世界
@@ -83659,6 +83675,7 @@
 15638|4|zh-Hans|无限少女48
 192|2|zh-Hans|无限的未知
 17653|4|zh-Hans|既然来了异世界就用色批技能来全力讴歌
+19083|4|ja|日々は過ぎれど飯うまし
 6723|4|ja|日の丸太郎 武者修業の巻
 7197|4|ja|日の丸旗之助~化物屋敷の巻~
 7198|4|ja|日の丸旗之助~稲妻組討伐の巻~
@@ -87079,11 +87096,13 @@
 4654|4|zh-Hans|福星大嘴鸟
 377|4|zh-Hans|福星小子
 17096|2|zh-Hans|福星小子 2022年版
+384|4|zh-Hans|福星小子 OVA
 383|4|zh-Hans|福星小子：圣水奇缘
 382|4|zh-Hans|福星小子：完结篇 求你说声我爱你
 380|4|zh-Hans|福星小子：情侣乐天派
 378|4|zh-Hans|福星小子：爱星球之恋
 379|4|zh-Hans|福星小子：绮丽梦中人
+7322|4|zh-Hans|福星小子：障碍物游泳大会
 381|4|zh-Hans|福星小子：鬼姬传说
 17096|4|zh-Hant|福星小子（2022）
 17096|4|zh-Hans|福星小子（2022）
@@ -87185,6 +87204,7 @@
 16503|4|zh-Hant|秘密內幕～女警的反擊～
 16503|2|zh-Hans|秘密内幕 女警的反击
 16503|4|zh-Hans|秘密内幕～女警的反击～
+16909|4|zh-Hans|秘密故事
 17899|4|zh-Hans|秘密的花园
 5375|2|zh-Hans|秘密的花蕾
 15759|4|ja|秘密結社 鷹の爪 ~ゴールデン・スペル~
