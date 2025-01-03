@@ -1,4 +1,4 @@
-# created: Wed Jan  1 03:00:01 2025
+# created: Thu Jan  2 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5113,6 +5113,7 @@
 15924|4|en|Belle
 15924|4|it|Belle
 15924|4|fr|BELLE
+15924|4|cs|Belle
 3305|4|en|Belle and Sebastian
 3305|4|it|Belle e Sebastien
 3305|4|fr|Belle et Sébastien
@@ -12013,7 +12014,7 @@
 17443|4|en|Doomsday with My Dog
 12191|2|en|Door Guardians
 1837|2|en|Door to Summer
-8270|2|cs|Dopis pro Momo
+8270|4|cs|Dopis pro Momo
 4250|4|de|Dora
 6719|3|x-jat|Doraeiga 2010
 1078|4|fr|Doraemon
@@ -16307,6 +16308,7 @@
 9061|1|x-jat|Futari no Oujisama
 10149|1|x-jat|Futari no Tarou
 18992|1|x-jat|Futari no Yume Mochi
+19084|1|x-jat|Futari Solo Camp
 12677|1|x-jat|Futari wa 80-sai
 9678|1|x-jat|Futari wa Milky Holmes
 1413|1|x-jat|Futari wa Precure
@@ -26004,6 +26006,7 @@
 302|1|x-jat|Key the Metal Idol
 302|4|fr|Key the Metal Idol
 302|4|en|Key the Metal Idol
+302|4|es-419|Key the Metal Idol
 18952|2|en|Keyboard Immortal
 251|3|x-jat|kg
 4999|3|x-jat|KGA
@@ -37216,6 +37219,7 @@
 332|4|pt-BR|O Túmulo dos Vaga-Lumes
 581|2|pt|O Último Exílio
 581|2|pt-BR|O Último Exílio
+1691|2|pt|O Urotsuki
 4260|4|pt|O Ursinho Misha
 14803|2|pt|O Vampiro
 162|2|pt|O Xerife do Espaço
@@ -54472,6 +54476,7 @@
 3194|4|en|Urotsukidoji: Legend of the Overfiend (1989)
 551|2|pl|Urotsukidōji: Legenda o Superdemonie
 1691|4|en|Urotsukidoji: New Saga
+1691|2|pt|Urotsukidoji: Nova Saga
 551|4|pt|Urotsukidōji: O Demónio de Overfiend
 877|2|pl|Urotsukidōji: Piekielna droga
 876|2|pl|Urotsukidōji: Powrót Superdemona
@@ -67953,6 +67958,7 @@
 9469|2|ko|절대 준수 강제 아이 만들기 허가증
 9469|2|ko|절대 준수☆강제 아이 만들기 허가증
 2837|2|ko|절대소년
+9346|2|ko|절대순백♡마법소녀
 9917|2|ko|절정 로켓발사
 13875|4|ko|젊은 여주인은 초등학생!
 15043|4|ko|점박이: 한반도의 공룡 3D
@@ -74715,6 +74721,7 @@
 5361|4|ja|ふたつの胡桃
 242|4|ja|ふたりエッチ
 10613|4|ja|ふたりエッチ (2014)
+19084|4|ja|ふたりソロキャンプ
 4512|4|ja|ふたりのジョー
 10149|4|ja|ふたりのタロウ
 4547|4|ja|ふたりの兄嫁
@@ -76875,11 +76882,13 @@
 10596|4|zh-Hant|七大罪
 11138|4|zh-Hans|七大罪 OAD
 17355|4|zh-Hans|七大罪 启示录四骑士
+18558|4|zh-Hans|七大罪 启示录四骑士 第二季
 12047|4|zh-Hans|七大罪 圣战的预兆
 16963|4|zh-Hans|七大罪 怨嗟的爱丁堡
 15459|4|zh-Hans|七大罪 愤怒的审判
 11646|4|zh-Hans|七大罪 戒律的复活
 17355|4|zh-Hant|七大罪 啟示錄四騎士
+18558|4|zh-Hant|七大罪 啟示錄四騎士 第二季
 14819|4|zh-Hans|七大罪 诸神的逆鳞
 15997|4|zh-Hant|七大罪：被光詛咒的人們
 13286|4|zh-Hant|七大罪劇場版：天空的囚人
