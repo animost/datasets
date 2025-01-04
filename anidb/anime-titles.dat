@@ -1,4 +1,4 @@
-# created: Thu Jan  2 03:00:02 2025
+# created: Fri Jan  3 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2110,6 +2110,7 @@
 11679|3|x-jat|alderamin
 11679|4|en|Alderamin on the Sky
 11679|4|fr|Alderamin on the Sky
+19085|4|ja|Aldnoah Zero EP 24.5 Ame no Danshō -The Penultimate Truth-
 10445|4|zh-Hans|ALDNOAH.ZERO
 10445|4|de|Aldnoah.Zero
 10445|4|ja|ALDNOAH.ZERO
@@ -2122,6 +2123,7 @@
 10846|1|x-jat|Aldnoah.Zero (2015)
 10846|4|ja|ALDNOAH.ZERO (2015)
 10846|4|en|Aldnoah.Zero (2015)
+19085|1|x-jat|Aldnoah.Zero (Re+)
 10846|4|zh-Hant|ALDNOAH.ZERO 2nd
 10846|2|x-jat|Aldnoah.Zero 2nd Part
 10846|2|x-jat|Aldnoah.Zero Part 2
@@ -3855,6 +3857,7 @@
 1553|4|fi|Avaruuden tulilintu
 484|4|fi|Avaruusjuna Galaxy Express 999
 13959|2|tr|Avcı Sirius
+18194|4|en|Ave Mujica: The Die Is Cast
 1087|1|x-jat|Avenger
 1087|4|fr|Avenger
 12899|2|en|Avengers
@@ -10838,7 +10841,6 @@
 2210|4|de|Der gestiefelte Kater
 2225|4|de|Der gestiefelte Kater reist um die Welt
 2295|2|de|Der große Plan der Tiere vom Nodoka-Wald
-19043|1|de|Der Herr der Ringe: Die Schlacht der Rohirrim
 17026|4|de|Der Imaginäre
 10967|4|de|Der Junge und das Biest
 13545|4|de|Der Junge und der Reiher
@@ -51299,7 +51301,6 @@
 5062|2|en|The Little Twins
 2200|2|en|The Littlest Warrior
 4552|2|x-unk|The Lord of the Rings: The War of the Rohirrim
-19043|4|en|The Lord of the Rings: The War of the Rohirrim
 11863|4|en|The Lost Village
 14395|2|en|The Love That I Feel for You
 15144|2|en|The Low Tier Character "Tomozaki-kun"
@@ -77012,6 +77013,7 @@
 1167|4|zh-Hans|下级生 OVA
 1166|4|zh-Hans|下级生：我可爱的学妹
 2167|4|zh-Hans|下级生2 ～瞳孔中的少女们～
+2083|2|zh-Hant|不一样先生
 2163|2|zh-Hans|不公正抽签
 4513|2|zh-Hans|不公正抽签 (2006)
 2163|4|zh-Hans|不公正抽签 OVA
@@ -77294,6 +77296,7 @@
 17157|4|zh-Hans|书虫公主
 14727|4|zh-Hans|书虫的下克上～为了成为图书管理员而不择手段～
 1175|4|ja|乱交調教 メイドになった少女
+6647|4|zh|乱暴君
 10949|4|zh-Hans|乱步奇谭
 10949|4|ja|乱歩奇譚 Game of Laplace
 4576|4|zh-Hans|乱马1/2
@@ -77656,6 +77659,7 @@
 15081|4|ja|低燃費少女ハイジ
 889|4|ja|住めば都のコスモス荘 すっとこ大戦ドッコイダー
 9625|4|zh-Hans|住宅区友夫
+5251|2|zh-Hant|住家男人妹仔强
 17530|2|ja|佐々木とPちゃん
 18563|2|ja|佐々木とPちゃん Season 2
 17530|4|ja|佐々木とピーちゃん
@@ -80500,6 +80504,7 @@
 8653|4|ja|天才えりちゃん金魚を食べた
 10762|4|ja|天才バカヴォン ~蘇るフランダースの犬~
 5485|4|ja|天才バカボン
+4655|4|zh-Hant|天才博士俏护士
 6037|4|zh-Hans|天才嘉年华BEYOND
 7284|4|zh-Hans|天才少爷
 16028|4|ja|天才王子の赤字国家再生術
@@ -80801,6 +80806,7 @@
 12041|4|ja|好きになるその瞬間を. ~告白実行委員会~
 17820|3|ja|好きめが
 18417|4|ja|好みじゃないけど-ムカつく姉と相性抜群エッチ-
+3485|4|zh|好小子
 6466|4|zh-Hans|好想告诉你
 8014|2|zh-Hans|好想告诉你 2nd
 18179|2|zh-Hans|好想告诉你 第三季
@@ -81449,6 +81455,7 @@
 9132|4|zh-Hans|小小克星
 1933|4|zh-Hans|小小外星人
 9419|4|zh-Hans|小小大叔
+5251|4|zh|小小男子汉
 9|4|zh-Hans|小小雪精灵
 18405|4|ja|小市民シリーズ
 18864|4|ja|小市民シリーズ (2025)
@@ -82857,6 +82864,7 @@
 18266|2|zh-Hans|我要【招架】一切〜反误解的世界最强想成为冒险者〜
 18266|4|zh-Hans|我要【招架】一切～反误解的世界最强想成为冒险家～
 1139|4|zh-Hans|我要上太空
+3208|4|zh-Hans|我要冲线F
 13979|4|zh-Hans|我让最想被拥抱的男人给威胁了。
 728|4|zh-Hans|我青春的世外桃源
 12967|4|zh|戒魔人
@@ -84440,6 +84448,7 @@
 4145|2|zh-Hans|极乐天师 喝!
 8677|4|zh-Hans|极乐院女子高寮物语
 17840|4|zh-Hans|极品全能高手
+3208|4|zh|极速悍将
 15355|4|zh-Hans|极速牵绊 地球先锋队
 18327|4|zh-Hans|极速车魂 第二季
 466|4|zh-Hans|极道君漫游记
@@ -85149,6 +85158,7 @@
 5154|4|ja|水棲 [すいせい]
 8|4|zh-Hans|水瓶新世纪
 6189|4|ja|水着彼女~THE ANIMATION~
+572|4|zh|水色时代
 572|4|ja|水色時代
 16748|4|zh-Hans|水豚汤馆
 12773|4|ja|水鳥
@@ -85758,6 +85768,7 @@
 13531|4|zh-Hans|烤肉店战国
 228|2|zh-Hans|热带雨林的爆笑生活
 9345|4|zh-Hans|热血高校
+3156|4|zh|热门小马
 9989|4|zh-Hans|热风海陆bushiroad
 3438|4|zh-Hant|烽火後的曙光
 13577|4|zh|焚情
@@ -87128,6 +87139,7 @@
 17140|4|zh-Hant|萬事屋齋藤先生轉生異世界
 635|4|zh|萬花筒之星
 635|2|zh-Hant|萬花筒之星
+4655|4|zh|秀逗博士
 4040|4|zh-Hans|秀逗泰山
 39|2|zh-Hans|秀逗魔导士
 349|4|zh-Hans|秀逗魔导士 剧场版1
@@ -88773,6 +88785,7 @@
 17855|4|zh-Hans|西游记之七十二变
 16736|4|zh-Hans|西游记之再世妖王
 12747|4|zh|西游记之大圣归来
+2083|4|zh|西瓜皮先生
 5552|2|zh-Hans|西米特拉的孤儿 ~ 波菲拉斯的漫长旅程
 4239|2|zh-Hans|西蒙
 14374|4|zh-Hans|西行纪
@@ -88978,6 +88991,7 @@
 15610|4|zh-Hans|赛博浪客
 6633|4|zh-Hans|赛贝索侦探队
 4786|4|zh-Hans|赛车传奇 剧场版
+3208|4|zh-Hant|赛车小子
 5262|4|zh-Hans|赛道天使
 13034|4|zh-Hans|赛马娘 Pretty Derby
 17351|4|zh-Hans|赛马娘 Pretty Derby Road to the Top
