@@ -1,4 +1,4 @@
-# created: Fri Jan  3 03:00:02 2025
+# created: Sat Jan  4 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4102,6 +4102,8 @@
 10121|1|x-jat|Baa-cha no Kingyo
 12946|1|x-kot|Bab Mook Ja
 18517|1|x-jat|Baban Baban Ban Vampire
+18517|4|en|Babanba Banban Vampire
+18517|2|en|Babanbabanban Vampire
 1648|4|fr|Babe My Love
 1648|4|en|Babe, My Love
 1461|4|pt-BR|Babel II
@@ -37958,6 +37960,7 @@
 14975|1|x-jat|Onii-chan, Asa made Zutto Gyutte Shite!
 14975|2|en|Onii-chan, Keep Hugging Me Tight Until Morning Comes!
 1137|1|x-jat|Onii-sama e...
+19055|2|x-jat|Onii-san... Ohitori desu ka?
 7978|2|x-jat|Oniichan no Koto Nanka Zenzen Suki Janain Dakara ne
 13996|1|x-jat|Oniichan Zurui
 1137|2|x-jat|Oniisama E...
@@ -44113,6 +44116,7 @@
 18768|1|x-jat|Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi
 850|2|x-jat|Salaryman Kintaro
 850|1|x-jat|Salaryman Kintarou
+18768|3|x-jat|Salaryman Shitennou
 16920|4|en|Salaryman`s Club
 1890|3|x-jat|sally
 2049|3|x-jat|sally (1990)
@@ -47348,6 +47352,7 @@
 16935|1|x-jat|Sorairo Utility
 16935|4|en|Sorairo Utility
 18484|1|x-jat|Sorairo Utility (2025)
+18484|4|en|Sorairo Utility (2025)
 6176|3|x-jat|sorakake
 10525|3|x-jat|sorameso
 3527|3|ja|Soramizu
@@ -52126,6 +52131,7 @@
 18020|4|en|Theatre of Darkness: Yamishibai 11
 18402|4|en|Theatre of Darkness: Yamishibai 12
 18754|4|en|Theatre of Darkness: Yamishibai 13
+19086|4|en|Theatre of Darkness: Yamishibai 14
 10717|4|en|Theatre of Darkness: Yamishibai 2
 11748|4|en|Theatre of Darkness: Yamishibai 3
 12575|4|en|Theatre of Darkness: Yamishibai 4
@@ -56892,6 +56898,7 @@
 18020|1|x-jat|Yami Shibai 11
 18402|1|x-jat|Yami Shibai 12
 18754|1|x-jat|Yami Shibai 13
+19086|1|x-jat|Yami Shibai 14
 10717|1|x-jat|Yami Shibai 2
 11748|1|x-jat|Yami Shibai 3
 12575|1|x-jat|Yami Shibai 4
@@ -71618,6 +71625,7 @@
 14320|4|ja|さらば青春
 17414|4|ja|サラマンドラ
 18768|4|ja|サラリーマンが異世界に行ったら四天王になった話
+18768|3|ja|サラリーマン四天王
 850|4|ja|サラリーマン金太郎
 11509|4|ja|さるかにがっせん (1996)
 11507|4|ja|サルカニ合戦
@@ -90067,6 +90075,7 @@
 18020|4|ja|闇芝居 11
 18402|4|ja|闇芝居 12
 18754|4|ja|闇芝居 13
+19086|4|ja|闇芝居 14
 10717|4|ja|闇芝居 2
 11748|4|ja|闇芝居 3
 12575|4|ja|闇芝居 4
@@ -90084,6 +90093,7 @@
 18020|2|ja|闇芝居 十一期
 18754|2|ja|闇芝居 十三期
 18402|2|ja|闇芝居 十二期
+19086|2|ja|闇芝居 十四期
 17057|2|ja|闇芝居 十期
 12575|2|ja|闇芝居 四期
 17057|2|zh-Hant|闇芝居 第十季
