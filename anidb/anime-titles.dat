@@ -1,4 +1,4 @@
-# created: Sat Jan  4 03:00:01 2025
+# created: Sun Jan  5 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -23,6 +23,7 @@
 1760|2|es|¡Azusa ayudará!
 4121|2|es|¡Bienvenidos a NHK!
 4594|2|es|¡Felicidad!
+4594|4|es-419|¡Felicidad!
 9858|4|es|¡Free! Club de Natación Iwatobi
 16418|4|es|¡Hasta siempre, Don Glees!
 15855|4|es-419|¡No Sé Cómo Tener una Amistad con el Sexo Opuesto!
@@ -3685,6 +3686,8 @@
 7053|1|x-jat|Asuka: Nihon no Rekishi
 7053|2|ja|ASUKA日本の歴史
 8937|1|x-jat|Asura
+6374|2|pt|Asura Chora
+6769|2|pt|Asura Chora 2
 6374|1|x-jat|Asura Cryin`
 6374|2|en|Asura Cryin` 1
 6769|1|x-jat|Asura Cryin` 2
@@ -4430,6 +4433,7 @@
 16167|1|x-jat|Bakugan: Geogan Rising
 16167|4|pt|Bakugan: Geogan Rising
 7535|3|x-jat|Bakugan: Gundalian Invaders
+7535|4|en|Bakugan: Gundalian Invaders
 17932|1|x-jat|Bakugan: Legends
 17932|4|en|Bakugan: Legends
 8391|4|hu|Bakugan: Mechtanium kitörés
@@ -5089,7 +5093,7 @@
 18888|1|en|Beginning English with Doraemon
 11536|4|en|Beginning of Fashion
 18541|3|en|Beheneko
-18541|2|en|Beheneko: The Elf-Girl`s Cat Is Secretly an S-Ranked Monster!
+18541|4|en|Beheneko: The Elf-Girl`s Cat Is Secretly an S-Ranked Monster!
 13089|1|x-jat|Behind a Smile
 13089|4|ja|behind a smile
 776|4|en|Behind Closed Doors
@@ -5278,6 +5282,7 @@
 16126|2|en|Beyblade Burst QuadDrive
 16126|4|pt|Beyblade Burst QuadDrive
 16126|2|pt|Beyblade Burst QuadStrike
+19089|1|x-jat|Beyblade Burst QuadStrike
 14688|4|pt|Beyblade Burst Rise
 15438|1|x-jat|Beyblade Burst Sparking
 15438|2|x-jat|Beyblade Burst Super King
@@ -13864,6 +13869,7 @@
 1682|4|es|El Gladiador
 14990|4|es-419|El gran farsante
 11997|4|es-419|El gran pasaje
+6968|2|es-419|El Gran Rey Demonio
 264|4|es-CA|El gran suixi
 264|2|es-CA|El gran sushi
 264|2|es|El Gran Sushi
@@ -14119,6 +14125,7 @@
 3085|4|es|En busca del Condor Dorado
 5222|4|sv|En cell-sam historia
 9376|4|es|En este rincón del mundo
+13597|4|es-419|En Prepa a los 25
 13170|2|fr|En route pour Mizuryuland !
 9591|4|fr|En selle, Sakamichi !
 14488|1|x-jat|En`en no Shouboutai
@@ -20135,6 +20142,7 @@
 17193|1|x-jat|Harem Cult
 15918|4|en|Harem in the Labyrinth of Another World
 8660|2|ja|Harem King
+15918|2|pt|Harém no Labirinto de Outro Mundo
 13243|4|en|Harem of the Hell Spawn
 9340|1|x-jat|Harem Time The Animation
 5665|1|x-jat|Harenchi Koumon Manyuuki
@@ -26870,6 +26878,7 @@
 11692|1|x-jat|Kiznaiver
 11692|4|en|Kiznaiver
 11692|4|fr|Kiznaiver
+19087|1|x-jat|Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara o Eru
 10139|1|x-jat|Kizudarake no Ringo
 8357|1|x-jat|Kizumonogatari
 8357|4|en|Kizumonogatari
@@ -32613,6 +32622,7 @@
 263|2|x-jat|Megami Kouhosei OVA
 263|1|x-jat|Megami Kouhosei Special Curriculum: Nakama
 18806|4|x-jat|Megami Kourin
+19088|4|x-jat|Megami Kourin 2
 1722|2|x-jat|Megami Kyouju
 1722|1|x-jat|Megami Kyoujyu
 17612|1|x-jat|Megami no Cafe Terrace
@@ -36717,6 +36727,7 @@
 18328|2|en|Noble Farmer 2nd Season
 19065|2|en|Noble Farmer 3rd Season
 17552|4|fr|Noble New World Adventures
+19087|2|en|Noble Reincarnation: Born Blessed, So I`ll Obtain Ultimate Power
 15409|1|x-jat|Noblesse
 15409|4|en|Noblesse
 15409|4|ja|NOBLESSE
@@ -43342,6 +43353,7 @@
 183|4|fr|RUN=DIM
 183|4|es|RUN=DIM
 183|4|ja|RUN=DIM
+183|4|pt|Run=Dim - Os Guerreiros do Espaço
 607|4|en|Rune Soldier
 607|4|de|Rune Soldier
 14517|2|fr|Rune, l’apothicaire de l’île de Tiara
@@ -47224,6 +47236,7 @@
 5261|1|x-jat|Soliton no Akuma
 17495|4|en|Solo Leveling
 18576|4|en|Solo Leveling Season 2: Arise from the Shadow
+18576|4|de|Solo Leveling Staffel 2 -Arise from the Shadow-
 2858|3|x-jat|solty
 2858|1|x-jat|Solty Rei
 2858|4|de|Solty Rei
@@ -53453,6 +53466,7 @@
 15872|3|en|trpc
 949|2|en|True (Change!!) Getter Robo - The Final Days of the World
 18806|4|en|True Beauty
+19088|4|en|True Beauty 2
 2988|1|x-jat|True Blue
 4245|1|x-jat|True Blue Gaiden
 4245|2|ko|True Blue 외전
@@ -57076,6 +57090,7 @@
 10796|2|x-kot|Yeongsimi
 4734|2|x-kot|Yeopgi Ingeol Sunako
 18806|1|x-kot|Yeosin Gangnim
+19088|1|x-kot|Yeosin Gangnim 2
 18806|2|x-kot|Yeosingangnim
 5303|2|en|Yeouubi, The Five-Tailed Fox
 11596|2|tr|Yer Çekimi Saldırısı: Giriş
@@ -67502,6 +67517,7 @@
 15604|4|ko|여성향 게임의 파멸 플래그밖에 없는 악역 영애로 환생해버렸다...X
 16445|4|ko|여성향 게임의 파멸 플래그밖에 없는 악역 영애로 환생해버렸다...X:운명의 사람를 만나버렸다...
 18806|4|ko|여신강림
+19088|4|ko|여신강림 2
 879|2|ko|여왕님은 M노예
 8528|2|ko|여왕의 칼날
 7139|2|ko|여욕의 관
@@ -75050,6 +75066,7 @@
 18181|2|ja|ベイブレードエックス
 11291|4|ja|ベイブレードバースト
 14688|4|ja|ベイブレードバースト ガチ
+19089|4|ja|ベイブレードバースト クアッドストライク
 15438|5|ja|べいぶれーどばーすと すぱーきんぐ
 15438|4|ja|ベイブレードバースト スパーキング
 16126|4|ja|ベイブレードバースト ダイナマイトバトル
@@ -80782,6 +80799,7 @@
 17612|4|zh-Hans|女神的露天咖啡厅
 18080|2|x-unk|女神的露天咖啡厅 第二季
 18806|4|ja|女神降臨
+19088|4|ja|女神降臨 2
 4617|4|ja|女系家族 ~淫謀~
 10850|4|ja|女系家族III~秘密HIMITSU卑蜜~ THE ANIME
 3103|3|ja|女転
@@ -88957,6 +88975,7 @@
 6558|4|ja|貴方だけこんばんわ
 12635|4|ja|貴方ハ私ノモノ -ドS彼女とドM彼氏-
 12635|2|ja|貴方ハ私ノモノドS彼女とドM彼氏
+19087|4|ja|貴族転生 ~恵まれた生まれから最強の力を得る~
 18192|4|ja|貼りまわれ! こいぬ
 18555|4|ja|貼りまわれ! こいぬ (2024)
 18192|2|ja|貼りまわれ！こいぬ
