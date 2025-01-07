@@ -1,4 +1,4 @@
-# created: Sun Jan  5 03:00:02 2025
+# created: Mon Jan  6 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1391,6 +1391,11 @@
 17511|2|en|Adorable Food Goddess (2022)
 16986|2|en|Adorable Food Goddess 2
 17511|2|en|Adorable Food Goddess 3
+14663|2|pt|Adorável Deusa da Comida
+16986|2|pt|Adorável Deusa da Comida (2021)
+17511|2|pt|Adorável Deusa da Comida (2022)
+16986|2|pt|Adorável Deusa da Comida 2
+17511|2|pt|Adorável Deusa da Comida 3
 452|3|x-jat|adp tv
 441|3|x-jat|adpolice
 452|3|x-jat|adpolice tv
@@ -2934,6 +2939,7 @@
 11333|1|x-jat|Ao no Doumon
 8148|1|x-jat|Ao no Exorcist
 8148|4|pl|Ao No Exorcist
+18735|2|x-jat|Ao no Exorcist - Yosuga-hen
 18561|2|x-jat|Ao no Exorcist - Yuki no Hate-hen
 18561|2|x-jat|Ao no Exorcist 4th Season
 8689|1|x-jat|Ao no Exorcist Gekijouban
@@ -7971,6 +7977,9 @@
 3214|2|de|Cheeky Vampire
 12019|4|en|Cheer Boys!!
 12019|1|x-jat|Cheer Danshi!!
+14663|2|pt|Chefe Cinderela
+16986|2|pt|Chefe Cinderela 2
+17511|2|pt|Chefe Cinderela 3
 6466|2|pt-BR|Chegando Até Você
 8014|2|pt-BR|Chegando Até Você 2
 8014|2|pt-BR|Chegando Até Você: Segunda Temporada
@@ -37526,6 +37535,7 @@
 609|3|x-jat|okg
 4148|3|x-jat|okhc
 18095|1|x-jat|Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru
+18095|3|en|Okitsura
 18095|4|en|Okitsura: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She`s Saying
 13875|4|cs|Okkin hostinec
 13875|4|hu|Okko szállója
@@ -42067,6 +42077,7 @@
 193|4|en|Ranma 1/2 (1989)
 405|1|x-jat|Ranma 1/2 (1993)
 18700|1|x-jat|Ranma 1/2 (2024)
+18700|2|pt|Ranma 1/2 (2024)
 193|4|pt|Ranma 1/2 (Continuação)
 193|4|fr|Ranma 1/2 (suite)
 4576|4|de|Ranma 1/2 (Teil 1)
@@ -42096,7 +42107,9 @@
 368|4|de|Ranma 1/2: Nihao My Concubine
 2850|2|en|Ranma 1/2: One Flew Over the Kuno`s Nest
 4576|2|x-unk|Ranma ½
+4576|2|pt|Ranma ½
 193|2|x-unk|Ranma ½ (1989)
+18700|2|pt|Ranma ½ (2024)
 6393|2|x-jat|Ranma ½: Nettou Uta Gassen
 2850|2|x-unk|Ranma ½: One Flew Over the Kuno`s Nest
 367|3|x-jat|ranma movie
@@ -55842,6 +55855,7 @@
 126|2|x-jat|Whistle
 126|1|x-jat|Whistle!
 126|4|fr|Whistle!
+126|4|es-419|Whistle!
 6026|4|ja|WHITE ALBUM
 6026|1|x-jat|White Album
 6026|4|en|White Album
