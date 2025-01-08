@@ -1,4 +1,4 @@
-# created: Mon Jan  6 03:00:02 2025
+# created: Tue Jan  7 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6521,6 +6521,7 @@
 5|3|en|BotS2
 2673|3|en|bots3
 18536|1|x-jat|Botsuraku Yotei no Kizoku Dakedo, Hima Datta kara Mahou o Kiwamete Mita
+18536|2|x-jat|Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita
 2740|2|en|Bottle Bob
 1092|4|en|Bottle Fairy
 15729|3|x-jat|bottleman
@@ -17886,6 +17887,7 @@
 2033|1|x-jat|Ginga Tetsudou 999: Eternal Fantasy
 13306|2|x-jat|Ginga Tetsudou 999: Fumetsu no Kuukankidou
 2231|1|x-jat|Ginga Tetsudou 999: Glass no Clair
+19092|1|x-jat|Ginga Tetsudou 999: Glass no Clair (2000)
 4122|1|x-jat|Ginga Tetsudou 999: Kimi wa Haha no You ni Aiseruka!!
 4230|1|x-jat|Ginga Tetsudou 999: Kimi wa Senshi no You ni Ikirareruka!!
 15545|1|x-jat|Ginga Tetsudou 999: Niji no Michishirube
@@ -34056,6 +34058,7 @@
 4662|1|x-jat|Mojakou
 18538|4|cs|Moje holka je démon
 17304|4|pl|Moje szczęśliwe małżeństwo
+18205|4|pl|Moje szczęśliwe małżeństwo Sezon 2
 370|3|hr|Moji susjedi Yamade
 3404|2|x-jat|Moke Moke Taishou Dendo Musume Arisa
 3404|1|x-jat|Moke Moke Taishou Dendou Musume Arisa
@@ -35959,6 +35962,7 @@
 13837|1|x-jat|Neko Neko Nihonshi (2018)
 14702|1|x-jat|Neko Neko Nihonshi (2019)
 15430|1|x-jat|Neko Neko Nihonshi (2020)
+19090|1|x-jat|Neko ni Naritai Tamagawa-kun
 18532|1|x-jat|Neko ni Tensei Shita Ojisan
 10590|1|x-jat|Neko no Dayan
 13677|1|x-jat|Neko no Dayan (2017)
@@ -37203,6 +37207,7 @@
 3671|4|pt|O Jardim Secreto
 766|4|pt-BR|O Judoca
 2245|4|pt|O Lago dos Cisnes
+14646|4|pt|O Líder: Karl Marx
 3672|4|pt|O Livro de Thumbelina
 3081|4|pt|O Livro Incrível
 18427|2|pt|O Mago Mais Forte do Exército do Lorde Demónio era um Humano
@@ -38471,7 +38476,7 @@
 11347|1|x-jat|Osomatsu-san
 12944|1|x-jat|Osomatsu-san (2017)
 15627|1|x-jat|Osomatsu-san (2020)
-18673|1|x-jat|Osomatsu-san (S4)
+18673|1|x-jat|Osomatsu-san (2025)
 15627|2|x-jat|Osomatsu-san 3rd Season
 12944|2|x-jat|Osomatsu-san S2
 12472|4|en|Osomatsu-san: An Anecdote with Horses
@@ -38601,6 +38606,7 @@
 13878|1|x-jat|Otousan wa Ai no Hito
 7123|1|x-jat|Otsuki-sama to Oujo
 14016|1|x-jat|Otsukimi Recital
+19091|1|x-jat|Otsukisan Momoiro
 751|3|x-jat|otw
 751|3|x-jat|otwins
 555|1|x-jat|Ou Dorobou Jing
@@ -49737,6 +49743,7 @@
 18097|2|x-jat|Tasogare Out Focus
 18097|1|x-jat|Tasogare Outfocus
 18709|1|x-jat|Tasokare Hotel
+18709|4|en|Tasokare Hotel
 11054|2|en|Tasty 2: Happy Together
 14343|1|x-jat|Tasukeai no Rekishi: Seimei Hoken no Hajimari
 18453|4|en|Tasuketsu: Fate of the Majority
@@ -51256,6 +51263,8 @@
 14092|4|en|The Laws of the Universe: Part 1
 16414|2|en|The Laws of the Universe: The Age of Elohim
 12856|4|en|The Lazy Fox
+14646|4|en|The Leader
+14646|2|en|The Leader: Karl Marx
 4207|2|en|The Legacy of Al Caral
 13596|4|en|The Legend of Ancient Soul
 8441|2|en|The Legend of Blue
@@ -53893,7 +53902,7 @@
 13322|2|en|TwoCar
 13322|2|en|TwoCar: Racing Sidecar
 14454|3|en|twohitmom
-11829|2|pl|Twoje imię.
+11829|4|pl|Twoje imię.
 10539|2|pl|Twoje kwietniowe kłamstwo
 1769|3|x-jat|twoshino
 9514|3|x-jat|twr
@@ -60685,6 +60694,7 @@
 14529|2|ru|Летние каникулы
 8590|2|ru|Летом с сестрёнкой!
 11469|2|bg|Летящата вещица
+14646|2|ru|Лидер
 2329|4|ru|Лили в клубничном мире
 3414|2|ru|Лимонад
 3414|2|uk|Лимонад
@@ -70010,7 +70020,7 @@
 11347|4|ja|おそ松さん
 12944|4|ja|おそ松さん (2017)
 15627|4|ja|おそ松さん (2020)
-18673|4|ja|おそ松さん (S4)
+18673|4|ja|おそ松さん (2025)
 12472|4|ja|おそ松さん おうまでこばなし
 12935|4|ja|おそ松さん 銭湯クイズ2
 16369|4|ja|おそ松さん~ヒピポ族と輝く果実~
@@ -70189,6 +70199,7 @@
 2794|4|ja|お星さまのレール
 16972|4|ja|お昼のショッカーさん
 7123|4|ja|お月さまと王女
+19091|4|ja|お月さんももいろ
 2750|4|ja|お江戸はねむれない!
 2793|4|ja|お洒落小僧は花マルッ
 13878|4|ja|お父さんは愛の人
@@ -70458,6 +70469,7 @@
 3577|4|ja|からくり剣豪伝ムサシロード
 2849|4|ja|ガラスのうさぎ
 2231|4|ja|ガラスのクレア 銀河鉄道999
+19092|4|ja|ガラスのクレア 銀河鉄道999 (2000)
 478|4|ja|ガラスの仮面
 2994|4|ja|ガラスの仮面 (2005)
 2735|4|ja|ガラスの仮面~千の仮面を持つ少女~
@@ -86256,6 +86268,7 @@
 17182|4|ja|猫ジョッキー
 6912|4|ja|猫と鼠
 11677|4|ja|猫なんかよんでもこない.
+19090|4|ja|猫になりたい田万川くん
 10590|4|ja|猫のダヤン
 13677|4|ja|猫のダヤン (2017)
 12289|4|ja|猫のダヤン ふしぎ劇場
@@ -90920,6 +90933,7 @@
 15428|4|ja|魔入りました! 入間くん (2021)
 16627|4|ja|魔入りました! 入間くん (2022)
 18995|4|ja|魔入りました! 入間くん (第4シリーズ)
+2855|4|zh-Hans|魔兵传奇
 8265|4|zh-Hans|魔具少女
 8566|4|zh-Hans|魔具少女！OAD
 9406|4|zh-Hans|魔具少女！通
