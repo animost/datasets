@@ -1,4 +1,4 @@
-# created: Tue Jan  7 03:00:01 2025
+# created: Wed Jan  8 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2191,6 +2191,7 @@
 2744|4|de|Alice im Wunderland
 10628|2|en|Alice in Borderland
 2175|1|x-jat|Alice in Cyberland
+2175|4|en|Alice in Cyberland
 12330|1|x-jat|Alice in Deadly School
 12330|4|en|Alice in Deadly School
 11733|1|x-jat|Alice in Dreamland
@@ -2199,6 +2200,7 @@
 8337|2|en|Alice in the Country of Hearts
 15903|1|x-jat|Alice in Voodooland
 2744|4|en|Alice in Wonderland
+2175|4|pt|Alice na Ciberlândia
 2744|4|it|Alice nel Paese delle Meraviglie
 2744|4|pt|Alice no País das Maravilhas
 13313|1|x-jat|Alice or Alice
@@ -5289,6 +5291,7 @@
 16126|4|pt|Beyblade Burst QuadDrive
 16126|2|pt|Beyblade Burst QuadStrike
 19089|1|x-jat|Beyblade Burst QuadStrike
+19089|4|en|Beyblade Burst QuadStrike
 14688|4|pt|Beyblade Burst Rise
 15438|1|x-jat|Beyblade Burst Sparking
 15438|2|x-jat|Beyblade Burst Super King
@@ -5922,6 +5925,7 @@
 43|4|fr|Blood - The Last Vampire
 43|4|it|Blood - The Last Vampire
 43|4|zh|Blood - 最后的吸血鬼
+17714|2|en|Blood & Heart
 17714|4|en|Blood and Heart: The Legendary Life of a Japanese Youth in China
 10663|4|en|Blood Blockade Battlefront
 10663|4|fr|Blood Blockade Battlefront
@@ -13948,6 +13952,7 @@
 1920|4|es|El Rey Arturo
 14167|4|es|El Rey Ciervo
 264|4|es|El Rey del Sushi
+6968|2|es-419|El Rey Demonio del Pupitre de Atrás
 7031|4|es|El Rey Espino
 3472|3|es|El Saltador
 18452|4|es|El secreto de AiPri
@@ -17722,6 +17727,8 @@
 10824|4|it|Ghost in the Shell: The Rising
 8772|1|x-kot|Ghost Messenger
 13857|1|x-kot|Ghost Messenger Geugjangpan
+19093|1|x-jat|Ghost of Tsushima: Legends
+19093|4|ja|Ghost of Tsushima: Legends
 1859|3|en|Ghost Ship
 4571|4|en|Ghost Slayers Ayashi
 481|4|en|Ghost Stories
@@ -44678,6 +44685,9 @@
 18904|2|en|Scissor Seven: Fragments of Memory
 1099|2|x-jat|SCK
 5065|1|x-jat|Scoopers
+5065|4|en|Scoopers
+5065|4|pt|Scoopers - A Super Dupla
+5065|4|pt-BR|Scoopers - A Super Dupla
 203|2|en|Scorched Bread
 12040|4|en|Scorching Ping Pong Girls
 18283|4|cs|Scott Pilgrim jde na věc
@@ -53084,6 +53094,7 @@
 1420|2|x-jat|Toshin Toshi 2
 1420|2|x-jat|Toshin Toshi II
 7471|1|x-jat|Toshishun
+19094|1|x-jat|Toshishun (1981)
 3355|2|en|Toshizo Hijikata: Cornerstone of Understanding
 1815|2|x-jat|Tosho Daimos
 5558|1|x-jat|Toshokan Sensou
@@ -54659,6 +54670,7 @@
 3427|2|bg|Utawarerumono
 3427|4|de|Utawarerumono - Heldenlied
 6285|4|en|Utawarerumono OVA
+15206|2|en|Utawarerumono Season 3
 15206|1|x-jat|Utawarerumono: Futari no Hakuoro
 11272|1|x-jat|Utawarerumono: Itsuwari no Kamen
 11272|2|en|Utawarerumono: Mask of Deception
@@ -71228,6 +71240,7 @@
 6093|2|ja|ゴー!ゴー!アックマン
 6093|2|ja|ゴーゴーアックマン
 3159|4|ja|ゴーゴー五つ子ら・ん・ど
+19093|2|ja|ゴースト・オブ・ツシマ レジェンズ
 2096|5|ja|ゴーストスイーパーみかみ
 4564|4|ja|ゴーストハント
 12638|4|ja|ゴーちゃん. ~モコとちんじゅうの森の仲間たち~
@@ -80446,6 +80459,7 @@
 5938|4|ja|天上編 宇宙皇子 (1990)
 13790|4|ja|天下統一恋の乱~出陣! 雑賀4人衆~
 18581|4|ja|天久鷹央の推理カルテ
+18581|4|zh-Hant|天久鷹央的推理病歷表
 17181|4|zh-Hans|天书奇谭
 10525|4|ja|天体のメソッド
 14555|4|ja|天体のメソッド もうひとつの願い
@@ -81927,6 +81941,7 @@
 10972|4|zh-Hans|干物妹! 小埋
 13106|4|zh-Hans|干物妹! 小埋 R
 11287|4|zh-Hans|干物妹！小埋 OAD
+18768|4|zh-Hant|平凡上班族到異世界當上了四天王的故事
 15135|4|zh-Hans|平凡职业成就世界最强 第二季
 13624|4|zh-Hans|平凡职业造就世界最强
 17615|4|zh-Hans|平凡职业造就世界最强 第三季
@@ -84479,6 +84494,7 @@
 18482|2|zh-Hans|杖与剑的魔剑谭
 18889|4|zh-Hans|杖与剑的魔剑谭 第二季
 7471|4|ja|杜子春
+19094|4|ja|杜子春 (1981)
 16188|4|zh-Hant|杜鵑婚約
 16188|2|zh-Hans|杜鹃的婚约
 1014|4|zh-Hans|束缚游戏
@@ -89630,6 +89646,7 @@
 4058|2|zh-Hans|遥远时空中 剧场版 ~舞一夜~
 7086|2|zh-Hans|遥远时空中3 永无止境的命运
 18005|4|zh-Hans|遮天
+18620|4|zh-Hant|遲早是最強的鍊金術師?
 1134|4|ja|遺作
 898|4|ja|遺作 ~Respect~
 12482|4|zh-Hans|避难所
