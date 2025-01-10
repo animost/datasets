@@ -1,4 +1,4 @@
-# created: Wed Jan  8 03:00:02 2025
+# created: Thu Jan  9 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -984,6 +984,15 @@
 1836|4|pt|A Minha Amiga Licia
 18538|4|pt|A Minha Oni
 18846|4|en|A Moment But Forever
+15425|2|en|A Mortal`s Journey to Immortality Season 1
+17033|2|en|A Mortal`s Journey to Immortality Season 1 Part 2
+17004|2|en|A Mortal`s Journey to Immortality Season 2
+18332|2|en|A Mortal`s Journey to Immortality Season 3
+16039|2|en|A Mortal`s Journey to Immortality Special: The Battle of Yanjiabao
+17004|2|en|A Mortal`s Journey to Immortality: The Battle of the Demonic Path
+18265|2|en|A Mortal`s Journey to Immortality: The Starry Sea - Prologue
+15425|2|en|A Mortal`s Journey to Immortality: Wind Rises in the South
+17033|2|en|A Mortal`s Journey to Immortality: Wind Rises in the South 2
 17004|2|en|A Mortals Journey
 14990|4|hu|A nagy színlelő
 18597|1|x-jat|A New Dawn
@@ -3494,6 +3503,8 @@
 2309|4|pt|As Fábulas da Floresta Verde
 6796|4|pt|As Férias de Pikachu
 6796|4|pt-BR|As Férias do Pikachu
+17682|2|pt|As Garotas de Hokkaido são Super Adoráveis!
+17682|2|pt-BR|As Garotas de Hokkaido são Super Adoráveis!
 1839|4|pt|As Gémeas de Santa Clara
 127|4|pt|As Guerreiras Mágicas de Rayearth
 9230|2|en|As Long as There`s Love, It Doesn`t Matter If He Is My Brother, Right?
@@ -34987,6 +34998,7 @@
 17304|4|my|My Happy Marriage
 17304|4|fi|My Happy Marriage
 17304|4|id|My Happy Marriage
+18545|4|fr|My Happy Marriage : La forme de mon bonheur
 18545|2|en|My Happy Marriage (2024)
 18205|4|en|My Happy Marriage (2025)
 18545|4|en|My Happy Marriage: The Shape of My Happiness
