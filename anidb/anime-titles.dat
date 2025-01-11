@@ -1,4 +1,4 @@
-# created: Thu Jan  9 03:00:01 2025
+# created: Fri Jan 10 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4245,6 +4245,7 @@
 18252|1|x-zht|Bai Lian Cheng Shen 2
 18252|2|x-zht|Bai Lian Cheng Shen 2nd Season
 18252|2|x-zht|Bai Lian Cheng Shen Di Er Ji
+19082|2|x-zht|Bai She 3: Fusheng
 16646|1|x-zht|Bai She II: Qing She Jie Qi
 19082|1|x-zht|Bai She: Fu Sheng
 18983|1|x-zht|Bai She: Fusheng
@@ -7672,6 +7673,7 @@
 14582|4|en|Cat`s Eye (1984)
 19004|4|ja|CAT`S EYE (2025)
 19004|1|x-jat|Cat`s Eye (2025)
+19004|2|en|Cat`s Eye 2025
 17417|1|x-jat|Cat`s Eye Love
 16775|2|en|Cat`s Tea
 18295|4|id|Catatan Perjalanan Santai di Dunia Lain: Aku Menjadi Petualang Sembari Mengasuh Anak
@@ -8525,6 +8527,7 @@
 434|1|x-jat|Chuuka Ichiban!
 13813|1|x-jat|Chuukan Kanriroku Tonegawa
 12555|1|x-jat|Chuuko Video-ya no Onna Ten`in X
+19096|1|x-jat|Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu Hen
 17949|1|x-jat|CHUUKOU IKKAN!! KIMETSU GAKUEN MONOGATARI: KIMETSU NO UTAGE TOKUBETSU-HEN
 16056|1|x-jat|Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Valentine Hen
 7022|1|x-jat|Chuumon no Ooi Ryouriten
@@ -12607,6 +12610,7 @@
 15305|4|pl|Dr. Stone (2021)
 15305|2|en|Dr. Stone S2: Stone Wars
 18064|2|x-jat|Dr. Stone Season 3 Part 2
+18336|2|en|Dr. Stone Season 4
 17053|1|x-jat|Dr. Stone: New World
 17053|4|de|Dr. Stone: New World
 17053|4|en|Dr. Stone: New World
@@ -15945,6 +15949,7 @@
 8174|2|en|Friends: Naki of Monster Island
 17617|4|fr|Frieren
 17617|4|it|Frieren - Oltre la Fine del Viaggio
+18886|2|en|Frieren 2
 17617|2|pt|Frieren e a Jornada para o Além
 17617|4|pt-BR|Frieren e a Jornada para o Além
 17617|4|en|Frieren: Beyond Journey`s End
@@ -27436,7 +27441,7 @@
 11992|4|pt-BR|KONOSUBA! 2 As bençãos de Deus neste mundo maravilhoso!
 13310|4|de|Konosuba! Legend of Crimson
 11261|4|es|Konosuba! Un mundo maravilloso
-13310|2|x-unk|Konosuba! Un mundo maravilloso: La leyenda del carmesí
+13310|4|es|Konosuba! Un mundo maravilloso: La leyenda del carmesí
 11992|4|es|Konosuba! Un mundo maravilloso: Segunda temporada
 9376|3|x-jat|konosumi
 14233|3|x-jat|konosumi s2
@@ -31076,6 +31081,7 @@
 423|4|fr|Magic Knight RayEarth - OAV
 18729|1|x-jat|Magic Knight Rayearth (Shin Anime-ka Project)
 423|4|en|Magic Knight Rayearth OVA
+18750|2|x-jat|Magic Maker - Isekai Mahou no Tsukurikata
 18750|4|en|Magic Maker: How to Make Magic in Another World
 18750|1|x-jat|Magic Maker: Isekai Mahou no Tsukurikata
 17478|2|en|Magic Muscles
@@ -35103,6 +35109,8 @@
 16512|4|en|My Master Has No Tail
 13402|4|en|My Matchmaking Partner Is My Student, An Aggressive Troublemaker
 2966|4|pt|My Melody
+19095|1|x-jat|My Melody & Kuromi
+19095|4|ja|My Melody & Kuromi
 5796|2|en|My Melody in Little Red Riding Hood
 5796|1|x-jat|My Melody no Akazukin
 17544|1|x-jat|My Melody no Akazukin (OVA)
@@ -38751,6 +38759,7 @@
 12952|3|x-jat|overlord s2
 14008|3|x-jat|overlord s3
 16296|3|x-jat|overlord s4
+16297|4|es|Overlord, El Reino Sagrado
 16297|4|en|Overlord: The Sacred Kingdom
 16297|4|pl|Overlord: The Sacred Kingdom
 10816|2|en|Overlord1
@@ -47276,6 +47285,7 @@
 11545|4|es-419|Soldados Valientes
 5261|1|x-jat|Soliton no Akuma
 17495|4|en|Solo Leveling
+18576|2|en|Solo Leveling Season 2
 18576|4|en|Solo Leveling Season 2: Arise from the Shadow
 18576|4|de|Solo Leveling Staffel 2 -Arise from the Shadow-
 2858|3|x-jat|solty
@@ -47896,6 +47906,7 @@
 3049|4|de|Spezialeinheit Metal Jack
 9113|1|x-kot|Spheres
 2023|2|it|Spicchi di cielo tra baffi di fumo
+18876|2|en|Spice & Wolf: Wise Wolf 2
 5406|4|en|Spice and Wolf
 5406|4|fr|Spice and Wolf
 17221|2|en|Spice and Wolf (2024)
@@ -48065,6 +48076,7 @@
 17785|4|en|Spy x Family Code: White
 17785|4|es|Spy x Family Código: Blanco
 17784|2|x-jat|Spy x Family Season 2
+18677|2|en|Spy x Family Season 3
 16947|4|th|SPY x FAMILY ซีซั่น 2
 18933|4|en|Spy x Sect
 16947|4|ja|SPY×FAMILY
@@ -48234,6 +48246,8 @@
 16420|1|x-jat|Star Wars: Visions
 18140|1|x-jat|Star Wars: Visions (2023)
 19005|1|x-jat|Star Wars: Visions (2025)
+19005|2|en|Star Wars: Visions 2025
+19005|2|en|Star Wars: Visions 3
 16420|4|cs|Star Wars: Vize
 17044|1|x-jat|Star Wars/Force no Kakusei
 8837|4|ja|STAR☆jewel
@@ -77297,6 +77311,7 @@
 13813|4|ja|中間管理録トネガワ
 13813|4|zh-Hans|中间管理录利根川
 16056|4|ja|中高一貫!! キメツ学園物語 バレンタイン編
+19096|4|ja|中高一貫!! キメツ学園物語 鬼滅の宴 =特別編=
 17949|4|ja|中高一貫!!キメツ学園物語   『鬼滅の宴』 特別縁
 10709|4|zh-Hans|临时女友
 14258|4|zh-Hans|临死！！江古田
@@ -86748,6 +86763,7 @@
 14876|4|zh-Hans|白蛇: 缘起
 18983|4|zh-Hans|白蛇：浮生
 14876|4|ja|白蛇：縁起
+19082|2|zh-Hans|白蛇3：浮生
 16646|4|zh-Hans|白蛇Ⅱ: 青蛇劫起
 1861|4|ja|白蛇伝
 18760|4|ja|白豚貴族ですが前世の記憶が生えたので ひよこな弟育てます
