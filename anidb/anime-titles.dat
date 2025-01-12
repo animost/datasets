@@ -1,4 +1,4 @@
-# created: Fri Jan 10 03:00:02 2025
+# created: Sat Jan 11 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -11440,6 +11440,7 @@
 4194|2|de|Die Supermoepse
 4194|2|de|Die Supermöpse
 17870|4|de|Die Tagebücher der Apothekerin
+18562|4|de|Die Tagebücher der Apothekerin Staffel 2
 505|4|de|Die tollen Fußball-Stars
 505|2|de|Die tollen Fußballstars
 3289|2|de|Die Tragödie der Belladonna
@@ -28022,6 +28023,7 @@
 2573|1|x-jat|Kussetsu
 17870|1|x-jat|Kusuriya no Hitorigoto
 18562|1|x-jat|Kusuriya no Hitorigoto (2025)
+18562|2|x-jat|Kusuriya no Hitorigoto 2nd Season
 154|2|tr|Kusursuz Mavi
 11893|2|tr|Kutsal Savaş Cerberus: Ejderhanın Ölüm Zamanı
 10424|1|x-jat|KutsuDaru.
@@ -29816,6 +29818,7 @@
 844|3|x-jat|lol
 7315|2|en|lol heroes
 7315|3|en|lolh
+18030|2|en|Loli on Ice
 2722|2|x-jat|Lolicon Angel
 2722|2|x-jat|Lolikon Angel
 12013|2|en|Lolipaco: Black Pals!
@@ -33716,6 +33719,7 @@
 11094|1|x-jat|Mizu no Sei Kappa Hyakuzu
 4485|1|x-jat|Mizu no Tane
 16807|4|ja|Mizu wa Karma 2
+19097|1|x-jat|Mizu Zokusei no Mahou Tsukai
 6189|1|x-jat|Mizugi Kanojo The Animation
 4105|1|x-jat|Mizugumo Monmon
 1328|1|x-jat|Mizuiro
@@ -38592,6 +38596,7 @@
 15604|2|x-unk|Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta... Season 2
 15604|1|x-jat|Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta... X
 16445|1|x-jat|Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta... X: Unmei no Hito ni Deatte Shimatta...
+19099|1|x-jat|Otome Game no Heroine de Saikyou Survival
 17005|2|x-jat|Otome Game Sekai wa Mob ni Kibishii Sekai Desu
 10876|1|x-jat|Otome Hime
 7595|1|x-jat|Otome Juurin Yuugi: Maiden Infringement Play
@@ -41358,6 +41363,8 @@
 2740|4|pl|Przyjaciel Bob
 271|2|pl|Przymierze szarych skrzydeł
 4473|3|x-jat|PS
+19098|1|x-jat|PS3 no Tsukai Kata: feat.Peeping Life
+19098|4|ja|PS3®のつかいかた -feat.Peeping Life-
 2826|2|en|Psalms of Planets Eureka seveN
 5880|2|en|Psalms of Planets: Eureka Seven - Pocket Full of Rainbows
 5806|2|en|Psammead the Movie
@@ -47695,6 +47702,7 @@
 3639|2|fr|Sous le signe des mousquetaires - L`aventure d`Aramis
 2889|1|x-jat|Sousei Kishi Gaiarth
 2830|1|x-jat|Sousei no Aquarion
+13987|2|x-jat|Sousei no Aquarion - Myth of Emotions
 4600|1|x-jat|Sousei no Aquarion (2007)
 11151|1|x-jat|Sousei no Aquarion Evol
 11151|2|x-jat|Sousei no Aquarion Love
@@ -52092,6 +52100,7 @@
 15784|2|en|The Warrior From Qin
 18898|2|en|The Warrior Princess and the Barbaric King
 1816|4|en|The Warrior, Gordian
+19097|2|en|The Water Magician
 4485|4|en|The Water Seed
 5261|4|fr|The Wave of Rage
 18043|2|en|The Way of Pon
@@ -77356,6 +77365,7 @@
 15287|4|zh-Hans|乔西的虎与鱼
 14465|2|zh-Hant|乘浪之約
 8898|4|ja|乙女[おとめ]はお姉さま[ボク]に恋してる 2人のエルダー THE ANIMATION
+19099|4|ja|乙女ゲームのヒロインで最強サバイバル
 14449|4|ja|乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった...
 15604|4|ja|乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった...X
 16445|4|ja|乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった...X 運命の人に出会ってしまった...
@@ -85223,6 +85233,7 @@
 4485|4|ja|水のたね
 11094|4|ja|水の精・河童百図
 2145|4|ja|水夏 ~SUIKA~
+19097|4|ja|水属性の魔法使い
 2763|2|zh-Hans|水平线上的阴谋
 2659|4|zh-Hant|水星領航員 The ANIMATION
 11059|4|zh-Hant|水星領航員 The AVVENIRE
@@ -86766,7 +86777,7 @@
 19082|2|zh-Hans|白蛇3：浮生
 16646|4|zh-Hans|白蛇Ⅱ: 青蛇劫起
 1861|4|ja|白蛇伝
-18760|4|ja|白豚貴族ですが前世の記憶が生えたので ひよこな弟育てます
+18760|4|ja|白豚貴族ですが前世の記憶が生えたのでひよこな弟育てます
 14540|4|zh-Hant|白貓 Project Zero Chronicle 零之紀元
 15936|4|zh-Hans|白金终局
 10550|4|ja|白銀の意思 アルジェヴォルン
