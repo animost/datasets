@@ -1,4 +1,4 @@
-# created: Sat Jan 11 03:00:02 2025
+# created: Sun Jan 12 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4123,8 +4123,9 @@
 504|3|en|BA:V
 10121|1|x-jat|Baa-cha no Kingyo
 12946|1|x-kot|Bab Mook Ja
-18517|1|x-jat|Baban Baban Ban Vampire
+18517|1|x-jat|Babanba Banban Vampire
 18517|4|en|Babanba Banban Vampire
+18517|4|pl|Babanba Banban Vampire
 18517|2|en|Babanbabanban Vampire
 1648|4|fr|Babe My Love
 1648|4|en|Babe, My Love
@@ -7532,6 +7533,7 @@
 8974|1|x-jat|Cardfight!! Vanguard: Asia Circuit Hen
 18248|1|x-jat|Cardfight!! Vanguard: Divinez
 18248|4|en|Cardfight!! Vanguard: Divinez
+19050|4|en|Cardfight!! Vanguard: Divinez Deluxe Arc
 19050|1|x-jat|Cardfight!! Vanguard: Divinez Deluxe Hen
 18591|4|en|Cardfight!! Vanguard: Divinez Season 2
 18591|1|x-jat|Cardfight!! Vanguard: Divinez Season 2
@@ -15032,7 +15034,8 @@
 9977|4|zh-Hant|Fate stay night [Unlimited Blade Works]
 9977|2|x-jat|Fate Stay Night 2014
 10760|2|x-jat|Fate Stay Night 2015
-18093|2|en|Fate Strange Fake
+18093|4|ja|Fate strange Fake
+18093|1|x-jat|Fate Strange Fake
 17636|4|ja|Fate strange Fake Whispers of Dawn
 17636|1|x-jat|Fate Strange Fake: Whispers of Dawn
 8160|2|en|Fate Zero
@@ -15213,8 +15216,6 @@
 10760|2|x-jat|Fate/stay night: Unlimited Blade Works 2
 10760|2|en|Fate/stay night: Unlimited Blade Works 2nd Season
 9977|4|vi|Fate/stay night: Vô hạn kiếm giới
-18093|1|x-jat|Fate/Strange Fake
-18093|4|ja|Fate/strange Fake
 18093|4|en|Fate/Strange Fake
 17636|4|de|Fate/strange Fake -Whispers of Dawn-
 17636|4|en|Fate/Strange Fake: Whispers of Dawn
@@ -32615,6 +32616,7 @@
 9272|3|x-jat|medaka s2
 9272|3|x-jat|medakaabn
 18030|1|x-jat|Medalist
+18030|4|pl|Medalist
 18030|4|en|Medalist
 10631|1|x-jat|Medamayaki no Kimi Itsu Tsubusu?
 3303|1|x-jat|Medarot
@@ -38632,6 +38634,7 @@
 13105|1|x-jat|Otoppe
 933|2|x-jat|Otori Sousakan Kate: Mesuinu
 9183|2|x-jat|Otorimonogatari
+19099|3|x-jat|otosaba
 12784|1|x-jat|Otoshidama
 17108|3|x-jat|Ototen
 13470|2|x-jat|Ōtotsu Sekai
@@ -44037,6 +44040,7 @@
 18654|1|x-jat|Sakamoto Days
 18654|4|ja|SAKAMOTO DAYS
 18654|4|en|Sakamoto Days
+18654|4|pl|Sakamoto Days
 18984|1|x-jat|Sakamoto Days (2025)
 18984|4|ja|SAKAMOTO DAYS (2025)
 18984|4|en|Sakamoto Days (2025)
@@ -45679,6 +45683,7 @@
 15466|1|x-zht|Shaonian Ge Xing
 16636|2|x-zht|Shaonian Ge Xing 2nd Season
 18348|2|en|Shaonian Ge Xing 3rd Season
+19100|2|en|Shaonian Ge Xing 4th Season
 18383|2|x-zht|Shaonian Ge Xing: Anhe Chuan
 18383|1|x-zht|Shaonian Ge Xing: Anhe Zhuan
 18763|1|x-zht|Shaonian Ge Xing: Anhe Zhuan (2024)
@@ -45688,6 +45693,7 @@
 16636|1|x-zht|Shaonian Ge Xing: Fenghuaxueyue Pian
 17032|1|x-zht|Shaonian Ge Xing: Fenghuaxueyue Pian (2022)
 18348|1|x-zht|Shaonian Ge Xing: Haiwai Xianshan Pian
+19100|1|x-zht|Shaonian Ge Xing: Xue Ran Tianqi Pian
 13722|2|x-zht|Shaonian Jinyiwei
 13820|2|x-zht|Shaonian Jinyiwei 2nd Season
 14598|1|x-zht|Shaonu Qianxian: Renxing Xiao Juchang
@@ -77364,6 +77370,7 @@
 9921|4|zh-Hans|乔瓦尼之岛
 15287|4|zh-Hans|乔西的虎与鱼
 14465|2|zh-Hant|乘浪之約
+19099|3|ja|乙サバ
 8898|4|ja|乙女[おとめ]はお姉さま[ボク]に恋してる 2人のエルダー THE ANIMATION
 19099|4|ja|乙女ゲームのヒロインで最強サバイバル
 14449|4|ja|乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった...
@@ -81156,6 +81163,7 @@
 10117|4|ja|字のないはがき
 12249|4|zh-Hant|孙悟空: 与三件宝贝
 12250|4|zh-Hant|孙悟空: 大戰火焰山
+18432|4|zh-Hans|孤单一人的异世界攻略
 18432|4|zh-Hant|孤單一人的異世界攻略
 13041|4|ja|孤独のグルメ
 16063|4|zh-Hans|孤独摇滚！
@@ -81728,6 +81736,7 @@
 18348|4|zh-Hans|少年歌行 海外仙山篇
 18348|2|zh-Hans|少年歌行 第三季
 16636|2|zh-Hans|少年歌行 第二季 上部
+19100|4|zh-Hans|少年歌行 血染天启篇
 16636|4|zh-Hans|少年歌行 风花雪月篇
 17032|4|zh-Hans|少年歌行 风花雪月篇 (2022)
 16636|2|zh-Hans|少年歌行 风花雪月篇 上部
