@@ -1,4 +1,4 @@
-# created: Sun Jan 12 03:00:01 2025
+# created: Mon Jan 13 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -31,6 +31,7 @@
 18721|4|es-419|¡Oye, Tonbo! Segunda temporada
 4022|2|es|¡Perro Divino!
 17878|4|es|¡Sobreviviré a base de pociones!
+18517|4|es|¡Va-va-vampiro en los baños!
 690|2|es-419|¡Voy a ser un angel!
 12876|4|ja|?
 12876|1|x-jat|?
@@ -12339,7 +12340,7 @@
 14483|4|en|Dorohedoro
 14483|4|pl|Dorohedoro
 14483|4|cs|Dorohedoro
-18397|1|x-jat|Dorohedoro (Zokuhen)
+18397|1|x-jat|Dorohedoro (2025)
 11652|2|en|Doronjo ZIP!
 1119|4|en|Dororo
 8770|1|x-jat|Dororo
@@ -24139,6 +24140,7 @@
 15655|1|x-kot|Jib
 14757|1|x-jat|Jibaku Shounen Hanako-kun
 17791|1|x-jat|Jibaku Shounen Hanako-kun 2
+17791|2|x-jat|Jibaku Shounen Hanako-kun S2
 2993|1|x-jat|Jibaku-kun: Twelve World Story
 14757|3|x-jat|jibasho
 2804|3|x-jat|Jibril
@@ -27846,6 +27848,7 @@
 11694|1|x-jat|Kumamiko: Girl Meets Bear
 11694|4|en|Kumamiko: Girl Meets Bear
 11694|4|fr|Kumamiko: Girl Meets Bear
+19101|1|x-jat|Kumarba
 11103|1|x-jat|Kumi to Tulip
 16611|1|x-jat|Kumichou Musume to Sewagakari
 16611|3|x-jat|Kumikari
@@ -43727,6 +43730,7 @@
 12422|4|fr|Sagrada Reset
 12596|1|x-jat|Sagurare Otome The Animation
 12923|1|x-jat|Sai (Zenpen): Mawaru, Meguru, Sono Kaku e
+19102|1|x-jat|Sai-Kyo-Oh! Zukan: The Ultimate Battles
 12923|2|en|SAI: Part 1 / Revolving... to the Core
 10220|1|x-kot|Saibi
 2204|2|x-unk|Saibôgu 009
@@ -54457,6 +54461,7 @@
 17639|1|x-jat|UniteUp!
 17639|4|en|UniteUp!
 18141|4|ja|UniteUp! -Uni:Birth-
+18141|2|en|UniteUp! S2
 18141|1|x-jat|UniteUp! Uni:Birth
 18141|4|en|UniteUp! Uni:Birth
 6508|1|x-jat|Universe
@@ -55604,7 +55609,6 @@
 2201|1|x-jat|Wanpaku Ouji no Orochi Taiji
 2874|1|x-jat|Wanpaku Tanteidan
 11123|2|x-jat|Wanpanman
-18294|3|x-jat|wanpri
 2880|1|x-jat|Wansa-kun
 4124|1|x-jat|Wanwan Celepoo Sore Yuke! Tetsunoshin
 2707|1|x-jat|Wanwan Sanjuushi
@@ -56245,6 +56249,7 @@
 16499|2|en|Wonderland 5
 17992|4|ja|WONKY MONKEY
 17992|1|x-jat|Wonky Monkey
+18294|3|x-jat|wonpre
 14789|4|en|Woodpecker Detective`s Office
 7269|2|en|Woodpecker Plan
 2202|2|en|Woof Woof 47 Ronin
@@ -58161,6 +58166,7 @@
 3661|2|es|Zany Knight Don de la Mancha
 15564|4|es|Zapatos Rojos y los Siete Trolls
 17870|2|pl|Zapiski zielarki
+18562|4|pl|Zapiski zielarki Sezon 2
 8146|4|cs|Zápisník smrti - Spasitelské vize
 12116|2|x-jat|Zaregoto Series
 15365|1|x-jat|Zashiki-warashi no Tatami-chan
@@ -70987,6 +70993,7 @@
 6746|4|ja|クプ~!!まめゴマ!
 17360|5|ja|くぼさんはモブをゆるさない
 15342|4|ja|くま クマ 熊 ベアー
+19101|4|ja|クマーバ
 15945|4|ja|くまクマ熊ベアーぱーんち!
 7880|4|ja|くまのがっこう ジャッキーとケイティ
 16342|4|ja|くまのがっこう ジャッキーのおほしさま
@@ -73574,7 +73581,7 @@
 15872|4|ja|トロピカル~ジュ! プリキュア
 9347|4|ja|トロピカルKISS
 14483|4|ja|ドロヘドロ
-18397|4|ja|ドロヘドロ (続編)
+18397|4|ja|ドロヘドロ (2025)
 15805|4|ja|トロみつ娘の秘湯サービス ~とろッとろちゅるちゅるご奉仕させてください~
 8770|4|ja|どろろ
 1119|2|ja|どろろ (1969)
@@ -78353,6 +78360,7 @@
 2350|4|ja|最強ロボ ダイオージャ
 18210|4|ja|最強出涸らし皇子の暗躍帝位争い 無能を演じるSSランク皇子は皇位継承戦を影から支配する
 7434|4|ja|最強武将伝 三国演義
+19102|4|ja|最強王図鑑 ～The Ultimate Battles～
 10005|4|ja|最強銀河 究極[アルティメット]ゼロ~バトルスピリッツ~
 17159|4|ja|最強陰陽師の異世界転生記
 8799|4|zh-Hans|最强会长黑神
@@ -82789,6 +82797,7 @@
 10554|4|zh-Hans|戏剧性谋杀
 18853|4|zh-Hans|戏精宿舍
 18154|4|zh-Hans|成为名垂青史的恶役千金吧
+18154|2|zh-Hans|成为名留历史的坏女人吧
 18744|4|zh-Hans|成何体统
 586|4|ja|成恵の世界
 586|4|zh-Hans|成惠的世界
@@ -89759,6 +89768,7 @@
 16069|4|zh-Hant|里亞德錄大地
 15716|4|zh-Hans|重创的伤口
 16794|4|zh-Hans|重启人生 : 大逃亡
+18013|4|zh-Hans|重启人生的千金小姐正在攻略龙帝陛下
 12422|4|zh-Hans|重启咲良田
 522|4|ja|重戦機エルガイム
 523|4|ja|重戦機エルガイムI ペンタゴナ ウインドゥ+レディ ギャブレー
