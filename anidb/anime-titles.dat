@@ -1,4 +1,4 @@
-# created: Mon Jan 13 03:00:02 2025
+# created: Tue Jan 14 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -10930,6 +10930,7 @@
 791|2|en|Desperate Love 1989
 4547|2|es|Destinados al amor
 4547|4|en|Destined For Love
+2142|2|pt|Destino da Donzela do Santuário
 2186|3|x-jat|destiny
 14072|1|x-jat|Destiny Child ONA
 2142|4|fr|Destiny of shrine maiden
@@ -12040,6 +12041,7 @@
 12968|1|x-jat|Donten ni Warau: Gaiden
 10020|3|x-jat|donwar
 9889|1|x-jat|Donyatsu
+2142|2|pt|Donzela do Santuário Kanazuki
 2706|2|pl|Dookoła świata z Willym Fogiem
 9711|1|x-kot|Dooly-ui Baenang`yeohaeng
 9710|2|en|Dooly, the Baby Dinosaur (1988)
@@ -23746,7 +23748,7 @@
 17866|1|x-jat|Ishura
 17866|4|en|Ishura
 18542|1|x-jat|Ishura (2025)
-18542|2|en|Ishura (2025)
+18542|4|en|Ishura (2025)
 18542|2|x-jat|Ishura Season 2
 14969|1|x-jat|Ishuzoku Reviewers
 114|3|x-jat|ISIB
@@ -37667,6 +37669,7 @@
 3136|4|zh-Hans|OL改造讲座
 336|4|sv|Om du lyssnar noga
 17965|4|id|Om-om Petualang Pemula Dilatih Setengah Mati oleh Grup Terhebat Hingga Jadi Tanpa Tanding
+18366|4|id|Om-om yang Bereinkarnasi Menjadi Putri Jahat
 7655|1|x-jat|Omae Umasou Da na
 11054|2|x-jat|Omae Umasou Da na: Anata o Zutto Aishiteru
 7942|2|x-jat|Omae Umasou Da na: Miyanishi Tatsuya Gekijou
@@ -38471,6 +38474,7 @@
 15385|1|x-jat|Oshiete Hokusai! The Animation
 13811|1|x-jat|Oshiete Mahou no Pendulum: Rilu Rilu Fairilu
 5450|1|x-jat|Oshiete Re: Maid
+19103|1|x-jat|Oshiete! Dokan-kun
 11756|1|x-jat|Oshiete! Galko-chan
 12350|1|x-jat|Oshiete! Galko-chan: Natsuyasumitte Hontou Desuka?
 11756|2|x-jat|Oshiete! Gyaruko-chan
@@ -43668,6 +43672,8 @@
 247|3|x-jat|SAC1
 1176|3|x-jat|SAC2
 4414|3|x-jat|SAC3
+2142|2|pt|Sacerdotisas da Lua Sem Deus
+2142|2|pt|Sacerdotisas do Mês Sem Deus
 14291|2|ja|Sacks&Guns!!
 11458|2|en|sacla ona
 18446|2|en|Sacred Ancestor
@@ -44451,7 +44457,7 @@
 13493|3|en|SAO3
 14796|3|en|SAO3 WoU
 14796|3|x-jat|sao4
-15146|3|ja|sao5
+15146|3|ja|sao4 part 2
 13494|3|x-jat|saoa
 10022|3|x-jat|saoe
 10022|3|x-jat|SAOEE
@@ -44575,6 +44581,7 @@
 9236|4|en|Say "I Love You"
 9236|2|en|Say I Love You
 9600|2|en|Say I Love You OVA
+18264|4|id|Saya Ingin Melarikan Diri dari Pendidikan Sang Putri
 12277|2|tr|Sayborg 009: Adaletin Çağrısı
 4488|4|de|Sayo the beauty
 13262|3|x-jat|sayoasa
@@ -49205,7 +49212,7 @@
 15146|2|x-unk|Sword Art Online: Alicization - War of Underworld - The Last Season
 15146|1|x-jat|Sword Art Online: Alicization - War of Underworld (2020)
 15146|4|en|Sword Art Online: Alicization - War of Underworld (2020)
-15146|2|en|Sword Art Online: Alicization - War of Underworld 2nd Season
+15146|2|en|Sword Art Online: Alicization - War of Underworld Part 2
 13494|2|de|Sword Art Online: Alternative - Gun Gale Online
 10022|1|x-jat|Sword Art Online: Extra Edition
 10022|4|en|Sword Art Online: Extra Edition
@@ -52695,6 +52702,7 @@
 8665|2|x-jat|Tobe! Pegasus: Kokoro no Goal ni Shoot
 17338|1|x-jat|Tobenai Hotaru
 5170|1|x-jat|Tobidase! Bacchiri
+19104|1|x-jat|Tobidase! Dokan-kun
 5520|1|x-jat|Tobidase! Machine Hiryuu
 7925|1|x-jat|Tobidasu Ehon 3D
 11294|1|x-jat|Tobidasu PriPara: Minna de Mezase! Idol Grand Prix
@@ -73380,6 +73388,7 @@
 7925|4|ja|とびだす絵本3D
 5170|4|ja|とびだせ! バッチリ
 5520|4|ja|とびだせ! マシーン飛竜
+19104|4|ja|とびだせ！土管くん
 4136|4|ja|トビラを開けて
 4590|3|ja|どぶ森
 2999|4|ja|とべ! くじらのピーク
@@ -80090,6 +80099,7 @@
 17791|4|ja|地縛少年花子くん2
 14757|4|zh-Hans|地缚少年花子君
 11881|4|ja|坂本ですが?
+18654|4|zh-Hans|坂本日常
 8870|4|ja|坂道のアポロン
 8870|4|zh-Hans|坂道上的阿波罗
 3141|4|ja|坊っちゃん
@@ -83408,6 +83418,7 @@
 2150|4|zh-Hans|敌人是海盗 猫们的飨宴
 4664|4|ja|救命戦士ナノセイバー
 18317|4|zh-Hant|敗北女角太多了！
+19103|4|ja|教えて！土管くん
 11147|4|zh-Hans|教室☆危机
 11147|4|zh-Hant|教室危機
 1335|4|ja|教科書にないッ!
