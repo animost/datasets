@@ -1,4 +1,4 @@
-# created: Tue Jan 14 03:00:02 2025
+# created: Wed Jan 15 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5679,6 +5679,7 @@
 16176|4|pt|Black Clover: A Espada do Rei Feiticeiro
 12351|2|en|Black Clover: Jump Festa 2016 Special
 16176|4|en|Black Clover: Sword of the Wizard King
+16176|4|pl|Black Clover: Sword of the Wizard King
 9630|2|en|Black Dragon King and Asylum Baluster
 13924|1|x-jat|Black Fox
 13924|4|de|Black Fox
@@ -10985,6 +10986,7 @@
 1065|4|fr|Détective Conan : Décompte aux cieux
 4937|4|fr|Détective Conan : Jolly Roger et le cercueil bleu azur
 7250|4|fr|Détective Conan : L`arche du ciel
+18219|4|fr|Détective Conan : L`Étoile à 1 million de dollars
 13605|4|fr|Détective Conan : L`exécutant de Zero
 14886|4|fr|Détective Conan : La balle écarlate
 17009|4|fr|Détective Conan : La fiancée de Shibuya
@@ -16013,6 +16015,7 @@
 14988|3|x-jat|fruba2
 15738|3|x-jat|fruba3
 18783|4|en|Fruit Brains
+18675|3|en|fruitmaster
 34|4|sv|Fruits Basket
 34|4|fi|Fruits Basket
 34|4|fr|Fruits Basket
@@ -20437,6 +20440,7 @@
 2621|2|de|He Is My Master - stets zu ihren Diensten!
 15768|1|x-jat|He Jing Shao Nian
 15644|2|th|Hệ Thống Tự Cứu Của Nhân Vật Phản Diện
+19106|1|x-zht|He Zhong Zhi Hai
 13632|2|fr|Hé, on tente ?
 2621|2|en|He`s My Master
 11439|1|x-jat|Head Spoon
@@ -38714,6 +38718,7 @@
 11268|1|x-jat|OVA Tokyo Ghoul
 11271|1|x-jat|OVA Tsunpuri
 6285|1|x-jat|OVA Utawarerumono
+19105|1|x-jat|OVA Yuugao
 13769|2|ko|OVA 과묵한 호색한 외자매 본심을 내보이는 섹스 삼매경
 16066|2|ko|OVA 네토시스
 16065|2|ko|OVA 네토카노
@@ -38726,6 +38731,7 @@
 13769|4|ja|OVA むっつりドスケベ露義母姉妹の本質見抜いてセックス三昧
 6285|2|zh-Hans|OVA 传颂之物
 18587|4|ja|OVA 僕にハーレムセフレが出来た理由
+19105|4|ja|OVA 夕顔
 11268|4|ja|OVA 東京喰種[トーキョーグール]
 19057|4|ja|OVA 野々原柚花のヒミツのハイシン
 18756|4|ja|OVA 陰キャカップルが陽ギャル達とSEXトレーニングする話
@@ -41348,6 +41354,7 @@
 5945|4|en|Protectors of Universe
 1834|4|lt|Proto žaidimas
 18105|4|en|Protocol: Rain
+16987|2|en|Proud Swordsman
 19033|2|en|Proud Swordsman 2
 19033|2|en|Proud Swordsman 2nd Season
 16987|2|en|Pround Swordsman
@@ -44808,6 +44815,7 @@
 9514|4|es-419|Se Levanta el Viento
 6900|2|en|Sea Battle at Malay
 18136|1|en|Sea Cat
+19106|4|en|Sea in a Box
 1307|2|en|Sea of Stars
 4989|4|en|Sea Prince and the Fire Child
 6402|2|en|Sea Story
@@ -48099,6 +48107,7 @@
 17784|4|en|Spy x Family (2023)
 17784|2|x-jat|Spy x Family 2nd Season
 17785|4|en|Spy x Family Code: White
+17785|4|pl|Spy x Family Code: White
 17785|4|es|Spy x Family Código: Blanco
 17784|2|x-jat|Spy x Family Season 2
 18677|2|en|Spy x Family Season 3
@@ -51701,6 +51710,8 @@
 8805|2|x-jat|The Rising
 13246|4|en|The Rising of the Shield Hero
 13246|4|fr|The Rising of the Shield Hero
+13246|4|pl|The rising of the shield hero
+15070|4|pl|The rising of the shield hero (2022)
 15070|4|en|The Rising of the Shield Hero Season 2
 15071|4|en|The Rising of the Shield Hero Season 3
 18439|4|en|The Rising of the Shield Hero Season 4
@@ -86891,6 +86902,7 @@
 11750|4|zh-Hans|监狱兔 前传
 10768|4|zh-Hans|监狱学园
 10526|4|zh-Hans|监督不行届
+19106|4|zh-Hans|盒中之海
 18381|4|zh-Hans|盖世帝尊
 16192|2|zh-Hans|盗墓笔记之秦岭神树
 4191|2|zh-Hans|盗梦侦探
