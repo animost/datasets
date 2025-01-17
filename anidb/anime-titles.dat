@@ -1,4 +1,4 @@
-# created: Wed Jan 15 03:00:01 2025
+# created: Thu Jan 16 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -172,6 +172,7 @@
 16168|2|x-jat|{takt: op. Destiny}
 18424|4|ja|〈物語〉シリーズ オフ＆モンスターシーズン
 10143|4|ja|「0」
+19003|2|ko|「1분만 만져도 괜찮아...」 쉐어하우스의 비밀 규칙
 19003|4|ja|「1分間だけ触れてもいいよ...」シェアハウスの秘密ルール.
 17490|4|ja|「2.43　清陰高校男子バレー部」ミニアニメ　バレーボール講座編
 8149|4|zh-Hans|「C」
@@ -996,8 +997,7 @@
 17033|2|en|A Mortal`s Journey to Immortality: Wind Rises in the South 2
 17004|2|en|A Mortals Journey
 14990|4|hu|A nagy színlelő
-18597|1|x-jat|A New Dawn
-18597|4|ja|A NEW DAWN
+18597|4|en|A New Dawn
 18358|4|en|A Nobody`s Way Up to an Exploration Hero
 2465|4|pt-BR|A Noite do Sexo
 4261|2|hu|A pálya ördögei
@@ -2041,6 +2041,7 @@
 1895|3|x-jat|Akko-chan (1998)
 1894|3|x-jat|Akko-chan 2
 13613|1|x-jat|Akkun to Kanojo
+19108|1|x-jat|Akogare no Onna Joushi ga, Aibeya Shucchou no Tonari no Bed de Zetsurin Otoko ni Netorarete Iru
 5406|2|tr|Aktar ve Kurt
 6465|2|tr|Aktar ve Kurt 2 OVA
 6169|2|tr|Aktar ve Kurt II
@@ -11951,6 +11952,7 @@
 4655|1|x-jat|Dokkiri Doctor
 889|3|x-jat|Dokkoida
 889|4|en|Dokkoida?!
+889|4|es-419|DOKKOIDER - Viviendo en el Apartamento Cósmico
 889|4|fr|Dokkoider !?
 4953|1|x-jat|Dokonjou Gaeru
 6264|1|x-jat|Dokuhaku Suru Universal Yoko Mercator Egg Man
@@ -19940,6 +19942,7 @@
 9816|3|x-jat|hana no uta
 10193|1|x-jat|Hana no Zundamaru
 14885|1|x-jat|Hana no Zundamaru: Junk
+18597|1|x-jat|Hana Rokushou ga Akeru Hi ni
 10886|1|x-jat|Hana to Alice: Satsujin Jiken
 6871|1|x-jat|Hana to Chou
 4079|1|x-jat|Hana to Hebi The Animation
@@ -26497,6 +26500,7 @@
 8875|1|x-jat|Kimi to Boku. 2
 16553|1|x-jat|Kimi to Fit Boxing
 19019|1|x-jat|Kimi to Idol Precure
+19107|1|x-jat|Kimi to Koete Koi ni Naru
 14465|1|x-jat|Kimi to, Nami ni Noretara
 17131|1|x-jat|Kimi wa Houkago Insomnia
 15414|1|x-jat|Kimi wa Kanata
@@ -34230,6 +34234,7 @@
 9183|2|en|Monogatari S2
 9183|4|fr|Monogatari Seconde Saison
 18424|2|en|Monogatari Series - Off & Monster Season
+18424|2|en|Monogatari Series - Off and Monster Season
 9183|4|en|Monogatari Series Second Season
 18424|1|x-jat|Monogatari Series: Off & Monster Season
 18424|4|en|Monogatari Series: Off & Monster Season
@@ -56137,6 +56142,7 @@
 12100|2|en|With Love
 605|4|ja|With You ~みつめていたい~
 18824|2|en|With You and the Rain
+19107|2|en|With You, Our Love Will Make It Through
 605|1|x-jat|With You: Mitsumeteitai
 8754|1|x-jat|Within the Bloody Woods
 8754|4|ja|WITHIN THE BLOODY WOODS
@@ -57373,6 +57379,7 @@
 18674|1|x-zht|Yong Zhe Da Maoxian 2
 16653|1|x-zht|Yong Zhe Donghua Xilie
 16651|1|x-zht|Yong Zhi Cheng
+19109|1|en|Yongheng Jian Zu
 9681|1|x-jat|Yonhyakunijuu Renpai Girl
 10084|1|x-jat|Yonimo Kimyou na Man Gatarou
 8747|1|x-jat|Yonimo Osoroshii Grimm Douwa
@@ -68448,6 +68455,7 @@
 16795|4|ko|코타로는 1인 가구
 9394|2|ko|코토우라 양
 300|2|ko|코트 위의 천사들
+19074|2|ko|콘돔 껴달라고 했잖아요
 3074|2|ko|콘체르토
 11343|2|ko|콘크리트 레볼루티오 초인환상
 11836|4|ko|콘크리트 레볼루티오 초인환상 THE LAST SONG
@@ -70782,6 +70790,7 @@
 10956|4|ja|キミとボク
 15216|4|ja|キミと僕の最後の戦場, あるいは世界が始まる聖戦
 16828|4|ja|キミと僕の最後の戦場, あるいは世界が始まる聖戦 season II
+19107|4|ja|キミと越えて恋になる
 12991|4|ja|キミノヒカリ ~あさがおと加瀬さん.~
 6116|4|ja|キミの名を呼べば
 12093|4|ja|きみの声をとどけたい
@@ -81388,7 +81397,7 @@
 14372|4|zh-Hans|宋代足球小将
 6317|4|ja|完全勝利ダイテイオー
 2680|4|ja|完全無修正 それぞれの放課後
-19037|4|ja|完堕ちX寝取られ家族 The Animation
+19037|4|ja|完堕ちX寝取られ家族 The Animation ~アナタ, 許して. 私たち, 浮気セックスに本気でハマっちゃったの~
 14468|2|ja|完璧イリナお嬢様
 14468|4|ja|完璧お嬢様の私が土下座でマゾ堕ちするちょろインなワケないですわ!
 18940|4|ja|完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる
@@ -82799,6 +82808,7 @@
 15324|4|zh-Hant|憂國的莫里亞蒂
 10891|4|zh-Hant|憑物語
 10891|4|ja|憑物語 よつぎドール
+19108|4|ja|憧れの女上司が、相部屋出張の隣のベッドで絶倫男に寝取られている
 4830|2|ja|憶病なヴィーナス
 10577|4|zh-Hans|懒蛋蛋
 2514|4|ja|懲らしめ
@@ -85324,6 +85334,7 @@
 17927|6|ja|永久少年 Eternal Boys NEXT STAGE
 17927|4|ja|永久少年 NEXT STAGE
 389|4|zh-Hans|永恒传说
+19109|4|zh|永恒剑祖
 17161|4|zh-Hans|永生
 18595|4|zh-Hans|永生 气壮山河
 18595|2|zh-Hans|永生 第三季
@@ -88387,6 +88398,7 @@
 291|4|ja|花田少年史
 291|4|zh-Hans|花田少年史
 5718|4|ja|花粉少女注意報! ~THE ANIMATION~
+18597|4|ja|花緑青が明ける日に
 8498|4|ja|花編
 10351|4|zh-Hans|花舞少女
 10351|4|zh-Hant|花舞少女
@@ -91485,6 +91497,7 @@
 2179|4|zh-Hans|鸦 -KARAS-
 2636|4|zh-Hans|鸦天狗卡布都 黄金之眼的野兽
 17783|4|zh-Hans|鸭乃桥论的禁忌推理
+18350|4|zh-Hans|鸭乃桥论的禁忌推理 第二季
 9746|4|zh-Hans|鸭子生活
 13848|4|zh-Hans|鸭子的天空
 5786|2|zh-Hans|鹡鴒计划
