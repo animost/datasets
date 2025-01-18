@@ -1,4 +1,4 @@
-# created: Thu Jan 16 03:00:02 2025
+# created: Fri Jan 17 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2377,6 +2377,7 @@
 11338|1|x-jat|Ame-iro Cocoa: Rainy Color e Youkoso
 14039|1|x-jat|Ame-iro Cocoa: Side G
 12906|3|x-jat|ameagari
+19112|1|x-jat|Amedama
 3614|1|x-jat|Amefurikozou
 18581|4|en|Ameku M.D.: Doctor Detective
 18581|1|x-jat|Ameku Takao no Suiri Karte
@@ -7913,6 +7914,8 @@
 12389|1|x-jat|Channel 5.5 2nd Season
 12392|1|x-jat|Channel 5.5 3rd Season
 12393|1|x-jat|Channel 5.5 4th Season
+19111|1|x-jat|Chao
+19111|4|ja|ChaO
 16817|1|x-zht|Chao Shen Xueyuan
 16818|1|x-zht|Chao Shen Xueyuan Di Er Ji
 16819|1|x-zht|Chao Shen Xueyuan Di San Ji
@@ -13721,6 +13724,7 @@
 11133|1|x-jat|Eiga Kaiketsu Zorori: Uchuu no Yuusha-tachi
 9037|1|x-jat|Eiga Kami-Usagi Rope: Tsuka, Natsuyasumi Rasuichitte Majissuka!?
 12456|1|x-jat|Eiga Kamisama Minarai: Himitsu no Cocotama - Kiseki o Okose Teppuru to Dokidoki Cocotama Kai
+19113|1|x-jat|Eiga Kimi to Idol Precure
 13006|1|x-jat|Eiga Kirakira Precure A La Mode: Paris to! Omoide no Mille-Feuille!
 18873|1|x-jat|Eiga Kobayashi-san Chi no Maidragon: Samishigariya no Ryuu
 10937|1|x-jat|Eiga Koe no Katachi
@@ -14236,6 +14240,7 @@
 4347|4|de|Engel der Sterne Primaver
 6564|2|lv|Eņģeļa Pulss
 13212|1|x-jat|Engimon
+15583|2|en|Engineer Reincarnated Into Medieval World With Magic And Witches
 2695|2|en|English Love Story Emma
 5132|3|x-jat|enj
 4346|3|x-jat|enj (2002)
@@ -16298,6 +16303,7 @@
 2302|2|x-jat|Fushigi na Shima no Flone
 11172|1|x-jat|Fushigi na Somera-chan
 6516|2|en|Fushigi na Taiko
+19110|1|x-jat|Fushigi no Kuni de Alice to: Dive in Wonderland
 14157|1|x-jat|Fushigi no Kuni e
 2744|1|x-jat|Fushigi no Kuni no Alice
 2744|2|x-jat|Fushigi no Kuni no Arisu
@@ -20920,6 +20926,7 @@
 9341|2|en|Henneko: Hentai Prince and the Stony Cat
 4200|4|de|Henry und der rosarote Drache
 18103|3|x-jat|hensara
+7431|2|en|HenSemi
 8247|1|x-jat|Henshin Gattai! 5 tsu no Atsuki Tamashii
 14695|3|x-jat|hensuki
 14695|4|en|Hensuki: Are You Willing to Fall in Love With a Pervert, As Long As She`s a Cutie?
@@ -31084,6 +31091,7 @@
 4884|4|pl|Magia tęczowych gwiazd
 2198|4|en|Magic Boy
 687|4|fr|Magic Call-Girl
+19112|4|en|Magic Candies
 311|2|en|Magic Circle Guru Guru
 1619|2|en|Magic Circle Guru Guru 2
 7469|1|x-jat|Magic Kaito
@@ -45834,6 +45842,7 @@
 18706|2|x-zht|Shi Wangzhe A? 3rd Season
 18705|1|x-zht|Shi Wangzhe A? Di 2 Ji: Yun Zhong Bu Wanquan Jiao Fei Riji
 18706|1|x-zht|Shi Wangzhe A? Di 3 Ji: Youqiubiying Xingzhi Dui
+19114|1|x-zht|Shi Wangzhe A? Di 4 Ji: Mudan Xiang You Dali Si
 13353|1|x-zht|Shi Xiong
 16593|1|x-zht|Shi Ye Miao Yin
 16354|2|x-zht|Shi Yi Chang`An: Mingyue Jishi You Er
@@ -66970,6 +66979,7 @@
 14515|4|ko|사춘기 섹스
 5844|2|ko|사춘기 소녀
 16542|2|ko|사춘기의 공부
+18654|4|ko|사카모토 데이즈
 11881|4|ko|사카모토입니다만?
 14749|2|ko|사쿠라 미야 자매의 부정한 기록
 12602|4|ko|사쿠라 퀘스트
@@ -69303,6 +69313,7 @@
 9358|2|ja|アムネシア
 15353|4|ja|アムリタの饗宴
 14039|5|ja|あめいろここあ sideG
+19112|4|ja|あめだま
 44|4|ja|アモン デビルマン黙示録
 1658|4|ja|アモン・サーガ
 17685|2|ja|あやか
@@ -72898,6 +72909,7 @@
 9581|4|ja|チャーミーキティ Vol.3 不思議の国のチャーミー
 1424|4|ja|チャイニーズ・ゴースト・ストーリー スーシン
 8479|4|ja|チャイム
+19111|2|ja|チャオ
 14180|4|ja|チャックシメゾウ
 12153|5|ja|ちゃらんぽランドのぼうけん
 12153|4|ja|ちゃらんぽ島の冒険
@@ -76968,6 +76980,8 @@
 7951|4|ja|一期一会~キミノコトバ~
 7463|4|ja|一本包丁満太郎
 16935|4|zh-Hans|一杆青空
+18484|4|zh-Hans|一杆青空 (2025)
+18484|4|zh-Hant|一桿青空 (2025)
 13383|4|ja|一求乳魂
 1679|4|ja|一球さん
 17278|2|ja|一番光れ!
@@ -77171,8 +77185,10 @@
 10888|2|zh-Hans|不存在黄段子的无聊世界
 7000|4|zh-Hans|不射之射
 7000|4|ja|不射之射
+18712|4|zh-Hant|不幸職業【鑑定士】其實是最強的
 17244|4|ja|不徳のギルド
 11172|4|ja|不思議なソメラちゃん
+19110|4|ja|不思議の国でアリスと -Dive in Wonderland-
 17880|4|ja|不思議の国のサキュバス
 451|4|ja|不思議の国の美幸ちゃん
 14157|4|ja|不思議の国へ
@@ -77357,6 +77373,8 @@
 8935|4|ja|中学星 スーパーデラックス
 14414|4|zh-Hans|中学毕业劳动者开始高中生活
 16779|4|zh-Hans|中小治棒棒哒
+18366|4|zh-Hans|中年上班族转生恶役
+18366|4|zh-Hant|中年大叔轉生反派千金
 18894|4|ja|中禅寺先生物怪講義録 先生が謎を解いてしまうから.
 434|4|ja|中華一番!
 13813|4|ja|中間管理録トネガワ
@@ -80029,6 +80047,7 @@
 11881|2|zh-Hant|在下坂本, 有何貴幹?
 11881|4|zh-Hans|在下坂本，有何贵干？
 12693|4|zh-Hans|在世界尽头咏唱恋曲的少女YU-NO
+18095|4|zh-Hans|在冲绳喜欢上的女孩方言讲得太过令人困扰
 10894|4|zh-Hans|在地下城寻求邂逅是否搞错了什么
 16032|4|zh-Hans|在地下城寻求邂逅是否搞错了什么 IV
 18267|4|zh-Hans|在地下城寻求邂逅是否搞错了什么 第五季 丰饶女神篇
@@ -80042,6 +80061,7 @@
 18267|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 第五季
 13830|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼：俄里翁之箭
 17580|4|zh-Hans|在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～
+18095|4|zh-Hant|在沖繩喜歡上的女孩方言講得太過令人困擾
 17580|2|zh-Hant|在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～
 8620|4|zh-Hans|在盛夏等待
 9376|4|zh-Hans|在这世界的角落
@@ -80117,9 +80137,12 @@
 4861|2|zh-Hant|地球防衛少年
 14757|4|ja|地縛少年花子くん
 17791|4|ja|地縛少年花子くん2
+17791|4|zh-Hant|地縛少年花子君 第二季
 14757|4|zh-Hans|地缚少年花子君
+17791|4|zh-Hans|地缚少年花子君2
 11881|4|ja|坂本ですが?
 18654|4|zh-Hans|坂本日常
+18654|4|zh-Hant|坂本日常
 8870|4|ja|坂道のアポロン
 8870|4|zh-Hans|坂道上的阿波罗
 3141|4|ja|坊っちゃん
@@ -82738,6 +82761,7 @@
 15373|4|zh-Hant|想哭的我戴上了貓的面具
 17695|4|zh-Hans|想当冒险者前往都市的女儿成为S级
 9794|4|zh-Hans|想成为世界最强
+18264|4|zh-Hans|想摆脱公主教育的我
 13987|4|ja|想星のアクエリオン Myth of Emotions
 17695|4|zh-Hant|想當冒險者前往都市的女兒成為S級
 16073|4|zh-Hans|想要成为影之实力者！
@@ -82880,6 +82904,8 @@
 7014|4|zh-Hans|我出生的那一天
 11881|2|zh-Hant|我叫坂本我最屌
 14781|4|zh-Hans|我叫白小飞
+18708|4|zh-Hant|我和班上最討厭的女生結婚了。
+18708|4|zh-Hans|我和班上最讨厌的女生结婚了。
 17820|4|zh-Hans|我喜欢的女孩忘记戴眼镜
 13534|4|zh-Hans|我喜欢的是妹妹但不是妹妹
 17820|2|zh-Hant|我喜歡的女孩忘記戴眼鏡
@@ -82898,6 +82924,7 @@
 16512|2|zh-Hans|我家师傅没有尾巴
 16512|2|zh-Hant|我家師傅沒有尾巴
 5557|2|zh-Hans|我家有个狐仙大人
+18491|4|zh-Hans|我家有个阿宅女忍者
 10972|4|zh-Hant|我家有個魚乾妹
 13106|4|zh-Hant|我家有個魚乾妹 R
 10635|4|zh-Hans|我家浴缸的二三事
@@ -82913,6 +82940,7 @@
 4184|4|zh-Hans|我想当第5名
 16073|4|zh-Hant|我想成為影之強者！
 17877|4|zh-Hant|我想成為影之強者！第二季
+18264|4|zh-Hant|我想蹺掉太子妃培訓
 1648|2|zh|我愛你Baby
 18468|4|zh-Hans|我捡起了一地属性
 17137|4|zh-Hans|我是不白吃
@@ -83013,6 +83041,7 @@
 11901|4|zh-Hans|我老婆是学生会长!+!
 18953|4|zh-Hans|我能无限顿悟
 5435|4|zh-Hans|我自己；你自己
+18491|4|zh-Hant|我與尼特女忍者的莫名同居生活
 10729|4|zh-Hans|我被绑架到贵族女校当“庶民样本”
 18266|2|zh-Hans|我要【招架】一切〜反误解的世界最强想成为冒险者〜
 18266|4|zh-Hans|我要【招架】一切～反误解的世界最强想成为冒险家～
@@ -84142,6 +84171,7 @@
 11133|4|ja|映画かいけつゾロリ うちゅうの勇者たち
 17329|4|ja|映画かいけつゾロリ ラララ♪スターたんじょう
 12456|4|ja|映画かみさまみならい ヒミツのここたま 奇跡をおこせ♪テップルとドキドキここたま界
+19113|4|ja|映画キミとアイドルプリキュア♪
 13006|4|ja|映画キラキラ☆プリキュアアラモード パリッと! 想い出のミルフィーユ!
 12727|4|ja|映画くまのがっこう パティシエ・ジャッキーとおひさまのスイーツ
 18306|4|ja|映画クレヨンしんちゃん オラたちの恐竜日記
@@ -84229,6 +84259,7 @@
 10773|4|zh-Hans|昭和元禄落语心中 OAD
 8135|4|ja|昭和物語
 18704|4|zh-Hans|是王者啊?
+19114|4|zh-Hans|是王者啊? 第4季 牡丹香幽大理寺
 18705|2|zh-Hans|是王者啊? 第二季
 18705|4|zh-Hans|是王者啊？第2季 云中不完全剿匪日记
 18706|4|zh-Hans|是王者啊？第3季 有求必应星之队
@@ -85100,6 +85131,7 @@
 17208|4|zh-Hans|欢迎来到实力至上主义教室 2
 17237|4|zh-Hans|欢迎来到实力至上主义教室 3
 17208|2|zh-Hans|欢迎来到实力至上主义教室 第二季
+18361|4|zh-Hans|欢迎来到日本，精灵小姐。
 18012|4|zh-Hans|欢迎来到驹田蒸馏所
 6114|4|zh-Hans|欧派生活
 10003|4|ja|欲情バズーカ THE ANIMATION たっぷり濃いのイッパツで!
@@ -85125,6 +85157,7 @@
 6114|4|zh-Hant|歐派生活
 17237|2|zh-Hant|歡迎來到實力至上主義的教室 第三季
 17208|2|zh-Hant|歡迎來到實力至上主義的教室 第二季
+18361|4|zh-Hant|歡迎來到日本，妖精小姐。
 18012|4|zh-Hant|歡迎來到駒田蒸餾所
 4121|2|zh-Hant|歡迎加入NHK!
 6834|4|ja|正ちゃんの冒険
@@ -87711,6 +87744,7 @@
 11350|4|zh-Hant|終物語
 13033|4|ja|終物語 (2017)
 13033|4|zh-Hant|終物語 第二季
+18506|4|zh-Hant|終究，與你相戀
 10984|4|zh-Hant|終結的熾天使 名古屋決戰篇
 14300|4|ja|終電後, カプセルホテルで, 上司に微熱伝わる夜.
 16611|2|zh-Hant|組長女兒與保姆
@@ -87883,6 +87917,7 @@
 11350|4|zh-Hans|终物语
 13033|4|zh-Hans|终物语 (2017)
 13033|2|zh-Hans|终物语 下
+18506|4|zh-Hans|终究、与你相恋。
 10813|4|zh-Hans|终结的炽天使
 11809|4|zh-Hans|终结的炽天使 OAD
 10984|4|x-zht|终结的炽天使 名古屋决战篇
@@ -88070,6 +88105,8 @@
 15121|4|ja|群れなせ! シートン学園
 11081|4|zh-Hans|群居姐妹
 15121|4|zh-Hans|群聚一堂！西顿学园
+18683|4|zh-Hant|群花綻放、彷如修羅
+18683|4|zh-Hans|群花绽放，彷如修罗
 16563|4|ja|群青のファンファーレ
 14063|4|ja|群青のマグメル
 16563|2|zh-Hans|群青开场号
@@ -88248,6 +88285,7 @@
 774|3|ja|脅迫II
 774|4|ja|脅迫II[セカンド] ~もうひとつの明日~ THE ANIMATION
 9477|4|ja|脱出ガッシャポン
+18852|4|zh-Hans|脱离了A级队伍的我，和从前的徒弟们前往迷宫深处。
 2375|4|ja|腐った教師の方程式
 16060|4|ja|腐男子召喚〜異世界で神獣にハメられました〜
 12095|4|ja|腐男子高校生活
@@ -88757,6 +88795,7 @@
 8928|4|ja|虹色ほたる ~永遠の夏休み~
 11487|4|zh-Hans|虹色时光
 8928|4|zh-Hans|虹色萤火虫～永远的暑假～
+18118|4|zh-Hans|虽然是公会的前台小姐，因为讨厌加班，所以打算自己讨伐boss
 9727|4|zh-Hans|虽然是玻璃假面
 17353|4|zh-Hans|虽然等级只有1级但固有技能是最强的
 16895|4|zh-Hans|蚂蚁公主
@@ -88771,6 +88810,7 @@
 4422|3|zh-Hans|蜂蜜2
 2835|4|zh|蜂蜜与四叶草
 4422|2|zh-Hans|蜂蜜与四叶草II
+18516|4|zh-Hans|蜂蜜柠檬碳酸水
 16781|4|zh-Hans|蜉蝣日记
 14201|4|ja|蜘蛛ですが, なにか?
 10734|4|ja|蜘蛛の糸
@@ -89516,6 +89556,7 @@
 8476|4|zh-Hans|这个是僵尸吗？OF THE DEAD
 11792|4|zh-Hans|这个男人、工作是魔法
 11735|4|zh-Hans|这个美术社大有问题!
+18770|4|zh-Hans|这公司有我喜欢的人
 9403|4|zh-Hans|这名男子，捡到了人鱼。
 11011|2|zh-Hans|这就是声优
 7674|2|zh-Hans|这是僵尸吗?
@@ -89621,6 +89662,7 @@
 10803|4|ja|這いよれ! ニャル子さんF
 9459|4|ja|這いよれ! ニャル子さんW
 16249|4|zh-Hant|這個僧侶有夠煩
+18770|4|zh-Hant|這公司有我喜歡的人
 15216|4|zh-Hant|這是妳與我的最後戰場，或是開創世界的聖戰
 7674|4|zh-Hant|這樣算是殭屍嗎？
 5191|4|ja|通勤快楽 痴漢でGO!!
@@ -90417,11 +90459,13 @@
 12349|4|zh-Hans|雏子的笔记
 15870|4|zh-Hans|雏蜂 伊甸之子
 11295|4|zh-Hans|雏蜂-B.E.E-
+18118|4|zh-Hant|雖然是公會的櫃檯小姐，但因為不想加班所以打算獨自討伐迷宮頭目
 17353|2|zh-Hant|雖然等級只有 1 級但固有技能是最強的
 2984|2|zh-Hant|雙戀2
 4396|4|zh-Hant|雙面騎士
 11295|4|zh-Hant|雛蜂-B.E.E-
 2030|4|ja|雛鳥の囀
+18852|4|zh-Hant|離開 A 級隊伍的我，和從前的弟子往迷宮深處邁進
 8987|4|ja|難波金融伝 ミナミの帝王
 6935|2|ja|難船ス物語 第一篇 猿ケ島
 7005|4|ja|難船ス物語 第二篇 海賊船
@@ -90620,6 +90664,7 @@
 12329|4|zh-Hans|青春歌舞伎
 11530|4|zh-Hans|青春水球社
 11533|2|zh-Hant|青春波紋
+18516|4|zh-Hant|青春特調蜂蜜檸檬蘇打
 14397|4|zh-Hans|青春猪头少年不会梦到怀梦美少女
 17862|4|zh-Hans|青春猪头少年不会梦到红书包女孩
 13565|4|zh-Hans|青春的情爱文学
@@ -91182,6 +91227,8 @@
 458|4|zh-Hant|魔法使的條件
 5830|2|zh-Hans|魔法使的注意事项~夏之空~
 5830|2|zh-Hans|魔法使的注意事项~夏日的天空~
+18599|4|zh-Hant|魔法使的約定
+18599|4|zh-Hans|魔法使的约定
 16280|4|zh-Hant|魔法使黎明期
 16280|4|zh-Hans|魔法使黎明期
 2605|4|ja|魔法先生 ネギま!
@@ -91383,7 +91430,9 @@
 14469|4|ja|魔界騎士イングリッド: Re~メス豚奴隷に堕ちた魔界騎士~
 953|4|zh-Hans|魔神凯撒
 954|4|zh-Hans|魔神凯撒 死斗！暗黑大将军
+18406|4|zh-Hans|魔神创造传
 18406|4|ja|魔神創造伝ワタル
+18406|4|zh-Hant|魔神創造傳
 460|2|zh-Hans|魔神坛斗士
 3636|4|ja|魔神英雄伝ワタル
 15194|4|ja|魔神英雄伝ワタル 七魂の龍神丸
@@ -91537,6 +91586,7 @@
 9714|4|zh-Hans|麻雀酒店
 5265|4|ja|麻雀飛翔伝 哭きの竜
 14048|4|ja|麻雀飛翔伝 哭きの竜 飛竜之章
+18709|4|zh-Hant|黃昏旅店
 12037|4|zh-Hant|黃金拼圖 Pretty Days
 355|4|zh-Hans|黃金男孩
 13337|4|zh-Hant|黃金神威
@@ -91549,6 +91599,7 @@
 18097|2|zh-Hans|黄昏失焦
 8852|4|zh-Hans|黄昏少女×失忆
 8852|2|zh-Hans|黄昏少女x失忆
+18709|4|zh-Hans|黄昏旅店
 7532|2|zh-Hans|黄段子学生会
 17876|4|ja|黄金の庭園: 冬に積もる新年の願い
 4277|4|ja|黄金の法 エル・カンターレの歴史観
