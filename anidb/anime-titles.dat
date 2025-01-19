@@ -1,4 +1,4 @@
-# created: Fri Jan 17 03:00:01 2025
+# created: Sat Jan 18 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2277,6 +2277,8 @@
 5569|2|sv|Allison och Lillia
 5569|1|x-jat|Allison to Lillia
 11580|3|x-jat|allout
+19116|1|x-jat|Alma-chan wa Kazoku ni Naritai
+19116|2|en|Alma-chan Wants to Have a Family!
 3672|4|es-419|Almendrita
 7920|3|en|Alone Again
 3667|4|it|Alpenrose
@@ -27938,6 +27940,7 @@
 3130|3|ja|Kuro Ai
 3130|1|x-jat|Kuro Ai: Hitoyozumakan Inkou Rannyuuroku
 4133|1|x-jat|Kuro ga Ita Natsu
+19115|1|x-jat|Kuro Gal a La Carte
 16048|1|x-jat|Kuro Gal ni Natta kara Shin`yuu to Shite Mita.
 16048|2|x-jat|Kuro Gyaru ni Natta kara Shin`yuu to Shite Mita.
 159|1|x-jat|Kuro no Danshou
@@ -56145,6 +56148,7 @@
 9496|4|fr|Witchcraft Works
 9496|2|x-jat|WitchCraft Works
 11794|4|en|Witchy Precure
+17908|4|en|Witchy Precure!! Mirai Days
 12269|2|en|Witchy Pretty Cure! the Movie
 15297|4|en|With a Dog and a Cat, Everyday Is Fun
 16325|2|en|With a Fogie Reincarnated as a Pretty Fantasy Girl
@@ -67879,6 +67883,7 @@
 10756|2|ko|육빈 R30
 15874|2|ko|육상부 여자는 나의 생체 오나홀
 534|2|ko|육욕완구 택배인
+18911|2|ko|육정
 1852|2|ko|육체전이
 10938|4|ko|육화의 용사
 11476|4|ko|윤간미약중독 ~ 도망갈 장소없음 1428명의 학생전원에 sex당하는 소공녀 사야카 ~
@@ -69403,6 +69408,7 @@
 11766|4|ja|アルプスの少女ハイジ パイロット版
 7660|2|ja|アルプスの少女ハイジ 劇場版
 2300|4|ja|アルプス物語 わたしのアンネット
+19116|4|ja|アルマちゃんは家族になりたい
 10202|4|ja|アルモニ
 519|3|ja|アル戦
 11472|4|ja|ある日 犬の国から手紙が来て
@@ -81739,6 +81745,7 @@
 16097|4|zh-Hans|少女前线 人形小剧场2
 16097|2|zh-Hans|少女前线 治愈篇2
 473|4|zh|少女十七減十一
+19116|2|ja|少女型兵器は家族になりたい
 18271|2|zh-Hans|少女如草花绽放
 940|4|ja|少女小悪魔系
 940|2|ja|少女小悪魔系 ~蠢く女たち~
@@ -89518,6 +89525,7 @@
 16030|2|zh-Hans|转生贤者的异世界生活～取得第二职业，成为世界最强～
 16030|4|zh-Hans|转生贤者的异世界生活～获得第二职业并成为世界最强～
 18026|4|zh-Hans|转生贵族凭鉴定技能扭转人生
+18707|4|zh-Hans|转生贵族凭鉴定技能扭转人生 第二季
 17552|4|zh-Hans|转生贵族的异世界冒险录 〜不知自重的众神使徒〜
 18164|4|zh-Hans|轮回7次的恶役千金，在前敌国享受随心所欲的新婚生活
 8583|4|zh-Hans|轮回的拉格朗日
@@ -91687,6 +91695,7 @@
 13008|4|ja|黒い瞳
 4132|4|ja|黒い雨にうたれて
 4132|2|ja|黒い雨に打たれて
+19115|4|ja|黒ギャルアラカルト
 16048|4|ja|黒ギャルになったから親友としてみた.
 9478|4|ja|黒と金の開かない鍵.
 5924|4|ja|黒ニャゴ
