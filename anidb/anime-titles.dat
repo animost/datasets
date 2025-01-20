@@ -1,4 +1,4 @@
-# created: Sat Jan 18 03:00:02 2025
+# created: Sun Jan 19 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -7127,6 +7127,7 @@
 18862|2|x-jat|Bye Bye, Earth Season 2
 17723|3|x-jat|bye2earth
 9264|2|x-unk|Byeol byeol i-ya-gi 2 - Yeo-seot bat-kkal moo-ji-gae
+19118|1|x-kot|Byeoljubu Haelo
 5321|1|x-kot|Byeolnala Samchongsa
 5081|4|cs|Byl jednou jeden vesmír
 5222|4|cs|Byl jednou jeden život
@@ -14001,6 +14002,7 @@
 1911|4|es|El Vengador
 1292|4|es|El Verano de Andalucia
 5056|4|es|El verano de Coo
+18649|4|es|El verano en que Hikaru murió
 112|4|es|El Viaje de Chihiro
 112|4|es-419|El Viaje de Chihiro
 6634|4|es|El viaje encantado
@@ -19606,6 +19608,7 @@
 9594|2|en|Haedol`s Adventure
 9594|1|x-kot|Haedori Daemoheom
 9647|1|x-kot|Haejeotamheomdae Marin X
+19117|1|x-kot|Haerowa Toremi
 6257|2|tr|Hafif Müzik Kulübü
 7307|2|tr|Hafif Müzik Kulübü!!
 8419|3|x-jat|haganai
@@ -30745,8 +30748,8 @@
 17864|3|x-jat|LycoReco s2
 17097|4|en|Lycoris Recoil
 17097|1|x-jat|Lycoris Recoil
-17864|1|x-jat|Lycoris Recoil (Shinsaku Animation)
 17097|4|zh-Hant|Lycoris Recoil 莉可麗絲
+17864|1|x-jat|Lycoris Recoil: Friends Are Thieves of Time.
 1919|2|fr|Lydie et la clef magique
 11085|2|fr|Lyrisme tentaculaire
 9853|2|x-jat|M Okui Last Order
@@ -33933,7 +33936,7 @@
 626|4|de|Mobile Suit Gundam F91
 15346|2|en|Mobile Suit Gundam G40
 19027|2|en|Mobile Suit Gundam GQuuuuuuX
-19044|2|en|Mobile Suit Gundam GQuuuuuuX: Beginning
+19044|4|en|Mobile Suit Gundam GQuuuuuuX: Beginning
 729|4|en|Mobile Suit Gundam I
 729|4|cs|Mobile Suit Gundam I
 729|4|it|Mobile Suit Gundam I
@@ -48643,6 +48646,7 @@
 4154|2|en|Stringendo: The Angels` Private Lesson
 14023|2|en|Strong Tire!
 17104|2|en|Strongest Immortal of Seven Realms
+18935|2|en|Strongest King, What Will You Do in Your Second Life?
 4132|2|en|Struck by Black Rain
 6556|2|en|Student Council Judgement
 7310|2|en|Student Council President Hikaru: Public Loss of Virginity
@@ -68799,6 +68803,7 @@
 13440|4|ko|해골 서점직원 혼다씨
 16262|4|ko|해골기사님은 지금 이세계 모험 중
 9594|4|ko|해돌이 대모험
+19117|4|ko|해로와 토레미
 15782|2|ko|해바라기는 밤에 핀다
 5061|2|ko|해방구 ~치한하렘~
 12570|2|ko|해버리는 아이! 전차 엣지
@@ -76512,7 +76517,7 @@
 9034|4|ja|リコーダーとランドセル レ♪
 8716|3|ja|リコラン
 17097|4|ja|リコリス・リコイル
-17864|4|ja|リコリス・リコイル (新作アニメーション)
+17864|4|ja|リコリス・リコイル Friends are thieves of time.
 14714|4|ja|りさいくるずー
 18647|4|ja|リジネッタさんの冒険
 6384|4|ja|リストランテ・パラディーゾ
