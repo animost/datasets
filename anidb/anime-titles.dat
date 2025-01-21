@@ -1,4 +1,4 @@
-# created: Sun Jan 19 03:00:01 2025
+# created: Mon Jan 20 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -235,6 +235,7 @@
 10306|4|ja|☆ケロロ☆
 4726|2|x-other|❄
 18736|1|x-jat|0-saiji Start Dash Monogatari
+19119|1|x-jat|0-saiji Start Dash Monogatari Season 2
 2195|4|ja|0[ゼロ]テスター
 2196|4|ja|0[ゼロ]テスター 地球を守れ!
 11391|1|x-jat|00:08
@@ -267,6 +268,7 @@
 2196|2|ja|0テスター 地球を守れ!
 5121|4|ja|0戦はやと
 18736|4|ja|0歳児スタートダッシュ物語
+19119|4|ja|0歳児スタートダッシュ物語 シーズン2
 13813|2|en|1 Day Outside Pass Foreman
 18195|2|en|1,000,000,000,000$ Game
 3978|1|x-jat|1+2=Paradise
@@ -31523,6 +31525,7 @@
 11982|2|x-jat|Mahoutsukai no Yome: Hoshi Matsu Hito
 16113|2|x-jat|Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi
 11794|2|x-jat|Mahoutsukai Precure!
+17908|2|x-jat|Mahoutsukai Precure!! Mirai Days
 16280|2|x-jat|Mahoutsukai Reimeiki
 18599|3|x-jat|Mahoyaku
 17080|3|x-jat|mahoyo
@@ -80021,6 +80024,7 @@
 6546|2|zh-Hans|圣剑锻造师
 4006|4|zh-Hans|圣剑风云
 9456|4|zh-Hans|圣哥传 OAD
+10437|4|zh-Hans|圣天之泪：惨遭背刺的天使
 15720|4|zh-Hans|圣女魔力无所不能
 17246|4|zh-Hans|圣女魔力无所不能 第二季
 852|2|zh-Hans|圣少女
@@ -81743,6 +81747,7 @@
 9227|4|zh-Hans|少女与战车
 10008|4|zh-Hans|少女与战车 剧场版
 12355|2|zh-Hant|少女之施虐癖
+17998|4|zh-Hans|少女乐队的呐喊
 11725|4|zh-Hans|少女们向荒野进发
 16006|2|zh-Hant|少女前線
 16006|2|zh-Hans|少女前线
