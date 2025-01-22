@@ -1,4 +1,4 @@
-# created: Mon Jan 20 03:00:02 2025
+# created: Tue Jan 21 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2544,7 +2544,6 @@
 6002|4|de|Aneimo: Heimliche Liebe
 7915|2|x-jat|Anejiru 2 The Animation: Shirakawa San Shimai ni Omakase
 4823|2|x-jat|Anejiru The Animation: Shirakawa San Shimai ni Omakase
-18174|2|x-jat|Anejiyoku Tsukushi: Nee-san no Shitagi
 8911|1|x-jat|Aneki no Kounai Kaikinbi
 5358|1|x-jat|Aneki... My Sweet Elder Sister The Animation
 8707|1|x-jat|Anemone
@@ -22225,6 +22224,7 @@
 4334|4|pl|Humanoid Monster Bem
 4334|4|pt-BR|Humanoid Monster Bem
 4334|4|en|Humanoid Monster Bem
+1447|2|en|Humanoid Monster Bem (1968)
 5465|4|en|Humiliated Wives
 14989|2|en|Humiliation
 15463|2|en|humiliation II
@@ -34200,6 +34200,7 @@
 18538|4|fr|Mon oni à moi
 303|4|fr|Mon voisin Totoro
 3484|4|en|Monarch: The Big Bear of Tallac
+18627|2|x-jat|monaxmedaka
 9539|1|x-jat|Monchicchiisu
 3511|3|x-jat|moncolleknight
 5523|3|x-jat|moncolleknight movie
@@ -35401,6 +35402,7 @@
 158|1|x-jat|Nageki no Kenkou Yuuryouji
 9387|1|x-jat|Nagi no Asukara
 9387|4|fr|Nagi no Asukara
+9387|4|es-419|Nagi no Asukara - Calma en el Mar
 9387|2|x-jat|Nagi no Earth Color
 9387|2|en|Nagi-Asu: A Lull in the Sea
 9387|3|x-jat|nagiasu
@@ -44466,6 +44468,7 @@
 5809|1|x-jat|Santa Claus Tsukamaeta
 9516|1|x-jat|Santa Company
 14946|1|x-jat|Santa Company: Christmas no Himitsu
+14946|4|es-419|Santa Company: El secreto de la navidad
 16005|1|x-jat|Santa Company: Manatsu no Merry Christmas
 16005|2|en|Santa Company: Midsummer Merry Christmas
 13181|1|x-jat|Santa no Yama: Yousei no Mori
@@ -45016,6 +45019,7 @@
 18300|2|x-jat|Seishun Buta Yarou Series: Daigakusei Hen
 13900|1|x-jat|Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai
 17640|1|x-jat|Seishun Buta Yarou wa Odekake Sister no Yume o Minai
+17862|2|x-jat|Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai
 17862|1|x-jat|Seishun Buta Yarou wa Ransel Girl no Yume o Minai
 18300|1|x-jat|Seishun Buta Yarou wa Santa Claus no Yume o Minai
 14397|1|x-jat|Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai
@@ -51476,6 +51480,8 @@
 5277|2|en|The Masked Maid Guy
 14162|2|en|The Master of Diabolism
 14428|4|en|The Master of Diabolism (2019)
+16618|4|en|The Master of Diabolism (2021)
+15617|4|en|The Master of Diabolism Q
 13896|4|en|The Master of Ragnarok & Blesser of Einherjar
 17423|4|en|The Masterful Cat Is Depressed Again Today
 11379|4|en|The Mechanism of Spring
