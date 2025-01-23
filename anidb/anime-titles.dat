@@ -1,4 +1,4 @@
-# created: Tue Jan 21 03:00:01 2025
+# created: Wed Jan 22 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3297,6 +3297,14 @@
 15135|1|x-jat|Arifureta Shokugyou de Sekai Saikyou 2nd Season
 17615|1|x-jat|Arifureta Shokugyou de Sekai Saikyou Season 3
 13624|2|x-jat|Arifureta Shokugyou de Sekaisaikyou
+13624|4|pt|Arifureta: De Ninguém ao Mais Forte do Mundo
+13624|2|pt-BR|Arifureta: De Ninguém ao Mais Forte do Mundo
+15135|2|pt|Arifureta: De Ninguém ao Mais Forte do Mundo (2022)
+17615|2|pt|Arifureta: De Ninguém ao Mais Forte do Mundo (2024)
+15135|2|pt-BR|Arifureta: De Ninguém ao Mais Forte do Mundo 2
+15135|4|pt|Arifureta: De Ninguém ao Mais Forte do Mundo 2
+17615|2|pt-BR|Arifureta: De Ninguém ao Mais Forte do Mundo 3
+17615|4|pt|Arifureta: De Ninguém ao Mais Forte do Mundo 3
 13624|4|en|Arifureta: From Commonplace to World`s Strongest
 15135|4|en|Arifureta: From Commonplace to World`s Strongest Season 2
 17615|4|en|Arifureta: From Commonplace to World`s Strongest Season 3
@@ -6080,6 +6088,9 @@
 8148|4|fr|Blue Exorcist
 8148|4|en|Blue Exorcist
 8148|4|de|Blue Exorcist
+18561|4|de|Blue Exorcist -Beyond the Snow Saga-
+17786|4|de|Blue Exorcist -Shimane Illuminati Saga-
+18735|4|de|Blue Exorcist -The Blue Night Saga-
 17786|2|en|Blue Exorcist Season 3
 18561|2|en|Blue Exorcist Season 4
 18561|4|en|Blue Exorcist: Beyond the Snow Saga
@@ -9136,8 +9147,10 @@
 2216|4|it|Continuavano a chiamarlo il gatto con gli stivali
 17826|2|pt-BR|Contos de alianças de casamento
 17826|2|pt|Contos de Alianças de Casamento
+18949|2|pt|Contos de Qin Mu
 4193|2|pt-BR|Contos de Terramar
 4193|4|pt|Contos de Terramar
+18949|4|pt|Contos dos Deuses Pastores
 9879|2|en|Contract of Captivity: Sisters Who Offer Their Bodies for Their Family`s Sake
 298|2|fr|Contraintes par corps
 298|4|fr|Contraintes... par corps
@@ -11365,6 +11378,7 @@
 18051|1|x-zht|Dian Qi Shao Nu
 18051|2|x-zht|Dianqi Shaonu
 8395|2|pt-BR|Diário do Futuro
+18949|2|pt|Diário do Pastor
 17870|4|pt|Diários de uma Apotecária
 17870|4|pt-BR|Diários de uma Apotecária
 18562|4|pt|Diários de uma Apotecária (2025)
@@ -13313,6 +13327,7 @@
 14620|1|x-jat|Duel Masters!!
 14620|4|ja|DUEL MASTERS!!
 3412|4|pt|Duelo Imortal: A Animação
+14115|2|pt|Duende Estudante e Professor
 61|4|sl|Duh v školjki
 6671|2|x-jat|Dulalala!!
 6671|2|x-jat|Dullalala
@@ -14944,6 +14959,7 @@
 16039|1|x-zht|Fanren Xiu Xian Chuan Tebie Pian
 16039|2|x-zht|Fanren Xiu Xian Chuan Tebie Pian: Yan Jia Bao Dazhan
 18332|1|x-zht|Fanren Xiu Xian Chuan: Di San Ji
+19121|1|x-zht|Fanren Xiu Xian Chuan: Di Si Ji
 17004|1|x-zht|Fanren Xiu Xian Chuan: Mo Dao Zhengfeng
 18265|1|x-zht|Fanren Xiu Xian Chuan: Xinghai Feichi Pian Xuzhang
 15425|1|x-zht|Fanren Xiuxian Chuan: Feng Qi Tian Nan
@@ -37009,6 +37025,7 @@
 14296|2|en|not hero
 1335|2|en|Not in the Textbook!
 5389|1|x-jat|Notari Matsutarou
+18949|2|pt|Notas do Pastor
 4563|4|pl|Notatnik śmierci
 8370|2|en|Notepad of God
 4563|2|pl|Notes Śmierci
@@ -37240,6 +37257,7 @@
 5954|2|pt-BR|O Conde e a Fada
 9515|4|pt|O Conto da Princesa Kaguya
 9515|4|pt-BR|O Conto da Princesa Kaguya
+18949|2|pt|O Conto do Pastor
 18451|2|pt-BR|O curandeiro que foi banido do seu grupo é na verdade, o mais forte!
 4698|4|pl|O czym szumią wierzby
 7221|2|pt-BR|O Desaparecimento de Haruhi Suzumiya
@@ -45831,6 +45849,8 @@
 17039|2|x-zht|Shenyi Jiu Xiaojie
 18582|2|x-zht|Shenyi Jiu Xiaojie 2nd Season
 18385|1|x-zht|Shenyuan Youxi
+18949|2|en|Shepherd`s Diary
+18949|2|en|Shepherd`s Notes
 617|2|fr|Sherlock Holmes
 617|4|hu|Sherlock Holmes, a mesterkopó
 617|4|en|Sherlock Hound
@@ -47183,6 +47203,8 @@
 17427|4|en|Smile of the Arsnotoria the Animation
 8819|1|x-jat|Smile Precure!
 8939|2|en|Smile Precure! The Movie: Big Mismatch in a Picture Book!
+19120|1|x-jat|Smile Smile Ship Start!
+19120|4|ja|smile smile ship Start!
 17114|1|x-jat|Smile Supporter
 8819|4|zh-Hans|Smile 光之美少女！
 8939|4|zh-Hans|Smile 光之美少女！绘本里的世界都不协调！
@@ -65652,6 +65674,7 @@
 11806|4|ja|개구장이 천사들
 1990|2|ko|개인 감정
 1012|2|ko|개인수업
+5840|2|ko|개인수업 ~애니메이션~ 여학생이 개인 레슨을 준비했습니다!
 1981|2|ko|개인택시
 8857|4|ko|거꾸로 된 파테마
 14110|2|ko|거유 JK가 아저씨 자지와 질퍽질퍽 야한 섹스 하고 있습니다
@@ -65963,6 +65986,7 @@
 3398|4|ko|꾸러기수비대
 10159|4|ko|꾸루꾸루와 친 구들
 7629|2|ko|꾸짖는 음담패설: 미사키주임의 부하교육편
+18337|2|ko|꿈꾸는 소녀
 12362|4|ko|꿈왕국과 잠자는 100명의 왕자님
 4445|2|ko|꿈차원 헌터 판도라
 1048|2|ko|끝없는 세레나데
@@ -66536,6 +66560,7 @@
 11205|4|ko|마이크로 특공대 다이야트론 5
 13194|4|ko|마일로의 대모험
 11638|2|ko|마장학원 HxH
+18812|2|ko|마조암컷소프에서 만납시다!
 4074|4|ko|마지카노
 8265|2|ko|마켄키!
 16114|2|ko|마코 짱 개발 일기
@@ -78562,6 +78587,7 @@
 18265|4|zh-Hans|凡人修仙传 星海飞驰篇 序章
 16039|2|zh-Hant|凡人修仙传 特别篇: 燕家堡大战
 18332|4|zh-Hans|凡人修仙传 第三季
+19121|4|zh-Hans|凡人修仙传 第四季
 15425|4|zh-Hans|凡人修仙传 风起天南
 17004|4|zh-Hans|凡人修仙传 魔道争锋
 17033|4|zh-Hans|凡人修仙传之 风起天南 贰
