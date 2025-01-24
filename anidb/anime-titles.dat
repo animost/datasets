@@ -1,4 +1,4 @@
-# created: Wed Jan 22 03:00:02 2025
+# created: Thu Jan 23 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -959,6 +959,7 @@
 1861|2|pt-BR|A Lenda da Serpente Branca
 1424|4|pt|A Lenda de Ning
 1141|4|es-GA|A lenda de Sheron o dragón
+5303|2|pt|A Lenda de Yobi
 2863|4|pt|A Lenda de Zorro
 551|4|pt-BR|A Lenda do Demônio
 7621|2|pt-BR|A Lenda do Dragão Milenar
@@ -4137,6 +4138,8 @@
 504|3|en|BA:V
 10121|1|x-jat|Baa-cha no Kingyo
 12946|1|x-kot|Bab Mook Ja
+18517|4|it|Baban Baban Ban Vampire
+18517|4|fi|Baban Baban Ban Vampire
 18517|1|x-jat|Babanba Banban Vampire
 18517|4|en|Babanba Banban Vampire
 18517|4|pl|Babanba Banban Vampire
@@ -12992,6 +12995,7 @@
 1954|4|ja|DRAGON BALL 魔神城のねむり姫
 1142|4|es|Dragon Ball: Aventura Mística
 1141|4|en|Dragon Ball: Curse of the Blood Rubies
+18238|4|pt-BR|Dragon Ball: Daima
 1129|2|pl|Dragon Ball: Droga ku potędze
 1129|4|es|Dragon Ball: El camino hacia el Poder
 8809|1|x-jat|Dragon Ball: Episode of Bardock
@@ -24399,6 +24403,7 @@
 788|2|en|Jo Jo`s Bizarre Adventures
 2852|4|pt|Joana e Sérgio: O Desafio dos Anjos
 3652|4|pt|Joaninha
+5303|2|lv|Jobi, Piecastes lapsa
 3664|4|nl|Jody en het Hertejong
 1458|2|fr|Joe 2
 4890|1|x-jat|Joe and Marilyn
@@ -30810,6 +30815,7 @@
 12725|2|fr|Ma grande sœur & ses séduisants yeux de jade
 15595|2|x-unk|Ma La Nu Pei
 13832|1|x-zht|Ma La Xiao Yuan Jia
+18517|4|vi|Ma ma ma ma cà rồng
 14036|1|x-zht|Ma Ma Mi Ya
 11912|2|fr|Ma nunuche de belle-sœur se met à me faire des choses intelligentes
 13242|2|fr|Ma petite amie coquine à moi seul
@@ -35117,6 +35123,7 @@
 13633|4|fr|My Hero Academia: Two Heroes
 18199|4|en|My Hero Academia: UA Heroes Battle
 18199|4|fr|My Hero Academia: UA Heroes Battle
+19069|4|de|My Hero Academia: Vigilantes
 19069|2|en|My Hero Academia: Vigilantes
 15873|4|en|My Hero Academia: World Heroes` Mission
 15873|4|fr|My Hero Academia: World Heroes` Mission
@@ -40399,6 +40406,8 @@
 17777|4|pt|Pokémon Horizontes - A Série
 3419|2|x-unk|Pokémon Housoukyoku
 1804|4|fi|Pokémon Jirachi-toiveentäyttäjä
+15067|2|pt|Pokémon Jornadas de Mestre: A Série
+15067|2|pt|Pokémon Jornadas Supremas: A Série
 15067|4|en|Pokemon Journeys: The Series
 15067|2|en|Pokémon Journeys: The Series
 10318|4|fr|Pokémon Le Film 17 : Diancie Et Le Cocon De L`Annihilation
@@ -41822,6 +41831,7 @@
 14978|1|x-zht|Quanzhi Gaoshou 2
 16589|2|x-zht|Quanzhi Gaoshou 3
 16589|1|x-zht|Quanzhi Gaoshou Di San Ji
+19122|1|x-zht|Quanzhi Gaoshou Q
 13950|2|en|Quanzhi Gaoshou Specials
 15035|2|x-zht|Quanzhi Gaoshou Zhi Dianfeng Rongyao
 15035|1|x-zht|Quanzhi Gaoshou: Dianfeng Rongyao
@@ -44104,7 +44114,9 @@
 18984|4|ja|SAKAMOTO DAYS (2025)
 18984|4|en|Sakamoto Days (2025)
 11881|1|x-jat|Sakamoto Desu ga?
+18654|4|hu|Sakamoto napjai
 11881|4|fr|Sakamoto, pour vous servir !
+18654|4|hr|SAKAMOTOVI DANI
 8857|1|x-jat|Sakasama no Patema
 6246|1|x-jat|Saki
 8701|2|ro|Saki - Episodul laturei A
@@ -44603,6 +44615,7 @@
 3155|1|x-jat|Sasurai no Taiyou
 9171|1|x-jat|Sasurai-kun
 3115|3|x-jat|Sasuraiger
+18654|4|vi|Sát thủ về vườn
 9466|2|en|Satan
 16104|2|en|Satan 2
 16104|3|en|satan s2
@@ -44990,6 +45003,7 @@
 10438|1|x-jat|Seiken Tsukai no World Break
 4732|2|x-jat|Seikima II Humane Society
 2401|1|x-jat|Seikimatsu Darling
+19123|1|x-jat|Seikimatsu Densetsu: Wonderful Tatsunoko Land
 386|2|x-jat|Seikimatsu Kyuseishu Densetsu: Hokuto no Ken
 984|1|x-jat|Seikimatsu Kyuuseishu Densetsu: Hokuto no Ken 2
 3532|1|x-jat|Seikimatsu Leader Gaiden Takeshi!
@@ -54853,6 +54867,7 @@
 1557|1|x-jat|V.G.Neo The Animation
 1557|4|ja|V.G.NEO THE ANIMATION
 178|3|x-jat|v2s
+18517|4|es-419|Va-va-vampiro en los baños
 925|4|es|Vacaciones de verano
 13501|2|fr|Vacances & découvertes intimes
 2226|4|hu|Vadhattyúk
@@ -54905,6 +54920,7 @@
 9568|4|fr|Valvrave: the liberator
 204|4|et|Vampiirikütt D
 66|4|et|Vampiirikütt D: Verejanu
+18517|4|hu|Vámpír a fürdőben
 204|2|tr|Vampir Avcısı D
 66|2|tr|Vampir Avcısı D: Kanşehveti
 5586|2|tr|Vampir Şövalye
@@ -55036,6 +55052,7 @@
 12542|1|x-jat|Vatican Kiseki Chousakan
 13271|1|x-jat|Vatican Kiseki Chousakan: Majo no Soup
 12542|4|en|Vatican Miracle Examiner
+18517|4|fr|Vavam Vampire
 15839|4|ja|VAZZROCK THE ANIMATION
 15839|1|x-jat|Vazzrock the Animation
 15839|4|en|Vazzrock the Animation
@@ -55187,6 +55204,7 @@
 19069|2|en|Vigilante: My Hero Academia Illegals
 1428|4|fi|Viidakkokirja
 2279|4|fi|Viidakkopoika
+5303|2|et|Viie sabaga rebane Yobi
 1825|4|tr|Vikingler
 6465|2|lt|Vilkė ir Gintarinė Melancholija
 5406|2|lt|Vilkė ir Prieskoniai
@@ -57344,8 +57362,42 @@
 18661|1|x-jat|Yoasobi Gurashi!
 10686|1|x-jat|Yobai Suru Shichinin no Harame
 2861|1|x-jat|Yobarete Tobidete Akubi-chan
+5303|2|lv|Yobi ad quinque caudatus vulpes
+5303|2|no|Yobi den femhalereven
+5303|2|sv|Yobi den femsvansade räven
+5303|2|es|Yobi el zorro de cinco colas
+5303|2|sl|Yobi lisica s petimi repi
+5303|2|fi|Yobi viisihäntäinen kettu
+5303|2|el|Yobi η αλεπού με πέντε ουρά
+5303|2|pt-BR|Yobi, a raposa de cinco caudas
+5303|2|hu|Yobi, az ötfarkú róka
+5303|2|es-PV|Yobi, Bost buztan azeria
+5303|2|nl|Yobi, de vijfstaartvos
+5303|2|da|Yobi, den femhalede ræv
+5303|2|de|Yobi, der fünfschwänzige Fuchs
+5303|2|al|Yobi, Dhelpra me pesë bishta
+5303|2|af|Yobi, die Vyfstertvos
+5303|2|ht|Yobi, Fox a senk ke
+5303|2|es-CA|Yobi, la guineu de cinc cues
+5303|2|eo|Yobi, La Kvinvosta Vulpo
 5303|2|it|Yobi, la volpe dalle cinque code
+5303|2|fr|Yobi, le renard à cinq queues
+5303|2|bs|Yobi, lisica s pet repa
+5303|2|hr|Yobi, Lisica s pet repova
+5303|2|cs|Yobi, Liška pětiocasá
+5303|2|vi|Yobi, Ngũ Vĩ Hồ Ly
+5303|2|es-GA|Yobi, o raposo de cinco colas
+5303|2|ne|Yōbī, pāmca pucchara phaksa
+5303|2|sk|Yobi, päťchvostá líška
+5303|2|lt|Yobi, Penkiauodegė lapė
+5303|2|pl|Yobi, pięcioogoniasty lis
+5303|2|es-419|Yobi, Quinque Tailed Fox
+5303|2|id|Yobi, Rubah Ekor Lima
+5303|2|my|Yobi, Rubah Ekor Lima
 5303|2|en|Yobi, The Five Tailed Fox
+5303|2|tl|Yobi, The Five-Tailed Fox
+5303|2|ro|Yobi, Vulpea cu cinci cozi
+5303|2|bur|Yobi၊ အမြီးငါးကောင်
 5271|1|x-jat|Yocchan no Biidama
 11036|1|x-jat|Yodaka no Hoshi
 11518|1|x-jat|Yodaka no Hoshi (2014)
@@ -59396,6 +59448,7 @@
 14908|2|ru|Валькирия и любовь
 14747|2|bg|Вампир в градината
 10985|2|ru|Вампир Холмс
+18517|4|uk|Вампір Бабан-бабан-бан
 69|2|ru|Ван-Пис
 5088|2|ru|Ванганская полночь
 177|4|ru|Вандред
@@ -60001,7 +60054,9 @@
 3464|2|ru|Дневник путешественника
 5580|2|ru|Дневник сумасшедшей семейки
 1327|2|ru|Дни Мидори
+18654|4|ru|Дни Сакамото
 8206|2|bg|Дните на Кучетата
+18654|4|uk|Дні Сакамото
 621|2|bg|ДНК Ангел
 5039|2|uk|До Землі
 8289|2|uk|До лісу світлячків
@@ -60106,6 +60161,7 @@
 6671|4|ru|Дюрарара!!
 749|2|bg|Дяволита
 5678|2|bg|Дяволита целувка
+5303|2|mn|Ёби, Таван сүүлт үнэг
 22|3|ru|ева
 22|4|ru|Евангелион
 22|2|bg|Евангелион
@@ -60378,6 +60434,7 @@
 6716|2|bg|Инуяша - последната арка
 6716|2|ru|Инуяша: Последняя глава
 12653|2|bg|Инуяшики: Последният супергерой
+5303|2|sr|Иоби, Петорепа лисица
 10725|2|ru|Иона на заре
 8395|4|mn|Ирээдүйн Тэмдэглэл
 4325|2|bg|Искрени сълзи
@@ -60417,6 +60474,9 @@
 5557|2|uk|Інарі нашого дому
 8556|2|uk|Інша
 3067|2|uk|Ічіґо 100%
+5303|2|tt|Йоби, биш койрыклы төлке
+5303|2|bg|Йоби, лисицата с пет опашки
+5303|2|uk|Йобі - п`ятихвоста лисичка
 347|4|ru|Йома: Посланцы царства тьмы
 10725|2|bg|Йон А - момичето на утринната свежест
 10725|2|ru|Йона на заре
@@ -63265,6 +63325,7 @@
 8350|2|uk|Яскравий час, коли плачуть цикади
 14482|4|ru|Ясукэ
 6047|2|ru|Ящик демонов
+5303|2|ka|იობი, ხუთკუდიანი მელა
 13891|4|he|אבודים בשיבויה
 5586|4|he|אביר ערפד
 6017|4|he|אביר ערפד עונה 2
@@ -63405,6 +63466,7 @@
 11950|4|he|ההתחלה :B
 143|4|he|הונטד ג`ונקשיון
 5222|4|he|החיים
+18654|4|he|החיים החדשים של סקמוטו
 715|2|he|החליפה המונעת גאנדם
 2382|4|he|החתולים הסמוראים
 331|4|he|הטירה בשמיים
@@ -63444,6 +63506,7 @@
 7|4|he|הנסיכה מונונוקי
 275|4|he|הנסיכה מעמק הרוחות
 8069|4|he|הנערה הקסומה מאדוקה מאגיקה
+18517|4|he|הערפד מבית המרחץ
 15811|4|he|הפלישה לגורדי השחקים
 13911|4|he|הפנימייה של ג`ולייט
 12654|4|he|הקאבאנרי של מצודת הברזל: קרב אונאטו
@@ -63508,6 +63571,7 @@
 312|4|he|יו יו האקושו
 5739|4|he|יו-גי-הו: המימד החמישי
 2761|4|he|יו-גי-הו!: הסרט
+5303|2|he|יובי, השועל עם חמש הזנבות
 15932|4|he|יומני ראגנארוק
 296|4|he|יושי הנסיכה הקסומה
 12712|4|he|ילדי הלוויתנים
@@ -63852,6 +63916,7 @@
 15033|4|ar|أيام أوراشيماساكاتاسين
 3191|2|ar|أيام الشتاء
 5117|2|ar|أيام المدرسة
+18654|4|ar|أيام ساكاموتو
 4746|4|ar|إبنة البحر
 8865|2|ar|إخوة الفضاء
 894|2|ar|إقرأ أو مت
@@ -63958,6 +64023,7 @@
 14819|2|ar|الخطايا السبع المميتة: سخط الآلهة الملكي
 15997|4|ar|الخطايا السبع المُميتة: لعنة الضوء
 13743|2|ar|الخلايا العاملة
+5303|2|ar|الخمسةيوبي، الثعلب ذو الذيول
 17026|4|ar|الخيالي
 979|2|ar|الخيميائي المعدني
 6107|2|ar|الخيميائي المعدني الكامل: الأخوة
@@ -64315,6 +64381,7 @@
 13657|2|ar|دراغون بول سوبر: برولي
 6399|4|ar|دراغون بول كاي
 10452|2|ar|دراغون بول كاي (2014)
+18238|4|ar|دراغون بول: الشر العظيم
 15321|4|ar|دراغون كويست مغامراة داي
 1827|4|ar|دروب ريمي
 888|4|ar|دروبي مع دوريمي
@@ -64848,6 +64915,7 @@
 13589|4|ar|مشرفة المسكن سونوهارا-سان
 16300|4|ar|مشكلة كومي
 12374|4|fa|مصاحبه با دختران هیولا
+18517|4|ar|مصاص الدماء رانمارو
 449|4|ar|مطر الذئاب
 333|2|ar|مطر الذكريات
 3406|4|ar|مطر من نار
@@ -65067,6 +65135,8 @@
 2766|4|ar|يوغي جي اكس
 1327|2|ar|يوميات ميدوري
 9484|4|fa|یک ریلگان علمی خاص اس
+5303|2|ur|یوبی، دی فائیو ٹیلڈ فاکس
+5303|2|fa|یوبی، روباه پنج دم
 4193|4|hi|अर्थसी की कहानियां
 12653|4|hi|इनुयाशिकी लास्ट हीरो
 15587|4|hi|ईयरविग ऐंड द विच
@@ -65098,12 +65168,14 @@
 6466|4|hi|मुझ से तुम तक: किमी नी तोदोके
 370|4|hi|मेरे पड़ोसी यमाडा
 17466|4|hi|मोनोनोके द मूवी: The Phantom in the Rain
+5303|2|hi|योबी, द फाइव टेल्ड फॉक्स
 9515|4|hi|राजकुमारी कगुया की कहानी
 275|4|hi|राजकुमारी नौसिका की जंग
 7|4|hi|राजकुमारी मोनोनोके
 5693|6|hi|रामायण: श्री राम कथा
 11223|4|hi|रेज ऑफ़ बहामट विर्जिन सोल
 13293|4|hi|वोटाकोई: लव इज़ हार्ड फ़ॉर ओटाकु
+18654|4|hi|साकामोतो डेज़
 10596|4|hi|सात खतरनाक पाप
 112|4|hi|स्पिरिटेड अवे
 9514|4|hi|हवा के संग-संग
@@ -65122,6 +65194,7 @@
 8895|4|ta|நற்தூதன்:3.0+1.01 முக்காலத்திலும்
 7565|4|ta|நற்தூதன்:3.33 நீ திரும்பச் செய்ய(முடியாது).
 13536|4|ta|பனானா பிஷ்
+5303|2|ta|யோபி, ஐந்து வால் நரி
 11223|4|ta|ரேஜ் ஆஃப் பஹாமத் விர்ஜின் ஸோல்
 12653|4|te|ఇనుయాషికి లాస్ట్ హీరో
 4847|4|te|ఎవాంజెలియోన్:1.11 నువ్వు ఒంటరి వాడివి (కాదు).
@@ -65132,8 +65205,10 @@
 12888|4|te|కిల్లింగ్ బైట్స్
 13734|4|te|గ్రాండ్ బ్లూ డ్రీమింగ్
 13536|4|te|బనాన ఫిష్‌
+5303|2|te|యోబి, ది ఫైవ్ టెయిల్డ్ ఫాక్స్
 11223|4|te|రేజ్ ఆఫ్ బహమట్ వర్జిన్ సోల్
 13293|4|te|వోటాకోయ్: లవ్ ఇస్ హార్డ్ ఫర్ ఓటాకు
+5303|2|si|යෝබි, වලිග පහේ නරියා
 13844|4|th|ก็บอกว่าขอแค่ค่าเฉลี่ยไงล่ะคะ
 4151|4|th|กระโดดจัมพ์ ทะลุข้ามเวลา
 18278|4|th|กล่องรักวัยใส
@@ -65260,6 +65335,7 @@
 231|4|th|ดราก้อนบอล
 1530|4|th|ดราก้อนบอล Z
 233|4|th|ดราก้อนบอล จีที
+18238|4|th|ดราก้อนบอล ไดมะ
 1141|4|th|ดราก้อนบอล มูฟวี่ 1 ตอน ตำนานเทพมังกร
 1954|4|th|ดราก้อนบอล มูฟวี่ 2 ตอน เจ้าหญิงนิทราแห่งปราสาทจอมมาร
 1142|4|th|ดราก้อนบอล มูฟวี่ 3 ตอน การผจญภัยสุดพิสดาร
@@ -65490,6 +65566,7 @@
 35|4|th|เลิฟฮินะ
 632|4|th|โลกิ ปริศนาแร็กนาร็อค
 17097|2|th|ไลโคริส รีคอยล์
+18517|4|th|วะ วะ วะ วะ แวมไพร์ กับ นาย เวอร์ จิ้ น
 336|4|th|วันนั้น...วันไหน หัวใจจะเป็นสีชมพู
 69|4|th|วันพีซ
 100|4|th|วัยรุ่น วุ่นรัก
@@ -66330,6 +66407,7 @@
 875|2|ko|드래곤 라이더
 623|2|ko|드래곤 핑크
 231|4|ko|드래곤볼
+18238|4|ko|드래곤볼 다이마
 1530|4|ko|드래곤볼Z
 11719|2|ko|드롭아웃
 6551|2|ko|드림 노트
@@ -66352,6 +66430,7 @@
 5587|4|ko|디트로이트 메탈 씨티
 1979|2|ko|딥 보이스
 9715|4|ko|따개비 루
+3067|2|ko|딸기 100%
 13164|2|ko|딸기 쇼콜라 맛
 8250|4|ko|떠돌이 까치
 8043|4|ko|떳다 그녀!!
@@ -66828,6 +66907,7 @@
 658|2|ko|배덕의 소녀
 4081|2|ko|배덕의 아내
 11997|4|ko|배를 엮다
+18517|4|ko|배뱀배뱀뱀뱀파이어
 12080|2|ko|배틀 걸 하이스쿨
 13619|4|ko|백 스트리트 걸스: 조폭 아이돌
 15341|4|ko|백 애로우
@@ -67184,6 +67264,7 @@
 2141|2|ko|속・연희
 2516|2|ko|속죄의 교실
 14924|4|ko|손끝에서부터 진심의 열정 -소꿉친구는 소방관-
+16016|2|ko|손끝에서부터 진심의 열정 2 -소꿉친구는 소방관-
 7677|2|ko|손끝의 안내인 애액천지의 접대
 7677|2|ko|손끝의 안내인 즙을 담아 접대 ~한 잔 더 주세요~
 13146|2|ko|손때투성이의 천사
@@ -68530,7 +68611,9 @@
 188|2|ko|쿨 디바이스
 188|4|ko|쿨 디바이스 시리즈
 8528|2|ko|퀸즈 블레이드
+11257|2|ko|퀸즈블레이드 그리모이어
 8737|2|ko|퀸즈블레이드 리벨리온
+7442|2|ko|퀸즈블레이드 아름다운 투사들
 6653|2|ko|퀸즈블레이드 왕좌의 계승자
 6080|2|ko|퀸즈블레이드 유랑의 전사
 4247|4|ko|큐빅스
@@ -77107,6 +77190,7 @@
 6239|4|zh-Hans|七鬼神
 17030|4|zh-Hans|七魔剑支配天下
 17030|2|zh-Hant|七魔劍支配天下
+18238|4|zh-Hant|七龍珠DAIMA
 11210|4|zh-Hant|七龍珠超
 13657|4|zh-Hant|七龍珠超 布羅利
 17140|4|zh-Hans|万事屋斋藤，到异世界
@@ -77352,6 +77436,7 @@
 2401|4|ja|世紀末★ダーリン
 7435|4|ja|世紀末オカルト学院
 3532|4|ja|世紀末リーダー外伝たけし!
+19123|4|ja|世紀末伝説 ワンダフル・タツノコランド
 386|2|ja|世紀末救世主伝説 北斗の拳
 984|4|ja|世紀末救世主伝説 北斗の拳2
 1400|2|ja|世紀末麗魔伝キメイラ
@@ -77541,6 +77626,7 @@
 14492|2|ja|五万匹
 12580|4|ja|五匹のこぶたとチャールストン
 14337|4|ja|五匹の子猿たち
+5303|2|zh|五尾狐
 3686|2|zh|五更龍寶寶
 14247|4|ja|五等分の花嫁
 18603|4|ja|五等分の花嫁＊
@@ -78284,7 +78370,9 @@
 9323|2|zh-Hans|全职猎人剧场版 绯色的幻影
 12560|4|zh-Hans|全职高手
 16589|4|zh-Hans|全职高手 第三季
+19122|2|zh-Hans|全职高手·荣耀小剧场
 14978|4|zh-Hans|全职高手2
+19122|4|zh-Hans|全职高手Q
 15035|4|zh-Hans|全职高手之巅峰荣耀
 13950|4|zh|全职高手特别篇
 12560|4|zh-Hant|全職高手
@@ -79277,6 +79365,7 @@
 570|4|ja|千年女優
 570|4|zh-Hant|千年女優
 764|4|zh-Hans|千年女王
+5303|2|ja|千年狐ヨウビ
 14411|4|zh-Hans|千枪士 OVA
 18811|4|ja|千歳くんはラムネ瓶のなか
 13250|4|zh-Hans|千绪的通学路
@@ -79715,6 +79804,7 @@
 15136|4|zh-Hans|听我的电波吧
 15136|3|zh-Hans|听着这电波
 18919|2|zh-Hans|吴承恩缉妖录
+18517|4|zh-Hant|吸吸吸吸吸血鬼
 8263|4|ja|吸尻鬼
 7446|4|zh-Hans|吸血丸
 8759|4|zh-Hans|吸血丸 2
@@ -79947,6 +80037,7 @@
 9069|4|ja|嘘喰い
 8679|4|zh-Hans|嘟嘟猫观察日记
 14868|4|zh-Hans|嘟当曼
+18517|4|zh-Hans|嘻嘻嘻嘻吸血鬼
 12745|4|zh-Hant|噗利噗利奇!!
 12745|4|zh-Hans|噗利噗利奇!!
 10271|4|zh-Hans|噗哔啵 来自未来
