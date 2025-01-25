@@ -1,4 +1,4 @@
-# created: Thu Jan 23 03:00:01 2025
+# created: Fri Jan 24 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3503,6 +3503,7 @@
 9514|4|pt|As Asas do Vento
 1105|2|es-GA|As aventuras de Fly
 3675|4|pt|As Aventuras de Huckleberry Finn
+3605|2|pt|As Aventuras de Pinóquio
 4727|4|pt|As Aventuras de Pipi
 2200|4|pt|As Aventuras de Robin
 3604|4|pt-BR|As aventuras de Shadow Boy
@@ -7729,7 +7730,6 @@
 674|2|pt|Cavaleiro de Dragões
 3982|2|pt|Cavaleiro de Dragões: Outro Cavaleiro na Cidade
 985|2|pt|Cavaleiro de Dragões: Roda do Tempo
-826|4|pt|Cavaleiros do Zodíaco
 11126|3|en|Cavalry
 1868|2|en|Cavern King
 8001|2|en|Cavity Express
@@ -37343,6 +37343,7 @@
 4260|4|pt|O Ursinho Misha
 14803|2|pt|O Vampiro
 162|2|pt|O Xerife do Espaço
+2863|6|pt|O Zorro
 1920|4|el|O Βασιλιάς Αρθούρος
 844|4|el|O Θρύλος της Lemnear
 4217|2|x-jat|O-bake no... Holly
@@ -38459,6 +38460,7 @@
 162|4|pt|Os Cavaleiros das Estrelas
 3511|4|pt|Os Cavaleiros de Mon Colle
 826|4|pt-BR|Os Cavaleiros do Zodíaco
+826|4|pt|Os Cavaleiros do Zodíaco
 1886|4|pt|Os Cavaleiros do Zodíaco - A Batalha dos Deuses
 1884|4|pt|Os Cavaleiros do Zodíaco - A Lenda da Maçã de Ouro
 3705|4|pt-BR|Os Cavaleiros do Zodíaco - Hades: A Saga do Inferno
@@ -39841,9 +39843,8 @@
 3605|4|pl|Pinokio
 3605|2|tr|Pinokyo
 2709|2|tr|Pinokyo`nun Maceraları
-3605|4|pt|Pinóquio
 3605|4|pt-BR|Pinóquio
-2709|4|pt|Pinóquio (1976)
+2709|4|pt|Pinóquio
 333|4|it|Pioggia di ricordi
 18288|2|en|Pioneer Log of the Storied Hot Springs "Alternate World`s Springs"
 18288|2|en|Pioneer Log of the Storied Hot Springs "Alternate World`s Springs": The Reincarnation Destination of an Onsen Fan (Who`s Around 40) Was a Relaxing Hot Spring Paradise
@@ -43089,6 +43090,7 @@
 14493|4|zh-Hans|RobiHachi
 96|3|x-jat|Robin
 1060|2|pt-BR|Robin da Floresta
+1060|6|pt|Robin dos Bosques
 1060|4|nl|Robin Hood
 1060|4|pl|Robin Hood
 1060|2|es|Robin Hood
@@ -57370,6 +57372,7 @@
 5303|2|fi|Yobi viisihäntäinen kettu
 5303|2|el|Yobi η αλεπού με πέντε ουρά
 5303|2|pt-BR|Yobi, a raposa de cinco caudas
+5303|2|tl|Yobi, Ang Limang Tailed Fox
 5303|2|hu|Yobi, az ötfarkú róka
 5303|2|es-PV|Yobi, Bost buztan azeria
 5303|2|nl|Yobi, de vijfstaartvos
@@ -57377,6 +57380,7 @@
 5303|2|de|Yobi, der fünfschwänzige Fuchs
 5303|2|al|Yobi, Dhelpra me pesë bishta
 5303|2|af|Yobi, die Vyfstertvos
+5303|2|is|Yobi, fimmhala refurinn
 5303|2|ht|Yobi, Fox a senk ke
 5303|2|es-CA|Yobi, la guineu de cinc cues
 5303|2|eo|Yobi, La Kvinvosta Vulpo
@@ -65181,6 +65185,7 @@
 9514|4|hi|हवा के संग-संग
 331|4|hi|हवाई किला
 1218|4|hi|हाउल का चलता-फिरता महल
+5303|2|bd|ইয়োবি, দ্য ফাইভ টেইল্ড ফক্স
 69|4|bd|ওয়ান পিস্
 4880|2|bd|নারূতঃ সিপ্পুডেন
 12653|4|ta|இனியஷிகி லாஸ்ட் ஹீரோ
