@@ -1,4 +1,4 @@
-# created: Fri Jan 24 03:00:02 2025
+# created: Sat Jan 25 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -9107,6 +9107,7 @@
 11343|4|fr|Concrete Revolutio
 11343|1|x-jat|Concrete Revolutio: Choujin Gensou
 11836|1|x-jat|Concrete Revolutio: Choujin Gensou - The Last Song
+11343|2|pl|Concrete Revolutio: Nadludzka Fantasmagoria
 11343|4|en|Concrete Revolutio: Superhuman Phantasmagoria
 11836|4|en|Concrete Revolutio: Superhuman Phantasmagoria - The Last Song
 11836|4|fr|Concrete Revolutio: The Last Song
@@ -14464,6 +14465,7 @@
 2777|4|en|Eternal Family
 5943|2|en|Eternal Filena
 8184|2|en|Eternal Quon
+19109|2|en|Eternal Sword Ancestor
 15630|4|zh-Hans|Eternity ～深夜的濡恋频道♡～
 17591|4|ja|ETERNITY MEMORIES
 17591|1|x-jat|Eternity Memories
@@ -18246,6 +18248,7 @@
 1168|2|x-jat|Glo*ri*a
 4887|1|x-jat|Global Astroliner Gou
 4887|4|en|Global Astroliner Gou
+19129|2|en|Global Martial Arts
 231|2|ro|Globurile Dragonului
 2237|2|en|Gloizer X
 2237|2|id|Gloizer X
@@ -19280,7 +19283,6 @@
 10708|2|x-jat|Gundam: Gundam-san
 908|2|x-jat|Gundam: Gundam-W: Endless Waltz
 720|3|x-jat|Gundam: Gyakushuu no Char
-15506|2|x-jat|Gundam: Hikaru Inochi Chronicle U.C.
 915|2|x-jat|Gundam: Kidou Butouden G Gundam
 5252|2|x-jat|Gundam: Kidou Senshi Gundam 00
 5903|2|x-jat|Gundam: Kidou Senshi Gundam 00 (2008)
@@ -21562,6 +21564,7 @@
 14253|3|x-jat|hizaue
 12710|1|x-jat|Hizukuri
 336|2|da|Hjertets hvisken
+12504|2|x-zht|HJH Bu Liang Ren S2
 1983|3|en|HJT
 33|3|x-jat|HL
 835|3|x-jat|HLA
@@ -22298,6 +22301,8 @@
 8550|4|ja|HUNTERxHUNTER (2011)
 11530|2|en|Hunts x Trash
 18011|2|x-zht|Huo Feng Liao Yuan
+19127|1|x-zht|Huo Feng Liao Yuan 2
+19127|2|x-zht|Huo Feng Liao Yuan 2nd Season
 16726|1|x-zht|Huoli Shaonian Wang 3
 15184|1|x-zht|Huoli Shaonian Wang: You Quan Yingxiong
 18233|1|x-zht|Huoli Shaonian Wang: You Quan Yingxiong 2
@@ -24649,6 +24654,9 @@
 16099|2|x-zht|Jue Ji 2: Lengxue Kuang Yan
 15361|1|x-zht|Jue Ming Xiang Ying
 17669|1|x-zht|Juedai Shuang Jiao
+19125|2|x-zht|Juedai Shuang Jiao Special
+19125|2|x-zht|Juedai Shuang Jiao Tebie Pian
+19125|1|x-zht|Juedai Shuang Jiao: Tian Wai You Tian
 16610|2|x-zht|Jueding
 11983|4|es-419|Juego de "La Garra" para niñas
 1205|2|es|Juego de Enfermeras
@@ -27931,6 +27939,7 @@
 18010|2|x-jat|Kunoichi Ryoujokuden Ajisai
 8114|1|x-jat|Kunoichi Sakuya
 16966|1|x-jat|Kunoichi Tsubaki no Mune no Uchi
+19131|2|en|Kunon the Sorcerer Can See
 15851|4|id|Kupunya Dia dan Dirinya
 17628|4|id|Kupunya Dia dan Dirinya musim 2
 6746|1|x-jat|Kupuu!! Mamegoma!
@@ -29134,6 +29143,7 @@
 17772|2|x-jat|Lee Tantei Jimusho
 17772|4|en|Lee`s Detective Agency: A Day in Lungmen
 1161|2|en|Leechers Army Merowlink
+18045|4|en|Left-Hand Layup!
 4207|2|en|Legacy of Aru Kararu
 14399|2|fr|Légalité du viol
 13814|2|en|Legend of a Rabbit
@@ -29246,6 +29256,7 @@
 2382|2|en|Legendary Ninja Cats
 14372|2|en|Legendary Soccer Kid
 17669|4|en|Legendary Twins
+19125|2|en|Legendary Twins Special
 4193|4|da|Legenden om Jordhavet
 4193|4|sv|Legender Från Övärlden
 5802|4|en|Legends of the Dark King: A Fist of the North Star Story
@@ -29916,6 +29927,7 @@
 18446|4|en|Lord of All Lords
 19041|2|en|Lord of All Realms
 19041|2|en|Lord of All Worlds
+19128|2|en|Lord of Destiny
 2725|2|en|Lord of Elementals Cybaster
 616|2|en|Lord of Lords Adeu`s Legend OVA
 542|2|en|Lord of Lords Ryu Knight
@@ -31753,6 +31765,7 @@
 18453|2|en|Majority Rule
 15202|3|x-jat|Majotabi
 286|3|x-jat|majotaku
+19131|1|x-jat|Majutsushi Kunon wa Miete Iru
 538|1|x-jat|Majutsushi Orphen
 13964|1|x-jat|Majutsushi Orphen Hagure Tabi
 15482|2|x-jat|Majutsushi Orphen Hagure Tabi Season 2
@@ -32263,6 +32276,8 @@
 15687|2|en|Martial Universe 2nd Season
 16580|2|en|Martial Universe 3rd Season
 17818|2|en|Martial Universe 4th Season
+19126|2|en|Martial Universe 5
+19126|2|en|Martial Universe 5th Season
 180|4|fr|Martian Successor Nadesico
 180|4|en|Martian Successor Nadesico
 180|4|pt-BR|Martian Successor Nadesico
@@ -39844,7 +39859,8 @@
 3605|2|tr|Pinokyo
 2709|2|tr|Pinokyo`nun Maceraları
 3605|4|pt-BR|Pinóquio
-2709|4|pt|Pinóquio
+3605|4|pt|Pinóquio
+2709|4|pt|Pinóquio (1976)
 333|4|it|Pioggia di ricordi
 18288|2|en|Pioneer Log of the Storied Hot Springs "Alternate World`s Springs"
 18288|2|en|Pioneer Log of the Storied Hot Springs "Alternate World`s Springs": The Reincarnation Destination of an Onsen Fan (Who`s Around 40) Was a Relaxing Hot Spring Paradise
@@ -41819,6 +41835,7 @@
 3606|4|it|Quando vivevano i dinosauri
 13729|1|x-zht|Quanhuang Juexing
 13005|2|x-zht|Quanhuang Mingyun
+19129|1|x-zht|Quanqiu Gao Wu
 12799|1|x-jat|Quantum Leap
 12799|4|ja|Quantum Leap
 13171|1|x-zht|Quanzhi Fashi
@@ -42465,6 +42482,7 @@
 15014|1|x-jat|Rebirth
 15014|2|en|Rebirth for You
 4076|1|x-jat|Rebirth Moon Divergence
+19109|4|en|Rebirth of the Sword Patriarch
 4295|1|x-jat|Rebiya
 4747|3|x-jat|Reborn
 17557|4|en|Reborn as a Vending Machine, I Now Wander the Dungeon
@@ -44708,6 +44726,7 @@
 5117|4|fr|School Days
 5117|1|x-jat|School Days
 5117|4|en|School Days
+5117|4|es-419|School Days
 5685|4|ja|School Days &lt;Valentine Days&gt;
 5536|4|ja|School Days ~マジカルハート☆こころちゃん~
 5536|1|x-jat|School Days: Magical Heart Kokoro-chan
@@ -50872,6 +50891,7 @@
 14860|2|en|The Demonic King Who Chases His Wife
 15926|2|en|The Demonic King Who Chases His Wife 2
 16989|2|en|The Demonic King Who Chases His Wife 3
+19128|4|en|The Destiny Ruler
 15998|4|en|The Detective Is Already Dead
 17527|4|en|The Detective Is Already Dead Season 2
 12880|2|en|The Development of the Train
@@ -51745,6 +51765,7 @@
 4878|1|x-jat|The Rapeman Anime Version
 18011|1|x-zht|The Ravages of Time
 18011|2|en|The Ravages of Time
+19127|4|en|The Ravages of Time 2
 14527|2|en|The Reason Why My Wife Got Prettier
 17498|2|en|The Reason Why Raeliana Ended Up at the Duke`s Mansion
 6786|2|en|The Rebirth of Buddha
@@ -52459,6 +52480,7 @@
 15370|2|x-zht|Tian Yu 2nd Season: Cang Gu Zhi Ban
 15370|2|x-zht|Tian Yu: Cang Gu Zhi Ban
 16312|2|x-zht|Tianbao Fu Yao Lu (2021)
+19128|1|x-zht|Tianming Da Zhuzai
 15844|1|x-zht|Tiantian Chengzhang Ji
 15845|1|x-zht|Tiantian Chengzhang Ji 2
 18692|1|x-zht|Tianting Ban Zhuan Xia
@@ -56445,6 +56467,7 @@
 15647|4|en|World Witches Take Off!
 15647|2|en|World Witches: Take Off!
 17229|4|en|World, Before You End
+19129|4|en|World`s Best Martial Artist
 9259|4|en|World`s End
 15561|4|en|World`s End Harem
 15561|4|de|World`s End Harem
@@ -56491,11 +56514,14 @@
 12700|3|x-jat|wttb
 18919|2|x-zht|Wu Chengen Ji Yao Lu
 18919|2|en|Wu Chengen`s Demon Recording
+19126|2|x-zht|Wu Dong Qian Kun 5th Season
 14649|1|x-zht|Wu Dong Qiankun
 16580|1|x-zht|Wu Dong Qiankun (2021)
+19126|2|x-zht|Wu Dong Qiankun 5
 15687|1|x-zht|Wu Dong Qiankun Di Er Ji
 16580|2|x-zht|Wu Dong Qiankun Di San Ji
 17818|1|x-zht|Wu Dong Qiankun Di Si Ji
+19126|1|x-zht|Wu Dong Qiankun Di Wu Ji
 14050|1|x-zht|Wu Geng Ji
 16498|1|x-zht|Wu Geng Ji (2021)
 17970|1|x-zht|Wu Geng Ji (2023)
@@ -57483,7 +57509,7 @@
 18674|1|x-zht|Yong Zhe Da Maoxian 2
 16653|1|x-zht|Yong Zhe Donghua Xilie
 16651|1|x-zht|Yong Zhi Cheng
-19109|1|en|Yongheng Jian Zu
+19109|1|x-zht|Yongheng Jian Zu
 9681|1|x-jat|Yonhyakunijuu Renpai Girl
 10084|1|x-jat|Yonimo Kimyou na Man Gatarou
 8747|1|x-jat|Yonimo Osoroshii Grimm Douwa
@@ -58724,8 +58750,9 @@
 2985|4|it|Zum il delfino bianco
 9100|1|x-jat|Zumomo to Nupepe
 12156|1|x-jat|Zunda Horizon
-18045|1|x-zht|Zuo Shou Shang Lan
 14524|1|x-zht|Zuori Qing Kong
+18045|1|x-zht|Zuoshou Shanglan
+19130|1|x-zht|Zuoshou Shanglan 2
 18781|1|x-jat|Zutaboro Reijou wa Ane no Moto Kon`yakusha ni Dekiai Sareru
 18781|2|x-jat|Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru
 11376|1|x-jat|Zutto Mae kara Suki Deshita. Kokuhaku Jikkouiinkai
@@ -67839,6 +67866,7 @@
 15274|2|ko|오버플로우
 14975|4|ko|오빠 아침까지 계속 꽉 안아줘!
 14975|2|x-unk|오빠, 아침까지 계속 꼬옥 안아줘!
+19055|2|ko|오빠... 혼자세요?
 17328|4|ko|오빠는 끝!
 14098|4|ko|오빠를 치료할 약은 없다
 10508|2|ko|오샤부리 아나운서
@@ -78358,6 +78386,7 @@
 15437|4|zh-Hans|全员恶玉
 15437|4|zh-Hant|全員惡玉
 9183|2|ja|全物語
+19129|4|zh-Hans|全球高武
 18741|4|ja|全知的な読者の視点から
 14574|4|zh-Hans|全缉毒狂潮
 13171|4|zh-Hant|全职法师
@@ -80766,6 +80795,7 @@
 6609|4|ja|天元突破グレンラガン キラメキ☆ヨーコBOX~Pieces of sweet stars~
 14858|4|zh-Hans|天华百剑 ～欢迎来到铭治馆！～
 16757|4|zh-Hans|天启日
+19128|4|zh-Hans|天命大主宰
 17671|4|ja|天国大魔境
 17671|4|zh-Hans|天国大魔境
 6329|2|zh-Hans|天国少女
@@ -82088,6 +82118,7 @@
 17751|4|ja|左ききのエレン
 5255|4|ja|左のオクロック!!
 18045|4|zh-Hans|左手上篮
+19130|4|zh-Hans|左手上篮2
 14110|4|ja|巨乳J○がオジさんチ○ポとじゅぽじゅぽいやらしいセックスしてます.
 14110|2|ja|巨乳JKがオジさんチンポとじゅぽじゅぽいやらしいセックスしてます.
 16914|4|ja|巨乳エルフ母娘催眠
@@ -83132,6 +83163,7 @@
 9522|4|zh-Hans|我的妹妹是「大阪大妈」
 18518|2|zh-Hans|我的妻子不具感情
 18518|4|zh-Hans|我的妻子没有感情
+18205|4|zh-Hans|我的幸福婚姻 第二季
 17304|4|zh-Hant|我的幸福婚約
 17304|4|zh-Hans|我的幸福婚约
 17308|4|zh-Hans|我的异界之旅
@@ -83259,6 +83291,7 @@
 17215|4|zh|战神狂妃：凤倾天下
 15413|4|zh-Hans|战翼的希格德莉法
 17703|4|zh-Hans|战队大失格
+18809|4|zh-Hans|战队红战士在异世界当冒险者
 11653|4|zh|战龙四驱
 1246|4|ja|戦-少女[イクサーガール]イクセリオン
 1246|2|ja|戦-少女イクセリオン
@@ -83449,6 +83482,7 @@
 10981|4|zh-Hans|排球少年 第二季
 10145|4|zh-Hans|排球少年!!
 11991|4|zh-Hans|排球少年!! 乌野高中 VS 白鸟泽学园高中
+11040|4|zh-Hans|排球少年！！垃圾场决战
 14552|4|zh-Hant|排球少年！！第四季
 15283|4|zh-Hant|排球少年！！第四季 Part 2
 13826|4|zh-Hans|掠夺者
@@ -83983,6 +84017,7 @@
 16397|4|zh-Hans|无上神帝 第二季
 926|2|zh-Hans|无人岛物语
 17767|4|zh-Hans|无名记忆
+18713|4|zh-Hans|无名记忆 第二季
 6671|2|zh-Hans|无头骑士异闻录
 6671|4|zh-Hans|无头骑士异闻录 DuRaRaRa!!
 10523|4|zh-Hans|无头骑士异闻录 DuRaRaRa!!×2 承
@@ -85322,6 +85357,7 @@
 16580|4|zh-Hans|武动乾坤 (2021)
 16580|2|zh-Hans|武动乾坤 第三季
 15687|4|zh-Hans|武动乾坤 第二季
+19126|4|zh-Hans|武动乾坤 第五季
 17818|4|zh-Hans|武动乾坤 第四季
 2183|2|zh-Hans|武器种族传说
 9967|4|zh-Hans|武士弗拉明戈
@@ -85657,6 +85693,7 @@
 5863|4|ja|浦島太郎
 6710|4|ja|浦島太郎 (1931)
 90|2|zh-Hans|浪客剑心
+18323|4|zh-Hans|浪客剑心 -明治剑客浪漫谭- 京都动乱
 195|4|zh-Hans|浪客剑心 星霜篇
 422|2|zh-Hans|浪客剑心 给维新志士的镇魂歌
 73|4|zh-Hans|浪客剑心 追忆篇
@@ -85961,6 +85998,7 @@
 17743|4|zh-Hans|火之鸟：伊甸17
 18243|4|ja|火事と子馬
 18011|4|zh-Hans|火凤燎原
+19127|4|zh-Hans|火凤燎原 第二季
 16726|4|zh-Hans|火力少年王3
 15184|4|zh-Hans|火力少年王之悠拳英雄
 18233|4|zh-Hans|火力少年王之悠拳英雄 2
@@ -87999,6 +88037,7 @@
 11815|4|zh-Hans|红壳的潘多拉
 14376|2|zh-Hans|红小豆的工作日常
 16660|4|zh-Hans|红影一脉之一大文物背后的故事
+18809|2|zh-Hans|红战士转职冒险者
 306|4|zh-Hans|红猪
 6529|2|zh-Hans|红线
 11103|4|zh-Hans|红美与郁金香
@@ -88086,6 +88125,8 @@
 18604|4|zh-Hans|绝世战魂
 16612|4|zh-Hans|绝世武魂
 17669|4|zh-Hans|绝代双骄
+19125|2|zh-Hans|绝代双骄 天外有天
+19125|4|zh-Hans|绝代双骄之天外有天
 10818|4|zh-Hans|绝命制裁X
 15361|4|zh-Hans|绝命响应
 9214|4|zh-Hans|绝园的暴风雨
@@ -91596,6 +91637,7 @@
 17644|4|ja|魔術士オーフェンはぐれ旅 アーバンラマ編
 15482|4|ja|魔術士オーフェンはぐれ旅 キムラック編
 17912|4|ja|魔術士オーフェンはぐれ旅 聖域編
+19131|4|ja|魔術師クノンは見えている
 18382|4|zh-Hans|魔装传说
 11638|4|zh-Hans|魔装学园HxH
 11638|4|ja|魔装学園HxH
