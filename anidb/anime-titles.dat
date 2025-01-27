@@ -1,4 +1,4 @@
-# created: Sat Jan 25 03:00:01 2025
+# created: Sun Jan 26 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -993,6 +993,7 @@
 17033|2|en|A Mortal`s Journey to Immortality Season 1 Part 2
 17004|2|en|A Mortal`s Journey to Immortality Season 2
 18332|2|en|A Mortal`s Journey to Immortality Season 3
+19121|2|en|A Mortal`s Journey to Immortality Season 4
 16039|2|en|A Mortal`s Journey to Immortality Special: The Battle of Yanjiabao
 17004|2|en|A Mortal`s Journey to Immortality: The Battle of the Demonic Path
 18265|2|en|A Mortal`s Journey to Immortality: The Starry Sea - Prologue
@@ -1035,6 +1036,7 @@
 15425|2|en|A Record of a Mortal`s Journey to Immortality
 17004|2|en|A Record of a Mortal`s Journey to Immortality Season 2
 18332|2|en|A Record of a Mortal`s Journey to Immortality Season 3
+19121|2|en|A Record of Mortal`s Journey to Immortality Season 4
 18265|2|en|A Record of Mortal`s Journey to Immortality: Speeding in the Sea of Stars
 17944|4|en|A Returner`s Magic Should Be Special
 18345|2|en|A Returner`s Magic Should Be Special 2
@@ -2948,6 +2950,9 @@
 5568|2|en|Anyway It Doesn`t Matter
 18506|4|en|Anyway, I`m Falling in Love with You.
 12194|1|x-jat|Anzu-chan
+18502|4|fr|Anzu, chat-fantôme
+18502|4|es|Anzu, gato fantasma
+18502|4|pl|Anzu. Kot-duch
 16358|1|x-jat|Ao Ashi
 826|2|vi|Áo Giáp Vàng
 10385|1|x-jat|Ao Haru Ride
@@ -9108,6 +9113,7 @@
 11343|1|x-jat|Concrete Revolutio: Choujin Gensou
 11836|1|x-jat|Concrete Revolutio: Choujin Gensou - The Last Song
 11343|2|pl|Concrete Revolutio: Nadludzka Fantasmagoria
+11836|2|pl|Concrete Revolutio: Nadludzka Fantasmagoria - The Last Song
 11343|4|en|Concrete Revolutio: Superhuman Phantasmagoria
 11836|4|en|Concrete Revolutio: Superhuman Phantasmagoria - The Last Song
 11836|4|fr|Concrete Revolutio: The Last Song
@@ -14014,6 +14020,7 @@
 3081|4|es|El Super Libro
 1981|4|es|El taxi del sexo
 14534|4|es-CA|El temps amb tu
+17753|4|es-CA|El teu color
 14534|4|es|El tiempo contigo
 14990|4|es|El timador timado
 17040|4|es|El Túnel de los Deseos
@@ -14961,6 +14968,7 @@
 15583|2|x-zht|Fangkai Nage Nuwu
 18594|1|x-zht|Fanpai Chushihua
 15425|2|x-zht|Fanren Xiu Xian Chuan
+19121|2|x-zht|Fanren Xiu Xian Chuan 4th Season
 16039|2|zh-Hans|Fanren Xiu Xian Chuan SP
 16039|1|x-zht|Fanren Xiu Xian Chuan Tebie Pian
 16039|2|x-zht|Fanren Xiu Xian Chuan Tebie Pian: Yan Jia Bao Dazhan
@@ -17697,6 +17705,7 @@
 15890|4|ja|GHOST
 15890|1|x-jat|Ghost
 18502|4|en|Ghost Cat Anzu
+18502|4|de|Ghost Cat Anzu
 312|4|tl|Ghost Fighter
 5127|4|es|Ghost Hound
 5127|2|x-jat|Ghost Hound
@@ -50656,6 +50665,7 @@
 17870|4|en|The Apothecary Diaries
 18562|4|en|The Apothecary Diaries (2025)
 18562|2|en|The Apothecary Diaries S2
+18562|2|en|The Apothecary Diaries Season 2
 16809|4|en|The Apple and the Girl
 15987|4|en|The Aquatope on White Sand
 785|2|en|The Arabian Nights: Adventures of Sinbad
@@ -60756,6 +60766,7 @@
 11104|2|ru|Кости под ногами Сакурако
 2210|4|ru|Кот в сапогах
 2216|4|ru|Кот в сапогах на Диком Западе
+18502|4|ru|Кот-призрак Андзу
 16795|4|ru|Котаро живет один
 16795|4|uk|Котаро, що живе сам
 679|2|bg|Котката се завръща
@@ -63400,6 +63411,7 @@
 6107|4|he|אלכימאי המתכת: אחווה
 2199|4|he|אלקאזם הגדול
 8181|4|he|אנוהאנה הפרח שראינו ביום הזה
+18502|4|he|אנזו חתול הרפאים
 4441|2|he|אנחנו היינו שם
 8181|2|he|אנחנו עדיין לא יודעים את השם של הפרח שראינו באותו היום
 517|4|he|אנימטריקס
@@ -64123,6 +64135,7 @@
 8160|2|ar|القدر/زيرو
 4260|4|ar|القرية الأليفة
 1341|4|ar|القط الأسود
+18502|4|ar|القط الشبح أنزو
 132|4|ar|القناص
 8550|4|ar|القناص (2011)
 4261|4|ar|الكابتن رابح
@@ -65501,6 +65514,7 @@
 8160|4|th|เฟทซีโร่ ปฐมบทสงครามจอกศักดิ์สิทธิ์
 1208|4|th|ไฟน่อล แฟนตาซี 7: สงครามเทพจุติ
 3146|4|th|ไฟนอล แฟนตาซี: เดอะ สปิริท วิทธิน
+18502|4|th|ภูตเหมียวอันซุ
 3185|4|th|มนุษย์เกราะชีวะ
 1413|4|th|มหัศจรรย์สาวน้อย พริตตี้เคียว
 2765|4|th|มหัศจรรย์สาวน้อย พริตตี้เคียว แมกซ์ฮาร์ท
@@ -65852,6 +65866,7 @@
 17990|4|ko|고수
 8772|4|ko|고스트 메신저
 13857|4|ko|고스트 메신저 극장판
+18502|4|ko|고스트캣 앙주
 9453|2|ko|고양이 이야기 (흑)
 679|4|ko|고양이의 보은
 16233|4|ko|고우영의 삼국지
@@ -78011,6 +78026,7 @@
 14084|4|ja|何色の何
 12073|4|zh-Hant|佛典故事
 12896|4|zh|佛教動畫-大勢至菩薩念佛圓通章
+18502|4|zh-Hant|佛系貓物語
 15216|4|zh-Hans|你与我最后的战场，亦或是世界起始的圣战
 16828|2|zh-Hans|你与我最后的战场，亦或是世界起始的圣战 第二季
 17984|4|zh-Hans|你们还真就结婚啦？
@@ -78712,6 +78728,7 @@
 19121|4|zh-Hans|凡人修仙传 第四季
 15425|4|zh-Hans|凡人修仙传 风起天南
 17004|4|zh-Hans|凡人修仙传 魔道争锋
+19121|2|zh-Hans|凡人修仙传：外海风云
 17033|4|zh-Hans|凡人修仙传之 风起天南 贰
 16039|4|zh-Hans|凡人修仙传特别篇: 燕家堡之战
 181|4|zh-Hans|凡尔赛玫瑰
