@@ -1,4 +1,4 @@
-# created: Sun Jan 26 03:00:01 2025
+# created: Mon Jan 27 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6102,6 +6102,7 @@
 18735|4|de|Blue Exorcist -The Blue Night Saga-
 17786|2|en|Blue Exorcist Season 3
 18561|2|en|Blue Exorcist Season 4
+18735|2|en|Blue Exorcist Season 5
 18561|4|en|Blue Exorcist: Beyond the Snow Saga
 12240|4|en|Blue Exorcist: Kyoto Saga
 12574|2|en|Blue Exorcist: Kyoto Saga OVA
@@ -7681,7 +7682,7 @@
 4710|2|en|Cat Eyed Boy
 610|2|en|Cat Girl Nuku Nuku DASH!
 526|3|en|Cat Girl Nuku Nuku TV
-8117|2|en|Cat God
+19132|4|en|Cat God
 2382|1|x-jat|Cat Ninden Teyandee
 7400|4|en|Cat Planet Cuties
 8505|4|en|Cat Planet Cuties OVA
@@ -10753,6 +10754,7 @@
 1162|4|en|Demon Beast Resurrection
 1130|2|en|Demon Best Battle Line Adventure Kid
 11327|1|x-jat|Demon Busters: Ecchi na Ecchi na Demon Taiji The Animation
+19133|2|en|Demon Chef of Folk Tales
 1023|4|en|Demon City Shinjuku
 1023|4|de|Demon City Shinjuku
 1023|4|fr|Demon City Shinjuku
@@ -15352,6 +15354,8 @@
 16711|1|x-zht|Feng Shu Zhan Jing 2
 13445|1|x-zht|Feng Wei Ying Xiong
 14431|1|x-zht|Feng Yu Zhou
+19133|2|en|Fengwu Demon Chef
+19133|1|x-zht|Fengwu Yao Chu
 16886|1|x-zht|Fengyu Lang Qiao
 18645|1|x-zht|Fengyun Bian
 6278|1|x-zht|Fengyun Jue: Storm Rider - Clash of Evils
@@ -18877,6 +18881,8 @@
 17032|2|en|Great Journey of Teenagers 2nd Season Part 2
 17505|2|en|Great Journey of Teenagers 2nd Season Special
 18348|2|en|Great Journey of Teenagers 3rd Season
+19100|2|en|Great Journey of Teenagers 4
+19100|2|en|Great Journey of Teenagers 4th Season
 13627|2|en|Great King of the Grave: Secrets of the Qilin
 15937|4|en|Great King of the Tomb: Battle at Ghost Capital
 956|1|x-jat|Great Mazinger
@@ -29246,6 +29252,7 @@
 1861|2|en|Legend of the White Snake
 1722|4|en|Legend of the Wolf Woman
 18356|2|en|Legend of Xianwu
+18357|2|en|Legend of Xianwu 2
 18357|2|en|Legend of Xianwu 2nd Season
 558|2|en|Legend of Zenki
 2694|4|pl|Legenda DUO
@@ -32072,6 +32079,7 @@
 444|3|x-jat|mao
 731|4|it|Mao Dante
 16645|1|x-zht|Mao Ling Xiangce
+19132|1|x-zht|Mao Xing Dongfang
 14919|1|x-zht|Mao Yao De Youhuo
 14466|1|x-zht|Mao Yu Tao Hua Yuan
 16775|1|x-zht|Mao Zhi Ming
@@ -45790,7 +45798,9 @@
 15466|1|x-zht|Shaonian Ge Xing
 16636|2|x-zht|Shaonian Ge Xing 2nd Season
 18348|2|en|Shaonian Ge Xing 3rd Season
+19100|2|x-zht|Shaonian Ge Xing 4
 19100|2|en|Shaonian Ge Xing 4th Season
+19100|2|x-zht|Shaonian Ge Xing Di Si Ji
 18383|2|x-zht|Shaonian Ge Xing: Anhe Chuan
 18383|1|x-zht|Shaonian Ge Xing: Anhe Zhuan
 18763|1|x-zht|Shaonian Ge Xing: Anhe Zhuan (2024)
@@ -51514,6 +51524,7 @@
 1015|2|en|The Lunar Chronicle
 5225|2|en|The Lunch Box
 13596|2|en|The Magic and Fantasy of the Holy Deed
+19133|2|en|The Magic Chef
 17332|2|en|The Magic Chef of Ice and Fire
 18373|2|en|The Magic Chef of Ice and Fire 2nd Season
 1893|2|en|The Magic Mirror
@@ -56734,6 +56745,7 @@
 18682|1|x-zht|Xian Wu Cangqiong
 18356|1|x-zht|Xian Wu Chuan
 18357|1|x-zht|Xian Wu Chuan 2
+18357|2|x-zht|Xian Wu Chuan 2nd Season
 18357|2|x-zht|Xian Wu Chuan Di Er Ji
 13442|1|x-zht|Xiang Ling Ji
 4856|2|en|Xiangqi Master
@@ -57750,6 +57762,7 @@
 17032|2|en|Youths and Golden Coffin 2
 16636|2|en|Youths and Golden Coffin 2 Part 1
 18348|2|en|Youths and Golden Coffin 3
+19100|2|en|Youths and Golden Coffin 4
 11558|2|en|YouTube Space Tokyo
 17923|1|x-jat|YouTuNya
 17923|4|zh-Hans|YouTu喵
@@ -58401,6 +58414,7 @@
 15953|1|x-jat|Zenryoku Yobikou 5.5 Seminar
 13545|4|lv|Zēns un gārnis
 18547|4|en|Zenshu
+18547|2|x-unk|zenshuu
 18547|1|x-jat|Zenshuu.
 1799|4|de|Zentrix
 1799|4|zh-Hans|Zentrix
@@ -81989,6 +82003,7 @@
 18348|4|zh-Hans|少年歌行 海外仙山篇
 18348|2|zh-Hans|少年歌行 第三季
 16636|2|zh-Hans|少年歌行 第二季 上部
+19100|2|zh-Hans|少年歌行 第四季
 19100|4|zh-Hans|少年歌行 血染天启篇
 16636|4|zh-Hans|少年歌行 风花雪月篇
 17032|4|zh-Hans|少年歌行 风花雪月篇 (2022)
@@ -86646,6 +86661,7 @@
 8932|4|ja|猫神やおよろず お花見ゴーストバスターズ
 8117|4|zh-Hans|猫神八百万
 8932|4|zh-Hans|猫神八百万OVA
+19132|4|zh-Hans|猫行东方
 9909|4|ja|猥褻ミサイル THE ANIMATION
 9888|4|zh-Hans|献给某飞行员的恋歌
 12556|4|zh-Hans|猴子捞月
@@ -91015,6 +91031,7 @@
 13447|4|zh-Hans|风灵玉秀
 18159|4|zh-Hans|风灵玉秀 第二章
 18807|4|zh-Hans|风灵玉秀 第二章 特别篇
+19133|4|zh-Hans|风物妖厨
 314|2|zh|风筝
 314|4|zh-Hans|风筝
 6201|4|zh-Hans|风筝的妈妈
