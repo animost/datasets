@@ -1,4 +1,4 @@
-# created: Mon Jan 27 03:00:02 2025
+# created: Tue Jan 28 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -281,6 +281,7 @@
 8766|1|x-jat|100 Byou Cinema: Robo to Shoujo (Kari)
 17906|2|en|100 Girlfriends
 18343|2|en|100 Girlfriends 2
+18343|2|en|100 Girlfriends Season 2
 1001|2|lt|100 Istorijų
 17906|2|x-jat|100 Kanojo
 18343|2|ja|100 Kanojo 2
@@ -2338,6 +2339,7 @@
 10399|4|en|Amagi Brilliant Park
 10399|4|de|Amagi Brilliant Park
 13806|1|x-jat|Amai Choubatsu: Watashi wa Kanshu Sen`you Pet
+19135|1|x-jat|Amai Ijiwaru
 16128|4|en|AMAIM Warrior at the Borderline
 17091|4|en|AMAIM Warrior at the Borderline (2022)
 17871|4|en|AMAIM: Warrior at the Borderline: UltraSteel Ogre-Gear
@@ -3074,6 +3076,7 @@
 16757|2|en|Apocalypse
 1181|4|fr|Apocalypse Angel`s - Les anges de l`apocalypse
 18702|2|en|Apocalypse Bringer Mynoghra
+16757|2|en|Apocalypse Day
 18838|1|x-jat|Apocalypse Hotel
 6473|2|en|Apocalypse Meow
 44|2|en|Apocalypse of Devilman
@@ -32646,6 +32649,7 @@
 17428|4|en|Me & Roboco
 18068|2|en|Me & Roboco the Movie
 15508|2|en|Me and My Zoo
+17428|2|en|Me and Roboco
 17766|4|pt-BR|Me Apaixonei pela Vilã!
 17910|4|es|Me encantan las Magical Girls
 1572|2|x-jat|Me-gumi no Daigo
@@ -37071,6 +37075,7 @@
 18050|4|en|Notice My Love! The Animation
 14091|4|fr|Notre jeunesse en orbite
 1794|1|x-jat|Notteke Explet`s
+19134|1|x-jat|Notto Sexaroid Eurie!
 9787|3|x-jat|NouCome
 10208|2|x-jat|NouCome OVA
 7738|1|x-jat|Nougyou Musume!
@@ -50599,6 +50604,7 @@
 9341|4|en|The "Hentai" Prince and the Stony Cat.
 17906|4|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You
 18343|4|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You (2025)
+18343|2|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 2
 13597|2|en|The 25 Year Old High School Girl
 5377|2|en|The 5 Killers
 14535|4|en|The 8th Son? Are You Kidding Me?
@@ -74103,6 +74109,7 @@
 5941|4|ja|のだめカンタービレ 巴里編
 5389|4|ja|のたり松太郎
 1794|4|ja|のってけエクスプレッツ
+19134|4|ja|のっと・せくさろいど・エウリィ!
 2295|4|ja|のどか森の動物大作戦
 2129|4|ja|ののちゃん
 4765|4|ja|のび太の結婚前夜 The night before a wedding
@@ -86814,6 +86821,7 @@
 16367|4|zh-Hans|瓦尼塔斯的手记 (2022)
 1092|4|ja|瓶詰妖精
 11952|4|ja|甘々と稲妻
+19135|4|ja|甘いイジワル
 13806|4|ja|甘い懲罰~私は看守専用ペット
 10399|3|ja|甘ブリ
 10399|4|ja|甘城ブリリアントパーク
