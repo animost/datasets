@@ -1,4 +1,4 @@
-# created: Tue Jan 28 03:00:02 2025
+# created: Wed Jan 29 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -413,6 +413,7 @@
 18008|2|en|1LDK + JK Living Together Suddenly? Close Contact!? First Sex!!?
 18008|2|ko|1LDK+JK 갑자스레 동거? 밀착!? 첫 섹스!!?
 18008|4|ja|1LDK+J系 いきなり同居?密着!? 初エッチ!!?
+18008|2|ja|1LDK＋J系 いきなり同居？密着！？初エッチ！！？
 69|3|x-jat|1P
 11123|3|x-jat|1PM
 18830|4|en|1st Kiss
@@ -697,10 +698,12 @@
 6096|4|ko|69 핑크 라이더스
 6097|4|ko|69 핑크 라이더스 2
 18293|2|ja|69〜偽りの微笑〜
+18293|2|ja|６９〜偽りの微笑〜
 18293|2|en|69: False smile
 18293|1|x-jat|69: Itsuwari no Bishou
 18293|2|x-jat|69: Itsuwari no Hohoe
 18293|4|ja|69~偽りの微笑~
+18293|2|ja|69～偽りの微笑～
 6096|4|ja|69ピンクライダース
 6097|4|ja|69ピンクライダーズ 2
 967|3|x-jat|6god
@@ -6029,6 +6032,7 @@
 12372|4|ja|Bloodivores
 12372|4|en|Bloodivores
 66|3|x-jat|Bloodlust
+8412|2|ja|Bloods 〜淫落の血族 2〜
 8412|2|x-unk|Bloods ~음락의혈족 2~
 8412|2|ja|Bloods ～淫落の血族2～
 8412|1|x-jat|Bloods: Inraku no Ketsuzoku 2
@@ -8524,6 +8528,7 @@
 9571|2|ko|Chu(치료) 해줄게
 9571|2|ko|Chu(치유) 해줄게 ~밀어닥친 누나의 성교치료~
 9571|4|ja|Chu(治癒)してあげちゃう ~押しかけお姉さんの性交恥療~
+9571|2|ja|Chu（治癒）してあげちゃう～押しかけお姉さんの性交恥療～
 3104|4|de|Chu2
 3104|1|x-jat|Chu2
 3104|4|en|Chu2
@@ -8534,6 +8539,7 @@
 15644|2|x-zht|Chuan Shu Zi Jiu Zhi Nan
 15644|1|x-zht|Chuan Shu Zijiu Zhinan
 16685|1|x-zht|Chuanyue Huoxian: Youling Jihua
+18637|2|en|Chubby Girlfriend and Pity Boyfriend
 3466|2|en|Chubby Ninja
 14180|1|x-jat|Chuck Shimezou
 3369|2|de|Chuck, der Biber
@@ -9165,6 +9171,7 @@
 4193|2|pt-BR|Contos de Terramar
 4193|4|pt|Contos de Terramar
 18949|4|pt|Contos dos Deuses Pastores
+17446|4|pt|Contos Macabros de Junji Ito
 9879|2|en|Contract of Captivity: Sisters Who Offer Their Bodies for Their Family`s Sake
 298|2|fr|Contraintes par corps
 298|4|fr|Contraintes... par corps
@@ -9781,6 +9788,7 @@
 10011|2|x-jat|D-FRAGMENTS
 9705|1|x-jat|D-spray
 9705|4|ja|D-spray
+9705|2|ja|D-spray 媚薬でモテモテ 課長代理補佐
 81|4|ja|D・N・A² ~何処かで失くしたあいつのアイツ~
 1611|4|ja|D・N・A²~何処かで失くしたあいつのアイツ~ (1995)
 621|4|ja|D・N・ANGEL
@@ -11380,6 +11388,7 @@
 11068|1|x-jat|Diabolik Lovers More, Blood
 11068|3|x-jat|diaboliklovers2
 7069|4|ja|Diabolus 鬼哭
+7069|2|ja|Diabolus〜鬼哭〜
 7069|1|x-jat|Diabolus: Kikoku
 9717|3|x-jat|dialover
 11491|3|x-jat|dialover ova
@@ -11780,6 +11789,7 @@
 1712|2|x-jat|DISCIPLINE -The record of a Crusade-
 7118|2|x-jat|Discipline Rei
 7118|1|x-jat|Discipline Zero
+7118|2|ja|DISCIPLINE 零
 7118|4|ja|DISCIPLINE零(ゼロ)
 2477|2|en|Discode : Abnormal Sexuality
 2477|1|x-jat|Discode Ijou Seiai
@@ -13181,6 +13191,7 @@
 1522|1|x-jat|Dream Hunter Rem
 1522|4|ja|DREAM HUNTER 麗夢
 4185|2|en|Dream Magicians
+6551|2|ja|Dream Note
 6891|2|en|Dream of a Snowy Night
 2329|4|en|Dream Star Button Nose
 126|4|pt|Dream Team
@@ -15737,9 +15748,11 @@
 335|4|de|Flüstern des Meeres: Ocean Waves
 1627|2|x-jat|Flutter of Birds
 1627|4|ja|flutter of birds ~鳥達の羽ばたき~
+1627|2|ja|flutter of birds ～鳥達の羽ばたき～
 1974|2|x-jat|Flutter of Birds 2
 1974|1|x-jat|Flutter of Birds 2: Tenshi-tachi no Tsubasa
 1974|2|en|Flutter of Birds 2: The Wings of Angels
+1974|2|ja|flutter of birds II ～天使達の翼～
 1974|4|ja|flutter of birds II 天使たちの翼
 1627|1|x-jat|Flutter of Birds: Tori-tachi no Habataki
 6064|1|x-jat|Fluximation
@@ -16923,6 +16936,7 @@
 15337|2|fr|Garde à domicile : les Haibara sous haute surveillance
 9682|1|x-jat|Garden
 17012|4|ja|Garden ~高嶺家の二輪花~ THE ANIMATION
+17012|2|ja|Garden ～高嶺家の二輪花～ THE ANIMATION
 17463|1|x-jat|Garden of Remembrance
 17463|4|ja|Garden of Remembrance
 17463|4|en|Garden of Remembrance
@@ -19012,6 +19026,8 @@
 2237|2|en|Groizer X
 125|4|ja|GROOVE ADVENTURE RAVE
 125|1|x-jat|Groove Adventure Rave
+5542|2|ja|Grope
+5542|2|ja|Grope 〜闇の中の小鳥たち〜
 5542|4|ja|Grope ~闇の中の小鳥たち~
 5542|2|en|Grope: Little Birds in the Darkness
 5542|1|x-jat|Grope: Yami no Naka no Kotori-tachi
@@ -23133,6 +23149,7 @@
 1120|4|fr|Imma Yojo
 1120|4|en|Imma Youjo: The Erotic Temptress
 3335|1|x-jat|Immoral
+3335|2|ja|IMMORAL
 9941|2|en|Immoral Confession of a Married Woman
 658|2|en|Immoral Girls
 17244|4|en|Immoral Guild
@@ -23980,6 +23997,7 @@
 4206|2|x-jat|J0ker: Marginal City
 15920|4|ja|J〇フーゾク学園祭
 17316|4|ja|J〇限界交尾 ~合意挿入でバチバチ肉穴化~
+17316|2|ja|J〇限界交尾～合意挿入でバチバチ肉穴化～
 1332|3|x-jat|J2
 14743|1|x-jat|JA Kumamoto Keizairen
 17507|2|pt|Já não é Permitido em Outro Mundo
@@ -24417,6 +24435,7 @@
 16945|2|ja|JKとエロ医師 ~清純美少女JKを言葉巧みにハメたい放題~
 9312|4|ja|JKとエロ議員センセイ
 9868|4|ja|JKとオーク兵団 ~悪豚鬼に凌虐された聖女学園~
+9868|2|ja|JKとオーク兵団〜悪豚鬼に凌虐された聖女学園〜
 8332|4|ja|JKと淫行教師4
 12133|4|ja|JKビッチに搾られたい♥
 15920|2|ja|JKフーゾク学園祭
@@ -28930,6 +28949,7 @@
 13779|4|ja|LAST PERIOD -終わりなき螺旋の物語-
 13779|1|x-jat|Last Period: Owarinaki Rasen no Monogatari
 13779|4|en|Last Period: The Journey to the End of the Despair
+7374|2|ja|Last Waltz 〜白濁まみれの夏合宿〜
 7374|2|ko|Last Waltz ~백탁 투성이의 여름 합숙~
 7374|1|x-jat|Last Waltz: Hakudaku Mamire no Natsu Gasshuku
 7374|4|ja|Last Waltz~白濁まみれの夏合宿~
@@ -29866,6 +29886,7 @@
 9677|1|x-jat|Log Horizon
 9677|4|fr|Log Horizon
 9677|4|en|Log Horizon
+9677|4|de|Log Horizon
 9677|4|pl|Log horizon
 10551|1|x-jat|Log Horizon (2014)
 10551|4|pl|Log horizon (2014)
@@ -29875,6 +29896,7 @@
 10551|2|en|Log Horizon II
 15363|4|en|Log Horizon: Destruction of the Round Table
 15363|1|x-jat|Log Horizon: Entaku Houkai
+10551|4|de|Log Horizon: Staffel 2
 15363|4|ru|Log Horizon: Падение Круглого стола
 584|3|en|LoGH
 11495|3|en|LoGH 2018
@@ -30207,6 +30229,7 @@
 13249|2|en|Love Rice: We Love Rice - Second Crop
 8004|1|x-jat|Love Rollercoaster
 8004|4|ja|Love Rollercoaster
+5979|2|ja|Love Selection ～THE ANIMATION～
 5979|4|ja|Love Selection: THE ANIMATION
 5979|1|x-jat|Love Selection: The Animation
 10484|2|en|Love SM
@@ -30291,6 +30314,7 @@
 11003|2|en|Lovely X Cation - Start of Daydream That Continues Through All Eternity
 11003|4|ja|LOVELY x CATION The Animation
 11003|1|x-jat|Lovely x Cation The Animation
+11003|2|ja|LOVELY×CATION THE ANIMATION
 5053|2|en|Lovely★Complex
 13958|3|x-jat|LoVer TV
 5912|4|en|Lover-in-Law
@@ -31303,6 +31327,7 @@
 18138|2|en|Magical Valkyrie Lyristia
 17661|2|en|Magical Voyeur Christia
 9995|4|en|Magical Warfare
+5206|2|ja|MAGICAL WITCH ACADEMY ～ボクと先生のマジカルレッスン～ THE ANIMATION
 5206|4|ja|MAGICAL WITCH ACADEMY ♥~ボクと先生のマジカルレッスン~♥ THE ANIMATION
 5206|1|x-jat|Magical Witch Academy: Boku to Sensei no Magical Lesson The Animation
 4149|4|en|Magical Witch Punie-chan
@@ -33456,6 +33481,7 @@
 6491|1|x-jat|Milky Passion: Dougenzaka - Ai no Shiro
 2502|1|x-jat|Milkyway
 2502|4|ja|Milkyway
+3043|2|ja|MILKジャンキー 姉妹編
 570|2|pl|Millenium Actress
 366|3|en|Millennia
 570|4|fi|Millennium Actress
@@ -34228,6 +34254,7 @@
 3105|1|x-jat|Momone
 3105|4|en|Momone
 3105|4|pt-BR|Momone
+3105|2|ja|MOMONE
 3105|4|ja|MOMONE 桃音
 5935|2|en|Momotaro of the Sky
 4055|4|en|Momotaro Sacred Sailors
@@ -35364,6 +35391,7 @@
 632|4|en|Mythical Detective Loki Ragnarok
 632|4|pt-BR|Mythical Sleuth Loki
 5435|3|x-jat|myyour
+8794|2|ja|My妹〜小悪魔なAカップ
 8794|4|ja|My妹~小悪魔なAカップ~
 427|3|x-jat|MZ
 427|3|x-jat|mzero
@@ -36495,6 +36523,7 @@
 1181|4|en|Nightmare Campus
 17983|4|ja|Nightmare x Deathscythe
 17983|1|x-jat|Nightmare x Deathscythe
+17983|2|x-jat|Nightmare×Deathscythe
 1095|2|de|Nightmares - Das Tor zur anderen Welt
 7278|3|en|Nightraid
 17336|2|en|Nights with a Cat
@@ -36840,6 +36869,7 @@
 4352|2|en|No Way Out
 18184|2|en|NO Wife NO LIFE!
 18184|4|ja|NO 猥婦 NO LIFE!
+18184|2|ja|NO 猥婦 NO LIFE！
 9801|4|en|No-Rin
 9801|2|x-jat|NO-RIN
 9801|4|fr|No-Rin
@@ -38312,6 +38342,7 @@
 6114|1|x-jat|Oppai Life
 7319|1|x-jat|Oppai no Ouja 48: Nanimo Kangaezu Me no Mae no Oppai Zenbu Shabure!
 6114|4|ja|OPPAI ライフ
+6114|2|ja|ＯＰＰＡＩライフ
 8141|4|da|Oppe på Valmuebakken
 69|3|x-jat|optv
 17283|1|x-jat|Opus Colors
@@ -39066,6 +39097,7 @@
 1482|3|x-jat|pandra
 10412|1|x-jat|Pandra The Animation
 10412|4|ja|PANDRA THE ANIMATION
+10412|2|ja|PANDRA THE ANIMATION 「白き欲望 黒の希望」
 2734|4|lt|Pandų planeta
 2738|4|pl|Pani Łyżeczka
 3298|2|x-jat|Pani Poni
@@ -41202,6 +41234,7 @@
 16141|3|en|Princess Half-Demon S2
 1665|1|x-jat|Princess Holiday: Korogaru Ringo Tei Sen`ya Ichiya
 1665|4|ja|Princess Holiday~転がるりんご亭千夜一夜~
+1665|2|ja|Princess Holiday～転がるりんご亭千夜一夜～
 7927|2|en|Princess Iron Fan
 7531|4|en|Princess Jellyfish
 2482|4|en|Princess Knight
@@ -41221,6 +41254,7 @@
 7303|2|en|Princess Loves H
 2487|1|x-jat|Princess Memory
 2487|4|en|Princess Memory
+2487|2|ja|Princess Memory
 2998|1|x-jat|Princess Minerva
 2998|4|fr|Princess Minerva
 2998|4|en|Princess Minerva
@@ -42190,6 +42224,7 @@
 407|2|es-419|Ran, la chica samurai
 322|4|fr|Ran, la légende verte
 407|4|pt-BR|Ran, The Samurai Girl
+8333|2|ja|Ran→Sem 〜白濁デルモ妻のミイラ捕り〜
 8333|4|ja|Ran→Sem~白濁デルモ妻のミイラ捕り~
 5633|4|ja|Rance
 5633|1|x-jat|Rance
@@ -42997,8 +43032,10 @@
 5530|4|en|Rin: Daughters of Mnemosyne
 5530|4|pl|Rin: Doughters of Mnemosyne
 5530|4|es-419|Rin: Las Hijas de Mnemosyne
+7301|2|ja|RIN×SEN〜白濁女教師と野郎ども〜
 9929|4|ko|RIN×SEN＋Ran→Sem Cross Mix
 9929|2|ja|RIN×SEN＋Ran→Sem Cross Mix
+9929|2|ja|RIN×SEN＋Ran→Sem　Cross Mix
 7301|4|ja|RIN×SEN~白濁女教師と野郎ども~
 2579|2|fr|Ring ni Kakero
 2579|1|x-jat|Ring ni Kakero 1
@@ -43525,6 +43562,7 @@
 14517|4|ja|Rune`s Pharmacy ~ティアラ島のお薬屋さん~
 14517|2|en|Rune`s Pharmacy: The Pharmacist of Tiara Isle
 14517|1|x-jat|Rune`s Pharmacy: Tiara-tou no Okusuriya-san
+14517|2|ja|Rune`sPharmacy ～ティアラ島のお薬屋さん～
 4084|1|x-jat|Running Boy Star Soldier no Himitsu
 4084|4|ja|RUNNING BOY スター·ソルジャーの秘密
 4084|2|ja|RUNNING BOY スターソルジャーの秘密
@@ -44937,6 +44975,7 @@
 4263|2|en|Secret Hot Spring Tour The Animation
 11759|1|x-jat|Secret Journey
 11759|4|ja|SECRET JOURNEY
+11759|2|ja|SECRET JOURNEY（シークレット・ジャーニー）
 2044|2|en|Secret Little Akko: The Sea! The Monster!! Summer Holiday
 18168|1|x-jat|Secret Mission: Sennyuu Sousakan wa Zettai ni Makenai!
 18168|4|en|Secret Mission: Undercover Agents Never Back Down!
@@ -45557,6 +45596,7 @@
 1642|4|de|Sexfriend
 1642|4|en|Sexfriend
 1642|2|fr|Sexfriend
+1642|2|ja|SEXFRIEND 〜セックスフレンド〜
 1642|4|ja|SEXFRIEND ~セックスフレンド~
 15331|1|x-jat|Sexfriend Gakuen
 18569|1|x-jat|Sexfriend no Senpai The Animation
@@ -47188,6 +47228,7 @@
 11046|1|x-jat|Sleeping Lovers! Ippu Nisai no Sekai e Youkoso The Animation
 15366|2|en|Sleeping Princess of Abaddon in a Rotten World
 13630|2|en|Sleeping Sex
+17344|2|ja|SLEEPLESS ～A Midsummer Night’s Dream～ The Animation
 17344|4|ja|SLEEPLESS ~A Midsummer Night`s Dream~ The Animation
 18047|4|ja|SLEEPLESS Nocturne The Animation
 18047|1|x-jat|Sleepless Nocturne The Animation
@@ -47989,6 +48030,7 @@
 4033|2|en|Space Warriors: Battle for Earth Station S-1
 1384|4|ja|SPACE・ADVENTURE コブラ
 1593|4|en|Spaceketeers
+315|2|ja|SpaceOfera アッガ・ルター
 315|4|en|Spaceship Agga Ruter
 1833|2|en|Spaceship Sagittarius
 15896|1|x-jat|Spacy
@@ -48393,12 +48435,14 @@
 16420|4|cs|Star Wars: Vize
 17044|1|x-jat|Star Wars/Force no Kakusei
 8837|4|ja|STAR☆jewel
+8837|2|ja|STAR☆jewel スタージュエル
 3603|2|en|Starcat Full House
 7591|2|ja|StarDriver
 5849|2|en|Stardust Paradise
 17663|4|en|Stardust Telepath
 8740|2|en|Starfleet X-Bomber
 4366|3|x-jat|Stargazer
+9209|2|ja|STARLESS
 9209|4|ja|STARLESS 21st Century nymphomaniacs.
 9209|1|x-jat|Starless: 21st Century Nymphomaniacs.
 14130|4|en|Starlight Promises
@@ -48909,6 +48953,7 @@
 17345|2|en|Summer: Life in the Countryside
 17345|2|fr|Summer: Life in the Countryside
 13190|2|en|Summer`s Puke is Winter`s Delight
+17345|2|ja|SUMMER～田舎の性活～
 16033|2|en|Summertime Render
 16936|4|en|Summoned to Another World for a Second Time
 16936|2|en|Summoned to Another World... Again?!
@@ -49259,6 +49304,7 @@
 18185|4|ja|Sweet and Hot
 16043|2|en|Sweet Bite Marks
 6443|4|en|Sweet Blue Flowers
+8178|2|ja|Sweet Home 〜Hなお姉さんは好きですか？〜
 8178|2|en|Sweet Home: Do You Like Horny Elder Sisters?
 8178|2|x-jat|Sweet Home: H na Onee-san wa Suki Desu ka?
 8178|1|x-jat|Sweet Home: H na Onee-san wa Suki Desuka?
@@ -49439,6 +49485,7 @@
 18541|4|ja|Sランクモンスターの《ベヒーモス》だけど, 猫と間違われてエルフ娘の騎士として暮らしてます
 17695|3|ja|Sランク娘
 16121|4|ja|S家に嫁いだM嬢の日常
+18541|4|zh-Hans|S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士一起生活
 2810|3|x-jat|T Blood
 2810|3|x-jat|T-Blood
 12912|1|x-jat|T-sensei
@@ -53682,8 +53729,10 @@
 18806|4|en|True Beauty
 19088|4|en|True Beauty 2
 2988|1|x-jat|True Blue
+2988|2|ja|True Blue
 4245|1|x-jat|True Blue Gaiden
 4245|2|ko|True Blue 외전
+4245|2|ja|True Blue 外伝
 2988|4|ja|True Blue~トゥルー・ブルー~
 4245|4|ja|True Blue~トゥルー・ブルー~外伝
 14658|4|en|True Cooking Master Boy
@@ -55743,6 +55792,7 @@
 9794|4|en|Wanna Be the Strongest in the World!
 11541|1|x-jat|Wanna Be.jk
 3384|2|x-jat|Wanna-Be`s
+9570|2|ja|Wanna. 〜SpartanSex Spermax！！！〜
 9570|1|x-jat|Wanna. SpartanSex Spermax!!!
 9570|4|ja|Wanna. SpartanSex Spermax!!!
 3384|1|x-jat|Wannabes
@@ -55873,6 +55923,7 @@
 15046|4|ja|WAVE!!~サーフィンやっぺ!!~
 776|1|x-jat|Waver
 776|4|de|Waver
+776|2|ja|WAVER
 776|4|ja|WAVER(ウェーバー)
 13623|2|en|Way back to the Sea
 13466|2|en|Way of Choices Season 1
@@ -56906,6 +56957,7 @@
 15044|2|ko|XL 상사
 15044|4|zh-Hans|XL上司
 15044|4|ja|XL上司.
+15044|2|ja|XL上司。
 15637|4|ja|XPICE
 15637|1|x-jat|Xpice
 1605|4|en|Xpress Train
@@ -58454,6 +58506,7 @@
 2424|2|en|Zero Person
 13265|2|x-jat|Zero Seiki
 2616|4|ja|ZERO SUM GAME -SEX CRIME-
+2616|2|ja|ZERO SUM GAME 〜セックスクライム〜
 2616|1|x-jat|Zero Sum Game: Sex Crime
 2195|1|x-jat|Zero Tester
 2196|2|en|Zero Tester Protect the Earth!
@@ -69237,6 +69290,7 @@
 7132|4|ja|アキカン! (2009)
 13382|4|ja|アキストゼネコ
 6782|4|ja|あきそら
+7484|2|ja|あきそら〜夢の中〜
 7484|4|ja|あきそら~夢の中~
 11100|4|ja|アキの奏で
 6111|4|ja|アキバちゃん
@@ -76758,6 +76812,7 @@
 15814|4|ja|リラックマと遊園地
 13760|2|ja|リリース ザ スパイス
 13760|3|ja|リリスパ
+14102|2|ja|リリテイルズ
 4070|2|ja|リリとカエルと(弟)
 4070|4|ja|リリとカエルと(弟) Lily,Frogs,and Little Brother.
 15636|4|ja|リリパット王国
@@ -77349,6 +77404,7 @@
 2|2|zh-nan|三隻眼
 12957|4|zh-Hans|三颗星彩色冒险
 11441|4|ja|上京物語
+18768|4|zh-Hans|上班族去了异世界后成了四天王
 850|4|zh-Hans|上班族金太郎
 12671|4|ja|上級生
 14094|4|ja|上野さんは不器用
@@ -77383,6 +77439,7 @@
 10888|2|zh-Hans|不存在黄段子的无聊世界
 7000|4|zh-Hans|不射之射
 7000|4|ja|不射之射
+18712|4|zh-Hans|不幸职业【鉴定士】实则最强
 18712|4|zh-Hant|不幸職業【鑑定士】其實是最強的
 17244|4|ja|不徳のギルド
 11172|4|ja|不思議なソメラちゃん
@@ -82534,6 +82591,7 @@
 461|4|ja|彼女と彼女の猫
 11874|4|ja|彼女と彼女の猫 -Everything Flows-
 11900|4|ja|彼女はゾンビ
+6946|2|ja|彼女は花嫁候補生？
 10915|4|ja|彼女は誰とでもセックスする.
 18951|4|ja|彼女フェイス THE ANIMATION
 3118|4|ja|彼岸
@@ -88210,6 +88268,7 @@
 11997|4|zh-Hans|编舟记
 7656|4|zh-Hans|缘之空
 15272|4|zh-Hans|缘结熊本！
+17994|4|zh-Hans|缘结甘神家
 10244|4|zh-Hans|网球优等生
 10847|4|zh-Hans|网球优等生 第二季
 9367|4|zh-Hans|网球少女
