@@ -1,4 +1,4 @@
-# created: Sun Feb  2 03:00:02 2025
+# created: Mon Feb  3 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -118,7 +118,7 @@
 16424|2|en|"Ippon" Again!
 17449|1|x-jat|"Oshi no Ko"
 18086|1|x-jat|"Oshi no Ko" (2024)
-18901|1|x-jat|"Oshi no Ko" 3
+18901|1|x-jat|"Oshi no Ko" (2026)
 14586|2|en|"Parade" de Satie
 15157|1|x-jat|"Uchuu Senkan Yamato" to Iu Jidai: Seireki 2202-nen no Sentaku
 10143|2|en|"Zero"
@@ -875,6 +875,8 @@
 4763|4|hu|A dinoszauruszok király
 4763|2|hu|A dinoszauruszok királya
 4339|2|en|A Direction of the Day After Tomorrow
+18303|2|pt-BR|A Doce Agonia de Adão
+18303|4|pt|A Doce Agonia de Adão
 1650|4|en|A Dog of Flanders
 1651|2|en|A Dog of Flanders: My Friend Patrasche
 1651|4|en|A Dog of Flanders: My Patrasche
@@ -1279,6 +1281,8 @@
 15131|2|pt-BR|Academia do Rei Demônio: O Rei Demônio mais forte da história reencarna e vai para a escola com seus descendentes
 12235|4|ro|Academia micilor vrăjitoare
 1603|2|en|Academy of Beautiful Prey
+17566|2|pt-BR|Acampamento Harém!
+17566|4|pt|Acampamento Harém!
 12136|1|x-jat|ACCA 13-ku Kansatsu-ka
 14799|1|x-jat|ACCA 13-ku Kansatsu-ka: Regards
 12136|4|x-kot|ACCA 13구 감찰과
@@ -30455,6 +30459,7 @@
 1762|3|x-jat|lovelove
 14974|1|x-jat|Lovely
 14974|2|x-jat|Lovely ♡
+18447|2|en|Lovely Breast Order: Refill
 5053|2|pt-BR|Lovely Complex
 5053|4|hu|Lovely Complex
 5053|4|it|Lovely Complex
@@ -37586,6 +37591,8 @@
 679|4|pt-BR|O Reino dos Gatos
 679|4|pt|O Reino Dos Gatos
 17480|4|pl|O ruchach Ziemi
+18465|4|pt|O Ser Supremo (2024)
+18465|2|pt-BR|O Ser Supremo (2024)
 286|4|pt-BR|O Serviço de Entregas da Kiki
 1681|4|pt|O Super Prémio
 847|4|pt|O Teatro de Rumiko
@@ -41289,6 +41296,7 @@
 2764|3|x-jat|precure2 movie
 17742|3|x-jat|precure20
 18294|3|x-unk|precure21
+19019|3|en|precure22
 4117|3|x-jat|precure3
 4844|3|x-jat|precure3 movie
 4901|3|x-jat|precure5
@@ -78996,10 +79004,12 @@
 9785|2|ja|催○術ZERO
 14432|2|ja|催Ｏ性指導
 13741|4|ja|催眠☆学園
+12512|2|ja|催眠クラス 〜女子全員、知らないうちに妊娠してました〜
 12512|4|ja|催眠クラス ~女子全員, 知らないうちに妊娠してました~
 6269|4|ja|催眠凌辱学園
 5982|4|ja|催眠学園
 14432|4|ja|催眠性指導
+6117|2|ja|催眠術 2nd
 6117|4|ja|催眠術 THE ANIMATION 2nd
 9785|4|ja|催眠術ZERO
 15289|4|zh-Hant|催眠麥克風
@@ -79595,11 +79605,13 @@
 12390|4|ja|初恋モンスター もうちょっとだけ続くんじゃ
 18173|4|zh-Hans|初恋时间。
 18173|4|ja|初恋時間.
+18173|2|ja|初恋時間。
 6323|2|zh-Hans|初恋限定
 6323|4|ja|初恋限定.
 6323|4|zh-Hans|初恋限定。
 5981|4|ja|初犬 2 The Animation ストレンジ・カインド オブ ウーマンズ~again~
 5192|4|ja|初犬 The Animation
+5981|2|ja|初犬2 The Animation ストレンジ カインド オブ ウーマンズ ～again～
 4853|2|zh-Hans|初瓣
 11535|2|x-unk|初音ミク×野村哲也
 837|2|zh-Hans|初音岛
@@ -80659,6 +80671,7 @@
 6576|4|ja|吾輩は猫である
 17330|4|zh-Hans|呆萌酷男孩
 17847|4|ja|告白......
+17847|2|ja|告白……
 13038|2|ja|告白実行委員会シリーズ
 11756|4|zh-Hans|告诉我！辣妹子酱
 12350|4|zh-Hans|告诉我！辣妹子酱 OAD
@@ -81401,6 +81414,7 @@
 16541|4|zh-Hans|大主宰
 18028|4|zh-Hans|大主宰年番
 15697|4|ja|大人にゃ恋の仕方がわからねぇ!
+15697|2|ja|大人にゃ恋の仕方がわからねぇ！
 9559|4|ja|大人女子のアニメタイム 2
 8208|4|ja|大人女子のアニメタイム「川面を滑る風」
 14412|4|zh-Hans|大人的防具店
@@ -81453,6 +81467,7 @@
 12557|2|ja|大正ちっちゃいさん
 12557|4|ja|大正メビウスライン ちっちゃいさん
 18832|4|ja|大正偽りブラヰダル 身代わり花嫁と軍服の猛愛
+18832|2|ja|大正偽りブラヰダル～身代わり花嫁と軍服の猛愛
 15938|2|ja|大正処女御伽話
 15938|4|zh-Hans|大正处女御伽话
 12557|4|zh-Hans|大正小小先生
@@ -81463,6 +81478,8 @@
 6315|4|ja|大正野球娘.
 5042|2|zh-Hans|大江户火箭
 5042|4|ja|大江戸ロケット
+5473|2|ja|大江戸四十八手
+5473|2|ja|大江戸四十八手　ふぉうてぃえいと
 5473|4|ja|大江戸四十八手[ふぉうてぃえいと]
 13348|4|zh-Hans|大炮破坏者
 15495|4|zh-Hans|大王不高兴
@@ -81744,6 +81761,7 @@
 18033|4|zh-Hans|夫妻交欢～回不去的夜晚～
 17001|2|zh-Hans|夫妻以上，恋人未满。
 18033|4|ja|夫婦交歓~戻れない夜~
+18033|2|ja|夫婦交歓～戻れない夜～
 17001|4|ja|夫婦以上, 恋人未満.
 17001|4|zh-Hant|夫婦以上，戀人未滿
 10372|4|ja|失われた未来を求めて
@@ -83568,6 +83586,7 @@
 4753|2|zh-Hans|恋之天使安琪莉可 - 闪光的明天
 4474|2|zh-Hans|恋之魔法波波糖
 18447|4|ja|恋乳オーダー ~おかわり~ The Animation
+18447|2|ja|恋乳オーダー ～おかわり～ THE ANIMATION
 10485|4|ja|恋乳ているず THE ANIMATION
 546|4|ja|恋図~ふたりの距離~
 12906|4|zh-Hans|恋如雨止
@@ -84415,6 +84434,9 @@
 7949|4|ja|放浪息子
 7949|4|zh-Hans|放浪男孩
 2877|4|ja|放課後 ~濡れた制服~
+2877|2|ja|放課後〜濡れた制服〜
+5365|2|ja|放課後2
+5724|2|ja|放課後2 〜紗由理〜
 5365|4|ja|放課後2 「羞じらう百合姫[はな]はムレて甘く」
 5724|4|ja|放課後2 ~紗由理~
 12072|4|ja|放課後Initiation
@@ -84444,6 +84466,7 @@
 17294|4|zh-Hant|政宗君的復仇R
 14536|4|ja|故に人妻は寝取られた.
 14536|2|x-unk|故に人妻は寝取られた。
+14536|2|ja|故に人妻は寝取られた。
 13050|4|zh-Hans|故乡漫游 日本的古老传说
 9016|4|zh-Hans|故乡重现 日本的古老传说
 2150|4|zh-Hans|敌人是海盗 猫们的飨宴
@@ -85229,6 +85252,7 @@
 12647|4|zh-Hans|春宵苦短,少女前进吧!
 4699|4|ja|春庭家の3人目
 5594|4|ja|春恋*乙女 ~乙女の園で逢いましょう.~
+5594|2|ja|春恋＊乙女　～乙女の園で逢いましょう。
 16896|4|zh-Hans|春田花花中華博物館
 16431|4|zh-Hans|春秋封神
 14822|4|zh-Hans|昨日之歌
@@ -85414,10 +85438,12 @@
 17320|4|ja|望まぬ不死の冒険者
 19052|4|ja|望まぬ不死の冒険者 2
 15769|4|ja|望古神话之天选者
+8416|2|ja|朝からずっしり ミルクポット
 8416|4|ja|朝からずっしり・ミルクポット
 11415|4|ja|朝が来る前に ~さすらいバージョン~
 12024|4|ja|朝だよ! 貝社員
 8873|4|ja|朝まで授業 Chu!
+8873|2|ja|朝まで授業 Chu！
 17218|4|zh|朝堂有妖气
 13262|4|zh-Hans|朝花夕誓——于离别之朝束起约定之花
 124|4|zh-Hans|朝雾的巫女
@@ -87300,6 +87326,7 @@
 15679|4|zh|独步逍遥
 6264|4|ja|独白するユニバーサル横メルカトル Egg Man
 13025|4|zh-Hans|独自生活的小学生
+6456|2|ja|独蛾 ～THE ANIMATION～
 6456|4|ja|独蛾~THE ANIMATION~
 5553|4|zh-Hans|独角鲸落难记
 5893|4|ja|独身アパートどくだみ荘
@@ -88599,6 +88626,7 @@
 1086|4|zh-Hans|第一神拳 间柴vs木村 死刑执行
 17702|3|ja|第七王子
 16825|4|zh-Hans|第九部落
+13028|2|ja|第二次 裏入学試験 THE ANIMATION
 16936|4|zh-Hans|第二次被异世界召唤
 13028|4|ja|第二次裏入学試験 THE ANIMATION
 1869|4|zh-Hans|第十一人
@@ -89323,6 +89351,8 @@
 746|4|ja|臭作
 1380|4|ja|臭作 ~Liberty~
 747|4|ja|臭作 ~Replay~
+1380|2|ja|臭作～Liberty～
+747|2|ja|臭作～Replay～
 16373|4|zh-Hans|至高之牌
 11086|4|zh-Hans|至高指令
 11724|4|zh-Hant|至高指令
@@ -90837,6 +90867,7 @@
 13127|4|ja|部屋 (2011)
 9877|2|ja|部活女子の腰つき
 9401|4|ja|都合のよいセックスフレンド?
+9401|2|ja|都合のよいセックスフレンド？
 11290|4|ja|都市伝説シリーズ
 6268|4|ja|都市伝説物語 ひきこ
 18897|4|zh-Hans|都市古仙医
@@ -90899,6 +90930,7 @@
 17926|4|zh-Hans|金属口红
 9048|4|zh-Hans|金属对决 战斗陀螺 ZERO G
 4174|2|ja|金曜ロードショー オープニング映像
+18030|4|zh-Hans|金牌得主
 4907|4|zh|金猴降妖
 1585|4|ja|金田一少年の事件簿
 1240|4|ja|金田一少年の事件簿 (1997)
