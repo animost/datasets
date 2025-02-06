@@ -1,4 +1,4 @@
-# created: Tue Feb  4 03:00:01 2025
+# created: Wed Feb  5 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1045,6 +1045,9 @@
 18305|4|pt|A Promessa do Golfe
 4953|4|pt|A Rã Valente
 18852|1|x-jat|A Rank Party o Ridatsu Shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu o Mezasu.
+15662|4|pt|A Rapariga na Biblioteca ~Até a Mais Pura Cai~ A ANIMAÇÃO
+15662|2|pt|A Rapariga na Biblioteca: A ANIMAÇÃO
+15662|2|pt|A Rapariga na Biblioteca: Até o Puro Eu Cai em Desgraça
 17038|2|en|A Raven in the Harem
 15425|2|en|A Record of a Mortal`s Journey to Immortality
 17004|2|en|A Record of a Mortal`s Journey to Immortality Season 2
@@ -3405,6 +3408,8 @@
 420|4|fr|Armitage III
 420|4|de|Armitage III
 420|4|en|Armitage III
+420|4|pt|Armitage III
+420|2|pt-BR|Armitage III
 237|4|fr|Armitage III - Dual Matrix
 237|4|de|Armitage III - Dual Matrix
 236|4|fr|Armitage III - Poly Matrix
@@ -3413,6 +3418,10 @@
 236|4|pl|Armitage III Poly-Matrix
 237|1|x-jat|Armitage III: Dual Matrix
 237|4|en|Armitage III: Dual Matrix
+237|2|pt-BR|Armitage III: Matriz Dupla
+237|4|pt|Armitage III: Matriz Dupla
+236|2|pt-BR|Armitage III: Matriz Poli
+236|4|pt|Armitage III: Matriz Poli
 236|4|en|Armitage III: Poly Matrix
 236|1|x-jat|Armitage III: Poly Matrix
 1161|4|en|Armor Hunter Mellowlink
@@ -5521,6 +5530,7 @@
 11724|4|en|Big Order
 11724|4|fr|Big Order
 11724|1|x-jat|Big Order (2016)
+7833|2|en|Big Ruckus at Pochacco`s Carrot Farm
 4823|2|en|Big Sister Juice the Animation: Leave the Three Sisters to Shirakawa
 15694|2|en|Big Talk Youth Tour
 1464|4|en|Big Wars
@@ -8002,6 +8012,7 @@
 12389|1|x-jat|Channel 5.5 2nd Season
 12392|1|x-jat|Channel 5.5 3rd Season
 12393|1|x-jat|Channel 5.5 4th Season
+19141|1|x-jat|Chanto Suenai Kyuuketsuki-chan
 19111|1|x-jat|Chao
 19111|4|ja|ChaO
 16817|1|x-zht|Chao Shen Xueyuan
@@ -17536,8 +17547,8 @@
 6325|1|x-jat|Gekijouban Tengen Toppa Gurren Lagann: Lagann Hen
 8374|1|x-jat|Gekijouban Tennis no Ouji-sama: Eikoku Shiki Teikyuu Shiro Kessen!
 2380|1|x-jat|Gekijouban Tennis no Ouji-sama: Futari no Samurai - The First Game
-18885|1|x-jat|Gekijouban Tensei Shitara Slime Datta Ken 2
 16776|1|x-jat|Gekijouban Tensei Shitara Slime Datta Ken: Guren no Kizuna Hen
+18885|1|x-jat|Gekijouban Tensei Shitara Slime Datta Ken: Soukai no Namida Hen
 8805|1|x-jat|Gekijouban Tiger & Bunny
 8694|1|x-jat|Gekijouban Toaru Majutsu no Index: Endymion no Kiseki
 13403|1|x-jat|Gekijouban Tokimeki Restaurant: Miracle 6
@@ -20239,12 +20250,16 @@
 13684|1|x-kot|Hanguksa Siganyeohaeng
 13952|1|x-jat|Hangyaku-sei Million Arthur
 14381|1|x-jat|Hangyaku-sei Million Arthur (2019)
+7838|2|en|Hangyodon 007⧸2 The Case of Doctor Sunday
 7830|2|en|Hangyodon in The Emperor`s New Clothes
 7830|1|x-jat|Hangyodon no "Hadaka no Ousama"
 7838|1|x-jat|Hangyodon no 00 7/2: Doctor Sunday Arawaru no Maki
 7837|1|x-jat|Hangyodon no Parallel Daisakusen: Hana no Oedo
 7835|1|x-jat|Hangyodon no Parallel Daisakusen: Kyouryuu Oukoku wa Oosawagi
 7836|1|x-jat|Hangyodon no Parallel Daisakusen: Mirai Sekai wa Oosawagi
+7836|2|en|Hangyodon`s Great Parallel Operation - A Huge Uproar in the Future World!
+7837|2|en|Hangyodon`s Great Parallel Plan - Flowery Edo in an Uproar!
+7835|2|en|Hangyodon`s Parallel Strategy - Panic at the Dinosaur Kingdom
 7830|4|en|Hangyodon`s The Emperor`s New Clothes
 15750|2|en|Hani 2nd Season
 2064|3|x-jat|hani hani
@@ -20856,6 +20871,7 @@
 7856|2|en|Hello Kitty and Friends: The Prince in His Dream Castle
 7773|2|en|Hello Kitty and Friends: The Sleeping Princess
 7813|2|en|Hello Kitty and Friends: The Wonderful Sisters
+7859|2|en|Hello Kitty and the Mysterious Lake
 7843|4|pt|Hello Kitty e os Seus Amigos - Hello Kitty: A Bela Adormecida
 7793|4|pt|Hello Kitty e os Seus Amigos - Hello Kitty: A Casa Secreta da Rã
 7842|4|pt|Hello Kitty e os Seus Amigos - Hello Kitty: A Cigarra e a Formiga
@@ -21021,7 +21037,11 @@
 7852|2|en|Hello Kitty`s Animation Theater 8b
 7782|2|en|Hello Kitty`s Animation Theater 9
 7804|2|en|Hello Kitty`s Animation Theater 9b
+7863|2|en|Hello Kitty`s Everyone`s Fun Summer
+7862|2|en|Hello Kitty`s First Christmas Cake
 18400|1|x-jat|Hello Kitty`s Paradise
+7773|2|en|Hello Kitty`s Princess of the Magic Forest
+7784|2|en|Hello Kitty`s The Aliens Who Came Down from London
 7779|4|en|Hello Kitty`s The Bamboo Princess
 7780|4|en|Hello Kitty`s Thumbelina
 1924|4|hu|Helló Sandybell!
@@ -26238,6 +26258,7 @@
 7792|1|x-jat|Kero Kero Keroppi no Yowamushi-ouji no Daibouken
 7790|2|x-jat|Kero Kero Keroppi wa Su no Ue Town Kikiippatsu
 7790|1|x-jat|Kero Kero Keroppi: Hasunoue Town Kikiippatsu!
+7799|2|en|Kero Kero Keroppi`s Three Musketeers
 1811|1|x-jat|Kerokko Demetan
 3073|3|x-jat|Keroppi
 7812|4|en|Keroppi in Aladdin and the Magic Lamp
@@ -27133,6 +27154,7 @@
 14789|1|x-jat|Kitsutsuki Tanteidokoro
 8572|1|x-jat|Kitte no Gensou
 11442|1|x-jat|Kitte no Nai Okurimono
+7858|2|en|Kitty & Mimi`s Happy Birthday
 7859|1|x-jat|Kitty no Fushigi na Mizuumi
 1441|2|en|Kitty Pleasure Pack #1 (1)
 702|2|en|Kitty Pleasure Pack #1 (2)
@@ -35427,6 +35449,7 @@
 5796|1|x-jat|My Melody no Akazukin
 17544|1|x-jat|My Melody no Akazukin (OVA)
 10930|1|x-jat|My Melody no Ookami-san ni Ki o Tsukete
+10930|2|en|My Melody`s Beware of Mr. Wolf!
 5796|2|en|My Melody`s Little Red Riding Hood
 9787|4|en|My Mental Choices Are Completely Interfering with My School Romantic Comedy
 10208|4|en|My Mental Choices Are Completely Interfering with My School Romantic Comedy - Kataomoi Otome
@@ -36424,6 +36447,10 @@
 4085|4|hu|Nerimai Retkes Bratyók
 3602|1|x-jat|Nessa no Haou Gandalla
 933|1|x-jat|Nessa no Wakusei
+14233|2|pt|Neste Canto (e Outros Cantos) do Mundo
+14233|2|pt-BR|Neste Canto (e Outros Cantos) do Mundo
+9376|4|pt|Neste Canto do Mundo
+9376|4|pt-BR|Neste Canto do Mundo
 5773|1|x-jat|Net Ghost Pipopa
 13345|2|x-jat|Net-juu no Susume
 11480|2|x-jat|Netgame no Yome wa Onnanoko ja Nai to Omotta?
@@ -49794,6 +49821,7 @@
 9349|2|x-jat|Tabisuru Nuigurumi: Traveling "Daru"
 7028|2|en|Table Cat
 3470|4|fr|Tableaux d`une exposition
+7867|2|en|Tabo`s Great Dragon-King Planet Expedition
 1256|4|en|Taboo Charming Mother
 11039|1|x-jat|Taboo Tattoo
 11039|4|ja|TABOO TATTOO
@@ -50915,8 +50943,8 @@
 18884|2|en|That Time I Got Reincarnated as a Slime 4
 16776|4|es|That Time I Got Reincarnated as a Slime la película: El vínculo escarlata
 14526|4|en|That Time I Got Reincarnated as a Slime OAD
-18885|2|en|That Time I Got Reincarnated as a Slime the Movie
 16776|4|en|That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond
+18885|2|en|That Time I Got Reincarnated as a Slime the Movie: Tears of the Blue Sea Arc
 17873|4|en|That Time I Got Reincarnated as a Slime: Visions of Coleus
 13763|2|en|That`s (the reason) Why I`m Going To (Rape my niece) Her
 18046|2|en|That`s Journey
@@ -51146,6 +51174,7 @@
 10295|2|en|The Comic Artist and Assistants
 10295|4|en|The Comic Artist and His Assistants
 16376|2|en|The Company Slave Wants to Be Healed by a Little Ghost Girl
+7841|2|en|The Compassion of Bad Badtz-Maru`s Manly Courage
 11978|2|en|The Conceited General
 18001|4|en|The Concierge
 18001|4|de|The Concierge
@@ -55377,6 +55406,7 @@
 10420|4|en|Vampire Vixen
 1263|4|en|Vampire Wars
 1263|1|x-jat|Vampire Wars
+19141|2|en|Vampires-chan Can`t Suck Properly
 14803|2|pt|Vampiro
 14747|4|pt-BR|Vampiro no Jardim
 14747|4|ro|Vampirul din grădină
@@ -58736,7 +58766,8 @@
 9917|1|x-jat|Zecchou Rocket
 4178|1|x-jat|Zegapain
 4178|4|en|Zegapain
-12045|1|x-jat|Zegapain ADP
+12045|1|x-jat|Zegapain Adaptation
+12045|2|en|Zegapain ADP
 18176|1|x-jat|Zegapain STA
 18176|2|x-jat|Zegapain Statement Alpha
 4178|2|x-jat|Zegapain: Memories in the Shell
@@ -73208,8 +73239,8 @@
 13160|4|ja|スロウスタート
 12156|4|ja|ずんだホライずん
 4178|4|ja|ゼーガペイン
-12045|2|ja|ゼーガペイン Adaptation
-12045|4|ja|ゼーガペイン ADP
+12045|4|ja|ゼーガペイン Adaptation
+12045|2|ja|ゼーガペイン ADP
 4178|2|ja|ゼーガペイン Memories in the shell
 18176|2|ja|ゼーガペイン エスティーエー
 18176|2|ja|ゼーガペイン オルタモーダ編
@@ -73748,6 +73779,7 @@
 12153|4|ja|ちゃらんぽ島の冒険
 563|4|ja|チャンス トライアングルセッション
 14357|2|ja|チャンダ号
+19141|4|ja|ちゃんと吸えない吸血鬼ちゃん
 12388|4|ja|チャンネル5.5
 12389|4|ja|チャンネル5.5 (2014)
 12392|4|ja|チャンネル5.5 3rd Season
@@ -79950,8 +79982,8 @@
 14011|4|ja|劇場版 若おかみは小学生!
 10715|4|ja|劇場版 蒼き鋼のアルペジオ
 9000|4|ja|劇場版 薄桜鬼
-18885|4|ja|劇場版 転生したらスライムだった件 2
 16776|4|ja|劇場版 転生したらスライムだった件 紅蓮の絆編
+18885|4|ja|劇場版 転生したらスライムだった件 蒼海の涙編
 10583|4|ja|劇場版 進撃の巨人
 13546|4|ja|劇場版 進撃の巨人 Season 2 覚醒の咆哮
 7036|4|ja|劇場版 遊☆戯☆王 ~超融合! 時空を越えた絆~
@@ -80087,6 +80119,7 @@
 11540|4|zh-Hans|动画锻炼！EX
 12301|4|zh-Hans|动画锻炼!XX
 15376|4|ja|助っ人参上!! THE ANIMATION
+15376|2|ja|助っ人参上！！ THE ANIMATION
 9659|3|ja|勇しぶ.
 12012|4|zh-Hant|勇利!!! on ICE
 1429|4|ja|勇午 交渉人
@@ -82237,6 +82270,7 @@
 3664|4|ja|子鹿物語 THE YEARLING
 1802|4|ja|孔雀王
 8482|4|ja|孕ませて青龍君!
+8482|2|ja|孕ませて青龍君！
 18609|4|ja|孕ませ屋 THE ANIMATION
 10117|4|ja|字のないはがき
 12249|4|zh-Hant|孙悟空: 与三件宝贝
@@ -83394,7 +83428,9 @@
 9281|4|zh-Hans|御宅英文！魔法少女小缎带
 10969|4|zh-Hans|御神乐学园组曲
 1546|4|ja|御神楽探偵団
+1546|2|ja|御神楽探偵団 -活動写真-
 6306|4|ja|御魂
+6306|2|ja|御魂 〜忍〜
 6306|2|ja|御魂~忍~
 4113|4|zh-Hant|復蘇的天空 救援之翼
 6265|4|ja|微熱 ~約束のとき~
@@ -86211,6 +86247,7 @@
 18361|4|zh-Hans|欢迎来到日本，精灵小姐。
 18012|4|zh-Hans|欢迎来到驹田蒸馏所
 6114|4|zh-Hans|欧派生活
+10003|2|ja|欲情バズーカ THE ANIMATION
 10003|4|ja|欲情バズーカ THE ANIMATION たっぷり濃いのイッパツで!
 4249|2|ja|欲望病棟~淫乱病院の謎~
 14990|4|zh-Hans|欺诈大师
@@ -86694,6 +86731,7 @@
 4942|4|ja|淫堕の姫騎士ジャンヌ THE ANIMATION
 1368|4|ja|淫夢~生贄の宴~
 1369|4|ja|淫夢2
+7324|2|ja|淫夢学園
 7324|4|ja|淫夢学園 「だめ... こんなになっちゃうのは夢の中だけなの...!」淫夢に囚われた美人姉妹
 8104|4|zh-Hans|淫妖虫 悦 怪乐变化退魔录
 4739|2|ja|淫妖蟲
@@ -86712,6 +86750,7 @@
 3701|4|ja|淫母
 15326|4|ja|淫毛
 2519|4|ja|淫獄病棟
+1131|2|ja|淫獣 ～ねらわれた花嫁～
 1433|4|ja|淫獣 ねらわれたアイドル
 1131|4|ja|淫獣 ねらわれた花嫁
 1433|2|ja|淫獣 狙われたアイドル
@@ -86721,6 +86760,7 @@
 974|4|ja|淫獣女教師
 682|4|ja|淫獣学園 EX
 663|4|ja|淫獣学園 La Blue Girl
+663|2|ja|淫獣学園 La☆Blue Girl
 676|4|ja|淫獣学園 La☆Blue Girl 復活篇
 670|4|ja|淫獣家庭教師
 910|4|ja|淫獣教師
@@ -88124,6 +88164,7 @@
 7470|4|ja|真・恋姫†無双 Live Revolution
 7277|4|zh-Hans|真・恋姬无双～少女大乱～
 17206|4|ja|真・淫獣学園 La Blue Girl
+17206|2|ja|真・淫獣学園 La☆Blue Girl
 6140|4|ja|真・燐月
 2029|4|ja|真・瑠璃色の雪
 9914|4|ja|真・秘湯めぐり
@@ -88149,6 +88190,7 @@
 1331|4|ja|真奈美&ナミ スプライト
 4325|2|zh-Hans|真实之泪
 8835|4|ja|真希ちゃんとなう.
+8835|2|ja|真希ちゃんとなう。
 2098|4|ja|真拳伝説 タイトロード
 6105|4|ja|真救世主伝説 北斗の拳 ZERO ケンシロウ伝
 3041|4|ja|真救世主伝説 北斗の拳 トキ伝
