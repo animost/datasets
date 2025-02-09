@@ -1,4 +1,4 @@
-# created: Fri Feb  7 03:00:01 2025
+# created: Sat Feb  8 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -270,6 +270,7 @@
 18736|4|ja|0歳児スタートダッシュ物語
 19119|4|ja|0歳児スタートダッシュ物語 シーズン2
 13813|2|en|1 Day Outside Pass Foreman
+19003|2|x-jat|1-punkan
 18195|2|en|1,000,000,000,000$ Game
 3978|1|x-jat|1+2=Paradise
 3978|4|ja|1+2=パラダイス
@@ -573,6 +574,7 @@
 11046|2|x-jat|3Ping Lovers! Ippu Nisai no Sekai e Youkoso The Animation
 11046|2|ko|3Ping Lovers!☆일부이처의 세계에 오신 것을 환영합니다.
 11046|4|ja|3PingLovers!☆一夫二妻の世界へようこそ♪ THE ANIMATION
+11046|2|ja|3PingLovers！☆一夫二妻の世界へようこそ♪ THE ANIMATION
 5486|2|ja|3tsu no Hanashi
 2|3|x-jat|3x3
 2|4|de|3x3 Augen (OVA 1)
@@ -617,6 +619,7 @@
 12994|4|zh-Hant|3月的獅子 第二季
 16934|4|zh-Hans|3秒后，野兽。～坐在联谊会角落的他是个肉食系
 16934|4|ja|3秒後, 野獣. ~合コンで隅にいた彼は淫らな肉食でした
+16934|2|ja|3秒後、 野獣。 〜合コンで隅にいた彼は淫らな肉食でした
 18236|4|en|4 Cut Hero
 11217|1|x-jat|4 Eyes
 7243|2|en|4-1/2 Tatami Mythological Chronicles
@@ -928,6 +931,7 @@
 10596|4|hu|A hét főbűnös
 15997|4|hu|A hét főbűnös: A fény átka
 17355|4|hu|A hét főbűnös: Az apokalipszis négy lovagja
+16963|4|hu|A hét főbűnös: Edinburgh haragja
 18858|2|en|A History of the Romelia
 14300|4|en|A Hot Night With My Boss in a Capsule Hotel
 18009|2|en|A Housewife`s Healing Touch
@@ -2184,6 +2188,7 @@
 10846|2|x-jat|Aldnoah.Zero S2
 10846|4|zh-Hans|ALDNOAH.ZERO 第二季
 1840|2|it|Alè Alè Alè oo
+16378|4|es|Alégrame el día
 3047|4|es|Alegre Juventud
 271|2|es-CA|Ales Grises
 1194|3|x-jat|Alexander
@@ -4050,9 +4055,11 @@
 15975|2|x-jat|ayumu
 13083|2|fr|Ayuri, tentatrice acoustique et lunatique
 12526|3|ja|az
+18285|4|hu|Az én démonom
 106|2|vi|AZ Manga King
 12986|4|hu|Az Ördög bábuja
 5945|4|hu|Az univerzum védői
+14091|2|hu|Az űr gyermekei
 1741|4|hu|Az Űrrepülőszázad
 9501|3|x-jat|azazel z
 8288|2|x-jat|Azazel-san TV
@@ -4254,6 +4261,7 @@
 15341|4|en|Back Arrow
 13619|4|pl|Back Street Girls -GOKUDOLS-
 13619|4|ja|Back Street Girls -ゴクドルズ-
+13619|4|el|Back Street Girls —Τα Κορίτσια της Γιακούζα
 13619|1|x-jat|Back Street Girls: Gokudols
 2295|2|en|Back to the Forest
 18624|4|en|Back to the Great Ming
@@ -5514,6 +5522,7 @@
 6677|4|es-419|Bienvenido a la oficina de Irabu
 2373|4|fr|Bienvenue à l`île de la jouissance
 4121|2|fr|Bienvenue à la NHK
+14748|4|vi|Biệt đội siêu gian
 9010|2|en|Big Breasts Fantasy
 13356|2|en|Big Breasts, Big Family, Hypnosis - I Can`t Stop Having Orgasm-Filled Sex with My Whole Family!
 17856|2|en|Big Brother
@@ -7686,6 +7695,11 @@
 13893|1|x-jat|Carole & Tuesday
 13893|4|pl|Carole & Tuesday
 13893|2|en|Carole and Tuesday
+13893|4|pt-BR|Carole e Tuesday
+13893|4|hu|CAROLE ÉS TUESDAY
+13893|4|ro|Carole și Tuesday
+13893|4|de|Carole und Tuesday
+13893|4|es|Carole y Tuesday
 1894|4|fr|Caroline
 1218|4|sl|Čarovnik Howl in gibljivi grad
 3669|4|sl|Čarovnik iz Oza
@@ -8228,6 +8242,7 @@
 2974|4|en|Chie the Brat (1981)
 4299|1|x-jat|Chie-chan Funsenki Jarinko Chie
 2194|4|en|Chief Joker
+14043|4|vi|Chiến sĩ cơ động Gundam: Tia chớp Hathaway
 4651|2|vi|Chiến Sĩ Karaoke
 4651|2|vi|Chiến Sĩ Karaoke Mike Jirou
 11371|1|x-jat|Chieri to Cherry
@@ -9302,6 +9317,7 @@
 14574|4|ja|COP CRAFT
 14574|4|en|Cop Craft
 8403|1|x-jat|Copihan
+14091|4|ro|Copiii de pe orbită
 7933|1|x-jat|Coppelion
 7933|4|ja|COPPELION
 7933|4|en|Coppelion
@@ -11350,6 +11366,7 @@
 16841|4|pl|Detektyw Conan: Łotrzyk Hanzawa
 16841|4|pt-BR|Detetive Conan: Hanzawa, o Culpado
 16842|4|pt-BR|Detetive Conan: O Dia a Dia de Zero
+14091|4|cs|Děti orbitalu
 8073|4|cs|Děti, které následují hvězdy
 740|1|x-jat|Detonator Orgun
 740|4|fi|Detonator Orgun
@@ -13419,6 +13436,7 @@
 18489|2|x-zht|Dubu Wangu Season 2
 15679|1|x-zht|Dubu Xiaoyao
 13098|4|cs|Duch ve stroji: SAC_2045
+16427|4|cs|Duch ve stroji: SAC_2045 – Udržitelná válka
 61|2|pl|Duch w pancerzu
 890|2|pl|Duch w pancerzu II: Niewinność
 11396|2|en|Duck Brigade
@@ -13464,6 +13482,8 @@
 14620|4|ja|DUEL MASTERS!!
 3412|4|pt|Duelo Imortal: A Animação
 14115|2|pt|Duende Estudante e Professor
+16427|4|hr|Duh u oklopu: SAC_ 2045 - Održivi rat
+13098|4|hr|Duh u oklopu: SAC_2045
 61|4|sl|Duh v školjki
 6671|2|x-jat|Dulalala!!
 6671|2|x-jat|Dullalala
@@ -14844,8 +14864,12 @@
 25|2|it|Excel Saga Animazione Sperimentale
 25|2|es|Excel Saga: Animación Absurda y Experimental
 3703|3|x-jat|Excellion
+16377|4|es|excepción
+16377|4|es-419|Excepción
+16377|4|ro|excepție
 16377|4|ja|exception
 16377|1|x-jat|Exception
+16377|4|th|exception: โคลนปีศาจ
 15331|2|fr|Excès scolaires
 12386|2|fr|Exercices scolaires croustillants
 17661|2|en|Exhibitionist Magical College Girl Christia
@@ -14877,6 +14901,7 @@
 3217|2|en|Explosive Bust Sisters
 4230|4|es-419|Expreso Galáctico 999
 4318|2|en|Expunged Chronicle of Miroku
+18275|4|pt|Exterminador Implacável Zero
 2754|1|x-jat|Extra
 2754|4|ja|EXTRA
 10566|3|x-jat|Extra Chorus
@@ -15960,6 +15985,7 @@
 13784|2|en|For Whom the Alchemist Exists
 13784|4|en|For Whom the Alchemist Exists the Movie
 14898|4|ja|For キミに贈る歌
+14091|4|pt-BR|Fora de Órbita
 7890|3|x-jat|forarteri
 1467|2|en|Forbidden Apocalypse Crystal Triangle
 2451|2|en|Forbidden Love
@@ -17879,6 +17905,7 @@
 4290|4|fr|Ghost in the Shell - Stand Alone Complex - Les Onze Individuels
 4414|4|fr|Ghost in the Shell - Stand Alone Complex - Solid State Society
 1176|4|fr|Ghost in the Shell - Stand Alone Complex 2nd GIG
+16427|2|fr|Ghost in the Shell : SAC_2045 – Guerre totale durable
 61|4|sv|Ghost in the Shell : the movie
 6122|4|ja|GHOST IN THE SHELL (2008)
 6122|1|x-jat|Ghost in the Shell (2008)
@@ -17910,9 +17937,20 @@
 4290|4|en|Ghost in the Shell: S.A.C. 2nd GIG - Individual Eleven
 4290|2|en|Ghost in the Shell: SAC 2nd GIG Movie
 13098|4|en|Ghost in the Shell: SAC_2045
+13098|4|pl|Ghost in the Shell: SAC_2045
+16427|4|it|Ghost in the Shell: SAC_2045 - Guerra sostenibile
+16427|4|es-419|Ghost in the Shell: SAC_2045 - Guerra sostenible
 16427|4|en|Ghost in the Shell: SAC_2045 - Sustainable War
 17940|2|en|Ghost in the Shell: SAC_2045 - The Last Human
+16427|4|pt-BR|Ghost in the Shell: SAC_2045 – Guerra Sustentável
+16427|4|pl|Ghost in the Shell: SAC_2045 – Zrównoważona wojna
 15512|4|en|Ghost in the Shell: SAC_2045 (2022)
+16427|4|pt|Ghost in the Shell: SAC_2045 Guerra Sustentável
+16427|4|tr|Ghost in the Shell: SAC_2045 Sürdürülebilir Savaş
+16427|4|fr|Ghost in the Shell: SAC_2045 Sustainable War
+16427|4|es|Ghost in the Shell: SAC_2045: Guerra sostenible
+16427|4|ro|Ghost in the Shell: SAC_2045: Război sustenabil
+16427|4|hi|Ghost in the Shell: SAC_2045: मनहूस जंग
 247|4|en|Ghost in the Shell: Stand Alone Complex
 247|4|sv|Ghost in the Shell: Stand Alone Complex
 247|4|fi|Ghost in the Shell: Stand Alone Complex
@@ -19038,8 +19076,10 @@
 919|2|en|Great Planet Evil-Destroyer Dangaio
 14990|1|x-jat|Great Pretender
 14990|4|ja|GREAT PRETENDER
+14990|4|fr|Great Pretender
 18280|4|ja|GREAT PRETENDER razbliuto
 18280|4|en|Great Pretender Razbliuto
+14990|2|zh-Hant|GREAT PRETENDER 頂級欺詐師
 18280|1|x-jat|Great Pretender: Razbliuto
 11362|1|x-jat|Great Rabbit
 15694|2|en|Great Story: The Young Men`s Journey
@@ -19334,6 +19374,7 @@
 715|4|it|Gundam
 715|3|x-jat|Gundam
 720|4|pl|Gundam - Odwet Chara
+18096|4|fr|Gundam : Requiem pour une vengeance
 729|3|x-jat|Gundam (1981)
 5252|3|x-jat|Gundam 00
 729|2|en|Gundam 0079 Movie Trilogy Part I
@@ -19446,6 +19487,7 @@
 10708|2|x-jat|Gundam: Gundam-san
 908|2|x-jat|Gundam: Gundam-W: Endless Waltz
 720|3|x-jat|Gundam: Gyakushuu no Char
+18096|4|vi|Gundam: Khúc cầu hồn thù hận
 915|2|x-jat|Gundam: Kidou Butouden G Gundam
 5252|2|x-jat|Gundam: Kidou Senshi Gundam 00
 5903|2|x-jat|Gundam: Kidou Senshi Gundam 00 (2008)
@@ -19502,8 +19544,12 @@
 4741|1|x-jat|Gundam: Mission to the Rise
 7670|2|x-jat|Gundam: Mokei Senshi Gunpla Builders Beginning G
 3344|2|x-jat|Gundam: Musha Knight Commando: SD Gundam Scramble
+18096|4|hu|Gundam: Rekviem a bosszúért
 18096|4|en|Gundam: Requiem for Vengeance
 18096|2|pt|Gundam: Réquiem para a Vingança
+18096|4|es|Gundam: Réquiem para una venganza
+18096|4|es-419|Gundam: Réquiem para una venganza
+18096|4|cs|Gundam: Requiem za pomstu
 9038|2|x-jat|Gundam: Ring of Gundam
 1703|2|x-jat|Gundam: SD Gundam Force
 7399|2|x-jat|Gundam: SD Gundam Sangokuden: Brave Battle Warriors
@@ -24792,6 +24838,8 @@
 3191|4|fr|Jours d`hiver
 12934|2|fr|Joutes de jouvencelles
 18478|1|x-jat|Jouzai
+14091|4|es|Jóvenes en órbita
+14091|4|es-419|Jóvenes en órbita
 2713|4|pt-BR|Jovens Guerreiros
 13673|2|fr|Joyeusetés
 83|3|x-jat|jr
@@ -26006,6 +26054,7 @@
 4931|3|x-jat|kdep
 7625|3|x-jat|KDOS
 5578|3|x-jat|kdx!
+18275|4|vi|Kẻ hủy diệt Zero
 14990|4|vi|Kẻ lừa đảo vĩ đại
 16101|4|vi|Kẻ Ngoại Lai Ở Học Viện Ma Vương Ⅱ : Ma Vương Mạnh Nhất Lịch Sử Tái Thế và Đi Học Cùng Các Hậu Duệ
 15131|4|vi|Kẻ Ngoại Lai Ở Học Viện Ma Vương: Ma Vương Mạnh Nhất Lịch Sử Tái Thế và Đi Học Cùng Các Hậu Duệ
@@ -27165,10 +27214,12 @@
 12108|1|x-jat|Kitty to Mimi no Atarashii Kasa
 7858|1|x-jat|Kitty to Mimmy no Happy Birthday
 3536|2|en|Kitty-Cat Fantasia
+16377|4|hu|Kivétel
 13128|4|ja|KiyaKiya
 13128|1|x-jat|KiyaKiya
 15476|4|en|Kiyo in Kyoto: From the Maiko House
 16918|1|x-jat|Kiyo Neko
+19143|1|x-jat|Kizetsu Yuusha to Ansatsu Hime
 2246|2|pl|Kizia i Mizia
 11692|1|x-jat|Kiznaiver
 11692|4|en|Kiznaiver
@@ -29251,7 +29302,7 @@
 10967|4|fr|Le garçon et la bête
 13545|4|fr|Le Garçon et le Héron
 17318|2|fr|Le gigolo attitré de l’Académie pour filles Seika
-14990|4|fr|Le grand escroc
+14990|2|fr|Le grand escroc
 18001|4|fr|Le Grand Magasin
 1337|2|fr|Le guerrier démon Koji
 17012|2|fr|Le jardin fleuri du foyer Takamine
@@ -33475,6 +33526,8 @@
 4693|4|es|Mi Amigo el Mapache
 16994|1|x-zht|Mi Bao Chuanshuo: Bai Cheng Ming Huan You Ji
 16269|1|x-zht|Mi Bao Zhi Guo
+18285|4|es|Mi daimon
+18285|4|es-419|Mi daimon
 16995|1|x-zht|Mi Duo De Tuya Riji
 17304|4|es|Mi feliz matrimonio
 17304|4|es-419|Mi feliz matrimonio
@@ -34191,6 +34244,7 @@
 729|2|en|Mobile Suit Gundam - The Movie Trilogy Part I
 4166|2|en|Mobile Suit Gundam - The Movie Trilogy Part II
 4167|2|en|Mobile Suit Gundam - The Movie Trilogy Part III
+14043|4|fr|Mobile Suit Gundam : L`éclat de Hathaway
 5252|4|fr|Mobile Suit Gundam 00
 5252|4|de|Mobile Suit Gundam 00
 5252|4|en|Mobile Suit Gundam 00
@@ -34392,6 +34446,7 @@
 13871|4|fr|Moi, quand je me réincarne en Slime
 14767|4|fr|Moi, quand je me réincarne en Slime (2021)
 14526|4|fr|Moi, quand je me réincarne en Slime OAD
+18285|4|hr|Moj demon
 303|4|pl|Mój sąsiad Totoro
 303|4|sl|Moj sosed Totoro
 17304|4|hr|Moj sretni brak
@@ -35030,6 +35085,7 @@
 13916|1|x-jat|Muhyo to Roji no Mahouritsu Soudan Jimusho
 14953|1|x-jat|Muhyo to Roji no Mahouritsu Soudan Jimusho (2020)
 13916|2|x-jat|Muhyo to Rouji no Mahouritsu Soudan Jimusho
+18285|4|cs|Můj démon
 10322|4|cs|Můj přítel Bernard
 303|4|cs|Můj soused Totoro
 10567|1|x-jat|Mujaki no Rakuen
@@ -36643,6 +36699,7 @@
 6721|3|x-jat|nhnh s2
 6721|3|x-jat|nhnh2
 5351|2|vi|Nhu Tam Quốc Chí đột kích!! Ryofuko-chan
+14091|4|vi|Những thiếu niên trong không gian
 18830|1|x-zht|Ni De Rensheng Shi Wo Lai Chi Le
 1423|2|x-jat|Ni Kakeru Ichi
 14679|1|x-jat|Ni no Kuni
@@ -37571,6 +37628,7 @@
 3164|4|pt-BR|O Espadachim Ninja
 22|2|pt-BR|O Evangelho de uma Nova Gênesis
 485|4|pt|O Expresso da Galáxia
+18275|4|pt-BR|O Exterminador do Futuro Zero
 61|4|pt-BR|O Fantasma do Futuro
 9658|2|pt|O Fantasma do Futuro: Rebelião
 11023|2|pt|O Fantasma do Futuro: Rebelião - Arquitetura Alternativa
@@ -38099,6 +38157,8 @@
 18719|2|en|Once Upon a Witch`s Death
 335|2|pt-BR|Ondas do Oceano
 136|3|x-jat|One
+136|2|ja|ONE 〜輝く季節へ〜
+1720|2|ja|ONE 〜輝く季節へ〜 True Stories
 136|2|en|One ~To the Radiant Season~
 136|2|ko|ONE ~빛나는 계절로~
 1720|2|ko|ONE ~빛나는 계절로~ True Stories
@@ -38616,6 +38676,7 @@
 7185|4|fr|Orbital
 14991|1|x-jat|Orbital Era
 14991|4|ja|ORBITAL ERA
+14091|4|hr|Orbitalna djeca
 12101|1|x-jat|Orchestra
 1398|1|x-jat|Orchid Emblem
 1398|4|de|Orchid Emblem
@@ -39298,6 +39359,8 @@
 17311|1|x-jat|Pan o Funda Musume
 14452|1|x-jat|Pan to Boku no Momo-chan
 17879|2|pl|Pan Złol ma dziś wolne
+13098|4|hu|Páncélba zárt szellem: SAC_2045
+16427|4|hu|Páncélba zárt szellem: SAC_2045 - Fenntartható háború
 2693|1|x-jat|Panchira Teacher
 13816|4|en|Panda and Little Mole
 1861|4|en|Panda and the Magic Serpent
@@ -44356,6 +44419,7 @@
 17752|4|de|Saint Seiya: Knights of the Zodiac - Battle for Sanctuary Part II
 1887|4|en|Saint Seiya: Legend of Crimson Youth
 8279|1|x-jat|Saint Seiya: Legend of Sanctuary
+13347|4|es-419|SAINT SEIYA: Los Caballeros del Zodiaco
 5670|1|x-jat|Saint Seiya: Meiou Hades Elysion Hen
 343|1|x-jat|Saint Seiya: Meiou Hades Juuni Kyuu Hen
 3705|1|x-jat|Saint Seiya: Meiou Hades Meikai Hen
@@ -45293,11 +45357,13 @@
 16020|4|ro|Secția de Extragere a Spermei
 10596|4|hr|Sedam smrtnih grijeha
 17355|4|hr|Sedam smrtnih grijeha: Četiri jahača apokalipse
+16963|4|hr|Sedam smrtnih grijeha: Gnjev Edinburgha
 15997|4|hr|Sedam smrtnih grijeha: Prokletstvo svjetla
 1542|4|cs|Sedm Samurajů
 10596|4|cs|Sedm smrtelných hříchů
 17355|4|cs|Sedm smrtelných hříchů: Čtyři rytíři apokalypsy
 15997|4|cs|Sedm smrtelných hříchů: Prokletí světlem
+16963|4|cs|Sedm smrtelných hříchů: Zášť edinburská
 16048|2|en|Seduced by My Best Friend
 8561|2|fr|Séductions éphémères
 2028|4|pt-BR|Seduzida: A História de Nakano Takashiro
@@ -49378,6 +49444,7 @@
 508|4|de|Super Kickers 2006 - Captain Tsubasa
 2760|4|en|Super Kid
 780|1|x-jat|Super Kuma-san
+14748|4|it|Super ladri
 4202|2|en|Super Lifeforms Transformers: Beast Wars Neo
 11209|1|x-jat|Super Lovers
 11209|4|ja|SUPER LOVERS
@@ -49466,6 +49533,7 @@
 1673|4|en|Superconductive Robot Tetsujin 28 FX
 4099|2|en|Superdimensional Romanesque Samy: Missing 99
 1035|2|pl|Superdziewczyna Maris
+14748|4|ro|Superescrocii
 7429|1|x-jat|Superflat First Love
 7429|4|ja|SUPERFLAT FIRST LOVE
 5057|1|x-jat|Superflat Monogram
@@ -49473,6 +49541,7 @@
 77|2|es|Superfortaleza Dimensional Macross
 1035|2|pl|Supergirl
 1848|4|es|Supergol
+14748|4|cs|Supergrázlové
 1069|4|es-GA|Superheroe na galaxia
 2045|2|en|Superhuman Combat Team Baratack
 1703|2|en|Superior Defender Gundam Force
@@ -49492,6 +49561,7 @@
 153|4|fi|Superperhe
 475|4|sl|Superpunce
 1392|4|pl|Superświnka
+14748|4|hr|Superzločinci
 15215|4|en|Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town?
 17258|2|en|Supreme Galaxy
 17333|2|en|Supreme Galaxy Season 2
@@ -50790,6 +50860,7 @@
 17118|4|en|Teppen!!!!!!!!!!!!!!! Laughing `Til You Cry
 9634|2|x-kot|Tera
 12717|1|x-jat|Terajima-chou Kidan: Ginnagashi
+18275|4|hu|Terminátor – A vég kapujában
 18275|1|x-jat|Terminator 0
 18275|4|en|Terminator Zero
 18275|4|pl|Terminator Zero
@@ -50934,6 +51005,7 @@
 5996|2|en|That Girl is 1000%
 10596|4|vi|Thất hình đại tội
 15997|4|vi|Thất hình đại tội: Lời nguyền của ánh sáng
+16963|4|vi|Thất hình đại tội: Mối thù Edinburgh
 17355|4|vi|Thất hình đại tội: Tứ kỵ sĩ Khải Huyền
 14629|2|en|That Housewives at That Apartment Complex are...
 11011|2|en|That Is a Voice Actor!
@@ -51011,6 +51083,7 @@
 12942|4|pl|The Ancient Magus` Bride
 17599|4|en|The Ancient Magus` Bride Season 2
 18076|4|en|The Ancient Magus` Bride Season 2 (2023)
+18076|2|en|The Ancient Magus` Bride Season 2 Part 2
 16113|4|en|The Ancient Magus` Bride: The Boy from the West and the Knight of the Blue Storm
 11982|4|en|The Ancient Magus` Bride: Those Awaiting a Star
 13732|2|en|The Ancient Welkin
@@ -52304,8 +52377,10 @@
 11646|4|de|The Seven Deadly Sins: Die Rückkehr der Gebote
 15459|4|en|The Seven Deadly Sins: Dragon`s Judgement
 16963|4|es|The Seven Deadly Sins: El Rencor de Edimburgo
+16963|4|es-419|The Seven Deadly Sins: El rencor de Edimburgo
 17355|4|en|The Seven Deadly Sins: Four Knights of the Apocalypse
 18558|2|en|The Seven Deadly Sins: Four Knights of the Apocalypse (2024)
+16963|4|pt-BR|The Seven Deadly Sins: Fúria de Edimburgo
 16963|4|en|The Seven Deadly Sins: Grudge of Edinburgh
 14819|4|en|The Seven Deadly Sins: Imperial Wrath of the Gods
 14819|4|pl|The Seven Deadly Sins: Imperialny Gniew Bogów
@@ -52331,10 +52406,13 @@
 12047|4|en|The Seven Deadly Sins: Signs of Holy War
 12047|4|pl|The Seven Deadly Sins: Ślady Świętej Wojny
 15459|4|pl|The Seven Deadly Sins: Smoczy Rozsądek
+16963|4|ro|The Seven Deadly Sins: Ura din Edinburgh
 14819|2|en|The Seven Deadly Sins: Wrath of the Gods
 15997|4|el|The Seven Deadly Sins: Η Κατάρα του Φωτός
+16963|4|el|The Seven Deadly Sins: Μίσος στο Εδιμβούργο
 17355|4|el|The Seven Deadly Sins: Οι Τέσσερις Ιππότες της Αποκάλυψης
 17355|4|he|The Seven Deadly Sins: ארבעת אבירי האפוקליפסה
+16963|4|he|The Seven Deadly Sins: טינת אדינבורו
 15997|4|he|The Seven Deadly Sins: קללת האור
 13599|4|en|The Seven Heavenly Virtues
 10686|2|en|The Seven Impregnated Women Who Sneaked into the Night
@@ -52449,6 +52527,7 @@
 16029|4|en|The Strongest Sage with the Weakest Crest
 18980|2|en|The Strongest Sect of All Ages
 18229|4|en|The Strongest Tank`s Labyrinth Raids: A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero`s Party
+19143|2|en|The Stunned Hero and the Assassin Princesses
 17601|4|en|The Success of Empyrean Xuan Emperor
 17602|4|en|The Success of Empyrean Xuan Emperor 2
 18434|2|en|The Success of Empyrean Xuan Emperor 3
@@ -55798,6 +55877,8 @@
 181|3|x-jat|VnB
 16174|3|x-jat|vnk
 16367|3|x-jat|vnk2
+13098|4|vi|Vỏ bọc ma: SAC_2045
+16427|4|vi|Vỏ bọc ma: SAC_2045 Chiến tranh trường kỳ
 16873|1|x-jat|Vocaloid China Project Senden Animation
 16873|4|ja|VOCALOID CHINA PROJECT宣伝用アニメーション
 104|4|es|Voces de una estrella distante
@@ -57415,10 +57496,16 @@
 2429|4|en|Yakitate!! Japan
 2429|1|x-jat|Yakitate!! Japan
 17942|1|x-jat|Yakitori
+17942|2|fr|Yakitori : Soldats d`infortune
+17942|4|hu|Yakitori: A balszerencse katonái
+17942|4|vi|Yakitori: Những chiến binh cảm tử
 17942|4|es|Yakitori: Soldados de la desdicha
+17942|4|es-419|Yakitori: Soldados de la desdicha
 17942|4|pt-BR|Yakitori: Soldados do Desastre
 17942|4|en|Yakitori: Soldiers of Misfortune
+17942|4|fr|Yakitori: Soldiers of Misfortune
 17942|4|pl|Yakitori: Żołnierze niedoli
+17942|4|zh-Hant|YAKITORI：行星軌道敢死隊
 17942|4|zh-Hans|YAKITORI：行星轨道敢死队
 12618|3|x-jat|yakuindomo movie
 15294|3|x-jat|yakuindomo movie 2
@@ -59254,6 +59341,7 @@
 6460|4|el|Ένα Κάποιο Επιστημονικό Υπερόπλο
 1424|4|el|Ένα Φάντασμα στην Κίνα
 14|4|el|Ενορχήστρωση
+18275|4|el|Εξολοθρευτής Μηδέν
 865|4|el|Επικίνδυνο Όνειρο
 1825|4|el|Έρικ ο Βίκινγκ
 1434|4|el|Ερωτικά Μαθήματα
@@ -59432,6 +59520,7 @@
 1737|4|el|Τα Αστρόπλοια του Γαλαξία
 2277|4|el|Τα Λέπια του Αισώπου
 2225|4|el|Τα μαγικά Ταξείδια του Παπουτσωμένου Γάτου
+14091|4|el|Τα Παιδιά της Τροχιάς
 2023|4|el|Τα παιδιά των καπνοδόχων
 1933|4|el|Τα Τοσοδούλια από το Διάστημα
 15932|4|el|Τα Χρονικά του Ράγκναροκ
@@ -59457,6 +59546,8 @@
 2279|2|el|Το Παιδί της Ζούγκλας
 1681|4|el|Το Ράλλυ του Μόντε Κάρλο
 1133|4|el|Το Τρίγωνο
+13098|4|el|Το Φάντασμα στο Κέλυφος: SAC_2045
+16427|4|el|Το Φάντασμα στο Κέλυφος: SAC_2045 - Βιώσιμος Πόλεμος
 2316|4|el|Το χρυσό πουλί
 3675|4|el|Τομ Σόγιερ και Χάκ Φίν
 573|4|el|Τρελή Νύχτα
@@ -59947,6 +60038,7 @@
 69|4|uk|Великий куш
 14990|2|ru|Великий притворщик
 191|2|ru|Великий учитель Онидзука
+14990|4|uk|Великий шахрай
 8869|2|bg|Великите подвизи на Ода Нобуна
 191|2|bg|Великият учител Онизука
 10399|2|ru|Великолепный парк Амаги
@@ -60180,6 +60272,8 @@
 14495|4|ru|Гандам Билд Дайверы: Новый восход
 15333|4|ru|Гандам Билд Дайверы: Новый восход (2020)
 13774|4|ru|Гандам Билд: Дайверы
+18096|4|ru|Гандам: реквием возмездия
+18096|4|uk|Ґандам: Реквієм за помстою
 2400|2|ru|Ганц
 2400|2|bg|Ганц
 2400|2|uk|Ґанц
@@ -60470,6 +60564,7 @@
 7232|2|bg|Детектив Конан: Шиничи и Ран - спомени за Маджонг и Танабата
 14789|2|ru|Детективное агентство «Дятел»
 15364|4|bg|Детективът милионер: Баланс неограничен
+14091|4|ru|Дети на орбите
 8870|4|ru|Дети на склоне
 5587|2|bg|Детройт Метъл Сити
 5587|2|ru|Детройт, город металла
@@ -60855,6 +60950,7 @@
 14198|4|ru|Зомбилэнд-Сага
 15028|4|ru|Зомбилэнд-Сага: Возмездие
 209|2|ru|Зоомагазин ужасов
+16378|4|uk|ЗРОБИ МІЙ ДЕНЬ
 16163|4|uk|Зроби сам!!
 6249|4|mn|Зуны Дайн
 7258|4|mn|Зээлдэгч Арриэтти
@@ -61320,6 +61416,7 @@
 6257|2|ru|Кэйон!
 11216|4|ru|Кэнган Асура
 5574|2|ru|Кэнди-Бой
+13893|4|ru|Кэрол и Тьюздей
 13893|2|ru|Кэрол и Тьюсдей
 713|4|ru|Лабиринт сновидений
 515|2|bg|Лабиринтът на огъня
@@ -61686,6 +61783,7 @@
 11553|2|ru|Мисс Монохром 3
 5779|2|ru|Мичико и Хатчин
 451|2|ru|Миюки в Стране Чудес
+18285|4|uk|Мій демон
 4544|2|uk|Мій піко
 303|2|uk|Мій сусід Тоторо
 17304|4|uk|Мій щасливий шлюб
@@ -61711,6 +61809,7 @@
 11740|2|bg|Мобилни костюми Гъндам: Тъндърболт
 5252|2|ru|Мобильный воин ГАНДАМ 00
 755|2|ru|Мобильный воин Гандам Икс: После войны
+14043|4|ru|Мобильный воин Гандам: вспышка Хэтэуэя
 252|2|ru|Мобильный воин ГАНДАМ: Поколение
 2186|2|ru|Мобильный воин ГАНДАМ: Судьба поколения
 332|4|ru|Могила светлячков
@@ -61724,6 +61823,7 @@
 370|4|uk|Мої сусіди Ямада
 17720|4|ru|Мой глупый первый друг
 7230|2|ru|Мой господин и я
+18285|4|ru|Мой деймон
 5278|4|ru|Мой любимый робот
 4544|2|ru|Мой Пико
 14253|4|ru|Мой сосед по комнате — кошка
@@ -62001,6 +62101,7 @@
 98|2|bg|неустрашим войн
 458|2|ru|Нечто важное для мага [ТВ-1]
 5830|2|ru|Нечто важное для мага [ТВ-2]
+16377|4|ru|Нештатная ситуация
 8057|2|bg|Ниво Е
 15144|4|ru|Низкоуровневый Томодзаки
 15144|2|uk|Низькорівневий персонаж Томозакі
@@ -62418,6 +62519,7 @@
 334|4|ru|Помпоко: война тануки в период Хэйсэй
 3677|4|uk|Попелюшка
 836|2|ru|Попотан
+16378|4|ru|ПОРАДУЙ МЕНЯ
 306|2|uk|Порко Россо
 306|4|ru|Порко Россо
 306|4|bg|Порко Россо
@@ -62482,12 +62584,16 @@
 1924|2|ru|Привет, Сэндибелл!
 3058|2|bg|Привет! Звездният ангел Йоко
 247|2|uk|Привид в латах: Синдром самітника
+13098|4|uk|Привид у броні: SAC_2045
+16427|4|uk|Привид у броні: SAC_2045. Стабільна війна
 17552|4|uk|Пригоди аристократа в іншому світі
 7190|2|ru|Признание Фумико
 61|4|ru|Призрак в доспехах
 1176|2|ru|Призрак в доспехах - Автономный комплекс
 890|4|ru|Призрак в доспехах 2: Невинность
 6122|2|ru|Призрак в доспехах 2.0
+13098|4|ru|Призрак в доспехах: SAC_2045
+16427|4|ru|Призрак в доспехах: SAC_2045. Стабильная война
 247|2|ru|Призрак в доспехах: Автономный комплекс
 890|2|ru|Призрак в доспехах: Невинность
 247|4|ru|Призрак в доспехах: Синдром одиночки
@@ -62899,6 +63005,7 @@
 11646|2|ru|Семь смертных грехов: Возрождение заповедей
 15997|4|ru|Семь смертных грехов: проклятие света
 17355|4|ru|Семь смертных грехов. Всадники Апокалипсиса
+16963|4|ru|Семь смертных грехов. Гнев Эдинбурга
 16947|4|ru|Семья шпиона
 17061|4|ru|Семья шпиона (2022)
 112|3|uk|Сен та Чіхіро
@@ -62951,6 +63058,7 @@
 5084|2|ru|Сияющие Слёзы И Ветер
 5001|2|uk|Сільський лікар
 10596|4|uk|Сім смертних гріхів
+16963|4|uk|Сім смертних гріхів: Гнів Единбургу
 15997|4|uk|Сім смертних гріхів: Прокляття світла
 17355|4|uk|Сім смертних гріхів: Чотири лицарі Апокаліпсису
 17488|2|ru|Сказ о парии
@@ -63144,8 +63252,10 @@
 4087|4|ru|Сунь Укун: Бунт в небесных чертогах
 4907|2|ru|Сунь Укун: Царь обезьян побеждает демонов
 1392|4|ru|Супер поросенок
+14748|4|ru|Суперзлодеи
 3081|4|ru|Суперкнига
 3082|4|ru|Суперкнига (2 сезон)
+14748|4|uk|Суперпоганці
 13147|2|ru|Супружеская пара и алкоголь
 8852|2|uk|Сутінкова дівчина х Амнезія
 2053|2|ru|Суть ангелов
@@ -63794,6 +63904,7 @@
 287|4|ru|Юная революционерка Утэна
 256|2|ru|Юная революционерка Утэна: Конец Света юности
 1267|2|ru|Юнико
+14091|4|uk|Юні підкорювачі космосу
 11110|2|ru|Юность и оружие
 1240|4|ru|Юный детектив Киндайти
 11342|2|ru|Юный дух горячего источника Хаконе-тян
@@ -63834,6 +63945,7 @@
 8288|2|ru|Явись, Азазель ТВ
 3067|2|bg|Ягодка 100%
 4346|2|ru|Язык воды
+17942|4|uk|Якіторі: Солдати невдачі
 336|2|uk|Якщо прислухатись
 10955|2|ru|Ямада-кун и семь ведьм
 370|3|uk|Ямади
@@ -63909,6 +64021,7 @@
 30|4|he|אקס
 15587|4|he|ארוויג והמכשפה
 13165|2|he|ארץ אבני החן
+16378|4|he|ארץ הקרח והשלג
 14051|2|he|ארץ לעולם לא המובטחת
 14801|2|he|ארץ לעולם לא המובטחת (2021)
 13475|4|he|באטמן נינג`ה
@@ -63936,6 +64049,7 @@
 636|4|he|בנות הים
 17175|4|he|בסטרד!! הבי מטאל, פנטזיה אפלה
 5098|4|he|בקוגן
+13619|4|he|בקסטריט גירלז
 12700|4|he|ברוכים הבאים לאולם הנשפים
 98|2|he|ברזרק
 12277|4|he|בשם הצדק :Cyborg 009
@@ -63951,6 +64065,7 @@
 2738|4|he|גברת פלפלת
 335|4|he|גלי האוקיינוס
 7243|2|he|גלקסיית הטטאמי
+18096|4|he|גנדאם: רקוויאם לנקמה
 962|4|he|גרנדייזר
 14491|2|he|ד"ר סטון
 15305|2|he|ד"ר סטון: מלחמות האבן
@@ -64058,6 +64173,7 @@
 788|2|he|הרפתקואותיו הביזריות של ג`וג`ו
 789|2|he|הרפתקואותיו הביזריות של ג`וג`ו (2000)
 4776|2|he|השד עלול לבכות
+18285|4|he|השדָה שלי
 12523|4|he|השיר האבוד
 303|4|he|השכן הקסום שלי טוטורו
 11829|2|he|השם שלך
@@ -64090,11 +64206,13 @@
 14797|4|he|חייו הרי-האסון של סאיקי ק.: התעוררות מחדש
 14659|4|he|חייתיים
 648|4|he|חלוצי החלל
+14043|4|he|חליפה ניידת גנדאם: הפלאש של הת`אוויי
 11372|4|he|חליפה ניידת גנדאם: יתומי דם ברזל
 12048|4|he|חליפה ניידת גנדאם: יתומי דם ברזל עונה 2
 3159|4|he|חמישיה
 14685|4|he|חפש את הדרקון
 10858|4|he|חרבו של גאי: האנימציה
+16377|4|he|חריג
 3601|4|he|טאו-טאו
 13270|4|he|טאקאגי-סאן אלופת ההקנטות
 14591|4|he|טאקאגי-סאן אלופת ההקנטות עונה 2
@@ -64120,6 +64238,7 @@
 13537|4|he|יער הפסנתר
 14193|4|he|יער הפסנתר עונה 2
 15138|4|he|יפן שוקעת: 2020
+17942|4|he|יקיטורי: חיילים חסרי מזל
 14997|4|he|יש חיה כזאת
 2429|2|he|ישר מהתנור! יפן!
 13812|4|he|כה אמר רוהאן קישיבה
@@ -64137,6 +64256,7 @@
 320|4|he|לופן השלישי: טירתו של קליוסטרו
 336|4|he|לחישת הלב
 15547|4|he|לילה טוב עולם
+14091|4|he|לכודים בחלל
 16408|4|he|מאבורושי
 11672|4|he|מאגי: הרפתקאותיו של סינבד
 14063|4|he|מאגמל אולטרמרין
@@ -64156,6 +64276,7 @@
 78|4|he|מטרופוליס
 1834|4|he|מיינד גיים
 13348|4|he|מכסחי התותחים
+16427|4|he|מלחמה קיימותית – SAC_2045 :הרוח במעטפת
 489|4|he|מלחמותיה של סאקורה
 1103|4|he|מלחמותיה של סאקורה 2
 334|4|he|מלחמת הדביבונים
@@ -64183,6 +64304,7 @@
 14977|2|he|מתקפת הטיטאנים: העונה האחרונה
 239|4|he|נארוטו
 4880|2|he|נארוטו: מסעות ההוריקן
+14748|4|he|נוכלי-על
 610|4|he|נוקו נוקו דאש
 22|4|he|ניאון ג`נסיס אוונג`ליון
 2654|4|he|נילס הולגרסון
@@ -64335,6 +64457,7 @@
 3674|4|he|שלגיה
 2707|4|he|שלושת המוסקטרים
 2708|4|he|שלושת השדונים
+18275|4|he|שליחות קטלנית: ההתחלה
 15596|4|he|שמאן קינג (2021)
 2023|2|he|שמיו הכחולים של רומיאו
 286|4|he|שרות המשלוחים של קיקי
@@ -64562,6 +64685,7 @@
 6546|2|ar|الحداد المقدس
 4522|2|ar|الحديقة الحمراء
 3671|4|ar|الحديقة السرية
+16427|4|ar|الحرب المستدامة SAC_2045 :غوست إن ذا شيل
 4708|2|ar|الحرية
 10937|4|ar|الحزن الصامت
 902|4|ar|الحماة الأبطال
@@ -64573,6 +64697,7 @@
 6529|2|ar|الخط الأحمر
 10596|2|ar|الخطايا السبع المميتة
 11646|4|ar|الخطايا السبع المميتة 2
+16963|4|ar|الخطايا السبع المُميتة: أحقاد إدنبرة
 13286|4|ar|الخطايا السبع المُميتة: سجناء السماء
 14819|2|ar|الخطايا السبع المميتة: سخط الآلهة الملكي
 15997|4|ar|الخطايا السبع المُميتة: لعنة الضوء
@@ -64883,6 +65008,7 @@
 18227|4|ar|حارس الزمن بون
 627|2|ar|حافي القدمين جن
 2011|2|ar|حافي القدمين جن 2
+16377|4|ar|حالة استثنائية
 458|4|ar|حالمو في يوم ما
 14707|4|ar|حب الكويكبات
 4932|2|ar|حدود الفراغ : حديقة الآثمين
@@ -65153,6 +65279,7 @@
 2279|2|ar|صبي الأحراش
 7713|4|ar|صراع الجبابرة
 9514|4|ar|صعود الرياح
+14091|4|ar|صغار في المدار
 8740|4|ar|صفر صفر واحد
 943|4|ar|صقور الأرض
 13612|2|ar|صنع في الهاوية فجر الروح العميقة
@@ -65184,6 +65311,7 @@
 12942|4|ar|عروس المشعوذ القديم
 2835|2|fa|عسل و شبدر
 13893|2|ar|عشق الموسيقى
+14748|4|ar|عصابة من الطراز الأول
 3089|4|ar|عظماء ومشاهير العالم
 6236|2|ar|عقيدة الأفاعي
 2270|3|ar|علاء الدين
@@ -65202,6 +65330,8 @@
 7935|2|ar|غابة الأشباح
 1490|2|ar|غابة الأمبراطور ليو
 18593|4|ar|غارودين: نهج مستقل
+14043|4|ar|غاندام هاثاواي فلاش
+18096|4|ar|غاندام: قداس الثأر
 15138|4|ar|غرق اليابان 2020
 11712|4|ar|غريمغار: رماد وأوهام
 3079|4|ar|غزاة من الفضاء
@@ -65236,6 +65366,7 @@
 3100|4|ar|فتى النينجا
 7440|4|ar|فتيات الساموراي
 4383|2|ar|فتيات السماء
+13619|4|ar|فتيات الياكوزا
 2868|4|ar|فتيات وأمنيات
 14453|4|ar|فخر المغتال
 1258|4|ar|فرسان الأرض
@@ -65383,6 +65514,7 @@
 286|2|ar|كيكي لخدمة التوصيل
 13363|2|ar|كيمي نو سويزو وو تابيتاي
 11829|2|ar|كيمي نو نا وا
+18285|4|ar|كينتو ومخلوق الديمون
 17913|4|ar|كينيكومان: حكاية النشأة المثالية
 23|2|fa|کابوی بیباپ
 508|2|fa|کاپیتان سوباسا 2001
@@ -65700,6 +65832,7 @@
 14534|2|ar|ويذرنق وذ يو
 14103|4|ar|ياتوغامي-تشان كانساتسو نيكي
 14957|4|ar|ياتوغامي-تشان كانساتسو نيكي المجلد 2
+17942|4|ar|ياكيتوري: جنود البؤس
 10601|3|ar|ياهاري
 9310|3|ar|ياهاري الأول
 10601|3|ar|ياهاري زوكو
@@ -65728,11 +65861,13 @@
 286|4|hi|किकि की डिलीवरी सर्विस
 12888|4|hi|किलिंग बाइट्स
 11216|4|hi|केंगन आशुरा
+18096|4|hi|गंडम: Requiem for Vengeance
 15547|4|hi|गुड नाइट वर्ल्ड
 332|4|hi|ग्रेव ऑफ़ द फ़ायरफ़्लाइज़
 13734|4|hi|ग्रैंड ब्लू ड्रीमिंग
 303|4|hi|जादुई दोस्त तोतोरो
 9304|4|hi|जोजो के अनोखे कारनामे (2012)
+18275|4|hi|टर्मिनेटर ज़ीरो
 4563|4|hi|डेथ नोट
 17564|4|hi|तहखाने के चटोरे
 15812|4|hi|तात्सु के कारनामे
@@ -65769,6 +65904,7 @@
 13293|4|hi|वोटाकोई: लव इज़ हार्ड फ़ॉर ओटाकु
 18654|4|hi|साकामोतो डेज़
 10596|4|hi|सात खतरनाक पाप
+16963|4|hi|सात खतरनाक पाप: एडिनबर्ग की दुश्मनी
 18283|4|hi|स्कॉट पिलग्रिम
 112|4|hi|स्पिरिटेड अवे
 9514|4|hi|हवा के संग-संग
@@ -65808,6 +65944,7 @@
 18278|4|th|กล่องรักวัยใส
 13734|4|th|ก๊วนป่วนชวนบุ๋งๆ
 4326|2|th|กะคุเอง เฮฟเว่น
+18096|4|th|กันดั้ม: บทสวดส่งวิญญาณแห่งความอาฆาต
 496|4|th|กันดั้มวิง เอนเลสวอลซ์
 1125|4|th|กันดั้มอีโวลฟ์
 185|4|th|กันบัสเตอร์
@@ -65829,6 +65966,8 @@
 16006|4|th|เกิร์ล ฟรอนไลน์
 1191|4|th|แก๊งค์จิ๋วอัจฉริยะ โซนันดะ!
 1104|4|th|โกดันน่า อภินิหาร หุ่นพลังเพลิง
+13098|4|th|โกสต์ อิน เดอะ เชลล์: SAC_2045
+16427|4|th|โกสต์ อิน เดอะ เชลล์: SAC_2045: สงครามเพื่อความยั่งยืน
 161|4|th|ขบวนการ เหมียวเหมียว
 17304|4|th|ขอให้รักเรานี้ได้มีความสุข
 18483|4|th|ขาดทุนเพื่อเป็นเศรษฐี
@@ -65838,6 +65977,7 @@
 15876|4|th|ไขปมภูต ซีซั่น 2
 312|4|th|คนเก่งฟ้าประทาน
 16825|4|th|คนนอกรีต ขีดเส้นล่า
+18275|4|th|คนเหล็ก ซีโร่
 4747|4|th|ครูพิเศษจอมป่วน รีบอร์น!
 5975|4|th|คัมภีร์คาถาต้องห้าม อินเด็กซ์
 5575|4|th|คาโนค่อน จิ้งจอกสาวสุดจี๊ด
@@ -65857,6 +65997,7 @@
 6257|2|th|เค-อง!
 1552|4|th|เคโรโระ ขบวนการ อ๊บ อ๊บ ป่วนโลก
 3215|2|th|แคนวาส 2 - ภาพสเก็ตช์สีรุ้ง
+13893|4|th|แครอลกับทูสเดย์
 5101|4|th|แคลนนาด
 5841|4|th|แคลนนาด อาฟเตอร์ สตอรี่
 4521|4|th|โค้ด กีอัส ภาคการปฏิวัติของลูลูช
@@ -65913,6 +66054,7 @@
 474|2|th|ซิสเตอร์ ปริ๊นเซส : รี เพียว
 4761|4|th|ซุปเปอร์โรบ็อตวอร์ส ออริจินั่ล เจเนอเรชั่น - ดีไวน์วอร์ส -
 3394|4|th|ซุปเปอร์โรบ็อตวอร์ส ออริจินั่ล เจเนอเรชั่น ดิ อนิเมชั่น
+14748|4|th|ซูเปอร์ครูกส์ รวมพลซ่ามหาโจร
 558|2|th|เซนกิ จอมอสูรสองหน้า
 826|4|th|เซนต์เซย์ย่า
 13347|4|th|เซนต์เซย่า เทพบุตรแห่งดวงดาว
@@ -65955,11 +66097,13 @@
 13946|4|th|ดาบล่าพญามาร โดโรโระ
 930|4|th|ดิจิการัต เนี้ยว เหมียวซ่าอลวน!!
 4549|4|th|ดีเกรย์แมน
+18285|4|th|ดีมอนของผม
 621|4|th|ดีเอ็นแองเจิ้ล
 2061|4|th|ดูเอลมอนสเตอร์ ยูกิโอ
 13545|4|th|เด็กชายกับนกกระสา
 15540|4|th|เด็กเดือนตุลา
 8073|4|th|เด็กสาวกับเสียงเพรียกแห่งพิภพเทวา
+14091|4|th|เด็กอวกาศ
 12986|4|th|เดวิลแมน ครายเบบี้
 56|4|th|เดอะ ปริ้นซ์ ออฟ เทนนิส
 2380|4|th|เดอะ ปริ๊นซ์ ออฟ เทนนิส เดอะเฟิร์สเกม
@@ -66035,6 +66179,7 @@
 1964|4|th|เบย์เบลด ศึกลูกข่างสะท้านฟ้า ภาค 2
 594|4|th|เบย์เบลดภาค 3 ศึกอวสานลูกข่างสายฟ้า
 98|2|th|เบอร์เซิร์ค
+13619|4|th|แบ็กสตรีทเกิร์ลส์ โกคุดอลส์
 5611|4|th|แบทแมน: อัศวินแห่งก็อตแธม
 3321|4|th|แบล็คแคท
 16176|4|th|แบล็คโคลเวอร์: ดาบแห่งจักรพรรดิเวทมนตร์
@@ -66117,6 +66262,7 @@
 717|4|th|โมบิลสูทกันดั้ม 0083 สตาร์ดัสท์ เมมโมรี่
 217|4|th|โมบิลสูทกันดั้ม 08th ทีม
 5252|4|th|โมบิลสูทกันดั้ม ดับเบิ้ลโอ
+14043|4|th|โมบิลสูทกันดั้ม ฮาธาเวย์ส แฟลช
 720|4|th|โมบิลสูทกันดั้ม: ชาร์ เคาน์เตอร์ แอทแทค
 4366|4|th|โมบิลสูทกันดั้มซี้ด ซี.อี.73 สตาร์เกเซอร์
 1554|4|th|ไม-HiME ศึกศาสตราเจ้าหญิงแห่งดวงดาว
@@ -66145,6 +66291,7 @@
 16841|4|th|ยอดนักสืบจิ๋วโคนัน: ฮันซาวะ ตัวร้ายสุดโหด
 15320|4|th|ย้อนเวลา รีเมคชีวิต
 4121|2|th|ยัยตัวร้ายกับนายโหลยโท่ย
+17942|4|th|ยากิโทริ: หน่วยทหารกล้าตาย
 370|4|th|ยามาดะ ครอบครัวนี้ไม่ธรรมดา
 7622|4|th|ยายตัวร้ายกับนายมาโซ!
 2826|4|th|ยูเรก้า เซเว่น
@@ -66198,6 +66345,7 @@
 14013|4|th|ไวโอเล็ต เอเวอร์การ์เดน เดอะ มูฟวี่
 10596|4|th|ศึกตำนาน 7 อัศวิน
 17355|4|th|ศึกตำนาน 7 อัศวิน: กาลวิบัติ 4 อัศวิน
+16963|4|th|ศึกตำนาน 7 อัศวิน: แค้นเอดินเบอระ
 13286|4|th|ศึกตำนาน 7 อัศวิน: นักโทษแห่งท้องนภา (เดอะ มูฟวี่)
 15997|4|th|ศึกตํานาน 7 อัศวิน: สาปแห่งแสง
 4193|4|th|ศึกเทพมังกรพิภพสมุทร
@@ -66465,6 +66613,7 @@
 1176|4|ko|공각기동대 SAC 2nd GIG
 247|4|ko|공각기동대 STAND ALONE COMPLEX
 4414|4|ko|공각기동대 Stand Alone Complex - Solid State Society
+13098|4|ko|공각기동대 에스에이씨_2045
 9601|2|ko|공개변소
 7610|2|ko|공격 찌찌
 9650|4|ko|공룡 100만년 똘이
@@ -66656,6 +66805,8 @@
 12549|4|ko|기동전사 건담 썬더볼트(2017)
 2186|4|ko|기동전사 건담 씨드 데스티니
 6517|4|ko|기동전사 건담 유니콘
+18096|4|ko|기동전사 건담: 복수의 레퀴엠
+14043|4|ko|기동전사 건담: 섬광의 하사웨이
 217|4|ko|기동전사 건담: 제 08소대
 11372|4|ko|기동전사 건담: 철혈의 오펀스
 180|2|ko|기동전함 나데시코
@@ -66737,6 +66888,7 @@
 14340|2|ko|나와 그녀의 연수일지
 13148|2|ko|나와 미사키 선생님
 14913|2|ko|나와 선생님과 친구의 엄마
+18285|4|ko|나의 데몬
 11044|4|ko|나의 야요이상
 9522|4|ko|나의 여동생은 "오사카 아줌마"
 327|2|ko|나의 지구를 지켜줘
@@ -67051,6 +67203,7 @@
 865|2|ko|드림 해저드 - 악마의 프로그램 -
 1522|2|ko|드림 헌터 레무
 14197|2|ko|들러리 카노~ 꽉 안아줘~
+16377|4|ko|디 익셉션
 4549|4|ko|디그레이맨
 11345|2|ko|디멘션 W
 862|2|ko|디바인 러브
@@ -67351,6 +67504,7 @@
 3423|4|ko|메이저 2기
 4557|4|ko|메이저 3기
 12461|4|ko|메이지 도쿄 연가
+16378|4|ko|메이크 마이 데이
 2747|2|ko|메이플 칼라즈
 998|2|ko|메조 DSA
 214|2|ko|메조 포르테
@@ -67675,6 +67829,7 @@
 1066|2|ko|비색의 각
 1026|2|ko|비셔스
 14659|4|ko|비스타즈
+14997|4|ko|비엔에이
 2564|2|ko|비욘드
 4080|2|ko|비인전 가우스
 1281|2|ko|비죠나리
@@ -67943,6 +68098,7 @@
 13186|4|ko|슈퍼 타이탄15
 10251|4|ko|슈퍼 태권V
 14648|2|ko|슈퍼 흰둥이
+14748|4|ko|슈퍼크룩스
 5945|4|ko|슈퍼특급 마징가 7
 18222|2|ko|슌카슈토
 13589|4|ko|스노하라장의 관리인
@@ -68270,6 +68426,7 @@
 9257|4|ko|야마노스스메
 13205|4|ko|야마노스스메 서드 시즌
 14088|4|ko|야미시바이 6
+17942|4|ko|야키토리
 14752|2|ko|야한 누나에게 부드럽게 짜이고 싶다
 14752|2|ko|야한 누나한테 짜내고 싶어
 12513|2|ko|야한 신체 측정
@@ -68804,6 +68961,7 @@
 10596|4|ko|일곱 개의 대죄
 17355|4|ko|일곱 개의 대죄: 묵시록의 4기사
 15997|4|ko|일곱 개의 대죄: 빛에 저주받은 자들
+16963|4|ko|일곱 개의 대죄: 원망의 에든버러 파트
 13599|4|ko|일곱개의 미덕
 13383|2|ko|일구유혼
 4870|4|ko|일기당천 Dragon Destiny
@@ -68960,6 +69118,7 @@
 13750|4|ko|즐겁게 놀아보세
 14127|4|ko|즐겁게 놀아보세: 코스프레 대회 / 어른인 나에게
 17480|4|ko|지. －지구의 운동에 대하여
+14091|4|ko|지구 밖 소년소녀
 5039|4|ko|지구로
 428|2|ko|지구방위기업 다이가드
 17297|2|ko|지금까지 제일 좋았던 섹스
@@ -69211,6 +69370,7 @@
 4082|2|ko|캄브리안
 14574|4|ko|캅 크래프트
 559|2|ko|캉캉 바니 엑스트라
+13893|4|ko|캐롤과 튜즈데이
 5280|4|ko|캐릭캐릭 체인지
 1338|2|ko|캐슬 판타지아：성마대전
 6685|2|ko|캠퍼
@@ -69330,6 +69490,7 @@
 13821|4|ko|터닝메카드 W
 13822|4|ko|터닝메카드 W 시즌 2
 13823|4|ko|터닝메카드 W: 반다인의 비밀
+18275|4|ko|터미네이터 제로
 241|4|ko|터치
 9878|4|ko|테니오하! 여자아이가 분명 진짜 야하다구요?
 9878|2|ko|테니오핫
@@ -71652,6 +71813,7 @@
 8605|4|ja|ギャグマンガ日和:ジャンプフェスタ2002版
 1445|4|ja|キャシャーン
 6032|4|ja|キャシャーン Sins
+1338|2|ja|キャッスルファンタジア 〜聖魔大戦〜
 1338|4|ja|キャッスルファンタジア ~聖魔大戦~
 13280|4|ja|キャッチーくんのナイスキャッチ!
 1025|4|ja|キャッツ・アイ
@@ -78021,6 +78183,7 @@
 17355|4|zh-Hant|七大罪 啟示錄四騎士
 18558|4|zh-Hant|七大罪 啟示錄四騎士 第二季
 14819|4|zh-Hans|七大罪 诸神的逆鳞
+16963|4|zh-Hant|七大罪：愛丁堡的恩怨
 15997|4|zh-Hant|七大罪：被光詛咒的人們
 13286|4|zh-Hant|七大罪劇場版：天空的囚人
 11178|4|zh-Hant|七彩卡通老夫子
@@ -78872,6 +79035,7 @@
 8141|4|zh-Hant|來自紅花坂
 9387|4|zh-Hant|來自風平浪靜的明日
 16377|4|zh-Hans|例外
+16377|4|zh-Hant|例外
 4454|4|ja|侍ジャイアンツ
 12307|4|zh-Hans|侍灵演武 将星乱
 12307|4|ja|侍霊演武[ソウルバスター] 将星乱
@@ -79167,6 +79331,7 @@
 12851|4|ja|兄弟こぐま
 9436|4|zh-Hans|兄弟战争
 11325|4|ja|兄貴の嫁さんなら, 俺にハメられてヒイヒイ言ってるところだよ
+11325|2|ja|兄貴の嫁さんなら、俺にハメられてヒイヒイ言ってるところだよ
 15621|4|ja|先輩がうざい後輩の話
 17945|4|ja|先輩はおとこのこ
 17945|6|ja|先輩はおとこのこ this is him (can`t be anyone else)
@@ -79505,6 +79670,7 @@
 8855|4|zh-Hant|冰菓
 8855|4|zh-Hans|冰菓
 16378|4|zh-Hans|冰雪极境
+16378|4|zh-Hant|冰雪極境
 4124|2|zh-Hans|冲吧!彻之进
 12002|4|zh-Hans|冲吧烈子
 2910|4|zh-Hans|决斗大师
@@ -79565,6 +79731,7 @@
 6201|4|ja|凧になったお母さん
 9387|4|ja|凪のあすから
 10891|4|zh-Hans|凭物语
+13893|4|zh-Hant|凱洛與塔斯黛
 7115|4|ja|凸凹新画帳 名案の失敗
 12384|4|zh-Hans|凸变英雄 BABA
 14380|4|zh-Hans|凸变英雄 LEAF (中文版)
@@ -81161,6 +81328,7 @@
 5039|4|ja|地球へ... (2007)
 14091|4|ja|地球外少年少女
 14091|4|zh-Hans|地球外少年少女
+14091|4|zh-Hant|地球外少年少女
 327|4|zh-Hans|地球守护灵
 107|4|zh-Hans|地球少女Arjuna
 107|4|ja|地球少女アルジュナ
@@ -81211,6 +81379,7 @@
 6162|4|ja|堕天使たちの狂宴
 883|4|ja|堕楽
 18378|4|zh-Hans|堕玄师
+1211|2|ja|堕落 〜女教師破壊〜
 1211|4|ja|堕落 ~女教師破壊~
 14906|2|zh|堕落之物RPG 圣骑士路维利亚斯
 12990|4|ja|堕落令嬢 THE ANIMATION
@@ -82816,6 +82985,7 @@
 9246|4|ja|少女x少女x少女 THE ANIMATION
 11876|4|ja|少女から娼女へ...
 11876|2|ja|少女から娼女へ…
+5931|2|ja|少女セクト 〜Innocent Lovers〜
 5931|4|ja|少女セクト ~Innocent Lovers~
 11725|2|ja|少女たちは荒野を目指す
 11725|4|ja|少女たちは荒野を目指す ~Girls beyond the youth KOYA~
@@ -83447,6 +83617,7 @@
 199|4|ja|彼氏彼女の事情
 17038|4|ja|後宮の烏
 17038|2|zh-Hant|後宮之烏
+13619|4|zh-Hant|後街女孩
 18948|4|zh-Hans|徒弟个个是大佬
 12814|4|zh-Hans|徒然Children
 12814|4|ja|徒然チルドレン
@@ -84118,6 +84289,8 @@
 17304|4|zh-Hans|我的幸福婚约
 17308|4|zh-Hans|我的异界之旅
 18998|4|zh-Hans|我的微信通龙宫
+18285|4|zh-Hans|我的恶魔
+18285|4|zh-Hant|我的惡魔
 17766|4|zh-Hans|我的推是坏人大小姐
 17766|4|zh-Hant|我的推是壞人大小姐
 18029|2|zh-Hans|我的新上司是天然呆
@@ -85601,6 +85774,7 @@
 9492|2|ja|未亡人日記 THE ANIMATION 〜憧れのあの女と一つ屋根の下〜
 9492|4|ja|未亡人日記 THE ANIMATION ~憧れのあの女[ひと]と一つ屋根の下~
 15154|4|ja|未体験HORIZON
+18275|2|zh-Hant|未來戰士 Zero
 8395|4|zh-Hant|未來日記
 18137|4|ja|未必の恋
 1776|4|ja|未来からきた少年 スーパージェッター
@@ -85688,6 +85862,7 @@
 12048|4|zh-Hans|机动战士高达 铁血的奥尔芬斯 第二季
 11372|2|zh-Hans|机动战士高达 铁血的孤儿
 14043|4|zh-Hans|机动战士高达 闪光的哈萨维
+18096|4|zh-Hans|机动战士高达：复仇的安魂曲
 16700|2|zh-Hans|机动战士高达：水星的魔女
 729|2|zh-Hans|机动战士高达.电影第1部.大地上的高达
 4166|2|zh-Hans|机动战士高达.电影第2部.衰战士
@@ -86230,11 +86405,15 @@
 5903|4|zh-Hant|機動戰士00 II
 11977|2|zh-Hant|機動戰士GUNDAM UC RE:0096
 16700|2|zh-Hant|機動戰士鋼彈 水星的魔女
+18096|4|zh-Hant|機動戰士鋼彈：復仇的安魂曲
+14043|4|zh-Hant|機動戰士鋼彈：閃光的哈薩威
 5252|2|zh-Hant|機動戰士鋼彈OO
 6517|4|zh-Hant|機動戰士鋼彈UC
 715|4|zh-Hant|機動戰士高達
 4195|2|zh-Hant|機動戰士高達 MS IGLOO -默示錄0079-
 720|4|zh-Hant|機動戰士高達 馬沙之反擊
+18096|2|zh-Hant|機動戰士高達：復仇的安魂曲
+14043|2|zh-Hant|機動戰士高達：閃光之凱薩衛
 5252|2|zh-Hant|機動戰士高達00
 716|4|zh-Hant|機動戰士高達0080 口袋中的戰爭
 11977|2|zh-Hant|機動戰士高達UC RE:0096
@@ -86476,6 +86655,7 @@
 1989|2|ja|気分気分
 6477|2|ja|気持ちいい事して下さい
 11419|4|ja|気球
+19143|4|ja|気絶勇者と暗殺姫
 4105|4|ja|水グモもんもん
 4346|4|ja|水のコトバ
 4485|4|ja|水のたね
@@ -88014,6 +88194,7 @@
 9439|2|ja|痴○のライセンス
 3595|4|ja|痴母
 14475|4|ja|痴漢した女子●生とその後, むさぼり合うようなドエロ純愛
+14475|2|ja|痴漢した女子●生とその後、 むさぼり合うようなドエロ純愛
 14475|2|ja|痴漢した女子高生とその後, むさぼり合うようなドエロ純愛
 9439|4|ja|痴漢のライセンス
 2170|2|zh-Hans|痴漢十人队
@@ -88478,6 +88659,7 @@
 556|4|zh-Hans|神秘的世界 TV
 15237|4|zh-Hans|神笔
 18052|4|zh|神笔马良
+14748|2|zh-Hant|神級大盜
 18583|4|ja|神統記
 18472|4|zh-Hans|神级龙卫
 18641|4|zh-Hans|神级龙卫 (下季)
@@ -88923,6 +89105,7 @@
 9036|4|ja|紙兎ロペ
 12282|4|ja|紙兎ロペ 笑う朝には福来たるってマジっすか!?
 5902|4|ja|素人倶楽部/ハメ撮りアニメ完全無修正!!
+5902|2|ja|素人倶楽部/ハメ撮りアニメ完全無修正！！
 5186|2|zh-Hans|素描本 ~full color`s~
 5414|4|ja|素敵探偵☆ラビリンス
 15052|4|ja|素晴らしき国家の築き方
@@ -89510,6 +89693,7 @@
 14569|4|ja|胡蝶綺 ~若き信長~
 17901|4|zh-Hans|胡言乱语的世界情节剧
 1986|4|ja|胸キュン! はぁとふるCafe
+1986|2|ja|胸キュン！ はぁとふるCafe
 1986|2|ja|胸キュンはぁとふるCafe
 17423|4|zh-Hans|能干的猫今天也忧郁
 17423|2|zh-Hant|能幹貓今天也憂鬱
@@ -89531,6 +89715,7 @@
 7978|4|zh-Hans|腹黑妹妹控兄记!!
 18329|2|zh-Hans|腼腆英雄 东京夺还篇
 18290|4|zh-Hant|膽大黨
+1422|2|ja|臀撃おしおき娘ゴータマン〜ゴータマン誕生篇
 1422|4|ja|臀撃おしおき娘ゴータマン~ゴータマン誕生篇
 5214|4|ja|臀撃おしおき娘ゴータマンR~愛と哀しみのファイナルバトル!!
 7452|4|zh-Hans|臀犬
@@ -90621,6 +90806,7 @@
 16820|4|zh-Hans|超神学院 第四季
 13802|2|zh-Hans|超神学院之雄兵连
 16683|4|zh-Hans|超神游戏
+14748|4|zh-Hant|超級小偷
 9542|2|zh-Hans|超级好吃！B级美食生存之战
 14648|4|zh-Hans|超级小白
 780|4|zh-Hans|超级库玛君
@@ -90731,6 +90917,7 @@
 12934|4|ja|転生剣奴の子づくり闘技場[ハーレムコロッセオ]
 12934|2|ja|転生剣奴の子作り闘技場
 12934|2|ja|転生剣奴の子作り闘技場(ハーレムコロッセオ)
+12934|2|ja|転生剣奴の子作り闘技場（ハーレムコロッセオ）
 18497|4|ja|転生悪女の黒歴史
 17569|4|ja|転生王女と天才令嬢の魔法革命
 18026|4|ja|転生貴族, 鑑定スキルで成り上がる
@@ -92771,6 +92958,7 @@
 16982|2|ja|魔防隊
 9717|4|zh-Hans|魔鬼恋人
 11491|4|zh-Hans|魔鬼恋人 OAD
+18275|4|zh-Hant|魔鬼終結者Zero
 2925|4|ja|魔龍戦紀
 2925|2|ja|魔龍戦記
 16350|2|zh-Hant|魯邦三世 PART6
