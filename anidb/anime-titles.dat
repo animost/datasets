@@ -1,4 +1,4 @@
-# created: Sat Feb  8 03:00:02 2025
+# created: Sun Feb  9 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -31,6 +31,7 @@
 18721|4|es-419|¡Oye, Tonbo! Segunda temporada
 4022|2|es|¡Perro Divino!
 17878|4|es|¡Sobreviviré a base de pociones!
+17878|4|es-419|¡Sobreviviré a base de pociones!
 18517|4|es|¡Va-va-vampiro en los baños!
 690|2|es-419|¡Voy a ser un angel!
 12876|4|ja|?
@@ -286,6 +287,7 @@
 1001|2|lt|100 Istorijų
 17906|2|x-jat|100 Kanojo
 18343|2|ja|100 Kanojo 2
+17906|4|pt-BR|100 Namoradas Que Te Amam Muuuuuito
 15455|1|x-jat|100 Nichikan Ikita Wani
 17906|4|id|100 Pacar yang Sungguh Sangat Amat Benar-benar Mencintaimu
 17806|4|pl|100 rzeczy do zrobienia, zanim zostanę zombie
@@ -717,6 +719,7 @@
 12684|2|en|6HP (Six Hearts Princess) Pink or Black
 12473|4|ja|6つ子とおうまの物語
 12047|3|en|7 Deadly Sins 1.5
+14507|4|vi|7 mầm sống
 853|4|fr|7 of 7
 853|2|en|7 of Seven
 14507|1|x-jat|7 Seeds
@@ -746,11 +749,14 @@
 853|3|en|7o7
 14507|4|ja|7SEEDS
 15229|4|ja|7SEEDS (2020)
+14507|4|zh-Hant|7SEEDS 幻海奇情
+14507|4|zh-Hans|7SEEDS 幻海奇情
 17355|3|x-jat|7sins 4knights
 18558|3|x-jat|7sins 4knights 2
 17702|3|en|7th shota
 18164|3|en|7th time loop
 18164|4|en|7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!
+14507|4|ru|7семян
 853|4|ko|7인의 나나
 16191|4|ja|7人のサンタクロース
 1352|1|x-jat|8 Man
@@ -814,6 +820,7 @@
 3520|4|pt|A Aldeia dos amendoins
 4698|4|pt|A Aldeia dos Pequeninos
 1043|4|es-GA|A ameaza da zona escura
+12712|4|hu|A bálnák gyermekei
 11996|4|hu|A baseball tüzérség
 1954|4|es-GA|A bela dorminte do castelo do demo
 17235|4|en|A Bite of Bone
@@ -824,6 +831,7 @@
 14302|4|en|A Branch of a Pine Is Tied Up
 8166|4|en|A Bridge to the Starry Skies
 784|2|pt|A Canção do Cordeiro
+12523|4|pt|A Canção Perdida
 12637|4|en|A Centaur`s Life
 5975|4|en|A Certain Magical Index
 5975|4|pl|A Certain Magical Index
@@ -887,7 +895,7 @@
 11304|2|en|A Donkey Got a Bit Sulky
 9201|2|en|A Drifting Life
 1428|4|hu|A dzsungel könyve
-18443|2|pt|A Era da Exploração do Cosmos
+18443|4|pt|A Era da Exploração do Cosmos
 1525|4|pt-BR|A espada de Kamui
 12054|4|pt|A Espada do Rei - Final Fantasy XV
 896|2|pt-BR|A Eternidade Desejada por Você
@@ -1016,6 +1024,7 @@
 17004|2|en|A Mortals Journey
 14990|4|hu|A nagy színlelő
 18597|4|en|A New Dawn
+11577|4|vi|Á nhân
 18358|4|en|A Nobody`s Way Up to an Exploration Hero
 2465|4|pt-BR|A Noite do Sexo
 18649|4|hu|A nyár, amikor Hikaru meghalt
@@ -1045,6 +1054,7 @@
 2482|4|pt-BR|A Princesa e o Cavaleiro
 7478|4|pt-BR|A Princesa e o Piloto
 7|4|pt|A Princesa Mononoke
+15996|4|pt-BR|A Princesa Oferenda e o Rei das Feras
 18305|4|pt-BR|A Promessa do Golfe
 18305|4|pt|A Promessa do Golfe
 4953|4|pt|A Rã Valente
@@ -1894,6 +1904,7 @@
 12111|4|pl|Ajin: Demi-Human Sezon 2
 12111|3|x-jat|ajin: part 2
 11577|4|es-419|Ajin: Semihumano
+11577|4|es|Ajin: semihumano
 11577|2|tr|Ajin: Yarı İnsan
 12111|2|tr|Ajin: Yarı İnsan (2016)
 12111|3|en|ajin2
@@ -2994,6 +3005,7 @@
 18502|4|es|Anzu, gato fantasma
 18502|4|pl|Anzu. Kot-duch
 16358|1|x-jat|Ao Ashi
+16358|4|fr|Ao Ashi - Playmaker
 826|2|vi|Áo Giáp Vàng
 10385|1|x-jat|Ao Haru Ride
 10626|1|x-jat|Ao Haru Ride OAD
@@ -3900,8 +3912,10 @@
 17303|4|en|Attack on Titan The Final Season (2023)
 17303|2|en|Attack on Titan The Final Season Part 3
 15582|4|en|Attack on Titan: Chronicle
+18820|4|es-419|Attack on Titan: EL ATAQUE FINAL
 17303|4|de|Attack on Titan: Final Season - The Final Chapters
 11468|4|en|Attack on Titan: Junior High
+18820|4|pt-BR|Attack on Titan: O Último Ataque
 10944|4|de|Attack on Titan: Season 2
 13241|4|de|Attack on Titan: Season 3 - Part 1
 14444|4|de|Attack on Titan: Season 3 - Part 2
@@ -4114,6 +4128,7 @@
 18852|4|ja|Aランクパーティを離脱した俺は, 元教え子たちと迷宮深部を目指す.
 8107|4|zh-Hans|A频道
 8597|4|zh-Hans|A频道+smile
+11950|2|fr|B : Le commencement
 7286|1|x-jat|B Gata H Kei
 7286|4|de|B Gata H Kei
 7286|4|en|B Gata H Kei: Yamada`s First Time
@@ -4161,17 +4176,24 @@
 13495|5|ja|B‐PROJECT ぜっちょう✶えもーしょん
 13495|2|ja|B‐PROJECT 絶頂✶エモーション
 4180|4|ja|B・B BURNING BLOOD
+11950|4|hu|B: A kezdet
+11950|4|cs|B: počátek
 11950|4|hr|B: Početak
+11950|4|vi|B: Sự khởi đầu
 11950|4|es|B: The Beginning
 11950|4|es-419|B: The Beginning
 11950|1|x-jat|B: The Beginning
 11950|4|ja|B: The Beginning
 11950|4|en|B: The Beginning
 11950|4|it|B: The Beginning
+11950|4|fr|B: The Beginning
 14136|2|x-jat|B: The Beginning 2
 14136|2|x-jat|B: The Beginning Season 2
 14136|4|ja|B: The Beginning Succession
 14136|1|x-jat|B: The Beginning Succession
+11950|4|el|B: Η Αρχή
+11950|4|ko|B: 더 비기닝
+11950|4|zh-Hant|B：彼之初
 11950|4|zh-Hans|B：起点
 3515|2|x-jat|B. B. Fish
 3515|2|x-jat|B.B. Fish
@@ -4317,6 +4339,7 @@
 15863|1|x-jat|Bai Gui Youeryuan Di San Ji
 16291|1|x-zht|Bai Gui Youeryuan Di San Ji
 16830|1|x-zht|Bai Gui Youeryuan Di Si Ji
+12523|4|vi|Bài hát thất lạc
 18524|2|x-zht|Bai Jia Jue Zhi: Jianghu Gui Shi Lu
 18524|1|x-zht|Bai Jia Jue: Jianghu Gui Shi Lu
 18524|2|en|Bai Jia Jue: The Strange Stories of Jianghu
@@ -6214,8 +6237,10 @@
 16519|4|en|Blue Lock
 16519|1|x-jat|Blue Lock
 16519|4|pl|Blue Lock
+17955|4|es-419|BLUE LOCK -Episodio Nagi-
 17954|2|x-jat|BLUE LOCK 2
 17954|2|x-jat|BLUE LOCK 2nd Season
+17955|4|pt-BR|BLUE LOCK O FILME -EPISÓDIO NAGI-
 17954|2|x-jat|Blue Lock S2
 17954|2|x-jat|BLUE LOCK Season 2
 17954|1|x-jat|Blue Lock vs. U-20 Japan
@@ -7362,6 +7387,7 @@
 2454|2|en|Camilla-Colored Prison
 16801|4|ro|Căminul Plutitor
 6800|4|en|Camp Pikachu
+7280|4|es-419|Campana de bendición
 7280|3|x-jat|Campanella
 508|4|pt|Campeões: Oliver e Benji
 505|4|pt|Campeões: Oliver e Benji - A Caminho da Glória
@@ -7452,9 +7478,11 @@
 18764|1|x-zht|Cang Yuan Tu: Dongning Fu Fanwai Pian
 13348|1|x-jat|Cannon Busters
 13348|4|ja|CANNON BUSTERS
+13348|4|vi|Cannon Busters: Khắc tinh đại pháo
 15722|4|es|Canta con una chispa de armonía
 4924|4|en|Cantaloupe Collector
 12088|4|es|Cantando Siempre
+12523|4|ro|Cântecul pierdut
 2293|4|es|Cantemos Juntos
 2293|4|it|Cantiamo Insieme
 1544|2|es|Canto Elfico
@@ -7573,6 +7601,7 @@
 3399|2|x-jat|Captain Tsubasa Movie 3
 3561|2|en|Captain Tsubasa Movie 4
 508|2|en|Captain Tsubasa Road to 2002
+17930|4|fr|Captain Tsubasa Saison 2, Junior Youth Arc
 17930|1|x-jat|Captain Tsubasa Season 2: Junior Youth Hen
 17930|4|de|Captain Tsubasa Staffel 2: Die Junioren
 3399|1|x-jat|Captain Tsubasa: Asu ni Mukatte Hashire!
@@ -9121,6 +9150,7 @@
 11359|1|x-jat|Columbos
 3172|1|x-jat|Columbus no Daibouken
 3172|2|en|Columbus`s Great Adventures
+17878|4|pt-BR|Com Poções Eu Me Garanto!
 16389|4|fr|Coma héroïque dans un autre monde
 1449|4|es|Comando Águila (1)
 1450|4|es|Comando Águila (2)
@@ -9317,6 +9347,7 @@
 14574|4|ja|COP CRAFT
 14574|4|en|Cop Craft
 8403|1|x-jat|Copihan
+12712|4|ro|Copiii balenelor
 14091|4|ro|Copiii de pe orbită
 7933|1|x-jat|Coppelion
 7933|4|ja|COPPELION
@@ -9469,6 +9500,7 @@
 11983|4|en|Crane Game Girls
 11983|4|zh-Hans|Crane Game Girls
 12254|4|en|Crane Game Girls Galaxy
+18627|4|fr|Craque pour moi Medaka !
 4127|2|en|Crash Bedaman
 714|2|x-jat|Crash Gear Nitro
 708|1|x-jat|Crayon Shin-chan
@@ -9593,6 +9625,7 @@
 8073|2|pt|Crianças que Perseguem as Vozes Perdidas
 3363|2|es-419|Criatura del Espacio
 1610|2|en|Crime of Passion
+18249|4|fr|Criminelles fiançailles
 2450|4|en|Crimson Climax
 8994|1|x-jat|Crimson Girls: Chikan Shihai
 1345|2|en|Crimson Lotus
@@ -10303,6 +10336,7 @@
 11002|3|x-jat|Dannaken s2
 2300|4|fr|Dans les Alpes avec Annette
 15052|2|fr|Dans les fondations d’une vertueuse nation
+14233|4|fr|Dans un recoin (et d`autres recoins) de ce monde
 9376|4|fr|Dans un recoin de ce monde
 9510|1|x-jat|Dansai Bunri no Crime Edge
 8729|1|x-jat|Danshi Koukousei no Nichijou
@@ -10937,6 +10971,9 @@
 17198|4|fr|Demon Slayer: Kimetsu no Yaiba - Le village des forgerons
 17070|4|en|Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc
 17198|4|es-419|Demon Slayer: Kimetsu no Yaiba Arco de la Aldea de los Herreros
+18699|4|pt-BR|Demon Slayer: Kimetsu no Yaiba Castelo Infinito
+18699|4|es-419|Demon Slayer: Kimetsu no Yaiba Castillo Infinito
+18699|4|fr|Demon Slayer: Kimetsu no Yaiba La Forteresse infinie
 16259|4|en|Demon Slayer: Kimetsu no Yaiba Mt. Natagumo Arc
 16803|2|en|Demon Slayer: Kimetsu no Yaiba Season 2
 16054|2|en|Demon Slayer: Kimetsu no Yaiba Season 3
@@ -11367,6 +11404,7 @@
 16841|4|pt-BR|Detetive Conan: Hanzawa, o Culpado
 16842|4|pt-BR|Detetive Conan: O Dia a Dia de Zero
 14091|4|cs|Děti orbitalu
+12712|4|cs|Děti velryb
 8073|4|cs|Děti, které následují hvězdy
 740|1|x-jat|Detonator Orgun
 740|4|fi|Detonator Orgun
@@ -11604,6 +11642,7 @@
 2038|4|de|Die Schatzinsel
 2214|4|de|Die Schatzinsel - Der Film
 334|2|de|Die Schlacht der Waschbären in der Pompoko-Ära
+15457|4|de|Die Schleim-Tagebücher
 2226|2|de|Die Schwanenprinzessin
 2023|4|de|Die schwarzen Brüder
 2302|2|de|Die schweizer Familie Robinson
@@ -11619,6 +11658,7 @@
 3289|2|de|Die Tragödie der Belladonna
 3126|2|de|Die U-Bahn-Grabscher Bande
 2986|4|de|Die verrückte Welt von Tic und Tac
+12712|4|de|Die Walkinder
 2226|4|de|Die wilden Schwäne
 2234|2|de|Die zwölf Monate
 2120|2|x-jat|Diebuster
@@ -13614,6 +13654,7 @@
 11974|2|pt|É Errado Tentar Pegar Garotas em uma Masmorra? Oratória da Espada
 16647|1|x-zht|E Qi Ao Youji
 153|4|it|È quasi magia Johnny
+17611|4|pt-BR|É Sério Que Eu Sou o Mais Forte?
 12806|2|fr|e t’ai toujours aimé
 1213|4|it|È un po` magia per Terry e Maggie
 653|4|de|E-Mail für Eve
@@ -14083,8 +14124,12 @@
 1593|4|es|El Galáctico
 2211|4|es|El gato con botas
 2210|4|es|El Gato con Botas (1969)
+17758|4|es-419|El Gen de la IA
+17758|4|es|El Gen de la IA
 3558|4|es|El gigoló - Dochinpira
 1682|4|es|El Gladiador
+17662|4|es|El gran clérigo
+17662|4|es-419|El gran clérigo
 14990|4|es-419|El gran farsante
 11997|4|es-419|El gran pasaje
 6968|2|es-419|El Gran Rey Demonio
@@ -15609,6 +15654,7 @@
 225|2|x-jat|figure17
 11211|2|x-jat|File(N): Project PQ
 15540|4|pt|Filha de Kamiari
+12712|4|pt|Filhos das Baleias
 2739|4|pl|Filiputki
 12570|2|fr|Filles faciles pour déraillements sexuels
 8280|2|pl|Film K-On!
@@ -19922,6 +19968,8 @@
 13332|4|en|Haikyu!! Karasuno High School vs Shiratorizawa Academy: Special Feature! The Spring Tournament of Their Youth
 11991|4|de|Haikyu!! Karasuno vs. Shiratorizawa
 13332|4|de|Haikyu!! Karasuno vs. Shiratorizawa: Special Feature! The Spring Tournament of Their Youth
+17570|2|es-419|HAIKYU!! La Batalla del Basurero
+17570|2|fr|HAIKYU!! La Guerre des Poubelles
 15045|4|en|Haikyu!! Land vs Air
 15045|4|de|Haikyu!! Land vs Air
 10145|4|es|Haikyu!! Los Ases del Voley
@@ -20214,6 +20262,12 @@
 17109|1|x-jat|Hanako
 15909|2|en|Hanako in the Toilet vs. the Strong Exorcist
 6366|2|en|Hanako of the Toilet
+18171|4|pt-BR|Hanako-kun Depois da Escola
+18171|4|es|Hanako-kun después de clase
+18171|4|es-419|Hanako-kun después de clase
+14757|4|pt-BR|Hanako-kun e os Mistérios do Colégio Kamome
+14757|4|es|Hanako-kun: El fantasma del lavabo
+18171|4|it|Hanako-kun: il doposcuola dell`Accademia Kamome
 14757|4|pl|Hanako, duch ze szkolnej toalety
 6646|2|lt|Hanamaro darželis
 6646|3|x-jat|Hanamaru
@@ -21225,6 +21279,7 @@
 15021|1|x-jat|Hero Mask (2019)
 15021|4|ja|HERO MASK (2019)
 15785|2|en|Hero Return
+17689|4|fr|Hero Skill - Achats en ligne
 5314|3|x-jat|hero tales
 5314|4|en|Hero Tales
 14472|2|ja|HERO≠MASK
@@ -21397,6 +21452,7 @@
 6763|2|x-jat|Higashi no Eden: Soushuuhen Air Communication
 15332|1|x-jat|Hige o Soru. Soshite Joshikousei o Hirou.
 15332|3|x-jat|HigeHiro
+15332|4|fr|Higehiro
 15332|4|en|Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway
 15332|4|id|Higehiro: Kucukur Janggut, Siswi SMA Kupungut
 17688|1|x-jat|Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
@@ -21545,6 +21601,7 @@
 1066|1|x-jat|Hiiro no Koku
 3355|1|x-jat|Hijikata Toshizou: Shiro no Kiseki
 3355|2|en|Hijikata Toshizou: The Path of White
+12712|4|es|Hijos de las ballenas
 934|4|en|Hika Ryoujoku: The Lust of Shame
 934|1|x-jat|Hika Ryoujoku: Wana ni Hamatta Futari
 84|3|x-jat|HikaGo
@@ -23278,6 +23335,7 @@
 17304|4|it|Il mio matrimonio felice
 303|4|it|Il mio vicino Totoro
 40|2|it|Il mistero della pietra azzurra
+17783|4|it|Il Mistero di Ron Kamonohashi
 17870|4|it|Il Monologo della Speziale
 17480|4|it|Il movimento della Terra
 2314|4|it|Il paese del c`era una volta
@@ -24187,6 +24245,7 @@
 15920|1|x-jat|J* Fuuzoku Gakuensai
 17316|1|x-jat|J* Genkai Koubi: Goui Sounyuu de Bachibachi Niku Anaka
 7998|2|fr|J`ai confiance en ma copine!
+17523|4|fr|J`épargne 80 000 pièces d`or dans un autre monde pour ma retraite
 4206|3|x-jat|J0ker
 4206|2|x-jat|J0ker: Marginal City
 15920|4|ja|J〇フーゾク学園祭
@@ -24301,6 +24360,7 @@
 14395|2|fr|Je pense à toi
 335|2|fr|Je peux entendre l`océan
 17747|2|fr|Je suis donc le seul garçon de notre classe ?
+17878|4|fr|Je survivrai grâce aux potions !
 8081|4|ja|Je t`aime
 8081|1|x-jat|Je T`aime
 13363|4|fr|Je veux manger ton pancréas
@@ -26259,6 +26319,7 @@
 195|4|fr|Kenshin le vagabond - Le chapitre de l`expiation
 73|4|fr|Kenshin le vagabond - Le chapitre de la mémoire
 422|4|fr|Kenshin le Vagabond - Requiem pour les Ishin Shishi
+17065|4|fr|Kenshin le vagabond (2023)
 422|3|x-jat|kenshin movie
 73|3|x-jat|Kenshin OAV
 73|3|x-jat|Kenshin OVA
@@ -28124,6 +28185,7 @@
 1229|1|x-jat|Kujira no Chouyaku
 3650|2|x-jat|Kujira no Hosefuiina
 3650|1|x-jat|Kujira no Josephina
+12712|4|pt-BR|Kujira no Kora - Filhos das Baleias
 12712|1|x-jat|Kujira no Kora wa Sajou ni Utau
 3190|1|x-jat|Kujira Tori
 3190|2|x-jat|Kujiratori
@@ -28580,6 +28642,7 @@
 14977|4|fr|L`Attaque des Titans - Saison Finale
 17303|4|fr|L`Attaque des Titans - Saison Finale Dernière Partie
 16177|4|fr|L`Attaque des Titans - Saison Finale Partie 2
+18820|4|fr|L`Attaque des Titans : LA DERNIÈRE ATTAQUE
 11468|4|fr|L`Attaque Des Titans Junior High-School
 10944|4|fr|L`attaque des Titans saison 2
 114|4|fr|L`autre monde
@@ -28673,17 +28736,21 @@
 18278|4|es|La caja azul
 7280|2|it|La Campanella Della Benedizione
 12523|4|es|La canción perdida
+12523|4|es-419|La canción perdida
 784|2|it|La canzone delle pecore
 7248|2|es|La casa de las cinco hojas
 15831|4|it|La casa degli smarriti sul promontorio
 6395|4|it|La casa dei piccoli cubi
 15831|4|es|La Casa Encantada en el Cabo
+12523|2|fr|La chanson perdue
 14755|2|fr|La chasse aux dragons
 2805|4|fr|La chevauchée des Valkyries
 18000|4|es|La chica de abajo
 6959|2|es|La Chica de los Libros
 3291|2|es|La chica infernal
 677|4|es|La chica ninja
+17820|4|es-419|La chica que me gusta olvidó sus lentes
+17820|4|es|La chica que me gusta se ha olvidado sus gafas
 4151|4|es|La chica que saltaba a través del tiempo
 4151|4|es-419|La chica que saltaba a través del tiempo
 4588|4|fr|La Chorale - Furusato Japan
@@ -28698,6 +28765,7 @@
 8141|4|es|La colina de las amapolas
 8141|4|it|La collina dei papaveri
 8141|4|fr|La colline aux coquelicots
+18001|4|es-419|La Concierge
 18001|2|es|La conserje de los grandes almacenes
 1529|4|it|La coppa dei dragoni
 2814|4|it|La Corazzata spaziale Yamato
@@ -28855,6 +28923,7 @@
 1890|4|es-419|La Princesa Sally
 2298|4|es|La Princesa Sara
 7478|2|es|La Princesa y el Piloto
+15996|4|fr|La Princesse & la Bête
 275|2|fr|La princesse des étoiles
 1015|2|it|La Principessa della Luna: Le vere Cronache
 7|4|it|La Principessa Mononoke
@@ -28916,6 +28985,7 @@
 332|4|es-419|La Tumba de las Luciérnagas
 13439|4|es|La unión de los siete sentidos
 13047|2|fr|La valeur-étalon
+17695|4|fr|La Valkyrie aux cheveux de jais
 3436|4|fr|La vallée d`émeraude
 15277|4|es|La Venganza del Sanador
 1972|4|fr|La veuve
@@ -29341,6 +29411,7 @@
 2991|4|fr|Le prince du soleil
 3497|4|fr|Le prince et la sirène
 9369|4|fr|Le Prince Nezha triomphe du Roi Dragon
+16984|4|fr|Le puissant dragon végan
 11725|4|it|Le ragazze anelano alla landa selvaggia
 10960|4|fr|Le Rakugo ou la vie
 5631|2|fr|Le recueil des faits improbables de Ryoko Yakushiji
@@ -29540,6 +29611,7 @@
 1750|1|x-jat|Legendz: Yomigaeru Ryuuou Densetsu
 18098|4|pl|Legion samobójców: Isekai
 14659|4|hu|Legoshi, a farkas
+17666|4|it|Lei e il suo cane da guardia
 461|2|it|Lei e il suo gatto
 12792|1|x-zht|Lei Su Deng Shandian Chong Xian
 15766|1|x-jat|Lei Su Deng Shandian Chong Xian 2
@@ -29582,6 +29654,7 @@
 1490|4|fr|Léo, roi de la jungle
 11752|1|x-jat|Leopard Eyes
 11752|4|ja|Leopard Eyes
+17906|4|fr|Les 100 petites amies qui t`aiiiment à en mourir
 26|4|fr|Les 12 royaumes
 2707|4|fr|Les 3 mousquetaires
 5320|4|fr|Les 3 mousquetaires dans le Temps
@@ -29700,6 +29773,7 @@
 15022|2|fr|Les Profondeurs de Naedoko – Dame de la fécondité
 2290|4|fr|Les quatre filles du docteur March
 2868|2|fr|Les quatre filles du docteur March (1981)
+18015|4|fr|Les quatre frères Yuzuki
 3159|4|fr|Les Quintuplets
 460|4|fr|Les samouraïs de l`éternel
 14923|2|fr|Les sensuelles chroniques de Mélissa, Son Excellence démoniaque
@@ -30248,6 +30322,7 @@
 2291|4|es|Los chicos de Jo
 1751|4|es|Los cuentos de los hermanos Grimm
 17870|4|es|Los diarios de la boticaria
+17870|4|es-419|Los diarios de la boticaria
 26|4|es-419|Los Doce Reinos
 5310|4|es-419|Los Exploradores del Cielo
 2382|4|es|Los gatos samurái
@@ -30274,8 +30349,10 @@
 12523|4|ja|LOST SONG
 12523|1|x-jat|Lost Song
 12523|4|en|Lost Song
+12523|4|fr|LOST SONG
 14409|1|x-jat|Lost Song (Shinsaku)
 14409|4|ja|LOST SONG (新作)
+12523|4|de|Lost Song: Das Lied der Wunder
 403|1|x-jat|Lost Universe
 403|4|fr|Lost Universe
 403|4|pt|Lost Universe
@@ -32925,6 +33002,8 @@
 15508|2|en|Me and My Zoo
 17428|2|en|Me and Roboco
 17766|4|pt-BR|Me Apaixonei pela Vilã!
+17766|4|es-419|Me enamoré de la villana
+17766|4|es|Me enamoré de la villana
 17910|4|es|Me encantan las Magical Girls
 1572|2|x-jat|Me-gumi no Daigo
 1572|1|x-jat|Me-gumi no Daigo: Kajiba no Baka Yarou
@@ -33110,6 +33189,8 @@
 14069|4|de|Mein Freund Tyrano
 4588|4|de|Mein Heimatland Japan
 303|4|de|Mein Nachbar Totoro
+14757|4|de|Mein Schulgeist Hanako
+18171|4|de|Mein Schulgeist Hanako – After School
 17304|4|de|Meine ganz besondere Hochzeit
 2599|2|x-jat|Meine Liebe
 2599|4|de|Meine Liebe
@@ -33533,10 +33614,12 @@
 17304|4|es-419|Mi feliz matrimonio
 16996|1|x-zht|Mi Feng Yu Qiu Yin
 15044|4|es-419|Mi Gran Jefe
+17353|4|es|Mi habilidad especial me hace invencible incluso a nivel 1
 728|2|es|Mi juventud en la Arcadia
 726|2|es|Mi juventud en la Arcadia: camino del infinito SSX
 491|3|x-jat|MI movie
 4821|4|es|Mi novia es una sirena
+18029|4|es|Mi nuevo jefe está en las nubes
 601|3|en|MI OVA
 5704|4|es|Mi Profesor Particular
 18538|4|es|Mi querida Oni
@@ -33815,6 +33898,9 @@
 700|4|fr|Minerva
 700|1|x-jat|Minerva no Kenshi
 18697|1|x-zht|Mingyun Quan Tai
+17820|4|pt-BR|Minha Crush Esqueceu os Óculos
+17695|4|pt-BR|Minha Filha Saiu de Casa e Voltou como uma Aventureira Rank-S
+17353|4|pt-BR|Minha Habilidade Única Me Deixa Invencível no Nível 1
 17637|4|pt-BR|Minha História de Amor com Yamada-kun Nível 999
 17248|4|pt-BR|Minha Mana Apelona
 18538|4|pt-BR|Minha Querida Oni
@@ -34532,6 +34618,7 @@
 10477|1|x-jat|Momoya x Peeping Life: Goen Desu yo! II
 14454|2|en|momsekai
 17720|4|fr|Mon amie des ténèbres
+17423|4|fr|Mon chat à tout faire est encore tout déprimé
 5490|1|x-jat|Mon Cheri CoCo
 3511|4|en|Mon Colle Knights
 3511|4|de|Mon Colle Knights
@@ -35444,6 +35531,8 @@
 18921|4|de|My Hero Academia Staffel 8
 13633|2|en|My Hero Academia the Movie: The Two Heroes
 13633|2|fr|My Hero Academia The Movie: Two Heroes
+18150|4|pt-BR|My Hero Academia: Agora é a Sua Vez
+18150|4|es-419|My Hero Academia: Ahora es tu turno
 14776|4|fi|My Hero Academia: Heroes Rising
 14776|4|en|My Hero Academia: Heroes Rising
 14776|4|fr|My Hero Academia: Heroes Rising
@@ -35764,6 +35853,7 @@
 9387|3|x-jat|nagiasu
 13080|1|x-jat|Nagisa
 13080|4|ja|nagisa
+13348|4|hu|Nagyágyúk
 9369|4|pt-BR|Naia Contra o Rei dos Dragões
 4073|2|x-jat|Naikaku Kenryoku Hanzai Kyosei Torishimarikan Zaizen Jotaro
 4073|1|x-jat|Naikaku Kenryoku Hanzai Kyousei Torishimarikan Zaizen Joutarou
@@ -36880,6 +36970,7 @@
 7428|1|x-jat|Nils no Fushigi na Tabi Gekijouban
 2654|4|tr|Nils ve Uçan Kaz
 13125|1|x-jat|Nimrod
+18291|4|fr|Nina du royaume aux étoiles
 18291|4|en|Nina the Starry Bride
 277|2|lt|Nindzės Manuskriptas
 3147|1|x-jat|Nine
@@ -37595,6 +37686,8 @@
 979|2|pt-BR|O Alquimista de Aço
 4217|2|x-jat|O bake no... Holly
 1818|4|pt-BR|O Barão Vermelho
+12712|4|vi|Ở bên ngoài có gì ngoài cát?
+17687|4|pt-BR|O Berserker da Gula
 2737|4|pt|O Bocas
 4966|2|pt-BR|O Caçador da Bruxa
 1567|4|pt|O Caçador de Cidade - A Cidade Portuária em Guerra
@@ -37637,8 +37730,10 @@
 6546|2|pt|O Ferreiro Sagrado
 202|4|es-GA|O final de Evangelion
 2210|4|pt|O Gato das Botas
+17423|4|pt-BR|O Gato Prendado está Deprimido Hoje de Novo
 2740|2|pt-BR|O Gênio Maluco
 264|4|es-GA|O Gran Suxi
+17662|4|pt-BR|O Grande Clérigo
 8181|2|tr|O Gün Gördüğümüz Çiçeğin Adını Hala Bilmiyoruz
 4549|2|pt-BR|O Homen Cinza
 17026|4|pt-BR|O Imaginário
@@ -37676,6 +37771,7 @@
 3647|4|pt|O Principezinho
 13545|4|pt|O Rapaz e a Garça
 10967|4|pt|O Rapaz e o Monstro
+17030|4|pt-BR|O Reino das Sete Magilâminas
 679|4|pt-BR|O Reino dos Gatos
 679|4|pt|O Reino Dos Gatos
 17480|4|pl|O ruchach Ziemi
@@ -38691,6 +38787,7 @@
 17495|1|x-jat|Ore dake Level Up na Ken
 18576|2|x-jat|Ore dake Level Up na Ken Season 2
 18576|1|x-jat|Ore dake Level Up na Ken: Arise from the Shadow
+19144|1|x-jat|Ore dake Level Up na Ken: ReAwakening
 13763|1|x-jat|Ore ga Kanojo o ***su Wake
 13763|2|x-jat|Ore ga Kanojo o Okasu Wake
 13763|2|ja|Ore ga Mei Kanojo wo Okasu Wake
@@ -38832,9 +38929,12 @@
 826|4|pt|Os Cavaleiros do Zodíaco
 1886|4|pt|Os Cavaleiros do Zodíaco - A Batalha dos Deuses
 1884|4|pt|Os Cavaleiros do Zodíaco - A Lenda da Maçã de Ouro
+11056|4|pt-BR|Os Cavaleiros do Zodíaco - Alma de Ouro
 3705|4|pt-BR|Os Cavaleiros do Zodíaco - Hades: A Saga do Inferno
 343|4|pt-BR|Os Cavaleiros do Zodíaco - Hades: A Saga do Santuário
 5670|4|pt-BR|Os Cavaleiros do Zodíaco - Hades: A Saga dos Campos Elíseos
+8963|4|pt-BR|Os Cavaleiros do Zodíaco - Ômega
+12648|4|pt-BR|Os Cavaleiros do Zodíaco - Saintia Sho
 8279|4|pt-BR|Os Cavaleiros do Zodíaco: A Lenda do Santuário
 1418|4|pt-BR|Os Cavaleiros do Zodíaco: Prólogo de Céu
 6470|4|pt-BR|Os Cavaleiros do Zodíaco: The Lost Canvas - A Saga de Hades
@@ -38851,6 +38951,7 @@
 17547|2|pt|Os Perigos no Meu Coração
 18066|2|pt|Os Perigos no Meu Coração (2024)
 12637|2|x-unk|Os Problemas de um Centauro
+17846|4|pt-BR|Os Reinos da Ruína
 2382|4|pt|Os Samurai Pizza Gatos
 947|2|pt|Os Teus Contos Clássicos - 1ª Parte
 1751|2|pt|Os Teus Contos Clássicos - 2ª Parte
@@ -39203,6 +39304,8 @@
 14008|3|x-jat|overlord s3
 16296|3|x-jat|overlord s4
 16297|4|es|Overlord, El Reino Sagrado
+16297|4|es-419|OVERLORD: El Reino Sagrado
+16297|4|pt-BR|OVERLORD: O Reino Sagrado
 16297|4|en|Overlord: The Sacred Kingdom
 16297|4|pl|Overlord: The Sacred Kingdom
 10816|2|en|Overlord1
@@ -41416,6 +41519,7 @@
 8240|3|x-jat|prerhythm
 10151|1|x-jat|Present
 12695|1|x-jat|Present Made no Michinori
+17001|4|fr|Presque mariés, loin d`être amoureux.
 439|4|fr|Pretear
 439|4|en|Pretear
 439|2|x-unk|Prétear
@@ -41723,6 +41827,7 @@
 758|4|de|Professor Pain - Sein Lehrstock ist der Schwanz
 2601|4|en|Professor Shino`s Classes in Seduction
 15932|4|ro|Profeția Ragnarok
+14507|4|ro|Proiectul 7SEEDS
 13915|2|ja|Project [B.B]
 3966|4|en|Project `City Flying in the Sky`
 281|1|x-jat|Project A-ko
@@ -41901,6 +42006,7 @@
 10066|4|de|Psycho-Pass: Der Film
 9127|2|en|Psycho-Pass: Extended Edition
 17573|4|en|PSYCHO-PASS: Providence
+17573|4|es-419|PSYCHO-PASS: Providencia
 13894|1|x-jat|Psycho-Pass: Sinners of the System
 13894|4|en|Psycho-Pass: Sinners of the System
 10066|4|en|Psycho-Pass: The Movie
@@ -44460,6 +44566,7 @@
 9454|2|en|Saint Young Men
 9456|2|en|Saint Young Men (2012)
 1884|4|de|Saint-Seiya - Die Krieger des Zodiac, Movie 1: Die Legende des goldenen Apfels
+17461|4|fr|Sainte Cecilia et le Pasteur Lawrence
 1359|4|de|Saishu Chikan Densha
 1359|1|x-jat|Saishuu Chikan Densha
 9190|1|x-jat|Saishuu Chikan Densha Next
@@ -44918,6 +45025,9 @@
 3140|2|en|Sanshiro the Judoist
 4777|2|tr|Şanslı Yıldız
 17386|1|x-jat|Sansuu Chachacha
+17461|4|pt-BR|Santa Cecilia & Padre Lawrence
+17461|4|es|Santa Cecilia y el Pastor Lawrence
+17461|4|es-419|Santa Cecilia y el Pastor Lawrence
 5809|1|x-jat|Santa Claus Tsukamaeta
 9516|1|x-jat|Santa Company
 14946|1|x-jat|Santa Company: Christmas no Himitsu
@@ -46423,6 +46533,7 @@
 13846|4|pt-BR|Shiki Oriori: O Sabor da Juventude
 15263|1|x-jat|Shikijou Kyoudan
 15964|2|en|shikimori
+15964|4|fr|Shikimori n’est pas juste mignonne
 15964|4|pt-BR|Shikimori-san Não é Apenas Uma Gracinha
 15964|4|en|Shikimori`s Not Just a Cutie
 15964|3|x-jat|shikimorisan
@@ -47843,6 +47954,7 @@
 50|3|x-jat|Soma
 14785|2|en|somali
 14785|4|en|Somali and the Forest Spirit
+14785|4|fr|Somali et l`esprit de la forêt
 14785|1|x-jat|Somali to Mori no Kamisama
 14436|2|en|Someday I`ll Meet You
 18620|2|en|Someday Will I Be the Greatest Alchemist?
@@ -48623,6 +48735,8 @@
 17785|4|en|Spy x Family Code: White
 17785|4|pl|Spy x Family Code: White
 17785|4|es|Spy x Family Código: Blanco
+17785|4|es-419|SPY x FAMILY CÓDIGO: Blanco
+17785|4|pt-BR|SPY x FAMILY CÓDIGO: Branco
 17784|2|x-jat|Spy x Family Season 2
 18677|2|en|Spy x Family Season 3
 16947|4|th|SPY x FAMILY ซีซั่น 2
@@ -50755,6 +50869,7 @@
 4571|1|x-jat|Tenpouibun Ayakashiayashi
 17827|1|x-jat|Tenpuru
 17827|4|en|Tenpuru
+17827|4|fr|TenPuru : On ne vit pas de solitude et d`eau fraîche
 17827|2|en|Tenpuru: No One Can Live on Loneliness
 12613|1|x-jat|Tenrankai de Atta Onnanoko
 3470|1|x-jat|Tenrankai no E
@@ -51692,6 +51807,7 @@
 4966|2|en|The Hunter of the Witch
 15369|2|en|The Huntress of Niplheim
 11704|4|en|The Hyuga Episode of Kojiki
+17473|4|fr|The Ice Guy & The Cool Girl
 17473|4|en|The Ice Guy and His Cool Female Colleague
 17341|4|en|The Iceblade Sorcerer Shall Rule the World
 15676|4|en|The Idaten Deities Know Only Peace
@@ -53906,6 +54022,7 @@
 13222|4|en|Tramp Stamp: Anime edition
 333|4|de|Tränen der Erinnerung - Only Yesterday
 5596|2|de|Tränen von Tiara
+17878|4|de|Tränke sind mein Lebenselixier!
 13802|2|en|Transcend the Gods
 18370|2|en|Transcending the Nine Heavens
 9558|1|x-jat|Transfer
@@ -56701,6 +56818,7 @@
 9496|4|en|Witch Craft Works
 10397|2|en|Witch Craft Works: Takamiya-kun and His Sister`s Conspiracy
 10397|1|x-jat|Witch Craft Works: Takamiya-kun to Imouto no Warudakumi
+17614|4|fr|Witch Family!
 17305|4|en|Witch Hat Atelier
 96|1|x-jat|Witch Hunter Robin
 96|4|fr|Witch Hunter Robin
@@ -58606,6 +58724,7 @@
 10811|4|en|Yurikuma Arashi
 14749|2|fr|Yurisis : Chronique Netorare des Sœurs Sakuramiya
 12743|1|x-jat|Yuru Camp
+12743|4|fr|Yuru Camp – Au grand air
 14437|2|x-jat|Yuru Camp S2
 14437|1|x-jat|Yuru Camp Season 2
 17676|1|x-jat|Yuru Camp Season 3
@@ -59317,6 +59436,7 @@
 6466|4|el|Από Μένα σ` Εσένα: Kimi ni Todoke
 17773|4|el|Αποστολή: Οικογένεια Γιοζακούρα
 2548|4|el|Αστρομαχητές του κακού
+11577|4|el|Άτζιν
 13812|4|el|Αυτά Είπε ο Ρόχαν Κίσιμπε
 3393|4|el|Αυτοκίνητα Ρομπότ
 12138|4|el|Βάιολετ Εβεργκάρντεν
@@ -59522,6 +59642,7 @@
 2225|4|el|Τα μαγικά Ταξείδια του Παπουτσωμένου Γάτου
 14091|4|el|Τα Παιδιά της Τροχιάς
 2023|4|el|Τα παιδιά των καπνοδόχων
+12712|4|el|Τα Παιδιά των Φαλαινών
 1933|4|el|Τα Τοσοδούλια από το Διάστημα
 15932|4|el|Τα Χρονικά του Ράγκναροκ
 7051|4|el|Τα ωραιότερα παραμύθια
@@ -59548,6 +59669,7 @@
 1133|4|el|Το Τρίγωνο
 13098|4|el|Το Φάντασμα στο Κέλυφος: SAC_2045
 16427|4|el|Το Φάντασμα στο Κέλυφος: SAC_2045 - Βιώσιμος Πόλεμος
+12523|4|el|Το Χαμένο Τραγούδι
 2316|4|el|Το χρυσό πουλί
 3675|4|el|Τομ Σόγιερ και Χάκ Φίν
 573|4|el|Τρελή Νύχτα
@@ -59741,6 +59863,7 @@
 17685|3|ru|Аяка
 3654|2|ru|Аякаси - Классика японских ужасов
 5446|2|bg|Аякаши
+11950|4|uk|Б: Початок
 5278|2|ru|Бабье лето
 1856|2|ru|Баги, монстр могучей природы
 13783|2|ru|Бадминтон Ханэсаки
@@ -59793,10 +59916,12 @@
 15492|2|ru|Бездарная Нана
 9925|4|ru|Бездомный Бог
 11170|4|ru|Бездомный Бог Арагото
+16984|4|ru|Безобидный пятитысячелетний дракон
 18|2|ru|Безответственный капитан Тайлор
 2824|2|bg|Безполезните Животни
 9722|2|uk|Безтурботні часи
 10232|2|uk|Безтурботні часи: А потім ми відбули в Окінаву
+17783|4|ru|Безумные расследования Рона Камонохаси
 12834|4|ru|Безумный азарт
 13718|4|ru|Безумный азарт ××
 16967|2|ru|Безумный азарт: Близнецы
@@ -59840,6 +59965,7 @@
 5470|2|ru|Беспокойные сердца OVA
 2824|2|ru|Бесполезные зверушки
 3450|2|ru|Бессмертный Гран-При
+11950|4|ru|Би: начало
 5558|2|ru|Библиотечная война
 8885|2|ru|Библиотечная война: Крылья Революции
 8885|2|bg|Библиотечни войни: Крила на революцията
@@ -59935,6 +60061,7 @@
 4416|4|ru|Братство чёрной крови
 16383|4|ru|Братья Гримм: вариации
 90|2|ru|Бродяга Кэнсин
+17065|4|ru|Бродяга Кэнсин (2023)
 73|2|ru|Бродяга Кэнсин OVA-1
 11523|2|ru|Бродячие псы литературы
 1161|2|ru|Бронебойщик Меллоулинк
@@ -60037,6 +60164,7 @@
 15483|2|ru|Великий блюз
 69|4|uk|Великий куш
 14990|2|ru|Великий притворщик
+17662|4|ru|Великий святой
 191|2|ru|Великий учитель Онидзука
 14990|4|uk|Великий шахрай
 8869|2|bg|Великите подвизи на Ода Нобуна
@@ -60500,6 +60628,7 @@
 13238|4|ru|Девочки-мангаки
 3546|2|ru|Девушка Бобби
 4003|2|ru|Девушка влюбилась в старшую сестру
+17666|4|ru|Девушка и её сторожевой пёс
 461|4|ru|Девушка и кот
 9328|2|ru|Девушка из красной книги
 912|2|ru|Девушка из Фантазии
@@ -60635,6 +60764,7 @@
 8679|2|ru|Дневник наблюдения за Пойопойо
 3464|2|ru|Дневник путешественника
 5580|2|ru|Дневник сумасшедшей семейки
+15457|4|ru|Дневники слизи
 1327|2|ru|Дни Мидори
 18654|4|ru|Дни Сакамото
 8206|2|bg|Дните на Кучетата
@@ -60817,6 +60947,7 @@
 8899|2|ru|Женская логика
 198|2|ru|Женская эскадрилья чистого неба
 4924|2|ru|Жёны и матери
+15996|4|ru|Жертвенная принцесса и владыка зверей
 203|2|ru|Жжёный хлеб
 203|2|ru|Жжёный хлебушек
 254|2|ru|Живучая штучка
@@ -60865,6 +60996,7 @@
 9257|4|uk|Заохочення до підкорення вершин
 15073|2|ru|Западные ворота парка Икебукуро
 14632|2|ru|Запасной ключик
+17870|4|ru|Записки аптекаря
 6531|2|ru|Записки Каны
 7441|2|uk|Записки літературної панянки
 9128|2|ru|Записки о робототехнике
@@ -61106,6 +61238,7 @@
 524|2|ru|Капитан Фьючер
 505|4|bg|Капитан Цубаса
 505|2|ru|Капитан Цубаса
+17930|4|ru|Капитан Цубаса 2: Молодёжка
 2663|2|ru|Капризный Робот
 153|2|ru|Капризы Апельсиновой улицы [ТВ]
 283|2|ru|Капризы Апельсиновой улицы OVA
@@ -61163,6 +61296,7 @@
 4402|2|bg|Кланнад: Филмът
 10702|2|bg|класна стая за убийци
 11203|2|bg|Класна стая за убийци сезон 2
+16792|4|ru|Класс героев
 10702|2|ru|Класс Убийц
 11203|2|ru|Класс убийц 2
 15475|2|ru|Класс убийц 2: Дополнительный урок
@@ -61282,6 +61416,7 @@
 196|2|ru|Королевские космические силы - Крылья Хоннеамиз
 196|4|ru|Королевский десант
 15530|2|ru|Королевский рейд: Наследники воли
+17846|4|ru|Королевство руин
 14391|2|ru|Король демонов, попытайтесь снова!
 7319|2|ru|Король сорока восьми сисек
 7031|2|ru|Король Терний
@@ -61313,6 +61448,7 @@
 11104|2|ru|Кости под ногами Сакурако
 2210|4|ru|Кот в сапогах
 2216|4|ru|Кот в сапогах на Диком Западе
+17423|4|ru|Кот-домохозяин сегодня снова грустит
 18502|4|ru|Кот-призрак Андзу
 16795|4|ru|Котаро живет один
 16795|4|uk|Котаро, що живе сам
@@ -61883,6 +62019,7 @@
 113|2|ru|Моя девушка - совершенное оружие
 113|2|uk|Моя дівчина - суперзброя
 18538|4|uk|Моя дівчина-оні
+17695|4|ru|Моя дочь упорхнула из гнезда и вернулась авантюристом S-ранга
 4801|2|ru|Моя жена - волшебница на посылках
 2599|2|bg|Моя Любов: Нови откровения
 4120|2|bg|Моя Любов: Нови откровения 2
@@ -62319,6 +62456,7 @@
 143|2|ru|Перекрёсток духов
 17015|4|uk|Переродження в майстриню меча з короля героя / Переродження Короля Героя у Майстриню Меча
 17159|4|uk|Переродження найсильнішого екзорциста в іншому світі
+17557|4|ru|Переродившись в торговый автомат, я блуждаю по подземелью
 2640|2|ru|Перерождение
 18201|4|ru|Перерождение: Монстр
 16917|2|ru|Перестану быть героем
@@ -62545,6 +62683,7 @@
 9015|2|ru|Потерявшийся герой забрал девицу домой
 14710|4|ru|Потерялись?
 403|2|ru|Потерянная вселенная
+12523|4|ru|Потерянная песня
 6658|2|ru|Потерянное небом
 12686|4|ru|Потерянные воспоминания: ВИКРОСС соединённый
 750|2|ru|Потомки тьмы
@@ -62674,6 +62813,7 @@
 18000|2|ru|Причина полюбить её
 18663|2|ru|Причина полюбить её: Экстра
 10273|4|bg|Приятели за седмица
+13348|4|ru|Приятели с пушками
 15772|2|uk|Пріоритет диво-яйця
 17480|4|uk|Про рух Землі
 7115|4|ru|Провал великого плана
@@ -62760,6 +62900,7 @@
 7389|2|ru|Радуга: семеро из шестой камеры второго блока
 11487|4|ru|Радужные деньки
 4884|2|ru|Радужные капли
+10894|4|ru|Разве плохо искать себе пару в подземелье?
 13844|4|ru|Разве я не просила усреднить мои способности в следующей жизни?!
 2840|2|ru|Развеселый час Акахори
 7890|2|ru|Развилка Фортуны: Обещание, Связавшее Нас
@@ -62885,6 +63026,7 @@
 35|2|ru|С любовью, Хина
 52|2|ru|С любовью, Хина - весенний спецвыпуск
 51|2|ru|С любовью, Хина - рождественский спецвыпуск
+17353|4|ru|С особым навыком я имба даже на первом уровне
 6481|2|ru|С первого удара! Заряжай-ка!!
 8873|2|ru|С утра и до заката, мы учимся разврату!
 3444|2|ru|Сага Войн Преисподней: Дисгая
@@ -63366,6 +63508,7 @@
 5909|2|bg|Тигър срещу Дракон!
 2288|4|ru|Тико и её друзья
 2288|2|ru|Тико и Нанами
+17030|4|ru|Тирания семи разящих клинков
 6005|2|ru|Титания
 2288|4|uk|Тіко та друзі
 6103|2|uk|Тільки вперед!
@@ -63530,6 +63673,7 @@
 5117|2|bg|Училищни дни
 4747|2|bg|Учителят убиец Риборн!
 11053|2|bg|Ушио и Тигъра (2015)
+12743|4|ru|Уютный поход
 17026|4|uk|Уявне
 4563|4|mn|Үхлийн Тэмдэглэл
 7382|2|mn|Үхэгсдийн Ахлах Сургууль
@@ -63596,6 +63740,7 @@
 6275|4|ru|Ханаан
 6275|2|bg|Ханаан
 291|2|ru|Ханада
+18171|4|ru|Ханако после школы
 11908|2|ru|Ханда-кун
 6088|2|bg|Хаос в Главата
 6088|2|uk|Хаос; Вершина
@@ -63914,6 +64059,7 @@
 15201|4|ru|Я 300 лет убивала слизь и прокачалась на максимум
 10323|2|ru|Я буду хвостики носить
 17766|4|ru|Я влюбилась в злодейку
+17878|4|ru|Я выживу на зельях!
 16826|4|ru|Я злодейка, поэтому должна заарканить последнего босса
 17523|4|ru|Я коплю 80.000 золотых в другом мире на пенсию
 16826|4|uk|Я лиходійка, тому маю заарканити останнього боса
@@ -63965,6 +64111,7 @@
 6017|4|he|אביר ערפד עונה 2
 3511|4|he|אבירי ארץ המפלץ
 1661|4|he|אבן הכוח
+11577|4|he|אג`ין
 947|4|he|אגדות האחים גרים
 4190|4|he|אגדות ילדים
 584|2|he|אגדת הגיבורים הגלקטיים
@@ -64511,8 +64658,10 @@
 6143|4|ar|أبطال الكرة
 1850|4|ar|أبطال الملاعب
 14907|4|ar|أبعد يديك عن إيزوكين!
+12712|4|ar|أبناء الحيتان
 3453|4|ar|أبي الحنون
 229|4|ar|أجنحة كاندام
+11577|4|ar|أجين: أنصاف البشر
 6751|2|ar|أحد عشر عيناً
 4231|4|ar|أحلام جونغ غوم (جوهرة القصر)
 4960|4|ar|أحلام وفرح
@@ -64647,6 +64796,7 @@
 3660|4|ar|الأشاوس
 3385|2|ar|الأصل: أرواح الماضي
 4417|4|ar|الأطفال الأبطال
+12523|4|ar|الأغنية المنشودة
 6026|2|ar|الألبوم الأبيض
 6970|2|ar|الألبوم الأبيض 2
 3630|4|ar|الأمل
@@ -64918,6 +65068,7 @@
 5107|4|ar|بونيو على جرف البحر
 595|4|ar|بي بليد
 6426|4|ar|بي بليد المعركة الحديدية
+11950|4|ar|بي: البداية
 15107|2|ar|بيتر غريل ووقت الرجل الحكيم
 3585|4|ar|بيدا بول
 98|2|ar|بيرزيرك
@@ -65199,6 +65350,7 @@
 1787|4|ar|سباق المغامرات
 16947|2|x-unk|سباي فاميلي
 4242|4|ar|سبايدر رايدرز
+14507|4|ar|سبع بذور
 1787|2|ar|سبيد ريسر
 1788|2|ar|سبيد ريسر 1999
 7591|2|fa|ستاره سوار
@@ -65996,6 +66148,7 @@
 5056|4|th|คู กัปปะน้อยเพื่อนรัก
 6257|2|th|เค-อง!
 1552|4|th|เคโรโระ ขบวนการ อ๊บ อ๊บ ป่วนโลก
+13348|4|th|แคนนอน บัสเตอร์ส
 3215|2|th|แคนวาส 2 - ภาพสเก็ตช์สีรุ้ง
 13893|4|th|แครอลกับทูสเดย์
 5101|4|th|แคลนนาด
@@ -66158,6 +66311,7 @@
 18534|4|th|โนโกะตัน เพื่อนฉันพันธุ์กวาง
 4691|3|th|โนดาเมะ
 333|4|th|ในความทรงจำที่ไม่มีวันจาง
+12523|4|th|บทเพลงที่หายไป
 9077|4|th|บทเพลงบรรเลงฝัน
 43|4|th|บลัด เดอะลาสท์แวมไพร์
 2369|4|th|บลีช เทพมรณะ
@@ -66188,6 +66342,7 @@
 7727|4|th|ปฏิบัติการรักจักรกลทะยานฟ้า
 1218|4|th|ปราสาทเวทมนตร์ของฮาวล์
 8855|4|th|ปริศนาความทรงจำ
+11950|4|th|ปริศนาฆาตกร
 8141|4|th|ป๊อปปี้ ฮิลล์ ร่ำร้องขอปาฏิหาริย์
 334|4|th|ปอมโปโกะ ทานูกิป่วนโลก
 9514|4|th|ปีกแห่งฝัน วันแห่งรัก
@@ -66248,6 +66403,7 @@
 2233|4|th|มุซาชิ เซียนเบ็ดยอดอัจฉริยะ
 2232|4|th|มุซาชิ เซียนเบ็ดยอดอัจฉริยะ RV
 127|4|th|เมจิคไนท์ เรย์เอิร์ธ
+14507|4|th|เมล็ดพันธุ์แห่งความรอด
 286|4|th|แม่มดน้อยกิกิ
 17466|4|th|โมโนโนเกะ เดอะ มูฟวี่: ปีศาจในสายฝน
 2187|4|th|โมบิลสูท Z กันดั้ม ภาค 1 ตอน ผู้สืบทอดแห่งดวงดาว
@@ -66327,6 +66483,7 @@
 331|4|th|ลาพิวต้า พลิกตำนานเหนือเวหา
 13052|4|th|ลาฟลอร่า Go Go!! อาเซียน
 15201|4|th|ล่าสไลม์มา 300 ปีรู้ตัวอีกทีก็เลเวล MAX ซะแล้ว
+12712|4|th|ลำนำของเหล่าลูกปลาวาฬ
 9132|4|th|ลิตเติ้ล บัสเตอร์ส!
 35|4|th|เลิฟฮินะ
 632|4|th|โลกิ ปริศนาแร็กนาร็อค
@@ -66425,6 +66582,7 @@
 15298|4|th|อันดับพระราชา
 4396|4|th|อัศวินสีเลือด
 28|4|th|อากิระ คนไม่ใช่คน
+11577|4|th|อาจิน สายพันธุ์อมนุษย์
 4145|2|th|อามาเอะไนเดโยะ!ลงทัณฑ์!
 7258|4|th|อาริเอตี้ มหัศจรรย์ความลับคนตัวจิ๋ว
 113|4|th|อาวุธสุดท้ายคือเธอ-ไซดาโนะ
@@ -68002,6 +68160,7 @@
 14244|4|ko|세미와 매직큐브
 16253|4|ko|세미와 매직큐브 (2020)
 16253|2|ko|세미와 매직큐브 시즌2
+14507|4|ko|세븐시즈
 12327|4|x-kot|세이렌
 12327|4|ko|세이렌
 17318|2|ko|세이카 여학원 고등부 공인 남창 아저씨
@@ -69370,6 +69529,7 @@
 4082|2|ko|캄브리안
 14574|4|ko|캅 크래프트
 559|2|ko|캉캉 바니 엑스트라
+13348|4|ko|캐논 버스터즈
 13893|4|ko|캐롤과 튜즈데이
 5280|4|ko|캐릭캐릭 체인지
 1338|2|ko|캐슬 판타지아：성마대전
@@ -79122,6 +79282,7 @@
 13763|2|ja|俺が姪を犯す理由
 17495|4|ja|俺だけレベルアップな件
 18576|4|ja|俺だけレベルアップな件 -Arise from the Shadow-
+19144|4|ja|俺だけレベルアップな件 -ReAwakening-
 15557|4|ja|俺だけ入れる隠しダンジョン
 8112|4|ja|俺たちに翼はない -under the innocent sky.
 8351|4|ja|俺たちに翼はない -under the innocent sky. 肌色率九割増
@@ -86810,6 +86971,7 @@
 14279|4|ja|泣いた赤おに
 8453|4|ja|泣かせる空に会いたい とやま,魅惑の6つの物語
 15373|4|ja|泣きたい私は猫をかぶる
+12712|4|zh-Hant|泥鯨之子們在沙地上歌唱
 12712|4|zh-Hans|泥鲸之子们在沙地上歌唱
 7022|4|ja|注文の多い料理店
 4060|4|ja|注文の多い料理店 (1991)
@@ -87203,6 +87365,7 @@
 10439|4|zh-Hans|火星异种
 11493|4|zh-Hans|火星异种 REVENGE
 2859|2|zh-Hans|火枪手小红帽
+13348|2|zh-Hant|火炮剋星
 1471|4|zh-Hans|火焰之纹章
 15832|4|ja|火狩りの王
 17916|4|ja|火狩りの王 (2024)
@@ -88492,6 +88655,7 @@
 12847|4|ja|砂沙美14 魔法少女プリティサミー
 4619|2|zh-Hans|砂沙美魔法少女俱乐部第2季
 4071|4|ja|砂漠の海賊! キャプテンクッパ
+13348|4|zh-Hant|砲彈剋星
 10426|4|zh-Hans|破刃之剑
 7103|2|zh-Hans|破剑之刃
 301|4|ja|破壊魔定光
@@ -93101,6 +93265,7 @@
 16723|4|zh-Hans|黄飞鸿之勇闯天下
 3535|4|ja|黄龍の耳 美那の章
 3535|4|zh-Hans|黄龙之耳 美那之章
+18415|2|zh-Hans|黎明之剑
 17204|2|zh-Hans|黑之召唤士
 17204|2|zh-Hant|黑之召喚士
 4906|2|zh|黑之契约者
