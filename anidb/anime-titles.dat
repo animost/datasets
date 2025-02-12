@@ -1,4 +1,4 @@
-# created: Mon Feb 10 03:00:01 2025
+# created: Tue Feb 11 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1102,6 +1102,7 @@
 15473|4|ja|A song for You! You? You!!
 15473|1|x-jat|A Song for You! You? You!!
 4397|4|en|A Spirit of the Sun
+19145|2|en|A Star Brighter Than the Sun
 10082|4|en|A Starry Tale
 11711|2|en|A Story in Summertime
 13420|2|en|A Story of How a Russian Girl Suddenly Became a Part of My Back-Country Household and How Lots of Sex Ensued
@@ -50138,6 +50139,7 @@
 4397|1|x-jat|Taiyou no Mokushiroku: A Spirit of the Sun
 2209|1|x-jat|Taiyou no Ouji: Horus no Daibouken
 1709|1|x-jat|Taiyou no Yuusha Fighbird
+19145|1|x-jat|Taiyou Yori mo Mabushii Hoshi
 40|3|pl|Tajemnica Błękitnego Kamienia
 87|4|pl|Tajemnica przeszłości
 163|4|pl|Tajemnica przeszłości OVA
@@ -50335,6 +50337,7 @@
 3083|2|x-jat|Tamagotchi!: Anime TV de Hakken! Tamagotchi
 10574|2|x-jat|Tamagotchi!: Go-Go Tamagotchi!
 6321|2|x-jat|Tamagotchi!: Saa Ikou! Tamagotchi
+19145|3|x-jat|tamahoshi
 10326|1|x-jat|Tamako Love Story
 10326|4|en|Tamako Love Story
 9525|4|fr|Tamako Market
@@ -74360,6 +74363,7 @@
 9525|4|ja|たまこまーけっと
 10326|4|ja|たまこラブストーリー
 12735|4|ja|たましち!
+19145|3|ja|たまほし
 12734|4|ja|たまぽんず
 7438|4|ja|たまゆら
 9107|4|ja|たまゆら ~もあぐれっしぶ~
@@ -81222,6 +81226,7 @@
 7529|4|zh-Hans|吊带袜天使
 5071|2|zh-Hans|同人work
 5071|2|zh-Hans|同人工坊
+5140|4|zh|同学的妈妈
 18157|4|ja|同居する粘液
 14253|4|ja|同居人はひざ, 時々, 頭のうえ.
 14253|4|zh-Hans|同居人时而在腿上、时而跑到脑袋上
@@ -82269,6 +82274,7 @@
 15938|4|zh-Hant|大正處女御伽話
 6315|2|zh-Hans|大正野球娘
 6315|4|ja|大正野球娘.
+5473|4|zh|大江户四十八手
 5042|2|zh-Hans|大江户火箭
 5042|4|ja|大江戸ロケット
 5473|2|ja|大江戸四十八手
@@ -82548,6 +82554,7 @@
 2352|4|ja|太陽の牙ダグラム
 2209|4|ja|太陽の王子 ホルスの大冒険
 97|2|ja|太陽の船ソルビアンカ
+19145|4|ja|太陽よりも眩しい星
 2838|4|ja|太鼓の達人
 11330|4|ja|太鼓の達人15周年記念ショートアニメーション
 17001|4|zh-Hans|夫妇以上，恋人未满。
@@ -90483,6 +90490,7 @@
 4729|4|ja|英國戀物語エマ ~メルダース編~
 4729|2|ja|英國戀物語エマ 第二幕
 5331|4|ja|英才狂育
+5331|4|zh|英才狂育
 7682|4|ja|英語であそぼ たんけんゴブリン島
 13102|4|ja|英語で歌おう! マザー・グース
 8138|4|ja|英雄伝説 空の軌跡 THE ANIMATION
@@ -91435,6 +91443,7 @@
 16981|4|zh-Hans|跃动青春
 2384|4|zh-Hans|跑吧！美乐斯
 4075|4|zh-Hans|跟大姐姐一起做吧！
+4075|4|zh|跟大姐姐一起做吧！
 9798|4|zh-Hans|跟班×服务
 10499|4|ja|路
 10538|4|zh-Hans|路人女主的养成方法
