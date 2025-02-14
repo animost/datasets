@@ -1,4 +1,4 @@
-# created: Wed Feb 12 03:00:02 2025
+# created: Thu Feb 13 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3035,7 +3035,7 @@
 10934|1|x-jat|Ao no Kanata no Four Rhythm
 18193|1|x-jat|Ao no Miburo
 17314|1|x-jat|Ao no Orchestra
-18234|1|x-jat|Ao no Orchestra 2
+18234|1|x-jat|Ao no Orchestra (2025)
 361|2|x-jat|Ao no Roku Gou
 361|2|x-jat|Ao no Roku-gou
 12908|1|x-jat|Ao no Strada
@@ -4150,6 +4150,7 @@
 1372|4|tr|B-Daman
 1372|4|de|B-Daman
 1372|4|pl|B-daman
+1372|2|pt|B-Daman
 8555|4|en|B-Daman Crossfire
 8555|4|es|B-Daman Crossfire
 8555|4|nl|B-Daman Crossfire
@@ -4994,6 +4995,7 @@
 12080|4|fr|Battle Girl High School
 8254|4|en|Battle Girls: Time Paradox
 15848|2|en|Battle in 5 Seconds After Meeting
+1372|2|pt|Battle of B`Daman
 8758|1|x-jat|Battle of Clay
 8758|4|ja|Battle of Clay
 15053|4|ja|Battle of Clay 2019
@@ -14886,6 +14888,7 @@
 18933|2|en|Everyone in the Sect Except Me is an Undercover Agent
 16057|4|en|Everything for Demon King Evelogia
 16057|2|en|Everything for the Demon King Evelogia
+19150|4|en|Everything is Fine with the Emperor
 8769|1|x-jat|Evidence
 8769|4|ja|Evidence
 2925|2|en|Evil Dragon War Chronicles
@@ -15655,6 +15658,7 @@
 2786|2|en|Fighting Dodgeball Boy Dodge Danpei
 2857|4|en|Fighting Fairy Girl: Rescue Me, Mave-chan!
 4696|4|en|Fighting Foodons
+19147|4|en|Fighting for the Throne
 1815|2|en|Fighting General Daimos
 1815|2|en|Fighting King Daimos
 7916|4|ja|FIGHTING OF ECSTACY
@@ -15662,6 +15666,7 @@
 129|4|en|Fighting Spirit
 129|2|en|Fighting Spirit TV
 982|4|en|Fighting Spirit: Champion Road
+19147|2|en|Fighting the World
 13721|2|en|Fights Break Sphere
 13851|2|en|Fights Break Sphere 2
 15147|2|en|Fights Break Sphere 3
@@ -18654,6 +18659,7 @@
 16750|2|en|God of Desolation
 11894|2|en|God of Love`s Chocolate
 16749|2|en|God of Ten Thousand Realms
+19148|4|en|God of War Alliance
 3124|2|it|God Sigma, l`imperatore dello spazio
 15004|2|en|God Troubles Me
 16720|4|en|God Troubles Me 2
@@ -25101,6 +25107,7 @@
 10178|3|x-jat|junmar
 7882|1|x-jat|Junod
 1936|4|it|Juny peperina inventatutto
+19150|1|x-zht|Junzi Wu Ji
 6211|2|lt|Juodasis Dievas
 528|2|lt|Juodoji Biblija
 3395|2|lt|Juodoji Lagūna
@@ -46952,6 +46959,7 @@
 326|1|x-jat|Shinseiki Evangelion Gekijouban: Shi to Shinsei
 4539|2|x-jat|Shinseikiden Mars
 9002|1|x-jat|Shinsekai yori
+19151|1|x-jat|Shinseki no Ko to o Tomari Dakara
 6944|1|x-jat|Shinsetsu Kachikachi Yama
 1835|2|x-jat|Shinshaku Sanada Juuyuushi
 2881|1|x-jat|Shinshaku Sengoku Eiyuu Densetsu Sanada Juu Yuushi The Animation
@@ -49777,6 +49785,7 @@
 17041|4|pl|Suzume
 17041|4|cs|Suzume
 17041|4|fr|Suzume
+19152|1|x-jat|Suzume
 6733|1|x-jat|Suzume no Oyado
 17041|1|x-jat|Suzume no Tojimari
 12823|1|x-jat|Suzumi-bune
@@ -51325,7 +51334,7 @@
 15125|2|en|The Blind Girl and the Foxes
 12863|4|en|The Blossom Man
 17314|2|en|The Blue Orchestra
-18234|2|en|The Blue Orchestra 2
+18234|2|en|The Blue Orchestra (2025)
 18193|2|en|The Blue Wolves of Mibu
 6679|4|fr|The Book of Bantorra
 6679|4|en|The Book of Bantorra
@@ -59174,6 +59183,7 @@
 15228|1|x-zht|Zhandouban Geji! Di Ling Ji
 15226|1|x-zht|Zhandouban Geji! Di Yi Ji
 14867|1|x-zht|Zhanguo Fan
+19148|1|x-zht|Zhanshen Lianmeng
 18005|1|x-zht|Zhe Tian
 18338|1|x-zht|Zhen Dao Ge 2nd Season
 16530|1|x-zht|Zhen Dao Ge: Chen Shi Xing
@@ -81445,6 +81455,7 @@
 8367|3|ja|君僕
 5276|2|zh-Hans|君吻 ~ Pure Rouge
 5276|4|zh-Hans|君吻 pure rouge
+19150|4|zh-Hans|君子无疾
 6466|3|ja|君届
 8014|3|ja|君届2
 14395|4|ja|君想ふ恋
@@ -85013,6 +85024,7 @@
 5934|2|zh-Hans|战栗的乐谱
 16777|4|zh-Hans|战疫英雄
 17215|4|zh|战神狂妃：凤倾天下
+19148|4|zh-Hans|战神联盟
 15413|4|zh-Hans|战翼的希格德莉法
 17703|4|zh-Hans|战队大失格
 18809|4|zh-Hans|战队红战士在异世界当冒险者
@@ -91066,6 +91078,7 @@
 6657|4|ja|親子クラブ
 14800|4|ja|親子ねずみの不思議な旅
 1128|2|zh-Hant|親愛的
+19151|4|ja|親戚の子とお泊まりだから
 12075|4|ja|親鸞聖人と王舎城の悲劇
 9116|4|ja|観光大戦SAITAMA ~サクヤの戦い~
 11293|4|zh-Hans|见习神仙 秘密的心灵
@@ -92694,7 +92707,7 @@
 361|4|ja|青の6号
 8148|2|ja|青のエクソシスト
 17314|4|ja|青のオーケストラ
-18234|4|ja|青のオーケストラ 2
+18234|4|ja|青のオーケストラ (2025)
 12908|4|ja|青のストラーダ
 18193|4|ja|青のミブロ
 11333|4|ja|青の洞門
