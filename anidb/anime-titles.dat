@@ -1,4 +1,4 @@
-# created: Thu Feb 13 03:00:01 2025
+# created: Fri Feb 14 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -180,6 +180,7 @@
 9043|4|zh-Hans|「K」
 13066|4|ja|「Magical Music Train 」
 4317|4|ja|「エイジ」
+19003|4|zh-Hans|「只能触摸一分钟哦...」合租房的秘密规则。
 15157|4|ja|「宇宙戦艦ヤマト」という時代 西暦2202年の選択
 12142|4|ja|「英雄」解体
 18922|4|ja|「鬼滅の刃」上弦集結、そして刀鍛冶の里へ
@@ -1825,6 +1826,7 @@
 1074|2|en|Aim for the Best!
 185|2|en|Aim for the top!
 2120|2|x-jat|Aim for the Top! Gunbuster 2
+17780|2|en|Aim to be a Pokémon Master
 11397|1|x-jat|Aimai Elegy
 14322|1|x-jat|Ainone
 18856|3|x-jat|aiomodarkelf
@@ -9154,6 +9156,7 @@
 8538|2|en|Colorful Chihaya
 11282|1|x-jat|Colorful Ninja Iromaki
 13912|2|x-jat|Colorful Pastrale: From Bermuda Triangle
+18780|4|en|Colorful Stage! The Movie: A Miku Who Can`t Sing
 16307|1|x-jat|Colorful Taiyou Tour
 17902|1|x-jat|Colors
 17902|4|ja|COLORs
@@ -24482,6 +24485,7 @@
 13685|1|x-zht|Jian Wangchao
 13687|1|x-zht|Jian Wangchao (2017)
 17596|1|x-zht|Jian Xian Zai Ci
+19153|1|x-zht|Jian Xian Zai Ci 2nd Season
 17582|2|x-zht|Jian Yu Chuanqi
 17985|2|x-zht|Jian Yu Chuanqi 2
 18346|2|x-zht|Jian Yu Chuanqi 3
@@ -36099,6 +36103,7 @@
 6935|1|x-jat|Nansensu Monogatari Dai Ippen: Sarugashima
 7005|1|x-jat|Nansensu Monogatari Daini Hen: Kaizokusen
 8977|1|x-jat|Nantoka Shite Alguard
+18748|2|pt|Não Desistas!
 1539|2|en|Naoki Urasawa`s MONSTER
 7985|2|pl|Naoko - Lesbijka z Kosmosu
 6425|1|x-jat|Naoko no Tropic Angel: Hyouryuu
@@ -37758,6 +37763,7 @@
 13098|2|pt|O Fantasma do Futuro: SAC_2045
 3669|4|pt|O Feiticeiro de Oz
 6546|2|pt|O Ferreiro Sagrado
+18748|4|pt-BR|O Fim do Tédio
 202|4|es-GA|O final de Evangelion
 2210|4|pt|O Gato das Botas
 17423|4|pt-BR|O Gato Prendado está Deprimido Hoje de Novo
@@ -37810,6 +37816,9 @@
 286|4|pt-BR|O Serviço de Entregas da Kiki
 1681|4|pt|O Super Prémio
 847|4|pt|O Teatro de Rumiko
+18748|4|pt|O Tédio Acabou
+18748|2|pt|O Tédio Causa a Morte
+18748|2|pt|O Tédio Terminou
 14534|4|pt-BR|O Tempo com Você
 14534|4|pt|O Tempo Contigo
 16389|4|pt-BR|O Tio de Outro Mundo
@@ -47059,6 +47068,7 @@
 18691|2|x-zht|Shixiong A Shixiong:  Tianting Fuxīng Pian
 17187|1|x-jat|Shiyakusho
 12739|1|x-zht|Shiyan Pin Jiating
+19154|1|x-zht|Shiye Mowang
 14477|3|x-jat|shiyuu
 3135|1|x-jat|Shizukanaru Don: Yakuza Side Story
 3476|1|x-jat|Shizuku
@@ -51500,6 +51510,7 @@
 18764|2|en|The Demon Hunter SP
 18764|2|en|The Demon Hunter Special
 18764|4|en|The Demon Hunter: Dongning Mansion Special
+19154|2|en|The Demon King Who Lost His Job
 18119|4|en|The Demon Prince of Momochi House
 16921|4|en|The Demon Sword Master of Excalibur Academy
 14860|2|en|The Demonic King Who Chases His Wife
@@ -52006,6 +52017,7 @@
 4396|2|en|The Knight of Eon
 11008|2|en|The Labyrinth of Grisaia
 11008|4|en|The Labyrinth of Grisaia: The Cocoon of Caprice 0
+19154|2|en|The Laid Off Demon King
 158|2|en|The Lament of an Otherwise Healthy Girl
 17534|4|en|The Land of Miracles
 18027|2|en|The Land of Miracles 2
@@ -52813,6 +52825,7 @@
 18931|2|en|The Unaware Atelier Master
 11428|4|en|The Undertaker and the Dog
 7193|2|en|The Underwater Tyrant
+19154|2|en|The Unemployed Demon King
 17291|2|en|The Unforgiven
 18895|2|en|The Uninhabited Wonderland
 5578|2|en|The Unknown Girl Friend
@@ -80487,6 +80500,7 @@
 16138|4|zh-Hant|前進吧！登山少女 Next Summit
 16015|4|ja|前髪
 17596|4|zh-Hans|剑仙在此
+19153|4|zh-Hans|剑仙在此 第2季
 329|4|zh|剑勇传说 铁刃
 17582|4|zh|剑域风云
 17985|4|zh-Hans|剑域风云 (2023)
@@ -82611,6 +82625,7 @@
 17001|4|ja|夫婦以上, 恋人未満.
 17001|4|zh-Hant|夫婦以上，戀人未滿
 10372|4|ja|失われた未来を求めて
+19154|4|zh-Hans|失业魔王
 18145|2|zh-Hans|失忆投捕
 15765|2|zh-Hans|失忆投捕OAD
 12087|4|zh-Hans|失忆煽动WIXOSS
