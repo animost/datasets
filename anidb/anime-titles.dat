@@ -1,4 +1,4 @@
-# created: Fri Feb 14 03:00:02 2025
+# created: Sat Feb 15 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5423,9 +5423,9 @@
 14688|2|x-jat|Beyblade Burst GT
 16126|2|en|Beyblade Burst QuadDrive
 16126|4|pt|Beyblade Burst QuadDrive
-16126|2|pt|Beyblade Burst QuadStrike
 19089|1|x-jat|Beyblade Burst QuadStrike
 19089|4|en|Beyblade Burst QuadStrike
+19089|4|pt|Beyblade Burst QuadStrike
 14688|4|pt|Beyblade Burst Rise
 15438|1|x-jat|Beyblade Burst Sparking
 15438|2|x-jat|Beyblade Burst Super King
@@ -14509,6 +14509,7 @@
 13277|1|x-jat|Enoshimans
 11810|1|x-jat|Ensemble Stars!
 16985|1|x-jat|Ensemble Stars!! Road to Show!!
+19156|1|x-jat|Ensemble Stars!! Tsuioku Selection "Checkmate"
 18002|1|x-jat|Ensemble Stars!! Tsuioku Selection "Crossroad"
 17837|1|x-jat|Ensemble Stars!! Tsuioku Selection "Element"
 6472|1|x-jat|Enshou Nihon Mukashibanashi
@@ -42909,6 +42910,7 @@
 17947|2|zh-Hans|Re: 从零开始的异世界生活 第三季
 14792|4|zh-Hans|Re: 从零开始的异世界生活 第二季
 15593|4|zh-Hans|Re: 从零开始的异世界生活 第二季 Part 2
+15593|2|zh-Hans|Re: 从零开始的异世界生活 第二季 后半部分
 1662|4|zh-Hans|Re: 甜心战士
 10620|4|ja|Re:␣ HAMATORA [リプライハマトラ]
 1662|3|x-jat|Re:CH
@@ -52601,6 +52603,7 @@
 18414|2|en|The Shape of the Wind: Siam Era
 10937|2|en|The Shape of Voice
 19003|2|en|The Share House`s Secret Rule
+19003|2|en|The Share Houses Secret Rule
 250|2|en|The Shinesman
 18496|2|en|The Shiunji Family Children
 15122|4|en|The Shy Oriole
@@ -53980,6 +53983,7 @@
 4971|1|x-jat|Touka Gettan
 18408|4|de|Touken Ranbu Kai Kyoden
 18408|4|en|Touken Ranbu Kai Kyoden
+19155|1|x-jat|Touken Ranbu Kai: Douden Chikashi Haberau Monora
 18408|1|x-jat|Touken Ranbu Kai: Kyoden Moyuru Honnouji
 17279|3|x-jat|touken ranbu movie 2
 12031|1|x-jat|Touken Ranbu: Hanamaru
@@ -70996,6 +71000,7 @@
 16985|4|ja|あんさんぶるスターズ!! -Road to Show!!-
 18002|4|ja|あんさんぶるスターズ!! 追憶セレクション「クロスロード」
 17837|4|ja|あんさんぶるスターズ!! 追憶セレクション『エレメント』
+19156|4|ja|あんさんぶるスターズ！！追憶セレクション「チェックメイト」
 3173|4|ja|アンジェリーク
 2711|4|ja|アンジェリーク ~白い翼のメモワール~
 3175|4|ja|アンジェリーク Twinコレクション
@@ -80403,6 +80408,7 @@
 18116|4|zh-Hans|刀剑神域外传 Gun Gale Online 第二季
 18116|2|zh-Hans|刀剑神域外传：暴风之铳 第二季
 10022|4|zh-Hans|刀剑神域特别篇
+19155|4|ja|刀剣乱舞 廻 -々伝 近し侍らうものら-
 18408|4|ja|刀剣乱舞 廻 -虚伝 燃ゆる本能寺-
 12031|4|ja|刀剣乱舞-花丸-
 13484|4|ja|刀剣乱舞-花丸- ~幕間回想録~
@@ -84889,6 +84895,7 @@
 16630|4|zh-Hans|我气哭了百万修炼者
 3389|2|zh-Hans|我永远的圣诞老人
 17495|4|zh-Hans|我独自升级
+18576|4|zh-Hans|我独自升级 第二季 -起于暗影-
 17495|4|zh-Hant|我獨自升級
 4544|4|zh-Hans|我的Pico
 2621|4|zh-Hant|我的主人
@@ -90395,6 +90402,7 @@
 15476|2|zh-Hans|舞伎家的料理人
 11761|4|zh-Hans|舞兵器舞乱伎
 12043|4|zh-Hans|舞兵器舞乱伎 星之巨人
+18030|2|zh-Hans|舞冰的祈愿
 10814|4|zh-Hans|舞力四射
 16196|4|zh-Hans|舞动不止
 12700|4|zh-Hans|舞动青春
