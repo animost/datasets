@@ -1,4 +1,4 @@
-# created: Sat Feb 15 03:00:02 2025
+# created: Sun Feb 16 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4867,6 +4867,7 @@
 2759|4|en|Barom One
 4574|2|en|Barrier Master
 4681|1|x-jat|Bartender
+4681|4|de|Bartender
 4681|2|en|Bartender TV
 17673|4|ja|BARTENDER 神のグラス
 17673|4|en|Bartender: Glass of God
@@ -6370,6 +6371,8 @@
 3141|1|x-jat|Bocchan
 16063|1|x-jat|Bocchi the Rock!
 16063|4|en|Bocchi the Rock!
+19157|1|x-jat|Bocchi the Rock! 2
+19157|2|en|Bocchi the Rock! 2
 7443|4|fr|Bodacious Space Pirates
 7443|4|en|Bodacious Space Pirates
 9293|4|en|Bodacious Space Pirates: Abyss of Hyperspace
@@ -15243,6 +15246,7 @@
 16325|1|x-jat|Fantasy Bishoujo Juniku Ojisan to
 639|2|en|Fantasy Chemistry Series: Wandaba Style
 17101|2|en|Fantasy Hunter
+8624|2|en|Fantasy Kaleidoscope ~The Memories of Phantasm~
 17101|2|en|Fantasy x Hunter
 3442|2|lt|Fantazijos Viršūnė VII: Paskutinis Įsakymas
 1208|4|lt|Fantazijos Viršūnė VII: Prisikėlimo Vaikai
@@ -77150,6 +77154,7 @@
 15386|4|ja|ぽっこりーず
 6299|4|ja|ホッタラケの島 -遥と魔法の鏡
 16063|4|ja|ぼっち・ざ・ろっく!
+19157|4|ja|ぼっち・ざ・ろっく! 2
 11211|4|ja|ポッピンQ
 8596|2|ja|ポップ
 12772|4|ja|ぽっぷるメイル
