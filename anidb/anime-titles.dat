@@ -1,4 +1,4 @@
-# created: Sun Feb 16 03:00:02 2025
+# created: Mon Feb 17 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -292,6 +292,7 @@
 17906|4|pt-BR|100 Namoradas Que Te Amam Muuuuuito
 15455|1|x-jat|100 Nichikan Ikita Wani
 17906|4|id|100 Pacar yang Sungguh Sangat Amat Benar-benar Mencintaimu
+18343|4|id|100 Pacar yang Sungguh Sangat Amat Benar-benar Mencintaimu Season 2
 17806|4|pl|100 rzeczy do zrobienia, zanim zostanę zombie
 12362|4|en|100 Sleeping Princes & the Kingdom of Dreams
 1001|2|en|100 Stories
@@ -836,6 +837,7 @@
 784|2|pt|A Canção do Cordeiro
 12523|4|pt|A Canção Perdida
 12637|4|en|A Centaur`s Life
+19159|2|en|A Certain Item of the Dark Side
 5975|4|en|A Certain Magical Index
 5975|4|pl|A Certain Magical Index
 5975|4|fr|A Certain Magical Index
@@ -851,6 +853,7 @@
 6460|4|en|A Certain Scientific Railgun
 6460|4|pl|A Certain Scientific Railgun
 14441|2|en|A Certain Scientific Railgun 3
+19161|2|en|A Certain Scientific Railgun 4
 7975|2|en|A Certain Scientific Railgun OVA
 9484|4|en|A Certain Scientific Railgun S
 9484|4|pl|A Certain Scientific Railgun S
@@ -2094,6 +2097,7 @@
 5406|2|tr|Aktar ve Kurt
 6465|2|tr|Aktar ve Kurt 2 OVA
 6169|2|tr|Aktar ve Kurt II
+18852|4|id|Aku Meninggalkan Regu Peringkat-A untuk Menjelajahi Kedalaman Dungeon Bersama Mantan Muridku
 9357|1|x-jat|Aku no Hana
 9357|4|de|Aku no Hana: Die Blumen des Bösen
 8678|1|x-jat|Aku no Onna Kanbu
@@ -9034,8 +9038,8 @@
 11993|1|x-jat|Coco & Nico
 12457|4|ja|COCOLORS
 12457|1|x-jat|Cocolors
-18084|1|x-jat|Cocoon
-18084|4|ja|cocoon
+18084|4|ja|cocoon ~ある夏の少女たちより~
+18084|1|x-jat|Cocoon: Aru Natsu no Shoujo-tachi Yori
 13545|4|tr|Çocuk ve Balıkçıl
 9065|2|tr|Çocuk ve Kiraz Ağacı
 8673|2|x-unk|Code Breaker
@@ -14870,6 +14874,8 @@
 7249|1|x-jat|Eve no Jikan Gekijouban
 499|4|it|Evelyn e la magia di un sogno d`amore
 14528|4|en|Even a Dad Still Wants It...
+19158|2|en|Even a Replica Can Fall in Love
+19158|2|en|Even a Replica Falls in Love
 18712|4|en|Even Given the Worthless "Appraiser" Class, I`m Actually the Strongest
 4889|2|en|Even if you become the enemy of the world
 7056|2|en|Evergreen Literature
@@ -21682,6 +21688,7 @@
 5950|1|x-jat|Hime Dorei: Mesu e to Ochiyuku Futago no Oujo
 8118|1|x-jat|Hime Gal Paradise: Love and Beauty
 18898|1|x-jat|Hime Kishi wa Barbaroi no Yome
+19160|1|x-jat|Hime Kishi-sama no Himo
 842|3|x-jat|Hime-chan
 842|1|x-jat|Hime-chan no Ribbon
 842|4|en|Hime-chan`s Ribbon
@@ -33447,7 +33454,12 @@
 10009|2|pt|Meninas e Tanques: Esta é a Verdadeira Batalha da Anzio!
 10008|2|pt|Meninas e Tanques: O Filme
 12361|2|pt|Meninas e Tanques: O Final
+7440|4|pt|Meninas Samurais
+9398|4|pt|Meninas Samurais 2
+10765|2|pt|Meninas Samurais 3
 7440|2|pt|Meninas Samurais das Cem Flores
+9398|2|pt|Meninas Samurais: Noivas Samurais
+10765|2|pt|Meninas Samurais: Samurai Depois
 8306|1|x-jat|Menkui!
 13638|1|x-jat|Mentori
 3702|4|fr|Menu XXL
@@ -37401,6 +37413,7 @@
 1165|3|x-jat|noiseman
 1165|4|en|Noiseman Sound Insect
 4453|1|x-jat|Noisy Birth
+9398|2|pt|Noivas Samurais
 9398|2|pt|Noivas Samurais das Cem Flores
 17488|3|x-jat|nokemono
 17488|1|x-jat|Nokemono-tachi no Yoru
@@ -37732,9 +37745,9 @@
 4966|2|pt-BR|O Caçador da Bruxa
 1567|4|pt|O Caçador de Cidade - A Cidade Portuária em Guerra
 1566|4|pt|O Caçador de Cidade - Um Magnânimo Destinado ao Amor
-17612|2|pt|O Café Terraço e as Suas Deusas
+17612|4|pt|O Café Terraço e as Suas Deusas
 18080|2|pt|O Café Terraço e as Suas Deusas (2024)
-18080|2|pt|O Café Terraço e as Suas Deusas 2
+18080|4|pt|O Café Terraço e as Suas Deusas 2
 1218|4|pt|O Castelo Andante
 1218|4|pt-BR|O Castelo Animado
 331|4|pt|O Castelo no Céu
@@ -43278,6 +43291,7 @@
 546|1|x-jat|Renzu: Futari no Kyori
 546|4|pl|Renzu: Miłosne fotografie
 546|4|en|Renzu: The Distance Between the Two
+19158|1|x-jat|Replica Datte, Koi o Suru.
 10620|1|x-jat|Reply Hamatora
 10620|4|zh-Hans|REPLY 滨虎
 4744|1|x-jat|Reporter Blues
@@ -44924,6 +44938,7 @@
 7440|4|de|Samurai Girls
 9398|2|en|Samurai Girls 2
 9398|2|de|Samurai Girls 2: Samurai Bride
+10765|2|en|Samurai Girls: Samurai After
 2411|4|en|Samurai Gold
 2442|4|de|Samurai Gun
 2442|1|x-jat|Samurai Gun
@@ -51988,6 +52003,7 @@
 5030|2|en|The Karma Saiyuki
 10288|4|en|The Kawai Complex Guide to Manors and Hostel Behavior
 1622|2|en|The Kawarazaki Household 2
+19160|2|en|The Kept Man of the Princess Knight
 14558|2|en|The Kind Devil
 3471|2|en|The Kindly Lion
 3642|2|en|The King Kong Show
@@ -53413,6 +53429,8 @@
 2922|1|x-jat|To-Y
 7185|4|ja|TO(トゥー)
 16801|4|vi|Tòa nhà trôi dạt
+19159|1|x-jat|Toaru Anbu no Item
+19159|2|x-jat|Toaru Anbu no Shoujo Kyousei
 9888|1|x-jat|Toaru Hikuushi e no Koiuta
 7478|1|x-jat|Toaru Hikuushi e no Tsuioku
 14440|1|x-jat|Toaru Kagaku no Accelerator
@@ -53421,6 +53439,7 @@
 14440|2|x-jat|Toaru Kagaku no Ippoutsuukou
 6460|1|x-jat|Toaru Kagaku no Railgun
 14441|2|x-jat|Toaru Kagaku no Railgun 3
+19161|1|x-jat|Toaru Kagaku no Railgun 4
 7975|2|x-jat|Toaru Kagaku no Railgun OVA
 9484|1|x-jat|Toaru Kagaku no Railgun S
 10453|2|x-jat|Toaru Kagaku no Railgun S OVA
@@ -54588,6 +54607,11 @@
 14740|4|ja|Tug-Tug
 570|4|lt|Tūkstantmečio aktorė
 332|4|fi|Tulikärpästen hauta
+18847|2|pt-BR|Tumba dos Deuses Caídos 2
+17522|2|pt|Túmulo dos Deuses
+18847|2|pt|Túmulo dos Deuses 2
+17522|4|pt|Túmulo dos Deuses Caídos
+18847|4|pt|Túmulo dos Deuses Caídos 2
 15867|2|x-zht|Tun Shi Xing Kong
 11784|2|vi|Tung tiền hữu tọa linh kiếm sơn
 17040|4|de|Tunnel to Summer
@@ -74950,7 +74974,9 @@
 14440|5|ja|とあるかがくのアクセラレータ
 14441|5|ja|とあるかがくのれーるがんT
 5975|5|ja|とあるまじゅつのインデックス
+19159|4|ja|とある暗部の少女共棲
 14440|4|ja|とある科学の一方通行
+19161|4|ja|とある科学の超電磁砲 4
 6460|4|ja|とある科学の超電磁砲[レールガン]
 7975|2|ja|とある科学の超電磁砲[レールガン] OVA
 7975|4|ja|とある科学の超電磁砲[レールガン] 御坂さんはいま注目の的ですから
@@ -78475,6 +78501,7 @@
 2068|4|ja|レディレディ!!
 2072|4|ja|レディレディ!! (1988)
 14784|2|ja|レビウス
+19158|4|ja|レプリカだって, 恋をする.
 14981|4|ja|レベッカ
 14981|6|ja|レベッカ THE CHRONICLES OF REBECCA
 17353|4|ja|レベル1だけどユニークスキルで最強です
@@ -83076,6 +83103,7 @@
 10216|4|ja|姫騎士オリヴィア
 18898|4|ja|姫騎士は蛮族の嫁
 4493|4|ja|姫騎士リリア
+19160|4|ja|姫騎士様のヒモ
 3140|4|ja|姿三四郎
 4833|2|zh-Hans|威尔伯物语
 5559|2|zh-Hans|威尔贝露物语 第2季
