@@ -1,4 +1,4 @@
-# created: Mon Feb 17 03:00:01 2025
+# created: Tue Feb 18 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1831,6 +1831,7 @@
 2120|2|x-jat|Aim for the Top! Gunbuster 2
 17780|2|en|Aim to be a Pokémon Master
 11397|1|x-jat|Aimai Elegy
+9356|2|pt|Ainda não Sabemos o Nome da Flor que Vimos Naquele Dia.
 14322|1|x-jat|Ainone
 18856|3|x-jat|aiomodarkelf
 15047|3|x-jat|aiparade
@@ -2918,8 +2919,8 @@
 14629|1|x-jat|Ano Danchi no Tsuma-tachi wa... The Animation
 8181|3|x-jat|Ano Hana
 8181|2|en|Ano Hana
-8181|2|pt|Ano Hana: A Flor que Vimos Naquele Dia
-9356|2|pt|Ano Hana: A Flor que Vimos Naquele Dia - O Filme
+8181|4|pt|Ano Hana: A Flor que Vimos Naquele Dia
+9356|4|pt|Ano Hana: A Flor que Vimos Naquele Dia - O Filme
 8181|4|it|Ano Hana: Ancora non conosciamo il nome del fiore che abbiamo visto quel giorno
 8181|1|x-jat|Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai.
 13299|2|ja|Ano Hi no Kanojo-tachi
@@ -2981,6 +2982,7 @@
 11203|2|x-jat|Ansatsu Kyoushitsu: Final Season
 11203|2|x-jat|Ansatsu Kyoushitsu: Second Season
 15475|1|x-jat|Ansatsu Kyoushitsu: Second Season - Kagaijugyou Hen
+19162|1|x-jat|Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi Nodaga
 2427|4|fr|Anthologie de la littérature japonaise
 11705|4|en|Anthology With Cranes
 6989|4|en|Anthropo-Cynical Farce
@@ -21865,6 +21867,7 @@
 4078|1|x-jat|Hitozuma Kasumi-san
 6553|1|x-jat|Hitozuma Koukan Nikki
 13357|1|x-jat|Hitozuma Life: One Time Gal
+19163|1|x-jat|Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite
 2962|1|x-jat|Hitozuma Ryoujoku Sankanbi
 15094|1|x-jat|Hitozuma, Mitsu to Niku
 9973|1|x-jat|Hitsugi no Chaika
@@ -32670,6 +32673,7 @@
 1612|4|en|Marriage of God & Soul Godannar!! (2004)
 1612|2|en|Marriage of God & Soul Godannar!! Second Season
 18033|4|en|Married Couple Swap
+19163|2|en|Married Women`s Lips Taste Like Canned Chuuhai
 5696|1|x-jat|Mars
 1641|4|en|Mars Daybreak
 1641|4|fr|Mars Daybreak
@@ -33456,7 +33460,7 @@
 12361|2|pt|Meninas e Tanques: O Final
 7440|4|pt|Meninas Samurais
 9398|4|pt|Meninas Samurais 2
-10765|2|pt|Meninas Samurais 3
+10765|4|pt|Meninas Samurais 3
 7440|2|pt|Meninas Samurais das Cem Flores
 9398|2|pt|Meninas Samurais: Noivas Samurais
 10765|2|pt|Meninas Samurais: Samurai Depois
@@ -35732,6 +35736,7 @@
 17128|1|x-jat|My Song
 17449|2|en|My Star
 18086|2|en|My Star (2024)
+19162|2|en|My Status as an Assassin Obviously Exceeds the Hero`s
 5078|4|en|My Steady Is a Witch
 16457|4|en|My Stepmom`s Daughter Is My Ex
 13613|4|en|My Sweet Tyrant
@@ -39639,9 +39644,9 @@
 4191|4|fi|Paprika
 4191|4|et|Paprika
 4191|4|es-419|Paprika
+4191|4|pl|Paprika
 4191|4|it|Paprika - Sognando un sogno
 4191|4|es|Paprika: Detective de los sueños
-4191|4|pl|Papryka
 1832|4|ja|PAPUWA
 1832|1|x-jat|Papuwa
 1126|2|x-jat|Papuwa (1992)
@@ -50187,7 +50192,7 @@
 4397|1|x-jat|Taiyou no Mokushiroku: A Spirit of the Sun
 2209|1|x-jat|Taiyou no Ouji: Horus no Daibouken
 1709|1|x-jat|Taiyou no Yuusha Fighbird
-19145|1|x-jat|Taiyou Yori mo Mabushii Hoshi
+19145|1|x-jat|Taiyou yori mo Mabushii Hoshi
 40|3|pl|Tajemnica Błękitnego Kamienia
 87|4|pl|Tajemnica przeszłości
 163|4|pl|Tajemnica przeszłości OVA
@@ -79403,6 +79408,7 @@
 1843|4|ja|人妻コスプレ喫茶
 5364|2|ja|人妻コスプレ喫茶2 ～人妻ラブラブ・コスプレOVA～
 5364|4|ja|人妻コスプレ喫茶2~人妻ラブラブ・コスプレOVA~
+19163|4|ja|人妻の唇は缶チューハイの味がして
 6553|4|ja|人妻交姦日記
 1629|4|zh-Hans|人妻偷吃
 2962|4|ja|人妻凌辱参観日
@@ -86311,6 +86317,7 @@
 11203|2|ja|暗殺教室 ASSASSINATION CLASSROOM SECOND SEASON
 15475|4|ja|暗殺教室 ASSASSINATION CLASSROOM SECOND SEASON 課外授業編
 15475|2|ja|暗殺教室 第2期 課外授業編
+19162|4|ja|暗殺者である俺のステータスが勇者よりも明らかに強いのだが
 16055|3|ja|暗殺貴族
 18383|2|zh-Hans|暗河传上部·惊蛰之变篇
 18763|2|zh-Hans|暗河传下部·九霄龙吟篇
@@ -89958,6 +89965,7 @@
 14801|4|zh-Hans|约定的梦幻岛 第二季
 17010|4|zh-Hans|纯
 35|2|zh-Hans|纯情房东俏房客
+49|4|zh-Hans|纯情房东俏房客 Again
 5532|2|zh-Hans|纯情罗曼史
 6073|2|zh-Hans|纯情罗曼史2
 10759|2|zh-Hans|纯情罗曼史3
