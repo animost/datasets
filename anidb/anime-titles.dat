@@ -1,4 +1,4 @@
-# created: Tue Feb 18 03:00:02 2025
+# created: Wed Feb 19 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -14625,6 +14625,7 @@
 13634|2|en|Eros Chocolate II
 11981|3|x-jat|erosen
 13580|3|x-jat|erosen ova
+19164|1|x-kot|Erotic Blade Runner
 16945|2|en|Erotic Doctor: Using Eloquent Vocabulary to Fornicate
 10387|4|en|Erotic Encounters of the Alien Kind
 16178|2|en|Erotic Games Can Solve Anything!
@@ -49805,6 +49806,7 @@
 6888|1|x-jat|Suteneko Tora-chan
 640|3|x-jat|sutepri
 1872|3|x-jat|sutesuta
+19162|3|x-jat|sutetsuyo
 10198|2|x-jat|Sutoraikuu~itchīzu: Operēshon bikutorīarō
 12073|4|en|Sutra Stories
 18442|1|x-jat|Suufunkan no Yell o
@@ -69147,6 +69149,7 @@
 11981|4|ko|에로망가 선생
 13580|2|ko|에로망가 선생 OVA
 11686|2|ko|에로망가! H도 만화도 스텝 업 ♪♪
+19164|4|ko|에로틱 블레이드 러너
 1626|2|ko|에르피나
 7565|4|ko|에반게리온: Q
 4847|4|ko|에반게리온: 서
@@ -73929,6 +73932,7 @@
 7517|4|ja|すてき! さくらママ
 17067|4|ja|すてきなおくりもの
 1872|3|ja|ステスタ
+19162|3|ja|ステつよ
 1872|2|ja|ステディ×スタディ
 640|3|ja|すてプリ
 11883|4|ja|ステラのまほう
