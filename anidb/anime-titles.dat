@@ -1,4 +1,4 @@
-# created: Wed Feb 19 03:00:01 2025
+# created: Thu Feb 20 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2101,6 +2101,7 @@
 18852|4|id|Aku Meninggalkan Regu Peringkat-A untuk Menjelajahi Kedalaman Dungeon Bersama Mantan Muridku
 9357|1|x-jat|Aku no Hana
 9357|4|de|Aku no Hana: Die Blumen des Bösen
+9357|4|id|Aku no Hana: Kembang Jahanam
 8678|1|x-jat|Aku no Onna Kanbu
 9483|1|x-jat|Aku no Onna Kanbu: Full Moon Night - Nikutan Ken`you
 15511|1|x-jat|Aku no Onna Kanbu: Full Moon Night Returns
@@ -5559,6 +5560,7 @@
 12808|1|x-jat|Biblia Koshodou no Jiken Techou
 1693|2|es|Biblia Negra La Lanza de Longino
 17157|4|en|Bibliophile Princess
+7939|2|pl|Biblioteka Dantaliana
 7939|2|la|Bibliotheca Mystica de Dantalian
 15120|1|x-jat|Bibury
 1372|4|lt|Bidamanų kovos
@@ -12286,6 +12288,11 @@
 10020|3|x-jat|donwar
 9889|1|x-jat|Donyatsu
 2142|2|pt|Donzela do Santuário Kanazuki
+13172|4|pt|Donzelas com Catanas
+13172|2|pt-BR|Donzelas com Catanas
+13172|2|pt|Donzelas com Catanas ~ Donzelas do Santuário Toji
+13172|2|pt-BR|Donzelas com Catanas ~ Donzelas do Santuário Toji
+15318|4|pt|Donzelas com Catanas: Um Relâmpago de Luz
 2706|2|pl|Dookoła świata z Willym Fogiem
 9711|1|x-kot|Dooly-ui Baenang`yeohaeng
 9710|2|en|Dooly, the Baby Dinosaur (1988)
@@ -26485,6 +26492,7 @@
 3686|4|vi|Khủng Long Con Ham Ăn
 144|2|vi|Khuyển dạ xoa
 3480|2|x-jat|Ki ni Naru Roommate
+19167|1|x-jat|Ki ni Natteru Hito ga Otoko Janakatta
 14366|2|x-jat|Ki Renka
 2597|1|x-jat|Ki-Fighter Taerang
 17567|1|x-jat|Ki-No-Ko
@@ -27182,6 +27190,7 @@
 14126|1|x-jat|Kirakira Happy Hirake! Cocotama
 16450|1|x-jat|Kirakira Kirari
 12503|1|x-jat|Kirakira Precure A La Mode
+19165|1|x-jat|Kirakira Shougakusei Celeb-chan
 12503|4|zh-Hans|KiraKira☆光之美少女 A La Mode
 13006|4|zh-Hans|KiraKira☆光之美少女 A La Mode 清脆出炉！回忆的法式千层酥！
 2682|1|x-jat|Kirameki no Kyoudai: Sex Crime
@@ -28132,6 +28141,7 @@
 9390|3|x-jat|ksgg (2012)
 9992|3|x-jat|ksgg tv
 1428|4|pl|Księga dżungli
+7939|2|pl|Księgozbiór Dantaliana
 2482|2|pl|Księżniczka i żebrak
 9515|4|pl|Księżniczka Kaguya
 7|4|pl|Księżniczka Mononoke
@@ -40401,6 +40411,8 @@
 2128|1|x-jat|Pipopapo Patrol-kun
 12886|2|fr|Pique-et-nique sur une plage naturiste
 2237|2|pt-BR|Pirata do Espaço
+5848|4|pt|Pirata Espacial Sara
+5848|2|pt-BR|Pirata Espacial Sara
 1888|2|en|Pirate Prince
 1441|4|fr|Pire qu`une chienne
 4401|2|lt|Pirmasis Būrys: Tiesos Akimirka
@@ -51838,6 +51850,7 @@
 2963|4|de|The Guts
 2963|1|x-jat|The Guts!
 4953|2|en|The Gutsy Frog
+19167|2|en|The Guy She Was Interested In Wasn`t a Guy at All
 619|2|en|The Guyver
 5060|2|en|The Guyver Act II
 5060|4|en|The Guyver II: Bio Booster Armor
@@ -54458,6 +54471,7 @@
 17291|1|x-jat|Tsugunai
 6155|1|x-jat|Tsui no Sora
 5568|1|x-jat|Tsuide ni Tonchinkan
+18782|3|x-jat|Tsuihou Hakuma Doushi
 18854|1|x-jat|Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru
 19054|1|x-jat|Tsuihousha Shokudou e Youkoso!
 13351|2|x-jat|Tsuin Seishin Tantei
@@ -55224,6 +55238,7 @@
 3047|4|fr|Une vie nouvelle
 131|2|en|Unearthly Ceres
 18137|2|en|Unexpected Love
+19166|2|en|Unexpectedly Naughty Fukami
 17794|2|en|Unfaithful with ... THE ANIMATION
 8485|3|x-jat|ungo
 2921|3|x-jat|UnH
@@ -57949,6 +57964,7 @@
 1299|4|ja|YAT 安心!宇宙旅行
 1299|2|es|YAT-1
 18253|4|en|Yatagarasu: The Raven Does Not Choose Its Master
+19166|1|x-jat|Yatara Yarashii Fukami-kun
 14103|2|x-jat|yatogame
 14103|1|x-jat|Yatogame-chan Kansatsu Nikki
 14103|4|en|Yatogame-chan Kansatsu Nikki
@@ -72559,6 +72575,7 @@
 12503|4|ja|キラキラ☆プリキュアアラモード
 16450|4|ja|キラキラきらり☆
 14126|4|ja|キラキラハッピー★ひらけ! ここたま
+19165|4|ja|キラキラ小学生 セレブちゃん
 13752|4|ja|キラッとプリ☆チャン
 2969|4|ja|きらめき☆プロジェクト
 4004|2|ja|きらら
@@ -77983,6 +78000,7 @@
 14482|2|ja|ヤスケ
 3455|4|ja|ヤスジのポルノラマ やっちまえ!!
 3337|4|ja|ヤダモン
+19166|4|ja|やたらやらしい深見くん
 5522|4|ja|ヤッターマン
 5497|4|ja|やっとかめ探偵団
 14957|5|ja|やとがめちゃんかんさつにっき 2さつめ
@@ -87325,6 +87343,7 @@
 15683|2|zh-Hans|民调局异闻录 第1季
 18759|2|zh-Hans|民调局异闻录 第2季
 18759|2|zh-Hans|民调局异闻录之白发沈辣
+19167|4|ja|気になってる人が男じゃなかった
 3480|4|ja|気になるルームメイト
 13501|4|ja|気に入った膣にいきなり中出しOKなリゾート島
 2409|4|ja|気ままにアイドル
@@ -91760,6 +91779,7 @@
 7229|4|zh-Hans|迷途猫OVER RUN
 7229|2|zh-Hans|迷途猫Overrun!
 18854|4|ja|追放された転生重騎士はゲーム知識で無双する
+18782|3|ja|追放白魔導師
 19054|4|ja|追放者食堂へようこそ!
 14354|4|ja|追跡
 8073|4|zh-Hans|追逐繁星的孩子
