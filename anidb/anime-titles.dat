@@ -1,4 +1,4 @@
-# created: Thu Feb 20 03:00:01 2025
+# created: Fri Feb 21 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -12005,6 +12005,8 @@
 13259|3|en|DitF
 6773|3|x-jat|DitVB
 251|4|cs|Dívčí četa
+19171|1|x-jat|Dive In!
+19171|2|en|Dive In!
 12652|1|x-jat|Dive!!
 12652|4|ja|DIVE!!
 12652|4|en|Dive!!
@@ -16969,6 +16971,8 @@
 1761|4|en|Galaxy Angel X
 259|1|x-jat|Galaxy Angel Z
 259|2|en|Galaxy Angel Z
+19168|1|x-jat|Galaxy Apartment Cosmo Hills
+19168|2|en|Galaxy Apartment Cosmo Hills
 6954|2|en|Galaxy Boy Troop
 3117|4|en|Galaxy Cyclone Braiger
 3117|2|en|Galaxy Cyclone Bryger
@@ -22280,6 +22284,7 @@
 8764|1|x-jat|Hoshi no Kirby Pilot
 5238|1|x-jat|Hoshi no Ko Chobin
 6979|1|x-jat|Hoshi no Ko Poron
+19169|1|x-jat|Hoshi no Kodomo to Hajimari no Ki
 104|1|x-jat|Hoshi no Koe
 5343|1|x-jat|Hoshi no Orpheus
 3647|1|x-jat|Hoshi no Ouji-sama Petit Prince
@@ -23917,6 +23922,7 @@
 7262|4|en|Invisible Stud Returns
 16936|4|pt-BR|Invocado Para Outro Mundo... De Novo?!
 5764|4|de|Inyochu
+2174|2|x-jat|Inyoku Emaki ~Yukiyo ni Hime wa Okasareru~
 2174|2|x-jat|Inyoku Emaki: Yukiyo ni Hime wa Okasareru
 4739|2|x-jat|Inyou Mushi
 8104|2|x-jat|Inyouchuu Etsu
@@ -48125,6 +48131,7 @@
 9632|2|x-kot|Sonyeon 007 Jihajeguk
 14132|4|en|Sopping Wet JK Rainy R*peover
 14132|2|en|Sopping Wet JK Rainy Rapeover
+19169|2|en|Sora and the Big Tree
 8034|1|x-jat|Sora e
 8497|1|x-jat|Sora Hen
 10498|1|x-jat|Sora Iro Hana Iro
@@ -54375,6 +54382,9 @@
 9914|2|en|True Visitation to the Secret Hot Spring
 1206|3|x-jat|TrueLove
 3433|2|vi|Trùng Sư
+19170|4|ja|TRUST
+19170|1|x-jat|Trust
+19170|2|en|Trust
 73|2|en|Trust and Betrayal
 14751|4|en|Try Knights
 14751|1|x-jat|Try Knights
@@ -69619,6 +69629,7 @@
 15630|2|ko|이터니티～심야의 누레코이 채널～
 17446|4|ko|이토 준지: 매니악
 13385|4|ko|이토 준지: 컬렉션
+17284|2|ko|인게이지 키스
 6231|2|ko|인공소녀
 13314|4|ko|인디애니박스: 셀마의 단백질 커피
 83|4|ko|인랑
@@ -72524,6 +72535,7 @@
 12643|4|ja|キャベツUFO
 8449|4|ja|キャラうた
 2457|4|ja|ギャラガ HYPER-PSYCHIC-GEO GARAGA
+19168|4|ja|ギャラクシーアパート☆コスモヒルズ
 108|4|ja|ギャラクシーエンジェル
 260|4|ja|ギャラクシーエンジェル (第3期)
 4335|4|ja|ギャラクシーエンジェる~ん
@@ -74397,6 +74409,7 @@
 3338|4|ja|ダイノゾーン
 822|4|ja|ダイバージェンス・イヴ
 16255|4|ja|タイバン!
+19171|4|ja|ダイブイン!
 2976|4|ja|たいまんぶるうす レディース編
 2975|4|ja|たいまんぶるうす 清水直人編
 7060|2|ja|タイム・パトロールぽん
@@ -85988,6 +86001,7 @@
 8764|4|ja|星のカービィ PILOT
 104|2|ja|星の声
 5238|4|ja|星の子チョビン
+19169|4|ja|星の子どもとはじまりの樹
 6979|4|ja|星の子ポロン
 5458|4|ja|星の海のアムリ
 16344|4|ja|星の王子さま Le Petit Prince
