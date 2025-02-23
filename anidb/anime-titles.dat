@@ -1,4 +1,4 @@
-# created: Fri Feb 21 03:00:02 2025
+# created: Sat Feb 22 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -30388,6 +30388,7 @@
 1751|4|es|Los cuentos de los hermanos Grimm
 17870|4|es|Los diarios de la boticaria
 17870|4|es-419|Los diarios de la boticaria
+18562|4|es|Los diarios de la boticaria Temporada 2
 26|4|es-419|Los Doce Reinos
 5310|4|es-419|Los Exploradores del Cielo
 2382|4|es|Los gatos samurái
@@ -36570,6 +36571,7 @@
 8398|1|x-jat|Neko Ramen: Ore no Shouyu Aji
 13115|1|x-jat|Neko to Mata
 6912|1|x-jat|Neko to Nezumi
+19172|1|x-jat|Neko to Ryuu
 17900|1|x-jat|Neko to Wakai se na
 8117|2|x-jat|Nekogami 8,000,000
 8117|1|x-jat|Nekogami Yaoyorozu
@@ -51440,6 +51442,7 @@
 16174|4|en|The Case Study of Vanitas
 16367|4|en|The Case Study of Vanitas (2022)
 320|2|en|The Castle of Cagliostro
+19172|2|en|The Cat and the Dragon
 12882|4|en|The Cat Purr Dance
 679|4|en|The Cat Returns
 679|4|id|The Cat Returns
@@ -88495,6 +88498,7 @@
 16941|2|zh|猪迪克大电影1
 13183|4|ja|猫がくれたまぁるいしあわせ
 17182|4|ja|猫ジョッキー
+19172|4|ja|猫と竜
 6912|4|ja|猫と鼠
 11677|4|ja|猫なんかよんでもこない.
 19090|4|ja|猫になりたい田万川くん
