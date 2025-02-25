@@ -1,4 +1,4 @@
-# created: Sun Feb 23 03:00:01 2025
+# created: Mon Feb 24 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -194,8 +194,6 @@
 13933|4|ja|【ゾンミちゃん】ハロウィン☆スペシャルムービー!
 17724|4|ja|【ブルアカ】1.5周年記念ショートアニメーション
 18086|2|zh-Hans|【我推的孩子】 第二季
-17449|2|ja|【推しの子】
-18086|2|ja|【推しの子】(2024)
 17724|4|zh-Hans|【碧蓝档案】1.5周年纪念短篇动画
 15249|1|x-jat|**** Kouhai
 10932|4|ja|&lt;harmony/&gt;
@@ -43577,6 +43575,9 @@
 7931|1|x-jat|Rio: Rainbow Gate!
 7931|4|en|Rio: Rainbow Gate!
 17760|4|pt-BR|Ririsa, Uma Garota em 2.5D
+17760|4|pt|Ririsa, Uma Garota em 2.5D
+19047|2|pt-BR|Ririsa, Uma Garota em 2.5D 2
+19047|4|pt|Ririsa, Uma Garota em 2.5D 2
 17760|4|es-419|Ririsa, una chica en 2.5D
 11821|4|en|Risa`s Freaky Family Relations Part 1
 12365|4|en|Risa`s Freaky Family Relations Part 2
