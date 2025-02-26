@@ -1,4 +1,4 @@
-# created: Mon Feb 24 03:00:02 2025
+# created: Tue Feb 25 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -11264,6 +11264,7 @@
 14886|2|en|Detective Conan Movie 24: The Scarlet Bullet
 17009|2|en|Detective Conan Movie 25
 18219|2|en|Detective Conan Movie 27
+19025|2|en|Detective Conan Movie 28
 3390|3|en|Detective Conan OVA 1
 7494|2|en|Detective Conan OVA 10
 8501|2|en|Detective Conan OVA 11
@@ -16960,7 +16961,7 @@
 1761|4|en|Galaxy Angel X
 259|1|x-jat|Galaxy Angel Z
 259|2|en|Galaxy Angel Z
-19168|1|x-jat|Galaxy Apartment Cosmo Hills
+19168|1|x-jat|Galaxy Apaato Cosmo Hills
 19168|2|en|Galaxy Apartment Cosmo Hills
 6954|2|en|Galaxy Boy Troop
 3117|4|en|Galaxy Cyclone Braiger
@@ -25805,6 +25806,7 @@
 11579|1|x-jat|Kanimanji Engi
 5770|1|x-jat|Kankara Sanshin
 18857|1|x-jat|Kankin Kuiki Level X
+19179|1|x-jat|Kankin Kuiki Level X: Dai 2 Ki
 11489|2|en|Kankore Movie
 9116|1|x-jat|Kankou Taisen Saitama: Sakuya no Tatakai
 15540|4|hu|Kanna és az istenek hónapja
@@ -33053,6 +33055,7 @@
 17766|4|es-419|Me enamoré de la villana
 17766|4|es|Me enamoré de la villana
 17910|4|es|Me encantan las Magical Girls
+12462|2|es|Me pesan los lunes
 1572|2|x-jat|Me-gumi no Daigo
 1572|1|x-jat|Me-gumi no Daigo: Kajiba no Baka Yarou
 17771|1|x-jat|Me-gumi no Daigo: Kyuukoku no Orange
@@ -37150,7 +37153,9 @@
 10588|1|x-jat|Ninja Slayer from Animation
 393|4|et|Ninja taassünd: Jubei kättemaks
 3091|4|en|Ninja the Wonder Boy
+19177|1|x-jat|Ninja to Gokudou
 18596|1|x-jat|Ninja to Koroshiya no Futarigurashi
+19177|2|en|Ninja Vs. Gokudo
 1959|2|en|Ninja Warrior Tobikage
 3091|4|pl|Ninja, cudowny chłopak
 17014|2|x-jat|Ninjala
@@ -47368,6 +47373,7 @@
 15932|2|x-jat|Shuumatsu no Valkyrie: Record of Ragnarok
 15932|1|x-jat|Shuumatsu no Walkure
 16540|1|x-jat|Shuumatsu no Walkure II
+19176|1|x-jat|Shuumatsu Touring
 17667|1|x-jat|Shuumatsu Train Doko e Iku?
 746|1|x-jat|Shuusaku
 1380|1|x-jat|Shuusaku: Liberty
@@ -54033,6 +54039,7 @@
 12790|3|x-jat|tourabu s2
 12027|3|x-jat|tourabu: katsugeki
 13479|3|x-jat|tourabu: katsugeki movie
+19176|2|en|Touring After the Apocalypse
 9116|2|en|Tourism War Saitama: Evening Battle
 1420|4|en|Tournament of the Gods: Title Match
 12632|1|x-jat|Tousan no Tsukutta Uta
@@ -55500,6 +55507,7 @@
 2481|2|x-jat|Uta~Kata
 9289|1|x-jat|Utae Meloetta: Rinka no Mi o Sagase
 18065|1|x-jat|Utagoe wa Mille-Feuille
+19178|1|x-jat|Utahime Dream
 2481|3|x-jat|utakata
 12495|1|x-jat|Utakata Hanabi
 9078|2|x-jat|Utakoi
@@ -71367,6 +71375,7 @@
 10292|4|ja|うたの☆プリンスさまっ♪ マジLOVEレボリューションズ
 8259|2|ja|うたの☆プリンスさまっ♪マジLOVE1000%
 8921|4|ja|うたの☆プリンスさまっ♪マジLOVE2000%
+19178|4|ja|ウタヒメドリーム
 8259|3|ja|うたプリ
 3427|4|ja|うたわれるもの
 13570|4|ja|うたわれるもの トゥスクル皇女の華麗なる日々
@@ -84184,6 +84193,7 @@
 3209|2|ja|忍空 ナイフの墓標
 3209|4|zh-Hans|忍空 小刀的墓标
 15603|2|ja|忍者コレクション
+19177|4|ja|忍者と極道
 18596|4|ja|忍者と殺し屋のふたりぐらし
 13086|4|ja|忍者ネギ蔵
 2607|4|ja|忍者ハットリくん
@@ -88806,6 +88816,7 @@
 6528|4|ja|監獄戦艦
 10526|4|ja|監督不行届
 18857|4|ja|監禁区域レベルX
+19179|4|ja|監禁区域レベルX 第2期
 10631|4|ja|目玉焼きの黄身 いつつぶす?
 19142|4|ja|目覚めたら最強装備と宇宙船持ちだったので, 一戸建て目指して傭兵として自由に生きたい
 10360|4|zh-Hans|目隐都市的演绎者
@@ -89586,6 +89597,7 @@
 10813|4|ja|終わりのセラフ Seraph of the end
 10984|4|ja|終わりのセラフ Seraph of the end 名古屋決戦編
 11809|4|ja|終わりのセラフ 吸血鬼シャハル
+19176|4|ja|終末ツーリング
 17667|4|ja|終末トレインどこへいく?
 12238|4|ja|終末なにしてますか? 忙しいですか? 救ってもらっていいですか?
 12201|4|ja|終末のイゼッタ Izetta, Die Letzte Hexe
