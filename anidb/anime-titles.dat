@@ -1,4 +1,4 @@
-# created: Tue Feb 25 03:00:01 2025
+# created: Wed Feb 26 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8058,6 +8058,7 @@
 10308|1|x-kot|Chang
 18296|1|en|Chang An
 16587|1|x-zht|Chang An Huan Jie
+19180|1|x-zht|Chang Ge Xing
 16011|1|x-zht|Chang Jian Fengyun
 17986|1|x-zht|Chang Jian Fengyun (2023)
 8785|2|x-zht|Chang Jiang 7 Hao: Ai Diqiu
@@ -48056,6 +48057,7 @@
 4186|2|en|Song of Raiyantsuuri
 784|2|en|Song of Sheep
 2030|2|en|Song of the Baby Bird
+19180|2|en|Song of the Long March
 784|2|en|Song of the Sheep
 15664|2|en|Song of Time
 15664|2|en|Song of Time: Rhapsody of Flower and Flame
@@ -52102,6 +52104,7 @@
 18387|2|en|The Legend of Masters
 16882|2|en|The Legend of Monster
 14637|2|en|The Legend of Nezha
+19180|4|en|The Legend of Princess Chang-Ge
 17120|2|en|The Legend of Qin Remastered
 8956|2|en|The Legend of Qin: Hundred Schools of Thought
 8954|2|en|The Legend of Qin: Hundred Steps Flying Sword
@@ -52157,6 +52160,7 @@
 2201|2|en|The Little Prince and the Eight Headed Dragon
 5062|2|en|The Little Twins
 2200|2|en|The Littlest Warrior
+19180|2|en|The Long Ballad
 4552|2|x-unk|The Lord of the Rings: The War of the Rohirrim
 11863|4|en|The Lost Village
 14395|2|en|The Love That I Feel for You
@@ -92141,6 +92145,7 @@
 18296|4|zh-Hans|长安三万里
 16587|4|zh-Hans|长安幻街
 3620|4|zh-Hans|长崎1945 天使之钟
+19180|4|zh-Hans|长歌行
 8785|4|zh-Hans|长江7号爱地球
 18950|4|zh-Hans|长生界
 11163|4|zh-Hans|长门有希的消失 无法结束的暑假
