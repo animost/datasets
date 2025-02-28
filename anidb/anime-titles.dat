@@ -1,4 +1,4 @@
-# created: Wed Feb 26 03:00:01 2025
+# created: Thu Feb 27 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2362,6 +2362,7 @@
 1544|2|sv|Älvans Sång - Elfen Lied
 3389|2|en|Always My Santa!
 4039|2|en|Always the Sun in My Soul
+17914|2|es|Alya a veces me susurra en ruso
 17914|4|en|Alya Sometimes Hides Her Feelings in Russian
 18872|2|en|Alya Sometimes Hides Her Feelings in Russian Season 2
 634|3|x-jat|AM
@@ -13358,6 +13359,7 @@
 762|4|fi|Dragonball Z: Suuri taistelu
 1528|1|x-jat|DragonBlade
 14755|4|ro|DRAGONI ÎN DERIVĂ
+19182|2|en|Dragonite and the Postman
 614|4|en|Dragoon
 4544|4|ro|Dragul meu Pico
 7804|4|en|Drakestail the Duck
@@ -21671,6 +21673,7 @@
 17805|3|x-jat|hikikomari
 17805|1|x-jat|Hikikomari Kyuuketsuki no Monmon
 14272|1|x-jat|Hikoichi Tonchi Banashi
+19181|1|x-jat|Hikuidori: Ushuu Boro Tobi-gumi
 392|1|x-jat|Hikyou Tanken Fam & Ihrlie
 18264|2|x-jat|Hikyouiku kara Nigetai Watashi
 18483|4|id|Hilang Uang Demi Menjadi Konglomerat
@@ -25501,6 +25504,7 @@
 17811|4|en|Kaina of the Great Snow Sea: Star Sage
 795|1|x-jat|Kairaku no Houteishiki Level-C
 1337|1|x-jat|Kairaku Satsujin Chousakan Koji
+19182|1|x-jat|Kairyuu to Yuubin`ya-san
 12024|3|x-jat|Kaishain
 1436|2|x-jat|Kaishun
 2213|1|x-jat|Kaitei 3-man Mile
@@ -35785,6 +35789,7 @@
 5435|1|x-jat|Myself; Yourself
 5435|4|ja|Myself; Yourself
 11544|4|en|Mysteria Friends
+15608|2|en|Mysterious Candy Store Sentendo
 131|2|en|Mysterious Ceres
 11588|2|en|Mysterious Counting
 17815|4|en|Mysterious Disappearances
@@ -52761,6 +52766,7 @@
 4552|2|x-unk|The Super Mario Bros. Movie
 544|4|en|The Super Milk-chan Show
 1035|1|x-jat|The Supergal
+15608|4|en|The Supernatural Sweet Shop
 17596|2|en|The Sword Fairy Is Here
 17596|4|en|The Sword Immortal Is Here
 18415|2|en|The Sword Of Dawn
@@ -55352,6 +55358,7 @@
 1411|1|x-jat|Urayasu Tekkin Kazoku
 11290|2|en|Urban Legend Series
 6268|2|en|Urban Legend Story Hikiko
+18897|2|en|Urban Miracle Doctor
 4026|2|x-jat|Urban Square
 4026|2|en|Urban Square: Chasing Amber
 4026|1|x-jat|Urban Square: Kohaku no Tsuigeki
@@ -72051,6 +72058,7 @@
 12716|2|ja|カイトアンサ
 15282|4|ja|ガイナタマガー
 5673|4|ja|カイバ
+19182|4|ja|カイリューとゆうびんやさん
 12290|3|ja|ガヴドロ
 23|4|ja|カウボーイビバップ
 219|4|ja|カウボーイビバップ天国の扉
@@ -87670,6 +87678,7 @@
 16726|4|zh-Hans|火力少年王3
 15184|4|zh-Hans|火力少年王之悠拳英雄
 18233|4|zh-Hans|火力少年王之悠拳英雄 2
+19181|4|ja|火喰鳥 羽州ぼろ鳶組
 3286|4|zh-Hans|火圣旅团999.9
 332|4|ja|火垂るの墓
 6987|4|ja|火宅 能「求塚」より
