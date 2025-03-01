@@ -1,4 +1,4 @@
-# created: Thu Feb 27 03:00:01 2025
+# created: Fri Feb 28 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -997,6 +997,7 @@
 6357|2|en|A Lot of Pine Wood
 9387|4|en|A Lull in the Sea
 18593|4|hu|A magányos farkas útja
+18422|2|en|A Mangaka`s Weirdly Wonderful Workplace
 3651|2|pt-BR|A Melancolia de Haruhi Suzumiya
 6367|2|pt-BR|A Melancolia de Haruhi Suzumiya (2009)
 3651|2|pt-BR|A Melancolia de Suzumiya Haruhi
@@ -6374,6 +6375,7 @@
 16063|4|en|Bocchi the Rock!
 19157|1|x-jat|Bocchi the Rock! 2
 19157|2|en|Bocchi the Rock! 2
+18039|2|en|BOCCHI THE ROCK! Recap Part 1 & 2
 7443|4|fr|Bodacious Space Pirates
 7443|4|en|Bodacious Space Pirates
 9293|4|en|Bodacious Space Pirates: Abyss of Hyperspace
@@ -15784,6 +15786,7 @@
 14488|4|en|Fire Force
 14488|4|it|Fire Force
 14488|4|fr|Fire Force
+14488|4|de|Fire Force
 15335|4|it|Fire Force - Seconda Stagione
 15335|4|en|Fire Force (2020)
 17420|4|en|Fire Force (2025)
@@ -15793,6 +15796,9 @@
 3286|4|fr|Fire Force DNA Sights 999.9
 17420|2|en|Fire Force Season 3
 18742|2|en|Fire Force Season 3 Part 2
+15335|4|de|Fire Force Staffel 2
+17420|4|de|Fire Force Staffel 3
+18742|4|de|Fire Force Staffel 3 Cour 2
 16016|2|en|Fire From My Fingertips 2: My Lover is a Firefighter
 14924|4|en|Fire in His Fingertips -My Childhood Friend is a Fireman-
 16016|4|en|Fire in His Fingertips 2 -My Boyfriend is a Fireman-
@@ -66707,6 +66713,8 @@
 17530|4|th|ซาซากิกับพีจัง
 3389|4|th|ซานต้าบ๊องต้องเป็นเธอ!
 90|4|th|ซามูไรพเนจร
+17065|4|th|ซามูไรพเนจร (2023)
+18323|4|th|ซามูไรพเนจร ซีซั่น 2
 474|2|th|ซิสเตอร์ ปริ๊นเซส : รี เพียว
 4761|4|th|ซุปเปอร์โรบ็อตวอร์ส ออริจินั่ล เจเนอเรชั่น - ดีไวน์วอร์ส -
 3394|4|th|ซุปเปอร์โรบ็อตวอร์ส ออริจินั่ล เจเนอเรชั่น ดิ อนิเมชั่น
@@ -66782,6 +66790,7 @@
 18019|4|th|ทอนโบะ!
 241|2|th|ทัช ยอดรักนักกีฬา
 16982|4|th|ทาสสุดแกร่งแห่งหน่วยป้องกันอสูร
+18506|4|th|ทำไงได้ ก็คนมันรักไปแล้ว
 3428|2|th|ทู ฮาร์ท 2
 2240|4|th|เท็นเท็นคุง
 1536|4|th|เทพธิดามหาประลัย
@@ -66916,6 +66925,11 @@
 275|4|th|มหาสงครามหุบเขาแห่งสายลม
 14755|4|th|มังกรโอชะ
 10894|2|th|มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน
+13829|4|th|มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน ภาค 2
+15111|4|th|มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน ภาค 3
+16032|4|th|มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน ภาคที่ 4
+17652|4|th|มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน ภาคที่ 4 บทชั้นลึก ภาคภัยพิบัติ
+18267|4|th|มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน ภาคที่ 5
 16408|4|th|มาโบโรชิ
 18538|4|th|มาย โอนิ เกิร์ล
 6087|4|th|มาเรีย†โฮลิค
@@ -66982,6 +66996,8 @@
 5303|4|th|โยบิ เทพธิดาจิ้งจอก 5 หาง
 146|4|th|ร็อกแมน EXE
 1928|2|th|รักข้ามรุ่น
+17906|4|th|รักรักรักรักรักเธอหมดหัวใจจากแฟนสาว 100 คน
+18343|4|th|รักรักรักรักรักเธอหมดหัวใจจากแฟนสาว 100 คน ซีซั่น 2
 10937|4|th|รักไร้เสียง
 9903|4|th|รักลวงป่วนใจ
 13293|4|th|รักวุ่นๆ ของโอตาคุวัยทำงาน
@@ -83369,7 +83385,7 @@
 18170|4|zh-Hant|尋神的旅途
 7478|4|zh|對某飛行員的追憶
 12356|4|ja|導きの星
-6761|4|ja|小さい潜水艦に恋したでかすぎるクジラの話
+6761|4|ja|小さい潜水艦に恋をしたでかすぎるクジラの話
 2871|4|ja|小さなアヒルの大きな愛の物語 あひるのクワック
 6981|4|ja|小さなジャンボ
 1825|4|ja|小さなバイキングビッケ
@@ -93168,6 +93184,7 @@
 7|4|zh-Hans|魔法公主
 4011|4|zh-Hans|魔法公主 明琪桃子 第二季
 4012|4|zh-Hans|魔法公主明琪桃子 梦中的轮舞
+18750|4|zh-Hans|魔法制造者 ~异世界魔法的制作方法~
 1063|4|zh-Hans|魔法咪路咪路
 5656|2|zh-Hans|魔法学园MA
 3373|4|ja|魔法学園ルナ! 青い竜の秘密
