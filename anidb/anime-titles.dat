@@ -1,4 +1,4 @@
-# created: Fri Feb 28 03:00:01 2025
+# created: Sat Mar  1 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -25067,6 +25067,7 @@
 1498|2|x-other|Jungle Emperor Leo
 1490|4|de|Jungle Emperor Leo - Der Kinofilm
 6652|2|en|Jungle Emperor Leo (2009)
+6652|4|en|Jungle Emperor Leo: The Brave Change the Future
 1498|2|en|Jungle Emperor, Onward Leo!
 6652|2|en|Jungle Emperor: Courage Changes the Future
 1500|2|en|Jungle Emperor: The Symphonic Poem Film
@@ -35267,6 +35268,7 @@
 18254|1|x-jat|Mukuwarenakatta Murabito A, Kizoku ni Hirowarete Dekiai Sareru Ue ni, Jitsu wa Motteita Densetsu-kyuu no Kami Skill mo Kakusei Shita
 15815|1|x-jat|Mulan: Heng Kong Chu Shi
 14378|1|x-jat|Muma no Machi Cornelica
+19183|1|x-jat|Mumei no Jinsei
 1007|2|x-jat|Mumin
 1007|4|hu|Múmin
 1009|4|is|Múmínálfarnir
@@ -36553,6 +36555,7 @@
 679|1|x-jat|Neko no Ongaeshi
 13159|1|x-jat|Neko no Rob
 9047|1|x-jat|Neko no Sumu Shima
+18532|2|en|Neko Oji: The Guy that got Reincarnated as a Cat
 7229|3|x-jat|Neko Overrun
 10593|1|x-jat|Neko Pitcher
 5843|2|en|Neko Rahmen
@@ -38826,6 +38829,7 @@
 12612|1|x-jat|Orangutan
 11974|2|pt|Oratória da Espada: É Errado Tentar Pegar Garotas em uma Masmorra?
 2383|4|fi|Oravan seikkailut
+17480|2|en|Orb
 11447|2|en|Orb Panic Adventure!
 17480|4|en|Orb: On the Movements of the Earth
 17480|4|no|Orb: On the Movements of the Earth
@@ -57484,6 +57488,10 @@
 15315|1|x-zht|Xiao Hua Xian 5 - Si Shi Huayu Chun Xia Part 1 Chun
 15232|1|x-zht|Xiao Kadou Zhao Mama
 14373|1|x-zht|Xiao Lu He Xiao Lan
+19184|1|x-zht|Xiao Lu he Xiao Lan 2nd season (Beryl and Sapphire 2nd season)
+19185|1|x-zht|Xiao Lu he Xiao Lan 3rd season (Beryl and Sapphire 3rd season)
+19186|1|x-zht|Xiao Lu he Xiao Lan 4th season (Beryl and Sapphire 4th season)
+19187|1|x-zht|Xiao Lu he Xiao Lan 5th season (Beryl and Sapphire 5th season)
 18923|1|x-zht|Xiao Lu He Xiao Lan II
 18924|1|x-zht|Xiao Lu He Xiao Lan III
 18925|1|x-zht|Xiao Lu He Xiao Lan IV
@@ -83479,6 +83487,10 @@
 18924|4|zh|小绿和小蓝 III
 18925|4|zh|小绿和小蓝 IV
 18926|4|zh|小绿和小蓝 V
+19185|4|zh|小绿和小蓝 第三季
+19187|4|zh|小绿和小蓝 第五季
+19186|4|zh|小绿和小蓝 第四季
+19184|4|zh|小绿和小蓝 魔王篇
 1009|4|zh|小肥肥一族
 13663|4|zh|小花仙
 13710|4|ja|小花仙 第三季
@@ -87842,6 +87854,7 @@
 298|4|ja|無人島物語X
 926|4|ja|無人島物語XX
 1122|4|ja|無人惑星サヴァイヴ
+19183|4|ja|無名の人生
 11500|4|ja|無彩限のファントム・ワールド
 12650|4|ja|無念
 2349|4|ja|無敵ロボ トライダーG7
