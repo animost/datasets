@@ -1,4 +1,4 @@
-# created: Sat Mar  1 03:00:02 2025
+# created: Sun Mar  2 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -10977,6 +10977,7 @@
 15113|4|pt|Demon Slayer - Kimetsu no Yaiba - O Filme: Comboio Infinito
 15113|4|pt-BR|Demon Slayer - Mugen Train: O Filme
 15113|4|de|Demon Slayer -Kimetsu no Yaiba- the Movie: Mugen Train
+18699|2|de|Demon Slayer the Movie: Infinity Castle
 15113|4|en|Demon Slayer the Movie: Mugen Train
 15113|3|de|Demon Slayer the Movie: Mugen Train
 14107|4|cs|Demon Slayer: Ďáblova čepel
@@ -11001,6 +11002,7 @@
 17198|4|es-419|Demon Slayer: Kimetsu no Yaiba Arco de la Aldea de los Herreros
 18699|4|pt-BR|Demon Slayer: Kimetsu no Yaiba Castelo Infinito
 18699|4|es-419|Demon Slayer: Kimetsu no Yaiba Castillo Infinito
+18699|4|de|Demon Slayer: Kimetsu no Yaiba Infinity Castle
 18699|4|fr|Demon Slayer: Kimetsu no Yaiba La Forteresse infinie
 16259|4|en|Demon Slayer: Kimetsu no Yaiba Mt. Natagumo Arc
 16803|2|en|Demon Slayer: Kimetsu no Yaiba Season 2
@@ -18656,6 +18658,7 @@
 11049|2|en|Gochuumon wa Usagi Desuka 2
 14400|2|x-jat|Gochuumon wa Usagi Desuka 3
 10262|1|x-jat|Gochuumon wa Usagi Desuka?
+19188|1|x-jat|Gochuumon wa Usagi Desuka? (Shinsaku Anime)
 14400|1|x-jat|Gochuumon wa Usagi Desuka? Bloom
 11049|1|x-jat|Gochuumon wa Usagi Desuka??
 12118|1|x-jat|Gochuumon wa Usagi Desuka?? Dear My Sister
@@ -24023,6 +24026,7 @@
 11049|2|en|Is the Order a Rabbit 2
 14400|2|en|Is the Order a Rabbit 3
 10262|4|en|Is the Order a Rabbit?
+19188|2|en|Is the Order a Rabbit? (New Anime)
 14400|4|en|Is the Order a Rabbit? Bloom
 11049|4|en|Is the Order a Rabbit??
 12118|2|en|Is the Order a Rabbit?? Dear My Sister
@@ -37790,6 +37794,12 @@
 4151|4|cs|O dívce, která proskočila časem
 1925|4|es-GA|O Doutor Slump e Arale
 4151|4|pl|O dziewczynie skaczącej przez czas
+13466|4|pt|O Escolhido do Céu
+13466|2|pt|O Escolhido do Céu 1T
+13467|4|pt|O Escolhido do Céu 2T
+13468|4|pt|O Escolhido do Céu 3T
+14297|4|pt|O Escolhido do Céu 4T
+15783|4|pt|O Escolhido do Céu 5T
 3164|4|pt-BR|O Espadachim Ninja
 22|2|pt-BR|O Evangelho de uma Nova Gênesis
 485|4|pt|O Expresso da Galáxia
@@ -66429,6 +66439,7 @@
 2007|2|ar|نينجا المغامر
 692|4|ar|هاجيكي
 129|2|ar|هاجيمي نو إيبو
+6153|2|ar|هاجيمي نو ايبو: متحد جديد
 1861|2|ar|هاكوجادين
 557|4|ar|هامتارو
 6329|2|ar|هاناساكيرو سيشونن
@@ -73283,6 +73294,7 @@
 5188|4|ja|ご愁傷さま二ノ宮くん
 10077|4|ja|ご案内します アナザーワールドへ
 10262|4|ja|ご注文はうさぎですか?
+19188|4|ja|ご注文はうさぎですか? (新作アニメ)
 14400|4|ja|ご注文はうさぎですか? BLOOM
 11049|4|ja|ご注文はうさぎですか??
 12118|4|ja|ご注文はうさぎですか?? ~Dear My Sister~
