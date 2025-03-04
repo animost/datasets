@@ -1,4 +1,4 @@
-# created: Sun Mar  2 03:00:02 2025
+# created: Mon Mar  3 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -22911,6 +22911,7 @@
 18264|2|en|I Want to Escape from Princess Education
 18264|4|en|I Want to Escape from Princess Lessons
 11376|2|en|I Want to Let You Know That I Love You.
+19189|2|en|I Want to Love You Till Your Dying Day
 4184|2|en|I want to win 5th prize
 13698|2|en|I Want You To Make a Disgusted Face and Show Me Your Underwear
 14259|2|en|I Want You To Make a Disgusted Face and Show Me Your Underwear 2
@@ -26876,6 +26877,7 @@
 896|1|x-jat|Kimi ga Nozomu Eien
 2425|2|ja|Kimi ga Nozomu Eien Gaiden
 5470|1|x-jat|Kimi ga Nozomu Eien: Next Season
+19189|1|x-jat|Kimi ga Shinu made Koi o Shitai
 15826|1|x-jat|Kimi ga Suki. The Animation
 13983|1|x-jat|Kimi Koe Project
 6466|1|x-jat|Kimi ni Todoke
@@ -26911,6 +26913,7 @@
 16707|1|x-jat|Kimi o Aishita Hitori no Boku e
 14395|1|x-jat|Kimi Omou Koi
 17100|1|x-jat|Kimi shika Inai
+19189|3|x-jat|kimi shinu
 10956|1|x-jat|Kimi to Boku
 15216|1|x-jat|Kimi to Boku no Saigo no Senjou, Arui wa Sekai ga Hajimaru Seisen
 16828|2|x-jat|Kimi to Boku no Saigo no Senjou, Arui wa Sekai ga Hajimaru Seisen 2
@@ -27346,6 +27349,7 @@
 13128|1|x-jat|KiyaKiya
 15476|4|en|Kiyo in Kyoto: From the Maiko House
 16918|1|x-jat|Kiyo Neko
+19190|3|x-jat|kiyoubinbou
 19143|1|x-jat|Kizetsu Yuusha to Ansatsu Hime
 2246|2|pl|Kizia i Mizia
 11692|1|x-jat|Kiznaiver
@@ -52077,6 +52081,7 @@
 4396|2|en|The Knight of Eon
 11008|2|en|The Labyrinth of Grisaia
 11008|4|en|The Labyrinth of Grisaia: The Cocoon of Caprice 0
+19154|2|en|The Laid Off Demon
 19154|2|en|The Laid Off Demon King
 158|2|en|The Lament of an Otherwise Healthy Girl
 17534|4|en|The Land of Miracles
@@ -58982,6 +58987,7 @@
 957|1|x-jat|Yuusha Ou GaoGaiGar
 1717|1|x-jat|Yuusha Ou GaoGaiGar Final
 3152|1|x-jat|Yuusha Ou GaoGaiGar Final Grand Glorious Gathering
+19190|1|x-jat|Yuusha Party o Oidasareta Kiyoubinbou
 17444|1|x-jat|Yuusha Party o Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau
 18782|1|x-jat|Yuusha Party o Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugai Sugiru
 17444|2|x-jat|Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau
@@ -59518,6 +59524,7 @@
 431|2|lt|Žudikas Ičis
 15453|2|x-zht|Zui Hou De Zhao Huan Shi
 13746|1|x-jat|Zui Hou Jue Ding Ai Shang Ni
+19191|1|x-zht|Zui Qiang Shengji
 16883|1|x-zht|Zui Qiang Woniu x Busuzhike
 14643|2|x-zht|Zuihou De Kuiba
 15453|1|x-zht|Zuihou De Zhaohuan Shi
@@ -72491,6 +72498,7 @@
 153|4|ja|きまぐれオレンジ☆ロード
 2663|4|ja|きまぐれロボット
 5235|3|ja|きみある
+19189|4|ja|きみが死ぬまで恋をしたい
 5276|4|ja|キミキス pure rouge
 13983|4|ja|キミコエ・プロジェクト
 17100|4|ja|きみしかいない
@@ -72512,6 +72520,7 @@
 6485|4|ja|きみはぐ
 12839|4|ja|キミはともだち
 17013|4|ja|キミはやさしく寝取られる THE ANIMATION
+19189|3|ja|きみ死ぬ
 14465|3|ja|きみ波
 5272|4|ja|キムの十字架
 1400|4|ja|キメイラ Target I 堕天使降臨
@@ -80192,6 +80201,7 @@
 17159|4|ja|最強陰陽師の異世界転生記
 8799|4|zh-Hans|最强会长黑神
 9272|4|zh-Hans|最强会长黑神 Abnormal
+19191|4|zh-Hans|最强升级
 7434|4|zh-Hans|最强武將傳 三國演義
 18229|4|zh-Hans|最强肉盾的迷宫攻略～拥有稀少技能体力9999的肉盾，被勇者队伍辞退了～
 16883|4|zh-Hans|最强蜗牛x不速之客
@@ -80919,6 +80929,7 @@
 10113|4|ja|勇者になれなかった俺はしぶしぶ就職を決意しました. 勇者になれなかった俺の妹が上京してきました.
 17444|4|ja|勇者パーティーを追放されたビーストテイマー, 最強種の猫耳少女と出会う
 18782|4|ja|勇者パーティーを追放された白魔導師, Sランク冒険者に拾われる ~この白魔導師が規格外すぎる~
+19190|4|ja|勇者パーティを追い出された器用貧乏
 1819|4|ja|勇者ライディーン
 1710|4|zh-Hans|勇者传说
 18124|4|ja|勇者刑に処す 懲罰勇者9004隊刑務記録
@@ -81711,6 +81722,7 @@
 18315|4|zh-Hans|噗妮露是可爱史莱姆
 2740|4|zh-Hant|噴嚏大魔王
 15344|4|zh-Hant|噴嚏大魔王 2020
+19190|3|ja|器用貧乏
 10842|4|zh-Hans|噬神者
 9772|4|zh-Hans|噬血狂袭
 16412|4|zh-Hans|噬血狂袭 最终季
