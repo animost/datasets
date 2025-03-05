@@ -1,4 +1,4 @@
-# created: Mon Mar  3 03:00:02 2025
+# created: Tue Mar  4 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -15662,7 +15662,6 @@
 2322|2|en|Fight! Crash Gear TURBO
 2322|2|en|Fight! Crush Gear TURBO
 436|4|en|Fight! Iczer-One
-4552|2|x-unk|Fight! Super Robot Lifeform Transformers
 2419|4|ja|FIGHT!!
 2419|1|x-jat|Fight!!
 436|2|en|Fight!! Iczer-1
@@ -18108,6 +18107,7 @@
 12373|1|x-jat|Giant Hammer
 7234|1|x-jat|Giant Killing
 7234|4|ja|GIANT KILLING
+19192|1|x-jat|Giant Ojou-sama
 964|4|pt|Giant Robo
 964|4|fr|Giant Robo
 3541|2|en|Giant Robo - Ginrei Special
@@ -20796,6 +20796,7 @@
 2621|4|de|He is my Master
 2621|2|de|He Is My Master - stets zu ihren Diensten!
 15768|1|x-jat|He Jing Shao Nian
+17513|4|es-419|He renacido como un micrófono en forma de cabeza
 15644|2|th|Hệ Thống Tự Cứu Của Nhân Vật Phản Diện
 19106|1|x-zht|He Zhong Zhi Hai
 13632|2|fr|Hé, on tente ?
@@ -23775,6 +23776,7 @@
 9199|4|es|Insectos Muerde-Traseros
 927|4|fr|Insémination artificielle
 8372|1|x-jat|Inshitsu Otaku ni Ikareru Kanojo
+19193|1|x-jat|Inshoku Ou Demar
 12999|4|ja|insomniac
 12999|1|x-jat|Insomniac
 17131|4|en|Insomniacs After School
@@ -33142,7 +33144,6 @@
 1906|2|fr|Meg la petite sorcière
 1906|2|fr|Meg la sorcière
 1906|2|en|Meg the Witch Girl
-4552|2|x-unk|Mega Man
 5203|4|de|Megachu
 5203|1|x-jat|Megachu! The Animation
 4529|2|x-jat|Megadere
@@ -35646,6 +35647,7 @@
 17653|2|en|My Lewd Skill Makes Me OP Even at Level 1
 10144|1|x-jat|My Life
 10144|4|ja|MY LIFE
+17513|4|en|My Life After Waking Up as a Dummy Head Microphone
 1437|1|x-jat|My Life As
 1437|2|de|My Life As A Chicken
 17260|4|en|My Life as Inukai-san`s Dog.
@@ -43802,7 +43804,6 @@
 5816|2|es|Rocket Kidz: els herois de la ciutat
 12131|1|x-jat|Rocket-dan
 591|4|fi|Rockikyttä
-4552|2|x-unk|Rockman
 146|2|x-jat|Rockman EXE
 3621|2|x-jat|Rockman EXE Beast
 2912|2|en|Rockman EXE the Movie: Program of Light and Dark
@@ -49680,8 +49681,6 @@
 12197|4|en|Super Lovers 2
 12022|2|en|Super Lovers OVA
 1683|4|es-419|Super Magnetrón
-4552|2|x-unk|Super Mario Bros. Film
-4552|2|x-unk|Super Mario Bros. Movie
 4391|2|en|Super Mario Bros.: The Great Mission to Rescue Princess Peach!
 4391|1|x-jat|Super Mario Brothers: Peach-hime Kyuushutsu Daisakusen!
 4391|2|en|Super Mario Brothers: The Great Mission to Rescue Princess Peach!
@@ -50578,8 +50577,6 @@
 15864|1|x-jat|Tasuu Ketsu: Judgement Assizes
 18453|2|en|Tasuuketsu
 1955|4|cs|Táta Sekáč
-4552|2|x-unk|Tatakae! Chou Robot Seimeitai Transformers
-4552|2|x-unk|Tatakae! Chou Robot Seimeitai Transformers 2010
 2065|1|x-jat|Tatakae! Chou Robot Seimeitai Transformers Victory
 6669|1|x-jat|Tatakae! Chou Robot Seimeitai Transformers: Scramble City Hatsudou Hen
 5076|1|x-jat|Tatakae! Osper
@@ -52191,7 +52188,6 @@
 5062|2|en|The Little Twins
 2200|2|en|The Littlest Warrior
 19180|2|en|The Long Ballad
-4552|2|x-unk|The Lord of the Rings: The War of the Rohirrim
 11863|4|en|The Lost Village
 14395|2|en|The Love That I Feel for You
 15144|2|en|The Low Tier Character "Tomozaki-kun"
@@ -52787,8 +52783,6 @@
 6735|2|en|The Sun and the Frogs
 9482|2|en|The Sunday Without God
 996|2|en|The Super Dimension Fortress Macross Do You Remember Love
-4552|2|x-unk|The Super Mario Bros Movie
-4552|2|x-unk|The Super Mario Bros. Movie
 544|4|en|The Super Milk-chan Show
 1035|1|x-jat|The Supergal
 15608|4|en|The Supernatural Sweet Shop
@@ -54179,9 +54173,7 @@
 1342|4|hr|Transformers Energon
 1342|4|hu|Transformers Energon
 1342|4|fr|Transformers Energon
-4552|2|x-unk|Transformers Generation 1
 7924|4|ja|TRANSFORMERS ROBOT MASTERS
-4552|2|x-unk|Transformers the Movie
 2065|2|x-jat|Transformers V
 2065|2|x-jat|Transformers Victory
 2103|2|en|Transformers Z
@@ -73316,7 +73308,6 @@
 6166|4|ja|ザ・サティスファクション
 2124|4|ja|ザ・サムライ
 1035|5|ja|ザ・スーパーギャル
-4552|2|x-unk|ザ・スーパーマリオブラザーズ・ムービー
 5008|4|ja|ザ・チョコレートパニック・ピクチャーショー
 18270|2|ja|ザ・ニュー・ゲート
 1501|4|ja|ザ・ハード BOUNTY HUNTER
@@ -73641,6 +73632,7 @@
 17658|2|ja|シャイ
 18329|2|ja|シャイ (2024)
 6100|4|ja|シャイNing・メイ
+19192|4|ja|ジャイアントお嬢様
 12373|4|ja|ジャイアントハンマー
 964|4|ja|ジャイアントロボ THE ANIMATION 地球が静止する日
 3541|4|ja|ジャイアントロボ外伝 GinRei 銀鈴
@@ -87548,6 +87540,7 @@
 17133|2|ja|淫行教師の催○セイ活指導録
 17133|4|ja|淫行教師の催眠セイ活指導録
 10704|4|ja|淫術の館 THE ANIMATION
+19193|4|ja|淫触王デマール
 1313|4|ja|淫辱の部屋
 658|2|ja|淫辱調教~メイド&義母~ (1)
 1272|2|ja|淫辱調教~メイド&義母~ (2)
