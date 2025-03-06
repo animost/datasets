@@ -1,4 +1,4 @@
-# created: Tue Mar  4 03:00:02 2025
+# created: Wed Mar  5 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3611,6 +3611,7 @@
 2290|4|pt|As Mulherzinhas
 2291|4|pt|As Mulherzinhas II
 2152|4|pt|As Navegantes da Lua R: O Filme - A Promessa de uma Rosa
+19195|1|x-jat|As One
 2829|4|pt|As Princesas Gémeas do Planeta Maravilha
 199|2|pt-BR|As Razões Dele, os Motivos Dela
 161|4|pt-BR|As Super Gatinhas
@@ -12262,6 +12263,7 @@
 12804|4|en|Don`t Lose!! Evil Corps!
 9332|2|en|Don`t Problem Children Come From an Alternate World?
 11660|2|en|Don`t tell Mom
+19196|2|en|Don`t Touch Kotesashi
 15622|4|en|Don`t Toy with Me, Miss Nagatoro
 16926|4|en|Don`t Toy with Me, Miss Nagatoro 2nd Attack
 4297|4|en|Donbe`s Story
@@ -17847,6 +17849,7 @@
 4973|1|x-jat|Gensou Maden Saiyuuki: Kibou no Zaika
 8624|1|x-jat|Gensou Mangekyou: The Memories of Phantasm
 16497|1|x-jat|Gensou Sangokushi: Tengen Reishinki
+19194|1|x-jat|Gensou Suikoden
 488|2|x-jat|Gensoumaden Saiyuuki
 4249|1|x-jat|Genzai Byoutou
 6831|2|en|Genzo Performs a Ceremony with a Parting Cup
@@ -37259,6 +37262,7 @@
 15360|1|x-zht|Nizhuan Ciyuan: AI Jueqi
 13345|3|x-jat|njns
 9453|3|x-jat|nkmg
+19197|1|x-jat|Nmeneko
 8658|3|x-jat|NMG
 9453|3|x-jat|nmgk
 6340|3|x-jat|nna
@@ -45277,6 +45281,7 @@
 6466|4|fr|Sawako
 6466|2|fr|Sawako : Kimi ni Todoke
 1899|2|pt-BR|Sawamu, o Demolidor
+19196|1|x-jat|Sawaranaide Kotesashi-kun
 6169|3|en|SaWII
 9236|4|en|Say "I Love You"
 9236|2|en|Say I Love You
@@ -49463,6 +49468,7 @@
 2145|1|x-jat|Suika
 2402|4|en|Suikoden Demon Century
 2402|4|fr|Suikoden Demon Century
+19194|2|en|Suikoden: The Anime
 10501|1|x-jat|Suiren no Hito
 5154|1|x-jat|Suisei
 17280|1|x-jat|Suisei no Fraulein: Prologue
@@ -70818,6 +70824,7 @@
 2102|4|ja|あずみ マンマ★ミーア
 6374|4|ja|アスラクライン
 6769|4|ja|アスラクライン2
+19195|4|ja|アズワン
 7400|3|ja|あそいく
 13750|4|ja|あそびあそばせ
 14127|4|ja|あそびあそばせ コスプレ大会 / 大人の私へ
@@ -73486,6 +73493,7 @@
 1901|4|ja|さるとびエッちゃん
 12337|4|ja|されど罪人は竜と踊る Dances with the Dragons
 12337|3|ja|され竜
+19196|4|ja|さわらないで小手指くん
 15912|4|ja|さんかく窓の外側は夜
 8642|4|ja|さんかれあ
 8969|4|ja|さんかれあ (2012)
@@ -78676,6 +78684,7 @@
 14405|4|ja|ヲタクに恋は難しい (2019)
 13293|3|ja|ヲタ恋
 357|4|ja|ンート
+19197|4|ja|ンめねこ
 6028|4|ja|一ツ星家のウルトラ婆さん
 2900|2|ja|一ポンドの福音
 18465|4|zh-Hans|一世之尊
@@ -83963,6 +83972,7 @@
 8102|4|zh-Hant|幻想嘉年華
 8102|4|zh-nan|幻想嘉年華
 2331|2|ja|幻想序譚エルシア
+19194|4|ja|幻想水滸伝
 488|4|ja|幻想魔伝 最遊記
 4973|4|ja|幻想魔伝最遊記-希望の罪過-
 17479|4|ja|幻日のヨハネ -SUNSHINE in the MIRROR-
