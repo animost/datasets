@@ -1,4 +1,4 @@
-# created: Thu Mar  6 03:00:02 2025
+# created: Fri Mar  7 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1114,6 +1114,7 @@
 1392|4|pt|A Super Porca
 702|4|en|A Tail of Two Sisters
 5612|2|en|A Tale of Seven Cities - the Arctic Front
+19201|2|en|A Tale of the Secret Saint
 14045|1|x-zht|A Tang Qiyu
 335|4|hu|A Tenger Zúgása
 18321|4|en|A Terrified Teacher at Ghoul School!
@@ -2092,6 +2093,7 @@
 5406|2|tr|Aktar ve Kurt
 6465|2|tr|Aktar ve Kurt 2 OVA
 6169|2|tr|Aktar ve Kurt II
+18939|4|id|Aku Bangsawan Korup di Kekaisaran Antargalaksi
 18852|4|id|Aku Meninggalkan Regu Peringkat-A untuk Menjelajahi Kedalaman Dungeon Bersama Mantan Muridku
 9357|1|x-jat|Aku no Hana
 9357|4|de|Aku no Hana: Die Blumen des Bösen
@@ -23043,6 +23045,7 @@
 4141|2|fr|Ichigo 100% - OAV
 4141|1|x-jat|Ichigo 100% (2005)
 3067|2|x-jat|Ichigo 100% TV
+13164|2|en|Ichigo Chocola Flavor
 13164|1|x-jat|Ichigo Chocolat Flavor
 7951|1|x-jat|Ichigo Ichie: Kimi no Kotoba
 5464|1|x-jat|Ichigo Ichie: Koibana Tomobana
@@ -38671,6 +38674,7 @@
 2512|3|x-jat|onmyou
 16017|2|ja|Onmyou Hyakki Monogatari
 16017|2|x-jat|Onmyou Hyakki Monogatari
+19200|1|x-jat|Onmyou Kaiten Re:verse
 2512|1|x-jat|Onmyou Taisenki
 7065|4|de|Onmyouji
 17641|1|x-jat|Onmyouji
@@ -51015,6 +51019,7 @@
 18707|2|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru Season 2
 18026|2|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta
 17569|1|x-jat|Tensei Oujo to Tensai Reijou no Mahou Kakumei
+19201|1|x-jat|Tensei Shita Daiseijo wa, Seijo de Aru Koto o Hitakakusu
 17702|2|x-jat|Tensei Shitara Dai Nana Ōji Datta no de, Kimama ni Majutsu o Kiwamemasu
 17702|1|x-jat|Tensei Shitara Dai Nana Ouji Datta no de, Kimama ni Majutsu o Kiwamemasu
 18694|1|x-jat|Tensei Shitara Dai Nana Ouji Datta no de, Kimamani Majutsu o Kiwamemasu 2
@@ -81873,6 +81878,7 @@
 18095|4|zh-Hans|在冲绳喜欢上的女孩方言讲得太过令人困扰
 10894|4|zh-Hans|在地下城寻求邂逅是否搞错了什么
 16032|4|zh-Hans|在地下城寻求邂逅是否搞错了什么 IV
+11941|4|zh-Hans|在地下城寻求邂逅是否搞错了什么 第三季 OVA
 18267|4|zh-Hans|在地下城寻求邂逅是否搞错了什么 第五季 丰饶女神篇
 13829|4|zh-Hans|在地下城寻求邂逅是否搞错了什么Ⅱ
 15111|4|zh-Hans|在地下城寻求邂逅是否搞错了什么Ⅲ
@@ -81881,6 +81887,7 @@
 13829|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 2
 16032|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 4
 15111|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 第三季
+11941|2|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 第三季 OVA
 18267|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 第五季
 13830|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼：俄里翁之箭
 17580|4|zh-Hans|在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～
@@ -91434,6 +91441,7 @@
 17789|4|ja|転生したら剣でした 2
 17702|4|ja|転生したら第七王子だったので, 気ままに魔術を極めます
 18694|4|ja|転生したら第七王子だったので, 気ままに魔術を極めます 2
+19201|4|ja|転生した大聖女は, 聖女であることをひた隠す
 12934|4|ja|転生剣奴の子づくり闘技場[ハーレムコロッセオ]
 12934|2|ja|転生剣奴の子作り闘技場
 12934|2|ja|転生剣奴の子作り闘技場(ハーレムコロッセオ)
@@ -92397,6 +92405,7 @@
 14191|4|ja|陰陽師・平安物語
 15422|2|zh-Hans|陰陽師Onmyoji "SSR不知火" 完整版CG: 殆盡枷鎖，浴火而歌
 15422|2|ja|陰陽師本格幻想RPG 不知火CG本編
+19200|4|ja|陰陽廻天 Re:バース
 16132|4|zh-Hant|陰陽眼見子
 15874|4|ja|陸上部女子は俺の生オナホ!!! The Animation
 444|4|ja|陸上防衛隊まおちゃん
