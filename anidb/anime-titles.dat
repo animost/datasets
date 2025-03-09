@@ -1,4 +1,4 @@
-# created: Fri Mar  7 03:00:02 2025
+# created: Sat Mar  8 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -38516,9 +38516,10 @@
 11123|4|pl|One Punch Man
 12430|1|x-jat|One Punch Man (2019)
 12430|4|en|One Punch Man (2019)
-17576|1|x-jat|One Punch Man 3
-17576|4|ja|ONE PUNCH MAN 3
+17576|4|ja|ONE PUNCH MAN (2025)
+17576|1|x-jat|One Punch Man (2025)
 12430|2|en|One Punch Man S2
+17576|2|en|one punch man s3
 11123|4|ja|ONE PUNCH MAN ワンパンマン
 12430|4|ja|ONE PUNCH MAN ワンパンマン (2019)
 11637|4|ja|ONE PUNCH MAN ワンパンマン ロード・トゥ・ヒーロー
@@ -50504,6 +50505,8 @@
 12708|1|x-jat|Tanoshii Sansuu
 4698|1|x-jat|Tanoshii Willow Town
 11612|1|x-jat|Tanoshiku Teasobi Mama ni Natta Kokin-chan!?
+15201|4|id|Tanpa Sadar Levelku Mentok Setelah Membasmi Slime Selama 300 Tahun
+17110|4|id|Tanpa Sadar Levelku Mentok Setelah Membasmi Slime Selama 300 Tahun Musim Kedua
 1379|1|x-jat|Tanpen Unico: Kuroi Kumo to Shiroi Hane
 9482|2|tr|Tanrısız Pazar Günü
 8143|1|x-jat|Tansu Warashi.
@@ -52340,6 +52343,7 @@
 12647|4|fr|The Night Is Short, Walk On Girl
 4378|2|en|The Night on Taneyamagahara
 4714|4|en|The Night When Evil Falls
+14300|2|en|The Night When My Boss and I Spent the Night at the Capsule Hotel
 4714|2|en|The Night When The Demon Falls
 11036|2|en|The Nighthawk Star
 8120|2|en|The Nine-Colored Deer
@@ -54056,6 +54060,7 @@
 8663|3|x-jat|touhou: pvd 2
 9355|3|x-jat|touhou: pvd 3
 9628|3|x-jat|touhou: pvd 4
+19202|1|x-jat|Toujima Tanzaburou wa Kamen Rider ni Naritai
 4971|1|x-jat|Touka Gettan
 18408|4|de|Touken Ranbu Kai Kyoden
 18408|4|en|Touken Ranbu Kai Kyoden
@@ -86592,6 +86597,7 @@
 5246|4|ja|東京魔人學園剣風帖 龖(トウ) 第弐幕
 13798|4|ja|東北東, 十七の空
 6946|2|zh-Hant|東尼的女英雄系列 她是候補花娘嗎？ 灰姑娘・收藏
+19202|4|ja|東島丹三郎は仮面ライダーになりたい
 8664|4|ja|東方 PVD
 8663|4|ja|東方 PVD 2
 9628|4|ja|東方 PVD 4
