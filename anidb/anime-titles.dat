@@ -1,4 +1,4 @@
-# created: Sat Mar  8 03:00:01 2025
+# created: Sun Mar  9 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -25566,6 +25566,7 @@
 16967|3|x-jat|Kakegurui (2022)
 16967|4|hu|KAKEGURUI IKREK
 13718|2|x-jat|Kakegurui S2
+13718|2|en|Kakegurui Season 2
 16967|1|x-jat|Kakegurui Twin
 16967|4|pl|KAKEGURUI TWIN
 16967|4|en|Kakegurui Twin
