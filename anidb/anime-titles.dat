@@ -1,4 +1,4 @@
-# created: Sun Mar  9 03:00:01 2025
+# created: Mon Mar 10 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5923,6 +5923,9 @@
 16705|2|pl|Black Rock Shooter: Upadek
 17204|4|en|Black Summoner
 6098|2|en|Black Tomb
+19203|1|x-jat|Black Torch
+19203|4|ja|BLACK TORCH
+19203|2|en|Black Torch
 1598|4|en|Black Widow
 6820|2|ja|BLACK★ROCK SHOOTER
 1181|2|en|Blackboard Jungle
@@ -14251,6 +14254,7 @@
 3472|3|es|El Saltador
 18452|4|es|El secreto de AiPri
 1895|4|es|El Secreto de Akko-chan
+15085|4|es|El sol naciente
 1359|4|es|El sordido tren de medianoche
 3081|4|es|El Super Libro
 1981|4|es|El taxi del sexo
@@ -28348,6 +28352,7 @@
 7531|1|x-jat|Kuragehime
 4253|1|x-jat|Kurai Mirai
 10507|1|x-jat|Kuraibito
+18708|2|ja|Kurakon
 18307|1|x-jat|Kuramerukagari
 18307|4|de|Kuramerukagari
 18307|4|en|Kuramerukagari
@@ -46828,6 +46833,7 @@
 2029|1|x-jat|Shin Ruriiro no Yuki
 2444|1|x-jat|Shin Saishuu Chikan Densha
 15097|1|x-jat|Shin Sakura Taisen the Animation
+18612|1|x-jat|Shin Samurai-den Yaiba
 7020|3|x-jat|shin sanjuushi
 6945|2|en|Shin Saru Kani Kassen
 10534|1|x-jat|Shin Sei Yariman Gakuen Enkou Nikki The Animation
@@ -49999,7 +50005,7 @@
 14000|1|x-jat|Sword Gai The Animation Part II
 18828|4|en|Sword of Coming
 16614|4|de|Sword of the Demon Hunter
-16614|2|en|Sword of the Demon Hunter
+16614|4|en|Sword of the Demon Hunter
 4181|2|en|Sword of the Destroyer
 2185|4|de|Sword of the Stranger
 2185|4|fr|Sword of the Stranger
@@ -57747,7 +57753,6 @@
 10601|1|x-jat|Yahari Ore no Seishun Lovecome wa Machigatte Iru. Zoku
 12077|1|x-jat|Yahari Ore no Seishun Lovecome wa Machigatte Iru. Zoku: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekite Iru.
 935|2|x-jat|Yahrima Queen
-18612|1|x-jat|Yaiba
 329|4|pl|Yaiba - legendarny samuraj
 329|4|pt|Yaiba - O Pequeno Samurai
 18612|4|en|Yaiba: Samurai Legend
@@ -76744,6 +76749,7 @@
 2544|4|ja|ブラックジャック
 2389|4|ja|ブラックジャック (2004)
 2672|2|ja|ブラックジャック スペシャル ~命をめぐる4つの奇跡~
+19203|2|ja|ブラックトーチ
 13924|2|ja|ブラックフォックス
 1202|2|ja|ブラックホールへの道~異星人クルス&シスイ~
 578|4|ja|ブラックマジックM(マリオ)-66
