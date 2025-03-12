@@ -1,4 +1,4 @@
-# created: Mon Mar 10 03:00:02 2025
+# created: Tue Mar 11 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -920,6 +920,7 @@
 7294|2|pt|A Garota dos Livros: Lanche de Hoje - Primeiro Amor
 7441|2|pt|A Garota dos Livros: Memória
 4151|2|pt-BR|A Garota que Salta Através do Tempo
+19204|2|en|A Gatherer`s Adventure in Isekai
 18914|2|en|A Gentle Noble`s Vacation Recommendation
 17666|4|en|A Girl & Her Guard Dog
 7044|2|en|A Girl at Dojo Temple
@@ -21739,6 +21740,7 @@
 5658|3|x-jat|himitsu
 6958|2|x-jat|Himitsu Kessha Taka no Tsume The Movie 3 ~http://takanotsume.jp wa Eien ni~
 18452|1|x-jat|Himitsu no AiPri
+19205|1|x-jat|Himitsu no AiPri: Ring Hen
 1893|1|x-jat|Himitsu no Akko-chan
 1896|1|x-jat|Himitsu no Akko-chan (1989)
 1895|1|x-jat|Himitsu no Akko-chan (1998)
@@ -39354,6 +39356,7 @@
 13769|2|ko|OVA 과묵한 호색한 외자매 본심을 내보이는 섹스 삼매경
 16066|2|ko|OVA 네토시스
 16065|2|ko|OVA 네토카노
+19057|2|ko|OVA 노노하라 유카의 비밀 방송
 16328|2|ko|OVA 사신창관―음란 거유 모녀 산 제물의식
 15780|2|ko|OVA 수국이 질 때
 19007|4|ja|OVA イクイク サキュバス再教育
@@ -48517,6 +48520,7 @@
 6770|1|x-jat|Souya Monogatari
 12768|1|x-jat|Sowa Sowa Calendar
 9298|4|es-419|Soy una Diosa ¿Y ahora qué?
+19204|1|x-jat|Sozai Saishuka no Isekai Ryokouki
 269|3|x-jat|SP
 640|3|en|sp
 4024|4|en|Spa of Love
@@ -50169,6 +50173,7 @@
 916|3|x-jat|TaG
 13784|3|x-jat|tagatame
 16000|1|x-jat|Tai Ari Deshita. Ojou-sama wa Kakutou Game Nante Shinai
+9320|4|tr|Tai Chi Avcıları
 9320|1|x-jat|Tai Chi Chasers
 9320|2|x-jat|Tai Chi Senjimon
 16875|1|x-zht|Tai Lyu
@@ -50178,6 +50183,7 @@
 15543|1|x-zht|Tai Yi Xian Mo Lu Zhi Ling Fei Ji III
 16382|1|x-zht|Tai Yi Xian Mo Lu: Ling Fei Ji IV
 16255|1|x-jat|Taiban!
+9320|4|tl|Taichi Chaser
 11186|2|x-jat|Taifu no Noruda
 11186|1|x-jat|Taifuu no Noruda
 10598|3|x-jat|taigak
@@ -64687,6 +64693,7 @@
 3665|4|he|אל סיד
 2022|4|he|אל תעזבי אותי דייזי
 79|4|he|אלו הצדים שדונים
+9320|4|he|אלופי הטאי צ`י
 979|4|he|אלכימאי המתכת
 6107|2|he|אלכימאי המתכת 2009
 6107|4|he|אלכימאי המתכת: אחווה
@@ -66844,6 +66851,7 @@
 303|4|th|โทโทโร่ เพื่อนรัก
 5909|4|th|โทระโดระ: ยัยเสือใสกับนายหน้าโหด!
 8101|4|th|ไทเกอร์แอนด์บันนี่
+9320|4|th|ไทชิ อภินิหารอักขระพยัคฆ์มังกร
 12091|2|th|น้องเมดมังกรของคุณโคบายาชิ
 17583|4|th|นักฆ่าโรแมนติก
 2579|4|th|นักชกจ้าวสังเวียน
@@ -68282,6 +68290,7 @@
 10950|4|ko|모든 것이 F가 된다
 4409|4|ko|모래요정 바람돌이
 3382|2|ko|모럴 해저드
+19012|2|ko|모르는 것을 알고 싶으세요? THE ANIMATION
 2500|2|ko|모미지
 11803|4|ko|모브 사이코 100
 13939|4|ko|모브 사이코 100 II
@@ -69563,6 +69572,7 @@
 10756|2|ko|육빈 R30
 15874|2|ko|육상부 여자는 나의 생체 오나홀
 534|2|ko|육욕완구 택배인
+18994|2|ko|육원
 18911|2|ko|육정
 1852|2|ko|육체전이
 10938|4|ko|육화의 용사
@@ -76423,6 +76433,7 @@
 4572|4|ja|ひまわりっ!!
 10138|4|ja|ひまわりのように
 18452|4|ja|ひみつのアイプリ
+19205|4|ja|ひみつのアイプリ リング編
 1893|4|ja|ひみつのアッコちゃん
 1896|4|ja|ひみつのアッコちゃん (1989)
 1895|4|ja|ひみつのアッコちゃん (1998)
@@ -89671,6 +89682,7 @@
 5186|2|zh-Hans|素描本 ~full color`s~
 5414|4|ja|素敵探偵☆ラビリンス
 15052|4|ja|素晴らしき国家の築き方
+19204|4|ja|素材採取家の異世界旅行記
 6394|4|zh-Hans|索尼克：狼人之夜
 13845|4|zh-Hans|索斯机械兽WILD
 15026|4|zh-Hans|索斯机械兽WILD ZERO
