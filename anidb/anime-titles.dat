@@ -1,4 +1,4 @@
-# created: Tue Mar 11 03:00:01 2025
+# created: Wed Mar 12 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1786,6 +1786,7 @@
 6526|3|x-jat|Aika: Zero
 14632|1|x-jat|Aikagi The Animation
 13755|1|x-jat|Aikatsu Friends!
+14631|2|en|Aikatsu Friends! (2019)
 14631|2|en|Aikatsu Friends! Brilliant Jewel
 14631|1|x-jat|Aikatsu Friends! Kagayaki no Jewel
 11526|3|x-jat|aikatsu movie 4
@@ -2441,6 +2442,7 @@
 8832|2|de|Ame und Yuki - Die Wolfskinder
 13282|4|en|Ame-Con!!
 10994|1|x-jat|Ame-iro Cocoa
+14039|2|en|Ame-iro Cocoa (2019)
 12106|1|x-jat|Ame-iro Cocoa in Hawaii
 13282|1|x-jat|Ame-iro Cocoa Series: Ame-con!!
 11338|1|x-jat|Ame-iro Cocoa: Rainy Color e Youkoso
@@ -4171,6 +4173,7 @@
 2825|1|x-jat|B-Legend! Battle B-Daman Fire Spirits!
 2825|2|en|B-Legend! Battle Bedaman Fire Spirits
 12044|4|en|B-Project
+13495|2|en|B-Project (2019)
 13495|2|en|B-Project S2
 15866|3|en|B-Project S3
 15866|4|ja|B-PROJECT 熱烈＊ラブコール
@@ -4625,6 +4628,7 @@
 10728|1|x-jat|Bakumatsu Rock: Mystery! Onsen Kaijiken ze yo!!
 13971|1|x-jat|Bakumatsu: Ren`ai Bakumatsu Kareshi Gaiden
 14548|1|x-jat|Bakumatsu: Ren`ai Bakumatsu Kareshi Gaiden - Crisis
+14548|2|en|Bakumatsu: Ren`ai Bakumatsu Kareshi Gaiden (2019)
 618|2|en|BAKUNYU Hyper-Battle Ikki Tousen
 7133|1|x-jat|Bakunyuu Bomb
 6512|1|x-jat|Bakunyuu Maid Gari
@@ -4753,6 +4757,7 @@
 12262|4|ja|BanG Dream!
 12262|1|x-jat|Bang Dream!
 12262|4|zh-Hans|BanG Dream!
+14075|2|en|Bang Dream! (2019)
 14075|4|ja|BanG Dream! 2nd Season
 14075|1|x-jat|Bang Dream! 2nd Season
 14075|4|en|Bang Dream! 2nd Season
@@ -5421,6 +5426,7 @@
 595|2|pl|Beyblade - latające dyski
 11291|1|x-jat|Beyblade Burst
 11291|4|pt|Beyblade Burst
+14688|2|en|Beyblade Burst (2019)
 13791|1|x-jat|Beyblade Burst Chouzetsu
 16126|1|x-jat|Beyblade Burst Dynamite Battle
 12809|4|en|Beyblade Burst Evolution
@@ -6621,6 +6627,7 @@
 179|4|it|Boogiepop Phantom
 179|4|es-419|Boogiepop Phantom
 13899|1|x-jat|Boogiepop wa Warawanai
+13899|2|en|Boogiepop wa Warawanai (2019)
 179|1|x-jat|Boogiepop wa Warawanai: Boogiepop Phantom
 6959|4|es|Book Girl
 7441|2|en|Book Girl Memories
@@ -7690,6 +7697,7 @@
 13635|1|x-jat|Cardfight!! Vanguard (2018)
 13635|4|ja|CARDFIGHT!! Vanguard (2018)
 13635|4|en|Cardfight!! Vanguard (2018)
+14681|2|en|Cardfight!! Vanguard (2019)
 8974|4|en|Cardfight!! Vanguard Asia Circuit
 10869|1|x-jat|Cardfight!! Vanguard G
 11485|4|en|Cardfight!! Vanguard G GIRS Crisis
@@ -10510,6 +10518,7 @@
 8808|1|x-jat|Date a Live
 8808|4|en|Date a Live
 8808|4|de|Date a Live
+13533|2|en|Date a Live (2019)
 9935|2|x-jat|Date a Live 2
 9935|1|x-jat|Date a Live II
 9935|4|en|Date a Live II
@@ -11571,6 +11580,7 @@
 16012|4|vi|Địa ngục cực lạc:
 9881|1|x-jat|Dia no Ace
 10739|1|x-jat|Dia no Ace (2014)
+14504|2|en|Dia no Ace (2019)
 18638|1|x-jat|Dia no Ace (Zokuhen)
 14504|1|x-jat|Dia no Ace: Act II
 11115|1|x-jat|Dia no Ace: Second Season
@@ -13537,6 +13547,8 @@
 2910|4|de|Duel Masters
 12818|1|x-jat|Duel Masters (2017)
 12818|4|ja|DUEL MASTERS (2017)
+13914|2|en|Duel Masters (2018)
+14620|2|en|Duel Masters (2019)
 4798|1|x-jat|Duel Masters Charge
 5905|1|x-jat|Duel Masters Cross
 7499|1|x-jat|Duel Masters Cross Shock
@@ -16395,6 +16407,7 @@
 15366|1|x-jat|Fukai ni Nemuru Oujo no Abaddon The Animation
 11588|1|x-jat|Fukashigi no Kazoekata
 11924|1|x-jat|Fukigen na Mononokean
+14177|2|en|Fukigen na Mononokean (2019)
 14177|1|x-jat|Fukigen na Mononokean: Tsuzuki
 17001|3|ja|Fukomi
 4957|1|x-jat|Fuku-chan
@@ -23331,6 +23344,7 @@
 7219|3|x-jat|ikki4
 8569|3|x-jat|ikki5
 618|1|x-jat|Ikkitousen
+14420|2|en|Ikkitousen (2019)
 4870|2|x-jat|Ikkitousen 2
 5749|2|x-jat|Ikkitousen 3
 7219|2|x-jat|Ikkitousen 4
@@ -25569,6 +25583,7 @@
 12834|4|pl|Kakegurui
 12834|2|en|Kakegurui - Compulsive Gambler
 12834|4|de|Kakegurui – Das Leben ist ein Spiel
+13718|2|en|Kakegurui (2019)
 16967|3|x-jat|Kakegurui (2022)
 16967|4|hu|KAKEGURUI IKREK
 13718|2|x-jat|Kakegurui S2
@@ -25975,6 +25990,7 @@
 13145|1|x-jat|Karada Sagashi
 221|2|x-jat|Karafuru
 13270|1|x-jat|Karakai Jouzu no Takagi-san
+14591|2|en|Karakai Jouzu no Takagi-san (2019)
 14591|1|x-jat|Karakai Jouzu no Takagi-san 2
 16559|1|x-jat|Karakai Jouzu no Takagi-san 3
 13991|1|x-jat|Karakai Jouzu no Takagi-san: Water Slider
@@ -26269,6 +26285,7 @@
 12057|1|x-jat|Kemono Friends
 12057|4|en|Kemono Friends
 12057|4|fr|Kemono Friends
+13055|2|en|Kemono Friends (2019)
 13055|1|x-jat|Kemono Friends 2
 13055|4|en|Kemono Friends 2
 13055|2|en|Kemono Friends S2
@@ -34376,6 +34393,7 @@
 11803|4|es-419|Mob Psycho 100
 11803|4|pl|Mob Psycho 100
 13939|4|pl|Mob Psycho 100 (2019)
+13939|2|en|Mob Psycho 100 (2019)
 14941|3|en|Mob Psycho 100 2 OAV
 13939|1|x-jat|Mob Psycho 100 II
 13939|4|en|Mob Psycho 100 II
@@ -37841,6 +37859,7 @@
 264|4|es-GA|O Gran Suxi
 17662|4|pt-BR|O Grande Clérigo
 8181|2|tr|O Gün Gördüğümüz Çiçeğin Adını Hala Bilmiyoruz
+17340|4|pt|O Herói Lendário Está Morto!
 4549|2|pt-BR|O Homen Cinza
 17026|4|pt-BR|O Imaginário
 17026|4|pt|O Imaginário
@@ -37849,6 +37868,7 @@
 3671|4|pt|O Jardim Secreto
 766|4|pt-BR|O Judoca
 2245|4|pt|O Lago dos Cisnes
+17340|2|pt|O Lendário Herói Está Morto!
 14646|4|pt|O Líder: Karl Marx
 3672|4|pt|O Livro de Thumbelina
 3081|4|pt|O Livro Incrível
@@ -45968,6 +45988,7 @@
 14411|2|x-jat|Senjyushi OVA
 963|1|x-jat|Senkaiden Houshin Engi
 8709|1|x-jat|Senki Zesshou Symphogear
+11959|2|en|Senki Zesshou Symphogear (2019)
 11955|1|x-jat|Senki Zesshou Symphogear AXZ
 9465|1|x-jat|Senki Zesshou Symphogear G
 10321|1|x-jat|Senki Zesshou Symphogear GX
@@ -48402,6 +48423,7 @@
 4556|1|x-jat|Soukou no Strain
 15496|1|x-jat|Soukou Seiki Ysphere: Ingyaku no Sennou Kaizou
 1806|1|x-jat|Soukyuu no Fafner
+12701|2|en|Soukyuu no Fafner (2019)
 3323|2|x-jat|Soukyuu no Fafner 2
 17084|1|x-jat|Soukyuu no Fafner: Behind the Line
 9639|1|x-jat|Soukyuu no Fafner: Exodus
@@ -54734,6 +54756,7 @@
 9871|1|x-jat|TV Ban Pocket Monsters Special: Masara Town Hen Soushuuhen
 8136|1|x-jat|TV Manga Shouwa Monogatari
 14505|1|x-jat|TV Yarou Nanana
+14821|2|en|TV Yarou Nanana (2019)
 15427|1|x-jat|TV Yarou Nanana: Kaibutsu Kraken o Oe!
 14821|1|x-jat|TV Yarou Nanana: Wakuwaku Doukutsu Land
 526|4|he|TV נוקו נוקו
@@ -57903,6 +57926,7 @@
 5677|1|x-jat|Yami no Teiou: Kyuuketsuki Dracula
 9964|1|x-jat|Yami Shibai
 14088|2|x-jat|Yami Shibai - Japanese Ghost Stories 6
+14922|2|en|Yami Shibai (2019)
 17057|1|x-jat|Yami Shibai 10
 18020|1|x-jat|Yami Shibai 11
 18402|1|x-jat|Yami Shibai 12
@@ -58441,6 +58465,7 @@
 4334|1|x-jat|Youkai Ningen Bem (2006)
 13084|1|x-jat|Youkai Shoujo
 9930|1|x-jat|Youkai Watch
+14687|2|en|Youkai Watch (2019)
 16077|1|x-jat|Youkai Watch (2021)
 15268|1|x-jat|Youkai Watch Jam: Youkai Gakuen Y - N to no Souguu
 11288|2|x-jat|Youkai Watch Movie 2
@@ -93388,6 +93413,7 @@
 14360|4|zh-Hans|魔法纪录 魔法少女小圆外传
 16404|4|zh-Hans|魔法纪录 魔法少女小圆外传 Final SEASON -浅梦的黎明-
 15472|2|zh-Hans|魔法纪录 魔法少女小圆外传 第二季 -觉醒前夜-
+15472|4|zh-Hans|魔法纪录 魔法少女小圆外传 第二季 觉醒前夜
 4074|2|zh-Hans|魔法美少女
 2605|4|zh-Hans|魔法老师涅吉！
 4565|2|zh-Hans|魔法老师涅吉!?
