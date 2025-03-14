@@ -1,4 +1,4 @@
-# created: Wed Mar 12 03:00:01 2025
+# created: Thu Mar 13 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4758,6 +4758,7 @@
 12262|1|x-jat|Bang Dream!
 12262|4|zh-Hans|BanG Dream!
 14075|2|en|Bang Dream! (2019)
+14076|2|en|Bang Dream! (2020)
 14075|4|ja|BanG Dream! 2nd Season
 14075|1|x-jat|Bang Dream! 2nd Season
 14075|4|en|Bang Dream! 2nd Season
@@ -5427,6 +5428,7 @@
 11291|1|x-jat|Beyblade Burst
 11291|4|pt|Beyblade Burst
 14688|2|en|Beyblade Burst (2019)
+15438|2|en|Beyblade Burst (2020)
 13791|1|x-jat|Beyblade Burst Chouzetsu
 16126|1|x-jat|Beyblade Burst Dynamite Battle
 12809|4|en|Beyblade Burst Evolution
@@ -6549,6 +6551,7 @@
 15320|1|x-jat|Bokutachi no Remake
 3983|1|x-jat|Bokutachi Pichu Brothers: Party wa Oosawagi! no Maki
 14289|1|x-jat|Bokutachi wa Benkyou ga Dekinai
+14968|2|x-jat|Bokutachi wa Benkyou ga Dekinai (2019)
 14918|1|x-jat|Bokutachi wa Benkyou ga Dekinai: Nagisa ni Usemono Arite Senjin wa Enzen to [X] Suru
 14968|1|x-jat|Bokutachi wa Benkyou ga Dekinai!
 16111|1|x-jat|Bokutachi wa Benkyou ga Dekinai!: Chapel no Kane wa [X] o Shukufuku Suru
@@ -8319,6 +8322,7 @@
 8538|2|x-jat|Chihaya Furu
 8538|1|x-jat|Chihayafuru
 8538|4|en|Chihayafuru
+13841|2|en|Chihayafuru (2019)
 9261|1|x-jat|Chihayafuru 2
 9261|4|en|Chihayafuru 2
 9887|2|pt-BR|Chihayafuru 2: Minha Beleza, Outrora Tão Elogiada, Também Está Desbotando com o Passar do Tempo
@@ -13610,6 +13614,7 @@
 18267|2|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka V: Houjou no Megami Hen
 10894|1|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth
 11941|1|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth - Dungeon ni Onsen o Motomeru no wa Machigatte Iru Darouka
+13829|2|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth (2019)
 13829|1|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth II
 15111|1|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth III
 16032|1|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth IV
@@ -14459,6 +14464,7 @@
 13170|2|fr|En route pour Mizuryuland !
 9591|4|fr|En selle, Sakamichi !
 14488|1|x-jat|En`en no Shouboutai
+15335|2|x-jat|En`en no Shouboutai (2020)
 15335|2|x-jat|En`en no Shouboutai 2
 15335|1|x-jat|En`en no Shouboutai Ni no Shou
 17420|1|x-jat|En`en no Shouboutai San no Shou
@@ -19087,6 +19093,7 @@
 13524|3|en|Granblue 2
 11597|1|x-jat|Granblue Fantasy The Animation
 11597|4|ja|GRANBLUE FANTASY The Animation
+13524|2|en|Granblue Fantasy The Animation (2019)
 13524|4|ja|GRANBLUE FANTASY The Animation Season 2
 13524|1|x-jat|Granblue Fantasy The Animation Season 2
 11597|4|en|Granblue Fantasy: The Animation
@@ -19513,6 +19520,7 @@
 16384|1|x-jat|Gundam Breaker Battlogue
 13774|1|x-jat|Gundam Build Divers
 13774|4|en|Gundam Build Divers
+14495|2|en|Gundam Build Divers (2019)
 14495|4|en|Gundam Build Divers Re:Rise
 14495|1|x-jat|Gundam Build Divers Re:Rise
 15333|1|x-jat|Gundam Build Divers Re:Rise (2020)
@@ -20074,6 +20082,7 @@
 10145|4|pt|Haikyuu!!
 10954|1|x-jat|Haikyuu!! (2014)
 15045|1|x-jat|Haikyuu!! (2019)
+14552|2|x-jat|Haikyuu!! (2020)
 10981|4|pt|Haikyuu!! II
 11991|1|x-jat|Haikyuu!! Karasuno Koukou vs Shiratorizawa Gakuen Koukou
 13332|1|x-jat|Haikyuu!! Karasuno Koukou vs Shiratorizawa Gakuen Koukou: Tokushuu! Haru Kou Volley ni Kaketa Seishun
@@ -21609,6 +21618,7 @@
 8722|4|ja|HIGH SCORE
 10352|1|x-jat|High Score Girl
 10352|4|fr|High Score Girl
+14780|2|x-jat|High Score Girl (2019)
 14780|1|x-jat|High Score Girl II
 14418|1|x-jat|High Score Girl: Extra Stage
 4031|2|en|High Speed Jessie
@@ -23166,6 +23176,7 @@
 15955|4|en|Idolish 7: Third Beat!
 16010|4|en|Idolish 7: Third Beat! (2022)
 12339|1|x-jat|Idolish Seven
+14202|2|x-jat|Idolish Seven (2020)
 14202|1|x-jat|Idolish Seven: Second Beat!
 15955|1|x-jat|Idolish Seven: Third Beat!
 16010|1|x-jat|Idolish Seven: Third Beat! (2022)
@@ -23903,9 +23914,13 @@
 903|4|it|Inuyasha - The Movie 2: Il castello al di là dello specchio
 273|4|it|Inuyasha - The Movie: Un sentimento che trascende il tempo
 1320|2|en|InuYasha - The World Conquering Swords
+273|4|pt|InuYasha 1: Sentimentos que Transcendem o Tempo
 903|4|pt|Inuyasha 2 - O Castelo de Sonhos no Espelho
 903|2|pt|Inuyasha 2: O Castelo da Fantasia no Espelho
+903|2|pt|InuYasha 2: O Castelo das Ilusões Dentro do Espelho
 903|2|pt|InuYasha 2: O Castelo para lá do Espelho
+1320|4|pt|InuYasha 3: A Espada Dominadora do Mundo
+2321|4|pt|InuYasha 4: Fogo na Ilha Mística
 273|4|fr|Inuyasha Film 1 : Au-delà du Temps
 903|4|fr|Inuyasha Film 2 : Le château des Illusions
 6716|1|x-jat|Inuyasha Kanketsuhen
@@ -24121,6 +24136,7 @@
 18288|4|en|Isekai Onsen Paradise
 14435|1|x-jat|Isekai Quartet
 14435|4|en|Isekai Quartet
+14964|2|en|Isekai Quartet (2020)
 14964|1|x-jat|Isekai Quartet 2
 14964|4|en|Isekai Quartet 2
 14964|2|x-jat|Isekai Quartet 2nd Season
@@ -24300,6 +24316,7 @@
 13698|2|ja|Iya na Kao sare nagara Opantsu Misete Moraitai
 18061|1|x-jat|Iya na Kao sare nagara Opantsu Misete Moraitai ver 3.0
 13698|1|x-jat|Iya na Kao Sarenagara Opantsu Misete Moraitai
+14259|2|x-jat|Iya na Kao Sarenagara Opantsu Misete Moraitai (2019)
 14259|1|x-jat|Iya na Kao Sarenagara Opantsu Misete Moraitai 2
 13698|3|x-jat|iyapan
 14259|2|x-jat|IyaPan 2
@@ -25527,6 +25544,7 @@
 11246|1|x-jat|Kaijuu Sakaba Kanpaai!
 16510|1|x-jat|Kaijuu Step SDGs Daisakusen
 14806|1|x-jat|Kaijuu Step Wandabada
+15524|2|x-jat|Kaijuu Step Wandabada (2020)
 15524|1|x-jat|Kaijuu Step Wandabada 2nd Season
 12877|2|x-jat|Kaika
 843|1|x-jat|Kaikan Phrase
@@ -25744,6 +25762,8 @@
 10763|3|x-jat|Kamihaji S2
 15400|3|x-jat|Kamihiro
 16364|3|x-jat|kamihiro s2
+19206|3|x-jat|kamiina botan
+19206|1|x-jat|Kamiina Botan, Yoeru Sugata wa Yuri no Hana
 17337|3|x-jat|kamikatsu
 17337|4|pt-BR|KamiKatsu: Atividades Divinas em um Mundo sem Deuses
 17337|4|de|KamiKatsu: Meine Arbeit als Missionar in einer gottlosen Welt
@@ -32000,6 +32020,7 @@
 10182|3|x-jat|mahouka
 15952|3|en|mahouka alt
 10182|1|x-jat|Mahouka Koukou no Rettousei
+15132|2|x-jat|Mahouka Koukou no Rettousei (2020)
 17098|1|x-jat|Mahouka Koukou no Rettousei (2024)
 15132|2|x-jat|Mahouka Koukou no Rettousei 2nd Season
 15132|2|x-jat|Mahouka Koukou no Rettousei S2
@@ -35265,6 +35286,7 @@
 15373|4|hu|Muge
 10758|1|x-jat|Mugen Kouro
 5679|1|x-jat|Mugen no Juunin
+14912|2|x-jat|Mugen no Juunin (2019)
 14912|1|x-jat|Mugen no Juunin: Immortal
 1095|1|x-jat|Mugen no Kyoukai
 192|1|x-jat|Mugen no Ryvius
@@ -36099,6 +36121,7 @@
 10596|1|x-jat|Nanatsu no Taizai
 11646|2|ja|Nanatsu no Taizai - Imashime no Fukkatsu
 11138|1|x-jat|Nanatsu no Taizai (2015)
+14819|2|x-jat|Nanatsu no Taizai (2019)
 12047|3|en|Nanatsu no Taizai 1.5
 12047|2|x-jat|Nanatsu no Taizai S1.5
 11646|2|x-jat|Nanatsu no Taizai S2
@@ -37461,6 +37484,7 @@
 6721|3|x-jat|nogizaka s2
 6721|3|x-jat|nogizaka2
 14617|1|x-kot|Nogsaegjeoncha Hamos
+19207|1|x-jat|Nohara Hiroshi Hirumeshi no Ryuugi
 3651|4|vi|Nỗi buồn của Suzumiya Haruhi
 4441|4|it|Noi c`eravamo
 3651|2|vi|Nỗi u sầu của Suzumiya Haruhi
@@ -38558,6 +38582,7 @@
 12550|4|ja|One Room
 12550|4|en|One Room
 12550|4|zh-Hans|One Room
+15411|2|en|One Room (2020)
 13480|2|x-jat|One Room S2
 15411|2|x-jat|One Room S3
 15411|4|ja|One Room サードシーズン
@@ -39287,6 +39312,7 @@
 9559|1|x-jat|Otona Joshi no Anime Time 2
 8208|1|x-jat|Otona Joshi no Anime Time: Kawamo o Suberu Kaze
 14412|1|x-jat|Otona no Bouguya-san
+15724|2|x-jat|Otona no Bouguya-san (2020)
 14694|1|x-jat|Otona no Bouguya-san (Rimen)
 15724|1|x-jat|Otona no Bouguya-san II
 8747|2|x-jat|Otona no Douwa Series: Yonimo Osoroshii Grimm Douwa
@@ -46933,6 +46959,7 @@
 11223|1|x-jat|Shingeki no Bahamut: Virgin Soul
 9541|1|x-jat|Shingeki no Kyojin
 10944|2|x-jat|Shingeki no Kyojin (2017)
+14977|2|x-jat|Shingeki no Kyojin (2020)
 10944|2|x-jat|Shingeki no Kyojin 2
 9826|1|x-jat|Shingeki no Kyojin OAD
 9541|2|x-jat|Shingeki no Kyojin S1
@@ -47195,6 +47222,8 @@
 13244|2|x-jat|Shokugeki no Soma S3
 13658|2|en|Shokugeki no Soma S3 part 2
 10901|1|x-jat|Shokugeki no Souma
+14951|2|x-jat|Shokugeki no Souma (2019)
+15319|2|x-jat|Shokugeki no Souma (2020)
 11664|1|x-jat|Shokugeki no Souma OAD
 14951|2|x-jat|Shokugeki no Souma Season 4
 15319|2|en|Shokugeki no Souma Season 5
@@ -50018,6 +50047,7 @@
 15146|1|x-jat|Sword Art Online: Alicization - War of Underworld (2020)
 15146|4|en|Sword Art Online: Alicization - War of Underworld (2020)
 15146|2|en|Sword Art Online: Alicization - War of Underworld Part 2
+14796|2|en|Sword Art Online: Alicization (2019)
 13494|2|de|Sword Art Online: Alternative - Gun Gale Online
 10022|1|x-jat|Sword Art Online: Extra Edition
 10022|4|en|Sword Art Online: Extra Edition
@@ -53530,6 +53560,7 @@
 9484|2|x-jat|Toaru Kagaku no Choudenjihou S
 14440|2|x-jat|Toaru Kagaku no Ippoutsuukou
 6460|1|x-jat|Toaru Kagaku no Railgun
+14441|2|x-jat|Toaru Kagaku no Railgun (2020)
 14441|2|x-jat|Toaru Kagaku no Railgun 3
 19161|1|x-jat|Toaru Kagaku no Railgun 4
 7975|2|x-jat|Toaru Kagaku no Railgun OVA
@@ -58047,6 +58078,7 @@
 14103|2|x-jat|yatogame
 14103|1|x-jat|Yatogame-chan Kansatsu Nikki
 14103|4|en|Yatogame-chan Kansatsu Nikki
+14957|2|x-jat|Yatogame-chan Kansatsu Nikki (2020)
 14957|4|en|Yatogame-chan Kansatsu Nikki 2
 14957|2|x-jat|Yatogame-chan Kansatsu Nikki 2 Satsume
 15741|4|en|Yatogame-chan Kansatsu Nikki 3
@@ -59485,6 +59517,7 @@
 15026|3|x-jat|zoids s6
 1774|1|x-jat|Zoids Shin Seiki/Zero
 13845|1|x-jat|Zoids Wild
+15026|2|en|Zoids Wild (2019)
 17186|1|x-jat|Zoids Wild Senki
 15026|1|x-jat|Zoids Wild Zero
 1382|3|x-jat|Zoids: CC
@@ -64500,6 +64533,7 @@
 7693|2|ru|Шакотан Буги
 16967|4|uk|Шалений азарт. Затятий двійник
 5678|2|ru|Шаловливый поцелуй
+9922|2|ru|Шалости под сакурой
 92|4|ru|Шаман Кинг
 3408|2|bg|Шана с горящите очи
 10997|4|ru|Шарлотта
@@ -78971,6 +79005,8 @@
 2|2|zh-nan|三隻眼
 12957|4|zh-Hans|三颗星彩色冒险
 11441|4|ja|上京物語
+19206|3|ja|上伊那ぼたん
+19206|4|ja|上伊那ぼたん, 酔へる姿は百合の花
 18768|4|zh-Hans|上班族去了异世界后成了四天王
 850|4|zh-Hans|上班族金太郎
 12671|4|ja|上級生
@@ -91895,6 +91931,7 @@
 1205|4|ja|野々村病院の人々
 14345|4|ja|野ばら
 3649|4|ja|野ばらのジュリー
+19207|4|ja|野原ひろし 昼メシの流儀
 5624|2|zh-Hans|野咪咪
 11996|4|zh-Hans|野球少年/棒球伙伴
 3488|4|ja|野球狂の詩
