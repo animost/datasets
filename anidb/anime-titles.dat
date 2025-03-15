@@ -1,4 +1,4 @@
-# created: Thu Mar 13 03:00:01 2025
+# created: Fri Mar 14 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2324,6 +2324,8 @@
 18127|2|en|All Saints Street 4
 7454|4|ja|ALL THAT GUNDAM
 7454|1|x-jat|All That Gundam
+19208|4|ja|All You Need Is Kill
+19208|1|x-jat|All You Need Is Kill
 15498|4|en|All-You-Can-Eat Cow Tits: The Animation
 69|2|it|All`arrembaggio!
 3165|4|it|Alla scoperta di Babbo Natale
@@ -7413,7 +7415,7 @@
 3383|1|x-jat|Call Me Tonight
 16971|4|en|Call of the Night
 16971|4|it|Call of the Night - Il richiamo della notte
-18531|2|en|Call of the Night 2
+18531|2|en|Call of the Night Season 2
 3662|2|en|Call of the Wild
 3158|4|en|Call of the Wild: Howl, Buck
 16688|4|ja|Call Star -ボクは本当にダメな星?-
@@ -10716,6 +10718,8 @@
 17643|4|es|De yakuza a amo de casa (2023)
 1319|3|x-jat|DE2
 15848|2|x-jat|dea5
+19209|1|x-jat|Dead Account
+19209|2|en|Dead Account
 1806|2|en|Dead Aggressor
 17084|2|en|Dead Aggressor: Behind the Line
 9639|2|en|Dead Aggressor: Exodus
@@ -15625,7 +15629,8 @@
 16711|1|x-zht|Feng Shu Zhan Jing 2
 13445|1|x-zht|Feng Wei Ying Xiong
 14431|1|x-zht|Feng Yu Zhou
-19133|2|en|Fengwu Demon Chef
+19133|4|en|Fengwu Demon Chef
+19133|2|en|Fengwu Demon Face
 19133|1|x-zht|Fengwu Yao Chu
 16886|1|x-zht|Fengyu Lang Qiao
 18645|1|x-zht|Fengyun Bian
@@ -17415,6 +17420,7 @@
 4193|3|x-jat|gedsen
 18839|1|x-jat|Geesen Shoujo to Ibunka Kouryuu
 2242|2|de|Gefährlicher Countdown für Cyborg 009
+18886|2|de|gefroren
 13742|4|en|Gegege no Kitaro
 7357|2|en|GeGeGe no Kitaro movie 8: Ghost Nighter
 7356|2|en|Gegege no Kitaro: Great Sea Beast
@@ -22386,6 +22392,7 @@
 5365|1|x-jat|Houkago 2: Hajirau Hana wa Murete Amaku
 5724|1|x-jat|Houkago 2: Sayuri
 12072|1|x-jat|Houkago Initiation
+19211|1|x-jat|Houkago Kitaku Biyori
 1302|1|x-jat|Houkago Mania Club: Koi no Hoshii no The Animation
 9164|1|x-jat|Houkago Midnighters
 13976|1|x-jat|Houkago Midnighters: Short Movies Season 2
@@ -33001,6 +33008,7 @@
 7229|1|x-jat|Mayoi Neko Overrun!
 11863|1|x-jat|Mayoiga
 13223|1|x-jat|Mayoiga no Onee-san The Animation
+19210|1|x-jat|Mayonaka Heart Tune
 14172|1|x-jat|Mayonaka no Occult Koumuin
 14706|1|x-jat|Mayonaka no Occult Koumuin: Fukurokouji to Anoko to Ore to
 16451|1|x-jat|Mayonaka no Yuugi: Nora ver.
@@ -35884,6 +35892,7 @@
 17933|2|en|Myth of the ancients
 18695|2|en|Mythical Creatures Are My Dinners
 632|4|en|Mythical Detective Loki Ragnarok
+19133|2|en|Mythical Feasts
 632|4|pt-BR|Mythical Sleuth Loki
 5435|3|x-jat|myyour
 8794|4|ja|My妹~小悪魔なAカップ~
@@ -43854,7 +43863,7 @@
 1446|2|lt|Robotukas Marsas
 17440|4|en|RoboWarriors
 2202|4|es|Rock el Valiente
-18769|2|en|Rock Is a Lady`s Modesty
+18769|4|en|Rock Is a Lady`s Modesty
 2616|4|pt-BR|Rock Sexual
 18769|1|x-jat|Rock wa Lady no Tashinami Deshite
 2202|4|pt|Rock: O Valente
@@ -49445,6 +49454,7 @@
 14023|2|en|Strong Tire!
 17104|2|en|Strongest Immortal of Seven Realms
 18935|2|en|Strongest King, What Will You Do in Your Second Life?
+19191|2|en|Strongest Leveling
 4132|2|en|Struck by Black Rain
 16389|4|cs|Strýček z jiného světa
 6556|2|en|Student Council Judgement
@@ -52152,6 +52162,7 @@
 6880|2|en|The King`s Tail
 17846|4|en|The Kingdoms of Ruin
 12560|2|en|The Kings Avatar
+19133|2|en|The Kitchen
 6768|2|en|The Kitten`s Doodles
 5731|2|en|The Kitten`s Studio
 16876|2|en|The Klutzy Witch
@@ -52849,6 +52860,7 @@
 16029|4|en|The Strongest Sage with the Weakest Crest
 18980|2|en|The Strongest Sect of All Ages
 18229|4|en|The Strongest Tank`s Labyrinth Raids: A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero`s Party
+19191|4|en|The Strongest Upgrade
 19143|2|en|The Stunned Hero and the Assassin Princesses
 17601|4|en|The Success of Empyrean Xuan Emperor
 17602|4|en|The Success of Empyrean Xuan Emperor 2
@@ -54739,6 +54751,7 @@
 17522|4|pt|Túmulo dos Deuses Caídos
 18847|4|pt|Túmulo dos Deuses Caídos 2
 15867|2|x-zht|Tun Shi Xing Kong
+19210|2|en|Tune In to the Midnight Heart
 11784|2|vi|Tung tiền hữu tọa linh kiếm sơn
 17040|4|de|Tunnel to Summer
 15867|1|x-zht|Tunshi Xingkong
@@ -58286,7 +58299,7 @@
 11518|1|x-jat|Yodaka no Hoshi (2014)
 11098|1|x-jat|Yodomi no Sawagi
 16971|1|x-jat|Yofukashi no Uta
-18531|1|x-jat|Yofukashi no Uta 2
+18531|1|x-jat|Yofukashi no Uta Season 2
 2373|4|de|Yogusettai
 18321|2|x-jat|Yohaji
 17479|4|en|Yohane the Parhelion: Sunshine in the Mirror
@@ -66294,6 +66307,7 @@
 2762|2|fa|گروه شین سن
 9357|2|fa|گل شیطان
 14523|4|ar|لا أريد أن أتأذى، لذلك سأصقل دفاعي
+15464|4|ar|لا أريد أن أتأذى، لذلك سأصقل دفاعي 2
 331|2|ar|لابوتا: قلعة في السماء
 8181|2|ar|لازلنا لا نعرف أسماء الزهور التي رأيناها في ذلك اليوم
 15751|4|ar|لبنى السريعة
@@ -71793,6 +71807,7 @@
 1737|2|ja|オーバン・スターレーサーズ
 1737|4|ja|オーバンスターレーサーズ
 14991|2|ja|オービタルエラ
+19208|2|ja|オール ユー ニード イズ キル
 14018|4|ja|おあむ物語 その夏, わたしが知ったこと
 15050|4|ja|オイさんと40の物語
 13170|4|ja|おいでよ! 水龍敬ランド
@@ -74960,6 +74975,7 @@
 17901|4|ja|でたらめな世界のメロドラマ
 5209|4|ja|デッド ガールズ レッド ガーデン
 1170|4|ja|デッド リーブス
+19209|4|ja|デッドアカウント
 17273|4|ja|デッドデッドデーモンズデデデデデストラクション
 18670|4|ja|デッドデッドデーモンズデデデデデストラクション (Web)
 2351|2|ja|デッドヒート
@@ -78187,7 +78203,7 @@
 6795|4|ja|よなよなペンギン
 2861|4|ja|よばれてとびでて!アクビちゃん
 16971|4|ja|よふかしのうた
-18531|4|ja|よふかしのうた2
+18531|4|ja|よふかしのうた Season2
 4113|4|ja|よみがえる空 -Rescue Wings-
 10405|4|ja|よりぬき銀魂さんオンシアター2D
 17938|3|ja|ヨルクラ
@@ -85423,6 +85439,7 @@
 13976|4|ja|放課後ミッドナイターズ ショートムービーズ Season2
 18171|4|ja|放課後少年花子くん
 18272|4|ja|放課後少年花子くん (2024)
+19211|4|ja|放課後帰宅びより
 2565|4|ja|放課後恋愛クラブ -恋のエチュード-
 12234|4|ja|政宗くんのリベンジ
 13840|4|ja|政宗くんのリベンジ (2018)
@@ -89062,6 +89079,7 @@
 14172|4|ja|真夜中のオカルト公務員
 14706|4|ja|真夜中のオカルト公務員 袋小路とあの子と俺と
 16451|4|ja|真夜中の誘戯（まよなかのいたずら） -ノーラver.-
+19210|4|ja|真夜中ハートチューン
 18454|4|ja|真夜中ぱんチ
 12802|4|ja|真夜中は純潔
 1331|4|ja|真奈美&ナミ スプライト
