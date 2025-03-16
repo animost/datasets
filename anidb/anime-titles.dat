@@ -1,4 +1,4 @@
-# created: Fri Mar 14 03:00:01 2025
+# created: Sat Mar 15 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -12020,7 +12020,9 @@
 13028|4|en|Dishonor Student
 10281|1|x-jat|Disk Wars: Avengers
 13578|1|x-jat|Disney Tsum Tsum
-16908|1|x-jat|Disney: Twisted-Wonderland the Animation
+16908|1|x-jat|Disney: Twisted-Wonderland the Animation - Episode of Heartslabyul
+19216|1|x-jat|Disney: Twisted-Wonderland the Animation - Episode of Octavinelle
+19215|1|x-jat|Disney: Twisted-Wonderland the Animation - Episode of Savanaclaw
 1988|2|en|Disqualified Doctor
 70|2|es|Distrito comercial mágico Abenobashi
 15540|4|cs|Dítě měsíce bohů
@@ -16865,7 +16867,7 @@
 16442|4|ja|GABULI
 16442|1|x-jat|Gabuli
 18686|1|x-jat|Gachiakuta
-18686|2|en|Gachiakuta
+18686|4|en|Gachiakuta
 692|1|x-jat|Gad Guard
 692|4|fr|Gad Guard
 692|4|en|Gad Guard
@@ -23667,6 +23669,7 @@
 13314|1|x-kot|Indie Anibox: Selma Danbaekjil Coffee
 18944|1|x-jat|Indoor na Chiba New Joshi no Watashi ni Sugu Karande Kuru Kinoshita Danshi ga Yatara Uzai
 7025|1|x-jat|Inemuri Buuchan
+19218|2|en|Inexpressive Kashiwada and Expressive Oota
 7259|2|en|Infection 2: City of Sin
 7652|2|en|Infection 3: Fall of the Capital
 8970|2|en|Infection 5: The Daybreak
@@ -25966,6 +25969,7 @@
 2680|1|x-jat|Kanzen Mushuusei: Sorezore no Houkago
 6317|1|x-jat|Kanzen Shouri Daiteiou
 9180|1|x-zht|Kao An
+19218|1|x-jat|Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun
 17555|1|x-zht|Kao Ni La! Zhanshen Xitong
 1088|1|x-jat|Kao no Nai Tsuki
 18867|1|x-jat|Kaoru Hana wa Rin to Saku
@@ -27894,6 +27898,7 @@
 10097|1|x-jat|Kono Sora no Shita de
 16446|1|x-jat|Kono Subarashii Sekai ni Bakuen o!
 11261|1|x-jat|Kono Subarashii Sekai ni Shukufuku o!
+19213|1|x-jat|Kono Subarashii Sekai ni Shukufuku o! (Zokuhen)
 11992|1|x-jat|Kono Subarashii Sekai ni Shukufuku o! 2
 13317|2|en|Kono Subarashii Sekai ni Shukufuku o! 2 Episode 11
 13317|1|x-jat|Kono Subarashii Sekai ni Shukufuku o! 2: Kono Subarashii Geijutsu ni Shukufuku o!
@@ -31753,6 +31758,7 @@
 14467|4|en|Magical Sempai
 70|4|en|Magical Shopping Arcade Abenobashi
 70|2|en|Magical Shopping Street Abenobashi
+19214|2|en|Magical Sisters Lulutto Lilly
 9464|4|en|Magical Sisters Yoyo & Nene
 607|2|en|Magical Soldier Louie
 11172|4|en|Magical Somera-chan
@@ -31898,6 +31904,7 @@
 4011|2|x-jat|Mahou no Princess Minky Momo: Yume wo Dakishimete
 4848|1|x-jat|Mahou no Rouge Lipstick
 2562|1|x-jat|Mahou no Shiho-chan
+19214|1|x-jat|Mahou no Shimai Lulutto Lily
 246|1|x-jat|Mahou no Stage Fancy Lala
 1444|1|x-jat|Mahou no Star Magical Emi
 7072|1|x-jat|Mahou no Star Magical Emi Finale! Finale! Soushuuhen
@@ -32570,6 +32577,7 @@
 16101|3|x-jat|maogaku s2
 16102|3|x-jat|maogaku s3
 16894|1|x-zht|Maomao De Gushi
+18562|3|x-unk|maomao2
 14391|3|x-jat|maorito
 18167|2|x-jat|Maorito 2
 15095|3|x-jat|maosumi
@@ -32999,6 +33007,7 @@
 8179|4|en|Mayo Chiki!
 7726|2|x-jat|Mayo Elle Otoko no Ko
 7726|2|x-jat|Mayo elle Otokonoko
+19210|3|x-jat|mayochuu
 7726|2|x-jat|Mayoelle Otokonoko
 7726|1|x-jat|Mayoeru Otokonoko
 8179|2|x-jat|Mayoeru Shitsuji to Chicken na Ore to
@@ -35686,7 +35695,7 @@
 18199|4|en|My Hero Academia: UA Heroes Battle
 18199|4|fr|My Hero Academia: UA Heroes Battle
 19069|4|de|My Hero Academia: Vigilantes
-19069|2|en|My Hero Academia: Vigilantes
+19069|4|en|My Hero Academia: Vigilantes
 15873|4|en|My Hero Academia: World Heroes` Mission
 15873|4|fr|My Hero Academia: World Heroes` Mission
 18150|4|en|My Hero Academia: You`re Next
@@ -43191,6 +43200,7 @@
 15932|4|en|Record of Ragnarok
 15932|4|cs|Record of Ragnarök
 16540|4|en|Record of Ragnarok II
+19212|4|en|Record of Ragnarok III
 482|2|en|Record of School War Muryou
 12438|1|x-jat|Recorder
 12438|4|ja|RECORDER
@@ -43303,6 +43313,7 @@
 11784|1|x-jat|Reikenzan: Hoshikuzu-tachi no Utage
 3997|2|en|Reiko Shiratori I Presume
 13146|2|fr|Reina, idole angélique
+19217|2|en|Reincarnated as a Dragon Hatchling
 16785|4|en|Reincarnated as a Sword
 17789|4|en|Reincarnated as a Sword 2
 18437|2|en|Reincarnated as the Daughter of the Legendary Hero and the Queen of Spirits
@@ -47485,6 +47496,7 @@
 15932|2|x-jat|Shuumatsu no Valkyrie: Record of Ragnarok
 15932|1|x-jat|Shuumatsu no Walkure
 16540|1|x-jat|Shuumatsu no Walkure II
+19212|1|x-jat|Shuumatsu no Walkure III
 19176|1|x-jat|Shuumatsu Touring
 17667|1|x-jat|Shuumatsu Train Doko e Iku?
 746|1|x-jat|Shuusaku
@@ -51102,6 +51114,7 @@
 17702|1|x-jat|Tensei Shitara Dai Nana Ouji Datta no de, Kimama ni Majutsu o Kiwamemasu
 18694|1|x-jat|Tensei Shitara Dai Nana Ouji Datta no de, Kimamani Majutsu o Kiwamemasu 2
 17702|2|x-jat|Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu
+19217|1|x-jat|Tensei Shitara Dragon no Tamago Datta: Saikyou Igai Mezasa Nee
 16785|1|x-jat|Tensei Shitara Ken Deshita
 17789|1|x-jat|Tensei Shitara Ken Deshita 2
 13871|1|x-jat|Tensei Shitara Slime Datta Ken
@@ -66750,6 +66763,7 @@
 17208|4|th|ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ซีซั่น 2
 17237|4|th|ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ซีซั่น 3
 17304|4|th|ขอให้รักเรานี้ได้มีความสุข
+18205|4|th|ขอให้รักเรานี้ได้มีความสุข ซีซั่น 2
 18483|4|th|ขาดทุนเพื่อเป็นเศรษฐี
 979|4|th|แขนกลคนแปรธาตุ
 2359|4|th|แขนกลคนแปรธาตุ เดอะมูฟวี่ ฝ่ามิติพิชิตแดนสวรรค์
@@ -66769,6 +66783,7 @@
 251|4|th|คิดดี้เกรด
 2130|4|th|คินนิคุแมน จอมพลัง ภาค 2
 17913|4|th|คินนิคุแมน: บรรพบุรุษยอดมนุษย์ผู้สมบูรณ์แบบ
+18875|4|th|คินนิคุแมน: บรรพบุรุษยอดมนุษย์ผู้สมบูรณ์แบบ ภาคที่ 2
 4264|4|th|คิบะ ศึกอภินิหารข้ามภพ
 2605|4|th|คุณครูจอมเวท เนกิมะ!
 4565|4|th|คุณครูจอมเวท เนกิมะ!?
@@ -66908,6 +66923,7 @@
 3573|4|th|ใต้ฟ้าจันทร์ครึ่งดวง
 14642|4|th|ถ้อยคำเอ่อล้นด้วยหัวใจรัก
 18118|4|th|ถ้าสาวกิลด์จะเหนื่อยเบอร์นี้ ขอไปขยี้บอสเองได้มั้ยคะ
+18768|2|th|ถูกเกณฑ์ไปต่างโลก : จากพนักงานเงินเดือนสู่หนึ่งในสี่จตุรเทพ!
 521|2|th|ทรามวัยกายสิทธิ์
 18019|4|th|ทอนโบะ!
 241|2|th|ทัช ยอดรักนักกีฬา
@@ -66954,12 +66970,14 @@
 333|4|th|ในความทรงจำที่ไม่มีวันจาง
 12523|4|th|บทเพลงที่หายไป
 9077|4|th|บทเพลงบรรเลงฝัน
+18770|4|th|บริษัทนี้มีความรัก
 43|4|th|บลัด เดอะลาสท์แวมไพร์
 2369|4|th|บลีช เทพมรณะ
 15449|4|th|บลีช เทพมรณะ สงครามเลือดพันปี
 17765|4|th|บลีช เทพมรณะ สงครามเลือดพันปี – การแยกจาก
 18220|4|th|บลีช เทพมรณะ สงครามเลือดพันปี – ความขัดแย้ง
 18295|4|th|บันทึกการเดินทางแสนเอื่อยในต่างโลก เลี้ยงลูกพร้อมกับเป็นนักผจญภัย
+18581|4|th|บันทึกประวัติคดีคุณหมออาเมคุ
 17608|4|th|บันทึกเรื่องราวจักรวรรดิเทียร์มูน -จุดพลิกผันชะตากรรมของเจ้าหญิงเริ่มจากบนกิโยติน-
 17025|4|th|บับเบิ้ล
 12569|4|th|บากิ (2018)
@@ -66996,6 +67014,7 @@
 5107|4|th|โปเนียว ธิดาสมุทรผจญภัย
 15853|4|th|ผมโดนกลุ่มผู้กล้าขับไสเลยต้องไปสโลว์ไลฟ์ที่ชายแดน
 17693|4|th|ผมโดนกลุ่มผู้กล้าขับไสเลยต้องไปสโลว์ไลฟ์ที่ชายแดน ภาคที่ 2
+18491|4|th|ผมต้องอยู่กับนินจานีทโอตาคุ!
 10951|4|th|ผ่าพิภพดงผีดิบ
 9541|4|th|ผ่าพิภพไททัน
 10944|4|th|ผ่าพิภพไททัน ภาคที่ 2
@@ -67156,10 +67175,11 @@
 35|4|th|เลิฟฮินะ
 632|4|th|โลกิ ปริศนาแร็กนาร็อค
 17097|2|th|ไลโคริส รีคอยล์
-18517|4|th|วะ วะ วะ วะ แวมไพร์ กับ นาย เวอร์ จิ้ น
+18517|4|th|วะวะวะวะแวมไพร์กับนายเวอร์จิ้น
 336|4|th|วันนั้น...วันไหน หัวใจจะเป็นสีชมพู
 69|4|th|วันพีซ
 100|4|th|วัยรุ่น วุ่นรัก
+18406|4|th|วาตารุ ผู้สร้างเทพจักรกล
 18498|4|th|วิญญาณคร่ำครวญอยากวางมือแล้ว ～วิธีปั้นปาร์ตี้สุดแกร่งโดยฮันเตอร์สุดอ่อน～
 10538|4|th|วิธีปั้นสาวบ้านให้มาเป็นนางเอกของผม
 4797|2|th|วินเทอร์ การ์เด้น
@@ -67269,6 +67289,12 @@
 6171|4|th|อีวานเกเลียน:2.22 พัฒนาต่อไป (ไม่) ได้.
 8895|4|th|อีวานเกเลียน:3.0+1.01 สามครั้งก่อน เมื่อเนิ่นนานมาแล้ว
 7565|4|th|อีวานเกเลียน:3.33 กลับไปแก้ไข (ไม่) ได้.
+8148|4|th|เอ็กซอร์ซิสต์พันธุ์ปีศาจ
+18561|4|th|เอ็กซอร์ซิสต์พันธุ์ปีศาจ - ภาคปลายหิมะ
+8689|4|th|เอ็กซอร์ซิสต์พันธุ์ปีศาจ เดอะ มูฟวี่
+18735|4|th|เอ็กซอร์ซิสต์พันธุ์ปีศาจ ภาคชั่วข้ามคืน
+12240|4|th|เอ็กซอร์ซิสต์พันธุ์ปีศาจ ภาคราชามลทินแห่งเกียวโต
+17786|4|th|เอ็กซอร์ซิสต์พันธุ์ปีศาจ ภาคอิลลูมินาตีแห่งชิมาเนะ
 15597|4|th|เอเดนส์ซีโร่
 2183|4|th|เอเรเมนทาร์ เจเร็ด
 6564|4|th|แองเจิลบีทส์ แผนพิชิตนางฟ้า
@@ -67284,6 +67310,7 @@
 173|4|th|ฮันเตอร์ x ฮันเตอร์ OVA
 545|4|th|ฮันเตอร์ x ฮันเตอร์ OVA GI
 1427|4|th|ฮันเตอร์ x ฮันเตอร์ OVA GI FINAL
+18516|4|th|ฮันนี่ เลมอน โซดา
 15737|4|th|ฮันมะ บากิ
 18557|4|th|ฮันมะ บากิปะทะกำปั้นอสูร โทคิตะ
 4917|4|th|ฮายาเตะ พ่อบ้านประจัญบาน!
@@ -73295,6 +73322,7 @@
 16446|4|ja|この素晴らしい世界に爆焔を!
 11854|2|ja|この素晴らしい世界に祝福を OAD
 11261|4|ja|この素晴らしい世界に祝福を!
+19213|4|ja|この素晴らしい世界に祝福を! (続編)
 11992|4|ja|この素晴らしい世界に祝福を! 2
 13317|4|ja|この素晴らしい世界に祝福を! 2 この素晴らしい芸術に祝福を!
 17431|4|ja|この素晴らしい世界に祝福を! 3
@@ -74882,7 +74910,9 @@
 11875|2|ja|デイズ
 14020|4|ja|デイズ (2014)
 10281|4|ja|ディスク・ウォーズ: アベンジャーズ
-16908|4|ja|ディズニー ツイステッドワンダーランド ザ アニメーション
+19216|4|ja|ディズニー ツイステッドワンダーランド ザ アニメーション エピソード オブ オクタヴィネル
+19215|4|ja|ディズニー ツイステッドワンダーランド ザ アニメーション エピソード オブ サバナクロー
+16908|4|ja|ディズニー ツイステッドワンダーランド ザ アニメーション エピソード オブ ハーツラビュル
 13578|4|ja|ディズニー ツムツム
 13158|2|ja|ディッキー&カリーナ
 1363|4|ja|ディテクティブ file.1禁断の愛
@@ -77594,6 +77624,7 @@
 3984|4|ja|まゆとろ THE TOONS
 11863|5|ja|マヨイガ
 8179|4|ja|まよチキ!
+19210|3|ja|マヨチュー
 13223|4|ja|マヨヒガのお姉さん THE ANIMATION
 6434|4|ja|マリー&ガリー
 7427|4|ja|マリー&ガリー Ver.2.0
@@ -89790,6 +89821,7 @@
 15561|4|ja|終末のハーレム
 15932|4|ja|終末のワルキューレ
 16540|4|ja|終末のワルキューレII
+19212|4|ja|終末のワルキューレIII
 18507|4|ja|終末ホスピタル
 15932|4|zh-Hant|終末的女武神
 15561|4|zh-Hant|終末的後宮
@@ -91541,6 +91573,7 @@
 18785|4|ja|転生したらスライムだった件 救われるラミリス
 18884|4|ja|転生したらスライムだった件 第4期
 15457|4|ja|転生したらスライムだった件 転スラ日記
+19217|4|ja|転生したらドラゴンの卵だった~最強以外目指さねぇ~
 16785|4|ja|転生したら剣でした
 17789|4|ja|転生したら剣でした 2
 17702|4|ja|転生したら第七王子だったので, 気ままに魔術を極めます
@@ -92847,6 +92880,7 @@
 1724|4|ja|頭文字D Fourth Stage
 145|4|ja|頭文字D Second Stage
 625|4|ja|頭文字D Third Stage
+19218|4|ja|顔に出ない柏田さんと顔に出る太田君
 1088|4|ja|顔のない月
 17745|4|zh-Hans|顶尖恶路
 17118|4|zh-Hans|顶点!!!!!!!!!!!!!!!
@@ -93293,6 +93327,7 @@
 1863|4|ja|魔法の天使クリィミーマミ 永遠のワンスモア
 499|4|ja|魔法の妖精 ペルシャ
 8676|4|ja|魔法の妖精ペルシャ 回転木馬
+19214|4|ja|魔法の姉妹ルルットリリィ
 2562|4|ja|魔法の詩保ちゃん
 7430|4|zh-Hans|魔法之星爱美 云光中
 8426|4|zh-Hant|魔法亞媽
