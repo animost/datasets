@@ -1,4 +1,4 @@
-# created: Sun Mar 16 03:00:02 2025
+# created: Mon Mar 17 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -16762,6 +16762,7 @@
 1759|1|x-jat|Fuujin Monogatari
 12300|1|x-jat|Fuuka
 12300|4|en|Fuuka
+19225|1|x-jat|Fuuki Iin to Fuuzoku Katsudou
 17001|3|x-jat|fuukoi
 3096|1|x-jat|Fuuma no Kojirou: Saishuushou - Fuuma Hanran Hen
 3099|1|x-jat|Fuuma no Kojirou: Seiken Sensou Hen
@@ -18451,6 +18452,7 @@
 12361|1|x-jat|Girls und Panzer Saishuushou
 13571|1|x-jat|Girls und Panzer: Dai 63-kai Sensha-dou Zenkoku Koukousei Taikai - Soushuuhen
 10009|1|x-jat|Girls und Panzer: Kore ga Hontou no Anzio-sen Desu!
+19220|1|x-jat|Girls und Panzer: Motto Love Love Sakusen Desu!
 12361|6|x-jat|Girls und Panzer: Saishuushou das Finale
 10009|4|en|Girls und Panzer: This Is the Real Anzio Battle!
 16006|4|en|Girls` Frontline
@@ -25884,7 +25886,7 @@
 11579|1|x-jat|Kanimanji Engi
 5770|1|x-jat|Kankara Sanshin
 18857|1|x-jat|Kankin Kuiki Level X
-19179|1|x-jat|Kankin Kuiki Level X: Dai 2 Ki
+19179|1|x-jat|Kankin Kuiki Level X (2025)
 11489|2|en|Kankore Movie
 9116|1|x-jat|Kankou Taisen Saitama: Sakuya no Tatakai
 15540|4|hu|Kanna és az istenek hónapja
@@ -34281,6 +34283,7 @@
 8488|2|x-jat|Mitsume ga Tooru: Tezuka Osamu ga Kieta?! 20 Seiki Saigo no Kaijiken
 10325|1|x-jat|Mitsuwano
 7047|1|x-jat|Mittsu no Kumo
+19222|1|x-jat|Mittsu no umibe kara
 4417|4|pt|Miúdos do Resgate
 14245|3|x-jat|mix
 2714|2|en|Mix Juice
@@ -36685,6 +36688,7 @@
 5679|2|lt|Nemirtingojo Kardas
 11165|1|x-jat|Nemure Omoigo, Sora no Shitone ni
 17331|1|x-jat|Nemurenai Ookami
+19224|1|x-jat|Nemurenai Yoru no Tsuki
 15031|1|x-jat|Nemurenu Yoru no Chiisana Ohanashi
 12279|1|x-jat|Nenbutsu Monogatari
 6277|1|x-jat|Nenbutsu Monogatari: Shinran-sama - Negai, Soshite Hikari
@@ -37618,6 +37622,7 @@
 13302|1|x-jat|Nori P-chan
 15418|1|x-jat|Norimono Man: Mobile Land no Car-kun
 10054|1|x-jat|Norman the Snowman: Kita no Kuni no Aurora (Kari)
+19223|1|x-jat|Norman the Snowman: Nagareboshi no Furu Yoru ni
 11515|1|x-jat|Norn 9: Norn + Nonet
 11515|4|en|Norn9
 11515|4|ja|NORN9 ノルン+ノネット
@@ -44758,6 +44763,7 @@
 1359|4|de|Saishu Chikan Densha
 1359|1|x-jat|Saishuu Chikan Densha
 9190|1|x-jat|Saishuu Chikan Densha Next
+19221|1|x-jat|Saishuu Gakushou Hibike! Euphonium
 113|2|x-jat|Saishuu Heiki Kanojo
 4442|1|x-jat|Saishuu Shiken Kujira
 113|1|x-jat|Saishuuheiki Kanojo
@@ -48545,6 +48551,7 @@
 10889|4|fr|Sound! Euphonium
 11746|4|en|Sound! Euphonium 2
 14935|4|en|Sound! Euphonium 3
+19221|2|en|Sound! Euphonium the Final Movie
 11747|2|en|Sound! Euphonium The Movie: Welcome to the Kitauji High School Concert Band
 17441|2|en|Sound! Euphonium: Ensemble Contest Arc
 12962|4|en|Sound! Euphonium: The Movie - May the Melody Reach You!
@@ -72198,6 +72205,7 @@
 11904|4|ja|ガーリッシュ ナンバー
 9227|4|ja|ガールズ&パンツァー
 10009|4|ja|ガールズ&パンツァー これが本当のアンツィオ戦です!
+19220|4|ja|ガールズ&パンツァー もっとらぶらぶ作戦です!
 12361|6|ja|ガールズ&パンツァー 最終章 das FINALE
 10008|4|ja|ガールズ&パンツァー 劇場版
 13571|4|ja|ガールズ&パンツァー 第63回戦車道全国高校生大会 総集編
@@ -75771,6 +75779,7 @@
 12276|2|ja|ノーゲーム・ノーライフ 0
 12276|4|ja|ノーゲーム・ノーライフ ゼロ
 10054|4|ja|ノーマン・ザ・スノーマン ~北の国のオーロラ(仮)~
+19223|4|ja|ノーマン・ザ・スノーマン〜流れ星のふる夜に〜
 3988|2|ja|ノーラ
 11534|2|ja|ノイズ
 15011|4|ja|ノイド
@@ -80367,6 +80376,7 @@
 18592|4|zh-Hant|最狂輔助職業【話術士】世界最強戰團聽我號令
 113|4|ja|最終兵器彼女
 2700|4|ja|最終兵器彼女 Another love song
+19221|4|ja|最終楽章 響け! ユーフォニアム
 1359|4|ja|最終痴漢電車
 9190|4|ja|最終痴漢電車NEXT
 4442|4|ja|最終試験くじら
@@ -89037,7 +89047,7 @@
 6528|4|ja|監獄戦艦
 10526|4|ja|監督不行届
 18857|4|ja|監禁区域レベルX
-19179|4|ja|監禁区域レベルX 第2期
+19179|4|ja|監禁区域レベルX (2025)
 10631|4|ja|目玉焼きの黄身 いつつぶす?
 19142|4|ja|目覚めたら最強装備と宇宙船持ちだったので, 一戸建て目指して傭兵として自由に生きたい
 10360|4|zh-Hans|目隐都市的演绎者
@@ -89145,6 +89155,7 @@
 1462|4|ja|真魔神伝 バトルロイヤルハイスクール
 5795|4|ja|真魔神英雄伝ワタル 魔神山編
 17331|4|ja|眠れないオオカミ
+19224|4|ja|眠れない夜の月
 15031|4|ja|眠れぬ夜の小さなお話
 16391|4|zh-Hans|眷思量
 17105|2|zh-Hans|眷思量 第2季
@@ -92915,6 +92926,7 @@
 12300|4|ja|風夏
 3188|4|ja|風急雲怒
 9514|4|ja|風立ちぬ
+19225|4|ja|風紀委員とフーゾク活動
 5518|4|ja|風船少女テンプルちゃん
 9514|4|zh-Hant|風起
 9944|2|ja|風輪奸山
