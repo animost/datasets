@@ -1,4 +1,4 @@
-# created: Mon Mar 17 03:00:02 2025
+# created: Tue Mar 18 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5625,6 +5625,7 @@
 10079|1|x-jat|Bikyaku Seido Kaichou Ai
 4563|4|hr|Bilježnica smrti
 18776|1|x-jat|Binan Koukou Chikyuu Bouei Bu Eternal Love!
+19227|1|x-jat|Binan Koukou Chikyuu Bouei Bu Haikara!
 13706|1|x-jat|Binan Koukou Chikyuu Bouei Bu Happy Kiss!
 10853|1|x-jat|Binan Koukou Chikyuu Bouei Bu Love!
 11488|1|x-jat|Binan Koukou Chikyuu Bouei Bu Love! Love!
@@ -9832,6 +9833,7 @@
 10853|4|en|Cute High Earth Defense Club Love!
 11488|4|en|Cute High Earth Defense Club Love! Love!
 12993|4|en|Cute High Earth Defense Club Love! Love! Love!
+19227|2|en|Cute High Earth Defense Club Stylish!
 10160|2|fr|Cute Little Devil Girlfriend
 215|4|fr|Cutey Honey
 1238|4|de|Cutey Honey
@@ -16719,6 +16721,7 @@
 15128|4|en|Futsal Boys!!!!!
 18717|1|x-jat|Futsuma *jo Charlotte
 18717|2|x-jat|Futsuma Shoujo Charlotte
+19226|1|x-jat|Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den
 10404|1|x-jat|Futsuu no Joshikousei ga [Locodol] Yattemita.
 11286|1|x-jat|Futsuu no Joshikousei ga [Locodol] Yattemita. (2015)
 12899|4|en|Future Avengers
@@ -25467,6 +25470,7 @@
 15806|2|x-jat|Kaguya-sama wa Kokurasetai 3
 17477|1|x-jat|Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai
 14111|1|x-jat|Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren`ai Zunousen
+15807|2|x-jat|Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA
 15806|1|x-jat|Kaguya-sama wa Kokurasetai: Ultra Romantic
 15207|1|x-jat|Kaguya-sama wa Kokurasetai? Tensai-tachi no Ren`ai Zunousen
 15807|1|x-jat|Kaguya-sama wa Kokurasetai? Tensai-tachi no Ren`ai Zunousen (2021)
@@ -31615,6 +31619,7 @@
 11672|2|pl|Magi: Przygody Sinbada
 10392|2|x-jat|Magi: Sinbad no Bouken
 11672|2|x-jat|Magi: Sinbad no Bouken (2016)
+11672|2|x-jat|Magi: Sinbad no Bouken OVA
 11672|2|tr|Magi: Sinbad`ın Macerası
 10392|1|x-jat|Magi: Sindbad no Bouken
 11672|1|x-jat|Magi: Sindbad no Bouken (2016)
@@ -53226,6 +53231,7 @@
 79|4|en|Those Who Hunt Elves
 80|4|en|Those Who Hunt Elves II
 15508|2|en|Those Years I Opened a Zoo
+19226|2|en|Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court
 16041|4|en|Thousand Autumns
 17364|2|en|Thousands of Worlds
 9592|2|en|Three Iron Musketeers
@@ -55975,6 +55981,7 @@
 620|4|fr|Venus Wars
 620|4|de|Venus Wars
 620|4|it|Venus Wars
+620|4|pt|Venus Wars - Guerras em Vénus
 5475|4|de|Venus-File
 2810|4|hu|Vér és kereszt
 181|3|x-jat|verbara
@@ -76805,6 +76812,7 @@
 18040|4|ja|ぶっちぎり?!
 17278|4|ja|ブッチギレ!
 15981|4|ja|ぷっちみく♪ D4DJ Petit Mix
+19226|4|ja|ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~
 5012|4|ja|ぷッつんメイクLOVE
 15128|2|ja|フットサルボーイズ!!!!!
 316|4|ja|ぶっとび!! CPU
@@ -90203,6 +90211,7 @@
 10853|4|ja|美男高校地球防衛部LOVE!
 11488|4|ja|美男高校地球防衛部LOVE! LOVE!
 12993|4|ja|美男高校地球防衛部LOVE! LOVE! LOVE!
+19227|4|ja|美男高校地球防衛部ハイカラ!
 6172|4|ja|美肌一族
 10079|4|ja|美脚性奴会長 亜衣
 7227|4|zh-Hans|美食的俘虏 OVA
