@@ -1,4 +1,4 @@
-# created: Tue Mar 18 03:00:02 2025
+# created: Wed Mar 19 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3629,6 +3629,7 @@
 11415|1|x-jat|Asa ga Kuru mae ni: Sasurai Version
 8416|1|x-jat|Asa kara Zusshiri Milk Pot
 8873|1|x-jat|Asa made Jugyou Chu!
+19228|1|x-jat|Asa made Shiru Daku Haha Musume Donburi!!
 17406|1|x-jat|Asa na Yuu na
 17405|1|x-jat|Asa o Kitan
 13409|1|x-jat|Asagao to Kase-san.
@@ -16721,6 +16722,7 @@
 15128|4|en|Futsal Boys!!!!!
 18717|1|x-jat|Futsuma *jo Charlotte
 18717|2|x-jat|Futsuma Shoujo Charlotte
+19226|3|x-jat|futsutsuka
 19226|1|x-jat|Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den
 10404|1|x-jat|Futsuu no Joshikousei ga [Locodol] Yattemita.
 11286|1|x-jat|Futsuu no Joshikousei ga [Locodol] Yattemita. (2015)
@@ -21937,6 +21939,7 @@
 784|1|x-jat|Hitsuji no Uta
 1801|3|x-jat|Hiwou
 1801|2|en|Hiwou War Chronicles
+1801|4|de|Hiwou War Chronicles
 6079|1|x-jat|Hiya Hiya Hiyariko to Babu Babu Baikinman
 6079|2|x-jat|Hiyahiya Hiyariko to Babubabu Baikinman
 16074|1|x-jat|Hiyoko Buta no Theme Part 2.
@@ -28962,6 +28965,7 @@
 5297|4|fr|La Forêt de Miyori
 2234|2|fr|La forêt enchantée
 2107|2|fr|La forêt magique
+5638|4|es-419|La Forma del Amor: ¿Odias A Las Chicas Calientes?
 10937|4|it|La forma della voce
 15963|4|es|La fortuna sonríe a Lady Nikuko
 11223|4|es|La Furia de Bahamut: Alma Virgen
@@ -53882,6 +53886,7 @@
 17522|2|en|Tomb of Fallen Gods
 18847|2|en|Tomb of Fallen Gods 2
 18847|2|en|Tomb of Fallen Gods 2nd Season
+19229|1|x-jat|Tomb Raider King
 11806|4|en|Tomboy Angels
 18420|2|en|Tombs of Fallen Immortals
 332|2|en|Tombstone for Fireflies
@@ -76812,6 +76817,7 @@
 18040|4|ja|ぶっちぎり?!
 17278|4|ja|ブッチギレ!
 15981|4|ja|ぷっちみく♪ D4DJ Petit Mix
+19226|3|ja|ふつつか
 19226|4|ja|ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~
 5012|4|ja|ぷッつんメイクLOVE
 15128|2|ja|フットサルボーイズ!!!!!
@@ -86487,6 +86493,7 @@
 11415|4|ja|朝が来る前に ~さすらいバージョン~
 12024|4|ja|朝だよ! 貝社員
 8873|4|ja|朝まで授業 Chu!
+19228|4|ja|朝まで汁だく母娘丼!!
 17218|4|zh|朝堂有妖气
 13262|4|zh-Hans|朝花夕誓——于离别之朝束起约定之花
 124|4|zh-Hans|朝雾的巫女
