@@ -1,4 +1,4 @@
-# created: Wed Mar 19 03:00:01 2025
+# created: Thu Mar 20 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -199,6 +199,7 @@
 10932|4|ja|&lt;harmony/&gt;
 14564|2|ja|&lt;Infinite Dendrogram&gt;
 15798|1|x-jat|#Compass
+17754|4|en|#Compass 2.0 Animation Project
 17754|1|x-jat|#Compass 2.0: Sentou Setsuri Kaiseki System
 17297|1|x-jat|#Ima Made de Ichiban Yokatta Sex The Animation
 15798|4|ja|#コンパス
@@ -1025,6 +1026,7 @@
 14990|4|hu|A nagy színlelő
 18597|4|en|A New Dawn
 11577|4|vi|Á nhân
+18596|4|en|A Ninja and an Assassin Under One Roof
 18358|4|en|A Nobody`s Way Up to an Exploration Hero
 2465|4|pt-BR|A Noite do Sexo
 14071|4|pt-BR|A Nossa Guerra dos 7 Dias
@@ -2905,6 +2907,7 @@
 1061|4|en|Anne of Green Gables
 7526|4|en|Anne of Green Gables: The Road to Green Gables
 19002|1|x-jat|Anne Shirley
+19002|4|en|Anne Shirley
 7142|3|x-jat|anne special
 11321|4|en|Anne-Happy
 1061|4|fr|Anne... la maison aux pignons verts
@@ -7298,7 +7301,7 @@
 17723|1|x-jat|Bye Bye, Earth
 17723|4|en|Bye Bye, Earth
 18862|1|x-jat|Bye Bye, Earth (2025)
-18862|2|en|Bye Bye, Earth (2025)
+18862|4|en|Bye Bye, Earth (2025)
 18862|2|x-jat|Bye Bye, Earth Season 2
 17723|3|x-jat|bye2earth
 9264|2|x-unk|Byeol byeol i-ya-gi 2 - Yeo-seot bat-kkal moo-ji-gae
@@ -7452,6 +7455,7 @@
 2518|2|en|Campus ~Scheme of Shame~
 2435|2|en|Campus Alice
 2924|2|en|Campus Special Investigator Hikaruon
+17565|4|en|Can a Boy-Girl Friendship Survive?
 559|1|x-jat|Can Can Bunny Extra
 16511|1|x-zht|Can Ci Pin: Fangzhu Xingkong
 332|4|vi|Căn hầm đom đóm
@@ -7874,6 +7878,7 @@
 4926|1|x-jat|Catblue Dynamite
 4926|4|ja|CATBLUE DYNAMITE
 4926|2|ja|CATBLUE:DYNAMITE
+18985|4|en|Catch Me at the Ballpark!
 13280|1|x-jat|Catchy-kun no Nice Catch!
 167|2|en|Catgirl Nuku Nuku OVA
 2299|4|fr|Cathy, la petite fermière
@@ -8950,6 +8955,7 @@
 1876|4|en|Class Reunion
 2421|4|en|Class Reunion Again
 18728|1|x-jat|Classic Stars
+18728|4|en|Classic Stars
 7051|2|en|Classic Tales Retold
 3593|2|en|Classic Tales Retold (2)
 6213|4|ja|CLASSICAL SEX-ZONE
@@ -15827,12 +15833,12 @@
 14488|4|de|Fire Force
 15335|4|it|Fire Force - Seconda Stagione
 15335|4|en|Fire Force (2020)
-17420|4|en|Fire Force (2025)
+17420|2|en|Fire Force (2025)
 18742|4|en|Fire Force (2026)
 17420|2|en|Fire Force Chapter Three (2025)
 3286|4|en|Fire Force DNA Sights 999.9
 3286|4|fr|Fire Force DNA Sights 999.9
-17420|2|en|Fire Force Season 3
+17420|4|en|Fire Force Season 3
 18742|2|en|Fire Force Season 3 Part 2
 15335|4|de|Fire Force Staffel 2
 17420|4|de|Fire Force Staffel 3
@@ -16090,7 +16096,7 @@
 13050|2|en|Folktales from Japan Season 2
 10166|1|x-jat|Follow Me
 19045|1|x-jat|Food Court de, Mata Ashita.
-19083|2|en|Food for the Soul
+19083|4|en|Food for the Soul
 10901|4|fr|Food Wars ! Shokugeki no Soma
 11828|4|fr|Food Wars, second service
 11664|4|en|Food Wars! OVAs
@@ -19473,6 +19479,7 @@
 9092|1|x-jat|Guilty Crown: Lost Christmas - An Episode of Port Town
 18689|1|x-jat|Guilty Gear Strive: Dual Rulers
 18689|4|ja|GUILTY GEAR STRIVE: DUAL RULERS
+18689|4|en|Guilty Gear Strive: Dual Rulers
 6331|1|x-jat|Guin Saga
 6331|4|en|Guin Saga
 1687|2|es|Guitalactica
@@ -23041,7 +23048,7 @@
 11114|4|ja|I`m stuck!! ~life of the dead~
 11114|1|x-jat|I`m Stuck!!: Life of the Dead
 3144|2|en|I`m the Crane Princess -- !
-18939|2|en|I`m the Evil Lord of an Intergalactic Empire!
+18939|4|en|I`m the Evil Lord of an Intergalactic Empire!
 17747|2|en|I`m the Only Guy in the Class!?
 16826|4|en|I`m the Villainess, So I`m Taming the Final Boss
 17951|4|ja|I`m Your Treasure Box ＊あなたは マリンせんちょうを たからばこからみつけた。
@@ -23050,7 +23057,7 @@
 11376|4|en|I`ve Always Liked You: Confess Your Love Committee
 12806|2|en|I`ve always loved you
 15201|4|en|I`ve Been Killing Slimes for 300 Years and Maxed Out My Level
-17110|2|en|I`ve Been Killing Slimes for 300 Years and Maxed Out My Level 2
+17110|4|en|I`ve Been Killing Slimes for 300 Years and Maxed Out My Level Season 2
 11691|2|en|I`ve Had Enough of Being a Magical Girl.
 12317|2|en|I`ve Had Enough of Being a Magical Girl. Second Season
 17222|4|en|I`ve Somehow Gotten Stronger When I Improved My Farm-Related Skills
@@ -34834,6 +34841,7 @@
 12816|1|x-jat|Monmusu Quest!
 18546|1|x-jat|Mono
 18546|4|ja|mono
+18546|4|en|Mono
 15109|1|x-jat|Mono no Kamisama Cocotama
 5585|1|x-jat|Monochrome Factor
 5585|3|x-jat|monofac
@@ -38436,7 +38444,7 @@
 5081|4|en|Once Upon a Time Was the Space
 5222|4|en|Once Upon a Time... Life
 5081|2|en|Once Upon a Time... Space
-18719|2|en|Once Upon a Witch`s Death
+18719|4|en|Once Upon a Witch`s Death
 335|2|pt-BR|Ondas do Oceano
 136|3|x-jat|One
 136|2|en|One ~To the Radiant Season~
@@ -40658,7 +40666,7 @@
 9142|2|en|Pleasant Goat and Big Big Wolf 4
 8430|2|en|Pleasant Goat and Big Big Wolf: The Super Adventure
 5158|2|en|Please My Melody Refreshed
-18794|2|en|Please Put Them On, Takamine-san
+18794|4|en|Please Put Them On, Takamine-san
 8978|1|x-jat|Please Rape Me!
 327|4|en|Please Save My Earth
 12921|2|en|Please Take Away My Brother
@@ -47300,7 +47308,7 @@
 9125|1|x-jat|Short Peace
 9125|4|en|Short Peace
 18405|4|en|Shoshimin: How to Become Ordinary
-18864|2|en|Shoshimin: How to Become Ordinary (2025)
+18864|4|en|Shoshimin: How to Become Ordinary (2025)
 16031|3|x-jat|shosho
 9894|1|x-zht|Shou Hu Zhe Sen Lin
 6834|1|x-jat|Shou-chan no Bouken
@@ -49641,6 +49649,7 @@
 13122|4|en|Summer of Fossil Leaves
 13693|4|ja|Summer Pockets
 13693|1|x-jat|Summer Pockets
+13693|4|en|Summer Pockets
 18376|4|en|Summer Punch
 9126|2|en|Summer Snow Rendezvous
 6340|2|en|Summer Storm
@@ -51546,7 +51555,7 @@
 1811|2|en|The Brave Frog`s Greatest Adventure
 3154|2|en|The Brave of Gold Goldran
 18898|2|en|The Bride of Barbaroi
-18528|2|en|The Brilliant Healer`s New Life in the Shadows
+18528|4|en|The Brilliant Healer`s New Life in the Shadows
 13112|2|en|The Brothers of Hungboo and Nolboo
 11949|2|en|The Buffalo Boy and His Flute
 16192|2|en|The Buried Tree Devil
@@ -51961,6 +51970,7 @@
 10871|2|en|The good spot in the back of a hole
 4172|4|en|The Good Witch Of The West
 4172|4|de|The Good Witch of the West - Astraea Testament
+18879|4|en|The Gorilla God`s Go-To Girl
 2000|2|en|The Gourmet
 16541|2|en|The Grand Lord
 1469|2|en|The Great Adventure of Space Pirate Mito
@@ -52791,7 +52801,7 @@
 19003|2|en|The Share House`s Secret Rule
 19003|2|en|The Share Houses Secret Rule
 250|2|en|The Shinesman
-18496|2|en|The Shiunji Family Children
+18496|4|en|The Shiunji Family Children
 15122|4|en|The Shy Oriole
 5539|1|x-jat|The Siamese: First Mission
 3533|2|en|The Sign of Otaku
@@ -52986,7 +52996,7 @@
 6701|2|en|The Tiny One Makes It Big
 15447|2|en|The Titan`s Bride
 2795|4|en|The Tokyo Project
-18940|2|en|The Too-Perfect Saint: Tossed Aside by My Fiance and Sold to Another Kingdom
+18940|4|en|The Too-Perfect Saint: Tossed Aside by My Fiance and Sold to Another Kingdom
 16610|2|en|The Top
 18425|2|en|The Totem Warrior
 18426|2|en|The Totem Warrior 2
@@ -53012,6 +53022,7 @@
 2347|1|x-jat|The Ultraman
 18842|4|en|The Umbrella Fairy
 18931|2|en|The Unaware Atelier Master
+18931|4|en|The Unaware Atelier Meister
 11428|4|en|The Undertaker and the Dog
 7193|2|en|The Underwater Tyrant
 19154|2|en|The Unemployed Demon King
@@ -57101,6 +57112,7 @@
 2821|1|x-jat|Witch Village Story
 18816|4|ja|WITCH WATCH
 18816|1|x-jat|Witch Watch
+18816|4|en|Witch Watch
 286|2|en|Witch`s Delivery Service
 2511|1|x-jat|Witchblade
 2511|4|de|Witchblade
