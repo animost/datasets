@@ -1,4 +1,4 @@
-# created: Thu Mar 20 03:00:01 2025
+# created: Fri Mar 21 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -11791,6 +11791,8 @@
 15393|1|x-jat|Digimon Adventure: 20th Memorial Story
 1149|1|x-jat|Digimon Adventure: Bokura no War Game!
 14240|1|x-jat|Digimon Adventure: Last Evolution Kizuna
+19230|1|x-jat|Digimon BeatBreak
+19230|4|ja|DIGIMON BEATBREAK
 7518|2|ja|Digimon Cross Wars
 4283|4|en|Digimon Data Squad
 4283|4|de|Digimon Data Squad
@@ -26952,6 +26954,8 @@
 17070|1|x-jat|Kimetsu no Yaiba: Tsuzumi Yashiki Hen
 16054|1|x-jat|Kimetsu no Yaiba: Yuukaku Hen
 17976|1|x-jat|Kimetsu no Yaiba: Yuukaku Hen - Tokubetsu Henshuu Ban
+17976|2|x-jat|Kimetsu no Yaiba: Yuukaku Kessen Hen
+17976|2|x-jat|Kimetsu no Yaiba: Yuukaku Sennyuu Hen
 14041|1|x-jat|Kimi dake ni Motetainda.
 5235|1|x-jat|Kimi ga Aruji de Shitsuji ga Ore de
 896|1|x-jat|Kimi ga Nozomu Eien
@@ -75027,6 +75031,7 @@
 562|4|ja|デジモンテイマーズ
 1227|4|ja|デジモンテイマーズ 冒険者たちの戦い
 1475|4|ja|デジモンテイマーズ 暴走デジモン特急
+19230|2|ja|デジモンビートブレイク
 464|4|ja|デジモンフロンティア
 2528|4|ja|デジモンフロンティア 古代デジモン復活!!
 12132|4|ja|デジモンユニバース アプリモンスターズ
@@ -93186,6 +93191,8 @@
 18067|4|ja|鬼滅の刃 柱稽古編
 17069|4|ja|鬼滅の刃 浅草編
 16803|4|ja|鬼滅の刃 無限列車編
+17976|2|ja|鬼滅の刃 遊郭決戦編
+17976|2|ja|鬼滅の刃 遊郭潜入編
 16054|4|ja|鬼滅の刃 遊郭編
 17976|4|ja|鬼滅の刃 遊郭編 特別編集版
 16259|4|ja|鬼滅の刃 那田蜘蛛山編
