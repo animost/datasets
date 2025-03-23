@@ -1,4 +1,4 @@
-# created: Fri Mar 21 03:00:02 2025
+# created: Sat Mar 22 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8111,6 +8111,7 @@
 19111|1|x-jat|Chao
 19111|4|ja|ChaO
 18361|4|vi|Chào mừng đến Nhật, bạn Elf
+19234|4|zh|Chao Neng Lifang
 16817|1|x-zht|Chao Shen Xueyuan
 16818|1|x-zht|Chao Shen Xueyuan Di Er Ji
 16819|1|x-zht|Chao Shen Xueyuan Di San Ji
@@ -22039,6 +22040,7 @@
 2177|2|x-jat|Hoi Hoi-san
 4241|2|pt-BR|Hoje na Sala 5-2
 4241|2|pt-BR|Hoje na Turma 5-2
+19231|3|x-jat|hojo mahou
 4035|1|x-jat|Hoka Hoka Kazoku
 7498|1|x-jat|Hokenshitsu de Aimashou
 17682|4|en|Hokkaido Gals Are Super Adorable!
@@ -27996,6 +27998,8 @@
 2222|1|x-jat|Kore ga UFO Da! Soratobu Enban
 8896|1|x-jat|Kore ga Umi e no Ai ja Naika!
 2621|1|x-jat|Kore ga Watashi no Goshujin-sama
+19232|1|x-jat|Kore Kaite Shine
+19232|3|x-jat|kore shine
 7674|2|x-jat|Kore wa Zombie desu ka
 7674|1|x-jat|Kore wa Zombie Desuka?
 8448|1|x-jat|Kore wa Zombie Desuka? Ee, Kore ga Saishuukai Desuka?
@@ -29954,7 +29958,7 @@
 12933|2|en|Lessons with Chii-chan
 17425|4|en|Let Me Check the Walkthrough First
 18498|4|en|Let This Grieving Soul Retire
-19075|2|en|Let This Grieving Soul Retire 2
+19075|2|en|Let This Grieving Soul Retire (2025)
 11837|2|x-jat|Let You, Get You, Saru Get You
 7757|2|en|Let’s Go! Anpanman – The Amazing Naganegiman and Yakisobapanman
 1171|4|pt|Let`s & Go
@@ -30642,6 +30646,7 @@
 16310|4|en|Love Live! Nijigasaki High School Idol Club (2022)
 18079|2|en|Love Live! Nijigasaki High School Idol Club (2024)
 17732|4|en|Love Live! Nijigasaki High School Idol Club NEXT SKY
+18079|2|en|Love Live! Nijigasaki High School Idol Club the Movie - Finale
 15313|2|en|Love Live! Perfect Dream Project
 9927|2|en|Love Live! S2
 9271|1|x-jat|Love Live! School Idol Project
@@ -33947,6 +33952,7 @@
 6929|1|x-jat|Mikanbune
 6929|2|x-jat|Mikansen
 13252|3|x-jat|mikata
+19231|1|x-jat|Mikata ga Yowa Sugite Hojo Mahou ni Tesshite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou o Mezasu
 7533|1|x-jat|Mikeneko Holmes no Yuurei Joushu
 299|4|de|Miki
 4381|3|en|miki
@@ -36022,7 +36028,7 @@
 10815|3|x-jat|nagatoyukichan
 11163|3|x-jat|nagatoyukichan ova
 18498|1|x-jat|Nageki no Bourei wa Intai Shitai
-19075|1|x-jat|Nageki no Bourei wa Intai Shitai 2
+19075|1|x-jat|Nageki no Bourei wa Intai Shitai (2025)
 158|1|x-jat|Nageki no Kenkou Yuuryouji
 9387|1|x-jat|Nagi no Asukara
 9387|4|fr|Nagi no Asukara
@@ -41250,6 +41256,7 @@
 4728|4|hu|Pokémon: Gyémánt és Igazgyöngy
 1041|4|hu|Pokémon: Haladó nemzedék
 17226|4|en|Pokemon: Hisuian Snow
+17777|4|cs|Pokémon: Horizonty
 990|4|tr|Pokémon: İlk Film
 1804|4|pl|Pokémon: Jirachi - Spełnione marzenia
 1804|4|en|Pokemon: Jirachi Wish Maker
@@ -42999,6 +43006,7 @@
 17640|4|en|Rascal Does Not Dream of a Sister Venturing Out
 13900|4|en|Rascal Does Not Dream of Bunny Girl Senpai
 13900|4|de|Rascal Does Not Dream of Bunny Girl Senpai
+18300|4|en|Rascal Does Not Dream of Santa Claus
 4312|4|en|Rascal in the Snag Forest
 12870|2|en|Rascal Racoon
 2306|4|en|Rascal the Raccoon
@@ -49738,6 +49746,7 @@
 14748|4|en|Super Crooks
 15260|1|x-jat|Super Cub
 15260|4|en|Super Cub
+19234|1|en|Super Cube
 2786|4|pl|Super Dan
 12436|1|x-jat|Super Danganronpa 2.5: Komaeda Nagito to Sekai no Hakaisha
 12436|2|en|Super Danganronpa 2.5: Nagito Komaeda and the Destroyer of the World
@@ -51489,6 +51498,7 @@
 11235|1|x-jat|The Baby Birds of Norman McLaren
 11235|4|ja|The Baby Birds of Norman McLaren
 13783|2|en|The Badminton Play of Ayano Hanesaki!
+19231|2|en|The Banished Court Magician Aims to Become the Strongest
 18074|4|en|The Banished Former Hero Lives as He Pleases
 18990|2|en|The Banned Mole
 18898|2|en|The Barbarian’s Bride
@@ -53857,13 +53867,13 @@
 1221|4|fi|Tokyo Revelation
 15601|1|x-jat|Tokyo Revengers
 15601|4|en|Tokyo Revengers
-18693|2|en|Tokyo Revengers (Sequel)
-18693|1|x-jat|Tokyo Revengers (Zokuhen)
 17064|2|en|Tokyo Revengers: Christmas Showdown
 17064|4|de|Tokyo Revengers: Christmas Showdown Arc
+18693|1|x-jat|Tokyo Revengers: Santen Sensou Hen
 17064|1|x-jat|Tokyo Revengers: Seiya Kessen Hen
 17969|4|de|Tokyo Revengers: Tenjiku Arc
 17969|1|x-jat|Tokyo Revengers: Tenjiku Hen
+18693|2|en|Tokyo Revengers: War of the Three Titans Arc
 1217|4|tr|Tokyo Tanrıları
 4308|4|ja|TOKYO TRIBE 2
 4308|1|x-jat|Tokyo Tribe 2
@@ -54200,7 +54210,6 @@
 12790|4|en|Touken Ranbu: Hanamaru 2
 10781|1|x-jat|Toukiden Kiwami
 457|2|x-jat|Toukyou Babylon
-18693|2|x-jat|Toukyou Revengers (Zokuhen)
 2795|2|x-jat|Toukyou Vice
 2554|1|x-jat|Touma Kijin Den Oni
 4192|1|x-jat|Toumei Ningen
@@ -73433,6 +73442,8 @@
 9129|4|ja|これはゾンビですか? OF THE DEAD はい, 身の丈に合ってます
 8448|4|ja|これはゾンビですか? えぇ,これが最終回ですか?
 8476|2|ja|これはゾンビですか? オブ・ザ・デッド
+19232|4|ja|これ描いて死ね
+19232|3|ja|これ死ね
 13863|4|ja|ころがし屋のプン
 7691|4|ja|ころがし涼太
 15203|4|ja|コロコロアニマルABC@きんてれ
@@ -81712,6 +81723,7 @@
 17196|4|ja|呪術廻戦 (2023)
 18835|4|ja|呪術廻戦 懐玉・玉折
 18363|4|ja|呪術廻戦 死滅回游
+19231|4|ja|味方が弱すぎて補助魔法に徹していた宮廷魔法師, 追放されて最強を目指す
 4380|4|ja|味楽る! ミミカ
 12519|4|zh-Hans|命运/冠位指定:序章
 9977|2|zh|命运之夜: 无限剑制
@@ -81897,7 +81909,7 @@
 2740|4|zh-Hans|喷嚏大魔王
 15675|4|zh-Hans|嗜谎之神
 18498|4|ja|嘆きの亡霊は引退したい
-19075|4|ja|嘆きの亡霊は引退したい 2
+19075|4|ja|嘆きの亡霊は引退したい (2025)
 158|4|ja|嘆きの健康優良児
 18498|4|zh-Hant|嘆氣的亡靈想隱退
 9069|4|ja|嘘喰い
@@ -86745,7 +86757,7 @@
 15485|4|ja|東京ミュウミュウ にゅ~♡
 17633|4|ja|東京ミュウミュウ にゅ~♡ (2023)
 15601|4|ja|東京リベンジャーズ
-18693|4|ja|東京リベンジャーズ (続編)
+18693|4|ja|東京リベンジャーズ 三天戦争編
 17969|4|ja|東京リベンジャーズ 天竺編
 17064|4|ja|東京リベンジャーズ 聖夜決戦編
 9481|4|ja|東京レイヴンズ
@@ -91118,6 +91130,7 @@
 6818|4|ja|裏切りは僕の名前を知っている
 3666|4|ja|裏路地ダイヤモンド
 13192|4|zh-Hans|裙子里面是野兽
+19231|3|ja|補助魔法
 13487|4|zh-Hant|裝甲娘戰機
 14364|2|ja|裟羅双樹の花の色
 14571|4|zh-Hans|裤袜视界
