@@ -1,4 +1,4 @@
-# created: Sat Mar 22 03:00:01 2025
+# created: Sun Mar 23 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -426,6 +426,7 @@
 2900|4|ja|1ポンドの福音
 13813|2|ja|1日外出録ハンチョウ
 2769|4|ja|1月にはChristmas
+2900|4|zh-Hans|1磅的福音
 2367|2|fr|2 ans de vacances
 1769|2|en|2 X 2 = The Legend of Shinobu
 772|4|he|2 סטריט פייטר
@@ -10109,6 +10110,7 @@
 5419|3|x-jat|dacapo s3
 5652|3|x-jat|dacapo s4
 9307|3|x-jat|dacapo s5
+18437|2|en|Dad is a Hero, Mom is a Spirit, I`m a Reincarnator
 18927|1|x-zht|Dadao Chaotian
 6986|4|en|Daddy Long Legs
 1153|2|en|Daft Punk & Leiji Matsumoto`s INTERSTELLA 5555: The 5tory of the 5ecret 5tar 5ystem
@@ -11772,6 +11774,7 @@
 234|1|x-jat|Digimon Adventure
 14240|4|pt|Digimon Adventure - A Última Evolução Kizuna
 14240|4|it|Digimon Adventure - Last Evolution Kizuna
+19235|1|x-jat|Digimon Adventure -Beyond-
 15358|2|x-jat|Digimon Adventure (2020)
 561|1|x-jat|Digimon Adventure 02
 561|4|en|Digimon Adventure 02
@@ -44296,6 +44299,7 @@
 8595|1|x-jat|Rurouni Kenshin: Meiji Kenkaku Romantan - Shin Kyoto Hen
 73|1|x-jat|Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku Hen
 17065|1|x-jat|Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
+19236|1|x-jat|Rurouni Kenshin: Meiji Kenkaku Romantan (Dai San Ki)
 8595|4|en|Rurouni Kenshin: New Kyoto Arc
 8595|2|en|Rurouni Kenshin: New Kyoto Arc - Cage of Flames
 73|2|en|Rurouni Kenshin: Recollection Arc
@@ -51152,7 +51156,7 @@
 19201|1|x-jat|Tensei Shita Daiseijo wa, Seijo de Aru Koto o Hitakakusu
 17702|2|x-jat|Tensei Shitara Dai Nana Ōji Datta no de, Kimama ni Majutsu o Kiwamemasu
 17702|1|x-jat|Tensei Shitara Dai Nana Ouji Datta no de, Kimama ni Majutsu o Kiwamemasu
-18694|1|x-jat|Tensei Shitara Dai Nana Ouji Datta no de, Kimamani Majutsu o Kiwamemasu 2
+18694|1|x-jat|Tensei Shitara Dai Nana Ouji Datta no de, Kimamani Majutsu o Kiwamemasu Dai 2 Ki
 17702|2|x-jat|Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu
 19217|1|x-jat|Tensei Shitara Dragon no Tamago Datta: Saikyou Igai Mezasa Nee
 16785|1|x-jat|Tensei Shitara Ken Deshita
@@ -55416,7 +55420,7 @@
 3047|4|fr|Une vie nouvelle
 131|2|en|Unearthly Ceres
 18137|2|en|Unexpected Love
-19166|2|en|Unexpectedly Naughty Fukami
+19166|4|en|Unexpectedly Naughty Fukami
 17794|2|en|Unfaithful with ... THE ANIMATION
 8485|3|x-jat|ungo
 2921|3|x-jat|UnH
@@ -57790,7 +57794,7 @@
 16736|1|x-zht|Xiyouji: Zai Shi Yao Wang
 12143|1|x-zht|Xiyue Qi Tong
 12146|1|x-zht|Xiyue Qi Tong (2006)
-15044|2|en|XL Boss
+15044|4|en|XL Boss
 15044|1|x-jat|XL Joushi.
 15044|2|ko|XL 상사
 15044|4|zh-Hans|XL上司
@@ -59510,6 +59514,7 @@
 16594|2|x-zht|ZICHUAN
 1811|4|pl|Zielone żabki
 1811|2|pl|Zielone żabki: Przygody nad Tęczowym Stawem
+17480|2|pl|Ziemia i jej obroty
 469|2|pl|Ziemia kiedyś nam obiecana
 1138|2|pl|Ziemianin
 4906|2|tr|Zifiri Karanlık
@@ -62861,6 +62866,7 @@
 17641|4|ru|Онмёдзи
 17641|4|uk|Онмьоджі
 17941|4|uk|Ооку: Внутрішні покої
+18066|4|ru|Опасность в моём сердце 2
 82|2|ru|Опасные приключения в параллельной реальности
 111|2|uk|Операція «Юкікадзе»
 111|2|uk|Операція «Юкіказе»
@@ -75025,6 +75031,7 @@
 10764|4|ja|デジモンアドベンチャー tri.(トライ)
 1149|4|ja|デジモンアドベンチャー ぼくらのウォーゲーム!
 1148|4|ja|デジモンアドベンチャー 劇場版
+19235|4|ja|デジモンアドベンチャー-BEYOND-
 15358|4|ja|デジモンアドベンチャー:
 561|4|ja|デジモンアドベンチャー02
 16509|4|ja|デジモンアドベンチャー02 THE BEGINNING
@@ -78607,6 +78614,7 @@
 7676|4|ja|るり色プリンセス
 90|4|ja|るろうに剣心 -明治剣客浪漫譚-
 17065|4|ja|るろうに剣心 -明治剣客浪漫譚- (2023)
+19236|4|ja|るろうに剣心 -明治剣客浪漫譚- (第三期)
 18323|4|ja|るろうに剣心 －明治剣客浪漫譚－ 京都動乱
 8595|4|ja|るろうに剣心 -明治剣客浪漫譚- 新京都編
 195|4|ja|るろうに剣心 -明治剣客浪漫譚- 星霜編
@@ -81234,6 +81242,7 @@
 570|4|zh-Hant|千年女優
 764|4|zh-Hans|千年女王
 5303|2|ja|千年狐ヨウビ
+4299|4|zh-Hans|千惠奋战记 小麻烦千惠
 14411|4|zh-Hans|千枪士 OVA
 18811|4|ja|千歳くんはラムネ瓶のなか
 13250|4|zh-Hans|千绪的通学路
@@ -82795,6 +82804,7 @@
 6925|4|ja|太郎の番兵
 5387|4|ja|太郎の番兵 潜航艇の巻
 1350|4|zh-Hans|太阳之船
+2209|4|zh-Hans|太阳王子 霍尔斯的大冒险
 4397|4|zh-Hans|太阳默示录
 1672|2|ja|太陽の使者 鉄人28号
 1709|4|ja|太陽の勇者ファイバード
@@ -83760,6 +83770,8 @@
 9919|4|zh-Hans|小鸟游六花・改 ~剧场版 中二病也要谈恋爱!~
 6258|2|zh-Hans|小鸠
 6258|4|zh-Hans|小鸠。
+2971|4|zh-Hans|小麻烦千惠
+2974|4|zh-Hans|小麻烦千惠 (1981)
 17909|2|zh-Hans|少主溜得快
 8554|4|ja|少交女 THE ANIMATION
 9246|2|ja|少女×少女×少女 THE ANIMATION
@@ -85096,6 +85108,7 @@
 17356|2|zh-Hant|我的英雄學院(Web)
 4350|2|zh-Hans|我的裘可妹妹
 14029|4|zh-Hans|我的逆天神器
+370|2|zh-Hans|我的邻居山田君
 9310|4|zh-Hans|我的青春恋爱喜剧果然有问题
 9890|4|zh-Hans|我的青春恋爱喜剧果然有问题 OAD
 10601|4|zh-Hans|我的青春恋爱喜剧果然有问题。续
@@ -86560,6 +86573,7 @@
 5714|4|ja|未来少年コナン (1979)
 4675|4|ja|未来少年コナンII タイガアドベンチャー
 4676|4|ja|未来少年コナン特別篇 巨大機ギガントの復活
+330|4|zh-Hans|未来少年柯南
 2274|4|zh-Hans|未来战争 198X年
 7432|4|ja|未来日記
 8395|4|ja|未来日記 (2011)
@@ -88168,6 +88182,8 @@
 15342|4|zh-Hans|熊熊勇闯异世界
 15945|4|zh-Hans|熊熊勇闯异世界 Punch!
 13816|4|zh|熊猫和小鼹鼠
+530|4|zh-Hans|熊猫家族
+6976|4|zh-Hans|熊猫家族 雨中的马戏团
 1463|4|zh-Hans|熔岩大使
 909|2|zh-Hans|蒸汽男孩
 13419|4|ja|熟女志願
@@ -89020,6 +89036,7 @@
 18119|4|zh-Hans|百千家的妖怪王子
 635|4|zh-Hans|百变之星
 4123|4|zh-Hans|百变之星 不死鸟传说 ～蕾拉・汉密尔顿物语～
+334|2|zh-Hans|百变狸猫
 13451|4|zh-Hans|百变猪猪侠
 17982|4|zh-Hans|百变的七仓同学
 7985|4|ja|百合星人ナオコサン
@@ -91640,7 +91657,7 @@
 16785|4|ja|転生したら剣でした
 17789|4|ja|転生したら剣でした 2
 17702|4|ja|転生したら第七王子だったので, 気ままに魔術を極めます
-18694|4|ja|転生したら第七王子だったので, 気ままに魔術を極めます 2
+18694|4|ja|転生したら第七王子だったので, 気ままに魔術を極めます 第2期
 19201|4|ja|転生した大聖女は, 聖女であることをひた隠す
 12934|4|ja|転生剣奴の子づくり闘技場[ハーレムコロッセオ]
 12934|2|ja|転生剣奴の子作り闘技場
@@ -92555,6 +92572,7 @@
 13293|4|zh-Hant|阿宅的戀愛太難
 12050|4|zh|阿將
 4207|4|zh-Hans|阿尔·卡拉尔的遗产
+426|4|zh-Hans|阿尔卑斯山的少女
 10910|2|zh-Hans|阿尔斯兰战记
 15013|4|zh-Hans|阿尔蒂
 14560|2|zh-Hant|阿拉徳: 宿命之門
