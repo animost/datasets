@@ -1,4 +1,4 @@
-# created: Sun Mar 23 03:00:01 2025
+# created: Mon Mar 24 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -17709,6 +17709,7 @@
 4388|3|x-jat|Gekijouban SnS
 8271|2|x-jat|Gekijouban Sora no Otoshimono: Tokeijikake no Angeloid
 12982|1|x-jat|Gekijouban Soushuuhen Haikyuu!!
+18835|1|x-jat|Gekijouban Soushuuhen Jujutsu Kaisen: Kaigyoku / Gyokusetsu
 13941|1|x-jat|Gekijouban Soushuuhen Made in Abyss
 16952|1|x-jat|Gekijouban Soushuuhen Mazica Party
 12439|1|x-jat|Gekijouban Soushuuhen Overlord
@@ -25116,7 +25117,6 @@
 17196|2|x-jat|Jujutsu Kaisen Season 2
 18835|2|x-jat|Jujutsu Kaisen: Ball/Break
 18363|2|en|Jujutsu Kaisen: Culling Game
-18835|1|x-jat|Jujutsu Kaisen: Kaigyoku / Gyokusetsu
 18363|1|x-jat|Jujutsu Kaisen: Shimetsu Kaiyuu
 18854|3|x-jat|jukishi
 13419|1|x-jat|Jukujo Shigan
@@ -26952,6 +26952,8 @@
 18922|1|x-jat|Kimetsu no Yaiba: Jougen Shuuketsu, Soshite Katanakaji no Sato
 17198|1|x-jat|Kimetsu no Yaiba: Katanakaji no Sato Hen
 18529|1|x-jat|Kimetsu no Yaiba: Katanakaji no Sato Hen - Tokubetsu Henshuu Ban
+18529|2|x-jat|Kimetsu no Yaiba: Katanakaji no Sato Tekishuu Hen
+18529|2|x-jat|Kimetsu no Yaiba: Katanakaji no Sato Tsunaida Kizuna Hen
 14689|1|x-jat|Kimetsu no Yaiba: Kyoudai no Kizuna
 16803|1|x-jat|Kimetsu no Yaiba: Mugen Ressha Hen
 16259|1|x-jat|Kimetsu no Yaiba: Natagumoyama Hen
@@ -27035,6 +27037,7 @@
 14465|3|x-jat|kiminami
 896|3|x-jat|kiminozo
 5470|3|x-jat|Kiminozo OVA
+19019|3|x-jat|kimipre
 15216|3|x-jat|kimisen
 16828|3|x-jat|KimiSen 2
 16828|3|x-jat|kimisen s2
@@ -33022,7 +33025,7 @@
 2237|2|es|Maxinger X
 16001|4|ja|May
 16001|1|x-jat|May
-18868|2|en|May I Ask for One Final Thing?
+18868|4|en|May I Ask for One Final Thing?
 6100|4|en|May`s Hot Night
 1351|4|nl|Maya de Bij
 1351|4|fr|Maya l`abeille
@@ -33971,6 +33974,8 @@
 757|4|de|Mila Superstar
 757|4|hu|Mila, a szupersztár
 7303|2|en|Milady is obsessed with Sex
+17541|4|pt|Milénios de Estados Guerreiros
+17541|2|pt-BR|Milênios de Estados Guerreiros
 10233|4|en|Milf Assault Mode
 5540|4|en|Milf Mansion
 13565|4|en|Milf Park
@@ -35642,7 +35647,7 @@
 8438|2|en|My Dog Bakgu
 6365|2|en|My Dread is School!
 16250|4|en|My Dress-Up Darling
-17630|2|en|My Dress-Up Darling (Sequel)
+17630|2|en|My Dress-Up Darling (2025)
 1402|4|en|My Fair Masseuse
 325|4|en|My Family
 4272|2|x-jat|My Father`s Dragon
@@ -44266,6 +44271,7 @@
 976|2|x-jat|Rupan Sansei: Warusa P38 - In Gedenken an die Walther P38
 823|2|x-jat|Rupan vs Fukusei-ningen
 18859|1|x-jat|Ruri no Houseki
+18859|2|en|Ruri Rocks
 7676|1|x-jat|Ruriiro Princess
 4531|3|x-jat|ruriirona
 90|3|en|RuroKen
@@ -44548,7 +44554,6 @@
 12923|2|en|SAI: Part 1 / Revolving... to the Core
 10220|1|x-kot|Saibi
 2204|2|x-unk|Saibôgu 009
-18868|2|x-jat|Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshō ka
 18868|1|x-jat|Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka
 5135|1|x-jat|Saigo no Door o Shimero!
 16261|1|x-jat|Saihate no Paladin
@@ -46277,6 +46282,7 @@
 1642|2|x-jat|Sex Friends
 9401|2|en|Sex Friends Convenience?
 18672|1|x-jat|Sex ga Suki de Suki de Daisuki na Classmate no Ano Ko
+6117|4|en|Sex Hypnosis
 6117|2|en|Sex Hypnotist 2
 9785|2|en|Sex Hypnotist Zero
 18168|2|en|Sex Is Part of Undercover Agents` Job?
@@ -46320,6 +46326,7 @@
 699|3|x-jat|Sexy Commando
 699|1|x-jat|Sexy Commando Gaiden: Sugoi yo!! Masaru-san
 699|2|en|Sexy Commando Side Story: Amazing! Masaru
+16250|4|es|Sexy Cosplay Doll
 4020|4|en|Sexy Fighter Manami
 1358|4|en|Sexy Magical Girl
 1358|2|en|Sexy Magical Girl Ai
@@ -48266,7 +48273,7 @@
 16282|4|en|Sonny Boy
 10086|4|de|Sonny Boy & Dewdrop Girl
 16250|1|x-jat|Sono Bisque Doll wa Koi o Suru
-17630|1|x-jat|Sono Bisque Doll wa Koi o Suru (Zokuhen)
+17630|1|x-jat|Sono Bisque Doll wa Koi o Suru (2025)
 7541|1|x-jat|Sono Hanabira ni Kuchizuke o
 7541|2|x-jat|Sono Hanabira ni Kuchizuke o: Anata to Koibito Tsunagi
 2059|1|x-jat|Sono Kinisasete yo: My My Mai
@@ -56657,6 +56664,7 @@
 15413|4|en|Warlords of Sigrdrifa
 16591|2|en|Warm Sun
 1481|2|en|Warring Demon God GoShogun
+17541|2|en|Warring States Of A Millenia
 4990|2|en|Warrior of Love Rainbowman
 11479|2|en|Warrior of the Colosseum: Another Story
 275|2|en|Warriors of the Wind
@@ -59442,6 +59450,7 @@
 15228|1|x-zht|Zhandouban Geji! Di Ling Ji
 15226|1|x-zht|Zhandouban Geji! Di Yi Ji
 14867|1|x-zht|Zhanguo Fan
+17541|2|x-zht|Zhanguo Qiannian
 19148|1|x-zht|Zhanshen Lianmeng
 18005|1|x-zht|Zhe Tian
 18338|1|x-zht|Zhen Dao Ge 2nd Season
@@ -74439,7 +74448,7 @@
 14339|4|ja|その時, カノジョは.
 2059|4|ja|その気にさせてよ myマイ舞
 16250|4|ja|その着せ替え人形は恋をする
-17630|4|ja|その着せ替え人形は恋をする (続編)
+17630|4|ja|その着せ替え人形は恋をする (2025)
 7541|4|ja|その花びらにくちづけを
 6957|4|ja|そばかすプッチー
 14732|4|ja|そばへ
@@ -81074,6 +81083,7 @@
 17466|4|zh-Hant|劇場版物怪：唐傘
 4131|2|ja|劇場版甲虫王者ムシキング グレイテストチャンピオンへの道
 12439|4|ja|劇場版総集編 OVERLORD
+18835|4|ja|劇場版総集編 呪術廻戦 懐玉・玉折
 12982|4|ja|劇場版総集編ハイキュー!!
 13941|4|ja|劇場版総集編メイドインアビス
 17343|2|zh-Hant|劇場版美少女戰士Cosmos
@@ -81730,7 +81740,6 @@
 15407|2|ja|呪いのワンピース
 15275|4|ja|呪術廻戦
 17196|4|ja|呪術廻戦 (2023)
-18835|4|ja|呪術廻戦 懐玉・玉折
 18363|4|ja|呪術廻戦 死滅回游
 19231|4|ja|味方が弱すぎて補助魔法に徹していた宮廷魔法師, 追放されて最強を目指す
 4380|4|ja|味楽る! ミミカ
@@ -93216,6 +93225,8 @@
 4776|2|zh-Hans|鬼泣
 14107|4|ja|鬼滅の刃
 14689|4|ja|鬼滅の刃 兄妹の絆
+18529|2|ja|鬼滅の刃 刀鍛冶の里 敵襲編
+18529|2|ja|鬼滅の刃 刀鍛冶の里 繋いだ絆編
 17198|4|ja|鬼滅の刃 刀鍛冶の里編
 18529|4|ja|鬼滅の刃 刀鍛冶の里編 特別編集版
 16258|4|ja|鬼滅の刃 柱合会議・蝶屋敷編
@@ -93697,7 +93708,7 @@
 15617|4|zh-Hant|魔道祖師Q
 15617|4|ja|魔道祖師Q
 16982|4|ja|魔都精兵のスレイブ
-18548|4|ja|魔都精兵のスレイブ 2
+18548|4|ja|魔都精兵のスレイブ2
 16982|4|zh-Hans|魔都精兵的奴隶
 16982|2|ja|魔防隊
 9717|4|zh-Hans|魔鬼恋人
