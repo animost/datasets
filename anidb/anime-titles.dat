@@ -1,4 +1,4 @@
-# created: Mon Mar 24 03:00:02 2025
+# created: Tue Mar 25 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -9070,6 +9070,7 @@
 12457|1|x-jat|Cocolors
 18084|4|ja|cocoon ~ある夏の少女たちより~
 18084|1|x-jat|Cocoon: Aru Natsu no Shoujo-tachi Yori
+18084|2|en|Cocoon: One Summer of Girlhood
 13545|4|tr|Çocuk ve Balıkçıl
 9065|2|tr|Çocuk ve Kiraz Ağacı
 8673|2|x-unk|Code Breaker
@@ -13582,6 +13583,8 @@
 16009|1|x-jat|Duel Masters King!
 18797|4|ja|Duel Masters LOST ~月下の死神~
 18521|4|ja|Duel Masters LOST ~追憶の水晶~
+18521|2|en|Duel Masters LOST: Crystal of Remembrance
+18797|2|en|Duel Masters LOST: Death Under the Moon
 18797|1|x-jat|Duel Masters Lost: Gekka no Shinigami
 18521|1|x-jat|Duel Masters Lost: Tsuioku no Suishou
 2911|2|x-jat|Duel Masters Movie
@@ -28492,6 +28495,7 @@
 16425|3|x-jat|kuroitsu
 16425|2|en|Kuroitsu-san from the Monster Development Department
 18627|1|x-jat|Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai
+19238|1|x-jat|Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai 2
 6211|2|x-jat|Kurokami
 6211|4|fr|Kurokami
 6211|1|x-jat|Kurokami The Animation
@@ -31360,6 +31364,7 @@
 13832|1|x-zht|Ma La Xiao Yuan Jia
 18517|4|vi|Ma ma ma ma cà rồng
 14036|1|x-zht|Ma Ma Mi Ya
+19237|1|x-jat|Ma no Mono-tachi wa Kuwadateru
 11912|2|fr|Ma nunuche de belle-sœur se met à me faire des choses intelligentes
 13242|2|fr|Ma petite amie coquine à moi seul
 13378|2|fr|Ma petite amie coquine à moi TOUT seul
@@ -32587,6 +32592,7 @@
 3105|4|de|Männer Magazine
 370|2|lt|Mano Kaimynai Yamados
 303|4|lt|Mano kaimynas Totoro
+19237|3|x-jat|manomono
 15141|2|en|Manor of Mystic Courtesans
 1933|4|hu|Manóvári Manók
 10819|2|en|Mansion ~The Sensual Mysteries~
@@ -33229,6 +33235,7 @@
 9272|4|en|Medaka Box Abnormal
 9272|1|x-jat|Medaka Box: Abnormal
 18627|4|en|Medaka Kuroiwa Is Impervious to My Charms
+19238|2|en|Medaka Kuroiwa Is Impervious to My Charms 2
 2259|1|x-jat|Medaka no Gakkou
 9272|3|x-jat|medaka s2
 9272|3|x-jat|medakaabn
@@ -51731,6 +51738,7 @@
 14860|2|en|The Demonic King Who Chases His Wife
 15926|2|en|The Demonic King Who Chases His Wife 2
 16989|2|en|The Demonic King Who Chases His Wife 3
+19237|2|en|The Demons Are Planning Something Good
 19128|4|en|The Destiny Ruler
 15998|4|en|The Detective Is Already Dead
 17527|4|en|The Detective Is Already Dead Season 2
@@ -64160,6 +64168,8 @@
 15827|4|ru|Титры!
 2288|4|uk|Тіко та друзі
 6103|2|uk|Тільки вперед!
+17495|4|uk|Тільки я візьму новий рівень
+18576|4|uk|Тільки я візьму новий рівень: Повстання з тіні
 5975|2|uk|То ару маджіцу но Індекс
 7674|2|uk|То це зомбі?
 12453|2|ru|То, что я могу сделать...
@@ -93309,6 +93319,8 @@
 1415|4|ja|魍魎戦記 MADARA[摩陀羅]
 16744|4|zh-Hans|魏晋小剧场
 4714|4|ja|魔が堕ちる夜
+19237|3|ja|魔のもの
+19237|4|ja|魔のものたちは企てる
 8338|4|zh-Hans|魔乳秘剑帖
 8338|4|ja|魔乳秘剣帖
 5416|2|zh-Hans|魔人侦探食脑奈罗
@@ -93957,6 +93969,7 @@
 11615|4|ja|黒子のバスケ ウインターカップ総集編
 9991|4|ja|黒子のバスケ バカじゃ勝てないのよ!
 18627|4|ja|黒岩メダカに私の可愛いが通じない
+19238|4|ja|黒岩メダカに私の可愛いが通じない 2
 3130|4|ja|黒愛 一夜妻館・淫口乱乳録
 13809|4|ja|黒猫モンロヲ
 8725|2|ja|黒獣〜気高き聖女は白濁に染まる〜
