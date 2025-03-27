@@ -1,4 +1,4 @@
-# created: Tue Mar 25 03:00:02 2025
+# created: Wed Mar 26 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -10887,6 +10887,8 @@
 16494|1|x-jat|Deji Meets Girl
 10221|1|x-jat|Dekakute Ecchi na Ore no Ane
 18990|1|x-jat|Dekin no Mogura
+18990|4|de|Dekin no Mogura: The Earthbound Mole
+18990|4|en|Dekin no Mogura: The Earthbound Mole
 17423|3|x-jat|dekineko
 13026|1|x-jat|Dekiru ka na
 17423|1|x-jat|Dekiru Neko wa Kyou mo Yuuutsu
@@ -16769,6 +16771,8 @@
 2462|2|en|Future GPX Cyber Formula ZERO
 739|2|x-jat|Future Grand Prix Cyber Formula
 171|2|en|Future Hero Next Generation Outlaw Star
+19239|1|x-jat|Future Kid Takara
+19239|4|ja|Future Kid Takara
 11633|2|en|Future Man
 591|2|en|Future Police Urashiman
 2250|2|en|Future Robo Daltanious
@@ -20307,6 +20311,7 @@
 2396|4|fr|Hamtaro - La princesse captive
 557|4|pt-BR|Hamtaro - Pequenos Hamsters, Grandes Aventuras
 557|4|pl|Hamtaro - wielkie przygody małych chomików
+557|4|it|Hamtaro – Piccoli criceti, grandi avventure
 2395|2|en|Hamtaro Movie 1
 2396|2|en|Hamtaro Movie 2
 2397|2|en|Hamtaro Movie 3
@@ -22550,6 +22555,7 @@
 7953|3|en|HSOTD OVA
 7382|3|x-jat|HSOTDTV
 13276|3|x-jat|htr
+1173|2|x-unk|https://en.wikipedia.org/wiki/Bakus%C5%8D_Ky%C5%8Ddai_Let`s_&_Go!!
 3296|3|en|HU
 18905|1|x-zht|Hu He Yao Shi Lu
 17102|1|x-zht|Hu Li Da Lieren
@@ -22649,6 +22655,7 @@
 656|2|en|Human Scramble
 4479|4|en|Human Zoo
 8276|4|en|Humanity Has Declined
+16763|2|en|Humanity Museum
 980|4|hu|Humanoid Kikaider
 980|4|ro|Humanoid Kikaider
 4334|4|pl|Humanoid Monster Bem
@@ -23060,6 +23067,7 @@
 11114|1|x-jat|I`m Stuck!!: Life of the Dead
 3144|2|en|I`m the Crane Princess -- !
 18939|4|en|I`m the Evil Lord of an Intergalactic Empire!
+18939|4|de|I`m the Evil Lord of an Intergalactic Empire!
 17747|2|en|I`m the Only Guy in the Class!?
 16826|4|en|I`m the Villainess, So I`m Taming the Final Boss
 17951|4|ja|I`m Your Treasure Box ＊あなたは マリンせんちょうを たからばこからみつけた。
@@ -23416,6 +23424,7 @@
 8180|3|x-jat|ikokumeiro
 5062|4|hu|Ikri és Mikri
 8058|2|lt|Iksmenai
+19007|1|x-jat|Ikuiku Succubus Saikyouiku
 17735|1|x-jat|Ikumonogakari The Animation
 5628|1|x-jat|Ikusa Otome Suvia
 2805|1|x-jat|Ikusa Otome Valkyrie
@@ -27976,7 +27985,7 @@
 13317|4|en|Konosuba: God`s Blessing on This Wonderful World! 2 God`s Blessing on These Wonderful Works of Art!
 13317|2|en|Konosuba: God`s Blessing on This Wonderful World! 2 God`s Blessing on This Wonderful Work of Art!
 17431|4|en|Konosuba: God`s Blessing on This Wonderful World! 3
-18865|2|en|Konosuba: God`s Blessing on This Wonderful World! 3 Bonus Stage
+18865|4|en|Konosuba: God`s Blessing on This Wonderful World! 3 Bonus Stage
 11854|4|en|Konosuba: God`s Blessing on This Wonderful World! God`s Blessing on This Wonderful Choker!
 11992|4|pt-BR|KONOSUBA! 2 As bençãos de Deus neste mundo maravilhoso!
 13310|4|de|Konosuba! Legend of Crimson
@@ -35481,6 +35490,7 @@
 8732|1|x-jat|Musekinin Kanchou Tylor (1995)
 8733|1|x-jat|Musekinin Kanchou Tylor: Chijou yori Eien ni
 71|1|x-jat|Musekinin Kanchou Tylor: Tokubetsu Hen - Hitoribocchi no Sensou
+16763|2|en|Museum of Humanity
 3344|2|x-jat|Musha Kishi Commando SD Gundam Kinkyuu Shutsugeki
 3344|1|x-jat|Musha Knight Commando: SD Gundam Scramble
 18949|1|x-zht|Mushen Ji
@@ -39456,7 +39466,6 @@
 18587|2|x-jat|OVA Boku ni Harem Sefure ga Dekita Riyuu
 18587|1|x-jat|OVA Boku ni Harem Sexfriend ga Dekita Riyuu
 13769|2|en|OVA Complete Slut See their true colors Russian Step-Mother and Step-Sisters All you can have Sex
-19007|1|x-jat|OVA Ikuiku Succubus Saikyouiku
 18756|1|x-jat|OVA Incha Couple ga You Gal-tachi to Sex Training Suru Hanashi
 13769|1|x-jat|OVA Muttsuri Do Sukebe Ro Gibo Shimai no Honshitsu Minuite Sex Zanmai
 19057|1|x-jat|OVA Nonohara Yuzuka no Himitsu no Haishin
@@ -39471,7 +39480,6 @@
 19057|2|ko|OVA 노노하라 유카의 비밀 방송
 16328|2|ko|OVA 사신창관―음란 거유 모녀 산 제물의식
 15780|2|ko|OVA 수국이 질 때
-19007|4|ja|OVA イクイク サキュバス再教育
 6285|4|ja|OVA うたわれるもの
 18049|2|ja|OVA ツンデロシリーズ
 11271|4|ja|OVA ツンプリ
@@ -41883,6 +41891,7 @@
 17177|1|x-kot|Princess Aya
 4240|2|en|Princess Be Careful
 4240|2|en|Princess Beware
+19240|1|x-jat|Princess Bust!
 539|4|en|Princess Comet
 14690|4|en|Princess Connect! Re: Dive
 14690|1|x-jat|Princess Connect! Re:Dive
@@ -48195,6 +48204,8 @@
 13410|4|pt|Soldados Do Universo: Traidor De Marte
 11545|4|es-419|Soldados Valientes
 5261|1|x-jat|Soliton no Akuma
+19084|4|de|Solo Camping for Two
+19084|4|en|Solo Camping for Two
 17495|4|en|Solo Leveling
 17495|4|th|Solo Leveling
 18576|2|en|Solo Leveling Season 2
@@ -58086,7 +58097,7 @@
 8807|1|x-jat|Yanase Takashi Marchen Gekijou
 4045|2|en|Yanbo, Ninbo and Tonbo
 4045|1|x-jat|Yanbou Ninbou Tonbou
-18856|2|en|Yandere Dark Elf: She Chased Me All the Way from Another World!
+18856|4|en|Yandere Dark Elf: She Chased Me All the Way from Another World!
 12205|1|x-jat|Yanesenondo
 17026|1|x-jat|Yaneura no Rudger
 18698|1|x-zht|Yangguang Kafei Ting Zhi Xin You Ji
@@ -71369,6 +71380,7 @@
 11035|4|ja|イエナイコト
 2460|4|ja|いきなりダゴン
 17935|4|ja|いきものさん
+19007|4|ja|イクイク サキュバス再教育
 9269|2|ja|イクシオン サーガ DT
 7313|4|ja|いくぜっ! 源さん
 17735|4|ja|いくものがかり The Animation
@@ -77035,6 +77047,7 @@
 7519|4|ja|プリンセスナイト☆カチュア
 7519|2|ja|プリンセスナイト☆カチュア~堕ちた竜騎姫~
 227|4|ja|プリンセスナイン 如月女子高野球部
+19240|4|ja|プリンセスバースト!
 2487|4|ja|プリンセスメモリー
 6438|4|ja|プリンセスラバー!
 7577|4|ja|プリンセスラバー! (2010)
