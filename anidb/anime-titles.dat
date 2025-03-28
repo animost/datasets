@@ -1,4 +1,4 @@
-# created: Wed Mar 26 03:00:01 2025
+# created: Thu Mar 27 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6719,6 +6719,7 @@
 2673|3|en|bots3
 18536|1|x-jat|Botsuraku Yotei no Kizoku Dakedo, Hima Datta kara Mahou o Kiwamete Mita
 18536|2|x-jat|Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita
+18536|2|x-jat|BotsurakuKizoku
 2740|2|en|Bottle Bob
 1092|4|en|Bottle Fairy
 15729|3|x-jat|bottleman
@@ -33067,6 +33068,7 @@
 11863|1|x-jat|Mayoiga
 13223|1|x-jat|Mayoiga no Onee-san The Animation
 19210|1|x-jat|Mayonaka Heart Tune
+19243|1|x-jat|Mayonaka no Boitore Danshi
 14172|1|x-jat|Mayonaka no Occult Koumuin
 14706|1|x-jat|Mayonaka no Occult Koumuin: Fukurokouji to Anoko to Ore to
 16451|1|x-jat|Mayonaka no Yuugi: Nora ver.
@@ -43134,6 +43136,7 @@
 15593|4|en|Re:Zero - Starting Life in Another World (2021)
 17947|4|en|Re:Zero - Starting Life in Another World (2024)
 14792|2|en|Re:Zero - Starting Life in Another World 2nd Season
+19242|2|en|Re:Zero - Starting Life in Another World 4
 17947|2|en|Re:Zero - Starting Life in Another World Season 3
 11370|4|es|Re:Zero -Empezar de cero en un mundo diferente-
 14792|4|de|Re:ZERO -Starting Life in Another World- 2
@@ -43167,6 +43170,7 @@
 15593|2|en|Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season 2nd Part
 15593|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2
 17947|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season
+19242|1|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu 4
 14792|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu S2
 14792|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu Season 2 Part 1
 15593|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu Season 2 Part 2
@@ -43182,6 +43186,7 @@
 17947|4|ja|Re:ゼロから始める異世界生活 (2024)
 14792|2|ja|Re:ゼロから始める異世界生活 2nd season
 15593|2|ja|Re:ゼロから始める異世界生活 2nd season 後半クール
+19242|4|ja|Re:ゼロから始める異世界生活 4
 11370|2|ja|Re:ゼロから始める異世界生活 新編集版
 17947|4|zh-Hans|Re：从零开始的异世界生活 第三季
 11370|4|zh-Hant|Re：從零開始的異世界生活
@@ -43229,6 +43234,7 @@
 6171|2|en|Rebuild of Evangelion: 2.0
 7565|2|en|Rebuild of Evangelion: 3.0
 8895|2|en|Rebuild of Evangelion: 4.0
+19241|1|en|Rebuild of Naruto: Naruto
 18094|1|x-jat|Rebuild World
 3656|1|x-jat|Rec
 3656|4|en|Rec
@@ -89218,6 +89224,7 @@
 8230|3|ja|真剣恋
 14172|4|ja|真夜中のオカルト公務員
 14706|4|ja|真夜中のオカルト公務員 袋小路とあの子と俺と
+19243|4|ja|真夜中のボイトレ男子
 16451|4|ja|真夜中の誘戯（まよなかのいたずら） -ノーラver.-
 19210|4|ja|真夜中ハートチューン
 18454|4|ja|真夜中ぱんチ
