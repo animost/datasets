@@ -1,4 +1,4 @@
-# created: Thu Mar 27 03:00:02 2025
+# created: Fri Mar 28 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2436,6 +2436,7 @@
 11952|3|x-jat|amazuma
 1463|4|en|Ambassador Magma
 15510|2|en|Amber-Colored Hunter
+15510|2|en|Amber-Coloured Hunter The Animation
 8869|2|en|Ambition of Oda...
 8832|4|de|Ame & Yuki - Die Wolfskinder
 17410|1|x-jat|Ame ga Sora Kara Fureba
@@ -3021,6 +3022,7 @@
 2012|4|en|Anyone You Can Do... I Can Do Better!
 5568|2|en|Anyway It Doesn`t Matter
 18506|4|en|Anyway, I`m Falling in Love with You.
+19250|2|en|Anyway, I`m Falling in Love with You. 2
 12194|1|x-jat|Anzu-chan
 18502|4|fr|Anzu, chat-fantôme
 18502|4|es|Anzu, gato fantasma
@@ -3047,6 +3049,7 @@
 18561|1|x-jat|Ao no Exorcist: Yuki no Hate Hen
 8148|2|x-jat|Ao no Futsumashi
 18278|1|x-jat|Ao no Hako
+19249|1|x-jat|Ao no Hako 2
 10934|1|x-jat|Ao no Kanata no Four Rhythm
 18193|1|x-jat|Ao no Miburo
 17314|1|x-jat|Ao no Orchestra
@@ -6213,6 +6216,7 @@
 18278|4|vi|Blue Box
 18278|4|ro|Blue Box
 18278|4|my|Blue Box
+19249|2|en|Blue Box 2
 3515|1|x-jat|Blue Butterfly Fish
 15069|4|en|Blue Cat
 2154|2|en|Blue Comet SPT Layzner
@@ -8799,7 +8803,7 @@
 781|4|fr|Cinderella Boy
 781|4|it|Cinderella Boy
 781|4|en|Cinderella Boy
-14663|2|en|Cinderella Chef
+14663|4|en|Cinderella Chef
 16986|2|en|Cinderella Chef 2
 17511|2|en|Cinderella Chef 3
 6514|1|x-jat|Cinderella Express
@@ -12828,6 +12832,7 @@
 13721|2|x-jat|Doupo Capong
 4250|1|x-jat|Doura
 18506|1|x-jat|Douse, Koishite Shimaunda.
+19250|1|x-jat|Douse, Koishite Shimaunda. 2
 11567|1|x-jat|Doushitemo Eto ni Hairitai
 17111|1|x-jat|Doushitemo Eto ni Hairitai 2
 2421|1|x-jat|Dousou Kai Again
@@ -12925,6 +12930,8 @@
 16164|1|x-jat|Dr. Stone: Ryuusui
 18336|1|x-jat|Dr. Stone: Science Future
 18336|4|en|Dr. Stone: Science Future
+19248|1|x-jat|Dr. Stone: Science Future (2025)
+19248|2|en|Dr. Stone: Science Future (2025)
 15305|1|x-jat|Dr. Stone: Stone Wars
 15305|4|en|Dr. Stone: Stone Wars
 7572|2|x-jat|Dr. Typhoon
@@ -12933,6 +12940,7 @@
 17053|4|ja|Dr.STONE NEW WORLD
 18064|4|ja|Dr.STONE NEW WORLD (2023)
 18336|4|ja|Dr.STONE SCIENCE FUTURE
+19248|4|ja|Dr.STONE SCIENCE FUTURE (2025)
 15305|4|ja|Dr.STONE STONE WARS
 16164|4|zh-Hant|Dr.Stone 新石紀 (龍水)
 16164|4|ja|Dr.STONE 龍水
@@ -14081,6 +14089,7 @@
 15711|1|x-jat|Eiga Sayonara Watashi no Cramer: First Touch
 9950|2|x-jat|Eiga Sekaiichi Hatsukoi
 18881|1|x-jat|Eiga Senpai wa Otokonoko: Ame Nochi Hare
+19252|1|x-jat|Eiga Shimajiro: Miracle-jima no Nanairo Carnation
 13553|1|x-jat|Eiga Shimajirou: Mahou no Shima no Daibouken
 17068|1|x-jat|Eiga Shimajirou: Shimajirou to Kirakira Oukoku no Ouji-sama
 15239|1|x-jat|Eiga Shimajirou: Shimajirou to Sora Tobu Fune
@@ -27977,6 +27986,7 @@
 16446|3|x-jat|konosuba bakuen
 11854|3|x-jat|konosuba OAD
 13317|3|x-jat|konosuba OAD 2
+11261|2|es|Konosuba: ¡bendito sea este maravilloso mundo!
 16446|4|es|Konosuba: ¡Explosión en un mundo maravilloso!
 16446|4|en|Konosuba: An Explosion on this Wonderful World!
 11854|4|de|Konosuba: Choker Game
@@ -37511,6 +37521,7 @@
 13129|2|en|Nocturn
 18418|4|ja|NocturnaL
 18418|1|x-jat|Nocturnal
+19245|1|x-jat|Nocturne Boogie
 4691|3|x-jat|noda
 4691|3|x-jat|Nodame
 5941|3|x-jat|nodame 2
@@ -41618,6 +41629,7 @@
 2227|2|fr|Poucelina
 13175|4|it|Poupelle della città dei camini
 13175|4|en|Poupelle of Chimney Town
+19244|1|x-jat|Poutaun no Nakama-tachi
 755|2|cs|Poválečný Gundam X
 9515|4|ro|Povestea prințesei Kaguya
 481|4|ro|Povestiri cu Fantome
@@ -41893,7 +41905,7 @@
 17177|1|x-kot|Princess Aya
 4240|2|en|Princess Be Careful
 4240|2|en|Princess Beware
-19240|1|x-jat|Princess Bust!
+19240|1|x-jat|Princess Burst!
 539|4|en|Princess Comet
 14690|4|en|Princess Connect! Re: Dive
 14690|1|x-jat|Princess Connect! Re:Dive
@@ -47730,6 +47742,7 @@
 2054|4|de|Sinkan
 6589|4|cs|Šinko a kouzelná šošolka
 5640|4|en|Sinners Paradise
+19251|1|x-jat|SINoALICE: Ichiban Saigo no Monogatari
 1403|4|en|Sins of the Flesh
 2552|4|en|Sins of the Sisters
 11829|4|et|Sinu nimi on...
@@ -48300,6 +48313,7 @@
 17630|1|x-jat|Sono Bisque Doll wa Koi o Suru (2025)
 7541|1|x-jat|Sono Hanabira ni Kuchizuke o
 7541|2|x-jat|Sono Hanabira ni Kuchizuke o: Anata to Koibito Tsunagi
+19247|1|x-jat|Sono Keisatsukan, Tokidoki Yajuu!
 2059|1|x-jat|Sono Kinisasete yo: My My Mai
 16250|2|x-jat|Sono Kisekae Ningyou wa Koi o Suru
 17630|2|x-jat|Sono Kisekae Ningyou wa Koi o Suru 2
@@ -50451,6 +50465,7 @@
 946|2|x-jat|Takegami
 946|2|en|Takegami: War God
 13338|2|en|Taking Everybody`s Husband Home
+19246|1|x-jat|Takkyuu Shoujo: Senkou no Kanata e
 8389|2|x-jat|Tako
 13812|4|hr|Tako je govorio Kishibe Rohan
 6201|1|x-jat|Tako ni Natta Okaasan
@@ -70924,6 +70939,7 @@
 7938|4|ja|アオス
 17401|4|ja|アオゾラ
 18278|4|ja|アオのハコ
+19249|4|ja|アオのハコ 2
 10385|4|ja|アオハライド
 10626|4|ja|アオハライド OAD
 17574|4|ja|アオハルスナッチ
@@ -73828,6 +73844,7 @@
 3572|4|ja|しにがみのバラッド.
 7706|2|ja|シニカル・ヒステリー・アワー
 18262|4|ja|シニシスタ
+19251|4|ja|シノアリス 一番最後のモノガタリ
 9173|4|ja|しばいたろか
 8986|4|ja|しばいぬ子さん
 2993|4|ja|ジバクくん TWELVE WORLD STORY
@@ -74478,6 +74495,7 @@
 16250|4|ja|その着せ替え人形は恋をする
 17630|4|ja|その着せ替え人形は恋をする (2025)
 7541|4|ja|その花びらにくちづけを
+19247|4|ja|その警察官, ときどき野獣!
 6957|4|ja|そばかすプッチー
 14732|4|ja|そばへ
 8266|4|ja|そふてにっ
@@ -75274,6 +75292,7 @@
 11567|4|ja|どうしても干支にはいりたい
 17111|4|ja|どうしても干支にはいりたい2
 18506|4|ja|どうせ, 恋してしまうんだ.
+19250|4|ja|どうせ, 恋してしまうんだ. 2
 15273|4|ja|どうにかなる日々
 414|2|ja|トゥハート
 2404|2|ja|トゥハート Remember my memories
@@ -75871,6 +75890,7 @@
 9801|4|ja|のうりん
 3512|4|ja|ノエイン もうひとりの君へ
 7336|4|ja|ノエルの不思議な冒険
+19245|4|ja|ノクターンブギ
 17488|4|ja|ノケモノたちの夜
 10943|4|ja|のせわすれ THE ANIMATION 女教師中善寺綾乃の淫鬱なこれから
 10672|4|ja|ノゾxキミ
@@ -77282,6 +77302,7 @@
 10757|4|ja|ボーイ・ミーツ・ハーレム THE ANIMATION
 7342|2|ja|ボーイフレンド
 17878|4|ja|ポーション頼みで生き延びます!
+19244|4|ja|ポータウンのなかまたち
 3958|4|ja|ポータブル空港
 12974|4|ja|ボーノーモ
 370|4|ja|ホーホケキョとなりの山田くん
@@ -80241,6 +80262,8 @@
 15428|4|zh-Hans|入间同学入魔了 第二季
 7112|4|ja|入院ボッキ物語 おだいじに!
 18547|4|ja|全修.
+18547|4|zh-Hans|全修。
+18547|4|zh-Hant|全修。
 5913|4|ja|全力ウサギ
 17190|4|ja|全力ウサギ (2023)
 18981|4|ja|全力ウサギ (2025)
@@ -81311,6 +81334,7 @@
 15384|4|ja|卒業○○電車
 1362|4|ja|卒業M ~オレ達のカーニバル~
 15384|2|ja|卒業痴漢電車
+19246|4|ja|卓球少女 閃光のかなたへ
 6908|4|ja|協力防空戦
 18225|4|zh-Hans|单间、光照尚好、附带天使。
 10073|4|zh|卖猪
@@ -86328,6 +86352,7 @@
 17068|4|ja|映画しまじろう しまじろうと キラキラおうこくの おうじさま
 15239|4|ja|映画しまじろう しまじろうと そらとぶふね
 13553|4|ja|映画しまじろう まほうのしまの だいぼうけん
+19252|4|ja|映画しまじろう ミラクルじまの なないろカーネーション
 8957|4|ja|映画ジュエルペット スウィーツダンスプリンセス
 14544|4|ja|映画スター☆トゥインクルプリキュア 星のうたに想いをこめて
 12515|4|ja|映画たまごっち ヒミツのおとどけ大作戦!
