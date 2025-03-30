@@ -1,4 +1,4 @@
-# created: Fri Mar 28 03:00:02 2025
+# created: Sat Mar 29 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -237,6 +237,7 @@
 10306|4|ja|☆ケロロ☆
 4726|2|x-other|❄
 18736|1|x-jat|0-saiji Start Dash Monogatari
+19255|1|x-jat|0-saiji Start Dash Monogatari 2
 19119|1|x-jat|0-saiji Start Dash Monogatari Season 2
 2195|4|ja|0[ゼロ]テスター
 2196|4|ja|0[ゼロ]テスター 地球を守れ!
@@ -9626,6 +9627,7 @@
 13201|2|en|Crayon Shin-chan Side Story: O O O no Shinnosuke
 12517|2|en|Crayon Shin-chan Side Story: Toy Wars
 18306|2|en|Crayon Shin-chan the Movie: Our Dinosaur Diary
+19256|2|en|Crayon Shin-chan the Movie: Super Hot! The Spicy Kasukabe Dancers
 4624|1|x-jat|Crayon Shin-chan: Action Kamen vs Haigure Maou
 4704|1|x-jat|Crayon Shin-chan: Ankoku Tamatama Daitsuiseki
 3316|1|x-jat|Crayon Shin-chan: Arashi o Yobu Appare! Sengoku Daikassen
@@ -13970,6 +13972,7 @@
 13520|1|x-jat|Eiga Crayon Shin-chan: Bakumori! Kung-Fu Boys - Ramen Tairan
 11742|1|x-jat|Eiga Crayon Shin-chan: Bakusui! Yumemi World Dai Totsugeki
 5858|1|x-jat|Eiga Crayon Shin-chan: Chou Arashi o Yobu Kinpoko no Yuusha
+19256|1|x-jat|Eiga Crayon Shin-chan: Chou Curry! Shakunetsu no Kasukabe Dancers
 4705|1|x-jat|Eiga Crayon Shin-chan: Dengeki! Buta no Hizume Daisakusen
 3107|1|x-jat|Eiga Crayon Shin-chan: Densetsu o Yobu Buriburi 3-punpokkiri Daishingeki
 4627|1|x-jat|Eiga Crayon Shin-chan: Densetsu o Yobu Odore! Amigo!
@@ -14095,6 +14098,7 @@
 15239|1|x-jat|Eiga Shimajirou: Shimajirou to Sora Tobu Fune
 8939|1|x-jat|Eiga Smile Precure! Ehon no Naka wa Minna Chiguhagu!
 18519|1|x-jat|Eiga Sore Ike! Anpanman: Baikinman to Ehon no Lulun
+19257|1|x-jat|Eiga Sore Ike! Anpanman: Chapon no Hero!
 17121|1|x-jat|Eiga Sore Ike! Anpanman: Dororin to Bakeru Carnival
 17810|1|x-jat|Eiga Sore Ike! Anpanman: Roboly to Pokapoka Present
 14544|1|x-jat|Eiga Star Twinkle Precure: Hoshi no Uta ni Omoi o Komete
@@ -20882,6 +20886,7 @@
 2621|2|en|He`s My Master
 11439|1|x-jat|Head Spoon
 18736|4|en|Head Start at Birth
+19255|4|en|Head Start at Birth Season 2
 18768|4|en|Headhunted to Another World: From Salaryman to Big Four!
 16286|4|en|Healer Girl
 16286|1|x-jat|Healer Girl
@@ -36621,6 +36626,7 @@
 215|3|en|NCH
 897|3|en|ndtp
 15250|4|en|Ne Zha
+19254|4|en|Ne Zha 2
 12552|2|x-jat|Near Future Kunoichi Adventure Taimanin Asagi 3
 5310|4|cs|Nebeští jezdci
 13061|1|x-jat|Nebula feat. Hatsune Miku
@@ -36957,6 +36963,7 @@
 9369|1|x-zht|Nezha Nao Hai
 9369|2|x-jat|Nezha no Ooabare
 15250|2|x-zht|Nezha Zhi Mo Tong Jiang Shi
+19254|1|zh|Nezha Zhi Mo Tong Nao Hai
 15250|2|en|Nezha: Birth of the Demon Child
 16309|4|es|Nezha: El renacer de un dios
 15250|1|x-zht|Nezha: Mo Tong Jiang Shi
@@ -37601,6 +37608,7 @@
 15271|4|ja|NOMAD メガロボクス2
 15271|1|x-jat|Nomad: Megalo Box 2
 15271|4|en|Nomad: Megalobox 2
+19253|1|x-jat|Nomo no Kuni
 7738|3|x-jat|nomusu
 13852|2|en|Non human
 9722|1|x-jat|Non Non Biyori
@@ -43246,7 +43254,6 @@
 6171|2|en|Rebuild of Evangelion: 2.0
 7565|2|en|Rebuild of Evangelion: 3.0
 8895|2|en|Rebuild of Evangelion: 4.0
-19241|1|en|Rebuild of Naruto: Naruto
 18094|1|x-jat|Rebuild World
 3656|1|x-jat|Rec
 3656|4|en|Rec
@@ -52284,6 +52291,7 @@
 18027|2|en|The Land of Miracles 2nd Season
 18481|2|en|The Land of Miracles 3
 18481|2|en|The Land of Miracles 3rd Season
+19253|4|en|The Land of Nomo
 14766|2|en|The Landscape of Mountains and Rivers
 6712|2|en|The Larks` Moving Day
 9588|4|fr|The Last : Naruto le film
@@ -71769,6 +71777,7 @@
 16539|4|ja|エイウォール COMPRESSION Re-MIX
 14715|4|ja|えいが うちの3姉妹
 13416|4|ja|えいが パンパカパンツまつり -プリン あら, ど~も-
+19257|4|ja|えいがそれいけ! アンパンマン チャポンのヒーロー!
 17121|4|ja|えいがそれいけ! アンパンマン ドロリンとバケ~るカーニバル
 18519|4|ja|えいがそれいけ! アンパンマン ばいきんまんとえほんのルルン
 17810|4|ja|えいがそれいけ! アンパンマン ロボリィとぽかぽかプレゼント
@@ -75911,6 +75920,7 @@
 9882|4|ja|ノブナガン
 14530|4|ja|ノブナガ先生の幼な妻
 15409|2|ja|ノブレス
+19253|4|ja|ノモの国
 9925|4|ja|ノラガミ
 11170|4|ja|ノラガミ ARAGOTO
 11860|4|ja|ノラガミ ARAGOTO OAD
@@ -86347,6 +86357,7 @@
 11742|4|ja|映画クレヨンしんちゃん 爆睡! ユメミーワールド大突撃
 12478|4|ja|映画クレヨンしんちゃん 襲来!! 宇宙人シリリ
 15923|4|ja|映画クレヨンしんちゃん 謎メキ! 花の天カス学園
+19256|4|ja|映画クレヨンしんちゃん 超華麗! 灼熱のカスカベダンサーズ
 14508|4|ja|映画コラショの海底わくわく大冒険!
 16252|4|ja|映画ざんねんないきもの事典
 17068|4|ja|映画しまじろう しまじろうと キラキラおうこくの おうじさま
