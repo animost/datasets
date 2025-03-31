@@ -1,4 +1,4 @@
-# created: Sat Mar 29 03:00:01 2025
+# created: Sun Mar 30 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3053,6 +3053,7 @@
 19249|1|x-jat|Ao no Hako 2
 10934|1|x-jat|Ao no Kanata no Four Rhythm
 18193|1|x-jat|Ao no Miburo
+19258|1|x-jat|Ao no Miburo: Serizawa Ansatsu Hen
 17314|1|x-jat|Ao no Orchestra
 18234|1|x-jat|Ao no Orchestra (2025)
 361|2|x-jat|Ao no Roku Gou
@@ -3401,6 +3402,7 @@
 9239|1|x-jat|Arisa Good Luck
 519|3|x-jat|Arislan
 18440|1|ko|Arisubyeon-ui Kkumnamu
+19259|1|x-jat|Arisugawa Ren tte Honto wa Onna Nanda yo ne.
 3663|4|tr|Arı Maya
 107|4|fr|Arjuna
 107|4|en|Arjuna
@@ -6296,6 +6298,7 @@
 17954|4|pl|Blue Lock vs. U-20 Japan
 17955|4|en|Blue Lock: Episode Nagi
 18193|4|en|Blue Miburo
+19258|2|en|Blue Miburo: Serizawa Assassination
 2467|3|x-jat|Blue Noah
 2467|4|it|Blue Noah - Mare spaziale
 15993|4|pl|Blue Period
@@ -27796,6 +27799,7 @@
 14707|2|x-jat|koisuru
 7522|2|x-jat|Koisuru Boukun
 16025|1|x-jat|Koisuru Nezumi
+19261|1|x-jat|Koisuru ONE PIECE
 4753|2|x-jat|Koisuru Tenshi Angelique: Kagayaki no Ashita
 4197|2|x-jat|Koisuru Tenshi Angelique: Kokoro no Mezameru Toki
 9729|1|x-jat|Koitabi: True Tours Nanto
@@ -33268,6 +33272,8 @@
 18030|1|x-jat|Medalist
 18030|4|pl|Medalist
 18030|4|en|Medalist
+19260|1|x-jat|Medalist 2
+19260|2|en|Medalist 2
 10631|1|x-jat|Medamayaki no Kimi Itsu Tsubusu?
 3303|1|x-jat|Medarot
 3303|4|it|Medarot
@@ -38582,6 +38588,7 @@
 8940|4|en|One Piece Film: Z
 11529|4|pt|One Piece Gold
 11529|4|es|One Piece Gold
+19261|4|en|One Piece in Love
 18968|1|en|One Piece Log: Fish-Man Island Saga
 411|3|en|One Piece Movie
 411|2|en|One Piece Movie 1
@@ -41115,6 +41122,7 @@
 9216|3|en|pokemon bw2
 3419|4|en|Pokemon Chronicles
 3419|4|fr|Pokémon Chronicles
+3419|4|pt|Pokémon Chronicles
 17883|1|x-jat|Pokemon Concierge
 17883|4|en|Pokemon Concierge
 17883|2|en|Pokémon Concierge
@@ -44263,6 +44271,7 @@
 2384|4|en|Run Melos! (1992)
 3615|2|x-jat|Run wa Kaze no Naka
 14109|4|en|Run with the Wind
+15058|2|en|Run, Melos
 3189|4|en|Run! White Wolf
 183|1|x-jat|RUN=DIM
 183|4|fr|RUN=DIM
@@ -77325,6 +77334,7 @@
 143|2|ja|ホーンテッドじゃんくしょん
 126|4|ja|ホイッスル!
 3447|2|ja|ボイン
+3447|2|ja|ボイン レクチャー
 15038|5|ja|ほうせきしょうりちゃーどしのなぞかんてい
 18650|4|ja|ホウセンカ
 3304|4|ja|ほえろブンブン
@@ -78056,6 +78066,7 @@
 8799|4|ja|めだかボックス
 9272|4|ja|めだかボックス アブノーマル
 18030|4|ja|メダリスト
+19260|4|ja|メダリスト 2
 17926|2|ja|メタリックルージュ
 1516|4|ja|メタルスキンパニックMADOX-01
 917|4|ja|メタルファイター・MIKU
@@ -86591,6 +86602,7 @@
 18657|4|zh-Hans|有兽焉 第三季
 18658|4|zh-Hans|有兽焉 第二季
 18810|4|zh-Hans|有兽焉 第四季
+19259|4|ja|有栖川煉ってホントは女なんだよね.
 15681|4|zh-Hans|有药
 17051|4|zh-Hans|有药2
 15681|4|zh-Hant|有藥
@@ -92901,6 +92913,7 @@
 18234|4|ja|青のオーケストラ (2025)
 12908|4|ja|青のストラーダ
 18193|4|ja|青のミブロ
+19258|4|ja|青のミブロ 芹沢暗殺編
 11333|4|ja|青の洞門
 8148|4|ja|青の祓魔師
 12240|4|ja|青の祓魔師 京都不浄王篇
