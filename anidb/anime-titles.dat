@@ -1,4 +1,4 @@
-# created: Sun Mar 30 03:00:02 2025
+# created: Mon Mar 31 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -237,8 +237,8 @@
 10306|4|ja|☆ケロロ☆
 4726|2|x-other|❄
 18736|1|x-jat|0-saiji Start Dash Monogatari
-19255|1|x-jat|0-saiji Start Dash Monogatari 2
-19119|1|x-jat|0-saiji Start Dash Monogatari Season 2
+19119|1|x-jat|0-saiji Start Dash Monogatari Season (2025)
+19119|2|x-jat|0-saiji Start Dash Monogatari Season 2
 2195|4|ja|0[ゼロ]テスター
 2196|4|ja|0[ゼロ]テスター 地球を守れ!
 11391|1|x-jat|00:08
@@ -271,7 +271,8 @@
 2196|2|ja|0テスター 地球を守れ!
 5121|4|ja|0戦はやと
 18736|4|ja|0歳児スタートダッシュ物語
-19119|4|ja|0歳児スタートダッシュ物語 シーズン2
+19119|4|ja|0歳児スタートダッシュ物語 (2025)
+19119|2|ja|0歳児スタートダッシュ物語 シーズン2
 13813|2|en|1 Day Outside Pass Foreman
 19003|2|x-jat|1-punkan
 18195|2|en|1,000,000,000,000$ Game
@@ -8121,7 +8122,7 @@
 19111|1|x-jat|Chao
 19111|4|ja|ChaO
 18361|4|vi|Chào mừng đến Nhật, bạn Elf
-19234|4|zh|Chao Neng Lifang
+19234|1|x-zht|Chao Neng Lifang: Chaofan Pian
 16817|1|x-zht|Chao Shen Xueyuan
 16818|1|x-zht|Chao Shen Xueyuan Di Er Ji
 16819|1|x-zht|Chao Shen Xueyuan Di San Ji
@@ -8994,6 +8995,9 @@
 17208|4|en|Classroom of the Elite II
 17237|4|en|Classroom of the Elite III
 18844|2|en|Classroom of the Elite IV
+17208|2|en|Classroom of the Elite Season 2
+17237|2|en|Classroom of the Elite Season 3
+18844|2|en|Classroom of the Elite Season 4
 11147|4|ja|Classroom☆Crisis
 18728|3|x-jat|ClaSta
 4392|2|en|Claws of a Beast
@@ -20889,7 +20893,7 @@
 2621|2|en|He`s My Master
 11439|1|x-jat|Head Spoon
 18736|4|en|Head Start at Birth
-19255|4|en|Head Start at Birth Season 2
+19119|2|en|Head Start at Birth (2025)
 18768|4|en|Headhunted to Another World: From Salaryman to Big Four!
 16286|4|en|Healer Girl
 16286|1|x-jat|Healer Girl
@@ -24647,6 +24651,7 @@
 15655|1|x-kot|Jib
 14757|1|x-jat|Jibaku Shounen Hanako-kun
 17791|1|x-jat|Jibaku Shounen Hanako-kun 2
+19262|1|x-jat|Jibaku Shounen Hanako-kun 3
 17791|2|x-jat|Jibaku Shounen Hanako-kun S2
 2993|1|x-jat|Jibaku-kun: Twelve World Story
 14757|3|x-jat|jibasho
@@ -37641,6 +37646,7 @@
 14914|3|x-jat|nonnonbiyori s3
 12689|3|x-jat|nonnonrepeat ova
 2129|1|x-jat|Nono-chan
+19057|1|x-jat|Nonohara Yuzuka no Himitsu no Haishin
 2129|4|fr|Nonoko
 1205|1|x-jat|Nonomura Byouin no Hitobito
 1205|4|it|Nonomura Hospital - Delitto in corsia a Luci Rosse
@@ -39496,7 +39502,6 @@
 13769|2|en|OVA Complete Slut See their true colors Russian Step-Mother and Step-Sisters All you can have Sex
 18756|1|x-jat|OVA Incha Couple ga You Gal-tachi to Sex Training Suru Hanashi
 13769|1|x-jat|OVA Muttsuri Do Sukebe Ro Gibo Shimai no Honshitsu Minuite Sex Zanmai
-19057|1|x-jat|OVA Nonohara Yuzuka no Himitsu no Haishin
 11268|1|x-jat|OVA Tokyo Ghoul
 11271|1|x-jat|OVA Tsunpuri
 6285|1|x-jat|OVA Utawarerumono
@@ -39516,7 +39521,6 @@
 18587|4|ja|OVA 僕にハーレムセフレが出来た理由
 19105|4|ja|OVA 夕顔
 11268|4|ja|OVA 東京喰種[トーキョーグール]
-19057|4|ja|OVA 野々原柚花のヒミツのハイシン
 18756|4|ja|OVA 陰キャカップルが陽ギャル達とSEXトレーニングする話
 1518|4|he|OVA1 פאטלייבור
 1195|4|he|OVA2 פאטלייבור
@@ -46576,9 +46580,11 @@
 17501|4|th|SHANGRI-LA FRONTIER ～เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ～
 18578|4|th|SHANGRI-LA FRONTIER ～เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ～ ซีซั่น 2
 18578|2|en|Shangri-La Frontier 2nd Season
+19263|2|en|Shangri-La Frontier 3
 18578|2|en|Shangri-La Frontier Season 2
 17501|1|x-jat|Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su
 18578|1|x-jat|Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su (2024)
+19263|1|x-jat|Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su 3
 18578|2|x-jat|Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su Season 2
 6267|2|x-jat|Shangrila
 18982|1|x-zht|Shanhai Fu Mo Lu
@@ -49811,7 +49817,7 @@
 14748|4|en|Super Crooks
 15260|1|x-jat|Super Cub
 15260|4|en|Super Cub
-19234|1|en|Super Cube
+19234|4|en|Super Cube
 2786|4|pl|Super Dan
 12436|1|x-jat|Super Danganronpa 2.5: Komaeda Nagito to Sekai no Hakaisha
 12436|2|en|Super Danganronpa 2.5: Nagito Komaeda and the Destroyer of the World
@@ -53784,6 +53790,7 @@
 10140|2|en|Toilet no Kami-sama
 10140|2|en|Toilet of God
 14757|4|en|Toilet-bound Hanako-kun
+19262|2|en|Toilet-bound Hanako-kun 3
 17791|4|en|Toilet-bound Hanako-kun Season 2
 6366|2|ja|Toire no Hanako-san
 15909|2|x-unk|Toire no Hanako-san vs Kukkyou Taimashi
@@ -54267,6 +54274,7 @@
 9628|3|x-jat|touhou: pvd 4
 19202|1|x-jat|Toujima Tanzaburou wa Kamen Rider ni Naritai
 4971|1|x-jat|Touka Gettan
+19155|4|en|Touken Ranbu Kai Douden
 18408|4|de|Touken Ranbu Kai Kyoden
 18408|4|en|Touken Ranbu Kai Kyoden
 19155|1|x-jat|Touken Ranbu Kai: Douden Chikashi Haberau Monora
@@ -73949,6 +73957,7 @@
 6267|4|ja|シャングリ・ラ
 13140|4|ja|シャングリラ
 17501|4|ja|シャングリラ・フロンティア ~クソゲーハンター, 神ゲーに挑まんとす~
+19263|4|ja|シャングリラ・フロンティア ~クソゲーハンター, 神ゲーに挑まんとす~ 3
 18578|4|ja|シャングリラ・フロンティア ~クソゲーハンター、神ゲーに挑まんとす~ (2024)
 599|4|ja|ジャングルDEいこう!
 7696|4|ja|ジャングルウォーズ
@@ -82250,6 +82259,7 @@
 4861|2|zh-Hant|地球防衛少年
 14757|4|ja|地縛少年花子くん
 17791|4|ja|地縛少年花子くん2
+19262|4|ja|地縛少年花子くん3
 17791|4|zh-Hant|地縛少年花子君 第二季
 14757|4|zh-Hans|地缚少年花子君
 17791|4|zh-Hans|地缚少年花子君2
@@ -84355,6 +84365,7 @@
 15493|4|zh-Hans|异世界魔王与召唤少女的奴隶魔术Ω
 18461|4|zh-Hans|异人君莫邪
 17866|4|zh-Hans|异修罗
+18542|4|zh-Hans|异修罗 第二季
 14483|4|zh-Hans|异兽魔都
 8180|4|zh-Hans|异国迷宫的十字路口
 14716|4|zh-Hans|异常生物见闻录
@@ -85118,6 +85129,8 @@
 4602|4|zh-Hans|我是小甜甜 漫长的告别
 3170|2|zh-Hans|我是小粘粘
 16071|4|zh-Hans|我是怼大哥
+18939|4|zh-Hans|我是星际国家的恶德领主！
+18939|4|zh-Hant|我是星際國家的惡德領主！
 13737|4|zh-Hans|我是江小白
 14674|4|zh-Hans|我是江小白 世界上的另一个我
 14674|2|zh-Hans|我是江小白 剧场版
@@ -91654,6 +91667,7 @@
 1820|4|ja|超者ライディーン
 6467|2|zh-Hans|超能力大战/死刑判决
 5778|4|ja|超能力少女バラバンバ
+19234|4|zh|超能立方 超凡篇
 12004|4|zh-Hans|超自然9人组
 15579|4|zh|超蛙战士之初露锋芒
 15669|4|zh-Hans|超蛙战士之威武教官
@@ -92146,6 +92160,7 @@
 11074|4|zh-Hans|重返17岁
 5587|4|zh-Hans|重金属摇滚双面人
 18854|3|ja|重騎士
+19057|4|ja|野々原柚花のヒミツのハイシン
 1205|4|ja|野々村病院の人々
 14345|4|ja|野ばら
 3649|4|ja|野ばらのジュリー
