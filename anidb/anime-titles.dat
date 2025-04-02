@@ -1,4 +1,4 @@
-# created: Mon Mar 31 03:00:01 2025
+# created: Tue Apr  1 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -237,7 +237,7 @@
 10306|4|ja|☆ケロロ☆
 4726|2|x-other|❄
 18736|1|x-jat|0-saiji Start Dash Monogatari
-19119|1|x-jat|0-saiji Start Dash Monogatari Season (2025)
+19119|1|x-jat|0-saiji Start Dash Monogatari (2025)
 19119|2|x-jat|0-saiji Start Dash Monogatari Season 2
 2195|4|ja|0[ゼロ]テスター
 2196|4|ja|0[ゼロ]テスター 地球を守れ!
@@ -11612,6 +11612,7 @@
 13720|1|x-zht|Di Tou Ren Sheng
 13954|1|x-zht|Di Wang Gong Lue
 18255|1|x-zht|Di Yi Xulie
+19264|1|x-zht|Di Yi Xulie 2
 13311|1|x-jat|Dia Horizon (Kabu)
 13327|1|x-jat|Dia Horizon (Web)
 16012|4|vi|Địa ngục cực lạc:
@@ -26829,6 +26830,7 @@
 12105|4|en|Kiitaro`s Yokai Picture Diary
 12105|1|x-jat|Kiitarou Shounen no Youkai Enikki
 16614|1|x-jat|Kijin Gentou Shou
+16614|2|x-jat|Kijin Gentoushou
 2176|1|x-jat|Kijoku: Princess Double Kari
 2572|1|x-jat|Kijutsushi x Majutsushi: Ousaka Gakuen Tantei Bu no Jikenbo - In`ya ni Warau Kage Hitotsu
 2572|2|x-jat|Kijutsushi x Majutsushi: Ousaka Gakuen Tanteibu no Jikenbo
@@ -27025,8 +27027,10 @@
 12093|1|x-jat|Kimi no Koe o Todoketai
 12093|2|x-jat|Kimi no Koe wo Todoketai
 11645|1|x-jat|Kimi no Kokoro wa Kagayaiterukai?
-17906|1|x-jat|Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo
-18343|1|x-jat|Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2
+17906|2|x-jat|Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo
+18343|2|x-jat|Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2
+17906|1|x-jat|Kimi no Koto ga Dai Dai Dai Dai Daisuki na Hyakunin no Kanojo
+18343|1|x-jat|Kimi no Koto ga Dai Dai Dai Dai Daisuki na Hyakunin no Kanojo (2025)
 12477|1|x-jat|Kimi no Mana wa Rina Witch
 14456|1|x-jat|Kimi no Matsu Basho e
 6116|1|x-jat|Kimi no Na o Yobeba
@@ -89849,6 +89853,7 @@
 14203|4|ja|第501統合戦闘航空団 ストライクウィッチーズ ROAD to BERLIN
 17130|4|ja|第501統合戦闘航空団 ブレイブウィッチーズ ペテルブルグ大戦略
 18255|4|zh-Hans|第一序列
+19264|4|zh-Hans|第一序列 第二季
 13248|4|zh-Hans|第一次的Gal OAD
 12554|4|zh-Hans|第一次的辣妹
 129|4|zh-Hans|第一神拳
