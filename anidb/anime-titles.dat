@@ -1,4 +1,4 @@
-# created: Tue Apr  1 03:00:02 2025
+# created: Wed Apr  2 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -16157,6 +16157,7 @@
 4007|2|en|For Real
 13784|2|en|For Whom the Alchemist Exists
 13784|4|en|For Whom the Alchemist Exists the Movie
+18636|2|en|For You in Full Blossom
 14898|4|ja|For キミに贈る歌
 14091|4|pt-BR|Fora de Órbita
 7890|3|x-jat|forarteri
@@ -27758,6 +27759,7 @@
 14707|1|x-jat|Koi Suru Asteroid
 7522|1|x-jat|Koi Suru Boukun
 12668|1|x-jat|Koi Suru Niwatori
+19265|1|x-jat|Koi Suru One Piece
 12645|1|x-jat|Koi Suru Shirokuma
 4753|1|x-jat|Koi Suru Tenshi Angelique: Kagayaki no Ashita
 4197|1|x-jat|Koi Suru Tenshi Angelique: Kokoro no Mezameru Toki
@@ -41402,6 +41404,7 @@
 17151|4|en|Pokemon: The Arceus Chronicles
 990|4|en|Pokemon: The First Movie - Mewtwo Strikes Back
 5048|4|en|Pokemon: The Rise of Darkrai
+17780|2|en|Pokémon: To Be a Pokémon Master
 15309|4|en|Pokemon: Twilight Wings
 15309|2|en|Pokémon: Twilight Wings
 11842|4|pl|Pokémon: Volcanion i mechaniczny zachwyt
@@ -80788,6 +80791,7 @@
 14996|4|zh-Hant|前說！
 15621|4|zh-Hant|前輩有夠煩
 17945|2|zh-Hans|前辈是伪娘
+17945|4|zh-Hans|前辈是男孩子
 15621|4|zh-Hans|前辈有够烦
 16138|4|zh-Hans|前进吧！登山少女 第四季
 16138|4|zh-Hant|前進吧！登山少女 Next Summit
@@ -84744,6 +84748,7 @@
 12645|4|ja|恋するシロクマ
 12668|4|ja|恋するニワトリ
 16025|4|ja|恋するネズミ
+19265|4|ja|恋するワンピース
 4753|4|ja|恋する天使アンジェリーク ~かがやきの明日~
 4197|4|ja|恋する天使アンジェリーク ~心のめざめる時~
 14707|4|ja|恋する小惑星[アステロイド]
