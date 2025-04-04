@@ -1,4 +1,4 @@
-# created: Wed Apr  2 03:00:02 2025
+# created: Thu Apr  3 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1677,7 +1677,7 @@
 16505|4|en|Aharen-san wa Hakarenai
 16505|1|x-jat|Aharen-san wa Hakarenai
 18798|1|x-jat|Aharen-san wa Hakarenai Season 2
-18798|2|en|Aharen-san wa Hakarenai Season 2
+18798|4|en|Aharen-san wa Hakarenai Season 2
 12746|3|x-jat|ahcf
 15727|4|es-419|Ahí está el Cuello de Botella
 12881|1|x-jat|Ahiru no Ko
@@ -3155,6 +3155,7 @@
 18702|2|en|Apocalypse Bringer Mynoghra
 16757|2|en|Apocalypse Day
 18838|1|x-jat|Apocalypse Hotel
+18838|4|en|Apocalypse Hotel
 6473|2|en|Apocalypse Meow
 44|2|en|Apocalypse of Devilman
 928|4|en|Apocalypse Zero
@@ -6097,6 +6098,7 @@
 7280|4|en|Blessing of the Campanella
 8243|4|en|Blessing of the Campanella (2011)
 1355|1|x-jat|Blind Night
+19051|2|pl|Bliźniaczki Hinahima
 17960|1|x-jat|Blockbusters
 17960|4|ja|BLOCKBUSTERS
 2021|4|en|Blocker Corps
@@ -23094,8 +23096,6 @@
 18939|4|de|I`m the Evil Lord of an Intergalactic Empire!
 17747|2|en|I`m the Only Guy in the Class!?
 16826|4|en|I`m the Villainess, So I`m Taming the Final Boss
-17951|4|ja|I`m Your Treasure Box ＊あなたは マリンせんちょうを たからばこからみつけた。
-17951|1|x-jat|I`m Your Treasure Box: Anata wa Marine Senchou wo Takarabako kara Mitsuketa.
 404|3|x-jat|I`s
 11376|4|en|I`ve Always Liked You: Confess Your Love Committee
 12806|2|en|I`ve always loved you
@@ -26013,6 +26013,8 @@
 14468|1|x-jat|Kanpeki Ojou-sama no Watakushi ga Dogeza de Maso Ochi Suru Choroin na Wakenai Desu wa!
 14468|2|x-jat|Kanpeki Ojousama no Watakushi ga Dogeza de Maso Ochi Suru Choroin na Wakenai Desu wa!
 18940|1|x-jat|Kanpeki Sugite Kawaige ga Nai to Kon`yaku Hakisareta Seijo wa Ringoku ni Urareru
+18940|2|x-jat|Kanpekiseijo
+18940|2|x-jat|Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru
 7259|2|x-jat|Kansen 2 Inzai Toushi
 7259|1|x-jat|Kansen 2: Inzai Toshi
 7652|1|x-jat|Kansen 3: Shuto Houkai
@@ -26951,6 +26953,7 @@
 7588|4|en|Kimagure Orange Road: Message in Rouge
 7586|2|x-jat|Kimagure Orange Road: Mogitate Special
 7587|1|x-jat|Kimagure Orange Road: Omoi Gakenai Situation
+576|4|es|Kimagure Orange Road: Quiero volver a ese día
 7588|1|x-jat|Kimagure Orange Road: Rouge no Dengon
 283|1|x-jat|Kimagure Orange Road: Shiroi Koibito-tachi
 7590|1|x-jat|Kimagure Orange Road: Soushuuhen Tanabata Special
@@ -28240,7 +28243,7 @@
 219|2|pl|Kowboj Bebop the Movie
 219|2|pl|Kowboj Bebop: Pukając do nieba bram
 18917|1|x-jat|Kowloon Generic Romance
-18917|2|en|Kowloon Generic Romance
+18917|4|en|Kowloon Generic Romance
 11725|3|x-jat|koya
 11726|3|x-jat|koya: Anime Edition
 13691|2|en|Koyomi Reverse
@@ -31660,6 +31663,7 @@
 2353|2|x-jat|Madouou Grandzort: Saigo no Magical Taisen
 1516|3|x-jat|Madox
 18855|1|x-jat|Maebashi Witches
+18855|4|en|Maebashi Witches
 4259|1|x-jat|Maegami Tarou
 13309|4|en|Maerchen Maedchen
 13309|2|x-jat|Maerchen Maedchen
@@ -35663,8 +35667,8 @@
 8408|4|en|Muybridge`s Strings
 13536|4|tr|MUZ BALIĞI
 15812|4|cs|Muž v domácnosti
-18639|1|x-jat|Muzik Tiger
-18639|4|ja|MUZIK TIGER
+18639|4|ja|MUZIK TIGER In the Forest
+18639|1|x-jat|Muzik Tiger: In the Forest
 12231|1|x-jat|Muzumuzu Eighteen
 336|3|x-jat|mws
 13980|3|en|MWZ
@@ -43417,6 +43421,7 @@
 3997|2|en|Reiko Shiratori I Presume
 13146|2|fr|Reina, idole angélique
 19217|2|en|Reincarnated as a Dragon Hatchling
+18760|4|en|Reincarnated as a Neglected Noble: Raising My Baby Brother with Memories from My Past Life
 16785|4|en|Reincarnated as a Sword
 17789|4|en|Reincarnated as a Sword 2
 18437|2|en|Reincarnated as the Daughter of the Legendary Hero and the Queen of Spirits
@@ -82403,6 +82408,7 @@
 5132|4|zh-Hans|夏娃的时间
 7249|4|zh-Hans|夏娃的时间 剧场版
 10832|4|ja|夏恋戦機
+13693|4|zh-Hans|夏日口袋
 6249|4|zh-Hans|夏日大作战
 16033|4|zh-Hans|夏日重现
 3955|4|ja|夏服の少女たち ~ヒロシマ・昭和20年8月6日~
