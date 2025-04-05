@@ -1,4 +1,4 @@
-# created: Thu Apr  3 03:00:01 2025
+# created: Fri Apr  4 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4351,6 +4351,7 @@
 1975|2|ko|Bad End 속죄의 교실
 1975|2|ja|BAD END 贖罪の教室
 18716|1|x-jat|Bad Girl
+19267|2|en|Bad Guys 7
 2375|4|en|Bad Teacher Equation
 8441|1|x-kot|Badaui Jeonseol Jangbogo
 7842|2|en|Badtz-Maru in The Ants and the Grasshopper
@@ -22607,11 +22608,13 @@
 16314|2|x-zht|Hua Jianghu Zhi Buliang Ren S4
 17145|2|x-zht|Hua Jianghu Zhi Buliang Ren S5
 17292|2|x-zht|Hua Jianghu Zhi Buliang Ren S6
+19267|2|x-zht|Hua Jianghu Zhi Buliang Ren S7
 16330|2|x-zht|Hua Jianghu Zhi Huan Shi Men Sheng
 16332|2|x-zht|Hua Jianghu Zhi Huan Shi Men Sheng S2
 13042|2|x-zht|Hua Jianghu Zhi Ling Zhu
 15220|2|x-zht|Hua Jianghu Zhi Xia Lan
 13323|1|x-zht|Hua Jianghu: Bei Mo Ting
+19267|1|x-zht|Hua Jianghu: Bu Liang Ren Qi - Jiu Youxuan Tian
 12206|1|x-zht|Hua Jianghu: Buliang Ren
 14647|2|x-zht|Hua Jianghu: Buliang Ren 3
 12504|1|x-zht|Hua Jianghu: Buliang Ren II
@@ -22688,6 +22691,7 @@
 4334|4|pt-BR|Humanoid Monster Bem
 4334|4|en|Humanoid Monster Bem
 1447|2|en|Humanoid Monster Bem (1968)
+4334|4|pt|Humanóide Monster Bem
 5465|4|en|Humiliated Wives
 14989|2|en|Humiliation
 15463|2|en|humiliation II
@@ -31273,8 +31277,8 @@
 823|4|en|Lupin the 3rd: The Mystery of Mamo
 810|4|de|Lupin the 3rd: The Secret of Twilight Gemini
 986|4|de|Lupin the 3rd: Voyage To Danger
-19020|1|x-jat|Lupin the IIIrd the Movie
-19020|4|ja|LUPIN THE IIIRD THE MOVIE
+19020|4|ja|LUPIN THE IIIRD THE MOVIE 不死身の血族
+19020|1|x-jat|Lupin the IIIrd the Movie: Fujimi no Ketsuzoku
 14616|4|ja|LUPIN THE IIIRD 峰不二子の嘘
 10535|4|ja|LUPIN THE IIIRD 次元大介の墓標
 12398|4|ja|LUPIN THE IIIRD 血煙の石川五ェ門
@@ -36647,7 +36651,6 @@
 215|3|en|NCH
 897|3|en|ndtp
 15250|4|en|Ne Zha
-19254|4|en|Ne Zha 2
 12552|2|x-jat|Near Future Kunoichi Adventure Taimanin Asagi 3
 5310|4|cs|Nebeští jezdci
 13061|1|x-jat|Nebula feat. Hatsune Miku
@@ -36984,7 +36987,6 @@
 9369|1|x-zht|Nezha Nao Hai
 9369|2|x-jat|Nezha no Ooabare
 15250|2|x-zht|Nezha Zhi Mo Tong Jiang Shi
-19254|1|zh|Nezha Zhi Mo Tong Nao Hai
 15250|2|en|Nezha: Birth of the Demon Child
 16309|4|es|Nezha: El renacer de un dios
 15250|1|x-zht|Nezha: Mo Tong Jiang Shi
@@ -39247,6 +39249,7 @@
 15756|2|x-jat|Osananajimi ga Zettai ni Makenai Love Comedy
 15756|1|x-jat|Osananajimi ga Zettai ni Makenai LoveCome
 5984|1|x-jat|Osananajimi to Doukyuusei
+19266|1|x-jat|Osananajimi to wa Lovecome ni Naranai
 6736|1|x-jat|Osaru no Kantai
 7821|1|x-jat|Osaru no Monkichi no Kin no Ono Gin no Ono
 6730|1|x-jat|Osaru no Sankichi: Boukuusen
@@ -39697,6 +39700,7 @@
 16314|2|en|Painting Rivers and Lakes 4
 17145|2|en|Painting Rivers and Lakes 5
 17292|2|en|Painting Rivers and Lakes 6
+19267|2|en|Painting Rivers and Lakes 7
 15861|2|en|Painting The Night God of Jiang Hu
 17160|2|en|Painting The Night God of Jiang Hu Next season
 15861|2|en|Painting the Rails of Rivers and Lakes at Night
@@ -53018,6 +53022,7 @@
 6350|2|en|The Summertime Mischief
 6735|2|en|The Sun and the Frogs
 9482|2|en|The Sunday Without God
+19234|2|en|The Super Cube
 996|2|en|The Super Dimension Fortress Macross Do You Remember Love
 544|4|en|The Super Milk-chan Show
 1035|1|x-jat|The Supergal
@@ -58110,6 +58115,7 @@
 2662|3|x-jat|yamato2
 2919|4|ja|YAMATO2520
 4697|4|pt|Yamazaki, O Rei da Turma
+18528|2|x-jat|Yami Healer
 5889|2|x-jat|Yami Ichiba: Bijo Dorei
 750|1|x-jat|Yami no Matsuei
 750|2|pl|Yami no matsuei: Ostatni synowie ciemności
@@ -84219,6 +84225,7 @@
 7377|4|zh-Hans|幕末的感谢
 9499|4|ja|幕末義人伝 浪漫
 10904|4|zh-Hans|干支魂
+18931|4|zh-Hans|干杂活我乃最强～关于原英雄队伍的杂役人员，实际上除了战斗能力外全是SSS的故事～
 10972|4|ja|干物妹! うまるちゃん
 11287|4|ja|干物妹! うまるちゃん うまるちゃん もう一回!
 13106|4|ja|干物妹! うまるちゃんR
@@ -84318,6 +84325,7 @@
 11905|4|zh-Hant|幼女戰記
 15748|4|ja|幼女社長
 17631|4|ja|幼女社長R
+19266|4|ja|幼馴染とはラブコメにならない
 312|2|ja|幽★遊★白書
 312|4|ja|幽☆遊☆白書
 1084|2|ja|幽☆遊☆白書 (映画)
@@ -88991,6 +88999,7 @@
 12504|4|zh-Hans|画江湖之不良人II
 14647|4|zh-Hans|画江湖之不良人III
 17292|4|zh-Hans|画江湖之不良人VI
+19267|4|zh-Hans|画江湖之不良人柒：九幽玄天
 15220|4|zh-Hans|画江湖之侠岚
 16330|4|zh-Hans|画江湖之换世门生
 16332|4|zh-Hans|画江湖之换世门生II
