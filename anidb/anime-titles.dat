@@ -1,4 +1,4 @@
-# created: Sat Apr  5 03:00:02 2025
+# created: Sun Apr  6 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -722,6 +722,7 @@
 12684|2|en|6HP (Six Hearts Princess) Pink or Black
 12473|4|ja|6つ子とおうまの物語
 12047|3|en|7 Deadly Sins 1.5
+19272|1|x-jat|7 Fates: Chakho
 14507|4|vi|7 mầm sống
 853|4|fr|7 of 7
 853|2|en|7 of Seven
@@ -746,6 +747,8 @@
 11646|3|en|7DS 2
 11138|3|en|7DS OVA
 12047|3|en|7DS1.5
+19272|4|ja|7FATES: CHAKHO
+19272|2|en|7Fates: Chakho
 12673|3|en|7O3X
 12673|2|en|7O3X Fastest Finger First
 12673|2|ko|7O3X-0.01초의 싸움
@@ -7908,6 +7911,7 @@
 14466|4|en|Cats
 14466|6|de|Cats
 14466|2|en|Cats and Peachtopia
+11677|2|en|Cats Don`t Come When You Call Them.
 1025|2|x-jat|Cats Eye
 12622|2|en|CATS PARADISE
 14699|2|en|Cats Tail`s Tales
@@ -14302,6 +14306,7 @@
 6048|2|es|El Mayordomo Negro
 1847|4|es|El mercenario del sexo
 1919|2|es|El Misterio de la Flor Mágica
+19011|4|es|El misterio se resuelve después de la cena
 632|4|es|El misterioso Loki
 7258|4|es-419|El mundo secreto de Arrietty
 13545|4|es-419|El niño y la garza
@@ -16379,7 +16384,7 @@
 15929|1|x-jat|From North Field
 15929|4|ja|from North Field
 12005|2|en|From now, I`m......
-18793|2|en|From Old Country Bumpkin to Master Swordsman
+18793|4|en|From Old Country Bumpkin to Master Swordsman
 1383|4|en|From the Apennines to the Andes
 4751|4|en|From the Apennines to the Andes: The Movie
 9002|4|en|From the New World
@@ -24291,7 +24296,7 @@
 8068|1|x-jat|Issho ni Training Ofuro: Bathtime with Hinako & Hiyoko
 6504|1|x-jat|Issho ni Training: Training with Hinako
 7226|2|x-jat|Isshoni H Shiyo!
-18528|1|x-jat|Isshun de Chiryou Shiteita no ni Yakudatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer to Shite Tanoshiku Ikiru
+18528|1|x-jat|Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer to Shite Tanoshiku Ikiru
 10273|1|x-jat|Isshuukan Friends.
 6924|1|x-jat|Issunboushi
 6950|1|x-jat|Issunboushi (1956)
@@ -28594,6 +28599,7 @@
 13809|1|x-jat|Kuroneko Monroe
 6048|1|x-jat|Kuroshitsuji
 18100|2|x-jat|Kuroshitsuji - Kishuku Gakkou-hen
+18739|2|x-jat|Kuroshitsuji - Midori no Majo-hen
 7369|2|x-jat|kuroshitsuji 2
 10402|2|x-jat|Kuroshitsuji Circus Hen
 7369|1|x-jat|Kuroshitsuji II
@@ -33038,6 +33044,7 @@
 7242|1|x-jat|Masuda Kousuke Gekijou Gag Manga Biyori +
 4558|1|x-jat|Masuda Kousuke Gekijou Gag Manga Biyori 2
 5774|1|x-jat|Masuda Kousuke Gekijou Gag Manga Biyori 3
+19273|1|x-jat|Masuda Kousuke Gekijou Gag Manga Biyori Go
 2827|2|en|Masuda Kousuke`s Theater: A Perfect Day for Gag-Manga
 16389|4|hu|Másvilági nagybátyám
 5320|2|pl|Maszyna Czasu 001
@@ -35934,6 +35941,7 @@
 18330|2|en|My Senior Brother is Too Steady Season 2
 18691|2|en|My Senior Brother is Too Steady Season 3
 18691|2|en|My Senior Brother is Too Steady: Fan Year
+19269|4|en|My Senior Brother is Too Strong
 15621|4|en|My Senpai Is Annoying
 2500|2|en|My Sex Tutor
 796|4|en|My Sexual Harassment
@@ -46806,9 +46814,11 @@
 18845|2|x-jat|Shibou Yuugi de Meshi wo Kuu.
 18492|1|x-jat|Shibuya Hachi
 18822|1|x-jat|Shibuya Hachi (2024)
+19274|1|x-jat|Shibuya Hachi (2025)
 18822|2|x-jat|Shibuya Hachi Part 2
 18492|4|ja|SHIBUYA♡HACHI
 18822|4|ja|SHIBUYA♡HACHI (2024)
+19274|4|ja|SHIBUYA♡HACHI (2025)
 16119|1|x-jat|Shichigahama de Mitsuketa
 853|1|x-jat|Shichinin no Nana
 13439|1|x-jat|Shichisei no Subaru
@@ -48062,6 +48072,7 @@
 13871|2|en|Slime Isekai
 18157|2|en|Slime Living Together
 15201|1|x-jat|Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita
+17110|2|x-jat|Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita S2
 17110|1|x-jat|Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita Sono Ni
 134|3|en|SLMHS
 5801|2|pl|Słodki domek Chi
@@ -50276,6 +50287,9 @@
 8709|4|en|Symphogear
 8709|4|de|Symphogear
 9465|3|x-jat|Symphogear 2
+10321|3|en|Symphogear 3
+11955|3|en|Symphogear 4
+11959|3|en|Symphogear 5
 11955|4|en|Symphogear AXZ
 9465|3|x-jat|Symphogear G
 9465|4|en|Symphogear G
@@ -51546,6 +51560,7 @@
 1607|2|en|The Adventures of Tweeny Witches
 4053|2|en|The Adventures of Young Santa Claus
 4035|4|en|The Affectuous Family
+19011|4|de|The After-Dinner Mysteries
 18443|2|en|The Age of Cosmos Exploration
 2300|2|en|The Alps Story: My Annette
 2876|4|en|The Amazing 3
@@ -52980,6 +52995,11 @@
 1952|1|x-jat|The Spirit of Wonder: China-san no Yuuutsu
 14370|4|en|The Sprites of Floria
 3575|4|en|The Star of Cottonland
+19271|1|x-jat|The Star Seekers
+19271|4|ja|THE STAR SEEKERS
+19271|2|en|The Star Seekers
+19271|2|ja|The Star Seekers 星を追う少年たち
+19271|2|x-jat|The Star Seekers: Hoshi o Ou Shounen-tachi
 6100|2|en|The Star`s Birth
 6982|4|en|The Stingiest Man in Town
 6922|2|en|The Stolen Lump
@@ -53666,6 +53686,8 @@
 12384|4|en|To Be Hero
 14380|2|en|To Be Hero LEAF
 17694|4|en|To Be Hero X
+17694|4|ja|TO BE HERO X
+17694|4|x-jat|To Be Hero X
 12939|4|ja|TO BE HEROINE
 12939|1|x-jat|To Be Heroine
 12939|4|en|To Be Heroine
@@ -58003,6 +58025,7 @@
 329|4|pl|Yaiba - legendarny samuraj
 329|4|pt|Yaiba - O Pequeno Samurai
 18612|4|en|Yaiba: Samurai Legend
+18612|4|de|YAIBA: Samurai Legend
 3993|1|x-jat|Yajikita Gakuen Douchuuki
 5540|1|x-jat|Yakata Jukujo
 10819|1|x-jat|Yakata: Kannou Kitan
@@ -68775,6 +68798,7 @@
 6767|3|ko|별별 이야기
 6767|4|ko|별별 이야기 -차별에 대한 유쾌한 풍자-
 9264|4|ko|별별이야기 2: 여섯 빛깔 무지개
+19271|2|ko|별을 쫓는 소년들
 8073|2|ko|별을 쫓는 아이
 8073|4|ko|별을 쫓는 아이:아가르타의 전설
 104|4|ko|별의 목소리
@@ -82439,6 +82463,7 @@
 7242|4|ja|増田こうすけ劇場 ギャグマンガ日和+
 4558|4|ja|増田こうすけ劇場 ギャグマンガ日和2
 5774|4|ja|増田こうすけ劇場 ギャグマンガ日和3
+19273|4|ja|増田こうすけ劇場 ギャグマンガ日和GO
 2827|4|zh-Hans|增田幸助剧场 搞笑漫画日和
 4558|4|zh-Hans|增田幸助剧场 搞笑漫画日和2
 3214|2|zh-Hans|增血鬼果林
