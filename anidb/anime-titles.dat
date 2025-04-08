@@ -1,4 +1,4 @@
-# created: Sun Apr  6 03:00:02 2025
+# created: Mon Apr  7 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -878,7 +878,7 @@
 5609|2|en|A Connectiv System
 11104|2|en|A Corpse Is Buried Under Sakurako`s Feet
 16188|4|en|A Couple of Cuckoos
-18773|2|en|A Couple of Cuckoos (2025)
+18773|2|en|A Couple of Cuckoos Season 2
 2630|4|hu|A csodálatos Triton
 8229|4|en|A Dark Rabbit Has Seven Lives
 12874|2|en|A Day After a Hundred Years
@@ -9814,7 +9814,7 @@
 4247|2|en|Cubix: Robots for Everyone
 16188|3|x-jat|cuckoo
 16188|1|x-jat|Cuckoo no Iinazuke
-18773|1|x-jat|Cuckoo no Iinazuke (2025)
+18773|1|x-jat|Cuckoo no Iinazuke Season 2
 16188|2|en|Cuckoo`s Fiancee
 112|4|sl|Čudežno potovanje
 2654|4|pl|Cudowna podróż
@@ -10908,6 +10908,7 @@
 8423|1|x-jat|Defend Love
 8423|4|ja|Defend Love
 8950|4|en|Defenders of Space
+18834|2|en|Defiled Advent
 16494|4|en|Deiji Meets Girl
 3496|3|x-jat|Deimos
 3496|1|x-jat|Deimos no Hanayome: Ran no Kumikyoku
@@ -15243,6 +15244,7 @@
 11247|4|en|Fairy Tail: Dragon Cry
 8769|2|x-jat|Fairy Tail: Evidence
 8783|2|x-jat|Fairy Tail: Towa no Kizuna
+19035|2|en|Fairy Tale Revengers
 2227|2|en|Fairy Tales for Children: Tezuka Osamu`s Thumbelina
 3593|2|en|Fairy Tales From Around the World
 14627|3|x-jat|fairygone
@@ -32412,6 +32414,7 @@
 1736|1|x-jat|Makasete Iruka!
 18460|1|x-jat|Make a Girl
 18317|1|x-jat|Make Heroine ga Oosugiru!
+19275|1|x-jat|Make Heroine ga Oosugiru! 2
 16378|1|x-jat|Make My Day
 16378|4|ja|Make My Day
 16378|4|en|Make My Day
@@ -32419,6 +32422,7 @@
 4725|2|en|Make Way for Mr. Kunimatsu
 18317|3|x-jat|makeine
 18317|4|en|Makeine: Too Many Losing Heroines!
+19275|2|en|Makeine: Too Many Losing Heroines! 2
 13141|4|ja|makemagic
 13141|1|x-jat|makemagic
 2217|1|x-jat|Maken Liner 0011 Henshin Seyo!
@@ -32441,6 +32445,7 @@
 12804|1|x-jat|Makeruna!! Aku no Gundan!
 8835|1|x-jat|Maki-chan to Nau.
 2299|1|x-jat|Makiba no Shoujo Katri
+18621|4|en|Makina-san`s a Love Bot?!
 13898|2|tr|Makine Sirki
 647|2|de|Making
 14599|2|en|Making A Cumback to Early Days!
@@ -46763,7 +46768,7 @@
 617|4|hu|Sherlock Holmes, a mesterkopó
 617|4|en|Sherlock Hound
 617|4|fi|Sherlock Koira
-16984|1|zh-Hans|Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming
+16984|1|x-zht|Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming
 18258|1|zh-Hans|Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming 2
 18471|1|x-zht|Shi Fang Jian Sheng
 18386|1|x-zht|Shi Fang Wu Sheng
@@ -47260,6 +47265,7 @@
 11818|1|x-jat|Shinsei Futanari Idol: Dekatama Kei! Shasei no Utage wa Chouzetsu Max
 13139|1|x-jat|Shinsei Kamattechan
 18834|1|x-jat|Shinsei Kourin Dacryon Luna
+18834|2|ja|Shinsei Kourin Dacryon Runa
 22|1|x-jat|Shinseiki Evangelion
 202|1|x-jat|Shinseiki Evangelion Gekijouban: Air / Magokoro o, Kimi ni
 326|1|x-jat|Shinseiki Evangelion Gekijouban: Shi to Shinsei
@@ -55409,6 +55415,7 @@
 17339|4|pt-BR|Uma Vizinha de Outro Mundo
 10937|4|pt|Uma Voz Silenciosa
 3682|1|x-jat|Umacha
+18829|4|en|Umamusume: Cinderella Gray
 13034|4|en|Umamusume: Pretty Derby
 18359|2|en|Umamusume: Pretty Derby - Beginning of a New Era
 15739|4|en|Umamusume: Pretty Derby Season 2
@@ -72509,7 +72516,7 @@
 6694|2|ja|カックンカフェ
 10697|4|ja|がっこうぐらし!
 16188|4|ja|カッコウの許嫁
-18773|4|ja|カッコウの許嫁 (2025)
+18773|4|ja|カッコウの許嫁 Season2
 7996|4|ja|カッコカワイイ宣言!
 8634|4|ja|カッコカワイイ宣言! 第二期
 7514|4|ja|カッタ君物語
@@ -78040,6 +78047,7 @@
 15343|4|ja|むぎゅっと! ブラッククローバー
 6889|4|ja|ムクの木の話
 13070|4|ja|むさしの!
+18639|2|ja|ムジークタイガー
 5212|4|ja|ムシウタ
 16903|4|ja|ムシノユメ
 9666|4|ja|ムシブギョー
@@ -91648,6 +91656,7 @@
 14570|4|zh-Hant|貓娘樂園
 679|4|zh-Hant|貓的報恩
 18317|4|ja|負けヒロインが多すぎる!
+19275|4|ja|負けヒロインが多すぎる! 2
 2719|4|ja|負けるな!魔剣道
 4492|4|ja|貧乏姉妹物語
 8888|4|ja|貧乏神が!
