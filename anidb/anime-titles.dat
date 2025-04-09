@@ -1,4 +1,4 @@
-# created: Mon Apr  7 03:00:01 2025
+# created: Tue Apr  8 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1682,6 +1682,7 @@
 16505|3|x-jat|Aharen-san
 16505|4|en|Aharen-san wa Hakarenai
 16505|1|x-jat|Aharen-san wa Hakarenai
+18798|2|x-jat|Aharen-san wa Hakarenai S2
 18798|1|x-jat|Aharen-san wa Hakarenai Season 2
 18798|4|en|Aharen-san wa Hakarenai Season 2
 12746|3|x-jat|ahcf
@@ -9286,6 +9287,7 @@
 11357|1|x-jat|Commercial War
 11357|4|ja|COMMERCIAL WAR
 17498|4|pt-BR|Como Raeliana Foi Parar na Mansão do Duque
+17754|2|x-jat|Compass 2.0 - Sentou Setsuri Kaiseki System
 9532|2|en|Compatible Mind, Compatible Love Note The Animation
 13730|2|en|Compensated Dating Highschool Bitch Gals: Daily Life of Raw Sex with An Old Man
 1589|1|x-jat|Compiler
@@ -30344,6 +30346,7 @@
 3071|4|en|Little Samurai
 18044|4|en|Little Shark`s Outings
 11856|2|en|Little Sister Marshmallow Succubus
+15031|2|en|Little Stories for Sleepless Nights
 6980|2|en|Little Tamageta, the Neighbor
 5062|1|x-jat|Little Twins
 5063|1|x-jat|Little Twins: Bokura no Natsu ga Tondeiku
@@ -34634,6 +34637,7 @@
 626|4|de|Mobile Suit Gundam F91
 15346|2|en|Mobile Suit Gundam G40
 19027|2|en|Mobile Suit Gundam GQuuuuuuX
+19027|4|de|Mobile Suit Gundam GQuuuuuuX
 19044|4|en|Mobile Suit Gundam GQuuuuuuX: Beginning
 729|4|en|Mobile Suit Gundam I
 729|4|cs|Mobile Suit Gundam I
@@ -54308,6 +54312,7 @@
 3059|1|x-jat|Touch: Miss Lonely Yesterday - Arekara, Kimi wa
 2556|1|x-jat|Touch: Sebangou no Nai Ace
 2556|4|en|Touch: The Ace Without a Number on His Back
+3061|2|en|Touch: Where the Wind Goes
 3059|3|x-jat|Touch4
 3061|3|x-jat|Touch5
 8022|1|x-jat|Toufu Kozou
@@ -59412,6 +59417,8 @@
 1676|4|en|Zatch Bell! 101st Devil
 2776|4|en|Zatch Bell! Attack of Mechavulcan
 18046|1|x-jat|Zatsu Tabi
+18046|2|x-jat|ZatsuTabi
+18046|2|en|ZatsuTabi -That`s Journey-
 11702|1|x-jat|Zawazawa
 11702|4|ja|ZAWAZAWA
 102|4|pl|Zdobywczyni kart Sakura
@@ -63345,6 +63352,7 @@
 12111|4|ru|Полулюди ТВ-2
 11265|2|ru|Полулюди Фильм
 515|2|uk|Полум`яний лабіринт
+17420|4|uk|Полум`яні вогнеборці 3
 6271|2|ru|Полусломанная музыкальная шкатулка
 11265|2|ru|Получеловек
 334|4|bg|Пом Поко
@@ -68824,6 +68832,7 @@
 2770|4|ko|봉봉차차
 15366|2|ko|부계에 잠든 왕녀의 아바돈
 13899|4|ko|부기팝은 웃지 않는다
+19036|2|ko|부도덕한 일상 THE ANIMATION
 8288|4|ko|부르잖아요, 아자젤 씨.
 12817|4|ko|부릉! 부릉! 브루미즈: 스피더의 모험 일기
 18033|2|ko|부부교환 ~돌아갈 수 없는 밤~
@@ -68937,6 +68946,9 @@
 4801|2|ko|사모님은 마법사
 2650|4|ko|사모님은 마법소녀
 5895|2|ko|사모님은 여고생
+10970|2|ko|사모님이 학생회장!
+11743|2|ko|사모님이 학생회장! 학생회장과 목욕놀이
+11901|2|ko|사모님이 학생회장!+!
 9532|2|ko|사모사랑노트
 86|4|ko|사무라이 디퍼 쿄우
 1543|4|ko|사무라이 참프루
@@ -79545,6 +79557,7 @@
 11992|4|zh-Hans|为美好的世界献上祝福！ 第二季
 11854|4|zh-Hans|为美好的世界献上祝福！为美好的项圈献上祝福！
 3686|4|zh-Hans|为食龙少爷
+18715|4|zh-Hans|主公与狗
 8093|4|ja|主治医の淫謀
 5581|4|ja|乃木坂春香の秘密
 6721|4|ja|乃木坂春香の秘密 ぴゅあれっつぁ♪
@@ -83508,6 +83521,7 @@
 18432|4|zh-Hant|孤單一人的異世界攻略
 13041|4|ja|孤独のグルメ
 16063|4|zh-Hans|孤独摇滚！
+18039|4|zh-Hans|孤独摇滚! 剧场总集篇
 13041|4|zh-Hans|孤独的美食家
 17435|4|zh-Hans|孤独的莉里
 16063|2|zh-Hant|孤獨搖滾
