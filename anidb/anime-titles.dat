@@ -1,4 +1,4 @@
-# created: Tue Apr  8 03:00:01 2025
+# created: Wed Apr  9 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1006,6 +1006,7 @@
 18003|4|ja|A Log Day of Timbre
 18003|1|x-jat|A Log Day of Timbre
 6357|2|en|A Lot of Pine Wood
+19279|2|en|A Love Too Captivating
 9387|4|en|A Lull in the Sea
 18593|4|hu|A magányos farkas útja
 18422|2|en|A Mangaka`s Weirdly Wonderful Workplace
@@ -11544,6 +11545,7 @@
 4776|4|it|Devil May Cry
 4776|4|de|Devil May Cry
 4776|2|pt-BR|Devil May Cry
+19278|1|ko|Devil May Cry (2025)
 9554|1|x-jat|Devil Survivor 2 The Animation
 9554|4|ja|DEVIL SURVIVOR 2 the ANIMATION
 9554|4|de|Devil Survivor 2 The Animation
@@ -15404,9 +15406,12 @@
 12673|4|en|Fastest Finger First
 11625|2|en|Fat-Ass
 3291|2|ro|Fata Iadului
+2121|4|pt|Fatal Fury - A Vingança
 220|4|it|Fatal Fury - La leggenda del lupo famelico
 2121|4|it|Fatal Fury - La sfida di Wolfgang Krauser
 873|4|fr|Fatal Fury - Le film
+873|4|pt|Fatal Fury - O Filme
+220|4|pt|Fatal Fury - O Torneio
 873|4|it|Fatal Fury - The Motion Picture
 220|4|fr|Fatal Fury 1
 2121|4|fr|Fatal Fury 2
@@ -16949,6 +16954,7 @@
 2827|3|x-jat|gag manga
 4558|2|x-jat|Gag Manga Biyori 2
 5774|2|x-jat|Gag Manga Biyori 3
+19273|4|es-419|Gag Manga Biyori GO
 8605|1|x-jat|Gag Manga Biyori Jump Festa 2002 Ban
 8605|2|ja|Gag Manga Biyori Jump Festa 2002 Special
 7242|2|x-jat|Gag Manga Biyori Plus
@@ -28641,6 +28647,7 @@
 15730|1|x-jat|Kusoge-tte Iuna!
 11979|4|de|Küss ihn, nicht mich!
 2573|1|x-jat|Kussetsu
+19276|1|x-jat|Kusunoki no Bannin
 17870|1|x-jat|Kusuriya no Hitorigoto
 18562|1|x-jat|Kusuriya no Hitorigoto (2025)
 18562|2|x-jat|Kusuriya no Hitorigoto 2nd Season
@@ -34380,7 +34387,6 @@
 6306|2|x-jat|Mitama Shinobi
 6306|2|x-jat|Mitama: Nin
 18286|1|x-jat|Mitasarete Mezameru Asa ni, Jimi na Choushoku o The Animation
-19199|1|x-jat|Mitasarete Mezameru Asa ni, Jimi na Choushoku wo The Animation
 13412|4|en|Mitchiri Neko
 13412|2|x-jat|Mitchiri Neko
 1469|3|x-jat|mito
@@ -41534,6 +41540,7 @@
 7853|2|en|Pompompurin in The North Wind and the Sun
 7852|2|en|Pompompurin in The Tortoise and the Hare
 18043|1|x-jat|Pon no Michi
+19277|1|x-jat|Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi
 12963|1|x-jat|Ponkotsu Quest: Maou to Haken no Mamono-tachi
 12964|1|x-jat|Ponkotsu Quest: Maou to Haken no Mamono-tachi (2016)
 12965|1|x-jat|Ponkotsu Quest: Maou to Haken no Mamono-tachi (2017)
@@ -47368,6 +47375,7 @@
 10647|4|ja|Shitcom
 5640|1|x-jat|Shitsurakuen
 18496|1|x-jat|Shiunji-ke no Kodomo-tachi
+18496|2|x-jat|Shiunji-ke no Kodomotachi
 17856|1|x-zht|Shixiong A Shixiong
 18330|1|x-zht|Shixiong A Shixiong 2
 18691|1|x-zht|Shixiong A Shixiong 3
@@ -50710,6 +50718,7 @@
 1634|4|ja|TAMALA2010 a punk cat in space
 9525|3|x-jat|Tamama
 10326|3|x-jat|Tamama movie
+19279|1|x-jat|Tamaranai no wa Koi na no ka
 12742|1|x-jat|Tamashii: Insert
 14960|1|x-jat|Tamayomi
 14960|4|en|Tamayomi: The Baseball Girls
@@ -51615,6 +51624,7 @@
 785|2|en|The Arabian Nights: Adventures of Sinbad
 17552|4|en|The Aristocrat`s Otherworldly Adventure: Serving Gods Who Go Too Far
 11588|4|en|The Art of 10^64 -Understanding Vastness-
+1068|4|pt|The Art of Fighting - Encontro de Mestres
 11177|4|en|The Asterisk War
 11177|4|de|The Asterisk War
 11673|2|it|The Asterisk War Part 2
@@ -51710,6 +51720,7 @@
 17612|4|en|The Cafe Terrace and Its Goddesses
 18080|4|en|The Cafe Terrace and Its Goddesses (2024)
 3619|2|en|The Camellia Girl
+19276|2|en|The Camphorwood Custodian
 253|4|de|The Candidate for Goddess
 263|4|de|The Candidate for Goddess (OVA) - Kameraden
 12859|4|en|The Candy Man`s Raccoon Dog Dance
@@ -73060,6 +73071,7 @@
 1229|4|ja|クジラの跳躍
 6572|4|ja|グスコーブドリの伝記
 8922|4|ja|グスコーブドリの伝記 (2012)
+19276|4|ja|クスノキの番人
 11998|4|ja|クズの本懐
 15644|4|ja|クズ悪役の自己救済システム
 15730|4|ja|クソゲーって言うな!
@@ -74855,6 +74867,7 @@
 8234|4|ja|たまゆら~hitotose~
 10767|4|ja|たまゆら~卒業写真~
 14960|5|ja|たまよみ
+19279|4|ja|たまらないのは恋なのか
 5493|4|ja|ダメおやじ
 2824|4|ja|だめっこどうぶつ
 13300|4|ja|ダメプリ ANIME CARAVAN
@@ -77607,6 +77620,7 @@
 12964|4|ja|ポンコツクエスト~魔王と派遣の魔物たち~ (2016)
 12965|4|ja|ポンコツクエスト~魔王と派遣の魔物たち~ (2017)
 11608|4|ja|ポンコツランド・サガ
+19277|4|ja|ポンコツ風紀委員とスカート丈が不適切なJKの話
 10035|4|ja|ポンタと遠足
 15850|2|ja|ポンチャオブース
 1014|4|ja|ボンデージ・ゲーム -深窓の隷嬢達-
@@ -88133,7 +88147,6 @@
 10284|4|ja|湯神くんには友達がいない
 5088|4|ja|湾岸ミッドナイト
 18286|4|ja|満たされて目覚める朝に, 地味な朝食を The Animation
-19199|4|ja|満たされて目覚める朝に、地味な朝食を The Animation
 4248|4|ja|満ちてくる 時のむこうに
 21|4|ja|満月をさがして
 13478|4|ja|満月をさがして かわいい かわいい 大冒険
@@ -93830,6 +93843,7 @@
 8274|4|ja|魔法先生ネギま! ANIME FINAL 劇場版
 4510|2|ja|魔法先生ネギま! OVA春
 4812|2|ja|魔法先生ネギま! 夏版
+18292|4|zh-Hans|魔法光源股份有限公司
 7|4|zh-Hans|魔法公主
 4011|4|zh-Hans|魔法公主 明琪桃子 第二季
 4012|4|zh-Hans|魔法公主明琪桃子 梦中的轮舞
