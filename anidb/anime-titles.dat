@@ -1,4 +1,4 @@
-# created: Wed Apr  9 03:00:02 2025
+# created: Thu Apr 10 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -15309,6 +15309,7 @@
 2352|2|en|Fang of the Sun Dagram
 2352|2|en|Fang of the Sun Dougram
 15583|2|x-zht|Fangkai Nage Nuwu
+19281|1|x-zht|Fangyu Quan Kai
 18594|1|x-zht|Fanpai Chushihua
 15425|2|x-zht|Fanren Xiu Xian Chuan
 19121|2|x-zht|Fanren Xiu Xian Chuan 4th Season
@@ -35775,6 +35776,7 @@
 18545|4|fr|My Happy Marriage : La forme de mon bonheur
 18545|2|en|My Happy Marriage (2024)
 18205|4|en|My Happy Marriage (2025)
+19280|2|en|My Happy Marriage (New Anime)
 18545|4|en|My Happy Marriage: The Shape of My Happiness
 17989|4|en|My Hashtag Does Not Shine
 10959|2|en|My Heart Wants to Shout
@@ -38648,6 +38650,7 @@
 8940|4|en|One Piece Film: Z
 11529|4|pt|One Piece Gold
 11529|4|es|One Piece Gold
+19265|2|en|One Piece in Love
 18968|1|en|One Piece Log: Fish-Man Island Saga
 411|3|en|One Piece Movie
 411|2|en|One Piece Movie 1
@@ -46743,7 +46746,7 @@
 17039|1|x-zht|Shen Yi Jiu Xiaojie
 18582|1|x-zht|Shen Yi Jiu Xiaojie 2
 18582|2|x-zht|Shen Yi Jiu Xiaojie Season 2
-17350|1|x-zht|Shen Yin Wangzuo (2022)
+17350|1|x-zht|Shen Yin Wangzuo
 18458|1|x-zht|Shen Yin Wangzuo 2
 18458|2|x-zht|Shen Yin Wangzuo 2nd Season
 18458|2|x-zht|Shen Yin Wangzuo Di Er Ji
@@ -56874,6 +56877,7 @@
 17766|1|x-jat|Watashi no Oshi wa Akuyaku Reijou.
 17304|1|x-jat|Watashi no Shiawase na Kekkon
 18205|1|x-jat|Watashi no Shiawase na Kekkon (2025)
+19280|1|x-jat|Watashi no Shiawase na Kekkon (Shinsaku Anime)
 18545|1|x-jat|Watashi no Shiawase na Kekkon: Watashi no Shiawase no Katachi
 7125|1|x-jat|Watashi no Shiranai Mesu no Kao
 7125|2|x-jat|Watashi no Shiranai Tsuma no Kao
@@ -58182,6 +58186,7 @@
 2919|4|ja|YAMATO2520
 4697|4|pt|Yamazaki, O Rei da Turma
 18528|2|x-jat|Yami Healer
+18528|2|x-unk|Yami Healer
 5889|2|x-jat|Yami Ichiba: Bijo Dorei
 750|1|x-jat|Yami no Matsuei
 750|2|pl|Yami no matsuei: Ostatni synowie ciemności
@@ -68741,6 +68746,7 @@
 12569|4|ko|바키 (2018)
 4681|4|ko|바텐더
 12542|2|ko|바티칸 기적 조사관
+19105|2|ko|박꽃
 13708|4|ko|반도에 살어리랏다
 177|2|ko|반드레드
 463|4|ko|반드레드 격동편
@@ -69749,6 +69755,7 @@
 14040|4|ko|와라! 편의점
 14468|2|ko|완벽한 아가씨
 14468|2|ko|완벽한 아가씨인 내가 무릎꿇은채로 마조타락 쉽게 할 일은 없어요!
+19037|2|ko|완전 타락 × NTR 가족 The Animation
 2680|2|ko|완전무수정：각각의 방과후
 2291|4|ko|왈가닥 작은 아씨
 13335|4|ko|왕 게임: The Animation
@@ -69784,6 +69791,7 @@
 985|2|ko|용기사 4
 18230|2|ko|용사 공주 밀리아
 16917|4|ko|용사, 그만둡니다
+19014|2|ko|용사의 모험은 끝났다
 13281|4|ko|용왕이 하는 일!
 957|4|ko|용자왕 가오가이거
 2373|2|ko|우대접대
@@ -70633,6 +70641,7 @@
 13682|4|ko|파닥파닥
 5665|4|ko|파렴치 홍문 만유기
 604|4|ko|파름의 나무
+19081|2|ko|파멸의 유혹
 1844|2|ko|파미레스 전사 푸링
 13839|4|ko|파스텔 메모리즈
 14525|4|ko|파워배틀 와치카
@@ -79008,6 +79017,7 @@
 9140|4|ja|わたしのコーヒー・サムライ ~自販機的な彼氏~
 17304|4|ja|わたしの幸せな結婚
 18205|4|ja|わたしの幸せな結婚 (2025)
+19280|4|ja|わたしの幸せな結婚 (新作アニメ)
 18545|4|ja|わたしの幸せな結婚 わたしの幸せのかたち
 12633|4|ja|わたしの紙風船
 12599|4|ja|わたしは「とうふ」です
@@ -89670,7 +89680,7 @@
 422|4|zh-Hant|神劍闖江湖 維新志士的鎮魂曲
 17039|4|zh-Hans|神医九小姐
 18582|4|zh-Hans|神医九小姐 第二季
-17350|4|zh-Hans|神印王座 (2022)
+17350|4|zh-Hans|神印王座
 18458|4|zh-Hans|神印王座 第二季
 148|2|ja|神周鳥侠侶 ~コンドル・ヒーロー~
 11266|4|zh-Hans|神圣之门
@@ -92912,6 +92922,7 @@
 17784|4|zh-Hans|间谍过家家 第二季
 17026|4|zh-Hans|阁楼的拉杰
 13655|4|zh-Hans|队长小翼
+19281|4|zh-Hans|防御全开
 14523|3|ja|防振り
 17963|4|zh-Hant|防風少年
 18718|4|zh-Hant|防風少年 第二季
