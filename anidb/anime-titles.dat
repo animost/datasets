@@ -1,4 +1,4 @@
-# created: Thu Apr 10 03:00:02 2025
+# created: Fri Apr 11 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -723,6 +723,7 @@
 12473|4|ja|6つ子とおうまの物語
 12047|3|en|7 Deadly Sins 1.5
 19272|1|x-jat|7 Fates: Chakho
+14071|4|fr|7 jours
 14507|4|vi|7 mầm sống
 853|4|fr|7 of 7
 853|2|en|7 of Seven
@@ -10568,6 +10569,7 @@
 8808|4|en|Date a Live
 8808|4|de|Date a Live
 13533|2|en|Date a Live (2019)
+19284|1|x-jat|Date a Live (Shin Project)
 9935|2|x-jat|Date a Live 2
 9935|1|x-jat|Date a Live II
 9935|4|en|Date a Live II
@@ -10911,6 +10913,7 @@
 8423|1|x-jat|Defend Love
 8423|4|ja|Defend Love
 8950|4|en|Defenders of Space
+19281|2|en|Defense Fully Open
 18834|2|en|Defiled Advent
 16494|4|en|Deiji Meets Girl
 3496|3|x-jat|Deimos
@@ -21509,6 +21512,8 @@
 6361|2|en|Hey, Addachi!
 7015|2|en|Hey, Class President!
 13632|2|en|Hey, Let`s Do It
+14306|4|en|Hey, Your Cat Ears Are Showing!
+14733|4|en|Hey, Your Cat Ears Are Showing! (2019)
 2705|1|x-jat|Hey! Bumboo
 2705|4|pt|Hey! Bumboo
 7015|2|en|Hey! Class President
@@ -38323,6 +38328,7 @@
 3638|1|x-jat|Oi! Ryouma
 18019|2|ja|Oi! Tonbo
 18721|2|x-jat|Oi! Tonbo 2nd Season
+19282|1|x-jat|Oide yo Mahou Shoujo Mura (Fuhou Senkyo)
 13170|1|x-jat|Oide yo! Mizuryuu Kei Land
 12305|1|x-jat|Oide yo! Shiritsu Yarima*ri Gakuen
 12305|2|x-jat|Oide yo! Shiritsu Yarimakuri Gakuen
@@ -47620,6 +47626,7 @@
 12201|4|fr|Shûmatsu no Izetta
 18222|1|x-jat|Shunka Shuutou
 18222|2|x-jat|Shunkashuutou
+19283|1|x-jat|Shunkashuutou Daikousha: Haru no Mai
 6562|2|x-jat|Shunmao Monogatari TaoTao
 6192|3|x-jat|shunmuki
 9174|1|x-jat|Shura ga Yuku
@@ -72075,6 +72082,7 @@
 15050|4|ja|オイさんと40の物語
 13170|4|ja|おいでよ! 水龍敬ランド
 12305|4|ja|おいでよ! 私立ヤリまxり学園
+19282|4|ja|おいでよ魔法少女村（不法占拠）
 2685|5|ja|おいらスケバン
 6715|2|ja|おいらの野球
 12867|4|ja|おいらの非常時
@@ -75124,6 +75132,7 @@
 16494|4|ja|でーじミーツガール
 15100|4|ja|デート・ア・バレット
 8808|4|ja|デート・ア・ライブ
+19284|4|ja|デート・ア・ライブ (新プロジェクト)
 9734|4|ja|デート・ア・ライブ DATE TO DATE
 9935|4|ja|デート・ア・ライブ II
 9734|2|ja|デート・ア・ライブ OAD
@@ -86649,6 +86658,7 @@
 9029|4|ja|春は来る
 2600|4|ja|春を抱いていた
 13589|4|zh-Hans|春原庄的管理人
+19283|4|ja|春夏秋冬代行者 春の舞
 9029|4|zh-Hans|春天来了
 15884|4|ja|春子の冒険
 12647|4|zh-Hans|春宵苦短,少女前进吧!
