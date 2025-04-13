@@ -1,4 +1,4 @@
-# created: Fri Apr 11 03:00:01 2025
+# created: Sun Apr 13 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -285,6 +285,7 @@
 2854|4|en|10 Tokyo Warriors
 2867|4|en|10 Tokyo Warriors (2001)
 2854|2|en|10 Warriors of Tokyo
+19285|1|x-jat|10-piki no Kaeru
 10174|1|x-jat|100 Banme no Saru
 8766|1|x-jat|100 Byou Cinema: Robo to Shoujo (Kari)
 17906|2|en|100 Girlfriends
@@ -342,6 +343,7 @@
 8766|4|ja|100秒シネマ ロボと少女(仮)
 15576|2|x-zht|1031 Wan Sheng Jie
 13038|3|x-jat|10cm
+19285|4|ja|10ぴきのかえる
 17591|2|ja|10周年記念アニメーション「ETERNITY MEMORIES」
 6751|2|lt|11 akių
 6985|4|it|11 campioni
@@ -5400,6 +5402,7 @@
 7991|4|cs|Berserk: Zlatý věk
 98|2|lt|Berserkas
 181|3|x-jat|berubara
+18793|4|fr|Beryl: de paysan à maître d`armes
 730|2|tr|Beş Yıldız Öyküleri
 11979|4|es|Bésalo a él, no a mí
 1836|4|es|Bésame Licia
@@ -5818,6 +5821,7 @@
 6048|4|en|Black Butler
 6048|4|fr|Black Butler
 6048|4|de|Black Butler
+18739|4|de|Black Butler -Emerald Witch Arc-
 18100|4|de|Black Butler -Public School Arc-
 7369|4|fr|Black Butler II
 7369|4|de|Black Butler II
@@ -6197,6 +6201,8 @@
 8752|4|ja|Bloody Date
 8752|1|x-jat|Bloody Date
 17144|4|ja|BLOODY ESCAPE -地獄の逃走劇-
+17144|4|de|Bloody Escape: Bats out of Hell
+17144|4|en|Bloody Escape: Bats out of Hell
 17144|2|en|Bloody Escape: Flight from Hell
 17144|1|x-jat|Bloody Escape: Jigoku no Tousou Geki
 8756|1|x-jat|Bloody Night
@@ -9383,6 +9389,17 @@
 16532|2|en|Continuation: The Princess and The Female Knight’s Double Vulgar Exposure: Humiliating Exhibit Slaves
 2216|4|pt|Continuavam a Chamar-lhe o Gato das Botas
 2216|4|it|Continuavano a chiamarlo il gatto con gli stivali
+8132|4|pt|Conto de Fadas (2011)
+9980|4|pt|Conto de Fadas (2014)
+13295|4|pt|Conto de Fadas (2018)
+9980|2|pt|Conto de Fadas 2
+13295|2|pt|Conto de Fadas 3
+8132|2|pt|Conto de Fadas AOV
+8788|2|pt|Conto de Fadas Filme 1: A Sacerdotisa da Fénix
+9980|2|pt|Conto de Fadas Zero
+16637|4|pt|Conto de Fadas: 100 Anos de Missão
+8788|4|pt|Conto de Fadas: A Sacerdotisa da Fénix
+11247|4|pt|Conto de Fadas: O Choro do Dragão
 17826|2|pt-BR|Contos de alianças de casamento
 17826|2|pt|Contos de Alianças de Casamento
 18949|2|pt|Contos de Qin Mu
@@ -10101,6 +10118,7 @@
 14815|4|ru|D4DJ: Первый микс
 672|3|x-jat|D4P
 17273|3|x-jat|d8
+18793|4|it|Da campagnolo stagionato a gran maestro di spada
 837|2|x-jat|Da Capo
 9307|2|x-jat|Da Capo 3
 7986|2|en|Da Capo D.C. I&II P.S.P.
@@ -10743,6 +10761,9 @@
 2737|2|nl|De avonturen van Boes en zijn vrienden
 426|2|nl|De Avonturen Van Heidi
 3159|2|nl|De bende van vijf
+18793|4|pt-BR|De Caipira a Mestre Espadachim
+18793|4|pt|De Caipira a Mestre Espadachim
+18793|4|es|De camp esino cuarentón a espadachín legendario
 2302|4|nl|De Familie Robinson
 1006|4|sv|De gåtfulla guldstäderna
 10936|4|nl|De Grens van Rinne
@@ -16474,6 +16495,7 @@
 16060|1|x-jat|Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita
 13365|1|x-jat|Fue
 3513|2|es|Fuerza G: Guardianes del Espacio
+17144|4|pt|Fuga Sangrenta: Morcegos Fora do Inferno
 8683|2|x-jat|Fuge no Gihou
 10976|2|en|Fugitive: Mouri Kogorou
 15364|1|x-jat|Fugou Keiji - Balance:Unlimited
@@ -18125,7 +18147,6 @@
 61|4|sv|Ghost in the Shell : the movie
 6122|4|ja|GHOST IN THE SHELL (2008)
 6122|1|x-jat|Ghost in the Shell (2008)
-18652|2|en|Ghost in the Shell (2026)
 890|2|en|Ghost in the shell 2
 890|4|de|Ghost in the Shell 2 - Innocence
 890|4|fr|Ghost in the Shell 2 - Innocence
@@ -31404,6 +31425,7 @@
 17097|4|zh-Hant|Lycoris Recoil 莉可麗絲
 17864|4|zh-Hant|Lycoris Recoil 莉可麗絲：友誼是時間的竊賊
 17864|1|x-jat|Lycoris Recoil: Friends Are Thieves of Time.
+17864|4|en|Lycoris Recoil: Friends Are Thieves of Time.
 1919|2|fr|Lydie et la clef magique
 11085|2|fr|Lyrisme tentaculaire
 9853|2|x-jat|M Okui Last Order
@@ -32622,7 +32644,7 @@
 12870|1|x-jat|Manga Kamishibai Itazura Tanuki no Maki
 12883|1|x-jat|Manga Kamishibai Kintarou no Maki
 6334|1|x-jat|Manga Kodomo Bunko
-4961|1|x-jat|Manga Kotowaja Jiten
+4961|1|x-jat|Manga Kotowaza Jiten
 242|4|pl|Manga Love Story
 242|4|de|Manga Love Story - Step Up Love Story
 12865|1|x-jat|Manga Misemono Kenbutsu
@@ -36460,11 +36482,15 @@
 4880|4|hu|Naruto Shippuden
 4880|2|x-jat|Naruto Shippūden
 5914|4|de|Naruto Shippuden - The Movie 2: Bonds
+5914|4|fr|Naruto Shippuden : Les Liens
+5178|4|fr|Naruto Shippuden Film 1 : Un funeste présage
+6503|4|fr|Naruto Shippuden Film 3 : La Flamme de la Volonté
 5178|4|en|Naruto Shippuden The Movie
 5178|4|de|Naruto Shippuden the Movie
 7483|4|de|Naruto Shippuden The Movie 4: The Lost Tower
 8312|4|en|Naruto Shippuden the Movie: Blood Prison
 5914|4|en|Naruto Shippuden the Movie: Bonds
+7483|4|en|Naruto Shippuden the Movie: The Lost Tower
 6503|4|en|Naruto Shippuden the Movie: The Will of Fire
 7483|4|es|Naruto Shippuden: La Torre Perdida
 6503|2|en|Naruto Shippuden: The Successor of the Fire`s Will
@@ -42341,6 +42367,7 @@
 11403|2|x-jat|Psycho-Pass: All Alone With You
 10066|4|de|Psycho-Pass: Der Film
 9127|2|en|Psycho-Pass: Extended Edition
+10066|4|fr|Psycho-Pass: Le Film
 17573|4|en|PSYCHO-PASS: Providence
 17573|4|es-419|PSYCHO-PASS: Providencia
 13894|1|x-jat|Psycho-Pass: Sinners of the System
@@ -47879,6 +47906,7 @@
 1784|2|en|Six God Combination God Mars: Seventeen Year Old Legend
 12682|2|x-jat|Six Heart Princess
 9552|4|en|Sizzling Siblings
+18793|4|tr|Sıradan Bir Köylü Hünerli Bir Kılıç Ustası Oluyor
 4072|2|x-jat|SJ
 4841|3|x-jat|SJG
 92|3|x-jat|SK
@@ -49404,6 +49432,8 @@
 38|4|en|Steel Angel Kurumi Zero
 1182|2|en|Steel Angel Kurumi: Encore
 38|2|en|Steel Angel Kurumi: Zero
+19287|1|x-jat|Steel Ball Run: JoJo no Kimyou na Bouken
+19287|2|en|Steel Ball Run: JoJo’s Bizarre Adventure
 1715|2|en|Steel Devil
 5022|2|en|Steel God Jeeg
 1911|2|en|Steel Jeeg
@@ -50218,6 +50248,7 @@
 10376|4|fr|Sword Art Online 2: Phantom Bullet
 13493|4|en|Sword Art Online Alicization
 13493|4|de|Sword Art Online Alicization
+13494|2|en|Sword Art Online Alternative - Gun Gale Online
 18116|2|en|Sword Art Online Alternative - Gun Gale Online S2
 18116|2|en|Sword Art Online Alternative - Gun Gale Online Season 2
 13494|1|x-jat|Sword Art Online Alternative: Gun Gale Online
@@ -51233,6 +51264,8 @@
 10457|1|x-jat|Tenkai Knight
 10457|4|pt|Tenkai Knights
 10457|4|en|Tenkai Knights
+19286|1|x-jat|Tenkaichi: Nihon Saikyou Bugeisha Ketteisen
+19286|2|en|Tenkaichi: The Greatest Warrior Under the Rising Sun
 15648|4|x-jat|Tenkan Shifuku
 16785|3|x-jat|tenken
 14534|1|x-jat|Tenki no Ko
@@ -52096,6 +52129,7 @@
 3471|4|en|The Gentle Lion
 16432|2|en|The Gerent Saga
 4217|2|en|The Ghost Holly
+18652|2|en|The Ghost in the Shell
 3558|4|en|The Gigolo - Dochinpira
 7258|2|x-unk|Thế giới bí mật của Arrietty
 15066|2|ja|The Girl and the Monster
@@ -56495,6 +56529,7 @@
 2041|2|en|Voltron (2)
 2041|4|de|Voltron (2)
 3507|2|en|Voltron: Defender of the Universe
+18793|4|de|Vom Landei zum Schwertheiligen
 494|4|en|Voogie`s Angel
 494|2|x-jat|Voogie`s Angels
 2185|4|et|Võõra mõõk
@@ -57172,6 +57207,7 @@
 849|4|de|Wiedersehen bei Pia Carrot
 5001|4|pl|Wiejski lekarz Franza Kafki
 8307|2|en|Wielder of the Red Knife
+18793|4|pl|Wieśniak mistrzem miecza
 2383|4|pl|Wiewiórcze opowieści
 4924|2|en|Wife and Mama and Big Breasts
 5891|2|en|Wife Bondage
@@ -66020,7 +66056,6 @@
 627|2|ar|حافي القدمين جن
 2011|2|ar|حافي القدمين جن 2
 16377|4|ar|حالة استثنائية
-458|4|ar|حالمو في يوم ما
 14707|4|ar|حب الكويكبات
 4932|2|ar|حدود الفراغ : حديقة الآثمين
 4797|2|ar|حديقة الشتاء
@@ -74348,6 +74383,7 @@
 16148|4|ja|ずっと真夜中でいいのに。『脳裏上のクラッカー』
 16152|4|ja|ずっと真夜中でいいのに。『蹴っ飛ばした毛布』
 16331|2|ja|ステーションアイドルラッチ!
+19287|4|ja|スティール・ボール・ラン ジョジョの奇妙な冒険
 6055|4|ja|スティッチ!
 7079|4|ja|スティッチ! いたずらエイリアンの大冒険
 7570|4|ja|スティッチ! ずっと最高のトモダチ
@@ -75365,6 +75401,7 @@
 14505|4|ja|テレビ野郎 ナナーナ
 14821|4|ja|テレビ野郎 ナナーナ わくわく洞窟ランド
 15427|4|ja|テレビ野郎 ナナーナ 怪物クラーケンを追え!
+19286|4|ja|テンカイチ 日本最強武芸者決定戦
 10457|4|ja|テンカイナイト
 10619|4|ja|デンキ街の本屋さん
 15811|5|ja|てんくうしんぱん
@@ -89198,6 +89235,7 @@
 17565|4|ja|男女の友情は成立する? (いや, しないっ!!)
 17565|4|zh-Hant|男女之間存在純友情嗎？（不，不存在！！）
 17565|4|zh-Hans|男女之间存在纯友情吗？（不，不存在！！）
+17565|2|zh-Hans|男女之间的友情存在吗？（不，不存在!!）
 199|4|zh-Hant|男女蹺蹺板
 12019|4|zh-Hans|男子啦啦队!!
 8729|4|zh-Hans|男子高中生的日常
