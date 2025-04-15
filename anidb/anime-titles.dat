@@ -1,4 +1,4 @@
-# created: Sun Apr 13 03:00:02 2025
+# created: Mon Apr 14 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -55615,6 +55615,7 @@
 14747|2|fr|Une vampire dans le jardin
 3047|4|fr|Une vie nouvelle
 131|2|en|Unearthly Ceres
+19154|2|en|Unemployment Devil
 18137|2|en|Unexpected Love
 19166|4|en|Unexpectedly Naughty Fukami
 17794|2|en|Unfaithful with ... THE ANIMATION
@@ -58515,8 +58516,11 @@
 9930|4|el|Yo-Kai Watch
 9930|4|de|Yo-kai Watch
 9930|4|da|Yo-Kai Watch
+9930|4|pl|Yo-kai Watch
 12577|2|x-unk|Yo-Kai Watch 4
 14754|2|en|Yo-kai Watch the Movie 6
+10680|2|pl|Yo-kai Watch: Film
+10680|4|pl|Yo-kai Watch: The Movie
 4531|2|x-jat|Yoake Mae yori Ruri-iro na
 4531|1|x-jat|Yoake Mae yori Ruriiro na: Crescent Love
 12738|1|x-jat|Yoake Tsugeru Lu no Uta
@@ -58588,6 +58592,7 @@
 16533|1|x-jat|Yojouhan Time Machine Blues
 1447|2|x-jat|Yokai Ningen Bem
 9930|2|x-unk|Yokai Watch
+9930|2|pl|Yōkai Watch
 611|4|it|Yoko: Cacciatrice di demoni
 8627|1|x-jat|Yokohama Bakkure Tai
 424|1|x-jat|Yokohama Kaidashi Kikou
