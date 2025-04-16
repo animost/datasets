@@ -1,4 +1,4 @@
-# created: Mon Apr 14 03:00:01 2025
+# created: Tue Apr 15 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1177,6 +1177,7 @@
 18384|2|en|A Will Eternal 3
 200|4|en|A Wind Named Amnesia
 8208|2|en|A Wind Skimming the River`s Surface
+19290|2|en|A Witch`s Life in Mongol
 13192|2|en|A Wolf in Women`s Clothing
 12850|4|en|A Wolf Is a Wolf
 17581|2|en|A World Worth Protecting
@@ -24484,6 +24485,7 @@
 1332|3|x-jat|J2
 14743|1|x-jat|JA Kumamoto Keizairen
 17507|2|pt|Já não é Permitido em Outro Mundo
+19290|2|en|Jaadugar: A Witch in Mongolia
 332|4|et|Jaanimardikate haud
 4293|4|en|Jack and the Beanstalk
 7614|2|en|Jack and the Beanstalk (1989)
@@ -44699,6 +44701,8 @@
 12596|1|x-jat|Sagurare Otome The Animation
 12923|1|x-jat|Sai (Zenpen): Mawaru, Meguru, Sono Kaku e
 19102|1|x-jat|Sai-Kyo-Oh! Zukan: The Ultimate Battles
+19289|1|x-jat|Sai-Kyo-Oh! Zukan: The Ultimate Battles - Tamashi no Sakebi!
+19288|1|x-jat|Sai-Kyo-Oh! Zukan: The Ultimate Tournament
 12923|2|en|SAI: Part 1 / Revolving... to the Core
 10220|1|x-kot|Saibi
 2204|2|x-unk|Saibôgu 009
@@ -51284,6 +51288,7 @@
 3600|1|x-jat|Tenkuu Senki Shurato: Sousei e no Antou
 15811|1|x-jat|Tenkuu Shinpan
 11090|1|x-jat|Tenma no Torayan
+19290|1|x-jat|Tenmaku no Jaadugar
 10504|1|x-jat|Tennen Koi-iro Alcohol
 690|3|x-jat|tennimon
 56|1|x-jat|Tennis no Ouji-sama
@@ -52370,7 +52375,6 @@
 228|2|en|The jungle was always peaceful, and then came Guu
 1928|1|x-jat|The Kabocha Wine
 2281|1|x-jat|The Kabocha Wine: Nita no Aijou Monogatari
-18433|1|x-jat|The Kabocha Wine: Ore to Aitsu no Shinkon Ryokou!?
 2179|4|en|The Karas
 5030|2|en|The Karma Saiyuki
 10288|4|en|The Kawai Complex Guide to Manors and Hostel Behavior
@@ -53373,7 +53377,6 @@
 13265|4|ja|THE ZERO CENTURY
 2963|4|ja|THE ガッツ!
 2963|2|ja|THE ガッツ！
-18433|4|ja|The かぼちゃワイン おれとあいつの新婚旅行!?
 4878|4|ja|THE レイプマン アニメ・バージョン
 362|4|ja|THE 八犬伝
 3508|4|ja|THE·BORGMAN LAST BATTLE
@@ -65937,6 +65940,7 @@
 14690|2|ar|بريكوني
 2739|4|ar|بسمة و عبدو
 3366|2|ar|بشار
+7085|4|ar|بطل الأبطال
 15071|3|ar|بطل الترس
 14477|4|ar|بطل حذر
 519|4|ar|بطولات الأسطورة أرسلان
@@ -80670,6 +80674,8 @@
 19142|3|ja|最強宇宙船
 7434|4|ja|最強武将伝 三国演義
 19102|4|ja|最強王図鑑 ～The Ultimate Battles～
+19289|4|ja|最強王図鑑 ～The Ultimate Battles～ 魂の叫び!
+19288|4|ja|最強王図鑑～The Ultimate Tournament～
 10005|4|ja|最強銀河 究極[アルティメット]ゼロ~バトルスピリッツ~
 17159|4|ja|最強陰陽師の異世界転生記
 8799|4|zh-Hans|最强会长黑神
@@ -83025,6 +83031,7 @@
 16312|4|zh-Hans|天宝伏妖录 (2021)
 16312|2|zh-Hans|天宝伏妖录 2
 16312|2|zh|天宝伏妖录 第二季
+19290|4|ja|天幕のジャードゥーガル
 18692|4|zh-Hans|天庭板砖侠
 18906|4|zh-Hans|天影
 7449|4|ja|天才? Dr.ハマックス
