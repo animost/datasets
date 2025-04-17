@@ -1,4 +1,4 @@
-# created: Tue Apr 15 03:00:02 2025
+# created: Wed Apr 16 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -10245,6 +10245,7 @@
 3171|1|x-jat|Daisuki! BuBu ChaCha
 5874|1|x-jat|Daisuki! Hello Kitty
 14669|1|x-jat|Daisuki! Nendomama
+19292|4|en|Daisy`s Life
 1813|3|x-jat|daitarn
 1813|4|it|Daitarn 3
 1813|3|x-jat|Daitarn 3
@@ -14065,6 +14066,7 @@
 7770|1|x-jat|Eiga Doraemon: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi
 7769|1|x-jat|Eiga Dorami & Doraemons: Space Land Kiki Ippatsu!
 13175|1|x-jat|Eiga Entotsu Machi no Poupelle
+19291|1|x-jat|Eiga Entotsu Machi no Poupelle: Yakusoku no Tokeidai
 6720|1|x-jat|Eiga Fresh Precure! Omocha no Kuni wa Himitsu ga Ippai!?
 15424|1|x-jat|Eiga Fushigi Dagashiya: Zenitendou - Tsuri Taiyaki
 2764|1|x-jat|Eiga Futari wa Precure Max Heart
@@ -15180,6 +15182,7 @@
 2309|4|en|Fables of the Green Forest
 10257|1|x-jat|Fabre Konchuuki
 4686|1|x-jat|Fabre-sensei wa Meitantei
+2309|4|es|Fábulas del Bosque Verde
 18259|2|en|Fabulous Beasts
 18658|2|en|Fabulous Beasts 2
 18657|2|en|Fabulous Beasts 3
@@ -21924,6 +21927,7 @@
 13434|2|x-jat|Hina Matsuri
 2030|1|x-jat|Hinadori no Saezuri
 14592|2|fr|Hinagiku & le club de la virginité perdue
+19292|1|x-jat|Hinagiku no Jinsei
 14592|1|x-jat|Hinagiku Virgin Lost Club e Youkoso
 12349|1|x-jat|Hinako Note
 12349|4|en|Hinako Note
@@ -25973,6 +25977,7 @@
 6531|1|x-jat|Kanamemo
 6531|4|en|Kanamemo
 11820|2|x-jat|Kanamewo
+19293|1|x-jat|Kanan-sama wa Akumade Choroi
 6275|2|lt|Kanana
 2781|3|x-jat|kanantv
 1994|2|x-jat|Kanariya wa Kago no Naka
@@ -34404,6 +34409,7 @@
 1678|2|en|Mister Ikkyu
 14698|2|en|Mister Washer!: She and I in the Female Bath!?
 3524|4|en|Mistreated Bride
+19293|2|en|Mistress Kanan Is Devilishly Easy
 10542|2|pl|Mistrz Romansu Nozaki
 2910|4|pl|Mistrzowie Kaijudo
 826|2|pl|Mistyczny Wojownik Seiya
@@ -41743,6 +41749,7 @@
 2227|2|fr|Poucelina
 13175|4|it|Poupelle della città dei camini
 13175|4|en|Poupelle of Chimney Town
+19291|2|en|Poupelle of Chimney Town: The Promised Clock Tower
 19244|1|x-jat|Poutaun no Nakama-tachi
 755|2|cs|Poválečný Gundam X
 9515|4|ro|Povestea prințesei Kaguya
@@ -63418,8 +63425,8 @@
 11758|2|ru|Полулюди OVA
 12111|4|ru|Полулюди ТВ-2
 11265|2|ru|Полулюди Фильм
+17420|4|uk|Полум’яні вогнеборці Розділ 3
 515|2|uk|Полум`яний лабіринт
-17420|4|uk|Полум`яні вогнеборці 3
 6271|2|ru|Полусломанная музыкальная шкатулка
 11265|2|ru|Получеловек
 334|4|bg|Пом Поко
@@ -68641,6 +68648,7 @@
 2697|2|ko|메조쿠 복수학원
 18774|2|ko|메카 기사 리스타의 대모험
 13180|4|ko|메타제트
+17926|4|ko|메탈릭 루쥬
 517|4|ko|메트릭스 르네상스
 8306|2|ko|멘쿠이
 13083|2|ko|멘헤라 아유리의 멈추지 않는 조르기 ~헤드폰은 놓칠 수 없어~
@@ -69118,6 +69126,8 @@
 14906|2|ko|성기사 루이비아스
 16907|2|ko|성노예 학원2
 7310|2|ko|성도회장 히카루
+171|4|ko|성방무협 아웃로스타
+223|4|ko|성방천사 엔젤링크스
 4867|2|ko|성소녀완구 아리스 돌
 1399|2|ko|성소녀전대 레이커즈 EX
 1278|2|ko|성수전 트윈돌즈
@@ -69340,6 +69350,8 @@
 3480|2|ko|신경쓰이는 룸메이트
 10822|2|ko|신곡의 그리모이어
 6514|2|ko|신데렐라 익스프레스
+17626|4|ko|신듀얼리티:느와르
+18206|4|ko|신듀얼리티:느와르 (2024)
 2142|4|ko|신무월의 무녀
 14074|4|ko|신비아파트 444호
 40|2|ko|신비한 바다의 나디아
@@ -70692,6 +70704,7 @@
 13682|4|ko|파닥파닥
 5665|4|ko|파렴치 홍문 만유기
 604|4|ko|파름의 나무
+17846|4|ko|파멸의 왕국
 19081|2|ko|파멸의 유혹
 1844|2|ko|파미레스 전사 푸링
 13839|4|ko|파스텔 메모리즈
@@ -72641,6 +72654,7 @@
 744|4|ja|カナリア
 1994|4|ja|カナリヤは籠の中
 6275|4|ja|カナン
+19293|4|ja|カナン様はあくまでチョロい
 5575|4|ja|かのこん
 6787|4|ja|かのこん ~真夏の大謝肉祭~
 15851|4|ja|カノジョも彼女
@@ -76827,6 +76841,7 @@
 13435|4|ja|ヒナまつり
 13434|4|ja|ヒナまつり (2018)
 12018|4|ja|ひなろじ~from Luck & Logic~
+19292|4|ja|ひな菊の人生
 3641|4|ja|ピノキオの冒険
 2709|4|ja|ピノキオより ピコリーノの冒険
 13415|2|ja|ヒノマル!
@@ -86542,6 +86557,7 @@
 3608|4|ja|映画 あたしンち
 18848|4|ja|映画 イナズマイレブン総集編 伝説のキックオフ
 13175|4|ja|映画 えんとつ町のプペル
+19291|4|ja|映画 えんとつ町のプペル ~約束の時計台~
 4650|4|ja|映画 おじゃる丸 約束の夏 おじゃるとせみら
 1764|4|ja|映画 おジャ魔女どれみ#
 17076|2|ja|映画 オッドタクシー イン・ザ・ウッズ
@@ -92855,6 +92871,7 @@
 15820|4|ja|镇魂街 北落师门篇 下
 12358|2|zh-Hans|镇魂街 第一季
 18139|4|zh-Hans|镇魂街 第三季
+16372|2|zh-Hans|镇魂街 第二季 (2021)
 19009|4|zh-Hans|镇魂街 第四季
 15940|2|zh-Hans|镇魂街第二季
 16355|4|zh-Hans|镖人
