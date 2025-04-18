@@ -1,4 +1,4 @@
-# created: Wed Apr 16 03:00:01 2025
+# created: Thu Apr 17 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2576,6 +2576,7 @@
 17933|2|en|Ancient Myth
 4763|2|en|Ancient Ruler Dinosaur King
 18449|2|en|Ancient Star God Technique
+19294|4|en|Ancient War Soul
 11405|1|x-jat|And And
 11405|4|ja|AND AND
 16415|2|en|And I`m Going to Ask You, Sensei...
@@ -33302,6 +33303,7 @@
 18068|2|en|Me & Roboco the Movie
 15508|2|en|Me and My Zoo
 17428|2|en|Me and Roboco
+19018|2|en|Me and the Alien MuMu
 17766|4|pt-BR|Me Apaixonei pela Vilã!
 17766|4|es-419|Me enamoré de la villana
 17766|4|es|Me enamoré de la villana
@@ -50491,6 +50493,7 @@
 11186|1|x-jat|Taifuu no Noruda
 10598|3|x-jat|taigak
 18449|1|x-zht|Taigu Xing Shen Jue
+19294|1|x-zht|Taigu Zhan Hun
 2408|1|x-jat|Taiheiyou ni Kakeru Niji
 931|1|x-jat|Taiho Shichau zo Special
 993|1|x-jat|Taiho Shichau zo The Movie
@@ -83127,6 +83130,7 @@
 15542|4|zh-Hans|太乙仙魔录之灵飞纪II
 15543|4|zh-Hans|太乙仙魔录之灵飞纪III
 16382|2|zh-Hans|太乙仙魔录第四季
+19294|4|zh-Hans|太古战魂
 18449|4|zh-Hans|太古星神诀
 2650|4|zh-Hans|太太是魔法少女
 2408|4|ja|太平洋にかける虹
