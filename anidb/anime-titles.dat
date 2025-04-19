@@ -1,4 +1,4 @@
-# created: Thu Apr 17 03:00:02 2025
+# created: Fri Apr 18 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3969,6 +3969,7 @@
 14977|4|de|Attack on Titan: The Final Season - Part 1
 16177|4|de|Attack on Titan: The Final Season - Part 2
 18820|4|en|Attack on Titan: The Last Attack
+18820|4|de|Attack on Titan: The Last Attack
 13546|4|en|Attack on Titan: The Movie 3 - Roar of Awakening
 3076|4|en|Attack on Tomorrow
 2852|1|x-jat|Attacker You!
@@ -27258,6 +27259,7 @@
 15259|1|x-jat|Kingdom (2020)
 16912|1|x-jat|Kingdom (2022)
 17655|1|x-jat|Kingdom (2024)
+19295|1|x-jat|Kingdom (2025)
 15259|2|x-unk|Kingdom 3
 16912|2|x-jat|Kingdom 4
 17655|2|x-jat|Kingdom 5
@@ -27269,6 +27271,7 @@
 15259|4|en|Kingdom Season 3
 16912|4|en|Kingdom Season 4
 17655|4|en|Kingdom Season 5
+19295|2|en|Kingdom Season 6
 9672|2|x-jat|Kingdom: Dai 2 Series
 15259|2|x-jat|Kingdom: Dai 3 Series
 13862|4|ja|KINGSGLAIVE FFXV ファン感謝特別ムービー
@@ -33065,6 +33068,7 @@
 1439|4|fr|Master Keaton
 1439|4|ja|MASTER KEATON
 1439|1|x-jat|Master Keaton
+16649|2|en|Master Kid
 1295|1|x-jat|Master Mosquiton
 684|1|x-jat|Master Mosquiton `99
 18042|2|en|Master of Alchemy
@@ -39563,6 +39567,7 @@
 5803|2|en|Our house`s three sisters
 6544|2|en|Our Jury Story
 15216|4|en|Our Last Crusade or the Rise of a New World
+16828|2|en|Our Last Crusade or the Rise of a New World Season 2
 16828|4|en|Our Last Crusade or the Rise of a New World Season II
 13038|4|en|Our Love Has Always Been 10 Centimeters Apart.
 18105|2|en|Our Rainy Protocol
@@ -39619,6 +39624,7 @@
 6285|2|zh-Hans|OVA 传颂之物
 18587|4|ja|OVA 僕にハーレムセフレが出来た理由
 19105|4|ja|OVA 夕顔
+19105|6|ja|OVA 夕顔[ゆうがお]
 11268|4|ja|OVA 東京喰種[トーキョーグール]
 18756|4|ja|OVA 陰キャカップルが陽ギャル達とSEXトレーニングする話
 1518|4|he|OVA1 פאטלייבור
@@ -51901,8 +51907,11 @@
 16314|2|en|The Degenerate Drawing Jianghu Season 4
 17145|2|en|The Degenerate Drawing Jianghu Season 5
 17292|2|en|The Degenerate Drawing Jianghu Season 6
+19267|2|en|The Degenerate Drawing Jianghu Season 7
+19267|2|en|The Degenerate Drawing Jianghu The Unparalleled
 13042|2|en|The Degenerate Drawing Lingzhu
 13323|2|en|The Degenerate Drawing Painting Lake of the cup stop
+19267|2|en|The Degenerate-Drawing Jiang Hu S7
 4398|2|en|The Demon
 4181|2|en|The Demon Breaker Sword
 14630|4|en|The Demon Girl Next Door
@@ -73090,6 +73099,7 @@
 15259|4|ja|キングダム (2020)
 16912|4|ja|キングダム (2022)
 17655|4|ja|キングダム (2024)
+19295|4|ja|キングダム (2025)
 9672|2|ja|キングダム 第2シリーズ
 15259|2|ja|キングダム 第3シリーズ
 1252|4|ja|キングダム・オブ・カオス ~ボーン・トゥー・キル~
@@ -88025,6 +88035,7 @@
 16505|2|zh-Hans|测不准的阿波连同学
 18798|2|zh-Hans|测不准的阿波连同学 第二季
 16649|4|zh-Hans|济公 之降龙降世
+16649|2|zh-Hans|济公之降龙降世
 11728|4|zh-Hans|浜虎SD
 10879|4|ja|浦和の調ちゃん
 10879|2|zh-Hans|浦和小调
@@ -89286,6 +89297,8 @@
 14647|4|zh-Hans|画江湖之不良人III
 17292|4|zh-Hans|画江湖之不良人VI
 19267|4|zh-Hans|画江湖之不良人柒：九幽玄天
+19267|2|zh-Hans|画江湖之不良人第7季
+19267|2|zh-Hans|画江湖之不良人第七季：九幽玄天
 15220|4|zh-Hans|画江湖之侠岚
 16330|4|zh-Hans|画江湖之换世门生
 16332|4|zh-Hans|画江湖之换世门生II
