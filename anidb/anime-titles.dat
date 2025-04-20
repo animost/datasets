@@ -1,4 +1,4 @@
-# created: Fri Apr 18 03:00:02 2025
+# created: Sat Apr 19 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -22720,6 +22720,7 @@
 13926|4|zh-Hans|HUGtto！光之美少女♡两人是光之美少女 All Stars Memories
 13526|4|ja|HuGっと! プリキュア
 13526|2|ja|HUGっと！プリキュア
+19296|1|x-zht|huhuan shaonu
 18624|1|x-zht|Hui Ming: Fenghuo San Yue
 18624|2|x-zht|Hui Ming: Fenghuo Sanyue
 15829|1|x-jat|Hula Fulla Dance
@@ -82076,6 +82077,7 @@
 18363|4|ja|呪術廻戦 死滅回游
 19231|4|ja|味方が弱すぎて補助魔法に徹していた宮廷魔法師, 追放されて最強を目指す
 4380|4|ja|味楽る! ミミカ
+19296|4|zh|呼唤少女
 12519|4|zh-Hans|命运/冠位指定:序章
 9977|2|zh|命运之夜: 无限剑制
 11515|4|zh-Hans|命运九重奏
