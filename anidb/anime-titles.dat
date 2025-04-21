@@ -1,4 +1,4 @@
-# created: Sat Apr 19 03:00:02 2025
+# created: Sun Apr 20 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -10440,6 +10440,7 @@
 13829|3|x-jat|danmachi2
 15111|3|x-jat|danmachi3
 16032|3|x-jat|danmachi4
+18267|3|en|DanMachi5
 10676|1|x-jat|Danna ga Nani o Itte Iruka Wakaranai Ken
 11002|1|x-jat|Danna ga Nani o Itte Iruka Wakaranai Ken 2 Sureme
 10676|2|x-jat|Danna ga Nani o Itteiruka Wakaranai Ken
@@ -16233,6 +16234,7 @@
 12220|2|ja|Force of Will the Movie
 14736|2|en|Foreign Girl
 16091|2|en|Foreign Girl (2022)
+19146|2|en|Foreordination
 12714|1|x-jat|Forest Fairy Five
 12714|4|ja|FOREST FAIRY FIVE
 12714|4|en|Forest Fairy Five
@@ -20691,6 +20693,7 @@
 17566|4|en|Harem Camp!
 17193|1|x-jat|Harem Cult
 15918|4|en|Harem in the Labyrinth of Another World
+15918|4|de|Harem in the Labyrinth of Another World
 8660|2|ja|Harem King
 15918|2|pt|Harém no Labirinto de Outro Mundo
 13243|4|en|Harem of the Hell Spawn
@@ -22323,6 +22326,7 @@
 15549|2|en|Honkai Impact 3: The Last Lesson
 15548|2|en|Honkai Impact 3: The Queen is Coming
 15551|2|en|Honkai Impact 3: XI-EX
+15549|4|en|Honkai Impact 3rd Animation - Final Lesson
 4007|2|x-jat|Honki!
 196|3|x-jat|Honneamise
 3667|2|x-jat|Hono no Alpenrose Jeudi & Lundi
@@ -45717,11 +45721,14 @@
 14590|2|en|Science-types Fell in Love, So They Tried to Prove It
 2348|2|en|Scientific Adventure Team Tansar 5
 1257|2|en|Scientific Rescue Team TechnoVoyager
-15381|2|en|Scissor Seven
 14288|4|pl|Scissor Seven
+14288|4|en|Scissor Seven
 15381|4|pl|Scissor Seven (2019)
+15381|4|en|Scissor Seven (2019)
 15961|4|pl|Scissor Seven (2021)
+15961|4|en|Scissor Seven (2021)
 17852|4|pl|Scissor Seven (2023)
+17852|4|en|Scissor Seven (2023)
 14288|2|en|Scissor Seven 0
 15961|2|en|Scissor Seven 3
 17852|2|en|Scissor Seven 4
@@ -55581,6 +55588,7 @@
 743|4|it|Un`avventura fantastica
 5056|4|it|Un`estate con Coo
 4133|4|it|Un`Estate con Kuro
+8270|4|es-419|Una Carta para Momo
 2291|4|it|Una classe di monelli per Jo
 8270|4|it|Una lettera per Momo
 2096|4|it|Una Miss Scacciafantasmi
@@ -57852,6 +57860,7 @@
 14670|1|x-zht|Xiagu Zhong An Zu Di Er Ji
 14671|1|x-zht|Xiagu Zhong An Zu Di San Ji
 16780|1|x-zht|Xian Feng Jian Yu Lu
+19297|1|x-zht|Xian Ji Xun Zong
 18420|1|x-zht|Xian Mu
 18237|1|x-zht|Xian Ni
 14718|2|x-zht|Xian Wang de Ri Chang Sheng Huo
@@ -79992,6 +80001,7 @@
 18217|4|zh-Hans|仙王的日常生活 第四季
 16359|4|zh-Hans|仙王的日常生活第二季
 963|4|ja|仙界伝 封神演義
+19297|4|zh-Hans|仙迹寻踪
 18237|4|zh-Hans|仙逆
 16780|4|zh-Hans|仙风剑雨录
 4685|4|zh-Hans|仙魔大战2000
