@@ -1,4 +1,4 @@
-# created: Sun Apr 20 03:00:02 2025
+# created: Mon Apr 21 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5830,6 +5830,7 @@
 7369|4|de|Black Butler II
 7369|4|en|Black Butler II
 7369|2|en|Black Butler Season 2
+18739|2|en|Black Butler Season 5
 11696|2|en|Black Butler the Movie: Book of Atlantic
 10402|4|en|Black Butler: Book of Circus
 10548|4|en|Black Butler: Book of Murder
@@ -9106,7 +9107,7 @@
 12457|4|ja|COCOLORS
 12457|1|x-jat|Cocolors
 18084|4|ja|cocoon ~ある夏の少女たちより~
-18084|1|x-jat|Cocoon: Aru Natsu no Shoujo-tachi Yori
+18084|1|x-jat|Cocoon: Aru Natsu no Shoujo-tachi yori
 18084|2|en|Cocoon: One Summer of Girlhood
 18084|4|zh-Hans|cocoon～来自某个夏天的少女们～
 13545|4|tr|Çocuk ve Balıkçıl
@@ -10487,7 +10488,6 @@
 2789|4|en|Dark Cat
 4353|4|en|Dark Chapel
 18615|2|en|Dark Demon of Paradise
-18575|1|x-jat|Dark Fury
 4253|4|en|Dark Future
 17536|1|x-jat|Dark Gathering
 17536|4|en|Dark Gathering
@@ -13875,6 +13875,7 @@
 3957|1|x-jat|Easy Cooking Animation: Seishun no Shokutaku
 3957|2|en|Easy Cooking Animation: Youth`s Dining Table
 14909|2|en|Easy!
+19298|2|en|Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City
 1773|4|fr|Eat-man
 1773|1|x-jat|Eat-Man
 1773|4|it|Eat-Man
@@ -16937,7 +16938,6 @@
 16700|2|en|G-Witch
 4736|4|ja|G-九
 6574|3|x-jat|G.A.
-18573|1|en|G.I. Joe Sigma 6
 191|4|it|G.T.O. - Great Teacher Onizuka
 4307|4|ja|G.T.R
 4307|1|x-jat|G.T.R G-cup Teacher Rei
@@ -22400,6 +22400,8 @@
 8068|2|pt|Hora do Banho com Hinako e Hiyoko
 14306|4|x-jat|Hora, Mimi ga Mieteru yo!
 14733|4|x-jat|Hora, Mimi ga Mieteru yo! (2019)
+14306|3|x-jat|horamimi
+14733|3|x-jat|horamimi2
 9955|3|x-jat|horei
 10667|3|x-jat|horei oad
 12954|3|x-jat|horei s2
@@ -38451,6 +38453,7 @@
 609|3|x-jat|okg
 4148|3|x-jat|okhc
 18095|1|x-jat|Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru
+19298|1|x-jat|Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisan-kei Majutsu de Namonaki Mura o Saikyou no Jousai Toshi ni
 18095|3|en|Okitsura
 18095|4|en|Okitsura: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She`s Saying
 13875|4|cs|Okkin hostinec
@@ -47402,6 +47405,7 @@
 14061|4|en|Shirobako the Movie
 18760|1|x-jat|Shirobuta Kizoku Desu ga Zense no Kioku ga Haeta no de Hiyoko na Otouto Sodatemasu
 10550|1|x-jat|Shirogane no Ishi: Argevollen
+18760|2|en|SHIROHIYO
 2360|1|x-jat|Shiroi Kiba: White Fang Monogatari
 12639|1|x-jat|Shiroi Michi
 15987|1|x-jat|Shiroi Suna no Aquatope
@@ -48423,6 +48427,7 @@
 14372|1|x-zht|Songdai Zuqiu Xiaojiang
 1640|4|pt-BR|Sonhos Molhados
 10134|4|en|Soni-Ani: Super Sonico the Animation
+10134|4|es-419|Soni-Ani: Súper Sónico The Animation
 10134|2|x-jat|SoniAni
 10134|1|x-jat|SoniAni: Super Sonico The Animation
 14007|2|x-jat|SoniAni: Ultrasonico
@@ -49354,6 +49359,8 @@
 19005|1|x-jat|Star Wars: Visions (2025)
 19005|2|en|Star Wars: Visions 2025
 19005|2|en|Star Wars: Visions 3
+19299|4|ja|Star Wars: Visions Presents - The Ninth Jedi
+19299|1|x-jat|Star Wars: Visions Presents - The Ninth Jedi
 16420|4|cs|Star Wars: Vize
 17044|1|x-jat|Star Wars/Force no Kakusei
 8837|4|ja|STAR☆jewel
@@ -71615,6 +71622,7 @@
 2460|4|ja|いきなりダゴン
 17935|4|ja|いきものさん
 19007|4|ja|イクイク サキュバス再教育
+19007|2|ja|イクイク♡サキュバス再教育
 9269|2|ja|イクシオン サーガ DT
 7313|4|ja|いくぜっ! 源さん
 17735|4|ja|いくものがかり The Animation
@@ -72454,6 +72462,7 @@
 16972|4|ja|お昼のショッカーさん
 7123|4|ja|お月さまと王女
 19091|4|ja|お月さんももいろ
+19298|4|ja|お気楽領主の楽しい領地防衛~生産系魔術で名もなき村を最強の城塞都市に~
 2750|4|ja|お江戸はねむれない!
 2793|4|ja|お洒落小僧は花マルッ
 13878|4|ja|お父さんは愛の人
@@ -74840,7 +74849,6 @@
 17536|4|ja|ダークギャザリング
 2789|4|ja|ダークキャット
 961|4|ja|ダークサイド・ブルース
-18575|4|ja|ダークフューリー
 1587|2|ja|ダークロウズ
 6941|4|ja|ターチャンの怪物退治
 6740|4|ja|ターチャンの海底旅行
@@ -77700,6 +77708,7 @@
 14306|4|ja|ほら, 耳がみえてるよ!
 14733|4|ja|ほら, 耳がみえてるよ! (2019)
 7743|4|ja|ホラーマンとホラ♥ホラコ
+14306|3|ja|ほらみみ!
 14246|4|ja|ホリデイラブ ~夫婦間恋愛~
 15733|4|ja|ホリミヤ
 17946|4|ja|ホリミヤ -piece-
