@@ -1,4 +1,4 @@
-# created: Tue Apr 22 03:00:02 2025
+# created: Wed Apr 23 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -30368,6 +30368,7 @@
 2871|2|en|Little Duck`s Big Love Story
 3665|2|x-jat|Little El Cid no Boken
 3665|1|x-jat|Little El Cid no Bouken
+19303|2|en|Little Fairy Yao
 12194|2|en|Little Girl Anzu
 3644|2|en|Little House on the Prairie
 6981|2|en|Little Jumbo
@@ -45840,6 +45841,7 @@
 12596|2|fr|Séance redevable
 5985|2|en|Search for Uranus
 21|2|en|Searching for the Full Moon
+19297|2|en|Searching For The Immortals
 14790|2|en|Searching for Witch Apprentices
 671|2|en|Season Heat
 11123|2|pl|Seba Jedna Wjeba
@@ -52365,6 +52367,7 @@
 17026|4|tl|The Imaginary
 4617|4|en|The Immorals
 13660|4|en|The Immortal Legend
+19297|2|en|The Immortal Traces
 15376|2|en|The Import Player`s Entry!!
 7466|4|ja|The Impression of First GUNDAM
 7466|1|x-jat|The Impression of First Gundam
@@ -56872,6 +56875,7 @@
 9570|1|x-jat|Wanna. SpartanSex Spermax!!!
 9570|4|ja|Wanna. SpartanSex Spermax!!!
 3384|1|x-jat|Wannabes
+19302|1|x-zht|Wanneng Lian Ai Zahuo Dian
 2201|1|x-jat|Wanpaku Ouji no Orochi Taiji
 2874|1|x-jat|Wanpaku Tanteidan
 11123|2|x-jat|Wanpanman
@@ -57925,6 +57929,7 @@
 16738|1|x-zht|Xiao Shizi Sai Ji
 11651|1|x-zht|Xiao Taiji
 16673|1|x-zht|Xiao Turen Yu Hua
+19303|1|x-zht|Xiao Xian Zhi Yao
 13509|1|x-zht|Xiao Yeyou
 16521|1|x-zht|Xiao Zhu Pei Qi Guo Da Nian
 15199|1|x-zht|Xiao Zhuoma
@@ -79379,6 +79384,7 @@
 16741|2|zh-Hans|万界神主 第三季
 16740|2|zh-Hans|万界神主 第二季
 15576|4|ja|万聖街
+19302|4|zh-Hans|万能恋爱杂货店
 167|4|ja|万能文化猫娘
 167|4|zh-Hans|万能文化猫娘
 526|4|ja|万能文化猫娘 (1998)
@@ -84042,6 +84048,7 @@
 15293|4|zh-Hans|小书痴的下克上～为了成为图书管理员而不择手段～ 第2部
 15634|4|zh-Hans|小书痴的下克上～为了成为图书管理员而不择手段～ 第3部
 6876|4|ja|小人と青虫
+19303|4|zh-Hans|小仙之瑶
 1924|4|zh|小仙蒂
 1424|4|zh-Hant|小倩
 16673|4|zh-Hans|小兔人与花
