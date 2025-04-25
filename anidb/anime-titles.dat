@@ -1,4 +1,4 @@
-# created: Wed Apr 23 03:00:02 2025
+# created: Thu Apr 24 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1827,6 +1827,7 @@
 10482|2|x-jat|Aikatsu! Movie
 11262|1|x-jat|Aikatsu! Music Award: Minna de Shou o Moraccha Ima Show!
 12821|1|x-jat|Aikatsu! Nerawareta Mahou no Aikatsu! Card
+19306|1|x-jat|Aikatsu! x PriPara the Movie: Deai no Kiseki!
 11934|3|x-jat|aikatsu2
 13755|3|x-jat|aikatsu3
 12720|1|x-jat|Aikodesho
@@ -5277,6 +5278,7 @@
 18888|1|en|Beginning English with Doraemon
 11536|4|en|Beginning of Fashion
 18541|3|en|Beheneko
+18541|4|de|Beheneko: Ich bin ein mächtiger Behemoth und lebe als Kätzchen bei einer Elfe
 18541|4|en|Beheneko: The Elf-Girl`s Cat Is Secretly an S-Ranked Monster!
 13089|1|x-jat|Behind a Smile
 13089|4|ja|behind a smile
@@ -24740,7 +24742,7 @@
 6781|2|en|Jiburiru: The Devil Angel 3
 18394|1|x-zht|Jidao Long Shen
 17557|1|x-jat|Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou
-18204|1|x-jat|Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou 2
+18204|1|x-jat|Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou 2nd Season
 12967|1|x-zht|Jie Mo Ren
 15354|1|x-zht|Jie Yao
 7260|1|x-jat|Jigazou
@@ -28090,6 +28092,7 @@
 16446|4|es|Konosuba: ¡Explosión en un mundo maravilloso!
 16446|4|en|Konosuba: An Explosion on this Wonderful World!
 11854|4|de|Konosuba: Choker Game
+18865|4|de|KonoSuba: God’s Blessing on This Wonderful World! 3 - Bonus Stage
 11261|4|en|Konosuba: God`s Blessing on This Wonderful World!
 13310|4|en|Konosuba: God`s Blessing on This Wonderful World! - Legend of Crimson
 11992|4|en|Konosuba: God`s Blessing on This Wonderful World! 2
@@ -30117,6 +30120,7 @@
 6249|4|cs|Letní válka
 10313|4|cs|Léto s Marnie
 18649|4|cs|Léto, kdy umřel Hikaru
+8029|2|en|Lets Have Sex with Akina in the Hot Springs
 3297|3|x-jat|letsnn
 6772|2|en|letter bee
 6772|4|fr|Letter Bee
@@ -33344,6 +33348,7 @@
 12467|2|en|Mechanical Arms
 4274|2|en|Mechanical Boy Dotakon
 3051|2|x-jat|Mechanical Doctor
+18803|2|en|Mechanical Marie
 8878|2|en|Mechanized Fairies
 10217|4|ja|MECHANO SCIENTIFIC ATTACK FORCE
 10217|1|x-jat|Mechano: Scientific Attack Force
@@ -40395,6 +40400,7 @@
 16808|1|x-jat|Petit Seka
 16808|2|fr|Petit Sekai
 13715|4|ja|Petit☆ドリームスターズ! レッツ・ラ・クッキン? ショータイム!
+19304|1|x-jat|PetitCure ~Precure Fairies~
 11162|2|fr|Petite amie & chat-pardages
 2291|4|fr|Petite bonne femme
 14194|2|fr|Petite diablesse
@@ -43377,7 +43383,7 @@
 4747|3|x-jat|Reborn
 19142|2|en|Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!
 17557|4|en|Reborn as a Vending Machine, I Now Wander the Dungeon
-18204|4|en|Reborn as a Vending Machine, I Now Wander the Dungeon 2
+18204|4|en|Reborn as a Vending Machine, I Now Wander the Dungeon 2nd Season
 12934|2|en|Reborn Gladiator of The Baby-Making Colosseum
 17015|4|en|Reborn to Master the Blade: From Hero-King to Extraordinary Squire
 17015|2|en|Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀
@@ -49863,6 +49869,7 @@
 18256|4|ja|suma Netori Kan: Bijutsu Kyoushi no Baai
 889|1|x-jat|Sumeba Miyako no Cosmos-sou Suttoko Taisen Dokkoider
 14683|4|en|Sumikko Gurashi the Movie: The Unexpected Picture Book and the Secret Child
+19305|1|x-jat|Sumikko Gurashi: Koko ga Ochitsukun desu
 10707|1|x-jat|Sumiko
 4598|3|x-jat|summer
 17345|2|ko|Summer ~시골의 성생활~
@@ -71091,6 +71098,7 @@
 9468|4|ja|アイアンマン: ライズ・オブ・テクノヴォア
 9418|4|ja|あいうら
 14632|4|ja|アイカギ The Animation
+19306|4|ja|アイカツ! × プリパラ THE MOVIE -出会いのキセキ!-
 12821|4|ja|アイカツ! ~ねらわれた魔法のアイカツ! カード~
 17699|4|ja|アイカツ! 10th STORY ~未来へのSTARWAY~
 9348|4|ja|アイカツ! アイドルカツドウ!
@@ -74565,6 +74573,7 @@
 10700|4|ja|スポチャン対決~妖怪大決戦~
 1731|4|ja|スポットライト
 8819|4|ja|スマイルプリキュア!
+19305|4|ja|すみっコぐらし ここがおちつくんです
 10707|4|ja|スミ子
 9100|4|ja|ズモモとヌペペ
 4528|4|ja|すもももももも ~地上最強のヨメ~
@@ -77144,6 +77153,7 @@
 11182|4|ja|ふた部! MIX ~ふたなりワールド~
 10964|4|ja|ふた部!!
 6184|4|ja|ぷちえゔぁ -Evangelion@School-
+19304|4|ja|ぷちきゅあ ~Precure Fairies~
 16808|4|ja|ぷちセカ
 296|4|ja|ぷちぷり*ユーシィ
 10135|3|ja|ぷちます 2
@@ -81752,6 +81762,7 @@
 1664|4|zh-Hans|发明工坊
 11679|4|zh-Hans|发条精灵战记 天镜的极北之星
 18879|4|zh-Hans|受到猩猩之神庇护的大小姐在皇家骑士团受到宠爱
+18879|2|zh-Hans|受到猩猩神的庇护的大小姐在王立骑士团受到宠爱
 10839|4|ja|受胎島
 3427|4|zh-Hant|受讚頌者
 15206|4|zh-Hant|受讚頌者 二人的白皇
@@ -88014,6 +88025,7 @@
 11627|4|ja|河童の腕
 5056|4|zh-Hans|河童之夏
 16537|4|zh-Hans|治愈魔法的错误使用方法
+18528|2|zh-Hans|治疗师退队作为无照治疗师快乐过活
 16537|4|ja|治癒魔法の間違った使い方
 18799|4|ja|治癒魔法の間違った使い方 2
 16537|2|zh-Hant|治癒魔法的錯誤使用法
@@ -89630,6 +89642,7 @@
 7277|4|ja|真・恋姫†無双 ~乙女大乱~
 7470|4|ja|真・恋姫†無双 Live Revolution
 7277|4|zh-Hans|真・恋姬无双～少女大乱～
+18612|2|zh-Hans|真･武士传YAIBA
 18612|4|zh-Hant|真･武士傳 YAIBA
 17206|4|ja|真・淫獣学園 La Blue Girl
 17206|2|ja|真・淫獣学園 La☆Blue Girl
@@ -89698,6 +89711,7 @@
 10501|4|ja|睡蓮の人
 18528|4|zh-Hant|瞬間治癒卻被當成廢物踢出隊伍的天才治療師，改當無照治療師快樂過活
 18528|4|zh-Hans|瞬间治愈却被当成废物踢出队伍的天才治疗师，改当无照治疗师快乐过活
+18528|2|zh-Hans|瞬间治疗却被视为无用而被流放的天才治疗师，以暗黑治疗师的身份幸福地生活着
 2683|4|ja|瞳のなかの少年 15少年漂流記
 2647|2|zh-Hans|瞳孔中的暗杀者
 4250|4|ja|瞳裸
@@ -90361,6 +90375,7 @@
 14785|4|zh-Hant|索瑪麗與森林之神
 7602|4|zh-Hans|紧扣的星星
 18496|4|zh-Hans|紫云寺家的兄弟姐妹
+18496|2|zh-Hans|紫云寺家的孩子们
 16594|4|zh-Hans|紫川
 12138|4|zh-Hans|紫罗兰永恒花园
 14840|4|zh-Hans|紫罗兰永恒花园外传：永远与自动手记人偶
@@ -90971,7 +90986,7 @@
 11241|4|ja|自分の胸に手を当てて
 807|2|zh|自动机器人・铁臂阿童木
 17557|4|ja|自動販売機に生まれ変わった俺は迷宮を彷徨う
-18204|4|ja|自動販売機に生まれ変わった俺は迷宮を彷徨う 2
+18204|4|ja|自動販売機に生まれ変わった俺は迷宮を彷徨う2nd season
 14866|4|zh-Hans|自古英雄出少年
 12698|4|ja|自宅警備員
 14725|4|ja|自宅警備員 (2019)
@@ -91794,6 +91809,7 @@
 14657|4|zh-Hans|请吃红小豆吧! 第二季
 16783|4|zh-Hans|请吃红小豆吧! 第四季
 15096|4|zh-Hans|请在T台上微笑
+18794|2|zh-Hans|请穿上内衣吧，鹰峰同学
 10262|4|zh-Hans|请问您今天要来点兔子吗?
 11049|4|zh-Hans|请问您今天要来点兔子吗？？
 14401|4|zh-Hans|请问您今天要来点兔子吗？？～Sing for You～
