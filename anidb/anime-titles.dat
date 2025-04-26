@@ -1,4 +1,4 @@
-# created: Thu Apr 24 03:00:01 2025
+# created: Fri Apr 25 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1683,6 +1683,7 @@
 12006|2|x-jat|Ahare! Meisaku-kun
 16505|3|x-jat|aharen
 16505|2|en|Aharen Is Indecipherable
+18798|2|en|Aharen Is Indecipherable Season 2
 16505|4|vi|Aharen thật khó hiểu
 16505|3|x-jat|Aharen-san
 16505|4|en|Aharen-san wa Hakarenai
@@ -14915,7 +14916,6 @@
 4847|4|fr|Evangelion : 1.0 You Are (Not) Alone
 6171|4|fr|Evangelion : 2.0 You Can (Not) Advance
 4847|2|en|Evangelion 1.0
-4847|4|pt|Evangelion 1.0 You are not alone
 4847|4|et|Evangelion 1.0: Sa oled/pole üksinda
 4847|2|en|Evangelion 1.01
 4847|2|en|Evangelion 1.11 You Are (Not) Alone
@@ -14950,8 +14950,10 @@
 4847|2|de|Evangelion: 1.11 - You are (not) alone
 4847|4|pl|Evangelion: 1.11 (Nie) jesteś sam.
 4847|4|cs|Evangelion: 1.11 Monstrum - Nejste sami
+4847|4|pt|Evangelion: 1.11 Tu (Não) Estás Sozinho.
 6171|2|en|Evangelion: 2.0
 6171|2|pl|Evangelion: 2.0 (Nie) możesz iść naprzód.
+6171|4|pt|Evangelion: 2.0 Tu (Não) Podes Avançar.
 6171|2|pt-BR|Evangelion: 2.0 Você (não) pode prosseguir
 6171|4|en|Evangelion: 2.0 You Can (Not) Advance
 6171|4|it|Evangelion: 2.0 You Can (Not) Advance
@@ -14988,8 +14990,8 @@
 6171|4|tl|EVANGELION:2.22 IKAW AY (HINDI) SUSULONG.
 6171|4|tr|EVANGELION:2.22 İLERLEYEBİLİRSİN (İLERLEYEMEZSİN).
 6171|4|nl|EVANGELION:2.22 JE KUNT (GEEN) VOORUITGANG BOEKEN.
-6171|4|pt|EVANGELION:2.22 VOCÊ (NÃO) PODE AVANÇAR.
-8895|4|pt|EVANGELION:3.0+1.01 A ESPERANÇA
+6171|4|pt-BR|EVANGELION:2.22 VOCÊ (NÃO) PODE AVANÇAR.
+8895|4|pt-BR|EVANGELION:3.0+1.01 A ESPERANÇA
 8895|4|da|EVANGELION:3.0+1.01 DER VAR TREGANGE
 8895|4|sv|EVANGELION:3.0+1.01 DET VAR TRE GÅNGER
 8895|4|nl|EVANGELION:3.0+1.01 DRIEMAAL IS SCHEEPSRECHT
@@ -14997,6 +14999,7 @@
 8895|4|pl|EVANGELION:3.0+1.01 OD-NOWA
 8895|4|my|EVANGELION:3.0+1.01 PADA TIGA KALI MASA DAHULU
 8895|4|tl|EVANGELION:3.0+1.01 TATLONG BESES NOONG UNANG PANAHON
+8895|4|pt|Evangelion:3.0+1.01 Três de uma Vez
 8895|2|ja|EVANGELION:3.0+1.11 THRICE UPON A TIME
 7565|4|my|EVANGELION:3.33 ANDA (TAK) BOLEH BUAT SEMULA.
 7565|4|tr|EVANGELION:3.33 BAŞTAN YAPABİLİRSİN (YAPAMAZSIN).
@@ -15004,7 +15007,8 @@
 7565|4|sv|EVANGELION:3.33 DU KAN (INTE) GÖRA OM.
 7565|4|tl|EVANGELION:3.33 IKAW AY (HINDI) MAKAKAULIT.
 7565|4|nl|EVANGELION:3.33 JE KUNT HET (NIET) OVERDOEN.
-7565|4|pt|EVANGELION:3.33 VOCÊ (NÃO) PODE REFAZER.
+7565|4|pt|Evangelion:3.33 Tu (Não) Podes Refazer.
+7565|4|pt-BR|EVANGELION:3.33 VOCÊ (NÃO) PODE REFAZER.
 202|2|tr|Evangelion`un Sonu
 6171|2|lt|Evangelionas 2.22 Tu (Ne) Gali Pažengti
 4847|4|lv|Evangelions: Tu neesi viens
@@ -23636,6 +23640,7 @@
 3335|1|x-jat|Immoral
 3335|2|ja|IMMORAL
 9941|2|en|Immoral Confession of a Married Woman
+19307|1|x-jat|Immoral Game Master The Animation
 658|2|en|Immoral Girls
 17244|4|en|Immoral Guild
 19036|1|x-jat|Immoral Routine The Animation
@@ -29783,6 +29788,8 @@
 17772|4|en|Lee`s Detective Agency: A Day in Lungmen
 1161|2|en|Leechers Army Merowlink
 18045|4|en|Left-Hand Layup!
+19130|2|en|Left-Hand Layup! 2
+19130|2|en|Left-Hand Layup! 2nd Season
 4207|2|en|Legacy of Aru Kararu
 14399|2|fr|Légalité du viol
 13814|2|en|Legend of a Rabbit
@@ -36922,7 +36929,6 @@
 326|4|fr|Neon Genesis Evangelion - Death and Rebirth
 202|4|fr|Neon Genesis Evangelion - The End of Evangelion
 202|4|it|Neon Genesis Evangelion - The End of Evangelion
-15462|1|en|Neon Genesis Evangelion Human Rape Project
 22|2|fr|Neon Genesis Evangelion Platinum
 22|2|en|Neon Genesis Evangelion Renewal
 326|4|en|Neon Genesis Evangelion: Death & Rebirth
@@ -46038,6 +46044,7 @@
 7015|1|x-jat|Seito Kaichou ni Chuukoku
 7052|1|x-jat|Seito Shokun! Kokoro ni Midori no Neckerchief o
 6556|3|x-jat|Seitokai
+19308|1|x-jat|Seitokai ni mo Ana wa Aru!
 6556|1|x-jat|Seitokai no Ichizon
 9090|2|x-jat|Seitokai no Ichizon 2
 9090|1|x-jat|Seitokai no Ichizon Lv.2
@@ -52479,6 +52486,7 @@
 6712|2|en|The Larks` Moving Day
 9588|4|fr|The Last : Naruto le film
 1340|2|en|The Last Ark
+18650|2|en|The Last Blossom
 1752|4|en|The Last Kunoichi
 113|2|en|The last love song on this little planet
 9190|2|en|The Last Molester Train Next
@@ -53455,6 +53463,7 @@
 2557|4|fr|Théo ou la batte de la victoire - Le cadeau d`adieu
 3059|4|fr|Théo ou la batte de la victoire - Miss Lonely Yesterday
 2556|4|fr|Théo ou la batte de la victoire - Un champion sans numéro
+19308|2|en|There Is Also a Hole in the Student Organization!
 14547|2|en|There is No Way Bitch Academy is Pure!!?
 8043|1|x-jat|There She Is!!
 2708|2|en|There, Here and Where
@@ -59971,6 +59980,7 @@
 14524|1|x-zht|Zuori Qing Kong
 18045|1|x-zht|Zuoshou Shanglan
 19130|1|x-zht|Zuoshou Shanglan 2
+19130|2|x-zht|Zuoshou Shanglan 2nd Season
 18781|1|x-jat|Zutaboro Reijou wa Ane no Moto Kon`yakusha ni Dekiai Sareru
 18781|2|x-jat|Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru
 11376|1|x-jat|Zutto Mae kara Suki Deshita. Kokuhaku Jikkouiinkai
@@ -79961,7 +79971,6 @@
 19033|4|zh-Hans|人间最得意 第二季
 8276|4|ja|人類は衰退しました
 8276|4|zh-Hant|人類衰退之後
-15462|4|ja|人類補姦計画
 12637|4|zh-Hans|人马小姐不迷茫
 3473|4|ja|人魚
 1300|4|ja|人魚の傷
@@ -88189,6 +88198,7 @@
 3203|4|zh-Hant|涼風
 18618|4|ja|淡島百景
 1688|4|ja|淫の方程式
+19307|4|ja|淫モラル・ゲームマスター THE ANIMATION
 14519|2|ja|淫らな青ちゃんは勉強ができない
 14519|4|zh-Hans|淫乱的青酱不能学习
 4942|2|ja|淫堕の姫騎士ジャンヌ
@@ -89253,6 +89263,7 @@
 914|4|zh-Hans|生化猎人
 5222|4|ja|生命の科学ミクロパトロール
 10041|4|zh-Hans|生存游戏社
+19308|4|ja|生徒会にも穴はある!
 6556|4|ja|生徒会の一存
 9090|4|ja|生徒会の一存 Lv.2
 9474|4|ja|生徒会の一存 Lv.2 渡す生徒会
