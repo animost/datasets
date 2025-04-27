@@ -1,4 +1,4 @@
-# created: Fri Apr 25 03:00:01 2025
+# created: Sat Apr 26 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -25012,6 +25012,7 @@
 14173|4|zh-Hant|JOJO 的奇妙冒險 黃金之風
 788|4|en|JoJo`s Bizarre Adventure
 789|4|fr|JoJo`s Bizarre Adventure
+9304|4|de|JoJo`s Bizarre Adventure
 789|2|fr|JoJo`s Bizarre Adventure - DVD 1 & 2
 788|2|fr|JoJo`s Bizarre Adventure - DVD 3 & 4
 789|4|en|JoJo`s Bizarre Adventure (2000)
@@ -28109,6 +28110,8 @@
 11992|4|pt-BR|KONOSUBA! 2 As bençãos de Deus neste mundo maravilhoso!
 13310|4|de|Konosuba! Legend of Crimson
 11261|4|es|Konosuba! Un mundo maravilloso
+17431|4|es|Konosuba! Un mundo maravilloso 3
+18865|4|es|Konosuba! Un mundo maravilloso 3 - Bonus Stage
 13310|4|es|Konosuba! Un mundo maravilloso: La leyenda del carmesí
 11992|4|es|Konosuba! Un mundo maravilloso: Segunda temporada
 9376|3|x-jat|konosumi
@@ -29787,6 +29790,7 @@
 17772|2|x-jat|Lee Tantei Jimusho
 17772|4|en|Lee`s Detective Agency: A Day in Lungmen
 1161|2|en|Leechers Army Merowlink
+19130|2|en|Left-Hand Layup S2
 18045|4|en|Left-Hand Layup!
 19130|2|en|Left-Hand Layup! 2
 19130|2|en|Left-Hand Layup! 2nd Season
@@ -30493,7 +30497,9 @@
 1755|2|en|Locke the Superman/New World Command
 10404|4|en|Locodol
 10404|4|fr|Locodol
+10404|4|es-419|LOCODOL
 11286|2|en|Locodol ova
+10404|2|es-419|Locodol: El divertido mundo de las Idols locales
 169|3|x-jat|Lodoss
 1478|2|fr|Lodoss - La légende de Crystania - Le film
 691|2|fr|Lodoss - La légende de Crystania - OAV
@@ -44370,7 +44376,7 @@
 16698|1|x-zht|Ruguo Lishi Shi Yi Qun Miao (6)
 112|4|tr|Ruhların Kaçışı
 8953|1|x-jat|Rui no Masaiban
-3665|4|pt|Rui, O pequeno Cid
+3665|4|pt|Rui, O Pequeno Cid
 8953|2|en|Rui`s Magical Trials
 8175|2|en|Ruin Arms Brain Jacker
 7609|2|en|Ruin Arms Soul Eater
@@ -48170,6 +48176,7 @@
 16096|4|ja|SLIDE
 1336|4|en|Slight Fever Syndrome
 15201|3|x-jat|Slime 300
+19309|1|x-jat|Slime Boukenki
 8982|1|x-jat|Slime Boukenki: Umi Da, Yeah
 18157|2|en|Slime Cohabitation
 15457|4|en|Slime Diaries: That Time I Got Reincarnated as a Slime
@@ -48398,6 +48405,7 @@
 19084|4|en|Solo Camping for Two
 17495|4|en|Solo Leveling
 17495|4|th|Solo Leveling
+17495|4|de|Solo Leveling
 18576|2|en|Solo Leveling Season 2
 18576|4|en|Solo Leveling Season 2: Arise from the Shadow
 18576|4|de|Solo Leveling Staffel 2 -Arise from the Shadow-
@@ -51674,6 +51682,7 @@
 2709|4|en|The Adventures of Piccolino
 3605|2|en|The Adventures of Pinocchio
 4189|4|en|The Adventures of Scamper the Penguin
+19309|4|en|The Adventures of Slaim
 3631|2|en|The Adventures of Space Oz
 3647|4|en|The Adventures of the Little Prince
 2303|4|en|The Adventures of Tom Sawyer
