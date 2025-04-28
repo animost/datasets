@@ -1,4 +1,4 @@
-# created: Sat Apr 26 03:00:01 2025
+# created: Sun Apr 27 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -117,6 +117,7 @@
 15460|1|x-jat|"Hataraku Saibou!!" Saikyou no Teki, Futatabi. Karada no Naka wa "Chou" Oosawagi!
 12142|2|en|"Heroes" Dismissed
 16424|2|en|"Ippon" Again!
+19310|1|x-jat|"Omae Gotoki ga Maou ni Kateru to Omou na" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai
 17449|1|x-jat|"Oshi no Ko"
 18086|1|x-jat|"Oshi no Ko" (2024)
 18901|1|x-jat|"Oshi no Ko" (2026)
@@ -180,6 +181,7 @@
 9043|4|zh-Hans|「K」
 13066|4|ja|「Magical Music Train 」
 4317|4|ja|「エイジ」
+19310|4|ja|「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので, 王都で気ままに暮らしたい
 19003|4|zh-Hans|「只能触摸一分钟哦...」合租房的秘密规则。
 15157|4|ja|「宇宙戦艦ヤマト」という時代 西暦2202年の選択
 12142|4|ja|「英雄」解体
@@ -38573,6 +38575,7 @@
 14069|2|x-jat|Omae Umasou Da na: Sayonara, Tyranno
 13781|1|x-jat|Omae wa Mada Gunma o Shiranai
 13781|2|x-jat|Omae wa Mada Gunma wo Shiranai
+19310|3|x-jat|omagoto
 13781|3|x-jat|Omagun
 6571|3|x-jat|Omahima
 4063|1|x-jat|Omakase Scrappers
@@ -44183,6 +44186,7 @@
 967|1|x-jat|Rokushin Gattai GodMars
 968|1|x-jat|Rokushin Gattai GodMars (1982)
 1784|1|x-jat|Rokushin Gattai GodMars: Juunanasai no Densetsu
+19310|2|en|Roll Over and Die: I Will Fight for an Ordinary Life with My Love and Cursed Sword!
 5172|4|fr|Rolling Star
 169|3|en|RoLW
 169|3|en|RoLW OVA
@@ -49645,6 +49649,7 @@
 4559|4|en|Strawberry Marshmallow OVA
 4223|1|x-jat|Strawberry Panic
 4223|4|en|Strawberry Panic
+18564|4|en|Strawberry Prince the Movie
 7229|3|en|Stray Cats
 7229|2|en|Stray Cats Overrun!
 9925|2|en|Stray God
@@ -72438,6 +72443,7 @@
 11058|4|ja|おまかせ! みらくるキャット団
 11058|2|ja|おまかせマミタス
 8439|4|ja|おまけ
+19310|3|ja|おまごと
 6571|3|ja|おまひま
 6571|4|ja|おまもりひまり
 14281|4|ja|おむすびころりん
