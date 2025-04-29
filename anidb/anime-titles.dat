@@ -1,4 +1,4 @@
-# created: Sun Apr 27 03:00:02 2025
+# created: Mon Apr 28 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -29601,6 +29601,7 @@
 2154|2|en|Layzner Super Powered Tracer
 18130|1|x-jat|Lazarus
 18130|4|ja|LAZARUS
+18130|4|pl|Lazarus
 18130|4|zh-Hant|LAZARUS拉撒路
 1934|3|x-jat|Lazerion
 12071|2|en|Lazy Bum
@@ -37422,6 +37423,7 @@
 7564|1|x-jat|Ninja Hattori-kun: Nin Nin Ninpou Enikki no Maki
 18132|4|ja|NINJA KAMUI
 18132|1|x-jat|Ninja Kamui
+18132|4|pl|Ninja Kamui
 2641|2|tr|Ninja Kaplumbağalar: Süpermen Efsanesi
 277|4|et|Ninja manuskript
 994|1|x-jat|Ninja Mono
@@ -56051,6 +56053,7 @@
 15063|4|en|Uzumaki
 15063|4|es-419|Uzumaki
 15063|4|cs|Uzumaki
+15063|4|pl|Uzumaki
 15063|2|en|Uzumaki: Spiral Into Horror
 721|3|x-jat|V Gundam
 9376|2|cs|V koutě našeho světa
