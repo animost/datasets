@@ -1,4 +1,4 @@
-# created: Mon Apr 28 03:00:01 2025
+# created: Tue Apr 29 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -215,7 +215,7 @@
 10250|4|ko|`84 태권V
 10250|2|x-kot|`Pal-siip sa Taekwon V
 18082|4|en|`Tis Time for "Torture," Princess
-18566|4|en|`Tis Time for "Torture," Princess 2
+18566|4|en|`Tis Time for "Torture," Princess (2026)
 72|4|he|`איטמן 98
 2369|4|he|`בליץ
 11649|2|x-other|°
@@ -11071,6 +11071,7 @@
 1715|4|en|Demon of Steel: Battle of the Great Demon Beasts
 1899|2|en|Demon of the Kick
 4411|4|en|Demon Prince Enma
+19315|4|en|Demon Queen Just Wants to Make Peace
 14923|2|en|Demon Queen Melissa`s Erotic Adventure Record
 16982|4|de|Demon Slave – The Chained Soldier
 14107|4|en|Demon Slayer
@@ -21875,7 +21876,7 @@
 842|1|x-jat|Hime-chan no Ribbon
 842|4|en|Hime-chan`s Ribbon
 18082|1|x-jat|Hime-sama "Goumon" no Jikan Desu
-18566|1|x-jat|Hime-sama "Goumon" no Jikan Desu 2
+18566|1|x-jat|Hime-sama "Goumon" no Jikan Desu (2026)
 9033|1|x-jat|Hime-sama Gentei!
 4240|1|x-jat|Hime-sama Goyoujin
 14724|1|x-jat|Hime-sama Love Life!
@@ -22225,6 +22226,7 @@
 11239|4|ja|HOMÉ-PATO THE MOVIE
 16117|4|ja|HOME!
 16117|1|x-jat|Home!
+19311|2|en|Homeless
 1827|2|en|Homeless Child Remy
 7723|4|pt|Homem de Ferro
 1236|2|pt|Homem-Diabo
@@ -24732,6 +24734,7 @@
 15219|1|x-zht|Jiao Jiao Yu Jing Jing
 11978|1|x-zht|Jiaoao de Jiangjun
 15655|1|x-kot|Jib
+19311|1|x-kot|Jib-i eobs-eo
 14757|1|x-jat|Jibaku Shounen Hanako-kun
 17791|1|x-jat|Jibaku Shounen Hanako-kun 2
 19262|1|x-jat|Jibaku Shounen Hanako-kun 3
@@ -28816,6 +28819,7 @@
 7120|1|x-jat|Kyou no Go no Ni (2009)
 7120|2|x-jat|Kyou no Go no Ni OAD
 7120|2|x-jat|Kyou no Go no Ni: Takarabako
+19314|1|x-jat|Kyou wa Yubiwa o Hazusu kara......
 7618|1|x-jat|Kyou, Koi o Hajimemasu
 7618|2|x-jat|Kyou, Koi wo Hajimemasu
 12851|1|x-jat|Kyoudai Koguma
@@ -33170,6 +33174,7 @@
 361|2|tr|Mavi Denizaltı No.6
 5044|2|tr|Mavi Ejder
 1022|4|tr|Mavi Gökyüzü
+19315|1|x-kot|Mawangnim-eun Juggo Sip-eo
 8421|1|x-jat|Mawaru Penguindrum
 8421|4|it|Mawaru Penguindrum
 8421|4|fr|Mawaru Penguindrum
@@ -37596,6 +37601,7 @@
 15143|1|x-jat|No Guns Life (2020)
 15143|2|x-jat|No Guns Life 2nd Part
 15143|2|en|No Guns Life Season 2
+19311|4|en|No Home
 10645|1|x-jat|No Littering
 10645|4|ja|NO LITTERING
 17507|4|en|No Longer Allowed In Another World
@@ -39491,6 +39497,7 @@
 18970|2|en|Otherworldly Munchkin: Let`s Speedrun the Dungeon with Only 1 HP!
 5406|3|x-jat|otk
 6169|3|x-jat|otk2
+2884|2|sr|Otkrića bez granica
 4003|3|x-jat|Otoboku
 17281|2|x-jat|OtoBoku Trinkle Stars
 4003|4|en|Otoboku: Maidens Are Falling for Me
@@ -39640,8 +39647,10 @@
 18756|1|x-jat|OVA Incha Couple ga You Gal-tachi to Sex Training Suru Hanashi
 13769|1|x-jat|OVA Muttsuri Do Sukebe Ro Gibo Shimai no Honshitsu Minuite Sex Zanmai
 11268|1|x-jat|OVA Tokyo Ghoul
+19313|1|x-jat|OVA Tonari Kanojo
 11271|1|x-jat|OVA Tsunpuri
 6285|1|x-jat|OVA Utawarerumono
+19312|1|x-jat|OVA Yogoreta Kanojo
 19105|1|x-jat|OVA Yuugao
 19007|2|ko|OVA 간다간다 서큐버스 재교육
 13769|2|ko|OVA 과묵한 호색한 외자매 본심을 내보이는 섹스 삼매경
@@ -39653,7 +39662,9 @@
 6285|4|ja|OVA うたわれるもの
 18049|2|ja|OVA ツンデロシリーズ
 11271|4|ja|OVA ツンプリ
+19313|4|ja|OVA トナリノカノジョ
 13769|4|ja|OVA むっつりドスケベ露義母姉妹の本質見抜いてセックス三昧
+19312|4|ja|OVA ヨゴレタカノジョ
 6285|2|zh-Hans|OVA 传颂之物
 18587|4|ja|OVA 僕にハーレムセフレが出来た理由
 19105|4|ja|OVA 夕顔
@@ -43456,6 +43467,7 @@
 9802|1|x-jat|Recorder to Ransel Mi
 9034|1|x-jat|Recorder to Ransel Re
 17133|2|en|Records of a Guidance Counselor`s Hypnotic Sex Life
+19316|2|en|Records of the Heavenly Capital
 17973|2|en|Records of the Search for the Lustful Elves
 13345|4|en|Recovery of an MMO Junkie
 13345|4|fr|Recovery of an MMO Junkie
@@ -50957,6 +50969,7 @@
 5387|1|x-jat|Tarou no Banpei Senkoutei no Maki
 6703|1|x-jat|Tarou-san no Kisha
 187|3|x-jat|Taruto
+19317|1|x-jat|TarZAN
 13092|2|de|Tarzerix der Rächer
 8852|1|x-jat|Tasogare Otome x Amnesia
 18097|2|x-jat|Tasogare Out Focus
@@ -52553,7 +52566,7 @@
 14985|2|en|The Legend of Qin: Nine Songs of the Sky 2
 1212|2|en|The Legend of Reyon: Flair
 5829|2|en|The Legend of Reyon: From New Struggles
-17181|1|en|The Legend of Sealed Book
+17181|4|en|The Legend of Sealed Book
 11411|4|en|The Legend of Shangri-La
 1141|2|en|The Legend of Shenlong
 17085|2|en|The Legend of Sky Lord
@@ -53607,6 +53620,7 @@
 16750|1|x-zht|Tian Huang Zhan Shen
 16043|1|x-zht|Tian Mei De Yao Hen
 16757|1|x-zht|Tian Qi Ri
+17181|1|x-zht|Tian Shu Qi Tan
 18692|2|x-zht|Tian Ting Ban Zhuan Xia
 14402|1|x-zht|Tian Xing Jiu Ge
 14985|1|x-zht|Tian Xing Jiu Ge Di Er Ji
@@ -53616,6 +53630,7 @@
 15370|2|x-zht|Tian Yu 2nd Season: Cang Gu Zhi Ban
 15370|2|x-zht|Tian Yu: Cang Gu Zhi Ban
 16312|2|x-zht|Tianbao Fu Yao Lu (2021)
+19316|1|x-zht|Tiandu Yilu
 19128|1|x-zht|Tianming Da Zhuzai
 15844|1|x-zht|Tiantian Chengzhang Ji
 15845|1|x-zht|Tiantian Chengzhang Ji 2
@@ -55766,6 +55781,7 @@
 11035|2|en|Unspeakable Things
 9388|1|x-jat|Unsweet: Netorare Ochita Onna-tachi
 11248|4|en|Untitled
+19316|2|en|Unusual Tales of the Imperial Capital
 15240|3|x-jat|uo
 14907|4|vi|Ước mơ sản xuất anime
 5470|2|vi|Ước mơ vĩnh cửu
@@ -68634,6 +68650,7 @@
 11856|2|ko|마시마로★여동생★서큐버스
 9287|4|ko|마오유우 마왕용사
 14391|2|ko|마왕님, 리트라이!
+19315|4|ko|마왕님은 죽고 싶어
 15095|2|ko|마왕성에서 잘 자요
 12076|2|ko|마왕의 제물 3
 15131|4|ko|마왕학원의 부적합자 ~사상 최강의 마왕인 시조, 전생해서 자손들의 학교에 다니다~
@@ -70377,6 +70394,7 @@
 15655|4|ko|집
 3336|2|ko|집단 치한 전차
 13376|4|ko|집에서 한 잔
+19311|4|ko|집이 없어
 17482|2|ko|징계2～광육적 백화점 여직원 지도
 2514|2|ko|징벌
 1711|2|ko|징벌예비교
@@ -74905,6 +74923,7 @@
 2789|4|ja|ダークキャット
 961|4|ja|ダークサイド・ブルース
 1587|2|ja|ダークロウズ
+19317|4|ja|ターザン
 6941|4|ja|ターチャンの怪物退治
 6740|4|ja|ターチャンの海底旅行
 401|4|ja|ダーティペア
@@ -80028,6 +80047,7 @@
 6054|4|ja|今日の5の2 (2008)
 7120|4|ja|今日の5の2 (2009)
 9286|4|ja|今日のあすかショー
+19314|4|ja|今日は指輪を外すから……
 14597|4|ja|今日もツノがある
 16410|2|ja|今日子と勝也の物語
 7618|3|ja|今日恋
@@ -83207,6 +83227,7 @@
 15370|4|zh-Hans|天谕 第二季
 15370|2|zh-Hans|天谕 第二季 苍古之绊
 15370|4|zh|天谕 苍古之绊
+19316|4|zh-Hans|天都异录
 6658|4|zh-Hans|天降之物
 8271|4|zh-Hans|天降之物 计时的悲伤女神
 7628|4|zh-Hans|天降之物f
@@ -83662,7 +83683,7 @@
 5950|2|ja|姫奴隷
 5950|4|ja|姫奴隷 ~牝へと堕ちゆく双子の王女~
 18082|4|ja|姫様"拷問"の時間です
-18566|4|ja|姫様"拷問"の時間です 2
+18566|4|ja|姫様"拷問"の時間です (2026)
 14724|4|ja|姫様LOVEライフ!
 4240|4|ja|姫様ご用心
 9033|4|ja|姫様限定!
