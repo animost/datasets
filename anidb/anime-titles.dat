@@ -1,4 +1,4 @@
-# created: Tue Apr 29 03:00:02 2025
+# created: Wed Apr 30 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3048,6 +3048,7 @@
 18502|4|pl|Anzu. Kot-duch
 16358|1|x-jat|Ao Ashi
 16358|4|fr|Ao Ashi - Playmaker
+19318|1|x-jat|Ao Ashi (2026)
 826|2|vi|Áo Giáp Vàng
 10385|1|x-jat|Ao Haru Ride
 10626|1|x-jat|Ao Haru Ride OAD
@@ -3085,6 +3086,7 @@
 361|3|x-jat|AO6
 16358|4|en|Aoashi
 16358|2|x-jat|Aoashi
+19318|2|en|Aoashi (2026)
 13900|3|x-jat|aobuta
 14397|3|x-jat|aobuta movie
 17640|3|x-jat|aobuta movie 2
@@ -30301,6 +30303,8 @@
 9566|2|x-jat|Line Offline: Salaryman
 9786|1|x-jat|Line Town
 9786|4|ja|LINE TOWN
+10948|4|x-unk|Línea Final
+10948|4|es-419|Línea Final
 5629|2|x-jat|linebarrels
 5629|4|en|Linebarrels of Iron
 16850|1|x-zht|Ling Cao Xiao Zhanshi
@@ -33036,6 +33040,7 @@
 1624|1|x-jat|Masaru Ashita no Yukinojou 2
 1624|4|ja|Masaru あしたの雪之丞2
 8319|3|x-jat|mashifoni
+18406|2|en|Mashin Creator Wataru
 3636|1|x-jat|Mashin Eiyuuden Wataru
 5755|2|en|Mashin Eiyuuden Wataru - The Never-Ending Tale of Time
 3637|1|x-jat|Mashin Eiyuuden Wataru 2
@@ -45666,7 +45671,7 @@
 6023|1|x-jat|Scarecrowman
 12065|1|x-jat|Scared Rider Xechs
 12065|2|ja|Scared Rider XechS
-19073|2|en|Scarlet
+19073|4|en|Scarlet
 8840|2|en|Scarlet Fragment
 16135|1|x-jat|Scarlet Nexus
 16135|4|ja|SCARLET NEXUS
@@ -71224,6 +71229,7 @@
 748|4|ja|アウトランダーズ
 8110|2|ja|アオーク
 16358|4|ja|アオアシ
+19318|4|ja|アオアシ (2026)
 12322|4|ja|あおおに ~じ・あにめぇしょん~
 7938|4|ja|アオス
 17401|4|ja|アオゾラ
@@ -84417,6 +84423,7 @@
 10421|4|zh-Hans|山贼的女儿罗妮娅
 15296|4|zh-Hans|岁城璃心-鬼蜮咒原篇
 19083|4|zh-Hans|岁月流逝饭菜依旧美味
+333|2|zh-Hans|岁月的童话
 15089|4|ja|岐阜のたてかよこ
 1868|4|zh-Hans|岩窟王
 15831|4|ja|岬のマヨイガ
@@ -87321,7 +87328,7 @@
 16530|4|zh-Hans|枕刀歌之尘世行
 11213|4|ja|枕男子
 11213|4|zh-Hans|枕男子
-19073|4|ja|果てしなきスカーレッ
+19073|4|ja|果てしなきスカーレット
 9890|4|zh-Hant|果然我的青春戀愛喜劇搞錯了 OAD
 9310|4|zh-Hant|果然我的青春戀愛喜劇搞錯了.
 14764|4|zh-Hant|果然我的青春戀愛喜劇搞錯了。完
