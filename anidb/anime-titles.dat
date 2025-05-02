@@ -1,4 +1,4 @@
-# created: Wed Apr 30 03:00:01 2025
+# created: Thu May  1 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -10194,6 +10194,7 @@
 15694|2|x-zht|Dahua Zhi Shaonian You
 15694|1|x-zht|Dahua: Shaonian You
 13641|1|x-zht|Dahufa
+17434|1|x-zht|Dahuoji Yu Gongzhu Qun
 14203|1|x-jat|Dai 501 Tougou Sentou Koukuu Dan Strike Witches: Road to Berlin
 1847|4|de|Dai Akuji
 15932|4|vi|Đại chiến người và thần
@@ -14158,7 +14159,6 @@
 15711|1|x-jat|Eiga Sayonara Watashi no Cramer: First Touch
 9950|2|x-jat|Eiga Sekaiichi Hatsukoi
 18881|1|x-jat|Eiga Senpai wa Otokonoko: Ame Nochi Hare
-19252|1|x-jat|Eiga Shimajiro: Miracle-jima no Nanairo Carnation
 13553|1|x-jat|Eiga Shimajirou: Mahou no Shima no Daibouken
 17068|1|x-jat|Eiga Shimajirou: Shimajirou to Kirakira Oukoku no Ouji-sama
 15239|1|x-jat|Eiga Shimajirou: Shimajirou to Sora Tobu Fune
@@ -21146,6 +21146,7 @@
 18767|2|en|Hell Teacher
 2100|2|en|Hell Teacher Nube
 2101|2|en|Hell Teacher Nube (1996)
+19321|2|en|Hell Teacher Nube (2026)
 4017|4|en|Hell Teacher Nube OVA
 4018|2|en|Hell Teacher Nube: 0 a.m. Nube Dead
 4019|2|en|Hell Teacher Nube: Summer Holiday of Fear! Legend of the Sea of Suspicion
@@ -24764,6 +24765,7 @@
 2101|1|x-jat|Jigoku Sensei Nube (1996)
 4017|1|x-jat|Jigoku Sensei Nube (1998)
 18767|1|x-jat|Jigoku Sensei Nube (2025)
+19321|1|x-jat|Jigoku Sensei Nube (2026)
 4019|2|x-jat|Jigoku Sensei Nube MOVIE (1997 Summer)
 4018|1|x-jat|Jigoku Sensei Nube: Gozen 0 Ji Nube Shisu!
 4019|2|x-jat|Jigoku Sensei Nube: Kyofu no Natsu Yasumi!! Ayakashi no Umi no Densetsu!
@@ -30250,7 +30252,8 @@
 12314|1|x-jat|Life!
 8964|1|x-jat|Light Lag
 1929|2|en|Light-Speed Electro-God Albegus
-17434|1|x-jat|Lighter & Skirt
+17434|4|en|Lighter & Princess Dress
+17434|2|en|Lighter & Skirt
 9646|2|en|Lightning Atom
 554|2|en|Lightning Attacker Exstars Battle Skipper
 4064|2|en|Lightning Super Express Hikarian
@@ -33221,7 +33224,6 @@
 11863|1|x-jat|Mayoiga
 13223|1|x-jat|Mayoiga no Onee-san The Animation
 19210|1|x-jat|Mayonaka Heart Tune
-19243|1|x-jat|Mayonaka no Boitore Danshi
 14172|1|x-jat|Mayonaka no Occult Koumuin
 14706|1|x-jat|Mayonaka no Occult Koumuin: Fukurokouji to Anoko to Ore to
 16451|1|x-jat|Mayonaka no Yuugi: Nora ver.
@@ -34596,6 +34598,7 @@
 5530|4|ja|Mnemosyne -ムネモシュネの娘たち-
 5530|1|x-jat|Mnemosyne: Mnemosyne no Musume-tachi
 8357|3|x-jat|mng movie
+18424|3|en|mng oms
 11827|3|x-jat|mng ova
 6327|3|x-jat|mng s1
 8658|3|x-jat|mng s2
@@ -37682,7 +37685,6 @@
 13129|2|en|Nocturn
 18418|4|ja|NocturnaL
 18418|1|x-jat|Nocturnal
-19245|1|x-jat|Nocturne Boogie
 4691|3|x-jat|noda
 4691|3|x-jat|Nodame
 5941|3|x-jat|nodame 2
@@ -41808,7 +41810,6 @@
 13175|4|it|Poupelle della città dei camini
 13175|4|en|Poupelle of Chimney Town
 19291|2|en|Poupelle of Chimney Town: The Promised Clock Tower
-19244|1|x-jat|Poutaun no Nakama-tachi
 755|2|cs|Poválečný Gundam X
 9515|4|ro|Povestea prințesei Kaguya
 481|4|ro|Povestiri cu Fantome
@@ -46859,6 +46860,7 @@
 18458|1|x-zht|Shen Yin Wangzuo 2
 18458|2|x-zht|Shen Yin Wangzuo 2nd Season
 18458|2|x-zht|Shen Yin Wangzuo Di Er Ji
+19319|1|x-zht|Shen Yin Wangzuo Movie: Yi Lai Ke Si Chuanqi
 18590|1|x-zht|Shen Zhi Yi Jiao
 18590|2|x-zht|Shen Zhiyi Jiao
 15237|1|x-zht|Shenbi
@@ -47940,7 +47942,6 @@
 2054|4|de|Sinkan
 6589|4|cs|Šinko a kouzelná šošolka
 5640|4|en|Sinners Paradise
-19251|1|x-jat|SINoALICE: Ichiban Saigo no Monogatari
 1403|4|en|Sins of the Flesh
 2552|4|en|Sins of the Sisters
 11829|4|et|Sinu nimi on...
@@ -48199,6 +48200,7 @@
 16096|4|ja|SLIDE
 1336|4|en|Slight Fever Syndrome
 15201|3|x-jat|Slime 300
+17110|3|en|Slime 300 s2
 19309|1|x-jat|Slime Boukenki
 8982|1|x-jat|Slime Boukenki: Umi Da, Yeah
 18157|2|en|Slime Cohabitation
@@ -50683,7 +50685,6 @@
 946|2|x-jat|Takegami
 946|2|en|Takegami: War God
 13338|2|en|Taking Everybody`s Husband Home
-19246|1|x-jat|Takkyuu Shoujo: Senkou no Kanata e
 8389|2|x-jat|Tako
 13812|4|hr|Tako je govorio Kishibe Rohan
 6201|1|x-jat|Tako ni Natta Okaasan
@@ -51925,6 +51926,7 @@
 306|2|en|The Crimson Pig
 2179|2|en|The Crow
 1233|2|ja|The Crown Knights Jaja馬!カルテット
+19319|2|en|The Crownless God
 15392|2|en|The Crucifixion
 14749|2|en|The Cuckold Records of Sakuramiya Sisters
 1678|2|en|The Cunning Monk
@@ -52945,6 +52947,7 @@
 3480|4|en|The Roommate
 7273|2|en|The Rose and Joe
 181|4|en|The Rose of Versailles
+17609|4|en|The Rose of Versailles (2025)
 3542|2|en|The Rose of Versailles: I`ll Love You As Long As I Live
 5133|2|en|The Rough and Ready Cowboy
 12485|4|en|The Royal Tutor
@@ -53577,6 +53580,10 @@
 17350|4|en|Throne of Seal
 18458|2|en|Throne of Seal 2
 18458|2|en|Throne of Seal 2nd Season
+19319|2|en|Throne of Seal Movie: The Crownless God
+19319|2|en|Throne of Seal Movie: The Legend of Electrolux
+19319|2|en|Throne of Seal The Movie: The Crownless God
+19319|2|en|Throne of Seal: The Crownless God
 14668|4|ja|Through the Windows
 14668|1|x-jat|Through the Windows
 102|4|vi|Thủ lĩnh thẻ bài
@@ -55582,6 +55589,7 @@
 14537|1|x-jat|Umayon
 14537|4|en|Umayon
 17352|1|x-jat|Umayuru
+19320|1|x-jat|Umayuru: Pretty Gray
 9665|3|en|UMD
 4958|1|x-jat|Umeboshi-denka
 4959|1|x-jat|Umeboshi-denka: Uchuu no Hate kara Panparopan!
@@ -71990,6 +71998,7 @@
 8991|4|ja|うぽって!! みあって わらって
 13380|4|ja|ウマのフレンズ
 17352|4|ja|うまゆる
+19320|4|ja|うまゆる ぷりてぃ~ぐれい
 14537|4|ja|うまよん
 18829|4|ja|ウマ娘 シンデレラグレイ
 13034|4|ja|ウマ娘 プリティーダービー
@@ -74150,7 +74159,6 @@
 3572|4|ja|しにがみのバラッド.
 7706|2|ja|シニカル・ヒステリー・アワー
 18262|4|ja|シニシスタ
-19251|4|ja|シノアリス 一番最後のモノガタリ
 9173|4|ja|しばいたろか
 8986|4|ja|しばいぬ子さん
 2993|4|ja|ジバクくん TWELVE WORLD STORY
@@ -76202,7 +76210,6 @@
 9801|4|ja|のうりん
 3512|4|ja|ノエイン もうひとりの君へ
 7336|4|ja|ノエルの不思議な冒険
-19245|4|ja|ノクターンブギ
 17488|4|ja|ノケモノたちの夜
 10943|4|ja|のせわすれ THE ANIMATION 女教師中善寺綾乃の淫鬱なこれから
 10672|4|ja|ノゾxキミ
@@ -77617,7 +77624,6 @@
 10757|4|ja|ボーイ・ミーツ・ハーレム THE ANIMATION
 7342|2|ja|ボーイフレンド
 17878|4|ja|ポーション頼みで生き延びます!
-19244|4|ja|ポータウンのなかまたち
 3958|4|ja|ポータブル空港
 12974|4|ja|ボーノーモ
 370|4|ja|ホーホケキョとなりの山田くん
@@ -81698,7 +81704,6 @@
 15384|4|ja|卒業○○電車
 1362|4|ja|卒業M ~オレ達のカーニバル~
 15384|2|ja|卒業痴漢電車
-19246|4|ja|卓球少女 閃光のかなたへ
 6908|4|ja|協力防空戦
 18225|4|zh-Hans|单间、光照尚好、附带天使。
 10073|4|zh|卖猪
@@ -82579,6 +82584,7 @@
 2101|4|ja|地獄先生ぬ~べ~ (1996)
 4017|4|ja|地獄先生ぬ~べ~ (1998)
 18767|4|ja|地獄先生ぬ~べ~ (2025)
+19321|4|ja|地獄先生ぬ~べ~ (2026)
 4018|4|ja|地獄先生ぬ~べ~ 午前0時ぬ~べ~死す!
 4019|4|ja|地獄先生ぬ~べ~ 恐怖の夏休み!! 妖しの海の伝説!
 7935|4|ja|地獄堂霊界通信
@@ -86794,7 +86800,6 @@
 17068|4|ja|映画しまじろう しまじろうと キラキラおうこくの おうじさま
 15239|4|ja|映画しまじろう しまじろうと そらとぶふね
 13553|4|ja|映画しまじろう まほうのしまの だいぼうけん
-19252|4|ja|映画しまじろう ミラクルじまの なないろカーネーション
 8957|4|ja|映画ジュエルペット スウィーツダンスプリンセス
 14544|4|ja|映画スター☆トゥインクルプリキュア 星のうたに想いをこめて
 12515|4|ja|映画たまごっち ヒミツのおとどけ大作戦!
@@ -89723,7 +89728,6 @@
 8230|3|ja|真剣恋
 14172|4|ja|真夜中のオカルト公務員
 14706|4|ja|真夜中のオカルト公務員 袋小路とあの子と俺と
-19243|4|ja|真夜中のボイトレ男子
 16451|4|ja|真夜中の誘戯（まよなかのいたずら） -ノーラver.-
 19210|4|ja|真夜中ハートチューン
 18454|4|ja|真夜中ぱんチ
@@ -89887,6 +89891,8 @@
 18582|4|zh-Hans|神医九小姐 第二季
 17350|4|zh-Hans|神印王座
 18458|4|zh-Hans|神印王座 第二季
+19319|4|zh-Hans|神印王座剧场版 伊莱克斯传奇
+19319|2|zh-Hans|神印王座剧场版：伊莱克斯传奇
 148|2|ja|神周鳥侠侶 ~コンドル・ヒーロー~
 11266|4|zh-Hans|神圣之门
 4385|2|zh-Hans|神圣十月
