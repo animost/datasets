@@ -1,4 +1,4 @@
-# created: Thu May  1 03:00:01 2025
+# created: Fri May  2 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1093,6 +1093,7 @@
 3|4|pt|A Revolta dos Humanos - 3x3 Olhos
 17583|4|hu|A romantikus gyilkos
 181|4|pt-BR|A Rosa de Versalhes
+17609|4|pt|A Rosa de Versalhes
 1100|4|pt|A Saga da Sereia
 18103|4|en|A Salad Bowl of Eccentrics
 17662|2|en|A Salaryman`s Path to Surviving Another World
@@ -17481,6 +17482,7 @@
 1805|3|x-jat|GB S1
 880|3|x-jat|gb s2
 2679|3|x-jat|gb2
+17998|3|en|gbc
 9960|3|en|gbf
 10681|3|en|gbft
 1805|3|x-jat|GBS1
@@ -26926,7 +26928,6 @@
 12105|4|en|Kiitaro`s Yokai Picture Diary
 12105|1|x-jat|Kiitarou Shounen no Youkai Enikki
 16614|1|x-jat|Kijin Gentou Shou
-16614|2|x-jat|Kijin Gentoushou
 2176|1|x-jat|Kijoku: Princess Double Kari
 2572|1|x-jat|Kijutsushi x Majutsushi: Ousaka Gakuen Tantei Bu no Jikenbo - In`ya ni Warau Kage Hitotsu
 2572|2|x-jat|Kijutsushi x Majutsushi: Ousaka Gakuen Tanteibu no Jikenbo
@@ -29148,6 +29149,7 @@
 757|2|es|La ilusión de triunfar
 167|4|es|La invencible Nuku Nuku
 9921|4|es|La isla de Giovanni
+16033|4|es-419|La isla de las sombras
 6299|4|es|La Isla de los Recuerdos y el Espejo Mágico
 2214|4|es|La Isla del Tesoro
 3619|2|fr|La jeune fille aux camélias
@@ -35909,6 +35911,7 @@
 13633|2|fr|My Hero Academia The Movie: Two Heroes
 18150|4|pt-BR|My Hero Academia: Agora é a Sua Vez
 18150|4|es-419|My Hero Academia: Ahora es tu turno
+18150|4|pt|My Hero Academia: És o Próximo
 14776|4|fi|My Hero Academia: Heroes Rising
 14776|4|en|My Hero Academia: Heroes Rising
 14776|4|fr|My Hero Academia: Heroes Rising
@@ -37619,6 +37622,7 @@
 7189|2|en|No Longer Human: Director`s Cut Edition
 17507|2|en|No Longer Human...In Another World
 17703|4|fr|No Longer Rangers
+19322|4|en|No Love Zone
 4645|4|en|No Money!
 12772|2|en|No No Pessimist
 10676|4|es-419|No puedo entender lo que dice mi esposo
@@ -48209,6 +48213,7 @@
 18157|2|en|Slime Living Together
 15201|1|x-jat|Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita
 17110|2|x-jat|Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita S2
+17110|2|en|Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita S2
 17110|1|x-jat|Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita Sono Ni
 134|3|en|SLMHS
 5801|2|pl|Słodki domek Chi
@@ -51004,6 +51009,7 @@
 7243|3|en|tatami
 7243|3|en|tatami galaxy
 16533|2|en|Tatami Time Machine Blues
+16533|4|es-419|Tatami: La máquina del tiempo
 11384|1|x-jat|Tatamp
 11384|4|ja|TATAMP
 13246|3|en|Tate
@@ -53219,6 +53225,8 @@
 8242|2|en|The Suffering Pariah Kaiji: Backslide Arc
 8242|2|en|The Suffering Pariah Kaiji: Maverick Arc
 5427|2|en|The Suffering Pariah Kaiji: Ultimate Survivor
+17512|4|en|The Summer
+19021|4|en|The Summer (2023)
 18649|4|en|The Summer Hikaru Died
 6633|2|en|The Summer of Dioxin
 14529|2|en|The Summer Vacation Treasure Hunt
@@ -58344,7 +58352,6 @@
 2919|4|ja|YAMATO2520
 4697|4|pt|Yamazaki, O Rei da Turma
 18528|2|x-jat|Yami Healer
-18528|2|x-unk|Yami Healer
 5889|2|x-jat|Yami Ichiba: Bijo Dorei
 750|1|x-jat|Yami no Matsuei
 750|2|pl|Yami no matsuei: Ostatni synowie ciemności
@@ -58536,6 +58543,7 @@
 15527|2|x-kot|Yeon-ae Halujeon 2
 15526|1|x-kot|Yeon-ae Haru Jeon
 15527|1|x-kot|Yeon-ae Haru Jeon 2
+19322|1|x-kot|Yeon-aejehanguyeog
 10796|2|x-kot|Yeongsimi
 4734|2|x-kot|Yeopgi Ingeol Sunako
 18806|1|x-kot|Yeosin Gangnim
@@ -67942,6 +67950,7 @@
 16250|4|ko|그 비스크 돌은 사랑을 한다
 11328|2|ko|그 아이와 좋은 일
 17512|4|ko|그 여름
+19021|4|ko|그 여름 (2023)
 8620|2|ko|그 여름에서 기다릴게
 11011|4|ko|그것이 성우!
 8181|4|ko|그날 본 꽃의 이름을 우리는 아직 모른다
@@ -69852,6 +69861,7 @@
 9460|2|ko|연사기념일
 5205|2|ko|연쇄병동
 10533|4|ko|연애불필요학파
+19322|4|ko|연애제한구역
 11822|4|ko|연애폭군
 15526|4|ko|연애하루전
 15500|2|ko|연애하루전 (2018)
