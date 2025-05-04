@@ -1,4 +1,4 @@
-# created: Fri May  2 03:00:02 2025
+# created: Sat May  3 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -238,6 +238,7 @@
 10875|4|fa|√A توکیو غول
 11649|4|ja|○
 15249|4|ko|○○교배
+8332|2|x-jat|○○と淫行教師4
 15249|4|ja|○○交配
 10306|4|ja|☆ケロロ☆
 4726|2|x-other|❄
@@ -2618,6 +2619,7 @@
 1061|4|lt|Anė iš žaliujų mansardų
 7915|1|x-jat|Ane Jiru 2 The Animation: Shirakawa San Shimai ni Omakase
 4823|1|x-jat|Ane Jiru The Animation: Shirakawa San Shimai ni Omakase
+18174|2|x-jat|Ane Joku Tsukushi
 9552|1|x-jat|Ane Koi: Suki Kirai Daisuki.
 10716|1|x-jat|Ane Kyun! Joshi ga Ie ni Kita!
 10673|1|x-jat|Ane Log: Moyako Nee-san no Tomaranai Monologue
@@ -24894,6 +24896,7 @@
 12698|1|x-jat|Jitaku Keibiin
 14725|1|x-jat|Jitaku Keibiin (2019)
 15337|1|x-jat|Jitaku Keibiin 2: Haibara-ke no Ketsuzoku
+14725|2|x-jat|Jitaku Keibiin Target
 13075|1|x-jat|Jitensha Hen
 17611|1|x-jat|Jitsu wa Ore, Saikyou Deshita?
 11048|1|x-jat|Jitsu wa Watashi wa
@@ -28551,6 +28554,7 @@
 10152|1|x-jat|Kumori Nochi Hare
 17830|1|x-zht|Kun Bing Zhi Long
 2343|2|es|Kun Kun
+19323|1|x-zht|Kun Tun Tianxia Zhi Zhang Men Guilai
 8499|1|x-zht|Kung Fu Cooking Girls
 8499|2|x-zht|Kung Fu Liao Li Niang
 4889|2|lt|Kung Fu Meilė
@@ -51723,6 +51727,7 @@
 4035|4|en|The Affectuous Family
 19011|4|de|The After-Dinner Mysteries
 18443|2|en|The Age of Cosmos Exploration
+19323|4|en|The All-devouring Whale: Homecoming
 2300|2|en|The Alps Story: My Annette
 2876|4|en|The Amazing 3
 2876|2|en|The Amazing Three
@@ -72067,6 +72072,7 @@
 11084|4|ja|うわばきクック
 7451|4|ja|うんこさん ツイてる人にしか見えない妖精
 9443|4|ja|うんこさん ツイてる人にしか見えない妖精 純情派
+17205|2|ja|エ○○ーマン
 5137|2|ja|エー・ガール
 14292|2|ja|エーアールピーバックステージパス
 15048|2|ja|エースリー Season Autumn & Winter
@@ -72688,6 +72694,7 @@
 14599|4|ja|ガキにもどって犯りなおしっ!!!
 7067|2|x-unk|かぎろひ〜勺景〜
 7067|4|ja|かぎろひ~勺景~
+7067|2|x-jat|かぎろひ～勺景～
 13340|4|ja|かぎろひ~勺景~ Another
 4125|4|ja|がくえんゆーとぴあ まなびストレート!
 15267|4|ja|かくしごと
@@ -79224,6 +79231,7 @@
 16399|4|ja|ワッチャプリマジ!
 5553|4|ja|ワット・ポーとぼくらのお話
 13886|4|ja|わらいかわせみに話すなよ
+7102|2|x-jat|ワルキューレ○○・ザーメンタンクの戦乙女10人姉妹
 9931|4|ja|ワルキューレロマンツェ
 7102|4|ja|ワルキューレ調教・ザーメンタンクの戦乙女10人姉妹
 14972|4|ja|われしょ!~我ら!小動物愛護委員会~
@@ -91063,6 +91071,7 @@
 14866|4|zh-Hans|自古英雄出少年
 12698|4|ja|自宅警備員
 14725|4|ja|自宅警備員 (2019)
+14725|2|ja|自宅警備員 ターゲット
 15337|2|ja|自宅警備員2
 15337|4|ja|自宅警備員2 灰原家の血族
 2031|4|ja|自慰倒錯
@@ -94375,6 +94384,7 @@
 6432|4|zh-Hans|鲁邦三世VS名侦探柯南
 13670|4|zh-Hans|鲁邦还在燃烧吗？
 17772|2|zh-Hans|鲤氏侦探事务所
+19323|4|zh-Hans|鲲吞天下之掌门归来
 17223|4|ja|鳥
 4855|4|ja|鳥の歌
 12268|4|ja|鳥獣戯画
