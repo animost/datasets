@@ -1,4 +1,4 @@
-# created: Mon May  5 03:00:01 2025
+# created: Tue May  6 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -513,6 +513,8 @@
 13597|4|ko|25세의 여고생
 13597|4|zh-Hans|25岁的女高中生
 13597|4|ja|25歳の女子高生
+19324|1|x-jat|29-sai Dokushin Chuuken Boukensha no Nichijou
+19324|4|ja|29歳独身中堅冒険者の日常
 2984|2|x-jat|2koi
 7195|2|en|2nd Lieutenant Norakuro: Sunday Magic
 1423|1|x-jat|2x1
@@ -6403,9 +6405,7 @@
 14416|3|x-jat|bnha4
 15484|3|x-jat|bnha5
 16793|3|x-jat|bnha6
-16793|3|en|bnha6, heroaca6
 17931|3|x-jat|bnha7
-17931|3|x-unk|bnha7, heroaca7
 18921|3|x-jat|bnha8
 15320|3|en|BnR
 1551|3|x-jat|bns
@@ -15489,7 +15489,6 @@
 8102|2|x-jat|Fate: Carnival Phantasm
 8824|2|x-jat|Fate: Carnival Phantasm: EX Season
 13705|2|x-jat|Fate: Emiya-san Chi no Kyou no Gohan
-12704|2|x-jat|Fate: Fate/Apocrypha
 12046|2|x-jat|Fate: Fate/Extra: Last Encore
 15899|2|x-jat|Fate: Fate/Grand Carnival
 13644|2|x-jat|Fate: Fate/Grand Order x Himuro no Tenchi: 7-nin no Saikyou Ijin Hen
@@ -21514,6 +21513,7 @@
 13485|3|en|heroaca3
 14416|3|x-jat|heroaca4
 15484|3|x-jat|heroaca5
+16793|3|en|heroaca6
 10389|2|en|Herobank
 1217|4|es-419|Héroes al Rescate
 15859|2|en|Heroes Don`t Bi-Bi
@@ -22428,7 +22428,6 @@
 13704|3|x-jat|horei3
 9229|1|x-jat|Hori-san to Miyamura-kun
 787|2|cs|Hořící přelud
-9229|3|x-jat|horimiya
 15733|1|x-jat|Horimiya
 15733|4|en|Horimiya
 9229|3|x-jat|horimiya ova
@@ -30312,7 +30311,6 @@
 9566|2|x-jat|Line Offline: Salaryman
 9786|1|x-jat|Line Town
 9786|4|ja|LINE TOWN
-10948|4|x-unk|Línea Final
 10948|4|es-419|Línea Final
 5629|2|x-jat|linebarrels
 5629|4|en|Linebarrels of Iron
@@ -35922,6 +35920,7 @@
 15672|4|en|My Hero Academia: Make It! Do-or-Die Survival Training
 15672|4|fr|My Hero Academia: Make It! Do-or-Die Survival Training
 15873|4|es|My Hero Academia: misión mundial de héroes
+15672|4|pt-BR|My Hero Academia: Sobreviva! Treinamento de Sobrevivência Mortal
 13633|4|en|My Hero Academia: Two Heroes
 13633|4|fr|My Hero Academia: Two Heroes
 18199|4|en|My Hero Academia: UA Heroes Battle
@@ -37066,7 +37065,6 @@
 5313|4|ja|NEW HAL&BONS
 857|4|en|New Hurricane Polymar
 18032|1|x-jat|New Initial D Movie: Battle Digest
-9987|2|en|New Initial D Movie: Legend 1 - Kakusei
 1498|2|en|New Jungle Emperor, Go Ahead Leo!
 284|3|en|New Kimagure Orange Road
 284|4|en|New Kimagure Orange Road - Summer`s Beginning
@@ -51563,7 +51561,6 @@
 357|6|x-jat|test title c TR
 357|5|ja|test title k
 357|2|x-jat|test`blubb
-19114|2|x-unk|test1
 4747|4|tr|Tetikçi Eğitmen Reborn!
 12826|1|x-jat|Tetopettenson
 1828|2|x-jat|Tetsu no Otome Jun
@@ -77582,7 +77579,7 @@
 16193|4|ja|ペリリュー -楽園のゲルニカ-
 6294|2|ja|ヘル・ターゲット
 11358|4|ja|ベルーガ
-17199|2|ja|ヘルク
+17199|5|ja|ヘルク
 181|4|ja|ベルサイユのばら
 13615|4|ja|ベルサイユのばら (2007)
 17609|4|ja|ベルサイユのばら (2025)
