@@ -1,4 +1,4 @@
-# created: Tue May  6 03:00:02 2025
+# created: Wed May  7 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3665,7 +3665,8 @@
 11415|1|x-jat|Asa ga Kuru mae ni: Sasurai Version
 8416|1|x-jat|Asa kara Zusshiri Milk Pot
 8873|1|x-jat|Asa made Jugyou Chu!
-19228|1|x-jat|Asa made Shiru Daku Haha Musume Donburi!!
+19228|6|x-jat|Asa made Shiru Daku Haha Musume Donburi [Oyakodon]!!
+19228|1|x-jat|Asa made Shiru Daku Oyakodon!!
 17406|1|x-jat|Asa na Yuu na
 17405|1|x-jat|Asa o Kitan
 13409|1|x-jat|Asagao to Kase-san.
@@ -37495,9 +37496,9 @@
 19177|2|en|Ninja Vs. Gokudo
 1959|2|en|Ninja Warrior Tobikage
 3091|4|pl|Ninja, cudowny chłopak
-17014|2|x-jat|Ninjala
+16979|1|x-jat|Ninjala
 17014|1|x-jat|Ninjala (2022)
-16979|1|x-jat|Ninjala 2D Cartoon Anime
+17014|2|x-jat|Ninjala TV
 3100|1|x-jat|Ninjaman Ippei
 9821|2|x-jat|Ninjatai Gatchaman ZIP!
 994|4|ja|Ninja者
@@ -51767,6 +51768,7 @@
 15987|4|en|The Aquatope on White Sand
 785|2|en|The Arabian Nights: Adventures of Sinbad
 17552|4|en|The Aristocrat`s Otherworldly Adventure: Serving Gods Who Go Too Far
+16731|2|en|The Arrival of the Monarch
 11588|4|en|The Art of 10^64 -Understanding Vastness-
 1068|4|pt|The Art of Fighting - Encontro de Mestres
 11177|4|en|The Asterisk War
@@ -52483,6 +52485,7 @@
 19160|2|en|The Kept Man of the Princess Knight
 14558|2|en|The Kind Devil
 3471|2|en|The Kindly Lion
+16731|2|en|The King and His Subjects
 3642|2|en|The King Kong Show
 1717|2|en|The King of Braves GaoGaiGar Final
 3602|2|en|The King of Burning Desert Gandalla
@@ -52506,6 +52509,8 @@
 13950|2|en|The King`s Avatar SP
 13950|2|en|The King`s Avatar Specials
 15035|2|en|The King`s Avatar: For the Glory
+16731|2|en|The King`s Ministers
+16731|2|en|The King`s Subjects
 6880|2|en|The King`s Tail
 17846|4|en|The Kingdoms of Ruin
 12560|2|en|The Kings Avatar
@@ -76133,6 +76138,7 @@
 15009|4|ja|ニンジャボックス
 15243|4|ja|ニンジャボックス (2019)
 15243|2|ja|ニンジャボックス シーズン２
+16979|4|ja|ニンジャラ
 17014|4|ja|ニンジャラ (2022)
 9866|4|ja|ぬ~ぼ~ ミニシアター
 9865|4|ja|ぬ~ぼ~ 消えたメダル
@@ -77770,7 +77776,7 @@
 16063|4|ja|ぼっち・ざ・ろっく!
 19157|4|ja|ぼっち・ざ・ろっく! 2
 11211|4|ja|ポッピンQ
-8596|2|ja|ポップ
+8596|5|ja|ポップ
 12772|4|ja|ぽっぷるメイル
 9577|4|ja|ぽっぺん先生と帰らずの沼
 6882|4|ja|ポッポやさん のんき機関士
@@ -87064,6 +87070,7 @@
 12024|4|ja|朝だよ! 貝社員
 8873|4|ja|朝まで授業 Chu!
 19228|4|ja|朝まで汁だく母娘丼!!
+19228|6|ja|朝まで汁だく母娘丼[おやこどん]!!
 17218|4|zh|朝堂有妖气
 13262|4|zh-Hans|朝花夕誓——于离别之朝束起约定之花
 124|4|zh-Hans|朝雾的巫女
