@@ -1,4 +1,4 @@
-# created: Thu May  8 03:00:02 2025
+# created: Fri May  9 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -9841,6 +9841,7 @@
 894|4|cs|Čti nebo zemři
 507|3|en|CTJ
 267|2|es|Cuadrado de la Luna
+3574|4|es|Cuando las Cigarras Lloran
 1949|4|fr|Cubitus
 1949|4|de|Cubitus, der Wuschelhund
 4247|4|ro|Cubix
@@ -23733,6 +23734,7 @@
 3184|4|en|In the Beginning: Stories from the Bible
 3184|2|en|In the Beginning: Stories from the Old Testament
 17761|4|en|In the Big Yard Inside the Teeny-Weeny Pocket
+19325|2|en|In the Clear Moonlit Dusk
 1436|2|en|In the clutches of the sect
 17741|2|en|In the end, the Witch and that Customer
 16966|4|en|In the Heart of Kunoichi Tsubaki
@@ -39757,6 +39759,7 @@
 11350|1|x-jat|Owarimonogatari
 11350|4|en|Owarimonogatari
 13033|1|x-jat|Owarimonogatari (2017)
+13033|2|x-jat|Owarimonogatari (Ge)
 13033|2|en|Owarimonogatari S2
 13033|4|en|Owarimonogatari Second Season
 11809|3|x-jat|owarinoseraph ova
@@ -55947,6 +55950,7 @@
 378|1|x-jat|Urusei Yatsura: Only You
 7322|2|en|Urusei Yatsura: The Obstacle Course Swim Meet
 7322|1|x-jat|Urusei Yatsura: The Shougaibutsu Suieitaikai
+19325|1|x-jat|Uruwashi no Yoi no Tsuki
 16052|1|x-jat|Urvan
 16052|4|ja|URVAN
 8211|3|x-jat|usadoro
@@ -57098,6 +57102,7 @@
 15783|2|en|Way of Choices Season 5
 8524|1|x-jat|Waza no Tabibito
 10478|1|x-jat|Wazaguu! VS Dangerous Jii-san Ja: Houfukuzettou! Anime Quiz
+18718|3|en|wb s2
 9496|3|en|wcw
 10397|2|en|wcw ova
 1022|3|ko|WD
@@ -72070,6 +72075,7 @@
 7168|2|ja|ウルフガイ
 449|4|ja|ウルフズレイン
 710|3|ja|ウルマニ
+19325|4|ja|うるわしの宵の月
 377|4|ja|うる星やつら
 384|4|ja|うる星やつら (1985)
 17096|4|ja|うる星やつら (2022)
