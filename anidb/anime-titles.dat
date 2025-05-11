@@ -1,4 +1,4 @@
-# created: Fri May  9 03:00:02 2025
+# created: Sat May 10 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -29066,6 +29066,7 @@
 15831|4|it|La casa degli smarriti sul promontorio
 6395|4|it|La casa dei piccoli cubi
 15831|4|es|La Casa Encantada en el Cabo
+3498|4|es-419|La Casa Voladora
 12523|2|fr|La chanson perdue
 14755|2|fr|La chasse aux dragons
 2805|4|fr|La chevauchée des Valkyries
@@ -48216,7 +48217,6 @@
 1336|4|en|Slight Fever Syndrome
 15201|3|x-jat|Slime 300
 17110|3|en|Slime 300 s2
-19309|1|x-jat|Slime Boukenki
 8982|1|x-jat|Slime Boukenki: Umi Da, Yeah
 18157|2|en|Slime Cohabitation
 15457|4|en|Slime Diaries: That Time I Got Reincarnated as a Slime
@@ -51724,7 +51724,6 @@
 2709|4|en|The Adventures of Piccolino
 3605|2|en|The Adventures of Pinocchio
 4189|4|en|The Adventures of Scamper the Penguin
-19309|4|en|The Adventures of Slaim
 3631|2|en|The Adventures of Space Oz
 3647|4|en|The Adventures of the Little Prince
 2303|4|en|The Adventures of Tom Sawyer
@@ -55950,6 +55949,7 @@
 378|1|x-jat|Urusei Yatsura: Only You
 7322|2|en|Urusei Yatsura: The Obstacle Course Swim Meet
 7322|1|x-jat|Urusei Yatsura: The Shougaibutsu Suieitaikai
+19325|3|x-jat|uruwashi
 19325|1|x-jat|Uruwashi no Yoi no Tsuki
 16052|1|x-jat|Urvan
 16052|4|ja|URVAN
@@ -72075,6 +72075,7 @@
 7168|2|ja|ウルフガイ
 449|4|ja|ウルフズレイン
 710|3|ja|ウルマニ
+19325|3|ja|うるわし
 19325|4|ja|うるわしの宵の月
 377|4|ja|うる星やつら
 384|4|ja|うる星やつら (1985)
