@@ -1,4 +1,4 @@
-# created: Mon May 12 03:00:02 2025
+# created: Tue May 13 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1131,6 +1131,7 @@
 5192|2|en|A Strange Kind of Woman
 6262|2|en|A Summer Day`s Dream
 7877|2|en|A Summer Night`s Dream
+18680|4|en|A Summer When Boys Become Men
 9391|4|en|A Sumo Wrestler`s Tail
 9391|2|en|A Sumo Wrestler`s Tale
 1392|4|pt|A Super Porca
@@ -2548,6 +2549,7 @@
 12873|4|ja|AN EXPRESSION
 15992|1|x-zht|An Jie Shen Shi
 16662|1|x-zht|An Ling Yu Shi Di Qi
+19328|2|en|An Observation Log of My Fiancee Who Calls Herself a Villainess
 2385|4|en|An Olympic Fable: Run for Life
 16968|2|en|An Otaku-Friendly Gal, or a Childhood Friend with Big Breasts
 14778|1|x-zht|An tu! An tu!
@@ -10051,7 +10053,9 @@
 10011|2|x-jat|D-FRAGMENTS
 9705|1|x-jat|D-spray
 9705|4|ja|D-spray
+9705|2|x-jat|D-spray Biyaku de Motemote Kachou Dairi Hosa
 9705|2|ja|D-spray 媚薬でモテモテ 課長代理補佐
+9705|2|ja|D-spray 媚薬でモテモテ課長代理補佐
 81|4|ja|D・N・A² ~何処かで失くしたあいつのアイツ~
 1611|4|ja|D・N・A²~何処かで失くしたあいつのアイツ~ (1995)
 621|4|ja|D・N・ANGEL
@@ -21532,6 +21536,8 @@
 15242|2|en|Heroic Little Sisters of the Grassland
 18230|2|en|Heroic Princess Milia
 16564|1|x-jat|Heroine Taru Mono! Kiraware Heroine to Naisho no Oshigoto
+19327|2|en|Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!
+19327|1|x-jat|Heroine? Seijo? Iie, All Works Maid Desu (Ko)!
 16564|4|en|Heroines Run the Show: The Unpopular Girl and the Secret Task
 7412|1|x-jat|Heroman
 7412|4|ja|HEROMAN
@@ -24896,6 +24902,7 @@
 980|1|x-jat|Jinzou Ningen Kikaider The Animation
 17132|1|x-kot|Jiok Dugaeui Sam
 17840|1|x-zht|Jipin Quanneng Gaoshou
+19328|1|x-jat|Jishou Akuyaku Reijou na Kon`yakusha no Kansatsu Kiroku.
 3648|1|x-jat|Jishu Seisaku Movie Binchou-tan
 1997|1|x-jat|Jisshuusei
 12698|1|x-jat|Jitaku Keibiin
@@ -28299,6 +28306,7 @@
 3535|1|x-jat|Kouryuu no Mimi: Mina no Shou
 6869|1|x-jat|Kousagi Monogatari
 4968|3|ja|KouSan
+19329|1|x-jat|Koushoku no Chuugi Kunoichi Botan
 14925|1|x-zht|Koushui Sanguo
 14929|1|x-zht|Koushui Sanguo 2
 1929|1|x-jat|Kousoku Denjin Albegus
@@ -28806,6 +28814,7 @@
 18525|1|x-jat|Kyonyuu Onna Shikan Sennou Saimin
 15295|1|x-jat|Kyonyuu Princess Saimin
 12528|1|x-jat|Kyonyuu Reijou MC Gakuen
+10705|2|x-jat|Kyonyuu Try! -Tanki Shuuchuu Chichi Momi Lesson-
 10705|1|x-jat|Kyonyuu Try! Tanki Shuuchuu Chichi Momi Lesson
 4654|4|ro|Kyoro Chan
 4654|1|x-jat|Kyoro-chan
@@ -31331,8 +31340,7 @@
 815|1|x-jat|Lupin Sansei: Moeyo Zantetsuken
 2137|1|x-jat|Lupin Sansei: Napoleon no Jisho o Ubae
 2137|2|x-jat|Lupin Sansei: Napoleon no Jisho wo Ubae
-2405|1|x-jat|Lupin Sansei: Nusumareta Lupin
-2405|2|x-jat|Lupin Sansei: Nusumareta Lupin - Copycat wa Manatsu no Chou
+2405|1|x-jat|Lupin Sansei: Nusumareta Lupin - Copycat wa Manatsu no Chou
 2138|1|x-jat|Lupin Sansei: Otakara Henkyaku Daisakusen!!
 1484|2|x-jat|Lupin Sansei: Part 2
 13266|1|x-jat|Lupin Sansei: Part 5
@@ -32969,6 +32977,7 @@
 2161|3|x-jat|marple
 2689|1|x-jat|Marriage
 2689|4|ja|Marriage ~結婚~
+9491|2|x-jat|Marriage Blue ~Kon Yakusha ga Iru no ni, Doushite Konna Otoko ni...~
 9491|1|x-jat|Marriage Blue: "Kon`yakusha ga Iru no ni, Doushite Konna Otoko ni......"
 18033|2|en|Marriage Exchange Amazing Extramarital Sex Compared to My Husband
 1104|4|en|Marriage of God & Soul Godannar!!
@@ -35122,7 +35131,6 @@
 1539|4|en|Monster
 1539|4|fr|Monster
 1539|4|es|Monster
-17993|1|en|Monster But Wild
 1023|2|en|Monster City
 1248|2|en|Monster Classroom
 11062|2|en|Monster Family House: The Nightmare of Living With Family Who Rape My Girlfriend
@@ -38264,6 +38272,7 @@
 7284|1|x-jat|Obocchama-kun
 7324|2|en|Obscene Campus Dreams
 2519|2|en|Obscene Prison Ward
+19328|2|en|Observation Records of My Fiancee: The Misadventures of a Self-Proclaimed Villainess
 15108|1|x-jat|Obsolete
 15108|4|ja|OBSOLETE
 15802|1|x-jat|Obsolete (2020)
@@ -38551,6 +38560,7 @@
 4801|1|x-jat|Okusama wa Mahou Tsukai
 8981|1|x-jat|Okusama wa Michael?
 10297|1|x-jat|Okusama wa Moto Yariman
+8981|2|x-jat|Okusama wa Tenshi
 3360|3|x-jat|okusei
 10970|3|en|Okuusama
 3136|1|x-jat|OL Kaizou Kouza
@@ -42849,6 +42859,8 @@
 6071|1|x-jat|Quiz Magic Academy The Original Animation
 7255|1|x-jat|Quiz Magic Academy The Original Animation 2
 13785|1|x-jat|Quiz Tokiko-san
+17993|1|x-zht|Ququ Bucai, Zaixia Yeguai
+19326|1|x-zht|Ququ Bucai, Zaixia Yeguai Di Er Ji
 12986|4|vi|Quỷ dữ thức giấc
 5787|2|vi|Quyển sổ người bạn
 6816|3|x-jat|Qwaser
@@ -53244,6 +53256,7 @@
 19021|4|en|The Summer (2023)
 18649|4|en|The Summer Hikaru Died
 6633|2|en|The Summer of Dioxin
+18680|2|en|The Summer The Boy Became An Adult
 14529|2|en|The Summer Vacation Treasure Hunt
 6350|2|en|The Summertime Mischief
 6735|2|en|The Sun and the Frogs
@@ -77072,6 +77085,7 @@
 12089|4|ja|ひるね姫 ~知らないワタシの物語~
 11739|3|ja|ヒロアカ
 5025|4|ja|ヒロイック・エイジ
+19327|4|ja|ヒロイン? 聖女? いいえ, オールワークスメイドです (誇)!
 16564|4|ja|ヒロインたるもの! ~嫌われヒロインと内緒のお仕事~
 17742|4|ja|ひろがるスカイ! プリキュア
 5396|4|ja|ヒロシマに一番電車が走った
@@ -79027,8 +79041,7 @@
 2139|4|ja|ルパン三世 炎の記憶 ~TOKYO CRISIS~
 815|4|ja|ルパン三世 燃えよ斬鉄剣
 803|4|ja|ルパン三世 生きていた魔術師
-2405|4|ja|ルパン三世 盗まれたルパン
-2405|2|ja|ルパン三世 盗まれたルパン ~コピーキャットは真夏の蝶~
+2405|4|ja|ルパン三世 盗まれたルパン ~コピーキャットは真夏の蝶~
 8713|4|ja|ルパン三世 血の刻印 永遠のmermaid
 5367|4|ja|ルパン三世 霧のエリューシヴ
 977|4|ja|ルパン三世 風魔一族の陰謀
@@ -81682,6 +81695,7 @@
 17682|4|zh-Hans|北海道辣妹贼拉可爱
 12629|4|ja|北風小僧の寒太郎
 17993|4|zh-Hans|区区不才，在下野怪
+19326|4|zh-Hans|区区不才，在下野怪 第二季
 4614|4|ja|医辱
 13567|4|zh-Hans|十万个冷笑话
 14311|4|zh-Hans|十万个冷笑话 第一季
@@ -83538,6 +83552,7 @@
 18179|2|zh-Hans|好想告诉你 第三季
 8014|4|zh-Hans|好想告诉你 第二季
 15215|4|zh-Hans|好比是最终迷宫前的少年到新手村生活一般的故事
+19329|4|ja|好色の忠義くノ一ぼたん
 3358|4|zh-Hans|好色一代男
 18114|2|zh-Hant|如果 30 歲還是處男，似乎就能成為魔法師
 16693|4|zh-Hans|如果历史是一群喵
@@ -84537,6 +84552,7 @@
 16914|4|ja|巨乳エルフ母娘催眠
 13544|4|ja|巨乳ドスケベ学園
 10705|4|ja|巨乳トライ! -短期集中乳揉みレッスン-
+10705|2|ja|巨乳トライ！-短期集中乳揉みレッスン-
 9010|4|ja|巨乳ファンタジー
 9010|2|ja|巨乳ファンタジー 即ヌキムービー
 15295|4|ja|巨乳プリンセス催眠
@@ -91107,6 +91123,7 @@
 2031|4|ja|自慰倒錯
 9100|4|zh-Hans|自摸摸和努呸呸
 7260|4|ja|自画像
+19328|4|ja|自称悪役令嬢な婚約者の観察記録.
 15578|4|zh-Hans|自称贤者弟子的贤者
 15578|4|zh-Hant|自稱賢者弟子的賢者
 13075|4|ja|自転車編
