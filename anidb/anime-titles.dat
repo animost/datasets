@@ -1,4 +1,4 @@
-# created: Tue May 13 03:00:01 2025
+# created: Wed May 14 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2611,6 +2611,7 @@
 911|1|x-jat|Android Ana Maico 2010
 911|2|en|Android Announcer Maico 2010
 980|4|en|Android Kikaider - The Animation
+19330|1|x-jat|Android wa Keiken Ninzuu ni Hairimasu ka??
 4255|2|es|Androide Rosa
 650|4|de|AndroMaid Aki
 5250|4|it|Andromeda galassia perduta
@@ -12251,6 +12252,7 @@
 2355|1|x-jat|Document Taiyou no Kiba Dougram
 14606|1|x-kot|Dodani
 2786|3|x-jat|Dodge Danpei
+19330|2|en|Does It Count if You Lose Your Virginity to an Android?
 9663|4|en|Dog & Scissors
 8206|4|ja|DOG DAYS
 8206|1|x-jat|Dog Days
@@ -20597,6 +20599,7 @@
 2064|2|x-jat|Hani Hani: Operation Sanctuary
 2064|3|x-jat|Hanihani
 8575|2|x-jat|hanikamu
+19330|3|x-jat|hanisuka
 2105|1|x-jat|Hanitarou Desu.
 15737|4|hu|Hanma Baki
 15737|4|vi|Hanma Baki
@@ -36278,6 +36281,7 @@
 8830|4|en|Nakaimo: My Little Sister Is Among Them!
 12222|1|x-jat|Nakanaori
 8453|1|x-jat|Nakaseru Sora ni Aitai: Toyama, Miwaku no Muttsu no Monogatari
+19332|1|x-jat|Nakazaki Tatsuya Super Gag Theater
 16528|2|en|Naked Peak: Climb the Mountains of Madness
 9740|1|x-jat|Naked Wolves
 9740|4|ja|NAKED WOLVES
@@ -55071,6 +55075,7 @@
 12761|3|x-jat|Tsurei
 16457|3|x-jat|tsurekano
 12814|1|x-jat|Tsurezure Children
+19331|1|x-jat|Tsurezure Popipa
 1880|1|x-jat|Tsuri Baka Nisshi
 3425|1|x-jat|Tsurikichi Sanpei
 8916|1|x-jat|Tsuritama
@@ -58738,6 +58743,7 @@
 6110|2|en|Yoichi of Tomorrow
 4924|2|de|Yoichi Sakura
 3954|2|x-jat|yoiko
+19333|1|x-jat|Yoiko no Tanoshii Christmas
 11905|4|fr|Yôjo Senki: Saga of Tanya the Evil
 7243|2|x-jat|Yojou-Han Shinwa Taikei
 7243|3|x-jat|Yojouhan
@@ -71731,6 +71737,7 @@
 2314|4|ja|アンデルセン物語 (1971)
 2220|4|ja|アンデルセン童話 にんぎょ姫
 911|4|ja|アンドロイド・アナ MAICO 2010
+19330|4|ja|アンドロイドは経験人数に入りますか??
 5250|2|ja|アンドロメダ・ストーリーズ
 6525|4|ja|アンネ･フランク物語 アンネの日記と童話より
 17767|2|ja|アンネームドメモリー
@@ -75345,6 +75352,7 @@
 17865|2|ja|つるぺた守護騎士　エルフィナ堕ちる
 3144|2|ja|つる姫じゃ~っ!
 3144|4|ja|つる姫じゃーっ!
+19331|4|ja|つれづれポピパ
 13761|4|ja|ツンえむ! ~ぎゅっと縛って指導して~ THE ANIMATION
 13761|2|ja|ツンえむ！ ～ぎゅっと縛って指導して～ THE ANIMATION
 9430|4|ja|ツンツンメイドはエロエロです
@@ -76627,6 +76635,7 @@
 2048|4|ja|ハニーハニーのすてきな冒険
 18516|4|ja|ハニーレモンソーダ
 7911|4|ja|ハニー東京
+19330|3|ja|はにすか
 3298|4|ja|ぱにぽにだっしゅ!
 645|4|ja|ぱにょぱにょ デ・ジ・キャラット
 645|2|ja|ぱにょぱにょデ・ジ・キャラット
@@ -78717,6 +78726,7 @@
 4114|4|ja|ヨーヨーの猫つまみ
 18661|4|ja|よあそびぐらしっ!
 3954|4|ja|よいこ
+19333|4|ja|よいこのたのしいクリスマス
 15991|4|ja|よい子のれきしアニメ おおきなカブ(株)
 13550|4|ja|ようこそ! スケベエルフの森へ
 14223|4|ja|ようこそジャパリパーク
@@ -79794,6 +79804,7 @@
 8935|4|ja|中学星 スーパーデラックス
 14414|4|zh-Hans|中学毕业劳动者开始高中生活
 16779|4|zh-Hans|中小治棒棒哒
+19332|4|ja|中崎タツヤ スーパーギャグシアター
 18366|4|zh-Hans|中年上班族转生恶役
 18366|4|zh-Hant|中年大叔轉生反派千金
 18818|4|zh-Hans|中年男的异世界网购生活
