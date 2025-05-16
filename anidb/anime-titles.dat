@@ -1,4 +1,4 @@
-# created: Wed May 14 03:00:01 2025
+# created: Thu May 15 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -7926,6 +7926,7 @@
 4926|4|ja|CATBLUE DYNAMITE
 4926|2|ja|CATBLUE:DYNAMITE
 18985|4|en|Catch Me at the Ballpark!
+19336|1|x-kot|Catch! Tiniping
 13280|1|x-jat|Catchy-kun no Nice Catch!
 167|2|en|Catgirl Nuku Nuku OVA
 2299|4|fr|Cathy, la petite fermière
@@ -27307,6 +27308,7 @@
 15259|2|x-unk|Kingdom 3
 16912|2|x-jat|Kingdom 4
 17655|2|x-jat|Kingdom 5
+19334|1|x-jat|Kingdom Hearts X Back Cover
 1252|2|x-jat|Kingdom of Chaos
 1252|1|x-jat|Kingdom of Chaos: Born to Kill
 17474|2|en|Kingdom of Gold, Kingdom of Water
@@ -44808,6 +44810,7 @@
 2204|2|x-unk|Saibôgu 009
 18868|1|x-jat|Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka
 5135|1|x-jat|Saigo no Door o Shimero!
+19335|1|x-jat|Saigo no Kuushuu Kumagaya
 16261|1|x-jat|Saihate no Paladin
 17078|1|x-jat|Saihate no Paladin: Tetsusabi no Yama no Ou
 18868|3|x-jat|saihito
@@ -54543,6 +54546,7 @@
 9628|3|x-jat|touhou: pvd 4
 19202|1|x-jat|Toujima Tanzaburou wa Kamen Rider ni Naritai
 4971|1|x-jat|Touka Gettan
+17279|4|de|Touken Ranbu - Hanamaru Season 3
 19155|4|en|Touken Ranbu Kai Douden
 18408|4|de|Touken Ranbu Kai Kyoden
 18408|4|en|Touken Ranbu Kai Kyoden
@@ -59001,6 +59005,7 @@
 1585|2|en|Young Kindaichi`s Casebook
 1240|4|en|Young Kindaichi`s Casebook (1997)
 2126|2|en|Young Kindaichi`s Casebook: Deep Blue Massacre
+16000|4|en|Young Ladies Don`t Play Fighting Games
 4214|2|en|Young Monk
 1881|2|en|Young Ninja Fujimaru of the Wind
 1909|2|en|Young Tokugawa Ieyasu
@@ -70700,6 +70705,7 @@
 13893|4|ko|캐롤과 튜즈데이
 5280|4|ko|캐릭캐릭 체인지
 1338|2|ko|캐슬 판타지아：성마대전
+19336|4|ko|캐치! 티니핑
 6685|2|ko|캠퍼
 8163|2|ko|캠퍼: für die Liebe
 825|2|ko|커스텀 예노
@@ -72590,6 +72596,7 @@
 6840|4|ja|お伽囃 文福茶釜
 1958|4|ja|お伽草子
 1198|4|ja|お元気クリニック
+19055|2|ja|お兄さん…おひとりですか?
 19055|4|ja|お兄さん…おひとりですか？
 14975|4|ja|お兄ちゃん, 朝までずっとギュッてして!
 13996|4|ja|お兄ちゃんずるい
@@ -73271,6 +73278,7 @@
 16912|4|ja|キングダム (2022)
 17655|4|ja|キングダム (2024)
 19295|4|ja|キングダム (2025)
+19334|4|ja|キングダム ハーツ キー バックカバー
 9672|2|ja|キングダム 第2シリーズ
 15259|2|ja|キングダム 第3シリーズ
 1252|4|ja|キングダム・オブ・カオス ~ボーン・トゥー・キル~
@@ -80897,6 +80905,7 @@
 18868|4|ja|最後にひとつだけお願いしてもよろしいでしょうか
 5135|4|ja|最後のドアを閉めろ!
 15453|4|ja|最後の召喚師
+19335|4|ja|最後の空襲くまがや
 6968|2|zh-Hant|最後大魔王
 16261|4|ja|最果てのパラディン
 17078|4|ja|最果てのパラディン 鉄錆の山の王
