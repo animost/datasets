@@ -1,4 +1,4 @@
-# created: Thu May 15 03:00:02 2025
+# created: Fri May 16 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1375,10 +1375,10 @@
 9881|4|es|Ace of the Diamond
 9881|4|es-419|Ace of the Diamond
 9881|4|en|Ace of the Diamond
-18638|2|en|Ace of the Diamond (Sequel)
 14504|2|en|Ace of the Diamond Act II
 14504|4|en|Ace of the Diamond: Act II
 14504|4|fr|Ace of the Diamond: Act II
+18638|2|en|Ace of the Diamond: Act II Second Season
 1072|2|x-jat|Ace wo Nerae
 1072|2|x-jat|Ace wo Nerae!
 1074|2|x-jat|Ace wo Nerae! (1979)
@@ -2961,6 +2961,7 @@
 13299|2|ja|Ano Hi no Kanojo-tachi
 15139|1|x-jat|Ano Hi no Kokoro o Toraete
 11538|1|x-jat|Ano Hi, Bokura wa Senjou de: Shounenhei no Kokuhaku
+19337|4|x-jat|Ano Hoshi ni Kimi ga Iru
 5996|1|x-jat|Ano Ko ni 1000%
 15792|1|x-jat|Ano Ko no Kawari ni Suki na Dake
 12783|1|x-jat|Ano Koro no Namida wa
@@ -7467,7 +7468,7 @@
 3383|1|x-jat|Call Me Tonight
 16971|4|en|Call of the Night
 16971|4|it|Call of the Night - Il richiamo della notte
-18531|2|en|Call of the Night Season 2
+18531|4|en|Call of the Night Season 2
 3662|2|en|Call of the Wild
 3158|4|en|Call of the Wild: Howl, Buck
 16688|4|ja|Call Star -ボクは本当にダメな星?-
@@ -11090,10 +11091,10 @@
 14923|2|en|Demon Queen Melissa`s Erotic Adventure Record
 16982|4|de|Demon Slave – The Chained Soldier
 14107|4|en|Demon Slayer
-14107|4|pt|Demon Slayer
 14107|4|it|Demon Slayer
 14107|4|de|Demon Slayer
 14107|4|hu|Demon Slayer - A démonvadász
+14107|4|pt|Demon Slayer - Kimetsu No Yaiba
 15113|4|pt|Demon Slayer - Kimetsu no Yaiba - O Filme: Comboio Infinito
 15113|4|pt-BR|Demon Slayer - Mugen Train: O Filme
 15113|4|de|Demon Slayer -Kimetsu no Yaiba- the Movie: Mugen Train
@@ -11115,9 +11116,12 @@
 16054|4|es-419|Demon Slayer: Kimetsu no Yaiba - Arco del Distrito Rojo
 16803|4|es-419|Demon Slayer: Kimetsu no Yaiba - Arco del Tren Infinito
 17069|4|en|Demon Slayer: Kimetsu no Yaiba - Asakusa Arc
+18699|4|pt|Demon Slayer: Kimetsu no Yaiba - Castelo Infinito
 16054|4|fr|Demon Slayer: Kimetsu no Yaiba - Le quartier des plaisirs
 16803|4|fr|Demon Slayer: Kimetsu no Yaiba - Le train de l`infini
 17198|4|fr|Demon Slayer: Kimetsu no Yaiba - Le village des forgerons
+17198|4|pt|Demon Slayer: Kimetsu no Yaiba - Saga da Aldeia dos Ferreiros
+18067|4|pt|Demon Slayer: Kimetsu no Yaiba - Saga do Treino dos Pilares
 17070|4|en|Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc
 17198|4|es-419|Demon Slayer: Kimetsu no Yaiba Arco de la Aldea de los Herreros
 18699|4|pt-BR|Demon Slayer: Kimetsu no Yaiba Castelo Infinito
@@ -11688,8 +11692,8 @@
 9881|1|x-jat|Dia no Ace
 10739|1|x-jat|Dia no Ace (2014)
 14504|2|en|Dia no Ace (2019)
-18638|1|x-jat|Dia no Ace (Zokuhen)
 14504|1|x-jat|Dia no Ace: Act II
+18638|1|x-jat|Dia no Ace: Act II Second Season
 11115|1|x-jat|Dia no Ace: Second Season
 9717|1|x-jat|Diabolik Lovers
 9717|4|ja|DIABOLIK LOVERS
@@ -23019,6 +23023,7 @@
 8073|4|it|I bambini che inseguono le stelle
 18438|2|en|I Became the Strongest with the Failure Frame "Abnormal State Skill" as i Devastated Everything
 3050|4|it|I bon bon magici di Lilly
+19337|1|x-kot|I Byeol-e Pil-yohan
 79|2|it|I Cacciatori di Elfi
 7467|1|x-jat|I Can
 18953|2|en|I Can Experience Limitless Enlightements
@@ -30698,6 +30703,7 @@
 6|2|en|Lost Chapter of the Stars
 13408|1|x-jat|Lost Forest
 13408|4|ja|LOST FOREST
+19337|4|en|Lost in Starlight
 12380|4|en|Lost in the Moonlight
 6658|2|en|Lost Property of the Sky
 12523|4|ja|LOST SONG
@@ -31415,11 +31421,13 @@
 14616|4|ja|LUPIN THE IIIRD 峰不二子の嘘
 10535|4|ja|LUPIN THE IIIRD 次元大介の墓標
 12398|4|ja|LUPIN THE IIIRD 血煙の石川五ェ門
+19338|4|ja|LUPIN THE IIIRD 銭形と2人のルパン
 12398|1|x-jat|Lupin the IIIrd: Chikemuri no Ishikawa Goemon
 10535|2|en|Lupin the IIIrd: Daisuke Jigen`s Gravestone
 12398|4|en|Lupin the IIIrd: Goemon`s Blood Spray
 10535|1|x-jat|Lupin the IIIrd: Jigen Daisuke no Bohyou
 14616|1|x-jat|Lupin the IIIrd: Mine Fujiko no Uso
+19338|1|x-jat|Lupin the IIIrd: Zenigata to 2-nin no Lupin
 3179|2|en|Lupin the Mysterious Thief--Enigma of the 813
 3179|4|en|Lupin the Thief--Enigma of the 813
 10882|4|fr|Lupin the Third - L`aventure Italienne
@@ -70219,6 +70227,7 @@
 11261|4|ko|이 멋진 세계에 축복을!
 11992|4|ko|이 멋진 세계에 축복을! 2
 13310|2|ko|이 멋진 세계에 축복을! 붉은 전설
+19337|4|ko|이 별에 필요한
 18050|2|ko|이 사랑을 알아채줘
 1431|2|ko|이 추하고도 아름다운 세계
 16799|2|ko|이 회사 뭔가 이상하다
@@ -71549,6 +71558,7 @@
 13299|2|ja|あの日の彼女たち
 15139|4|ja|あの日の心をとらえて
 8181|4|ja|あの日見た花の名前を僕達はまだ知らない.
+19337|4|ja|あの星に君がいる
 12783|4|ja|あの頃のなみだは
 1317|4|ja|あばしり一家
 1902|4|ja|アパッチ野球軍
@@ -73580,6 +73590,7 @@
 18166|4|ja|ゲゲゲの鬼太郎~河童のテラフォーミング
 10689|4|ja|ケシカスくん
 14621|4|ja|けだまのゴンじろー
+11062|2|ja|ケダモノ(家族)たちの住む家で
 11062|4|ja|ケダモノ[家族]たちの住む家で
 4574|5|ja|けっかいし
 13873|4|ja|ケッケロケー
@@ -75065,8 +75076,8 @@
 3580|4|ja|タイムボカン王道復古
 8859|4|ja|タイムレンジャー セザールボーイの冒険 ローマ帝国編
 10739|4|ja|ダイヤのA (2014)
-18638|4|ja|ダイヤのA (続編)
 14504|4|ja|ダイヤのA actII
+18638|4|ja|ダイヤのA actII Second Season
 9881|4|ja|ダイヤのA[エース]
 11115|4|ja|ダイヤのA[エース] -SECOND SEASON-
 3601|4|ja|タオタオ絵本館 世界動物ばなし
@@ -87679,13 +87690,13 @@
 3342|4|ja|機動戦士SDガンダムまつり
 3343|4|ja|機動戦士SDガンダム外伝
 721|4|ja|機動戦士Vガンダム
-718|4|ja|機動戦士Zガンダム
 3969|4|ja|機動戦士Zガンダム A New Translation 恋人たち
 4095|4|ja|機動戦士Zガンダム A New Translation 星の鼓動は愛
 2187|4|ja|機動戦士Zガンダム A New Translation 星を継ぐ者
 2187|2|ja|機動戦士ZガンダムI 星を継ぐ者
 3969|2|ja|機動戦士ZガンダムII 恋人たち
 4095|2|ja|機動戦士ZガンダムIII 星の鼓動は愛
+718|4|ja|機動戦士Ζガンダム
 715|4|ja|機動戦士ガンダム
 729|4|ja|機動戦士ガンダム (1981)
 716|4|ja|機動戦士ガンダム 0080 ポケットの中の戦争
