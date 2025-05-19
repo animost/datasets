@@ -1,4 +1,4 @@
-# created: Sat May 17 03:00:02 2025
+# created: Sun May 18 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -10166,6 +10166,7 @@
 18391|2|x-zht|Da Wang Rao Ming 2
 13121|2|x-zht|Da Wei Beiken Zhi Daomei Tegong Xiong
 13121|1|x-zht|Da Wei Beiken: Daomei Tegong Xiong
+19340|1|x-zht|Da Xia Qing Shang Gong
 8156|1|x-zht|Da Yu Hai Tang
 18443|1|x-zht|Da Yuzhou Shidai
 16541|1|x-zht|Da Zhu Zai
@@ -13841,6 +13842,7 @@
 153|4|it|È quasi magia Johnny
 18438|4|th|E rank ผู้ถูกทิ้งเพราะสกิลไร้ค่าอย่าง [สร้างสถานะผิดปกติ] จะเหยียบยํ่าทุกสิ่งที่ขวางทางจนแกร่งสุดในใต้หล้า
 17611|4|pt-BR|É Sério Que Eu Sou o Mais Forte?
+19341|1|x-zht|E Shou
 12806|2|fr|e t’ai toujours aimé
 1213|4|it|È un po` magia per Terry e Maggie
 653|4|de|E-Mail für Eve
@@ -19201,6 +19203,7 @@
 4534|1|x-jat|Gowapper 5 Gordam
 4534|2|x-jat|Gowapper-5 Gordam
 276|3|x-jat|Gowcaizer
+19340|4|en|GoWest: Overworked
 7248|4|fr|Goyô
 7248|3|x-jat|goyou
 3961|2|pt|Gozaurer
@@ -25999,6 +26002,7 @@
 8370|1|x-jat|Kamisama no Memo-chou: It`s the Only NEET Thing to Do.
 8370|2|x-jat|Kamisama no Memochou
 12883|2|x-jat|Kamishibai Kintaro
+18407|4|en|Kamitsubaki City Under Construction
 18407|1|x-jat|Kamitsubaki-shi Kensetsuchuu.
 17146|3|x-jat|kamiue
 11886|1|x-jat|Kamiwaza Wanda
@@ -50155,6 +50159,7 @@
 3394|4|en|Super Robot Wars: Original Generation - The Animation
 13551|2|en|Super Sadistic Student Council President Maina-sama Gets Controlled by the M Note
 13184|1|x-kot|Super Samchongsa
+19339|1|en|Super Secret
 10007|1|x-jat|Super Seishun Brothers
 10007|4|ja|Super Seisyun Brothers -超青春姉弟s-
 13802|2|en|Super Seminary Season 5
@@ -69423,6 +69428,7 @@
 531|4|ko|슈퍼 그랑조
 14086|4|ko|슈퍼 드래곤볼 히어로즈
 13184|4|ko|슈퍼 삼총사
+19339|4|ko|슈퍼 시크릿
 2760|4|ko|슈퍼 차일드
 13186|4|ko|슈퍼 타이탄15
 10251|4|ko|슈퍼 태권V
@@ -83027,6 +83033,7 @@
 8208|4|ja|大人女子のアニメタイム「川面を滑る風」
 14412|4|zh-Hans|大人的防具店
 15724|4|zh-Hans|大人的防具店 第二季
+19340|4|zh-Hans|大侠请上功
 12247|4|zh-Hant|大兵金寶
 13598|4|ja|大切な家族を包む, その手.
 4892|2|zh-Hans|大剑
@@ -85321,6 +85328,7 @@
 5678|2|zh-Hans|恶作剧之吻
 13611|4|zh-Hant|恶作剧魔女与不夜城
 14044|2|zh|恶偶
+19341|4|zh-Hans|恶兽
 4564|2|zh-Hans|恶灵猎人
 4054|2|zh-Hans|恶童
 9916|3|zh-Hans|恶魔之谜
