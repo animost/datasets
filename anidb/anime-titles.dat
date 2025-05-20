@@ -1,4 +1,4 @@
-# created: Sun May 18 03:00:02 2025
+# created: Mon May 19 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -36951,6 +36951,8 @@
 2615|2|x-jat|Nekusto Senki Ehrgeiz
 2823|4|fr|Nell
 2823|2|en|Nell the Wandering Girl
+19341|4|en|Nemesis
+19341|2|en|Nemesis: The World`s First AI Film
 5679|2|lt|Nemirtingojo Kardas
 11165|1|x-jat|Nemure Omoigo, Sora no Shitone ni
 17331|1|x-jat|Nemurenai Ookami
@@ -45059,6 +45061,7 @@
 6470|1|x-jat|Saint Seiya: The Lost Canvas - Meiou Shinwa
 1889|4|en|Saint Seiya: Warriors of the Final Holy Battle
 6470|2|el|Saint Seiya: Ο Χαμένος Καμβάς - Η Μυθολογία του Άδη
+11004|2|en|Saint Slut Academy
 9533|2|en|Saint Slut Academy Dating Diary
 852|4|en|Saint Tail
 9454|2|en|Saint Young Men
@@ -47043,6 +47046,7 @@
 6036|1|x-jat|Shikabane Hime: Aka
 6227|1|x-jat|Shikabane Hime: Kuro
 6227|3|en|Shikabane2
+18534|3|en|Shikanoko
 18534|1|x-jat|Shikanoko Nokonoko Koshitantan
 16070|1|x-jat|Shikaru Neko
 7629|1|x-jat|Shikatte Ingo: Misaki Shunin no Buka Kyouiku Hen
@@ -85329,6 +85333,7 @@
 13611|4|zh-Hant|恶作剧魔女与不夜城
 14044|2|zh|恶偶
 19341|4|zh-Hans|恶兽
+19341|2|zh-Hans|恶兽 : 全球首部AI电影
 4564|2|zh-Hans|恶灵猎人
 4054|2|zh-Hans|恶童
 9916|3|zh-Hans|恶魔之谜
