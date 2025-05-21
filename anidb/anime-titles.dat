@@ -1,4 +1,4 @@
-# created: Mon May 19 03:00:01 2025
+# created: Tue May 20 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -46271,7 +46271,7 @@
 2267|4|en|Selfish Fairy Mirumo de Pon! Wonderful
 7189|4|cs|Selhání
 2212|4|pt|Sem Família
-17135|1|x-kot|Semantic Error
+17135|4|en|Semantic Error
 16921|3|x-jat|sematsuka
 7610|1|x-jat|Seme Chichi
 16020|4|en|Semen Extraction Ward
@@ -47936,6 +47936,7 @@
 9968|2|en|Silver Spoon S2
 9968|4|en|Silver Spoon Season 2
 3385|2|en|Silver-Haired Agito
+17135|1|x-kot|Simaentig Eleo
 785|6|pt|Simbad
 1779|4|es|Simbad el marino
 114|4|tr|Şimdi ve Sonra, Burada ve Orada
@@ -50163,7 +50164,7 @@
 3394|4|en|Super Robot Wars: Original Generation - The Animation
 13551|2|en|Super Sadistic Student Council President Maina-sama Gets Controlled by the M Note
 13184|1|x-kot|Super Samchongsa
-19339|1|en|Super Secret
+19339|4|en|Super Secret
 10007|1|x-jat|Super Seishun Brothers
 10007|4|ja|Super Seisyun Brothers -超青春姉弟s-
 13802|2|en|Super Seminary Season 5
@@ -50262,6 +50263,7 @@
 1122|4|fr|Survivants
 1122|3|en|Survive
 1122|2|en|Survive! - Uninhabited Planet
+18685|2|en|Surviving Science!
 13044|1|x-jat|Survivor
 13044|4|ja|Survivor
 11064|4|en|Sushi and Beyond
@@ -50508,6 +50510,7 @@
 1193|2|lt|Šypsena
 1900|4|pl|Syrenka Mako
 4989|2|x-jat|Syrius no Densetsu
+19339|1|x-kot|Syupeo Sikeulis
 1663|2|x-jat|Syuratoki
 2382|4|hu|Szamuráj Pizzacicák
 4325|2|pl|Szczere łzy
@@ -77244,6 +77247,7 @@
 139|4|ja|フォトン
 4561|4|ja|フォルツァ! ひでまる
 6817|4|ja|フォルト!!
+9549|2|ja|フォルト!!S 新たなる恋敵
 9549|4|ja|フォルト!!S(サービス)~新たなる恋敵(ライバル)~
 11588|4|ja|フカシギの数え方
 8465|4|ja|ぷかぷかジュジュ
@@ -78227,7 +78231,7 @@
 9177|4|ja|まんが花の係長
 6945|4|ja|マングワ 新猿蟹合戰
 4586|4|ja|マンザイ太閤記
-7689|4|ja|まんだら屋の良太 丸鬼谷温泉艶笑騒動譚
+7689|4|ja|まんだら屋の良太 九鬼谷温泉艶笑騒動譚
 13955|4|ja|まんなかのりっくん
 10109|4|ja|みーつけた!
 2884|4|ja|ミームいろいろ夢の旅
