@@ -1,4 +1,4 @@
-# created: Tue May 20 03:00:01 2025
+# created: Wed May 21 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -9751,6 +9751,7 @@
 3363|2|es-419|Criatura del Espacio
 1610|2|en|Crime of Passion
 18249|4|fr|Criminelles fiançailles
+19343|4|en|Crimson Abyss: The Movie
 2450|4|en|Crimson Climax
 8994|1|x-jat|Crimson Girls: Chikan Shihai
 1345|2|en|Crimson Lotus
@@ -16470,6 +16471,7 @@
 8141|4|el|From Up on Poppy Hill
 8141|4|my|From Up on Poppy Hill
 8141|4|tl|From Up on Poppy Hill
+11876|2|en|From Young Girls into Whores
 1113|4|fr|Front Innocent
 1113|1|x-jat|Front Innocent: Mou Hitotsu no Lady Innocent
 17501|2|pt|Fronteira Xangrilá
@@ -17732,6 +17734,7 @@
 10566|3|x-jat|Gekijouban KnK: Mirai Fukuin - The Garden of Sinners Recalled Out Summer - Extra Chorus
 1676|1|x-jat|Gekijouban Konjiki no Gash Bell!! 101 Banme no Mamono
 2776|1|x-jat|Gekijouban Konjiki no Gash Bell!! Mecha Vulcan no Raishuu
+19343|1|x-jat|Gekijouban Kurimuzon Abisu
 11966|1|x-jat|Gekijouban Kuroko no Baske: Last Game
 15064|1|x-jat|Gekijouban Kyochuu Rettou
 10726|1|x-jat|Gekijouban Kyoukai no Kanata: I`ll Be Here
@@ -36829,6 +36832,7 @@
 13061|4|ja|Nebula feat. Hatsune Miku
 7268|2|en|Necrodemon
 4463|4|en|Necromancer
+18254|2|en|Necromancer Isekai: How I Went from Abandoned Villager to the Emperor`s Favorite
 19042|2|en|Necronomico and the Cosmic Horror Show
 19042|1|x-jat|Necronomico no Cosmic Horror Show
 8590|1|x-jat|Nee Summer!
@@ -40167,6 +40171,7 @@
 8857|4|de|Patema Inverted
 8857|2|pt|Patema Invertida
 8857|2|cs|Patema nohama vzhůru
+8857|4|it|Patema Sottosopra
 8857|4|sv|Patema upp och ner
 8857|4|es|Patema: Dos mundos opuestos
 14009|1|x-jat|Patisserie no Monster
@@ -49300,6 +49305,7 @@
 17784|2|en|SPY×FAMILY Season 2
 17784|2|ja|SPY×FAMILY Season 2
 17061|4|zh-Hant|SPY×FAMILY 間諜家家酒
+17785|4|zh-Hant|SPY×FAMILY 間諜家家酒 CODE: White
 17784|4|zh-Hant|SPY×FAMILY 間諜家家酒 第二季
 16947|4|zh-Hant|SPY×FAMILY間諜家家酒
 17703|4|it|Squalificati - Ranger Reject
@@ -50339,6 +50345,7 @@
 17093|2|en|Swallowed Star S2
 19039|2|en|Swallowed Star The Movie: Xueluo Continent
 19039|2|en|Swallowed Star: Blood Luo Continent
+19342|2|en|Swallowing the Heavens
 1694|4|en|Swallowtail Inn
 13222|2|ko|Swamp Stamp
 13222|4|ja|SWAMP STAMP Anime Edition
@@ -55179,6 +55186,7 @@
 17522|4|pt|Túmulo dos Deuses Caídos
 18847|4|pt|Túmulo dos Deuses Caídos 2
 15867|2|x-zht|Tun Shi Xing Kong
+19342|1|x-zht|Tun Tian Ji
 19210|2|en|Tune In to the Midnight Heart
 11784|2|vi|Tung tiền hữu tọa linh kiếm sơn
 17040|4|de|Tunnel to Summer
@@ -82238,6 +82246,7 @@
 17093|2|zh-Hans|吞噬星空 第二季
 18365|4|zh-Hans|吞噬星空 第四季
 19039|4|zh-Hans|吞噬星空剧场版 血洛大陆
+19342|4|zh-Hans|吞天记
 4120|2|zh-Hans|吟游默示录II
 2599|4|ja|吟遊黙示録 マイネリーベ
 4120|4|ja|吟遊黙示録 マイネリーベ wieder(ウィーダ)
@@ -84325,6 +84334,7 @@
 14623|4|zh-Hant|小邪神飛踢！第二季
 15749|4|zh-Hant|小邪神飛踢X 3
 18060|2|zh-Hant|小酒館 Basue
+18060|4|zh-Hant|小酒館Basue
 2325|4|ja|小鉄の大冒険
 9751|4|zh-Hant|小鎮有你
 2325|4|zh-Hans|小铁的大冒险
@@ -87074,6 +87084,7 @@
 15350|4|zh-Hant|暮蟬悲鳴時 業
 5634|4|zh-Hant|暮蟬悲鳴時 禮
 4894|4|zh-Hant|暮蟬悲鳴時 解
+9574|4|zh-Hant|暮蟬悲鳴時擴～Outbreak～
 10462|4|ja|暴れん坊力士!!松太郎
 7443|4|zh-Hans|暴力宇宙海贼
 7601|4|ja|暴走戦國史
