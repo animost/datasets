@@ -1,4 +1,4 @@
-# created: Wed May 21 03:00:02 2025
+# created: Thu May 22 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -21041,6 +21041,8 @@
 15648|4|en|Heaven Official`s Blessing
 18218|4|en|Heaven Official`s Blessing 2
 15648|2|en|Heaven Officials` Blessing
+19342|2|en|Heaven Swallow
+19342|2|en|Heaven Swallowing Record
 1777|2|en|Heaven Wars Shurato
 3600|4|en|Heaven Wars Shurato OVA
 4575|2|en|Heaven-Piercing Gurren Lagann
@@ -54467,6 +54469,7 @@
 7227|2|en|Toriko: Jump Festa 2009 Special
 7227|4|en|Toriko: Jump Super Anime Tour 2009 Special
 2630|4|it|Toriton
+19344|1|x-jat|Toritsukare Otoko
 15781|2|en|Tormented: Revenge Hypnosis
 16409|1|x-jat|Torokase Orgasm The Animation
 16129|2|x-jat|Toromera
@@ -75999,6 +76002,7 @@
 7735|4|ja|トリコ バーバリアンアイビーを捕獲せよ!
 8009|4|ja|トリコ3D 開幕!グルメアドベンチャー!!
 8009|2|ja|トリコ3D 開幕グルメアドベンチャー!!
+19344|4|ja|トリツカレ男
 10267|4|ja|トリック・オア・アリス
 10348|2|ja|トリップトレック
 10333|2|ja|トリップトレック (2013)
