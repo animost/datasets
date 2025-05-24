@@ -1,4 +1,4 @@
-# created: Thu May 22 03:00:01 2025
+# created: Fri May 23 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -26906,6 +26906,7 @@
 17648|1|x-jat|Kidou Senshi Gundam: Suisei no Majo (2023)
 11372|1|x-jat|Kidou Senshi Gundam: Tekketsu no Orphans
 14587|1|x-jat|Kidou Senshi Gundam: Tekketsu no Orphans - Urdr Hunt
+19345|1|x-jat|Kidou Senshi Gundam: Tekketsu no Orphans - Urdr Hunt (2025)
 12048|1|x-jat|Kidou Senshi Gundam: Tekketsu no Orphans (2016)
 12048|2|x-jat|Kidou Senshi Gundam: Tekketsu no Orphans S2
 16704|1|x-jat|Kidou Senshi Gundam: Tekketsu no Orphans Tokubetsu Hen
@@ -87765,6 +87766,7 @@
 11372|4|ja|機動戦士ガンダム 鉄血のオルフェンズ
 12048|4|ja|機動戦士ガンダム 鉄血のオルフェンズ (2016)
 14587|4|ja|機動戦士ガンダム 鉄血のオルフェンズ ウルズハント
+19345|4|ja|機動戦士ガンダム 鉄血のオルフェンズ ウルズハント (2025)
 16704|4|ja|機動戦士ガンダム 鉄血のオルフェンズ 特別編
 14043|4|ja|機動戦士ガンダム 閃光のハサウェイ
 18723|4|ja|機動戦士ガンダム：銀灰の幻影
