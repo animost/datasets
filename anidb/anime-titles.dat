@@ -1,4 +1,4 @@
-# created: Fri May 23 03:00:02 2025
+# created: Sat May 24 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -18649,6 +18649,8 @@
 4414|3|en|GitSSAC3
 247|3|en|GitSTV
 6122|3|en|GitSv2
+18544|4|en|give it all
+18544|2|en|Give It Your All
 14756|1|x-jat|Given
 14756|4|en|Given
 15102|4|en|Given the Movie
