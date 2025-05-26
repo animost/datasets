@@ -1,4 +1,4 @@
-# created: Sat May 24 03:00:02 2025
+# created: Sun May 25 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2631,6 +2631,7 @@
 8689|3|x-jat|ane movie
 15349|1|x-jat|Ane Naru Mono
 12574|3|x-jat|ane ova
+17786|3|en|ane s3
 4152|1|x-jat|Ane to Boin
 15387|1|x-jat|Ane wa Yanmama Junyuu-chuu
 15387|2|x-jat|Ane wa Yanmama Junyuuchuu
@@ -8385,6 +8386,7 @@
 13841|2|en|Chihayafuru (2019)
 9261|1|x-jat|Chihayafuru 2
 9261|4|en|Chihayafuru 2
+9887|4|en|Chihayafuru 2: During My Forlorn Years in This World
 9887|2|pt-BR|Chihayafuru 2: Minha Beleza, Outrora Tão Elogiada, Também Está Desbotando com o Passar do Tempo
 9887|1|x-jat|Chihayafuru 2: Waga Mi Yo ni Furu Nagame Seshi Ma ni
 13841|1|x-jat|Chihayafuru 3
@@ -15152,6 +15154,7 @@
 2012|2|en|Explosive Bust Mother and Daughter
 3217|2|en|Explosive Bust Sisters
 4230|4|es-419|Expreso Galáctico 999
+12243|2|en|Express Train to Ecstasy
 4318|2|en|Expunged Chronicle of Miroku
 18275|4|pt|Exterminador Implacável Zero
 2754|1|x-jat|Extra
@@ -15384,6 +15387,7 @@
 18332|1|x-zht|Fanren Xiu Xian Chuan: Di San Ji
 19121|1|x-zht|Fanren Xiu Xian Chuan: Di Si Ji
 17004|1|x-zht|Fanren Xiu Xian Chuan: Mo Dao Zhengfeng
+19121|2|x-zht|Fanren Xiu Xian Chuan: Waihai Fengyun
 18265|1|x-zht|Fanren Xiu Xian Chuan: Xinghai Feichi Pian Xuzhang
 15425|1|x-zht|Fanren Xiuxian Chuan: Feng Qi Tian Nan
 17033|1|x-zht|Fanren Xiuxian Chuan: Feng Qi Tian Nan Er
@@ -30352,10 +30356,16 @@
 10948|4|es-419|Línea Final
 5629|2|x-jat|linebarrels
 5629|4|en|Linebarrels of Iron
+19346|2|en|Ling Cage 2
+19346|2|en|Ling Cage Season 2
 16850|1|x-zht|Ling Cao Xiao Zhanshi
 14646|1|x-zht|Ling Feng Zhe
 14639|1|x-zht|Ling Jian Zun
+19346|1|x-zht|Ling Long 2
+19346|2|x-zht|Ling Long 2nd Season
+19346|2|x-zht|Ling Long Di Er Ji
 16329|1|x-zht|Ling Long: Incarnation - Tebie Pian
+19346|2|x-zht|Ling Long: Incarnation 2
 15632|1|x-zht|Ling Long: Incarnation Shang Ban Ji
 15674|1|x-zht|Ling Long: Incarnation Xia Ban Ji
 16313|1|x-zht|Ling Long: Incarnation Zhong Zhang
@@ -36116,6 +36126,7 @@
 9890|4|en|My Teen Romantic Comedy: SNAFU - There`s No Choice but to Wish Them Happiness Right Here as They Arrive at Their Destiny
 14764|2|en|My Teen Romantic Comedy: SNAFU 3
 14764|4|en|My Teen Romantic Comedy: SNAFU Climax
+15990|4|en|My Teen Romantic Comedy: SNAFU Climax - Regardless, Adolescence Doesn`t End, And Youth Continues On
 10601|4|en|My Teen Romantic Comedy: SNAFU Too!
 12077|4|en|My Teen Romantic Comedy: SNAFU Too! - Undoubtedly, Girls Are Made of Sugar, Spice, and Everything Nice
 9310|2|en|My Teenage RomCom SNAFU
@@ -43293,6 +43304,7 @@
 11175|1|x-jat|Rasen Sokou no Dystopia
 2871|4|da|Rasmus Rap
 2242|2|de|Raumstation Cyborg 009
+10942|2|en|Raunchy Road to Redemption
 11033|4|en|Raunchy Roleplay
 125|2|x-jat|RAVE
 125|4|fr|Rave
@@ -43386,8 +43398,8 @@
 14792|4|en|Re:Zero - Starting Life in Another World (2020)
 15593|4|en|Re:Zero - Starting Life in Another World (2021)
 17947|4|en|Re:Zero - Starting Life in Another World (2024)
+19242|2|en|Re:Zero - Starting Life in Another World (2026)
 14792|2|en|Re:Zero - Starting Life in Another World 2nd Season
-19242|2|en|Re:Zero - Starting Life in Another World 4
 17947|2|en|Re:Zero - Starting Life in Another World Season 3
 11370|4|es|Re:Zero -Empezar de cero en un mundo diferente-
 14792|4|de|Re:ZERO -Starting Life in Another World- 2
@@ -43415,13 +43427,13 @@
 14792|1|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu (2020)
 15593|1|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu (2021)
 17947|1|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu (2024)
+19242|1|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu (2026)
 14792|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu 2
 14792|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
 15593|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season (2021)
 15593|2|en|Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season 2nd Part
 15593|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2
 17947|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season
-19242|1|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu 4
 14792|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu S2
 14792|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu Season 2 Part 1
 15593|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu Season 2 Part 2
@@ -43435,9 +43447,9 @@
 14792|4|ja|Re:ゼロから始める異世界生活 (2020)
 15593|4|ja|Re:ゼロから始める異世界生活 (2021)
 17947|4|ja|Re:ゼロから始める異世界生活 (2024)
+19242|4|ja|Re:ゼロから始める異世界生活 (2026)
 14792|2|ja|Re:ゼロから始める異世界生活 2nd season
 15593|2|ja|Re:ゼロから始める異世界生活 2nd season 後半クール
-19242|4|ja|Re:ゼロから始める異世界生活 4
 11370|2|ja|Re:ゼロから始める異世界生活 新編集版
 17947|4|zh-Hans|Re：从零开始的异世界生活 第三季
 11370|4|zh-Hant|Re：從零開始的異世界生活
@@ -46612,6 +46624,7 @@
 699|1|x-jat|Sexy Commando Gaiden: Sugoi yo!! Masaru-san
 699|2|en|Sexy Commando Side Story: Amazing! Masaru
 16250|4|es|Sexy Cosplay Doll
+10893|2|en|Sexy Daze, Naughty Knights
 4020|4|en|Sexy Fighter Manami
 1358|4|en|Sexy Magical Girl
 1358|2|en|Sexy Magical Girl Ai
@@ -49171,6 +49184,7 @@
 11784|2|en|Spirit Blade Mountain
 12030|2|en|Spirit Blade Mountain 2nd season
 15632|2|en|Spirit Cage: Incarnation
+19346|2|en|Spirit Cage: Incarnation 2
 16313|2|en|Spirit Cage: Incarnation Final Chapter
 15674|2|en|Spirit Cage: Incarnation Part 2
 16329|2|en|Spirit Cage: Incarnation Special
@@ -59170,6 +59184,7 @@
 312|4|en|Yu Yu Hakusho: Ghost Files
 1084|4|en|Yu Yu Hakusho: The Movie
 753|4|en|Yu Yu Hakusho: The Movie - Poltergeist Report
+14506|4|en|Yu Yu Hakusho: Two Shot & All or Nothing
 2061|4|hr|Yu-Gi-Oh
 2061|4|el|Yu-Gi-Oh
 2061|4|fr|Yu-Gi-Oh !
@@ -88668,10 +88683,12 @@
 10782|4|zh-Hans|灵感少女
 18850|4|zh-Hans|灵武大陆
 1132|4|zh-Hans|灵猫
+19346|4|zh-Hans|灵笼 第二季
 15632|4|zh-Hans|灵笼: INCARNATION 上半季
 15674|4|zh-Hans|灵笼:INCARNATION 下半季
 16329|4|zh-Hans|灵笼:INCARNATION 特别篇
 16313|4|zh-Hans|灵笼:INCARNATION 终章
+19346|2|zh-Hans|灵笼2: INCARNATION
 2017|2|zh-Hans|灵能侦探
 11803|4|zh-Hans|灵能百分百
 14941|4|zh-Hans|灵能百分百 第一回灵能相谈所犒劳旅行～心满意足的治愈之旅～
