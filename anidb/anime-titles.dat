@@ -1,4 +1,4 @@
-# created: Sun May 25 03:00:01 2025
+# created: Mon May 26 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -186,6 +186,7 @@
 15157|4|ja|「宇宙戦艦ヤマト」という時代 西暦2202年の選択
 12142|4|ja|「英雄」解体
 18922|4|ja|「鬼滅の刃」上弦集結、そして刀鍛冶の里へ
+19348|4|ja|「鬼滅の刃」絆の奇跡、そして柱稽古へ
 19028|4|ja|『Fate/Grand Order』 Explore Movie 2024
 18160|4|ja|『Fate/Grand Order』 Memorial Movie 2023
 17129|4|ja|『あなたを一言で表してください』の質問が苦手だ.
@@ -5393,6 +5394,7 @@
 12890|2|en|Bernard
 12226|1|x-jat|Bernard-jou Iwaku.
 13545|4|lt|Berniukas ir garnys
+19347|1|x-jat|Bero-dashi Chonma
 161|4|x-kot|Berry Berry Mew Mew
 1406|4|it|Bersaglio che ride (Granata) - La sposa demoniaca (Polygram)
 98|4|fr|Berserk
@@ -11127,6 +11129,7 @@
 17198|4|pt|Demon Slayer: Kimetsu no Yaiba - Saga da Aldeia dos Ferreiros
 18067|4|pt|Demon Slayer: Kimetsu no Yaiba - Saga do Treino dos Pilares
 17070|4|en|Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc
+19348|1|en|Demon Slayer: Kimetsu no Yaiba -To the Hashira Training-
 17198|4|es-419|Demon Slayer: Kimetsu no Yaiba Arco de la Aldea de los Herreros
 18699|4|pt-BR|Demon Slayer: Kimetsu no Yaiba Castelo Infinito
 18699|4|es-419|Demon Slayer: Kimetsu no Yaiba Castillo Infinito
@@ -77730,6 +77733,7 @@
 9933|4|ja|ぺろぺろ☆てぃーちゃー
 5706|4|ja|ペロペロキャンデー
 4660|4|ja|へろへろくん
+19347|4|ja|ベロ出しチョンマ
 8292|4|ja|ベン・トー
 13853|4|ja|ペンギン・ハイウェイ
 7331|4|ja|ペンギンズ・メモリー幸福物語
@@ -87189,6 +87193,7 @@
 15769|4|ja|望古神话之天选者
 8416|2|ja|朝からずっしり ミルクポット
 8416|4|ja|朝からずっしり・ミルクポット
+8416|2|ja|朝からずっしりミルクポット
 11415|4|ja|朝が来る前に ~さすらいバージョン~
 12024|4|ja|朝だよ! 貝社員
 8873|4|ja|朝まで授業 Chu!
