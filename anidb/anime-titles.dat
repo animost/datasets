@@ -1,4 +1,4 @@
-# created: Mon May 26 03:00:01 2025
+# created: Tue May 27 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -7134,6 +7134,7 @@
 481|2|hu|Bújj,bújj szellem
 19056|1|x-jat|Bukiyou na Senpai.
 1264|1|x-kot|Bulg-eunmae
+19349|1|x-kot|Bulgeun Yeou
 17725|4|ja|BULLBUSTER
 17725|1|x-jat|Bullbuster
 17725|4|en|Bullbuster
@@ -22456,6 +22457,7 @@
 14733|4|x-jat|Hora, Mimi ga Mieteru yo! (2019)
 14306|3|x-jat|horamimi
 14733|3|x-jat|horamimi2
+19350|1|x-kot|Horangi Deureowayo
 9955|3|x-jat|horei
 10667|3|x-jat|horei oad
 12954|3|x-jat|horei s2
@@ -43568,6 +43570,7 @@
 6276|2|en|Red Colored Elegy
 9328|2|x-jat|Red Data Girl
 10407|4|fr|Red Eyes Sword - Akame ga Kill
+19349|4|en|Red Fox
 4522|4|ja|RED GARDEN
 4522|1|x-jat|Red Garden
 4522|4|en|Red Garden
@@ -53780,6 +53783,7 @@
 8101|2|en|Tiger and Bunny
 8101|4|el|Tiger and Bunny
 13713|2|en|Tiger and Bunny 2
+19350|2|en|Tiger Coming In
 18905|2|en|Tiger Crane
 18905|2|en|Tiger Crane Demon Master Record
 8101|4|hr|Tiger i Bunny
@@ -69163,6 +69167,7 @@
 14177|4|ko|불쾌한 모노노케안 속
 1385|2|ko|붉은 광탄 질리온
 306|4|ko|붉은 돼지
+19349|4|ko|붉은 여우
 1264|4|ko|붉은매
 316|2|ko|붓토비 CPU
 8796|4|ko|브랜디시
@@ -71011,6 +71016,7 @@
 17|4|ko|풀 메탈 패닉!
 11731|4|ko|풀 메탈 패닉! Invisible Victory
 2710|2|ko|풀 메탈 패닉! The Second Raid
+19225|2|ko|풍기위원과 풍속 활동
 4524|2|ko|풍덩 가족
 13794|4|ko|풍뎅이뎅이
 9944|2|ko|풍륜간산
@@ -71169,6 +71175,7 @@
 5912|2|ko|형수는 고집쟁이
 15387|2|ko|형수는 양마마 수유중
 12776|4|ko|호동왕자와 락랑공주
+19350|4|ko|호랑이 들어와요
 15510|2|ko|호박색의 헌터 THE ANIMATION
 3358|2|ko|호색일대남
 13704|4|ko|호오즈키의 냉철 (2018)
@@ -82036,6 +82043,7 @@
 14695|4|ja|可愛ければ変態でも好きになってくれますか?
 17645|4|zh-Hans|可爱过头大危机
 11186|4|ja|台風のノルダ
+7629|2|ja|叱って淫語
 7629|4|ja|叱って淫語 三咲主任の部下教育編
 16100|4|ja|史上最強の大魔王, 村人Aに転生する
 4596|4|ja|史上最強の弟子 ケンイチ
@@ -82699,6 +82707,7 @@
 14559|4|zh-Hans|地下城与勇士·逆转之轮
 18162|4|zh-Hant|地下城中的人
 18162|4|zh-Hans|地下城里的人们
+3619|2|ja|地下幻燈劇画 少女椿
 16588|4|zh-Hant|地下忍者
 16588|4|zh-Hans|地下忍者
 12151|4|ja|地下鉄に乗るっ
@@ -93252,6 +93261,7 @@
 1815|4|ja|闘将ダイモス
 11479|4|ja|闘技場[コロシアム]の戦姫~another story~
 11479|2|ja|闘技場の戦姫
+11479|2|ja|闘技場の戦姫~another story~
 3446|4|ja|闘牌伝説アカギ 闇に舞い降りた天才
 1293|4|ja|闘神伝
 16848|4|ja|闘神機ジーズフレーム
