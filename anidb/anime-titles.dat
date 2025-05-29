@@ -1,4 +1,4 @@
-# created: Tue May 27 03:00:01 2025
+# created: Wed May 28 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3189,6 +3189,7 @@
 6473|2|en|Apocalypse Meow
 44|2|en|Apocalypse of Devilman
 928|4|en|Apocalypse Zero
+18702|4|id|Apokalips Dunia Lain Mynoghra ~Menaklukan Dunia Dimulai dari Peradaban Kehancuran~
 8870|3|x-jat|apollon
 13910|2|fr|Apothéoses d’après-cours
 17708|4|en|Apotheosis
@@ -39904,6 +39905,7 @@
 5310|4|lt|Padangių Klajokliai
 1217|4|pt|Padrinhos de Tóquio
 1265|3|en|PAG
+19143|4|id|Pahlawan Pingsan dan Putri Pemalu
 5452|4|en|Paid & Laid
 5452|2|en|Paid and Laid
 17945|3|x-jat|painoko
@@ -46680,6 +46682,7 @@
 10975|2|en|Shabura Rental: The Slutty Nee-chan and the Super Erotic Lesson The Animation
 15285|3|x-jat|Shachibato
 15285|4|en|Shachibato! President, It`s Time for Battle!
+19351|1|x-jat|Shachiku Cinderella
 16376|1|x-jat|Shachiku-san wa Youjo Yuurei ni Iyasaretai.
 4306|1|x-jat|Shachiku: Kuruma no Naka de Kattemasu
 16376|2|x-jat|Shachisaretai
@@ -58639,6 +58642,7 @@
 15526|1|x-kot|Yeon-ae Haru Jeon
 15527|1|x-kot|Yeon-ae Haru Jeon 2
 19322|1|x-kot|Yeon-aejehanguyeog
+19322|2|x-kot|Yeonae Jehan Guyeok
 10796|2|x-kot|Yeongsimi
 4734|2|x-kot|Yeopgi Ingeol Sunako
 18806|1|x-kot|Yeosin Gangnim
@@ -80370,6 +80374,7 @@
 15211|4|ja|何もしてあげられない
 14084|4|ja|何色の何
 12073|4|zh-Hant|佛典故事
+12073|2|zh|佛典故事动画
 12896|4|zh|佛教動畫-大勢至菩薩念佛圓通章
 18502|4|zh-Hant|佛系貓物語
 15216|4|zh-Hans|你与我最后的战场，亦或是世界起始的圣战
@@ -90002,6 +90007,7 @@
 15392|4|ja|磔
 11723|4|ja|磯部磯兵衛物語~浮世はつらいよ~
 16376|4|ja|社畜さんは幼女幽霊に癒されたい.
+19351|4|ja|社畜シンデレラ
 16376|2|zh-Hans|社畜小姐想被幽灵幼女治愈。
 15285|4|ja|社長, バトルの時間です!
 15285|4|zh-Hant|社長，戰鬥的時間到了！
