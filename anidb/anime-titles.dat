@@ -1,4 +1,4 @@
-# created: Wed May 28 03:00:01 2025
+# created: Thu May 29 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -7779,6 +7779,7 @@
 18248|4|en|Cardfight!! Vanguard: Divinez
 19050|4|en|Cardfight!! Vanguard: Divinez Deluxe Arc
 19050|1|x-jat|Cardfight!! Vanguard: Divinez Deluxe Hen
+19352|1|x-jat|Cardfight!! Vanguard: Divinez Deluxe Kesshou Hen
 18591|4|en|Cardfight!! Vanguard: Divinez Season 2
 18591|1|x-jat|Cardfight!! Vanguard: Divinez Season 2
 10483|1|x-jat|Cardfight!! Vanguard: Legion Mate Hen
@@ -10975,6 +10976,7 @@
 3496|1|x-jat|Deimos no Hanayome: Ran no Kumikyoku
 16494|1|x-jat|Deji Meets Girl
 10221|1|x-jat|Dekakute Ecchi na Ore no Ane
+19353|1|x-jat|Deki Chau Made Kon
 18990|1|x-jat|Dekin no Mogura
 18990|4|de|Dekin no Mogura: The Earthbound Mole
 18990|4|en|Dekin no Mogura: The Earthbound Mole
@@ -12095,6 +12097,8 @@
 882|1|x-jat|Dirty Pair (1987)
 402|1|x-jat|Dirty Pair Flash
 402|4|en|Dirty Pair Flash
+19354|1|x-jat|Dirty Pair Flash 2
+19355|1|x-jat|Dirty Pair Flash 3
 882|4|en|Dirty Pair OVA
 882|2|x-jat|Dirty Pair OVA
 1032|2|en|Dirty Pair Project E.D.E.N.
@@ -17339,6 +17343,7 @@
 11778|2|en|Gantz: Osaka Arc
 11778|4|ja|GANTZ:O
 11778|4|pl|GANTZ:O
+19356|1|x-jat|Ganzo! Bang Dream-chan
 3152|3|x-jat|GaoGaiGar (2005)
 3152|2|x-jat|GaoGaiGar FINAL -GGG-
 1717|3|x-jat|GaoGaiGar OVA
@@ -19626,6 +19631,7 @@
 18689|1|x-jat|Guilty Gear Strive: Dual Rulers
 18689|4|ja|GUILTY GEAR STRIVE: DUAL RULERS
 18689|4|en|Guilty Gear Strive: Dual Rulers
+19357|1|x-zht|Guimi Zhi Zhu
 6331|1|x-jat|Guin Saga
 6331|4|en|Guin Saga
 1687|2|es|Guitalactica
@@ -33026,6 +33032,7 @@
 1612|2|en|Marriage of God & Soul Godannar!! Second Season
 18033|4|en|Married Couple Swap
 19163|2|en|Married Women`s Lips Taste Like Canned Chuuhai
+19353|2|en|Marry Me, Let`s Have a Baby!
 5696|1|x-jat|Mars
 1641|4|en|Mars Daybreak
 1641|4|fr|Mars Daybreak
@@ -38897,6 +38904,7 @@
 12430|4|en|One Punch Man (2019)
 17576|4|ja|ONE PUNCH MAN (2025)
 17576|1|x-jat|One Punch Man (2025)
+17576|4|en|One Punch Man (2025)
 12430|2|en|One Punch Man S2
 17576|2|en|one punch man s3
 11123|4|ja|ONE PUNCH MAN ワンパンマン
@@ -53707,6 +53715,7 @@
 14786|4|en|Thunderbolt Fantasy: Bewitching Melody of the West
 13793|1|x-jat|Thunderbolt Fantasy: Seishi Ikken
 14786|1|x-jat|Thunderbolt Fantasy: Seiyuu Genka
+18560|4|en|Thunderbolt Fantasy: Sword Seekers - The Finale
 12441|4|en|Thunderbolt Fantasy: Sword Seekers 2
 14556|4|en|Thunderbolt Fantasy: Sword Seekers 3
 16558|2|en|Thunderbolt Fantasy: Sword Seekers 4
@@ -72723,6 +72732,7 @@
 14681|2|ja|カードファイト!! ヴァンガード (2019)
 18248|4|ja|カードファイト!! ヴァンガード Divinez
 18591|4|ja|カードファイト!! ヴァンガード Divinez Season2
+19352|4|ja|カードファイト!! ヴァンガード Divinez デラックス決勝編
 19050|4|ja|カードファイト!! ヴァンガード Divinez デラックス編
 15646|4|ja|カードファイト!! ヴァンガード OverDress
 15995|4|ja|カードファイト!! ヴァンガード OverDress (2021)
@@ -75086,6 +75096,8 @@
 2498|4|ja|ダーティペア ラブリーエンジェルより愛をこめて
 1174|4|ja|ダーティペア 謀略の005便
 402|4|ja|ダーティペアFLASH
+19354|4|ja|ダーティペアFLASH2
+19355|4|ja|ダーティペアFLASH3
 18275|5|ja|たーみねーたー ぜろ
 18275|2|ja|ターミネーター ゼロ
 18275|4|ja|ターミネーター0
@@ -75521,6 +75533,7 @@
 6156|4|ja|テガミバチ ~光と青の幻想夜話~
 6772|4|ja|テガミバチ LETTER BEE
 7458|4|ja|テガミバチ REVERSE
+19353|4|ja|デキちゃうまで婚
 13026|4|ja|できるかな
 17423|4|ja|デキる猫は今日も憂鬱
 1862|4|ja|テクノポリス21C
@@ -80688,6 +80701,7 @@
 5816|4|ja|元気爆発ガンバルガー
 10763|4|zh-Hant|元氣少女緣結神◎
 939|4|ja|元祖 爆れつハンター
+19356|4|ja|元祖! バンドリちゃん
 5494|4|ja|元祖天才バカボン
 6850|4|ja|元禄恋模様 三吉とおさよ
 6335|2|zh-Hant|元素獵人
@@ -83649,6 +83663,7 @@
 15215|4|zh-Hans|好比是最终迷宫前的少年到新手村生活一般的故事
 19329|4|ja|好色の忠義くノ一ぼたん
 3358|4|zh-Hans|好色一代男
+3358|2|ja|好色一代男 井原西鶴
 18114|2|zh-Hant|如果 30 歲還是處男，似乎就能成為魔法師
 16693|4|zh-Hans|如果历史是一群喵
 16694|4|zh-Hans|如果历史是一群喵 (2)
@@ -92038,6 +92053,7 @@
 18577|2|zh-Hans|诛仙 第2季
 18577|4|zh-Hans|诛仙 第二季
 15835|4|zh|诡水疑云
+19357|4|zh-Hans|诡秘之主
 14376|4|zh-Hans|请吃红小豆吧!
 16782|4|zh-Hans|请吃红小豆吧! 第三季
 14657|4|zh-Hans|请吃红小豆吧! 第二季
@@ -94735,9 +94751,11 @@
 19238|4|ja|黒岩メダカに私の可愛いが通じない 2
 3130|4|ja|黒愛 一夜妻館・淫口乱乳録
 13809|4|ja|黒猫モンロヲ
+8725|2|ja|黒獣 ~気高き聖女は白濁に染まる~
 8725|2|ja|黒獣〜気高き聖女は白濁に染まる〜
 8725|4|ja|黒獣[クロイヌ] ~気高き聖女は白濁に染まる~
 16361|4|ja|黒獣[クロイヌ]II THE ANIMATION
+16361|2|ja|黒獣II THE ANIMATION
 660|4|ja|黒瞳皇
 6211|4|ja|黒神 The Animation
 6211|2|zh-Hans|黒神 The Animation
