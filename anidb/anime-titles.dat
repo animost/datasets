@@ -1,4 +1,4 @@
-# created: Thu May 29 03:00:01 2025
+# created: Fri May 30 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2544,6 +2544,7 @@
 4304|1|x-jat|Amy to Yobanaide
 2777|2|lt|Amžina Šeimynėlė
 3533|2|en|An Adventure in the Otaku Galaxy
+19183|2|en|An Anonymous Life
 1902|2|en|An Apache Baseball Team
 17686|4|en|An Archdemon`s Dilemma: How to Love Your Elf Bride
 12873|1|x-jat|An Expression
@@ -17022,6 +17023,8 @@
 12290|4|fr|Gabriel Dropout
 16442|4|ja|GABULI
 16442|1|x-jat|Gabuli
+19358|2|en|Gacha Girls Corps
+19358|1|x-jat|Gacha o Mawashite Nakama o Fuyasu Saikyou no Bishoujo Gundan o Tsukuriagero
 18686|1|x-jat|Gachiakuta
 18686|4|en|Gachiakuta
 692|1|x-jat|Gad Guard
@@ -23196,6 +23199,7 @@
 2140|2|en|I`ll Make a Habit of It
 430|1|x-jat|I`ll/CKBC
 430|4|ja|I`ll/CKBC
+19359|2|en|I`m a Curse Crafter, and I Don`t Need an S-Rank Party!
 18536|4|en|I`m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic
 11817|4|en|I`m a sexaholic!
 18058|2|en|I`m Addicted to You.
@@ -36109,6 +36113,7 @@
 18933|2|en|My Sectarian Members Are Spies
 13647|2|en|My Senior Brother Has a Pit in His Brain
 17856|2|en|My Senior Brother is Too Steady
+18691|2|en|My Senior Brother Is Too Steady 3rd Season
 18330|2|en|My Senior Brother is Too Steady Season 2
 18691|2|en|My Senior Brother is Too Steady Season 3
 18691|2|en|My Senior Brother is Too Steady: Fan Year
@@ -44714,6 +44719,7 @@
 17920|1|x-jat|Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega
 18541|1|x-jat|S Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu
 17695|3|x-jat|S Rank Musume
+19359|1|x-jat|S Rank Party kara Kaiko Sareta "Jugushi": "Noroi no Item" Shika Tsukuremasen ga, Sono Seinou wa Artifact-kyuu nari......!
 5584|2|it|S-A - Special A Class
 47|4|en|s-CRY-ed
 47|4|fr|s-CRY-ed
@@ -47585,6 +47591,8 @@
 17856|1|x-zht|Shixiong A Shixiong
 18330|1|x-zht|Shixiong A Shixiong 2
 18691|1|x-zht|Shixiong A Shixiong 3
+18691|2|x-zht|Shixiong A Shixiong 3rd Season
+18691|2|x-zht|Shixiong A Shixiong Di San Ji
 18691|2|en|Shixiong A Shixiong Nian Fan
 18691|2|x-zht|Shixiong A Shixiong:  Tianting Fuxīng Pian
 17187|1|x-jat|Shiyakusho
@@ -50581,6 +50589,7 @@
 6509|3|x-jat|szs4
 7214|3|x-jat|szs5
 335|4|pl|Szum morza
+19359|4|ja|Sランクパーティから解雇された【呪具師】~『呪いのアイテム』しか作れませんが, その性能はアーティファクト級なり......!~
 18541|4|ja|Sランクモンスターの《ベヒーモス》だけど, 猫と間違われてエルフ娘の騎士として暮らしてます
 17695|3|ja|Sランク娘
 16121|4|ja|S家に嫁いだM嬢の日常
@@ -72874,6 +72883,7 @@
 6939|4|ja|かちかち山 (1934)
 6864|4|ja|カチカチ山 (1940)
 6885|4|ja|カチカチ山の消防隊
+19358|4|ja|ガチャを回して仲間を増やす 最強の美少女軍団を作り上げろ
 13064|4|ja|かつおぶしだよ人生は
 6694|2|ja|カッくんカフェ
 6694|2|ja|カックンカフェ
@@ -83856,6 +83866,7 @@
 10158|4|ja|姦染 Ball Buster The Animation
 7259|4|ja|姦染2 淫罪都市
 7652|4|ja|姦染3 首都崩壊
+8970|2|ja|姦染5 THE Daybreak
 8970|4|ja|姦染5-THE Daybreak-
 7457|4|ja|姦淫特急 満潮
 4352|4|ja|姦獄~淫辱の実験棟~
