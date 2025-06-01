@@ -1,4 +1,4 @@
-# created: Fri May 30 03:00:01 2025
+# created: Sat May 31 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2177,6 +2177,7 @@
 17937|2|x-jat|Akuyaku LV99
 17937|1|x-jat|Akuyaku Reijou Level 99: Watashi wa Ura Boss Desu ga Maou de wa Arimasen
 16826|1|x-jat|Akuyaku Reijou nano de Last Boss o Katte Mimashita
+19360|1|x-jat|Akuyaku Reijou no Naka no Hito
 18366|1|x-jat|Akuyaku Reijou Tensei Ojisan
 223|3|en|AL
 170|3|x-jat|AL
@@ -9714,6 +9715,7 @@
 6550|2|en|Crayon Shin-chan: Otakebe! Kasukabe Animal Kingdom
 10252|4|en|Crayon Shin-chan: Serious Battle! Robot Dad Strikes Back
 7254|2|en|Crayon Shin-chan: Super-Dimmension! The Storm Called My Bride
+4622|4|en|Crayon Shin-chan: The Storm Called: The Adult Empire Strikes Back
 5858|4|en|Crayon Shin-chan: The Storm Called: The Hero of Kinpoko
 4625|2|en|Crayon Shin-chan: The Treasure of the Kingdom of Wiggle
 4626|2|en|Crayon Shin-chan: Unkokusai`s Ambition
@@ -35624,6 +35626,7 @@
 2290|4|es|Mujercitas
 2868|2|es|Mujercitas (1981)
 4445|1|x-jat|Mujigen Hunter Fandora
+19362|1|x-jat|Mujin Eki The Animation
 1122|1|x-jat|Mujin Wakusei Survive
 298|1|x-jat|Mujintou Monogatari X
 926|1|x-jat|Mujintou Monogatari XX
@@ -42634,6 +42637,7 @@
 17590|1|x-jat|Punirunes
 17590|4|en|Punirunes
 18877|1|x-jat|Punirunes: Puni 2
+19361|1|x-jat|Punirunes: Puni 3
 2514|4|en|Punishment
 17482|2|en|Punishment 2
 17482|2|en|Punishment 2: Crazy Depaga Guidance
@@ -55898,6 +55902,7 @@
 9443|1|x-jat|Unko-san: Tsuiteru Hito ni Shika Mienai Yousei Junjou Ha
 10710|4|en|Unlimited Fafnir
 9421|4|en|Unlimited Psychic Squad
+19362|2|en|Unmanned Station The Animation
 16960|1|x-jat|Unmei Sensen: Liddell-light
 17767|4|ja|Unnamed Memory
 17767|1|x-jat|Unnamed Memory
@@ -77413,6 +77418,7 @@
 19072|4|ja|ぷにるはかわいいスライム 2
 17590|4|ja|ぷにるんず
 18877|4|ja|ぷにるんず ぷに2
+19361|4|ja|ぷにるんず ぷに3
 10271|4|ja|プピポー!
 11761|2|ja|ブブキ・ブランキ
 11761|4|ja|ブブキ･ブランキ
@@ -85462,6 +85468,7 @@
 14044|4|ja|悪偶 ‐天才人形‐
 3618|4|ja|悪右衛門
 16826|4|ja|悪役令嬢なのでラスボスを飼ってみました
+19360|4|ja|悪役令嬢の中の人
 17937|4|ja|悪役令嬢レベル99 ~私は裏ボスですが魔王ではありません~
 18366|4|ja|悪役令嬢転生おじさん
 3126|4|ja|悪戯~いたずら~The Animation
@@ -88823,6 +88830,7 @@
 298|4|ja|無人島物語X
 926|4|ja|無人島物語XX
 1122|4|ja|無人惑星サヴァイヴ
+19362|4|ja|無人駅 The Animation
 19183|4|ja|無名の人生
 11500|4|ja|無彩限のファントム・ワールド
 12650|4|ja|無念
@@ -90352,6 +90360,7 @@
 4263|4|ja|秘湯めぐり The Animation
 7678|4|ja|秘湯めぐり 隠れ湯
 9433|4|ja|秘湯めぐり 隠れ湯 舞桜編
+7678|2|ja|秘湯めぐり隠れ湯
 15299|4|zh-Hans|租借女友
 17629|4|zh-Hans|租借女友 第三季
 15299|2|zh-Hans|租赁女友
@@ -91700,6 +91709,7 @@
 13767|4|zh-Hans|虚空魔境
 14701|4|zh-Hans|虚空魔境 第二季
 9879|4|ja|虜ノ契 ~家族のために身体を差し出す姉と妹~
+9879|2|ja|虜の契～家族のために身体を差し出す姉と妹～
 12636|4|ja|虜ノ鎖~処女たちを穢す淫らな楔~
 14593|4|ja|虜ノ雫 ~夏の豪華客船で穢される処女たち~
 8082|4|ja|虜姫~白濁まみれの令嬢~
