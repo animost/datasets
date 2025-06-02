@@ -1,4 +1,4 @@
-# created: Sat May 31 03:00:02 2025
+# created: Sun Jun  1 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -887,7 +887,7 @@
 5609|2|en|A Connectiv System
 11104|2|en|A Corpse Is Buried Under Sakurako`s Feet
 16188|4|en|A Couple of Cuckoos
-18773|2|en|A Couple of Cuckoos Season 2
+18773|4|en|A Couple of Cuckoos Season 2
 2630|4|hu|A csodálatos Triton
 8229|4|en|A Dark Rabbit Has Seven Lives
 12874|2|en|A Day After a Hundred Years
@@ -7499,8 +7499,8 @@
 3560|4|pt|Campeões: Oliver e Benji - O Jogo da Vingança
 508|4|es|Campeones: Hacia el Mundial
 505|4|es|Campeones: Oliver y Benji
+18257|4|en|Campfire Cooking in Another World with My Absurd Skill Season 2
 17689|4|en|Campfire Cooking in Another World with My Absurd Skills
-18257|2|en|Campfire Cooking in Another World with My Absurd Skills 2
 8861|4|es|Campione!
 8861|4|es-419|Campione!
 8861|4|en|Campione!
@@ -9070,6 +9070,7 @@
 4579|4|de|Cleopatra und die tollen Römer
 4579|2|en|Cleopatra, Queen of Sex
 4579|4|en|Cleopatra: Queen of Sex
+18730|4|en|Clevatess
 18730|1|x-jat|Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha
 3466|4|en|Clever Sarutobi
 16290|2|en|Click
@@ -25319,6 +25320,8 @@
 3472|1|x-jat|Jumping
 11061|2|x-jat|Jun Ai Maniac
 17595|1|x-zht|Jun You Yun
+19363|2|x-zht|Jun You Yun Di Er Ji
+19363|1|x-zht|Jun You Yun II
 10959|4|fr|Jun, la voix du cœur
 11061|1|x-jat|Jun`ai Maniac
 3349|4|no|Jungelpatruljen
@@ -26978,6 +26981,7 @@
 11483|1|x-jat|Kieta Akazukin-chan
 1054|1|x-jat|Kigeki
 2571|1|x-jat|Kigurumi Sentai Kiltian
+2571|2|x-jat|Kigurumi Sentai Quiltian
 6492|3|x-jat|Kigurumikku
 6492|1|x-jat|Kigurumikku V3
 4711|1|x-jat|Kigyou Senshi Yamazaki Long Distance Call
@@ -35906,7 +35910,8 @@
 8438|2|en|My Dog Bakgu
 6365|2|en|My Dread is School!
 16250|4|en|My Dress-Up Darling
-17630|2|en|My Dress-Up Darling (2025)
+17630|4|en|My Dress-Up Darling (2025)
+17630|2|en|My Dress-Up Darling Season 2
 1402|4|en|My Fair Masseuse
 325|4|en|My Family
 4272|2|x-jat|My Father`s Dragon
@@ -43735,6 +43740,7 @@
 11822|2|x-jat|Renai Boukun
 11822|3|x-jat|Renbo
 18237|2|en|Renegade Immortal
+19364|4|en|Renegade Immortal: Battle of Gods
 17282|3|x-jat|Renflo
 7409|2|tr|Rengarenk
 16987|1|x-zht|Renjian Zui Deyi
@@ -45881,6 +45887,7 @@
 18904|2|en|Scissor Seven 5
 18904|2|en|Scissor Seven: Fragments of Memory
 1099|2|x-jat|SCK
+18782|4|en|Scooped Up by an S-Rank Adventurer!
 5065|1|x-jat|Scoopers
 5065|4|en|Scoopers
 5065|4|pt|Scoopers - A Super Dupla
@@ -46461,7 +46468,7 @@
 18809|2|x-jat|Sentai Red: Isekai de Boukensha ni Naru
 17389|1|x-jat|Sentaku Jab Jab
 4995|1|x-jat|Sentakuya Shin-chan
-18124|2|en|Sentenced to Be a Hero
+18124|4|en|Sentenced to Be a Hero
 1298|2|en|Sentimental Graffiti
 1298|1|x-jat|Sentimental Journey
 2357|1|x-jat|Sentou Mecha Xabungle
@@ -57141,7 +57148,7 @@
 17766|3|x-unk|wataoshi
 17766|3|x-jat|wataoshi
 18203|1|x-jat|Watari-kun no xx ga Houkaisunzen
-18203|2|en|Watari-kun`s ****** Is About to Collapse
+18203|4|en|Watari-kun`s ****** Is About to Collapse
 18749|1|x-jat|Wataridori to Katatsumuri
 3636|3|x-jat|wataru
 19001|1|x-jat|Watashi ga Koibito ni Nareru Wakenaijan, Muri Muri! (*Muri Janakatta!?)
@@ -57735,6 +57742,7 @@
 10998|4|en|Wooser`s Hand-to-Mouth Life: Phantasmagoric Arc
 3986|3|en|WoR
 17595|4|en|Word of Honor
+19363|2|en|Word of Honor 2nd Season
 14642|4|pl|Words Bubble Up Like Soda Pop
 14642|4|en|Words Bubble Up Like Soda Pop
 4346|2|en|Words of Water
@@ -58073,6 +58081,7 @@
 19297|1|x-zht|Xian Ji Xun Zong
 18420|1|x-zht|Xian Mu
 18237|1|x-zht|Xian Ni
+19364|1|zh-Hans|Xian Ni: Battle of Gods
 14718|2|x-zht|Xian Wang de Ri Chang Sheng Huo
 14718|1|x-zht|Xian Wang De Richang Shenghuo
 16359|1|x-zht|Xian Wang de Richang Shenghuo (2021)
@@ -82307,6 +82316,7 @@
 14395|4|ja|君想ふ恋
 16707|3|ja|君愛
 17595|4|zh-Hans|君有云
+19363|4|zh-Hans|君有云 第二季
 896|2|zh-Hans|君望永远
 8587|3|ja|君町
 15867|4|zh-Hans|吞噬星空
