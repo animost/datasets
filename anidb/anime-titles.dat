@@ -1,4 +1,4 @@
-# created: Sun Jun  1 03:00:02 2025
+# created: Mon Jun  2 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -14481,6 +14481,7 @@
 2183|2|en|Elementar Gerad
 6335|1|x-jat|Elementhunters
 8525|2|en|Elemi, the telephone pole that fell in love
+19365|1|x-kot|Elena Evoy Gwanchal Ilji
 4944|4|en|Eleven Cats
 4945|4|en|Eleven Cats and an Albatross
 851|2|es|Elf - Young wife elf
@@ -22418,6 +22419,8 @@
 2786|1|x-jat|Honoo no Toukyuuji: Dodge Danpei
 1511|2|x-jat|Honoo Tripper
 18409|4|en|Honor of Kings: Chapter of Glory
+18409|2|en|Honor of Kings: Chapter of Glory - Broken Moon
+19366|2|en|Honor of Kings: Chapter of Glory - Destiny
 14639|2|en|Honor of the Divine Blade
 13910|2|en|Honor Students After School
 2980|3|x-jat|honoten
@@ -38339,6 +38342,7 @@
 7324|2|en|Obscene Campus Dreams
 2519|2|en|Obscene Prison Ward
 19328|2|en|Observation Records of My Fiancee: The Misadventures of a Self-Proclaimed Villainess
+19365|4|en|Observing Elena Evoy
 15108|1|x-jat|Obsolete
 15108|4|ja|OBSOLETE
 15802|1|x-jat|Obsolete (2020)
@@ -57057,6 +57061,8 @@
 13922|2|x-zht|Wangu Xian Qiong II
 18980|1|x-zht|Wangu Zui Qiang Zong
 18409|1|x-zht|Wangzhe Rongyao: Rongyao Zhi Zhang
+19366|1|x-zht|Wangzhe Rongyao: Rongyao Zhi Zhang - Mingyun Pian
+18409|2|x-zht|Wangzhe Rongyao: Rongyao Zhi Zhang - Sui Yue Pian
 13850|1|x-zht|Wangzhe Wai Chuan
 14652|1|x-zht|Wangzhe Wai Chuan Di Er Ji
 15521|2|x-zht|Wanjie Chunqiu
@@ -70392,6 +70398,7 @@
 4870|4|ko|일기당천 Dragon Destiny
 5749|4|ko|일기당천 그레이트 가디언스
 12832|2|ko|일년 만의
+19365|4|ko|일레나 에보이 관찰 일지
 14454|4|ko|일반 공격이 전체 공격에 2회 공격인 엄마는 좋아하세요?
 12200|4|ko|일인지하 The Outcast
 13068|4|ko|일인지하 The Outcast 2
@@ -89404,6 +89411,8 @@
 13850|4|zh-Hans|王者歪传
 14652|4|zh-Hans|王者歪传 第二季
 18409|4|zh-Hans|王者荣耀：荣耀之章
+19366|4|zh-Hans|王者荣耀：荣耀之章 命运篇
+18409|2|zh-Hans|王者荣耀：荣耀之章碎月篇
 14860|2|zh-Hans|王追妻废柴逆天小姐
 7427|4|zh-Hans|玛丽与伽利 ver 2.0
 12649|4|zh-Hans|玛丽与魔女之花
@@ -92483,6 +92492,7 @@
 8583|4|ja|輪廻のラグランジェ Flower declaration of your heart
 8962|4|ja|輪廻のラグランジェ Flower declaration of your heart season2
 9108|4|ja|輪廻のラグランジェ Flower declaration of your heart 鴨川デイズ
+8128|2|ja|輪罠 ~白濁まみれの放課後~
 8128|4|ja|輪罠(わな)~白濁まみれの放課後~
 18164|4|zh-Hant|輪迴七次的惡役千金，在前敵國享受隨心所欲的新婚生活
 8583|4|zh-Hant|輪迴的 Lagrange
