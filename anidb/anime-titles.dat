@@ -1,4 +1,4 @@
-# created: Mon Jun  2 03:00:01 2025
+# created: Tue Jun  3 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -54334,11 +54334,13 @@
 10992|3|x-jat|toloverud2
 9133|3|x-jat|toloverutd
 9162|3|x-jat|toloverutd ova
+19367|4|en|Tom & Jerry Gokko
 2303|4|fr|Tom Sawyer
 2303|1|x-jat|Tom Sawyer no Bouken
 3675|4|fi|Tom Sawyerin ja Huckleberry Finnin seikkailut
 2303|4|de|Tom Sawyers Abenteuer
 2303|4|it|Tom story
+19367|1|x-jat|Tom to Jerry Gokko
 4293|4|de|Tom, Crosby und die Mäusebrigade
 15601|3|x-jat|Toman
 11626|1|x-jat|Tomato ni Natta Otokonoko
@@ -68381,6 +68383,7 @@
 14759|4|ko|노 건즈 라이프
 9998|4|ko|노 게임 노 라이프
 12276|2|ko|노 게임 노 라이프 제로
+19134|2|ko|노・섹스로이드 에우리!
 1205|2|ko|노노무라 병원 사람들
 4691|4|ko|노다메 칸타빌레
 9925|4|x-kot|노라가미
@@ -68498,6 +68501,7 @@
 12761|4|ko|달이 예쁘다
 11952|4|ko|달콤달콤 & 짜릿짜릿
 18185|2|ko|달콤하고 뜨거운
+19135|2|ko|달콤한 심술
 13806|4|ko|달콤한 징벌: 나는 간수 전용 펫
 6558|2|ko|당신만 안녕하세요
 14395|2|ko|당신만을 생각한 사랑
@@ -68570,6 +68574,7 @@
 18157|2|ko|동거하는 점액
 2788|2|ko|동경 대학 이야기
 3306|2|ko|동경 진혼가
+19108|2|ko|동경하던 여상사를 출장지 옆방 불륜남에게 빼앗겼다
 11134|2|ko|동급생
 8734|2|ko|동급생 - 여름의 끝에서
 2567|2|ko|동급생 - 클라이막스
@@ -74992,6 +74997,7 @@
 2059|4|ja|その気にさせてよ myマイ舞
 16250|4|ja|その着せ替え人形は恋をする
 17630|4|ja|その着せ替え人形は恋をする (2025)
+17630|2|ja|その着せ替え人形は恋をする Season 2
 7541|4|ja|その花びらにくちづけを
 19247|4|ja|その警察官, ときどき野獣!
 6957|4|ja|そばかすプッチー
@@ -75922,6 +75928,7 @@
 786|4|ja|ドミニオン
 13018|4|ja|ドミネイター
 2303|4|ja|トム・ソーヤーの冒険
+19367|4|ja|とむとじぇりーごっこ
 14213|5|ja|どめすてぃっくなかのじょ
 14213|4|ja|ドメスティックな彼女
 8800|4|ja|ともだち8にん
