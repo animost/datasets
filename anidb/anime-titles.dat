@@ -1,4 +1,4 @@
-# created: Tue Jun  3 03:00:01 2025
+# created: Wed Jun  4 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -13548,6 +13548,7 @@
 12042|4|en|Dream Festival!
 12658|4|en|Dream Festival! R
 1578|2|en|Dream Fighter Wingman
+18337|2|en|Dream Girl
 865|4|en|Dream Hazard
 865|1|x-jat|Dream Hazard: Akuma no Program
 1522|1|x-jat|Dream Hunter Rem
@@ -22777,6 +22778,7 @@
 14959|2|x-unk|Huang Li Shi
 17349|1|x-zht|Huang Yan
 17876|1|x-zht|Huangjin Tingyuan: Dongri Li de Xinnian Yuanwang
+19370|1|x-zht|Huangshen Lu Zhi Linglong Shan
 16724|1|x-zht|Huanji 45 Miao
 17048|1|x-zht|Huanmeng Shan Hai Yao
 3388|4|en|Huckleberry Finn
@@ -22831,7 +22833,7 @@
 4334|4|pt|Humanóide Monster Bem
 5465|4|en|Humiliated Wives
 14989|2|en|Humiliation
-15463|2|en|humiliation II
+15463|2|en|Humiliation II
 4614|4|es|Humillación Médica
 840|4|en|Hummingbirds
 9279|1|x-jat|Hump Bang!
@@ -28111,6 +28113,7 @@
 8607|1|x-jat|Kono Danshi, Uchuujin to Tatakaemasu.
 8607|2|x-jat|Kono Danshi, Uchuujin to Tatakaemasu.: Bokura no Sekai no Mamorikata
 16249|1|x-jat|Kono Healer, Mendokusai
+19368|1|x-jat|Kono Hon o Nusumu Mono wa
 4911|1|x-jat|Kono Hoshi no Ue ni
 18770|1|x-jat|Kono Kaisha ni Suki na Hito ga Imasu
 16799|1|x-jat|Kono Kaisha... Nanika Okashii!
@@ -30207,6 +30210,9 @@
 15660|4|en|Let`s Make a Mug Too
 16390|4|en|Let`s Make a Mug Too 2
 3297|1|x-jat|Let`s Nupu Nupu
+19369|4|en|Let`s Play
+19369|4|ja|Let`s Play クエストだらけのマイライフ
+19369|1|x-jat|Let`s Play: Quest Darake no My Life
 2246|2|en|Let`s play! Hello Kitty
 16349|1|x-jat|Let`s Star Watching
 3297|4|ja|LET`S ぬぷぬぷっ
@@ -39597,7 +39603,7 @@
 2864|4|en|Other Worlds
 15423|4|en|Otherside Picnic
 18461|2|en|Otherworldly Evil Monarch
-18970|2|en|Otherworldly Munchkin: Let`s Speedrun the Dungeon with Only 1 HP!
+18970|4|en|Otherworldly Munchkin: Let`s Speedrun the Dungeon with Only 1 HP!
 5406|3|x-jat|otk
 6169|3|x-jat|otk2
 2884|2|sr|Otkrića bez granica
@@ -53227,7 +53233,7 @@
 5638|4|de|The Shape of Love
 18414|2|en|The Shape of the Wind: Siam Era
 10937|2|en|The Shape of Voice
-19003|2|en|The Share House`s Secret Rule
+19003|4|en|The Share House`s Secret Rule
 19003|2|en|The Share Houses Secret Rule
 250|2|en|The Shinesman
 18496|4|en|The Shiunji Family Children
@@ -53727,6 +53733,7 @@
 9630|4|en|Thunder Prince
 1257|4|en|Thunderbirds 2086
 11917|4|en|Thunderbolt Fantasy
+18560|2|en|Thunderbolt Fantasy - The Final Chapter
 11917|4|zh|Thunderbolt Fantasy 東離劍遊紀
 16558|4|ja|Thunderbolt Fantasy 東離劍遊紀 4
 18560|4|ja|Thunderbolt Fantasy 東離劍遊紀 最終章
@@ -57438,6 +57445,7 @@
 15123|4|en|Who Meowed?
 3630|2|en|Who`s Left Behind?
 11303|4|en|Who`s That?
+19368|2|en|Whoever Steals This Book
 96|3|x-jat|WHR
 18133|4|en|Why Does Nobody Remember Me in This World?
 17518|2|en|Why I Have a Friend with Benefits
@@ -57602,7 +57610,7 @@
 16325|2|en|With a Fogie Reincarnated as a Pretty Fantasy Girl
 12100|2|en|With Love
 605|4|ja|With You ~みつめていたい~
-18824|2|en|With You and the Rain
+18824|4|en|With You and the Rain
 19107|2|en|With You, Our Love Will Make It Through
 605|1|x-jat|With You: Mitsumeteitai
 8754|1|x-jat|Within the Bloody Woods
@@ -73923,6 +73931,7 @@
 18748|4|ja|この恋で鼻血を止めて
 18050|4|ja|この恋に気づいて THE ANIMATION
 4911|4|ja|この星の上に
+19368|4|ja|この本を盗む者は
 9403|4|ja|この男子, 人魚ひろいました.
 8607|4|ja|この男子, 宇宙人と戦えます.
 8607|2|ja|この男子, 宇宙人と戦えます. ~僕らのセカイのまもり方~
@@ -80676,6 +80685,7 @@
 17428|4|ja|僕とロボコ
 14913|4|ja|僕と先生と友達のママ
 17518|4|ja|僕にセフレが出来た理由
+18587|2|ja|僕にハーレムセフレが出来た理由
 18714|4|ja|僕のオールディーズはオールカラー
 796|4|ja|僕のセクシャルハラスメント
 11739|4|ja|僕のヒーローアカデミア
@@ -83540,6 +83550,7 @@
 18206|4|zh-Hant|奇異賢伴 黑色天使 第二季度
 17172|4|zh-Hant|奇米萌
 15772|4|zh-Hans|奇蛋物语
+2572|2|ja|奇術師×魔術師 王坂学園探偵部の事件簿
 2572|4|ja|奇術師×魔術師 王坂学園探偵部の事件簿 -淫夜に笑う影ひとつ-
 575|4|zh-Hans|奇诺之旅
 12959|4|zh-Hans|奇诺之旅 -the Beautiful World- the Animated Series
@@ -83664,6 +83675,7 @@
 18806|4|ja|女神降臨
 19088|4|ja|女神降臨 2
 4617|4|ja|女系家族 ~淫謀~
+10850|2|ja|女系家族III ~秘密HIMITSU卑蜜~ THE ANIME
 10850|4|ja|女系家族III~秘密HIMITSU卑蜜~ THE ANIME
 3103|3|ja|女転
 7048|4|ja|女郎
@@ -83859,10 +83871,12 @@
 4924|4|ja|妻とママとボイン
 18099|4|ja|妻に黙って即売会に行くんじゃなかった
 13792|2|ja|妻ネトリ 凌辱輪廻
+18112|2|ja|妻ネトリ 姦
 18112|4|ja|妻ネトリ 姦 美術教師の場合
 18909|4|ja|妻ネトリ 零 ~僕の過ち 彼女の選択~
 18909|2|ja|妻ネトリ 零-僕の過ち 彼女の選択-
 13792|2|ja|妻ネトリ・凌辱輪廻
+17691|2|ja|妻ネトリ3
 17691|2|ja|妻ネトリ3〜快楽に堕ちた淫汁教師たち〜
 17691|4|ja|妻ネトリ3～快楽に堕ちた淫汁教師たち～
 8636|4|ja|妻の母さゆり
@@ -91530,6 +91544,7 @@
 7238|4|zh-Hans|荒川爆笑团
 7899|4|zh-Hans|荒川爆笑团2
 7238|4|zh-Hant|荒川爆笑團
+19370|4|zh-Hans|荒神录之玲珑山
 14392|4|ja|荒野のコトブキ飛行隊
 14794|4|ja|荒野のコトブキ飛行隊 外伝 大空のハルカゼ飛行隊
 15378|4|ja|荒野のコトブキ飛行隊 完全版
@@ -94209,6 +94224,7 @@
 15490|4|zh-Hans|魔弹王
 10744|4|ja|魔弾の王と戦姫[ヴァナディース]
 10744|4|zh-Hant|魔彈之王與戰姬
+2024|2|ja|魔性の貌
 2024|4|ja|魔性の貌[かお]
 13283|4|zh-Hans|魔性之线DEVIL`S LINE
 4454|4|zh-Hans|魔投手
@@ -94398,6 +94414,7 @@
 9995|4|zh-Hans|魔法战争
 607|4|zh-Hans|魔法战士李维
 9995|4|ja|魔法戦争
+2258|2|ja|魔法戦士スイートナイツ
 2258|4|ja|魔法戦士スイートナイツ ~ヒロイン凌辱指令~
 607|4|ja|魔法戦士リウイ
 258|4|zh-Hans|魔法护士小麦
@@ -94498,6 +94515,7 @@
 393|4|ja|魔界転生
 1023|4|ja|魔界都市 (新宿)
 6554|4|ja|魔界騎士イングリッド
+14469|2|ja|魔界騎士イングリッド: Re
 14469|4|ja|魔界騎士イングリッド: Re~メス豚奴隷に堕ちた魔界騎士~
 953|4|zh-Hans|魔神凯撒
 954|4|zh-Hans|魔神凯撒 死斗！暗黑大将军
