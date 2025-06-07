@@ -1,4 +1,4 @@
-# created: Thu Jun  5 03:00:02 2025
+# created: Fri Jun  6 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -27524,6 +27524,7 @@
 2448|4|de|Kirby
 2448|2|en|Kirby of the Stars
 2448|4|en|Kirby: Right Back At Ya!
+19373|1|x-jat|Kirei ni Shite Moraemasu ka.
 5676|1|x-jat|Kirepapa
 4964|1|x-jat|Kirin Ashita no Calendar
 3649|2|en|Kirin Famous Songs Theater: Julie the Wild Rose
@@ -42649,9 +42650,9 @@
 2111|2|es|Punio de la estrella del sur
 18315|2|en|Puniru Is a Cute Slime
 18315|4|en|Puniru Is a Kawaii Slime
-19072|2|en|Puniru Is a Kawaii Slime 2
+19072|2|en|Puniru Is a Kawaii Slime (2025)
 18315|1|x-jat|Puniru wa Kawaii Slime
-19072|1|x-jat|Puniru wa Kawaii Slime 2
+19072|1|x-jat|Puniru wa Kawaii Slime (2025)
 17590|1|x-jat|Punirunes
 17590|4|en|Punirunes
 18877|1|x-jat|Punirunes: Puni 2
@@ -57129,6 +57130,7 @@
 275|2|sv|Warriors of the Wind
 10438|3|x-jat|warubure
 14847|1|x-jat|Warui no o taose! ! Salaryman Man
+19373|2|en|Wash It All Away
 14698|2|en|Washer! She and I in the Women`s Bath!?
 10422|1|x-jat|Washimo
 12061|1|x-jat|Washimo (2016)
@@ -77455,7 +77457,7 @@
 17377|4|ja|フニクリ フニクラ
 65|4|ja|ぷにぷに☆ぽえみぃ
 18315|4|ja|ぷにるはかわいいスライム
-19072|4|ja|ぷにるはかわいいスライム 2
+19072|4|ja|ぷにるはかわいいスライム (2025)
 17590|4|ja|ぷにるんず
 18877|4|ja|ぷにるんず ぷに2
 19361|4|ja|ぷにるんず ぷに3
@@ -84007,6 +84009,7 @@
 758|4|zh-Hans|学园索多玛
 7382|2|zh-Hans|学园默示录
 7953|4|zh-Hans|学园默示录 番外篇
+2518|2|ja|学園 ~恥辱の図式~
 2518|4|ja|学園~恥辱の図式~
 5244|4|ja|学園2
 5244|2|ja|学園２
@@ -88826,6 +88829,7 @@
 13157|4|ja|炎の孕ませおっぱい★エロアプリ学園 THE ANIMATION
 11539|4|ja|炎の孕ませもっと!発育っ!身体測定2 THE ANIMATION
 11047|4|ja|炎の孕ませ乳(パイ)ドルマイ★スター学園Z THE ANIMATION
+11047|2|ja|炎の孕ませ乳ドルマイ★スター学園Z THE ANIMATION
 6186|4|ja|炎の孕ませ同級生
 4737|4|ja|炎の孕ませ転校生
 787|4|ja|炎の蜃気楼[ミラージュ]
@@ -90464,6 +90468,7 @@
 10391|4|zh-Hans|稻荷恋之歌 OAD
 8685|4|ja|積乱雲グラフィティ
 18914|4|ja|穏やか貴族の休暇のすすめ.
+10871|2|ja|穴の奥のいい秘部
 10871|4|ja|穴の奥のいい秘部[ところ]
 1867|4|zh-Hans|穴光假面
 1261|4|ja|究極のSEXアドベンチャー カーマスートラ
@@ -90809,6 +90814,7 @@
 8186|4|ja|続なにわ遊侠伝
 13691|2|ja|続終物語
 1072|2|zh|網球嬌娃
+19373|4|ja|綺麗にしてもらえますか.
 17427|4|zh-Hant|綻放的阿爾斯諾特利亞
 997|4|ja|綾音ちゃんハイキック!
 3575|4|ja|綿の国星
@@ -91384,6 +91390,7 @@
 15592|4|ja|色欲INFINITE
 5141|4|zh-Hans|艳欲 ～微热～
 3633|4|ja|艶姿魔法の三人娘[マミ·ペルシャ·エミ]
+5141|2|ja|艶欲
 5141|4|ja|艶欲[ゑんよく]
 1256|4|ja|艶母
 6472|4|ja|艶笑日本昔ばなし
