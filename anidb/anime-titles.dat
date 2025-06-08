@@ -1,4 +1,4 @@
-# created: Fri Jun  6 03:00:01 2025
+# created: Sat Jun  7 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -36029,6 +36029,8 @@
 17471|4|en|My Home Hero
 5895|2|en|My Honny is College School Gal
 14484|2|en|My Household`s Liliana-san
+19140|2|en|My Ideal Isekai Life
+19140|2|en|My Ideal Life in Another World
 8794|2|x-jat|My Imouto: Koakuma na A-Cup
 17749|4|en|My Instant Death Ability Is Overpowered
 17749|2|en|My Instant Death Ability Is So Overpowered, No One in this Other World Stands a Chance Against Me!
@@ -36383,6 +36385,7 @@
 12558|2|x-jat|Nambaka (2017)
 12733|1|x-jat|Nameko-ke no Ichizoku
 11969|1|x-jat|Nameko: Sekai no Tomodachi
+19183|2|en|Nameless Life
 12195|1|x-zht|Nami Hexin
 12196|1|x-zht|Nami Hexin (2016)
 14502|1|x-zht|Nami Hexin (2017)
@@ -47620,6 +47623,7 @@
 18330|1|x-zht|Shixiong A Shixiong 2
 18691|1|x-zht|Shixiong A Shixiong 3
 18691|2|x-zht|Shixiong A Shixiong 3rd Season
+19375|1|x-zht|Shixiong A Shixiong 4
 18691|2|x-zht|Shixiong A Shixiong Di San Ji
 18691|2|en|Shixiong A Shixiong Nian Fan
 18691|2|x-zht|Shixiong A Shixiong:  Tianting Fuxīng Pian
@@ -52084,6 +52088,7 @@
 6854|2|en|The Dance of the Chagamas
 4603|2|en|The Dancer
 4603|2|en|The Dancing Girl
+19374|4|en|The Dangerous Convenience Store
 17547|4|en|The Dangers in My Heart
 18066|4|en|The Dangers in My Heart (2024)
 18066|2|en|The Dangers in My Heart Season 2
@@ -52322,7 +52327,7 @@
 15617|2|en|The Founder of Diabolism Q
 9115|1|x-jat|The Four Seasons
 6695|2|en|The Foxes of Chironup Island
-18867|2|en|The Fragrant Flower Blooms with Dignity
+18867|4|en|The Fragrant Flower Blooms with Dignity
 6919|2|en|The Frog`s Dream
 4408|1|x-jat|The Frogman Show
 17295|4|en|The Fruit of Evolution 2: Before I Knew It, My Life Had It Made
@@ -55272,6 +55277,8 @@
 15867|1|x-zht|Tunshi Xingkong
 18365|1|x-zht|Tunshi Xingkong (2023)
 18364|1|x-zht|Tunshi Xingkong 3
+18365|2|x-zht|Tunshi Xingkong 4
+18365|2|x-zht|Tunshi Xingkong Di Si Ji
 19039|2|x-zht|Tunshi Xingkong Juchang Ban: Xueluo Dalu
 19039|1|x-zht|Tunshi Xingkong Movie: Xueluo Dalu
 17093|1|x-zht|Tunshi Xingkong Zhuangzhi Lingyun
@@ -57490,6 +57497,7 @@
 14513|4|en|Wife Stealing: Ikumi and Shizuka
 3528|4|en|Wife with Wife
 6553|4|en|Wife-Swap Diaries
+19374|1|x-kot|Wiheomhan Pyeonuijeom
 8832|4|pl|Wilcze dzieci
 4098|1|x-jat|Wild 7
 4100|3|fr|Wild 7
@@ -59710,6 +59718,7 @@
 3073|4|pl|Żabki opowiadają
 112|4|sr|Začarani grad
 10537|4|pl|Zagadkowi terroryści
+19337|4|pl|Zagubieni w świetle gwiazd
 8211|2|pl|Zagubiony Króliczek
 17259|2|pl|Zahipnotyzowane cycate wojowniczki składają mi pokłony
 9589|2|cs|Zahrada slov
@@ -70218,6 +70227,7 @@
 10397|2|ko|위치 크래프트 워크스: 타카미야와 여동생의 흉계
 9496|4|ko|위치 크래프트 웍스
 2511|4|ko|위치블레이드
+19374|4|ko|위험한 편의점
 10307|2|ko|위험해! -복수・암흑 Site-
 11905|4|ko|유녀전기
 1047|2|ko|유노
@@ -84788,8 +84798,10 @@
 17856|4|zh-Hans|师兄啊师兄
 18691|2|zh-Hans|师兄啊师兄 天庭复兴篇
 18691|2|zh-Hans|师兄啊师兄 年番
+18691|2|zh-Hans|师兄啊师兄 年番1
 18691|4|zh-Hans|师兄啊师兄 第三季
 18330|4|zh-Hans|师兄啊师兄 第二季
+19375|4|zh-Hans|师兄啊师兄 第四季
 18387|4|zh-Hans|师士传说
 9892|4|zh-Hans|希德尼娅的骑士
 10713|2|zh-Hans|希德尼娅的骑士 第九行星战役
