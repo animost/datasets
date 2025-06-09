@@ -1,4 +1,4 @@
-# created: Sat Jun  7 03:00:02 2025
+# created: Sun Jun  8 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3244,6 +3244,7 @@
 5080|3|en|appleseed2
 15376|2|fr|Appui exotique
 4258|4|pt|Aprender a Ganhar
+12906|4|fr|Après la pluie
 17315|2|fr|Après les vacances d’été, elle… devient une authentique chienne en furie
 572|2|en|Aqua Age
 1669|1|x-jat|Aqua Kids
@@ -5637,6 +5638,7 @@
 17856|2|en|Big Brother
 18330|3|en|Big Brother 2
 18691|3|en|Big Brother 3
+19375|3|en|Big Brother 4
 14975|2|en|Big Brother, Hold Me Until Morning
 14975|2|en|Big Brother, Keep Hugging Me Tight Until Morning Comes!
 11081|2|en|Big Difference
@@ -11234,6 +11236,8 @@
 7817|2|en|Departure: Ami, Last Chapter
 7817|2|en|Departure: Ami, the Last Chapter
 7817|2|en|Departure: Ami`s Final Chapter
+12906|4|pt-BR|Depois da Chuva
+12906|4|pt|Depois da Chuva
 12990|2|en|Depraved Rich Girl
 1211|2|en|Depravity
 1211|4|en|Depravity: Destruction of a Female Teacher
@@ -11275,6 +11279,8 @@
 750|2|en|Descent into Darkness
 2884|4|pt|Descobertas sem Limite
 17910|2|pt|Desejando uma Garota Mágica
+11998|4|pt-BR|Desejos Proibidos
+11998|4|pt|Desejos Proibidos
 559|4|es|Deseo Cumplido
 298|4|en|Desert Island Story X
 926|4|en|Desert Island Story XX
@@ -11291,6 +11297,8 @@
 15051|4|en|Despair of the Monster
 2962|4|en|Desperate Carnal Housewives
 791|2|en|Desperate Love 1989
+12906|4|es|Después de la lluvia
+12906|4|es-419|Después de la lluvia
 4547|2|es|Destinados al amor
 4547|4|en|Destined For Love
 2142|2|pt|Destino da Donzela do Santuário
@@ -12462,6 +12470,7 @@
 12191|2|en|Door Guardians
 1837|2|en|Door to Summer
 8270|4|cs|Dopis pro Momo
+12906|4|it|Dopo la Pioggia
 4250|4|de|Dora
 6719|3|x-jat|Doraeiga 2010
 1078|4|fr|Doraemon
@@ -14327,6 +14336,7 @@
 8276|2|es|El declive de la humanidad
 4776|2|es|El Demonio puede llorar
 11998|4|es|El deseo de la escoria
+11998|4|es-419|El deseo de la escoria
 1629|4|es|El devorador de esposas
 7014|4|es|El día que nací
 1963|4|es|El doctor desvergonzado
@@ -22424,6 +22434,7 @@
 18409|4|en|Honor of Kings: Chapter of Glory
 18409|2|en|Honor of Kings: Chapter of Glory - Broken Moon
 19366|2|en|Honor of Kings: Chapter of Glory - Destiny
+18409|2|en|Honor of Kings: Chapter of Glory - EverDream
 14639|2|en|Honor of the Divine Blade
 13910|2|en|Honor Students After School
 2980|3|x-jat|honoten
@@ -36137,6 +36148,7 @@
 13647|2|en|My Senior Brother Has a Pit in His Brain
 17856|2|en|My Senior Brother is Too Steady
 18691|2|en|My Senior Brother Is Too Steady 3rd Season
+19375|2|en|My Senior Brother Is Too Steady 4th Season
 18330|2|en|My Senior Brother is Too Steady Season 2
 18691|2|en|My Senior Brother is Too Steady Season 3
 18691|2|en|My Senior Brother is Too Steady: Fan Year
@@ -44854,11 +44866,15 @@
 12355|2|fr|Sadisme collégial
 10538|3|x-jat|saekano
 11221|3|en|Saekano S2
+10538|4|it|Saekano: come addestrare una ragazza noiosa
+10538|4|es|Saekano: cómo educar a una novia aburrida
+10538|4|es-419|Saekano: cómo educar a una novia aburrida
 10538|4|en|Saekano: How to Raise a Boring Girlfriend
 13626|2|en|Saekano: How to Raise a Boring Girlfriend Fine
 11221|4|en|Saekano: How to Raise a Boring Girlfriend Flat
 11221|3|x-jat|saekanoflat
 10538|1|x-jat|Saenai Heroine no Sodatekata
+10538|4|fr|Saenai Heroine no Sodatekata
 13626|1|x-jat|Saenai Heroine no Sodatekata Fine
 11221|1|x-jat|Saenai Heroine no Sodatekata Flat
 10538|2|x-jat|Saenai Kanojo no Sodatekata
@@ -47624,8 +47640,11 @@
 18691|1|x-zht|Shixiong A Shixiong 3
 18691|2|x-zht|Shixiong A Shixiong 3rd Season
 19375|1|x-zht|Shixiong A Shixiong 4
+19375|2|x-zht|Shixiong A Shixiong 4th Season
 18691|2|x-zht|Shixiong A Shixiong Di San Ji
+19375|2|x-zht|Shixiong A Shixiong Di Si Ji
 18691|2|en|Shixiong A Shixiong Nian Fan
+19375|2|x-zht|Shixiong A Shixiong Nian Fan 2
 18691|2|x-zht|Shixiong A Shixiong:  Tianting Fuxīng Pian
 17187|1|x-jat|Shiyakusho
 12739|1|x-zht|Shiyan Pin Jiating
@@ -52928,6 +52947,7 @@
 18325|4|ja|THE ONE PIECE
 18325|1|x-jat|The One Piece
 18325|4|en|The One Piece
+19360|2|en|The One Within the Villainess
 14100|4|en|The Ones Within
 15217|2|en|The Ones Within: Knots of Memories
 14091|4|en|The Orbital Children
@@ -57362,6 +57382,7 @@
 18309|2|en|Westward - Shadow Demon City
 15694|2|en|Westward Juvenile Journey
 2199|2|en|Westward Voyage
+19340|2|en|Westward: Overcooked
 2145|4|en|Wet Summer Days
 1063|3|x-jat|WFMdP
 8493|3|en|wga
@@ -65539,7 +65560,7 @@
 15993|4|he|התקופה הכחולה
 907|4|he|והרי התחזית
 69|4|he|וואן פיס
-13293|2|he|ווטקוי: האהבה קשה לאוטאקו
+13293|4|he|ווטקוי: האהבה קשה לאוטאקו
 3507|4|he|וולטרון
 2611|4|he|ויוטיפול ג`ו
 12138|4|he|ויולט אברגרדן
@@ -65606,6 +65627,7 @@
 8480|4|he|כתר האשמה
 4777|2|he|לאקי סטאר
 5356|2|he|להב מבמבוק
+18493|4|he|להסתכל לאחור
 14784|4|he|לוויוס
 6470|4|he|לוחמי הקודש: הקנבס האבוד
 14755|4|he|לוכדי הדרקונים
@@ -66659,6 +66681,7 @@
 7204|4|ar|طمطوم وأبطال الروضة الخضراء
 15138|2|ar|طوفان اليابان 2020
 161|2|ar|طوكيو مياو مياو
+18493|4|ar|ظرة إلى الوراء
 6340|2|ar|عاصفة الصيف!
 637|4|ar|عاصفة النار
 15065|4|ar|عالم آخر
@@ -67216,6 +67239,7 @@
 5303|2|fa|یوبی، روباه پنج دم
 16108|4|hi|अकुमा-कुन (2023)
 4193|4|hi|अर्थसी की कहानियां
+12906|4|hi|आफ्टर द रेन
 12653|4|hi|इनुयाशिकी लास्ट हीरो
 15587|4|hi|ईयरविग ऐंड द विच
 17662|2|hi|एक वेतनभोगी का दूसरी दुनिया में जीवित रहने का तरीका
@@ -67264,10 +67288,14 @@
 11223|4|hi|रेज ऑफ़ बहामट विर्जिन सोल
 13636|4|hi|रेत्सुको
 17583|4|hi|रोमांटिक किलर
+18493|4|hi|लुक बैक
 13293|4|hi|वोटाकोई: लव इज़ हार्ड फ़ॉर ओटाकु
+10538|4|hi|साएकानो ♭ हाऊ टू रेज़ ए बोरिंग गर्लफ्रेंड
+11221|4|hi|साएकानो ♭ हाऊ टू रेज़ ए बोरिंग गर्लफ्रेंड.फ्लैट
 18654|4|hi|साकामोतो डेज़
 10596|4|hi|सात खतरनाक पाप
 16963|4|hi|सात खतरनाक पाप: एडिनबर्ग की दुश्मनी
+11998|4|hi|स्कम्स विश
 18283|4|hi|स्कॉट पिलग्रिम
 112|4|hi|स्पिरिटेड अवे
 9514|4|hi|हवा के संग-संग
@@ -67276,11 +67304,13 @@
 5303|2|bd|ইয়োবি, দ্য ফাইভ টেইল্ড ফক্স
 69|4|bd|ওয়ান পিস্
 4880|2|bd|নারূতঃ সিপ্পুডেন
+12906|4|ta|ஆஃப்டர் தி ரெயின்
 12653|4|ta|இனியஷிகி லாஸ்ட் ஹீரோ
 13293|4|ta|ஓடாகோய்: லவ் இஸ் ஹார்ட் ஃபார் ஒட்டாகு
 10951|4|ta|கபானேரி ஆஃப் தி அயர்ன் ஃபோர்ட்ரெஸ்
 12888|4|ta|கிlல்லிங் பைட்ஸ்
 13734|4|ta|கிராண்ட் ப்ளூ டிரீமிங்
+10538|4|ta|சேக்கான் போரிங்க் கேர்ல் ஃப்ரெண்ட்
 239|4|ta|நருடோ
 4847|4|ta|நற்தூதன்:1.11 நீ தனியாக இருக்க(வில்லை).
 6171|4|ta|நற்தூதன்:2.22 நீ முன்னேற(முடியாது).
@@ -67289,6 +67319,8 @@
 13536|4|ta|பனானா பிஷ்
 5303|2|ta|யோபி, ஐந்து வால் நரி
 11223|4|ta|ரேஜ் ஆஃப் பஹாமத் விர்ஜின் ஸோல்
+11998|4|ta|ஸ்கம்’ஸ் விஷ்
+12906|4|te|ఆఫ్టర్ ది రెయిన్
 12653|4|te|ఇనుయాషికి లాస్ట్ హీరో
 4847|4|te|ఎవాంజెలియోన్:1.11 నువ్వు ఒంటరి వాడివి (కాదు).
 6171|4|te|ఎవాంజెలియోన్:2.22 నువ్వు ముందుకు సాగలేవు.
@@ -67301,6 +67333,9 @@
 5303|2|te|యోబి, ది ఫైవ్ టెయిల్డ్ ఫాక్స్
 11223|4|te|రేజ్ ఆఫ్ బహమట్ వర్జిన్ సోల్
 13293|4|te|వోటాకోయ్: లవ్ ఇస్ హార్డ్ ఫర్ ఓటాకు
+10538|4|te|సేకనొబ్ హౌ టు రైస్ ఏ బోరింగ్ గర్ల్ ఫ్రెండ్
+11221|4|te|సేకనొబ్ హౌ టు రైస్ ఏ బోరింగ్ గర్ల్ ఫ్రెండ్.ఫ్లాట్
+11998|4|te|స్కమ్స్‌ విష్‌
 5303|2|si|යෝබි, වලිග පහේ නරියා
 13844|4|th|ก็บอกว่าขอแค่ค่าเฉลี่ยไงล่ะคะ
 4151|4|th|กระโดดจัมพ์ ทะลุข้ามเวลา
@@ -68241,6 +68276,7 @@
 12549|4|ko|기동전사 건담 썬더볼트(2017)
 2186|4|ko|기동전사 건담 씨드 데스티니
 6517|4|ko|기동전사 건담 유니콘
+19027|4|ko|기동전사 건담 지쿠악스
 18096|4|ko|기동전사 건담: 복수의 레퀴엠
 14043|4|ko|기동전사 건담: 섬광의 하사웨이
 217|4|ko|기동전사 건담: 제 08소대
@@ -68751,6 +68787,7 @@
 573|2|ko|루나틱 나이트
 18353|2|ko|루인즈 시커
 13266|4|ko|루팡 3세: Part 5
+18493|4|ko|룩백
 8864|2|ko|류가죠 나나나의 매장금 (2014)
 13384|2|ko|류도우지 시몬의 음모
 15560|4|ko|르브바하프 왕국 재건설기
@@ -69090,6 +69127,7 @@
 12933|2|ko|바보지만 자지 빠는건 잘하는 치짱
 12933|2|ko|바보지만 자지 빠는것만 잘하는 치짱
 8637|2|ko|바부카
+13948|4|ko|바빌론
 17175|4|ko|바스타드: 암흑의 파괴신
 1219|4|ko|바스토프레몬
 528|2|x-kot|바이블 블랙
@@ -80221,6 +80259,7 @@
 7130|4|ja|人気の焦点に立てる後藤新平
 15644|2|zh|人渣反派自救系统
 11998|4|zh-Hans|人渣的本愿
+11998|4|zh-Hant|人渣的本願
 83|4|ja|人狼
 83|4|zh-Hans|人狼
 83|6|ja|人狼 JIN-ROH
@@ -84799,6 +84838,7 @@
 18691|2|zh-Hans|师兄啊师兄 天庭复兴篇
 18691|2|zh-Hans|师兄啊师兄 年番
 18691|2|zh-Hans|师兄啊师兄 年番1
+19375|2|zh-Hans|师兄啊师兄 年番2
 18691|4|zh-Hans|师兄啊师兄 第三季
 18330|4|zh-Hans|师兄啊师兄 第二季
 19375|4|zh-Hans|师兄啊师兄 第四季
@@ -85632,6 +85672,7 @@
 12100|4|ja|愛をこめて
 17400|4|ja|愛を着て
 16183|4|zh-Hant|愛在征服世界後
+12906|4|zh-Hant|愛在雨過天晴時
 891|4|ja|愛天使伝説 ウェディングピーチ
 892|4|ja|愛天使伝説 ウェディングピーチDX
 7988|4|ja|愛妻日記
@@ -94012,6 +94053,7 @@
 8745|4|ja|駕籠真太郎アニメ作品集
 24|4|zh-Hant|駭客時空
 16854|4|zh-Hans|駱駝獻舞
+18493|4|zh-Hant|驀然回首
 4549|4|zh-Hant|驅魔少年
 14367|4|ja|驚き盤
 17352|4|zh-Hans|马娘摇曳
