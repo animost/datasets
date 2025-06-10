@@ -1,4 +1,4 @@
-# created: Sun Jun  8 03:00:02 2025
+# created: Mon Jun  9 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1609,6 +1609,7 @@
 18227|4|cs|Agent Bon na cestách časem
 5106|4|et|Agent Vexille
 5106|2|lt|Agentė Veksilė
+15992|2|en|Agents in Otherworld
 315|2|ja|Agga Ruta
 315|2|ja|Agga Rutta
 12002|1|x-jat|Aggressive Retsuko
@@ -10516,6 +10517,7 @@
 1587|4|ja|DARCROWS
 9655|1|x-jat|Dareka no Manazashi
 13885|1|x-jat|Daremo Shiranai
+18793|4|my|Daripada Orang Kampung Biasa kepada Mahaguru Pedang‬
 883|4|en|Dark
 883|4|de|Dark
 8979|1|x-jat|Dark Blue
@@ -10821,6 +10823,7 @@
 17026|4|nl|De spinsels
 3669|4|nl|De tovenaar van Oz
 5081|2|nl|De verovering van de ruimte
+18793|4|es-419|De viejo pueblerino a gran maestro espadachín
 15812|4|es|De yakuza a amo de casa
 16200|4|es|De yakuza a amo de casa (2021)
 17643|4|es|De yakuza a amo de casa (2023)
@@ -11508,6 +11511,7 @@
 13605|2|en|Detective Conan: Zero the Enforcer
 13605|2|en|Detective Conan: Zero`s Executioner
 16842|4|en|Detective Conan: Zero`s Tea Time
+19011|4|es-419|Detective de la Mesa
 12871|2|en|Detective Felix in Trouble
 1363|1|x-jat|Detective File 1: Kindan no Ai
 1363|2|ko|Detective File 1：금단의 사랑
@@ -11520,9 +11524,11 @@
 8594|4|en|Detective Opera Milky Holmes 2
 642|2|en|Detective School Q
 841|4|pt|Detectives CLAMP
+18827|4|en|Detectives These Days Are Crazy!
 266|2|ro|Detectivul Conan
 13497|4|de|Detektei Layton: Katrielles rätselhafte Fälle
 266|2|id|Detektif Conan
+19011|4|my|Detektif Meja Makan‬
 266|4|de|Detektiv Conan
 266|4|cs|Detektiv Conan
 304|4|de|Detektiv Conan - 1. Film: Der tickende Wolkenkratzer
@@ -11584,6 +11590,7 @@
 16841|4|pl|Detektyw Conan: Łotrzyk Hanzawa
 16841|4|pt-BR|Detetive Conan: Hanzawa, o Culpado
 16842|4|pt-BR|Detetive Conan: O Dia a Dia de Zero
+19011|4|pt-BR|Detetive da Mesa de Jantar‬
 14091|4|cs|Děti orbitalu
 12712|4|cs|Děti velryb
 8073|4|cs|Děti, které následují hvězdy
@@ -12175,6 +12182,7 @@
 12327|4|es|Divina Juventud
 18945|2|en|Divine Dao Emperor
 18932|2|en|Divine Dragon Star Lord
+15992|4|en|Divine Envoy of the Dark World
 11266|1|x-jat|Divine Gate
 11266|4|en|Divine Gate
 11266|4|fr|Divine Gate
@@ -30900,6 +30908,7 @@
 9927|2|x-jat|Love Live! 2
 8520|2|en|Love Live! 3
 7956|2|x-jat|Love Live! Bokura no Live, Kimi to no Life
+19376|1|x-jat|Love Live! Hasu no Sora Jogakuin School Idol Club
 11250|1|x-jat|Love Live! M`s-&gt;Next Love Live! 2014: Endless Parade
 8874|2|x-jat|Love Live! MV 4
 8520|2|x-jat|Love Live! Natsu-iro Egao de 1, 2, Jump!
@@ -31246,6 +31255,9 @@
 9841|4|en|Lupin III VS Detective Conan: The Movie
 6432|4|en|Lupin III VS Detective Conan: The Special
 6432|2|en|Lupin III vs. Detective Conan
+17634|4|it|LUPIN III vs. OCCHI DI GATTO
+17634|4|es|LUPIN III vs. OJOS DE GATO
+17634|4|es-419|LUPIN III vs. OJOS DE GATO
 2136|2|x-jat|Lupin III: $1 Money Wars
 13266|2|en|Lupin III: Adventure in France
 1421|2|x-jat|Lupin III: Ai no da capo
@@ -31451,6 +31463,7 @@
 16350|4|en|Lupin the 3rd Part 6
 9861|2|en|Lupin the 3rd Pilot 2
 13833|2|en|Lupin the 3rd Pilot 3
+17634|4|en|LUPIN THE 3rd vs. CAT`S EYE
 9841|2|en|Lupin the 3rd vs. Detective Conan
 13266|2|en|Lupin the 3rd: Adventure in France
 987|2|en|Lupin the 3rd: Bank of Liberty
@@ -42140,6 +42153,7 @@
 12368|4|ja|PRETTY×CATION 2 THE ANIMATION
 11858|4|ja|PRETTY×CATION THE ANIMATION
 12861|4|en|Preventing Tuberculosis
+18793|4|id|Pria Tua Pedesaan Menjadi Pendekar Pedang Elite‬
 14466|4|cs|Příběh koček
 9515|4|cs|Příběh o princezně Kaguje
 8156|4|cs|Příběh stoleté ryby
@@ -47715,6 +47729,7 @@
 9125|4|en|Short Peace
 18405|4|en|Shoshimin: How to Become Ordinary
 18864|4|en|Shoshimin: How to Become Ordinary (2025)
+18864|2|en|Shoshimin: How to Become Ordinary Season 2
 16031|3|x-jat|shosho
 9894|1|x-zht|Shou Hu Zhe Sen Lin
 6834|1|x-jat|Shou-chan no Bouken
@@ -48333,6 +48348,7 @@
 349|4|en|Slayers: The Motion Picture
 3702|2|en|Sleazy Daughter
 3701|2|en|Sleazy Mother
+19011|4|pl|Śledztwa do kolacji
 11165|2|en|Sleep Tight My Baby, Cradled in the Sky
 7025|2|en|Sleeping Buu-chan
 11046|1|x-jat|Sleeping Lovers! Ippu Nisai no Sekai e Youkoso The Animation
@@ -51872,6 +51888,8 @@
 1607|2|en|The Adventures of Tweeny Witches
 4053|2|en|The Adventures of Young Santa Claus
 4035|4|en|The Affectuous Family
+19011|4|id|The After-Dinner Mysteries
+19011|4|it|The After-Dinner Mysteries
 19011|4|de|The After-Dinner Mysteries
 18443|2|en|The Age of Cosmos Exploration
 19323|4|en|The All-devouring Whale: Homecoming
@@ -58723,6 +58741,7 @@
 13065|1|x-jat|Yell
 13065|4|ja|YELL [エール]
 13371|4|en|Yellow
+19011|4|tr|Yemek Masası Dedektifi‬
 15526|2|x-kot|Yeon-ae Halujeon
 15500|2|x-kot|Yeon-ae Halujeon 0
 15527|2|x-kot|Yeon-ae Halujeon 2
@@ -66327,6 +66346,7 @@
 4678|4|ar|تاما والأصدقاء
 3601|4|ar|تاو تاو
 6005|2|ar|تايتنيا
+19011|4|ar|تحقيقات على مائدة العشاء
 10537|4|fa|ترور طنین انداز
 15382|2|ar|تريد أوزاكي-تشان أن تتسكع!
 2810|2|ar|ترينيتي بلود
@@ -66936,6 +66956,7 @@
 2314|4|ar|لمياء وشيكو
 6432|2|ar|لوبان الثالث ضد المحقق كونان
 421|2|ar|لوبن الثالث
+17634|4|ar|لوبن الثالث بمواجهة عصابة عين القط
 421|2|fa|لوپین سوم
 3484|2|ar|لوز وسكر
 2301|4|ar|لوسي
@@ -67080,6 +67101,7 @@
 9002|4|ar|من العالم الجديد
 13624|2|ar|من المعتاد إلى الأقوى في العالم
 8419|2|fa|من دوستان زیادی ندارم
+18793|4|ar|من ريفي عجوز إلى مبارز بارع‬
 13363|4|fa|من می خواهم پانکراس شما را بخورم
 8620|2|fa|منتظر آن تابستان هستم
 5801|2|ar|منزل تشي السعيد
@@ -67284,17 +67306,20 @@
 9515|4|hi|राजकुमारी कगुया की कहानी
 275|4|hi|राजकुमारी नौसिका की जंग
 7|4|hi|राजकुमारी मोनोनोके
+19011|4|hi|रात्रिभोज जासूस
 5693|6|hi|रामायण: श्री राम कथा
 11223|4|hi|रेज ऑफ़ बहामट विर्जिन सोल
 13636|4|hi|रेत्सुको
 17583|4|hi|रोमांटिक किलर
 18493|4|hi|लुक बैक
+17634|4|hi|लुपिन 3 बनाम कैट्स आइ
 13293|4|hi|वोटाकोई: लव इज़ हार्ड फ़ॉर ओटाकु
 10538|4|hi|साएकानो ♭ हाऊ टू रेज़ ए बोरिंग गर्लफ्रेंड
 11221|4|hi|साएकानो ♭ हाऊ टू रेज़ ए बोरिंग गर्लफ्रेंड.फ्लैट
 18654|4|hi|साकामोतो डेज़
 10596|4|hi|सात खतरनाक पाप
 16963|4|hi|सात खतरनाक पाप: एडिनबर्ग की दुश्मनी
+18793|4|hi|सामान्य ग्रामवासी से अज़ीम तलवारबाज़ तक‬
 11998|4|hi|स्कम्स विश
 18283|4|hi|स्कॉट पिलग्रिम
 112|4|hi|स्पिरिटेड अवे
@@ -67561,6 +67586,7 @@
 98|4|th|นักรบวิปลาส
 13023|4|th|นักเรียนพี่เลี้ยงเด็ก
 15998|4|th|นักสืบตายแล้ว
+19011|4|th|นักสืบหลังมื้อค่ำ‬
 5787|4|th|นัตสึเมะกับบันทึกพิศวง
 6185|4|th|นัตสึเมะกับบันทึกพิศวง ภาค 2
 8286|4|th|นัตสึเมะกับบันทึกพิศวง ภาค 3
@@ -67617,6 +67643,7 @@
 2389|4|th|แบล็คแจ็คหมอปีศาจ
 6327|4|th|ปกรณัมของเหล่าภูต
 7727|4|th|ปฏิบัติการรักจักรกลทะยานฟ้า
+18793|4|th|ปรมาจารย์ดาบชั้นเซียนมาตบเกรียนถึงเมืองกรุง‬
 1218|4|th|ปราสาทเวทมนตร์ของฮาวล์
 8855|4|th|ปริศนาความทรงจำ
 11950|4|th|ปริศนาฆาตกร
@@ -67785,6 +67812,7 @@
 15201|4|th|ล่าสไลม์มา 300 ปีรู้ตัวอีกทีก็เลเวล MAX ซะแล้ว
 12712|4|th|ลำนำของเหล่าลูกปลาวาฬ
 9132|4|th|ลิตเติ้ล บัสเตอร์ส!
+17634|4|th|ลูแปงที่ 3 ปะทะ พยัคฆ์สาว แคทส์อาย
 35|4|th|เลิฟฮินะ
 632|4|th|โลกิ ปริศนาแร็กนาร็อค
 17097|2|th|ไลโคริส รีคอยล์
@@ -68786,6 +68814,7 @@
 9467|4|ko|로큐브! 토모카의 딸기 선데이
 573|2|ko|루나틱 나이트
 18353|2|ko|루인즈 시커
+17634|4|ko|루팡 3세 VS 캣츠 아이
 13266|4|ko|루팡 3세: Part 5
 18493|4|ko|룩백
 8864|2|ko|류가죠 나나나의 매장금 (2014)
@@ -69566,6 +69595,7 @@
 681|4|ko|수병위인풍첩 용보옥편
 11045|2|ko|수상한 이키 ~ 생수장에 오신 것을 환영합니다
 8853|4|ko|수수께끼 그녀 X
+19011|4|ko|수수께끼 풀이는 저녁식사 후에‬
 6189|2|ko|수영복 그녀
 6081|2|ko|수정의 밤 ~푸른고백에서~
 2431|2|ko|수중 치료실
@@ -70259,6 +70289,7 @@
 2027|2|ko|월화미인
 892|4|ko|웨딩 피치 DX
 776|2|ko|웨이버
+18499|4|ko|위벨 블라트
 17472|2|ko|위원장은 최면 어플을 믿고 있다
 10024|4|ko|위저드 배리스터즈: 변마사 세실
 13934|3|ko|위즈
@@ -70752,6 +70783,7 @@
 14810|2|ko|초차원게임 넵튠 THE ANIMATION: 네튭의 여름방학
 14588|4|ko|초합금 로보트 쏠라 원.투.쓰리
 8409|2|ko|촉수와 마녀
+18793|4|ko|촌구석 아저씨, 검성이 되다‬
 9011|2|ko|총무과 드롭
 10912|4|ko|최강 합체 믹스마스터
 7434|4|ko|최강무장전 삼국연의
@@ -79050,6 +79082,7 @@
 8520|2|ja|ラブライブ! スクールアイドルプロジェクト3
 7956|2|ja|ラブライブ! 僕らのLIVE 君とのLIFE
 8520|2|ja|ラブライブ! 夏色えがおで1, 2, Jump!
+19376|4|ja|ラブライブ! 蓮ノ空女学院スクールアイドルクラブ
 15313|4|ja|ラブライブ! 虹ヶ咲学園スクールアイドル同好会
 16310|4|ja|ラブライブ! 虹ヶ咲学園スクールアイドル同好会 (2022)
 17732|4|ja|ラブライブ! 虹ヶ咲学園スクールアイドル同好会 NEXT SKY
@@ -83102,6 +83135,7 @@
 12721|4|zh-Hans|多美卡超救援 DRIVEHEAD 机动救急警察
 13607|4|zh-Hans|多美卡超救援 DRIVEHEAD 机动救急警察 2018
 18681|4|ja|多聞くん今どっち!?
+267|2|ja|夜が来る!
 267|4|ja|夜が来る! Square of the MOON
 17938|4|ja|夜のクラゲは泳げない
 10897|4|ja|夜ノヤッターマン
@@ -85199,6 +85233,7 @@
 1546|4|ja|御神楽探偵団
 1546|2|ja|御神楽探偵団 -活動写真-
 6306|4|ja|御魂
+6306|2|ja|御魂 ~忍~
 6306|2|ja|御魂~忍~
 4113|4|zh-Hant|復蘇的天空 救援之翼
 6265|4|ja|微熱 ~約束のとき~
@@ -88566,8 +88601,10 @@
 14519|4|zh-Hans|淫乱的青酱不能学习
 4942|2|ja|淫堕の姫騎士ジャンヌ
 4942|4|ja|淫堕の姫騎士ジャンヌ THE ANIMATION
+1368|2|ja|淫夢 ~生贄の宴~
 1368|4|ja|淫夢~生贄の宴~
 1369|4|ja|淫夢2
+1369|2|ja|淫夢2 ~恥辱の果肉祭~
 7324|2|ja|淫夢学園
 7324|4|ja|淫夢学園 「だめ... こんなになっちゃうのは夢の中だけなの...!」淫夢に囚われた美人姉妹
 8104|4|zh-Hans|淫妖虫 悦 怪乐变化退魔录
@@ -88575,13 +88612,17 @@
 4739|4|ja|淫妖蟲 THE ANIMATION
 8104|4|ja|淫妖蟲 悦~怪楽変化退魔録~
 13243|4|ja|淫妖蟲 蝕 ~凌触島退魔録~ 孕ミ堕チル少女達 Anime Edition
+8104|2|ja|淫妖蟲・悦 ~怪楽変化退魔録~
 5764|4|ja|淫妖蟲・蝕 ~凌触島退魔録~
+13243|2|ja|淫妖蟲・蝕 ~孕ミ堕チル少女達~
 3702|4|ja|淫娘
+3702|2|ja|淫娘 -いんこ-
 1369|4|zh-Hans|淫梦2
 5360|4|ja|淫欲特急ゼツリンオー
 2174|2|ja|淫欲絵巻 〜雪夜に姫は犯される〜
 2174|2|ja|淫欲絵巻~雪夜に姫は犯される~
 3701|4|ja|淫母
+3701|2|ja|淫母 -いんぼ-
 15326|4|ja|淫毛
 2519|4|ja|淫獄病棟
 1433|4|ja|淫獣 ねらわれたアイドル
@@ -88597,6 +88638,7 @@
 676|4|ja|淫獣学園 La☆Blue Girl 復活篇
 670|4|ja|淫獣家庭教師
 910|4|ja|淫獣教師
+1184|2|ja|淫獣聖戦
 1184|4|ja|淫獣聖戦 ツインエンジェル
 1184|2|ja|淫獣聖戦XX
 5466|2|ja|淫笑う(わらう)看護婦 THE ANIMATION
@@ -90157,6 +90199,7 @@
 11597|4|zh-Hant|碧藍幻想
 13524|4|zh-Hant|碧藍幻想 第二季
 15392|4|ja|磔
+15392|2|ja|磔(ハリツケ)
 11723|4|ja|磯部磯兵衛物語~浮世はつらいよ~
 16376|4|ja|社畜さんは幼女幽霊に癒されたい.
 19351|4|ja|社畜シンデレラ
@@ -91180,8 +91223,10 @@
 17319|4|zh-Hans|群马酱 第二季
 1152|2|zh-Hans|群魔共舞
 4337|2|ja|義妹
+4337|2|ja|義妹 -いもうと-
 4337|4|ja|義妹[いもうと]
 4738|2|ja|義妹×2
+4738|2|ja|義妹×2 -いもうとツインズ-
 4738|4|ja|義妹×2[いもうとツインズ]
 17529|4|ja|義妹生活
 15387|4|ja|義姉はヤンママ授乳中
@@ -93543,6 +93588,7 @@
 4783|2|zh-Hans|除魔维纳斯
 14197|4|zh-Hans|陪睡女友：紧紧抱着你
 4112|4|ja|陰からマモル!
+18756|2|ja|陰キャカップルが陽ギャル達とSEXトレーニングする話
 16073|4|ja|陰の実力者になりたくて!
 17877|4|ja|陰の実力者になりたくて! 2nd season
 15240|4|zh-Hant|陰晴不定的體操哥哥
@@ -93552,6 +93598,7 @@
 17641|4|zh-Hant|陰陽師
 1993|4|ja|陰陽師 ~妖艶絵巻~
 15422|4|ja|陰陽師 不知火
+7065|2|ja|陰陽師 妖かしの女神 ~淫乱呪縛~
 7065|4|ja|陰陽師 妖かしの女神 淫乱呪縛
 14191|4|ja|陰陽師・平安物語
 15422|2|zh-Hans|陰陽師Onmyoji "SSR不知火" 完整版CG: 殆盡枷鎖，浴火而歌
@@ -94659,6 +94706,7 @@
 2925|4|ja|魔龍戦紀
 2925|2|ja|魔龍戦記
 16350|2|zh-Hant|魯邦三世 PART6
+17634|4|zh-Hant|魯邦三世VS貓眼
 17772|4|zh-Hans|鯉氏偵探事務所
 6838|4|ja|鯨
 8315|4|zh-Hans|鱼
@@ -94707,6 +94755,7 @@
 705|4|zh-Hans|鲁邦三世：追寻哈里毛的宝藏
 977|4|zh-Hans|鲁邦三世：风魔家族的阴谋
 6432|4|zh-Hans|鲁邦三世VS名侦探柯南
+17634|4|zh-Hans|鲁邦三世VS猫眼三姐妹
 13670|4|zh-Hans|鲁邦还在燃烧吗？
 17772|2|zh-Hans|鲤氏侦探事务所
 19323|4|zh-Hans|鲲吞天下之掌门归来
