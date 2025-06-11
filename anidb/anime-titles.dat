@@ -1,4 +1,4 @@
-# created: Mon Jun  9 03:00:02 2025
+# created: Tue Jun 10 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -502,6 +502,7 @@
 5323|4|ja|21エモン 宇宙へいらっしゃい!
 4965|4|ja|21世紀まんがはじめて物語
 5323|4|zh-Hans|21卫门：欢迎来到宇宙!
+299|2|ja|21時の女 ~ニュースキャスター桂木美紀~
 299|4|ja|21時の女~ニュースキャスター桂木美紀~
 13299|4|ja|22/7
 13299|1|x-jat|22/7
@@ -8386,6 +8387,10 @@
 2974|4|en|Chie the Brat (1981)
 4299|1|x-jat|Chie-chan Funsenki Jarinko Chie
 2194|4|en|Chief Joker
+15846|2|en|Chief Soul Manipulator
+16742|2|en|Chief Soul Manipulator 2nd Season
+15846|2|en|Chief Soul Master
+16742|2|en|Chief Soul Master 2nd Season
 14043|4|vi|Chiến sĩ cơ động Gundam: Tia chớp Hathaway
 4651|2|vi|Chiến Sĩ Karaoke
 4651|2|vi|Chiến Sĩ Karaoke Mike Jirou
@@ -18199,6 +18204,8 @@
 845|1|x-jat|Ghiblies
 15890|4|ja|GHOST
 15890|1|x-jat|Ghost
+19377|1|x-jat|Ghost (2027)
+19377|4|ja|ghost (2027)
 18502|4|en|Ghost Cat Anzu
 18502|4|de|Ghost Cat Anzu
 312|4|tl|Ghost Fighter
@@ -18763,6 +18770,7 @@
 8819|4|pl|Glitter Force
 9523|4|pl|Glitter Force Doki Doki
 9523|4|en|Glitter Force Doki Doki
+1168|2|ja|GLO・RI・A ~禁断の血族~
 1168|4|ja|GLO･RI･A ~禁断の血族~
 1168|2|x-jat|Glo*ri*a
 4887|1|x-jat|Global Astroliner Gou
@@ -26217,6 +26225,7 @@
 17555|1|x-zht|Kao Ni La! Zhanshen Xitong
 1088|1|x-jat|Kao no Nai Tsuki
 18867|1|x-jat|Kaoru Hana wa Rin to Saku
+18867|4|pl|Kaoru i Rin. Rozkwitając z tobą
 16930|1|x-jat|Kaoru no Taisetsu na Mono
 1088|2|x-jat|Kaotsuki
 516|2|ja|Kapital des Kiikens
@@ -39049,6 +39058,7 @@
 10184|1|x-jat|Oni Chichi: Rebuild
 11269|1|x-jat|Oni Chichi: Refresh
 14366|1|x-jat|Oni Koiuta
+19378|1|x-jat|Oni no Hanayome
 10614|1|x-jat|Oni no Ko to Yuki Usagi
 1152|1|x-jat|Oni Tensei
 16708|4|ja|ONI 神々山のオナリ
@@ -47821,6 +47831,7 @@
 14310|1|x-zht|Shouwang Zhengfeng: Yuanshi Zhi Li
 15846|1|x-zht|Shouxi Yu Ling Shi
 16742|1|x-zht|Shouxi Yu Ling Shi (2021)
+16742|2|x-zht|Shouxi Yu Ling Shi 2
 11706|2|x-jat|Shouyakyoku
 1831|1|x-jat|Shouyonoid Makocchan
 4482|2|en|Shouzou Toki`s Private Detective Trouble Notes: Hard and Loose
@@ -52954,6 +52965,7 @@
 12558|2|en|The Numbers (2017)
 6837|2|en|The Octopus Bone
 2028|2|en|The Offering of the Shrike
+19378|2|en|The Ogre`s Bride
 3045|4|en|The Old Crocodile
 11095|4|en|The Old Man and the Sea
 15763|2|en|The Old Man and Two Mountains
@@ -76505,6 +76517,7 @@
 7336|4|ja|ノエルの不思議な冒険
 17488|4|ja|ノケモノたちの夜
 10943|4|ja|のせわすれ THE ANIMATION 女教師中善寺綾乃の淫鬱なこれから
+10672|2|ja|ノゾ×キミ
 10672|4|ja|ノゾxキミ
 15114|4|ja|のぞき彼女
 2704|4|ja|のぞみ ウィッチィズ
@@ -83994,6 +84007,7 @@
 1098|4|ja|姉妹いじり
 9552|4|ja|姉恋 スキ・キライ・ダイスキ.
 4823|4|ja|姉汁 THE ANIMATION ~白川三姉妹におまかせ~
+7915|2|ja|姉汁2 THE ANIMATION ~白川三姉妹におまかせ~
 7915|4|ja|姉汁2 THE ANIMATION~白川三姉妹におまかせ~
 18174|4|ja|姉辱尽くし
 16232|4|ja|始まりは君の空
@@ -84024,6 +84038,7 @@
 14724|4|ja|姫様LOVEライフ!
 4240|4|ja|姫様ご用心
 9033|4|ja|姫様限定!
+2176|2|ja|姫辱 -プリンセスダブル狩り-
 2176|4|ja|姫辱 プリンセスダブル狩り
 5639|2|ja|姫騎士アンジェリカ
 5639|4|ja|姫騎士アンジェリカ THE ANIMATION
@@ -84054,6 +84069,7 @@
 6869|4|ja|子うさぎものがたり
 18178|4|ja|子作り妊活部!
 13367|4|ja|子供の廻転の事
+17872|2|ja|子産み島 ~週7で産めるメスたち~
 17872|4|ja|子産み島 ～週7で産めるメスたち～
 17411|4|ja|子象の行進
 3664|4|ja|子鹿物語 THE YEARLING
@@ -85711,6 +85727,7 @@
 891|4|ja|愛天使伝説 ウェディングピーチ
 892|4|ja|愛天使伝説 ウェディングピーチDX
 7988|4|ja|愛妻日記
+174|2|ja|愛姉妹 ~二人の果実~
 2253|4|ja|愛姉妹 蕾... 汚してください
 174|4|ja|愛姉妹~二人の果実~
 1509|4|ja|愛姉妹2 ~二人の果実~
@@ -90072,6 +90089,7 @@
 6140|4|ja|真・燐月
 2029|4|ja|真・瑠璃色の雪
 9914|4|ja|真・秘湯めぐり
+874|2|ja|真・超神伝説うろつき童子 魔胎伝
 874|4|ja|真･超神伝説うろつき童子 魔胎伝
 17295|4|zh-Hans|真・进化果实～不知不觉踏上胜利的人生～
 17295|4|ja|真・進化の実~知らないうちに勝ち組人生~
@@ -94173,6 +94191,7 @@
 4398|4|ja|鬼
 6362|4|ja|鬼がら
 10614|4|ja|鬼の子とゆきうさぎ
+19378|4|ja|鬼の花嫁
 5260|4|ja|鬼丸 戦場に駆ける五つの青春
 16614|4|zh-Hans|鬼人 幻灯抄
 16614|2|zh-Hans|鬼人幻灯抄
