@@ -1,4 +1,4 @@
-# created: Tue Jun 10 03:00:01 2025
+# created: Wed Jun 11 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -15386,6 +15386,7 @@
 9903|2|en|False Love
 16760|2|en|False Memory
 19175|4|en|False Memory (2025)
+9903|2|pl|Fałszywa Miłość
 392|2|en|Fam and Ihrie - Ruin Explorers
 392|4|fr|Fam et Ihrlie, exploratrices
 8971|3|x-jat|famiglia
@@ -26494,6 +26495,7 @@
 7625|3|x-jat|KDOS
 5578|3|x-jat|kdx!
 18275|4|vi|Kẻ hủy diệt Zero
+19379|1|x-zht|Ke Jin Wanjia
 14990|4|vi|Kẻ lừa đảo vĩ đại
 16101|4|vi|Kẻ Ngoại Lai Ở Học Viện Ma Vương Ⅱ : Ma Vương Mạnh Nhất Lịch Sử Tái Thế và Đi Học Cùng Các Hậu Duệ
 15131|4|vi|Kẻ Ngoại Lai Ở Học Viện Ma Vương: Ma Vương Mạnh Nhất Lịch Sử Tái Thế và Đi Học Cùng Các Hậu Duệ
@@ -37446,7 +37448,6 @@
 3509|1|x-jat|Nihon Tanjou
 6699|1|x-jat|Nihon`ichi Momotarou
 6699|2|x-jat|Nihonichi Momotaro
-14066|2|x-jat|Niiduma Koyomi
 14066|1|x-jat|Niizuma Koyomi The Animation
 11091|1|x-jat|Niji ni Mukatte
 3581|1|x-jat|Niji no Kanata e! Shoujo Diana Monogatari
@@ -80213,6 +80214,7 @@
 11577|4|ja|亜人 (2016)
 11758|4|ja|亜人 OAD
 18993|4|ja|亜人がお好きなんですね
+18993|2|ja|亜人がお好きなんですね♡
 12374|4|ja|亜人ちゃんは語りたい
 4182|4|ja|亜人戦士
 1480|4|ja|亜空大作戦 スラングル
@@ -80907,6 +80909,7 @@
 1929|4|ja|光速電神アルベガス
 11344|4|zh-Hans|克拉斯卡劳埃德
 13069|4|zh-Hans|克拉斯卡劳埃德 第二季
+19379|4|zh-Hans|克金玩家
 6844|4|ja|兎と亀
 4580|2|ja|児玉あい
 4581|2|ja|児玉ひかる
@@ -83122,6 +83125,7 @@
 11131|4|ja|夕やけだん団
 5166|4|ja|夕やけ番長
 6025|4|zh-Hans|夕阳染红的街道
+19105|2|ja|夕顔
 18675|4|ja|外れスキル《木の実マスター》~スキルの実 (食べたら死ぬ) を無限に食べられるようになった件について~
 14736|4|zh-Hans|外之国的少女
 16091|4|zh-Hans|外之国的少女（2022）
@@ -84282,6 +84286,7 @@
 14372|4|zh-Hans|宋代足球小将
 6317|4|ja|完全勝利ダイテイオー
 2680|4|ja|完全無修正 それぞれの放課後
+19037|2|ja|完堕ちX寝取られ家族 The Animation
 19037|4|ja|完堕ちX寝取られ家族 The Animation ~アナタ, 許して. 私たち, 浮気セックスに本気でハマっちゃったの~
 14468|2|ja|完璧イリナお嬢様
 14468|4|ja|完璧お嬢様の私が土下座でマゾ堕ちするちょろインなワケないですわ!
@@ -94193,8 +94198,8 @@
 10614|4|ja|鬼の子とゆきうさぎ
 19378|4|ja|鬼の花嫁
 5260|4|ja|鬼丸 戦場に駆ける五つの青春
-16614|4|zh-Hans|鬼人 幻灯抄
 16614|2|zh-Hans|鬼人幻灯抄
+16614|4|zh-Hans|鬼人幻灯抄 葛野篇
 16614|4|ja|鬼人幻燈抄
 16614|4|zh-Hant|鬼人幻燈抄
 1348|4|ja|鬼作
