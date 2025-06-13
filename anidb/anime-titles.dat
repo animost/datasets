@@ -1,4 +1,4 @@
-# created: Wed Jun 11 03:00:02 2025
+# created: Thu Jun 12 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2354,6 +2354,7 @@
 18127|2|en|All Saints Street 4
 7454|4|ja|ALL THAT GUNDAM
 7454|1|x-jat|All That Gundam
+19208|4|en|All You Need Is Kill
 19208|4|ja|All You Need Is Kill
 19208|1|x-jat|All You Need Is Kill
 15498|4|en|All-You-Can-Eat Cow Tits: The Animation
@@ -26202,8 +26203,8 @@
 14468|2|x-jat|Kanpeki Irina Ojou-sama
 14468|1|x-jat|Kanpeki Ojou-sama no Watakushi ga Dogeza de Maso Ochi Suru Choroin na Wakenai Desu wa!
 14468|2|x-jat|Kanpeki Ojousama no Watakushi ga Dogeza de Maso Ochi Suru Choroin na Wakenai Desu wa!
-18940|1|x-jat|Kanpeki Sugite Kawaige ga Nai to Kon`yaku Hakisareta Seijo wa Ringoku ni Urareru
 18940|2|x-jat|Kanpekiseijo
+18940|1|x-jat|Kanpekisugite Kawaige ga Nai to Kon`yaku Haki Sareta Seijo wa Ringoku ni Urareru
 18940|2|x-jat|Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru
 7259|2|x-jat|Kansen 2 Inzai Toushi
 7259|1|x-jat|Kansen 2: Inzai Toshi
@@ -35996,14 +35997,15 @@
 11739|4|pt|My Hero Academia
 11739|4|en|My Hero Academia
 11739|4|fr|My Hero Academia
+13633|4|pt|My Hero Academia - 2 Heróis
 14776|4|pt|My Hero Academia - Ascensão dos Heróis
-15873|4|pt|My Hero Academia - Missão Mundial de Heróis
+15873|2|pt|My Hero Academia - Missão Mundial de Heróis
 12233|4|pt|My Hero Academia - Temporada 2
 13485|4|pt|My Hero Academia - Temporada 3
 14416|4|pt|My Hero Academia - Temporada 4
 15484|4|pt|My Hero Academia - Temporada 5
 16793|4|pt|My Hero Academia - Temporada 6
-15873|2|pt|My Hero Academia - Uma Missão Para os Heróis Mundiais
+15873|4|pt|My Hero Academia - Uma Missão Para os Heróis Mundiais
 18921|2|en|My Hero Academia (2025)
 17356|4|en|My Hero Academia (Web)
 17356|4|fr|My Hero Academia (Web)
@@ -43992,6 +43994,7 @@
 8628|1|x-jat|Ribbon no Kishi (1999)
 9085|1|x-jat|Ribbon-chan
 16534|1|x-jat|Rich Keikan Cash!
+19379|2|en|Rich Player
 16534|2|en|Rich Police Cash!
 12990|2|fr|Richesse égarée : extorsion de fonds auprès d’une richarde
 17422|2|en|Rick & Morty
@@ -44999,6 +45002,7 @@
 10005|1|x-jat|Saikyou Ginga Ultimate Zero: Battle Spirits
 15651|1|x-jat|Saikyou Kamizmode!
 18935|1|x-jat|Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru?
+19381|1|x-jat|Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru? (2026)
 18592|1|x-jat|Saikyou no Shien-shoku "Wajutsushi" Dearu Ore wa Sekai Saikyou Clan o Shitagaeru
 18592|2|x-jat|Saikyou no Shienshoku "Wajutsushi" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru
 17159|1|x-jat|Saikyou Onmyouji no Isekai Tenseiki
@@ -51980,6 +51984,7 @@
 13794|2|en|The Beetles
 8805|2|x-jat|The Beginning
 18935|4|en|The Beginning After the End
+19381|4|en|The Beginning After the End Season 2
 3620|2|en|The Bells of Nagasaki
 2964|2|en|The Best Student Council
 6411|2|en|The Best!! Extremely Cool Student Council President
@@ -57315,6 +57320,7 @@
 8351|4|en|We Without Wings: More than 90% Flesh-Toned
 6011|2|en|We`re Manga Artist: Tokiwa Villa Story
 14635|4|en|We`re Still Underground
+19379|4|en|Wealth and Wonder
 907|4|en|Weather Report Girl
 14534|4|fi|Weathering with You
 14534|4|en|Weathering with You
@@ -59004,6 +59010,7 @@
 13257|3|x-jat|Yorimoi
 10405|3|x-jat|Yorinuke Gintama
 10405|1|x-jat|Yorinuki Gintama-san on Theater 2D
+19380|1|x-jat|Yoroi Shin Den Samurai Troopers
 460|1|x-jat|Yoroiden Samurai Troopers
 3377|1|x-jat|Yoroiden Samurai Troopers Gaiden
 3379|1|x-jat|Yoroiden Samurai Troopers Kikoutei Densetsu
@@ -81130,6 +81137,7 @@
 17712|2|zh-Hant|最弱魔物使開始了撿垃圾之旅。
 18229|4|ja|最強タンクの迷宮攻略 ~体力9999のレアスキル持ちタンク, 勇者パーティーを追放される~
 18935|4|ja|最強の王様, 二度目の人生は何をする?
+19381|4|ja|最強の王様, 二度目の人生は何をする? (2026)
 2350|4|ja|最強ロボ ダイオージャ
 18210|4|ja|最強出涸らし皇子の暗躍帝位争い 無能を演じるSSランク皇子は皇位継承戦を影から支配する
 19142|3|ja|最強宇宙船
@@ -88657,6 +88665,7 @@
 682|4|ja|淫獣学園 EX
 663|4|ja|淫獣学園 La Blue Girl
 663|2|ja|淫獣学園 La☆Blue Girl
+682|2|ja|淫獣学園 La☆Blue Girl EX
 676|4|ja|淫獣学園 La☆Blue Girl 復活篇
 670|4|ja|淫獣家庭教師
 910|4|ja|淫獣教師
@@ -93269,6 +93278,7 @@
 3380|4|ja|鎧伝サムライトルーパーMESSAGE
 3377|4|ja|鎧伝サムライトルーパー外伝
 3379|4|ja|鎧伝サムライトルーパー輝煌帝伝説
+19380|4|ja|鎧真伝サムライトルーパー
 15919|4|ja|鎮西八郎為朝
 17018|4|ja|鎮西八郎為朝 (2021)
 15914|4|zh|鏈鋸人
