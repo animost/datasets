@@ -1,4 +1,4 @@
-# created: Thu Jun 12 03:00:02 2025
+# created: Fri Jun 13 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1907,6 +1907,7 @@
 11894|1|x-zht|Aishen Qiaokeli-ing...
 13634|1|x-zht|Aishen Qiaokeli-ing... II
 1836|1|x-jat|Aishite Knight
+19382|1|x-jat|Aishiteru Game o Owarasetai
 1648|1|x-jat|Aishiteru ze Baby
 1648|3|x-jat|aishiteruze
 1648|2|x-jat|Aishiteruze Baby
@@ -23186,6 +23187,7 @@
 13363|4|es-419|I Want to Eat Your Pancreas
 13363|4|en|I Want to Eat Your Pancreas
 13363|4|de|I want to eat your pancreas
+19382|2|en|I Want to End This Love Game
 18264|2|en|I Want to Escape from Princess Education
 18264|4|en|I Want to Escape from Princess Lessons
 11376|2|en|I Want to Let You Know That I Love You.
@@ -25340,6 +25342,8 @@
 17196|2|x-jat|Jujutsu Kaisen Season 2
 18835|2|x-jat|Jujutsu Kaisen: Ball/Break
 18363|2|en|Jujutsu Kaisen: Culling Game
+18835|4|de|JUJUTSU KAISEN: Der versteckte Schatz / Der verdorbene Schatz – Der Film
+18835|4|en|JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie
 18363|1|x-jat|Jujutsu Kaisen: Shimetsu Kaiyuu
 18854|3|x-jat|jukishi
 13419|1|x-jat|Jukujo Shigan
@@ -28111,7 +28115,7 @@
 2575|3|x-jat|komugi ova 2
 11721|3|x-jat|komugi tv
 2575|3|x-jat|Komugi Z
-17592|1|x-jat|Kon`yakuhaki Sareta Reijou o Hirotta Ore ga, Ikenai Koto o Oshiekomu
+17592|1|x-jat|Kon`yaku Haki Sareta Reijou o Hirotta Ore ga, Ikenai Koto o Oshiekomu
 13117|1|x-jat|Konbini Kareshi
 15620|1|x-jat|Konbini Shoujo Z
 3366|1|x-jat|Konchuu Monogatari Minashigo Hutch
@@ -29151,6 +29155,8 @@
 663|4|en|La Blue Girl
 676|2|en|La Blue Girl Rebirth
 676|4|en|La Blue Girl Returns
+682|2|en|La Blue Girl Season 2
+676|2|en|La Blue Girl Season 3
 17206|2|en|La Blue Girl: Revenge of the Shikima Realm
 10446|4|fr|La Bonne Vie
 18278|4|es-419|La caja azul
@@ -36101,6 +36107,7 @@
 16512|4|en|My Master Has No Tail
 13402|4|en|My Matchmaking Partner Is My Student, An Aggressive Troublemaker
 2966|4|pt|My Melody
+19095|4|en|My Melody & Kuromi
 19095|1|x-jat|My Melody & Kuromi
 19095|4|ja|My Melody & Kuromi
 5796|2|en|My Melody in Little Red Riding Hood
@@ -37141,6 +37148,7 @@
 16066|2|fr|Netorare Kanojo – Case.2: Kasumi Haruno | Sœur dérobée
 9280|2|x-jat|Netorare Tsuma
 7816|1|x-jat|Netorare: Tanabe Yuuka no Dokuhaku
+19383|1|x-jat|Netorareta Bakunyuu Tsuma-tachi
 9280|1|x-jat|Netorarezuma
 11258|1|x-jat|Netoraserare
 16066|1|x-jat|Netoshisu
@@ -84006,6 +84014,7 @@
 1629|4|ja|妻みぐい
 12239|4|ja|妻みぐい3 THE ANIMATION
 18509|4|ja|妻を同窓会にいかせたら
+12239|4|zh|妻中蜜3 THE ANIMATION
 17911|4|zh-Hans|妻子变成小学生。
 17911|4|zh-Hant|妻子變成小學生。
 4075|4|ja|姉, ちゃんとしようよっ!
@@ -84411,6 +84420,7 @@
 4894|4|zh-Hans|寒蝉鸣泣之时 解
 4894|2|zh-Hans|寒蝉鸣泣之时·解
 3574|2|zh-Hant|寒蟬鳴泣之時
+19383|4|ja|寝取られた爆乳妻たち
 7578|4|ja|寝取られファイター ヤリっちんぐ!
 17208|2|zh-Hant|實教 2
 12739|4|zh-Hant|實驗品家庭
@@ -85714,6 +85724,7 @@
 10727|4|ja|愛・天地無用!
 17395|4|ja|愛w君
 1836|4|ja|愛してナイト
+19382|4|ja|愛してるゲームを終わらせたい
 1648|4|ja|愛してるぜベイベ★★
 7076|4|ja|愛しのベティ 魔物語
 7076|2|ja|愛しのペティ 魔物語
@@ -89249,6 +89260,8 @@
 12888|4|zh-Hant|牙鬥獸娘
 17224|4|ja|牛頭
 9897|4|ja|牝性 ペルソナ
+11474|2|zh-Hans|牝教师4 ~淫乱污秽的讲台~
+11474|4|zh|牝教师4 ~淫乱污秽的讲台~
 6547|4|ja|牝教師 淫辱の教室
 11474|4|ja|牝教師4 ~穢された教壇~
 2299|4|ja|牧場の少女カトリ
