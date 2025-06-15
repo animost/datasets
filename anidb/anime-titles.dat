@@ -1,4 +1,4 @@
-# created: Fri Jun 13 03:00:02 2025
+# created: Sat Jun 14 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -24390,6 +24390,8 @@
 14964|1|x-jat|Isekai Quartet 2
 14964|4|en|Isekai Quartet 2
 14964|2|x-jat|Isekai Quartet 2nd Season
+19385|1|x-jat|Isekai Quartet 3
+19385|2|en|Isekai Quartet 3
 15481|4|en|Isekai Quartet the Movie: Another World
 18809|3|x-jat|Isekai Red
 17507|1|x-jat|Isekai Shikkaku
@@ -37584,6 +37586,8 @@
 18132|4|ja|NINJA KAMUI
 18132|1|x-jat|Ninja Kamui
 18132|4|pl|Ninja Kamui
+19384|4|ja|NINJA KAMUI RED VENDETTA
+19384|1|x-jat|Ninja Kamui: Red Vendetta
 2641|2|tr|Ninja Kaplumbağalar: Süpermen Efsanesi
 277|4|et|Ninja manuskript
 994|1|x-jat|Ninja Mono
@@ -39605,6 +39609,7 @@
 11347|3|x-jat|Osomatsu s1
 12944|3|x-jat|Osomatsu s2
 15627|3|x-jat|Osomatsu s3
+18673|3|x-jat|Osomatsu s4
 5487|1|x-jat|Osomatsu-kun
 2702|1|x-jat|Osomatsu-kun (1988)
 14217|1|x-jat|Osomatsu-kun: Iyami wa Hitori Kaze no Naka
@@ -59467,6 +59472,7 @@
 3529|4|it|Yui ragazza virtuale
 16927|3|x-jat|yuigaoka2
 17665|3|x-jat|yuigaoka3
+19387|1|x-zht|Yujin Xingzhe
 12740|1|x-jat|Yukai na Animal Bus
 13111|1|x-jat|Yukai na Animal Bus (2017)
 8980|2|x-jat|Yuke! Shouei-kun
@@ -60055,6 +60061,7 @@
 17364|1|x-zht|Zhu Tian Ji
 17548|1|x-zht|Zhu Xian
 18577|1|x-zht|Zhu Xian 2
+19386|1|x-zht|Zhu Xian 3
 13460|1|x-zht|Zhu Zhu Xia Fan Wai: Pin Zhuang Tegong Dui
 13456|1|x-zht|Zhu Zhu Xia: Bai Bian Lian Meng
 13454|1|x-zht|Zhu Zhu Xia: Bian Shen Xiao Ying Xiong
@@ -80559,6 +80566,7 @@
 6691|4|ja|体育デー
 15211|4|ja|何もしてあげられない
 14084|4|ja|何色の何
+19387|4|zh-Hans|余烬行者
 12073|4|zh-Hant|佛典故事
 12073|2|zh|佛典故事动画
 12896|4|zh|佛教動畫-大勢至菩薩念佛圓通章
@@ -80752,6 +80760,7 @@
 17918|4|zh-Hans|偶像大师 闪耀色彩
 17918|4|zh-Hant|偶像大師 閃耀色彩
 3058|4|zh-Hans|偶像天使阳子
+18666|2|zh-Hans|偶像女友墮落NTR
 13755|4|zh-Hant|偶像學園Friends
 11934|4|zh-Hant|偶像學園STARS！
 11810|4|zh-Hans|偶像梦幻祭
@@ -84864,6 +84873,7 @@
 11774|4|ja|巨乳人妻女教師催眠
 12528|4|ja|巨乳令嬢MC学園
 13356|4|ja|巨乳大家族催眠
+18525|4|zh-Hans|巨乳女军官・洗脑催眠
 18525|2|ja|巨乳女士官・洗脳催眠
 18525|4|ja|巨乳女士官洗脳催眠
 17259|4|ja|巨乳女戦士・土下座催眠
@@ -85913,6 +85923,7 @@
 14673|4|zh-Hans|我是江小白 第二季
 6576|4|zh-Hans|我是猫
 10978|4|zh-Hans|我是高宫茄乃
+18587|4|zh-Hans|我有后宫炮友的原因
 16630|4|zh-Hans|我气哭了百万修炼者
 3389|2|zh-Hans|我永远的圣诞老人
 17495|4|zh-Hans|我独自升级
@@ -86408,6 +86419,7 @@
 15583|4|zh|放开那个女巫
 7949|4|ja|放浪息子
 7949|4|zh-Hans|放浪男孩
+18494|4|zh-Hans|放荡之顷
 2877|4|ja|放課後 ~濡れた制服~
 2877|2|ja|放課後〜濡れた制服〜
 5365|2|ja|放課後2
@@ -89832,6 +89844,7 @@
 16389|4|ja|異世界おじさん
 14435|4|ja|異世界かるてっと
 14964|4|ja|異世界かるてっと2
+19385|4|ja|異世界かるてっと3
 18098|4|ja|異世界スーサイド・スクワッド
 14038|4|ja|異世界チート魔術師
 17580|4|ja|異世界でチート能力を手にした俺は, 現実世界をも無双する~レベルアップは人生を変えた~
@@ -91426,6 +91439,7 @@
 6685|2|zh-Hans|肯普法
 6685|4|zh-Hant|肯普法
 8163|4|zh-Hans|肯普法 为了爱
+18911|2|zh-Hans|育精
 18911|4|ja|育精
 18290|4|zh-Hans|胆大党
 15822|4|ja|背徳の境界
@@ -92291,6 +92305,7 @@
 2481|4|zh-Hans|诗片
 17548|4|zh-Hans|诛仙
 18577|2|zh-Hans|诛仙 第2季
+19386|4|zh-Hans|诛仙 第三季
 18577|4|zh-Hans|诛仙 第二季
 15835|4|zh|诡水疑云
 19357|4|zh-Hans|诡秘之主
