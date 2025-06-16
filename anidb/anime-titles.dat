@@ -1,4 +1,4 @@
-# created: Sat Jun 14 03:00:02 2025
+# created: Sun Jun 15 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1303,6 +1303,7 @@
 7431|2|en|Abnormal Physiology Seminar
 8287|2|en|Abnormal Physiology Seminar (TV)
 8720|2|en|Abnormalities: Experimental Slave
+19388|2|en|Above the Kingdom of God
 7027|2|en|Absent Minded Penelope
 7035|2|en|Absent Minded Penelope (2009)
 4677|2|x-jat|Absent without Leave
@@ -3702,6 +3703,7 @@
 15293|4|en|Ascendance of a Bookworm (2020)
 15634|4|en|Ascendance of a Bookworm (2022)
 15293|2|en|Ascendance of a Bookworm 2
+15634|2|en|Ascendance of a Bookworm Season 3
 18302|2|en|Ascendance of a Bookworm: Adopted Daughter of an Archduke
 15300|4|en|Ascendance of a Bookworm: Eustachius`s Incognito Operation Downtown / Visiting Missus Corinna
 14727|2|en|Ascendance of a Bookworm: I`ll Do Anything to Become a Librarian!
@@ -14596,6 +14598,7 @@
 12726|2|fr|Ema, la rose des vents
 11562|1|x-jat|Embah
 11562|4|ja|embah
+19387|4|en|Embers
 4234|1|x-jat|Emblem Take 2
 4234|2|x-jat|Emblem Take Two
 2600|4|en|Embracing Love
@@ -23785,6 +23788,7 @@
 4738|1|x-jat|Imouto Twins
 17733|1|x-jat|Imouto wa Gal Kawaii
 16026|3|x-jat|Imouza
+13570|2|en|Imperial Princess Tusukuru`s Splendid Days
 13279|1|x-jat|Implicity
 13279|4|ja|Implicity
 8658|2|en|Impostory
@@ -24630,7 +24634,10 @@
 3484|4|pt|Jacky, o Urso de Tallac
 17548|2|en|Jade Dynasty
 18577|2|en|Jade Dynasty 2
+19386|2|en|Jade Dynasty 3
 18577|2|en|Jade Dynasty Ⅱ
+18577|2|en|Jade Dynasty Season 2
+19386|2|en|Jade Dynasty Season 3
 18244|1|x-jat|Jadou Sugiru
 335|4|sv|Jag kan höra havet
 1746|3|x-jat|jagainu
@@ -39848,6 +39855,7 @@
 5072|2|es|Over Drive
 18948|4|en|Over Goddess
 10816|2|ja|Over Lord
+19388|4|en|Over the Divine Realms
 17454|1|x-jat|Over the Rainbow
 17454|4|ja|OVER THE RAINBOW
 3581|2|en|Over the Rainbow: Story of Girl Diana
@@ -47056,6 +47064,7 @@
 963|3|x-jat|shengi
 10238|1|x-zht|Shengshi Chuanshuo
 18428|1|x-zht|Shengsi Huifang
+19388|1|x-zht|Shenguo Zhi Shang
 18932|1|x-zht|Shenlong Xing Zhu
 13852|2|x-unk|Shenme Gui
 16866|1|x-jat|Shenmi Shijie Lixian Ji
@@ -60061,7 +60070,11 @@
 17364|1|x-zht|Zhu Tian Ji
 17548|1|x-zht|Zhu Xian
 18577|1|x-zht|Zhu Xian 2
+18577|2|x-zht|Zhu Xian 2nd Season
 19386|1|x-zht|Zhu Xian 3
+19386|2|x-zht|Zhu Xian 3rd Season
+18577|2|x-zht|Zhu Xian Di Er Ji
+19386|2|x-zht|Zhu Xian Di San Ji
 13460|1|x-zht|Zhu Zhu Xia Fan Wai: Pin Zhuang Tegong Dui
 13456|1|x-zht|Zhu Zhu Xia: Bai Bian Lian Meng
 13454|1|x-zht|Zhu Zhu Xia: Bian Shen Xiao Ying Xiong
@@ -90316,6 +90329,7 @@
 19319|4|zh-Hans|神印王座剧场版 伊莱克斯传奇
 19319|2|zh-Hans|神印王座剧场版：伊莱克斯传奇
 148|2|ja|神周鳥侠侶 ~コンドル・ヒーロー~
+19388|4|zh-Hans|神国之上
 11266|4|zh-Hans|神圣之门
 4385|2|zh-Hans|神圣十月
 8541|4|zh-Hans|神圣骑士
@@ -92305,6 +92319,7 @@
 2481|4|zh-Hans|诗片
 17548|4|zh-Hans|诛仙
 18577|2|zh-Hans|诛仙 第2季
+19386|2|zh-Hans|诛仙 第3季
 19386|4|zh-Hans|诛仙 第三季
 18577|4|zh-Hans|诛仙 第二季
 15835|4|zh|诡水疑云
@@ -94237,7 +94252,7 @@
 19378|4|ja|鬼の花嫁
 5260|4|ja|鬼丸 戦場に駆ける五つの青春
 16614|2|zh-Hans|鬼人幻灯抄
-16614|4|zh-Hans|鬼人幻灯抄 葛野篇
+16614|4|zh-Hans|鬼人幻灯抄 葛野篇&江户篇
 16614|4|ja|鬼人幻燈抄
 16614|4|zh-Hant|鬼人幻燈抄
 1348|4|ja|鬼作
