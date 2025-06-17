@@ -1,4 +1,4 @@
-# created: Sun Jun 15 03:00:02 2025
+# created: Mon Jun 16 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6274,6 +6274,7 @@
 18278|4|ro|Blue Box
 18278|4|my|Blue Box
 19249|2|en|Blue Box 2
+19249|2|en|Blue Box Season 2
 3515|1|x-jat|Blue Butterfly Fish
 15069|4|en|Blue Cat
 2154|2|en|Blue Comet SPT Layzner
@@ -16055,6 +16056,7 @@
 1080|2|en|First Kiss Story
 1080|1|x-jat|First Kiss Story: Kiss kara Hajimaru Monogatari
 1080|2|en|First Kiss Story: The Story That Starts With a Kiss
+19390|1|en|First Line
 8965|4|ja|First Love
 8965|1|x-jat|First Love
 8965|4|en|First Love
@@ -37173,6 +37175,7 @@
 12546|4|en|Netsuzou Trap: NTR
 5416|3|x-jat|Neuro
 5416|2|fr|Neuro le mange-mystères
+19391|1|x-jat|Never Give Up
 839|4|en|New Angel
 839|4|es|New Angel
 839|4|pt|New Angel
@@ -38342,6 +38345,7 @@
 18465|2|pt-BR|O Ser Supremo (2024)
 286|4|pt-BR|O Serviço de Entregas da Kiki
 1681|4|pt|O Super Prémio
+336|4|pt|O Sussurro do Coração
 847|4|pt|O Teatro de Rumiko
 18748|4|pt|O Tédio Acabou
 18748|2|pt|O Tédio Causa a Morte
@@ -40606,7 +40610,7 @@
 16808|1|x-jat|Petit Seka
 16808|2|fr|Petit Sekai
 13715|4|ja|Petit☆ドリームスターズ! レッツ・ラ・クッキン? ショータイム!
-19304|1|x-jat|PetitCure ~Precure Fairies~
+19304|1|x-jat|PetitCure: Precure Fairies
 11162|2|fr|Petite amie & chat-pardages
 2291|4|fr|Petite bonne femme
 14194|2|fr|Petite diablesse
@@ -47583,6 +47587,7 @@
 9046|1|x-jat|Shinryaku!! Ika Musume
 8294|1|x-jat|Shinryaku!? Ika Musume
 11818|1|x-jat|Shinsei Futanari Idol: Dekatama Kei! Shasei no Utage wa Chouzetsu Max
+19389|1|x-jat|Shinsei Galverse
 13139|1|x-jat|Shinsei Kamattechan
 18834|1|x-jat|Shinsei Kourin Dacryon Luna
 18834|2|ja|Shinsei Kourin Dacryon Runa
@@ -50430,7 +50435,6 @@
 15680|2|en|Sushi Sumo
 4672|1|x-jat|Susie-chan to Marvy
 8832|2|fi|Susilapset Ame ja Yuki
-336|4|pt|Sussurro do Coração
 336|4|pt-BR|Sussurros do Coração
 14012|1|x-jat|Susume, Karolina.
 13082|1|x-jat|Susume! Godzilland
@@ -76530,6 +76534,7 @@
 9280|2|ja|ネトラレヅマ 礼子
 2771|4|ja|ねとらん者[もん] THE MOVIE #1 ネットのすみでブログと叫ぶ
 13345|4|ja|ネト充のススメ
+19391|4|ja|ネバー・ギブ・アップ
 10076|4|ja|ネポス・ナポス
 11165|4|ja|ねむれ思い子 空のしとねに
 9208|4|ja|ねらわれた学園
@@ -77399,6 +77404,7 @@
 2515|4|ja|フーリガン
 1080|4|ja|ファーストKiss☆物語[ストーリー] Kissからはじまる物語
 4401|4|ja|ファーストスクワッド
+19390|4|ja|ファーストライン
 8965|2|ja|ファーストラブ
 4686|4|ja|ファーブル先生は名探偵
 10257|4|ja|ファーブル昆虫記
@@ -86769,6 +86775,7 @@
 15763|4|zh-Hans|新愚公移山
 11198|4|zh-Hans|新我们这一家
 12418|4|zh-Hans|新撰组镇魂歌 二分之一
+19389|4|ja|新星ギャルバース
 5527|4|ja|新星騎デュエル･マスターズ フラッシュ
 2190|4|ja|新暗行御史
 2190|4|zh-Hans|新暗行御史
