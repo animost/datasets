@@ -1,4 +1,4 @@
-# created: Tue Jun 17 03:00:02 2025
+# created: Wed Jun 18 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8024,6 +8024,7 @@
 11895|4|ja|celebration and chorale
 11895|1|x-jat|Celebration and Chorale
 8966|2|x-jat|Celebrity Kano
+19393|4|en|Celestial Bonds
 17548|2|en|Celestial Destroyer
 17548|2|en|Celestial Destroyer - Scroll of White Silk Cloud
 17548|2|en|Celestial Destroyer Online
@@ -11180,12 +11181,14 @@
 1948|2|en|Demon Warrior Luna Varga
 1447|4|en|Demon-man Bem
 14107|2|en|Demon-slaying blade
+19394|4|en|Demon`s Ascension
 16921|2|en|Demon`s Sword Master of Excalibur School
 4021|4|en|Demonbane
 2257|2|en|DemonBane OVA
 4021|3|x-jat|demonbane tv
 13388|4|en|Demoness of Dreams
 2725|2|en|Demonic Armor Cybuster
+19394|2|en|Demonic Records
 10775|1|x-jat|Demonion: Gaiden
 6284|2|lt|Demonų Valdovai
 4776|4|hu|Démonvadászok - Devil May Cry
@@ -20027,6 +20030,7 @@
 1619|4|it|Guru Guru 2 Il Batticuore Della Magia
 311|4|it|Guru Guru Il Girotondo della Magia
 4669|1|x-jat|Guru Guru Town Hanamaru-kun
+18242|4|id|Guru Privat Untuk Putri Duke
 311|3|x-jat|guruguru
 1619|3|x-jat|guruguru2
 7237|2|en|Gurumi Town`s Trap: Stained Body in the Clouds
@@ -34785,6 +34789,7 @@
 16626|1|x-zht|Mo Jing Lieren Di Wu Ji: Muse Ranshao
 13628|1|x-zht|Mo Mo
 1003|2|vi|Mộ Súng
+19394|1|x-zht|Mo Tian Ji
 18382|1|x-zht|Mo Zhuang Chuanshuo
 2604|3|x-jat|MO3.5
 18358|1|x-jat|Mob kara Hajimaru Tansaku Eiyuutan
@@ -58196,6 +58201,8 @@
 14641|1|x-zht|Xiagu Zhong An Zu
 14670|1|x-zht|Xiagu Zhong An Zu Di Er Ji
 14671|1|x-zht|Xiagu Zhong An Zu Di San Ji
+19393|1|x-zht|Xian Chong
+19393|2|x-zht|Xian Chong Nai Xiong
 16780|1|x-zht|Xian Feng Jian Yu Lu
 19297|1|x-zht|Xian Ji Xun Zong
 18420|1|x-zht|Xian Mu
@@ -80451,6 +80458,8 @@
 6814|4|zh-Hans|仙乐传说 迪赛雅兰篇
 3519|4|ja|仙人部落
 18420|4|zh-Hans|仙墓
+19393|4|zh-Hans|仙宠
+19393|2|zh-Hans|仙宠奶凶
 17598|2|zh-Hans|仙山缭乱之山海绝伦
 18356|4|zh-Hans|仙武传
 18357|4|zh-Hans|仙武传 第二季
@@ -94416,6 +94425,7 @@
 1713|4|ja|魔境外伝レ・ディウス
 1713|2|ja|魔境外伝レディウス
 1713|4|zh-Hans|魔境外传Le Deus
+19394|4|zh-Hans|魔天记
 9464|4|ja|魔女っこ姉妹のヨヨとネネ
 2583|4|ja|魔女っ娘つくねちゃん
 3634|4|ja|魔女っ子クラブ四人組 A空間からのエイリアンX
