@@ -1,4 +1,4 @@
-# created: Wed Jun 18 03:00:02 2025
+# created: Thu Jun 19 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1303,6 +1303,7 @@
 7431|2|en|Abnormal Physiology Seminar
 8287|2|en|Abnormal Physiology Seminar (TV)
 8720|2|en|Abnormalities: Experimental Slave
+19388|2|en|Above the Divine Kingdom
 19388|2|en|Above the Kingdom of God
 7027|2|en|Absent Minded Penelope
 7035|2|en|Absent Minded Penelope (2009)
@@ -3189,7 +3190,7 @@
 7382|4|es|Apocalipsis en el instituto
 16757|2|en|Apocalypse
 1181|4|fr|Apocalypse Angel`s - Les anges de l`apocalypse
-18702|2|en|Apocalypse Bringer Mynoghra
+18702|4|en|Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin
 16757|2|en|Apocalypse Day
 18838|1|x-jat|Apocalypse Hotel
 18838|4|en|Apocalypse Hotel
@@ -3471,7 +3472,7 @@
 16931|2|pt-BR|Arknights: Preludio do alvorecer
 16931|2|x-jat|Arknights: Reimei Zensou
 18602|1|x-jat|Arknights: Rise from Ember
-18602|2|en|Arknights: Rise from Ember
+18602|4|en|Arknights: Rise from Ember
 17781|2|x-jat|Arknights: Touin Kiro
 16931|4|ru|Arknights: Прелюдия рассвета
 9534|2|en|arknine
@@ -5461,7 +5462,7 @@
 16383|4|cs|Běsy podle Grimmů
 4054|4|lt|Betonas, geležis, raumenys
 6818|2|en|Betrayal Knows My Name
-18781|2|en|Betrothed to My Sister`s Ex
+18781|4|en|Betrothed to My Sister`s Ex
 8334|1|x-jat|Betsu ni Anta no Tame ni Ookiku Nattanja Naindakara ne!!
 18231|1|x-jat|Betsu Sekai
 745|1|x-jat|Betterman
@@ -7729,7 +7730,7 @@
 3972|1|x-jat|Captain Tsubasa: Saikyou no Teki! Holanda Youth
 3561|1|x-jat|Captain Tsubasa: Sekai Daikessen!! Jr. World Cup
 3560|2|en|Captain Tsubasa: The Japanese Youth Selection Is in Danger
-18930|2|en|Captivated, by You
+18930|4|en|Captivated, by You
 5141|2|en|Captivating Lust
 14593|2|en|Captive Drops: Virgins Defiled on a Luxury Cruise Ship in Summer
 505|3|x-jat|captsuba
@@ -9902,7 +9903,7 @@
 12747|2|en|CUG: King of Heroes
 19077|2|fr|Cuisson dans le Fermat
 5574|2|cs|Cukroušek
-18839|2|en|Cultural Exchange With Game Center Girl
+18839|4|en|Cultural Exchange with a Game Centre Girl
 8685|2|en|Cumulonimbus Graffiti
 12046|4|vi|Cuộc chiến Chén Thánh: Chạm tới Chén Thánh
 12704|4|vi|Cuộc chiến Chén Thánh: Ngụy thư
@@ -10363,8 +10364,8 @@
 18290|4|pt-BR|DAN DA DAN
 18290|4|tl|DAN DA DAN
 18290|4|it|DAN DA DAN
+19060|4|en|Dan Da Dan (2025)
 19060|1|x-jat|Dan Da Dan (2025)
-19060|2|en|Dan Da Dan (2025)
 18920|1|x-zht|Dan Dao Zhizun
 18042|1|x-zht|Dan Dao Zongshi
 1653|4|ja|DAN DOH!!
@@ -10886,6 +10887,7 @@
 8307|4|en|Deadman Wonderland: The Red Knife Wielder
 16270|1|x-jat|Deaimon
 16270|4|en|Deaimon: Recipe for Happiness
+18731|4|en|Dealing with Mikadono Sisters Is a Breeze
 8141|4|ro|Dealul cu Maci
 641|1|x-jat|Dear Boys
 1137|4|en|Dear Brother
@@ -13063,8 +13065,8 @@
 16164|1|x-jat|Dr. Stone: Ryuusui
 18336|1|x-jat|Dr. Stone: Science Future
 18336|4|en|Dr. Stone: Science Future
+19248|4|en|Dr. Stone: Science Future (2025)
 19248|1|x-jat|Dr. Stone: Science Future (2025)
-19248|2|en|Dr. Stone: Science Future (2025)
 15305|1|x-jat|Dr. Stone: Stone Wars
 15305|4|en|Dr. Stone: Stone Wars
 7572|2|x-jat|Dr. Typhoon
@@ -19320,7 +19322,7 @@
 12496|1|x-jat|Grancrest Senki
 13734|1|x-jat|Grand Blue
 13734|4|en|Grand Blue Dreaming
-18892|2|en|Grand Blue Dreaming Season 2
+18892|4|en|Grand Blue Dreaming Season 2
 18892|1|x-jat|Grand Blue Season 2
 15483|4|en|Grand Blues!
 14975|2|fr|Grand frère, reste jusqu’au petit matin !
@@ -22619,6 +22621,7 @@
 7382|3|en|HOTD
 7953|3|en|HOTD OVA
 7382|3|x-jat|HOTDTV
+18973|4|en|Hotel Inhumans
 18973|1|x-jat|Hotel Inhumans
 18709|4|es-419|Hotel Tasokare
 2842|3|x-jat|hotori
@@ -23209,7 +23212,7 @@
 10729|2|en|I Was Kidnapped As a "Sample Commoner" for a Princess School
 17557|2|en|I Was Reborn as a Vending Machine
 17702|4|en|I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
-18694|2|en|I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability 2
+18694|4|en|I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability Season 2
 374|1|x-jat|I Wish You Were Here
 374|4|fr|I wish you were here
 3087|2|x-jat|I Zenborg
@@ -24851,7 +24854,7 @@
 19311|1|x-kot|Jib-i eobs-eo
 14757|1|x-jat|Jibaku Shounen Hanako-kun
 17791|1|x-jat|Jibaku Shounen Hanako-kun 2
-19262|1|x-jat|Jibaku Shounen Hanako-kun 3
+19262|1|x-jat|Jibaku Shounen Hanako-kun 2 (2025)
 17791|2|x-jat|Jibaku Shounen Hanako-kun S2
 2993|1|x-jat|Jibaku-kun: Twelve World Story
 14757|3|x-jat|jibasho
@@ -30254,7 +30257,7 @@
 3056|4|en|Let`s Dance with Papa
 7226|2|en|Let`s Do It
 5951|2|en|Let`s Fall in Love Like the Ero-manga
-18929|2|en|Let`s Go Karaoke!
+18929|4|en|Let`s Go Karaoke!
 995|2|en|Let`s Go Marine-chan
 7400|2|en|Let`s Go Play!
 3159|4|en|Let`s Go Quintuplets
@@ -36953,7 +36956,7 @@
 7268|2|en|Necrodemon
 4463|4|en|Necromancer
 18254|2|en|Necromancer Isekai: How I Went from Abandoned Villager to the Emperor`s Favorite
-19042|2|en|Necronomico and the Cosmic Horror Show
+19042|4|en|Necronomico and the Cosmic Horror Show
 19042|1|x-jat|Necronomico no Cosmic Horror Show
 8590|1|x-jat|Nee Summer!
 4075|1|x-jat|Nee, Chanto Shiyou yo!
@@ -37249,6 +37252,7 @@
 2585|2|en|New Q-Taro the Ghost
 17120|2|en|New Qin`s Moon
 2190|4|x-kot|New Royal Secret Commissioner
+17672|4|en|New Saga
 439|2|en|New Snow White`s Legend Pretear
 2468|1|x-jat|New Story of Aura Battler Dunbine
 2468|4|ja|New Story of AURA BATTLER Dunbine
@@ -42415,7 +42419,7 @@
 1878|4|en|Private Sessions
 2524|4|en|Private Sessions 2
 1981|2|en|Private Taxi
-18242|2|en|Private Tutor to the Duke`s Daughter
+18242|4|en|Private Tutor to the Duke`s Daughter
 11639|3|en|PRIYA3!!
 8240|3|x-jat|prizumu
 7724|1|x-jat|Pro Golfer Saru
@@ -43169,6 +43173,8 @@
 7389|4|en|Rainbow
 2408|2|en|Rainbow Across the Pacific Ocean
 1885|2|en|Rainbow Battle Team Robin
+19395|1|x-kot|Rainbow Bubblegem
+19396|1|x-kot|Rainbow Bubblegem 2: Secret
 14137|2|en|Rainbow Cat And Blue Rabbit In Space
 14154|2|en|Rainbow Cat And Blue Rabbit Sidequels: Tiao-tiao the Guardian
 14122|2|en|Rainbow Cat And Blue Rabbit: Amu Star
@@ -43411,6 +43417,7 @@
 17640|4|en|Rascal Does Not Dream of a Sister Venturing Out
 13900|4|en|Rascal Does Not Dream of Bunny Girl Senpai
 13900|4|de|Rascal Does Not Dream of Bunny Girl Senpai
+18300|4|de|Rascal Does Not Dream of Santa Claus
 18300|4|en|Rascal Does Not Dream of Santa Claus
 4312|4|en|Rascal in the Snag Forest
 12870|2|en|Rascal Racoon
@@ -44682,7 +44689,7 @@
 976|2|x-jat|Rupan Sansei: Warusa P38 - In Gedenken an die Walther P38
 823|2|x-jat|Rupan vs Fukusei-ningen
 18859|1|x-jat|Ruri no Houseki
-18859|2|en|Ruri Rocks
+18859|4|en|Ruri Rocks
 7676|1|x-jat|Ruriiro Princess
 4531|3|x-jat|ruriirona
 90|3|en|RuroKen
@@ -46124,7 +46131,7 @@
 1895|2|en|Secrets of Akko-chan (1998)
 1894|2|en|Secrets of Akko-chan 2
 1893|2|en|Secrets of Little Akko
-18795|2|en|Secrets of the Silent Witch
+18795|4|en|Secrets of the Silent Witch
 16020|4|ro|Secția de Extragere a Spermei
 10596|4|hr|Sedam smrtnih grijeha
 17355|4|hr|Sedam smrtnih grijeha: Četiri jahača apokalipse
@@ -46144,7 +46151,7 @@
 2449|2|ko|See in 청
 2449|4|ja|See In 青
 8873|2|en|See Me After Class
-19045|2|en|See You Tomorrow at the Food Court
+19045|4|en|See You Tomorrow at the Food Court
 252|3|x-jat|Seed
 2186|3|x-jat|SEED2
 18016|2|en|Seeding With My Daddy Uncle
@@ -50914,7 +50921,7 @@
 6837|1|x-jat|Tako no Hone
 8389|2|x-jat|Tako-chan
 19038|1|x-jat|Takopi no Genzai
-19038|2|en|Takopi`s Original Sin
+19038|4|en|Takopi`s Original Sin
 3578|2|x-jat|Takoyaki Mant-Man
 3578|1|x-jat|Takoyaki Mantman
 3578|2|x-jat|Takoyaki Mantoman
@@ -53338,6 +53345,7 @@
 19003|2|en|The Share Houses Secret Rule
 250|2|en|The Shinesman
 18496|4|en|The Shiunji Family Children
+19143|4|en|The Shy Hero and the Assassin Princesses
 15122|4|en|The Shy Oriole
 5539|1|x-jat|The Siamese: First Mission
 3533|2|en|The Sign of Otaku
@@ -53609,7 +53617,7 @@
 15784|2|en|The Warrior From Qin
 18898|2|en|The Warrior Princess and the Barbaric King
 1816|4|en|The Warrior, Gordian
-19097|2|en|The Water Magician
+19097|4|en|The Water Magician
 4485|4|en|The Water Seed
 5261|4|fr|The Wave of Rage
 18043|2|en|The Way of Pon
@@ -54258,8 +54266,8 @@
 10140|2|en|Toilet no Kami-sama
 10140|2|en|Toilet of God
 14757|4|en|Toilet-bound Hanako-kun
-19262|2|en|Toilet-bound Hanako-kun 3
 17791|4|en|Toilet-bound Hanako-kun Season 2
+19262|4|en|Toilet-bound Hanako-kun Season 2 (2025)
 6366|2|ja|Toire no Hanako-san
 15909|2|x-unk|Toire no Hanako-san vs Kukkyou Taimashi
 13172|1|x-jat|Toji no Miko
@@ -55374,6 +55382,7 @@
 17026|4|vi|Tưởng tượng
 17801|4|ja|Turkey!
 17801|1|x-jat|Turkey!
+17801|4|en|Turkey! Time to Strike
 377|4|pt-BR|Turma do Barulho
 916|1|x-jat|Turn A Gundam
 916|4|en|Turn A Gundam
@@ -57430,7 +57439,7 @@
 4121|4|fr|Welcome to the N.H.K
 4121|2|it|Welcome to the NHK
 4121|2|en|Welcome to the NHK
-19054|2|en|Welcome to the Outcast`s Restaurant!
+19054|4|en|Welcome to the Outcast`s Restaurant!
 7231|4|de|Welcome to the Space Show
 7231|4|en|Welcome to the Space Show
 8988|2|en|Welcome, Aliens
@@ -68452,6 +68461,7 @@
 18285|4|ko|나의 데몬
 11044|4|ko|나의 야요이상
 9522|4|ko|나의 여동생은 "오사카 아줌마"
+19140|2|ko|나의 이상적인 이세계 생활
 327|2|ko|나의 지구를 지켜줘
 4544|2|ko|나의 피코
 17304|4|ko|나의 행복한 결혼
@@ -68837,6 +68847,8 @@
 6154|2|ko|레이프! 레이프! 레이프!
 4878|2|ko|레이프맨
 14705|4|ko|레인보우 루비
+19395|4|ko|레인보우 버블젬
+19396|4|ko|레인보우 버블젬 2 시크릿
 2148|2|ko|레즈병동
 13116|2|ko|레지던스
 3452|2|ko|레퀴엠
@@ -70464,6 +70476,7 @@
 1313|2|ko|음욕의 방
 5360|4|ko|음욕특급 절륜왕
 1688|2|ko|음의 방정식
+19193|2|ko|음촉왕 데마르
 18756|2|ko|음침한 커플이 밝은 갸루들과 섹스트레이닝을 하는 이야기
 4942|2|ko|음타 공주기사 쟌느
 861|2|ko|음탕한 외계인
@@ -83007,7 +83020,7 @@
 4861|2|zh-Hant|地球防衛少年
 14757|4|ja|地縛少年花子くん
 17791|4|ja|地縛少年花子くん2
-19262|4|ja|地縛少年花子くん3
+19262|4|ja|地縛少年花子くん2 (2025)
 17791|4|zh-Hant|地縛少年花子君 第二季
 14757|4|zh-Hans|地缚少年花子君
 17791|4|zh-Hans|地缚少年花子君2
