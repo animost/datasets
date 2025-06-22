@@ -1,4 +1,4 @@
-# created: Fri Jun 20 03:00:02 2025
+# created: Sat Jun 21 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3670,6 +3670,7 @@
 2290|4|pt|As Mulherzinhas
 2291|4|pt|As Mulherzinhas II
 2152|4|pt|As Navegantes da Lua R: O Filme - A Promessa de uma Rosa
+1640|2|pt|As Novas Aventuras de Pandora
 19195|1|x-jat|As One
 2829|4|pt|As Princesas Gémeas do Planeta Maravilha
 199|2|pt-BR|As Razões Dele, os Motivos Dela
@@ -5435,6 +5436,7 @@
 7991|2|en|Berserk: The Golden Age Arc - Memorial Edition
 7991|4|cs|Berserk: Zlatý věk
 98|2|lt|Berserkas
+18781|4|id|Bertunangan dengan Mantan Tunangan Kakakku
 181|3|x-jat|berubara
 18793|4|fr|Beryl: de paysan à maître d`armes
 730|2|tr|Beş Yıldız Öyküleri
@@ -11299,6 +11301,7 @@
 17910|2|pt|Desejando uma Garota Mágica
 11998|4|pt-BR|Desejos Proibidos
 11998|4|pt|Desejos Proibidos
+1640|2|pt|Desenhos Escaldantes
 559|4|es|Deseo Cumplido
 298|4|en|Desert Island Story X
 926|4|en|Desert Island Story XX
@@ -15129,6 +15132,7 @@
 8769|1|x-jat|Evidence
 8769|4|ja|Evidence
 2925|2|en|Evil Dragon War Chronicles
+2561|4|pt|Evil Hunter
 13417|4|ja|Evil or Live
 13417|1|x-jat|Evil or Live
 13417|4|en|Evil or Live
@@ -19261,6 +19265,7 @@
 18228|1|x-jat|Goukon ni Ittara Onna ga Inakatta Hanashi
 7311|1|x-jat|Goulart Knights: Evoked the Beginning Black
 9035|1|x-jat|Goulart Knights: Evoked the Beginning White
+19399|1|x-jat|Goumon Baito-kun no Nichijou
 10684|4|en|Gourmet Girl Graffiti
 16233|1|x-kot|Gouyeong-ui Samgugji
 16242|1|x-kot|Gouyeong-ui Samgugji 2: Tadodongtag
@@ -30246,6 +30251,7 @@
 4781|3|x-jat|lesmise
 799|2|x-jat|Lesson Double X
 670|4|en|Lesson of Darkness
+670|4|pt|Lesson of Darkness
 799|1|x-jat|Lesson XX
 799|4|ja|Lesson XX
 12933|2|en|Lessons with Chii-chan
@@ -31545,7 +31551,7 @@
 12398|4|en|Lupin the IIIrd: Goemon`s Blood Spray
 10535|1|x-jat|Lupin the IIIrd: Jigen Daisuke no Bohyou
 14616|1|x-jat|Lupin the IIIrd: Mine Fujiko no Uso
-19338|1|x-jat|Lupin the IIIrd: Zenigata to 2-nin no Lupin
+19338|1|x-jat|Lupin the IIIrd: Zenigata to Futari no Lupin
 3179|2|en|Lupin the Mysterious Thief--Enigma of the 813
 3179|4|en|Lupin the Thief--Enigma of the 813
 10882|4|fr|Lupin the Third - L`aventure Italienne
@@ -31602,6 +31608,7 @@
 2739|4|fr|Lutinette et Lutinou
 734|1|x-jat|Luv Wave
 734|4|en|Luv Wave
+734|4|pt|Luv Wave
 17288|1|x-jat|Lv1 Maou to One Room Yuusha
 17288|3|x-jat|lv1room
 17288|4|ja|Lv1魔王とワンルーム勇者
@@ -32947,6 +32954,7 @@
 15131|1|x-jat|Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou
 18427|1|x-jat|Maou Gun Saikyou no Majutsushi wa Ningen Datta
 16057|2|x-jat|Maou Ibrogia ni Mi o Sasageyo
+19398|1|x-jat|Maou no Musume wa Yasashi Sugiru!!
 17686|1|x-jat|Maou no Ore ga Dorei Elf o Yome ni Shitanda ga, Dou Medereba Ii?
 17686|2|x-jat|Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?
 18427|2|x-jat|Maou-gun Saikyou no Majutsushi wa Ningen datta
@@ -46276,6 +46284,7 @@
 17862|1|x-jat|Seishun Buta Yarou wa Ransel Girl no Yume o Minai
 18300|1|x-jat|Seishun Buta Yarou wa Santa Claus no Yume o Minai
 14397|1|x-jat|Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai
+14397|2|x-jat|Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai
 5565|2|x-jat|Seishun Fuufu Monogatari: Koiko no Mainichi
 12973|1|x-jat|Seishun Midnight Runners: Shiosai
 12758|1|x-jat|Seiso de Majime na Kanojo ga, Saikyou Yaricir ni Kanyuu Saretara...? The Animation
@@ -48702,6 +48711,8 @@
 798|2|en|Song of Wind and Trees
 14372|1|x-zht|Songdai Zuqiu Xiaojiang
 1640|4|pt-BR|Sonhos Molhados
+5985|4|pt|Sonhos Molhados (Parte 1)
+6209|4|pt|Sonhos Molhados (Parte 2)
 10134|4|en|Soni-Ani: Super Sonico the Animation
 10134|4|es-419|Soni-Ani: Súper Sónico The Animation
 10134|2|x-jat|SoniAni
@@ -52236,6 +52247,7 @@
 18764|2|en|The Demon Hunter Special
 18764|4|en|The Demon Hunter: Dongning Mansion Special
 19154|2|en|The Demon King Who Lost His Job
+19398|2|en|The Demon King`s Daughter Is Too Kind!!
 18119|4|en|The Demon Prince of Momochi House
 16921|4|en|The Demon Sword Master of Excalibur Academy
 14860|2|en|The Demonic King Who Chases His Wife
@@ -53924,6 +53936,7 @@
 17480|4|es-419|Tierra, sangre, conocimiento: Sobre el movimiento de la Tierra
 17480|4|es|Tierra, sangre, conocimiento: Sobre el movimiento de la Tierra
 558|4|vi|Tiểu Thần Zenki
+18781|4|vi|Tiểu Thư Rách Rưới Được Chồng Cũ Của Chị Gái Yêu Thương
 5062|4|de|Tiffel & Taffel
 8101|1|x-jat|Tiger & Bunny
 8101|4|ja|TIGER & BUNNY
@@ -67498,6 +67511,7 @@
 4264|4|th|คิบะ ศึกอภินิหารข้ามภพ
 2605|4|th|คุณครูจอมเวท เนกิมะ!
 4565|4|th|คุณครูจอมเวท เนกิมะ!?
+18781|4|th|คุณหนูตัวสำรองมีท่านเคานท์มาคลั่งรัก
 17914|4|th|คุณอาเรียโต๊ะข้างๆ พูดรัสเซียหวานใส่ซะหัวใจจะวาย
 1099|4|th|คุโรมาตี้ โรงเรียนคนบวม
 5056|4|th|คู กัปปะน้อยเพื่อนรัก
@@ -86301,6 +86315,7 @@
 3429|2|ja|拳闘士 第1巻
 11216|4|zh-Hant|拳願阿修羅
 17274|4|zh-Hant|拳願阿修羅 第二季
+19399|4|ja|拷問バイトくんの日常
 14063|4|zh-Hans|拾又之国
 15786|4|zh-Hans|拾忆长安·明月几时有
 15786|2|zh-Hant|拾忆长安·明月几时有 第一季
@@ -94740,6 +94755,7 @@
 16057|4|ja|魔王イブロギアに身を捧げよ
 731|4|ja|魔王ダンテ
 17686|4|ja|魔王の俺が奴隷エルフを嫁にしたんだが, どう愛でればいい?
+19398|4|ja|魔王の娘は優しすぎる!!
 731|4|zh-Hans|魔王但丁
 18427|2|zh-Hans|魔王军最强的魔术师是人类
 9287|4|zh-Hans|魔王勇者
