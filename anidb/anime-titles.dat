@@ -1,4 +1,4 @@
-# created: Sat Jun 21 03:00:02 2025
+# created: Sun Jun 22 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -16521,6 +16521,7 @@
 15929|4|ja|from North Field
 12005|2|en|From now, I`m......
 18793|4|en|From Old Country Bumpkin to Master Swordsman
+19400|2|en|From Old Country Bumpkin to Master Swordsman (2026)
 1383|4|en|From the Apennines to the Andes
 4751|4|en|From the Apennines to the Andes: The Movie
 9002|4|en|From the New World
@@ -20368,9 +20369,12 @@
 129|2|x-jat|Hajime no Ippo
 982|1|x-jat|Hajime no Ippo: Champion Road
 129|1|x-jat|Hajime no Ippo: The Fighting!
+129|4|pt|Hajime no Ippo: The Fighting!
 1086|1|x-jat|Hajime no Ippo: The Fighting! - Kimura Tatsuya vs Mashiba Ryo
 6153|1|x-jat|Hajime no Ippo: The Fighting! - New Challenger
+6153|4|pt|Hajime no Ippo: The Fighting! - New Challenger
 9982|1|x-jat|Hajime no Ippo: The Fighting! - Rising
+9982|4|pt|Hajime no Ippo: The Fighting! - Rising!
 7346|1|x-jat|Hajimete no Christmas
 14331|1|x-jat|Hajimete no Eigo: Nippon Mukashibanashi
 14330|1|x-jat|Hajimete no Eigo: Sekai Meisaku Douwa
@@ -26397,6 +26401,7 @@
 13420|2|x-jat|Katainaka ni Totsuide Kita **ssia Musume to H Shimakuru Ohanashi
 13420|1|x-jat|Katainaka ni Totsuide Kita **ssiya Musume to H Shimakuru Ohanashi
 18793|1|x-jat|Katainaka no Ossan, Kensei ni Naru
+19400|1|x-jat|Katainaka no Ossan, Kensei ni Naru (2026)
 6987|1|x-jat|Kataku: Nou "Motometsuka" yori
 13172|4|en|Katana Maidens
 13172|4|fr|Katana Maidens
@@ -89321,6 +89326,7 @@
 13420|4|ja|片田舎に嫁いできた○シア娘とHしまくるお話
 13420|2|ja|片田舎に嫁いできたロシア娘とHしまくるお話
 18793|4|ja|片田舎のおっさん, 剣聖になる
+19400|4|ja|片田舎のおっさん, 剣聖になる (2026)
 9182|4|ja|片翼のクロノスギア
 4264|2|zh-Hans|牙
 4264|4|zh-Hans|牙 -KIBA-
