@@ -1,4 +1,4 @@
-# created: Sun Jun 22 03:00:01 2025
+# created: Mon Jun 23 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -13512,6 +13512,7 @@
 1826|1|x-jat|Dragon Slayer Eiyuu Densetsu: Ouji no Tabidachi
 1826|4|pt-BR|Dragon Slayer: A Lenda de um Herói
 1826|2|en|Dragon Slayer: The Legend of Heroes
+2311|4|pt|Dragon Space
 18932|4|en|Dragon Star Lord
 2091|4|en|Dragon Warrior
 15142|1|x-jat|Dragon, Ie o Kau.
@@ -25744,6 +25745,7 @@
 15207|3|x-jat|Kaguya-sama wa Kokurasetai 2
 15806|2|x-jat|Kaguya-sama wa Kokurasetai 3
 17477|1|x-jat|Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai
+19402|1|x-jat|Kaguya-sama wa Kokurasetai: Otona e no Kaidan
 14111|1|x-jat|Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren`ai Zunousen
 15807|2|x-jat|Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA
 15806|1|x-jat|Kaguya-sama wa Kokurasetai: Ultra Romantic
@@ -41793,6 +41795,7 @@
 3401|4|cs|Polibek v temnotách
 2730|2|en|Police Girl Yayoi
 16503|4|en|Police in a Pod
+13529|4|es-419|Policía de Redes Sociales
 897|4|pl|Policja pancerna Dominium
 2048|2|fr|Pollen
 2227|4|it|Pollicina
@@ -43335,11 +43338,11 @@
 405|1|x-jat|Ranma 1/2 (1993)
 18700|1|x-jat|Ranma 1/2 (2024)
 18700|2|pt|Ranma 1/2 (2024)
+19067|1|x-jat|Ranma 1/2 (2025)
 193|4|pt|Ranma 1/2 (Continuação)
 193|4|fr|Ranma 1/2 (suite)
 4576|4|de|Ranma 1/2 (Teil 1)
 193|4|de|Ranma 1/2 (Teil 2)
-19067|1|x-jat|Ranma 1/2 2
 367|2|x-jat|Ranma 1/2 Movie 1
 368|2|x-jat|Ranma 1/2 Movie 2
 2850|2|en|Ranma 1/2 Movie 3
@@ -51771,6 +51774,7 @@
 14382|2|x-jat|Terra Formars: Earth Hen
 11493|1|x-jat|Terra Formars: Revenge
 14382|1|x-jat|Terra Formars: Revenge OAD
+19401|1|x-jat|Terra Live
 1133|1|x-jat|Terra Story
 10439|4|en|Terraformars
 10439|4|fr|TERRAFORMARS
@@ -55556,6 +55560,7 @@
 6005|2|ko|TYTANIA -타이타니아-
 2230|4|el|Tάρο, ο Γιος της Δράκαινας
 2760|4|el|Tο Σούπερ Παιδί
+19401|4|en|U Takes Terra
 1609|1|x-jat|U-Jin Brand
 2481|3|x-jat|U-K
 1016|3|x-jat|u31
@@ -73071,6 +73076,7 @@
 9515|4|ja|かぐや姫の物語
 17477|4|ja|かぐや様は告らせたい -ファーストキッスは終わらない-
 14111|4|ja|かぐや様は告らせたい ~天才たちの恋愛頭脳戦~
+19402|4|ja|かぐや様は告らせたい 大人への階段
 15806|4|ja|かぐや様は告らせたい-ウルトラロマンティック-
 15207|4|ja|かぐや様は告らせたい? ~天才たちの恋愛頭脳戦~
 15807|4|ja|かぐや様は告らせたい? ~天才たちの恋愛頭脳戦~ (2021)
@@ -79215,6 +79221,7 @@
 4576|4|ja|らんま1/2
 405|4|ja|らんま1/2 (1993)
 18700|4|ja|らんま1/2 (2024)
+19067|4|ja|らんま1/2 (2025)
 2995|2|ja|らんま1/2 SPECIAL よみがえる記憶
 2996|4|ja|らんま1/2 SUPER
 2995|4|ja|らんま1/2 スペシャル
@@ -79222,7 +79229,6 @@
 368|4|ja|らんま1/2 決戦桃幻郷! 花嫁を奪りもどせ!!
 6393|4|ja|らんま1/2 熱闘歌合戦
 193|4|ja|らんま1/2 熱闘編
-19067|4|ja|らんま1/2 第2期
 2850|4|ja|らんま1/2 超無差別決戦! 乱馬チームVS伝説の鳳凰
 18201|2|ja|リ・モンスター
 16920|4|ja|リーマンズクラブ
