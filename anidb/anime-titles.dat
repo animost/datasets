@@ -1,4 +1,4 @@
-# created: Mon Jun 23 03:00:02 2025
+# created: Tue Jun 24 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -10458,6 +10458,7 @@
 1917|4|it|Danguard
 1917|4|en|Danguard Ace
 17565|1|x-jat|Danjo no Yuujou wa Seiritsu Suru? (Iya, Shinai!!)
+17565|3|x-jat|danjoru
 7196|2|en|Dankichi on a Tropical Island
 6711|1|x-jat|Dankichi-jima no Olympic Taikai
 10894|3|x-jat|danmachi
@@ -75476,6 +75477,7 @@
 11804|4|ja|ダンガンロンパ3 -The End of 希望ヶ峰学園- 未来編
 12035|4|ja|ダンガンロンパ3 -The End of 希望ヶ峰学園- 絶望編
 1692|2|ja|ダンクーガ
+17565|3|ja|だんじょる
 10894|4|ja|ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH
 13829|4|ja|ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH II
 15111|4|ja|ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH III
