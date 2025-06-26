@@ -1,4 +1,4 @@
-# created: Tue Jun 24 03:00:02 2025
+# created: Wed Jun 25 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -48919,6 +48919,7 @@
 7560|1|x-jat|Sore Ike! Anpanman: Yuureisen o Yattsukero!!
 12083|1|x-jat|Sore Ike! Sabuibo Mask
 1700|1|x-jat|Sore Ike! Zukkoke Sanningumi
+19403|1|x-jat|Sore o Ai to Yobu Dake
 17891|1|x-jat|Sore Shikanai Wakenai Deshou
 2841|1|x-jat|Sore Yuke! Gedou Otometai
 338|1|x-jat|Sore Yuke! Uchuu Senkan Yamamoto Youko
@@ -53918,6 +53919,7 @@
 19128|1|x-zht|Tianming Da Zhuzai
 15844|1|x-zht|Tiantian Chengzhang Ji
 15845|1|x-zht|Tiantian Chengzhang Ji 2
+19404|1|x-zht|Tiantian Chengzhang Ji 3
 18692|1|x-zht|Tianting Ban Zhuan Xia
 18692|2|en|Tianting Brick Warrior
 13523|1|x-zht|Tianxin Gege
@@ -75310,6 +75312,7 @@
 338|4|ja|それゆけ! 宇宙戦艦ヤマモト・ヨーコ
 339|4|ja|それゆけ! 宇宙戦艦ヤマモト・ヨーコII
 995|4|ja|それゆけまりんちゃん
+19403|4|ja|それを愛と呼ぶだけ
 7569|3|ja|それ町
 12768|4|ja|そわそわカレンダー
 17806|4|ja|ゾン100~ゾンビになるまでにしたい100のこと~
@@ -83595,6 +83598,7 @@
 6384|2|zh-Hans|天堂餐馆
 4413|4|ja|天外魔境 自来也おぼろ変
 15844|4|zh-Hans|天天成长记
+19404|4|zh-Hant|天天成长记 第三季
 15845|4|zh-Hans|天天成长记Ⅱ
 15648|4|ja|天官賜福
 18218|4|ja|天官賜福 貮
