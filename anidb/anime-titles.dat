@@ -1,4 +1,4 @@
-# created: Wed Jun 25 03:00:01 2025
+# created: Thu Jun 26 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -35968,7 +35968,9 @@
 13536|4|tr|MUZ BALIĞI
 15812|4|cs|Muž v domácnosti
 18639|4|ja|MUZIK TIGER In the Forest
+19405|4|ja|MUZIK TIGER In the Forest (2025)
 18639|1|x-jat|Muzik Tiger: In the Forest
+19405|1|x-jat|Muzik Tiger: In the Forest (2025)
 12231|1|x-jat|Muzumuzu Eighteen
 336|3|x-jat|mws
 13980|3|en|MWZ
