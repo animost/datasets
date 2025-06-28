@@ -1,4 +1,4 @@
-# created: Thu Jun 26 03:00:02 2025
+# created: Fri Jun 27 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5685,6 +5685,8 @@
 2318|1|x-jat|Bikkuriman: Daiichiji Seima Taisen
 7354|1|x-jat|Bikkuriman: Muen Zone no Hihou
 17966|1|x-jat|Bikkurimen
+19408|4|en|Biklonz
+19408|1|ko|Biklonz
 10079|1|x-jat|Bikyaku Seido Kaichou Ai
 4563|4|hr|Bilježnica smrti
 18776|1|x-jat|Binan Koukou Chikyuu Bouei Bu Eternal Love!
@@ -7374,6 +7376,7 @@
 9264|2|x-unk|Byeol byeol i-ya-gi 2 - Yeo-seot bat-kkal moo-ji-gae
 19118|1|x-kot|Byeoljubu Haelo
 5321|1|x-kot|Byeolnala Samchongsa
+19406|1|x-kot|Byeonsinjadongcha Ttobot
 5081|4|cs|Byl jednou jeden vesmír
 5222|4|cs|Byl jednou jeden život
 5081|4|pl|Był sobie kosmos
@@ -19567,6 +19570,7 @@
 444|2|en|Ground Defense Force! Mao-chan
 15844|2|en|Growing Up
 15845|2|en|Growing Up 2
+19404|4|en|Growing Up With Tiantian
 3345|4|ja|GROWLANSER IV Wayfarer of the time
 3345|1|x-jat|Growlanser IV: Wayfarer of the Time
 3345|2|en|Growlanser IV: Wayfarer of Time
@@ -25500,6 +25504,7 @@
 6073|3|x-jat|juro2
 10759|3|x-jat|juro3
 3456|2|x-jat|Jusenshi Gulkeeva
+19411|1|x-zht|Jushen Zhan Ji Dui: Guidao Xianfeng
 4157|2|en|Jushin Liger
 11514|1|x-jat|Just Awake
 11514|4|ja|Just Awake
@@ -26538,6 +26543,7 @@
 16101|4|vi|Kẻ Ngoại Lai Ở Học Viện Ma Vương Ⅱ : Ma Vương Mạnh Nhất Lịch Sử Tái Thế và Đi Học Cùng Các Hậu Duệ
 15131|4|vi|Kẻ Ngoại Lai Ở Học Viện Ma Vương: Ma Vương Mạnh Nhất Lịch Sử Tái Thế và Đi Học Cùng Các Hậu Duệ
 17583|4|vi|Kẻ sát nhân lãng mạn
+19054|4|id|Kedai Makan sang Buangan
 14621|1|x-jat|Kedama no Gonjirou
 11062|1|x-jat|Kedamono-tachi no Sumu Ie de
 1321|3|x-jat|keddd
@@ -27082,6 +27088,7 @@
 2219|1|x-jat|Kikansha Yaemon: D51 no Daibouken
 2219|2|x-jat|Kikanshaemon D51 no Dai Boken
 4300|1|x-jat|Kikanshasensei
+19413|1|x-jat|Kiken na Mori Onigokko
 286|4|lt|Kikės siuntų tarnyba
 286|3|en|kiki
 286|4|hu|Kiki - A boszorkányfutár
@@ -28299,6 +28306,7 @@
 7674|5|x-jat|Koreha Zombie Desuka?
 11377|1|x-jat|Korekarasaki, Nando Anata to.
 8420|1|x-jat|Korekurai de Utau
+19412|1|x-jat|Korette Naani?
 7674|3|x-jat|korezom
 8476|3|x-jat|korezom otd
 7674|3|x-jat|korezombie
@@ -33907,6 +33915,7 @@
 3312|4|en|Menage a Twins
 3312|4|es|Menage de gemelas
 209|2|pl|Menażeria horrorów
+19410|1|x-zht|Meng Bao Zhan Jing
 8228|1|x-zht|Meng Hui Jinsha Cheng
 16990|1|x-zht|Meng Li Ren
 14663|1|x-zht|Meng Qi Shi Shen
@@ -34433,6 +34442,7 @@
 17637|4|pt-BR|Minha História de Amor com Yamada-kun Nível 999
 17248|4|pt-BR|Minha Mana Apelona
 18538|4|pt-BR|Minha Querida Oni
+19409|1|x-kot|Mini Force
 186|3|en|mini goddess
 11728|1|x-jat|Mini Hama: Minimum-Hamatora
 17761|1|x-jat|Mini Mini Pokke no Ooki na Niwa de
@@ -34453,6 +34463,7 @@
 10450|1|x-jat|Mini-Hamz no Ai no Uta
 7443|2|en|Mini-skirt Space Pirates
 1890|4|fr|Minifée
+19409|4|en|Miniforce
 11089|1|x-jat|Minikui Ahiru no Ko
 770|1|x-jat|MiniPato
 770|4|en|MiniPato
@@ -35390,6 +35401,7 @@
 17980|1|zh|Monty The Magic Monkey
 1551|3|en|moo
 3659|2|x-jat|Moo no Hakugei
+19410|4|en|Mooboo Cops
 11800|1|x-jat|Moom
 1009|4|en|Moomin
 1007|2|x-jat|Moomin
@@ -37347,6 +37359,7 @@
 1364|4|ja|NG騎士ラムネ&40
 1366|4|ja|NG騎士ラムネ&40DX ワクワク時空 炎の大捜査戦
 1365|4|ja|NG騎士ラムネ&40EX ビクビクトライアングル愛の嵐大作戦
+19054|4|vi|Nhà Ăn Của Kẻ Bị Ruồng Bỏ!
 17870|4|vi|Nhật ký bào chế thuốc
 3464|2|vi|Nhật ký của Tortov Roddle
 1327|2|x-unk|Nhật ký Midori
@@ -38342,6 +38355,7 @@
 14646|4|pt|O Líder: Karl Marx
 3672|4|pt|O Livro de Thumbelina
 3081|4|pt|O Livro Incrível
+469|4|pt|O Lugar que nos Prometemos
 18427|2|pt|O Mago Mais Forte do Exército do Lorde Demónio era um Humano
 14512|4|en|O Maidens in Your Savage Season
 1044|4|es-GA|O máis forte do mundo
@@ -39854,6 +39868,7 @@
 13769|2|en|OVA Complete Slut See their true colors Russian Step-Mother and Step-Sisters All you can have Sex
 18756|1|x-jat|OVA Incha Couple ga You Gal-tachi to Sex Training Suru Hanashi
 13769|1|x-jat|OVA Muttsuri Do Sukebe Ro Gibo Shimai no Honshitsu Minuite Sex Zanmai
+19414|1|x-jat|OVA Pure Pure Pero Pero Princess
 11268|1|x-jat|OVA Tokyo Ghoul
 19313|1|x-jat|OVA Tonari Kanojo
 11271|1|x-jat|OVA Tsunpuri
@@ -39871,6 +39886,7 @@
 18049|2|ja|OVA ツンデロシリーズ
 11271|4|ja|OVA ツンプリ
 19313|4|ja|OVA トナリノカノジョ
+19414|4|ja|OVA ピュアピュア ぺろぺろ プリンセス
 13769|4|ja|OVA むっつりドスケベ露義母姉妹の本質見抜いてセックス三昧
 19312|4|ja|OVA ヨゴレタカノジョ
 6285|2|zh-Hans|OVA 传颂之物
@@ -54260,6 +54276,9 @@
 2251|2|x-jat|Tobira wo Akete
 17485|1|x-jat|Tobiuo no Bouya wa Byouki Desu
 1352|2|en|Tobor the Eighth Man
+19406|4|en|Tobot
+19407|1|x-kot|Tobot V
+19407|4|en|Tobot: Galaxy Detectives
 4241|4|en|Today in Class 5-2
 6054|4|en|Today in Class 5-2 (2008)
 7120|2|en|Today in Class 5-2 (2009)
@@ -67876,6 +67895,7 @@
 17942|4|th|ยากิโทริ: หน่วยทหารกล้าตาย
 370|4|th|ยามาดะ ครอบครัวนี้ไม่ธรรมดา
 7622|4|th|ยายตัวร้ายกับนายมาโซ!
+19054|4|th|ยินดีต้อนรับ! สู่ร้านอาหารผู้ถูกขับไล่
 2826|4|th|ยูเรก้า เซเว่น
 5303|4|th|โยบิ เทพธิดาจิ้งจอก 5 หาง
 146|4|th|ร็อกแมน EXE
@@ -74204,6 +74224,7 @@
 8420|4|ja|これくらいで歌う
 7674|3|ja|これゾン
 8476|3|ja|これゾンOTD
+19412|4|ja|これってナ～ニ?
 7674|4|ja|これはゾンビですか?
 8476|4|ja|これはゾンビですか? OF THE DEAD
 9241|4|ja|これはゾンビですか? OF THE DEAD はい, アンコールありがとうございます
@@ -82204,6 +82225,7 @@
 8249|4|ja|印ストール
 16665|4|ja|印西あるある物語
 13579|4|zh-Hant|印順導師傳
+19413|4|ja|危険な森 鬼ごっこ
 10395|4|zh-Hans|即使如此世界依然美麗
 15975|2|zh-Hans|即使如此依旧步步紧逼
 15975|4|zh-Hant|即使如此依舊步步進逼
@@ -83600,7 +83622,7 @@
 6384|2|zh-Hans|天堂餐馆
 4413|4|ja|天外魔境 自来也おぼろ変
 15844|4|zh-Hans|天天成长记
-19404|4|zh-Hant|天天成长记 第三季
+19404|4|zh-Hans|天天成长记 第三季
 15845|4|zh-Hans|天天成长记Ⅱ
 15648|4|ja|天官賜福
 18218|4|ja|天官賜福 貮
