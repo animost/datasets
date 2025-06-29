@@ -1,4 +1,4 @@
-# created: Fri Jun 27 03:00:02 2025
+# created: Sat Jun 28 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -16101,7 +16101,7 @@
 3041|2|en|Fist of the North Star - The Legend of Toki
 3040|2|en|Fist of the North Star - The Legend of Yuria
 211|4|en|Fist of the North Star (1986)
-18190|2|en|Fist of the North Star (New Anime)
+18190|2|en|Fist of the North Star (2026)
 3038|4|de|Fist of the North Star 1: Legend of Raoh - Death for Love
 3040|4|de|Fist of the North Star 2: Legend of Yuria
 5104|4|de|Fist of the North Star 3: Legend of Raoh - Fierce Fight
@@ -19150,6 +19150,7 @@
 11153|4|ja|GON-ゴン- (2015)
 4683|4|de|Gon, der Höhlenfratz
 7964|2|en|Gon, the Little Fox
+19416|1|x-jat|Gon, The Little Fox
 6209|2|en|Gonad the Barbarian
 11521|1|x-jat|Gondola
 11521|2|en|Gondola
@@ -19693,6 +19694,7 @@
 18689|4|ja|GUILTY GEAR STRIVE: DUAL RULERS
 18689|4|en|Guilty Gear Strive: Dual Rulers
 19357|1|x-zht|Guimi Zhi Zhu
+19357|2|x-zht|Guimi Zhi Zhu: Xiaochou Pian
 6331|1|x-jat|Guin Saga
 6331|4|en|Guin Saga
 1687|2|es|Guitalactica
@@ -22284,7 +22286,7 @@
 3040|4|fr|Hokuto no Ken - La légende de Julia
 3041|4|fr|Hokuto no Ken - La légende de Toki
 211|1|x-jat|Hokuto no Ken (1986)
-18190|1|x-jat|Hokuto no Ken (Shinsaku Anime)
+18190|1|x-jat|Hokuto no Ken (2026)
 3038|4|fr|Hokuto no Ken 1 - L`ère de Raoh
 984|2|x-jat|Hokuto no Ken 2
 5104|4|fr|Hokuto no Ken 2 - L`héritier du Hokuto
@@ -30736,6 +30738,7 @@
 3313|1|x-jat|Lolita Anime (Nikkatsu Video)
 5029|2|zh-Hans|Loli的时间
 4189|4|hu|Lolo kalandjai
+19357|3|en|LOM
 17219|4|en|Lonely Castle in the Mirror
 18432|4|en|Loner Life in Another World
 11201|1|x-jat|Long Riders!
@@ -30785,10 +30788,12 @@
 616|2|en|Lord of Lords Ryu Knight: Adeu`s Legend
 2687|2|en|Lord of Lords Ryu Knight: Adeu`s Legend Final
 1235|2|en|Lord of Lords Ryu Knight: Adeu`s Legend II
+19357|4|en|Lord of Mysteries
 17126|2|en|Lord of Planet
 18999|2|en|Lord of Planet 2
 18999|2|en|Lord of Planet 2nd Season
 1868|2|en|Lord of the Cave
+19357|2|en|Lord of the Mysteries
 14651|2|en|Lord of the Universe
 13958|2|x-jat|Lord of Vermilion - Guren no Ou
 11531|1|x-jat|Lord of Vermilion III Special Anime Movie
@@ -30865,6 +30870,7 @@
 12087|1|x-jat|Lostorage Incited Wixoss
 446|3|en|LotC: FF
 584|3|en|LotGH
+19357|3|en|LOTM
 8062|3|x-jat|lotte
 8062|2|x-jat|Lotte no Omocha!
 8560|3|x-jat|lotte ova
@@ -50963,6 +50969,7 @@
 8389|2|x-jat|Tako-chan
 19038|1|x-jat|Takopi no Genzai
 19038|4|en|Takopi`s Original Sin
+19038|2|x-jat|Takopii no Genzai
 3578|2|x-jat|Takoyaki Mant-Man
 3578|1|x-jat|Takoyaki Mantman
 3578|2|x-jat|Takoyaki Mantoman
@@ -54850,6 +54857,7 @@
 8783|1|x-jat|Towa no Kizuna
 8184|4|en|Towa no Quon
 8184|1|x-jat|Towa no Quon
+19415|1|x-jat|Towa no Yuugure
 4248|2|en|Toward a Time of Trouble
 1416|4|en|Toward the Terra
 5039|2|en|Toward the Terra (2007)
@@ -74251,6 +74259,7 @@
 12365|4|ja|コワレモノ:璃沙 PLUS THE ANIMATION
 11821|4|ja|コワレモノ:璃沙 THE ANIMATION
 1343|4|ja|こわれものII
+19416|4|ja|ごん
 8997|4|ja|ゴン
 7964|4|ja|ごんぎつね
 11343|4|ja|コンクリート・レボルティオ 超人幻想
@@ -82076,7 +82085,7 @@
 9243|4|ja|北へ. PURE SESSION
 17763|4|zh-Hant|北國奇遇記
 386|4|ja|北斗の拳
-18190|4|ja|北斗の拳  (新作アニメ)
+18190|4|ja|北斗の拳  (2026)
 211|4|ja|北斗の拳 (1986)
 9159|4|ja|北斗の拳 LEGEND of HEROES
 5802|4|ja|北斗の拳 ラオウ外伝 天の覇王
@@ -88508,6 +88517,7 @@
 9102|4|ja|氷菓 持つべきものは
 4585|2|zh-Hans|永不消失的彩虹
 8783|4|ja|永久のキズナ
+19415|4|ja|永久のユウグレ
 2777|4|ja|永久家族
 17262|4|ja|永久少年
 17262|4|zh-Hans|永久少年
@@ -92418,6 +92428,7 @@
 18577|4|zh-Hans|诛仙 第二季
 15835|4|zh|诡水疑云
 19357|4|zh-Hans|诡秘之主
+19357|2|zh-Hans|诡秘之主 小丑篇
 14376|4|zh-Hans|请吃红小豆吧!
 16782|4|zh-Hans|请吃红小豆吧! 第三季
 14657|4|zh-Hans|请吃红小豆吧! 第二季
