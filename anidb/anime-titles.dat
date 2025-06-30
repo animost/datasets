@@ -1,4 +1,4 @@
-# created: Sat Jun 28 03:00:02 2025
+# created: Sun Jun 29 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1081,7 +1081,6 @@
 18305|4|pt-BR|A Promessa do Golfe
 18305|4|pt|A Promessa do Golfe
 4953|4|pt|A Rã Valente
-18852|1|x-jat|A Rank Party o Ridatsu Shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu o Mezasu.
 15662|4|pt|A Rapariga na Biblioteca ~Até a Mais Pura Cai~ A ANIMAÇÃO
 15662|2|pt|A Rapariga na Biblioteca: A ANIMAÇÃO
 15662|2|pt|A Rapariga na Biblioteca: Até o Puro Eu Cai em Desgraça
@@ -1203,6 +1202,8 @@
 7685|1|x-jat|A-Ko The Versus
 7685|4|ja|A-Ko The VS[ヴァーサス]
 1719|2|x-jat|A-LI-CE
+18852|1|x-jat|A-Rank Party o Ridatsu Shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu o Mezasu.
+19417|1|x-jat|A-Rank Party o Ridatsu Shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu o Mezasu. 2
 16667|1|x-zht|A-Shuai
 16669|1|x-zht|A-Shuai Di 3 Ji
 16670|1|x-zht|A-Shuai Di 4 Ji
@@ -4204,6 +4205,7 @@
 8107|4|ja|Aチャンネル THE ANIMATION
 8597|4|ja|Aチャンネル+smile
 18852|4|ja|Aランクパーティを離脱した俺は, 元教え子たちと迷宮深部を目指す.
+19417|4|ja|Aランクパーティを離脱した俺は, 元教え子たちと迷宮深部を目指す. 2
 8107|4|zh-Hans|A频道
 8597|4|zh-Hans|A频道+smile
 11950|2|fr|B : Le commencement
@@ -23160,6 +23162,7 @@
 10594|2|en|I Have Been Treated Nicely
 10387|2|en|I just can`t stand not getting between them! ~I made a wish to the stars and they got this big!~
 18852|4|en|I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!
+19417|2|en|I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! 2
 2536|2|en|I like what I like, so it can`t be helped
 2536|2|en|I like what I like, so there!
 3171|4|vi|I Love Bubu Chacha
@@ -26270,7 +26273,7 @@
 17555|1|x-zht|Kao Ni La! Zhanshen Xitong
 1088|1|x-jat|Kao no Nai Tsuki
 18867|1|x-jat|Kaoru Hana wa Rin to Saku
-18867|4|pl|Kaoru i Rin. Rozkwitając z tobą
+18867|4|pl|Kaoru i Rin: Rozkwitając z tobą
 16930|1|x-jat|Kaoru no Taisetsu na Mono
 1088|2|x-jat|Kaotsuki
 516|2|ja|Kapital des Kiikens
@@ -27229,6 +27232,7 @@
 16258|2|x-jat|Kimetsu no Yaiba: Chuugou Kaigi - Chouyashiki Hen
 15113|4|es|Kimetsu no Yaiba: Guardianes de la Noche - Tren infinito
 18067|1|x-jat|Kimetsu no Yaiba: Hashira Geiko Hen
+19418|1|x-jat|Kimetsu no Yaiba: Hashira Geiko Hen - Tokubetsu Henshuu Ban
 16258|1|x-jat|Kimetsu no Yaiba: Hashira Gou Kaigi - Chouyashiki Hen
 18922|1|x-jat|Kimetsu no Yaiba: Jougen Shuuketsu, Soshite Katanakaji no Sato
 17198|1|x-jat|Kimetsu no Yaiba: Katanakaji no Sato Hen
@@ -37892,6 +37896,7 @@
 9882|1|x-jat|Nobunagun
 613|2|es|Noches de acero
 573|4|es|Noches de Luna
+1279|2|pl|Nocna panterra
 13129|2|en|Nocturn
 18418|4|ja|NocturnaL
 18418|1|x-jat|Nocturnal
@@ -39415,6 +39420,7 @@
 2884|2|pl|Ordy
 2884|4|pl|Ordy - Komputerowy Skrzat
 2884|4|fr|Ordy - Les grandes découvertes
+18939|2|en|Ore Aku
 15557|1|x-jat|Ore dake Haireru Kakushi Dungeon
 15557|2|x-jat|Ore Dake Haireru Kakushi Dungeon: Kossori Kitaete Sekai Saikyou
 17495|1|x-jat|Ore dake Level Up na Ken
@@ -55460,6 +55466,7 @@
 11788|1|x-jat|Turnover
 4932|2|lt|Tuštumos Riba: Nusidėjėlių Sodas
 4747|4|it|Tutor Hitman Reborn!
+18242|2|en|Tutor of the His Imperial Highness Princess
 5143|4|de|Tutorial Lessons
 18419|2|fr|Tutrices privées sous hypnose (II) – Manipulées par l’hypnose, de méprisables sœurs deviennent obéissantes & des chiennes de haute volée
 3075|4|it|Tutti in campo con Lotti
@@ -94392,6 +94399,7 @@
 18529|4|ja|鬼滅の刃 刀鍛冶の里編 特別編集版
 16258|4|ja|鬼滅の刃 柱合会議・蝶屋敷編
 18067|4|ja|鬼滅の刃 柱稽古編
+19418|4|ja|鬼滅の刃 柱稽古編 特別編集版
 17069|4|ja|鬼滅の刃 浅草編
 16803|4|ja|鬼滅の刃 無限列車編
 17976|2|ja|鬼滅の刃 遊郭決戦編
