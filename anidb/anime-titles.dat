@@ -1,4 +1,4 @@
-# created: Sun Jun 29 03:00:02 2025
+# created: Mon Jun 30 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8808,6 +8808,7 @@
 3376|2|de|Chuck, der Biber (2. Staffel)
 3369|4|de|Chuck, der schlaue Biber
 3376|4|de|Chuck, der schlaue Biber (2. Staffel)
+19163|4|en|Chuhai Lips: Canned Flavor of Married Women
 14954|1|x-zht|Chui Zhi Shi Jie
 13278|1|x-kot|Chuldong! Super Wings
 2515|2|lt|Chuliganas - Septynių Šventųjų Vibratorių Paieška
@@ -14686,7 +14687,7 @@
 2394|1|x-jat|End of the World
 2394|4|ja|End of the world
 2401|2|en|End-of-the-Century Darling
-18851|2|en|Endless God Realm
+18851|4|en|Endless God Realm
 18851|2|en|Endless Heaven Realm
 1048|4|en|Endless Serenade
 1048|1|x-jat|Endless Serenade
@@ -21797,6 +21798,7 @@
 15332|4|en|Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway
 15332|4|id|Higehiro: Kucukur Janggut, Siswi SMA Kupungut
 17688|1|x-jat|Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
+19420|1|x-jat|Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. 2
 10379|1|x-jat|Higenashi Gogejabaru
 6479|1|x-jat|Higepiyo
 6479|2|lt|Higepiyo - Ūsuotas Viščiukas
@@ -29732,6 +29734,7 @@
 7374|4|ja|Last Waltz~白濁まみれの夏合宿~
 6427|2|en|Last War of Heavenloids and Akutoloids
 17688|3|x-jat|Lastame
+19420|3|x-jat|lastame 2
 581|4|ja|LASTEXILE
 581|2|x-jat|LastEXILE
 8260|2|en|LASTEXILE -Fam, The Silver Wing-
@@ -31568,6 +31571,7 @@
 986|4|de|Lupin the 3rd: Voyage To Danger
 19020|4|ja|LUPIN THE IIIRD THE MOVIE 不死身の血族
 19020|1|x-jat|Lupin the IIIrd the Movie: Fujimi no Ketsuzoku
+19020|2|en|Lupin the IIIrd the Movie: The Immortal Bloodline
 14616|4|ja|LUPIN THE IIIRD 峰不二子の嘘
 10535|4|ja|LUPIN THE IIIRD 次元大介の墓標
 12398|4|ja|LUPIN THE IIIRD 血煙の石川五ェ門
@@ -43613,6 +43617,7 @@
 11370|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu Shin Henshuuban
 13430|3|x-jat|re:zero ova
 17947|2|en|Re:Zero Season 3
+17947|4|ru|Re:Zero. Жизнь с нуля в альтернативном мире 3
 1662|4|ja|Re:キューティーハニー
 14192|4|ja|Re:ステージ! ドリームデイズ♪
 11370|4|ja|Re:ゼロから始める異世界生活
@@ -53015,6 +53020,7 @@
 11924|4|en|The Morose Mononokean
 14177|4|en|The Morose Mononokean II
 17688|4|en|The Most Heretical Last Boss Queen: From Villainess to Savior
+19420|2|en|The Most Heretical Last Boss Queen: From Villainess to Savior 2
 18592|4|en|The Most Notorious "Talker" Runs the World`s Greatest Clan
 16987|2|en|The Most Proud of the World
 6830|4|en|The Mountain Where Old Women Are Abandoned
@@ -53951,6 +53957,7 @@
 15844|1|x-zht|Tiantian Chengzhang Ji
 15845|1|x-zht|Tiantian Chengzhang Ji 2
 19404|1|x-zht|Tiantian Chengzhang Ji 3
+19421|1|x-zht|Tiantian Chengzhang Ji 4
 18692|1|x-zht|Tianting Ban Zhuan Xia
 18692|2|en|Tianting Brick Warrior
 13523|1|x-zht|Tianxin Gege
@@ -55159,6 +55166,7 @@
 6397|2|en|True Mazinger Impact! Z Chapter
 6397|2|en|True Mazinger Impact! Z Chapter on television
 15842|1|x-jat|True North
+18978|2|en|True School Ghosts
 9914|2|en|True Secret Hot Spring Tour
 1720|3|x-jat|true stories
 4325|1|x-jat|True Tears
@@ -55891,6 +55899,7 @@
 13034|2|x-jat|Uma Musume - Pretty Derby
 13034|2|x-jat|Uma Musume Pretty Derby
 18829|1|x-jat|Uma Musume: Cinderella Gray
+19419|1|x-jat|Uma Musume: Cinderella Gray (2025)
 13034|1|x-jat|Uma Musume: Pretty Derby
 17212|2|en|Uma Musume: Pretty Derby - 1st Anniversary Special Animation
 17351|1|x-jat|Uma Musume: Pretty Derby - Road to the Top
@@ -55904,6 +55913,7 @@
 10937|4|pt|Uma Voz Silenciosa
 3682|1|x-jat|Umacha
 18829|4|en|Umamusume: Cinderella Gray
+19419|2|en|Umamusume: Cinderella Gray (2025)
 13034|4|en|Umamusume: Pretty Derby
 18359|2|en|Umamusume: Pretty Derby - Beginning of a New Era
 15739|4|en|Umamusume: Pretty Derby Season 2
@@ -61193,6 +61203,7 @@
 17575|4|ru|Ведьма и зверь
 1891|2|ru|Ведьма Салли 2
 286|4|ru|Ведьмина служба доставки
+18816|4|ru|Ведьмнадзор
 7934|4|bg|Велзевул
 7736|4|bg|Велзевул ОВА
 16256|4|ru|Великая Джахи не сдаётся!
@@ -63796,6 +63807,7 @@
 3573|2|bg|Поглед към Полумесеца
 7238|2|bg|Под моста на Аракава
 7899|2|bg|Под моста на Аракава 2
+7899|4|ru|Под мостом над Аракавой 2
 14484|2|ru|Под одной крышей с Лилиан
 6556|2|ru|Подвиги Школьного совета
 6556|2|ru|Подвиги Школьного совета: Хроники академии Хэкиё
@@ -64207,6 +64219,7 @@
 3442|2|bg|Реална фантазия: Последна заповед
 13581|2|ru|Реальная девушка
 14165|2|ru|Реальная девушка 2
+18086|4|ru|Ребёнок идола 2
 13891|2|ru|Ревизия
 256|4|ru|Революционерка Утэна
 16038|4|ru|Революция Семи рыцарей: наследники Героев
@@ -64812,6 +64825,7 @@
 6644|2|uk|Темніше чорного: Близнюки метеора
 6048|2|ru|Тёмный Дворецкий
 7369|2|ru|Тёмный дворецкий 2
+18100|4|ru|Тёмный дворецкий: Школа-интернат
 961|2|ru|Тёмный мститель Дарксайд
 205|2|uk|Тенчі не потрібен!
 2509|2|uk|Тенчі не потрібен! 2
@@ -72419,6 +72433,7 @@
 19320|4|ja|うまゆる ぷりてぃ~ぐれい
 14537|4|ja|うまよん
 18829|4|ja|ウマ娘 シンデレラグレイ
+19419|4|ja|ウマ娘 シンデレラグレイ (2025)
 13034|4|ja|ウマ娘 プリティーダービー
 17212|4|ja|ウマ娘 プリティーダービー (2022)
 17351|4|ja|ウマ娘 プリティーダービー Road to the Top
@@ -79185,6 +79200,7 @@
 13779|2|ja|ラストピリオド -終わりなき螺旋の物語-
 13779|3|ja|ラスピリ
 17688|3|ja|ラス為
+19420|3|ja|ラス為2
 4932|3|ja|らっきょ
 13767|4|ja|ラディアン
 14701|4|ja|ラディアン (2019)
@@ -83639,6 +83655,7 @@
 4413|4|ja|天外魔境 自来也おぼろ変
 15844|4|zh-Hans|天天成长记
 19404|4|zh-Hans|天天成长记 第三季
+19421|4|zh-Hans|天天成长记 第四季
 15845|4|zh-Hans|天天成长记Ⅱ
 15648|4|ja|天官賜福
 18218|4|ja|天官賜福 貮
@@ -85799,6 +85816,7 @@
 7341|4|ja|悪魔島のプリンス 三つ目がとおる
 12589|4|ja|悲しきマングース
 17688|4|ja|悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします.
+19420|4|ja|悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします. 2
 18786|4|zh-Hans|悲喜渔生
 18786|4|zh-Hant|悲喜漁生
 4781|2|zh-Hans|悲惨世界 少女柯塞特
