@@ -1,4 +1,4 @@
-# created: Tue Jul  1 03:00:01 2025
+# created: Wed Jul  2 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4451,6 +4451,7 @@
 7740|1|x-jat|Baikinman tai Baikinman!?
 7748|1|x-jat|Baikinman to 3-bai Punch
 6773|4|es|Bailando con Vampiros
+6773|4|es-419|Bailando con Vampiros
 18804|1|x-zht|Baise Shandian
 15721|2|fr|Baiser les yeux fermés, d’un amour aveugle
 15137|2|fr|Baisers d’amour
@@ -8355,8 +8356,10 @@
 4893|2|en|Chibi Goddess Karin
 17889|1|x-jat|Chibi Godzilla no Gyakushuu
 18631|1|x-jat|Chibi Godzilla no Gyakushuu (2024)
+19427|1|x-jat|Chibi Godzilla no Gyakushuu (2025)
 18631|2|x-jat|Chibi Godzilla no Gyakushuu Season 2
 17889|4|en|Chibi Godzilla Raids Again
+19427|2|en|Chibi Godzilla Raids Again (2025)
 7420|1|x-jat|Chibi Kero: Kero Ball no Himitsu!?
 1841|4|de|Chibi Maruko Chan
 16023|2|en|Chibi Maruko Chan: The Fantastic Notebook
@@ -14510,6 +14513,8 @@
 5235|2|ro|Ele sunt stăpânele mele nobile
 9463|1|x-jat|Elec-king The Animation
 9463|2|ja|elec.king the Animation
+19425|4|ja|ELECEED
+19425|1|x-jat|Eleceed
 9463|2|x-jat|Elecking The Animation
 5328|2|en|Electric Full Flower Garden
 9598|2|en|Electric Man 337
@@ -35611,7 +35616,7 @@
 11347|4|en|Mr. Osomatsu
 12944|4|en|Mr. Osomatsu 2nd Season
 15627|4|en|Mr. Osomatsu 3rd Season
-18673|2|en|Mr. Osomatsu 4th Season
+18673|4|en|Mr. Osomatsu 4th Season
 12472|2|en|Mr. Osomatsu JRA Special 2016
 14293|4|en|Mr. Osomatsu the Movie
 7363|1|x-jat|Mr. Pen Pen
@@ -42784,7 +42789,7 @@
 2111|2|es|Punio de la estrella del sur
 18315|2|en|Puniru Is a Cute Slime
 18315|4|en|Puniru Is a Kawaii Slime
-19072|2|en|Puniru Is a Kawaii Slime (2025)
+19072|4|en|Puniru Is a Kawaii Slime (2025)
 18315|1|x-jat|Puniru wa Kawaii Slime
 19072|1|x-jat|Puniru wa Kawaii Slime (2025)
 17590|1|x-jat|Punirunes
@@ -43760,6 +43765,7 @@
 1345|2|en|Red Lotus
 1385|2|en|Red Photon Zillion
 1386|2|en|Red Photon Zillion: Burning Night
+18809|2|en|Red Ranger Isekai
 854|4|en|Red Riding Hood Chacha
 15564|1|x-kot|Red Shoes
 15564|2|en|Red Shoes And The Seven Dwarfs
@@ -43923,6 +43929,7 @@
 15299|4|en|Rent-a-Girlfriend
 15743|4|en|Rent-a-Girlfriend (2022)
 17629|4|en|Rent-a-Girlfriend (2023)
+18753|4|en|Rent-a-Girlfriend (2025)
 5189|3|x-jat|Rental
 5189|1|x-jat|Rental Magica
 5189|4|en|Rental Magica
@@ -53796,6 +53803,7 @@
 18402|4|en|Theatre of Darkness: Yamishibai 12
 18754|4|en|Theatre of Darkness: Yamishibai 13
 19086|4|en|Theatre of Darkness: Yamishibai 14
+19426|4|en|Theatre of Darkness: Yamishibai 15
 10717|4|en|Theatre of Darkness: Yamishibai 2
 11748|4|en|Theatre of Darkness: Yamishibai 3
 12575|4|en|Theatre of Darkness: Yamishibai 4
@@ -54802,6 +54810,7 @@
 3061|3|x-jat|Touch5
 8022|1|x-jat|Toufu Kozou
 18615|1|x-jat|Tougen Anki
+18615|4|en|Tougen Anki
 1870|4|fr|Tough
 11096|1|x-jat|Tough Guy!
 11096|4|ja|tough guy!
@@ -55784,7 +55793,7 @@
 2602|1|x-jat|UG*Ultimate Girls
 2602|4|ja|UG☆アルティメットガール
 335|3|x-jat|ugk
-18996|2|en|Uglymug, Epicfighter
+18996|4|en|Uglymug, Epicfighter
 17924|3|x-jat|UGMF
 515|2|lt|Ugninis Labirintas
 3095|4|it|Ugo il Re del Judo
@@ -58713,6 +58722,7 @@
 18402|1|x-jat|Yami Shibai 12
 18754|1|x-jat|Yami Shibai 13
 19086|1|x-jat|Yami Shibai 14
+19426|1|x-jat|Yami Shibai 15
 10717|1|x-jat|Yami Shibai 2
 11748|1|x-jat|Yami Shibai 3
 12575|1|x-jat|Yami Shibai 4
@@ -62729,6 +62739,7 @@
 15313|4|ru|Лав Лайв! Клуб айдолов академии Нидзигасаки
 15374|4|ru|Лав Лайв! Суперзвезда!!
 14412|4|ru|Лавка брони для леди и джентльменов
+18130|4|ru|Лазарь
 14396|2|ru|Лазурная гладь
 13973|2|ru|Лазурные огни
 14396|2|ru|Лазурный путь
@@ -64835,6 +64846,7 @@
 6644|2|uk|Темніше чорного: Близнюки метеора
 6048|2|ru|Тёмный Дворецкий
 7369|2|ru|Тёмный дворецкий 2
+18739|4|ru|Тёмный дворецкий: Зелёная ведьма
 18100|4|ru|Тёмный дворецкий: Школа-интернат
 961|2|ru|Тёмный мститель Дарксайд
 205|2|uk|Тенчі не потрібен!
@@ -70666,6 +70678,7 @@
 5749|4|ko|일기당천 그레이트 가디언스
 12832|2|ko|일년 만의
 19365|4|ko|일레나 에보이 관찰 일지
+19425|4|ko|일렉시드
 14454|4|ko|일반 공격이 전체 공격에 2회 공격인 엄마는 좋아하세요?
 12200|4|ko|일인지하 The Outcast
 13068|4|ko|일인지하 The Outcast 2
@@ -72633,6 +72646,7 @@
 1167|4|ja|エルフ版下級生 あなただけを見つめて...
 4272|4|ja|エルマーの冒険 MY FATHER`S DRAGON
 18412|3|ja|エル痩せ
+19425|2|ja|エレキシード
 9463|4|ja|エレキング the Animation
 2183|4|ja|エレメンタル ジェレイド
 6335|4|ja|エレメントハンター
@@ -75639,6 +75653,7 @@
 7420|4|ja|ちびケロ ケロボールの秘密!?
 17889|4|ja|ちびゴジラの逆襲
 18631|4|ja|ちびゴジラの逆襲 (2024)
+19427|4|ja|ちびゴジラの逆襲 (2025)
 17366|4|ja|ちびっこカウボーイ
 8641|4|ja|ちびっこカムのぼうけん
 5095|4|ja|ちびっこ怪獣ヤダモン
@@ -79243,7 +79258,6 @@
 2495|4|ja|ラブマシン アニマイド娼婦23号
 17071|4|ja|らぶみー 楓と鈴 THE ANIMATION
 17071|2|ja|らぶみー『楓と鈴』 THE ANIMATION
-17071|2|ja|らぶみーTHE ANIMATION
 9927|2|ja|ラブライブ! 2
 9271|4|ja|ラブライブ! School idol project
 9927|4|ja|ラブライブ! School idol project (2014)
@@ -92846,6 +92860,7 @@
 12934|2|ja|転生剣奴の子作り闘技場
 12934|2|ja|転生剣奴の子作り闘技場(ハーレムコロッセオ)
 12934|2|ja|転生剣奴の子作り闘技場（ハーレムコロッセオ）
+19323|4|ja|転生宗主の覇道譚 ～すべてを呑み込むサカナと這い上がる～
 18497|4|ja|転生悪女の黒歴史
 17569|4|ja|転生王女と天才令嬢の魔法革命
 18026|4|ja|転生貴族, 鑑定スキルで成り上がる
@@ -93670,6 +93685,7 @@
 18402|4|ja|闇芝居 12
 18754|4|ja|闇芝居 13
 19086|4|ja|闇芝居 14
+19426|4|ja|闇芝居 15
 10717|4|ja|闇芝居 2
 11748|4|ja|闇芝居 3
 12575|4|ja|闇芝居 4
