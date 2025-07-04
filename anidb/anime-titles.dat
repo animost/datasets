@@ -1,4 +1,4 @@
-# created: Wed Jul  2 03:00:01 2025
+# created: Thu Jul  3 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -15891,6 +15891,7 @@
 2367|2|en|Fifteen Boys Adrift
 9629|2|x-jat|Fifteen Children Space Adventure
 5163|1|x-jat|Fight Da!! Pyuta
+19147|2|en|Fight For The Throne
 6481|1|x-jat|Fight Ippatsu! Juuden-chan!!
 14498|1|x-jat|Fight League: Gear Gadget Generators
 14498|4|en|Fight League: Gear Gadget Generators
@@ -24897,6 +24898,7 @@
 5193|2|en|Jiburiru: The Devil Angel 2
 6781|2|en|Jiburiru: The Devil Angel 3
 18394|1|x-zht|Jidao Long Shen
+18204|2|x-jat|Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou S2
 17557|1|x-jat|Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou
 18204|1|x-jat|Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou 2nd Season
 12967|1|x-zht|Jie Mo Ren
@@ -28210,7 +28212,7 @@
 4911|1|x-jat|Kono Hoshi no Ue ni
 18770|1|x-jat|Kono Kaisha ni Suki na Hito ga Imasu
 16799|1|x-jat|Kono Kaisha... Nanika Okashii!
-18748|2|x-jat|Kono Koi de Hanaji wo Tomete
+19428|1|x-jat|Kono Koi de Hanaji wo Tomete (2025)
 18050|1|x-jat|Kono Koi ni Kizuite The Animation
 13368|1|x-jat|Kono Mayonnaise wa Yuru Sugiru
 1431|1|x-jat|Kono Minikuku mo Utsukushii Sekai
@@ -29501,6 +29503,7 @@
 515|2|pt-BR|Labirinto de Chamas
 713|2|lt|Labirinto Istorijos
 17564|4|cs|Labužníci v kobce
+19429|2|en|Labyrinth
 1879|2|en|Labyrinth in the Clouds Zeguy
 515|4|en|Labyrinth of Flames
 515|4|fr|Labyrinth of Flames
@@ -30501,6 +30504,7 @@
 12656|1|x-zht|Ling Qi
 13503|2|x-zht|Ling Qi 2
 13503|1|x-zht|Ling Qi: Huangquan Zhi Qi
+19430|1|x-zht|Ling Tian Du Zun
 18850|1|x-zht|Ling Wu Dalu
 14816|1|x-zht|Ling Xie Ji
 13787|1|en|Ling Yu
@@ -33732,6 +33736,7 @@
 12461|2|x-jat|Meikoi
 12724|1|x-jat|Meikoku Gakuen Jutai Hen
 15619|1|x-jat|Meikyuu Black Company
+19429|1|x-jat|Meikyuu no Shiori
 734|2|lt|Meilės Bangos
 1675|2|lt|Meilės vėjas
 3048|1|x-jat|Meimon! Daisan Yakyuubu
@@ -39223,7 +39228,7 @@
 2512|3|x-jat|onmyou
 16017|2|ja|Onmyou Hyakki Monogatari
 16017|2|x-jat|Onmyou Hyakki Monogatari
-19200|1|x-jat|Onmyou Kaiten Re:verse
+19200|1|x-jat|Onmyou Kaiten Re:Verse
 2512|1|x-jat|Onmyou Taisenki
 7065|4|de|Onmyouji
 17641|1|x-jat|Onmyouji
@@ -44195,6 +44200,7 @@
 4569|4|en|Ringetsu The Animation
 3551|4|en|Ringing Bell
 18697|4|en|Ringing Fate
+18697|4|ja|RINGING FATE
 16809|1|x-jat|Ringo to Shoujo
 3500|2|en|Rink of Glory
 17948|1|x-jat|Rinkai!
@@ -55718,7 +55724,7 @@
 7231|1|x-jat|Uchuu Show e Youkoso
 3124|1|x-jat|Uchuu Taitei God Sigma
 13257|2|x-jat|Uchuu yori mo Tooi Basho
-19018|1|x-jat|Uchuujin Mumu
+19018|1|x-jat|Uchuujin Muumuu
 5073|1|x-jat|Uchuujin Pipi
 4623|1|x-jat|Uchuujin Tanaka Tarou
 1833|1|x-jat|Uchuusen Sagittarius
@@ -60875,6 +60881,7 @@
 13241|4|ru|Атака титанов 3 сезон
 14444|4|ru|Атака титанов 3 сезон (2019)
 14977|4|ru|Атака титанов: Последний сезон
+17305|4|bg|Ателие за островърхи шапки
 17920|4|ru|Ателье Райзы: Царица вечной тьмы и тайное убежище
 12148|2|ru|Атом: Начало
 2656|2|bg|Афро Самурай
@@ -74203,7 +74210,7 @@
 8830|4|ja|この中に1人, 妹がいる!
 16799|4|ja|この会社... なにかおかしい!
 18770|4|ja|この会社に好きな人がいます
-18748|4|ja|この恋で鼻血を止めて
+19428|4|ja|この恋で鼻血を止めて
 18050|4|ja|この恋に気づいて THE ANIMATION
 4911|4|ja|この星の上に
 19368|4|ja|この本を盗む者は
@@ -81449,6 +81456,7 @@
 6367|4|zh-Hans|凉宫春日的忧郁 (2009)
 7221|4|zh-Hans|凉宫春日的消失
 3203|2|zh-Hans|凉风
+19430|4|zh-Hans|凌天独尊
 9697|4|ja|凌成敗! ~学園美少女制裁秘録~
 5725|4|ja|凌辱ゲリラ狩り3
 1944|4|ja|凌辱の連鎖
@@ -92989,6 +92997,7 @@
 14291|2|x-unk|迷宫标记者
 2052|2|zh-Hans|迷宫的十字路口
 17564|4|zh-Hans|迷宫饭
+19429|4|ja|迷宮のしおり
 15619|4|ja|迷宮ブラックカンパニー
 5503|2|zh-Hant|迷宮塔
 6018|2|zh-Hant|迷宮塔第二季
