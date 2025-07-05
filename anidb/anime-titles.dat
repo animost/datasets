@@ -1,4 +1,4 @@
-# created: Thu Jul  3 03:00:01 2025
+# created: Fri Jul  4 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -173,6 +173,7 @@
 18901|4|ja|[推しの子] 3
 16168|2|x-jat|{takt: op. Destiny}
 18424|4|ja|〈物語〉シリーズ オフ＆モンスターシーズン
+19436|4|ja|〈物語〉シリーズ オフ＆モンスターシーズン (新エピソード)
 10143|4|ja|「0」
 19003|2|ko|「1분만 만져도 괜찮아...」 쉐어하우스의 비밀 규칙
 19003|4|ja|「1分間だけ触れてもいいよ...」シェアハウスの秘密ルール.
@@ -5890,6 +5891,7 @@
 16176|4|fr|Black Clover : L`épée de l`empereur-mage
 12665|1|x-jat|Black Clover (2017)
 12665|2|x-unk|Black Clover (TV)
+19433|1|x-jat|Black Clover 2nd Season
 16176|4|pt|Black Clover: A Espada do Rei Feiticeiro
 16176|4|pt-BR|Black Clover: A Espada do Rei Mago
 16176|4|hu|Black Clover: A varázslókirály kardja
@@ -12868,6 +12870,7 @@
 16566|1|x-zht|Dou Po Cangqiong: San Nian Zhi Yue
 17524|1|x-zht|Dou Po Cangqiong: Yuanqi
 16848|1|x-zht|Dou Shen Ji
+19147|2|x-zht|Dou Zhan Tianxia
 10276|1|x-jat|Double Circle
 13923|1|x-jat|Double Decker! Doug & Kirill
 13923|4|en|Double Decker! Doug & Kirill
@@ -17541,6 +17544,7 @@
 10982|4|de|Gate
 10982|4|fr|Gate : Au-delà de la porte
 11602|4|en|Gate (2016)
+19437|2|en|Gate 2: Tides of Conflict
 91|1|x-jat|Gate Keepers
 91|4|fr|Gate Keepers
 91|4|en|Gate Keepers
@@ -17548,6 +17552,8 @@
 248|4|fr|Gate Keepers 21
 11602|2|en|Gate S2
 11602|4|fr|Gate Saison 2
+19437|1|x-jat|Gate Season 2: Jieitai Kare no Umi nite, Kaku Tatakaeri
+19437|4|ja|GATE SEASON2 自衛隊 彼の海にて, 斯く戦えり
 10982|4|zh-Hans|GATE 奇幻自卫队
 11602|4|zh-Hans|GATE 奇幻自卫队 炎龙篇
 10982|4|ja|GATE 自衛隊 彼の地にて, 斯く戦えり
@@ -18518,6 +18524,7 @@
 1250|1|x-jat|Ginga Tetsudou no Yoru
 7068|1|x-jat|Ginga Tetsudou no Yoru: Fantasy Railroad in the Stars
 7068|2|x-jat|Ginga Tetsudou no Yoru: The Celestial Railroad
+19435|1|x-jat|Ginga Tokkyuu Milky Subway
 1243|1|x-jat|Ginga: Nagareboshi Gin
 806|4|es-GA|Ginger a princesa do iudo
 9836|1|x-jat|Gingitsune
@@ -24561,6 +24568,7 @@
 11200|1|x-jat|Itoshi no Muuco
 11786|1|x-jat|Itoshi no Muuco OAD
 13385|1|x-jat|Itou Junji: Collection
+19438|1|x-jat|Itou Junji: Crimson
 17446|1|x-jat|Itou Junji: Maniac
 13385|3|x-jat|itoujunji
 13038|1|x-jat|Itsudatte Bokura no Koi wa 10 Centi Datta.
@@ -25463,6 +25471,7 @@
 16056|2|en|Junior High and High School!! Kimetsu Academy Story
 13393|2|en|Junji Inagawa`s Very Scary Stories
 13385|4|en|Junji Ito Collection
+19438|4|en|Junji Ito Crimson
 17446|4|hu|Junji Ito hátborzongató japán meséi
 17446|4|it|Junji Ito Maniac
 17446|4|en|Junji Ito Maniac: Japanese Tales of the Macabre
@@ -26832,6 +26841,7 @@
 1552|4|fr|Keroro - Mission Titar
 7246|2|en|Keroro Gunso the Super Movie: Creation! Ultimate Keroro, Wonder Space-Time Island
 1552|1|x-jat|Keroro Gunsou
+19432|1|x-jat|Keroro Gunsou (2026)
 18987|1|x-jat|Keroro Gunsou (Anime Shin Project)
 4818|2|x-jat|Keroro Gunsou Movie 2
 5956|2|en|Keroro Gunsou Movie 3
@@ -30669,6 +30679,7 @@
 181|3|en|LO
 3442|3|x-jat|LO FF7
 3442|3|x-jat|LO FFVII
+16048|4|es-419|Lo hice con mi mejor amigo y me gustó
 12013|1|x-jat|Lo Re: Pako Sukusuku Mizuki-chan The Animation
 12013|2|ko|Lo Re: 쑤컹 쑥쑥 미즈키 짱 The Animation
 12013|4|ja|LO Re: パコ すくすくみずきちゃん THE ANIMATION
@@ -34375,6 +34386,7 @@
 10236|2|en|Milk White Moan
 3043|4|ja|MILK・ジャンキー姉妹編
 6461|1|x-jat|Milky Gal: Cats Ai
+19434|1|x-jat|Milky Highway
 9678|3|x-jat|Milky Holmes 3
 13213|1|x-jat|Milky Panic: Twelve
 6491|2|ja|MILKY Passion 道玄坂 愛の城
@@ -34744,6 +34756,7 @@
 4485|1|x-jat|Mizu no Tane
 16807|4|ja|Mizu wa Karma 2
 19097|1|x-jat|Mizu Zokusei no Mahou Tsukai
+19097|2|x-jat|Mizu Zokusei no Mahoutsukai
 6189|1|x-jat|Mizugi Kanojo The Animation
 4105|1|x-jat|Mizugumo Monmon
 1328|1|x-jat|Mizuiro
@@ -34755,6 +34768,7 @@
 12741|1|x-jat|Mizuki Shigeru no Youkai World: Osorezan Monogatari
 12013|2|fr|Mizuki, futée & peau de colle
 12773|1|x-jat|Mizutori
+19097|2|x-jat|Mizuzokusei no Mahoutsukai
 235|4|hr|Mjesečeva ratnica
 9452|3|en|MJP
 10749|3|x-jat|mk
@@ -35258,6 +35272,7 @@
 9183|4|en|Monogatari Series Second Season
 18424|1|x-jat|Monogatari Series: Off & Monster Season
 18424|4|en|Monogatari Series: Off & Monster Season
+19436|1|x-jat|Monogatari Series: Off & Monster Season (Shin Episode)
 9183|1|x-jat|Monogatari Series: Second Season
 10046|2|x-unk|Monogatari Series: Second Season +α
 9183|2|en|Monogatari SS
@@ -41683,6 +41698,8 @@
 9653|4|nl|Pokémon: BW Avonturen in Unova (2013)
 7891|2|en|Pokemon: BW Rival Destinies
 2371|4|pl|Pokémon: Cel - Deoxys
+7891|4|cs|Pokémon: Černý a bílý
+7891|2|cs|Pokémon: Černý a Bílý Opačné osudy
 7891|4|pl|Pokemon: Czerń i Biel
 5048|4|sv|Pokémon: Darkrai slår till
 990|4|sv|Pokémon: den första filmen - Mewtvå slår tillbaka
@@ -42550,6 +42567,8 @@
 13860|4|ja|PROJECT HAL
 4974|2|en|Project ICE
 9043|2|en|Project Key
+19431|1|x-jat|Project M
+19431|4|ja|Project M
 4292|1|x-jat|Project Papo
 15716|4|ja|PROJECT SCARD プレイタの傷
 15716|1|x-jat|Project Scard: Praeter no Kizu
@@ -50495,6 +50514,7 @@
 16397|2|en|Supreme God Emperor 2
 17258|4|en|Supreme Lord of Galaxy
 17333|4|en|Supreme Lord of Galaxy 2
+19430|2|en|Supreme Over the Sky
 3602|2|en|Supreme Ruler of the Hot Sands Gandahara
 18393|4|en|Supreme Sword God
 18893|2|en|Supreme Sword God 2
@@ -55626,7 +55646,7 @@
 6005|2|ko|TYTANIA -타이타니아-
 2230|4|el|Tάρο, ο Γιος της Δράκαινας
 2760|4|el|Tο Σούπερ Παιδί
-19401|4|en|U Takes Terra
+19401|2|en|U Takes Terra
 1609|1|x-jat|U-Jin Brand
 2481|3|x-jat|U-K
 1016|3|x-jat|u31
@@ -56880,6 +56900,7 @@
 870|2|en|Virgin Night
 870|1|x-jat|Virgin Night
 18866|1|x-jat|Virgin Punk
+18866|4|en|Virgin Punk
 1627|4|en|Virgin Touch
 11223|3|x-jat|virginsoul
 1647|1|x-jat|Virtua Fighter
@@ -65666,6 +65687,8 @@
 15113|2|he|דימון סלייר הסרט: רכבת האינסוף
 2884|4|he|דימי בעקבות התגליות הגדולות
 4325|2|he|דמעות אמיתיות
+18290|4|he|דן דה דן
+19060|4|he|דן דה דן (2025)
 231|2|he|דרגון בול
 11210|4|he|דרגון בול סופר
 18593|4|he|דרכו של הזאב הבודד
@@ -74038,6 +74061,7 @@
 808|4|ja|ケロケロちゃいむ
 1811|4|ja|けろっこデメタン
 1552|4|ja|ケロロ軍曹
+19432|4|ja|ケロロ軍曹 (2026)
 18987|4|ja|ケロロ軍曹 アニメ新プロジェクト
 12748|4|ja|ケンカのあとは
 11216|4|ja|ケンガンアシュラ
@@ -76012,6 +76036,7 @@
 10456|2|ja|テラフォーマーズ OVA
 11493|4|ja|テラフォーマーズ リベンジ
 14382|2|ja|テラフォーマーズ リベンジ OAD
+19401|4|ja|テラライブ
 12493|4|ja|デリートビーチ
 18148|4|ja|デリコズ・ナーサリー
 16953|4|ja|デリシャスパーティ♡プリキュア
@@ -77802,6 +77827,7 @@
 3321|4|ja|ブラックキャット
 12351|4|ja|ブラッククローバー
 12665|4|ja|ブラッククローバー (2017)
+19433|4|ja|ブラッククローバー 2nd Season
 2544|4|ja|ブラックジャック
 2389|4|ja|ブラックジャック (2004)
 2672|2|ja|ブラックジャック スペシャル ~命をめぐる4つの奇跡~
@@ -78731,6 +78757,7 @@
 1905|4|ja|ミラクル少女リミットちゃん
 11066|4|ja|ミリオンドール
 10751|4|ja|みりたり!
+19434|4|ja|ミルキー☆ハイウェイ
 13213|4|ja|ミルキーパニック twelve
 6461|4|ja|ミルキィギャル キャッツ愛
 6491|4|ja|ミルキィパッション 道玄坂 愛の城
@@ -80654,6 +80681,7 @@
 17446|4|zh-Hans|伊藤润二《狂热集》
 13385|2|zh-Hans|伊藤润二惊选集
 13385|4|ja|伊藤潤二「コレクション」
+19438|4|ja|伊藤潤二『クリムゾン』
 17446|4|ja|伊藤潤二『マニアック』
 17446|4|zh-Hant|伊藤潤二狂熱：日本恐怖故事
 2007|4|ja|伊賀野カバ丸
@@ -93390,6 +93418,7 @@
 2364|4|ja|銀河漂流バイファム 集まった13人
 2362|4|ja|銀河漂流バイファム13
 3116|4|ja|銀河烈風バクシンガー
+19435|4|ja|銀河特急 ミルキー☆サブウェイ
 3115|4|ja|銀河疾風サスライガー
 11495|4|ja|銀河英雄伝説 Die Neue These
 13473|4|ja|銀河英雄伝説 Die Neue These (2019)
