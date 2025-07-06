@@ -1,4 +1,4 @@
-# created: Fri Jul  4 03:00:01 2025
+# created: Sat Jul  5 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3254,6 +3254,7 @@
 4258|4|pt|Aprender a Ganhar
 12906|4|fr|Après la pluie
 17315|2|fr|Après les vacances d’été, elle… devient une authentique chienne en furie
+17700|4|en|April Showers Bring May Flowers
 572|2|en|Aqua Age
 1669|1|x-jat|Aqua Kids
 9113|4|it|Aqualuna
@@ -4300,6 +4301,9 @@
 15612|3|x-jat|ba s2
 504|3|en|BA:V
 10121|1|x-jat|Baa-cha no Kingyo
+19441|4|ja|bâan-大人の彊界-
+19441|1|x-jat|Baan: Otona no Kyoukai
+19441|4|en|Baan: The Boundary of Adulthood
 12946|1|x-kot|Bab Mook Ja
 18517|4|it|Baban Baban Ban Vampire
 18517|4|fi|Baban Baban Ban Vampire
@@ -10002,6 +10006,9 @@
 15610|4|en|Cyberpunk: Edgerunners
 15610|4|pl|Cyberpunk: Edgerunners
 15610|4|cs|Cyberpunk: Edgerunners
+19445|4|ja|CYBERPUNK: EDGERUNNERS 2
+19445|1|x-jat|Cyberpunk: Edgerunners 2
+19445|4|en|Cyberpunk: Edgerunners 2
 15610|4|pt-BR|Cyberpunk: Mercenários
 15610|4|th|CYBERPUNK: อาชญากรแดนเถื่อน
 1524|4|fr|Cybersix
@@ -16505,7 +16512,7 @@
 17617|2|pt|Frieren e a Jornada para o Além
 17617|4|pt-BR|Frieren e a Jornada para o Além
 17617|4|en|Frieren: Beyond Journey`s End
-18886|2|en|Frieren: Beyond Journey`s End (2026)
+18886|4|en|Frieren: Beyond Journey`s End (2026)
 17617|4|es-419|Frieren: Más allá del final del viaje
 17617|4|de|Frieren: Nach dem Ende der Reise
 17617|4|es|Frieren: Tras finalizar el viaje
@@ -17552,7 +17559,7 @@
 248|4|fr|Gate Keepers 21
 11602|2|en|Gate S2
 11602|4|fr|Gate Saison 2
-19437|1|x-jat|Gate Season 2: Jieitai Kare no Umi nite, Kaku Tatakaeri
+19437|1|x-jat|Gate Season 2: Jieitai Kano Umi nite, Kaku Tatakaeri
 19437|4|ja|GATE SEASON2 自衛隊 彼の海にて, 斯く戦えり
 10982|4|zh-Hans|GATE 奇幻自卫队
 11602|4|zh-Hans|GATE 奇幻自卫队 炎龙篇
@@ -19579,8 +19586,8 @@
 5542|1|x-jat|Grope: Yami no Naka no Kotori-tachi
 5542|2|ko|Grope: 어둠속의 작은 새들
 1605|2|en|Groper Train
-18734|4|ja|GROTESQUE
-18734|1|x-jat|Grotesque
+18734|1|x-jat|Grotesqqque
+18734|4|ja|GROTESQQQUE
 7903|4|en|Ground Control to Psychoelectric Girl
 7903|4|es-419|Ground Control to Psychoelectric Girl
 444|2|en|Ground Defence Mao-chan
@@ -25692,6 +25699,7 @@
 14101|4|ja|KADO:Beyond Information
 6305|1|x-jat|Kaede New Town
 6305|2|x-jat|Kaede Newtown
+17071|1|x-jat|Kaede to Suzu The Animation
 6685|2|en|Kaempfer
 6685|2|de|Kaempfer
 15696|1|x-jat|Kaeru no Pickles: Kimochi no Iro
@@ -27760,6 +27768,7 @@
 11692|4|en|Kiznaiver
 11692|4|fr|Kiznaiver
 19087|1|x-jat|Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara o Eru
+19442|1|x-jat|Kizu darake Seijo yori Houfuku wo Komete
 10139|1|x-jat|Kizudarake no Ringo
 8357|1|x-jat|Kizumonogatari
 8357|4|en|Kizumonogatari
@@ -28894,6 +28903,7 @@
 19276|1|x-jat|Kusunoki no Bannin
 17870|1|x-jat|Kusuriya no Hitorigoto
 18562|1|x-jat|Kusuriya no Hitorigoto (2025)
+19444|1|x-jat|Kusuriya no Hitorigoto (Zokuhen)
 18562|2|x-jat|Kusuriya no Hitorigoto 2nd Season
 154|2|tr|Kusursuz Mavi
 11893|2|tr|Kutsal Savaş Cerberus: Ejderhanın Ölüm Zamanı
@@ -31064,8 +31074,8 @@
 15288|2|fr|Love Mary, l’Archange céleste de l’Amour – Conception malsaine
 1836|2|en|Love Me Knight
 14883|2|en|Love Me, Love Me Not
+17071|6|x-jat|Love Me: "Kaede to Suzu" Kaede & Suzu Twin Sisters The Animation
 17071|4|en|Love Me: Kaede and Suzu The Animation
-17071|1|x-jat|Love Me: Kaede to Suzu The Animation
 8578|2|en|Love of Kemeko
 15917|4|en|Love of Kill
 6295|2|en|Love Pistols
@@ -47667,6 +47677,7 @@
 2601|1|x-jat|Shino-sensei no Yuuwaku Jugyou
 2601|4|de|Shino`s Verführung
 18165|1|x-jat|Shinobanai! Crypto Ninja Sakuya
+19439|1|x-jat|Shinobanai! Crypto Ninja Sakuya San no Maki
 17211|1|x-jat|Shinobi no Ittoki
 17211|4|en|Shinobi no Ittoki
 6306|4|en|Shinobi Seduction
@@ -50163,6 +50174,8 @@
 10361|1|x-jat|Sugar Soldier
 3320|4|it|Sugar Sugar
 3320|1|x-jat|Sugar Sugar Rune
+19443|4|ja|SUGAR SUGAR RUNE Les deux sorcières
+19443|1|x-jat|Sugar Sugar Rune: Les Deux Sorcieres
 9|2|en|Sugar: A Little Snow Fairy
 7300|2|en|Sugar: A Little Snow Fairy Special
 3320|2|x-unk|Sugar² Rune
@@ -52083,6 +52096,7 @@
 2427|2|en|The Anthology of Japanese Literature
 17870|4|en|The Apothecary Diaries
 18562|4|en|The Apothecary Diaries (2025)
+19444|2|en|The Apothecary Diaries (Sequel)
 18562|2|en|The Apothecary Diaries S2
 18562|2|en|The Apothecary Diaries Season 2
 16809|4|en|The Apple and the Girl
@@ -57991,6 +58005,7 @@
 3986|3|en|WoR
 17595|4|en|Word of Honor
 19363|2|en|Word of Honor 2nd Season
+19363|2|en|Word of Honor S2
 14642|4|pl|Words Bubble Up Like Soda Pop
 14642|4|en|Words Bubble Up Like Soda Pop
 4346|2|en|Words of Water
@@ -59079,6 +59094,7 @@
 11518|1|x-jat|Yodaka no Hoshi (2014)
 11098|1|x-jat|Yodomi no Sawagi
 16971|1|x-jat|Yofukashi no Uta
+18531|2|x-jat|Yofukashi no Uta S2
 18531|1|x-jat|Yofukashi no Uta Season 2
 2373|4|de|Yogusettai
 18321|2|x-jat|Yohaji
@@ -59831,6 +59847,7 @@
 2373|1|x-jat|Yuuguu Settai: Kotou no Gokuraku e Youkoso
 14164|1|x-jat|Yuukai Anna
 4034|1|x-jat|Yuukan Club
+19440|3|x-jat|yuukawa
 18048|1|x-jat|Yuuki Bakuhatsu Bang Bravern
 12592|1|x-jat|Yuuki Hitotsu o Tomo ni Shite
 14634|1|x-jat|Yuuki no Hana ga Hiraku Toki: Yanase Takashi to Anpanman no Monogatari
@@ -59868,6 +59885,7 @@
 957|1|x-jat|Yuusha Ou GaoGaiGar
 1717|1|x-jat|Yuusha Ou GaoGaiGar Final
 3152|1|x-jat|Yuusha Ou GaoGaiGar Final Grand Glorious Gathering
+19440|1|x-jat|Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shite Mita.
 19190|1|x-jat|Yuusha Party o Oidasareta Kiyoubinbou
 17444|1|x-jat|Yuusha Party o Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau
 18782|1|x-jat|Yuusha Party o Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugai Sugiru
@@ -73959,6 +73977,7 @@
 9414|4|ja|クロスファイト ビーダマン eS
 10458|4|ja|クロスロード
 11857|4|ja|クロックワーク・プラネット
+18734|2|ja|グロテスク
 1052|4|ja|クロノクルセイド
 11857|3|ja|クロプラ
 11819|4|ja|クロムクロ
@@ -74424,6 +74443,7 @@
 346|4|ja|サイバーシティOEDO808
 1558|4|ja|サイバードール FeiFei
 15610|2|ja|サイバーパンクエッジランナーズ
+19445|2|ja|サイバーパンクエッジランナーズ 2
 6301|2|ja|さいふぁ
 1349|4|ja|サイファイハリー
 1527|4|ja|サイボーグ009
@@ -74793,6 +74813,7 @@
 6206|4|ja|シュガーバニーズ ショコラ!
 6502|4|ja|シュガーバニーズ フルール
 3320|4|ja|シュガシュガルーン
+19443|2|ja|シュガシュガルーン レ・ドゥー・ソルシエール
 5280|4|ja|しゅごキャラ!
 6947|2|ja|しゅごキャラ! パーティー!
 6947|2|ja|しゅごキャラ!!!どっきどきっ
@@ -79130,6 +79151,7 @@
 12012|2|ja|ユーリ!!! YURI ON ICE
 17207|2|ja|ユーレイデコ
 18117|4|ja|ユア・フォルマ
+19440|3|ja|ゆうかわ
 14998|5|ja|ゆうき×あおい キメラプロジェクト
 14634|5|ja|ゆうきのはながひらくとき やなせたかしとあんぱんまんのものがたり
 9932|4|ja|ゆうとくんがいく
@@ -79290,8 +79312,8 @@
 3622|2|ja|ラブポジション LEGEND OF HALLEY
 15062|2|ja|ラブホリック ~魅惑の乙女と白濁カンケイ~
 2495|4|ja|ラブマシン アニマイド娼婦23号
-17071|4|ja|らぶみー 楓と鈴 THE ANIMATION
 17071|2|ja|らぶみー『楓と鈴』 THE ANIMATION
+17071|6|ja|らぶみー♡[楓と鈴] Kaede & Suzu Twin Sisters THE ANIMATION
 9927|2|ja|ラブライブ! 2
 9271|4|ja|ラブライブ! School idol project
 9927|4|ja|ラブライブ! School idol project (2014)
@@ -80996,6 +81018,7 @@
 18049|4|zh-Hans|傲娇好色
 17075|4|zh-Hans|傲娇恶役大小姐莉泽洛特与实况转播远藤君和解说员小林
 15206|2|zh-Hant|傳頌之物 二人的白皇
+19442|4|ja|傷だらけ聖女より報復をこめて
 8357|4|ja|傷物語
 8357|4|zh-Hant|傷物語
 18187|4|ja|傷物語 -こよみヴァンプ-
@@ -82114,6 +82137,7 @@
 9659|4|ja|勇者になれなかった俺はしぶしぶ就職を決意しました.
 10113|4|ja|勇者になれなかった俺はしぶしぶ就職を決意しました. 勇者になれなかった俺の妹が上京してきました.
 19219|4|ja|勇者のクズ
+19440|4|ja|勇者パーティーにかわいい子がいたので, 告白してみた.
 17444|4|ja|勇者パーティーを追放されたビーストテイマー, 最強種の猫耳少女と出会う
 18782|4|ja|勇者パーティーを追放された白魔導師, Sランク冒険者に拾われる ~この白魔導師が規格外すぎる~
 19190|4|ja|勇者パーティを追い出された器用貧乏
@@ -84711,6 +84735,7 @@
 8433|4|ja|小吉物語
 17889|4|zh-Hans|小哥斯拉的逆袭
 8069|3|zh-Hans|小圆
+18874|4|zh-Hans|小城日常
 11706|4|ja|小夜曲
 13509|4|zh|小夜游
 11651|4|zh|小太極
@@ -85528,6 +85553,7 @@
 15477|4|ja|忍たま乱太郎の宇宙大冒険 with コズミックフロント☆NEXT (2020)
 17211|4|ja|忍の一時
 18165|4|ja|忍ばない! クリプトニンジャ咲耶
+19439|4|ja|忍ばない! クリプトニンジャ咲耶 参ノ巻
 4701|4|ja|忍ペンまん丸
 677|4|ja|忍法乱れからくり
 712|2|ja|忍空
@@ -87084,6 +87110,7 @@
 5117|2|zh-Hans|日在校园
 8168|4|ja|日常
 8168|4|zh-Hant|日常
+8168|4|zh-Hans|日常
 7630|4|ja|日常 日常の0話
 10509|4|zh-Hans|日常系的异能战斗
 2429|4|zh-Hans|日式面包王
@@ -88117,6 +88144,7 @@
 10285|4|ja|椎葉さんのウラの顔. with イモートリップ
 6890|4|ja|椰子の実
 2454|4|ja|椿色のプリジオーネ
+17071|4|ja|楓と鈴 THE ANIMATION
 6305|4|ja|楓ニュータウン
 5258|4|ja|楳図かずおの呪い
 6411|4|ja|極上!!めちゃモテ委員長
@@ -90454,6 +90482,7 @@
 7580|4|ja|硬派銀次郎
 18043|4|zh-Hans|碰之道
 13734|4|zh-Hans|碧蓝之海
+18892|4|zh-Hans|碧蓝之海 第二季
 11597|4|zh-Hans|碧蓝幻想
 13524|4|zh-Hans|碧蓝幻想 第二季
 14396|4|zh-Hans|碧蓝航线
@@ -91648,6 +91677,7 @@
 18911|2|zh-Hans|育精
 18911|4|ja|育精
 18290|4|zh-Hans|胆大党
+19060|4|zh-Hans|胆大党 第二季
 15822|4|ja|背徳の境界
 658|4|ja|背徳の少女
 4081|4|ja|背徳妻
@@ -92110,6 +92140,7 @@
 18867|4|ja|薫る花は凛と咲く
 17870|4|ja|薬屋のひとりごと
 18562|4|ja|薬屋のひとりごと (2025)
+19444|4|ja|薬屋のひとりごと (続編)
 5631|4|ja|薬師寺涼子の怪奇事件簿
 74|4|ja|藍より青し
 1059|4|ja|藍より青し~縁~
@@ -92943,6 +92974,7 @@
 17789|4|zh-Hans|转生成为魔剑了 2
 18532|4|zh-Hans|转生成猫咪的大叔
 17557|4|zh-Hans|转生成自动贩卖机的我今天也在迷宫徘徊
+18204|4|zh-Hans|转生成自动贩卖机的我今天也在迷宫徘徊 第二季
 14201|4|zh-Hans|转生成蜘蛛又怎样！
 17569|4|zh-Hans|转生王女与天才千金的魔法革命
 16030|2|zh-Hans|转生贤者的异世界生活～取得第二职业，成为世界最强～
