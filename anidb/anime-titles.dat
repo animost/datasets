@@ -1,4 +1,4 @@
-# created: Sat Jul  5 03:00:02 2025
+# created: Sun Jul  6 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -831,6 +831,8 @@
 12014|4|ko|91 데이즈
 12014|2|ja|91Days
 12014|4|zh-Hans|91天
+19452|1|x-jat|99-kai Danzai Sareta Loop Reijou Desu ga Konse wa "Chouzetsu Aisare Mode" Desutte!? Shin no Chikara ni Mezamete Hajimaru 100-kaime no Jinsei
+19452|4|ja|99回断罪されたループ令嬢ですが今世は『超絶愛されモード』ですって!? ~真の力に目覚めて始まる100回目の人生~
 3683|2|en|A 1001 Nights
 17393|1|x-jat|A A B C
 3368|4|pt-BR|A Abelhinha Hutch
@@ -5235,7 +5237,10 @@
 15330|2|en|Beastars 2nd Season
 16443|4|ja|BEASTARS FINAL SEASON
 16443|1|x-jat|Beastars Final Season
-16443|2|en|Beastars Final Season
+16443|4|en|Beastars Final Season
+19449|4|ja|BEASTARS FINAL SEASON (2026)
+19449|1|x-jat|Beastars Final Season (2026)
+19449|4|en|Beastars Final Season (2026)
 16443|2|en|Beastars: Final Season
 14659|4|vi|BEASTARS: Thế giới người thú
 16858|4|zh-Hans|BEASTY
@@ -5896,6 +5901,7 @@
 12665|1|x-jat|Black Clover (2017)
 12665|2|x-unk|Black Clover (TV)
 19433|1|x-jat|Black Clover 2nd Season
+19433|4|en|Black Clover Second Season
 16176|4|pt|Black Clover: A Espada do Rei Feiticeiro
 16176|4|pt-BR|Black Clover: A Espada do Rei Mago
 16176|4|hu|Black Clover: A varázslókirály kardja
@@ -9074,6 +9080,7 @@
 2516|4|en|Classroom of Atonement
 13153|4|en|Classroom of the Elite
 13153|4|id|Classroom of the Elite
+18844|4|en|Classroom of the Elite 2nd Year
 17237|2|en|Classroom of the Elite 3rd Season
 17208|4|en|Classroom of the Elite II
 17237|4|en|Classroom of the Elite III
@@ -10236,6 +10243,7 @@
 18437|2|en|Dad is a Hero, Mom is a Spirit, I`m a Reincarnator
 18927|1|x-zht|Dadao Chaotian
 6986|4|en|Daddy Long Legs
+19451|4|en|Daemons of the Shadow Realm
 1153|2|en|Daft Punk & Leiji Matsumoto`s INTERSTELLA 5555: The 5tory of the 5ecret 5tar 5ystem
 1153|4|hu|Daft Punk: Interstella 5555
 1710|3|x-jat|Dagarn
@@ -14009,6 +14017,7 @@
 1852|4|fr|Échanges de corps
 7946|1|x-jat|Echigo no Mukashibanashi: Attaten Ganoo
 13176|3|x-jat|echuuni movie
+19446|2|en|Eclipse of Illusion
 13544|2|fr|École aux dames plantureuses – Le mouvement imparable des vierges
 11873|2|fr|Écolière à la taille de guêpe
 8599|1|x-jat|Ecophan
@@ -15859,6 +15868,7 @@
 16640|1|x-zht|Fengzi Wuyu: Yinhe Pian (2021)
 1553|2|es-419|Fénix
 1553|4|pt-BR|Fênix
+19077|2|en|Fermat Kitchen
 19077|1|x-jat|Fermat no Ryouri
 19077|2|en|Fermat`s Cuisine
 6818|2|de|Fesseln des Verrats
@@ -17652,6 +17662,7 @@
 4193|2|tr|Ged`in Savaş Günlükleri
 4193|2|en|Ged`s War Chronicles
 4193|2|x-jat|Gedo Senki
+4193|2|x-unk|Gedo Senki
 4193|2|el|Gedo Senki Ιστορίες απο την Γαιοθάλασσα
 4193|3|x-jat|gedosen
 1181|1|x-jat|Gedou Gakuen
@@ -19996,7 +20007,7 @@
 7297|2|en|Gunparade Orchestra OVA 2
 7298|2|en|Gunparade Orchestra OVA 3
 7298|1|x-jat|Gunparade Orchestra: Ao no Shou - Hikari no Umi kara Tegami o Okurimasu
-7297|1|x-jat|Gunparade Orchestra: Midori no Shou - Ookami to Kare no Shounen
+7297|1|x-jat|Gunparade Orchestra: Midori no Shou - Ookami to Kano Shounen
 7296|1|x-jat|Gunparade Orchestra: Shiro no Shou - Aomori Penguin Densetsu
 1002|4|en|Gunslinger Girl
 1002|4|pl|Gunslinger Girl
@@ -21639,6 +21650,7 @@
 17689|4|fr|Hero Skill - Achats en ligne
 5314|3|x-jat|hero tales
 5314|4|en|Hero Tales
+18232|4|en|Hero Without A Class: Who Even Needs Skills?!
 14472|2|ja|HERO≠MASK
 11739|3|en|heroaca
 12233|3|en|heroaca2
@@ -25858,7 +25870,9 @@
 13975|4|en|Kaiju Girls Black
 13401|4|en|Kaiju Girls: Season 2
 17550|4|en|Kaiju No. 8
+17550|4|de|Kaiju No. 8
 18722|4|en|Kaiju No. 8 (2025)
+18722|4|de|Kaiju No. 8 Staffel 2
 17550|2|en|Kaiju No.EIGHT
 17358|1|x-zht|Kaiju Yi Zuo Shan
 17550|1|x-jat|Kaijuu 8 Gou
@@ -27193,6 +27207,8 @@
 2259|2|en|Killifish School
 12888|4|en|Killing Bites
 12888|1|x-jat|Killing Bites
+19450|4|ja|KILLTUBE
+19450|1|x-jat|Killtube
 5272|2|en|Kim`s Cross
 5272|2|en|Kim`s Crucifix
 153|1|x-jat|Kimagure Orange Road
@@ -35955,7 +35971,7 @@
 15954|4|en|Mushoku Tensei: Jobless Reincarnation (2021)
 17236|4|en|Mushoku Tensei: Jobless Reincarnation Season 2
 18104|4|en|Mushoku Tensei: Jobless Reincarnation Season 2 (2024)
-18727|2|en|Mushoku Tensei: Jobless Reincarnation Season 3
+18727|4|en|Mushoku Tensei: Jobless Reincarnation Season 3
 14758|4|ru|Mushoku Tensei: Перерождение безработного
 14758|3|x-jat|mushokutensei
 15954|2|x-jat|mushokutensei s1p2
@@ -43618,7 +43634,7 @@
 14792|4|en|Re:Zero - Starting Life in Another World (2020)
 15593|4|en|Re:Zero - Starting Life in Another World (2021)
 17947|4|en|Re:Zero - Starting Life in Another World (2024)
-19242|2|en|Re:Zero - Starting Life in Another World (2026)
+19242|4|en|Re:Zero - Starting Life in Another World (2026)
 14792|2|en|Re:Zero - Starting Life in Another World 2nd Season
 17947|2|en|Re:Zero - Starting Life in Another World Season 3
 11370|4|es|Re:Zero -Empezar de cero en un mundo diferente-
@@ -43867,7 +43883,7 @@
 19217|2|en|Reincarnated as a Dragon Hatchling
 18760|4|en|Reincarnated as a Neglected Noble: Raising My Baby Brother with Memories from My Past Life
 16785|4|en|Reincarnated as a Sword
-17789|4|en|Reincarnated as a Sword 2
+17789|4|en|Reincarnated as a Sword II
 18437|2|en|Reincarnated as the Daughter of the Legendary Hero and the Queen of Spirits
 16057|2|en|Reincarnated into Demon King Evelogia`s World
 18624|2|en|Reincarnated Marquis
@@ -46373,6 +46389,7 @@
 17862|2|x-jat|Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai
 17862|1|x-jat|Seishun Buta Yarou wa Ransel Girl no Yume o Minai
 18300|1|x-jat|Seishun Buta Yarou wa Santa Claus no Yume o Minai
+18300|2|x-jat|Seishun Buta Yarou wa Santa Claus no Yume wo Minai
 14397|1|x-jat|Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai
 14397|2|x-jat|Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai
 5565|2|x-jat|Seishun Fuufu Monogatari: Koiko no Mainichi
@@ -48048,6 +48065,7 @@
 5280|2|x-jat|Shugo Kyara
 5511|2|x-jat|Shugo Yousei Michel
 16748|1|x-zht|Shui Tun Tang Guan
+19448|1|x-jat|Shuiro no Kamen
 8093|1|x-jat|Shujii no Inbou
 15221|1|x-zht|Shuke He Beita
 7280|1|x-jat|Shukufuku no Campanella
@@ -51771,7 +51789,7 @@
 17702|2|x-jat|Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu
 19217|1|x-jat|Tensei Shitara Dragon no Tamago Datta: Saikyou Igai Mezasa Nee
 16785|1|x-jat|Tensei Shitara Ken Deshita
-17789|1|x-jat|Tensei Shitara Ken Deshita 2
+17789|1|x-jat|Tensei Shitara Ken Deshita II
 13871|1|x-jat|Tensei Shitara Slime Datta Ken
 14526|1|x-jat|Tensei Shitara Slime Datta Ken (2019)
 15456|1|x-jat|Tensei Shitara Slime Datta Ken (2021 Dai 2 Bu)
@@ -52016,6 +52034,7 @@
 17906|4|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You
 18343|4|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You (2025)
 18343|2|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 2
+19452|2|en|The 100th Time`s the Charm: She Was Executed 99 Times, So How Did She Unlock "Super Love" Mode?!
 13597|2|en|The 25 Year Old High School Girl
 5377|2|en|The 5 Killers
 14535|4|en|The 8th Son? Are You Kidding Me?
@@ -53714,6 +53733,7 @@
 10815|2|en|The Vanishing of Nagato Yuki-chan
 7221|2|en|The Vanishment of Haruhi Suzumiya
 5475|4|en|The Venus Files
+19448|2|en|The Vermilion Mask
 11822|2|ja|The very lovely tyrant of love ♥
 17805|4|en|The Vexations of a Shut-In Vampire Princess
 1297|2|en|The Virgin Mary is Watching Over You
@@ -54393,6 +54413,7 @@
 15909|2|x-unk|Toire no Hanako-san vs Kukkyou Taimashi
 13172|1|x-jat|Toji no Miko
 15318|1|x-jat|Toji no Miko: Kizamishi Issen no Tomoshibi
+19202|4|en|Tojima Wants to Be a Kamen Rider
 15318|3|x-jat|tojitomo
 6927|1|x-jat|Tokechigai
 2264|1|x-jat|Toki Neiro
@@ -54709,6 +54730,8 @@
 15985|1|x-jat|Tooi Kimi ni, Boku wa Todokanai
 2864|1|x-jat|Tooi Sekai
 17391|1|x-jat|Tooi Sekai ni
+19447|3|x-jat|tooi-san
+19447|1|x-jat|Tooi-san wa Seishun Shitai! "Baka to Sumaho to Romance to"
 18317|2|en|Toooooo Many Losing Heroines!
 2411|1|x-jat|Tooyamazakura Uchuuchou: Yatsu no Na wa Gold
 1374|3|x-jat|ToP
@@ -56686,6 +56709,7 @@
 7390|2|en|Vegetable Fairies: N.Y. Salad The Movie
 2041|2|en|Vehicle Force Voltron
 2041|2|en|Vehicle Voltron
+19446|2|en|Veiled Dreams
 3588|4|pt|Velhos Contos do Japão
 2233|4|hr|Veliki Musashi
 13235|4|en|Ven. Jian Zhen
@@ -59140,6 +59164,7 @@
 347|4|it|Yoma - La stirpe delle tenebre
 347|2|fr|Yoma - les ténèbres
 17731|1|x-jat|Yomawari Neko
+19451|1|x-jat|Yomi no Tsugai
 4113|3|x-jat|Yomigaeru Sora
 4113|1|x-jat|Yomigaeru Sora: Rescue Wings
 8251|2|x-jat|Yon-juu-hachi x Roku-juu-ichi
@@ -59228,7 +59253,7 @@
 13502|2|en|Yotsuiro Biyori
 5275|1|x-jat|Yotsunoha
 14822|3|x-jat|YoU
-19010|2|en|You and I Are Polar Opposites
+19010|4|en|You and I Are Polar Opposites
 19019|4|en|You and Idol Precure
 19019|2|en|You and Idol Pretty Cure
 8367|4|en|You and Me
@@ -59742,6 +59767,7 @@
 1268|3|x-jat|yumi
 4830|1|x-jat|Yumiko Kirita in Venus
 4830|4|ja|YUMIKO KIRITA in Venus
+19446|1|x-zht|Yun Shen Buzhi Meng
 3534|1|x-jat|Yun`yun Paradise
 13552|4|de|Yunas Geisterhaus
 1047|2|x-jat|yuno
@@ -73698,6 +73724,7 @@
 1085|4|ja|ギルガメッシュ
 1855|4|ja|ギルスティン
 1855|2|ja|ギルステイン
+19450|2|ja|キルチューブ
 8480|4|ja|ギルティクラウン
 9092|4|ja|ギルティクラウン ロストクリスマス an episode of port town
 18118|4|ja|ギルドの受付嬢ですが, 残業は嫌なのでボスをソロ討伐しようと思います
@@ -80416,6 +80443,7 @@
 18483|4|zh-Hans|亏成首富从游戏开始
 469|2|zh-Hans|云之彼端, 约定的地方
 254|4|zh|云海骑兵队
+19446|4|zh-Hans|云深不知梦
 12854|4|ja|五一ぢいさん
 14492|2|ja|五万匹
 12580|4|ja|五匹のこぶたとチャールストン
@@ -80528,6 +80556,7 @@
 1629|4|zh-Hans|人妻偷吃
 2962|4|ja|人妻凌辱参観日
 1066|2|ja|人妻淫乱調教~エツコの秘密~
+19163|4|zh-Hant|人妻的嘴唇嚐起來有罐裝沙瓦的味道
 6231|4|ja|人工少女 ~変身セックスアンドロイド~
 6231|2|zh-Hant|人工少女 ~變身性愛機器人~
 16162|4|ja|人形アニメ「ハイキュー!!」
@@ -81255,6 +81284,8 @@
 17670|4|zh-Hant|公司的小小前輩
 17670|4|zh-Hans|公司的小小前辈
 18242|4|ja|公女殿下の家庭教師
+18242|4|zh-Hans|公爵千金的家庭教师
+18242|4|zh-Hant|公爵千金的家庭教師
 17498|4|zh-Hans|公爵的契约未婚妻
 9601|4|ja|公開便所 THE ANIMATION
 5546|4|ja|六三四の剣
@@ -81426,6 +81457,7 @@
 9546|4|ja|最近, 妹のようすがちょっとおかしいんだが.
 10350|4|ja|最近, 妹のようすがちょっとおかしいんだが. 萌亜の初恋メモリー? 16年目のハッピークリスマス
 9546|4|zh-Hans|最近, 妹妹的样子有点怪?
+18827|4|zh-Hant|最近的偵探真沒用
 17421|4|ja|最近雇ったメイドが怪しい
 2446|4|ja|最遊記
 1081|4|ja|最遊記RELOAD
@@ -87753,6 +87785,7 @@
 4007|2|ja|本気!
 4007|4|ja|本気(マジ)!
 15260|4|zh-Hans|本田小狼与我
+19448|4|ja|朱色の仮面
 5944|4|ja|朱鷺色怪魔
 3070|4|zh-Hans|机兽起源
 1775|4|zh-Hans|机兽超世纪
@@ -90241,6 +90274,7 @@
 17535|4|zh-Hans|百妖谱 京师篇
 17821|4|zh-Hans|百妖谱 司府篇
 19068|4|zh-Hans|百妖谱 洛阳篇
+15967|4|zh-Hans|百妖谱 第二季
 15966|4|zh-Hans|百妖谱 第壹册
 15967|4|zh-Hant|百妖谱 第貳季
 17684|4|ja|百姓貴族
@@ -92919,7 +92953,7 @@
 15457|4|ja|転生したらスライムだった件 転スラ日記
 19217|4|ja|転生したらドラゴンの卵だった~最強以外目指さねぇ~
 16785|4|ja|転生したら剣でした
-17789|4|ja|転生したら剣でした 2
+17789|4|ja|転生したら剣でしたII
 17702|4|ja|転生したら第七王子だったので, 気ままに魔術を極めます
 18694|4|ja|転生したら第七王子だったので, 気ままに魔術を極めます 第2期
 19201|4|ja|転生した大聖女は, 聖女であることをひた隠す
@@ -93023,6 +93057,7 @@
 18770|4|zh-Hans|这公司有我喜欢的人
 9403|4|zh-Hans|这名男子，捡到了人鱼。
 11011|2|zh-Hans|这就是声优
+18827|4|zh-Hans|这届侦探真不行
 7674|2|zh-Hans|这是僵尸吗?
 2621|2|zh-Hans|这是我的主人
 11468|4|zh-Hans|进击! 巨人中学校
@@ -93242,6 +93277,8 @@
 2864|4|ja|遠い世界
 17391|4|ja|遠い世界に
 15985|4|ja|遠い君に, 僕は届かない
+19447|3|ja|遠井さん
+19447|4|ja|遠井さんは青春したい!『バカとスマホとロマンスと』
 2411|4|ja|遠山桜宇宙帖 奴の名はゴールド
 5152|4|ja|遠近法の箱-博士のさがしもの-
 13296|4|zh-Hans|遥的接球
@@ -94230,6 +94267,7 @@
 14204|2|ja|音楽隊ウィッチーズ
 16857|4|zh-Hans|音符叙事曲
 1165|4|ja|音響生命体ノイズマン
+19038|4|zh-Hant|章魚嗶的原罪
 10889|4|ja|響け! ユーフォニアム
 11746|4|ja|響け! ユーフォニアム 2
 14935|2|ja|響け! ユーフォニアム 久美子3年生編
@@ -95141,6 +95179,7 @@
 8852|2|zh-Hans|黄昏少女x失忆
 18709|4|zh-Hans|黄昏旅店
 7532|2|zh-Hans|黄段子学生会
+19451|4|ja|黄泉のツガイ
 17876|4|ja|黄金の庭園: 冬に積もる新年の願い
 4277|4|ja|黄金の法 エル・カンターレの歴史観
 6862|4|ja|黄金の鈎
