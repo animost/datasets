@@ -1,4 +1,4 @@
-# created: Sun Jul  6 03:00:02 2025
+# created: Mon Jul  7 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -832,6 +832,7 @@
 12014|2|ja|91Days
 12014|4|zh-Hans|91天
 19452|1|x-jat|99-kai Danzai Sareta Loop Reijou Desu ga Konse wa "Chouzetsu Aisare Mode" Desutte!? Shin no Chikara ni Mezamete Hajimaru 100-kaime no Jinsei
+19452|3|x-jat|99loop
 19452|4|ja|99回断罪されたループ令嬢ですが今世は『超絶愛されモード』ですって!? ~真の力に目覚めて始まる100回目の人生~
 3683|2|en|A 1001 Nights
 17393|1|x-jat|A A B C
@@ -5165,6 +5166,7 @@
 12351|3|x-jat|bc ova
 316|3|x-jat|bcpu
 12665|3|en|bctv
+19433|3|en|bctv2
 5383|3|x-jat|BD
 11422|1|x-jat|Be Blues! Ao ni Nare
 11422|4|ja|BE BLUES!~青になれ~
@@ -21783,6 +21785,7 @@
 17441|2|x-jat|Hibike! Euphonium: Ensemble Contest-hen
 14935|2|x-jat|Hibike! Euphonium: Kumiko 3 Nensei Hen
 10101|1|x-jat|Hibike! Wadaiko
+19083|3|x-jat|hibimeshi
 17139|1|x-jat|Hidamari no Ie
 1508|1|x-jat|Hidamari no Ki
 4743|1|x-jat|Hidamari Sketch
@@ -28706,6 +28709,7 @@
 4654|4|hu|Kukucska kalandjai
 15291|1|x-jat|Kukuriraige: Sanseitai Denki
 15291|2|x-jat|Kukuriraige: Sanxingdui Denki
+19452|3|x-jat|kukurupu
 5001|4|et|Külaarst
 17773|4|hu|Küldetés: A Yozakura család
 469|2|tr|Kulenin Gizemi
@@ -29417,6 +29421,7 @@
 6783|4|fr|La mélodie du ciel
 17773|4|es-419|La Misión de la Familia Yozakura
 1859|4|es|La nave fantasma
+18867|4|es|La nobleza de las flores
 1131|4|es|La novia de la oscuridad
 14530|4|es-419|La Novia del Maestro Nobunaga
 2293|2|es|La Novicia Rebelde
@@ -42007,6 +42012,7 @@
 13045|1|x-jat|PoPo Loouise
 1324|1|x-jat|PopoloCrois
 651|4|pt-BR|Popolocrois
+651|4|pt|Popolocrois
 1324|2|x-jat|PoPoLoCrois - Tsuki no Okite no Bouken
 651|3|x-jat|popolocrois (1998)
 651|1|x-jat|Popolocrois Monogatari
@@ -51046,9 +51052,8 @@
 6201|1|x-jat|Tako ni Natta Okaasan
 6837|1|x-jat|Tako no Hone
 8389|2|x-jat|Tako-chan
-19038|1|x-jat|Takopi no Genzai
 19038|4|en|Takopi`s Original Sin
-19038|2|x-jat|Takopii no Genzai
+19038|1|x-jat|Takopii no Genzai
 3578|2|x-jat|Takoyaki Mant-Man
 3578|1|x-jat|Takoyaki Mantman
 3578|2|x-jat|Takoyaki Mantoman
@@ -55336,7 +55341,7 @@
 10536|1|x-jat|Tsubu Doll
 10536|2|x-unk|Tsubu★Doll
 18482|1|x-jat|Tsue to Tsurugi no Wistoria
-18889|1|x-jat|Tsue to Tsurugi no Wistoria 2
+18889|1|x-jat|Tsue to Tsurugi no Wistoria (2026)
 9401|1|x-jat|Tsugou no Yoi Sexfriend?
 14728|1|x-jat|Tsugu Tsugumomo
 14728|4|en|Tsugu Tsugumomo
@@ -57844,7 +57849,7 @@
 8076|4|en|Wish Upon the Pleiades
 10958|4|en|Wish Upon the Pleiades (2015)
 18482|4|en|Wistoria: Wand and Sword
-18889|2|en|Wistoria: Wand and Sword 2
+18889|2|en|Wistoria: Wand and Sword (2026)
 4121|2|pl|Witaj w NHK!
 9496|1|x-jat|Witch Craft Works
 9496|4|en|Witch Craft Works
@@ -59820,6 +59825,7 @@
 14437|3|x-jat|Yurucamp S2
 17676|3|x-jat|Yurucamp S3
 14439|2|x-jat|Yurucamp: Heya Camp
+19453|1|x-jat|Yurukawa Mell-chan
 12743|2|x-jat|Yurukyan
 6355|1|x-jat|Yurumates
 9144|1|x-jat|Yurumates (2012)
@@ -73797,6 +73803,7 @@
 11846|4|ja|クオリディア・コード
 17267|4|ja|ググミちゃん
 15291|4|ja|ククリレイジュ -三星堆伝奇-
+19452|3|ja|くくルプ
 4513|4|ja|くじびき♥アンバランス
 2163|4|ja|くじびきアンバランス
 4513|2|ja|くじびきアンバランス (2006)
@@ -77532,6 +77539,7 @@
 4727|2|ja|ピピ とべないホタル
 10101|4|ja|ひびけ! 和だいこ
 9242|4|ja|ビビッドレッド・オペレーション
+19083|3|ja|ひびめし
 7247|4|ja|ヒピラくん
 15289|4|ja|ヒプノシスマイク -Division Rap Battle- Rhyme Anima
 17950|4|ja|ヒプノシスマイク -Division Rap Battle- Rhyme Anima +
@@ -79208,6 +79216,7 @@
 17372|4|ja|ゆりかごのうた
 13498|4|ja|ユリシーズ ジャンヌ・ダルクと錬金の騎士
 10811|4|ja|ユリ熊嵐
+19453|4|ja|ゆるかわメルちゃん
 12743|4|ja|ゆるキャン△
 14437|4|ja|ゆるキャン△ SEASON2
 17676|4|ja|ゆるキャン△ SEASON3
@@ -87633,6 +87642,7 @@
 2858|2|zh-Hans|曙光少女
 7680|4|zh-Hans|更多 出包王女
 16250|4|zh-Hans|更衣人偶坠入爱河
+17630|4|zh-Hans|更衣人偶坠入爱河 第二季
 7370|4|ja|書家
 17157|4|zh-Hant|書蟲公主
 8229|4|zh-Hans|曾几何时天魔的黑兔
@@ -87892,7 +87902,7 @@
 3479|4|ja|村正
 6705|4|ja|村祭
 18482|4|ja|杖と剣のウィストリア
-18889|4|ja|杖と剣のウィストリア 2
+18889|4|ja|杖と剣のウィストリア (2026)
 18482|2|zh-Hans|杖与剑的魔剑谭
 18889|4|zh-Hans|杖与剑的魔剑谭 第二季
 7471|4|ja|杜子春
@@ -94200,6 +94210,7 @@
 11530|4|zh-Hans|青春水球社
 11533|2|zh-Hant|青春波紋
 18516|4|zh-Hant|青春特調蜂蜜檸檬蘇打
+18300|4|zh-Hans|青春猪头少年不会梦到圣诞服女郎
 14397|4|zh-Hans|青春猪头少年不会梦到怀梦美少女
 17862|4|zh-Hans|青春猪头少年不会梦到红书包女孩
 13565|4|zh-Hans|青春的情爱文学
