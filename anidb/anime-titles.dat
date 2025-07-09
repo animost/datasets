@@ -1,4 +1,4 @@
-# created: Mon Jul  7 03:00:02 2025
+# created: Tue Jul  8 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -17577,8 +17577,8 @@
 11602|4|zh-Hans|GATE 奇幻自卫队 炎龙篇
 10982|4|ja|GATE 自衛隊 彼の地にて, 斯く戦えり
 11602|4|ja|GATE 自衛隊 彼の地にて, 斯く戦えり (2016)
-10982|1|x-jat|Gate: Jieitai Kanochi nite, Kaku Tatakaeri
-11602|1|x-jat|Gate: Jieitai Kanochi nite, Kaku Tatakaeri (2016)
+10982|1|x-jat|Gate: Jieitai Kano Chi nite, Kaku Tatakaeri
+11602|1|x-jat|Gate: Jieitai Kano Chi nite, Kaku Tatakaeri (2016)
 11602|2|x-jat|Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2
 10982|2|en|Gate: Thus the JSDF Fought There
 11602|2|en|Gate: Thus the JSDF Fought There, Season 2
@@ -34703,6 +34703,7 @@
 18900|2|en|Mission: Yozakura Family (2026)
 2291|4|de|Missis Jo und ihre fröhliche Familie
 264|1|x-jat|Mister Ajikko
+19454|1|x-jat|Mister Giants Eikou no Sebangou San
 1678|2|en|Mister Ikkyu
 14698|2|en|Mister Washer!: She and I in the Female Bath!?
 3524|4|en|Mistreated Bride
@@ -68865,6 +68866,7 @@
 10387|2|ko|더 이상 끼워서는 안돼 - 별에게 부탁했더니 이렇게 화가 나 버렸어!
 129|4|ko|더 파이팅
 6153|4|ko|더 파이팅 New Challenger
+19312|2|ko|더럽혀진 그녀
 2188|2|ko|더블 위시
 17564|4|ko|던전밥
 10894|4|ko|던전에서 만남을 추구하면 안 되는 걸까
@@ -70126,6 +70128,7 @@
 4920|2|ko|아체레란도: 타락천사들의 속삭임
 4904|4|ko|아치와 씨팍
 8873|2|ko|아침까지 수업 chu!
+19228|2|ko|아침까지 즙범벅 모녀덮밥!!
 8416|4|ko|아침부터 묵직한・밀크 포트
 16913|2|ko|아카네는 홀려 물들여진다
 16166|4|ko|아케비의 세일러복
@@ -70401,6 +70404,7 @@
 5331|2|ko|영재광육
 12742|2|ko|영혼: Insert
 9235|4|ko|옆자리의 괴물군
+19313|2|ko|옆집 그녀
 15215|4|ko|예를 들어 라스트 던전 앞 마을의 소년이 초반 마을에서 사는 듯한 이야기
 1606|2|ko|예종학원
 2533|2|ko|오! 나의 여신님
@@ -71442,6 +71446,7 @@
 6438|2|ko|프린세스 러버
 7577|2|ko|프린세스 러버! OVA
 664|2|ko|프린세스 로드 ~장미와 해골의 문장~
+19240|2|ko|프린세스 버스트!
 17177|4|ko|프린세스 아야
 13031|4|ko|프린세스 프린서플
 1665|2|ko|프린세스 홀리데이
@@ -78734,6 +78739,7 @@
 13049|4|ja|ミス・モノクロームMUSIC CLIPS
 1328|4|ja|みずいろ
 752|4|ja|みずいろ (2003)
+19454|4|ja|ミスター・ジャイアンツ 栄光の背番号３
 14615|4|ja|ミスター・シャドウ
 264|4|ja|ミスター味っ子
 2022|2|ja|みすて♡ないでデイジー
@@ -85458,6 +85464,7 @@
 14399|4|zh-Hans|强奸合法化
 3185|4|zh-Hans|强殖装甲凯普
 1412|4|zh-Hans|强殖装甲凯普 剧场版
+17672|4|zh-Hans|强者的新传说
 5970|2|zh-Hans|强袭魔女
 14205|4|zh-Hans|强袭魔女 501部队出发!
 8272|4|zh-Hans|强袭魔女 剧场版
@@ -88614,6 +88621,7 @@
 15683|2|zh-Hans|民调局异闻录 第1季
 18759|2|zh-Hans|民调局异闻录 第2季
 18759|2|zh-Hans|民调局异闻录之白发沈辣
+19143|2|zh|气绝勇者与暗杀公主
 19167|4|ja|気になってる人が男じゃなかった
 3480|4|ja|気になるルームメイト
 13501|4|ja|気に入った膣にいきなり中出しOKなリゾート島
@@ -88626,6 +88634,7 @@
 6477|2|ja|気持ちいい事して下さい
 11419|4|ja|気球
 19143|4|ja|気絶勇者と暗殺姫
+19143|2|zh-Hant|氣絕勇者與暗殺公主
 4105|4|ja|水グモもんもん
 4346|4|ja|水のコトバ
 4485|4|ja|水のたね
@@ -90862,6 +90871,7 @@
 7678|2|ja|秘湯めぐり隠れ湯
 15299|4|zh-Hans|租借女友
 17629|4|zh-Hans|租借女友 第三季
+18753|4|zh-Hans|租借女友 第四季
 15299|2|zh-Hans|租赁女友
 15784|4|zh-Hans|秦侠
 16192|4|zh-Hans|秦岭神树: 秦岭神树
@@ -93885,6 +93895,7 @@
 18985|4|zh-Hans|阳光马达棒球场!
 4112|2|zh-Hans|阴守忍者
 15240|4|zh-Hans|阴晴不定大哥哥
+19200|4|zh-Hans|阴阳回天 Re:Birth
 2512|4|zh-Hans|阴阳大战记
 17641|4|zh-Hans|阴阳师
 14191|4|zh-Hans|阴阳师·平安物语
@@ -93957,6 +93968,7 @@
 15422|2|ja|陰陽師本格幻想RPG 不知火CG本編
 19200|4|ja|陰陽廻天 Re:バース
 16132|4|zh-Hant|陰陽眼見子
+19200|4|zh-Hant|陰陽迴天 Re：Birth Verse
 15874|4|ja|陸上部女子は俺の生オナホ!!! The Animation
 444|4|ja|陸上防衛隊まおちゃん
 1663|4|ja|陸奥圓明流外伝 修羅の刻
