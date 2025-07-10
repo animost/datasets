@@ -1,4 +1,4 @@
-# created: Tue Jul  8 03:00:02 2025
+# created: Wed Jul  9 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4408,6 +4408,7 @@
 19267|2|en|Bad Guys 7
 2375|4|en|Bad Teacher Equation
 8441|1|x-kot|Badaui Jeonseol Jangbogo
+18716|2|en|BADGIRL
 7842|2|en|Badtz-Maru in The Ants and the Grasshopper
 7827|2|en|Badtz-Maru in The Shepherd Boy and the Wolf
 8438|2|x-kot|Baeku
@@ -9055,6 +9056,7 @@
 7008|2|en|Class President is a Maid!
 1876|4|en|Class Reunion
 2421|4|en|Class Reunion Again
+1078|2|hi|Classic Doraemon
 18728|1|x-jat|Classic Stars
 18728|4|en|Classic Stars
 7051|2|en|Classic Tales Retold
@@ -19371,6 +19373,7 @@
 13734|1|x-jat|Grand Blue
 13734|4|en|Grand Blue Dreaming
 18892|4|en|Grand Blue Dreaming Season 2
+18892|2|x-jat|Grand Blue S2
 18892|1|x-jat|Grand Blue Season 2
 15483|4|en|Grand Blues!
 14975|2|fr|Grand frère, reste jusqu’au petit matin !
@@ -23402,6 +23405,7 @@
 6212|2|en|Ichigo Mashimaro Encore
 4559|2|en|Ichigo Mashimaro OVA
 6212|2|x-jat|Ichigo Mashimaro: Encore
+19455|1|x-jat|Ichijouma Mankitsu Kurashi!
 2787|3|x-jat|IchiMashi
 12832|1|x-jat|Ichinen Buri no The Animation
 13813|2|x-jat|Ichinichi Gaishutsuroku Hanchou
@@ -24230,6 +24234,7 @@
 2321|4|es-419|Inuyasha - Fuego En Las Islas Místicas
 1320|4|es-419|Inuyasha - La Espada Que Domina El Mundo
 1320|4|it|InuYasha - La Spada del Dominatore del Mondo
+903|6|pt|InuYasha - O Filme 2 - O Castelo de Sonhos no Espelho
 1320|2|en|InuYasha - Sword of World Conquest
 903|2|en|InuYasha - The Castle Beyond the Looking Glass
 2321|2|en|InuYasha - The Crimson Hourai Island
@@ -24239,9 +24244,7 @@
 1320|2|en|InuYasha - The World Conquering Swords
 273|4|pt|InuYasha 1: Sentimentos que Transcendem o Tempo
 903|4|pt|Inuyasha 2 - O Castelo de Sonhos no Espelho
-903|2|pt|Inuyasha 2: O Castelo da Fantasia no Espelho
-903|2|pt|InuYasha 2: O Castelo das Ilusões Dentro do Espelho
-903|2|pt|InuYasha 2: O Castelo para lá do Espelho
+903|4|pt-BR|InuYasha 2: O Castelo das Ilusões Dentro do Espelho
 1320|4|pt|InuYasha 3: A Espada Dominadora do Mundo
 2321|4|pt|InuYasha 4: Fogo na Ilha Mística
 273|4|fr|Inuyasha Film 1 : Au-delà du Temps
@@ -25695,7 +25698,7 @@
 14257|3|x-jat|kabulock
 15497|3|x-jat|kabulock ova
 18292|1|x-jat|Kabushikigaisha Magilumiere
-19063|1|x-jat|Kabushikigaisha Magilumiere 2
+19063|1|x-jat|Kabushikigaisha Magilumiere (2026)
 2636|4|en|Kabuto
 4756|3|x-jat|kabutoborg
 2816|2|x-jat|Kabutomushi Ouja Mushiking: Mori no Tami no Densetsu
@@ -25968,6 +25971,7 @@
 8634|1|x-jat|Kakko-Kawaii Sengen! 2
 16188|3|x-jat|kakkou
 16188|2|x-jat|Kakkou no Iinazuke
+18773|2|x-jat|Kakkou no Iinazuke S2
 6694|1|x-jat|Kakkun Cafe
 6694|4|ja|KAKKUN CAFÉ
 13166|1|x-jat|Kako Pad: Nagaoka Hanabi Monogatari
@@ -26248,6 +26252,7 @@
 17498|1|x-jat|Kanojo ga Koushaku-tei ni Itta Riyuu
 7929|1|x-jat|Kanojo ga Mimai ni Konai Wake
 11162|1|x-jat|Kanojo ga Nekomimi ni Kigaetara
+19456|1|x-jat|Kanojo ga Separate o Matou Riyuu
 15586|1|x-jat|Kanojo ga Yatsu ni Dakareta Hi
 15851|1|x-jat|Kanojo mo Kanojo
 17628|1|x-jat|Kanojo mo Kanojo (2023)
@@ -32258,7 +32263,7 @@
 4074|4|en|Magikano
 18292|2|en|Magilumiere Co. Ltd.
 18292|4|en|Magilumiere Magical Girls Inc.
-19063|2|en|Magilumiere Magical Girls Inc. 2
+19063|2|en|Magilumiere Magical Girls Inc. (2026)
 10609|2|x-jat|Magimoji Rurumo
 10609|4|en|Magimoji Rurumo
 14406|4|en|Magimoji Rurumo: The Conclusion
@@ -39751,6 +39756,7 @@
 18673|1|x-jat|Osomatsu-san (2025)
 15627|2|x-jat|Osomatsu-san 3rd Season
 12944|2|x-jat|Osomatsu-san S2
+18673|2|x-jat|Osomatsu-san S4
 12472|4|en|Osomatsu-san: An Anecdote with Horses
 16369|1|x-jat|Osomatsu-san: Hipipo-zoku to Kagayaku Kajitsu
 12472|1|x-jat|Osomatsu-san: Ouma de Kobanashi
@@ -40118,6 +40124,7 @@
 8975|1|x-jat|Paboo & Mojies
 10946|4|en|Pac-Man and the Ghostly Adventures
 10946|4|pl|Pac-Man i upiorne przygody
+10946|4|es-419|Pac-Man y las aventuras fantasmales
 10946|1|x-jat|Pac-World
 6696|1|x-jat|Pacchin Shite! Obaa-chan
 4684|2|en|Pachinko Slot Noble Gin
@@ -43648,6 +43655,7 @@
 14792|4|de|Re:ZERO -Starting Life in Another World- 2
 15593|4|de|Re:ZERO -Starting Life in Another World- 2 Cour 2
 17947|4|de|Re:ZERO -Starting Life in Another World- 3
+19242|4|de|Re:ZERO -Starting Life in Another World- 4
 13430|2|en|Re:ZERO -Starting Life in Another World- OVAs
 13430|4|de|Re:ZERO -Starting Life in Another World- OVAs
 14792|4|th|Re:ZERO -รีเซทชีวิต ฝ่าวิกฤตต่างโลก- ภาคที่ 2
@@ -48217,6 +48225,7 @@
 2334|2|x-jat|Silent Moebius: The Motion Picture
 1185|4|en|Silent Service
 10937|4|fr|Silent Voice
+18795|4|zh-Hans|Silent Witch 沉默魔女的秘密
 18795|1|x-jat|Silent Witch: Chinmoku no Majo no Kakushigoto
 4560|2|en|Silk Road Boy Yuto
 4560|1|x-jat|Silk Road Shounen Yuuto
@@ -57439,7 +57448,7 @@
 18203|4|en|Watari-kun`s ****** Is About to Collapse
 18749|1|x-jat|Wataridori to Katatsumuri
 3636|3|x-jat|wataru
-19001|1|x-jat|Watashi ga Koibito ni Nareru Wakenaijan, Muri Muri! (*Muri Janakatta!?)
+19001|1|x-jat|Watashi ga Koibito ni Nareru Wakenai jan, Muri Muri! (*Muri ja Nakatta!?)
 9582|1|x-jat|Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!
 10064|1|x-jat|Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!: Motenai shi, Nazo Meite Miru
 11979|1|x-jat|Watashi ga Motete Dou Sunda
@@ -79925,6 +79934,7 @@
 13383|4|ja|一求乳魂
 1679|4|ja|一球さん
 17278|2|ja|一番光れ!
+19455|4|ja|一畳間まんきつ暮らし!
 9082|4|ja|一発必中!! デバンダー
 3094|4|ja|一発貫太くん
 18528|4|ja|一瞬で治療していたのに役立たずと追放された天才治癒師, 闇ヒーラーとして楽しく生きる
@@ -80350,6 +80360,7 @@
 7939|4|zh-Hant|丹特麗安的書架
 18042|4|zh-Hans|丹道宗师
 18920|4|zh-Hans|丹道至尊
+17700|4|zh-Hans|为丑女献上花束
 17523|4|zh-Hans|为了养老金去异世界存八万金
 17504|4|zh-Hans|为了在异世界也能抚摸毛茸茸而努力
 14693|2|zh-Hans|为了女儿，我说不定连魔王都能干掉
@@ -81196,6 +81207,7 @@
 11344|4|zh-Hans|克拉斯卡劳埃德
 13069|4|zh-Hans|克拉斯卡劳埃德 第二季
 19379|4|zh-Hans|克金玩家
+18730|4|zh-Hans|克雷瓦提斯: 魔兽之王与婴儿与尸之勇者
 6844|4|ja|兎と亀
 4580|2|ja|児玉あい
 4581|2|ja|児玉ひかる
@@ -85513,6 +85525,7 @@
 17629|4|ja|彼女, お借りします (2023)
 18753|4|ja|彼女, お借りします (2025)
 7136|4|ja|彼女×彼女×彼女~三姉妹とのドキドキ共同生活~
+19456|4|ja|彼女がセパレートをまとう理由
 11162|4|ja|彼女がネコミミに着替えたら
 9524|4|ja|彼女がフラグをおられたら
 10665|4|ja|彼女がフラグをおられたら クリスマス? そんな物が僕に通用すると思うのか?
@@ -88067,7 +88080,7 @@
 4222|2|zh-Hant|校園迷糊大王 二學期
 8282|4|ja|校長先生とクジラ
 18292|4|ja|株式会社マジルミエ
-19063|4|ja|株式会社マジルミエ 2
+19063|4|ja|株式会社マジルミエ (2026)
 15768|4|ja|核晶少年
 7933|4|zh-Hans|核爆末世录
 7933|4|zh-Hant|核爆末世錄
@@ -88436,6 +88449,7 @@
 214|4|zh-Hans|次强音
 492|4|zh-Hans|欢乐世界
 14241|4|zh-Hans|欢迎光临千岁酱
+19054|4|zh-Hans|欢迎光临流放者食堂！
 4121|2|zh-Hans|欢迎加入NHK!
 4121|2|zh-Hans|欢迎来到NHK!
 14223|4|zh-Hans|欢迎来到加帕里公园
@@ -88473,6 +88487,7 @@
 17208|2|zh-Hant|歡迎來到實力至上主義的教室 第二季
 18361|4|zh-Hant|歡迎來到日本，妖精小姐。
 18012|4|zh-Hant|歡迎來到駒田蒸餾所
+19054|4|zh-Hant|歡迎光臨流放者食堂！
 4121|2|zh-Hant|歡迎加入NHK!
 6834|4|ja|正ちゃんの冒険
 19069|4|zh-Hans|正义使者 -我的英雄学院之非法英雄-
@@ -88641,6 +88656,7 @@
 11094|4|ja|水の精・河童百図
 2145|4|ja|水夏 ~SUIKA~
 19097|4|ja|水属性の魔法使い
+19097|4|zh-Hant|水屬性的魔法師
 2763|2|zh-Hans|水平线上的阴谋
 2659|4|zh-Hant|水星領航員 The ANIMATION
 11059|4|zh-Hant|水星領航員 The AVVENIRE
@@ -89286,6 +89302,7 @@
 11466|4|zh-Hans|炸猪排DJ扬太郎
 14361|4|ja|点
 17222|2|zh-Hans|点满农民相关技能后，不知为何就变强了。
+17700|4|zh-Hant|為丑女獻上花束
 17523|2|zh-Hant|為了養老金去異界存八萬金
 14413|4|zh-Hant|為什麼老師會在這裡！？
 16446|2|zh-Hant|為美好的世界獻上爆焰！
