@@ -1,4 +1,4 @@
-# created: Wed Jul  9 03:00:01 2025
+# created: Thu Jul 10 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6265,6 +6265,7 @@
 17144|1|x-jat|Bloody Escape: Jigoku no Tousou Geki
 8756|1|x-jat|Bloody Night
 8756|4|ja|BLOODY NIGHT
+18867|4|fr|Bloom
 14053|4|en|Bloom into You
 14053|4|fr|Bloom Into You
 9044|1|x-jat|Blossom
@@ -34367,6 +34368,7 @@
 7525|4|nl|Mijn Zusje kan Onmogelijk zo Schattig zijn
 9134|4|nl|Mijn Zusje kan Onmogelijk zo Schattig zijn.
 18731|1|x-jat|Mikadono San Shimai wa Angai, Choroi.
+18731|2|x-jat|Mikadono Sanshimai wa Angai, Choroi.
 1546|2|en|Mikagura Detective Agency
 1546|4|es|Mikagura detectives privados
 10969|1|x-jat|Mikagura Gakuen Kumikyoku
@@ -51384,6 +51386,7 @@
 13246|3|en|Tate no Yuusha
 13246|1|x-jat|Tate no Yuusha no Nariagari
 15070|2|x-jat|Tate no Yuusha no Nariagari S2
+18439|2|x-jat|Tate no Yuusha no Nariagari S4
 15070|1|x-jat|Tate no Yuusha no Nariagari Season 2
 15071|1|x-jat|Tate no Yuusha no Nariagari Season 3
 18439|1|x-jat|Tate no Yuusha no Nariagari Season 4
@@ -57894,6 +57897,7 @@
 15297|4|en|With a Dog and a Cat, Everyday Is Fun
 16325|2|en|With a Fogie Reincarnated as a Pretty Fantasy Girl
 12100|2|en|With Love
+19442|4|en|With Vengeance Sincerely Your Broken Saintess
 605|4|ja|With You ~みつめていたい~
 18824|4|en|With You and the Rain
 19107|2|en|With You, Our Love Will Make It Through
