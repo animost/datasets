@@ -1,4 +1,4 @@
-# created: Thu Jul 10 03:00:01 2025
+# created: Fri Jul 11 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -15585,6 +15585,7 @@
 12704|4|hu|Fate / Apokrifek
 12046|4|hu|Fate / EXTRA Az utolsó ráadás
 9900|3|en|Fate Kaleid OVA
+19457|4|en|Fate Rewinder
 3348|2|x-jat|Fate Stay Night
 9977|2|x-jat|Fate Stay Night - Unlimited Blade Works
 10760|2|x-jat|Fate Stay Night - Unlimited Blade Works S2
@@ -18911,6 +18912,8 @@
 18725|2|en|Go! Go! Loser Ranger! Season 2
 3159|2|en|Go! Go! Quintuplets Land
 17972|1|x-jat|Go! Go! Vehicle Zoo
+19461|1|x-jat|Go! Go! Vehicle Zoo (2024)
+19460|1|x-jat|Go! Go! Vehicle Zoo: Vehicle Star-hen
 10903|1|x-jat|Go! Princess Precure
 10903|4|en|Go! Princess Precure
 10903|4|zh-Hans|Go! Princess 光之美少女
@@ -22419,6 +22422,7 @@
 4422|2|en|Honey and Clover 2
 4422|4|en|Honey and Clover II
 6600|4|en|Honey Bee in Toycomland
+19458|1|x-jat|Honey Blonde
 2048|4|en|Honey Honey
 2048|4|pt-BR|Honey Honey
 2048|4|es-419|Honey Honey
@@ -23157,6 +23161,7 @@
 18541|2|en|I Am Behemoth of the S Rank Monster, but I Am Mistaken as a Cat and I Live as a Pet of Elf Girl
 2105|2|en|I Am Hanitarou
 13974|2|en|I Am Nezha
+19459|2|en|I am the Blade
 16585|2|en|I Am The Only One
 3997|2|en|I am THE Shiratori Reiko!
 16633|2|en|I Am What I Am
@@ -27793,7 +27798,7 @@
 11692|4|en|Kiznaiver
 11692|4|fr|Kiznaiver
 19087|1|x-jat|Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara o Eru
-19442|1|x-jat|Kizu darake Seijo yori Houfuku wo Komete
+19442|1|x-jat|Kizu Darake Seijo yori Houfuku o Komete
 10139|1|x-jat|Kizudarake no Ringo
 8357|1|x-jat|Kizumonogatari
 8357|4|en|Kizumonogatari
@@ -32780,6 +32785,7 @@
 12804|1|x-jat|Makeruna!! Aku no Gundan!
 8835|1|x-jat|Maki-chan to Nau.
 2299|1|x-jat|Makiba no Shoujo Katri
+19457|3|x-jat|makimodoshi
 18621|4|en|Makina-san`s a Love Bot?!
 13898|2|tr|Makine Sirki
 647|2|de|Making
@@ -34429,6 +34435,7 @@
 13213|1|x-jat|Milky Panic: Twelve
 6491|2|ja|MILKY Passion 道玄坂 愛の城
 6491|1|x-jat|Milky Passion: Dougenzaka - Ai no Shiro
+19435|4|en|Milky Subway: The Galactic Limited Express
 2502|1|x-jat|Milkyway
 2502|4|ja|Milkyway
 3043|2|ja|MILKジャンキー 姉妹編
@@ -40091,6 +40098,7 @@
 11925|4|ja|OZMAFIA!!
 11925|4|en|Ozmafia!!
 8913|1|x-jat|Ozuma
+335|4|cs|Ozvěna vln moře
 3204|4|id|P-Man
 323|3|x-jat|P10
 9299|3|x-jat|P3
@@ -48590,7 +48598,6 @@
 2176|2|en|Slutty Princess Diaries
 2176|4|en|Slutty-Princess Diaries
 7008|4|pl|Służąca przewodnicząca
-335|4|cs|Slyším mořské vlny
 235|3|x-jat|SM
 2152|3|x-jat|sm (1993)
 2151|3|x-jat|sm (1994)
@@ -50212,6 +50219,7 @@
 3320|1|x-jat|Sugar Sugar Rune
 19443|4|ja|SUGAR SUGAR RUNE Les deux sorcières
 19443|1|x-jat|Sugar Sugar Rune: Les Deux Sorcieres
+19443|2|en|Sugar Sugar Rune: The Two Witches
 9|2|en|Sugar: A Little Snow Fairy
 7300|2|en|Sugar: A Little Snow Fairy Special
 3320|2|x-unk|Sugar² Rune
@@ -56204,6 +56212,7 @@
 10710|4|en|Unlimited Fafnir
 9421|4|en|Unlimited Psychic Squad
 19362|2|en|Unmanned Station The Animation
+19457|1|x-jat|Unmei no Makimodoshi
 16960|1|x-jat|Unmei Sensen: Liddell-light
 17767|4|ja|Unnamed Memory
 17767|1|x-jat|Unnamed Memory
@@ -57955,6 +57964,7 @@
 14674|2|x-zht|Wo Shi Jiang Xiaobai Juchang Ban
 14674|1|x-zht|Wo Shi Jiang Xiaobai: Shijie Shang de Ling Yige Wo
 13974|1|x-zht|Wo Shi Nezha
+19459|1|x-zht|Wo Wei Dao Zong
 10187|1|x-zht|Wo Wei Ge Kuang
 15771|2|x-zht|Wo Wei Ge Kuang 2
 15771|1|x-zht|Wo Wei Ge Kuang: Xuanlu Chongqi
@@ -74163,7 +74173,9 @@
 4301|4|ja|コ・コ・ロ・・・
 12979|4|ja|ゴ~~ジャス
 17972|4|ja|ゴー! ゴー! びーくるずー
+19461|4|ja|ゴー！ゴ―！びーくるずー
 6093|2|ja|ゴー!ゴー!アックマン
+19460|4|ja|ゴー！ゴー！びーくるずー のりものスター編
 6093|2|ja|ゴーゴーアックマン
 3159|4|ja|ゴーゴー五つ子ら・ん・ど
 19093|2|ja|ゴースト・オブ・ツシマ レジェンズ
@@ -77156,6 +77168,7 @@
 10351|4|ja|ハナヤマタ
 3974|4|ja|はなれ砦のヨナ
 2048|4|ja|ハニーハニーのすてきな冒険
+19458|4|ja|ハニーブロンド
 18516|4|ja|ハニーレモンソーダ
 7911|4|ja|ハニー東京
 19330|3|ja|はにすか
@@ -80079,6 +80092,7 @@
 15613|4|zh-Hans|三剑豪之半面人
 11880|4|ja|三匹の小熊さん
 18374|4|zh-Hans|三十六骑
+1383|4|zh-Hans|三千里寻母记
 3|4|zh-Hans|三只眼 圣魔传说
 10325|4|zh-Hans|三和
 7712|4|ja|三国志
@@ -85203,6 +85217,7 @@
 941|4|zh-Hans|巴欧来访者
 13948|4|zh-Hans|巴比伦
 3627|4|ja|巴里のイザベル
+19457|3|ja|巻戻士
 7172|4|ja|市制刷新
 11361|4|ja|布団
 17856|4|zh-Hans|师兄啊师兄
@@ -86120,6 +86135,7 @@
 9582|4|zh-Hant|我不受歡迎，怎麼想都是你們的錯！
 9230|4|zh-Hans|我与亲爱哥哥的日常
 17428|4|zh-Hans|我与机器妹
+19459|4|zh-Hans|我为刀宗
 10187|4|zh|我为歌狂
 15771|4|zh-Hans|我为歌狂之旋律重启
 8181|4|zh-Hans|我们仍未知道那天所看见的花的名字.
@@ -93298,6 +93314,7 @@
 12659|4|zh-Hant|遊戲王VRAINS
 1821|4|ja|遊星仮面
 4282|4|ja|遊星少年パピイ
+19457|4|ja|運命の巻戻士
 16960|4|ja|運命戦線 リデルライト
 16019|4|ja|過呼吸
 8457|4|ja|道
