@@ -1,4 +1,4 @@
-# created: Fri Jul 11 03:00:01 2025
+# created: Sat Jul 12 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -10318,6 +10318,7 @@
 1815|3|x-jat|Daimos
 1815|2|it|Daimos il Generale
 17702|2|x-jat|Dainanaoji
+18694|2|x-jat|Dainanaoji S2
 13028|1|x-jat|Dainiji Ura Nyuugakushiken The Animation
 18476|1|x-jat|Dainouteki na Rendezvous
 2018|1|x-jat|Daisetsuzan no Yuusha Kibaou
@@ -11162,7 +11163,7 @@
 14107|4|it|Demon Slayer
 14107|4|de|Demon Slayer
 14107|4|hu|Demon Slayer - A démonvadász
-14107|4|pt|Demon Slayer - Kimetsu No Yaiba
+14107|4|pt|Demon Slayer - Kimetsu no Yaiba
 15113|4|pt|Demon Slayer - Kimetsu no Yaiba - O Filme: Comboio Infinito
 15113|4|pt-BR|Demon Slayer - Mugen Train: O Filme
 15113|4|de|Demon Slayer -Kimetsu no Yaiba- the Movie: Mugen Train
@@ -11183,6 +11184,8 @@
 14107|4|fr|Demon Slayer: Kimetsu no Yaiba
 16054|4|es-419|Demon Slayer: Kimetsu no Yaiba - Arco del Distrito Rojo
 16803|4|es-419|Demon Slayer: Kimetsu no Yaiba - Arco del Tren Infinito
+16803|4|pt|Demon Slayer: Kimetsu no Yaiba - Arco do Comboio Infinito
+16054|4|pt|Demon Slayer: Kimetsu no Yaiba - Arco do Distrito do Entretenimento
 17069|4|en|Demon Slayer: Kimetsu no Yaiba - Asakusa Arc
 18699|4|pt|Demon Slayer: Kimetsu no Yaiba - Castelo Infinito
 16054|4|fr|Demon Slayer: Kimetsu no Yaiba - Le quartier des plaisirs
@@ -12341,6 +12344,7 @@
 2355|2|x-jat|Document Taiyou no Kiba Dagram
 2355|1|x-jat|Document Taiyou no Kiba Dougram
 14606|1|x-kot|Dodani
+19462|3|x-jat|Dodge Danko
 2786|3|x-jat|Dodge Danpei
 19330|2|en|Does It Count if You Lose Your Virginity to an Android?
 9663|4|en|Dog & Scissors
@@ -22525,6 +22529,7 @@
 2172|1|x-jat|Honoo no Mirage: Minagiwa no Hangyakusha
 2980|1|x-jat|Honoo no Tenkousei
 2786|1|x-jat|Honoo no Toukyuuji: Dodge Danpei
+19462|1|x-jat|Honoo no Toukyuujo: Dodge Danko
 1511|2|x-jat|Honoo Tripper
 18409|4|en|Honor of Kings: Chapter of Glory
 18409|2|en|Honor of Kings: Chapter of Glory - Broken Moon
@@ -30775,6 +30780,7 @@
 15363|2|en|Log Horizon 3
 10551|2|en|Log Horizon II
 15363|4|en|Log Horizon: Destruction of the Round Table
+15363|4|de|Log Horizon: Destruction of the Roundtable
 15363|1|x-jat|Log Horizon: Entaku Houkai
 10551|4|de|Log Horizon: Staffel 2
 15363|4|ru|Log Horizon: Падение Круглого стола
@@ -39961,7 +39967,7 @@
 13769|1|x-jat|OVA Muttsuri Do Sukebe Ro Gibo Shimai no Honshitsu Minuite Sex Zanmai
 19414|1|x-jat|OVA Pure Pure Pero Pero Princess
 11268|1|x-jat|OVA Tokyo Ghoul
-19313|1|x-jat|OVA Tonari Kanojo
+19313|1|x-jat|OVA Tonari no Kanojo
 11271|1|x-jat|OVA Tsunpuri
 6285|1|x-jat|OVA Utawarerumono
 19312|1|x-jat|OVA Yogoreta Kanojo
@@ -48283,6 +48289,7 @@
 365|4|ru|Sin: Создатели монстров
 785|4|tr|Sinbad
 11041|4|en|Sinbad
+11892|3|x-unk|Sinbad
 785|4|nl|Sinbad de Zeeman
 785|4|fr|Sinbad le marin
 785|4|pt|Sinbad, o Marinheiro
@@ -51261,6 +51268,7 @@
 11711|1|x-zht|Tang Lang Bu Chan
 14541|1|x-zht|Tangguo Shijie Da Maoxian
 3417|1|x-jat|Tanin no Kankei
+14107|6|pt|Tanjiro Kamado, Arco da Determinação Inabalável
 1155|1|x-jat|Tanjou: Debut
 17385|1|x-jat|Tanjoubi no Chachacha
 3112|3|x-jat|TANK
@@ -51400,6 +51408,7 @@
 18439|1|x-jat|Tate no Yuusha no Nariagari Season 4
 15070|3|x-jat|tate2
 15071|3|x-jat|tate3
+18439|3|x-jat|tate4
 4889|1|x-jat|Tatoe Kimi ga Sekaijuu no Teki ni Natte mo
 15215|1|x-jat|Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu You na Monogatari
 2230|2|x-jat|Tatsu no Ko Taro
@@ -72824,7 +72833,7 @@
 15050|4|ja|オイさんと40の物語
 13170|4|ja|おいでよ! 水龍敬ランド
 12305|4|ja|おいでよ! 私立ヤリまxり学園
-19282|4|ja|おいでよ魔法少女村（不法占拠）
+19282|4|ja|おいでよ魔法少女村(不法占拠)
 2685|5|ja|おいらスケバン
 6715|2|ja|おいらの野球
 12867|4|ja|おいらの非常時
@@ -76264,6 +76273,7 @@
 8882|2|ja|ドッグデイズ`
 14736|4|ja|とつくにの少女
 16091|4|ja|とつくにの少女 (2022)
+19462|3|ja|ドッジ弾子
 2895|4|ja|とつぜん! 猫の国 バニパルウィット
 5155|4|ja|どっちにする?
 11214|4|ja|どっちもメイド
@@ -89305,6 +89315,7 @@
 2172|4|ja|炎の蜃気楼~みなぎわの反逆者~
 2980|4|ja|炎の転校生
 2786|4|ja|炎の闘球児・ドッジ弾平
+19462|4|ja|炎の闘球女 ドッジ弾子
 515|4|zh-Hans|炎之迷宫
 14488|4|ja|炎炎ノ消防隊
 17420|4|ja|炎炎ノ消防隊 参ノ章
