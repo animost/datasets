@@ -1,4 +1,4 @@
-# created: Sat Jul 12 03:00:01 2025
+# created: Sun Jul 13 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -20125,6 +20125,7 @@
 3185|3|en|Guyver tv
 1412|4|en|Guyver: Out of Control
 3185|4|en|Guyver: The Bioboosted Armor
+18867|4|tr|Güzel Kokulu Çiçekler Zarafetle Açar
 2329|4|pl|Guziczek
 5092|4|pt-BR|Guzula
 229|3|x-jat|GW
@@ -27299,10 +27300,12 @@
 19418|1|x-jat|Kimetsu no Yaiba: Hashira Geiko Hen - Tokubetsu Henshuu Ban
 16258|1|x-jat|Kimetsu no Yaiba: Hashira Gou Kaigi - Chouyashiki Hen
 18922|1|x-jat|Kimetsu no Yaiba: Jougen Shuuketsu, Soshite Katanakaji no Sato
+19464|1|x-jat|Kimetsu no Yaiba: Jougen Shuuketsu, Soshite Katanakaji no Sato e
 17198|1|x-jat|Kimetsu no Yaiba: Katanakaji no Sato Hen
 18529|1|x-jat|Kimetsu no Yaiba: Katanakaji no Sato Hen - Tokubetsu Henshuu Ban
 18529|2|x-jat|Kimetsu no Yaiba: Katanakaji no Sato Tekishuu Hen
 18529|2|x-jat|Kimetsu no Yaiba: Katanakaji no Sato Tsunaida Kizuna Hen
+19463|1|x-jat|Kimetsu no Yaiba: Kizuna no Kiseki, Soshite Hashira Keiko e
 14689|1|x-jat|Kimetsu no Yaiba: Kyoudai no Kizuna
 16803|1|x-jat|Kimetsu no Yaiba: Mugen Ressha Hen
 16259|1|x-jat|Kimetsu no Yaiba: Natagumoyama Hen
@@ -67032,6 +67035,7 @@
 10875|2|ar|غيلان طوكيو A√
 13499|2|ar|غيلان طوكيو: Re
 14059|2|ar|غيلان طوكيو: Re (2018)
+1666|4|ar|غيمة
 4649|4|ar|فارس الحكايا
 1923|4|ar|فارس الفتى الشجاع
 524|4|ar|فارس الفضاء
@@ -94619,6 +94623,7 @@
 17642|4|zh-Hant|鬼武者
 4776|2|zh-Hans|鬼泣
 14107|4|ja|鬼滅の刃
+19464|4|ja|鬼滅の刃 上弦集結、そして刀鍛冶の里へ
 14689|4|ja|鬼滅の刃 兄妹の絆
 18529|2|ja|鬼滅の刃 刀鍛冶の里 敵襲編
 18529|2|ja|鬼滅の刃 刀鍛冶の里 繋いだ絆編
@@ -94629,6 +94634,7 @@
 19418|4|ja|鬼滅の刃 柱稽古編 特別編集版
 17069|4|ja|鬼滅の刃 浅草編
 16803|4|ja|鬼滅の刃 無限列車編
+19463|4|ja|鬼滅の刃 絆の奇跡、そして柱稽古へ
 17976|2|ja|鬼滅の刃 遊郭決戦編
 17976|2|ja|鬼滅の刃 遊郭潜入編
 16054|4|ja|鬼滅の刃 遊郭編
