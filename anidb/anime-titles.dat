@@ -1,4 +1,4 @@
-# created: Mon Jul 14 03:00:02 2025
+# created: Tue Jul 15 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -186,8 +186,6 @@
 19003|4|zh-Hans|「只能触摸一分钟哦...」合租房的秘密规则。
 15157|4|ja|「宇宙戦艦ヤマト」という時代 西暦2202年の選択
 12142|4|ja|「英雄」解体
-18922|4|ja|「鬼滅の刃」上弦集結、そして刀鍛冶の里へ
-19348|4|ja|「鬼滅の刃」絆の奇跡、そして柱稽古へ
 19028|4|ja|『Fate/Grand Order』 Explore Movie 2024
 18160|4|ja|『Fate/Grand Order』 Memorial Movie 2023
 17129|4|ja|『あなたを一言で表してください』の質問が苦手だ.
@@ -8827,6 +8825,7 @@
 3376|2|de|Chuck, der Biber (2. Staffel)
 3369|4|de|Chuck, der schlaue Biber
 3376|4|de|Chuck, der schlaue Biber (2. Staffel)
+19163|4|es|Chuhai Lips: Besos con Sabor a Pecado
 19163|4|en|Chuhai Lips: Canned Flavor of Married Women
 14954|1|x-zht|Chui Zhi Shi Jie
 13278|1|x-kot|Chuldong! Super Wings
@@ -8850,6 +8849,7 @@
 434|1|x-jat|Chuuka Ichiban!
 13813|1|x-jat|Chuukan Kanriroku Tonegawa
 12555|1|x-jat|Chuuko Video-ya no Onna Ten`in X
+19470|1|x-jat|Chuukou Ikkan! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu hen
 19096|1|x-jat|Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu Hen
 17949|1|x-jat|CHUUKOU IKKAN!! KIMETSU GAKUEN MONOGATARI: KIMETSU NO UTAGE TOKUBETSU-HEN
 16056|1|x-jat|Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Valentine Hen
@@ -11194,7 +11194,6 @@
 17198|4|pt|Demon Slayer: Kimetsu no Yaiba - Saga da Aldeia dos Ferreiros
 18067|4|pt|Demon Slayer: Kimetsu no Yaiba - Saga do Treino dos Pilares
 17070|4|en|Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc
-19348|1|en|Demon Slayer: Kimetsu no Yaiba -To the Hashira Training-
 17198|4|es-419|Demon Slayer: Kimetsu no Yaiba Arco de la Aldea de los Herreros
 18699|4|pt-BR|Demon Slayer: Kimetsu no Yaiba Castelo Infinito
 18699|4|es-419|Demon Slayer: Kimetsu no Yaiba Castillo Infinito
@@ -19616,6 +19615,8 @@
 7903|4|es-419|Ground Control to Psychoelectric Girl
 444|2|en|Ground Defence Mao-chan
 444|2|en|Ground Defense Force! Mao-chan
+19473|1|x-jat|Grow Up Show: Himawari no Circus-dan
+19473|2|en|Grow Up Show: The Sunflower Circus Troupe
 15844|2|en|Growing Up
 15845|2|en|Growing Up 2
 19404|4|en|Growing Up With Tiantian
@@ -22427,7 +22428,7 @@
 4422|2|en|Honey and Clover 2
 4422|4|en|Honey and Clover II
 6600|4|en|Honey Bee in Toycomland
-19458|1|x-jat|Honey Blonde
+19458|1|x-jat|Honey Blonde 2
 2048|4|en|Honey Honey
 2048|4|pt-BR|Honey Honey
 2048|4|es-419|Honey Honey
@@ -25891,12 +25892,15 @@
 17550|4|de|Kaiju No. 8
 18722|4|en|Kaiju No. 8 (2025)
 18722|4|de|Kaiju No. 8 Staffel 2
+19471|4|en|Kaiju No. 8: Mission Recon
 17550|2|en|Kaiju No.EIGHT
 17358|1|x-zht|Kaiju Yi Zuo Shan
 17550|1|x-jat|Kaijuu 8 Gou
 18722|1|x-jat|Kaijuu 8 Gou (2025)
+19471|1|x-jat|Kaijuu 8 Gou Dai 1 Ki Soushuuhen
 18722|2|x-jat|Kaijuu 8 Gou Season 2
-19468|1|x-jat|Kaijuu 8-gou Movie
+19471|2|x-jat|Kaijuu 8-gou - Mission Recon
+19471|2|x-jat|Kaijuu 8-gou Movie
 15269|2|x-jat|Kaijuu Decode
 17369|1|x-jat|Kaijuu ga Yattekuru
 13975|1|x-jat|Kaijuu Girls (Kuro): Ultra Kaijuu Gijinka Keikaku
@@ -26079,6 +26083,7 @@
 15642|1|x-jat|Kamen Rider Zero-One: Short Anime - Everyone`s Daily Life
 17006|1|x-jat|Kami Kuzu Idol
 14518|1|x-jat|Kami Machi Sana-chan The Animation
+19472|1|x-jat|Kami no Niwatsuki Kusunoki-tei
 15391|1|x-jat|Kami no Tou
 17559|1|x-jat|Kami no Tou (2024)
 17559|2|x-jat|Kami no Tou 2
@@ -27300,7 +27305,6 @@
 18067|1|x-jat|Kimetsu no Yaiba: Hashira Geiko Hen
 19418|1|x-jat|Kimetsu no Yaiba: Hashira Geiko Hen - Tokubetsu Henshuuban
 16258|1|x-jat|Kimetsu no Yaiba: Hashira Gou Kaigi - Chouyashiki Hen
-18922|1|x-jat|Kimetsu no Yaiba: Jougen Shuuketsu, Soshite Katanakaji no Sato
 17198|1|x-jat|Kimetsu no Yaiba: Katanakaji no Sato Hen
 18529|1|x-jat|Kimetsu no Yaiba: Katanakaji no Sato Hen - Tokubetsu Henshuuban
 18529|2|x-jat|Kimetsu no Yaiba: Katanakaji no Sato Tekishuu Hen
@@ -28939,6 +28943,7 @@
 11979|4|de|Küss ihn, nicht mich!
 2573|1|x-jat|Kussetsu
 19276|1|x-jat|Kusunoki no Bannin
+19472|2|en|Kusunoki`s Garden of Gods
 17870|1|x-jat|Kusuriya no Hitorigoto
 18562|1|x-jat|Kusuriya no Hitorigoto (2025)
 19444|1|x-jat|Kusuriya no Hitorigoto (Zokuhen)
@@ -33030,6 +33035,9 @@
 8338|2|x-jat|Manyuu Hikenchou
 4586|1|x-jat|Manzai Taikouki
 444|3|x-jat|mao
+19469|4|ja|MAO
+19469|1|x-jat|Mao
+19469|2|en|Mao
 731|4|it|Mao Dante
 16645|1|x-zht|Mao Ling Xiangce
 19132|1|x-zht|Mao Xing Dongfang
@@ -74049,6 +74057,7 @@
 3345|2|ja|グローランサーIV
 10766|3|ja|クロアン
 2237|4|ja|グロイザーX
+19473|4|ja|グロウアップショウ ~ひまわりのサーカス団~
 4133|4|ja|クロがいた夏
 13342|4|ja|クロカン
 10766|5|ja|クロスアンジュ てんしとりゅうのロンド
@@ -77188,7 +77197,7 @@
 10351|4|ja|ハナヤマタ
 3974|4|ja|はなれ砦のヨナ
 2048|4|ja|ハニーハニーのすてきな冒険
-19458|4|ja|ハニーブロンド
+19458|4|ja|ハニーブロンド2
 18516|4|ja|ハニーレモンソーダ
 7911|4|ja|ハニー東京
 19330|3|ja|はにすか
@@ -80389,6 +80398,7 @@
 13813|4|zh-Hans|中间管理录利根川
 16056|4|ja|中高一貫!! キメツ学園物語 バレンタイン編
 19096|4|ja|中高一貫!! キメツ学園物語 鬼滅の宴 =特別編=
+19470|4|ja|中高一貫!! キメツ学園物語 鬼滅の宴特別編
 17949|4|ja|中高一貫!!キメツ学園物語   『鬼滅の宴』 特別縁
 10709|4|zh-Hans|临时女友
 14258|4|zh-Hans|临死！！江古田
@@ -85806,7 +85816,7 @@
 7651|4|zh-Hans|怪物王女 OAD
 17550|4|ja|怪獣8号
 18722|4|ja|怪獣8号 (2025)
-19468|4|ja|怪獣8号 Movie
+19471|4|ja|怪獣8号 第1期総集編
 17369|4|ja|怪獣がやってくる
 15269|2|ja|怪獣デコード
 12971|4|ja|怪獣のバラード
@@ -86963,6 +86973,7 @@
 9620|4|zh-Hans|斯特拉女子学院高等科C3部
 11883|4|zh-Hans|斯特拉的魔法
 1908|2|ja|新 カリメロ
+17493|4|zh-Hans|新 吊带袜天使
 4748|4|ja|新 鬼武者 DAWN OF DREAMS THE STORY
 1073|4|ja|新・エースをねらえ!
 839|4|ja|新・エンジェル
@@ -90653,6 +90664,7 @@
 9324|4|ja|神のみぞ知るセカイ 天理篇
 9553|4|ja|神のみぞ知るセカイ 女神篇
 8167|2|ja|神のみぞ知るセカイII
+19472|4|ja|神の庭付き楠木邸
 17146|4|ja|神は遊戯に飢えている.
 9482|4|zh-Hans|神不在的星期天
 9482|4|zh-Hant|神不在的星期天
