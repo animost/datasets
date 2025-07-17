@@ -1,4 +1,4 @@
-# created: Tue Jul 15 03:00:02 2025
+# created: Wed Jul 16 03:00:05 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4384,6 +4384,7 @@
 17036|1|x-jat|Backkom 3
 13121|2|en|Backkom Bear: Agent 008
 10322|2|x-kot|Backkom Meogeujan Yeohaeng
+19474|1|x-kot|Backkom2
 18989|2|en|Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, but Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out for Revenge on My Former Party Members and the World
 9431|1|x-jat|Backstage Idol Story
 9431|4|ja|BackstageIdolStory
@@ -4811,6 +4812,7 @@
 849|4|fr|Banana Split
 11910|1|x-jat|Bananya
 11910|4|en|Bananya
+11910|4|es-419|Bananya
 15036|3|x-jat|Bananya 2
 15036|4|en|Bananya and the Curious Bunch
 18837|1|x-jat|Bananya: Around the World
@@ -51948,6 +51950,7 @@
 10537|4|fr|Terror in Resonance
 10537|4|de|Terror in Tokio
 10537|2|en|Terror in Tokyo
+10537|4|pt|Terror no Eco
 10010|3|x-jat|tesabu
 10010|4|en|Tesagure!
 10374|4|en|Tesagure! 2
@@ -59320,6 +59323,7 @@
 11054|2|en|You Are Umasou 2
 7942|2|en|You are Umasou: Miyanishi Tatsuya Gekijou
 14069|2|en|You Are Umasou: My Tyrano Together, Forever
+12635|2|en|You Belong to Me – An Ultra-Sado Girlfriend & Her Ultra-Masochistic Boyfriend
 5704|1|x-jat|You Bishoujo Miruku-chan
 13854|4|en|You Can Enjoy!
 13781|4|en|You Don`t Know Gunma Yet
@@ -69678,6 +69682,7 @@
 12890|4|ko|빼꼼
 17035|4|ko|빼꼼 2
 17036|4|ja|빼꼼 3
+19474|4|ko|빼꼼2
 10322|4|ko|빼꼼의 머그잔 여행
 12449|4|ja|뽀로로 극장판 슈퍼썰매 대모험
 13928|4|ko|뽀로로가 한국에 왔어요
@@ -94680,6 +94685,8 @@
 17198|4|ja|鬼滅の刃 刀鍛冶の里編
 18529|4|ja|鬼滅の刃 刀鍛冶の里編 特別編集版
 16258|4|ja|鬼滅の刃 柱合会議・蝶屋敷編
+19418|2|ja|鬼滅の刃 柱稽古 柱結集編
+19418|2|ja|鬼滅の刃 柱稽古 開幕編
 18067|4|ja|鬼滅の刃 柱稽古編
 19418|4|ja|鬼滅の刃 柱稽古編 特別編集版
 17069|4|ja|鬼滅の刃 浅草編
