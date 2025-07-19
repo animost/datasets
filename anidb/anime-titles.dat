@@ -1,4 +1,4 @@
-# created: Thu Jul 17 03:00:02 2025
+# created: Fri Jul 18 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -10402,6 +10402,7 @@
 18290|4|it|DAN DA DAN
 19060|4|en|Dan Da Dan (2025)
 19060|1|x-jat|Dan Da Dan (2025)
+19060|2|en|Dan Da Dan Season 2
 18920|1|x-zht|Dan Dao Zhizun
 18042|1|x-zht|Dan Dao Zongshi
 1653|4|ja|DAN DOH!!
@@ -25757,6 +25758,7 @@
 1450|1|x-jat|Kagaku Ninjatai Gatchaman Fighter
 1449|1|x-jat|Kagaku Ninjatai Gatchaman II
 18685|1|x-jat|Kagaku x Bouken Survival!
+19476|1|x-jat|Kagaku x Bouken Survival! (2025)
 4310|1|x-jat|Kagami no Gen`on
 4310|2|x-jat|Kagami no Genon
 17219|1|x-jat|Kagami no Kojou
@@ -25895,6 +25897,7 @@
 17550|4|de|Kaiju No. 8
 18722|4|en|Kaiju No. 8 (2025)
 18722|4|de|Kaiju No. 8 Staffel 2
+19471|4|pt|Kaiju No. 8: Missão de Reconhecimento
 19471|4|en|Kaiju No. 8: Mission Recon
 17550|2|en|Kaiju No.EIGHT
 17358|1|x-zht|Kaiju Yi Zuo Shan
@@ -48732,6 +48735,8 @@
 11082|4|en|Snow White with the Red Hair
 11348|4|en|Snow White with the Red Hair (2016)
 9126|2|en|Snow-in-Summer Rendezvous
+19477|1|x-jat|Snowball Earth
+19477|2|en|Snowball Earth
 14880|2|en|Snowing Indicates Harvest
 6816|3|x-jat|SnQ
 7971|3|x-jat|snq ova
@@ -49989,6 +49994,7 @@
 9184|1|x-jat|Stitch to Suna no Wakusei
 9184|4|de|Stitch und der Sandplanet
 6055|1|x-jat|Stitch!
+6055|4|pt|Stitch!
 7570|2|en|Stitch! Always the Best of Friends
 7079|1|x-jat|Stitch! Itazura Alien no Daibouken
 11374|1|x-jat|Stitch! Perfect Memory
@@ -51144,6 +51150,12 @@
 17835|2|en|Tales of Demons and Gods 6
 17836|2|en|Tales of Demons and Gods 7
 18606|2|en|Tales of Demons and Gods 8
+19478|2|en|Tales of Demons and Gods 9
+16988|2|en|Tales of Demons and Gods Season 5
+17835|2|en|Tales of Demons and Gods Season 6
+17836|2|en|Tales of Demons and Gods Season 7
+18606|2|en|Tales of Demons and Gods Season 8
+19478|2|en|Tales of Demons and Gods Season 9
 389|4|ja|Tales of Eternia THE ANIMATION
 389|1|x-jat|Tales of Eternia The Animation
 13442|2|en|Tales of Exorcism
@@ -58900,11 +58912,18 @@
 15670|2|x-zht|Yao Shen Ji 4
 15670|2|x-unk|Yao Shen Ji 4th Season
 16988|2|x-zht|Yao Shen Ji 5
+16988|2|x-zht|Yao Shen Ji 5th Season
 17835|2|x-zht|Yao Shen Ji 6
+17835|2|x-zht|Yao Shen Ji 6th Season
 17836|2|x-zht|Yao Shen Ji 7
+17836|2|x-zht|Yao Shen Ji 7th Season
 18606|2|x-zht|Yao Shen Ji 8
+18606|2|x-zht|Yao Shen Ji 8th Season
+19478|2|x-zht|Yao Shen Ji 9
+19478|2|x-zht|Yao Shen Ji 9th Season
 18606|1|x-zht|Yao Shen Ji Di Ba Ji
 13868|2|x-zht|Yao Shen Ji Di Er Ji
+19478|1|x-zht|Yao Shen Ji Di Jiu Ji
 17835|1|x-zht|Yao Shen Ji Di Liu Ji
 17836|1|x-zht|Yao Shen Ji Di Qi Ji
 16988|1|x-zht|Yao Shen Ji Di Wu Ji
@@ -75223,6 +75242,7 @@
 13865|4|ja|すなあそび
 18060|4|ja|スナックバス江
 11180|2|ja|スナックワールド
+19477|4|ja|スノウボールアース
 13589|4|ja|すのはら荘の管理人さん
 7321|3|ja|スパIV
 17869|2|ja|スパイシーキャンディ
@@ -84307,7 +84327,13 @@
 13191|4|zh-Hans|妖神记
 14473|4|zh|妖神记 第3季
 15670|2|zh-Hans|妖神记 第4季
+16988|2|zh-Hans|妖神记 第5季
+17835|2|zh-Hans|妖神记 第6季
+17836|2|zh-Hans|妖神记 第7季
+18606|2|zh-Hans|妖神记 第8季
+19478|4|zh-Hans|妖神记 第9季
 17836|4|zh-Hans|妖神记 第七季
+19478|2|zh-Hans|妖神记 第九季
 13868|2|zh-Hans|妖神记 第二季
 16988|4|zh-Hans|妖神记 第五季
 18606|4|zh-Hans|妖神记 第八季
@@ -90922,6 +90948,7 @@
 17475|4|zh-Hant|秋葉原冥途戰爭
 1971|2|zh|秋葉原系彼女
 18685|4|ja|科学×冒険サバイバル!
+19476|4|ja|科学×冒険サバイバル! (2025)
 2348|4|ja|科学冒険隊タンサー5
 8949|4|zh-Hans|科学家们
 9820|4|zh-Hans|科学小飞侠Crowds
