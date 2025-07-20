@@ -1,4 +1,4 @@
-# created: Fri Jul 18 03:00:01 2025
+# created: Sat Jul 19 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5328,6 +5328,7 @@
 13089|1|x-jat|Behind a Smile
 13089|4|ja|behind a smile
 776|4|en|Behind Closed Doors
+19479|2|en|Behind the Supermarket, Smoking with You.
 595|4|lt|Beibleidai
 15567|2|en|Beijing Opera Cats
 16701|1|x-zht|Beiken Xiong 2: Jinpai Tegong
@@ -6670,6 +6671,7 @@
 1141|4|es-CA|Bola de Drac: La Llegenda del Drac Xeron
 231|4|es|Bola de Dragón
 1530|4|es|Bola de Dragón Z
+18868|4|id|Bolehkah Saya Mengajukan Satu Permintaan Terakhir?
 11559|1|x-jat|Bollogi Iyagi
 11559|4|en|Bologee Story
 8766|2|en|Bomahead
@@ -7606,6 +7608,7 @@
 16123|4|ja|Candy.zip
 16123|1|en|Candy.zip
 17597|1|x-zht|Cang Lan Jue
+19482|1|x-zht|Cang Lan Jue 2
 18078|1|x-zht|Cang Yuan Tu
 18764|2|x-zht|Cang Yuan Tu (2024)
 19030|1|x-zht|Cang Yuan Tu 2
@@ -12955,6 +12958,7 @@
 18071|2|x-zht|Douluo Dalu II: Jue Shi Tang Men
 18071|1|x-zht|Douluo Dalu II: Jueshi Tangmen
 18072|4|ja|Douluo Dalu II: Jueshi Tangmen
+19481|2|en|Douluo Dalu Movie: Sword of Dust
 17558|2|x-zht|Douluo Dalu Part 17
 17558|2|x-zht|Douluo Dalu Part 18
 17558|2|x-zht|Douluo Dalu Part 19
@@ -12988,6 +12992,7 @@
 16201|1|x-zht|Douluo Dalu: Hao Tian Yangwei
 16201|2|x-zht|Douluo Dalu: Hao Tian Yangwei Pian
 17868|1|zh|Douluo Dalu: Ji Lang Zhi Zhan
+19481|1|x-zht|Douluo Dalu: Jiandao Chen Xin
 14675|1|x-zht|Douluo Dalu: Jingying Sai
 14675|2|x-zht|Douluo Dalu: Jingying Sai Pian
 17558|2|x-zht|Douluo Dalu: Nu Shi Ao Zhan
@@ -13164,11 +13169,13 @@
 1954|2|pt|Dragon Ball - A Bela Adormecida do Castelo Amaldiçoado
 1129|4|pt|Dragon Ball - A Lei do Mais Forte
 1141|4|pt|Dragon Ball - A Lenda de Shenron
+8809|4|it|Dragon Ball - Episodio di Bardack
 1129|4|it|Dragon Ball - Il cammino dell`eroe
 1142|4|it|Dragon Ball - Il torneo di Miifan
 1954|4|it|Dragon Ball - La bella addormentata a Castel Demonio
 1141|4|it|Dragon Ball - La leggenda delle sette sfere
 1954|4|pt|Dragon Ball - O Castelo Fantástico
+8172|4|it|Dragon Ball - Piano per lo sterminio dei Super Saiyan
 1129|2|pt|Dragon Ball - The Way To The Strongest
 1142|4|pt|Dragon Ball - Uma Aventura Inesquecível
 1142|2|pt|Dragon Ball - Uma Aventura Mística
@@ -13259,8 +13266,10 @@
 397|4|it|Dragon Ball Z - L`eroe del Pianeta Conuts
 1046|2|it|Dragon Ball Z - L`invasione di Neo Namek
 906|4|it|Dragon Ball Z - L`irriducibile bio-combattente
+9314|4|it|Dragon Ball Z - La battaglia degli dei
 762|4|it|Dragon Ball Z - La grande battaglia per il destino del mondo
 1069|4|it|Dragon Ball Z - La minaccia del demone malvagio
+10742|4|it|Dragon Ball Z - La resurrezione di `F`
 763|2|it|Dragon Ball Z - La sfida dei guerrieri invincibili
 1474|4|it|Dragon Ball Z - La storia di Trunks
 1043|4|it|Dragon Ball Z - La vendetta divina
@@ -13543,6 +13552,11 @@
 14685|1|x-jat|Dragon Quest: Your Story
 2091|2|x-jat|Dragon Quest: Yuusha Abel Densetsu
 16595|2|en|Dragon Raja
+16595|2|en|Dragon Raja -The Blazing Dawn-
+19480|2|en|Dragon Raja II -The Mourner`s Eyes-
+19480|4|en|Dragon Raja II: The Mourner`s Eyes
+19480|2|en|Dragon Raja S2
+19480|2|en|Dragon Raja Season 2
 16595|4|en|Dragon Raja: The Blazing Dawn
 16595|4|ru|Dragon Raja: Пылающий рассвет
 875|4|en|Dragon Rider
@@ -19032,6 +19046,7 @@
 12315|1|x-jat|Godzilla
 12315|2|tr|Godzilla
 12315|4|it|Godzilla
+12315|4|pl|Godzilla
 12315|2|it|Godzilla - Il pianeta dei mostri
 15770|1|x-jat|Godzilla S.P
 12315|2|en|Godzilla: Monster Planet
@@ -20911,6 +20926,8 @@
 10932|4|fr|Harmony
 10932|4|en|Harmony
 10932|4|it|Harmony
+18065|4|de|Harmony of Mille-Feuille
+18065|4|en|Harmony of Mille-Feuille
 2243|2|x-jat|Harris no Kaze
 2243|2|x-jat|Harris no Tsumujikaze
 2243|2|en|Harris` Whirlwind
@@ -23772,6 +23789,7 @@
 40|2|it|Il mistero della pietra azzurra
 17783|4|it|Il Mistero di Ron Kamonohashi
 17870|4|it|Il Monologo della Speziale
+18562|4|it|Il Monologo della Speziale Season 2
 17480|4|it|Il movimento della Terra
 2314|4|it|Il paese del c`era una volta
 1476|4|it|Il paradiso delle dee
@@ -30843,6 +30861,8 @@
 14304|1|x-zht|Long Zhi Gu: Poxiao Qibing
 18808|1|x-zht|Long Zhong Ren
 16595|1|x-zht|Long Zu
+19480|2|x-zht|Long Zu 2nd Season
+19480|1|x-zht|Long Zu II: Daowangzhe Zhi Tong
 18493|1|x-jat|Look Back
 18493|4|en|Look Back
 18493|4|pl|Look Back
@@ -30991,6 +31011,8 @@
 14024|2|en|Love and Lies: Love of a Lifetime / Feelings of Love
 891|2|en|Love Angel Legend Wedding Peach
 17597|4|en|Love Between Fairy and Devil
+19482|4|en|Love Between Fairy and Devil 2
+19482|2|en|Love Between Fairy and Devil 2nd Season
 18115|2|en|Love Between Twins is Indivisible
 8727|1|x-jat|Love Bitch
 8727|2|x-jat|Love Bitch: Yasashii Onna
@@ -42738,6 +42760,8 @@
 7233|4|en|Psychic Detective Yakumo
 1140|1|x-jat|Psychic Force
 14963|2|en|Psychic Princess
+19483|4|en|Psychic Princess 2
+19483|2|en|Psychic Princess Season 2
 9208|4|en|Psychic School Wars
 5674|4|en|Psychic Squad
 4455|4|en|Psychic Wars
@@ -48677,6 +48701,7 @@
 394|3|x-jat|smjtox
 13625|4|pl|SMOCZA PILOTKA: Hisone i Masotan
 231|2|pl|Smocze Kule
+19479|2|en|Smoking Behind the Supermarket with You
 1247|2|x-jat|SMR
 2538|3|x-jat|sms
 2540|3|x-jat|SMSS
@@ -49208,6 +49233,9 @@
 18071|2|en|Soul Land II
 18071|2|my|Soul Land II: Jueshi Tangmen
 18072|1|en|Soul Land II: The Unrivaled Tang Sect
+19481|2|en|Soul Land Movie - Sword Dao Chen Xin
+19481|2|en|Soul Land Movie: Sword of Dust
+19481|2|en|Soul Land Sword of Dust
 4224|1|x-jat|Soul Link
 4224|4|ja|Soul Link
 18143|2|en|Soul Of Light
@@ -50501,6 +50529,7 @@
 543|1|x-jat|Super Milk-chan
 543|4|en|Super Milk-chan
 2577|4|en|Super Mobile Legend Dinagiga
+19479|1|x-jat|Super no Ura de Yani Suu Futari
 6143|4|pt-BR|Super Onze
 2076|2|en|Super Phoenix
 1392|4|pt-BR|Super Pig
@@ -54758,6 +54787,8 @@
 3498|1|x-jat|Tondera House no Daibouken
 13813|3|x-jat|tonegawa
 14963|1|x-zht|Tong Ling Fei
+19483|1|x-zht|Tong Ling Fei 2
+19483|2|x-zht|Tong Ling Fei 2nd Season
 17293|1|x-zht|Tong Zhi Zhe
 16109|1|x-jat|Tongari Atama no Gonta: Futatsu no Namae o Ikita Fukushima Hisai Inu no Monogatari
 17305|1|x-jat|Tongari Boushi no Atelier
@@ -57499,6 +57530,7 @@
 15520|1|x-jat|Watanuki-san Chi to
 17766|3|x-unk|wataoshi
 17766|3|x-jat|wataoshi
+18203|2|x-jat|Watari-kun no xx ga Houkai Sunzen
 18203|1|x-jat|Watari-kun no xx ga Houkaisunzen
 18203|4|en|Watari-kun`s ****** Is About to Collapse
 18749|1|x-jat|Wataridori to Katatsumuri
@@ -58898,6 +58930,7 @@
 17026|1|x-jat|Yaneura no Rudger
 18698|1|x-zht|Yangguang Kafei Ting Zhi Xin You Ji
 16593|2|en|Yangyao The Spirit Catcher
+19479|3|x-jat|yanisuu
 12945|1|x-jat|Yankee Hamster
 16335|1|x-jat|Yankee Hamster Season 2
 5814|1|x-jat|Yankee Reppuu Tai
@@ -75060,6 +75093,7 @@
 14086|4|ja|スーパードラゴンボールヒーローズ
 14086|2|ja|スーパードラゴンボールヒーローズ ユニバースミッション
 7654|2|ja|スーパーナチュラル・ザ・アニメーション
+19479|4|ja|スーパーの裏でヤニ吸うふたり
 2076|4|ja|スーパービックリマン
 2233|4|ja|スーパーフィッシング グランダー武蔵
 7429|2|ja|すーぱーふらっと・ファーストラブ
@@ -79231,6 +79265,7 @@
 14957|5|ja|やとがめちゃんかんさつにっき 2さつめ
 4103|4|ja|やどさがし
 8807|4|ja|やなせたかしメルヘン劇場
+19479|3|ja|ヤニすう
 12205|4|ja|やねせんおんど
 10307|4|ja|ヤバい! -復讐・闇サイト-
 11801|4|ja|ヤハべえ
@@ -86994,6 +87029,7 @@
 14675|2|zh-Hans|斗罗大陆之精英赛
 16202|2|zh-Hans|斗罗大陆之铅华洗净篇
 16202|2|zh-Hans|斗罗大陆之铅华洗尽篇
+19481|4|zh-Hans|斗罗大陆剧场版 剑道尘心
 18071|4|zh-Hant|斗羅大陸2絕世唐門
 18071|2|zh-Hant|斗羅大陸II絕世唐門
 14161|4|zh-Hans|斗魂卫之玄月奇缘
@@ -92067,6 +92103,9 @@
 2154|4|zh-Hans|苍之流星SPT雷兹纳
 15340|4|zh-Hans|苍之骑士团
 17597|4|zh-Hans|苍兰诀
+19482|4|zh-Hans|苍兰诀 2
+19482|2|zh-Hans|苍兰诀 第二季
+19482|2|zh-Hans|苍兰诀2 影三界篇
 4750|2|zh-Hans|苍天之拳
 6408|2|zh-Hans|苍天航路
 17084|4|zh-Hans|苍穹之法芙娜 BEHIND THE LINE
@@ -93340,6 +93379,8 @@
 1065|2|zh-Hans|通往天国的倒计时
 310|4|zh-Hans|通灵公主
 14963|4|zh|通灵妃
+19483|4|zh-Hans|通灵妃 第二季
+19483|2|zh-Hans|通灵妃2
 15596|4|zh-Hans|通灵王 (2021)
 17293|4|zh-Hans|通职者
 14963|4|ja|通霊姫
@@ -95549,6 +95590,10 @@
 11893|4|zh-Hans|龙心战纪
 10443|4|zh-Hans|龙收藏
 16595|4|zh-Hans|龙族
+19480|2|zh-Hans|龙族 第二季
+19480|2|zh-Hans|龙族2悼亡者之瞳
+19480|4|zh-Hans|龙族Ⅱ：悼亡者之瞳
+19480|2|zh-Hans|龙族II悼亡者之瞳
 614|4|zh-Hans|龙机传承
 16118|4|zh-Hans|龙杀之狂骨
 303|4|zh-Hans|龙猫
