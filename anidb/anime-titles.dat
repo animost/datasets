@@ -1,4 +1,4 @@
-# created: Sat Jul 19 03:00:02 2025
+# created: Sun Jul 20 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -42,6 +42,7 @@
 16285|4|es-419|¿Puedo hacer felices a tus oídos en 180 segundos?
 1869|4|es|¿Quién es el 11º pasajero?
 222|2|ja|.hack Liminality
+5391|3|en|.hack returner
 4324|2|uk|.hack// Початок
 447|4|pt-BR|.hack//A Lenda do Bracelete do Crepúsculo
 8606|2|en|.hack//Beyond the World
@@ -10064,6 +10065,7 @@
 12277|4|es|Cyborg 009: En nombre de la justicia
 2242|4|es|Cyborg 009: La leyenda de la Supergalaxia
 2242|2|en|Cyborg 009: Legend of the Super Galaxy
+19486|1|x-jat|Cyborg 009: Nemesis
 1214|1|x-jat|Cyborg 009: The Cyborg Soldier
 1214|4|en|Cyborg 009: The Cyborg Soldier
 7994|2|en|Cyborg 009: The Reopening
@@ -11770,6 +11772,8 @@
 10860|4|zh-Hans|Di Gi Charat 夏季特别篇 2000
 769|4|zh-Hans|Di Gi Charat 星之旅
 4797|4|en|Di Gi Charat: Winter Garden
+19488|2|x-zht|Di Ling Ai Zhi Mo Shui Linglong
+19488|1|x-zht|Di Ling Ai: Mo Shui Linglong
 13660|1|x-zht|Di Ling Qu
 14483|4|vi|Dị thú ma đô
 13720|1|x-zht|Di Tou Ren Sheng
@@ -12246,6 +12250,8 @@
 11266|4|fr|Divine Gate
 18945|4|en|Divine Lord of the Heavens
 862|2|en|Divine Love
+19488|4|en|Divine Love - Deep Blue
+19488|2|en|Divine Love: Deep Blue
 9298|2|fr|Divine Nanami
 1277|2|en|Divine Punishment: Angel Rabbie OVA
 354|2|en|Divine Wind Thief Jeanne
@@ -21321,7 +21327,7 @@
 4638|4|en|Hell Girl: Two Mirrors
 6554|2|en|Hell Knight Ingrid
 19029|2|en|Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing
-19029|1|x-jat|Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru - Hajimari no Shoukan Samurai
+19029|1|x-jat|Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru
 17231|1|x-jat|Hell People!
 6294|4|ja|HELL TARGET
 6294|1|x-jat|Hell Target
@@ -23265,6 +23271,7 @@
 18266|2|en|I Parry Everything to Become the Greatest Adventure!
 18266|2|en|I Parry Everything: What Do You Mean I`m the Strongest? I`m Not Even an Adventurer Yet!
 18266|4|en|I Parry Everything!
+19487|2|en|I Parry Everything! 2
 18468|2|en|I Picked Up An Attribute
 18468|2|en|I Picked Up An Attribute Collection
 18468|2|en|I Picked Up Lots of Attributes
@@ -35869,6 +35876,8 @@
 2290|4|es|Mujercitas
 2868|2|es|Mujercitas (1981)
 4445|1|x-jat|Mujigen Hunter Fandora
+19485|3|x-jat|mujikaku seijo
+19485|1|x-jat|Mujikaku Seijo wa Kyou mo Muishiki ni Chikara o Tarenagasu
 19362|1|x-jat|Mujin Eki The Animation
 1122|1|x-jat|Mujin Wakusei Survive
 298|1|x-jat|Mujintou Monogatari X
@@ -39579,6 +39588,7 @@
 7998|1|x-jat|Ore wa Kanojo o Shinjiteru!
 18939|1|x-jat|Ore wa Seikan Kokka no Akutoku Ryoushu!
 18266|1|x-jat|Ore wa Subete o "Parry" Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai
+19487|1|x-jat|Ore wa Subete o "Parry" Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai 2
 18266|2|x-jat|Ore wa Subete wo "Parry" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai
 18266|2|x-jat|Ore wa Subete wo Parry suru
 3485|1|x-jat|Ore wa Teppei
@@ -44977,6 +44987,8 @@
 8037|1|x-jat|Ryouma 30 Seconds
 14551|2|x-jat|Ryouma! Shinsei Gekijouban Tennis no Ouji-sama
 14551|1|x-jat|Ryouma! The Prince of Tennis Shinsei Gekijouban Tennis no Ouji-sama
+19484|1|x-jat|Ryoumin 0-nin Start no Henkyou Ryoushu-sama
+19484|3|x-jat|ryoumin0
 6110|2|lt|Rytojaus Yoichis
 1686|4|it|Ryu, il ragazzo delle caverne
 1686|2|en|Ryu, the Primitive Boy
@@ -49234,8 +49246,10 @@
 18071|2|my|Soul Land II: Jueshi Tangmen
 18072|1|en|Soul Land II: The Unrivaled Tang Sect
 19481|2|en|Soul Land Movie - Sword Dao Chen Xin
+19481|2|en|Soul Land Movie: Chen Xin`s Sword Way
 19481|2|en|Soul Land Movie: Sword of Dust
 19481|2|en|Soul Land Sword of Dust
+19481|2|en|Soul Land: Sword Dao Chen Xin
 4224|1|x-jat|Soul Link
 4224|4|ja|Soul Link
 18143|2|en|Soul Of Light
@@ -50023,6 +50037,7 @@
 9184|4|de|Stitch und der Sandplanet
 6055|1|x-jat|Stitch!
 6055|4|pt|Stitch!
+7079|4|pt|Stitch! - Temporada 2
 7570|2|en|Stitch! Always the Best of Friends
 7079|1|x-jat|Stitch! Itazura Alien no Daibouken
 11374|1|x-jat|Stitch! Perfect Memory
@@ -52654,6 +52669,7 @@
 18867|4|en|The Fragrant Flower Blooms with Dignity
 6919|2|en|The Frog`s Dream
 4408|1|x-jat|The Frogman Show
+19484|2|en|The Frontier Lord Begins with Zero Subjects
 17295|4|en|The Fruit of Evolution 2: Before I Knew It, My Life Had It Made
 16018|2|en|The Fruit of Evolution: Before I Knew It, I Had It Made
 16018|4|en|The Fruit of Evolution: Before I Knew It, My Life Had It Made
@@ -53240,6 +53256,8 @@
 6982|2|en|The Number One Miser of the City
 11075|2|en|The Numbers
 12558|2|en|The Numbers (2017)
+19485|2|en|The Oblivious Saint Can`t Contain Her Power Glossary
+19485|2|en|The Oblivious Saint Can`t Contain Her Power: Forget My Sister! Turns Out I Was the Real Saint All Along!
 6837|2|en|The Octopus Bone
 2028|2|en|The Offering of the Shrike
 19378|2|en|The Ogre`s Bride
@@ -74614,6 +74632,7 @@
 2204|4|ja|サイボーグ009 (1966)
 2346|4|ja|サイボーグ009 (1979)
 1214|4|ja|サイボーグ009 THE CYBORG SOLDIER
+19486|4|ja|サイボーグ009 ネメシス
 2205|4|ja|サイボーグ009 怪獣戦争
 2242|4|ja|サイボーグ009 超銀河伝説
 11169|4|ja|サイボーグ009VSデビルマン
@@ -78306,7 +78325,7 @@
 181|3|ja|ベルばら
 17231|4|ja|ヘルピポ!
 4275|4|ja|ヘルメス 愛は風の如く
-19029|4|ja|ヘルモード ~やり込み好きのゲーマーは廃設定の異世界で無双する~ はじまりの召喚士
+19029|4|ja|ヘルモード ~やり込み好きのゲーマーは廃設定の異世界で無双する~
 7192|4|ja|ペレストロイカ
 3623|4|ja|ヘレン・ケラー物語 愛と光の天使
 9933|4|ja|ぺろぺろ☆てぃーちゃー
@@ -81101,6 +81120,7 @@
 9787|4|ja|俺の脳内選択肢が, 学園ラブコメを全力で邪魔している
 10208|4|ja|俺の脳内選択肢が, 学園ラブコメを全力で邪魔している (2014)
 18266|4|ja|俺は全てを【パリイ】する ~逆勘違いの世界最強は冒険者になりたい~
+19487|4|ja|俺は全てを【パリイ】する ~逆勘違いの世界最強は冒険者になりたい~ 2
 7998|4|ja|俺は彼女を信じてる!
 18939|4|ja|俺は星間国家の悪徳領主!
 14442|4|ja|俺を好きなのはお前だけかよ
@@ -86659,6 +86679,7 @@
 18289|4|zh-Hans|拉面赤猫
 18289|4|zh-Hant|拉麵赤貓
 7078|4|zh-Hans|拓麻歌子
+18459|4|zh-Hans|拔作岛
 751|4|zh-Hans|拜托了双子星
 16|4|zh-Hans|拜托了老师
 18794|4|zh-Hans|拜托请穿上，鹰峰同学
@@ -89520,6 +89541,8 @@
 18104|2|zh-Hant|無職轉生～到了異世界就拿出真本事～ 第二季 第二季度
 15492|4|ja|無能なナナ
 15492|4|zh-Hant|無能力者娜娜
+19485|3|ja|無自覚聖女
+19485|4|ja|無自覚聖女は今日も無意識に力を垂れ流す
 13224|4|ja|無責任ギャラクシー☆タイラー
 18|4|ja|無責任艦長タイラー
 8733|4|ja|無責任艦長タイラー 地上より永遠に
@@ -91605,6 +91628,7 @@
 14373|2|zh-Hans|绿蓝 Beryl and Sapphire
 14035|4|zh|缇可 冬季篇
 18919|4|zh-Hans|缉妖录之启程篇
+19488|4|zh-Hans|缔灵爱之默水玲珑
 11997|4|zh-Hans|编舟记
 7656|4|zh-Hans|缘之空
 15272|4|zh-Hans|缘结熊本！
@@ -94491,6 +94515,8 @@
 17118|4|zh-Hant|頂點!!!
 15273|4|zh-Hant|順其自然的日子
 8491|4|ja|頑張れ!!納父さん
+19484|3|ja|領民0
+19484|4|ja|領民0人スタートの辺境領主様
 1210|2|ja|頭 山
 1210|4|ja|頭山 Mt. Head
 135|4|ja|頭文字D
