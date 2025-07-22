@@ -1,4 +1,4 @@
-# created: Sun Jul 20 03:00:01 2025
+# created: Mon Jul 21 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -7181,6 +7181,7 @@
 2213|4|fr|Bulles sous les mers
 17744|4|ja|BULLET/BULLET
 17744|1|x-jat|Bullet/Bullet
+17744|4|en|Bullet/Bullet
 15781|2|en|Bullied: Revenge Hypnosis
 4038|2|en|Bullying Grandmother
 3093|2|en|Bullying Grandmother (1996)
@@ -8658,6 +8659,7 @@
 15580|1|x-zht|Chongwu Lianmeng: Pets United
 5303|1|x-kot|Chonnyonyeouu Yeouubi
 2482|4|de|Choppy und die Prinzessin
+19489|1|x-jat|Choro Mesu Days
 2356|2|x-jat|Choro Q Dagram
 2356|1|x-jat|Choro Q Dougram
 2356|2|en|Choro Q Dougram
@@ -10024,9 +10026,9 @@
 15610|4|en|Cyberpunk: Edgerunners
 15610|4|pl|Cyberpunk: Edgerunners
 15610|4|cs|Cyberpunk: Edgerunners
-19445|4|ja|CYBERPUNK: EDGERUNNERS 2
-19445|1|x-jat|Cyberpunk: Edgerunners 2
 19445|4|en|Cyberpunk: Edgerunners 2
+19445|1|x-jat|Cyberpunk: Edgerunners II
+19445|4|ja|CYBERPUNK: EDGERUNNERS II
 15610|4|pt-BR|Cyberpunk: Mercenários
 15610|4|th|CYBERPUNK: อาชญากรแดนเถื่อน
 1524|4|fr|Cybersix
@@ -18921,7 +18923,7 @@
 14247|1|x-jat|Go-Toubun no Hanayome
 18603|1|x-jat|Go-Toubun no Hanayome *
 14903|2|x-jat|Go-Toubun no Hanayome ∬
-14903|1|x-jat|Go-Toubun no Hanayome 2
+14903|1|x-jat|Go-Toubun no Hanayome II
 14903|2|x-jat|Go-toubun no Hanayome S2
 14903|2|x-jat|Go-Toubun no Hanayome: Nijuu Sekibun
 17968|1|x-jat|Go-Toubun no Hanayome~
@@ -23181,6 +23183,7 @@
 15289|4|en|Hypnosismic: Division Rap Battle - Rhyme Anima
 17950|4|en|Hypnosismic: Division Rap Battle - Rhyme Anima Plus
 5982|2|en|Hypnotism School
+12512|4|en|Hypnotized - All the Girls in Class Were Pregnant Before They Knew It
 3609|2|en|Hypo and Thomas
 3609|4|pl|Hyppo and Thomas
 17910|2|en|I Admire Magical Girls, and...
@@ -25921,6 +25924,7 @@
 17550|4|en|Kaiju No. 8
 17550|4|de|Kaiju No. 8
 18722|4|en|Kaiju No. 8 (2025)
+18722|2|en|Kaiju No. 8 Season 2
 18722|4|de|Kaiju No. 8 Staffel 2
 19471|4|pt|Kaiju No. 8: Missão de Reconhecimento
 19471|4|en|Kaiju No. 8: Mission Recon
@@ -38303,6 +38307,8 @@
 9762|1|x-jat|Nuki Doki! Tenshi to Akuma no Sakusei Battle
 12594|1|x-jat|Nuki Doki! Tenshi to Akuma no Sakusei Battle - Revolution
 18459|1|x-jat|Nukitashi the Animation
+18459|4|en|Nukitashi The Animation
+18459|4|de|Nukitashi: Welcome to Love Island!
 9119|1|x-jat|Nukko.
 526|3|en|Nuku Nuku
 167|4|it|Nuku Nuku l`invincibile ragazza-gatto
@@ -47312,7 +47318,7 @@
 617|4|en|Sherlock Hound
 617|4|fi|Sherlock Koira
 16984|1|x-zht|Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming
-18258|1|zh-Hans|Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming 2
+18258|1|x-zht|Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming 2
 18471|1|x-zht|Shi Fang Jian Sheng
 18386|1|x-zht|Shi Fang Wu Sheng
 18161|1|zh-Hans|Shi Hang
@@ -50235,6 +50241,7 @@
 630|3|en|su
 7221|4|vi|Sự biến mất của Suzumiya Haruhi
 6048|2|x-other|Su Matzurdomu Nieddu
+16761|1|x-zht|Su Shen Xiao Ren
 4528|3|x-jat|su(mo)+
 5887|1|x-jat|Suashi no Houkago
 12217|1|x-jat|Subarashii Sekai
@@ -51309,6 +51316,9 @@
 5480|2|ja|TAMALA 2010
 1634|1|x-jat|Tamala 2010 - A Punk Cat in Space
 1634|4|fr|Tamala 2010 - A Punk Cat in Space
+19490|4|ja|TAMALA 2030 -a punk cat in dark-
+19490|1|x-jat|Tamala 2030: A Punk Cat in Dark
+19490|4|en|Tamala 2030: A Punk Cat in Dark
 5480|4|ja|TAMALA ON PARADE
 5480|1|x-jat|Tamala on Parade
 1634|4|ja|TAMALA2010 a punk cat in space
@@ -58638,7 +58648,6 @@
 6562|1|x-jat|Xiongmao Monogatari TaoTao
 16633|1|x-zht|Xiongshi Shaonian
 16885|1|x-zht|Xiu Rong Zhen
-16761|1|x-zht|Xiu Shen Xiaoren
 17808|2|x-zht|Xiu Zhen Si Wan Nian
 18614|1|x-zht|Xiuluo Wu Shen
 14374|1|x-zht|Xixing Ji
@@ -59843,7 +59852,7 @@
 1064|1|x-jat|Yume de Aetara OVA
 142|2|x-jat|Yume de Aetara TV
 13876|1|x-jat|Yume ga Sameru made
-13880|1|x-jat|Yume Hakonda Randoseru
+13880|1|x-jat|Yume Hakonda Ransel
 12917|1|x-jat|Yume Kakeru Kougen: Kiyosato no Chichi Paul Rusch
 5010|1|x-jat|Yume kara Samenai
 8413|1|x-jat|Yume Kui: Tsurumiku Shiki Game Seisaku
@@ -75942,6 +75951,7 @@
 12115|4|ja|ちょびっとづかん
 9495|4|ja|ちょぼらうにょぽみ劇場 あいまいみー
 10580|4|ja|ちょぼらうにょぽみ劇場第二幕 あいまいみー ~妄想カタストロフ~
+19489|4|ja|ちょろ・めす・でいず
 2356|4|ja|チョロQダグラム
 6934|4|ja|ちょん切れ蛇
 18811|3|ja|チラムネ
