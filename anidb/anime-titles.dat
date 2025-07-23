@@ -1,4 +1,4 @@
-# created: Mon Jul 21 03:00:01 2025
+# created: Tue Jul 22 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -15872,6 +15872,7 @@
 17587|2|en|Female Friends
 14329|2|en|Female Ninja Botan
 4617|2|en|Feminine Family
+19465|2|x-jat|Femme Fatale Ikusei Keikaku
 13577|1|x-zht|Fen Qing
 15656|4|en|Fena: Pirate Princess
 700|4|en|Fencer of Minerva
@@ -22176,6 +22177,8 @@
 13563|3|x-jat|hiradan
 11655|2|x-jat|Hirake! Ponkikki
 17775|1|x-jat|Hirano to Kagiura
+19491|1|x-jat|Hirayasumi
+19491|2|en|Hirayasumi
 17742|1|x-jat|Hirogaru Sky! Precure
 17742|3|x-jat|hiropre
 2011|4|es|Hiroshima 2
@@ -24741,6 +24744,7 @@
 4293|4|fr|Jack et le haricot magique
 17293|2|en|Jack of All Trades
 4293|4|ro|Jack şi vrejul de fasole
+19465|2|en|Jack the Reaper
 4293|1|x-jat|Jack to Mame no Ki
 7614|1|x-jat|Jack to Mame no Ki (1989)
 2206|4|es|Jack y la Bruja
@@ -33225,6 +33229,7 @@
 1489|3|x-jat|marie
 6434|1|x-jat|Marie & Gali
 7427|1|x-jat|Marie & Gali Ver.2.0
+19465|2|x-jat|Marie Antoinette ni Tensei Shita node, Zenryoku de Guillotine o Kaihi Shimasu
 1297|3|x-jat|Marimite
 2025|3|x-jat|marimite haru
 2025|3|x-jat|marimite2
@@ -40789,7 +40794,7 @@
 209|4|en|Pet Shop of Horrors
 209|4|ja|Pet Shop of Horrors ペットショップ・オブ・ホラーズ
 2542|4|it|Petali di stelle per Sailor Moon
-18791|2|en|Petals of Reincarnation
+18791|4|en|Petals of Reincarnation
 15107|4|en|Peter Grill and the Philosopher`s Time
 16973|4|en|Peter Grill and the Philosopher`s Time: Super Extra
 15107|2|pt|Peter Grill e o Tempo do Filósofo
@@ -47999,6 +48004,7 @@
 18405|4|en|Shoshimin: How to Become Ordinary
 18864|4|en|Shoshimin: How to Become Ordinary (2025)
 18864|2|en|Shoshimin: How to Become Ordinary Season 2
+19465|2|x-jat|Shoshin Time Leap
 16031|3|x-jat|shosho
 9894|1|x-zht|Shou Hu Zhe Sen Lin
 6834|1|x-jat|Shou-chan no Bouken
@@ -50370,7 +50376,7 @@
 18256|4|ja|suma Netori Kan: Bijutsu Kyoushi no Baai
 889|1|x-jat|Sumeba Miyako no Cosmos-sou Suttoko Taisen Dokkoider
 14683|4|en|Sumikko Gurashi the Movie: The Unexpected Picture Book and the Secret Child
-19305|1|x-jat|Sumikko Gurashi: Koko ga Ochitsukun desu
+19305|1|x-jat|Sumikko Gurashi: Koko ga Ochitsukun Desu
 10707|1|x-jat|Sumiko
 4598|3|x-jat|summer
 17345|2|ko|Summer ~시골의 성생활~
@@ -77754,6 +77760,7 @@
 16074|4|ja|ひよこぶたのテーマPART2。
 2207|4|ja|ひょっこりひょうたん島
 7995|4|ja|ひよ恋
+19491|4|ja|ひらやすみ
 17585|4|ja|ピリオド　オブ・ザ　マウスマン
 3517|4|ja|ビリ犬
 2252|4|ja|ビリ犬なんでも商会
