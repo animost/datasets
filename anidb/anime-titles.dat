@@ -1,4 +1,4 @@
-# created: Tue Jul 22 03:00:02 2025
+# created: Wed Jul 23 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3203,6 +3203,8 @@
 928|4|en|Apocalypse Zero
 18702|4|id|Apokalips Dunia Lain Mynoghra ~Menaklukan Dunia Dimulai dari Peradaban Kehancuran~
 8870|3|x-jat|apollon
+19444|2|en|Apothecary Diaries S3
+19444|2|en|Apothecary Diaries Season 3
 13910|2|fr|Apothéoses d’après-cours
 17708|4|en|Apotheosis
 18252|2|en|Apotheosis 2
@@ -23409,6 +23411,7 @@
 7031|2|x-jat|Ibara no Ou
 6998|1|x-jat|Ibara-hime Mata wa Nemurihime
 19397|2|x-kot|Ibhag Yongbyeong
+19492|1|x-jat|Ibitte Konai Gibo to Gishi
 5099|1|x-jat|Iblard Jikan
 5099|2|en|Iblard Time
 14107|4|tr|İblis Keser
@@ -25795,6 +25798,7 @@
 4310|2|x-jat|Kagami no Genon
 17219|1|x-jat|Kagami no Kojou
 17011|1|x-jat|Kagari Hibana
+19493|1|x-jat|Kagawa Toyohiko no Shougai Ware Hibi ni Shisu
 9053|1|x-jat|Kagayake! Yuujou no V Sign
 2055|1|x-jat|Kage
 14365|1|x-jat|Kage (1968)
@@ -36326,6 +36330,7 @@
 9787|2|en|My Mental Multiple-Choice Power Is Completely Ruining My School Romantic Comedy
 11048|2|en|My Monster Secret
 18224|1|x-jat|My Mother
+19492|2|en|My Mother-in-law and Sister-in-law Who Don`t Bully Me
 2059|4|en|My My Mai
 2059|4|it|My My My Consulenze particolari
 14607|2|en|My Name Is Dokgo Tak
@@ -36410,6 +36415,7 @@
 19162|2|en|My Status as an Assassin Obviously Exceeds the Hero`s
 5078|4|en|My Steady Is a Witch
 16457|4|en|My Stepmom`s Daughter Is My Ex
+19492|2|en|My Stepmother and Stepsisters Aren`t Wicked
 13613|4|en|My Sweet Tyrant
 12912|2|en|My Teacher, Mr. T
 9310|4|fr|My Teen Romantic Comedy SNAFU
@@ -56872,6 +56878,7 @@
 5475|4|de|Venus-File
 2810|4|hu|Vér és kereszt
 181|3|x-jat|verbara
+17609|3|x-jat|verbara (2025)
 834|2|es|Verde Verde TV
 7522|2|de|Verliebter Tyrann
 17245|3|x-jat|Vermeil
@@ -58579,6 +58586,7 @@
 17120|1|x-zht|Xin Qin Shi Mingyue
 16309|1|x-zht|Xin Shen Bang: Nezha Chong Sheng
 17136|1|x-zht|Xin Shen Bang: Yang Jian
+19494|1|x-zht|Xin Yichang Shengwu Jianwen Lu: Xu
 15763|1|x-zht|Xin Yu Gong Yu Shan
 14645|1|x-zht|Xing Chen Bian
 16581|1|x-zht|Xing Chen Bian (2022)
@@ -72511,6 +72519,7 @@
 5099|4|ja|イバラード時間
 7031|4|ja|いばらの王 -King of Thorn-
 6998|4|ja|いばら姫またはねむり姫
+19492|4|ja|いびってこない義母と義姉
 18666|2|ja|いま♡りあ
 10299|4|ja|イマコシステム
 12453|4|ja|イマノワタシニデキルコト...
@@ -87120,6 +87129,7 @@
 4382|4|ja|新・脅迫2 THE ANIMATION ~傷に咲く花 鮮血の紅~
 3371|4|ja|新・超幕末少年世紀タカマル
 1693|2|zh-Hant|新・黑暗聖經
+19494|4|zh-Hans|新·异常生物见闻录：序
 8895|4|zh-Hans|新·福音战士剧场版：终
 5174|4|zh-Hans|新SOS大东京探险队
 5174|4|ja|新SOS大東京探検隊
@@ -92881,6 +92891,7 @@
 18555|4|ja|貼りまわれ! こいぬ (2024)
 18192|2|ja|貼りまわれ！こいぬ
 18555|2|ja|貼りまわれ！こいぬ (2024)
+19493|4|ja|賀川豊彦の生涯—われ日日に死す—
 15578|3|ja|賢でし
 7720|4|ja|賢治のトランク
 13477|4|ja|賢者の孫
