@@ -1,4 +1,4 @@
-# created: Wed Jul 23 03:00:02 2025
+# created: Thu Jul 24 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2329,6 +2329,7 @@
 8337|4|pl|Alicja w Krainie Serc
 58|2|fr|Alien 9
 58|2|x-jat|Alien 9
+19494|2|en|Alien Collections
 1655|4|en|Alien Defender Geo-Armor: Kishin Corps
 861|4|en|Alien from the Darkness
 58|4|en|Alien Nine
@@ -30209,6 +30210,7 @@
 4193|4|da|Legenden om Jordhavet
 4193|4|sv|Legender Från Övärlden
 5802|4|en|Legends of the Dark King: A Fist of the North Star Story
+19495|1|en|Legends of the Three Realms
 1750|3|x-jat|Legendz
 1750|4|zh-Hans|LEGENDZ 苏生龙王传说
 1750|2|en|Legendz: Tale of the Dragon Kings
@@ -31099,7 +31101,6 @@
 9169|1|x-jat|Love Like Aliens
 9169|4|ja|LOVE LIKE ALIENS
 15154|2|x-jat|Love Live: Mitaiken Horizon
-15698|2|x-jat|Love Live: Muteki-kyuu Believer
 9271|2|en|Love Live!
 9271|4|zh-Hans|Love Live!
 7956|2|en|Love Live! 1
@@ -53254,6 +53255,7 @@
 3367|4|en|The New Adventures of Hutch the Honeybee
 1499|2|en|The New Adventures of Kimba the White Lion
 3641|4|en|The New Adventures of Pinocchio
+19494|4|en|The New Chronicles of Extraordinary Beings: Preface
 18270|4|en|The New Gate
 18270|1|x-jat|The New Gate
 18270|4|ja|THE NEW GATE
