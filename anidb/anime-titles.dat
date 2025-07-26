@@ -1,4 +1,4 @@
-# created: Thu Jul 24 03:00:01 2025
+# created: Fri Jul 25 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -28820,6 +28820,7 @@
 502|3|x-jat|Kumokaze
 469|3|x-jat|kumonomukou
 10152|1|x-jat|Kumori Nochi Hare
+19497|1|x-jat|Kumorizora no Mukou wa Hareteiru
 17830|1|x-zht|Kun Bing Zhi Long
 2343|2|es|Kun Kun
 19323|1|x-zht|Kun Tun Tianxia Zhi Zhang Men Guilai
@@ -48153,6 +48154,7 @@
 18197|1|x-zht|Shu Tian Fu Mo Lu
 13800|1|x-zht|Shuang Yue Zhi Cheng
 13351|1|x-zht|Shuangsheng Lingtan
+19496|1|x-zht|Shuangsheng Wu Hun
 5280|3|x-jat|shuchara
 3336|2|x-jat|Shudan Chikan Densha
 2844|2|x-jat|Shuffle
@@ -53442,6 +53444,7 @@
 18483|2|en|The Richest Man In Game
 7440|2|en|The Riot of Flowers: Samurai Girls
 18473|4|en|The Rise of the Weak
+19496|2|en|The Rise of Twin Souls
 8805|2|x-jat|The Rising
 13246|4|en|The Rising of the Shield Hero
 13246|4|fr|The Rising of the Shield Hero
@@ -55762,6 +55765,7 @@
 2162|4|en|Twin Love
 2984|4|en|Twin Love 2
 2984|2|en|Twin Love Alternative
+19496|2|en|Twin Martial Spirits
 13800|2|en|Twin Moons
 2829|4|it|Twin Princess - Principesse gemelle
 2829|2|en|Twin Princesses of the Mysterious Star
@@ -82614,6 +82618,7 @@
 11785|4|zh-Hans|双星之阴阳师
 13800|4|zh-Hans|双月之城
 18115|2|zh-Hans|双生恋情密不可分
+19496|4|zh-Hans|双生武魂
 13351|4|zh|双生灵探
 19051|2|zh-Hans|双胞胎的虚拟人生
 19051|2|zh-Hans|双胞胎阳奈妃莉
@@ -87855,6 +87860,7 @@
 17687|4|zh-Hans|暴食狂战士
 17687|2|zh-Hant|暴食狂戰士
 11827|4|zh-Hant|曆物語
+19497|4|ja|曇り空の向こうは晴れている
 10020|4|ja|曇天に笑う
 12968|4|ja|曇天に笑う&lt;外伝&gt;
 2798|4|zh-Hans|曙光Q
