@@ -1,4 +1,4 @@
-# created: Fri Jul 25 03:00:02 2025
+# created: Sat Jul 26 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -14749,6 +14749,7 @@
 2401|2|en|End-of-the-Century Darling
 18851|4|en|Endless God Realm
 18851|2|en|Endless Heaven Realm
+19498|4|en|Endless Journey of Love
 1048|4|en|Endless Serenade
 1048|1|x-jat|Endless Serenade
 17075|4|en|Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte
@@ -20203,6 +20204,7 @@
 8847|3|x-jat|gyrozetter
 7382|2|lt|Gyvųjų Numirėlių Mokykla
 8574|4|ja|G線上の悲劇
+19499|1|x-jat|H na Gishi Series The Animation
 3672|2|el|H Τοσοδούλα
 6312|4|ja|H・P・ラヴクラフトの ダニッチ・ホラー
 353|2|ja|H.G.J -Habitat Ground Jewdo-
@@ -23192,6 +23194,7 @@
 12512|4|en|Hypnotized - All the Girls in Class Were Pregnant Before They Knew It
 3609|2|en|Hypo and Thomas
 3609|4|pl|Hyppo and Thomas
+19499|4|ja|Hな義姉シリーズ The Animation
 17910|2|en|I Admire Magical Girls, and...
 18899|2|en|I Admire Magical Girls, and... 2
 6576|2|en|I Am a Cat
@@ -47420,6 +47423,7 @@
 12066|1|x-jat|Shiiku x Kanojo
 16974|1|x-zht|Shijian Qiutu
 18392|1|x-zht|Shijian Qiutu Zhi Miwu
+19498|1|x-zht|Shijian Zhizi
 4400|1|x-jat|Shijin no Shougai
 18174|2|x-jat|Shijoku Zukushi
 18174|1|x-jat|Shijokuzukushi
@@ -52951,7 +52955,7 @@
 16081|4|en|The Irregular at Magic High School: Reminiscence Arc
 16081|4|de|The Irregular at Magic High School: Reminiscence Arc
 17098|4|de|The Irregular at Magic High School: Staffel 3
-11980|2|en|The Irregular at Magic High School: The Girl Who Calls the Stars
+11980|4|en|The Irregular at Magic High School: The Movie - The Girl Who Summons the Stars
 15132|4|en|The Irregular at Magic High School: Visitor Arc
 18720|2|en|The Irregular at Magic High School: Yotsuba Succesion Arc
 10182|4|de|The Irregular at Magic Highschool
@@ -55765,6 +55769,7 @@
 2162|4|en|Twin Love
 2984|4|en|Twin Love 2
 2984|2|en|Twin Love Alternative
+19496|2|en|Twin Martial Souls
 19496|2|en|Twin Martial Spirits
 13800|2|en|Twin Moons
 2829|4|it|Twin Princess - Principesse gemelle
@@ -87424,6 +87429,7 @@
 5382|4|zh-Hans|时空旅程10000年
 1860|4|zh-Hans|时空的旅人
 11857|4|zh-Hans|时钟机关之星
+19498|4|zh-Hans|时间之子
 16974|4|zh-Hans|时间囚徒
 18392|4|zh-Hans|时间囚徒之迷雾
 12660|4|zh-Hans|时间支配者
