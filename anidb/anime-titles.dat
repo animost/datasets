@@ -1,4 +1,4 @@
-# created: Sat Jul 26 03:00:02 2025
+# created: Sun Jul 27 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -11233,6 +11233,7 @@
 1447|4|en|Demon-man Bem
 14107|2|en|Demon-slaying blade
 19394|4|en|Demon`s Ascension
+19394|2|en|Demon`s Diary
 16921|2|en|Demon`s Sword Master of Excalibur School
 4021|4|en|Demonbane
 2257|2|en|DemonBane OVA
@@ -15856,6 +15857,7 @@
 16604|1|x-zht|Fei Ren Zai (4)
 16605|1|x-zht|Fei Ren Zai (5)
 16606|1|x-zht|Fei Ren Zai (6)
+19500|1|x-zht|Fei Ren Zai 3
 17816|1|x-zht|Fei Ren Zai Di Er Ji
 17817|1|x-zht|Fei Ren Zai Di Er Ji (2)
 18169|1|x-zht|Fei Ren Zai Di Er Ji (3)
@@ -30292,6 +30294,7 @@
 14791|4|fr|Les Brigades Immunitaires !!
 15502|4|fr|Les Brigades Immunitaires Black
 17870|4|fr|Les Carnets de l`apothicaire
+18562|4|fr|Les Carnets de l`apothicaire (2025)
 3511|4|fr|Les chevaliers de l`outre-monde
 2546|4|fr|Les chevaliers du temps
 826|4|fr|Les chevaliers du zodiaque
@@ -49275,6 +49278,7 @@
 19481|2|en|Soul Land Movie: Sword of Dust
 19481|2|en|Soul Land Sword of Dust
 19481|2|en|Soul Land: Sword Dao Chen Xin
+19481|2|en|Soul Land: Sword Master
 4224|1|x-jat|Soul Link
 4224|4|ja|Soul Link
 18143|2|en|Soul Of Light
@@ -88685,8 +88689,10 @@
 15810|4|zh-Hans|歌剧少女！！
 15810|4|zh-Hant|歌劇少女！！
 14486|4|zh-Hans|歌塑世界
+18065|4|zh-Hans|歌声是千层派
 16286|4|zh-Hans|歌愈少女
 13841|4|zh-Hans|歌牌情缘3
+18065|4|zh-Hant|歌聲是法式千層酥
 14257|4|ja|歌舞伎町シャーロック
 15497|4|ja|歌舞伎町シャーロック (2020)
 14257|2|ja|歌舞伎町のやつ
@@ -94512,6 +94518,7 @@
 16604|4|zh-Hans|非人哉 (4)
 16605|4|zh-Hans|非人哉 (5)
 16606|4|zh-Hans|非人哉 (6)
+19500|4|zh-Hans|非人哉 第三季
 17816|4|zh-Hans|非人哉 第二季
 17817|4|zh-Hans|非人哉 第二季 (2)
 18169|4|zh-Hans|非人哉 第二季 (3)
