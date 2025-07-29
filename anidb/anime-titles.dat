@@ -1,4 +1,4 @@
-# created: Sun Jul 27 03:00:02 2025
+# created: Mon Jul 28 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -23199,6 +23199,7 @@
 19499|4|ja|Hな義姉シリーズ The Animation
 17910|2|en|I Admire Magical Girls, and...
 18899|2|en|I Admire Magical Girls, and... 2
+19502|2|en|I am "Yingtai"
 6576|2|en|I Am a Cat
 15860|2|en|I Am a Great God
 18954|2|en|I Am a Great God 2
@@ -23959,6 +23960,7 @@
 17741|2|en|In the end, the Witch and that Customer
 16966|4|en|In the Heart of Kunoichi Tsubaki
 16069|4|en|In the Land of Leadale
+19502|2|en|In the Name of Ying Tai
 9376|2|en|In This Corner (and Other Corners) of the World
 9376|4|en|In This Corner of the World
 9376|4|de|In this Corner of the World
@@ -33741,8 +33743,8 @@
 18030|1|x-jat|Medalist
 18030|4|pl|Medalist
 18030|4|en|Medalist
-19260|1|x-jat|Medalist 2
-19260|2|en|Medalist 2
+19260|1|x-jat|Medalist (2026)
+19260|2|en|Medalist (2026)
 10631|1|x-jat|Medamayaki no Kimi Itsu Tsubusu?
 3303|1|x-jat|Medarot
 3303|4|it|Medarot
@@ -41592,6 +41594,7 @@
 1041|2|fr|Pokémon - saison 8 - Pokémon Advanced Battle
 1041|2|fr|Pokémon - saison 9 - Pokémon Battle Frontier
 9956|4|pt|Pokémon - Série XY
+9956|4|cs|Pokémon - Série XY
 2371|4|hr|Pokemon - Sudbina Deoxysa
 990|2|en|Pokemon - The First Movie
 1020|2|en|Pokemon - The Movie 2000
@@ -43835,6 +43838,7 @@
 19142|2|en|Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!
 17557|4|en|Reborn as a Vending Machine, I Now Wander the Dungeon
 18204|4|en|Reborn as a Vending Machine, I Now Wander the Dungeon 2nd Season
+18204|2|en|Reborn as a Vending Machine, I Now Wander the Dungeon Season 2
 12934|2|en|Reborn Gladiator of The Baby-Making Colosseum
 17015|4|en|Reborn to Master the Blade: From Hero-King to Extraordinary Squire
 17015|2|en|Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀
@@ -48271,6 +48275,8 @@
 335|4|it|Si sente il mare
 142|4|es|Si Te Veo En Mis Sueños
 336|4|fr|Si tu tends l`oreille
+19501|4|ja|SI-VIS: The Sound of Heroes
+19501|1|x-jat|Si-Vis: The Sound of Heroes
 5539|2|x-jat|Siam Neko - First Mission
 5222|4|it|Siamo Fatti Così - Esplorando il Corpo Umano
 1869|2|it|Siamo in undici!
@@ -60163,6 +60169,7 @@
 374|4|pt|Zaion
 374|3|x-jat|zaion
 374|4|en|Zaion: I Wish You Were Here
+19502|1|x-zht|Zaixia "Yingtai"
 4073|3|x-jat|Zaizen Jotaro
 3164|2|pl|Zaklęty miecz ninja
 3433|2|pl|Zaklinacz Robaków
@@ -79148,7 +79155,7 @@
 8799|4|ja|めだかボックス
 9272|4|ja|めだかボックス アブノーマル
 18030|4|ja|メダリスト
-19260|4|ja|メダリスト 2
+19260|4|ja|メダリスト (2026)
 17926|2|ja|メタリックルージュ
 1516|4|ja|メタルスキンパニックMADOX-01
 917|4|ja|メタルファイター・MIKU
@@ -83350,6 +83357,7 @@
 8573|4|zh-Hans|圣诞之吻SS+ plus
 2810|2|zh-Hans|圣魔之血
 17966|4|zh-Hans|圣魔大战
+19502|4|zh-Hans|在下“英台”
 11881|2|zh-Hant|在下坂本, 有何貴幹?
 11881|4|zh-Hans|在下坂本，有何贵干？
 12693|4|zh-Hans|在世界尽头咏唱恋曲的少女YU-NO
