@@ -1,4 +1,4 @@
-# created: Mon Jul 28 03:00:02 2025
+# created: Tue Jul 29 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3255,6 +3255,7 @@
 5080|4|en|Appleseed: Ex Machina
 5080|4|nl|Appleseed: Ex Machina
 5080|3|en|appleseed2
+12132|3|x-unk|appmon
 15376|2|fr|Appui exotique
 4258|4|pt|Aprender a Ganhar
 12906|4|fr|Après la pluie
@@ -27121,6 +27122,7 @@
 4169|1|x-jat|Kidou Senshi Gundam SEED: Kokuu no Senjou
 4165|1|x-jat|Kidou Senshi Gundam SEED: Meidou no Sora
 9778|1|x-jat|Kidou Senshi Gundam Senki: Avant Title
+19345|1|x-jat|Kidou Senshi Gundam Tekketsu no Orphans Urdr Hunt -Chiisana Chousen-Sha no Kiseki-
 6517|2|x-jat|Kidou Senshi Gundam UC
 16870|1|x-jat|Kidou Senshi Gundam UC Perfectibility Special Movie: Until-L
 6517|1|x-jat|Kidou Senshi Gundam Unicorn
@@ -27139,7 +27141,6 @@
 17648|1|x-jat|Kidou Senshi Gundam: Suisei no Majo (2023)
 11372|1|x-jat|Kidou Senshi Gundam: Tekketsu no Orphans
 14587|1|x-jat|Kidou Senshi Gundam: Tekketsu no Orphans - Urdr Hunt
-19345|1|x-jat|Kidou Senshi Gundam: Tekketsu no Orphans - Urdr Hunt (2025)
 12048|1|x-jat|Kidou Senshi Gundam: Tekketsu no Orphans (2016)
 12048|2|x-jat|Kidou Senshi Gundam: Tekketsu no Orphans S2
 16704|1|x-jat|Kidou Senshi Gundam: Tekketsu no Orphans Tokubetsu Hen
@@ -35072,6 +35073,7 @@
 626|4|de|Mobile Suit Gundam F91
 15346|2|en|Mobile Suit Gundam G40
 19027|2|en|Mobile Suit Gundam GQuuuuuuX
+19027|4|pt|Mobile Suit Gundam GQuuuuuuX
 19027|4|de|Mobile Suit Gundam GQuuuuuuX
 19044|4|en|Mobile Suit Gundam GQuuuuuuX: Beginning
 729|4|en|Mobile Suit Gundam I
@@ -36162,6 +36164,7 @@
 4154|2|en|My Blow Jober
 3567|4|en|My Bomb Shelter
 4821|4|en|My Bride Is a Mermaid
+6126|4|en|My Bride Is a Mermaid OVA
 2506|4|en|My Brother`s Wife
 2506|2|en|My Brothers Wife
 17854|2|en|My Cat Hates Me
@@ -41682,6 +41685,9 @@
 9653|2|ja|Pokemon Best Wishes Episode N
 7891|3|x-jat|pokemon bw
 9216|3|en|pokemon bw2
+9653|4|cs|Pokémon Černý a Bílý: Dobrodružství v Unově (2012)
+9764|4|cs|Pokémon Černý a Bílý: Dobrodružství v Unově (2013)
+9216|4|cs|Pokémon Černý a Bílý: Opačné osudy
 3419|4|en|Pokemon Chronicles
 3419|4|fr|Pokémon Chronicles
 3419|4|pt|Pokémon Chronicles
@@ -41833,7 +41839,7 @@
 9653|4|nl|Pokémon: BW Avonturen in Unova (2013)
 7891|2|en|Pokemon: BW Rival Destinies
 2371|4|pl|Pokémon: Cel - Deoxys
-7891|4|cs|Pokémon: Černý a bílý
+7891|4|cs|Pokémon: Černý a Bílý
 7891|2|cs|Pokémon: Černý a Bílý Opačné osudy
 7891|4|pl|Pokemon: Czerń i Biel
 5048|4|sv|Pokémon: Darkrai slår till
@@ -43176,6 +43182,7 @@
 14572|1|x-zht|Quanzhi Fashi 3
 15397|1|x-zht|Quanzhi Fashi IV
 15397|2|x-zht|Quanzhi Fashi Season 4
+19503|1|x-zht|Quanzhi Fashi Tebie Pian: Shenmi Weituo
 16490|1|x-zht|Quanzhi Fashi V
 16579|1|x-zht|Quanzhi Fashi VI
 12560|1|x-zht|Quanzhi Gaoshou
@@ -43641,6 +43648,7 @@
 17640|4|en|Rascal Does Not Dream of a Sister Venturing Out
 13900|4|en|Rascal Does Not Dream of Bunny Girl Senpai
 13900|4|de|Rascal Does Not Dream of Bunny Girl Senpai
+18300|2|en|Rascal Does Not Dream of Bunny Girl Senpai Season 2
 18300|4|de|Rascal Does Not Dream of Santa Claus
 18300|4|en|Rascal Does Not Dream of Santa Claus
 4312|4|en|Rascal in the Snag Forest
@@ -53145,6 +53153,8 @@
 2201|2|en|The Little Prince and the Eight Headed Dragon
 5062|2|en|The Little Twins
 2200|2|en|The Littlest Warrior
+18469|2|en|The Lone Sword Overlord
+18947|2|en|The Lone Sword Overlord 2nd Season
 19180|2|en|The Long Ballad
 11863|4|en|The Lost Village
 14395|2|en|The Love That I Feel for You
@@ -81437,6 +81447,7 @@
 13171|4|zh-Hant|全职法师
 13469|2|zh|全职法师 II
 14572|2|zh|全职法师 III
+19503|4|zh-Hant|全职法师 特别篇 神秘委托
 13469|4|zh-Hans|全职法师 第2季
 14572|4|zh|全职法师 第3季
 15397|2|zh|全职法师 第4季
@@ -88553,7 +88564,7 @@
 11372|4|ja|機動戦士ガンダム 鉄血のオルフェンズ
 12048|4|ja|機動戦士ガンダム 鉄血のオルフェンズ (2016)
 14587|4|ja|機動戦士ガンダム 鉄血のオルフェンズ ウルズハント
-19345|4|ja|機動戦士ガンダム 鉄血のオルフェンズ ウルズハント (2025)
+19345|4|ja|機動戦士ガンダム 鉄血のオルフェンズ ウルズハント -小さな挑戦者の軌跡-
 16704|4|ja|機動戦士ガンダム 鉄血のオルフェンズ 特別編
 14043|4|ja|機動戦士ガンダム 閃光のハサウェイ
 18723|4|ja|機動戦士ガンダム：銀灰の幻影
