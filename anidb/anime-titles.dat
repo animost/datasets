@@ -1,4 +1,4 @@
-# created: Tue Jul 29 03:00:01 2025
+# created: Wed Jul 30 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -13903,6 +13903,7 @@
 10867|2|x-jat|Durarara4
 12060|1|x-jat|DusaN
 12060|4|sk|DušaN
+19415|4|en|Dusk Beyond the End of the World
 8852|4|en|Dusk Maiden of Amnesia
 8852|4|fr|Dusk Maiden of Amnesia
 8852|4|de|Dusk Maiden of Amnesia
@@ -25945,6 +25946,7 @@
 18722|4|de|Kaiju No. 8 Staffel 2
 19471|4|pt|Kaiju No. 8: Missão de Reconhecimento
 19471|4|en|Kaiju No. 8: Mission Recon
+19471|4|pl|Kaiju No. 8: Mission Recon
 17550|2|en|Kaiju No.EIGHT
 17358|1|x-zht|Kaiju Yi Zuo Shan
 17550|1|x-jat|Kaijuu 8 Gou
