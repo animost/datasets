@@ -1,4 +1,4 @@
-# created: Wed Jul 30 03:00:01 2025
+# created: Thu Jul 31 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -16075,6 +16075,7 @@
 1956|4|en|Final Yamato
 17562|4|ja|Find Your One Way
 17562|1|x-jat|Find Your One Way
+19505|1|en|Finder Series
 16418|4|es-CA|Fins aviat, Don Glees!
 12901|1|x-jat|Fintan
 3072|4|it|Fiocchi di cotone per Jeanie
@@ -23216,6 +23217,7 @@
 16585|2|en|I Am The Only One
 3997|2|en|I am THE Shiratori Reiko!
 16633|2|en|I Am What I Am
+19502|2|en|I am Ying Tai
 3325|2|en|I and Myself: The Two Lottes
 16630|2|en|I Annoyed Millions of Cultivators
 8073|4|it|I bambini che inseguono le stelle
@@ -43007,6 +43009,9 @@
 7235|4|ja|Purple Eyes In The Dark
 7235|1|x-jat|Purple Eyes in the Dark
 16594|2|en|Purple River
+19504|2|en|Purple River 2
+19504|2|en|Purple River 2nd Season
+19504|2|en|Purple River Season 2
 12848|4|ja|PURU POM
 12848|1|x-jat|Puru Pom
 4716|1|x-jat|Pururun! Shizuku-chan
@@ -60478,8 +60483,12 @@
 17548|2|x-zht|Zhuxian
 18577|2|x-zht|Zhuxian (2024)
 16594|1|x-zht|Zi Chuan
+19504|1|x-zht|Zi Chuan 2
+19504|2|x-zht|Zi Chuan 2nd Season
+19504|2|x-zht|Zi Chuan Di Er Ji
 14866|1|x-zht|Zi Gu Yingxiong Chu Shaonian
 16594|2|x-zht|ZICHUAN
+19504|2|x-zht|Zichuan 2nd Season
 1811|4|pl|Zielone żabki
 1811|2|pl|Zielone żabki: Przygody nad Tęczowym Stawem
 17480|2|pl|Ziemia i jej obroty
@@ -77872,6 +77881,7 @@
 730|5|ja|ファイブスターストーリーズ
 730|4|ja|ファイブスター物語
 11211|2|ja|ファイル(N): プロジェクト PQ
+19505|4|ja|ファインダーシリーズ
 9009|4|ja|ファッション
 11536|4|ja|ファッションのはじまり
 1844|4|ja|ファミレス戦士プリン
@@ -91420,6 +91430,8 @@
 18496|4|zh-Hans|紫云寺家的兄弟姐妹
 18496|2|zh-Hans|紫云寺家的孩子们
 16594|4|zh-Hans|紫川
+19504|4|zh-Hans|紫川 第2季
+19504|2|zh-Hans|紫川 第二季
 12138|4|zh-Hans|紫罗兰永恒花园
 14840|4|zh-Hans|紫罗兰永恒花园外传：永远与自动手记人偶
 12138|4|zh-Hant|紫羅蘭永恆花園
