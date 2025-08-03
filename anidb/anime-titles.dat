@@ -1,4 +1,4 @@
-# created: Fri Aug  1 03:00:01 2025
+# created: Sat Aug  2 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -24519,6 +24519,7 @@
 18702|1|x-jat|Isekai Mokushiroku Mynoghra
 18702|2|x-jat|Isekai Mokushiroku Mynoghra:Hametsu no Bunmei de Hajimeru Sekai Seifuku
 18970|1|x-jat|Isekai Munchkin: HP 1 no Mama de Saikyou Saisoku Dungeon Kouryaku
+19507|1|x-jat|Isekai no Sata wa Shachiku Shidai
 6304|1|x-jat|Isekai no Seikishi Monogatari
 17290|1|x-jat|Isekai Nonbiri Nouka
 19506|1|x-jat|Isekai Nonbiri Nouka 2
@@ -53338,6 +53339,7 @@
 14091|4|pl|The Orbital Children
 17965|4|en|The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible
 17965|4|de|The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible
+19507|2|en|The Other World`s Books Depend on the Bean Counter
 15599|2|en|The Outcast 3
 16719|2|en|The Outcast 4
 17095|2|en|The Outcast 5
@@ -90408,6 +90410,7 @@
 17504|4|ja|異世界でもふもふなでなでするためにがんばってます.
 17290|4|ja|異世界のんびり農家
 19506|4|ja|異世界のんびり農家2
+19507|4|ja|異世界の沙汰は社畜次第
 6304|4|ja|異世界の聖機師物語
 15537|4|ja|異世界ハーレム物語
 13004|4|ja|異世界はスマートフォンとともに.
