@@ -1,4 +1,4 @@
-# created: Sat Aug  2 03:00:02 2025
+# created: Sun Aug  3 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2383,6 +2383,7 @@
 5569|1|x-jat|Allison to Lillia
 11580|3|x-jat|allout
 19116|1|x-jat|Alma-chan wa Kazoku ni Naritai
+19116|4|en|Alma-chan Wants to Be a Family!
 19116|2|en|Alma-chan Wants to Have a Family!
 3672|4|es-419|Almendrita
 7920|3|en|Alone Again
@@ -23329,6 +23330,7 @@
 4184|2|en|I want to win 5th prize
 13698|2|en|I Want You To Make a Disgusted Face and Show Me Your Underwear
 14259|2|en|I Want You To Make a Disgusted Face and Show Me Your Underwear 2
+19508|2|en|I Want You To Make a Disgusted Face and Show Me Your Underwear Returns
 10729|2|en|I Was Abducted by an Elite All-Girls School as a Sample Commoner
 17693|2|en|I Was Kicked out of the Hero`s Party Because I Wasn`t a True Companion so I Decided to Have a Slow Life at the Frontier 2nd
 10729|2|en|I Was Kidnapped As a "Sample Commoner" for a Princess School
@@ -24713,6 +24715,7 @@
 13698|1|x-jat|Iya na Kao Sarenagara Opantsu Misete Moraitai
 14259|2|x-jat|Iya na Kao Sarenagara Opantsu Misete Moraitai (2019)
 14259|1|x-jat|Iya na Kao Sarenagara Opantsu Misete Moraitai 2
+19508|1|x-jat|Iya na Kao Sarenagara Opantsu Misete Moraitai Returns
 13698|3|x-jat|iyapan
 14259|2|x-jat|IyaPan 2
 14259|3|x-jat|IyaPan S2
@@ -33717,7 +33720,7 @@
 12467|2|en|Mechanical Arms
 4274|2|en|Mechanical Boy Dotakon
 3051|2|x-jat|Mechanical Doctor
-18803|2|en|Mechanical Marie
+18803|4|en|Mechanical Marie
 8878|2|en|Mechanized Fairies
 10217|4|ja|MECHANO SCIENTIFIC ATTACK FORCE
 10217|1|x-jat|Mechano: Scientific Attack Force
@@ -36432,7 +36435,7 @@
 17128|1|x-jat|My Song
 17449|2|en|My Star
 18086|2|en|My Star (2024)
-19162|2|en|My Status as an Assassin Obviously Exceeds the Hero`s
+19162|4|en|My Status as an Assassin Obviously Exceeds the Hero`s
 5078|4|en|My Steady Is a Witch
 16457|4|en|My Stepmom`s Daughter Is My Ex
 19492|2|en|My Stepmother and Stepsisters Aren`t Wicked
@@ -41327,7 +41330,7 @@
 13826|4|en|Plunderer
 14342|1|x-jat|Plus 50000-nen
 18412|4|en|Plus-Sized Elf
-18281|2|en|Plus-sized Misadventures in Love!
+18281|4|en|Plus-sized Misadventures in Love!
 585|4|en|Pluster World
 585|4|fr|Plusters
 13225|4|ja|PLUTO
@@ -43014,6 +43017,7 @@
 16594|2|en|Purple River
 19504|2|en|Purple River 2
 19504|2|en|Purple River 2nd Season
+19504|2|en|Purple River S2
 19504|2|en|Purple River Season 2
 12848|4|ja|PURU POM
 12848|1|x-jat|Puru Pom
@@ -43655,7 +43659,9 @@
 14397|4|en|Rascal Does Not Dream of a Dreaming Girl
 14397|4|de|Rascal Does Not Dream of a Dreaming Girl
 17862|4|en|Rascal Does Not Dream of a Knapsack Kid
+17862|4|de|Rascal Does Not Dream of a Knapsack Kid
 17640|4|en|Rascal Does Not Dream of a Sister Venturing Out
+17640|4|de|Rascal Does Not Dream of a Sister Venturing Out
 13900|4|en|Rascal Does Not Dream of Bunny Girl Senpai
 13900|4|de|Rascal Does Not Dream of Bunny Girl Senpai
 18300|2|en|Rascal Does Not Dream of Bunny Girl Senpai Season 2
@@ -44654,6 +44660,7 @@
 967|1|x-jat|Rokushin Gattai GodMars
 968|1|x-jat|Rokushin Gattai GodMars (1982)
 1784|1|x-jat|Rokushin Gattai GodMars: Juunanasai no Densetsu
+19310|4|en|Roll Over and Die
 19310|2|en|Roll Over and Die: I Will Fight for an Ordinary Life with My Love and Cursed Sword!
 5172|4|fr|Rolling Star
 169|3|en|RoLW
@@ -52973,7 +52980,7 @@
 14375|4|en|The Invasion of Awakening
 16491|2|en|The Invasion Of Awakening Part 2
 18386|2|en|The Invincible
-19015|2|en|The Invisible Man and His Soon-to-Be Wife
+19015|4|en|The Invisible Man and His Soon-to-Be Wife
 4192|4|en|The Invisible Stud
 8414|2|en|The Iron Fist: Blood Vengeance
 10182|4|en|The Irregular at Magic High School
@@ -53927,7 +53934,7 @@
 19031|4|en|The War of Cards
 6356|2|en|The War of the Girl
 15784|2|en|The Warrior From Qin
-18898|2|en|The Warrior Princess and the Barbaric King
+18898|4|en|The Warrior Princess and the Barbaric King
 1816|4|en|The Warrior, Gordian
 19097|4|en|The Water Magician
 4485|4|en|The Water Seed
@@ -54103,7 +54110,7 @@
 18744|2|en|This Is Ridiculous
 1824|2|en|This is the Police Station in Front of Kameari Park in Katsushika Ward
 13368|4|en|This Mayonnaise is too liquid.
-18942|2|en|This Monster Wants to Eat Me
+18942|4|en|This Monster Wants to Eat Me
 1431|2|en|This Ugly and Beautiful World
 1431|4|en|This Ugly Yet Beautiful World
 377|2|en|Those Obnoxious Aliens
@@ -56537,6 +56544,7 @@
 121|3|x-jat|Usagi-chan
 121|1|x-jat|Usagi-chan de Cue!!
 121|3|x-jat|Usagichan
+19509|1|x-jat|Usahana: Yumemiru Ballerina
 11865|1|x-jat|Usakame
 11865|4|en|Usakame
 12203|1|x-jat|Usalullaby
@@ -72691,6 +72699,7 @@
 15079|4|ja|うさぎのモフィ (2016)
 15080|4|ja|うさぎのモフィ (2017)
 8211|3|ja|うさドロ
+19509|4|ja|ウサハナ 夢見るバレリーナ
 5917|4|ja|ウサビッチ
 11750|4|ja|ウサビッチZERO
 12316|4|ja|うさまる
@@ -82644,6 +82653,7 @@
 14410|4|ja|厨病激発ボーイ
 14658|4|zh-Hans|厨神小当家
 11017|4|ja|厳格クールな先生がアヘボテオチ!
+18929|4|zh-Hans|去K歌吧！
 18228|4|zh-Hant|去參加聯誼，卻發現完全沒有女生在場
 9924|4|ja|参乗合体 トランスフォーマーGo!
 14880|4|zh-Hans|参娃与天池怪兽之瑞雪兆丰年
@@ -84612,6 +84622,7 @@
 13698|4|ja|嫌な顔されながらおパンツ見せてもらいたい
 18061|4|ja|嫌な顔されながらおパンツ見せてもらいたい ver.3.0 (仮)
 14259|4|ja|嫌な顔されながらおパンツ見せてもらいたい2
+19508|4|ja|嫌な顔されながらおパンツ見せてもらいたいR
 6869|4|ja|子うさぎものがたり
 18178|4|ja|子作り妊活部!
 13367|4|ja|子供の廻転の事
