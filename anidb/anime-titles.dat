@@ -1,4 +1,4 @@
-# created: Sun Aug  3 03:00:02 2025
+# created: Mon Aug  4 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -14505,6 +14505,7 @@
 264|2|es|El Pequeño Chef
 2296|4|es|El pequeño lord
 2530|4|es|El pequeño Nemo
+1646|4|es|El perro de Flandes
 264|2|es-CA|El petit xef
 725|2|es|El pirata espacial Capitan Harlock
 727|2|es|El pirata espacial Capitán Harlock: el misterio de la Arcadia
@@ -26543,6 +26544,7 @@
 16387|1|x-jat|Kata no Ato
 13420|2|x-jat|Katainaka ni Totsuide Kita **ssia Musume to H Shimakuru Ohanashi
 13420|1|x-jat|Katainaka ni Totsuide Kita **ssiya Musume to H Shimakuru Ohanashi
+13420|2|x-jat|Katainaka ni Totsuide Kita Russia Musume to H Shimakuru Ohanashi
 18793|1|x-jat|Katainaka no Ossan, Kensei ni Naru
 19400|1|x-jat|Katainaka no Ossan, Kensei ni Naru (2026)
 6987|1|x-jat|Kataku: Nou "Motometsuka" yori
@@ -27660,6 +27662,7 @@
 18875|2|en|Kinnikuman: Perfect Origin Arc (2025)
 17913|1|x-jat|Kinnikuman: Perfect Origin Hen
 18875|1|x-jat|Kinnikuman: Perfect Origin Hen (2025)
+19511|1|x-jat|Kinnikuman: Perfect Origin Hen Season 3
 2090|4|en|Kinnikuman: Scramble For The Throne
 2285|1|x-jat|Kinnikuman: Seigi Choujin vs Kodai Choujin
 2313|1|x-jat|Kinnikuman: Seigi Choujin vs Senshi Choujin
@@ -44014,6 +44017,7 @@
 7139|1|x-jat|Reijoku no Yakata
 2379|1|x-jat|Reijou Caster: Ingyaku no Wana
 1606|1|x-jat|Reiju Gakuen
+19510|1|x-jat|Reika wa Karei na Boku no Joou The Animation
 12030|1|x-jat|Reikenzan: Eichi e no Shikaku
 11784|1|x-jat|Reikenzan: Hoshikuzu-tachi no Utage
 3997|2|en|Reiko Shiratori I Presume
@@ -46528,6 +46532,7 @@
 18300|2|x-jat|Seishun Buta Yarou Series: Daigakusei Hen
 13900|1|x-jat|Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai
 17640|1|x-jat|Seishun Buta Yarou wa Odekake Sister no Yume o Minai
+17640|2|x-jat|Seishun Buta Yarou wa Odekake Sister no Yume wo Minai
 17862|2|x-jat|Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai
 17862|1|x-jat|Seishun Buta Yarou wa Ransel Girl no Yume o Minai
 18300|1|x-jat|Seishun Buta Yarou wa Santa Claus no Yume o Minai
@@ -54589,6 +54594,7 @@
 10140|1|x-jat|Toile no Kamisama
 6366|1|x-jat|Toilet no Hanako-san
 15909|1|x-jat|Toilet no Hanako-san vs Kukkyou Taimashi: Akuochi Ma*ko Tenchuu Samen Renzoku-chuu Dashi
+15909|2|x-jat|Toilet no Hanako-san vs Kukkyou Taimashi: Akuochi Manko Tenchuu Samen Renzoku-chuu Dashi
 10140|2|en|Toilet no Kami-sama
 10140|2|en|Toilet of God
 14757|4|en|Toilet-bound Hanako-kun
@@ -73993,6 +73999,7 @@
 2283|4|ja|キン肉マン 大暴れ! 正義超人
 17913|4|ja|キン肉マン 完璧超人始祖編
 18875|4|ja|キン肉マン 完璧超人始祖編 (2025)
+19511|4|ja|キン肉マン 完璧超人始祖編 Season 3
 2305|4|ja|キン肉マン 晴れ姿! 正義超人
 2285|4|ja|キン肉マン 正義超人VS古代超人
 2313|4|ja|キン肉マン 正義超人VS戦士超人
@@ -79839,6 +79846,7 @@
 7566|4|ja|レイZERO
 423|4|ja|レイアース
 125|2|ja|レイヴ
+19510|4|ja|レイカは華麗な僕の女王 THE ANIMATION
 13747|4|ja|れいぞうこのくにのココモン
 14095|4|ja|れいぞうこのくにのココモン2
 14096|4|ja|れいぞうこのくにのココモン3
