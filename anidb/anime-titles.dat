@@ -1,4 +1,4 @@
-# created: Mon Aug  4 03:00:02 2025
+# created: Tue Aug  5 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2017,6 +2017,8 @@
 2425|1|x-jat|Akane Maniax
 13956|1|x-jat|Akane Sasu Shoujo
 16913|1|x-jat|Akane wa Tsumare Somerareru
+19513|1|x-jat|Akane-banashi
+19513|2|en|Akane-banashi
 1892|1|x-jat|Akane-chan
 1892|4|es|Akane-chan
 12454|1|x-jat|Akane-chan no Wasuremono
@@ -2188,6 +2190,7 @@
 16826|1|x-jat|Akuyaku Reijou nano de Last Boss o Katte Mimashita
 19360|1|x-jat|Akuyaku Reijou no Naka no Hito
 18366|1|x-jat|Akuyaku Reijou Tensei Ojisan
+19512|1|x-jat|Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru
 223|3|en|AL
 170|3|x-jat|AL
 4207|1|x-jat|Al Caral no Isan
@@ -30945,6 +30948,7 @@
 2687|2|en|Lord of Lords Ryu Knight: Adeu`s Legend Final
 1235|2|en|Lord of Lords Ryu Knight: Adeu`s Legend II
 19357|4|en|Lord of Mysteries
+19357|4|de|Lord of Mysteries
 17126|2|en|Lord of Planet
 18999|2|en|Lord of Planet 2
 18999|2|en|Lord of Planet 2nd Season
@@ -34305,6 +34309,8 @@
 11554|3|x-jat|mh (2011)
 8041|3|x-jat|mh s2
 11739|3|en|MHA
+12233|3|en|mha s2
+12233|3|en|mhas2
 2443|3|x-jat|mhd
 6087|3|x-jat|mhtv
 288|3|x-jat|MI
@@ -40061,6 +40067,7 @@
 18756|1|x-jat|OVA Incha Couple ga You Gal-tachi to Sex Training Suru Hanashi
 13769|1|x-jat|OVA Muttsuri Do Sukebe Ro Gibo Shimai no Honshitsu Minuite Sex Zanmai
 19414|1|x-jat|OVA Pure Pure Pero Pero Princess
+19514|1|x-jat|OVA Sister Breeder
 11268|1|x-jat|OVA Tokyo Ghoul
 19313|1|x-jat|OVA Tonari no Kanojo
 11271|1|x-jat|OVA Tsunpuri
@@ -40075,6 +40082,7 @@
 16328|2|ko|OVA 사신창관―음란 거유 모녀 산 제물의식
 15780|2|ko|OVA 수국이 질 때
 6285|4|ja|OVA うたわれるもの
+19514|4|ja|OVA シスターブリーダー
 18049|2|ja|OVA ツンデロシリーズ
 11271|4|ja|OVA ツンプリ
 19313|4|ja|OVA トナリノカノジョ
@@ -46495,6 +46503,7 @@
 9996|3|x-jat|seikoku
 9996|1|x-jat|Seikoku no Dragonar
 8154|2|en|seikon 2
+19515|1|x-jat|Seikon no Aria
 6816|1|x-jat|Seikon no Qwaser
 8154|2|en|Seikon no Qwaser 2
 8154|1|x-jat|Seikon no Qwaser II
@@ -50089,6 +50098,7 @@
 275|2|de|Sternenkrieger - Warriors of the Wind
 11292|4|ro|Șters
 9083|3|x-jat|STI
+19515|2|en|Stigma Aria
 4891|2|en|Stigma of the Wind
 10395|2|en|Still World Is Beautiful
 8600|2|en|Still, I Love My Wife
@@ -53926,6 +53936,7 @@
 19448|2|en|The Vermilion Mask
 11822|2|ja|The very lovely tyrant of love ♥
 17805|4|en|The Vexations of a Shut-In Vampire Princess
+19512|2|en|The Villainess Is Adored by the Prince of the Neighbor Kingdom
 1297|2|en|The Virgin Mary is Watching Over You
 1297|2|en|The Virgin Mary is watching you
 2025|2|en|The Virgin Mary is watching you: Spring
@@ -72015,6 +72026,7 @@
 1892|4|ja|あかねちゃん
 12454|4|ja|あかねちゃんの忘れもの
 2425|4|ja|アカネマニアックス
+19513|4|ja|あかね噺
 6025|4|ja|あかね色に染まる坂
 2840|2|ja|あかほり外道アワーらぶげ part 1
 2841|2|ja|あかほり外道アワーらぶげ part 2
@@ -86208,6 +86220,7 @@
 3618|4|ja|悪右衛門
 16826|4|ja|悪役令嬢なのでラスボスを飼ってみました
 19360|4|ja|悪役令嬢の中の人
+19512|4|ja|悪役令嬢は隣国の王太子に溺愛される
 17937|4|ja|悪役令嬢レベル99 ~私は裏ボスですが魔王ではありません~
 18366|4|ja|悪役令嬢転生おじさん
 3126|4|ja|悪戯~いたずら~The Animation
@@ -91971,6 +91984,7 @@
 5208|4|ja|聖泉学淫
 1278|4|ja|聖獣伝 ツインドールズ
 1615|4|ja|聖獣機サイガード
+19515|4|ja|聖痕のアリア
 6816|4|ja|聖痕のクェイサー
 7971|4|ja|聖痕のクェイサー 女帝の肖像
 8154|4|ja|聖痕のクェイサーII
