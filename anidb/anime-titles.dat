@@ -1,4 +1,4 @@
-# created: Thu Aug  7 03:00:01 2025
+# created: Fri Aug  8 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -26060,6 +26060,7 @@
 13718|4|pl|Kakegurui xx
 12834|4|no|Kakegurui: Compulsive Gambler
 12834|2|pl|Kakegurui: Szał hazardu
+19521|1|x-jat|Kaketa Tsuki no Mercedes: Kyuuketsuki no Kizoku ni Tensei Shitakedo Suterare Sounanode Dungeon o Seiha Suru
 12895|1|x-jat|Kakinoki Mokkii
 7996|1|x-jat|Kakko-Kawaii Sengen!
 8634|1|x-jat|Kakko-Kawaii Sengen! 2
@@ -29291,6 +29292,7 @@
 18649|4|it|L`estate in cui Hikaru è morto
 896|2|es-CA|L`Eternitat que Desitjes
 2342|2|fr|L`Étoile de la Seine
+19522|2|fr|L`étoile de Paris en fleur
 5683|4|fr|L`étoile rouge
 15235|2|fr|L`étranger de la plage
 15235|2|fr|L`étranger du plage
@@ -32068,9 +32070,9 @@
 13612|4|fr|Made in Abyss : L`aurore de l`âme des profondeurs
 15359|4|fr|Made in Abyss : La ville d`or incandescente
 13941|2|fr|Made in Abyss : Le crépuscule errant
+17824|1|x-jat|Made in Abyss (2026)
 13941|4|de|Made in Abyss (Movie)
 13941|4|en|Made in Abyss (Movies)
-17824|1|x-jat|Made in Abyss (Zokuhen)
 15359|2|fi|Made in Abyss: Auringon paahtama kultainen kaupunki
 13612|4|en|Made in Abyss: Dawn of the Deep Soul
 15359|4|de|Made in Abyss: Die Goldene Stadt der sengenden Sonne
@@ -34150,6 +34152,7 @@
 13768|2|ja|Merc Storia – Mukiryoku Shounen to Bin no Naka no Shoujo
 13768|1|x-jat|Merc Storia: Mukiryoku Shounen to Bin no Naka no Shoujo
 13768|4|en|Merc Storia: The Apathetic Boy and the Girl in a Bottle
+19521|2|en|Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat
 11556|2|en|Merci Merci Me
 4193|4|et|Meremaa lood
 4700|2|it|Meremanoid - La leggenda delle profondità marine
@@ -40510,6 +40513,7 @@
 3627|2|x-jat|Pari no Isaberu
 16970|1|x-jat|Paripi Koumei
 18598|1|x-jat|Paripi Koumei: Road to Summer Sonia
+19522|1|x-jat|Paris ni Saku Etoile
 3627|2|x-jat|Paris no Isabel
 3627|1|x-jat|Paris no Isabelle
 13443|2|en|Parkour Hero
@@ -77506,6 +77510,7 @@
 11630|4|ja|バリィさんのいまばり弁講座
 2243|4|ja|ハリスの旋風
 15392|2|ja|ハリツケ
+19522|4|ja|パリに咲くエトワール
 14323|4|ja|ハリネズミ
 18623|4|ja|はりねずみのルーチカ
 4779|4|ja|バリバリ伝説
@@ -79163,7 +79168,7 @@
 10294|2|ja|めいたんていラスカル
 2501|4|ja|メイド イン ドリーム
 12681|4|ja|メイドインアビス
-17824|4|ja|メイドインアビス (続編)
+17824|4|ja|メイドインアビス (2026)
 15359|4|ja|メイドインアビス 烈日の黄金郷
 3365|4|ja|めいとこねこバス
 11245|4|ja|メイドさんとボイン魂 THE ANIMATION
@@ -88752,6 +88757,7 @@
 11104|4|ja|櫻子さんの足下には死体が埋まっている
 1841|4|zh|櫻桃小丸子
 9153|4|zh-Hant|櫻花莊的寵物女孩
+19521|4|ja|欠けた月のメルセデス ~吸血鬼の貴族に転生したけど捨てられそうなのでダンジョンを制覇する~
 2535|4|zh-Hans|次元舰队
 214|4|zh-Hans|次强音
 492|4|zh-Hans|欢乐世界
