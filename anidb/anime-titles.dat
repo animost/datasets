@@ -1,4 +1,4 @@
-# created: Fri Aug  8 03:00:02 2025
+# created: Sat Aug  9 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -26092,7 +26092,7 @@
 18607|1|x-jat|Kakuriyo no Yadomeshi Ni
 18607|2|x-jat|Kakuriyo no Yadomeshi Season 2
 13564|4|en|Kakuriyo: Bed & Breakfast for Spirits
-18607|2|en|Kakuriyo: Bed & Breakfast for Spirits (2025)
+18607|4|en|Kakuriyo: Bed & Breakfast for Spirits 2
 9753|1|x-jat|Kakushi Dere
 15267|1|x-jat|Kakushigoto
 15267|4|en|Kakushigoto
@@ -39428,8 +39428,8 @@
 1940|2|x-jat|Onna Kyoshi Yumi no Hokago
 1983|1|x-jat|Onna Kyoushi
 2003|1|x-jat|Onna Kyoushi Nijuusansai
-1940|1|x-jat|Onna Kyoushi Yumi no Houkago
 2004|1|x-jat|Onna Kyoushi: Nikutai Jugyou
+1940|1|x-jat|Onna Kyoushi: Yumi no Houkago
 14923|1|x-jat|Onna Maou Melissa no H na Boukenki
 17549|1|x-jat|Onna no Sono no Hoshi
 2790|1|x-jat|Onna Senshi Efe & Jira: Gude no Monshou
@@ -40511,6 +40511,7 @@
 3081|2|en|Parent and Child Theatre
 8915|1|x-jat|Pareo wa Emerald
 3627|2|x-jat|Pari no Isaberu
+19522|3|x-jat|parieto
 16970|1|x-jat|Paripi Koumei
 18598|1|x-jat|Paripi Koumei: Road to Summer Sonia
 19522|1|x-jat|Paris ni Saku Etoile
@@ -47353,7 +47354,12 @@
 17522|1|x-zht|Shen Mu
 18847|1|x-zht|Shen Mu 2
 18847|2|x-zht|Shen Mu 2nd Season
+19523|2|x-zht|Shen Mu 3
+19523|2|x-zht|Shen Mu 3rd Season
 18847|2|x-zht|Shen Mu Di Er Ji
+19523|1|x-zht|Shen Mu Di San Ji
+19523|2|x-zht|Shen Mu Nian Fan
+19523|2|x-zht|Shen Mu Season 3
 1597|2|x-jat|Shen Mue
 13664|1|x-zht|Shen Po
 13596|2|x-zht|Shen Qi Huan Qi Tan
@@ -52829,6 +52835,7 @@
 4151|2|en|The Girl Who Cut Time
 6176|4|en|The Girl Who Leapt Through Space
 4151|4|en|The Girl Who Leapt Through Time
+19498|2|en|The Girl Who Stole Time
 6385|2|en|The Girl with the White Flag
 8263|2|en|The Girl`s Anus Breaking by Vampire.
 12366|4|en|The Glass Mask Year 3 Class D
@@ -54834,6 +54841,9 @@
 17522|2|en|Tomb of Fallen Gods
 18847|2|en|Tomb of Fallen Gods 2
 18847|2|en|Tomb of Fallen Gods 2nd Season
+19523|2|en|Tomb of Fallen Gods 3
+19523|2|en|Tomb of Fallen Gods 3rd Season
+19523|2|en|Tomb of Fallen Gods Season 3
 19229|1|x-jat|Tomb Raider King
 11806|4|en|Tomboy Angels
 18420|2|en|Tombs of Fallen Immortals
@@ -77508,6 +77518,7 @@
 13530|5|ja|バリィさん×ゴスペラッツ 『トンデバリバリストーリー』
 13530|4|ja|バリィさん×ゴスペラッツ 『トンデバリバリ物語』
 11630|4|ja|バリィさんのいまばり弁講座
+19522|3|ja|パリエト
 2243|4|ja|ハリスの旋風
 15392|2|ja|ハリツケ
 19522|4|ja|パリに咲くエトワール
@@ -90954,6 +90965,8 @@
 15540|4|zh-Hans|神在月的孩子
 15540|4|zh-Hant|神在月的孩子
 17522|4|zh-Hans|神墓
+19523|2|zh-Hans|神墓 年番
+19523|4|zh-Hans|神墓 第三季
 18847|4|zh-Hans|神墓 第二季
 230|2|zh-Hant|神奇寶貝
 15608|4|zh-Hant|神奇柑仔店
