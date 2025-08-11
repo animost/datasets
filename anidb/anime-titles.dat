@@ -1,4 +1,4 @@
-# created: Sat Aug  9 03:00:02 2025
+# created: Sun Aug 10 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -107,7 +107,6 @@
 7565|4|ar|.إيفانجيليون:3،33 أنت (لا) تستطيع الإعادة
 10143|1|x-jat|"0"
 2205|2|es|"009" contra los monstruos del mar
-19003|1|x-jat|"1 Funkan dake Furete mo Ii yo..." Share House no Himitsu Rule.
 3689|1|x-jat|"Aesop" no Ohanashi yori: Ushi to Kaeru, Yokubatta Inu
 17129|1|x-jat|"Anata o Hitokoto de Arawashite Kudasai" no Shitsumon ga Nigate da.
 4317|1|x-jat|"Eiji"
@@ -118,6 +117,7 @@
 15460|1|x-jat|"Hataraku Saibou!!" Saikyou no Teki, Futatabi. Karada no Naka wa "Chou" Oosawagi!
 12142|2|en|"Heroes" Dismissed
 16424|2|en|"Ippon" Again!
+19003|1|x-jat|"Ippunkan dake Furete mo Ii yo..." Share House no Himitsu Rule.
 19310|1|x-jat|"Omae Gotoki ga Maou ni Kateru to Omou na" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai
 17449|1|x-jat|"Oshi no Ko"
 18086|1|x-jat|"Oshi no Ko" (2024)
@@ -52540,7 +52540,8 @@
 18066|4|en|The Dangers in My Heart (2024)
 18066|2|en|The Dangers in My Heart Season 2
 18890|2|en|The Dangers in My Heart the Movie
-18497|2|en|The Dark History of the Reincarnated Villainess
+18497|4|en|The Dark History of the Reincarnated Villainess
+18497|4|de|The Dark History of the Reincarnated Villainess
 6554|4|en|The Dark Knight Ingrid
 2920|4|fr|The Dark Myth
 2920|4|en|The Dark Myth
