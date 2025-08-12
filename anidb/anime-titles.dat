@@ -1,4 +1,4 @@
-# created: Sun Aug 10 03:00:01 2025
+# created: Mon Aug 11 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -30193,6 +30193,7 @@
 446|4|en|Legend of the Crystals: Final Fantasy
 4539|2|en|Legend of the Divine Century: Mars
 1533|4|en|Legend of the Dragon Kings
+19525|2|en|Legend of the Ethereal Sword-Immortal
 2899|4|en|Legend of the Forest
 797|2|en|Legend of the Four Horsemen
 1533|2|en|Legend of the Four Kings
@@ -30216,6 +30217,7 @@
 1519|2|en|Legend of the Last Labyrinth
 2734|2|en|Legend of the Magical Beans Pandalian
 7621|4|en|Legend of the Millennium Dragon
+19525|2|en|Legend of the Misty Sword Immortal
 2423|4|en|Legend of the Mystical Ninja
 4644|4|en|Legend of the Pervert
 11168|2|en|Legend of the Red Sword
@@ -39183,6 +39185,8 @@
 4851|2|en|One Piece Movie 8
 5691|2|en|One Piece Movie 9
 411|2|en|One Piece Movie: The Great Gold Pirate
+19524|4|ja|ONE PIECE novel HEROINES
+19524|1|x-jat|One Piece Novel Heroines
 2736|2|x-jat|ONE PIECE OVA
 17956|1|x-jat|One Piece Special Edition
 6199|4|ja|ONE PIECE SPECIAL ROMANCE DAWN STORY
@@ -39218,6 +39222,7 @@
 4851|1|x-jat|One Piece: Episode of Arabasta - Sabaku no Oujo to Kaizoku-tachi
 5691|2|en|One Piece: Episode of Chopper Plus - Bloom in the Winter, Miracle Sakura
 5691|4|en|One Piece: Episode of Chopper Plus: Bloom in the Winter, Miracle Cherry Blossom
+19524|2|en|One Piece: Heroines
 4097|4|it|One Piece: I Misteri dell`Isola Meccanica
 411|2|en|One Piece: I`ll Be a Pirate King
 1253|4|it|One Piece: Il Tesoro del Re
@@ -41013,6 +41018,7 @@
 13537|3|x-jat|pianomori s1
 14193|3|x-jat|pianomori s2
 4935|4|ro|Pianul din Padure
+19525|1|x-zht|Piaomiao Jian Xian Chuan
 249|4|ja|Piaキャロットへようこそ!!
 849|4|ja|Piaキャロットへようこそ!! 2
 566|4|ja|Piaキャロットへようこそ!! 2 DX
@@ -91796,6 +91802,7 @@
 7656|4|zh-Hans|缘之空
 15272|4|zh-Hans|缘结熊本！
 17994|4|zh-Hans|缘结甘神家
+19525|4|zh-Hans|缥缈剑仙传
 10244|4|zh-Hans|网球优等生
 10847|4|zh-Hans|网球优等生 第二季
 9367|4|zh-Hans|网球少女
