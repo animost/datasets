@@ -1,4 +1,4 @@
-# created: Mon Aug 11 03:00:02 2025
+# created: Wed Aug 13 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -13884,6 +13884,7 @@
 16032|2|x-jat|Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka S4
 18162|1|x-jat|Dungeon no Naka no Hito
 18162|4|en|Dungeon People
+19526|1|x-jat|Dungeons & Television
 8691|2|id|Dunia Percepatan
 18071|3|id|Dunia Roh 2
 9376|4|tr|Dünyanın Bu Köşesinde
@@ -16156,7 +16157,6 @@
 1080|2|en|First Kiss Story
 1080|1|x-jat|First Kiss Story: Kiss kara Hajimaru Monogatari
 1080|2|en|First Kiss Story: The Story That Starts With a Kiss
-19390|1|en|First Line
 8965|4|ja|First Love
 8965|1|x-jat|First Love
 8965|4|en|First Love
@@ -22868,7 +22868,7 @@
 271|3|x-jat|HR
 1868|4|cs|Hrabě Monte Christo
 1868|2|pl|Hrabia Monte Christo
-332|2|cs|Hrob světlušek
+332|4|cs|Hrob světlušek
 656|3|en|HS
 4596|3|en|HSD Kenichi
 8721|3|en|HSD Kenichi OVA
@@ -26969,7 +26969,6 @@
 7246|2|en|Keroro Gunso the Super Movie: Creation! Ultimate Keroro, Wonder Space-Time Island
 1552|1|x-jat|Keroro Gunsou
 19432|1|x-jat|Keroro Gunsou (2026)
-18987|1|x-jat|Keroro Gunsou (Anime Shin Project)
 4818|2|x-jat|Keroro Gunsou Movie 2
 5956|2|en|Keroro Gunsou Movie 3
 3569|2|x-jat|Keroro Gunsou the Movie
@@ -37930,6 +37929,7 @@
 7111|1|x-jat|Ninpuu Kamui Gaiden: Tsukihigai no Maki
 3626|2|x-jat|Nintama Rantaro
 3640|2|en|Nintama Rantaro Movie
+18505|4|en|Nintama Rantaro: Invincible Master of the Dokutake Ninja
 3626|1|x-jat|Nintama Rantarou
 3640|2|en|Nintama Rantarou - The Movie
 13220|1|x-jat|Nintama Rantarou no Uchuu Daibouken with Cosmic Front Next
@@ -38207,7 +38207,7 @@
 14914|3|x-jat|nonnonbiyori s3
 12689|3|x-jat|nonnonrepeat ova
 2129|1|x-jat|Nono-chan
-19057|1|x-jat|Nonohara Yuzuka no Himitsu no Haishin
+19057|1|x-jat|Nonohara Yuka no Himitsu no Haishin
 2129|4|fr|Nonoko
 1205|1|x-jat|Nonomura Byouin no Hitobito
 1205|4|it|Nonomura Hospital - Delitto in corsia a Luci Rosse
@@ -42649,6 +42649,7 @@
 2329|4|de|Prinzessin Erdbeer
 7|4|de|Prinzessin Mononoke
 516|2|de|Prinzessin Tutu
+18690|3|x-jat|priorche
 13031|3|x-jat|Pripal
 14064|3|x-jat|Pripal movie
 10515|1|x-jat|PriPara
@@ -74404,7 +74405,6 @@
 1811|4|ja|けろっこデメタン
 1552|4|ja|ケロロ軍曹
 19432|4|ja|ケロロ軍曹 (2026)
-18987|4|ja|ケロロ軍曹 アニメ新プロジェクト
 12748|4|ja|ケンカのあとは
 11216|4|ja|ケンガンアシュラ
 17274|4|ja|ケンガンアシュラ (2023)
@@ -75942,6 +75942,7 @@
 12035|4|ja|ダンガンロンパ3 -The End of 希望ヶ峰学園- 絶望編
 1692|2|ja|ダンクーガ
 17565|3|ja|だんじょる
+19526|4|ja|ダンジョン&テレビジョン
 10894|4|ja|ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH
 13829|4|ja|ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH II
 15111|4|ja|ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH III
@@ -77931,7 +77932,6 @@
 2515|4|ja|フーリガン
 1080|4|ja|ファーストKiss☆物語[ストーリー] Kissからはじまる物語
 4401|4|ja|ファーストスクワッド
-19390|4|ja|ファーストライン
 8965|2|ja|ファーストラブ
 4686|4|ja|ファーブル先生は名探偵
 10257|4|ja|ファーブル昆虫記
