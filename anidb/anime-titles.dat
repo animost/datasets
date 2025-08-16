@@ -1,4 +1,4 @@
-# created: Thu Aug 14 03:00:02 2025
+# created: Fri Aug 15 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -16630,6 +16630,7 @@
 1113|1|x-jat|Front Innocent: Mou Hitotsu no Lady Innocent
 17501|2|pt|Fronteira Xangrilá
 1209|4|es-419|Frontera sin ley
+19527|2|en|Frost Flowers After a Night of Frolicking
 18404|2|en|Frozen Mahjong: Underground Mahjong Battle Record
 34|3|x-jat|fruba
 16410|3|x-jat|fruba movie
@@ -27726,6 +27727,7 @@
 6863|2|en|Kintaro`s Physical Education Diary
 6920|1|x-jat|Kintarou
 6863|1|x-jat|Kintarou Taiiku Nikki
+19527|1|x-jat|Kinuginu no Kayuki
 8283|1|x-jat|Kipling Jr.
 9381|1|x-jat|Kira Kira 5th Anniversary Live Anime: Kick Start Generation
 12503|4|en|Kira Kira Pretty Cure A La Mode
@@ -41068,6 +41070,8 @@
 1296|1|x-jat|Pigeon Blood
 1296|2|ja|PIGEON BLOOD
 6868|2|en|Piggyback Ghost
+3481|4|pt|Pigmaleão
+3481|4|es|Pigmalión
 11869|4|en|Pigtails
 11869|4|fr|Pigtails
 3481|2|x-jat|Pigumario
@@ -85866,6 +85870,7 @@
 199|4|ja|彼氏彼女の事情
 17038|4|ja|後宮の烏
 17038|2|zh-Hant|後宮之烏
+19527|4|ja|後朝の花雪
 13619|4|zh-Hant|後街女孩
 18948|4|zh-Hans|徒弟个个是大佬
 12814|4|zh-Hans|徒然Children
