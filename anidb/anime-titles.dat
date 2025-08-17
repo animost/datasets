@@ -1,4 +1,4 @@
-# created: Fri Aug 15 03:00:02 2025
+# created: Sat Aug 16 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -24979,6 +24979,7 @@
 13687|1|x-zht|Jian Wangchao (2017)
 17596|1|x-zht|Jian Xian Zai Ci
 19153|1|x-zht|Jian Xian Zai Ci 2nd Season
+19153|2|x-zht|Jian Xian Zai Ci Di Er Ji
 17582|2|x-zht|Jian Yu Chuanqi
 17985|2|x-zht|Jian Yu Chuanqi 2
 18346|2|x-zht|Jian Yu Chuanqi 3
@@ -27727,7 +27728,7 @@
 6863|2|en|Kintaro`s Physical Education Diary
 6920|1|x-jat|Kintarou
 6863|1|x-jat|Kintarou Taiiku Nikki
-19527|1|x-jat|Kinuginu no Kayuki
+19527|1|x-jat|Kinuginu no Hana Yuki
 8283|1|x-jat|Kipling Jr.
 9381|1|x-jat|Kira Kira 5th Anniversary Live Anime: Kick Start Generation
 12503|4|en|Kira Kira Pretty Cure A La Mode
@@ -50829,6 +50830,7 @@
 17041|4|pl|Suzume
 17041|4|cs|Suzume
 17041|4|fr|Suzume
+17041|4|de|Suzume
 19152|1|x-jat|Suzume
 6733|1|x-jat|Suzume no Oyado
 17041|1|x-jat|Suzume no Tojimari
@@ -53854,6 +53856,8 @@
 15608|4|en|The Supernatural Sweet Shop
 17596|2|en|The Sword Fairy Is Here
 17596|4|en|The Sword Immortal Is Here
+19153|2|en|The Sword Immortal is Here 2nd Season
+19153|2|en|The Sword Immortal Season 02
 18415|2|en|The Sword Of Dawn
 5546|3|en|The Sword of Musashi
 1320|2|en|The Sword of the World Conquest
@@ -82048,6 +82052,7 @@
 16015|4|ja|前髪
 17596|4|zh-Hans|剑仙在此
 19153|4|zh-Hans|剑仙在此 第2季
+19153|2|zh-Hans|剑仙在此 第二季
 329|4|zh|剑勇传说 铁刃
 17582|4|zh|剑域风云
 17985|4|zh-Hans|剑域风云 (2023)
