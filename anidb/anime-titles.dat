@@ -1,4 +1,4 @@
-# created: Sun Aug 17 03:00:02 2025
+# created: Mon Aug 18 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8848,6 +8848,7 @@
 19163|4|en|Chuhai Lips: Canned Flavor of Married Women
 14954|1|x-zht|Chui Zhi Shi Jie
 13278|1|x-kot|Chuldong! Super Wings
+19529|1|x-kot|Chuldong! Super Wings 2
 2515|2|lt|Chuliganas - Septynių Šventųjų Vibratorių Paieška
 16431|1|x-zht|Chun Qiu Feng Shen
 942|3|x-jat|CHun1
@@ -27018,7 +27019,7 @@
 3686|4|vi|Khủng Long Con Ham Ăn
 144|2|vi|Khuyển dạ xoa
 3480|2|x-jat|Ki ni Naru Roommate
-19167|1|x-jat|Ki ni Natteru Hito ga Otoko Janakatta
+19167|1|x-jat|Ki ni Natteru Hito ga Otoko ja Nakatta
 14366|2|x-jat|Ki Renka
 2597|1|x-jat|Ki-Fighter Taerang
 17567|1|x-jat|Ki-No-Ko
@@ -38526,6 +38527,7 @@
 18949|2|pt|O Conto do Pastor
 18451|2|pt-BR|O curandeiro que foi banido do seu grupo é na verdade, o mais forte!
 4698|4|pl|O czym szumią wierzby
+2804|4|pt|O Demónio do Sexo
 7221|2|pt-BR|O Desaparecimento de Haruhi Suzumiya
 7221|2|pt-BR|O Desaparecimento de Suzumiya Haruhi
 266|4|es-GA|O detective Conan
@@ -57210,7 +57212,7 @@
 1108|2|en|Virtual Call
 6100|2|x-jat|Virtual Idol May
 6628|1|x-jat|Virtual Star 2000
-14583|1|x-jat|Virtual-san wa Miteiru
+14583|1|x-jat|Virtual-san wa Mite Iru
 1558|4|fr|Virtually Real - Cybervenus FeiFei
 1558|4|nl|Virtually Real - Cybervenus FeiFei
 1558|4|en|Virtually Real - Cybervenus FeiFei
@@ -57696,7 +57698,7 @@
 18203|4|en|Watari-kun`s ****** Is About to Collapse
 18749|1|x-jat|Wataridori to Katatsumuri
 3636|3|x-jat|wataru
-19001|1|x-jat|Watashi ga Koibito ni Nareru Wakenai jan, Muri Muri! (*Muri ja Nakatta!?)
+19001|1|x-jat|Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (*Muri ja Nakatta!?)
 9582|1|x-jat|Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!
 10064|1|x-jat|Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!: Motenai shi, Nazo Meite Miru
 11979|1|x-jat|Watashi ga Motete Dou Sunda
@@ -71360,6 +71362,7 @@
 10313|4|ko|추억의 마니
 5594|2|ko|춘연 소녀
 13278|4|ko|출동! 슈퍼윙스
+19529|4|ko|출동! 슈퍼윙스2
 3433|4|ko|충사
 9556|2|ko|취성의 가르간티아
 10549|2|ko|취성의 가르간티아: 순환하는 항로, 저 멀리
