@@ -1,4 +1,4 @@
-# created: Mon Aug 18 03:00:02 2025
+# created: Tue Aug 19 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -719,6 +719,7 @@
 18293|2|ko|69 거짓 미소
 6096|4|ko|69 핑크 라이더스
 6097|4|ko|69 핑크 라이더스 2
+18293|2|ja|６９〜偽りの微笑〜
 18293|2|en|69: False smile
 18293|1|x-jat|69: Itsuwari no Bishou
 18293|2|x-jat|69: Itsuwari no Hohoe
@@ -1018,6 +1019,7 @@
 9|4|en|A Little Snow Fairy Sugar
 7300|4|en|A Little Snow Fairy Sugar Special
 5311|2|en|A Little Talent
+19530|2|en|A Livid Lady`s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires
 18003|4|ja|A Log Day of Timbre
 18003|1|x-jat|A Log Day of Timbre
 6357|2|en|A Lot of Pine Wood
@@ -1282,6 +1284,7 @@
 15366|2|fr|Abaddon & la princesse du chao
 16686|2|ko|Abandon -100 SEX하지 않으면 나올 수없는 이상한 교실
 16686|4|ja|Abandon -100ヌキしないと出られない不思議な教室-
+16686|2|ja|Abandon‐100ヌキしないと出られない不思議な教室‐
 16686|1|x-jat|Abandon: 100 Nuki Shinai to Derarenai Fushigi na Kyoushitsu
 16686|2|en|Abandon: A Mysterious Classroom Where You Can`t Leave Unless You Do 100 Nudes
 16686|2|fr|Abandon: La mystérieuse salle de classe d’aucuns ne s’échappe avant 100 éjaculations
@@ -7136,6 +7139,7 @@
 18040|2|en|Bucchigiri!
 18040|1|x-jat|Bucchigiri?!
 18040|4|en|Bucchigiri?!
+19530|1|x-jat|Buchigire Reijou wa Houfuku o Chikaimashita. Madousho no Chikara de Sokoku o Tataki Tsubushimasu
 3549|1|x-jat|Bucket de Gohan
 12584|1|x-jat|Bucket no Ana
 2993|4|pt-BR|Bucky
@@ -21730,6 +21734,8 @@
 14416|3|x-jat|heroaca4
 15484|3|x-jat|heroaca5
 16793|3|en|heroaca6
+17931|3|en|heroaca7
+18921|3|en|heroaca8
 10389|2|en|Herobank
 1217|4|es-419|Héroes al Rescate
 15859|2|en|Heroes Don`t Bi-Bi
@@ -36014,6 +36020,7 @@
 4897|2|en|Murder Train
 15121|1|x-jat|Murenase! Seton Gakuen
 9140|1|x-kot|Murim Ilgeomui Sasaenghwal
+19001|3|x-jat|murimuri
 9479|3|x-jat|muromi
 9770|2|en|muromi ova
 9479|4|en|Muromi-san
@@ -78118,6 +78125,7 @@
 9455|4|ja|ぷちます! わっくわくっ!
 10135|4|ja|ぷちます!! プチプチ・アイドルマスター
 12228|4|ja|ぷちます!! プチプチ・アイドルマスター: ふゆ→こたつ←はる
+19530|4|ja|ブチ切れ令嬢は報復を誓いました. ~魔導書の力で祖国を叩き潰します~
 19424|4|ja|プックラポッタと森の時間
 8755|4|ja|プッシーキャット
 3202|4|ja|プッシュ
