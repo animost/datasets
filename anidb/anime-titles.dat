@@ -1,4 +1,4 @@
-# created: Tue Aug 19 03:00:01 2025
+# created: Wed Aug 20 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6991,6 +6991,7 @@
 3496|4|en|Bride of Deimos
 3496|2|en|Bride of Deimos: The Orchid Smile
 3496|2|en|Bride of Deimos: The Orchid Suite
+19531|2|en|Bride of the Barrier Master
 18511|4|ja|BRIDGE -My Little Friends-
 18511|1|x-jat|Bridge: My Little Friends
 830|2|pt-BR|Brigadão
@@ -26745,6 +26746,7 @@
 12571|3|x-jat|kekkaisensen2
 4574|1|x-jat|Kekkaishi
 4574|4|en|Kekkaishi
+19531|1|x-jat|Kekkaishi no Ichirinka
 12861|1|x-jat|Kekkaku Yobou
 13873|1|x-jat|Kekkero Kee
 1867|4|en|Kekko Kamen
@@ -36246,6 +36248,7 @@
 15387|2|en|My Former Delinquent Stepsister is A Nursing Mother
 10322|2|en|My Friend Bernard
 16026|2|en|My Friend`s Little Sister Has It In for Me!
+18989|4|en|My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I`m Out for Revenge!
 9305|2|en|My Girlfriend and Childhood Friend Have Too Much Relationship Difficulties
 13217|4|de|My Girlfriend is a Faithful Virgin Bitch
 13217|4|en|My Girlfriend Is Shobitch
@@ -46719,6 +46722,8 @@
 6793|1|x-jat|Sekirei: Pure Engagement
 6793|4|en|Sekirei: Pure Engagement
 6793|3|x-jat|Sekirei2
+19532|1|x-jat|Sekiro: No Defeat
+19532|4|en|Sekiro: No Defeat
 6276|1|x-jat|Sekishoku Elegy
 11547|4|en|Sekko Boys
 11547|1|x-jat|Sekkou Boys
@@ -56247,6 +56252,7 @@
 13034|1|x-jat|Uma Musume: Pretty Derby
 17212|2|en|Uma Musume: Pretty Derby - 1st Anniversary Special Animation
 17351|1|x-jat|Uma Musume: Pretty Derby - Road to the Top
+17351|4|en|Uma Musume: Pretty Derby - Road to the Top
 18359|2|x-jat|Uma Musume: Pretty Derby - Shin Jidai no Tobira
 18359|1|x-jat|Uma Musume: Pretty Derby - Shinjidai no Tobira
 17212|1|x-jat|Uma Musume: Pretty Derby (2022)
@@ -69831,6 +69837,7 @@
 2770|4|ko|봉봉차차
 15366|2|ko|부계에 잠든 왕녀의 아바돈
 13899|4|ko|부기팝은 웃지 않는다
+19307|2|ko|부도덕한 게임 마스터
 19036|2|ko|부도덕한 일상 THE ANIMATION
 8288|4|ko|부르잖아요, 아자젤 씨.
 12817|4|ko|부릉! 부릉! 브루미즈: 스피더의 모험 일기
@@ -86447,6 +86454,7 @@
 586|4|ja|成恵の世界
 586|4|zh-Hans|成惠的世界
 17688|2|zh-Hant|成為悲劇元兇的最強異端，最後頭目女王為了人民犧牲奉獻
+18314|4|zh-Hant|成為星星的少女
 15559|4|zh-Hant|成神之日
 15559|4|zh-Hans|成神之日
 11060|4|zh|成語動畫廊
@@ -91604,6 +91612,7 @@
 12861|4|ja|結核豫防
 1937|4|ja|結界
 4574|4|ja|結界師
+19531|4|ja|結界師の一輪華
 17994|4|zh-Hant|結緣甘神神社
 10745|4|zh-Hant|絕對雙刃
 1641|4|ja|絢爛舞踏祭 ザ･マーズ･デイブレイク
