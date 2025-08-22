@@ -1,4 +1,4 @@
-# created: Wed Aug 20 03:00:01 2025
+# created: Thu Aug 21 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -19799,6 +19799,7 @@
 18689|1|x-jat|Guilty Gear Strive: Dual Rulers
 18689|4|ja|GUILTY GEAR STRIVE: DUAL RULERS
 18689|4|en|Guilty Gear Strive: Dual Rulers
+19533|1|x-jat|Guilty Hall
 19357|1|x-zht|Guimi Zhi Zhu
 19357|2|x-zht|Guimi Zhi Zhu: Xiaochou Pian
 6331|1|x-jat|Guin Saga
@@ -40410,6 +40411,8 @@
 4298|2|x-jat|Pantsu no Ana
 7529|1|x-jat|Panty & Stocking with Garterbelt
 7529|4|en|Panty & Stocking with Garterbelt
+17493|2|en|Panty & Stocking with Garterbelt Season 2
+17493|2|en|Panty and Stocking Season 2
 7529|2|en|Panty and Stocking with Garterbelt
 2693|4|en|Panty Flash Teacher
 10660|4|en|Panty-Monium
@@ -46723,6 +46726,7 @@
 6793|4|en|Sekirei: Pure Engagement
 6793|3|x-jat|Sekirei2
 19532|1|x-jat|Sekiro: No Defeat
+19532|4|ja|SEKIRO: NO DEFEAT
 19532|4|en|Sekiro: No Defeat
 6276|1|x-jat|Sekishoku Elegy
 11547|4|en|Sekko Boys
@@ -57856,6 +57860,7 @@
 18361|4|en|Welcome to Japan, Ms. Elf!
 14223|4|en|Welcome to Japari Park
 7271|2|en|Welcome to Lodoss Island!
+19282|2|en|Welcome to Magical Girl Village (Illegally Occupied)
 13170|2|en|Welcome to Mizuryukei Land!
 1198|2|en|Welcome to Ogenki Clinic
 249|4|en|Welcome to Pia Carrot
@@ -74047,6 +74052,7 @@
 19450|2|ja|キルチューブ
 8480|4|ja|ギルティクラウン
 9092|4|ja|ギルティクラウン ロストクリスマス an episode of port town
+19533|4|ja|ギルティホール
 18118|4|ja|ギルドの受付嬢ですが, 残業は嫌なのでボスをソロ討伐しようと思います
 18118|3|ja|ギルます
 8552|4|ja|キルミーベイベー
@@ -89638,6 +89644,7 @@
 8483|4|zh-Hans|灼眼的夏娜 Final
 5145|2|zh-Hans|灼眼的夏娜 第二季
 6757|4|zh-Hans|灼眼的夏娜S
+13980|4|zh-Hans|灾祸的真理 -ZUERST-
 1511|4|ja|炎トリッパー[ファイアー・トリッパー]
 3667|4|ja|炎のアルペンローゼ ジュディ&ランディ
 515|4|ja|炎のらびりんす
