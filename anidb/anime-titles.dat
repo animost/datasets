@@ -1,4 +1,4 @@
-# created: Thu Aug 21 03:00:02 2025
+# created: Fri Aug 22 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2610,6 +2610,7 @@
 17933|2|en|Ancient Myth
 4763|2|en|Ancient Ruler Dinosaur King
 18449|2|en|Ancient Star God Technique
+18469|2|en|Ancient Supremacy
 19294|4|en|Ancient War Soul
 11405|1|x-jat|And And
 11405|4|ja|AND AND
@@ -31831,6 +31832,8 @@
 18247|2|x-jat|Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life
 18247|4|ja|Lv2からチートだった元勇者候補のまったり異世界ライフ
 18247|3|ja|Lv2チート
+19534|1|x-jat|Lv999 no Murabito
+19534|4|ja|LV999の村人
 7009|3|x-jat|LvB
 7009|3|x-jat|LvsB
 9250|3|x-jat|LWA
@@ -41486,6 +41489,7 @@
 15067|3|x-jat|pm19
 15067|3|x-jat|pm2019
 17777|3|x-jat|pm23
+230|3|x-unk|pm97
 1041|3|x-jat|pmag
 8069|3|en|pmagi
 7891|3|x-jat|pmbw
