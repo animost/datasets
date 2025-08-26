@@ -1,4 +1,4 @@
-# created: Sun Aug 24 03:00:02 2025
+# created: Mon Aug 25 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -946,7 +946,7 @@
 7294|2|pt|A Garota dos Livros: Lanche de Hoje - Primeiro Amor
 7441|2|pt|A Garota dos Livros: Memória
 4151|2|pt-BR|A Garota que Salta Através do Tempo
-19204|2|en|A Gatherer`s Adventure in Isekai
+19204|4|en|A Gatherer`s Adventure in Isekai
 18914|2|en|A Gentle Noble`s Vacation Recommendation
 17666|4|en|A Girl & Her Guard Dog
 7044|2|en|A Girl at Dojo Temple
@@ -40583,7 +40583,7 @@
 1543|2|lt|Paslaptingas Samurajus
 6048|2|lt|Paslaptingasis liokajus
 3082|1|x-jat|Pasocon Travel Tanteidan
-18941|2|en|Pass the Monster Meat, Milady!
+18941|4|en|Pass the Monster Meat, Milady!
 10570|2|en|Passage of Time: Tokyo Station
 14889|4|pt|Pássaro que Canta Não Voa - Nuvens que se Fundem
 8437|1|x-jat|Passion
@@ -48403,6 +48403,7 @@
 336|4|fr|Si tu tends l`oreille
 19501|4|ja|SI-VIS: The Sound of Heroes
 19501|1|x-jat|Si-Vis: The Sound of Heroes
+19501|4|en|Si-Vis: The Sound of Heroes
 5539|2|x-jat|Siam Neko - First Mission
 5222|4|it|Siamo Fatti Così - Esplorando il Corpo Umano
 1869|2|it|Siamo in undici!
@@ -52421,7 +52422,7 @@
 11235|1|x-jat|The Baby Birds of Norman McLaren
 11235|4|ja|The Baby Birds of Norman McLaren
 13783|2|en|The Badminton Play of Ayano Hanesaki!
-19231|2|en|The Banished Court Magician Aims to Become the Strongest
+19231|4|en|The Banished Court Magician Aims to Become the Strongest
 18074|4|en|The Banished Former Hero Lives as He Pleases
 18990|2|en|The Banned Mole
 18898|2|en|The Barbarian’s Bride
@@ -54182,6 +54183,7 @@
 19308|2|en|There Is Also a Hole in the Student Organization!
 14547|2|en|There is No Way Bitch Academy is Pure!!?
 8043|1|x-jat|There She Is!!
+19440|4|en|There Was a Cute Girl in the Hero`s Party, so I Tried Confessing to Her
 2708|2|en|There, Here and Where
 12584|2|en|There`s a Hole in My Bucket
 13647|2|en|There`s a Pit in My Our Big Brother`s Brain
