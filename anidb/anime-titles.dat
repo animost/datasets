@@ -1,4 +1,4 @@
-# created: Mon Aug 25 03:00:02 2025
+# created: Tue Aug 26 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3724,6 +3724,9 @@
 15293|4|en|Ascendance of a Bookworm (2020)
 15634|4|en|Ascendance of a Bookworm (2022)
 15293|2|en|Ascendance of a Bookworm 2
+15293|2|en|Ascendance of a Bookworm S2
+15634|2|en|Ascendance of a Bookworm S3
+18302|2|en|Ascendance of a Bookworm S4
 15634|2|en|Ascendance of a Bookworm Season 3
 18302|2|en|Ascendance of a Bookworm: Adopted Daughter of an Archduke
 15300|4|en|Ascendance of a Bookworm: Eustachius`s Incognito Operation Downtown / Visiting Missus Corinna
@@ -22140,6 +22143,7 @@
 10216|1|x-jat|Himekishi Olivia
 18898|2|x-jat|Himekishi wa Barbaroi no Yome
 8118|3|x-jat|himepara
+14724|2|ru|Himesama Love Life!
 9375|1|x-jat|Himeyuri
 13585|1|x-jat|Himeyuri no Tou
 454|2|tr|Himiko Efsanesi
@@ -32715,6 +32719,7 @@
 5450|4|en|Maid to please
 7008|4|de|Maid-sama
 11245|1|x-jat|Maid-san to Boin Damashii The Animation
+19541|1|x-jat|Maid-san wa Taberu Dake
 1409|3|en|Maiden Diaries
 2030|4|en|Maiden of Deliverance
 1409|2|en|Maiden of Desire
@@ -33964,6 +33969,7 @@
 10600|1|x-jat|Meisou! Underworld
 17783|4|de|Meisterdetektiv Ron Kamonohashi
 18350|4|de|Meisterdetektiv Ron Kamonohashi Staffel 2
+19541|3|x-jat|meitabe
 266|1|x-jat|Meitantei Conan
 9181|1|x-jat|Meitantei Conan Bonus File: Fantasista no Hana
 7252|1|x-jat|Meitantei Conan Magic File 2: Kudou Shin`ichi Nazo no Kabe to Kuro Lab Jiken
@@ -36643,6 +36649,7 @@
 13747|1|x-kot|Naengjanggo Nara Cocomong
 14095|1|x-kot|Naengjanggo Nara Cocomong (2011)
 14096|1|x-kot|Naengjanggo Nara Cocomong (2015)
+19542|1|x-jat|Nagachichi Nagai-san The Animation
 2210|1|x-jat|Nagagutsu o Haita Neko
 2225|1|x-jat|Nagagutsu o Haita Neko: 80 Nichikan Sekai Isshuu
 2216|1|x-jat|Nagagutsu Sanjuushi
@@ -36715,6 +36722,7 @@
 8821|3|en|nam2
 12242|1|x-jat|Nama Lo Re: Furachimono The Animation
 12071|1|x-jat|Nama Lo Re: Nama Kemono The Animation
+12242|2|ru|Nama LO Re: Распутник
 10132|1|x-jat|Namae... Sore wa Moeru Inochi
 11045|1|x-jat|Namaiki: Kissui-sou e Youkoso! The Animation
 12856|1|x-jat|Namake Gitsune
@@ -43661,6 +43669,7 @@
 193|1|x-jat|Ranma 1/2 Nettou Hen
 193|2|x-jat|Ranma 1/2 Nettouhen
 6141|2|en|Ranma 1/2 Nightmare Incense of Spring Sleep
+19067|2|en|Ranma 1/2 S2
 2995|1|x-jat|Ranma 1/2 Special
 2996|1|x-jat|Ranma 1/2 Super
 6141|1|x-jat|Ranma 1/2: Akumu! Shunmin Kou
@@ -44566,7 +44575,7 @@
 17659|4|ja|ROAD OF NARUTO
 508|2|en|Road to 2002
 5064|2|en|Road to Munich
-9023|4|ja|ROAD TO NINJA NARUTO THE MOVIE
+9023|4|ja|ROAD TO NINJA -NARUTO THE MOVIE-
 9023|1|x-jat|Road to Ninja: Naruto the Movie
 12695|2|en|Road to Present
 508|2|en|Road to World Cup 2002
@@ -45966,6 +45975,7 @@
 13906|2|en|sand planet
 18751|1|x-jat|Sanda
 18751|4|ja|SANDA
+18751|4|en|Sanda
 1953|2|en|Sandglass of Summer Colors
 5920|4|en|Sands of Destruction
 1953|2|de|Sanduhr der Sommerfarben
@@ -52827,6 +52837,7 @@
 14667|4|ja|the Fly BanD!
 1859|2|en|The Flying Ghost Ship
 3498|4|en|The Flying House
+19541|2|en|The Food Diary of Miss Maid
 17999|4|en|The Foolish Angel Dances with the Devil
 6873|2|en|The Forest Concert
 2234|2|en|The Forest That Lives
@@ -63212,6 +63223,7 @@
 6249|4|ru|Летние войны
 5056|2|ru|Летние дни с Каппой
 14529|2|ru|Летние каникулы
+18680|2|ru|Лето, когда мальчик повзрослел
 18649|4|ru|Лето, когда погас свет
 8590|2|ru|Летом с сестрёнкой!
 11469|2|bg|Летящата вещица
@@ -63657,6 +63669,7 @@
 4801|2|ru|Моя жена - волшебница на посылках
 2599|2|bg|Моя Любов: Нови откровения
 4120|2|bg|Моя Любов: Нови откровения 2
+8966|2|ru|Моя любовь — знаменитость
 17637|4|ru|Моя любовь к Ямаде 999 уровня
 17670|4|ru|МОЯ НЕВЫСОКАЯ КОЛЛЕГА
 17421|4|ru|Моя новая горничная не от мира сего
@@ -63713,6 +63726,7 @@
 5839|2|ru|Мэйджор Фильм: Мяч дружбы
 8775|2|ru|Мэйджор: Мировая Серия
 8161|2|ru|Мэйджор: Послание
+8306|2|ru|Мэнкуй!
 12649|4|ru|Мэри и ведьмин цветок
 469|2|bg|Мястото, което си обещахме някога отдавна
 8225|2|ru|Мяупырь
@@ -63828,6 +63842,7 @@
 1113|2|uk|Невинний Вигляд
 4489|2|ru|Невинный Венус
 1113|2|ru|Невинный вид
+10363|2|ru|Невинный минет: Семейные дела Митарай-сан
 8181|2|uk|Невідома квітка, що ми побачили того дня
 4565|2|uk|Неґіма?!
 199|2|bg|Неговите и нейните обстоятелства
@@ -63929,6 +63944,7 @@
 17488|4|ru|Ночь изгоев
 15912|4|ru|Ночь по ту сторону треугольного окна
 3512|2|ru|Ноэйн
+13632|2|ru|Ну же... давай ♥
 93|4|ru|Ну и ну! Земляничные яйца
 9134|2|ru|Ну не может моя сестрёнка быть такой милой 2
 7525|4|ru|Ну не может сестренка быть такой милой
@@ -63982,6 +63998,7 @@
 1217|4|ru|Однажды в Токио
 69|2|ru|Одним куском
 11134|4|ru|Одноклассник
+11873|2|ru|Одноклассница с первым размером
 7568|2|ru|Одному лишь Богу ведомый мир
 8167|2|ru|Одному лишь Богу ведомый мир II
 9553|2|ru|Одному лишь Богу ведомый мир III
@@ -64378,6 +64395,7 @@
 1208|4|ru|Последняя фантазия VII: Дети пришествия
 156|4|ru|Последняя фантазия: Всемогущий
 3146|2|ru|Последняя фантазия: Духи внутри
+9331|2|ru|Послеполуденный румянец: Любовь, рождённая из случайности
 10182|2|ru|Посредственность из школы магов
 6327|2|uk|Потвороповідь
 9015|2|ru|Потерявшийся герой забрал девицу домой
@@ -64498,6 +64516,7 @@
 6036|2|uk|Принцеса-мрець
 2482|4|bg|Принцесата рицар
 1190|2|ru|Принцесса Аритэ
+14724|2|ru|Принцесса любит жизнь!
 7|4|ru|Принцесса Мононоке
 7|2|ru|Принцесса Мононокэ
 4940|2|ru|Принцесса монстров
@@ -64750,6 +64769,7 @@
 10713|2|ru|Рыцари Сидонии 2
 12648|4|ru|Рыцари созвездий: Святая воительница Сё
 14751|2|ru|Рыцари усердия
+10893|2|ru|Рыцарь Брюнхильда и чисто белые трусики
 5586|2|ru|Рыцарь вампир
 8798|2|ru|Рыцарь на поле
 2482|2|ru|Рыцарь с ленточкой
@@ -65337,6 +65357,7 @@
 12820|4|ru|Тот, кто зажигает звёзды: Сторона М
 14295|4|ru|Тот, кто зажигает звёзды: Сторона М «Мы маленькие не просто так»
 17918|4|ru|Тот, кто зажигает звёзды: Яркие цвета
+17316|2|ru|Тотальное совокупление
 303|3|uk|Тоторо
 8624|2|ru|Тохо - Калейдоскоп Фантазии
 8624|2|bg|Тохо - Спомените на призрака
@@ -65855,6 +65876,7 @@
 556|2|ru|Эль-Хазард: Странники
 1544|4|ru|Эльфийская песнь
 4895|2|ru|Эмили из "Юного месяца"
+5141|2|ru|Энёку - Пленительная похоть
 5025|2|ru|Эпоха героев
 3302|4|ru|Эрго Прокси
 6187|2|ru|Эрин: Исполнитель песен зверей
@@ -65912,6 +65934,7 @@
 15332|4|ru|Я побрился. И приютил школьницу
 15332|2|uk|Я поголився. А потім привів додому старшокласницю.
 17561|2|ru|Я призвал суккуба, но пришла... моя мама?!
+17462|2|ru|Я раб маленького суккуба
 17937|2|ru|Я скрытый босс 99го уровня, но не Демон-лорд
 17328|4|uk|Я став сестрою!
 17328|4|ru|Я стал сестрой!
@@ -76932,6 +76955,7 @@
 3695|2|ja|ナヴィア ドラップ
 2216|4|ja|ながぐつ三銃士
 4835|4|ja|ながされて藍蘭島
+19542|4|ja|ながちち永井さん THE ANIMATION
 12222|4|ja|なカなおり
 14100|4|ja|ナカノヒトゲノム [実況中]
 15217|4|ja|ナカノヒトゲノム [実況中] KNOTS OF MEMORIES
@@ -79268,6 +79292,7 @@
 15359|4|ja|メイドインアビス 烈日の黄金郷
 3365|4|ja|めいとこねこバス
 11245|4|ja|メイドさんとボイン魂 THE ANIMATION
+19541|4|ja|メイドさんは食べるだけ
 2520|4|ja|メイドの館~絶望編~
 660|2|ja|メイド伝説 ~メル&ベルの淫靡な誘い~
 3432|4|ja|メイド召しませ
@@ -79277,6 +79302,7 @@
 5402|2|ja|メイプルストーリー
 2078|4|ja|メイプルタウン物語
 2080|4|ja|メイプルタウン物語 (1986)
+19541|3|ja|メイ食べ
 7881|4|ja|メカ☆アフロくん
 12467|4|ja|メカウデ
 17627|4|ja|メカウデ (2024)
