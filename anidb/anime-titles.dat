@@ -1,4 +1,4 @@
-# created: Tue Aug 26 03:00:01 2025
+# created: Wed Aug 27 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -12335,6 +12335,7 @@
 16163|1|x-jat|Do It Yourself!!
 3455|2|en|Do It! Yasuji`s Pornorama
 13551|1|x-jat|Do S na Maina Kaichou-sama ga M Note ni Shihai Saremashita
+19543|1|x-jat|Do S na Pet
 13551|2|x-jat|Do S na Seitokaichou-sama ga M Note ni Shihai Saremashita
 4488|4|en|Do You Know the Milfing Man?
 14454|4|en|Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?
@@ -30769,7 +30770,7 @@
 2871|2|en|Little Duck`s Big Love Story
 3665|2|x-jat|Little El Cid no Boken
 3665|1|x-jat|Little El Cid no Bouken
-19303|2|en|Little Fairy Yao
+19303|4|en|Little Fairy Yao
 12194|2|en|Little Girl Anzu
 3644|2|en|Little House on the Prairie
 6981|2|en|Little Jumbo
@@ -76534,6 +76535,7 @@
 9889|4|ja|どーにゃつ
 5898|4|ja|ドール 沙綾
 16006|4|ja|ドールズフロントライン
+19543|4|ja|ドSなペット
 13551|4|ja|ドSなマイナ会長サマがMノートに支配されました.
 13551|2|ja|ドSな生徒会長サマがMノートに支配されました.
 10857|4|ja|ドアマイガーD
