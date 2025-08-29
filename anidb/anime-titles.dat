@@ -1,4 +1,4 @@
-# created: Wed Aug 27 03:00:02 2025
+# created: Thu Aug 28 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -7599,7 +7599,7 @@
 253|4|pl|Candidate for Goddess
 253|2|en|Candidate for Goddess
 263|4|fr|Candidate for Goddess - OAV - Camarade
-19540|2|en|Candle in the Tomb: South Sea Tomb
+19540|4|en|Candle in the Tomb: South Sea Tomb
 1913|4|fr|Candy
 1913|4|hu|Candy
 1913|3|x-jat|candy
@@ -15024,6 +15024,7 @@
 5943|2|en|Eternal Filena
 8184|2|en|Eternal Quon
 19109|2|en|Eternal Sword Ancestor
+19545|2|en|Eternal Sword Emperor
 15630|4|zh-Hans|Eternity ～深夜的濡恋频道♡～
 17591|4|ja|ETERNITY MEMORIES
 17591|1|x-jat|Eternity Memories
@@ -19817,7 +19818,7 @@
 18689|1|x-jat|Guilty Gear Strive: Dual Rulers
 18689|4|ja|GUILTY GEAR STRIVE: DUAL RULERS
 18689|4|en|Guilty Gear Strive: Dual Rulers
-19533|1|x-jat|Guilty Hall
+19533|1|x-jat|Guilty Hole
 19357|1|x-zht|Guimi Zhi Zhu
 19357|2|x-zht|Guimi Zhi Zhu: Xiaochou Pian
 6331|1|x-jat|Guin Saga
@@ -26774,7 +26775,7 @@
 17984|2|x-jat|Kekkon suru tte, Hontou desu ka
 17984|1|x-jat|Kekkon Surutte, Hontou Desuka
 17826|1|x-jat|Kekkon Yubiwa Monogatari
-18559|1|x-jat|Kekkon Yubiwa Monogatari 2
+18559|1|x-jat|Kekkon Yubiwa Monogatari II
 1867|1|x-jat|Kekkou Kamen
 10663|3|x-jat|Keksen
 11889|3|x-jat|Keksen ova
@@ -44831,6 +44832,7 @@
 12551|4|en|Room Mate
 12551|2|ja|Room Mate ~One Room side M~
 12551|4|zh-Hans|Room Mate ～One Room side M～
+19533|2|en|Room of Guilty Pleasure
 15061|2|en|Room Sharing the Animation
 18853|4|en|Roommates
 11394|2|en|Rooms for Twentysomethings
@@ -47286,6 +47288,7 @@
 4255|1|x-jat|Shameshrine Andorora
 13937|1|x-jat|Shammy to Kage Boy
 15209|1|x-jat|Shampoo no Nioi ga Shita
+19544|1|x-jat|Shampoo Ouji
 16041|1|x-zht|Shan He Jian Xin
 14766|2|x-zht|Shan He She Ji Tu
 15214|1|x-zht|Shan Liang De Xia Wu Dong
@@ -51429,7 +51432,7 @@
 6496|1|x-jat|Tales of Vesperia: The First Strike
 6496|4|en|Tales of Vesperia: The First Strike
 17826|4|en|Tales of Wedding Rings
-18559|2|en|Tales of Wedding Rings 2
+18559|2|en|Tales of Wedding Rings II
 1220|2|en|Tales of Windaria
 3993|4|en|Tales of Yajikita College
 11273|1|x-jat|Tales of Zestiria the Cross
@@ -52097,7 +52100,6 @@
 17709|2|x-jat|Tensei Shitara Slime Datta Ken Season 3
 17873|1|x-jat|Tensei Shitara Slime Datta Ken: Coleus no Yume
 17873|2|x-jat|Tensei Shitara Slime Datta Ken: Corius no Yume
-18785|1|x-jat|Tensei Shitara Slime Datta Ken: Sukuwareru Ramriris
 15457|1|x-jat|Tensei Shitara Slime Datta Ken: Tensura Nikki
 16385|2|x-jat|Tensei Shoya Kara Musabari Ecchi: Ouji no Honmei wa Akuyaku Reijou
 19323|2|x-jat|Tensei Soushu no Hadou-tan: Subete o Nomikomu Sakana to Haiagaru
@@ -53916,6 +53918,7 @@
 544|4|en|The Super Milk-chan Show
 1035|1|x-jat|The Supergal
 15608|4|en|The Supernatural Sweet Shop
+19545|2|en|The Sword Emperor of Eternity
 17596|2|en|The Sword Fairy Is Here
 17596|4|en|The Sword Immortal Is Here
 19153|2|en|The Sword Immortal is Here 2nd Season
@@ -57655,6 +57658,7 @@
 5088|1|x-jat|Wangan Midnight
 8047|1|x-kot|Wanghu Sim Cheong
 13474|1|x-zht|Wangpai Yushi
+19545|1|x-zht|Wangu Jian Di
 16957|1|x-zht|Wangu Jian Shen
 18421|1|x-zht|Wangu Jian Shen (2022)
 18398|1|x-zht|Wangu Kuang Di
@@ -61372,6 +61376,7 @@
 9925|4|ru|Бездомный Бог
 11170|4|ru|Бездомный Бог Арагото
 18247|4|ru|Беззаботная жизнь в ином мире с читерскими способностями со второго уровня
+19307|2|ru|Безнравственный мастер игры
 16984|4|ru|Безобидный пятитысячелетний дракон
 18|2|ru|Безответственный капитан Тайлор
 13224|4|ru|Безответственный Тайлер в новой галактике
@@ -61615,6 +61620,7 @@
 9568|2|ru|Вальврейв Освободитель
 9949|2|ru|Вальврейв Освободитель 2
 14908|2|ru|Валькирия и любовь
+18993|2|ru|Вам же нравятся полулюди, верно?
 14747|2|bg|Вампир в градината
 14747|4|ru|Вампир в саду
 15528|4|ru|Вампир умирает первым
@@ -62301,6 +62307,7 @@
 3464|2|ru|Дневник путешественника
 5580|2|ru|Дневник сумасшедшей семейки
 12349|4|ru|Дневник Хинако
+13730|2|ru|Дневник шлюшек гяру
 15457|4|ru|Дневники слизи
 18562|2|bg|Дневниците на билкарката 2
 1327|2|ru|Дни Мидори
@@ -62310,6 +62317,7 @@
 621|2|bg|ДНК Ангел
 5039|2|uk|До Землі
 8289|2|uk|До лісу світлячків
+19228|2|ru|До утра в объятиях матери и дочери!
 11126|2|bg|Доблестните рицари-неудачници
 11126|2|bg|Доблестният рицар-неудачник
 11126|4|ru|Доблесть Рыцаря-Неудачника
@@ -62535,6 +62543,7 @@
 17815|4|ru|Загадочные исчезновения
 15138|2|uk|Загибель Японії 2020
 83|2|uk|Загін вовків
+19115|2|ru|Загорелые гяру на любой вкус
 4574|2|ru|Заградители
 10530|2|ru|Загугли это, Коккури-сан!
 14234|4|ru|Задержи этот звук!
@@ -63445,6 +63454,7 @@
 14472|2|ru|Маска героя
 15021|2|ru|Маска героя 2
 5277|2|bg|Маскираният Прислужник
+19307|2|ru|Мастер аморальных игр
 8692|4|ru|Мастер меча онлайн
 3433|2|ru|Мастер Муси
 10571|2|ru|Мастер Муси (2014)
@@ -64255,6 +64265,7 @@
 2002|2|uk|Повітря
 14718|4|ru|Повседневная жизнь бессмертного короля
 8168|2|ru|Повседневность
+13730|2|ru|Повседневный незащищённый секс с дедулей
 15277|2|uk|Повтор цілителя
 11074|4|ru|Повторная жизнь
 3573|2|bg|Поглед към Полумесеца
@@ -64541,6 +64552,7 @@
 371|2|ru|Притяжение OVA
 18000|2|ru|Причина полюбить её
 18663|2|ru|Причина полюбить её: Экстра
+19456|2|ru|Причина, по которой она носит раздельный купальник
 10273|4|bg|Приятели за седмица
 13348|4|ru|Приятели с пушками
 15772|2|uk|Пріоритет диво-яйця
@@ -64896,6 +64908,7 @@
 5581|2|ru|Секрет Харуки Ногизаки
 5581|2|uk|Секрет Харуки Ноґізаки
 5375|2|uk|Секрети Цубомі
+19057|2|ru|Секретные стримы Юки Нонохары
 1844|2|ru|Сексуальная воительница Пурин
 511|4|uk|Сексуальні вподобання
 7668|2|uk|Сексуальні вподобання (2010)
@@ -65274,6 +65287,7 @@
 847|2|ru|Театр Румико Такахаси
 9964|4|ru|Театр тьмы
 947|2|ru|Театр шедевров братьев Гримм
+18993|2|ru|Тебе правда нравятся полулюди, да?
 79|2|bg|Тези, които ловят елфи
 80|2|bg|Тези, които ловят елфи II
 4350|2|ru|Тёко, сестрёнка
@@ -65286,6 +65300,7 @@
 7369|2|uk|Темний дворецький 2
 4906|2|uk|Темніше за чорне
 6644|2|uk|Темніше чорного: Близнюки метеора
+19115|2|ru|Темнокожая гяру а-ля карт
 6048|2|ru|Тёмный Дворецкий
 7369|2|ru|Тёмный дворецкий 2
 18739|4|ru|Тёмный дворецкий: Зелёная ведьма
@@ -75218,6 +75233,7 @@
 19046|4|ja|シャンピニオンの魔女
 3472|4|ja|ジャンピング
 15209|4|ja|シャンプーの匂いがした
+19544|4|ja|シャンプー王子
 17501|3|ja|シャンフロ
 12672|4|ja|シューティング・ヒーロー
 16980|4|ja|シュート! Goal to the Future
@@ -80425,6 +80441,7 @@
 14871|2|zh-Hans|万古仙穹 第3季
 14871|2|zh-Hans|万古仙穹: 恶人谷篇
 18980|4|zh-Hans|万古最强宗
+19545|4|zh-Hans|万古剑帝
 16957|4|zh-Hans|万古剑神
 18421|4|zh-Hans|万古剑神 (2022)
 18398|4|zh-Hans|万古狂帝
@@ -91751,7 +91768,7 @@
 15665|2|zh-Hans|結城友奈是勇者 大滿開之章
 17984|4|ja|結婚するって, 本当ですか
 17826|4|ja|結婚指輪物語
-18559|4|ja|結婚指輪物語 2
+18559|4|ja|結婚指輪物語II
 12838|4|ja|結婚相談所
 12861|4|ja|結核豫防
 1937|4|ja|結界
@@ -93529,7 +93546,6 @@
 14767|4|ja|転生したらスライムだった件 (2021)
 17709|4|ja|転生したらスライムだった件 (2024)
 17873|4|ja|転生したらスライムだった件 コリウスの夢
-18785|4|ja|転生したらスライムだった件 救われるラミリス
 18884|4|ja|転生したらスライムだった件 第4期
 15457|4|ja|転生したらスライムだった件 転スラ日記
 19217|4|ja|転生したらドラゴンの卵だった~最強以外目指さねぇ~
