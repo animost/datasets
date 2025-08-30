@@ -1,4 +1,4 @@
-# created: Thu Aug 28 03:00:02 2025
+# created: Fri Aug 29 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -27326,6 +27326,8 @@
 4237|4|ro|Kilari
 4237|4|pt|Kilari
 4237|4|pl|Kilari
+19546|1|x-jat|Kill Ao
+19546|2|en|Kill Blue
 9875|2|ja|KILL la KILL
 9875|4|fr|Kill la Kill
 9875|4|en|Kill la Kill
@@ -37578,10 +37580,10 @@
 9369|1|x-zht|Nezha Nao Hai
 9369|2|x-jat|Nezha no Ooabare
 15250|2|x-zht|Nezha Zhi Mo Tong Jiang Shi
-19537|1|x-zht|Nezha Zhi Motong Nao Hai
 15250|2|en|Nezha: Birth of the Demon Child
 16309|4|es|Nezha: El renacer de un dios
 15250|1|x-zht|Nezha: Mo Tong Jiang Shi
+19537|1|x-zht|Nezha: Mo Tong Nao Hai
 5397|1|x-jat|Nezumi Monogatari: George to Gerald no Bouken
 6690|1|x-jat|Nezumi no Rusuban
 5732|1|x-jat|Nezumi no Yomeiri
@@ -40139,6 +40141,7 @@
 13769|2|en|OVA Complete Slut See their true colors Russian Step-Mother and Step-Sisters All you can have Sex
 18756|1|x-jat|OVA Incha Couple ga You Gal-tachi to Sex Training Suru Hanashi
 13769|1|x-jat|OVA Muttsuri Do Sukebe Ro Gibo Shimai no Honshitsu Minuite Sex Zanmai
+19547|1|x-jat|OVA Natsu Zuma
 19414|1|x-jat|OVA Pure Pure Pero Pero Princess
 19514|1|x-jat|OVA Sister Breeder
 11268|1|x-jat|OVA Tokyo Ghoul
@@ -40164,6 +40167,7 @@
 19312|4|ja|OVA ヨゴレタカノジョ
 6285|2|zh-Hans|OVA 传颂之物
 18587|4|ja|OVA 僕にハーレムセフレが出来た理由
+19547|4|ja|OVA 夏妻
 19105|4|ja|OVA 夕顔
 19105|6|ja|OVA 夕顔[ゆうがお]
 11268|4|ja|OVA 東京喰種[トーキョーグール]
@@ -42238,6 +42242,7 @@
 836|4|en|Popotan
 6883|2|en|Poppaya-san, The Good-natured Station Master
 9577|1|x-jat|Poppen-sensei to Kaerazu no Numa
+19331|2|en|Poppin`Party`s Ordinary Days
 6883|1|x-jat|Poppoya-san no Nonki Ekichou
 6882|1|x-jat|Poppoya-san Nonki Kikanshi
 6882|2|en|Poppoya-san the Carefree Railroad Man
@@ -46899,6 +46904,7 @@
 14962|1|x-jat|Senpai Club
 15621|1|x-jat|Senpai ga Uzai Kouhai no Hanashi
 17945|4|en|Senpai Is an Otokonoko
+18881|4|en|Senpai Is an Otokonoko Movie: Sunshine After the Rain
 17945|2|en|Senpai Is an Otokonoko: This Is Him (Can`t Be Anyone Else)
 17945|1|x-jat|Senpai wa Otokonoko
 9166|1|x-jat|Senran Kagura
@@ -74128,6 +74134,7 @@
 12888|4|ja|キリングバイツ
 7054|4|ja|キリンのものしり館
 7054|2|ja|キリンものしり館
+19546|4|ja|キルアオ
 1085|4|ja|ギルガメッシュ
 1855|4|ja|ギルスティン
 1855|2|ja|ギルステイン
