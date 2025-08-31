@@ -1,4 +1,4 @@
-# created: Fri Aug 29 03:00:01 2025
+# created: Sat Aug 30 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8077,6 +8077,7 @@
 11895|4|ja|celebration and chorale
 11895|1|x-jat|Celebration and Chorale
 8966|2|x-jat|Celebrity Kano
+19430|2|en|Celestial Above All
 19393|4|en|Celestial Bonds
 17548|2|en|Celestial Destroyer
 17548|2|en|Celestial Destroyer - Scroll of White Silk Cloud
@@ -17470,6 +17471,7 @@
 14878|1|x-zht|Gang Tie Fei Long Zhi Ao Te Man Jue Qi
 14877|1|x-zht|Gang Tie Fei Long Zhi Zai Jian Ao Te Man
 6938|1|x-jat|Gang to Odoriko
+19548|1|x-jat|Ganglion
 3525|2|en|Gangrape School
 10733|2|en|Gangsta
 10733|4|zh-Hans|GANGSTA 匪徒
@@ -48089,11 +48091,11 @@
 18496|1|x-jat|Shiunji-ke no Kodomo-tachi
 18496|2|x-jat|Shiunji-ke no Kodomotachi
 17856|1|x-zht|Shixiong A Shixiong
-18330|1|x-zht|Shixiong A Shixiong 2
 18691|1|x-zht|Shixiong A Shixiong 3
 18691|2|x-zht|Shixiong A Shixiong 3rd Season
 19375|1|x-zht|Shixiong A Shixiong 4
 19375|2|x-zht|Shixiong A Shixiong 4th Season
+18330|1|x-zht|Shixiong A Shixiong Di Er Ji
 18691|2|x-zht|Shixiong A Shixiong Di San Ji
 19375|2|x-zht|Shixiong A Shixiong Di Si Ji
 18691|2|en|Shixiong A Shixiong Nian Fan
@@ -73844,6 +73846,7 @@
 2839|4|ja|ガン×ソード
 5770|4|ja|かんからさんしん
 6729|4|ja|カンガルーの誕生日
+19548|4|ja|ガングリオン
 1003|4|ja|ガングレイヴ
 17276|4|ja|かんごしっ! PV
 10094|4|ja|かんすけさんとふしぎな自転車
