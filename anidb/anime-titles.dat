@@ -1,4 +1,4 @@
-# created: Sat Aug 30 03:00:02 2025
+# created: Sun Aug 31 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4397,6 +4397,7 @@
 15830|4|pl|Backflip!!
 16401|4|es-419|Backflip!! - La película
 16401|4|es|Backflip!! - La película
+16401|4|en|Backflip!! The Movie
 12890|1|x-kot|Backkom
 17035|1|x-kot|Backkom 2
 17036|1|x-jat|Backkom 3
@@ -8862,6 +8863,7 @@
 14954|1|x-zht|Chui Zhi Shi Jie
 13278|1|x-kot|Chuldong! Super Wings
 19529|1|x-kot|Chuldong! Super Wings 2
+19550|1|x-kot|Chuldong! Super Wings 3
 2515|2|lt|Chuliganas - Septynių Šventųjų Vibratorių Paieška
 16431|1|x-zht|Chun Qiu Feng Shen
 942|3|x-jat|CHun1
@@ -43042,6 +43044,7 @@
 1708|1|x-jat|Pugyuru
 16007|1|x-jat|Pui Pui Molcar
 16007|4|en|Pui Pui Molcar
+19549|1|x-jat|Pui Pui Molcar the Movie: MOLMAX
 17433|1|x-jat|Pui Pui Molcar: Driving School
 16007|4|ja|PUI PUI モルカー
 17433|4|ja|PUI PUI モルカー DRIVING SCHOOL
@@ -71472,6 +71475,7 @@
 5594|2|ko|춘연 소녀
 13278|4|ko|출동! 슈퍼윙스
 19529|4|ko|출동! 슈퍼윙스2
+19550|4|ko|출동! 슈퍼윙스3
 3433|4|ko|충사
 9556|2|ko|취성의 가르간티아
 10549|2|ko|취성의 가르간티아: 순환하는 항로, 저 멀리
