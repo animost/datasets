@@ -1,4 +1,4 @@
-# created: Sun Aug 31 03:00:01 2025
+# created: Mon Sep  1 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3109,7 +3109,7 @@
 18193|1|x-jat|Ao no Miburo
 19258|1|x-jat|Ao no Miburo: Serizawa Ansatsu Hen
 17314|1|x-jat|Ao no Orchestra
-18234|1|x-jat|Ao no Orchestra (2025)
+18234|1|x-jat|Ao no Orchestra Season 2
 361|2|x-jat|Ao no Roku Gou
 361|2|x-jat|Ao no Roku-gou
 12908|1|x-jat|Ao no Strada
@@ -3481,6 +3481,8 @@
 4322|2|en|Ark of Awakening
 15950|2|en|Arknights 1st Anniversary Special Animation - Holy Knight Light
 15950|2|x-unk|arknights ona
+17781|2|en|Arknights Season 2
+18602|2|en|Arknights Season 3
 18602|2|x-jat|Arknights: Enshin Shomei
 17781|2|x-jat|Arknights: Fuyuin Kiro
 17781|2|x-jat|Arknights: Fuyukomori Kaerimichi
@@ -11470,6 +11472,7 @@
 2763|4|fr|Détective Conan : Stratégie en profondeur
 9505|4|fr|Détective Conan : Un détective privé en mer lointaine
 16842|4|fr|Détective Conan : Zero à l`heure du thé
+19551|2|en|Detective Conan (2026)
 304|4|es-419|Detective Conan 1 - Peligro en el rascacielos
 4187|4|es-419|Detective Conan 10 - El réquiem de los detectives (2006)
 4937|4|es-419|Detective Conan 11 - La bandera pirata en el vasto océano
@@ -24567,7 +24570,7 @@
 15493|2|x-jat|Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω
 15918|1|x-jat|Isekai Meikyuu de Harem o
 18702|1|x-jat|Isekai Mokushiroku Mynoghra
-18702|2|x-jat|Isekai Mokushiroku Mynoghra:Hametsu no Bunmei de Hajimeru Sekai Seifuku
+18702|2|x-jat|Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku
 18970|1|x-jat|Isekai Munchkin: HP 1 no Mama de Saikyou Saisoku Dungeon Kouryaku
 19507|1|x-jat|Isekai no Sata wa Shachiku Shidai
 6304|1|x-jat|Isekai no Seikishi Monogatari
@@ -24729,6 +24732,7 @@
 8481|3|x-jat|Itsuten ova
 17211|3|x-jat|Ittoki
 11126|3|x-jat|ittoshura
+19553|1|x-kot|Ityeojin Hwangnyeoneun Pyeonghwaropge Salgo Sipeo (The forgotten Princess just wants Peace)
 8995|4|ro|Iubită Misterioasă X: Misteriosul Festival de Vară
 4489|3|x-jat|iv
 15519|1|x-jat|Iwa Kakeru! Sport Climbing Girls
@@ -25801,6 +25805,7 @@
 12246|3|x-jat|kabaneri movie 1
 10951|4|en|Kabaneri of the Iron Fortress
 10951|4|fr|Kabaneri of the Iron Fortress
+12246|4|en|Kabaneri of the Iron Fortress Compilation Movies
 12654|2|en|Kabaneri of the Iron Fortress: The Battle of Unato
 12654|4|el|Kabaneri of the Iron Fortress: Η Μάχη του Ουνάτο
 12654|4|cs|Kabaneri ze Železné pevnosti: Bitva o Unato
@@ -33979,6 +33984,7 @@
 18350|4|de|Meisterdetektiv Ron Kamonohashi Staffel 2
 19541|3|x-jat|meitabe
 266|1|x-jat|Meitantei Conan
+19551|1|x-jat|Meitantei Conan (2026)
 9181|1|x-jat|Meitantei Conan Bonus File: Fantasista no Hana
 7252|1|x-jat|Meitantei Conan Magic File 2: Kudou Shin`ichi Nazo no Kabe to Kuro Lab Jiken
 8399|1|x-jat|Meitantei Conan Magic File 2011: Niigata - Tokyo Omiyage Capriccio
@@ -37477,6 +37483,7 @@
 13345|3|x-jat|netsume
 12546|1|x-jat|Netsuzou Trap: NTR
 12546|4|en|Netsuzou Trap: NTR
+19552|1|x-kot|Neurin Jangma
 5416|3|x-jat|Neuro
 5416|2|fr|Neuro le mange-mystères
 19391|1|x-jat|Never Give Up
@@ -37800,6 +37807,7 @@
 1650|4|de|Niklaas, ein Junge aus Flandern
 5226|3|x-jat|nikopun
 10756|1|x-jat|Niku Mesu R30: Nikuyoku ni Ochita Mesu-tachi The Animation
+19554|1|x-jat|Niku ni Matsuwaru Nichijou no Hanashi
 18994|1|x-jat|Nikuen
 15963|4|cs|Nikuko z přístavního města
 1852|1|x-jat|Nikutai Ten`i
@@ -40582,6 +40590,7 @@
 19522|1|x-jat|Paris ni Saku Etoile
 3627|2|x-jat|Paris no Isabel
 3627|1|x-jat|Paris no Isabelle
+19555|1|en|Parking Area
 13443|2|en|Parkour Hero
 3205|2|x-jat|Parman
 3204|2|x-jat|Parman (1983)
@@ -43070,8 +43079,10 @@
 4149|3|en|Punie
 2111|2|es|Punio de la estrella del sur
 18315|2|en|Puniru Is a Cute Slime
+19072|2|en|Puniru Is a Cute Slime Season 2
 18315|4|en|Puniru Is a Kawaii Slime
 19072|4|en|Puniru Is a Kawaii Slime (2025)
+19072|2|en|Puniru Is a Kawaii Slime Season 2
 18315|1|x-jat|Puniru wa Kawaii Slime
 19072|1|x-jat|Puniru wa Kawaii Slime (2025)
 17590|1|x-jat|Punirunes
@@ -52496,7 +52507,7 @@
 15125|2|en|The Blind Girl and the Foxes
 12863|4|en|The Blossom Man
 17314|2|en|The Blue Orchestra
-18234|2|en|The Blue Orchestra (2025)
+18234|2|en|The Blue Orchestra Season 2
 18193|2|en|The Blue Wolves of Mibu
 6679|4|fr|The Book of Bantorra
 6679|4|en|The Book of Bantorra
@@ -67234,6 +67245,7 @@
 4172|2|ar|سآحرة الغرب الطيبة
 1173|4|ar|سابق ولاحق ماكس
 1171|4|ar|سابق ولاحق!!
+17341|4|ar|ساحر نصل الجليد سيحكم العالم
 1830|2|ar|سازايه-سان
 400|4|ar|ساكورا
 6246|2|ar|ساكي
@@ -69189,6 +69201,7 @@
 11736|4|ko|뉴 게임!
 12819|4|ko|뉴 게임!!
 7489|2|ko|뉴마노이드 캠
+19552|4|ko|느린 장마
 8832|4|ko|늑대 아이
 15258|2|ko|늑대는 잡아먹히고 싶어
 5406|4|ko|늑대와 향신료
@@ -71178,6 +71191,7 @@
 8482|2|ko|임신시켜 세이류군
 19397|4|ko|입학용병
 13632|2|ko|있지,... 하자
+19553|4|ja|잊혀진 황녀는 평화롭게 살고 싶어
 1098|2|ko|자매 길들이기
 2031|2|ko|자위 도착
 15721|2|ko|자위할 때도 섹스할 때도
@@ -83075,6 +83089,7 @@
 10132|4|ja|名前... それは燃えるいのち
 14849|4|ja|名探偵ゴードン
 266|4|ja|名探偵コナン
+19551|4|ja|名探偵コナン (2026)
 7494|4|ja|名探偵コナン ~KID in TRAP ISLAND~
 8501|4|ja|名探偵コナン ~ロンドンからの㊙指令
 18219|4|ja|名探偵コナン 100万ドルの五稜星
@@ -89453,6 +89468,7 @@
 15656|4|zh-Hans|海贼王女
 15235|4|ja|海辺のエトランゼ
 15235|4|zh-Hant|海邊的異邦人
+19042|4|zh-Hant|涅庫羅諾美子的宇宙恐怖秀
 6996|4|ja|消えかけた物語たちの為に
 13679|4|ja|消えさらぬ傷あと 火の海・大阪
 11483|4|ja|消えた赤ずきんちゃん
@@ -92291,6 +92307,7 @@
 15136|4|zh-Hant|聽我的電波吧
 17984|4|zh-Hant|聽說你們要結婚！？
 13846|2|zh-Hans|肆式青春
+19554|4|ja|肉にまつわる日常の話
 1852|4|ja|肉体転移
 18994|4|ja|肉園
 3524|2|ja|肉嫁 ~高柳家の人々~
@@ -94772,7 +94789,7 @@
 361|4|ja|青の6号
 8148|2|ja|青のエクソシスト
 17314|4|ja|青のオーケストラ
-18234|4|ja|青のオーケストラ (2025)
+18234|4|ja|青のオーケストラ Season2
 12908|4|ja|青のストラーダ
 18193|4|ja|青のミブロ
 19258|4|ja|青のミブロ 芹沢暗殺編
