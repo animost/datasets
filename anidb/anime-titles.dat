@@ -1,4 +1,4 @@
-# created: Mon Sep  1 03:00:01 2025
+# created: Tue Sep  2 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -27423,8 +27423,10 @@
 17069|1|x-jat|Kimetsu no Yaiba: Asakusa Hen
 16258|2|x-jat|Kimetsu no Yaiba: Chuugou Kaigi - Chouyashiki Hen
 15113|4|es|Kimetsu no Yaiba: Guardianes de la Noche - Tren infinito
+19418|2|x-jat|Kimetsu no Yaiba: Hashira Geiko Hashira Kesshuu Hen
 18067|1|x-jat|Kimetsu no Yaiba: Hashira Geiko Hen
 19418|1|x-jat|Kimetsu no Yaiba: Hashira Geiko Hen - Tokubetsu Henshuuban
+19418|2|x-jat|Kimetsu no Yaiba: Hashira Geiko Kaimaku hen
 16258|1|x-jat|Kimetsu no Yaiba: Hashira Gou Kaigi - Chouyashiki Hen
 17198|1|x-jat|Kimetsu no Yaiba: Katanakaji no Sato Hen
 18529|1|x-jat|Kimetsu no Yaiba: Katanakaji no Sato Hen - Tokubetsu Henshuuban
@@ -53633,7 +53635,7 @@
 18483|2|en|The Richest Man In Game
 7440|2|en|The Riot of Flowers: Samurai Girls
 18473|4|en|The Rise of the Weak
-19496|2|en|The Rise of Twin Souls
+19496|4|en|The Rise of Twin Souls
 8805|2|x-jat|The Rising
 13246|4|en|The Rising of the Shield Hero
 13246|4|fr|The Rising of the Shield Hero
@@ -64401,6 +64403,7 @@
 6271|2|ru|Полусломанная музыкальная шкатулка
 11265|2|ru|Получеловек
 334|4|bg|Пом Поко
+15249|2|ru|Помощь кохаю
 334|4|uk|Помпоко: Війна танукі в епоху Хейсей
 334|4|ru|Помпоко: война тануки в период Хэйсэй
 13067|4|ru|Поп Тим Эпик
