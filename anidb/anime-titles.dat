@@ -1,4 +1,4 @@
-# created: Tue Sep  2 03:00:01 2025
+# created: Wed Sep  3 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -839,7 +839,7 @@
 3683|2|en|A 1001 Nights
 17393|1|x-jat|A A B C
 3368|4|pt-BR|A Abelhinha Hutch
-3520|4|pt|A Aldeia dos amendoins
+3520|4|pt|A Aldeia dos Amendoins
 4698|4|pt|A Aldeia dos Pequeninos
 1043|4|es-GA|A ameaza da zona escura
 12712|4|hu|A bálnák gyermekei
@@ -1036,7 +1036,7 @@
 16091|4|pt-BR|A Menina do Outro Lado
 4151|2|pt-BR|A Menina que Corre Através do Tempo
 18914|2|en|A Mild Noble`s Vacation Suggestion
-1836|4|pt|A Minha Amiga Licia
+1836|4|pt|A Minha Amiga Lícia
 18538|4|pt|A Minha Oni
 18846|4|en|A Moment But Forever
 15425|2|en|A Mortal`s Journey to Immortality Season 1
@@ -3065,7 +3065,7 @@
 5971|3|ja|antique
 5971|4|en|Antique Bakery
 2648|1|x-jat|Antique Heart
-2427|4|pt|Antologia da literatura japonesa
+2427|4|pt|Antologia da Literatura Japonesa
 6110|3|x-jat|AnY
 2234|2|es|Anya, la Muchacha de la Nieve
 6788|1|x-jat|Anyamal Tantei Kiruminzoo
@@ -6921,6 +6921,7 @@
 372|4|fr|Brain Powerd
 372|4|it|Brain Powerd
 372|2|en|Brain Powered
+372|4|pt|Brain Powered
 18375|2|en|Brainless Witch
 18784|2|en|Brainless Witch 2nd Season
 4906|4|pl|Brama piekieł
@@ -7132,6 +7133,7 @@
 68|4|fr|Bubblegum Crisis
 68|4|de|Bubblegum Crisis
 68|4|en|Bubblegum Crisis
+68|4|pt|Bubblegum Crisis
 68|2|x-jat|Bubblegum Crisis 2032
 68|2|x-jat|Bubblegum Crisis 2033
 345|2|x-jat|Bubblegum Crisis 2040
@@ -7698,11 +7700,14 @@
 725|2|pt-BR|Capitan Raymar
 9687|4|ro|Căpitanul Harlock: Pirat Spațial
 508|4|ro|Căpitanul Tsubasa
+505|2|pt|Capitão Falcão
+524|4|pt|Capitão Futuro
 533|4|pt|Capitão Harlock - A Odisseia Interminável
 728|4|pt-BR|Capitão Harlock e a Nave Arcádia
 9687|4|pt-BR|Capitão Harlock: Pirata do Espaço
 9687|4|pt|Capitão Harlock: Pirata do Espaço
 505|6|pt|Capitão Hawk
+533|2|pt|Capitão Herlock, Odisseia Infinita
 2337|2|pt|Capitão Tsubasa: European Challenge
 3561|2|pt|Capitão Tsubasa: O Campeonato Mundial de Juniores
 3560|2|pt|Capitão Tsubasa: Revenge Match
@@ -7995,6 +8000,7 @@
 19004|2|en|Cat`s Eye 2025
 17417|1|x-jat|Cat`s Eye Love
 16775|2|en|Cat`s Tea
+2299|4|pt|Catarina
 18295|4|id|Catatan Perjalanan Santai di Dunia Lain: Aku Menjadi Petualang Sembari Mengasuh Anak
 4926|1|x-jat|Catblue Dynamite
 4926|4|ja|CATBLUE DYNAMITE
@@ -8651,6 +8657,7 @@
 5238|4|pt|Chobin
 5238|4|fr|Chobin
 5238|4|it|Chobin, il principe stellare
+5238|2|pt|Chobin, o Filho das Estrelas
 12|1|x-jat|Chobits
 12|4|de|Chobits
 12|4|fr|Chobits
@@ -8866,6 +8873,7 @@
 13278|1|x-kot|Chuldong! Super Wings
 19529|1|x-kot|Chuldong! Super Wings 2
 19550|1|x-kot|Chuldong! Super Wings 3
+19558|1|x-kot|Chuldong! Super Wings 4
 2515|2|lt|Chuliganas - Septynių Šventųjų Vibratorių Paieška
 16431|1|x-zht|Chun Qiu Feng Shen
 942|3|x-jat|CHun1
@@ -9190,6 +9198,7 @@
 1408|4|en|Co-eD Affairs
 1091|4|fr|Cobra
 1384|4|fi|Cobra
+1091|4|pt|Cobra
 1091|2|vi|Cobra - Bạn của loài người
 1384|4|fr|Cobra - Le film
 1384|3|x-jat|cobra movie
@@ -10009,6 +10018,7 @@
 215|4|fr|Cutey Honey
 1238|4|de|Cutey Honey
 1579|2|x-jat|Cutey Honey
+215|4|pt|Cutey Honey
 1579|4|es|Cutey Honey (1973)
 1579|2|x-jat|Cutey Honey 73
 1238|2|x-jat|Cutey Honey F
@@ -13085,6 +13095,7 @@
 8424|1|x-jat|Dr.
 8424|4|ja|Dr.
 4655|2|en|Dr. Dokkiri
+4686|4|pt|Dr. Fabre
 14491|2|pt|Dr. Pedra
 15305|2|pt|Dr. Pedra: Guerras de Pedras
 17053|2|pt|Dr. Pedra: Novo Mundo
@@ -14974,6 +14985,7 @@
 184|3|es|Escaflowne
 184|2|de|Escaflowne
 184|2|fr|Escaflowne
+184|4|pt|Escaflowne
 321|4|de|Escaflowne - The Movie
 321|4|fr|Escaflowne - Une fille sur Gaia
 184|3|x-jat|escaflowne tv
@@ -15352,6 +15364,7 @@
 1058|4|en|F-Zero: GP Legend
 1058|2|en|F-Zero: Legend of Falcon
 3208|4|ja|F-エフ
+3208|4|pt|F: A Todo o Gás
 3208|4|it|F: Motori in Pista
 3208|4|es|F. A Todo Gas
 12704|3|x-jat|F/A
@@ -16311,6 +16324,7 @@
 2302|4|it|Flo, la piccola Robinson
 8127|1|x-jat|Floating Material
 8127|4|ja|Floating Material
+2302|2|pt|Flora
 540|2|en|Floral Magician Mary Bell
 6070|2|en|Floral Magician Mary Bell - The Phoenix Key
 6443|4|es-419|Flores Azules
@@ -16738,6 +16752,7 @@
 8176|1|x-jat|Fujilog
 1269|2|en|Fujimi 2-chome Symphony Orchestra
 1269|1|x-jat|Fujimi 2-choume Koukyougakudan
+19557|1|x-jat|Fujimoto Tatsuki 17-26
 2666|1|x-jat|Fujun Isei Kouyuu: Taisetsu na Kimi e
 15366|1|x-jat|Fukai ni Nemuru Oujo no Abaddon The Animation
 11588|1|x-jat|Fukashigi no Kazoekata
@@ -17440,6 +17455,7 @@
 12595|1|x-jat|Gan Gan Ganko-chan
 13773|1|x-jat|Gan Gan Ganko-chan (2018)
 3109|1|x-jat|Gan to Gon
+5411|4|pt|Ganba
 8889|3|x-jat|ganbaranai
 11373|1|x-jat|Ganbare Bu Next!
 16536|1|x-jat|Ganbare Douki-chan
@@ -21684,6 +21700,7 @@
 7431|2|x-jat|Hen Zemi
 8287|2|x-jat|Hen Zemi (2011)
 2247|3|x-jat|Henbe
+2247|4|pt|Henbei
 3382|1|x-jat|Henbou Moral Hazard
 4316|1|x-jat|Hengen Taima Yakou Karura Mau! Nara Onryou Emaki
 4320|1|x-jat|Hengen Taima Yakou Karura Mau! Sendai Kokeshi Onka
@@ -24945,6 +24962,7 @@
 11020|2|en|Jellyfish Restaurant
 1390|4|pl|Jenny Jenny
 1072|4|it|Jenny la tennista
+1072|4|pt|Jenny!
 9598|1|x-kot|Jeonjaingan 337
 18741|4|x-kot|Jeonjijeog Dogja Sijeom
 18250|1|x-jat|Jeremy no Ki
@@ -25095,6 +25113,7 @@
 3396|1|x-jat|Jikuu Tantei Genshi-kun
 101|1|x-jat|Jikuu Tenshou Nazca
 6030|1|x-jat|Jim Button
+6030|4|pt|Jim Button
 6030|4|de|Jim Knopf
 15855|1|x-jat|Jimihen!! Jimiko o Kae Chau Jun Isei Kouyuu
 14550|1|x-jat|Jimoto ga Japan
@@ -26122,6 +26141,7 @@
 9949|2|x-jat|Kakumeiki Valvrave 2nd Season
 2178|1|x-jat|Kakurenbo
 2178|4|sv|Kakurenbo
+2178|4|pt|Kakurenbo
 19422|1|x-jat|Kakurenbo The Animation
 2178|4|en|Kakurenbo: Hide & Seek
 2178|4|de|Kakurenbo: Hide and Seek
@@ -30343,6 +30363,7 @@
 483|4|pl|Lensman: Sekret Soczewki
 1499|4|de|Leo - Der kleine Löwenkönig
 1498|4|en|Leo the Lion
+1496|4|pt|Leo, o Leão Branco
 1490|4|fr|Léo, roi de la jungle
 11752|1|x-jat|Leopard Eyes
 11752|4|ja|Leopard Eyes
@@ -33878,8 +33899,7 @@
 263|1|x-jat|Megami Kouhosei Special Curriculum: Nakama
 18806|4|x-jat|Megami Kourin
 19088|4|x-jat|Megami Kourin 2
-1722|2|x-jat|Megami Kyouju
-1722|1|x-jat|Megami Kyoujyu
+1722|1|x-jat|Megami Kyouju
 17612|1|x-jat|Megami no Cafe Terrace
 18080|1|x-jat|Megami no Cafe Terrace (2024)
 18080|2|x-jat|Megami no Cafe Terrace 2
@@ -35652,6 +35672,7 @@
 3555|3|x-jat|Montana
 3555|4|de|Montana
 3555|4|es|Montana
+3555|4|pt|Montana
 3555|1|x-jat|Montana Jones
 1868|3|en|Monte Cristo
 1868|4|hu|Monte Cristo grófja
@@ -36098,6 +36119,7 @@
 1930|4|es-CA|Musculman
 17913|4|es|Musculman: La crónica del origen perfecto
 2130|4|pt-BR|Músculo Total
+2130|4|pt|Músculo Total
 16094|4|ja|Muse: Aftermath
 13224|1|x-jat|Musekinin Galaxy Tylor
 18|1|x-jat|Musekinin Kanchou Tylor
@@ -37103,6 +37125,7 @@
 6672|2|x-jat|Natsu no Arashi! 2
 6672|1|x-jat|Natsu no Arashi! Akinai-chuu
 13190|1|x-jat|Natsu no Gero wa Fuyu no Sakana
+19556|1|x-jat|Natsu no Hako
 15099|1|x-jat|Natsu no Niwa
 7877|1|x-jat|Natsu no Yoru no Dekigoto
 14188|1|x-jat|Natsu o Yarinaosu
@@ -38089,6 +38112,7 @@
 15143|2|x-jat|No Guns Life 2nd Part
 15143|2|en|No Guns Life Season 2
 19311|4|en|No Home
+3184|2|pt|No Início, Histórias da Bíblia
 10645|1|x-jat|No Littering
 10645|4|ja|NO LITTERING
 17507|4|en|No Longer Allowed In Another World
@@ -38574,6 +38598,7 @@
 17612|4|pt|O Café Terraço e as Suas Deusas
 18080|2|pt|O Café Terraço e as Suas Deusas (2024)
 18080|4|pt|O Café Terraço e as Suas Deusas 2
+1457|4|pt|O Campeão
 1218|4|pt|O Castelo Andante
 1218|4|pt-BR|O Castelo Animado
 331|4|pt|O Castelo no Céu
@@ -38657,6 +38682,7 @@
 4260|2|pt|O Pequeno Urso Misha
 2237|4|pt-BR|O Pirata do Espaço
 2237|2|pt|O Pirata do Espaço
+1848|4|pt|O Ponta de Lança
 56|2|pt-BR|O Príncipe do Tênis
 3647|4|pt|O Principezinho
 13545|4|pt|O Rapaz e a Garça
@@ -39032,6 +39058,7 @@
 10970|3|en|Okuusama
 3136|1|x-jat|OL Kaizou Kouza
 2923|2|es|Ola, Spanky!
+2923|4|pt|Olá, Spanky!
 13081|2|en|Old City Ward
 12854|4|en|Old Man Goichi
 11296|2|en|Old Master Q & "San-T"
@@ -39045,6 +39072,8 @@
 2737|4|pt-BR|Olé Ollie
 3573|2|pt-BR|Olhando para a Meia-Lua
 15373|4|pt-BR|Olhos de Gato
+1025|4|pt|Olhos de Gato
+14582|4|pt|Olhos de Gato (1984)
 5081|4|fi|Olipa kerran avaruus
 5222|4|fi|Olipa kerran elämä
 505|2|fr|Olive et Tom
@@ -43309,8 +43338,8 @@
 12799|1|x-jat|Quantum Leap
 12799|4|ja|Quantum Leap
 13171|1|x-zht|Quanzhi Fashi
-13469|1|x-zht|Quanzhi Fashi 2
 14572|1|x-zht|Quanzhi Fashi 3
+13469|1|x-zht|Quanzhi Fashi II
 15397|1|x-zht|Quanzhi Fashi IV
 15397|2|x-zht|Quanzhi Fashi Season 4
 19503|1|x-zht|Quanzhi Fashi Tebie Pian: Shenmi Weituo
@@ -43730,6 +43759,7 @@
 2995|2|en|Ranma OVA Special
 2996|2|en|Ranma OVA Super
 193|3|x-jat|ranma s2
+4576|2|es-419|Ranma y medio
 18700|4|es|Ranma1/2 (2024)
 18700|4|it|Ranma1/2 (2024)
 18700|4|my|Ranma1/2 (2024)
@@ -50002,6 +50032,7 @@
 12402|1|x-jat|Star Beat! Hoshi no Kodou
 648|4|en|Star Blazers
 648|4|it|Star Blazers
+648|4|pt|Star Blazers
 2662|2|en|Star Blazers 2
 2662|4|it|Star Blazers 2 - The Comet Empire
 8787|4|en|Star Blazers 2199
@@ -51480,6 +51511,7 @@
 4678|2|en|Tama and Friends
 5334|2|en|Tama and Friends movie
 5334|2|en|Tama and Friends: Please! Search for Momo-chan!!
+4678|4|pt|Tama e os Seus Amigos
 4678|4|fr|Tama et ses amis
 11659|1|x-jat|Tama Gura Abayo: Moki Yumokyu Superdeluxe
 4678|2|en|Tama of the 3rd District: Have You Seen My Tama?
@@ -51697,6 +51729,7 @@
 15215|1|x-jat|Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu You na Monogatari
 2230|2|x-jat|Tatsu no Ko Taro
 2230|1|x-jat|Tatsu no Ko Tarou
+19557|4|en|Tatsuki Fujimoto 17-26
 9201|1|x-jat|Tatsumi
 9201|4|ja|TATSUMI
 9201|2|fr|Tatsumi
@@ -55067,7 +55100,7 @@
 12858|4|en|Tonpei and Sarukichi
 17689|3|x-jat|tonsuki
 4744|4|es-GA|Tony reporteira
-4744|4|pt|Tony, a reporter blues
+4744|4|pt|Tony, a Repórter Blues
 6946|1|x-jat|Tony`s Heroine Series: Kanojo wa Hanayome Kouhosei? Cinderella Collection
 6946|4|ko|Tony`s 히로인 시리즈: 그녀는 신부 후보생? 신데렐라 컬렉션
 6946|4|ja|Tony`s ヒロインシリーズ 彼女は花嫁候補生? シンデレラ・コレクション
@@ -56320,6 +56353,7 @@
 710|3|x-jat|UM TV
 16801|4|pt|Uma Casa à Deriva
 3047|4|pt|Uma Casa ao Sol
+2300|4|pt|Uma Casa nos Alpes
 13034|3|x-jat|Uma Musume
 13034|2|x-jat|Uma Musume - Pretty Derby
 13034|2|x-jat|Uma Musume Pretty Derby
@@ -57905,8 +57939,7 @@
 583|1|x-jat|Weiss Kreuz
 226|4|fr|Weiß Kreuz Brillance
 226|1|x-jat|Weiss Kreuz Gluhen
-226|4|ja|Weiss Kreuz Glühen
-226|2|ja|Weiß Kreuz Glühen
+226|4|ja|Weiß Kreuz Glühen
 582|1|x-jat|Weiss Kreuz OVA
 582|2|x-unk|Weiß Kreuz OVA
 583|2|x-unk|Weiß Kreuz TV
@@ -71493,6 +71526,7 @@
 13278|4|ko|출동! 슈퍼윙스
 19529|4|ko|출동! 슈퍼윙스2
 19550|4|ko|출동! 슈퍼윙스3
+19558|4|ko|출동! 슈퍼윙스4
 3433|4|ko|충사
 9556|2|ko|취성의 가르간티아
 10549|2|ko|취성의 가르간티아: 순환하는 항로, 저 멀리
@@ -83852,6 +83886,7 @@
 15518|4|ja|夏が終わるまで The Animation
 18570|4|ja|夏が終わるまで 夏の終わり The Animation
 8804|3|ja|夏キセ
+19556|4|ja|夏と箱
 6340|4|ja|夏のあらし!
 6672|4|ja|夏のあらし! 春夏冬中
 13190|4|ja|夏のゲロは冬の肴
@@ -92814,6 +92849,7 @@
 7071|2|ja|藤子·F·不二雄のSF(すこしふしぎ)短編シアター
 9172|4|ja|藤子不二雄Aの夢魔子
 9296|4|ja|藤子不二雄のキテレツ大百科
+19557|4|ja|藤本タツキ17-26
 17870|4|zh-Hant|藥師少女的獨語
 16853|4|zh-Hans|蘿蔔回來了
 18905|2|x-zht|虎x鹤妖师录
