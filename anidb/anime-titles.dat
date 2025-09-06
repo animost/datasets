@@ -1,4 +1,4 @@
-# created: Thu Sep  4 03:00:02 2025
+# created: Fri Sep  5 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -26482,6 +26482,7 @@
 18867|1|x-jat|Kaoru Hana wa Rin to Saku
 18867|4|pl|Kaoru i Rin: Rozkwitając z tobą
 16930|1|x-jat|Kaoru no Taisetsu na Mono
+18867|4|de|Kaoru und Rin
 1088|2|x-jat|Kaotsuki
 516|2|ja|Kapital des Kiikens
 505|2|pl|Kapitan Hawk
@@ -41846,6 +41847,7 @@
 17883|1|x-jat|Pokemon Concierge
 17883|4|en|Pokemon Concierge
 17883|2|en|Pokémon Concierge
+19559|1|x-jat|Pokemon Concierge (2025)
 4728|4|fr|Pokémon Diamant et Perle
 4728|3|en|Pokemon DP
 4728|2|he|Pokémon DP: Battle Dimension - מימד הקרב
@@ -67693,6 +67695,7 @@
 9015|2|ar|مبادئ البطل المارق
 9268|4|ar|متاهة السحر
 1783|2|ar|مجتمع دراسة الثقافة المرئية الحديثة
+13385|4|ar|مجموعة جونجي إيتو
 2854|2|ar|محاربو طوكيو العشرة
 17480|4|ar|محاكم التفتيش ودوران الأرض
 6438|2|ar|محب الأميرات
@@ -78794,6 +78797,7 @@
 8671|4|ja|ポケモン3Dアドベンチャー ミュウを探せ!
 8672|4|ja|ポケモン3Dアドベンチャー2 ピカチュウの海底大冒険
 17883|4|ja|ポケモンコンシェルジュ
+19559|4|ja|ポケモンコンシェルジュ (2025)
 3419|2|ja|ポケモンサイドストーリー
 12409|4|ja|ポケモンジェネレーションズ
 7481|4|ja|ポケモンレンジャー 光の軌跡
@@ -80852,6 +80856,7 @@
 14693|4|zh-Hans|为了女儿，我说不定连魔王都能干掉。
 14413|4|zh-Hans|为什么老师会在这里!
 18133|2|zh-Hans|为何我的世界被遗忘了？
+18930|4|zh-Hans|为你着迷
 14068|4|zh-Hans|为我而生
 16446|4|zh-Hans|为美好的世界献上爆炎！
 11261|4|zh-Hans|为美好的世界献上祝福!
@@ -89887,6 +89892,7 @@
 17700|4|zh-Hant|為丑女獻上花束
 17523|2|zh-Hant|為了養老金去異界存八萬金
 14413|4|zh-Hant|為什麼老師會在這裡！？
+18930|4|zh-Hant|為你著迷
 16446|2|zh-Hant|為美好的世界獻上爆焰！
 11261|4|zh-Hant|為美好的世界獻上祝福！
 11854|4|zh-Hant|為美好的世界獻上祝福！：為美好的項圈獻上祝福！
