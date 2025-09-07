@@ -1,4 +1,4 @@
-# created: Fri Sep  5 03:00:02 2025
+# created: Sat Sep  6 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -32788,7 +32788,7 @@
 14660|1|x-jat|Mairimashita! Iruma-kun
 15428|1|x-jat|Mairimashita! Iruma-kun (2021)
 16627|1|x-jat|Mairimashita! Iruma-kun (2022)
-18995|1|x-jat|Mairimashita! Iruma-kun (Dai 4 Series)
+18995|1|x-jat|Mairimashita! Iruma-kun (2026)
 15428|2|x-jat|Mairimashita! Iruma-kun 2
 6111|4|en|Maison de Castle
 288|1|x-jat|Maison Ikkoku
@@ -41848,6 +41848,7 @@
 17883|4|en|Pokemon Concierge
 17883|2|en|Pokémon Concierge
 19559|1|x-jat|Pokemon Concierge (2025)
+19559|2|en|Pokémon Concierge (2025)
 4728|4|fr|Pokémon Diamant et Perle
 4728|3|en|Pokemon DP
 4728|2|he|Pokémon DP: Battle Dimension - מימד הקרב
@@ -43567,8 +43568,6 @@
 7389|4|en|Rainbow
 2408|2|en|Rainbow Across the Pacific Ocean
 1885|2|en|Rainbow Battle Team Robin
-19395|1|x-kot|Rainbow Bubblegem
-19396|1|x-kot|Rainbow Bubblegem 2: Secret
 14137|2|en|Rainbow Cat And Blue Rabbit In Space
 14154|2|en|Rainbow Cat And Blue Rabbit Sidequels: Tiao-tiao the Guardian
 14122|2|en|Rainbow Cat And Blue Rabbit: Amu Star
@@ -46453,6 +46452,7 @@
 15644|2|en|Scum Villain`s Self-Saving System
 11998|4|en|Scum`s Wish
 15644|4|en|Scumbag System
+15644|4|de|Scumbag System
 590|3|x-jat|SD
 1703|1|x-jat|SD Gundam Force
 3343|2|x-jat|SD Gundam Gaiden
@@ -57962,7 +57962,7 @@
 15428|4|en|Welcome to Demon School! Iruma-kun (2021)
 15428|4|pl|Welcome to Demon School! Iruma-kun (2021)
 16627|4|en|Welcome to Demon School! Iruma-kun (2022)
-18995|2|en|Welcome to Demon School! Iruma-kun 4
+18995|2|en|Welcome to Demon School! Iruma-kun (2026)
 15428|2|en|Welcome to Demon School! Iruma-kun: Season 2
 14592|2|en|Welcome to Hinagiku Virgin Lost Club
 6677|4|en|Welcome to Irabu`s Office
@@ -69484,8 +69484,6 @@
 6154|2|ko|레이프! 레이프! 레이프!
 4878|2|ko|레이프맨
 14705|4|ko|레인보우 루비
-19395|4|ko|레인보우 버블젬
-19396|4|ko|레인보우 버블젬 2 시크릿
 2148|2|ko|레즈병동
 13116|2|ko|레지던스
 3452|2|ko|레퀴엠
@@ -95350,7 +95348,7 @@
 14660|4|ja|魔入りました! 入間くん
 15428|4|ja|魔入りました! 入間くん (2021)
 16627|4|ja|魔入りました! 入間くん (2022)
-18995|4|ja|魔入りました! 入間くん (第4シリーズ)
+18995|4|ja|魔入りました! 入間くん (2026)
 2855|4|zh-Hans|魔兵传奇
 8265|4|zh-Hans|魔具少女
 8566|4|zh-Hans|魔具少女！OAD
