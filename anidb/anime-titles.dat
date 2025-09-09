@@ -1,4 +1,4 @@
-# created: Sun Sep  7 03:00:02 2025
+# created: Mon Sep  8 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1038,6 +1038,7 @@
 18914|2|en|A Mild Noble`s Vacation Suggestion
 1836|4|pt|A Minha Amiga Lícia
 18538|4|pt|A Minha Oni
+19564|2|en|A Misanthrope Teaches a Class for Demi-Humans
 18846|4|en|A Moment But Forever
 15425|2|en|A Mortal`s Journey to Immortality Season 1
 17033|2|en|A Mortal`s Journey to Immortality Season 1 Part 2
@@ -1503,6 +1504,7 @@
 3604|4|en|Adventure Boy Shadar
 1130|4|fi|Adventure Duo
 1130|2|en|Adventure Duo
+12153|2|en|Adventure in Charanpo Land
 1130|4|en|Adventure Kid
 2391|2|en|Adventure King Beet
 3703|2|en|Adventure King Beet Exelion
@@ -3810,6 +3812,7 @@
 10702|4|es|Assassination Classroom Temporada 1
 12245|2|en|Assassination Classroom the Movie 365 Days
 12245|4|en|Assassination Classroom the Movie: 365 Days Time
+19567|2|en|Assassination Classroom the Movie: Everybody`s Time
 11203|2|en|Assassination Classroom: Final Season
 11203|4|en|Assassination Classroom: Second Season
 15475|2|en|Assassination Classroom: Second Season - Extra Lesson
@@ -4880,10 +4883,12 @@
 17438|4|ja|BanG Dream! Morfonication
 15517|4|en|BanG Dream! Poppin`Dream!
 14075|2|en|BanG Dream! S2
+19566|1|x-jat|BanG Dream! Yumemita
 17981|4|ru|BanG Dream! Это MyGO!
 14077|4|ja|BanG Dream! ガルパ☆ピコ
 15307|4|ja|BanG Dream! ガルパ☆ピコ ~大盛り~
 16370|4|ja|BanG Dream! ガルパ☆ピコ ふぃーばー!
+19566|4|ja|BanG Dream! ゆめ∞みた
 14077|4|zh-Hans|BanG Dream! 少女乐团派对！
 14802|4|zh-Hans|BanG Dream! 梦想协奏曲 电影演唱会
 14076|4|zh-Hans|BanG Dream! 梦想协奏曲 第三季
@@ -8566,6 +8571,7 @@
 2532|1|x-jat|Chikyuu ga Ugoita Hi
 5039|2|ja|Chikyuu he...
 6687|1|x-jat|Chikyuu Monogatari: Telepath 2500
+19568|1|x-jat|Chikyuu no Latair
 10051|1|x-jat|Chikyuu o Mitsumete
 107|1|x-jat|Chikyuu Shoujo Arjuna
 7328|1|x-jat|Chikyuu SOS Sore Ike Kororin
@@ -17842,6 +17848,7 @@
 9356|1|x-jat|Gekijouban Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai.
 9356|3|x-jat|Gekijouban Anohana
 12245|1|x-jat|Gekijouban Ansatsu Kyoushitsu: 365-nichi no Jikan
+19567|1|x-jat|Gekijouban Ansatsu Kyoushitsu: Minna no Jikan
 10715|1|x-jat|Gekijouban Aoki Hagane no Arpeggio
 5390|1|x-jat|Gekijouban Aquarion
 15977|1|x-jat|Gekijouban Argonavis: Axia
@@ -25156,6 +25163,7 @@
 555|2|en|Jing: King of Bandits
 17107|1|x-zht|Jing: Shuang Cheng
 15695|1|x-zht|Jing: Shuang Cheng - Feng Qi Pian
+19564|1|x-jat|Jingai Kyoushitsu no Ningengirai Kyoushi
 14174|1|x-jat|Jingai-san no Yome
 14174|4|en|Jingai-san no Yome
 7694|1|x-jat|Jingi
@@ -26353,6 +26361,7 @@
 19037|1|x-jat|Kan`ochi x Netorare Kazoku The Animation
 11590|1|x-jat|Kana Kana Kazoku
 12492|1|x-jat|Kanagatari. Kanabakari.: Kanadian Families
+19565|1|x-jat|Kanagawa ni Sunderu Erufu
 9440|1|x-jat|Kanai
 11820|1|x-jat|Kaname o
 6531|1|x-jat|Kanamemo
@@ -29972,6 +29981,7 @@
 69|4|tr|Lastik Çocuk
 7374|2|ja|LastWaltz
 6182|2|pt-BR|Lata Vazia
+19568|2|en|Latair the Earth
 3498|4|pl|Latający dom
 1859|2|pl|Latający statek widmo
 14002|4|en|Late Night! The Genius Bakabon
@@ -34863,6 +34873,7 @@
 1319|1|x-jat|Misaki Chronicle: Divergence Eve
 15831|1|x-jat|Misaki no Mayoiga
 13148|2|fr|Misaki, ma maîtresse d’école
+19564|2|en|Misanthropic Teacher in Demi-Human Classroom.
 7041|1|x-jat|Misato-chan no Yume Nikki
 5678|2|en|Mischievious Kiss
 2579|4|fr|Mise tout sur le ring !
@@ -54070,6 +54081,7 @@
 16885|2|en|The Town
 11775|4|en|The town you live in.
 15874|2|en|The Track and Field Club Girls are My Onaholes!!! The Animation
+19563|1|en|The Transformers: The Movie
 13836|2|en|The Traveler with the Pasted Rag Picture
 6990|2|en|The Trip
 9394|4|en|The Troubled Life of Miss Kotoura
@@ -56248,6 +56260,7 @@
 2602|4|ja|UG☆アルティメットガール
 335|3|x-jat|ugk
 18996|4|en|Uglymug, Epicfighter
+18996|4|de|Uglymug, Epicfighter
 17924|3|x-jat|UGMF
 515|2|lt|Ugninis Labirintas
 3095|4|it|Ugo il Re del Judo
@@ -77880,6 +77893,7 @@
 6288|4|ja|パンドラハーツ
 17240|4|ja|バンドリ! ガールズバンドパーティ! 5th Anniversary Animation -CiRCLE THANKS PARTY!-
 14802|2|ja|バンドリ! フィルムライブ
+19566|2|ja|バンドリ! ゆめ∞みた
 1874|2|ja|ハンドル ウイズ ケア
 1874|2|ja|ハンドルウィズケア
 11234|4|ja|ハンドレッド
@@ -81079,6 +81093,7 @@
 13118|4|ja|人力戦艦!? 汐風澤風
 7386|4|zh|人参果
 14174|4|ja|人外さんの嫁
+19564|4|ja|人外教室の人間嫌い教師
 15094|4|ja|人妻, 蜜と肉
 4078|4|ja|人妻♪かすみさん
 4078|2|zh-Hant|人妻♪花純
@@ -82531,6 +82546,7 @@
 6959|2|ja|劇場版 文学少女
 10240|4|ja|劇場版 明治東亰恋伽
 12245|4|ja|劇場版 暗殺教室 365日の時間
+19567|4|ja|劇場版 暗殺教室 みんなの時間
 7408|2|ja|劇場版 機動戦士ガンダム00
 729|2|ja|劇場版 機動戦士ガンダムI 特別編
 18961|4|zh-Hant|劇場版 歌之☆王子殿下♪ TABOO NIGHT XXXX
@@ -83771,6 +83787,7 @@
 7328|4|ja|地球SOSそれいけコロリン
 2532|4|ja|地球が動いた日
 13920|4|ja|地球との約束
+19568|4|ja|地球のラテール
 16306|4|ja|地球はぐるぐるメリーゴーランド
 5039|4|ja|地球へ... (2007)
 14091|4|ja|地球外少年少女
