@@ -1,4 +1,4 @@
-# created: Mon Sep  8 03:00:01 2025
+# created: Tue Sep  9 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3423,6 +3423,7 @@
 5115|4|it|Aria the OVA: Arietta
 5115|1|x-jat|Aria the OVA: Arietta
 5115|4|en|Aria the OVA: Arietta
+5115|4|es-419|ARIA The OVA～ARIETTA~
 8109|4|en|Aria the Scarlet Ammo
 10980|4|en|Aria the Scarlet Ammo AA
 2659|4|en|Aria: The Animation
@@ -27073,7 +27074,7 @@
 302|4|fr|Key the Metal Idol
 302|4|en|Key the Metal Idol
 302|4|es-419|Key the Metal Idol
-18952|2|en|Keyboard Immortal
+18952|4|en|Keyboard Immortal
 251|3|x-jat|kg
 4999|3|x-jat|KGA
 896|3|x-jat|kgne
@@ -46810,6 +46811,7 @@
 16055|1|x-jat|Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei Suru
 18207|1|x-jat|Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei Suru 2
 16055|2|ja|Sekai Saikou no Assassin, Isekai Kizoku ni Tensei suru
+19569|1|x-jat|Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha
 10212|4|de|Sekai Seifuku - World Conquest Zvezda Plot
 10212|1|x-jat|Sekai Seifuku: Bouryaku no Zvezda
 10212|4|fr|Sekai Seifuku: le complot Zvezda
@@ -50997,7 +50999,7 @@
 17093|2|en|Swallowed Star S2
 19039|2|en|Swallowed Star The Movie: Xueluo Continent
 19039|2|en|Swallowed Star: Blood Luo Continent
-19342|2|en|Swallowing the Heavens
+19342|4|en|Swallowing the Heavens
 1694|4|en|Swallowtail Inn
 13222|2|ko|Swamp Stamp
 13222|4|ja|SWAMP STAMP Anime Edition
@@ -54229,6 +54231,7 @@
 16055|4|en|The World`s Finest Assassin Gets Reincarnated in Another World as an Aristocrat
 18207|2|en|The World`s Finest Assassin Gets Reincarnated in Another World as an Aristocrat 2
 7051|4|en|The World`s Greatest Fairy Tales
+19569|2|en|The World`s Strongest Rearguard: Labyrinth Country`s Novice Seeker
 16537|4|en|The Wrong Way to Use Healing Magic
 18799|4|en|The Wrong Way to Use Healing Magic 2
 16611|4|en|The Yakuza`s Guide to Babysitting
@@ -55737,7 +55740,7 @@
 10536|1|x-jat|Tsubu Doll
 10536|2|x-unk|Tsubu★Doll
 18482|1|x-jat|Tsue to Tsurugi no Wistoria
-18889|1|x-jat|Tsue to Tsurugi no Wistoria (2026)
+18889|1|x-jat|Tsue to Tsurugi no Wistoria Season 2
 9401|1|x-jat|Tsugou no Yoi Sexfriend?
 14728|1|x-jat|Tsugu Tsugumomo
 14728|4|en|Tsugu Tsugumomo
@@ -58255,7 +58258,7 @@
 8076|4|en|Wish Upon the Pleiades
 10958|4|en|Wish Upon the Pleiades (2015)
 18482|4|en|Wistoria: Wand and Sword
-18889|2|en|Wistoria: Wand and Sword (2026)
+18889|2|en|Wistoria: Wand and Sword Season 2
 4121|2|pl|Witaj w NHK!
 9496|1|x-jat|Witch Craft Works
 9496|4|en|Witch Craft Works
@@ -80739,6 +80742,7 @@
 15055|4|ja|世界一初恋~プロポーズ編~
 8567|4|ja|世界一初恋2
 12947|4|zh-Hans|世界之暗图鉴
+19569|4|ja|世界最強の後衛 ~迷宮国の新人探索者~
 16055|4|ja|世界最高の暗殺者, 異世界貴族に転生する
 18207|4|ja|世界最高の暗殺者, 異世界貴族に転生する 2
 17618|4|ja|世界名作劇場・完結版 	ポルフィの長い旅
@@ -88528,7 +88532,7 @@
 3479|4|ja|村正
 6705|4|ja|村祭
 18482|4|ja|杖と剣のウィストリア
-18889|4|ja|杖と剣のウィストリア (2026)
+18889|4|ja|杖と剣のウィストリア Season2
 18482|2|zh-Hans|杖与剑的魔剑谭
 18889|4|zh-Hans|杖与剑的魔剑谭 第二季
 7471|4|ja|杜子春
