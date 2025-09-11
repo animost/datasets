@@ -1,4 +1,4 @@
-# created: Tue Sep  9 03:00:01 2025
+# created: Wed Sep 10 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -15924,8 +15924,8 @@
 16606|1|x-zht|Fei Ren Zai (6)
 19500|1|x-zht|Fei Ren Zai 3
 17816|1|x-zht|Fei Ren Zai Di Er Ji
-17817|1|x-zht|Fei Ren Zai Di Er Ji (2)
-18169|1|x-zht|Fei Ren Zai Di Er Ji (3)
+17817|1|x-zht|Fei Ren Zai Di Er Ji Part 2
+18169|1|x-zht|Fei Ren Zai Di Er Ji Part 3
 17313|1|x-zht|Fei Yue Di Xin
 16643|1|x-zht|Fei Zhi Baike Yuanlai Ni Shi Zheyang Di Dongwu
 16642|1|x-zht|Fei Zhi Baike Yuanlai Ni Shi Zheyang Di Zhiwu
@@ -30332,6 +30332,7 @@
 19125|2|en|Legendary Twins Special
 4193|4|da|Legenden om Jordhavet
 4193|4|sv|Legender Från Övärlden
+19570|1|en|Legends Of Dawn: The Sacred Stone
 5802|4|en|Legends of the Dark King: A Fist of the North Star Story
 19495|1|en|Legends of the Three Realms
 1750|3|x-jat|Legendz
@@ -30715,6 +30716,7 @@
 2119|2|x-jat|Lime-iro Senkitan: Nankoku Yume Roman
 2119|2|en|Lime-iro Senkitan: The South Island Dream Romantic Adventure (OAV)
 2807|2|x-jat|Limeiro Ryuukitan X
+19570|2|x-zht|Liming Yingxiong Chuanshuo: Sheng Shi Zhi Mi
 1905|3|x-jat|limit
 1905|3|x-jat|limitchan
 8543|2|en|Limitless Paradise
@@ -49939,6 +49941,7 @@
 17785|4|pt-BR|SPY x FAMILY CÓDIGO: Branco
 17784|2|x-jat|Spy x Family Season 2
 18677|2|en|Spy x Family Season 3
+18677|4|de|SPY x FAMILY Staffel 3
 16947|4|th|SPY x FAMILY ซีซั่น 2
 18933|4|en|Spy x Sect
 16947|4|ja|SPY×FAMILY
@@ -94969,8 +94972,8 @@
 16606|4|zh-Hans|非人哉 (6)
 19500|4|zh-Hans|非人哉 第三季
 17816|4|zh-Hans|非人哉 第二季
-17817|4|zh-Hans|非人哉 第二季 (2)
-18169|4|zh-Hans|非人哉 第二季 (3)
+17817|4|zh-Hans|非人哉 第二季 Part 2
+18169|4|zh-Hans|非人哉 第二季 Part 3
 302|4|zh-Hans|非常偶像Key
 14759|4|zh-Hans|非枪人生
 15143|4|zh-Hant|非槍人生 NO GUNS LIFE 第二季
@@ -95943,6 +95946,7 @@
 3535|4|ja|黄龍の耳 美那の章
 3535|4|zh-Hans|黄龙之耳 美那之章
 18415|2|zh-Hans|黎明之剑
+19570|4|zh-Hans|黎明英雄传说：圣石之谜
 17204|2|zh-Hans|黑之召唤士
 17204|2|zh-Hant|黑之召喚士
 4906|2|zh|黑之契约者
