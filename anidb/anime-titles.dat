@@ -1,4 +1,4 @@
-# created: Wed Sep 10 03:00:02 2025
+# created: Thu Sep 11 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -39935,6 +39935,7 @@
 15756|2|x-jat|Osananajimi ga Zettai ni Makenai Love Comedy
 15756|1|x-jat|Osananajimi ga Zettai ni Makenai LoveCome
 5984|1|x-jat|Osananajimi to Doukyuusei
+19571|1|x-jat|Osananajimi to wa Love Comedy ni Naranai
 19266|1|x-jat|Osananajimi to wa Lovecome ni Naranai
 6736|1|x-jat|Osaru no Kantai
 7821|1|x-jat|Osaru no Monkichi no Kin no Ono Gin no Ono
@@ -50996,6 +50997,8 @@
 10736|3|x-jat|swa
 11385|3|en|swa ova
 15867|2|en|Swallowed Star
+15867|4|de|Swallowed Star
+17093|4|de|Swallowed Star 2
 18364|2|en|Swallowed Star 3rd Season
 18365|2|en|Swallowed Star 4th Season
 19039|4|en|Swallowed Star Movie: Blood Luo Continent
@@ -69817,6 +69820,7 @@
 5212|4|ko|무시우타
 298|2|ko|무인도 이야기 X
 926|2|ko|무인도 이야기 XX
+19362|2|ko|무인역 The Animation
 9237|4|ko|무장 신기
 12230|4|ko|무장소녀 마키아벨리즘
 4381|4|ko|무적철가방
@@ -71926,6 +71930,7 @@
 9944|2|ko|풍륜간산
 646|2|ko|풍욕맨션 ~ 사랑은 열쇠의 수 만큼
 653|2|ko|퓨어 메일
+19414|2|ko|퓨어 퓨어 페로 페로 프린세스
 15906|4|ko|프라오레! PRIDE OF ORANGE
 7873|2|ko|프랙탈
 12563|4|ko|프레임 암즈 걸
@@ -89897,6 +89902,7 @@
 3408|4|zh-Hans|灼眼的夏娜
 8483|2|zh-Hans|灼眼的夏娜 Final
 5145|2|zh-Hans|灼眼的夏娜 第二季
+5145|4|zh-Hans|灼眼的夏娜II -Second-
 8483|4|zh-Hans|灼眼的夏娜III -Final-
 6757|4|zh-Hans|灼眼的夏娜S
 13980|4|zh-Hans|灾祸的真理 -ZUERST-
@@ -91198,6 +91204,7 @@
 17846|4|zh-Hans|破灭的王国
 18781|2|zh-Hans|破烂千金被姐姐的原婚约者溺爱着
 18781|2|zh-Hans|破爛千金被姊姊的原婚約者溺愛著
+18483|4|ja|破産富豪
 1562|4|ja|破裏拳ポリマー
 919|2|ja|破邪大星ダンガイオー
 919|4|ja|破邪大星弾劾凰
