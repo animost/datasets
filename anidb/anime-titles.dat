@@ -1,4 +1,4 @@
-# created: Thu Sep 11 03:00:02 2025
+# created: Fri Sep 12 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4884,7 +4884,7 @@
 17438|4|ja|BanG Dream! Morfonication
 15517|4|en|BanG Dream! Poppin`Dream!
 14075|2|en|BanG Dream! S2
-19566|1|x-jat|BanG Dream! Yumemita
+19566|1|x-jat|Bang Dream! Yumemita
 17981|4|ru|BanG Dream! Это MyGO!
 14077|4|ja|BanG Dream! ガルパ☆ピコ
 15307|4|ja|BanG Dream! ガルパ☆ピコ ~大盛り~
@@ -17361,8 +17361,8 @@
 1761|4|en|Galaxy Angel X
 259|1|x-jat|Galaxy Angel Z
 259|2|en|Galaxy Angel Z
-19168|1|x-jat|Galaxy Apaato Cosmo Hills
-19168|2|en|Galaxy Apartment Cosmo Hills
+19168|1|x-jat|Galaxy Apaato Cosmo Hills!
+19168|2|en|Galaxy Apartment Cosmo Hills!
 6954|2|en|Galaxy Boy Troop
 3117|4|en|Galaxy Cyclone Braiger
 3117|2|en|Galaxy Cyclone Bryger
@@ -24822,6 +24822,7 @@
 2833|1|x-jat|Izumo: Takeki Tsurugi no Senki
 2833|3|x-jat|Izumo2
 18620|1|x-jat|Izure Saikyou no Renkinjutsushi?
+19572|1|x-jat|Izure Saikyou no Renkinjutsushi? 2
 8619|1|x-jat|J League o 100-bai Tanoshiku Miru Houhou!!
 2634|3|x-jat|j-decker
 2742|3|x-jat|J:E
@@ -42378,6 +42379,7 @@
 11924|2|pl|Posępny Mononokean
 1152|2|fr|Possession
 18620|4|en|Possibly the Greatest Alchemist of All Time
+19572|2|en|Possibly the Greatest Alchemist of All Time 2
 335|2|it|Posso sentire il mare
 2143|2|x-jat|Post Pet Momobin
 2143|1|x-jat|PostPet Momobin
@@ -54112,7 +54114,7 @@
 7193|2|en|The Underwater Tyrant
 19154|2|en|The Unemployed Demon King
 17291|2|en|The Unforgiven
-18895|2|en|The Uninhabited Wonderland
+18895|4|en|The Uninhabited Wonderland
 5578|2|en|The Unknown Girl Friend
 9421|2|en|The Unlimited Hyobu Kyosuke
 9421|4|zh-Hans|THE UNLIMITED 兵部京介
@@ -72777,6 +72779,7 @@
 7462|2|ja|イズモ
 2833|2|ja|イズモ -たけきつるぎのせんき-
 18620|4|ja|いずれ最強の錬金術師?
+19572|4|ja|いずれ最強の錬金術師? 2
 14038|5|ja|いせかいチートマジシャン
 17580|3|ja|いせれべ
 4668|4|ja|イソップ・ワールド
@@ -74174,7 +74177,7 @@
 12643|4|ja|キャベツUFO
 8449|4|ja|キャラうた
 2457|4|ja|ギャラガ HYPER-PSYCHIC-GEO GARAGA
-19168|4|ja|ギャラクシーアパート☆コスモヒルズ
+19168|4|ja|ギャラクシーアパート☆コスモヒルズ!
 108|4|ja|ギャラクシーエンジェル
 260|4|ja|ギャラクシーエンジェル (第3期)
 4335|4|ja|ギャラクシーエンジェる~ん
