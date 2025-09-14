@@ -1,4 +1,4 @@
-# created: Fri Sep 12 03:00:01 2025
+# created: Sat Sep 13 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -35068,7 +35068,7 @@
 187|3|en|MMMT
 636|2|x-jat|mmppp
 1656|3|x-jat|mmpppp
-7622|4|zh-Hans|MM一族!
+7622|2|zh-Hans|MM一族！
 8395|3|x-jat|MN
 7432|3|x-jat|mn ova
 9585|3|x-jat|mn:redial ova
@@ -51857,6 +51857,7 @@
 3195|2|en|Teenage Goddess
 19397|2|en|Teenage Mercenary
 2641|4|en|Teenage Mutant Ninja Turtles - Superman Legend
+19573|1|x-jat|Tefuda ga Oome no Victoria
 10115|1|x-jat|Tegami
 6772|1|x-jat|Tegami Bachi
 6156|4|fr|Tegami Bachi : L`histoire fantastique de la lumière et du bleu
@@ -57222,6 +57223,7 @@
 8012|2|en|Victini and the Black Hero: Zekrom
 8012|2|en|Victini and the Dark Hero: Zekrom
 8269|2|en|Victini and the White Hero: Reshiram
+19573|2|en|Victoria of Many Faces
 11194|2|en|Victorian Maid Maria`s Service
 11194|1|x-jat|Victorian Maid: Maria no Houshi
 2695|2|en|Victorian Romance Emma
@@ -81122,6 +81124,7 @@
 2962|4|ja|人妻凌辱参観日
 1066|2|ja|人妻淫乱調教~エツコの秘密~
 19163|4|zh-Hant|人妻的嘴唇嚐起來有罐裝沙瓦的味道
+19163|4|zh-Hans|人妻的嘴唇尝起来有罐装沙瓦的味道
 6231|4|ja|人工少女 ~変身セックスアンドロイド~
 6231|2|zh-Hant|人工少女 ~變身性愛機器人~
 16162|4|ja|人形アニメ「ハイキュー!!」
@@ -82171,6 +82174,7 @@
 10992|4|zh-Hans|出包王女Darkness 2nd
 9162|4|zh-Hans|出包王女Darkness OAD
 12909|4|zh-Hans|出包王女Darkness OVA
+5625|4|zh-Hans|出包王女ㅤ
 629|4|ja|出撃! マシンロボレスキュー
 11462|4|zh-Hans|出来吧小魔神 胡巴
 18074|4|ja|出来損ないと呼ばれた元英雄は, 実家から追放されたので好き勝手に生きることにした
@@ -85189,6 +85193,7 @@
 6770|4|ja|宗谷物語
 18933|4|zh-Hans|宗门里除了我都是卧底
 6398|4|ja|宙のまにまに
+19353|4|zh-Hans|定孕成婚
 16487|4|zh-Hans|定海浮生录
 15067|4|zh-Hans|宝可梦
 17777|2|zh-Hans|宝可梦 地平线
@@ -87065,6 +87070,7 @@
 1586|4|ja|手天童子
 16163|2|zh-Hans|手工少女!!
 16163|3|zh-Hans|手工少女！！
+19573|4|ja|手札が多めのビクトリア
 4778|2|zh-Hans|手机少女
 16746|4|zh-Hans|手机里的浣熊小镇
 10115|4|ja|手紙
