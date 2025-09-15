@@ -1,4 +1,4 @@
-# created: Sat Sep 13 03:00:02 2025
+# created: Sun Sep 14 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4791,6 +4791,7 @@
 14638|1|x-zht|Balala Xiaomoxian: Mofa Hai Ying Bao
 17593|1|x-zht|Balala Xiaomoxian: Mofa Xing Yuan Bao
 12565|1|x-zht|Balala Xiaomoxian: Qiji Wubu
+19576|1|x-zht|Balala Xiaomoxian: Xing Yuan Die Qi 1
 12565|3|x-zht|balala2
 11833|3|x-zht|balala3
 13701|3|x-zht|balala4
@@ -15917,15 +15918,15 @@
 11939|2|en|Feeling from Mountain and Water
 16607|1|x-zht|Fei Ren Zai
 18752|1|x-jat|Fei Ren Zai -Kami-sama no Nichijou-
-13852|1|x-zht|Fei Ren Zai (2)
-16603|1|x-zht|Fei Ren Zai (3)
-16604|1|x-zht|Fei Ren Zai (4)
-16605|1|x-zht|Fei Ren Zai (5)
-16606|1|x-zht|Fei Ren Zai (6)
-19500|1|x-zht|Fei Ren Zai 3
 17816|1|x-zht|Fei Ren Zai Di Er Ji
 17817|1|x-zht|Fei Ren Zai Di Er Ji Part 2
 18169|1|x-zht|Fei Ren Zai Di Er Ji Part 3
+19500|1|x-zht|Fei Ren Zai Di San Ji
+13852|1|x-zht|Fei Ren Zai Part 2
+16603|1|x-zht|Fei Ren Zai Part 3
+16604|1|x-zht|Fei Ren Zai Part 4
+16605|1|x-zht|Fei Ren Zai Part 5
+16606|1|x-zht|Fei Ren Zai Part 6
 17313|1|x-zht|Fei Yue Di Xin
 16643|1|x-zht|Fei Zhi Baike Yuanlai Ni Shi Zheyang Di Dongwu
 16642|1|x-zht|Fei Zhi Baike Yuanlai Ni Shi Zheyang Di Zhiwu
@@ -24168,6 +24169,7 @@
 13890|4|ja|INGRESS THE ANIMATION
 13890|1|x-jat|Ingress the Animation
 13890|4|pl|Ingress: Serial animowany
+19574|2|en|Inherit the Winds
 135|3|x-jat|ini-d
 135|3|x-jat|inid
 135|1|x-jat|Initial D
@@ -26740,6 +26742,7 @@
 103|1|x-jat|Kaze no Youjinbou
 388|1|x-jat|Kaze o Mita Shounen
 3523|1|x-jat|Kaze o Nuke!
+19574|1|x-jat|Kaze o Tsugu Mono
 9514|1|x-jat|Kaze Tachinu
 798|2|x-jat|Kaze to Ki no Uta Sanctus: Seinaru ka na
 798|1|x-jat|Kaze to Ki no Uta: Seinaru ka na
@@ -34288,6 +34291,7 @@
 11474|1|x-jat|Mesu Kyoushi 4: Kegasareta Kyoudan
 6547|1|x-jat|Mesu Kyoushi: Injoku no Kyoushitsu
 9526|1|x-jat|Mesu Nochi Torare
+19575|1|x-jat|Mesu o Karu Mura
 9897|1|x-jat|Mesu Saga: Persona
 17587|1|x-jat|Mesudachi The Animation
 3303|4|pt-BR|Metabot
@@ -47254,6 +47258,7 @@
 6227|3|x-jat|SH:Kuro
 6227|3|en|sh2
 16398|1|x-jat|Shabake
+19013|4|en|Shabake
 19013|1|x-jat|Shabake (2025)
 10975|1|x-jat|Shabura Rental: Ecchi na Onee-san to no Eroero Rental Obenkyou The Animation
 10975|2|en|Shabura Rental: The Slutty Nee-chan and the Super Erotic Lesson The Animation
@@ -67873,6 +67878,7 @@
 5305|2|ar|موياشيمون
 146|4|ar|ميجا مان محارب النت
 2168|2|ar|ميجر
+2535|4|ar|ميراي
 4200|4|ar|ميمونة ومسعود
 1933|4|ar|ميمي الصغيرة
 6185|3|ar|ناتسومي
@@ -85773,6 +85779,7 @@
 11544|4|zh-Hant|巴哈姆特之怒-Manaria Friends-
 12565|4|zh-Hant|巴啦啦小魔仙之奇迹舞步
 11796|4|zh-Hant|巴啦啦小魔仙之彩虹心石
+19576|4|zh-Hans|巴啦啦小魔仙之星緣蝶啓1
 11833|4|zh-Hans|巴啦啦小魔仙之梦幻旋律
 13701|4|zh-Hant|巴啦啦小魔仙之飞越彩灵堡 第一季精灵俐俐
 13702|4|zh-Hant|巴啦啦小魔仙之飞越彩灵堡 第二季彩俐公主
@@ -90221,6 +90228,7 @@
 11459|4|ja|牙狼[GARO]-紅蓮ノ月-
 12888|4|zh-Hant|牙鬥獸娘
 17224|4|ja|牛頭
+19575|4|ja|牝を狩る村
 9897|4|ja|牝性 ペルソナ
 11474|2|zh-Hans|牝教师4 ~淫乱污秽的讲台~
 11474|4|zh|牝教师4 ~淫乱污秽的讲台~
@@ -95073,6 +95081,7 @@
 275|4|ja|風の谷のナウシカ
 407|4|ja|風まかせ月影蘭
 3523|4|ja|風を抜け!
+19574|4|ja|風を継ぐもの
 388|4|ja|風を見た少年
 275|4|zh-Hant|風之谷
 1759|4|ja|風人物語
