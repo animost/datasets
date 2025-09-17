@@ -1,4 +1,4 @@
-# created: Mon Sep 15 03:00:01 2025
+# created: Tue Sep 16 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -16210,6 +16210,7 @@
 1080|2|en|First Kiss Story
 1080|1|x-jat|First Kiss Story: Kiss kara Hajimaru Monogatari
 1080|2|en|First Kiss Story: The Story That Starts With a Kiss
+19577|1|x-jat|First Line
 8965|4|ja|First Love
 8965|1|x-jat|First Love
 8965|4|en|First Love
@@ -53983,6 +53984,7 @@
 18427|4|en|The Strongest Magician in the Demon Lord`s Army Was a Human
 17447|2|en|The Strongest Male Hero Ever
 17447|2|en|The Strongest Male Protagonist of All Time
+19578|1|x-jat|The Strongest Man, Born from Misfortune
 16029|2|en|The Strongest Sage of Disqualified Crest
 16029|4|en|The Strongest Sage with the Weakest Crest
 18980|2|en|The Strongest Sect of All Ages
@@ -78175,6 +78177,7 @@
 2515|4|ja|フーリガン
 1080|4|ja|ファーストKiss☆物語[ストーリー] Kissからはじまる物語
 4401|4|ja|ファーストスクワッド
+19577|4|ja|ファーストライン
 8965|2|ja|ファーストラブ
 4686|4|ja|ファーブル先生は名探偵
 10257|4|ja|ファーブル昆虫記
@@ -88833,7 +88836,7 @@
 12403|4|zh-Hans|棱镜少男 KING OF PRISM PRIDE the HERO
 9973|4|ja|棺姫のチャイカ
 10639|4|ja|棺姫のチャイカ AVENGING BATTLE
-10648|4|ja|棺姫のチャイカ ねらわれた棺 / 蘇る遺跡
+10648|4|ja|棺姫のチャイカ AVENGING BATTLE ねらわれた棺 / 蘇る遺跡
 9973|4|zh-Hans|棺姬嘉依卡
 10639|4|zh-Hans|棺姬嘉依卡 AVENGING BATTLE
 10648|4|zh-Hans|棺姬嘉依卡 Ova
@@ -93697,6 +93700,7 @@
 17789|4|ja|転生したら剣でしたII
 17702|4|ja|転生したら第七王子だったので, 気ままに魔術を極めます
 18694|4|ja|転生したら第七王子だったので, 気ままに魔術を極めます 第2期
+19578|4|ja|転生したら規格外の幸運値
 19201|4|ja|転生した大聖女は, 聖女であることをひた隠す
 12934|4|ja|転生剣奴の子づくり闘技場[ハーレムコロッセオ]
 12934|2|ja|転生剣奴の子作り闘技場
