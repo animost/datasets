@@ -1,4 +1,4 @@
-# created: Tue Sep 16 03:00:01 2025
+# created: Wed Sep 17 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -17121,6 +17121,7 @@
 3096|1|x-jat|Fuuma no Kojirou: Saishuushou - Fuuma Hanran Hen
 3099|1|x-jat|Fuuma no Kojirou: Seiken Sensou Hen
 3097|1|x-jat|Fuuma no Kojirou: Yasha Hen
+19579|1|x-jat|Fuun kara no Saikyou Otoko
 9944|1|x-jat|Fuurinkanzan: Doku o Motte Doku o Seisu
 9944|2|en|Fuurinkanzan: Fight Poison with Poison
 10808|1|x-jat|Fuusen Inu Tinny
@@ -39941,7 +39942,7 @@
 15756|2|x-jat|Osananajimi ga Zettai ni Makenai Love Comedy
 15756|1|x-jat|Osananajimi ga Zettai ni Makenai LoveCome
 5984|1|x-jat|Osananajimi to Doukyuusei
-19571|1|x-jat|Osananajimi to wa Love Comedy ni Naranai
+19266|2|x-jat|Osananajimi to wa Love Comedy ni Naranai
 19266|1|x-jat|Osananajimi to wa Lovecome ni Naranai
 6736|1|x-jat|Osaru no Kantai
 7821|1|x-jat|Osaru no Monkichi no Kin no Ono Gin no Ono
@@ -53984,7 +53985,7 @@
 18427|4|en|The Strongest Magician in the Demon Lord`s Army Was a Human
 17447|2|en|The Strongest Male Hero Ever
 17447|2|en|The Strongest Male Protagonist of All Time
-19578|1|x-jat|The Strongest Man, Born from Misfortune
+19579|2|en|The Strongest Man, Born from Misfortune
 16029|2|en|The Strongest Sage of Disqualified Crest
 16029|4|en|The Strongest Sage with the Weakest Crest
 18980|2|en|The Strongest Sect of All Ages
@@ -59713,6 +59714,7 @@
 12635|2|en|You Belong to Me – An Ultra-Sado Girlfriend & Her Ultra-Masochistic Boyfriend
 5704|1|x-jat|You Bishoujo Miruku-chan
 13854|4|en|You Can Enjoy!
+19266|4|en|You Can`t Be in a Rom-Com with Your Childhood Friends!
 13781|4|en|You Don`t Know Gunma Yet
 18259|1|x-zht|You Shou Yan
 18658|1|x-zht|You Shou Yan 2
@@ -80739,6 +80741,7 @@
 10538|4|zh-Hant|不起眼女主角培育法
 11221|4|zh-Hant|不起眼女主角培育法♭
 18712|4|ja|不遇職【鑑定士】が実は最強だった
+19579|4|ja|不運からの最強男
 17244|4|zh-Hant|不道德公會
 12760|4|zh-Hans|与僧侣交合的色欲之夜
 17487|4|zh-Hans|与动物交换身体
@@ -93700,7 +93703,6 @@
 17789|4|ja|転生したら剣でしたII
 17702|4|ja|転生したら第七王子だったので, 気ままに魔術を極めます
 18694|4|ja|転生したら第七王子だったので, 気ままに魔術を極めます 第2期
-19578|4|ja|転生したら規格外の幸運値
 19201|4|ja|転生した大聖女は, 聖女であることをひた隠す
 12934|4|ja|転生剣奴の子づくり闘技場[ハーレムコロッセオ]
 12934|2|ja|転生剣奴の子作り闘技場
