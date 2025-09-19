@@ -1,4 +1,4 @@
-# created: Wed Sep 17 03:00:02 2025
+# created: Thu Sep 18 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1026,7 +1026,7 @@
 19279|2|en|A Love Too Captivating
 9387|4|en|A Lull in the Sea
 18593|4|hu|A magányos farkas útja
-18422|2|en|A Mangaka`s Weirdly Wonderful Workplace
+18422|4|en|A Mangaka`s Weirdly Wonderful Workplace
 3651|2|pt-BR|A Melancolia de Haruhi Suzumiya
 6367|2|pt-BR|A Melancolia de Haruhi Suzumiya (2009)
 3651|2|pt-BR|A Melancolia de Suzumiya Haruhi
@@ -1187,7 +1187,7 @@
 15373|4|en|A Whisker Away
 15373|4|pl|A Whisker Away
 13365|4|en|A whistle
-18831|2|en|A Wild Last Boss Appeared!
+18831|4|en|A Wild Last Boss Appeared!
 15693|4|en|A Will Eternal
 16619|2|en|A Will Eternal 2
 18384|2|en|A Will Eternal 3
@@ -3636,6 +3636,7 @@
 16318|4|ja|Artiswitch
 14739|1|x-jat|Aru Apartment no Isshitsu
 17513|1|x-jat|Aru Asa Dummy Head Mike ni Natte Ita Ore-kun no Jinsei
+19583|4|x-jat|Aru Hi, Ohime-sama ni Natte Shimatta Ken ni Tsuite
 11472|1|x-jat|Aru Hi: Inu no Kuni kara Tegami ga Kite
 4207|2|x-jat|Aru Kararu no Isan
 3469|1|x-jat|Aru Machi Kado no Monogatari
@@ -9170,6 +9171,8 @@
 4579|2|en|Cleopatra, Queen of Sex
 4579|4|en|Cleopatra: Queen of Sex
 18730|4|en|Clevatess
+19581|4|en|Clevatess II
+19581|1|x-jat|Clevatess II: Majuu no Ou to Akago to Shikabane no Yuusha
 18730|1|x-jat|Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha
 3466|4|en|Clever Sarutobi
 16290|2|en|Click
@@ -18985,6 +18988,7 @@
 4265|3|x-jat|gnk
 19022|4|ja|GNOSIA
 19022|1|x-jat|Gnosia
+19022|4|en|Gnosia
 15547|3|x-jat|gnw
 8810|4|ja|GO AROUND
 8810|1|x-jat|Go Around
@@ -24136,7 +24140,7 @@
 13314|1|x-kot|Indie Anibox: Selma Danbaekjil Coffee
 18944|1|x-jat|Indoor na Chiba New Joshi no Watashi ni Sugu Karande Kuru Kinoshita Danshi ga Yatara Uzai
 7025|1|x-jat|Inemuri Buuchan
-19218|2|en|Inexpressive Kashiwada and Expressive Oota
+19218|4|en|Inexpressive Kashiwada and Expressive Oota
 7259|2|en|Infection 2: City of Sin
 7652|2|en|Infection 3: Fall of the Capital
 8970|2|en|Infection 5: The Daybreak
@@ -25093,6 +25097,7 @@
 18204|2|x-jat|Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou S2
 17557|1|x-jat|Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou
 18204|1|x-jat|Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou 2nd Season
+19580|1|x-jat|Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou 3rd Season
 12967|1|x-zht|Jie Mo Ren
 15354|1|x-zht|Jie Yao
 7260|1|x-jat|Jigazou
@@ -26036,6 +26041,8 @@
 16425|1|x-jat|Kaijin Kaihatsubu no Kuroitsu-san
 15269|4|ja|KAIJU DECODE
 15269|1|x-jat|Kaiju Decode
+19582|1|x-jat|Kaiju Decode: Aidara no Yubiwa
+19582|2|en|Kaiju Decode: The Ring of Aidara
 12021|4|en|Kaiju Girls
 12021|4|fr|Kaijû Girls
 13975|4|en|Kaiju Girls Black
@@ -30535,7 +30542,7 @@
 12933|2|en|Lessons with Chii-chan
 17425|4|en|Let Me Check the Walkthrough First
 18498|4|en|Let This Grieving Soul Retire
-19075|2|en|Let This Grieving Soul Retire (2025)
+19075|4|en|Let This Grieving Soul Retire (2025)
 11837|2|x-jat|Let You, Get You, Saru Get You
 7757|2|en|Let’s Go! Anpanman – The Amazing Naganegiman and Yakisobapanman
 1171|4|pt|Let`s & Go
@@ -30618,6 +30625,7 @@
 17858|1|x-zht|Li Lin Ke Di: Xiao Guan Ren 2
 14959|1|x-zht|Li Shi
 17772|1|x-zht|Li Shi Zhentan Shiwusuo
+19141|4|en|Li`l Miss Vampire Can`t Suck Right
 15611|2|fr|Liaisons en chassé-croisé
 174|4|fr|Liaisons immorales
 17874|1|x-zht|Lian Qi Lianle 3000 Nian
@@ -35368,6 +35376,7 @@
 3381|4|en|Moeyo Ken TV
 3381|3|x-jat|Moeyoken
 1222|2|x-jat|Moeyoken OVA
+19583|1|x-zht|Mofa Gongzhu De Xiao Fannao
 120|3|x-jat|MOFF
 574|3|x-jat|MOFF2
 2604|3|x-jat|MOFF3.5
@@ -36341,7 +36350,7 @@
 12554|4|en|My First Girlfriend Is a Gal
 15387|2|en|My Former Delinquent Stepsister is A Nursing Mother
 10322|2|en|My Friend Bernard
-16026|2|en|My Friend`s Little Sister Has It In for Me!
+16026|4|en|My Friend`s Little Sister Has It In for Me!
 18989|4|en|My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I`m Out for Revenge!
 9305|2|en|My Girlfriend and Childhood Friend Have Too Much Relationship Difficulties
 13217|4|de|My Girlfriend is a Faithful Virgin Bitch
@@ -36381,7 +36390,7 @@
 18921|2|en|My Hero Academia (2025)
 17356|4|en|My Hero Academia (Web)
 17356|4|fr|My Hero Academia (Web)
-18921|2|en|My Hero Academia Final Season
+18921|4|en|My Hero Academia Final Season
 12344|4|en|My Hero Academia OVA
 12344|4|fr|My Hero Academia OVA
 11739|2|en|My Hero Academia S1
@@ -37152,10 +37161,10 @@
 6672|2|x-jat|Natsu no Arashi! 2
 6672|1|x-jat|Natsu no Arashi! Akinai-chuu
 13190|1|x-jat|Natsu no Gero wa Fuyu no Sakana
-19556|1|x-jat|Natsu no Hako
 15099|1|x-jat|Natsu no Niwa
 7877|1|x-jat|Natsu no Yoru no Dekigoto
 14188|1|x-jat|Natsu o Yarinaosu
+19556|1|x-jat|Natsu to Hako
 8520|1|x-jat|Natsu-iro Egao de 1, 2, Jump!
 8804|1|x-jat|Natsu-iro Kiseki
 1953|1|x-jat|Natsu-iro no Sunadokei
@@ -39417,6 +39426,7 @@
 11123|4|en|One-Punch Man
 11123|2|pl|One-Punch Man
 11637|2|en|One-Punch Man OVA
+17576|2|en|One-Punch Man Season 3
 12430|2|en|One-Punch Man: Season 2
 3094|2|en|One-shot Kanta
 136|1|x-jat|One: Kagayaku Kisetsu e
@@ -44042,6 +44052,7 @@
 19142|2|en|Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!
 17557|4|en|Reborn as a Vending Machine, I Now Wander the Dungeon
 18204|4|en|Reborn as a Vending Machine, I Now Wander the Dungeon 2nd Season
+19580|2|en|Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season
 18204|2|en|Reborn as a Vending Machine, I Now Wander the Dungeon Season 2
 12934|2|en|Reborn Gladiator of The Baby-Making Colosseum
 17015|4|en|Reborn to Master the Blade: From Hero-King to Extraordinary Squire
@@ -49943,6 +49954,7 @@
 17784|1|x-jat|Spy x Family (2023)
 17784|4|en|Spy x Family (2023)
 18677|1|x-jat|Spy x Family (2025)
+18677|4|en|Spy x Family (2025)
 17784|2|x-jat|Spy x Family 2nd Season
 17785|4|en|Spy x Family Code: White
 17785|4|pl|Spy x Family Code: White
@@ -51524,7 +51536,7 @@
 6496|1|x-jat|Tales of Vesperia: The First Strike
 6496|4|en|Tales of Vesperia: The First Strike
 17826|4|en|Tales of Wedding Rings
-18559|2|en|Tales of Wedding Rings II
+18559|4|en|Tales of Wedding Rings Season 2
 1220|2|en|Tales of Windaria
 3993|4|en|Tales of Yajikita College
 11273|1|x-jat|Tales of Zestiria the Cross
@@ -52907,6 +52919,7 @@
 17078|4|en|The Faraway Paladin: The Lord of Rust Mountains
 2793|2|en|The Fashion Boy is Cool
 14560|2|en|The Fate of Arad
+19583|4|en|The Fated Magical Princess: Who Made Me a Princess
 11710|2|en|The Fight Between the Snipe and the Clam
 10442|4|es|The File of Young Kindaichi Returns
 16362|1|x-jat|The Fire G-Men
@@ -55345,7 +55358,7 @@
 12790|3|x-jat|tourabu s2
 12027|3|x-jat|tourabu: katsugeki
 13479|3|x-jat|tourabu: katsugeki movie
-19176|2|en|Touring After the Apocalypse
+19176|4|en|Touring After the Apocalypse
 9116|2|en|Tourism War Saitama: Evening Battle
 1420|4|en|Tournament of the Gods: Title Match
 12632|1|x-jat|Tousan no Tsukutta Uta
@@ -59267,7 +59280,7 @@
 16335|1|x-jat|Yankee Hamster Season 2
 5814|1|x-jat|Yankee Reppuu Tai
 18971|1|x-jat|Yano-kun no Futsuu no Hibi
-18971|2|en|Yano-kun`s Ordinary Days
+18971|4|en|Yano-kun`s Ordinary Days
 7616|2|x-jat|YANS! GANS!
 15436|1|x-zht|Yao Jing Zhong Zhi Shou Ce
 13191|1|x-zht|Yao Shen Ji
@@ -63349,6 +63362,7 @@
 2329|4|ru|Лили в клубничном мире
 3414|2|ru|Лимонад
 3414|2|uk|Лимонад
+11892|2|ru|Лимонные девочки
 2430|2|ru|Лиричная волшебница Наноха
 8270|2|uk|Лист до Момо
 5549|2|uk|Листи від померлих
@@ -70729,6 +70743,7 @@
 784|2|ko|양의 노래
 13636|4|ko|어그레시브 레츠코
 14531|4|ko|어그레시브 레츠코: 메리 메탈 크리스마스
+19583|4|ko|어느 날 공주가 되어버렸다
 17675|4|ko|어느 날 잠에서 깨어보니 베이글녀가 되어 있었다
 9285|4|ko|어느 좀비 소녀의 재난
 4253|2|ko|어두운 미래
@@ -72687,6 +72702,7 @@
 10202|4|ja|アルモニ
 519|3|ja|アル戦
 11472|4|ja|ある日 犬の国から手紙が来て
+19583|4|ja|ある日, お姫様になってしまった件について
 16051|4|ja|ある日本の絵描き少年
 17513|4|ja|ある朝ダミーヘッドマイクになっていた俺クンの人生
 3469|4|ja|ある街角の物語
@@ -74498,6 +74514,7 @@
 14324|4|ja|グレゴリオ
 2326|4|ja|グレネーダー ~ほほえみの閃士~
 18730|4|ja|クレバテス-魔獣の王と赤子と屍の勇者-
+19581|4|ja|クレバテスII-魔獣の王と偽りの勇者伝承-
 6082|2|ja|グレパラ
 306|3|ja|くれぶた
 9382|4|ja|クレムリン
@@ -75691,7 +75708,6 @@
 16947|2|ja|スパイファミリー
 17061|2|ja|スパイファミリー (2022)
 17784|2|ja|スパイファミリー (2023)
-18677|2|ja|スパイファミリー (Shin Anime)
 245|4|ja|スパイラル -推理の絆-
 5804|4|ja|スパイラル・オーヴァ
 6822|4|ja|スパイ撃滅
@@ -86365,6 +86381,7 @@
 19471|4|ja|怪獣8号 第1期総集編
 17369|4|ja|怪獣がやってくる
 15269|2|ja|怪獣デコード
+19582|4|ja|怪獣デコード アイダラの指輪
 12971|4|ja|怪獣のバラード
 12021|4|ja|怪獣娘[かいじゅうがーるず] ~ウルトラ怪獣擬人化計画~
 13401|4|ja|怪獣娘[かいじゅうがーるず] ~ウルトラ怪獣擬人化計画~ (2018)
@@ -92490,6 +92507,7 @@
 807|2|zh|自动机器人・铁臂阿童木
 17557|4|ja|自動販売機に生まれ変わった俺は迷宮を彷徨う
 18204|4|ja|自動販売機に生まれ変わった俺は迷宮を彷徨う2nd season
+19580|4|ja|自動販売機に生まれ変わった俺は迷宮を彷徨う3rd season
 14866|4|zh-Hans|自古英雄出少年
 12698|4|ja|自宅警備員
 14725|4|ja|自宅警備員 (2019)
@@ -94566,6 +94584,7 @@
 18020|2|ja|闇芝居 十一期
 18754|2|ja|闇芝居 十三期
 18402|2|ja|闇芝居 十二期
+19426|2|ja|闇芝居 十五期
 19086|2|ja|闇芝居 十四期
 17057|2|ja|闇芝居 十期
 12575|2|ja|闇芝居 四期
@@ -95587,6 +95606,7 @@
 7|4|zh-Hans|魔法公主
 4011|4|zh-Hans|魔法公主 明琪桃子 第二季
 4012|4|zh-Hans|魔法公主明琪桃子 梦中的轮舞
+19583|4|zh-Hans|魔法公主的小烦恼
 18750|4|zh-Hans|魔法制造者 ~异世界魔法的制作方法~
 1063|4|zh-Hans|魔法咪路咪路
 5656|2|zh-Hans|魔法学园MA
