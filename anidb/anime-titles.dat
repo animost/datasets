@@ -1,4 +1,4 @@
-# created: Thu Sep 18 03:00:02 2025
+# created: Fri Sep 19 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -10460,6 +10460,8 @@
 18290|4|it|DAN DA DAN
 19060|4|en|Dan Da Dan (2025)
 19060|1|x-jat|Dan Da Dan (2025)
+19584|1|x-jat|Dan Da Dan 3
+19584|2|en|Dan Da Dan 3
 19060|2|en|Dan Da Dan Season 2
 18920|1|x-zht|Dan Dao Zhizun
 18042|1|x-zht|Dan Dao Zongshi
@@ -27729,6 +27731,7 @@
 12037|4|en|Kinmoza! Pretty Days
 15450|4|en|Kinmoza! The Movie: Thank You!!
 1339|2|x-jat|Kinniku Banzuke Kongou-kun no Daibouken!
+19585|1|x-jat|Kinniku Banzuke: Gold Muscle
 1339|1|x-jat|Kinniku Banzuke: Kongou-kun no Daibouken
 1930|1|x-jat|Kinnikuman
 2133|1|x-jat|Kinnikuman (1984)
@@ -49961,6 +49964,7 @@
 17785|4|es|Spy x Family Código: Blanco
 17785|4|es-419|SPY x FAMILY CÓDIGO: Blanco
 17785|4|pt-BR|SPY x FAMILY CÓDIGO: Branco
+17061|2|en|Spy x Family Part 2
 17784|2|x-jat|Spy x Family Season 2
 18677|2|en|Spy x Family Season 3
 18677|4|de|SPY x FAMILY Staffel 3
@@ -76220,6 +76224,7 @@
 8143|4|ja|たんすわらし.
 18290|4|ja|ダンダダン
 19060|4|ja|ダンダダン (2025)
+19584|4|ja|ダンダダン 3
 7939|4|ja|ダンタリアンの書架
 8944|4|ja|ダンタリアンの書架 荊姫
 11081|4|ja|だんちがい
@@ -91767,6 +91772,7 @@
 2305|4|zh-Hans|筋肉人 愉快的身影！正义超人
 2285|4|zh-Hans|筋肉人 正义超人vs古代超人
 17913|2|zh-Hant|筋肉人：完美超人始祖篇
+19585|4|ja|筋肉番付 ゴールドマッスル
 1339|4|ja|筋肉番付 金剛くんの大冒険!
 11741|4|ja|筑紫の磐井
 6332|4|zh-Hans|简单易懂的现代魔法
