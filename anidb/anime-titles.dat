@@ -1,4 +1,4 @@
-# created: Fri Sep 19 03:00:01 2025
+# created: Sat Sep 20 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -206,9 +206,11 @@
 17754|1|x-jat|#Compass 2.0: Sentou Setsuri Kaiseki System
 17754|2|zh-Hans|#COMPASS2.0 战斗天赋解析系统
 17297|1|x-jat|#Ima Made de Ichiban Yokatta Sex The Animation
+19586|1|x-jat|#Zombie Sagashitemasu
 15798|4|ja|#コンパス
 17754|4|ja|#コンパス2.0 戦闘摂理解析システム
 17229|4|ja|#セカイが滅びる前にキミに会いたい
+19586|4|ja|#ゾンビさがしてます
 17297|4|ja|＃今までで一番良かったセックス THE ANIMATION
 17754|4|zh-Hant|#空帕斯2.0
 17754|4|zh-Hans|#空帕斯2.0 战斗天赋解析系统
