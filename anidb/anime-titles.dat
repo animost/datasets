@@ -1,4 +1,4 @@
-# created: Sat Sep 20 03:00:02 2025
+# created: Sun Sep 21 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8888,6 +8888,7 @@
 19529|1|x-kot|Chuldong! Super Wings 2
 19550|1|x-kot|Chuldong! Super Wings 3
 19558|1|x-kot|Chuldong! Super Wings 4
+19591|1|x-kot|Chuldong! Super Wings 5
 2515|2|lt|Chuliganas - Septynių Šventųjų Vibratorių Paieška
 16431|1|x-zht|Chun Qiu Feng Shen
 942|3|x-jat|CHun1
@@ -20459,6 +20460,8 @@
 10981|4|en|Haikyu!! 2nd Season
 10981|4|de|Haikyu!! 2nd Season
 12982|4|en|Haikyu!! 3rd Season Movies
+11040|4|en|Haikyu!! Compilation Movies
+12982|2|en|Haikyu!! Compilation Movies (2017)
 17570|2|en|Haikyu!! Final
 11991|4|en|Haikyu!! Karasuno High School vs Shiratorizawa Academy
 13332|4|en|Haikyu!! Karasuno High School vs Shiratorizawa Academy: Special Feature! The Spring Tournament of Their Youth
@@ -20591,6 +20594,7 @@
 16503|1|x-jat|Hakozume: Kouban Joshi no Gyakushuu
 12884|1|x-jat|Hakubo
 12884|4|en|Hakubo
+12884|4|es-419|Hakubo
 11707|1|x-jat|Hakubutsushi
 2226|2|x-jat|Hakucho no Ohji
 3660|4|en|Hakugei - Legend of the Moby Dick
@@ -20835,6 +20839,7 @@
 11908|4|en|Handa-kun
 1874|4|ja|Handle with Care..
 1874|1|x-jat|Handle with Care..
+19196|4|en|Hands off: Sawaranaide Kotesashi-kun!
 1388|2|en|Handsome Girl
 1388|2|en|Handsome Girlfriend
 13447|2|en|Handsome Grils
@@ -25573,6 +25578,7 @@
 11983|4|es-419|Juego de "La Garra" para niñas
 1205|2|es|Juego de Enfermeras
 1434|4|es|Juegos calientes
+19592|1|x-zht|Jueshi Shen Huang
 18071|2|x-zht|Jueshi Tangmen
 16612|1|x-zht|Jueshi Wu Hun
 16612|2|x-zht|Jueshi Wuhun
@@ -26453,6 +26459,7 @@
 15743|1|x-jat|Kanojo, Okarishimasu (2022)
 17629|1|x-jat|Kanojo, Okarishimasu (2023)
 18753|1|x-jat|Kanojo, Okarishimasu (2025)
+19587|1|x-jat|Kanojo, Okarishimasu (2026)
 17629|2|x-jat|Kanojo, Okarishimasu Season 3
 18753|2|x-jat|Kanojo, Okarishimasu Season 4
 461|3|x-jat|kanojoneko
@@ -40840,6 +40847,7 @@
 10074|1|x-jat|Peeping Life: YouTuber-kun
 7731|4|ja|Peeping Life劇場オリジナル版
 18604|2|en|Peerless Battle Spirit
+19592|2|en|Peerless Divine Emperor
 16612|2|en|Peerless Martial Spirit
 7804|2|en|Pekkle in Drakestail
 7811|2|en|Pekkle in The Ugly Duckling
@@ -44315,6 +44323,7 @@
 15743|4|en|Rent-a-Girlfriend (2022)
 17629|4|en|Rent-a-Girlfriend (2023)
 18753|4|en|Rent-a-Girlfriend (2025)
+19587|2|en|Rent-a-Girlfriend (2026)
 15743|2|en|Rent-A-Girlfriend Season 2
 17629|2|en|Rent-A-Girlfriend Season 3
 18753|2|en|Rent-A-Girlfriend Season 4
@@ -51175,6 +51184,7 @@
 18075|1|x-jat|Sylvanian Families: Freya no Go for Dream!
 17610|1|x-jat|Sylvanian Families: Freya no Happy Diary
 18882|1|x-jat|Sylvanian Families: Freya no Piece of Secret
+19590|1|x-jat|Sylvanian Families: Freya no Wonder Days
 17020|4|de|Sylvanian Families: Mini Episodes - Peony
 13423|1|x-jat|Sylvanian Families: Mini Story
 15112|1|x-jat|Sylvanian Families: Mini Story - Clover
@@ -52747,6 +52757,7 @@
 11140|2|ko|THE DEAREST
 11140|2|en|The Dearest
 8301|2|en|The death lullaby
+19592|2|en|The Death-Defying Divine Emperor
 14167|4|en|The Deer King
 14167|4|it|The Deer King - Il re dei cervi
 15700|4|en|The Deer`s Bell
@@ -52831,6 +52842,7 @@
 14797|4|pl|The Disastrous Life of Saiki K.: Reawakened
 14797|4|cs|The Disastrous Life of Saiki K.: Reawakened
 14797|4|my|The Disastrous Life of Saiki K.: Reawakened
+19593|4|en|The Divine Emperor of Destiny
 18013|4|en|The Do-Over Damsel Conquers the Dragon Emperor
 17844|4|en|The Dog & the Boy
 1646|4|en|The Dog of Flanders
@@ -54398,6 +54410,8 @@
 19319|2|en|Throne of Seal Movie: The Legend of Electrolux
 19319|2|en|Throne of Seal The Movie: The Crownless God
 19319|2|en|Throne of Seal: The Crownless God
+19589|2|en|Throne of Ten Thousand Swords
+19589|2|en|Throne of the Sword Master
 14668|4|ja|Through the Windows
 14668|1|x-jat|Through the Windows
 102|4|vi|Thủ lĩnh thẻ bài
@@ -54460,6 +54474,7 @@
 16312|2|x-zht|Tianbao Fu Yao Lu (2021)
 19316|1|x-zht|Tiandu Yilu
 19128|1|x-zht|Tianming Da Zhuzai
+19593|1|x-zht|Tianming Dashen Huang
 15844|1|x-zht|Tiantian Chengzhang Ji
 15845|1|x-zht|Tiantian Chengzhang Ji 2
 19404|1|x-zht|Tiantian Chengzhang Ji 3
@@ -56304,6 +56319,7 @@
 515|2|lt|Ugninis Labirintas
 3095|4|it|Ugo il Re del Judo
 4992|1|x-jat|Ugokie Kori no Tatehiki
+19588|1|x-jat|Ugoku! Neko Mukashibanashi
 15916|1|x-jat|Ugoku! Nya Shogi
 9156|1|x-jat|Uhou Renka
 18800|1|x-jat|Uji ni wa Monogatari ga Aru
@@ -57717,6 +57733,7 @@
 15821|1|x-zht|Wan Gu Xian Qiong IV: Yin Yue Cheng Pian
 14871|2|x-zht|Wan Gu Xian Qiong: Eren Gu Pian
 15723|1|x-zht|Wan Guo Zhi
+19589|1|x-zht|Wan Jian Wangzuo
 15521|1|x-zht|Wan Jie Chun Qiu
 15521|2|x-zht|Wan Jie Chunqiu
 16396|1|x-zht|Wan Jie Du Zun
@@ -71606,6 +71623,7 @@
 19529|4|ko|출동! 슈퍼윙스2
 19550|4|ko|출동! 슈퍼윙스3
 19558|4|ko|출동! 슈퍼윙스4
+19591|4|ko|출동! 슈퍼윙스5
 3433|4|ko|충사
 9556|2|ko|취성의 가르간티아
 10549|2|ko|취성의 가르간티아: 순환하는 항로, 저 멀리
@@ -73009,6 +73027,7 @@
 9019|4|ja|ウエルベールの物語 哀しみの戦士ガラハドの挽歌
 12220|2|ja|ウォーキング・ミート
 3384|4|ja|ウォナビーズ
+19588|4|ja|うごく! ねこむかしばなし
 15916|4|ja|うごく！ニャー将棋
 11865|4|ja|うさかめ
 17457|4|ja|うさぎ (2022)
@@ -75469,6 +75488,7 @@
 18075|4|ja|シルバニアファミリー フレアのゴー・フォー・ドリーム!
 17610|4|ja|シルバニアファミリー フレアのハッピーダイアリー
 18882|4|ja|シルバニアファミリー フレアのピース・オブ・シークレット
+19590|4|ja|シルバニアファミリー フレアのワンダーデイズ
 13423|4|ja|シルバニアファミリー ミニストーリー
 14451|4|ja|シルバニアファミリー ミニストーリー Season 2
 14451|2|ja|シルバニアファミリー ミニストーリー アイビー
@@ -80586,6 +80606,7 @@
 11210|4|zh-Hant|七龍珠超
 13657|4|zh-Hant|七龍珠超 布羅利
 17140|4|zh-Hans|万事屋斋藤，到异世界
+19589|4|zh-Hans|万剑王座
 17763|4|zh-Hans|万千北方
 13732|4|zh-Hans|万古仙穹
 13922|4|zh-Hans|万古仙穹 II
@@ -84371,6 +84392,7 @@
 14858|4|zh-Hans|天华百剑 ～欢迎来到铭治馆！～
 16757|4|zh-Hans|天启日
 19128|4|zh-Hans|天命大主宰
+19593|4|zh-Hans|天命大神皇
 17671|4|ja|天国大魔境
 17671|4|zh-Hans|天国大魔境
 6329|2|zh-Hans|天国少女
@@ -86148,6 +86170,7 @@
 15743|4|ja|彼女, お借りします (2022)
 17629|4|ja|彼女, お借りします (2023)
 18753|4|ja|彼女, お借りします (2025)
+19587|4|ja|彼女, お借りします (2026)
 7136|4|ja|彼女×彼女×彼女~三姉妹とのドキドキ共同生活~
 19456|4|ja|彼女がセパレートをまとう理由
 11162|4|ja|彼女がネコミミに着替えたら
@@ -92123,6 +92146,7 @@
 18071|2|zh-Hans|绝世唐门
 18604|4|zh-Hans|绝世战魂
 16612|4|zh-Hans|绝世武魂
+19592|4|zh-Hans|绝世神皇
 17669|4|zh-Hans|绝代双骄
 19125|2|zh-Hans|绝代双骄 天外有天
 19125|4|zh-Hans|绝代双骄之天外有天
