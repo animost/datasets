@@ -1,4 +1,4 @@
-# created: Sun Sep 21 03:00:01 2025
+# created: Mon Sep 22 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4777,6 +4777,7 @@
 17593|2|en|Balala the Fairies: Magic Star Fate Castle
 12565|2|en|Balala the Fairies: Miracle Dance
 14638|4|en|Balala the Fairies: Ocean Magic
+19595|4|en|Balala the Fairies: Ocean Magic Season 2
 13702|2|en|Balala The Fairies: Over The Rainbow 2
 11796|2|en|Balala the Fairies: Rainbow Heart Stone
 13701|2|en|Balala the Faries: Over the Rainbow
@@ -4792,6 +4793,7 @@
 13702|1|x-zht|Balala Xiaomoxian: Feiyue Cai Ling Bao 2 Choi Li Gongzhu
 11833|1|x-zht|Balala Xiaomoxian: Menghuan Xuanlu
 14638|1|x-zht|Balala Xiaomoxian: Mofa Hai Ying Bao
+19595|1|x-zht|Balala Xiaomoxian: Mofa Hai Ying Bao 2
 17593|1|x-zht|Balala Xiaomoxian: Mofa Xing Yuan Bao
 12565|1|x-zht|Balala Xiaomoxian: Qiji Wubu
 19576|1|x-zht|Balala Xiaomoxian: Xing Yuan Die Qi 1
@@ -8210,6 +8212,7 @@
 15914|1|x-jat|Chainsaw Man
 15914|4|en|Chainsaw Man
 15914|4|pl|Chainsaw Man
+19560|2|en|Chainsaw Man Compilation Movies
 19560|1|x-jat|Chainsaw Man Soushuuhen
 18324|2|en|Chainsaw Man the Movie: Reze Arc
 19560|4|en|Chainsaw Man: The Compilation
@@ -15245,6 +15248,7 @@
 19158|2|en|Even a Replica Falls in Love
 18712|4|en|Even Given the Worthless "Appraiser" Class, I`m Actually the Strongest
 4889|2|en|Even if you become the enemy of the world
+19594|2|en|Even Reincarnated, Hanaori`s Still Spoiling for a Fight
 7056|2|en|Evergreen Literature
 8783|2|en|Everlasting Bond
 16957|4|en|Everlasting God Of Sword
@@ -17844,6 +17848,7 @@
 666|2|en|Gekiganger 3
 666|1|x-jat|Gekiganger 3: Nekketsu Daikessen!!
 15922|1|x-jat|Gekijou Henshuuban Kakushigoto: Himegoto wa Nandesuka
+19596|1|x-jat|Gekijou Henshuuban Summer Pockets
 8311|1|x-jat|Gekijou Remix Ban Appleseed XIII
 18039|1|x-jat|Gekijou Soushuuhen Bocchi the Rock!
 12567|1|x-jat|Gekijou Soushuuhen Code Geass: Hangyaku no Lelouch
@@ -20785,6 +20790,8 @@
 18058|1|x-jat|Hananoi-kun to Koi no Yamai
 18058|3|x-jat|hananoikun
 6988|1|x-jat|Hanaori
+19594|1|x-jat|Hanaori-san wa Tensei Shite mo Kenka ga Shitai
+19594|2|en|Hanaori-san Wants to Have a Fight Even if She Reincarnates
 2109|4|en|Hanappe Bazooka
 2109|1|x-jat|Hanappe Bazooka
 3974|1|x-jat|Hanare Toride no Yonna
@@ -21827,6 +21834,7 @@
 7412|1|x-jat|Heroman
 7412|4|ja|HEROMAN
 7412|4|zh-Hans|HEROMAN
+13992|4|fr|Héros modestes
 909|4|nl|Het kleine stoomjongentje
 11008|4|nl|Het Labyrint van Grisaia
 11009|4|nl|Het Paradijs van Grisaia
@@ -25085,6 +25093,9 @@
 13235|1|x-zht|Jianzhen Da he shang
 15219|1|x-zht|Jiao Jiao Yu Jing Jing
 11978|1|x-zht|Jiaoao de Jiangjun
+19597|1|x-zht|Jiaonang Jihua
+19598|1|x-zht|Jiaonang Jihua 2
+19599|1|x-zht|Jiaonang Jihua: Yingxiong
 15655|1|x-kot|Jib
 19311|1|x-kot|Jib-i eobs-eo
 14757|1|x-jat|Jibaku Shounen Hanako-kun
@@ -25597,6 +25608,7 @@
 16169|4|pt-BR|Jujutsu Kaisen 0: O Filme
 16169|4|pl|Jujutsu Kaisen 0: The Movie
 17196|2|x-jat|Jujutsu Kaisen 2
+18835|2|en|Jujutsu Kaisen Compilation Movie
 17196|2|x-jat|Jujutsu Kaisen S2
 17196|2|x-jat|Jujutsu Kaisen Season 2
 18835|2|x-jat|Jujutsu Kaisen: Ball/Break
@@ -82754,6 +82766,7 @@
 12567|4|ja|劇場総集編 コードギアス 反逆のルルーシュ
 18726|4|ja|劇場総集編 幻日のヨハネ -SUNSHINE in the MIRROR-
 18039|4|ja|劇場総集編ぼっち・ざ・ろっく!
+19596|4|ja|劇場編集版 Summer Pockets
 15922|4|ja|劇場編集版 かくしごと -ひめごとはなんですか-
 9201|2|ja|劇画漂流
 6598|4|ja|力と女の世の中
@@ -85830,12 +85843,14 @@
 11544|4|zh-Hant|巴哈姆特之怒-Manaria Friends-
 12565|4|zh-Hant|巴啦啦小魔仙之奇迹舞步
 11796|4|zh-Hant|巴啦啦小魔仙之彩虹心石
-19576|4|zh-Hans|巴啦啦小魔仙之星緣蝶啓1
+19576|4|zh-Hant|巴啦啦小魔仙之星緣蝶啓1
+19576|4|zh-Hans|巴啦啦小魔仙之星缘蝶启1
 11833|4|zh-Hans|巴啦啦小魔仙之梦幻旋律
 13701|4|zh-Hant|巴啦啦小魔仙之飞越彩灵堡 第一季精灵俐俐
 13702|4|zh-Hant|巴啦啦小魔仙之飞越彩灵堡 第二季彩俐公主
 17593|4|zh-Hans|巴啦啦小魔仙之魔法星缘堡
 14638|4|zh-Hans|巴啦啦小魔仙之魔法海萤堡
+19595|4|zh-Hans|巴啦啦小魔仙之魔法海萤堡 第二季
 11796|4|ja|巴拉拉小魔仙
 941|4|zh-Hans|巴欧来访者
 13948|4|zh-Hans|巴比伦
@@ -91275,6 +91290,7 @@
 18781|2|zh-Hans|破烂千金被姐姐的原婚约者溺爱着
 18781|2|zh-Hans|破爛千金被姊姊的原婚約者溺愛著
 18483|4|ja|破産富豪
+18483|2|ja|破産富豪 The Richest Man in GAME
 1562|4|ja|破裏拳ポリマー
 919|2|ja|破邪大星ダンガイオー
 919|4|ja|破邪大星弾劾凰
@@ -92505,6 +92521,9 @@
 6479|2|zh-Hans|胡子小鸡
 14569|4|ja|胡蝶綺 ~若き信長~
 17901|4|zh-Hans|胡言乱语的世界情节剧
+19597|4|zh-Hans|胶囊计划
+19598|4|zh-Hans|胶囊计划 第二季
+19599|4|zh-Hans|胶囊计划 英雄
 1986|4|ja|胸キュン! はぁとふるCafe
 1986|2|ja|胸キュンはぁとふるCafe
 17423|4|zh-Hans|能干的猫今天也忧郁
@@ -92681,6 +92700,7 @@
 5718|4|ja|花粉少女注意報! ~THE ANIMATION~
 18597|4|ja|花緑青が明ける日に
 8498|4|ja|花編
+19594|4|ja|花織さんは転生しても喧嘩がしたい
 10351|4|zh-Hans|花舞少女
 10351|4|zh-Hant|花舞少女
 11869|4|zh-Hans|花辫儿的小神明
