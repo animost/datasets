@@ -1,4 +1,4 @@
-# created: Mon Sep 22 03:00:02 2025
+# created: Tue Sep 23 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -7734,6 +7734,13 @@
 7583|4|it|Capricciosa Orange Road OAV - Sono un pesce, sono un gatto
 7587|4|it|Capricciosa Orange Road OAV - Una situazione davvero imprevedibile
 1588|1|x-jat|Capricorn
+19597|4|en|CAPSULES
+19598|4|en|CAPSULES 2
+19597|2|en|Capsules Project
+19598|2|en|Capsules Project 2
+19598|2|en|Capsules Project Season 2
+19599|2|en|Capsules Project: Hero
+19599|4|en|CAPSULES: Hero
 7165|1|x-jat|Captain
 7085|1|x-jat|Captain (1983)
 14181|1|x-jat|Captain Bal: Bal Kaizokudan! / Isogashi Sugiru Fune
@@ -19507,8 +19514,11 @@
 13734|1|x-jat|Grand Blue
 13734|4|en|Grand Blue Dreaming
 18892|4|en|Grand Blue Dreaming Season 2
+19600|2|en|Grand Blue Dreaming Season 3
 18892|2|x-jat|Grand Blue S2
+19600|2|x-jat|Grand Blue S3
 18892|1|x-jat|Grand Blue Season 2
+19600|1|x-jat|Grand Blue Season 3
 15483|4|en|Grand Blues!
 14975|2|fr|Grand frère, reste jusqu’au petit matin !
 1681|4|hu|Grand Prix
@@ -24900,7 +24910,7 @@
 1233|1|x-jat|JaJa Uma! Quartet
 1233|4|fi|JaJaUma! Quartette
 1233|4|ja|Jaja馬!カルテット
-9298|2|pl|Jak Zostałam Bóstwem
+9298|4|pl|Jak zostałam bóstwem!?
 2295|2|de|Jakobus Nimmersatt
 15144|1|x-jat|Jaku Chara Tomozaki-kun
 17134|1|x-jat|Jaku Chara Tomozaki-kun 2nd Stage
@@ -25095,6 +25105,7 @@
 11978|1|x-zht|Jiaoao de Jiangjun
 19597|1|x-zht|Jiaonang Jihua
 19598|1|x-zht|Jiaonang Jihua 2
+19598|2|x-zht|Jiaonang Jihua Di Er Ji
 19599|1|x-zht|Jiaonang Jihua: Yingxiong
 15655|1|x-kot|Jib
 19311|1|x-kot|Jib-i eobs-eo
@@ -33919,6 +33930,7 @@
 4694|1|x-jat|Medarot Damashii
 4614|4|en|Medical Humiliation
 8069|2|x-jat|Meduka Meguca
+17938|4|pl|Meduzy nie pływają same
 7940|3|x-jat|meeramera
 1906|4|fr|Meg
 1906|2|fr|Meg la petite sorcière
@@ -46473,6 +46485,7 @@
 18904|2|en|Scissor Seven: Fragments of Memory
 1099|2|x-jat|SCK
 18782|4|en|Scooped Up by an S-Rank Adventurer!
+18782|2|en|Scooped Up by an S-Ranked Adventurer
 5065|1|x-jat|Scoopers
 5065|4|en|Scoopers
 5065|4|pt|Scoopers - A Super Dupla
@@ -47709,6 +47722,7 @@
 6227|1|x-jat|Shikabane Hime: Kuro
 6227|3|en|Shikabane2
 18534|3|en|Shikanoko
+18534|4|pl|Shikanoko i dziwne zdarzenia w klubie jelenia
 18534|1|x-jat|Shikanoko Nokonoko Koshitantan
 16070|1|x-jat|Shikaru Neko
 7629|1|x-jat|Shikatte Ingo: Misaki Shunin no Buka Kyouiku Hen
@@ -56806,6 +56820,7 @@
 377|2|x-jat|Urusei Yatsura TV
 383|1|x-jat|Urusei Yatsura: Itsudatte My Darling
 382|1|x-jat|Urusei Yatsura: Kanketsuhen
+17096|4|pl|Urusei Yatsura: Kosmiczni natręci
 378|1|x-jat|Urusei Yatsura: Only You
 7322|2|en|Urusei Yatsura: The Obstacle Course Swim Meet
 7322|1|x-jat|Urusei Yatsura: The Shougaibutsu Suieitaikai
@@ -57914,6 +57929,7 @@
 18749|1|x-jat|Wataridori to Katatsumuri
 3636|3|x-jat|wataru
 19001|1|x-jat|Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (*Muri ja Nakatta!?)
+19601|1|x-jat|Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (*Muri ja Nakatta!?): Next Shine!
 9582|1|x-jat|Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!
 10064|1|x-jat|Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!: Motenai shi, Nazo Meite Miru
 11979|1|x-jat|Watashi ga Motete Dou Sunda
@@ -74491,6 +74507,7 @@
 2232|4|ja|グランダー武蔵RV
 13734|4|ja|ぐらんぶる
 18892|4|ja|ぐらんぶる Season 2
+19600|4|ja|ぐらんぶる Season 3
 11597|2|ja|グランブルーファンタジー
 13524|2|ja|グランブルーファンタジー The Animation Season 2
 14717|4|ja|グランベルム
@@ -80399,6 +80416,7 @@
 10131|4|ja|わすれるもんか!
 13692|4|ja|わたくしたちの法然さま
 19001|4|ja|わたしが恋人になれるわけないじゃん, ムリムリ! (※ムリじゃなかった!?)
+19601|4|ja|わたしが恋人になれるわけないじゃん, ムリムリ! (※ムリじゃなかった!?) ~ネクストシャイン!~
 13594|4|ja|わたしたちが伝えたい,大切なこと
 3325|4|ja|わたしとわたし -ふたりのロッテ-
 14156|5|ja|わたしにてんしがまいおりた!
