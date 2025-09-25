@@ -1,4 +1,4 @@
-# created: Tue Sep 23 03:00:02 2025
+# created: Wed Sep 24 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -643,8 +643,10 @@
 16934|4|ja|3秒後, 野獣. ~合コンで隅にいた彼は淫らな肉食でした
 18236|4|en|4 Cut Hero
 11217|1|x-jat|4 Eyes
+19603|4|en|4 Week Lovers
 7243|2|en|4-1/2 Tatami Mythological Chronicles
 2758|1|x-jat|4-Day Weekend
+19603|1|x-kot|4-ju Aein
 11217|2|ja|4・Eyes
 7243|2|en|4.5 Tatami Mythological Chronicles
 11217|2|x-jat|4.eyes
@@ -11054,6 +11056,8 @@
 10905|4|en|Death Parade
 10905|4|it|Death Parade
 18428|2|en|Death Rewind PlayBack
+19604|4|ja|DEATH STRANDING MOSQUITO
+19604|1|x-jat|Death Stranding Mosquito
 18991|3|x-jat|deathma2
 15848|3|x-jat|deatle
 15848|1|x-jat|Deatte 5 Byou de Battle
@@ -11258,15 +11262,20 @@
 18699|4|en|Demon Slayer: Infinity Castle
 14107|2|en|Demon Slayer: Kimetsu no Yaiba
 14107|4|fr|Demon Slayer: Kimetsu no Yaiba
+17198|4|pt-BR|Demon Slayer: Kimetsu no Yaiba - Arco da Vila dos Ferreiros
 16054|4|es-419|Demon Slayer: Kimetsu no Yaiba - Arco del Distrito Rojo
 16803|4|es-419|Demon Slayer: Kimetsu no Yaiba - Arco del Tren Infinito
 16803|4|pt|Demon Slayer: Kimetsu no Yaiba - Arco do Comboio Infinito
 16054|4|pt|Demon Slayer: Kimetsu no Yaiba - Arco do Distrito do Entretenimento
+16054|4|pt-BR|Demon Slayer: Kimetsu no Yaiba - Arco do Distrito do Entretenimento
+18067|4|pt-BR|Demon Slayer: Kimetsu no Yaiba - Arco do Treinamento Hashira
+16803|4|pt-BR|Demon Slayer: Kimetsu no Yaiba - Arco do Trem Infinito
 17069|4|en|Demon Slayer: Kimetsu no Yaiba - Asakusa Arc
 18699|4|pt|Demon Slayer: Kimetsu no Yaiba - Castelo Infinito
 16054|4|fr|Demon Slayer: Kimetsu no Yaiba - Le quartier des plaisirs
 16803|4|fr|Demon Slayer: Kimetsu no Yaiba - Le train de l`infini
 17198|4|fr|Demon Slayer: Kimetsu no Yaiba - Le village des forgerons
+18529|4|pt-BR|Demon Slayer: Kimetsu no Yaiba - Para a Vila dos Ferreiros
 17198|4|pt|Demon Slayer: Kimetsu no Yaiba - Saga da Aldeia dos Ferreiros
 18067|4|pt|Demon Slayer: Kimetsu no Yaiba - Saga do Treino dos Pilares
 17070|4|en|Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc
@@ -14025,6 +14034,7 @@
 15743|4|pl|Dziewczyna do wynajęcia Sezon 2
 17629|4|pl|Dziewczyna do wynajęcia Sezon 3
 18753|4|pl|Dziewczyna do wynajęcia Sezon 4
+19587|4|pl|Dziewczyna do wynajęcia Sezon 5
 7136|2|pl|Dziewczyna x Dziewczyna x Dziewczyna x - Podniecające życie z trzema siostrami
 16091|2|pl|Dziewczynka w Krainie Przeklętych
 16031|2|pl|Dziewicza podróż egzekutorki
@@ -14304,6 +14314,7 @@
 2764|1|x-jat|Eiga Futari wa Precure Max Heart
 3566|1|x-jat|Eiga Futari wa Precure Max Heart 2: Yukizora no Tomodachi
 4844|1|x-jat|Eiga Futari wa Precure Splash Star: Tick Tack Kiki Ippatsu!
+19608|1|x-jat|Eiga Girls Band Cry
 15102|1|x-jat|Eiga Given
 17929|1|x-jat|Eiga Given (2024)
 17929|2|x-jat|Eiga Given 2
@@ -18078,6 +18089,7 @@
 349|1|x-jat|Gekijouban Slayers
 4388|3|x-jat|Gekijouban SnS
 8271|2|x-jat|Gekijouban Sora no Otoshimono: Tokeijikake no Angeloid
+19607|1|x-jat|Gekijouban Soushuuhen Girls Band Cry
 12982|1|x-jat|Gekijouban Soushuuhen Haikyuu!!
 18835|1|x-jat|Gekijouban Soushuuhen Jujutsu Kaisen: Kaigyoku / Gyokusetsu
 13941|1|x-jat|Gekijouban Soushuuhen Made in Abyss
@@ -23677,6 +23689,7 @@
 16010|4|en|Idolish 7: Third Beat! (2022)
 12339|1|x-jat|Idolish Seven
 14202|2|x-jat|Idolish Seven (2020)
+19605|1|x-jat|Idolish Seven: First Beat! Gekijou Soushuuhen
 14202|1|x-jat|Idolish Seven: Second Beat!
 15955|1|x-jat|Idolish Seven: Third Beat!
 16010|1|x-jat|Idolish Seven: Third Beat! (2022)
@@ -38350,6 +38363,7 @@
 14914|1|x-jat|Non Non Biyori Nonstop
 14914|4|en|Non Non Biyori Nonstop
 16507|1|x-jat|Non Non Biyori Nonstop: Bukatsu o Ganbatta
+16507|4|en|Non Non Biyori Nonstop: I Did My Best Doing the Club Activities
 10587|1|x-jat|Non Non Biyori Repeat
 10587|4|en|Non Non Biyori Repeat
 12689|1|x-jat|Non Non Biyori Repeat: Hotaru ga Tanoshinda
@@ -38660,6 +38674,7 @@
 4189|2|hu|Nyüzsgi
 2270|2|pl|O Aladynie i Zaczarowanej Lampie
 979|2|pt-BR|O Alquimista de Aço
+14107|6|pt-BR|O Arco da Vontade Inabalável de Tanjiro Kamado
 4217|2|x-jat|O bake no... Holly
 1818|4|pt-BR|O Barão Vermelho
 12712|4|vi|Ở bên ngoài có gì ngoài cát?
@@ -43312,6 +43327,7 @@
 17874|2|en|Qi Refining for 3000 Years
 19016|1|x-zht|Qia Tongxue Shaonian
 17163|1|x-zht|Qian Cong Shou
+19606|1|x-zht|Qian Ting Zong Dong Yuan 5: Shi Guang Bao He
 14836|1|x-zht|Qiang Ling Ji Hua
 13609|1|x-zht|Qiang Niang
 14160|1|x-zht|Qiang Shen Ji
@@ -72301,6 +72317,7 @@
 15746|4|ja|アイドールズ! IDOL Survival
 12339|4|ja|アイドリッシュセブン
 15380|4|ja|アイドリッシュセブン Crescent Rise
+19605|4|ja|アイドリッシュセブン First BEAT! 劇場総集編
 14202|4|ja|アイドリッシュセブン Second BEAT!
 15955|4|ja|アイドリッシュセブン Third BEAT!
 16010|4|ja|アイドリッシュセブン Third BEAT! (2022)
@@ -82772,6 +82789,7 @@
 17466|4|zh-Hant|劇場版物怪：唐傘
 4131|2|ja|劇場版甲虫王者ムシキング グレイテストチャンピオンへの道
 12439|4|ja|劇場版総集編 OVERLORD
+19607|4|ja|劇場版総集編 ガールズバンドクライ
 18835|4|ja|劇場版総集編 呪術廻戦 懐玉・玉折
 12982|4|ja|劇場版総集編ハイキュー!!
 13941|4|ja|劇場版総集編メイドインアビス
@@ -88173,6 +88191,7 @@
 16272|4|ja|映画おしりたんてい スフーレ島のひみつ
 15310|4|ja|映画おしりたんてい テントウムシいせきの なぞ
 17054|4|ja|映画おしりたんてい 夢のジャンボスイートポテトまつり
+19608|4|ja|映画ガールズバンドクライ
 12953|4|ja|映画かいけつゾロリ ZZ[ダブルゼット]のひみつ
 11133|4|ja|映画かいけつゾロリ うちゅうの勇者たち
 17329|4|ja|映画かいけつゾロリ ラララ♪スターたんじょう
@@ -89873,6 +89892,7 @@
 14353|4|ja|潜水艦カシオペア
 1079|4|zh-Hans|潜艇代号707R
 14207|4|zh-Hant|潜艇总动员: 海底两万里
+19606|4|zh|潜艇总动员5：时光宝盒
 8719|4|zh-Hans|潜行吧! 奈亚子
 9459|4|zh-Hans|潜行吧! 奈亚子W
 7992|4|zh-Hans|潜行吧！奈亚子 Remember My Love
