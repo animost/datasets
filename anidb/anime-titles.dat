@@ -1,4 +1,4 @@
-# created: Wed Sep 24 03:00:02 2025
+# created: Thu Sep 25 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8901,6 +8901,7 @@
 19550|1|x-kot|Chuldong! Super Wings 3
 19558|1|x-kot|Chuldong! Super Wings 4
 19591|1|x-kot|Chuldong! Super Wings 5
+19610|1|x-kot|Chuldong! Super Wings 6
 2515|2|lt|Chuliganas - Septynių Šventųjų Vibratorių Paieška
 16431|1|x-zht|Chun Qiu Feng Shen
 942|3|x-jat|CHun1
@@ -51829,6 +51830,7 @@
 15070|1|x-jat|Tate no Yuusha no Nariagari Season 2
 15071|1|x-jat|Tate no Yuusha no Nariagari Season 3
 18439|1|x-jat|Tate no Yuusha no Nariagari Season 4
+19609|1|x-jat|Tate no Yuusha no Nariagari Season 5
 15070|3|x-jat|tate2
 15071|3|x-jat|tate3
 18439|3|x-jat|tate4
@@ -53788,7 +53790,12 @@
 15070|4|en|The Rising of the Shield Hero Season 2
 15071|4|en|The Rising of the Shield Hero Season 3
 18439|4|en|The Rising of the Shield Hero Season 4
+19609|2|en|The Rising of the Shield Hero Season 5
+13246|4|de|The Rising of the Shield Hero Staffel 1
+15070|4|de|The Rising of the Shield Hero Staffel 2
+15071|4|de|The Rising of the Shield Hero Staffel 3
 18439|4|de|The Rising of the Shield Hero Staffel 4
+19609|4|de|The Rising of the Shield Hero Staffel 5
 8989|2|en|The Robot Moles
 10784|4|ja|THE ROLLING GIRLS
 10784|1|x-jat|The Rolling Girls
@@ -71668,6 +71675,7 @@
 19550|4|ko|출동! 슈퍼윙스3
 19558|4|ko|출동! 슈퍼윙스4
 19591|4|ko|출동! 슈퍼윙스5
+19610|4|ko|출동! 슈퍼윙스6
 3433|4|ko|충사
 9556|2|ko|취성의 가르간티아
 10549|2|ko|취성의 가르간티아: 순환하는 항로, 저 멀리
@@ -75560,6 +75568,7 @@
 18206|2|ja|シンデュアリティ (2024)
 13724|4|ja|シンテリヤ嬢の花婿
 6514|4|ja|シンデレラ エクスプレス
+14663|4|ja|シンデレラ・シェフ ～萌妻食神～
 781|4|ja|シンデレラボーイ
 3677|4|ja|シンデレラ物語
 11041|4|ja|シンドバッド
@@ -91175,6 +91184,7 @@
 15070|4|ja|盾の勇者の成り上がり Season 2
 15071|4|ja|盾の勇者の成り上がり Season 3
 18439|4|ja|盾の勇者の成り上がり Season 4
+19609|4|ja|盾の勇者の成り上がり Season 5
 13246|4|zh-Hans|盾之勇者成名录
 15071|4|zh-Hans|盾之勇者成名录 第三季
 15070|4|zh-Hans|盾之勇者成名录 第二季
@@ -96231,6 +96241,7 @@
 5112|2|zh-Hant|龍嗚
 13384|4|ja|龍堂寺士門の淫謀
 16595|4|ja|龍族 -The Blazing Dawn-
+19480|4|ja|龍族Ⅱ -The Mourner`s Eyes-
 14746|4|zh-Hant|龍族教義
 16118|4|ja|龍殺ノ狂骨
 13281|4|zh-Hant|龍王的工作!
