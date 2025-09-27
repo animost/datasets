@@ -1,4 +1,4 @@
-# created: Thu Sep 25 03:00:01 2025
+# created: Fri Sep 26 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -9589,6 +9589,7 @@
 15614|4|en|Cooking with Valkyries II
 2655|1|x-jat|Cool Cool Bye
 36|2|en|Cool Couple
+19611|1|x-jat|Cool de M
 188|4|en|Cool Devices
 188|4|fr|Cool Devices
 188|2|es|Cool Devices
@@ -13203,6 +13204,8 @@
 18336|4|en|Dr. Stone: Science Future
 19248|4|en|Dr. Stone: Science Future (2025)
 19248|1|x-jat|Dr. Stone: Science Future (2025)
+19614|2|en|Dr. Stone: Science Future (2026)
+19614|1|x-jat|Dr. Stone: Science Future (2026)
 15305|1|x-jat|Dr. Stone: Stone Wars
 15305|4|en|Dr. Stone: Stone Wars
 7572|2|x-jat|Dr. Typhoon
@@ -13212,6 +13215,7 @@
 18064|4|ja|Dr.STONE NEW WORLD (2023)
 18336|4|ja|Dr.STONE SCIENCE FUTURE
 19248|4|ja|Dr.STONE SCIENCE FUTURE (2025)
+19614|4|ja|Dr.STONE SCIENCE FUTURE (2026)
 15305|4|ja|Dr.STONE STONE WARS
 16164|4|zh-Hant|Dr.Stone 新石紀 (龍水)
 18336|4|zh-Hant|Dr.STONE 新石紀 SCIENCE FUTURE
@@ -24096,7 +24100,7 @@
 17741|2|en|In the end, the Witch and that Customer
 16966|4|en|In the Heart of Kunoichi Tsubaki
 16069|4|en|In the Land of Leadale
-19502|2|en|In the Name of Ying Tai
+19502|4|en|In the Name of Ying Tai
 9376|2|en|In This Corner (and Other Corners) of the World
 9376|4|en|In This Corner of the World
 9376|4|de|In this Corner of the World
@@ -44002,6 +44006,9 @@
 18201|4|ja|Re:Monster
 18201|4|en|Re:Monster
 18201|4|id|Re:Monster
+19613|4|ja|Re:Monster 2
+19613|1|x-jat|Re:Monster 2
+19613|2|en|Re:Monster 2
 14192|1|x-jat|Re:Stage! Dream Days
 14192|4|en|Re:Stage! Dream Days
 14192|4|zh-Hans|Re:Stage！Dream Days♪
@@ -46696,6 +46703,7 @@
 1576|2|x-jat|Seigi o Aisuru Mono Gekkou Kamen
 19010|1|x-jat|Seihantai na Kimi to Boku
 171|1|x-jat|Seihou Bukyou Outlaw Star
+19612|1|x-jat|Seihou Shouka Saint Lime
 223|1|x-jat|Seihou Tenshi Angel Links
 223|2|x-jat|Seihou Tenshi Angel Rinks
 17662|1|x-jat|Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
@@ -74405,6 +74413,7 @@
 2134|4|ja|キン肉マンII世 ULTIMATE MUSCLE
 4057|4|ja|キン肉マンII世 ULTIMATE MUSCLE 2
 2132|4|ja|キン肉マンII世 マッスル人参争奪! 超人大戦争
+19611|4|ja|クール de M
 2655|4|ja|クール・クール・バイ
 188|2|ja|クール・ディバイシスシリーズ
 188|4|ja|クールディバイシスシリーズ
@@ -80066,6 +80075,7 @@
 193|4|ja|らんま1/2 熱闘編
 2850|4|ja|らんま1/2 超無差別決戦! 乱馬チームVS伝説の鳳凰
 18201|2|ja|リ・モンスター
+19613|2|ja|リ・モンスター 2
 16920|4|ja|リーマンズクラブ
 3986|4|ja|リーンの翼
 17772|4|ja|リー探偵事務所
@@ -92482,6 +92492,7 @@
 17246|4|zh-Hant|聖女魔力無所不能 第二季
 16907|4|ja|聖奴隷学園2
 10612|4|ja|聖娼女 THE ANIMATION
+19612|4|ja|聖宝晶華セイントライム
 4867|4|ja|聖少・女玩具 アリスドール
 1399|4|ja|聖少女戦隊レイカーズEX
 279|4|ja|聖少女艦隊バージンフリート
