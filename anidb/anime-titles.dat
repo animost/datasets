@@ -1,4 +1,4 @@
-# created: Fri Sep 26 03:00:01 2025
+# created: Sat Sep 27 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4799,6 +4799,7 @@
 17593|1|x-zht|Balala Xiaomoxian: Mofa Xing Yuan Bao
 12565|1|x-zht|Balala Xiaomoxian: Qiji Wubu
 19576|1|x-zht|Balala Xiaomoxian: Xing Yuan Die Qi 1
+19615|1|x-zht|Balala Xiaomoxian: Xing Yuan Die Qi 2
 12565|3|x-zht|balala2
 11833|3|x-zht|balala3
 13701|3|x-zht|balala4
@@ -8015,6 +8016,7 @@
 4114|2|en|Cat Yo-yo
 1025|1|x-jat|Cat`s Eye
 1025|4|en|Cat`s Eye
+19004|4|de|Cat`s Eye – Ein Supertrio
 14582|1|x-jat|Cat`s Eye (1984)
 14582|4|en|Cat`s Eye (1984)
 19004|4|ja|CAT`S EYE (2025)
@@ -27246,7 +27248,6 @@
 2009|1|x-jat|Kidou Senshi Gundam 0083: Zeon no Zankou
 8494|1|x-jat|Kidou Senshi Gundam AGE
 9719|1|x-jat|Kidou Senshi Gundam AGE: Memory of Eden
-18957|1|x-jat|Kidou Senshi Gundam ALC Encounter
 5252|1|x-jat|Kidou Senshi Gundam Double O
 5903|1|x-jat|Kidou Senshi Gundam Double O (2008)
 7183|1|x-jat|Kidou Senshi Gundam Double O Special Edition I: Celestial Being
@@ -27297,6 +27298,7 @@
 11977|1|x-jat|Kidou Senshi Gundam Unicorn RE:0096
 12507|1|x-jat|Kidou Senshi Gundam Unicorn: A Phantom World
 719|1|x-jat|Kidou Senshi Gundam ZZ
+18957|1|x-jat|Kidou Senshi Gundam: ALC Encounter
 16702|1|x-jat|Kidou Senshi Gundam: Cucuruz Doan no Shima
 217|1|x-jat|Kidou Senshi Gundam: Dai 08 MS Shoutai
 1425|1|x-jat|Kidou Senshi Gundam: Dai 08 MS Shoutai - Miller`s Report
@@ -54461,7 +54463,9 @@
 14577|2|en|Throne of Elves
 14577|4|de|Throne of Elves: Die Chroniken von Altera
 17350|4|en|Throne of Seal
+17350|4|de|Throne of Seal
 18458|2|en|Throne of Seal 2
+18458|4|de|Throne of Seal 2
 18458|2|en|Throne of Seal 2nd Season
 19319|2|en|Throne of Seal Movie: The Crownless God
 19319|2|en|Throne of Seal Movie: The Legend of Electrolux
@@ -73146,6 +73150,7 @@
 14693|4|ja|うちの娘の為ならば, 俺はもしかしたら魔王も倒せるかもしれない.
 16512|4|ja|うちの師匠はしっぽがない
 16067|4|ja|ウチの弟マジでデカイんだけど見にこない?
+10320|5|ja|うちゅうきょうだい ナンバー・ゼロ
 12827|4|ja|うちゅうひこうしのうた
 4623|4|ja|うちゅう人田中太郎
 6771|4|ja|ウチュレイ!
@@ -85214,8 +85219,8 @@
 8865|4|ja|宇宙兄弟
 9032|4|ja|宇宙兄弟 APO`s DREAM
 9754|4|ja|宇宙兄弟 一点のひかり
+10320|4|ja|宇宙兄弟#0
 10320|4|zh-Hans|宇宙兄弟#0
-10320|4|ja|宇宙兄弟#0[ナンバー・ゼロ]
 2224|4|ja|宇宙円盤大戦争
 4027|4|zh-Hans|宇宙刑事Justy
 3124|4|ja|宇宙大帝 ゴッドシグマ
@@ -85900,6 +85905,7 @@
 11796|4|zh-Hant|巴啦啦小魔仙之彩虹心石
 19576|4|zh-Hant|巴啦啦小魔仙之星緣蝶啓1
 19576|4|zh-Hans|巴啦啦小魔仙之星缘蝶启1
+19615|4|zh-Hans|巴啦啦小魔仙之星缘蝶启2
 11833|4|zh-Hans|巴啦啦小魔仙之梦幻旋律
 13701|4|zh-Hant|巴啦啦小魔仙之飞越彩灵堡 第一季精灵俐俐
 13702|4|zh-Hant|巴啦啦小魔仙之飞越彩灵堡 第二季彩俐公主
