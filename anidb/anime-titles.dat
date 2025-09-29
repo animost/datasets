@@ -1,4 +1,4 @@
-# created: Sat Sep 27 03:00:02 2025
+# created: Sun Sep 28 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -21417,6 +21417,7 @@
 11766|4|en|Heidi: Girl of the Alps Pilot
 7659|4|en|Heidi: Girl of the Alps: Heidi and Clara
 7658|4|en|Heidi: Girl of the Alps: Mt. Alm
+19619|1|x-jat|Heika Watashi wo Wasurete Kudasai
 16601|3|x-jat|heike
 16601|1|x-jat|Heike Monogatari
 16127|1|x-jat|Heikousen
@@ -22181,6 +22182,7 @@
 6333|4|pt|Hikarian
 4064|2|en|Hikarian 2 : Lightning Attack Express
 18649|1|x-jat|Hikaru ga Shinda Natsu
+19618|1|x-jat|Hikaru ga Shinda Natsu 2
 12751|1|x-jat|Hikaru Genji: Paradise Ginga
 12770|1|x-jat|Hikaru Genji: Taiyou ga Ippai
 84|1|x-jat|Hikaru no Go
@@ -22939,6 +22941,7 @@
 15493|2|en|How NOT to Summon a Demon Lord Ω
 7874|2|en|How to Bloom a Flower
 2340|4|en|How to Breed Kappas
+15052|2|en|How To Build A Wonderful Country
 15052|2|en|How to Build a Wonderful Nation
 13252|4|en|How to Keep a Mummy
 13338|2|en|How to Steal 55 Kisses
@@ -43906,6 +43909,7 @@
 1430|4|ro|Raperul Parappa
 1430|4|cs|Rapper Parappa
 1072|4|es|Raqueta de oro
+19617|2|en|Rascal Does Not Dream of a Dear Friend
 14397|4|en|Rascal Does Not Dream of a Dreaming Girl
 14397|4|de|Rascal Does Not Dream of a Dreaming Girl
 17862|4|en|Rascal Does Not Dream of a Knapsack Kid
@@ -46792,6 +46796,7 @@
 18107|1|x-jat|Seishun Archive
 18300|2|x-jat|Seishun Buta Yarou Series: Daigakusei Hen
 13900|1|x-jat|Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai
+19617|1|x-jat|Seishun Buta Yarou wa Dear Friend no Yume o Minai
 17640|1|x-jat|Seishun Buta Yarou wa Odekake Sister no Yume o Minai
 17640|2|x-jat|Seishun Buta Yarou wa Odekake Sister no Yume wo Minai
 17862|2|x-jat|Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai
@@ -47937,6 +47942,7 @@
 2444|1|x-jat|Shin Saishuu Chikan Densha
 15097|1|x-jat|Shin Sakura Taisen the Animation
 18612|1|x-jat|Shin Samurai-den Yaiba
+19616|1|x-jat|Shin Samurai-den Yaiba 2
 7020|3|x-jat|shin sanjuushi
 6945|2|en|Shin Saru Kani Kassen
 10534|1|x-jat|Shin Sei Yariman Gakuen Enkou Nikki The Animation
@@ -52504,6 +52510,7 @@
 18046|2|en|That`s Journey
 191|4|vi|Thầy giáo vĩ đại Onizuka
 9341|4|en|The "Hentai" Prince and the Stony Cat.
+9341|4|es-419|The “HENTAI” prince and the stony cat.
 17906|4|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You
 18343|4|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You (2025)
 18343|2|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 2
@@ -54093,6 +54100,7 @@
 17512|4|en|The Summer
 19021|4|en|The Summer (2023)
 18649|4|en|The Summer Hikaru Died
+19618|2|en|The Summer Hikaru Died 2
 6633|2|en|The Summer of Dioxin
 18680|2|en|The Summer The Boy Became An Adult
 14529|2|en|The Summer Vacation Treasure Hunt
@@ -59177,6 +59185,7 @@
 329|4|pt|Yaiba - O Pequeno Samurai
 18612|4|en|Yaiba: Samurai Legend
 18612|4|de|YAIBA: Samurai Legend
+19616|2|en|Yaiba: Samurai Legend 2
 3993|1|x-jat|Yajikita Gakuen Douchuuki
 5540|1|x-jat|Yakata Jukujo
 10819|1|x-jat|Yakata: Kannou Kitan
@@ -81853,6 +81862,7 @@
 12751|4|ja|光GENJI パラダイス銀河
 12770|4|ja|光GENJI 太陽がいっぱい
 18649|4|ja|光が死んだ夏
+19618|4|ja|光が死んだ夏 2
 1322|4|ja|光と水のダフネ
 1864|4|ja|光の伝説
 15654|4|ja|光の女神
@@ -91222,6 +91232,7 @@
 14658|4|ja|真・中華一番!
 15336|4|ja|真・中華一番! (2021)
 18612|4|ja|真･侍伝 YAIBA
+19616|4|ja|真･侍伝 YAIBA 2
 1221|4|ja|真・女神転生 東京黙示録
 1968|4|ja|真･女神転生D[デビル]チルドレン ライト&ダーク
 1967|4|ja|真・女神転生デビチル[デビルチルドレン]
@@ -94822,6 +94833,7 @@
 13442|4|zh-Hans|降灵记
 8543|4|ja|限りなき楽園
 9979|4|zh-Hans|限制级杀手
+19619|4|ja|陛下わたしを忘れてください
 4783|2|zh-Hans|除魔维纳斯
 14197|4|zh-Hans|陪睡女友：紧紧抱着你
 4112|4|ja|陰からマモル!
@@ -95091,6 +95103,7 @@
 18300|2|ja|青春ブタ野郎シリーズ 大学生編
 17640|4|ja|青春ブタ野郎はおでかけシスターの夢を見ない
 18300|4|ja|青春ブタ野郎はサンタクロースの夢を見ない
+19617|4|ja|青春ブタ野郎はディアフレンドの夢を見ない
 13900|4|ja|青春ブタ野郎はバニーガール先輩の夢を見ない
 14397|4|ja|青春ブタ野郎はゆめみる少女の夢を見ない
 17862|4|ja|青春ブタ野郎はランドセルガールの夢を見ない
