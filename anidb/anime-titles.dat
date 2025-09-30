@@ -1,4 +1,4 @@
-# created: Sun Sep 28 03:00:01 2025
+# created: Mon Sep 29 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1043,6 +1043,7 @@
 1836|4|pt|A Minha Amiga Lícia
 18538|4|pt|A Minha Oni
 19564|2|en|A Misanthrope Teaches a Class for Demi-Humans
+6797|4|pt|A Missão de Salvamento de Pikachu
 18846|4|en|A Moment But Forever
 15425|2|en|A Mortal`s Journey to Immortality Season 1
 17033|2|en|A Mortal`s Journey to Immortality Season 1 Part 2
@@ -6407,6 +6408,8 @@
 16519|1|x-jat|Blue Lock
 16519|4|pl|Blue Lock
 17955|4|es-419|BLUE LOCK -Episodio Nagi-
+19620|2|en|Blue Lock (New Series)
+19620|1|x-jat|Blue Lock (Shin Series)
 17954|2|x-jat|BLUE LOCK 2
 17954|2|x-jat|BLUE LOCK 2nd Season
 17955|4|pt-BR|BLUE LOCK O FILME -EPISÓDIO NAGI-
@@ -15033,12 +15036,12 @@
 184|2|de|Escaflowne
 184|2|fr|Escaflowne
 184|4|pt|Escaflowne
+321|4|pt|Escaflowne - O Filme
 321|4|de|Escaflowne - The Movie
 321|4|fr|Escaflowne - Une fille sur Gaia
 184|3|x-jat|escaflowne tv
 321|2|en|Escaflowne: A Girl in Gaea
 321|2|es|Escaflowne: la película
-321|4|pt|Escaflowne: O Filme
 321|4|en|Escaflowne: The Movie
 10241|1|x-jat|Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi
 12460|1|x-jat|Escha Chron
@@ -22020,7 +22023,7 @@
 15332|4|en|Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway
 15332|4|id|Higehiro: Kucukur Janggut, Siswi SMA Kupungut
 17688|1|x-jat|Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
-19420|1|x-jat|Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. 2
+19420|1|x-jat|Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2
 10379|1|x-jat|Higenashi Gogejabaru
 6479|1|x-jat|Higepiyo
 6479|2|lt|Higepiyo - Ūsuotas Viščiukas
@@ -22872,6 +22875,8 @@
 7382|3|x-jat|HOTDTV
 18973|4|en|Hotel Inhumans
 18973|1|x-jat|Hotel Inhumans
+19621|1|x-jat|Hotel Inhumans 2
+19621|2|en|Hotel Inhumans 2
 18709|4|es-419|Hotel Tasokare
 2842|3|x-jat|hotori
 2842|2|en|Hotori ~The Simple Hope for Joy~
@@ -24439,7 +24444,7 @@
 2321|4|es-419|Inuyasha - Fuego En Las Islas Místicas
 1320|4|es-419|Inuyasha - La Espada Que Domina El Mundo
 1320|4|it|InuYasha - La Spada del Dominatore del Mondo
-903|6|pt|InuYasha - O Filme 2 - O Castelo de Sonhos no Espelho
+903|4|pt|InuYasha - O Filme 2 - O Castelo de Sonhos no Interior do Espelho
 1320|2|en|InuYasha - Sword of World Conquest
 903|2|en|InuYasha - The Castle Beyond the Looking Glass
 2321|2|en|InuYasha - The Crimson Hourai Island
@@ -24448,7 +24453,7 @@
 273|4|it|Inuyasha - The Movie: Un sentimento che trascende il tempo
 1320|2|en|InuYasha - The World Conquering Swords
 273|4|pt|InuYasha 1: Sentimentos que Transcendem o Tempo
-903|4|pt|Inuyasha 2 - O Castelo de Sonhos no Espelho
+903|6|pt|Inuyasha 2 - O Castelo de Sonhos no Espelho
 903|4|pt-BR|InuYasha 2: O Castelo das Ilusões Dentro do Espelho
 1320|4|pt|InuYasha 3: A Espada Dominadora do Mundo
 2321|4|pt|InuYasha 4: Fogo na Ilha Mística
@@ -33509,7 +33514,7 @@
 4539|4|es|Mars, el exterminador
 1666|1|x-jat|Marshmallow Times
 11856|1|x-jat|Marshmallow, Imouto, Succubus
-19536|2|en|Martial Conqueror of the Cosmos
+19536|4|en|Martial Conqueror of the Cosmos
 18614|2|en|Martial God Asura
 18682|2|en|Martial God Stream
 18977|4|en|Martial Inverse
@@ -47554,7 +47559,7 @@
 15894|1|x-jat|Shashinki
 15895|1|x-jat|Shashinki `87
 4583|4|en|Shattered Angels
-19536|4|en|Shattering the Galaxy
+19536|2|en|Shattering the Galaxy
 18121|1|x-jat|Shayou
 963|3|x-jat|SHE
 113|2|en|She ~ the ultimate weapon ~
@@ -52998,6 +53003,7 @@
 17078|4|en|The Faraway Paladin: The Lord of Rust Mountains
 2793|2|en|The Fashion Boy is Cool
 14560|2|en|The Fate of Arad
+19583|4|de|The Fated Magical Princess: Who Made Me a Princess
 19583|4|en|The Fated Magical Princess: Who Made Me a Princess
 11710|2|en|The Fight Between the Snipe and the Clam
 10442|4|es|The File of Young Kindaichi Returns
@@ -53582,7 +53588,7 @@
 11924|4|en|The Morose Mononokean
 14177|4|en|The Morose Mononokean II
 17688|4|en|The Most Heretical Last Boss Queen: From Villainess to Savior
-19420|2|en|The Most Heretical Last Boss Queen: From Villainess to Savior 2
+19420|2|en|The Most Heretical Last Boss Queen: From Villainess to Savior Season 2
 18592|4|en|The Most Notorious "Talker" Runs the World`s Greatest Clan
 16987|2|en|The Most Proud of the World
 6830|4|en|The Mountain Where Old Women Are Abandoned
@@ -78673,6 +78679,7 @@
 2627|4|ja|ブルーリメイン
 18263|4|ja|フルール THE ANIMATION
 16519|4|ja|ブルーロック
+19620|4|ja|ブルーロック (新シリーズ)
 17954|4|ja|ブルーロック VS. U-20 JAPAN
 10502|4|ja|フルエルクチビル
 4588|4|ja|ふるさと-JAPAN
@@ -79018,6 +79025,7 @@
 4981|4|ja|ボディジャック 楽しい幽体離脱
 4919|4|ja|ぽてまよ
 18973|4|ja|ホテル・インヒューマンズ
+19621|4|ja|ホテル・インヒューマンズ 2
 7919|4|ja|ボトムズファインダー
 2842|4|ja|ほとり~たださいわいを希う.~
 11329|4|ja|ホネホネロック
@@ -86708,7 +86716,7 @@
 7341|4|ja|悪魔島のプリンス 三つ目がとおる
 12589|4|ja|悲しきマングース
 17688|4|ja|悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします.
-19420|4|ja|悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします. 2
+19420|4|ja|悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします. Season2
 18786|4|zh-Hans|悲喜渔生
 18786|4|zh-Hant|悲喜漁生
 4781|2|zh-Hans|悲惨世界 少女柯塞特
