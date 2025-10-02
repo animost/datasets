@@ -1,4 +1,4 @@
-# created: Tue Sep 30 03:00:01 2025
+# created: Wed Oct  1 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8907,6 +8907,7 @@
 19558|1|x-kot|Chuldong! Super Wings 4
 19591|1|x-kot|Chuldong! Super Wings 5
 19610|1|x-kot|Chuldong! Super Wings 6
+19624|1|x-kot|Chuldong! Super Wings 7
 2515|2|lt|Chuliganas - Septynių Šventųjų Vibratorių Paieška
 16431|1|x-zht|Chun Qiu Feng Shen
 942|3|x-jat|CHun1
@@ -21347,6 +21348,7 @@
 15648|4|en|Heaven Official`s Blessing
 18218|4|en|Heaven Official`s Blessing 2
 15648|2|en|Heaven Officials` Blessing
+19626|4|en|Heaven Scrap Master
 19342|2|en|Heaven Swallow
 19342|2|en|Heaven Swallowing Record
 1777|2|en|Heaven Wars Shurato
@@ -23392,6 +23394,7 @@
 3377|4|it|I Cinque Samurai - Incubo A New York
 3379|4|it|I Cinque Samurai - La Leggenda dell`imperatore splendente
 3380|4|it|I Cinque Samurai - Message
+19626|2|en|I Collect Waste in Heaven
 8419|2|en|I Don`t Have Many Friends
 7978|2|en|I Don`t Like My Big Brother At All!
 316|4|en|I Dream of Mimi
@@ -31102,6 +31105,7 @@
 16489|2|en|Looking Back at it All: The Dragon Ball Z Year-End Show!
 4103|2|en|Looking for a Home
 14790|4|en|Looking for Magical Doremi
+21|2|en|Looking for the Full Moon
 3573|4|en|Looking up at the Half-Moon
 17910|4|fr|Looking up to Magical Girls
 17759|4|en|Lookism
@@ -33501,6 +33505,9 @@
 1104|4|en|Marriage of God & Soul Godannar!!
 1612|4|en|Marriage of God & Soul Godannar!! (2004)
 1612|2|en|Marriage of God & Soul Godannar!! Second Season
+19625|1|x-jat|Marriage Toxin
+19625|2|en|Marriage Toxin
+19625|2|x-jat|Marriagetoxin
 18033|4|en|Married Couple Swap
 19163|2|en|Married Women`s Lips Taste Like Canned Chuuhai
 19353|2|en|Marry Me, I’ll Fuck You Until You’re Pregnant!
@@ -44196,6 +44203,7 @@
 262|4|es|Recuerdos peligrosos
 13345|2|pt-BR|Recuperação de uma Viciada em MMO
 14714|1|x-jat|Recycle Zoo
+19626|2|en|Recycling Scrap in the Celestial Court
 14022|1|x-jat|Red
 14022|4|ja|RED
 11473|2|ja|Red Ash THE ANIMATION -Magicicada-
@@ -58492,6 +58500,7 @@
 10187|1|x-zht|Wo Wei Ge Kuang
 15771|2|x-zht|Wo Wei Ge Kuang 2
 15771|1|x-zht|Wo Wei Ge Kuang: Xuanlu Chongqi
+19626|1|x-zht|Wo Zai Tianting Shou Feipin
 18142|1|x-zht|Wo Zai Xianjie Zheng Jifen
 16688|1|x-zht|Wo Zhen Di Meiyong Mie?
 196|3|en|WoH
@@ -64003,6 +64012,7 @@
 239|4|bg|Наруто
 239|2|uk|Наруто
 3030|2|bg|Наруто - Филм 2 - Легендата за камъка Гелел
+1456|4|bg|Наруто филмът: Нинджа сблъсък в Земята на снега
 4880|2|bg|Наруто Хроники
 4880|4|mn|Наруто Шиппүүдэн
 6503|2|mn|Наруто Шиппүүдэн: Галын Хүслийг Залгамжлагч
@@ -71710,6 +71720,7 @@
 19558|4|ko|출동! 슈퍼윙스4
 19591|4|ko|출동! 슈퍼윙스5
 19610|4|ko|출동! 슈퍼윙스6
+19624|4|ko|출동! 슈퍼윙스7
 3433|4|ko|충사
 9556|2|ko|취성의 가르간티아
 10549|2|ko|취성의 가르간티아: 순환하는 항로, 저 멀리
@@ -79352,6 +79363,7 @@
 5694|4|ja|マリア様がみてる 4thシーズン
 2025|4|ja|マリア様がみてる 春
 4101|5|ja|マリス@ドール
+19625|4|ja|マリッジトキシン
 9491|4|ja|マリッジブルー 「婚約者がいるのに, どうしてこんな男に......」
 1187|4|ja|マリといた夏
 8867|4|ja|まりもの花 ~最強武闘派小学生伝説~
@@ -86920,6 +86932,7 @@
 17820|2|zh-Hant|我喜歡的女孩忘記戴眼鏡
 18216|4|zh-Hans|我回来了，欢迎回来
 18142|4|zh-Hans|我在仙界挣积分
+19626|4|zh-Hans|我在天庭收废品
 11979|4|zh-Hans|我太受欢迎了该怎么办
 3360|4|zh-Hans|我太太是高中生
 9305|4|zh-Hans|我女友与青梅竹马的惨烈修罗场
