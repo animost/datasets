@@ -1,4 +1,4 @@
-# created: Wed Oct  1 03:00:02 2025
+# created: Thu Oct  2 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3274,6 +3274,7 @@
 5080|4|nl|Appleseed: Ex Machina
 5080|3|en|appleseed2
 12132|3|x-unk|appmon
+19629|2|en|Apprentice Nail Artist in a Foreign Land
 15376|2|fr|Appui exotique
 4258|4|pt|Aprender a Ganhar
 12906|4|fr|Après la pluie
@@ -8669,6 +8670,7 @@
 18500|4|no|Chis søte eventyr: Sommerferie
 9325|2|en|Chisato stared
 9158|1|x-jat|Chitose Get You!!
+18811|4|en|Chitose Is in the Ramune Bottle
 18811|1|x-jat|Chitose-kun wa Ramune Bin no Naka
 11126|3|en|Chivalry
 11126|4|en|Chivalry of a Failed Knight
@@ -8908,6 +8910,7 @@
 19591|1|x-kot|Chuldong! Super Wings 5
 19610|1|x-kot|Chuldong! Super Wings 6
 19624|1|x-kot|Chuldong! Super Wings 7
+19630|1|x-kot|Chuldong! Super Wings 8
 2515|2|lt|Chuliganas - Septynių Šventųjų Vibratorių Paieška
 16431|1|x-zht|Chun Qiu Feng Shen
 942|3|x-jat|CHun1
@@ -12069,6 +12072,7 @@
 15393|1|x-jat|Digimon Adventure: 20th Memorial Story
 1149|1|x-jat|Digimon Adventure: Bokura no War Game!
 14240|1|x-jat|Digimon Adventure: Last Evolution Kizuna
+19230|4|en|Digimon Beatbreak
 19230|1|x-jat|Digimon BeatBreak
 19230|4|ja|DIGIMON BEATBREAK
 7518|2|ja|Digimon Cross Wars
@@ -17481,6 +17485,7 @@
 2116|2|ja|GALLFORCE 新世紀編
 11512|1|x-jat|Galo Sengen
 475|3|x-jat|gals
+19628|2|en|Gals Can`t Be Kind to Otaku!?
 11512|4|ja|GAL男宣言
 11225|4|it|Gamba 3D
 11225|4|en|Gamba 3D
@@ -18761,6 +18766,7 @@
 9384|2|x-jat|Gintama: Kanketsuhen - Yorozuya yo Eien Nare
 11850|2|en|Gintama: Love Incense Arc
 15105|1|x-jat|Gintama: Monster Strike-hen
+17919|4|en|Gintama: Mr.Ginpachi`s Zany Class
 3468|2|en|Gintama: Season 1
 9427|2|en|Gintama: Season 2
 10993|2|en|Gintama: Season 3
@@ -18840,6 +18846,7 @@
 11904|4|fr|Girlish Number
 9227|2|en|Girls and Panzer
 17998|1|x-jat|Girls Band Cry
+17998|4|en|Girls Band Cry
 11725|4|en|Girls Beyond the Wasteland
 11726|2|en|Girls Beyond the Wasteland: Anime Edition
 1805|4|en|Girls Bravo
@@ -23927,6 +23934,7 @@
 18911|1|x-jat|Ikusei
 17763|1|x-jat|Ikuta no Kita
 7313|1|x-jat|Ikuze! Gen-san
+19629|1|x-jat|Ikyou no Tsume Nuri Minarai
 1218|4|it|Il castello errante di Howl
 140|4|it|Il club della magia!
 1868|4|it|Il conte di Montecristo
@@ -24684,7 +24692,7 @@
 14964|4|en|Isekai Quartet 2
 14964|2|x-jat|Isekai Quartet 2nd Season
 19385|1|x-jat|Isekai Quartet 3
-19385|2|en|Isekai Quartet 3
+19385|4|en|Isekai Quartet 3
 15481|4|en|Isekai Quartet the Movie: Another World
 18809|3|x-jat|Isekai Red
 17507|1|x-jat|Isekai Shikkaku
@@ -27683,6 +27691,7 @@
 5555|3|x-jat|Kindaichi Special
 9290|1|x-jat|Kindan no Byoutou The Animation
 1467|1|x-jat|Kindan no Mokushiroku Crystal Triangle
+19631|2|en|Kindergarten Wars
 15214|2|en|Kindhearted Xiawudong
 1920|4|fr|King Arthur
 1920|3|en|King Arthur
@@ -27757,7 +27766,7 @@
 15259|4|en|Kingdom Season 3
 16912|4|en|Kingdom Season 4
 17655|4|en|Kingdom Season 5
-19295|2|en|Kingdom Season 6
+19295|4|en|Kingdom Season 6
 9672|2|x-jat|Kingdom: Dai 2 Series
 15259|2|x-jat|Kingdom: Dai 3 Series
 13862|4|ja|KINGSGLAIVE FFXV ファン感謝特別ムービー
@@ -30633,6 +30642,7 @@
 19369|4|en|Let`s Play
 19369|4|ja|Let`s Play クエストだらけのマイライフ
 19369|1|x-jat|Let`s Play: Quest Darake no My Life
+19369|2|x-jat|Let`s Play: Quest-darake no My Life
 2246|2|en|Let`s play! Hello Kitty
 16349|1|x-jat|Let`s Star Watching
 3297|4|ja|LET`S ぬぷぬぷっ
@@ -32327,6 +32337,7 @@
 2560|1|x-jat|Maeterlinck no Aoi Tori: Tyltyl Mytyl no Bouken Ryokou
 2560|2|en|Maeterlinck`s Blue Bird
 2857|3|x-jat|Maeve-chan
+19634|1|x-jat|MafiosA
 2734|1|x-jat|Mafukiden: Pandarian
 5475|2|de|Magami Tantei - Venus File
 13980|4|en|Magatsu Wahrheit Zuerst
@@ -33455,6 +33466,7 @@
 6434|1|x-jat|Marie & Gali
 7427|1|x-jat|Marie & Gali Ver.2.0
 19465|2|x-jat|Marie Antoinette ni Tensei Shita node, Zenryoku de Guillotine o Kaihi Shimasu
+19627|1|x-jat|Marika Kanri Den
 1297|3|x-jat|Marimite
 2025|3|x-jat|marimite haru
 2025|3|x-jat|marimite2
@@ -36383,7 +36395,7 @@
 336|3|x-jat|mws
 13980|3|en|MWZ
 4367|3|x-jat|mxmd
-19056|2|en|My Awkward Senpai
+19056|4|en|My Awkward Senpai
 1187|4|en|My Beautiful Girl Mari
 10221|2|en|My big and horny sisters
 12867|4|en|My Big Emergency
@@ -40131,6 +40143,7 @@
 13293|1|x-jat|Otaku ni Koi wa Muzukashii
 14405|1|x-jat|Otaku ni Koi wa Muzukashii (2019)
 16968|1|x-jat|Otaku ni Yasashii Gal toka, Kyonyuu no Osananajimi toka.
+19628|1|x-jat|Otaku ni Yasashii Gal wa Inai!?
 16968|2|x-jat|Otaku ni Yasashii Gyaru toka, Kyonyuu no Osananajimi ka
 3533|1|x-jat|Otaku no Seiza
 130|1|x-jat|Otaku no Video
@@ -42485,6 +42498,7 @@
 4919|1|x-jat|Potemayo
 17878|3|x-jat|potion
 17878|1|x-jat|Potion-danomi de Ikinobimasu!
+19633|1|x-jat|Potion, Wagami o Tasukeru
 17878|2|x-jat|Potiondanomi de Ikinobimasu!
 1539|2|pl|Potwór
 2227|2|fr|Poucelina
@@ -52424,6 +52438,7 @@
 5197|2|en|Tetsuko`s Travels
 5881|2|x-jat|Tetsukuzu Monogatari
 4188|1|x-jat|Tetsuro no Kanata
+19632|1|x-jat|Tetsuryo! Meet with Tetsudou Musume
 1440|1|x-jat|Tetsuwan Atom
 1446|1|x-jat|Tetsuwan Atom (1980)
 807|1|x-jat|Tetsuwan Atom (2003)
@@ -53607,6 +53622,7 @@
 18041|2|en|The Mourning Children: Nagiko and the Girls Wearing Tsurubami Black
 15124|2|en|The Mouse and His Bride
 15124|2|en|The Mouse Marries
+10886|2|en|The Murder Case of Hana & Alice
 1006|4|en|The Mysterious Cities of Gold
 7266|2|en|The Mysterious Medicine
 165|2|en|The Mysterious Play - Eikoden
@@ -54153,6 +54169,7 @@
 9515|4|tl|The Tale of the Princess Kaguya
 9515|4|nl|The Tale of The Princess Kaguya
 9515|4|el|The Tale of The Princess Kaguya
+19627|2|en|The Tale of the Scholar-Official Matsurika
 18395|2|en|The Tale of The Spirit Stone
 18396|2|en|The Tale of The Spirit Stone 2
 1861|2|en|The Tale of the White Serpent
@@ -55488,6 +55505,7 @@
 8783|1|x-jat|Towa no Kizuna
 8184|4|en|Towa no Quon
 8184|1|x-jat|Towa no Quon
+19415|2|en|Towa no Yugure
 19415|1|x-jat|Towa no Yuugure
 4248|2|en|Toward a Time of Trouble
 1416|4|en|Toward the Terra
@@ -58441,7 +58459,7 @@
 19442|4|en|With Vengeance, Sincerely, Your Broken Saintess
 605|4|ja|With You ~みつめていたい~
 18824|4|en|With You and the Rain
-19107|2|en|With You, Our Love Will Make It Through
+19107|4|en|With You, Our Love Will Make It Through
 605|1|x-jat|With You: Mitsumeteitai
 8754|1|x-jat|Within the Bloody Woods
 8754|4|ja|WITHIN THE BLOODY WOODS
@@ -59887,6 +59905,7 @@
 13017|3|x-jat|YouApa
 7080|1|x-jat|Youbi Maso Animation
 7080|2|x-jat|Youbi Masochist Animation
+19631|1|x-jat|Youchien Wars
 10102|2|x-jat|Youi Don!
 13153|3|en|Youjitsu
 17208|3|x-jat|Youjitsu 2
@@ -71721,6 +71740,7 @@
 19591|4|ko|출동! 슈퍼윙스5
 19610|4|ko|출동! 슈퍼윙스6
 19624|4|ko|출동! 슈퍼윙스7
+19630|4|ko|출동! 슈퍼윙스8
 3433|4|ko|충사
 9556|2|ko|취성의 가르간티아
 10549|2|ko|취성의 가르간티아: 순환하는 항로, 저 멀리
@@ -73576,6 +73596,7 @@
 16369|4|ja|おそ松さん~ヒピポ族と輝く果実~
 17247|4|ja|おそ松さん~魂のたこ焼きパーティーと伝説のお泊り会~
 16968|4|ja|オタクに優しいギャルとか、巨乳の幼なじみとか。
+19628|4|ja|オタクに優しいギャルはいない!?
 130|4|ja|おたくのビデオ
 3533|4|ja|おたくの星座
 15016|5|ja|おだしなもんのぶなが
@@ -76703,6 +76724,7 @@
 7902|2|ja|デッドマンワンダーランド
 9175|4|ja|てっぺん
 17118|4|ja|てっぺんっ!!!!!!!!!!!!!!!
+19632|4|ja|てつりょー! meet with 鉄道むすめ
 17273|3|ja|デデデデ
 11870|4|ja|でででん
 740|4|ja|デトネイター・オーガン
@@ -78901,6 +78923,7 @@
 7342|4|ja|ボ~イフレンド
 10757|4|ja|ボーイ・ミーツ・ハーレム THE ANIMATION
 7342|2|ja|ボーイフレンド
+19633|4|ja|ポーション, わが身を助ける
 17878|4|ja|ポーション頼みで生き延びます!
 3958|4|ja|ポータブル空港
 12974|4|ja|ボーノーモ
@@ -79312,6 +79335,7 @@
 11544|4|ja|マナリアフレンズ
 5267|4|ja|マネーウォーズ 狙われたウォーターフロント計画
 5267|2|ja|マネーウオーズ 狙われたウォーターフロント計画
+19634|4|ja|マフィオーザ
 15230|2|ja|マブラヴ オルタネイティヴ
 17073|2|ja|マブラヴ オルタネイティヴ (2022)
 8549|2|ja|マブラヴ オルタネイティヴ トータル・イクリプス
@@ -86111,6 +86135,7 @@
 11905|4|zh-Hant|幼女戰記
 15748|4|ja|幼女社長
 17631|4|ja|幼女社長R
+19631|4|ja|幼稚園WARS
 19266|4|ja|幼馴染とはラブコメにならない
 312|2|ja|幽★遊★白書
 312|4|ja|幽☆遊☆白書
@@ -91044,6 +91069,7 @@
 14969|4|zh-Hant|異種族風俗娘評鑑指南
 16046|4|ja|異能のアイシス ESP & HIGH SCHOOL DETECTIVE
 10509|4|ja|異能バトルは日常系のなかで
+19629|4|ja|異郷の爪塗り見習い
 13323|2|zh-Hant|畫江湖之杯莫停
 14461|4|zh-Hant|當不成魔法師的女孩
 11694|2|zh-Hant|當女孩遇到熊
@@ -92895,6 +92921,7 @@
 1292|4|zh-Hans|茄子 安达卢西亚之夏
 5110|4|zh-Hans|茄子 带着旅行箱的候鸟
 5110|2|zh-Hans|茄子 旅行箱中的候鸟
+19627|4|ja|茉莉花官吏伝
 16913|4|ja|茜ハ摘マレ染メラレル
 6025|2|zh-Hans|茜色坂道 夕阳染红的坡道.染红的街道
 13956|4|zh-Hans|茜色少女
