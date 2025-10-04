@@ -1,4 +1,4 @@
-# created: Thu Oct  2 03:00:01 2025
+# created: Fri Oct  3 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8911,6 +8911,7 @@
 19610|1|x-kot|Chuldong! Super Wings 6
 19624|1|x-kot|Chuldong! Super Wings 7
 19630|1|x-kot|Chuldong! Super Wings 8
+19636|1|x-kot|Chuldong! Super Wings 9
 2515|2|lt|Chuliganas - Septynių Šventųjų Vibratorių Paieška
 16431|1|x-zht|Chun Qiu Feng Shen
 942|3|x-jat|CHun1
@@ -11285,6 +11286,7 @@
 16803|4|pt-BR|Demon Slayer: Kimetsu no Yaiba - Arco do Trem Infinito
 17069|4|en|Demon Slayer: Kimetsu no Yaiba - Asakusa Arc
 18699|4|pt|Demon Slayer: Kimetsu no Yaiba - Castelo Infinito
+18067|4|fr|Demon Slayer: Kimetsu no Yaiba - L`entraînement des piliers
 16054|4|fr|Demon Slayer: Kimetsu no Yaiba - Le quartier des plaisirs
 16803|4|fr|Demon Slayer: Kimetsu no Yaiba - Le train de l`infini
 17198|4|fr|Demon Slayer: Kimetsu no Yaiba - Le village des forgerons
@@ -17577,6 +17579,7 @@
 939|1|x-jat|Ganso Bakuretsu Hunter
 939|2|x-jat|Ganso Bakuretsu Hunters
 5494|1|x-jat|Ganso Tensai Bakabon
+19356|1|x-jat|Ganso! Bang Dream-chan
 2400|1|x-jat|Gantz
 2400|4|pt-BR|Gantz
 2400|4|fr|Gantz
@@ -17594,7 +17597,6 @@
 11778|2|en|Gantz: Osaka Arc
 11778|4|ja|GANTZ:O
 11778|4|pl|GANTZ:O
-19356|1|x-jat|Ganzo! Bang Dream-chan
 3152|3|x-jat|GaoGaiGar (2005)
 3152|2|x-jat|GaoGaiGar FINAL -GGG-
 1717|3|x-jat|GaoGaiGar OVA
@@ -23373,6 +23375,7 @@
 3325|2|en|I and Myself: The Two Lottes
 16630|2|en|I Annoyed Millions of Cultivators
 8073|4|it|I bambini che inseguono le stelle
+19635|2|en|I Became a Legend After My 10 Year-Long Last Stand
 18438|2|en|I Became the Strongest with the Failure Frame "Abnormal State Skill" as i Devastated Everything
 3050|4|it|I bon bon magici di Lilly
 19337|1|x-kot|I Byeol-e Pil-yohan
@@ -27767,6 +27770,8 @@
 16912|4|en|Kingdom Season 4
 17655|4|en|Kingdom Season 5
 19295|4|en|Kingdom Season 6
+17655|4|de|Kingdom Staffel 5
+19295|4|de|Kingdom Staffel 6
 9672|2|x-jat|Kingdom: Dai 2 Series
 15259|2|x-jat|Kingdom: Dai 3 Series
 13862|4|ja|KINGSGLAIVE FFXV ファン感謝特別ムービー
@@ -28213,6 +28218,8 @@
 1224|1|x-jat|KO Seiki Beast Sanjuushi
 10160|1|x-jat|Koakuma Kanojo The Animation
 5747|1|x-jat|Koala Boy Kocky
+19637|1|x-jat|Koala Enikki
+19637|2|en|Koala`s Diary
 5747|4|de|Koalabärchens Streifzüge
 555|3|en|kob
 9984|3|x-jat|KobaKawa
@@ -28416,8 +28423,10 @@
 16199|1|x-jat|Koko Animal Otogibanashi
 1055|1|x-jat|Koko wa Green Wood
 1055|2|x-jat|Koko wa Greenwood
+19635|1|x-jat|Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natte Ita.
 8742|3|x-jat|kokoco
 18613|1|x-jat|Kokokara Hajimeru Monogatari
+19635|3|x-jat|kokoore
 4301|2|x-jat|Kokoro
 8742|1|x-jat|Kokoro Connect
 8742|4|en|Kokoro Connect
@@ -34706,7 +34715,7 @@
 6929|1|x-jat|Mikanbune
 6929|2|x-jat|Mikansen
 13252|3|x-jat|mikata
-19231|1|x-jat|Mikata ga Yowa Sugite Hojo Mahou ni Tesshite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou o Mezasu
+19231|1|x-jat|Mikata ga Yowasugite Hojo Mahou ni Tesshite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou o Mezasu
 7533|1|x-jat|Mikeneko Holmes no Yuurei Joushu
 299|4|de|Miki
 4381|3|en|miki
@@ -50976,6 +50985,7 @@
 5945|2|x-jat|Super Tokkyu Mazinger 7
 1314|2|en|Super Transformation Cosprayers
 8257|2|en|Super Veggie Torracman
+19638|1|x-kot|Super Wings The Movie: Maximum Speed
 13278|4|pl|Super Wings: Strażnicy Świata
 18590|4|en|SUPER XIANG
 2108|4|en|Super Yoyo
@@ -58032,6 +58042,7 @@
 3325|1|x-jat|Watashi to Watashi: Futari no Lotte
 12599|1|x-jat|Watashi wa Tofu Desu
 11817|1|x-jat|Watashi wa, Kairaku Izonshou
+18942|2|x-jat|Watashi wo Tabetai, Hitodenashi
 9364|1|x-jat|Watashi-tachi no Kurashi to Doboku Series
 13844|1|x-jat|Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!
 11979|3|x-jat|watashimote
@@ -69167,6 +69178,7 @@
 14013|4|ko|극장판 바이올렛 에버가든
 8418|2|ko|극장판 방과후의 플레이아데스
 8655|4|ko|극장판 슈타인즈 게이트: 부하영역의 데자뷰
+19638|4|ko|극장판 슈퍼윙스: 맥시멈 스피드
 10939|2|ko|극장판 시도니아의 기사
 12796|4|ko|극장판 안녕 자두야
 8694|4|ko|극장판 어떤 마술의 금서목록 엔디미온의 기적
@@ -71741,6 +71753,7 @@
 19610|4|ko|출동! 슈퍼윙스6
 19624|4|ko|출동! 슈퍼윙스7
 19630|4|ko|출동! 슈퍼윙스8
+19636|4|ko|출동! 슈퍼윙스9
 3433|4|ko|충사
 9556|2|ko|취성의 가르간티아
 10549|2|ko|취성의 가르간티아: 순환하는 항로, 저 멀리
@@ -74883,6 +74896,7 @@
 1782|4|ja|ゴールドライタン
 3668|5|ja|ゴールフィールドハンター
 5747|4|ja|コアラボーイコッキィ
+19637|4|ja|コアラ絵日記
 7884|4|ja|コイ☆セント
 8822|4|ja|こいけん! ~私たちアニメになっちゃった!~
 2831|4|ja|こいこい7
@@ -74914,9 +74928,11 @@
 203|4|ja|こげぱん
 18613|4|ja|ココカラ始メル物語
 1055|4|ja|ここはグリーン・ウッド
+19635|4|ja|ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた.
 8742|4|ja|ココロコネクト
 10126|4|ja|こころの交響楽
 290|4|ja|ココロ図書館
+19635|3|ja|ここ俺
 7026|4|ja|こざるのぶらんこ
 12315|2|ja|ゴジラ
 15770|4|ja|ゴジラ S.P
@@ -79579,6 +79595,7 @@
 6889|4|ja|ムクの木の話
 13070|4|ja|むさしの!
 18639|2|ja|ムジークタイガー
+19405|2|ja|ムジークタイガー (2025)
 5212|4|ja|ムシウタ
 16903|4|ja|ムシノユメ
 9666|4|ja|ムシブギョー
