@@ -1,4 +1,4 @@
-# created: Fri Oct  3 03:00:02 2025
+# created: Sat Oct  4 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3004,6 +3004,7 @@
 8181|3|x-jat|anohana
 9356|4|de|AnoHana - Die Blume die wir an jenem Tag sahen
 9356|3|en|Anohana Movie
+8181|2|de|AnoHana: Die Blume, die wir an jenem Tag sahen
 8181|4|en|Anohana: The Flower We Saw That Day
 8181|4|es-419|Anohana: The Flower We Saw That Day
 8181|4|es|Anohana: The Flower We Saw That Day
@@ -4481,6 +4482,7 @@
 15966|1|x-zht|Bai Yao Pu
 15967|2|x-zht|Bai Yao Pu 2
 17535|2|x-zht|Bai Yao Pu 3
+19068|2|x-zht|Bai Yao Pu 5th Season
 15967|1|x-zht|Bai Yao Pu Di Er Ji
 15967|2|x-zht|Bai Yao Pu Ⅱ
 17535|1|x-zht|Bai Yao Pu Jing Shi Pia
@@ -8596,6 +8598,7 @@
 6687|1|x-jat|Chikyuu Monogatari: Telepath 2500
 19568|1|x-jat|Chikyuu no Latair
 10051|1|x-jat|Chikyuu o Mitsumete
+4036|2|x-jat|Chikyuu Senshi Solon
 107|1|x-jat|Chikyuu Shoujo Arjuna
 7328|1|x-jat|Chikyuu SOS Sore Ike Kororin
 13920|1|x-jat|Chikyuu to no Yakusoku
@@ -15491,6 +15494,8 @@
 17535|2|en|Fairies Album 3
 17821|2|en|Fairies Album 4
 19068|2|en|Fairies Album 5
+19068|2|en|Fairies Album 5th Season
+19068|2|en|Fairies Albums Luoyang Arc
 3628|4|en|Fairy Dick
 5479|2|en|Fairy Florence
 5719|1|x-jat|Fairy Forest Remi-chan
@@ -27760,6 +27765,7 @@
 15259|2|x-unk|Kingdom 3
 16912|2|x-jat|Kingdom 4
 17655|2|x-jat|Kingdom 5
+19295|2|x-jat|Kingdom 6
 19334|1|x-jat|Kingdom Hearts X Back Cover
 1252|2|x-jat|Kingdom of Chaos
 1252|1|x-jat|Kingdom of Chaos: Born to Kill
@@ -45540,6 +45546,7 @@
 10220|1|x-kot|Saibi
 2204|2|x-unk|Saibôgu 009
 18868|1|x-jat|Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka
+18868|2|x-jat|Saigo ni Hitotsu dake Onegai Shitemo Yoroshii Deshou ka
 5135|1|x-jat|Saigo no Door o Shimero!
 19335|1|x-jat|Saigo no Kuushuu Kumagaya
 16261|1|x-jat|Saihate no Paladin
@@ -84022,6 +84029,7 @@
 327|4|zh-Hans|地球守护灵
 107|4|zh-Hans|地球少女Arjuna
 107|4|ja|地球少女アルジュナ
+4036|2|ja|地球戦士ソロン
 6687|4|ja|地球物語 -テレパス2500-
 10067|4|zh-Hans|地球队长
 615|4|zh-Hans|地球防卫家族
@@ -91199,6 +91207,7 @@
 17821|4|zh-Hans|百妖谱 司府篇
 19068|4|zh-Hans|百妖谱 洛阳篇
 15967|4|zh-Hans|百妖谱 第二季
+19068|2|zh-Hans|百妖谱 第五季
 15967|4|zh-Hant|百妖谱 第貳季
 17684|4|ja|百姓貴族
 18328|4|ja|百姓貴族 2nd Season
