@@ -1,4 +1,4 @@
-# created: Sat Oct  4 03:00:01 2025
+# created: Sun Oct  5 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -899,6 +899,7 @@
 11104|2|en|A Corpse Is Buried Under Sakurako`s Feet
 16188|4|en|A Couple of Cuckoos
 18773|4|en|A Couple of Cuckoos Season 2
+19231|2|en|A Court Magician, Who Was Focused on Supportive Magic Because His Allies Were too Weak, Aims to Become the Strongest After Being Banished, Story of Lasting Period
 2630|4|hu|A csodálatos Triton
 8229|4|en|A Dark Rabbit Has Seven Lives
 12874|2|en|A Day After a Hundred Years
@@ -14422,6 +14423,7 @@
 14544|1|x-jat|Eiga Star Twinkle Precure: Hoshi no Uta ni Omoi o Komete
 8489|1|x-jat|Eiga Suite Precure: Torimodose! Kokoro ga Tsunagu Kiseki no Melody
 15843|1|x-jat|Eiga Sumikko Gurashi: Aoi Tsukiyo no Mahou no Ko
+19639|1|x-jat|Eiga Sumikko Gurashi: Sora no Oukoku to Futari no Ko
 14683|1|x-jat|Eiga Sumikko Gurashi: Tobidasu Ehon to Himitsu no Ko
 17793|1|x-jat|Eiga Sumikko Gurashi: Tsugihagi Koujou no Fushigi na Ko
 12515|1|x-jat|Eiga Tamagotchi Himitsu no Otodoke Daisakusen!
@@ -23458,6 +23460,7 @@
 2548|4|it|I predatori del tempo
 4193|4|it|I Racconti di Terramare
 14449|2|en|I Reincarnated into an Otome Game as a Villainess With Only Destruction Flags...
+19633|2|en|I Saved Myself with a Potion! Life in Another World
 2728|4|it|I segreti dell`isola misteriosa
 10596|2|it|I Sette Peccati Capitali
 13286|2|it|I Sette Peccati Capitali - I prigionieri del cielo
@@ -27771,6 +27774,7 @@
 1252|1|x-jat|Kingdom of Chaos: Born to Kill
 17474|2|en|Kingdom of Gold, Kingdom of Water
 17655|2|en|Kingdom S5
+19295|2|x-jat|Kingdom S6
 9672|4|en|Kingdom Season 2
 15259|4|en|Kingdom Season 3
 16912|4|en|Kingdom Season 4
@@ -36124,6 +36128,7 @@
 7261|1|x-jat|Mudazumo Naki Kaikaku: The Legend of Koizumi
 10322|4|en|Mug Travel
 15373|4|hu|Muge
+18989|3|x-jat|Mugen Gacha
 10758|1|x-jat|Mugen Kouro
 5679|1|x-jat|Mugen no Juunin
 14912|2|x-jat|Mugen no Juunin (2019)
@@ -50764,6 +50769,7 @@
 18256|1|x-jat|suma Netori Kan: Bijutsu Kyoushi no Baai
 18256|4|ja|suma Netori Kan: Bijutsu Kyoushi no Baai
 889|1|x-jat|Sumeba Miyako no Cosmos-sou Suttoko Taisen Dokkoider
+19639|2|en|Sumikko Gurashi the Movie: The Kingdom of the Sky and Two Children
 14683|4|en|Sumikko Gurashi the Movie: The Unexpected Picture Book and the Secret Child
 19305|1|x-jat|Sumikko Gurashi: Koko ga Ochitsukun Desu
 10707|1|x-jat|Sumiko
@@ -56658,6 +56664,7 @@
 4133|4|it|Un`Estate con Kuro
 8270|4|es-419|Una Carta para Momo
 2291|4|it|Una classe di monelli per Jo
+19145|4|es|Una estrella más radiante que el Sol
 8270|4|it|Una lettera per Momo
 2096|4|it|Una Miss Scacciafantasmi
 16188|4|es|Una pareja de cucos
@@ -83995,6 +84002,7 @@
 12889|4|zh-Hans|地狱少女 宵伽
 2101|4|zh-Hans|地狱教师 剧场版
 2100|2|zh-Hans|地狱老师
+18767|4|zh-Hans|地狱老师 2025年版
 4017|4|zh-Hans|地狱老师 OVA
 4018|4|zh-Hans|地狱老师 午夜0点，阿鸣必死！
 2100|4|ja|地獄先生ぬ~べ~
@@ -84734,6 +84742,7 @@
 16029|2|zh-Hans|失格紋的最強賢者
 16029|4|zh-Hans|失格纹的最强贤者
 5640|4|ja|失楽園
+19143|4|zh-Hans|失神勇者与暗杀公主
 403|2|zh-Hans|失落的宇宙
 12523|4|zh-Hans|失落的歌谣
 135|4|zh-Hans|头文字D
@@ -88249,6 +88258,7 @@
 8939|4|ja|映画 スマイルプリキュア! 絵本の中はみんなチグハグ!
 17793|4|ja|映画 すみっコぐらし ツギハギ工場のふしぎなコ
 14683|4|ja|映画 すみっコぐらし とびだす絵本とひみつのコ
+19639|4|ja|映画 すみっコぐらし 空の王国とふたりのコ
 15843|4|ja|映画 すみっコぐらし 青い月夜のまほうのコ
 15974|2|ja|映画 スラムダンク
 9690|4|ja|映画 ドキドキ! プリキュア マナ結婚!!? 未来につなぐ希望のドレス
