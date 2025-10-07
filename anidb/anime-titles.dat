@@ -1,4 +1,4 @@
-# created: Sun Oct  5 03:00:02 2025
+# created: Mon Oct  6 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8477,6 +8477,7 @@
 9|2|x-jat|Chicchana Yukitsukai Sugar
 11337|1|x-jat|Chichi to Ko
 18437|1|x-jat|Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tensei-sha.
+18437|2|x-jat|Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha
 10236|1|x-jat|Chichi-iro Toiki
 13751|1|x-jat|Chichibu de Buchichi
 10236|2|x-jat|Chichiiro Toiki
@@ -10338,7 +10339,7 @@
 5419|3|x-jat|dacapo s3
 5652|3|x-jat|dacapo s4
 9307|3|x-jat|dacapo s5
-18437|2|en|Dad is a Hero, Mom is a Spirit, I`m a Reincarnator
+18437|4|en|Dad Is a Hero, Mom Is a Spirit, I`m a Reincarnator
 18927|1|x-zht|Dadao Chaotian
 6986|4|en|Daddy Long Legs
 19451|4|en|Daemons of the Shadow Realm
@@ -27759,6 +27760,7 @@
 15530|4|en|King`s Raid: Successors of the Will
 8791|1|x-jat|Kingdom
 8791|4|en|Kingdom
+8791|4|de|Kingdom
 8791|2|en|Kingdom (2012)
 9672|1|x-jat|Kingdom (2013)
 15259|1|x-jat|Kingdom (2020)
@@ -27780,6 +27782,9 @@
 16912|4|en|Kingdom Season 4
 17655|4|en|Kingdom Season 5
 19295|4|en|Kingdom Season 6
+9672|4|de|Kingdom Staffel 2
+15259|4|de|Kingdom Staffel 3
+16912|4|de|Kingdom Staffel 4
 17655|4|de|Kingdom Staffel 5
 19295|4|de|Kingdom Staffel 6
 9672|2|x-jat|Kingdom: Dai 2 Series
@@ -39498,6 +39503,7 @@
 17576|4|en|One Punch Man (2025)
 12430|2|en|One Punch Man S2
 17576|2|en|one punch man s3
+17576|4|de|One Punch Man Staffel 3
 11123|4|ja|ONE PUNCH MAN ワンパンマン
 12430|4|ja|ONE PUNCH MAN ワンパンマン (2019)
 11637|4|ja|ONE PUNCH MAN ワンパンマン ロード・トゥ・ヒーロー
@@ -39534,6 +39540,7 @@
 11123|4|en|One-Punch Man
 11123|2|pl|One-Punch Man
 11637|2|en|One-Punch Man OVA
+17576|2|en|One-Punch Man S3
 17576|2|en|One-Punch Man Season 3
 12430|2|en|One-Punch Man: Season 2
 3094|2|en|One-shot Kanta
@@ -45550,7 +45557,7 @@
 12923|2|en|SAI: Part 1 / Revolving... to the Core
 10220|1|x-kot|Saibi
 2204|2|x-unk|Saibôgu 009
-18868|1|x-jat|Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka
+18868|1|x-jat|Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshouka
 18868|2|x-jat|Saigo ni Hitotsu dake Onegai Shitemo Yoroshii Deshou ka
 5135|1|x-jat|Saigo no Door o Shimero!
 19335|1|x-jat|Saigo no Kuushuu Kumagaya
@@ -48638,6 +48645,7 @@
 335|4|it|Si sente il mare
 142|4|es|Si Te Veo En Mis Sueños
 336|4|fr|Si tu tends l`oreille
+19501|2|en|SI-VIS - The Sound of Heroes
 19501|4|ja|SI-VIS: The Sound of Heroes
 19501|1|x-jat|Si-Vis: The Sound of Heroes
 19501|4|en|Si-Vis: The Sound of Heroes
@@ -48697,7 +48705,6 @@
 2334|2|x-jat|Silent Moebius: The Motion Picture
 1185|4|en|Silent Service
 10937|4|fr|Silent Voice
-18795|2|x-jat|Silent Witch
 18795|2|zh-Hans|Silent Witch 沉默魔女的秘密
 18795|1|x-jat|Silent Witch: Chinmoku no Majo no Kakushigoto
 4560|2|en|Silk Road Boy Yuto
@@ -51051,6 +51058,7 @@
 1392|4|pl|Superświnka
 14748|4|hr|Superzločinci
 15215|4|en|Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town?
+18920|2|en|Supreme Alchemy
 17258|2|en|Supreme Galaxy
 17333|2|en|Supreme Galaxy Season 2
 15573|2|en|Supreme God Emperor
@@ -58466,6 +58474,9 @@
 18816|1|x-jat|Witch Watch
 18816|4|en|Witch Watch
 18816|4|pl|Witch Watch
+19640|4|ja|WITCH WATCH 2
+19640|1|x-jat|Witch Watch 2
+19640|2|en|Witch Watch 2
 18816|4|zh-Hant|WITCH WATCH 魔女守護者
 286|2|en|Witch`s Delivery Service
 2511|1|x-jat|Witchblade
@@ -67466,6 +67477,7 @@
 13256|2|ar|رحلة الفتاتان الأخيرة
 5552|2|ar|رحلة بورفي الطويلة
 265|4|ar|رحلة عنابة
+7287|4|ar|رحلة نحول
 181|2|fa|رُز ورسای
 1672|4|ar|رعد العملاق
 6773|2|fa|رقص در باند خون آشام
