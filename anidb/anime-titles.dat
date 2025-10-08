@@ -1,4 +1,4 @@
-# created: Mon Oct  6 03:00:02 2025
+# created: Tue Oct  7 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -951,6 +951,7 @@
 7294|2|pt|A Garota dos Livros: Lanche de Hoje - Primeiro Amor
 7441|2|pt|A Garota dos Livros: Memória
 4151|2|pt-BR|A Garota que Salta Através do Tempo
+19204|4|de|A Gatherer`s Adventure in Isekai
 19204|4|en|A Gatherer`s Adventure in Isekai
 18914|2|en|A Gentle Noble`s Vacation Recommendation
 17666|4|en|A Girl & Her Guard Dog
@@ -2199,6 +2200,7 @@
 11848|2|tr|Akuma`nın Gri Çocuğu: Azizlerin Gecesi
 1480|1|x-jat|Akuu Daisakusen Srungle
 17937|2|x-jat|Akuyaku LV99
+17937|2|x-jat|Akuyaku Reijou Level 99
 17937|1|x-jat|Akuyaku Reijou Level 99: Watashi wa Ura Boss Desu ga Maou de wa Arimasen
 16826|1|x-jat|Akuyaku Reijou nano de Last Boss o Katte Mimashita
 19360|1|x-jat|Akuyaku Reijou no Naka no Hito
@@ -3053,6 +3055,7 @@
 11203|2|x-jat|Ansatsu Kyoushitsu: Final Season
 11203|2|x-jat|Ansatsu Kyoushitsu: Second Season
 15475|1|x-jat|Ansatsu Kyoushitsu: Second Season - Kagaijugyou Hen
+19162|2|x-jat|Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga
 19162|1|x-jat|Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi Nodaga
 2427|4|fr|Anthologie de la littérature japonaise
 11705|4|en|Anthology With Cranes
@@ -6692,6 +6695,7 @@
 3983|1|x-jat|Bokutachi Pichu Brothers: Party wa Oosawagi! no Maki
 14289|1|x-jat|Bokutachi wa Benkyou ga Dekinai
 14968|2|x-jat|Bokutachi wa Benkyou ga Dekinai (2019)
+14968|2|x-jat|Bokutachi wa Benkyou ga Dekinai 2
 14918|1|x-jat|Bokutachi wa Benkyou ga Dekinai: Nagisa ni Usemono Arite Senjin wa Enzen to [X] Suru
 14968|1|x-jat|Bokutachi wa Benkyou ga Dekinai!
 16111|1|x-jat|Bokutachi wa Benkyou ga Dekinai!: Chapel no Kane wa [X] o Shukufuku Suru
@@ -10586,6 +10590,7 @@
 10735|1|x-jat|Dangobee Torimono Chou: Hirakeegoma no Maki
 1917|4|it|Danguard
 1917|4|en|Danguard Ace
+17565|2|x-jat|Danjo no Yuujou wa Seiritsu suru?
 17565|1|x-jat|Danjo no Yuujou wa Seiritsu Suru? (Iya, Shinai!!)
 17565|3|x-jat|danjoru
 7196|2|en|Dankichi on a Tropical Island
@@ -18776,6 +18781,7 @@
 9384|2|x-jat|Gintama: Kanketsuhen - Yorozuya yo Eien Nare
 11850|2|en|Gintama: Love Incense Arc
 15105|1|x-jat|Gintama: Monster Strike-hen
+17919|4|de|Gintama: Mr. Ginpachi`s Zany Class
 17919|4|en|Gintama: Mr.Ginpachi`s Zany Class
 3468|2|en|Gintama: Season 1
 9427|2|en|Gintama: Season 2
@@ -24695,6 +24701,7 @@
 17290|1|x-jat|Isekai Nonbiri Nouka
 19506|1|x-jat|Isekai Nonbiri Nouka 2
 16389|1|x-jat|Isekai Ojisan
+17248|2|x-jat|Isekai One Turn Kill Nee-san
 17248|1|x-jat|Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita
 18288|4|en|Isekai Onsen Paradise
 14435|1|x-jat|Isekai Quartet
@@ -34370,6 +34377,7 @@
 14702|2|en|Meow Meow Japanese History (2019)
 11884|1|x-jat|Meow no Hoshi
 11884|2|en|Meow`s Star
+13768|3|en|Merc Storia
 13768|2|ja|Merc Storia – Mukiryoku Shounen to Bin no Naka no Shoujo
 13768|1|x-jat|Merc Storia: Mukiryoku Shounen to Bin no Naka no Shoujo
 13768|4|en|Merc Storia: The Apathetic Boy and the Girl in a Bottle
@@ -36691,6 +36699,7 @@
 17449|2|en|My Star
 18086|2|en|My Star (2024)
 19162|4|en|My Status as an Assassin Obviously Exceeds the Hero`s
+19162|4|de|My Status as an Assassin Obviously Exceeds the Hero`s
 5078|4|en|My Steady Is a Witch
 16457|4|en|My Stepmom`s Daughter Is My Ex
 19492|2|en|My Stepmother and Stepsisters Aren`t Wicked
@@ -51912,6 +51921,7 @@
 15071|3|x-jat|tate3
 18439|3|x-jat|tate4
 4889|1|x-jat|Tatoe Kimi ga Sekaijuu no Teki ni Natte mo
+15215|2|x-jat|Tatoeba Last Dungeon
 15215|1|x-jat|Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu You na Monogatari
 2230|2|x-jat|Tatsu no Ko Taro
 2230|1|x-jat|Tatsu no Ko Tarou
@@ -51970,6 +51980,7 @@
 13146|1|x-jat|Teakamamire no Tenshi The Animation
 17608|4|en|Tearmoon Empire
 17608|2|en|Tearmoon Empire Story
+17608|2|x-jat|Tearmoon Teikoku Monogatari
 17608|1|x-jat|Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story
 5596|1|x-jat|Tears to Tiara
 5596|4|en|Tears to Tiara
@@ -52313,6 +52324,7 @@
 12934|2|en|Tensei Kendo no Harem Colosseum
 12934|2|x-jat|Tensei Kendo no Kozukuri Tougijou
 12934|2|x-jat|Tensei Kendo no Kozukuri Tougijou: Harem Colosseo
+16030|2|x-jat|Tensei Kenja no Isekai Life
 16030|1|x-jat|Tensei Kenja no Isekai Life: Daini no Shokugyou o Ete, Sekai Saikyou ni Narimashita
 17552|1|x-jat|Tensei Kizoku no Isekai Boukenroku: Jichou o Shiranai Kamigami no Shito
 18026|1|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru
@@ -53335,6 +53347,7 @@
 17026|4|id|The Imaginary
 17026|4|tl|The Imaginary
 4617|4|en|The Immorals
+18897|2|en|The Immortal Doctor
 13660|4|en|The Immortal Legend
 19297|2|en|The Immortal Traces
 15376|2|en|The Import Player`s Entry!!
@@ -58039,6 +58052,7 @@
 18203|4|en|Watari-kun`s ****** Is About to Collapse
 18749|1|x-jat|Wataridori to Katatsumuri
 3636|3|x-jat|wataru
+19001|2|x-jat|Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri!
 19001|1|x-jat|Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (*Muri ja Nakatta!?)
 19601|1|x-jat|Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (*Muri ja Nakatta!?): Next Shine!
 9582|1|x-jat|Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!
@@ -89608,11 +89622,13 @@
 8184|4|zh-Hans|永远之久远
 605|2|zh-Hans|永远和你在一起
 5943|4|zh-Hans|永远的菲蕾娜
+19415|4|zh-Hans|永远的黄昏
 12932|4|ja|永遠
 16513|4|ja|永遠の831
 2862|4|ja|永遠のアセリア
 5943|4|ja|永遠のフィレーナ
 4631|4|ja|永遠の法
+19415|4|zh-Hant|永遠的黃昏
 15004|4|zh-Hans|汉化日记
 17122|4|zh-Hans|汉化日记 第三季
 16720|4|zh-Hans|汉化日记 第二季
@@ -94386,6 +94402,8 @@
 7663|4|ja|野球狂の詩 北の狼南の虎
 11349|4|ja|野球部あるある
 18831|4|ja|野生のラスボスが現れた!
+18831|4|zh-Hans|野生的大魔王出现了！
+18831|4|zh-Hant|野生的大魔王出現了！
 13210|4|ja|野良スコ
 8083|4|zh-Hans|野良剧
 11864|4|zh-Hans|野良和皇女和流浪猫之心
@@ -95843,6 +95861,7 @@
 4011|4|zh-Hans|魔法公主 明琪桃子 第二季
 4012|4|zh-Hans|魔法公主明琪桃子 梦中的轮舞
 19583|4|zh-Hans|魔法公主的小烦恼
+19583|4|zh-Hant|魔法公主的小煩惱
 18750|4|zh-Hans|魔法制造者 ~异世界魔法的制作方法~
 1063|4|zh-Hans|魔法咪路咪路
 5656|2|zh-Hans|魔法学园MA
