@@ -1,4 +1,4 @@
-# created: Tue Oct  7 03:00:02 2025
+# created: Wed Oct  8 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1139,7 +1139,7 @@
 15473|4|ja|A song for You! You? You!!
 15473|1|x-jat|A Song for You! You? You!!
 4397|4|en|A Spirit of the Sun
-19145|2|en|A Star Brighter Than the Sun
+19145|4|en|A Star Brighter Than the Sun
 10082|4|en|A Starry Tale
 11711|2|en|A Story in Summertime
 13420|2|en|A Story of How a Russian Girl Suddenly Became a Part of My Back-Country Household and How Lots of Sex Ensued
@@ -16546,6 +16546,7 @@
 13537|4|en|Forest of Piano
 14193|2|en|Forest of Piano: Season 2
 13133|2|en|Forest Painting
+19619|4|en|Forget That Night, Your Majesty.
 1551|2|en|Forgotten Melody
 14340|2|fr|Formation d’hôpital avec ma petite amie infirmière
 1271|2|en|Formators
@@ -18754,6 +18755,7 @@
 3468|4|es|Gintama
 3468|4|en|Gintama
 3468|2|tr|Gintama
+17919|2|x-jat|Gintama - 3-nen Z-gumi Ginpachi-sensei
 9384|4|de|Gintama - The Movie 2 - Das letzte Kapitel: Für immer die Alles-Agentur
 8126|3|x-jat|gintama (2011)
 9427|3|x-jat|gintama (2012)
@@ -20491,6 +20493,7 @@
 4751|1|x-jat|Haha o Tazunete Sanzenri (1980)
 15057|1|x-jat|Haha o Tazunete Sanzenri (1985)
 7222|1|x-jat|Haha Sange
+18437|3|en|Hahanoha
 1383|3|x-jat|hahawotazu
 8832|4|vi|Hai đứa con của chó sói
 1936|2|x-jat|Hai Step Jun
@@ -21447,7 +21450,8 @@
 11766|4|en|Heidi: Girl of the Alps Pilot
 7659|4|en|Heidi: Girl of the Alps: Heidi and Clara
 7658|4|en|Heidi: Girl of the Alps: Mt. Alm
-19619|1|x-jat|Heika Watashi wo Wasurete Kudasai
+19619|3|x-jat|heika
+19619|1|x-jat|Heika Watashi o Wasurete Kudasai
 16601|3|x-jat|heike
 16601|1|x-jat|Heike Monogatari
 16127|1|x-jat|Heikousen
@@ -30922,6 +30926,7 @@
 7294|2|en|Literature Girl: Today`s Snack - First Love
 9132|3|x-jat|littbus
 1892|2|en|Little Akane
+19641|1|en|Little Astro Boy
 8226|4|it|Little Battlers eXperience
 8226|2|en|Little Battlers eXperience
 14376|2|en|Little Bean!
@@ -55287,6 +55292,7 @@
 5172|1|x-jat|Tondemo Senshi Muteking
 17689|1|x-jat|Tondemo Skill de Isekai Hourou Meshi
 18257|1|x-jat|Tondemo Skill de Isekai Hourou Meshi 2
+18257|2|x-jat|Tondemo Skill de Isekai Hourou Meshi S2
 3498|1|x-jat|Tondera House no Daibouken
 13813|3|x-jat|tonegawa
 14963|1|x-zht|Tong Ling Fei
@@ -80505,6 +80511,7 @@
 5560|4|ja|ロボタン (1986)
 13736|4|ja|ロボタン (1989)
 1163|2|ja|ロボット・カーニバル
+19641|4|ja|ろぼっとアトム
 1163|4|ja|ロボットカーニバル
 13957|4|ja|ロボットガールズNEO
 10001|4|ja|ロボットガールズZ
@@ -94957,6 +94964,7 @@
 13442|4|zh-Hans|降灵记
 8543|4|ja|限りなき楽園
 9979|4|zh-Hans|限制级杀手
+19619|3|ja|陛下
 19619|4|ja|陛下わたしを忘れてください
 4783|2|zh-Hans|除魔维纳斯
 14197|4|zh-Hans|陪睡女友：紧紧抱着你
