@@ -1,4 +1,4 @@
-# created: Wed Oct  8 03:00:02 2025
+# created: Thu Oct  9 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -631,6 +631,7 @@
 4678|4|ja|3丁目のタマ うちのタマ知りませんか? (1994)
 5334|4|ja|3丁目のタマ おねがい! モモちゃんを捜して!!
 12366|4|zh-Hans|3年D班玻璃假面
+17919|4|zh-Hans|3年Z班银八老师
 11606|4|ja|3月のライオン
 12994|4|ja|3月のライオン (2017)
 11395|4|ja|3月のライオン meets BUMP OF CHICKEN
@@ -826,6 +827,7 @@
 3354|2|uk|9 історій кохання
 3354|2|ar|9 قصص حب
 18660|4|ja|9-nine- Ruler`s Crown
+18660|4|zh-Hans|9-nine- 支配者的王冠
 18660|1|x-jat|9: Ruler`s Crown
 12014|4|ja|91 Days
 12014|1|x-jat|91 Days
@@ -7591,7 +7593,9 @@
 3560|4|pt|Campeões: Oliver e Benji - O Jogo da Vingança
 508|4|es|Campeones: Hacia el Mundial
 505|4|es|Campeones: Oliver y Benji
+17689|4|de|Campfire Cooking in Another World with My Absurd Skill
 18257|4|en|Campfire Cooking in Another World with My Absurd Skill Season 2
+18257|4|de|Campfire Cooking in Another World with My Absurd Skill Staffel 2
 17689|4|en|Campfire Cooking in Another World with My Absurd Skills
 8861|4|es|Campione!
 8861|4|es-419|Campione!
@@ -34124,6 +34128,7 @@
 12461|1|x-jat|Meiji Tokyo Renka
 12461|4|en|Meiji Tokyo Renka
 16082|4|x-jat|Meijou
+16082|2|x-jat|Meijyou
 3305|1|x-jat|Meiken Jolie
 2289|1|x-jat|Meiken Lassie
 647|4|en|MeiKing
@@ -52324,6 +52329,7 @@
 16028|1|x-jat|Tensai Ouji no Akaji Kokka Saisei Jutsu
 7449|1|x-jat|Tensai? Dr. Hamax
 16028|3|x-jat|tensaiouji
+18497|2|x-jat|Tensei Akujo no Kuro Rekishi
 18497|1|x-jat|Tensei Akujo no Kurorekishi
 12934|1|x-jat|Tensei Kendo no Harem Colosseo
 12934|2|en|Tensei Kendo no Harem Colosseum
@@ -80700,6 +80706,7 @@
 11123|4|zh-Hans|一拳超人
 11123|4|zh-Hant|一拳超人
 11637|4|zh-Hans|一拳超人 OAD
+17576|4|zh-Hans|一拳超人 第三季
 12430|4|zh-Hans|一拳超人 第二季
 12430|4|zh-Hant|一拳超人 第二季
 17248|3|ja|一撃姉
@@ -85664,6 +85671,7 @@
 11153|4|zh-Hans|小恐龙阿贡 第二季
 17284|2|zh-Hans|小恶魔之约
 10160|4|ja|小悪魔カノジョ THE ANIMATION
+19196|4|zh-Hans|小手指同学，请别乱摸
 14834|4|zh-Hans|小明和王猫
 5278|2|zh-Hans|小春日和
 17494|4|zh-Hant|小智是女孩啦！
@@ -86024,6 +86032,7 @@
 14568|4|zh-Hans|巨虫列岛 OAD
 14568|4|ja|巨蟲列島
 15631|4|zh-Hant|巫人神傳說
+18989|4|zh-Hans|差点在迷宫深处被信任的伙伴杀掉，但靠着天赐技能「无限扭蛋」获得等级9999的伙伴，我要向前队友和世界展开复仇&「给他们好看！」
 6808|4|ja|巴がゆく!
 15341|4|zh-Hans|巴克·亚罗
 14839|4|zh-Hans|巴加的工作室 ～巴加眼中的海洋～
@@ -86373,6 +86382,7 @@
 11921|4|zh-Hans|影鳄 承
 6338|4|ja|彷徨う淫らなルナティクス
 16971|4|zh-Hans|彻夜之歌
+18531|4|zh-Hans|彻夜之歌 第二季
 15299|4|ja|彼女, お借りします
 15743|4|ja|彼女, お借りします (2022)
 17629|4|ja|彼女, お借りします (2023)
@@ -86859,6 +86869,7 @@
 17482|3|zh-Hans|惩戒2
 11799|4|ja|想いのかけら
 17388|4|ja|想い出のグリーングラス
+18942|4|zh-Hans|想吃掉我的非人少女
 15373|4|zh-Hans|想哭的我戴上了猫的面具
 15373|4|zh-Hant|想哭的我戴上了貓的面具
 17695|4|zh-Hans|想当冒险者前往都市的女儿成为S级
@@ -88623,6 +88634,7 @@
 9782|4|zh-Hans|有顶天家族
 12417|4|zh-Hans|有顶天家族2
 16948|4|zh-Hans|朋友游戏
+16026|4|zh-Hans|朋友的妹妹只缠着我
 16948|4|zh-Hant|朋友遊戲
 17320|4|ja|望まぬ不死の冒険者
 19052|4|ja|望まぬ不死の冒険者 2
@@ -88808,6 +88820,7 @@
 11778|4|zh-Hans|杀戮都市:O
 17674|4|zh-Hans|杀手奶爸
 18108|4|zh-Hans|杀手寓言
+18973|4|zh-Hans|杀手旅店
 15917|4|zh-Hans|杀爱
 18046|2|zh-Hans|杂旅
 16675|4|zh-Hans|李林克的 小馆儿
@@ -89563,6 +89576,7 @@
 11094|4|ja|水の精・河童百図
 2145|4|ja|水夏 ~SUIKA~
 19097|4|ja|水属性の魔法使い
+19097|4|zh-Hans|水属性的魔法师
 19097|4|zh-Hant|水屬性的魔法師
 2763|2|zh-Hans|水平线上的阴谋
 2659|4|zh-Hant|水星領航員 The ANIMATION
@@ -89956,6 +89970,7 @@
 15212|2|zh-Hans|渔童
 18203|4|ja|渡くんの××が崩壊寸前
 18749|4|ja|渡り鳥とカタツムリ
+18203|4|zh-Hans|渡君的××即将崩坏
 7261|4|zh-Hans|渣和无用改革
 11342|4|ja|温泉幼精ハコネちゃん
 11342|4|zh-Hans|温泉幼精箱根酱
