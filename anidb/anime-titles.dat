@@ -1,4 +1,4 @@
-# created: Thu Oct  9 03:00:02 2025
+# created: Fri Oct 10 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -171,7 +171,7 @@
 18086|4|zh-Hans|[我推的孩子] (2024)
 17449|4|ja|[推しの子]
 18086|4|ja|[推しの子] (2024)
-18901|4|ja|[推しの子] 3
+18901|4|ja|[推しの子] (2026)
 16168|2|x-jat|{takt: op. Destiny}
 18424|4|ja|〈物語〉シリーズ オフ＆モンスターシーズン
 19436|4|ja|〈物語〉シリーズ オフ＆モンスターシーズン (新エピソード)
@@ -1110,7 +1110,8 @@
 19003|4|pt-BR|A Regra Secreta da Casa Compartilhada
 19003|4|pt|A Regra Secreta da Casa Compartilhada
 17944|4|en|A Returner`s Magic Should Be Special
-18345|2|en|A Returner`s Magic Should Be Special 2
+18345|4|en|A Returner`s Magic Should Be Special (2026)
+18345|2|en|A Returner`s Magic Should be Special Season 2
 3|4|pt|A Revolta dos Humanos - 3x3 Olhos
 17583|4|hu|A romantikus gyilkos
 181|4|pt-BR|A Rosa de Versalhes
@@ -27427,7 +27428,7 @@
 4300|3|x-jat|kikansha
 17944|3|x-jat|kikansha (2023)
 17944|1|x-jat|Kikansha no Mahou wa Tokubetsu Desu
-18345|1|x-jat|Kikansha no Mahou wa Tokubetsu Desu 2
+18345|1|x-jat|Kikansha no Mahou wa Tokubetsu Desu (2026)
 7456|1|x-jat|Kikansha Yaemon
 2219|1|x-jat|Kikansha Yaemon: D51 no Daibouken
 2219|2|x-jat|Kikanshaemon D51 no Dai Boken
@@ -40109,8 +40110,8 @@
 17449|4|en|Oshi no Ko
 17449|4|fr|Oshi no Ko
 18086|4|en|Oshi no Ko (2024)
+18901|4|en|Oshi no Ko (2026)
 18086|2|x-jat|Oshi no Ko 2
-18901|2|en|Oshi no Ko 3
 18086|2|x-jat|Oshi no Ko Season 2
 14087|3|x-jat|Oshibudou
 13836|1|x-jat|Oshie to Tabi Suru Otoko
@@ -47019,6 +47020,7 @@
 5581|4|pl|Sekret Haruki Nogizaki
 14466|4|pl|Sekretny świat kotów
 15412|1|x-jat|Sekufure Osananajimi: Shojo to Doutei wa Hazukashii tte Minna ga Iu kara The Animation
+10892|4|de|Sekunden in Moll
 99|3|x-jat|SEL
 18361|4|id|Selamat Datang di Duniaku, Nona Elf
 15904|4|en|Selection Project
@@ -47778,10 +47780,12 @@
 18492|1|x-jat|Shibuya Hachi
 18822|1|x-jat|Shibuya Hachi (2024)
 19274|1|x-jat|Shibuya Hachi (2025)
+19642|1|x-jat|Shibuya Hachi (2025) TV
 18822|2|x-jat|Shibuya Hachi Part 2
 18492|4|ja|SHIBUYA♡HACHI
 18822|4|ja|SHIBUYA♡HACHI (2024)
 19274|4|ja|SHIBUYA♡HACHI (2025)
+19642|4|ja|SHIBUYA♡HACHI (2025) TV
 16119|1|x-jat|Shichigahama de Mitsuketa
 853|1|x-jat|Shichinin no Nana
 13439|1|x-jat|Shichisei no Subaru
@@ -52589,7 +52593,7 @@
 16776|4|es|That Time I Got Reincarnated as a Slime la película: El vínculo escarlata
 14526|4|en|That Time I Got Reincarnated as a Slime OAD
 16776|4|en|That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond
-18885|2|en|That Time I Got Reincarnated as a Slime the Movie: Tears of the Blue Sea Arc
+18885|4|en|That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea
 17873|4|en|That Time I Got Reincarnated as a Slime: Visions of Coleus
 13763|2|en|That`s (the reason) Why I`m Going To (Rape my niece) Her
 18046|2|en|That`s Journey
@@ -65322,6 +65326,7 @@
 16963|4|uk|Сім смертних гріхів: Гнів Единбургу
 15997|4|uk|Сім смертних гріхів: Прокляття світла
 17355|4|uk|Сім смертних гріхів: Чотири лицарі Апокаліпсису
+16947|4|uk|Сім’я шпигуна
 17488|2|ru|Сказ о парии
 7243|2|ru|Сказ о четырёх с половиной татами
 9515|2|ru|Сказание о принцессе Кагуя
@@ -66179,6 +66184,7 @@
 6322|2|ru|Шок-подружка
 11894|2|ru|Шоколад Купидона
 5986|2|uk|Шоколадне підпілля
+16947|2|uk|Шпигун та сім’я
 17256|4|uk|Шпигунський клас
 1300|2|ru|Шрам русалки
 15156|2|ru|Штурмовая Лилия: Букет
@@ -70394,6 +70400,7 @@
 14189|4|ko|사이키 쿠스오의 재난: 완결편
 14797|2|ko|사이키 쿠스오의 재난: 재시동 편
 17203|2|ko|사자나미 소우지에게 순결을 바치다
+19351|2|ko|사축 신데렐라
 14515|4|ko|사춘기 섹스
 5844|2|ko|사춘기 소녀
 16542|2|ko|사춘기의 공부
@@ -70588,6 +70595,7 @@
 18110|2|ko|순정 데카메론
 9940|2|ko|순정소녀
 13147|4|ko|술은 부부가 된 후에
+19422|2|ko|숨바꼭질 The Animation
 7729|2|ko|슈타인즈 게이트
 10887|4|ko|슈타인즈 게이트: 총명예지의 코그니티브 컴퓨팅
 11167|4|ko|슈타인즈;게이트 0
@@ -70675,6 +70683,7 @@
 10713|2|ko|시도니아의 기사: 제9 혹성전역
 17135|4|ko|시맨틱 에러
 18825|4|ko|시선의 너머
+19514|2|ko|시스터 브리더
 8646|2|ko|시오후키 머메이드
 5836|2|ko|시온
 10538|4|ko|시원찮은 그녀를 위한 육성방법
@@ -86092,7 +86101,7 @@
 11587|4|ja|帰ってきてよぉ富山から
 9857|4|ja|帰宅部活動記録
 17944|4|ja|帰還者の魔法は特別です
-18345|4|ja|帰還者の魔法は特別です 2
+18345|4|ja|帰還者の魔法は特別です (2026)
 13004|4|zh-Hant|帶著智慧型手機闖蕩異世界。
 18814|4|zh-Hans|常轨脱离
 15729|4|zh-Hans|帽子革命瓶子人
