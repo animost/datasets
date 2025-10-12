@@ -1,4 +1,4 @@
-# created: Fri Oct 10 03:00:01 2025
+# created: Sat Oct 11 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -955,7 +955,7 @@
 4151|2|pt-BR|A Garota que Salta Através do Tempo
 19204|4|de|A Gatherer`s Adventure in Isekai
 19204|4|en|A Gatherer`s Adventure in Isekai
-18914|2|en|A Gentle Noble`s Vacation Recommendation
+18914|4|en|A Gentle Noble`s Vacation Recommendation
 17666|4|en|A Girl & Her Guard Dog
 7044|2|en|A Girl at Dojo Temple
 1090|2|en|A Girl in a Lower Grade
@@ -2507,6 +2507,9 @@
 8832|2|de|Ame und Yuki - Die Wolfskinder
 13282|4|en|Ame-Con!!
 10994|1|x-jat|Ame-iro Cocoa
+11338|2|x-jat|Ame-iro Cocoa (2015)
+12106|2|x-jat|Ame-iro Cocoa (2016)
+13282|2|x-jat|Ame-iro Cocoa (2017)
 14039|2|en|Ame-iro Cocoa (2019)
 12106|1|x-jat|Ame-iro Cocoa in Hawaii
 13282|1|x-jat|Ame-iro Cocoa Series: Ame-con!!
@@ -4277,8 +4280,11 @@
 2825|2|en|B-Legend! Battle Bedaman Fire Spirits
 12044|4|en|B-Project
 13495|2|en|B-Project (2019)
+15866|2|x-jat|B-Project (2023)
 13495|2|en|B-Project S2
 15866|3|en|B-Project S3
+13495|2|en|B-Project Season 2
+15866|2|en|B-Project Season 3
 15866|4|ja|B-PROJECT 熱烈＊ラブコール
 12044|4|ja|B-PROJECT 鼓動*アンビシャス
 12044|1|x-jat|B-Project: Kodou Ambitious
@@ -4904,6 +4910,7 @@
 17438|4|ja|BanG Dream! Morfonication
 15517|4|en|BanG Dream! Poppin`Dream!
 14075|2|en|BanG Dream! S2
+14075|2|en|BanG Dream! Season 2
 19566|1|x-jat|Bang Dream! Yumemita
 17981|4|ru|BanG Dream! Это MyGO!
 14077|4|ja|BanG Dream! ガルパ☆ピコ
@@ -10784,7 +10791,10 @@
 8808|1|x-jat|Date a Live
 8808|4|en|Date a Live
 8808|4|de|Date a Live
+9935|2|x-jat|Date a Live (2014)
 13533|2|en|Date a Live (2019)
+15106|2|x-jat|Date a Live (2022)
+17476|2|x-jat|Date a Live (2024)
 19284|1|x-jat|Date a Live (Shin Project)
 9935|2|x-jat|Date a Live 2
 9935|1|x-jat|Date a Live II
@@ -10800,6 +10810,10 @@
 10688|4|en|Date A Live Mayuri Judgement
 9734|2|x-jat|Date a Live OAD
 13533|2|en|Date a Live S3
+9935|2|en|Date a Live Season 2
+13533|2|en|Date a Live Season 3
+15106|2|en|Date a Live Season 4
+17476|2|en|Date a Live Season 5
 10688|2|en|Date A Live the Movie: Mayuri Judgment
 17476|1|x-jat|Date a Live V
 17476|4|en|Date a Live V
@@ -16549,6 +16563,7 @@
 13110|2|en|Forest Fairy Five ~Fairy Tale~
 13091|2|en|Forest Fairy Five: Kinoko Personification Pictorial Book
 13537|4|en|Forest of Piano
+14193|4|en|Forest of Piano (2019)
 14193|2|en|Forest of Piano: Season 2
 13133|2|en|Forest Painting
 19619|4|en|Forget That Night, Your Majesty.
@@ -24709,6 +24724,7 @@
 6304|1|x-jat|Isekai no Seikishi Monogatari
 17290|1|x-jat|Isekai Nonbiri Nouka
 19506|1|x-jat|Isekai Nonbiri Nouka 2
+19507|4|en|Isekai Office Worker: The Other World`s Books Depend on the Bean Counter
 16389|1|x-jat|Isekai Ojisan
 17248|2|x-jat|Isekai One Turn Kill Nee-san
 17248|1|x-jat|Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita
@@ -26233,6 +26249,7 @@
 12834|1|x-jat|Kakegurui
 12834|4|it|Kakegurui
 12834|4|pl|Kakegurui
+12834|4|en|Kakegurui
 12834|2|en|Kakegurui - Compulsive Gambler
 12834|4|de|Kakegurui – Das Leben ist ein Spiel
 13718|2|en|Kakegurui (2019)
@@ -26245,6 +26262,7 @@
 16967|4|en|Kakegurui Twin
 13718|1|x-jat|Kakegurui XX
 13718|4|pl|Kakegurui xx
+13718|4|en|Kakegurui XX
 12834|4|no|Kakegurui: Compulsive Gambler
 12834|2|pl|Kakegurui: Szał hazardu
 19521|1|x-jat|Kaketa Tsuki no Mercedes: Kyuuketsuki no Kizoku ni Tensei Shitakedo Suterare Sounanode Dungeon o Seiha Suru
@@ -26960,10 +26978,13 @@
 12057|1|x-jat|Kemono Friends
 12057|4|en|Kemono Friends
 12057|4|fr|Kemono Friends
+14857|2|x-jat|Kemono Friends (2019)
 13055|2|en|Kemono Friends (2019)
 13055|1|x-jat|Kemono Friends 2
 13055|4|en|Kemono Friends 2
 13055|2|en|Kemono Friends S2
+13055|2|en|Kemono Friends Season 2
+14857|2|en|Kemono Friends Season 3
 13413|1|x-jat|Kemono Friends x Anisama 2017 "Anisama"
 15323|4|fr|Kemono Incidents
 15323|1|x-jat|Kemono Jihen
@@ -29090,7 +29111,7 @@
 18010|2|x-jat|Kunoichi Ryoujokuden Ajisai
 8114|1|x-jat|Kunoichi Sakuya
 16966|1|x-jat|Kunoichi Tsubaki no Mune no Uchi
-19131|2|en|Kunon the Sorcerer Can See
+19131|4|en|Kunon the Sorcerer Can See
 15851|4|id|Kupunya Dia dan Dirinya
 17628|4|id|Kupunya Dia dan Dirinya musim 2
 6746|1|x-jat|Kupuu!! Mamegoma!
@@ -29928,6 +29949,9 @@
 16815|1|x-zht|Lalala De Ma Xiya Di Er Ji
 16816|1|x-zht|Lalala De Ma Xiya Di San Ji
 13215|1|x-jat|Lalala Lala-chan
+13216|2|x-jat|Lalala Lala-chan Season 2
+13422|2|x-jat|Lalala Lala-chan Season 3
+13909|2|x-jat|Lalala Lala-chan Season 4
 13909|1|x-jat|Lalala Lala-chan: Lala to Mainichi
 13216|1|x-jat|Lalala Lala-chan: Patapata Daisensou
 13422|1|x-jat|Lalala Lala-chan: Uchuu ni Muchuu
@@ -32744,6 +32768,7 @@
 11793|1|x-jat|Mahou Shoujo Madoka Magica: Concept Movie
 8069|2|x-jat|Mahou Shoujo Madoka Magika
 16320|1|x-jat|Mahou Shoujo Magical Destroyers
+19645|1|x-jat|Mahou Shoujo Masks
 1203|1|x-jat|Mahou Shoujo Meruru
 11691|1|x-jat|Mahou Shoujo Nante Mou Ii Desu kara.
 12317|1|x-jat|Mahou Shoujo Nante Mou Ii Desu kara. Second Season
@@ -35272,7 +35297,9 @@
 11803|4|pl|Mob Psycho 100
 13939|4|pl|Mob Psycho 100 (2019)
 13939|2|en|Mob Psycho 100 (2019)
+16915|2|x-jat|Mob Psycho 100 (2022)
 14941|3|en|Mob Psycho 100 2 OAV
+13939|2|en|Mob Psycho 100 2nd Season
 13939|1|x-jat|Mob Psycho 100 II
 13939|4|en|Mob Psycho 100 II
 16915|1|x-jat|Mob Psycho 100 III
@@ -35282,6 +35309,8 @@
 13527|4|en|Mob Psycho 100 Reigen: The Miraculous Unknown Psychic
 13939|2|en|Mob Psycho 100 S2
 16915|2|en|Mob Psycho 100 S3
+13939|2|en|Mob Psycho 100 Season 2
+16915|2|en|Mob Psycho 100 Season 3
 14941|1|x-jat|Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi
 14941|4|de|Mob Psycho 100: Der erste superbillige Ausflug der Berater für Geister und so`n Zeugs
 14941|2|fr|Mob Psycho 100: La première excursion du bureau ~ Le voyage apaisant ~
@@ -40360,6 +40389,7 @@
 18756|1|x-jat|OVA Incha Couple ga You Gal-tachi to Sex Training Suru Hanashi
 13769|1|x-jat|OVA Muttsuri Do Sukebe Ro Gibo Shimai no Honshitsu Minuite Sex Zanmai
 19547|1|x-jat|OVA Natsu Zuma
+19643|1|x-jat|OVA Oshikake! Bakunyuu Gyaru Harem Seikatsu
 19414|1|x-jat|OVA Pure Pure Pero Pero Princess
 19514|1|x-jat|OVA Sister Breeder
 11268|1|x-jat|OVA Tokyo Ghoul
@@ -40376,6 +40406,7 @@
 16328|2|ko|OVA 사신창관―음란 거유 모녀 산 제물의식
 15780|2|ko|OVA 수국이 질 때
 6285|4|ja|OVA うたわれるもの
+19643|4|ja|OVA おしかけ! 爆乳ギャルハーレム性活
 19514|4|ja|OVA シスターブリーダー
 18049|2|ja|OVA ツンデロシリーズ
 11271|4|ja|OVA ツンプリ
@@ -43790,6 +43821,9 @@
 4990|4|en|Rainbowman
 10994|4|en|Rainy Cocoa
 12106|4|en|Rainy Cocoa in Hawaii
+12106|2|en|Rainy Cocoa Season 3
+13282|2|en|Rainy Cocoa Season 4
+14039|2|en|Rainy Cocoa Season 5
 11338|2|en|Rainy Cocoa: Season 2
 14039|4|en|Rainy Cocoa: Side G
 11338|4|en|Rainy Cocoa: Welcome to Rainy Color
@@ -45611,6 +45645,7 @@
 9974|1|x-jat|Saiki Kusuo no Sainan
 12112|1|x-jat|Saiki Kusuo no Sainan (2016)
 12691|1|x-jat|Saiki Kusuo no Sainan (2018)
+14797|2|x-jat|Saiki Kusuo no Sainan (2019)
 14189|1|x-jat|Saiki Kusuo no Sainan: Kanketsuhen
 14797|1|x-jat|Saiki Kusuo no Sainan: Saishidou Hen
 12112|4|fr|Saiki Kusuo no Ψ Nan
@@ -46781,6 +46816,7 @@
 14397|3|en|seibuta movie
 465|2|ja|Seiden
 1492|1|x-jat|Seifuku Shojo The Animation
+19644|1|x-jat|Seifuku wa Kita mama de
 15875|3|x-jat|seigen
 16962|3|x-jat|seigen s2
 1576|1|x-jat|Seigi o Ai Suru Mono Gekkou Kamen
@@ -48099,6 +48135,7 @@
 11223|1|x-jat|Shingeki no Bahamut: Virgin Soul
 9541|1|x-jat|Shingeki no Kyojin
 10944|2|x-jat|Shingeki no Kyojin (2017)
+13241|2|x-jat|Shingeki no Kyojin (2018)
 14977|2|x-jat|Shingeki no Kyojin (2020)
 10944|2|x-jat|Shingeki no Kyojin 2
 9826|1|x-jat|Shingeki no Kyojin OAD
@@ -52874,6 +52911,7 @@
 1525|4|en|The Dagger of Kamui
 615|4|en|The Daichis - Earth`s Defense Family
 18818|4|en|The Daily Life of a Middle-Aged Online Shopper in Another World
+19324|4|en|The Daily Life of a Single 29-Year-Old Adventurer
 14718|4|en|The Daily Life of the Immortal King
 16359|4|en|The Daily Life of the Immortal King (2021)
 16359|2|en|The Daily Life of the Immortal King Season 2
@@ -52977,6 +53015,7 @@
 12691|2|pl|The Disastrous Life of Saiki K. (2018)
 14189|4|pl|The Disastrous Life of Saiki K. (TV Special)
 14189|2|en|The Disastrous Life of Saiki K. (TV Special)
+12691|2|en|The Disastrous Life of Saiki K. Season 2
 14797|4|en|The Disastrous Life of Saiki K.: Reawakened
 14797|4|nl|The Disastrous Life of Saiki K.: Reawakened
 14797|4|it|The Disastrous Life of Saiki K.: Reawakened
@@ -53673,6 +53712,7 @@
 1982|2|en|The Moon`s Heat Haze
 11924|4|en|The Morose Mononokean
 14177|4|en|The Morose Mononokean II
+14177|2|en|The Morose Mononokean Season 2
 17688|4|en|The Most Heretical Last Boss Queen: From Villainess to Savior
 19420|2|en|The Most Heretical Last Boss Queen: From Villainess to Savior Season 2
 18592|4|en|The Most Notorious "Talker" Runs the World`s Greatest Clan
@@ -53751,7 +53791,6 @@
 14091|4|pl|The Orbital Children
 17965|4|en|The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible
 17965|4|de|The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible
-19507|2|en|The Other World`s Books Depend on the Bean Counter
 15599|2|en|The Outcast 3
 16719|2|en|The Outcast 4
 17095|2|en|The Outcast 5
@@ -56189,6 +56228,7 @@
 8136|1|x-jat|TV Manga Shouwa Monogatari
 14505|1|x-jat|TV Yarou Nanana
 14821|2|en|TV Yarou Nanana (2019)
+15427|2|x-jat|TV Yarou Nanana (2020)
 15427|1|x-jat|TV Yarou Nanana: Kaibutsu Kraken o Oe!
 14821|1|x-jat|TV Yarou Nanana: Wakuwaku Doukutsu Land
 526|4|he|TV נוקו נוקו
@@ -57760,7 +57800,10 @@
 16399|1|x-jat|Waccha PriMagi!
 16399|4|en|Waccha PriMagi!
 14505|4|en|Wacky TV Nanana
+14821|4|en|Wacky TV Nanana 2nd season
 14821|2|en|Wacky TV Nanana S2
+14821|2|en|Wacky TV Nanana Season 2
+15427|2|en|Wacky TV Nanana Season 3
 15427|2|en|Wacky TV Nanana: Chase the Kraken Monster!
 15427|4|en|Wacky TV Nanana: Hunt the Legendary Kraken!
 17381|1|x-jat|Waga Na wa Cowboy
@@ -58026,6 +58069,7 @@
 19373|2|en|Wash It All Away
 14698|2|en|Washer! She and I in the Women`s Bath!?
 10422|1|x-jat|Washimo
+11007|2|x-jat|Washimo (2015)
 12061|1|x-jat|Washimo (2016)
 13048|1|x-jat|Washimo (2017)
 13993|1|x-jat|Washimo (2018)
@@ -80581,6 +80625,8 @@
 12232|2|ja|ワクワクこまちゃん
 10478|4|ja|わざぐぅ!VSでんぢゃらすじーさん邪 抱腹絶倒!アニメクイズ
 10422|4|ja|わしも
+11320|2|ja|わしも (2015)
+10422|2|ja|わしも ＷＡＳＩＭＯ
 11007|4|ja|わしも 第2
 12061|4|ja|わしも-wasimo- (2016)
 13048|4|ja|わしも-wasimo- (2017)
@@ -82539,6 +82585,7 @@
 15332|4|zh-Hant|刮掉鬍子的我與撿到的女高中生
 18114|2|zh-Hans|到了30岁还是处男，似乎会变成魔法师
 3512|2|zh-Hans|到另一个你的身边去
+19644|4|ja|制服は着たままで
 1492|4|ja|制服処女 THE ANIMATION
 1492|4|zh-Hans|制服处女
 11692|4|zh-Hant|制約之絆
@@ -95921,6 +95968,7 @@
 1075|4|ja|魔法少女プリティサミー
 741|4|ja|魔法少女プリティサミー(1996)
 16320|4|ja|魔法少女マジカルデストロイヤーズ
+19645|4|ja|魔法少女マスク
 8069|4|ja|魔法少女まどか★マギカ PUELLA MAGI MADOKA MAGICA
 11793|4|ja|魔法少女まどか☆マギカ コンセプトムービー
 1203|4|ja|魔法少女メルル
