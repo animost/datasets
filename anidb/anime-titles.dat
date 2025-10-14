@@ -1,4 +1,4 @@
-# created: Sun Oct 12 03:00:01 2025
+# created: Mon Oct 13 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8768,6 +8768,7 @@
 6095|1|x-jat|Chou Gekijouban Keroro Gunsou: Gekishin Dragon Warriors de Arimasu!
 4666|1|x-jat|Chou Hatsumei Boy Kanipan
 1314|1|x-jat|Chou Henshin Cosprayers
+19649|1|x-jat|Chou Jun! Choujou-senpai
 14308|4|es-419|Chou Kadou Girl - Súper Chica Móvil 1/6
 14308|1|x-jat|Chou Kadou Girl 1/6
 2577|1|x-jat|Chou Kidou Densetsu DinaGiga
@@ -12104,8 +12105,8 @@
 1149|1|x-jat|Digimon Adventure: Bokura no War Game!
 14240|1|x-jat|Digimon Adventure: Last Evolution Kizuna
 19230|4|en|Digimon Beatbreak
-19230|1|x-jat|Digimon BeatBreak
 19230|4|ja|DIGIMON BEATBREAK
+19230|1|x-jat|Digimon Beatbreak
 7518|2|ja|Digimon Cross Wars
 4283|4|en|Digimon Data Squad
 4283|4|de|Digimon Data Squad
@@ -51031,6 +51032,7 @@
 1392|4|pt-BR|Super Pig
 1392|4|en|Super Pig
 3207|4|pt|Super Poderosas
+19649|2|en|Super Psychic Policeman Chojo
 1411|2|en|Super Radical Gag Family
 5259|1|x-jat|Super Real Mahjong
 1672|4|it|Super Robot 28
@@ -94018,6 +94020,7 @@
 17906|4|zh-Hant|超超超超超喜歡你的100個女朋友
 18343|4|zh-Hant|超超超超超喜歡你的100個女朋友 第二季
 14510|4|ja|超越世界
+19649|4|ja|超巡! 超条先輩
 2108|4|ja|超速スピナー
 8847|4|zh-Hans|超速变形螺旋杰特
 8847|4|ja|超速変形ジャイロゼッター
