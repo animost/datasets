@@ -1,4 +1,4 @@
-# created: Mon Oct 13 03:00:01 2025
+# created: Tue Oct 14 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -24741,6 +24741,7 @@
 14964|2|x-jat|Isekai Quartet 2nd Season
 19385|1|x-jat|Isekai Quartet 3
 19385|4|en|Isekai Quartet 3
+19385|2|en|Isekai Quartet S3
 15481|4|en|Isekai Quartet the Movie: Another World
 18809|3|x-jat|Isekai Red
 17507|1|x-jat|Isekai Shikkaku
@@ -34188,6 +34189,7 @@
 13871|4|de|Meine Wiedergeburt als Schleim in einer anderen Welt
 14526|4|de|Meine Wiedergeburt als Schleim in einer anderen Welt OAD
 14767|4|de|Meine Wiedergeburt als Schleim in einer anderen Welt Staffel 2
+18885|4|de|Meine Wiedergeburt als Schleim in einer anderen Welt the Movie: Tears of the Azure Sea
 1005|2|x-jat|Meioh Project Zeorymer
 16402|1|x-zht|Meirenyu: Haidao Laixi
 14245|2|x-jat|Meisei Touch
@@ -47062,6 +47064,7 @@
 1642|2|x-jat|Sekkusu furendo
 5581|4|pl|Sekret Haruki Nogizaki
 14466|4|pl|Sekretny świat kotów
+18795|2|pl|Sekrety Cichej Wiedźmy
 15412|1|x-jat|Sekufure Osananajimi: Shojo to Doutei wa Hazukashii tte Minna ga Iu kara The Animation
 10892|4|de|Sekunden in Moll
 99|3|x-jat|SEL
