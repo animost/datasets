@@ -1,4 +1,4 @@
-# created: Tue Oct 14 03:00:02 2025
+# created: Wed Oct 15 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -300,6 +300,7 @@
 1001|2|lt|100 Istorijų
 17906|2|x-jat|100 Kanojo
 18343|2|ja|100 Kanojo 2
+18648|4|en|100 Meters
 17906|4|pt-BR|100 Namoradas Que Te Amam Muuuuuito
 15455|1|x-jat|100 Nichikan Ikita Wani
 17906|4|id|100 Pacar yang Sungguh Sangat Amat Benar-benar Mencintaimu
@@ -60163,6 +60164,8 @@
 16984|2|x-jat|Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei
 18258|2|x-jat|Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei Season 2
 11605|1|x-jat|Yowai Mushi
+19650|3|x-jat|yowaki max
+19650|1|x-jat|Yowaki Max Reijou na no ni, Ratsuwan Kon`yakusha-sama no Kake ni Notte Shimatta
 12529|1|x-jat|Yowamushi Chinsengumi
 9591|1|x-jat|Yowamushi Pedal
 9591|2|fr|Yowamushi Pedal
@@ -86401,6 +86404,8 @@
 15144|2|zh-Hans|弱势角色友崎同学
 15144|4|zh-Hans|弱势角色友崎君
 17134|4|zh-Hans|弱势角色友崎君 2nd STAGE
+19650|3|ja|弱気MAX
+19650|4|ja|弱気MAX令嬢なのに, 辣腕婚約者様の賭けに乗ってしまった
 9591|4|ja|弱虫ペダル
 13245|4|ja|弱虫ペダル GLORY LINE
 10643|4|ja|弱虫ペダル GRANDE ROAD
