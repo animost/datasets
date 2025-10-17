@@ -1,4 +1,4 @@
-# created: Wed Oct 15 03:00:01 2025
+# created: Thu Oct 16 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8876,6 +8876,7 @@
 2733|2|en|Chronicle of the Wings
 17552|2|en|Chronicles of an Aristocrat Reborn in Another World
 16780|2|en|Chronicles of Everlasting Wind and Sword Rain
+19655|2|en|Chronicles of Grace and Grudges in the Primordial Age
 14050|2|en|Chronicles of the God`s Order
 9857|4|en|Chronicles of the Going Home Club
 169|4|fr|Chroniques de la guerre de Lodoss
@@ -12378,6 +12379,7 @@
 862|2|en|Divine Love
 19488|4|en|Divine Love - Deep Blue
 19488|2|en|Divine Love: Deep Blue
+19651|4|en|Divine Manifestation
 9298|2|fr|Divine Nanami
 1277|2|en|Divine Punishment: Angel Rabbie OVA
 354|2|en|Divine Wind Thief Jeanne
@@ -14163,6 +14165,7 @@
 3957|2|en|Easy Cooking Animation: Youth`s Dining Table
 14909|2|en|Easy!
 19298|2|en|Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City
+19652|2|en|Eat Around the Mortal World
 1773|4|fr|Eat-man
 1773|1|x-jat|Eat-Man
 1773|4|it|Eat-Man
@@ -19100,6 +19103,7 @@
 12580|1|x-jat|Go-hiki no Kobuta to Charleston
 14337|1|x-jat|Go-hiki no Kozaru-tachi
 14247|1|x-jat|Go-Toubun no Hanayome
+14903|2|x-jat|Go-Toubun no Hanayome (2021)
 18603|1|x-jat|Go-Toubun no Hanayome *
 14903|2|x-jat|Go-Toubun no Hanayome ∬
 14903|1|x-jat|Go-Toubun no Hanayome II
@@ -19187,6 +19191,7 @@
 2725|2|en|God Elemental Machine of the Wind Cybaster
 4147|2|en|God Family
 17146|2|en|God Is Hungry for Games.
+19652|2|en|God is on a Funny Journey
 967|3|x-jat|God Mars
 967|4|en|God Mars
 1784|2|en|God Mars: The Legend of 17 Years
@@ -19197,6 +19202,7 @@
 11894|2|en|God of Love`s Chocolate
 16749|2|en|God of Ten Thousand Realms
 19148|4|en|God of War Alliance
+19652|2|en|God on a Miserable Journey
 3124|2|it|God Sigma, l`imperatore dello spazio
 15004|2|en|God Troubles Me
 16720|4|en|God Troubles Me 2
@@ -19512,6 +19518,7 @@
 14247|3|en|Gotoubun
 14903|3|en|Gotoubun 2
 14247|2|x-jat|Gotoubun no Hanayome
+14903|2|x-jat|Gotoubun no Hanayome (2021)
 14903|2|ja|Gotoubun no Hanayome 2
 16165|2|x-jat|Gotoubun no Hanayome Movie
 1481|4|it|Gotriniton
@@ -23132,6 +23139,7 @@
 16723|1|x-zht|Huang Feihong Zhi Yong Chuang Tianxia
 14959|2|x-unk|Huang Li Shi
 17349|1|x-zht|Huang Yan
+19655|1|x-zht|Huanggu En Chou Lu: Po Feng Pian
 17876|1|x-zht|Huangjin Tingyuan: Dongri Li de Xinnian Yuanwang
 19370|1|x-zht|Huangshen Lu Zhi Linglong Shan
 16724|1|x-zht|Huanji 45 Miao
@@ -24644,6 +24652,15 @@
 10137|2|en|Is Alive
 8586|3|en|IS Encore
 10894|2|nl|Is het Verkeerd om Meisjes Op te Pikken in Een Dungeon?
+18704|2|en|Is It the King?
+18705|2|en|Is It the King? 2nd Season
+18706|2|en|Is It the King? 3rd Season
+19114|2|en|Is It the King? 4th Season
+19654|2|en|Is It the King? 5th Season
+18705|2|en|Is It the King? Season 2
+18706|2|en|Is It the King? Season 3
+19114|2|en|Is It the King? Season 4
+19654|2|en|Is It the King? Season 5
 12350|2|en|Is It True That It’s Summer Vacation?
 10652|2|en|Is it worth it?
 10894|4|en|Is It Wrong to Try to Pick Up Girls in a Dungeon?
@@ -26092,6 +26109,8 @@
 6468|1|x-jat|Kaguya-hime: Taketori Monogatari
 15807|3|en|Kaguya-Sama OVA
 14111|2|x-jat|Kaguya-sama wa Kokurasetai
+15207|2|x-jat|Kaguya-sama wa Kokurasetai (2020)
+15806|2|x-jat|Kaguya-sama wa Kokurasetai (2022)
 15207|3|x-jat|Kaguya-sama wa Kokurasetai 2
 15806|2|x-jat|Kaguya-sama wa Kokurasetai 3
 17477|1|x-jat|Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai
@@ -26110,6 +26129,7 @@
 15207|2|en|Kaguya-sama: Love Is War 2
 15806|2|x-jat|Kaguya-sama: Love Is War 3
 15807|2|en|Kaguya-sama: Love is War OVA
+15806|2|en|Kaguya-sama: Love Is War Season 3
 15207|4|fr|Kaguya-sama: Love Is War?
 15207|4|en|Kaguya-sama: Love is War? Season 2
 2367|4|fi|Kahden vuoden loma-aika
@@ -43520,6 +43540,7 @@
 14873|1|x-zht|Qing Wa Wang Zi Li Xian Ji
 8248|1|x-zht|Qingcong: Youth
 14650|2|x-zht|qipasanguo
+19653|1|x-zht|Qiyun Dantian: Kaiju Qiandao Zhizun Dantian
 366|3|en|qm
 6071|3|x-jat|QMA
 7255|3|x-jat|QMA 2
@@ -44242,8 +44263,10 @@
 19580|2|en|Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season
 18204|2|en|Reborn as a Vending Machine, I Now Wander the Dungeon Season 2
 12934|2|en|Reborn Gladiator of The Baby-Making Colosseum
+19653|2|en|Reborn to be a Supreme Emperor
 17015|4|en|Reborn to Master the Blade: From Hero-King to Extraordinary Squire
 17015|2|en|Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀
+19653|2|en|Reborn With The Supreme Dantian
 4747|4|fr|Reborn!
 4747|4|en|Reborn!
 4847|2|en|Rebuild of Evangelion: 1.0
@@ -45464,6 +45487,7 @@
 4347|1|x-jat|Ryuusei Tenshi Primaveil
 1491|1|x-jat|Ryuuseiki Gakusaver
 15924|3|x-jat|Ryuusoba
+19480|4|x-jat|Ryuuzoku II: The Mourner`s Eyes
 16595|4|x-jat|Ryuuzoku: The Blazing Dawn
 11669|1|x-jat|Ryuuzou to Shichinin no Kobun-tachi x Frogman
 192|3|x-jat|Ryvius
@@ -47742,6 +47766,7 @@
 18458|2|x-zht|Shen Yin Wangzuo 2nd Season
 18458|2|x-zht|Shen Yin Wangzuo Di Er Ji
 19319|1|x-zht|Shen Yin Wangzuo Movie: Yi Lai Ke Si Chuanqi
+19652|1|x-zht|Shen Zai Jiong Tu
 18590|1|x-zht|Shen Zhi Yi Jiao
 18590|2|x-zht|Shen Zhiyi Jiao
 15237|1|x-zht|Shenbi
@@ -47793,9 +47818,16 @@
 18704|1|x-zht|Shi Wangzhe A?
 18705|2|x-zht|Shi Wangzhe A? 2nd Season
 18706|2|x-zht|Shi Wangzhe A? 3rd Season
+19114|2|x-zht|Shi Wangzhe A? 4th Season
+19654|2|x-zht|Shi Wangzhe A? 5th Season
 18705|1|x-zht|Shi Wangzhe A? Di 2 Ji: Yun Zhong Bu Wanquan Jiao Fei Riji
 18706|1|x-zht|Shi Wangzhe A? Di 3 Ji: Youqiubiying Xingzhi Dui
 19114|1|x-zht|Shi Wangzhe A? Di 4 Ji: Mudan Xiang You Dali Si
+19654|1|x-zht|Shi Wangzhe A? Di 5 Ji: Feng Wu Leiting Chang`an Juan
+18705|2|x-zht|Shi Wangzhe A? Season 2
+18706|2|x-zht|Shi Wangzhe A? Season 3
+19114|2|x-zht|Shi Wangzhe A? Season 4
+19654|2|x-zht|Shi Wangzhe A? Season 5
 13353|1|x-zht|Shi Xiong
 16593|1|x-zht|Shi Ye Miao Yin
 16354|2|x-zht|Shi Yi Chang`An: Mingyue Jishi You Er
@@ -48444,6 +48476,9 @@
 12904|4|en|Shonen Ashibe Go! Go! Goma-chan (2017)
 13838|4|en|Shonen Ashibe Go! Go! Goma-chan (2018)
 14720|4|en|Shonen Ashibe Go! Go! Goma-chan (2019)
+12904|2|en|Shonen Ashibe Go! Go! Goma-chan Season 2
+13838|2|en|Shonen Ashibe Go! Go! Goma-chan Season 3
+14720|2|en|Shonen Ashibe Go! Go! Goma-chan Season 4
 10517|4|en|Shonen Hollywood: Holly Stage for 49
 10855|4|en|Shonen Hollywood: Holly Stage for 50
 11543|4|en|Shonen Maid
@@ -48745,6 +48780,7 @@
 24|3|x-jat|sign
 12800|4|ja|Sign
 12800|1|x-jat|Sign
+19653|2|en|Sign-in at the Start: Supreme Dantian
 1025|4|fr|Signé Cat`s Eye
 14582|4|fr|Signé Cat`s Eye (1984)
 18101|4|es|Signos de afecto
@@ -50397,6 +50433,7 @@
 18703|2|en|Starting from Guhuo Bird: Dragon City Storm
 18403|2|en|Starting From The Red Moon
 1560|2|en|Starting Today, I`ll!!
+19653|2|en|Starting with the Supreme Dantian
 4655|2|en|Startling Doctor
 14459|3|x-jat|startwi
 1271|4|en|Starvengers
@@ -51974,6 +52011,9 @@
 15070|3|en|tate 2
 13246|3|en|Tate no Yuusha
 13246|1|x-jat|Tate no Yuusha no Nariagari
+15070|2|x-jat|Tate no Yuusha no Nariagari (2022)
+15071|2|x-jat|Tate no Yuusha no Nariagari (2023)
+18439|2|x-jat|Tate no Yuusha no Nariagari (2025)
 15070|2|x-jat|Tate no Yuusha no Nariagari S2
 18439|2|x-jat|Tate no Yuusha no Nariagari S4
 15070|1|x-jat|Tate no Yuusha no Nariagari Season 2
@@ -53877,6 +53917,7 @@
 14801|4|en|The Promised Neverland (2021)
 14801|4|de|The Promised Neverland (2021)
 14801|2|en|The Promised Neverland 2
+14801|2|en|The Promised Neverland Season 2
 18398|4|en|The Proud Emperor of Eternity
 11978|2|en|The Proud General
 4409|2|en|The Psammead
@@ -53893,11 +53934,13 @@
 14247|4|en|The Quintessential Quintuplets
 16165|4|es-419|The Quintessential Quintuplets - La película
 16165|4|es|The Quintessential Quintuplets - La película
+18603|2|en|The Quintessential Quintuplets *
 17968|2|en|The Quintessential Quintuplets ~
 14903|4|en|The Quintessential Quintuplets 2
 16165|4|fr|The Quintessential Quintuplets Movie
 16165|4|en|The Quintessential Quintuplets Movie
 16165|4|pl|The Quintessential Quintuplets O Filme
+14903|2|en|The Quintessential Quintuplets Season 2
 14903|2|en|The Quintessential Quintuplets: Double Integral
 6816|4|en|The Qwaser of Stigmata
 8154|4|en|The Qwaser of Stigmata II
@@ -54256,6 +54299,7 @@
 544|4|en|The Super Milk-chan Show
 1035|1|x-jat|The Supergal
 15608|4|en|The Supernatural Sweet Shop
+19653|2|en|The Supreme Dantian
 19545|2|en|The Sword Emperor of Eternity
 17596|2|en|The Sword Fairy Is Here
 17596|4|en|The Sword Immortal Is Here
@@ -54678,6 +54722,7 @@
 16757|1|x-zht|Tian Qi Ri
 17181|1|x-zht|Tian Shu Qi Tan
 18692|2|x-zht|Tian Ting Ban Zhuan Xia
+19651|1|x-zht|Tian Xiang
 14402|1|x-zht|Tian Xing Jiu Ge
 14985|1|x-zht|Tian Xing Jiu Ge Di Er Ji
 18906|1|x-zht|Tian Ying
@@ -64930,6 +64975,7 @@
 12089|2|ru|Принцесса-соня ~история о другой мне~
 12089|2|ru|Принцесса-соня: история о другой мне
 13031|2|ru|Принцесса-шпионка
+11104|2|ru|Принцесса, которая любит кости
 15546|4|ru|Принцессы-полудемоны
 2226|4|ru|Принцы-лебеди
 15772|4|ru|Приоритет чудо-яйца
@@ -83688,6 +83734,7 @@
 15136|4|zh-Hans|听我的电波吧
 15136|3|zh-Hans|听着这电波
 17984|2|x-unk|听说你们要结婚!?
+19653|4|zh-Hans|启运丹田：开局签到至尊丹田
 18919|2|zh-Hans|吴承恩缉妖录
 18517|4|zh-Hant|吸吸吸吸吸血鬼
 8263|4|ja|吸尻鬼
@@ -84774,6 +84821,7 @@
 13959|4|ja|天狼 Sirius the Jaeger
 13959|4|zh-Hans|天狼 Sirius the Jaeger
 4989|4|zh-Hans|天狼星的传说
+19651|4|zh-Hans|天相
 11952|4|zh-Hans|天真与闪电
 16447|4|ja|天神
 29|3|ja|天禁
@@ -88557,9 +88605,14 @@
 8135|4|ja|昭和物語
 18704|4|zh-Hans|是王者啊?
 19114|4|zh-Hans|是王者啊? 第4季 牡丹香幽大理寺
+18706|2|zh-Hans|是王者啊？ 第三季
 18705|2|zh-Hans|是王者啊? 第二季
+19114|2|zh-Hans|是王者啊？ 第四季
+19114|2|zh-Hans|是王者啊？之牡丹香幽大理寺
 18705|4|zh-Hans|是王者啊？第2季 云中不完全剿匪日记
 18706|4|zh-Hans|是王者啊？第3季 有求必应星之队
+19654|4|zh-Hans|是王者啊？第5季 凤舞雷霆长安卷
+19654|2|zh-Hans|是王者啊？第五季
 13439|4|zh-Hans|昴宿七星
 17914|4|ja|時々ボソッとロシア語でデレる隣のアーリャさん
 18872|4|ja|時々ボソッとロシア語でデレる隣のアーリャさん Season2
@@ -91698,6 +91751,7 @@
 11266|4|zh-Hans|神圣之门
 4385|2|zh-Hans|神圣十月
 8541|4|zh-Hans|神圣骑士
+19652|4|zh-Hans|神在囧途
 15540|4|ja|神在月のこども
 15540|4|zh-Hans|神在月的孩子
 15540|4|zh-Hant|神在月的孩子
@@ -93142,6 +93196,7 @@
 12522|4|zh-Hans|草裙舞女孩
 14850|4|ja|荒くれ純一の涙
 14512|4|ja|荒ぶる季節の乙女どもよ.
+19655|4|zh-Hans|荒古恩仇录·破风篇
 7238|4|ja|荒川アンダーザブリッジ
 7899|4|ja|荒川アンダーザブリッジ*2
 7238|4|zh-Hans|荒川爆笑团
