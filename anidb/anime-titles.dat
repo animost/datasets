@@ -1,4 +1,4 @@
-# created: Thu Oct 16 03:00:02 2025
+# created: Fri Oct 17 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -633,6 +633,7 @@
 5334|4|ja|3丁目のタマ おねがい! モモちゃんを捜して!!
 12366|4|zh-Hans|3年D班玻璃假面
 17919|4|zh-Hans|3年Z班银八老师
+17919|2|zh-Hans|3年Z组银八老师
 11606|4|ja|3月のライオン
 12994|4|ja|3月のライオン (2017)
 11395|4|ja|3月のライオン meets BUMP OF CHICKEN
@@ -1401,6 +1402,7 @@
 9881|4|es-419|Ace of the Diamond
 9881|4|en|Ace of the Diamond
 14504|2|en|Ace of the Diamond Act II
+11115|2|en|Ace of the Diamond Season 2
 14504|4|en|Ace of the Diamond: Act II
 14504|4|fr|Ace of the Diamond: Act II
 18638|2|en|Ace of the Diamond: Act II Second Season
@@ -4746,6 +4748,7 @@
 7377|1|x-jat|Bakumatsu no Spasibo
 10505|1|x-jat|Bakumatsu Rock
 10728|1|x-jat|Bakumatsu Rock: Mystery! Onsen Kaijiken ze yo!!
+14548|2|en|Bakumatsu Season 2
 13971|1|x-jat|Bakumatsu: Ren`ai Bakumatsu Kareshi Gaiden
 14548|1|x-jat|Bakumatsu: Ren`ai Bakumatsu Kareshi Gaiden - Crisis
 14548|2|en|Bakumatsu: Ren`ai Bakumatsu Kareshi Gaiden (2019)
@@ -5254,6 +5257,7 @@
 709|4|pt-BR|Beast Fighter
 709|4|fr|Beast Fighter : L`apocalypse
 3507|4|en|Beast King Golion
+19656|2|en|Beast of Kamisari Month
 9405|4|ja|BEAST SAGA
 9405|1|x-jat|Beast Saga
 17444|4|en|Beast Tamer
@@ -11911,6 +11915,7 @@
 16012|4|vi|Địa ngục cực lạc:
 9881|1|x-jat|Dia no Ace
 10739|1|x-jat|Dia no Ace (2014)
+11115|2|x-jat|Dia no Ace (2015)
 14504|2|en|Dia no Ace (2019)
 14504|1|x-jat|Dia no Ace: Act II
 18638|1|x-jat|Dia no Ace: Act II Second Season
@@ -14486,6 +14491,7 @@
 7682|1|x-jat|Eigo de Asobo: Tanken Goblin Tou
 13102|1|x-jat|Eigo de Utaou! Mother Goose
 887|4|en|Eiken
+887|4|es-419|Eiken
 887|1|x-jat|Eiken: Eikenbu yori Ai o Komete
 11064|1|x-jat|Eikoku Ikka, Nihon o Taberu
 11760|1|x-jat|Eikoku Ikka, Shougatsu o Taberu
@@ -26492,6 +26498,7 @@
 9482|1|x-jat|Kamisama no Inai Nichiyoubi
 8370|1|x-jat|Kamisama no Memo-chou: It`s the Only NEET Thing to Do.
 8370|2|x-jat|Kamisama no Memochou
+19656|1|x-jat|Kamisarizuki no Kemono
 12883|2|x-jat|Kamishibai Kintaro
 18407|4|en|Kamitsubaki City Under Construction
 18407|1|x-jat|Kamitsubaki-shi Kensetsuchuu.
@@ -32795,7 +32802,6 @@
 11793|1|x-jat|Mahou Shoujo Madoka Magica: Concept Movie
 8069|2|x-jat|Mahou Shoujo Madoka Magika
 16320|1|x-jat|Mahou Shoujo Magical Destroyers
-19645|1|x-jat|Mahou Shoujo Masks
 1203|1|x-jat|Mahou Shoujo Meruru
 11691|1|x-jat|Mahou Shoujo Nante Mou Ii Desu kara.
 12317|1|x-jat|Mahou Shoujo Nante Mou Ii Desu kara. Second Season
@@ -34862,6 +34868,8 @@
 17541|2|en|Millenniums Of Warring States
 14381|4|en|Million Arthur
 13952|2|en|Million Arthur (2018)
+13952|4|en|Million Arthur Season 1
+14381|2|en|Million Arthur Season 2
 11066|4|en|Million Doll
 11066|1|x-jat|Million Doll
 2068|4|it|Milly un giorno dopo l`altro
@@ -45836,6 +45844,7 @@
 8963|4|fr|Saint Seiya Omega
 1418|1|x-jat|Saint Seiya Tenkai Hen Josou: Overture
 1884|4|en|Saint Seiya the Movie: Evil God Eris
+8279|4|pt|Saint Seiya: A Lenda do Santuário
 13347|4|pt|SAINT SEIYA: Cavaleiros do Zodíaco
 13347|4|ro|SAINT SEIYA: Cavalerii Zodiacului
 13347|4|de|Saint Seiya: Die Krieger des Zodiac
@@ -48755,6 +48764,7 @@
 19501|4|ja|SI-VIS: The Sound of Heroes
 19501|1|x-jat|Si-Vis: The Sound of Heroes
 19501|4|en|Si-Vis: The Sound of Heroes
+19501|4|zh-Hans|SI-VIS：英雄之声
 5539|2|x-jat|Siam Neko - First Mission
 5222|4|it|Siamo Fatti Così - Esplorando il Corpo Umano
 1869|2|it|Siamo in undici!
@@ -53426,6 +53436,9 @@
 13859|4|en|The Idolmaster Cinderella Girls Theater (2018)
 14516|4|en|The Idolmaster Cinderella Girls Theater (2019)
 13859|2|en|The Idolmaster Cinderella Girls Theater 3rd Season
+13274|2|en|The Idolmaster Cinderella Girls Theater Season 2
+13859|2|en|The Idolmaster Cinderella Girls Theater Season 3
+14516|2|en|The Idolmaster Cinderella Girls Theater Season 4
 14516|2|en|The Idolmaster Cinderella Girls Theater: Climax Season
 15262|1|x-jat|The Idolmaster Cinderella Girls: Spin-off!
 16140|1|x-jat|The Idolmaster Cinderella Girls: Starlight Stage 5 Shuunen Kinen - Go Just Go!
@@ -58043,6 +58056,7 @@
 8128|1|x-jat|Wana: Hakudaku Mamire no Houkago
 639|3|x-jat|wandaba
 639|4|en|Wandaba Style
+18823|1|x-jat|Wandance
 18823|2|en|Wandance
 17893|4|ja|WANDER BURABURA BAKKAMU
 17893|1|x-jat|Wander Burabura Bakkamu
@@ -58726,7 +58740,7 @@
 15388|2|en|Womanizing Private Tutor`s Cuckoldry Report: Indecent and Busty Mother-Daughter Threesome
 2963|4|en|Women at Work
 17171|1|x-zht|Womende Dong Ao
-18823|1|x-jat|Wondance
+18823|2|x-jat|Wondance
 11433|1|x-jat|Wonder
 11433|4|ja|WONDER
 2876|2|en|Wonder 3
@@ -59668,6 +59682,8 @@
 14103|1|x-jat|Yatogame-chan Kansatsu Nikki
 14103|4|en|Yatogame-chan Kansatsu Nikki
 14957|2|x-jat|Yatogame-chan Kansatsu Nikki (2020)
+15741|2|x-jat|Yatogame-chan Kansatsu Nikki (2021)
+17003|2|x-jat|Yatogame-chan Kansatsu Nikki (2022)
 14957|4|en|Yatogame-chan Kansatsu Nikki 2
 14957|2|x-jat|Yatogame-chan Kansatsu Nikki 2 Satsume
 15741|4|en|Yatogame-chan Kansatsu Nikki 3
@@ -59675,6 +59691,9 @@
 17003|4|en|Yatogame-chan Kansatsu Nikki 4
 14957|1|x-jat|Yatogame-chan Kansatsu Nikki Nisatsume
 15741|1|x-jat|Yatogame-chan Kansatsu Nikki Sansatsume
+14957|2|en|Yatogame-chan Kansatsu Nikki Season 2
+15741|2|en|Yatogame-chan Kansatsu Nikki Season 3
+17003|2|en|Yatogame-chan Kansatsu Nikki Season 4
 17003|1|x-jat|Yatogame-chan Kansatsu Nikki Yonsatsume
 14103|2|en|Yatogame-chan Observation Diary
 14957|2|en|Yatogame-chan Observation Diary 2
@@ -81521,6 +81540,7 @@
 1992|4|ja|人形の館
 1401|4|ja|人形使い
 16436|4|ja|人形学園
+18803|4|zh-Hans|人形机器人玛丽
 13616|4|ja|人形歴史スペクタクル 平家物語
 12|2|zh-Hans|人形电脑天使心
 293|4|ja|人形草紙あやつり左近
@@ -85817,6 +85837,7 @@
 17284|2|zh-Hans|小恶魔之约
 10160|4|ja|小悪魔カノジョ THE ANIMATION
 19196|4|zh-Hans|小手指同学，请别乱摸
+19196|4|zh-Hant|小手指同學，請別亂摸
 14834|4|zh-Hans|小明和王猫
 5278|2|zh-Hans|小春日和
 17494|4|zh-Hant|小智是女孩啦！
@@ -86220,6 +86241,7 @@
 17907|4|zh-Hant|希望的力量～大人光之美少女‘23～
 17907|4|zh-Hans|希望的力量～大人光之美少女‘23～
 17996|4|zh-Hans|希灵纪元
+19501|2|zh-Hans|希维司：英雄之声
 604|4|zh-Hans|帕卢姆之树
 10199|4|zh-Hans|帕罗的未来岛
 8857|4|zh-Hant|帕蒂瑪的顛倒世界
@@ -86481,6 +86503,7 @@
 12035|4|zh-Hans|弹丸论破3 -The End of 希望之峰学园- 绝望篇
 9414|4|zh-Hans|弹珠人Cross Fight eS
 15488|4|zh-Hans|弹珠传说
+18811|4|zh-Hans|弹珠汽水瓶里的千岁同学
 17744|4|zh-Hans|弹速狂飙
 4420|2|zh-Hans|强吻
 14399|4|zh-Hans|强奸合法化
@@ -86496,6 +86519,7 @@
 7542|2|zh-Hans|强袭魔女2
 14109|4|zh-Hans|强风吹拂
 12927|4|ja|弾けないギターを弾くんだぜ
+18811|4|zh-Hant|彈珠汽水瓶裡的千歲同學
 9857|4|zh-Hans|归宅部活动记录
 17944|2|zh-Hans|归还者的魔法要特别
 18554|4|ja|当て馬キャラのくせして, スパダリ王子に寵愛されています.
@@ -87554,7 +87578,9 @@
 18794|4|zh-Hant|拜託請穿上，鷹峰同學
 8040|4|zh-Hans|拟态催眠
 12382|4|ja|拡張少女系トライナリー
+18257|2|zh-Hans|拥有超常技能的奇幻世界流浪美食家 第二季
 17689|4|zh-Hans|拥有超常技能的异世界流浪美食家
+18257|4|zh-Hans|拥有超常技能的异世界流浪美食家 第二季
 13466|4|zh-Hans|择天记
 13466|2|zh-Hans|择天记 第一季
 13468|4|zh-Hans|择天记 第三季
@@ -88180,6 +88206,7 @@
 11500|4|zh-Hans|无彩限的怪灵世界
 14934|4|zh-Hans|无敌侠：舞动的英雄
 761|4|zh-Hans|无敌王
+18437|4|zh-Hans|无敌的我是英雄爸爸和精灵妈妈的女儿
 4381|2|zh-Hans|无敌看板娘
 2021|4|zh-Hans|无敌飞天侠
 6818|4|zh-Hans|无法逃离的背叛
@@ -88294,6 +88321,7 @@
 6110|2|zh-Hans|明日的与一!
 520|2|zh-Hans|明日的娜嘉
 16166|4|zh-Hans|明日酱的水手服
+19162|2|zh-Hans|明明只是暗杀者，我的面板数值却比勇者还要强
 18554|4|zh-Hans|明明是个碍事配角、却被王子给宠爱了
 5849|4|zh-Hans|明星情侣
 12461|4|zh-Hans|明治东京恋伽
@@ -89494,6 +89522,7 @@
 9665|4|ja|機巧少女は傷つかない
 17147|2|zh-Hant|機戰少女 Alice Expansion
 18803|4|ja|機械じかけのマリー
+18803|4|zh-Hant|機械女僕‧瑪麗
 9128|2|zh-Hant|機械學報告
 17627|4|zh-Hant|機械臂
 7433|4|ja|機甲兵団 J-PHOENIX PFリップス小隊
@@ -91746,6 +91775,7 @@
 18458|4|zh-Hans|神印王座 第二季
 19319|4|zh-Hans|神印王座剧场版 伊莱克斯传奇
 19319|2|zh-Hans|神印王座剧场版：伊莱克斯传奇
+19656|4|ja|神去月のけもの
 148|2|ja|神周鳥侠侶 ~コンドル・ヒーロー~
 19388|4|zh-Hans|神国之上
 11266|4|zh-Hans|神圣之门
@@ -92553,6 +92583,7 @@
 10818|4|zh-Hans|绝命制裁X
 15361|4|zh-Hans|绝命响应
 9214|4|zh-Hans|绝园的暴风雨
+18823|4|zh-Hans|绝妙舞步
 10745|4|zh-Hans|绝对双刃
 5674|2|zh-Hans|绝对可怜Children
 7664|4|zh-Hans|绝对可怜children OVA
@@ -92902,6 +92933,8 @@
 658|4|ja|背徳の少女
 4081|4|ja|背徳妻
 6235|2|zh-Hans|背骑少女
+18281|4|zh-Hans|胖子与爱情以及过错！
+18281|4|zh-Hant|胖子與愛情以及過錯！
 2412|4|zh-Hans|胜利投手
 238|4|zh-Hans|胜负师传说 哲也
 6479|2|zh-Hans|胡子小鸡
@@ -93979,6 +94012,7 @@
 1314|4|ja|超変身コス∞プレイヤー
 8740|2|ja|超宇宙マシーンXボンバー
 8740|2|ja|超宇宙マシーンエックスボンバー
+18257|2|zh-Hans|超常技能开启奇幻世界美食之旅 第二季
 3370|4|ja|超幕末少年世紀タカマル
 12125|4|zh-Hans|超心动！艺术之星
 16954|4|zh-Hans|超技舞台
@@ -94137,8 +94171,10 @@
 16564|2|zh-Hans|身为女主角 讨厌的女主角与秘密的工作
 16564|4|zh-Hans|身为女主角！～被讨厌的女主角和秘密的工作～
 17688|4|zh-Hans|身为悲剧始作俑者的最强邪恶BOSS女王为民竭心尽力
+19162|4|zh-Hans|身为暗杀者的我明显比勇者还强
 17686|4|zh-Hans|身为魔王的我娶了奴隶精灵为妻，该如何表白我的爱？
 16087|4|ja|身体で解決♡ 百鬼屋探偵事務所 ~百鬼屋 光の妖怪事件簿~
+19162|4|zh-Hant|身為暗殺者的我明顯比勇者還強
 17686|4|zh-Hant|身為魔王的我娶了奴隸精靈為妻，該如何表白我的愛？
 4306|4|ja|車畜~車の中で飼ってます~
 14350|4|ja|軌跡
@@ -94196,6 +94232,8 @@
 8421|4|zh-Hant|轉吧！企鵝罐
 15457|4|zh-Hant|轉生史萊姆日記關於我轉生變成史萊姆這檔事
 16785|2|zh-Hant|轉生就是劍
+18437|4|zh-Hant|轉生後的我成了英雄爸爸和精靈媽媽的女兒
+18497|4|zh-Hant|轉生惡女的黑歷史
 16727|4|zh-Hant|轉生成女性向遊戲只有毀滅END的壞人大小姐 劇場版
 17557|4|zh-Hant|轉生成自動販賣機的我今天也在迷宮徘徊
 14201|4|zh-Hant|轉生成蜘蛛又怎樣
@@ -94207,6 +94245,8 @@
 14237|4|zh-Hans|轩辕剑
 17702|4|zh-Hans|转生为第七王子，随心所欲的魔法学习之路
 18694|4|zh-Hans|转生为第七王子，随心所欲的魔法学习之路 第二季
+18437|2|zh-Hant|转生后的我成了英雄爸爸和精灵妈妈的女儿
+18497|4|zh-Hans|转生恶女的黑历史
 14449|4|zh-Hans|转生成为了只有乙女游戏破灭Flag的邪恶大小姐
 16727|4|zh-Hans|转生成为了只有乙女游戏破灭Flag的邪恶大小姐 剧场版
 16445|4|zh-Hans|转生成为了只有乙女游戏破灭Flag的邪恶大小姐… OAD
@@ -94268,6 +94308,7 @@
 18827|4|zh-Hans|这届侦探真不行
 7674|2|zh-Hans|这是僵尸吗?
 2621|2|zh-Hans|这是我的主人
+18422|4|zh-Hans|这里是充满笑容的职场。
 11468|4|zh-Hans|进击! 巨人中学校
 9541|4|zh-Hans|进击的巨人
 9826|4|zh-Hans|进击的巨人 OAD
@@ -94376,6 +94417,7 @@
 18770|4|zh-Hant|這公司有我喜歡的人
 15216|4|zh-Hant|這是妳與我的最後戰場，或是開創世界的聖戰
 7674|4|zh-Hant|這樣算是殭屍嗎？
+18422|4|zh-Hant|這裡是充滿笑容的職場。
 5191|4|zh|通勤快乐 痴汉GO！
 5191|4|ja|通勤快楽 痴漢でGO!!
 14454|4|ja|通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか?
@@ -96085,7 +96127,6 @@
 1075|4|ja|魔法少女プリティサミー
 741|4|ja|魔法少女プリティサミー(1996)
 16320|4|ja|魔法少女マジカルデストロイヤーズ
-19645|4|ja|魔法少女マスク
 8069|4|ja|魔法少女まどか★マギカ PUELLA MAGI MADOKA MAGICA
 11793|4|ja|魔法少女まどか☆マギカ コンセプトムービー
 1203|4|ja|魔法少女メルル
@@ -96479,6 +96520,7 @@
 6048|2|zh-Hans|黑执事
 18100|2|zh-Hans|黑执事 -寄宿学校篇-
 18739|4|zh-Hans|黑执事 -绿之魔女篇-
+18739|2|zh-Hans|黑执事 绿魔女篇
 10402|4|zh-Hans|黑执事 马戏团篇
 7369|2|zh-Hans|黑执事2
 7369|4|zh-Hans|黑执事II
@@ -96596,6 +96638,7 @@
 13384|4|ja|龍堂寺士門の淫謀
 16595|4|ja|龍族 -The Blazing Dawn-
 19480|4|ja|龍族Ⅱ -The Mourner`s Eyes-
+19480|4|zh-Hant|龍族II 悼亡者之瞳
 14746|4|zh-Hant|龍族教義
 16118|4|ja|龍殺ノ狂骨
 13281|4|zh-Hant|龍王的工作!
