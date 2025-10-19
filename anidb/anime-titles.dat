@@ -1,4 +1,4 @@
-# created: Fri Oct 17 03:00:01 2025
+# created: Sat Oct 18 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3685,6 +3685,7 @@
 1105|2|es-GA|As aventuras de Fly
 3388|4|pt|As Aventuras de Huckleberry Finn
 3675|4|pt|As Aventuras de Huckleberry Finn (1994)
+4259|4|pt|As Aventuras de Maegami Taro
 3605|2|pt|As Aventuras de Pinóquio
 4727|4|pt|As Aventuras de Pipi
 2200|4|pt|As Aventuras de Robin
@@ -19899,6 +19900,7 @@
 1935|4|fr|Gu Gu Ganmo
 8442|1|x-zht|Gu Huo Xiang Jia Tou
 5459|3|en|gu trilogy
+19660|1|x-zht|Gu Wei Nan Ting
 16717|1|x-zht|Gu Xiong
 1935|1|x-jat|Gu-Gu Ganmo
 2039|1|x-jat|Gu-Gu Ganmo (1985)
@@ -22164,6 +22166,8 @@
 13510|2|en|High School Star Musical S3
 1356|1|x-jat|High School! Kimengumi
 7475|1|x-jat|High School! Kimengumi (1986)
+19657|1|x-jat|High School! Kimengumi (2026)
+19657|2|en|High School! Kimengumi (2026)
 8722|1|x-jat|High Score
 8722|4|ja|HIGH SCORE
 10352|1|x-jat|High Score Girl
@@ -24827,6 +24831,7 @@
 5668|1|x-jat|Isourou Tengoku
 8586|3|x-jat|isova
 18098|3|x-jat|iss
+19661|1|x-jat|Isshiki-san wa Koi o Shiritai.
 7220|1|x-jat|Issho ni Ecchi
 7226|1|x-jat|Issho ni H Shiyo!
 7295|1|x-jat|Issho ni Sleeping: Sleeping with Hinako
@@ -26193,6 +26198,7 @@
 15269|1|x-jat|Kaiju Decode
 19582|1|x-jat|Kaiju Decode: Aidara no Yubiwa
 19582|2|en|Kaiju Decode: The Ring of Aidara
+19659|1|x-zht|Kaiju Ditan Maidali
 12021|4|en|Kaiju Girls
 12021|4|fr|Kaijû Girls
 13975|4|en|Kaiju Girls Black
@@ -27781,6 +27787,7 @@
 1920|2|en|King Arthur and the Knights of the Round Table
 1922|2|en|King Arthur: Prince on White Horse
 2018|4|en|King Fang
+2018|4|pt|King Fang
 3642|1|x-jat|King Kong
 3642|4|en|King Kong - 00 1/7 Tom Thumb
 3642|2|en|King Kong / Tom Thumb 001/7
@@ -38835,6 +38842,7 @@
 18080|2|pt|O Café Terraço e as Suas Deusas (2024)
 18080|4|pt|O Café Terraço e as Suas Deusas 2
 1457|4|pt|O Campeão
+1646|4|pt|O Cão de Flandres
 1218|4|pt|O Castelo Andante
 1218|4|pt-BR|O Castelo Animado
 331|4|pt|O Castelo no Céu
@@ -61006,6 +61014,7 @@
 19148|1|x-zht|Zhanshen Lianmeng
 18005|1|x-zht|Zhe Tian
 18338|1|x-zht|Zhen Dao Ge 2nd Season
+19658|1|x-zht|Zhen Dao Ge 3rd Season
 16530|1|x-zht|Zhen Dao Ge: Chen Shi Xing
 16530|2|x-zht|Zhen Dao Ge: Chenshi Hang
 16267|1|x-zht|Zhen Dao Ge: Qianli Bu Liu Xing
@@ -77221,7 +77230,7 @@
 13607|4|ja|トミカハイパーレスキュー ドライブヘッド 機動救急警察 (2018)
 18788|4|ja|トミカヒーローズ ジョブレイバー 特装合体ロボ
 19647|4|ja|トミカヒーローズ ジョブレイバー 特装合体ロボ　ジョブレイバーセレクション
-19648|4|ja|トミカヒーローズ ジョブレイバー 特装合体ロボ　ジョブレイバートミカヒーローズ ジョブレイバー 特装合体ロボ　ジョブレイバーセレクション (2025)
+19648|4|ja|トミカヒーローズ ジョブレイバー 特装合体ロボ　ジョブレイバーセレクション (2025)
 8741|4|ja|トミカ未来緊急隊アースコマンダー
 15355|4|ja|トミカ絆合体 アースグランナー
 786|4|ja|ドミニオン
@@ -77833,6 +77842,7 @@
 14017|4|ja|ハイスクール・フリート 劇場版
 1356|4|ja|ハイスクール! 奇面組
 7475|4|ja|ハイスクール! 奇面組 (1986)
+19657|4|ja|ハイスクール! 奇面組 (2026)
 5017|4|ja|ハイスクールAGENT
 8660|4|ja|ハイスクールDxD
 10691|4|ja|ハイスクールDxD BorN
@@ -80845,6 +80855,7 @@
 6701|4|ja|一寸法師ノ出世
 12832|4|ja|一年ぶりの THE ANIMATION
 10200|4|zh-Hans|一年级大个子二年级小个子
+19661|4|ja|一式さんは恋を知りたい.
 14234|4|zh-Hans|一弦定音!
 14553|4|zh-Hans|一弦定音！第二季
 15693|4|zh-Hans|一念永恒
@@ -86416,6 +86427,7 @@
 13011|4|zh-Hant|开封奇谈 (Movie)
 13010|4|zh-Hans|开封奇谈-这个包公不太行
 17358|4|zh-Hans|开局一座山
+19659|4|zh-Hans|开局地摊卖大力
 15339|4|zh-Hans|开挂药师的奇幻世界悠闲生活
 17742|4|zh-Hans|开阔天空！光之美少女
 17248|4|zh-Hans|异世界一击无双姐姐
@@ -89117,6 +89129,7 @@
 8532|4|ja|東映ロボットガールズ
 14302|4|ja|松が枝を結び
 16267|4|zh-Hans|枕刀歌 千里不留行
+19658|4|zh-Hans|枕刀歌 第三季 孤城闭雪
 18338|4|zh-Hans|枕刀歌 第二季
 16530|4|zh-Hans|枕刀歌之尘世行
 11213|4|ja|枕男子
@@ -93839,6 +93852,7 @@
 17349|4|zh-Hans|谎颜
 8853|4|zh-Hans|谜样女友X
 8995|4|zh-Hans|谜样女友X OAD 谜之夏日祭典
+19660|4|zh-Hans|谷围南亭
 9829|4|ja|豆しば
 8022|4|ja|豆富小僧
 5305|2|zh-Hans|豆芽小文
