@@ -1,4 +1,4 @@
-# created: Sat Oct 18 03:00:02 2025
+# created: Sun Oct 19 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -24662,15 +24662,15 @@
 10137|2|en|Is Alive
 8586|3|en|IS Encore
 10894|2|nl|Is het Verkeerd om Meisjes Op te Pikken in Een Dungeon?
-18704|2|en|Is It the King?
-18705|2|en|Is It the King? 2nd Season
-18706|2|en|Is It the King? 3rd Season
-19114|2|en|Is It the King? 4th Season
-19654|2|en|Is It the King? 5th Season
-18705|2|en|Is It the King? Season 2
-18706|2|en|Is It the King? Season 3
-19114|2|en|Is It the King? Season 4
-19654|2|en|Is It the King? Season 5
+18704|2|en|Is it the King?
+18705|2|en|Is it the King? 2nd Season
+18706|2|en|Is it the King? 3rd Season
+19114|2|en|Is it the King? 4th Season
+19654|2|en|Is it the King? 5th Season
+18705|2|en|Is it the King? Season 2
+18706|2|en|Is it the King? Season 3
+19114|2|en|Is it the King? Season 4
+19654|2|en|Is it the King? Season 5
 12350|2|en|Is It True That It’s Summer Vacation?
 10652|2|en|Is it worth it?
 10894|4|en|Is It Wrong to Try to Pick Up Girls in a Dungeon?
@@ -25795,6 +25795,7 @@
 1497|1|x-jat|Jungle Taitei (1966)
 1499|1|x-jat|Jungle Taitei (1989)
 1490|1|x-jat|Jungle Taitei (1997)
+19662|1|x-jat|Jungle Taitei / Honnouji no Hen
 1490|2|x-jat|Jungle Taitei Leo
 1498|2|x-jat|Jungle Taitei Susume Leo
 1498|1|x-jat|Jungle Taitei Susume Leo!
@@ -27684,6 +27685,7 @@
 18343|2|x-jat|Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2
 17906|1|x-jat|Kimi no Koto ga Dai Dai Dai Dai Daisuki na Hyakunin no Kanojo
 18343|1|x-jat|Kimi no Koto ga Dai Dai Dai Dai Daisuki na Hyakunin no Kanojo (2025)
+19663|1|x-jat|Kimi no Koto ga Dai Dai Dai Dai Daisuki na Hyakunin no Kanojo (2026)
 12477|1|x-jat|Kimi no Mana wa Rina Witch
 14456|1|x-jat|Kimi no Matsu Basho e
 6116|1|x-jat|Kimi no Na o Yobeba
@@ -28915,7 +28917,7 @@
 11749|1|x-jat|Kowaremono The Animation
 12365|1|x-jat|Kowaremono: Risa Plus The Animation
 11821|1|x-jat|Kowaremono: Risa The Animation
-219|2|pl|Kowboj Bebop
+219|4|pl|Kowboj Bebop
 219|2|pl|Kowboj Bebop the Movie
 219|2|pl|Kowboj Bebop: Pukając do nieba bram
 18917|1|x-jat|Kowloon Generic Romance
@@ -36616,6 +36618,7 @@
 16793|4|en|My Hero Academia Season 6
 16793|4|de|My Hero Academia Season 6
 17931|4|en|My Hero Academia Season 7
+18921|2|en|My Hero Academia Season 8
 17931|4|de|My Hero Academia Staffel 7
 18921|4|de|My Hero Academia Staffel 8
 13633|2|en|My Hero Academia the Movie: The Two Heroes
@@ -51133,6 +51136,7 @@
 1314|2|en|Super Transformation Cosprayers
 8257|2|en|Super Veggie Torracman
 19638|1|x-kot|Super Wings The Movie: Maximum Speed
+19664|1|x-zht|Super Wings: China Culture
 13278|4|pl|Super Wings: Strażnicy Świata
 18590|4|en|SUPER XIANG
 2108|4|en|Super Yoyo
@@ -52709,6 +52713,7 @@
 9341|4|es-419|The “HENTAI” prince and the stony cat.
 17906|4|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You
 18343|4|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You (2025)
+19663|2|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You (2026)
 18343|2|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 2
 19452|2|en|The 100th Time`s the Charm: She Was Executed 99 Times, So How Did She Unlock "Super Love" Mode?!
 13597|2|en|The 25 Year Old High School Girl
@@ -75735,6 +75740,7 @@
 1490|4|ja|ジャングル大帝 (1997)
 6652|4|ja|ジャングル大帝 勇気が未来をかえる
 1498|4|ja|ジャングル大帝 進めレオ!
+19662|4|ja|ジャングル大帝／本能寺の変
 2483|4|ja|ジャングル黒べえ
 6520|4|ja|ジャンケンマン
 7343|4|ja|ジャンケンマン 怪獣大決戦
@@ -81114,6 +81120,7 @@
 11172|4|zh-Hans|不思议美眉
 11924|4|zh-Hant|不愉快的妖怪庵
 14177|4|zh-Hant|不愉快的妖怪庵 續
+19141|4|zh-Hans|不擅吸血的吸血鬼
 17914|4|zh-Hans|不时用俄语小声说真心话的邻桌艾莉同学
 17914|2|zh-Hans|不时轻声地以俄语遮羞的邻座艾莉同学
 16505|4|zh-Hant|不會拿捏距離的阿波連同學
@@ -83220,7 +83227,7 @@
 4992|4|ja|動絵狐狸達引(うごきえこりのたてひき)
 18931|4|ja|勘違いの工房主~英雄パーティの元雑用係が, 実は戦闘以外がSSSランクだったというよくある話~
 2412|4|ja|勝利投手
-238|4|ja|勝負師[ギャンブラー]伝説 哲也
+238|4|ja|勝負師伝説 哲也
 17261|4|ja|勝連おもろそうし
 7004|4|ja|勤倹貯蓄 塩原多助
 8468|4|zh-Hans|勿忘蛛
@@ -83728,6 +83735,7 @@
 11645|4|ja|君のこころは輝いてるかい?
 17906|4|ja|君のことが大大大大大好きな100人の彼女
 18343|4|ja|君のことが大大大大大好きな100人の彼女 (2025)
+19663|4|ja|君のことが大大大大大好きな100人の彼女 (2026)
 11829|4|ja|君の名は. your name.
 11775|4|ja|君の棲む街
 13363|4|ja|君の膵臓をたべたい
@@ -94112,6 +94120,8 @@
 10134|4|zh-Hans|超级索尼子
 1341|4|zh-Hans|超级酷乐猫
 13278|4|zh-Hans|超级飞侠
+19638|4|zh-Hans|超级飞侠：乐迪加速
+19664|4|zh-Hans|超级飞侠文化中华
 14748|4|zh-Hans|超级骗子
 14086|4|zh-Hans|超级龙珠英雄
 1820|4|ja|超者ライディーン
