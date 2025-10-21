@@ -1,4 +1,4 @@
-# created: Sun Oct 19 03:00:02 2025
+# created: Mon Oct 20 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -858,6 +858,8 @@
 2107|2|hu|A Bosco léghajó kalandjai
 8262|2|en|A Boy and His Mistress! Hikaru and Ayana`s Secret Collection
 3674|4|pt|A Branca de Neve
+11082|4|pt|A Branca de Neve com Cabelos Ruivos
+11348|4|pt|A Branca de Neve com Cabelos Ruivos (2016)
 14302|4|en|A Branch of a Pine Is Tied Up
 8166|4|en|A Bridge to the Starry Skies
 784|2|pt|A Canção do Cordeiro
@@ -2821,6 +2823,7 @@
 1061|4|pl|Ania z Zielonego Wzgórza
 11325|1|x-jat|Aniki no Yome-san nara, Ore ni Hamerarete Hiihii Itteru Tokoro Da yo
 5211|2|x-jat|Anikuri 15
+19666|1|x-jat|Anila to Cocora
 8028|1|x-jat|Anima
 13756|1|x-jat|Anima Yell!
 13756|4|en|Anima Yell!
@@ -3556,7 +3559,7 @@
 236|4|pt|Armitage III: Matriz Poli
 236|4|en|Armitage III: Poly Matrix
 236|1|x-jat|Armitage III: Poly Matrix
-1161|4|en|Armor Hunter Mellowlink
+1161|2|en|Armor Hunter Mellowlink
 460|2|en|Armor Legend Samurai Troopers
 14694|2|en|Armor Shop for Ladies & Gentlemen (Flips the Script)
 14412|4|en|Armor Shop for Ladies and Gentlemen
@@ -3698,6 +3701,8 @@
 3647|2|pt|As Aventuras do Pequeno Príncipe
 2218|4|pt|As Aventuras do Ursinho Panda
 231|4|es-GA|As Bolas Máxicas
+15505|4|pt|As Crónicas da Restauração de um Reino
+16804|4|pt|As Crónicas da Restauração de um Reino (2022)
 169|4|pt|As Crónicas de Lodoss
 2309|4|pt|As Fábulas da Floresta Verde
 6796|4|pt|As Férias de Pikachu
@@ -8764,6 +8769,7 @@
 1734|1|x-jat|Chou Denji Machine Voltes V
 1814|1|x-jat|Chou Denji Robo Com Battler V
 18423|1|x-jat|Chou Futsuu Ken Chiba Densetsu
+19665|1|x-jat|Chou Futsuu Mahou Shoujo Asumi Toruverse
 18514|1|x-jat|Chou Futsuu Toshi Kashiwa Densetsu
 15029|1|x-jat|Chou Futsuu Toshi Kashiwa Densetsu R
 18515|1|x-jat|Chou Futsuu Toshi Kashiwa Densetsu Z
@@ -18532,9 +18538,11 @@
 247|2|en|Ghost in the Shell SAC
 247|2|en|Ghost in the Shell TV
 9658|4|en|Ghost in the Shell: Arise
+11023|2|cs|Ghost in the Shell: Arise
 61|4|es-419|Ghost in the Shell: Espectro Virtual
 61|2|x-jat|Ghost in the Shell: Koukaku Kidoutai
 890|2|pl|Ghost in the Shell: Niewinność
+10824|2|cs|Ghost in the Shell: nový film
 10824|4|pt|Ghost in the Shell: O Amanhecer
 1176|2|en|Ghost in the Shell: S.A.C. 2nd GIG
 1176|4|de|Ghost in the Shell: S.A.C. 2nd GIG
@@ -27530,7 +27538,8 @@
 2041|1|x-jat|Kikou Kantai Dairugger XV
 3049|1|x-jat|Kikou Keisatsu Metal Jack
 3049|2|x-jat|Kikou Keisatsu Metarujakku
-1161|1|x-jat|Kikou Ryouhei Mellowlink
+1161|2|x-jat|Kikou Ryouhei Mellowlink
+1161|1|x-jat|Kikou Ryouhei Merowlink
 1112|1|x-jat|Kikou Senki Dragonar
 360|1|x-jat|Kikou Sennyo Rouran
 9665|2|x-jat|Kikou Shoujo wa Kizutsukanai
@@ -28684,6 +28693,8 @@
 13317|3|x-jat|konosuba OAD 2
 11261|2|es|Konosuba: ¡bendito sea este maravilloso mundo!
 16446|4|es|Konosuba: ¡Explosión en un mundo maravilloso!
+17431|4|pt|Konosuba: A Bênção de Deus Para Este Maravilhoso Mundo! 3
+18865|4|pt|Konosuba: A Bênção de Deus Para Este Maravilhoso Mundo! 3 - Bónus
 16446|4|en|Konosuba: An Explosion on this Wonderful World!
 11854|4|de|Konosuba: Choker Game
 18865|4|de|KonoSuba: God’s Blessing on This Wonderful World! 3 - Bonus Stage
@@ -56210,6 +56221,7 @@
 17672|1|x-jat|Tsuyokute New Saga
 5251|1|x-jat|Tsuyoshi Shikkari Shinasai
 7378|1|x-jat|Tsuyoshi Shikkari Shinasai: Tsuyoshi no Time Machine de Shikkari Shinasai
+19054|3|ja|TSY
 1540|3|x-jat|TT
 3121|3|x-jat|TT: TPC
 4308|3|x-jat|tt2
@@ -56740,7 +56752,7 @@
 10937|4|pt|Uma Voz Silenciosa
 3682|1|x-jat|Umacha
 18829|4|en|Umamusume: Cinderella Gray
-19419|2|en|Umamusume: Cinderella Gray (2025)
+19419|4|en|Umamusume: Cinderella Gray (2025)
 13034|4|en|Umamusume: Pretty Derby
 18359|2|en|Umamusume: Pretty Derby - Beginning of a New Era
 15739|4|en|Umamusume: Pretty Derby Season 2
@@ -58940,6 +58952,7 @@
 191|2|pl|Wspaniały belfer Onizuka
 262|2|pl|Wspomnienia
 12700|3|x-jat|wttb
+19054|3|en|WTTOR
 18919|2|x-zht|Wu Chengen Ji Yao Lu
 18919|2|en|Wu Chengen`s Demon Recording
 19126|2|x-zht|Wu Dong Qian Kun 5th Season
@@ -72897,6 +72910,7 @@
 3662|4|ja|アニメ野生のさけび
 4580|4|ja|アニメ風間愛
 6788|4|ja|あにゃまる探偵 キルミンずぅ
+19666|4|ja|アニラとココラ
 1962|3|ja|アニ三
 5315|3|ja|アニ店
 6002|4|ja|あねいも
@@ -81707,6 +81721,7 @@
 12531|4|ja|仮面ライダー電王: イマジンあにめ 3
 2238|4|ja|仰天人間バトシーラー
 3573|2|zh-Hans|仰望半月之空
+3573|2|zh-Hans|仰望半月的夜空
 6263|2|zh-Hans|仰望天空的少女瞳孔中所映照的世界
 16773|4|zh-Hans|任务大师
 11498|2|zh-Hant|任性High-Spec
@@ -82000,8 +82015,10 @@
 13859|4|zh-Hans|偶像大师 灰姑娘女孩剧场 第三季
 13274|4|zh-Hans|偶像大师 灰姑娘女孩剧场 第二季
 14516|4|zh-Hans|偶像大师 灰姑娘女孩剧场 第四季
+15625|2|zh-Hans|偶像大师 百万现场！
 9283|4|zh-Hans|偶像大师 闪耀祭典
 17918|4|zh-Hans|偶像大师 闪耀色彩
+15625|2|zh-Hans|偶像大师百万现场！
 17918|4|zh-Hant|偶像大師 閃耀色彩
 3058|4|zh-Hans|偶像天使阳子
 18666|2|zh-Hans|偶像女友墮落NTR
@@ -91454,6 +91471,7 @@
 11066|4|zh-Hans|百万偶像
 12296|4|zh-Hans|百万吨级武藏
 17027|4|zh-Hans|百万吨级武藏 第二季
+15625|2|zh-Hans|百万现场！
 18119|4|ja|百千さん家のあやかし王子
 18119|4|zh-Hans|百千家的妖怪王子
 635|4|zh-Hans|百变之星
@@ -94058,6 +94076,7 @@
 996|4|ja|超時空要塞マクロス 愛・おぼえていますか
 501|4|ja|超時空要塞マクロスII -Lovers Again-
 1177|4|ja|超時空騎団サザンクロス
+19665|4|ja|超普通マホウ少女アスミトルバース
 18514|4|ja|超普通都市カシワ伝説
 15029|4|ja|超普通都市カシワ伝説R
 18515|4|ja|超普通都市カシワ伝説Z
