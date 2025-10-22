@@ -1,4 +1,4 @@
-# created: Mon Oct 20 03:00:01 2025
+# created: Tue Oct 21 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -26665,6 +26665,7 @@
 10094|1|x-jat|Kansuke-san to Fushigi na Jitensha
 10161|2|en|Kantai Collection
 10161|1|x-jat|Kantai Collection: KanColle
+19667|3|x-jat|kanteishi (kari)
 18026|2|x-jat|KanteiSkill
 18707|2|x-jat|KanteiSkill 2
 10526|1|x-jat|Kantoku Fuyukitodoki
@@ -45742,6 +45743,7 @@
 19381|1|x-jat|Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru? (2026)
 18592|1|x-jat|Saikyou no Shien-shoku "Wajutsushi" Dearu Ore wa Sekai Saikyou Clan o Shitagaeru
 18592|2|x-jat|Saikyou no Shienshoku "Wajutsushi" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru
+19667|1|x-jat|Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii Desu yo?
 17159|1|x-jat|Saikyou Onmyouji no Isekai Tenseiki
 2350|1|x-jat|Saikyou Robo Daiouja
 18229|1|x-jat|Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill Mochi Tank, Yuusha Party o Tsuihou Sareru
@@ -54303,6 +54305,7 @@
 7074|2|en|The Straw Millionaire
 11017|2|en|The Strict and Cool Teacher is Aheboteochi!
 18210|2|en|The Strongest Dull Prince`s Secret Battle for the Throne
+19667|2|en|The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!
 18427|4|en|The Strongest Magician in the Demon Lord`s Army Was a Human
 17447|2|en|The Strongest Male Hero Ever
 17447|2|en|The Strongest Male Protagonist of All Time
@@ -56799,6 +56802,7 @@
 17212|3|x-jat|umpd special
 15739|3|x-jat|umpd2
 17706|2|en|umpd3
+10972|2|x-unk|UMR
 18050|2|fr|Un amour remarquable
 604|2|fr|Un arbre de Palme
 7541|2|it|Un bacio a quei petali
@@ -82426,6 +82430,7 @@
 18229|4|ja|最強タンクの迷宮攻略 ~体力9999のレアスキル持ちタンク, 勇者パーティーを追放される~
 18935|4|ja|最強の王様, 二度目の人生は何をする?
 19381|4|ja|最強の王様, 二度目の人生は何をする? (2026)
+19667|4|ja|最強の職業は勇者でも賢者でもなく鑑定士 (仮) らしいですよ?
 2350|4|ja|最強ロボ ダイオージャ
 18210|4|ja|最強出涸らし皇子の暗躍帝位争い 無能を演じるSSランク皇子は皇位継承戦を影から支配する
 19142|3|ja|最強宇宙船
@@ -94913,6 +94918,7 @@
 15338|4|zh-Hant|鐵路浪漫譚
 15921|4|zh-Hant|鐵路浪漫譚 第二季
 6005|2|zh|鐵達尼亞
+19667|3|ja|鑑定士（仮）
 13235|4|zh-Hant|鑑真大和尚
 13235|2|ja|鑑真物語
 8916|4|zh-Hans|钓球
