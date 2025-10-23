@@ -1,4 +1,4 @@
-# created: Tue Oct 21 03:00:02 2025
+# created: Wed Oct 22 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -300,6 +300,7 @@
 1001|2|lt|100 Istorijų
 17906|2|x-jat|100 Kanojo
 18343|2|ja|100 Kanojo 2
+19663|2|x-jat|100 Kanojo 3
 18648|4|en|100 Meters
 17906|4|pt-BR|100 Namoradas Que Te Amam Muuuuuito
 15455|1|x-jat|100 Nichikan Ikita Wani
@@ -4628,7 +4629,6 @@
 18557|4|id|Baki Hanma VS Kengan Ashura
 18557|4|sv|Baki Hanma VS Kengan Ashura
 18557|4|my|Baki Hanma VS Kengan Ashura
-18557|4|pt|Baki Hanma VS Kengan Ashura
 18557|4|cs|Baki Hanma vs. Kengan Ashura
 18557|4|es-419|Baki Hanma vs. Kengan Ashura
 18557|4|es|Baki Hanma vs. Kengan Ashura
@@ -4827,6 +4827,8 @@
 12565|1|x-zht|Balala Xiaomoxian: Qiji Wubu
 19576|1|x-zht|Balala Xiaomoxian: Xing Yuan Die Qi 1
 19615|1|x-zht|Balala Xiaomoxian: Xing Yuan Die Qi 2
+19668|1|x-zht|Balala Xiaomoxian: Yao Xing Shouhu Zhe 1
+19669|1|x-zht|Balala Xiaomoxian: Yao Xing Shouhu Zhe 2
 12565|3|x-zht|balala2
 11833|3|x-zht|balala3
 13701|3|x-zht|balala4
@@ -8257,6 +8259,7 @@
 15914|1|x-jat|Chainsaw Man
 15914|4|en|Chainsaw Man
 15914|4|pl|Chainsaw Man
+18324|4|de|Chainsaw Man - The Movie: Reze Arc
 19560|2|en|Chainsaw Man Compilation Movies
 19560|1|x-jat|Chainsaw Man Soushuuhen
 18324|2|en|Chainsaw Man the Movie: Reze Arc
@@ -23332,6 +23335,7 @@
 5156|1|x-jat|Hyakka Zukan
 17906|3|x-jat|hyakkano
 18343|3|x-jat|hyakkano 2
+19663|3|x-jat|hyakkano 3
 1628|1|x-jat|Hyakki
 4109|2|x-jat|Hyakki Yako: Warashi
 1628|4|es|Hyakki, el secreto de la isla del diablo
@@ -31232,6 +31236,7 @@
 18493|1|x-jat|Look Back
 18493|4|en|Look Back
 18493|4|pl|Look Back
+18493|4|pt|Look Back
 16489|2|en|Looking Back at it All: The Dragon Ball Z Year-End Show!
 4103|2|en|Looking for a Home
 14790|4|en|Looking for Magical Doremi
@@ -31312,6 +31317,7 @@
 1009|2|es|Los Mumins
 7073|2|es|Los Osos del Bambú
 1217|2|es|Los Padrinos de Tokio
+6032|4|es-419|Los Pecados de Casshern
 4063|4|es-419|Los Robotrabajadores
 2884|2|es|Los sabios
 1893|4|es-419|Los Secretos de Julie
@@ -34034,6 +34040,7 @@
 17766|4|es-419|Me enamoré de la villana
 17766|4|es|Me enamoré de la villana
 17910|4|es|Me encantan las Magical Girls
+17910|4|es-419|Me encantan las Magical Girls
 12462|2|es|Me pesan los lunes
 1572|2|x-jat|Me-gumi no Daigo
 1572|1|x-jat|Me-gumi no Daigo: Kajiba no Baka Yarou
@@ -38243,7 +38250,7 @@
 3091|4|en|Ninja the Wonder Boy
 19177|1|x-jat|Ninja to Gokudou
 18596|1|x-jat|Ninja to Koroshiya no Futarigurashi
-19177|2|en|Ninja Vs. Gokudo
+19177|4|en|Ninja Vs. Gokudo
 1959|2|en|Ninja Warrior Tobikage
 3091|4|pl|Ninja, cudowny chłopak
 16979|1|x-jat|Ninjala
@@ -44313,6 +44320,7 @@
 4536|2|en|Recapture Ourin Gakuen
 571|3|en|recca
 571|2|tr|Reccanın alevi
+17883|4|pt|Rececionista Pokémon
 9546|4|en|Recently, My Sister Is Unusual
 9546|4|es|Recently, My Sister Is Unusual
 14969|2|pl|Recenzenci Międzygatunkowi
@@ -47316,6 +47324,7 @@
 12732|4|en|Seoul Station
 12732|1|x-kot|Seoulyeok
 15915|1|x-kot|Sepa Mecard S
+19337|4|pt|Separados Pelas Estrelas
 7486|4|cs|Sépijka
 336|4|cs|Šepot srdce
 1556|1|x-jat|Septem Charm Magical Kanan
@@ -50233,6 +50242,7 @@
 17785|4|es|Spy x Family Código: Blanco
 17785|4|es-419|SPY x FAMILY CÓDIGO: Blanco
 17785|4|pt-BR|SPY x FAMILY CÓDIGO: Branco
+17785|4|pt|Spy x Family Código: Branco
 17061|2|en|Spy x Family Part 2
 17784|2|x-jat|Spy x Family Season 2
 18677|2|en|Spy x Family Season 3
@@ -58087,6 +58097,7 @@
 639|4|en|Wandaba Style
 18823|1|x-jat|Wandance
 18823|2|en|Wandance
+18823|4|pt|Wandance - A Animação
 17893|4|ja|WANDER BURABURA BAKKAMU
 17893|1|x-jat|Wander Burabura Bakkamu
 90|2|en|Wanderer Kenshin
@@ -60409,6 +60420,7 @@
 593|2|en|Yu-Gi-Oh! Toei
 12659|4|en|Yu-Gi-Oh! Vrains
 12659|4|fr|Yu-Gi-Oh! Vrains
+12659|4|pt|Yu-Gi-Oh! VRAINS
 593|2|en|Yu-Gi-Oh! Zero
 8140|2|en|Yu-Gi-Oh! Zexal
 8140|4|pt|Yu-Gi-Oh! Zexal
@@ -62704,6 +62716,7 @@
 16842|4|uk|Детектив Конан: Чаювання із Зеро
 2645|2|bg|Детектив Конан: Четиринадесетият
 7232|2|bg|Детектив Конан: Шиничи и Ран - спомени за Маджонг и Танабата
+15998|2|ru|Детектив уже мёртв
 14789|4|ru|Детективное агентство "Дятел"
 14789|2|ru|Детективное агентство «Дятел»
 16186|4|ru|Детективное агентство Футо
@@ -63390,6 +63403,7 @@
 5679|2|ru|Клинок Бессмертного
 14912|2|ru|Клинок Бессмертного (2019)
 14107|2|ru|Клинок убивающий демонов
+14107|2|ru|Клинок, рассекающий демонов
 16920|4|ru|Клуб белых воротничков
 12329|2|ru|Клуб кабуки
 6257|2|uk|Клуб легкої музики!
@@ -65635,6 +65649,7 @@
 5629|2|ru|Стальной Лайнбарель
 18917|2|bg|Стандартен романс в Коулун
 14618|4|uk|Становлення героя-звіролюба
+17910|2|ru|Становясь волшебницей
 11095|4|ru|Старик и море
 16373|4|uk|Старша карта
 8660|2|uk|Старша школа DxD
@@ -66278,6 +66293,7 @@
 18184|2|ru|Что за жизнь без блудливой жены?
 9787|4|ru|Что ни выбирай, а школьной романтической комедии уже не видать
 7124|2|ru|Чу-Бра!!
+9874|2|ru|Чудачества любви не помеха!
 1022|2|bg|Чудесни Времена
 1022|2|ru|Чудесные дни
 18294|4|ru|Чудесные Претти Кьюр!
@@ -66442,6 +66458,7 @@
 17462|2|ru|Я раб маленького суккуба
 17937|2|ru|Я скрытый босс 99го уровня, но не Демон-лорд
 17328|4|uk|Я став сестрою!
+18438|2|ru|Я стал самым сильным с провальным навыком «ненормальное состояние», я разрушу всё
 17328|4|ru|Я стал сестрой!
 15415|2|ru|Я стою на миллионах трупов
 15415|4|ru|Я стою на миллионе трупов
@@ -75304,6 +75321,7 @@
 8420|4|ja|これくらいで歌う
 7674|3|ja|これゾン
 8476|3|ja|これゾンOTD
+19412|2|ja|これってナ〜ニ？
 19412|4|ja|これってナ～ニ?
 7674|4|ja|これはゾンビですか?
 8476|4|ja|これはゾンビですか? OF THE DEAD
@@ -78541,6 +78559,7 @@
 9804|2|ja|ピューパ
 17657|4|ja|ヒューマンバグ大学
 17657|2|ja|ヒューマンバグ大学 -不死学部不幸学科-
+19414|2|ja|ピュアピュア♥ぺろぺろ♥プリンセス
 653|4|ja|ピュアメール
 4200|4|ja|ピュア島の仲間たち
 5093|4|ja|ピュンピュン丸
@@ -78941,6 +78960,7 @@
 7519|2|ja|プリンセスナイト☆カチュア~堕ちた竜騎姫~
 227|4|ja|プリンセスナイン 如月女子高野球部
 19240|4|ja|プリンセスバースト!
+19240|2|ja|プリンセスバースト!~危険日の種付け孕ませ羞恥バトル!~
 2487|4|ja|プリンセスメモリー
 6438|4|ja|プリンセスラバー!
 7577|4|ja|プリンセスラバー! (2010)
@@ -80326,6 +80346,7 @@
 3622|2|ja|ラブポジション LEGEND OF HALLEY
 15062|2|ja|ラブホリック ~魅惑の乙女と白濁カンケイ~
 2495|4|ja|ラブマシン アニマイド娼婦23号
+19422|2|ja|らぶみー『かくれんぼ』 THE ANIMATION
 17071|2|ja|らぶみー『楓と鈴』 THE ANIMATION
 17071|6|ja|らぶみー♡[楓と鈴] Kaede & Suzu Twin Sisters THE ANIMATION
 9927|2|ja|ラブライブ! 2
@@ -83411,6 +83432,7 @@
 8249|4|ja|印ストール
 16665|4|ja|印西あるある物語
 13579|4|zh-Hant|印順導師傳
+19413|2|ja|危険な森 おにごっこ
 19413|4|ja|危険な森 鬼ごっこ
 10395|4|zh-Hant|即使如此世界依然美麗
 15975|2|zh-Hans|即使如此依旧步步紧逼
@@ -86253,12 +86275,14 @@
 19576|4|zh-Hant|巴啦啦小魔仙之星緣蝶啓1
 19576|4|zh-Hans|巴啦啦小魔仙之星缘蝶启1
 19615|4|zh-Hans|巴啦啦小魔仙之星缘蝶启2
+19669|4|zh-Hans|巴啦啦小魔仙之曜星守护者2
 11833|4|zh-Hans|巴啦啦小魔仙之梦幻旋律
 13701|4|zh-Hant|巴啦啦小魔仙之飞越彩灵堡 第一季精灵俐俐
 13702|4|zh-Hant|巴啦啦小魔仙之飞越彩灵堡 第二季彩俐公主
 17593|4|zh-Hans|巴啦啦小魔仙之魔法星缘堡
 14638|4|zh-Hans|巴啦啦小魔仙之魔法海萤堡
 19595|4|zh-Hans|巴啦啦小魔仙之魔法海萤堡 第二季
+19668|4|zh-Hans|巴啦啦小魔仙曜星守护者1
 11796|4|ja|巴拉拉小魔仙
 941|4|zh-Hans|巴欧来访者
 13948|4|zh-Hans|巴比伦
@@ -88872,6 +88896,7 @@
 12024|4|ja|朝だよ! 貝社員
 8873|4|ja|朝まで授業 Chu!
 19228|4|ja|朝まで汁だく母娘丼!!
+19228|2|ja|朝まで汁だく母娘丼！！
 17218|4|zh|朝堂有妖气
 13262|4|zh-Hans|朝花夕誓——于离别之朝束起约定之花
 124|4|zh-Hans|朝雾的巫女
