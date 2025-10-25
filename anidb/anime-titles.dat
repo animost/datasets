@@ -1,4 +1,4 @@
-# created: Thu Oct 23 03:00:01 2025
+# created: Fri Oct 24 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2824,6 +2824,7 @@
 1061|4|pl|Ania z Zielonego Wzgórza
 11325|1|x-jat|Aniki no Yome-san nara, Ore ni Hamerarete Hiihii Itteru Tokoro Da yo
 5211|2|x-jat|Anikuri 15
+19666|2|en|Anila and Cocora
 19666|1|x-jat|Anila to Cocora
 8028|1|x-jat|Anima
 13756|1|x-jat|Anima Yell!
@@ -6250,6 +6251,7 @@
 3653|2|en|Blonde Jeanie
 43|3|x-jat|Blood
 43|4|hu|Blood - Az utolsó vámpír
+43|4|pt|Blood - O Último Vampiro
 43|2|sv|Blood - The Last Vampire
 43|4|fr|Blood - The Last Vampire
 43|4|it|Blood - The Last Vampire
@@ -6291,7 +6293,6 @@
 8375|4|ru|Blood-C: Последний тёмный
 43|4|es|Blood, el último vampiro
 43|4|es-CA|Blood, l`últim vampir
-43|4|pt|Blood: O Último Vampiro
 43|4|fi|Blood: The Last Vampire
 43|4|pl|Blood: The Last Vampire
 43|4|en|Blood: The Last Vampire
@@ -45341,6 +45342,8 @@
 8214|2|en|Run Mazinger X
 2385|2|en|Run Melos
 2384|4|en|Run Melos! (1992)
+19672|1|x-jat|Run Run Lantern
+19672|4|ja|Run Run Lantern
 3615|2|x-jat|Run wa Kaze no Naka
 14109|4|en|Run with the Wind
 15058|2|en|Run, Melos
@@ -47903,12 +47906,10 @@
 18492|1|x-jat|Shibuya Hachi
 18822|1|x-jat|Shibuya Hachi (2024)
 19274|1|x-jat|Shibuya Hachi (2025)
-19642|1|x-jat|Shibuya Hachi (2025) TV
 18822|2|x-jat|Shibuya Hachi Part 2
 18492|4|ja|SHIBUYA♡HACHI
 18822|4|ja|SHIBUYA♡HACHI (2024)
 19274|4|ja|SHIBUYA♡HACHI (2025)
-19642|4|ja|SHIBUYA♡HACHI (2025) TV
 16119|1|x-jat|Shichigahama de Mitsuketa
 853|1|x-jat|Shichinin no Nana
 13439|1|x-jat|Shichisei no Subaru
@@ -81205,6 +81206,7 @@
 16325|2|zh-Hans|与变成了异世界美少女的大叔一起冒险
 16325|4|zh-Hans|与变成了异世界美少女的好友一起冒险
 17289|2|zh-Hans|与妖为邻
+18839|4|zh-Hans|与游戏中心的少女异文化交流的故事
 17336|4|zh-Hans|与猫共度的夜晚
 12016|4|zh-Hans|与猫同住的恩田家
 11067|4|zh-Hans|与魔共舞
@@ -86317,6 +86319,7 @@
 8857|4|zh-Hant|帕蒂瑪的顛倒世界
 18731|4|ja|帝乃三姉妹は案外, チョロい.
 18731|4|zh-Hant|帝乃三姊妹意外地容易相處。
+18731|4|zh-Hans|帝乃三姐妹原来很好搞定。
 12496|4|zh-Hans|帝圣印战记
 13954|4|zh-Hans|帝王攻略
 609|4|zh|帝皇戰紀
@@ -89743,6 +89746,7 @@
 8307|4|zh-Hans|死囚乐园 OAD
 4463|4|ja|死妹人形
 17187|4|ja|死役所
+19042|4|zh-Hans|死灵子的宇宙恐怖秀
 13352|4|zh|死灵编码之世界操纵者
 2369|4|zh-Hant|死神
 2369|4|zh-Hans|死神
