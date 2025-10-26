@@ -1,4 +1,4 @@
-# created: Fri Oct 24 03:00:01 2025
+# created: Sat Oct 25 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -18493,6 +18493,7 @@
 19540|2|en|Ghost Blows Out the Light: Return to the South Sea
 18502|4|en|Ghost Cat Anzu
 18502|4|de|Ghost Cat Anzu
+19674|1|x-jat|Ghost Concert: Missing Songs
 312|4|tl|Ghost Fighter
 5127|4|es|Ghost Hound
 5127|2|x-jat|Ghost Hound
@@ -28049,6 +28050,7 @@
 7054|2|x-jat|Kirin Monoshiri Yakata
 7054|1|x-jat|Kirin no Monoshiri Yakata
 13861|1|x-jat|Kirin the Noop
+19675|1|x-jat|Kirio Fan Club
 8696|1|x-jat|Kiriya Hakushakuke no Roku Shimai
 13371|4|ja|kiro no hito
 13371|1|x-jat|Kiro no Hito
@@ -43849,6 +43851,8 @@
 7389|4|en|Rainbow
 2408|2|en|Rainbow Across the Pacific Ocean
 1885|2|en|Rainbow Battle Team Robin
+19676|1|x-kot|Rainbow Bubblegem
+19677|1|x-kot|Rainbow Bubblegem 2: Secret
 14137|2|en|Rainbow Cat And Blue Rabbit In Space
 14154|2|en|Rainbow Cat And Blue Rabbit Sidequels: Tiao-tiao the Guardian
 14122|2|en|Rainbow Cat And Blue Rabbit: Amu Star
@@ -46959,6 +46963,7 @@
 8154|1|x-jat|Seikon no Qwaser II
 7971|2|x-jat|Seikon no Qwaser OVA
 7971|1|x-jat|Seikon no Qwaser: Jotei no Shouzou
+19673|1|x-jat|Seikou Senki Pony Celes
 9945|1|x-jat|Seikou! Lose a Virgin for the First Term
 4353|1|x-jat|Seikoujo: Haitoku no Biden Dorei
 5222|1|x-jat|Seimei no Kagaku: Micro Patrol
@@ -69938,6 +69943,8 @@
 6154|2|ko|레이프! 레이프! 레이프!
 4878|2|ko|레이프맨
 14705|4|ko|레인보우 루비
+19676|4|ko|레인보우 버블젬
+19677|4|ko|레인보우 버블젬 2 시크릿
 2148|2|ko|레즈병동
 13116|2|ko|레지던스
 3452|2|ko|레퀴엠
@@ -75107,6 +75114,7 @@
 6093|2|ja|ゴーゴーアックマン
 3159|4|ja|ゴーゴー五つ子ら・ん・ど
 19093|2|ja|ゴースト・オブ・ツシマ レジェンズ
+19674|4|ja|ゴーストコンサート: missing Songs
 2096|5|ja|ゴーストスイーパーみかみ
 4564|4|ja|ゴーストハント
 12638|4|ja|ゴーちゃん. ~モコとちんじゅうの森の仲間たち~
@@ -92913,6 +92921,7 @@
 9533|4|ja|聖ヤリマン学園援交日記 THE ANIMATION
 134|4|ja|聖ルミナス女学院
 465|4|ja|聖伝[RG VEDA]
+19673|4|ja|聖光閃姫ポニーセレス
 13622|4|ja|聖刻[ワース] -BEYOND-
 6546|4|ja|聖剣の刀鍛冶[ブラックスミス]
 16407|4|ja|聖剣伝説 Legend of Mana -The Teardrop Crystal-
@@ -95469,6 +95478,7 @@
 11784|4|ja|霊剣山 星屑たちの宴
 2017|4|ja|霊能探偵ミコ
 1218|4|zh-Hant|霍爾的移動城堡
+19675|4|ja|霧尾ファンクラブ
 8696|4|ja|霧谷伯爵家の六姉妹
 12738|3|zh-Hant|露之歌
 17661|4|zh-Hans|露出系女大学生克莉丝提亚
