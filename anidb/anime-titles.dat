@@ -1,4 +1,4 @@
-# created: Sun Oct 26 03:00:02 2025
+# created: Mon Oct 27 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -11073,6 +11073,7 @@
 1726|4|en|DearS
 9253|1|x-jat|Death Billiards
 9253|4|en|Death Billiards
+19685|1|x-jat|Death Game Master Desu
 17187|2|en|Death Hall
 12603|3|x-jat|death march
 12603|1|x-jat|Death March kara Hajimaru Isekai Kyousoukyoku
@@ -12973,7 +12974,7 @@
 14483|4|en|Dorohedoro
 14483|4|pl|Dorohedoro
 14483|4|cs|Dorohedoro
-18397|1|x-jat|Dorohedoro (2025)
+18397|1|x-jat|Dorohedoro (2026)
 11652|2|en|Doronjo ZIP!
 1119|4|en|Dororo
 8770|1|x-jat|Dororo
@@ -42494,6 +42495,11 @@
 12963|1|x-jat|Ponkotsu Quest: Maou to Haken no Mamono-tachi
 12964|1|x-jat|Ponkotsu Quest: Maou to Haken no Mamono-tachi (2016)
 12965|1|x-jat|Ponkotsu Quest: Maou to Haken no Mamono-tachi (2017)
+19684|1|x-jat|Ponkotsu Quest: Maou to Haken no Mamono-tachi Season 2
+19680|1|x-jat|Ponkotsu Quest: Maou to Haken no Mamono-tachi Season 5
+19681|1|x-jat|Ponkotsu Quest: Maou to Haken no Mamono-tachi Season 6
+19682|1|x-jat|Ponkotsu Quest: Maou to Haken no Mamono-tachi Season 7
+19683|1|x-jat|Ponkotsu Quest: Maou to Haken no Mamono-tachi Season 8
 11608|1|x-jat|Ponkotsuland Saga
 11608|2|ja|PONKOTSULAND SAGA -ポンコツランド・サガ-
 13992|2|x-jat|Ponoc Tanpen Gekijou
@@ -51163,6 +51169,8 @@
 8740|4|en|Super Space Machine X Bomber
 8015|1|x-jat|Super Speed
 8015|4|ja|SUPER SPEED
+15538|4|en|Super Star
+18144|4|en|Super Star Season 2
 7321|1|x-jat|Super Street Fighter IV
 7321|4|ja|SUPER STREET FIGHTER IV
 732|4|es-419|Súper Submarino 99
@@ -59654,6 +59662,8 @@
 19479|3|x-jat|yanisuu
 12945|1|x-jat|Yankee Hamster
 16335|1|x-jat|Yankee Hamster Season 2
+19686|1|x-jat|Yankee Hamster Season 3
+19687|1|x-jat|Yankee Hamster Season 4
 5814|1|x-jat|Yankee Reppuu Tai
 18971|1|x-jat|Yano-kun no Futsuu no Hibi
 18971|4|en|Yano-kun`s Ordinary Days
@@ -76983,6 +76993,7 @@
 2528|4|ja|デジモンフロンティア 古代デジモン復活!!
 12132|4|ja|デジモンユニバース アプリモンスターズ
 10905|4|ja|デス・パレード
+19685|4|ja|デスゲームマスター出須
 14072|4|ja|デスティニーチャイルド ONA
 4563|2|ja|デスノート
 9253|4|ja|デスビリヤード
@@ -77491,7 +77502,7 @@
 9347|2|ja|トロピカルKISS♡
 9347|2|ja|トロピカルKISS♥
 14483|4|ja|ドロヘドロ
-18397|4|ja|ドロヘドロ (2025)
+18397|4|ja|ドロヘドロ (2026)
 15805|4|ja|トロみつ娘の秘湯サービス ~とろッとろちゅるちゅるご奉仕させてください~
 8770|4|ja|どろろ
 1119|2|ja|どろろ (1969)
@@ -79405,6 +79416,11 @@
 5946|2|ja|ホワッツ マイケル?
 6758|4|ja|ホワッツマイケル? (1988)
 5952|4|ja|ホワッツマイケル? 2
+19684|4|ja|ポンコツクエスト〜魔王と派遣の魔物たち〜 シーズン2
+19680|4|ja|ポンコツクエスト〜魔王と派遣の魔物たち〜 シーズン5
+19681|4|ja|ポンコツクエスト〜魔王と派遣の魔物たち〜 シーズン6
+19682|4|ja|ポンコツクエスト〜魔王と派遣の魔物たち〜 シーズン7
+19683|4|ja|ポンコツクエスト〜魔王と派遣の魔物たち〜 シーズン8
 12963|4|ja|ポンコツクエスト~魔王と派遣の魔物たち~
 12964|4|ja|ポンコツクエスト~魔王と派遣の魔物たち~ (2016)
 12965|4|ja|ポンコツクエスト~魔王と派遣の魔物たち~ (2017)
@@ -80189,6 +80205,8 @@
 9094|4|ja|やわらか戦車
 12945|4|ja|ヤンキーハムスター
 16335|4|ja|ヤンキーハムスター シーズン２
+19686|4|ja|ヤンキーハムスター シーズン３
+19687|4|ja|ヤンキーハムスター シーズン４
 5814|4|ja|ヤンキー烈風隊
 11226|4|ja|ヤング ブラック・ジャック
 11226|2|ja|ヤング ブラックジャック
