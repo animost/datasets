@@ -1,4 +1,4 @@
-# created: Mon Oct 27 03:00:02 2025
+# created: Tue Oct 28 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -28980,6 +28980,7 @@
 3674|4|pl|Królewna Śnieżka
 2828|4|pl|Królowa śniegu
 169|4|pl|Kronika wojny na Lodoss
+15875|2|pl|Kroniki Duszy
 14765|4|ja|Krosna
 14765|1|x-jat|Krosna
 13816|4|cs|Krtek a Panda
@@ -50668,6 +50669,7 @@
 902|1|x-jat|Strange Dawn
 902|4|fr|Strange Dawn
 885|4|en|Strange Love
+885|2|ja|Strange Love - 変
 10228|2|x-jat|Strange Plus
 360|2|en|Strange Steel Fairy Rouran
 4571|2|en|Strange Story of Tempou Era: Ayakashiayashi
@@ -54613,6 +54615,7 @@
 19569|2|en|The World`s Strongest Rearguard: Labyrinth Country`s Novice Seeker
 16537|4|en|The Wrong Way to Use Healing Magic
 18799|4|en|The Wrong Way to Use Healing Magic 2
+18799|2|en|The Wrong Way to Use Healing Magic Season 2
 16611|4|en|The Yakuza`s Guide to Babysitting
 3664|2|en|The Yearling
 17058|4|en|The Young Brewmaster`s Adventure
@@ -77169,6 +77172,7 @@
 10140|4|ja|トイレの神様
 6366|4|ja|トイレの花子さん
 15909|2|ja|トイレの花子さんVS屈強退魔師 〜悪堕ちマ○コに天誅ザーメン連続中出し〜
+15909|2|ja|トイレの花子さんVS屈強退魔師 ~悪堕ちマ○コに天誅ザーメン連続中出し~
 15909|4|ja|トイレの花子さんVS屈強退魔師 悪堕ちマ○コに天誅ザーメン連続中出し
 15909|2|ja|トイレの花子さんVS屈強退魔師 悪堕ちマンコに天誅ザーメン連続中出し
 16163|2|ja|どぅー・いっと・ゆあせるふ
@@ -77762,6 +77766,7 @@
 11258|4|ja|ネトラセラレ
 7816|4|ja|ネトラレ 田辺優香の独白
 9280|4|ja|ネトラレヅマ
+9280|2|ja|ネトラレヅマ ~礼子~
 9280|2|ja|ネトラレヅマ 礼子
 2771|4|ja|ねとらん者[もん] THE MOVIE #1 ネットのすみでブログと叫ぶ
 13345|4|ja|ネト充のススメ
@@ -80428,6 +80433,7 @@
 15096|4|ja|ランウェイで笑って
 1207|4|ja|ランジェリーズ
 2034|4|ja|ランジェリー戦士パピヨンローゼ
+5633|2|ja|ランス ~砂漠のガーディアン~
 5633|2|ja|ランス 砂漠のガーディアン
 10622|4|ja|ランス・アンド・マスクス
 10856|4|ja|ランス01 光をもとめて THE ANIMATION
@@ -81829,6 +81835,7 @@
 3978|4|zh-Hans|优介的双妻乐园
 6506|4|zh-Hans|伙头仔昆布
 17396|4|ja|会いにいくの.
+19588|4|zh-Hans|会动的！从前从前有只猫 世界喵童话
 7008|4|ja|会長はメイド様!
 7008|4|zh-Hans|会长是女仆大人!
 7315|3|ja|伝勇伝
@@ -83651,6 +83658,7 @@
 1876|4|ja|同窓会 Yesterday Once More
 2421|4|ja|同窓会again
 11134|4|ja|同級生
+8734|2|ja|同級生 ~夏の終わりに~
 2567|4|ja|同級生 クライマックス
 8734|4|ja|同級生 夏の終わりに
 1159|4|ja|同級生 夏の終わりに (1994)
@@ -86703,6 +86711,7 @@
 12814|4|zh-Hans|徒然Children
 12814|4|ja|徒然チルドレン
 18247|4|zh-Hant|從Lv2開始開外掛的前勇者候補過著悠哉異世界生活
+19588|4|zh-Hant|從前從前有隻貓！世界喵童話
 11376|2|zh-Hans|從好久以前就喜歡你
 1958|4|zh-Hans|御伽草子
 1865|4|ja|御先祖様万々歳!
