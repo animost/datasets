@@ -1,4 +1,4 @@
-# created: Tue Oct 28 03:00:01 2025
+# created: Wed Oct 29 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -10709,6 +10709,8 @@
 4253|4|en|Dark Future
 17536|1|x-jat|Dark Gathering
 17536|4|en|Dark Gathering
+19688|1|x-jat|Dark Gathering 2
+19688|2|en|Dark Gathering 2
 12724|2|en|Dark Hour Academy
 12724|4|en|Dark Hour Academy: Fertilization Arc
 14469|2|en|Dark Knight Ingrid
@@ -24985,6 +24987,7 @@
 2833|4|fr|Izumo
 7462|4|ja|IZUMO
 7462|1|x-jat|Izumo
+1987|2|ja|IZUMO - イズモ
 2833|4|ja|IZUMO -猛き剣の閃記-
 1987|4|ja|IZUMO (2003)
 1987|1|x-jat|Izumo (2003)
@@ -51105,6 +51108,7 @@
 1329|2|en|Super Heavy God Gravion 2
 1329|2|en|Super Heavy God Gravion Two
 1329|2|en|Super Heavy God Gravion Zwei
+18604|2|en|Super Heroic
 4928|2|en|Super High Speed Galvion
 15241|4|en|Super HxEros
 4666|2|en|Super Inventor Boy Kanipan
@@ -75354,7 +75358,6 @@
 8420|4|ja|これくらいで歌う
 7674|3|ja|これゾン
 8476|3|ja|これゾンOTD
-19412|2|ja|これってナ〜ニ？
 19412|4|ja|これってナ～ニ?
 7674|4|ja|これはゾンビですか?
 8476|4|ja|これはゾンビですか? OF THE DEAD
@@ -76492,6 +76495,7 @@
 17801|2|ja|ターキー!
 2403|4|ja|ダーク・シェル 檻の中の艶
 17536|4|ja|ダークギャザリング
+19688|4|ja|ダークギャザリング 2
 2789|4|ja|ダークキャット
 961|4|ja|ダークサイド・ブルース
 1587|2|ja|ダークロウズ
@@ -81163,6 +81167,7 @@
 1166|4|ja|下級生
 1090|4|ja|下級生 (1999)
 1166|2|ja|下級生 MY PRETTY CLASS STUDENT
+5138|2|ja|下級生2 ~Sketchbook~
 4155|4|ja|下級生2 ~季花詞集 [Anthology]~
 2167|4|ja|下級生2 ~瞳の中の少女たち~
 5138|4|ja|下級生2~Sketchbook~
@@ -87248,6 +87253,7 @@
 4830|2|ja|憶病なヴィーナス
 10577|4|zh-Hans|懒蛋蛋
 2514|4|ja|懲らしめ
+17482|2|ja|懲らしめ2 ~狂育的デパガ指導~
 17482|4|ja|懲らしめ2 狂育的デパガ指導
 1711|4|ja|懲罰予備校
 8711|4|ja|懲罰指導 ~学園令嬢更性計画~
@@ -90950,6 +90956,7 @@
 15679|4|zh|独步逍遥
 6264|4|ja|独白するユニバーサル横メルカトル Egg Man
 13025|4|zh-Hans|独自生活的小学生
+6456|2|ja|独蛾 THE ANIMATION
 6456|4|ja|独蛾~THE ANIMATION~
 5553|4|zh-Hans|独角鲸落难记
 5893|4|ja|独身アパートどくだみ荘
