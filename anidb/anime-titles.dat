@@ -1,4 +1,4 @@
-# created: Wed Oct 29 03:00:01 2025
+# created: Thu Oct 30 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4424,6 +4424,7 @@
 4897|4|pl|Baccano!
 15341|1|x-jat|Back Arrow
 15341|4|en|Back Arrow
+19689|4|en|Back as Immortal Lord
 13619|4|pl|Back Street Girls -GOKUDOLS-
 13619|4|ja|Back Street Girls -ゴクドルズ-
 13619|4|el|Back Street Girls —Τα Κορίτσια της Γιακούζα
@@ -7810,6 +7811,7 @@
 13655|4|pt|Captain Tsubasa
 13655|4|de|Captain Tsubasa
 13655|4|it|Captain Tsubasa
+13655|2|pl|Captain Tsubasa
 505|2|de|Captain Tsubasa - Die tollen Fußballstars
 3972|2|x-jat|Captain Tsubasa - Holland Youth
 3399|2|fr|Captain Tsubasa - La Coupe du monde
@@ -8995,6 +8997,7 @@
 4828|4|it|Cicala d`Inverno
 1919|2|tr|Çiçek Kız Lunlun
 17819|4|pl|Cicha piosenka o miłości
+18795|3|pl|Cicha Wiedźma
 3652|4|tr|Cici Kız Georgie
 890|4|pt|Cidade Assombrada - Inocência
 6122|2|pt|Cidade Assombrada Nova Versão
@@ -10309,6 +10312,7 @@
 1962|4|de|D`Artagnan und die drei Musketiere
 862|1|x-jat|D+vine Luv
 862|4|ja|D+VINE[LUV][ディヴァイン ラヴ]
+862|2|ja|D+VINE〔LUV〕 ゴールドディスク
 2477|4|en|D1scode
 672|1|x-jat|D4 Princess
 672|4|ja|D4 プリンセス
@@ -12368,6 +12372,7 @@
 13028|4|en|Dishonor Student
 10281|1|x-jat|Disk Wars: Avengers
 13578|1|x-jat|Disney Tsum Tsum
+16908|2|en|Disney Twisted-Wonderland: Episode of Heartslabyul
 16908|1|x-jat|Disney: Twisted-Wonderland the Animation - Episode of Heartslabyul
 19216|1|x-jat|Disney: Twisted-Wonderland the Animation - Episode of Octavinelle
 19215|1|x-jat|Disney: Twisted-Wonderland the Animation - Episode of Savanaclaw
@@ -13254,6 +13259,8 @@
 14491|4|en|Dr. Stone
 14491|4|pl|Dr. Stone
 15305|4|pl|Dr. Stone (2021)
+17053|4|pl|Dr. Stone (2023)
+18064|4|pl|Dr. Stone (2023) (Part 2)
 15305|2|en|Dr. Stone S2: Stone Wars
 18064|2|x-jat|Dr. Stone Season 3 Part 2
 18336|2|en|Dr. Stone Season 4
@@ -13265,6 +13272,7 @@
 18064|1|x-jat|Dr. Stone: New World (2023)
 18064|2|x-jat|Dr. Stone: New World Part 2
 16164|4|en|Dr. Stone: Ryusui
+16164|4|pl|Dr. Stone: Ryusui
 16164|1|x-jat|Dr. Stone: Ryuusui
 18336|1|x-jat|Dr. Stone: Science Future
 18336|4|en|Dr. Stone: Science Future
@@ -14430,6 +14438,7 @@
 14293|1|x-jat|Eiga no Osomatsu-san
 14697|1|x-jat|Eiga no Osomatsu-san: Gekijou Koukai Kinen - Original Tanpen Gekijou
 17076|1|x-jat|Eiga Odd Taxi: In the Woods
+17076|4|pl|Eiga Odd Taxi: In the Woods
 19062|1|x-jat|Eiga Odekake Kozame: Tokai no Otomodachi
 1764|1|x-jat|Eiga Ojamajo Doremi #
 4650|1|x-jat|Eiga Ojarumaru: Yakusoku no Natsu Ojaru to Semira
@@ -24211,6 +24220,8 @@
 9376|2|en|In This Corner (and Other Corners) of the World
 9376|4|en|In This Corner of the World
 9376|4|de|In this Corner of the World
+9376|4|pl|In This Corner of the World
+14233|4|pl|In This Corner of the World (2019)
 14233|4|en|In This Corners of the World
 5466|2|x-jat|In Warau Kangofu The Animation
 14602|4|en|In/Spectre
@@ -25755,6 +25766,7 @@
 17196|4|fr|Jujutsu Kaisen (Saison 2)
 16169|4|en|Jujutsu Kaisen 0
 16169|4|fr|Jujutsu Kaisen 0
+16169|2|pl|Jujutsu Kaisen 0
 16169|4|pt-BR|Jujutsu Kaisen 0: O Filme
 16169|4|pl|Jujutsu Kaisen 0: The Movie
 17196|2|x-jat|Jujutsu Kaisen 2
@@ -28714,6 +28726,7 @@
 11854|4|de|Konosuba: Choker Game
 18865|4|de|KonoSuba: God’s Blessing on This Wonderful World! 3 - Bonus Stage
 11261|4|en|Konosuba: God`s Blessing on This Wonderful World!
+13310|4|pl|KonoSuba: God`s Blessing on this Wonderful World!
 13310|4|en|Konosuba: God`s Blessing on This Wonderful World! - Legend of Crimson
 11992|4|en|Konosuba: God`s Blessing on This Wonderful World! 2
 13317|4|en|Konosuba: God`s Blessing on This Wonderful World! 2 God`s Blessing on These Wonderful Works of Art!
@@ -31189,6 +31202,7 @@
 9677|4|pl|Log horizon
 10551|1|x-jat|Log Horizon (2014)
 10551|4|pl|Log horizon (2014)
+15363|4|pl|Log horizon (2021)
 10551|4|en|Log Horizon 2
 10551|4|nl|Log Horizon 2
 15363|2|en|Log Horizon 3
@@ -35374,6 +35388,7 @@
 13939|4|pl|Mob Psycho 100 (2019)
 13939|2|en|Mob Psycho 100 (2019)
 16915|2|x-jat|Mob Psycho 100 (2022)
+16915|4|pl|Mob Psycho 100 (2022)
 14941|3|en|Mob Psycho 100 2 OAV
 13939|2|en|Mob Psycho 100 2nd Season
 13939|1|x-jat|Mob Psycho 100 II
@@ -39628,6 +39643,7 @@
 11123|4|pl|One Punch Man
 12430|1|x-jat|One Punch Man (2019)
 12430|4|en|One Punch Man (2019)
+12430|4|pl|One Punch Man (2019)
 17576|4|ja|ONE PUNCH MAN (2025)
 17576|1|x-jat|One Punch Man (2025)
 17576|4|en|One Punch Man (2025)
@@ -44669,6 +44685,8 @@
 13636|4|vi|Retsuko hung hăng
 17364|2|en|Return of Gods
 2216|4|en|Return of Pero
+19689|2|en|Return of the Divine Emperor
+19689|2|en|Return of the Immortal Emperor
 876|2|en|Return of the Overfiend
 13652|2|en|Return to Conception Island
 8377|1|x-jat|Reunion
@@ -50259,6 +50277,7 @@
 17061|4|pl|Spy x Family (2022)
 17784|1|x-jat|Spy x Family (2023)
 17784|4|en|Spy x Family (2023)
+17784|4|pl|Spy x Family (2023)
 18677|1|x-jat|Spy x Family (2025)
 18677|4|en|Spy x Family (2025)
 17784|2|x-jat|Spy x Family 2nd Season
@@ -58397,6 +58416,7 @@
 15428|4|en|Welcome to Demon School! Iruma-kun (2021)
 15428|4|pl|Welcome to Demon School! Iruma-kun (2021)
 16627|4|en|Welcome to Demon School! Iruma-kun (2022)
+16627|4|pl|Welcome to Demon School! Iruma-kun (2022)
 18995|2|en|Welcome to Demon School! Iruma-kun (2026)
 15428|2|en|Welcome to Demon School! Iruma-kun: Season 2
 14592|2|en|Welcome to Hinagiku Virgin Lost Club
@@ -59206,6 +59226,7 @@
 14671|1|x-zht|Xiagu Zhong An Zu Di San Ji
 19393|1|x-zht|Xian Chong
 19393|2|x-zht|Xian Chong Nai Xiong
+19689|1|x-zht|Xian Di Guilai
 16780|1|x-zht|Xian Feng Jian Yu Lu
 19297|1|x-zht|Xian Ji Xun Zong
 18420|1|x-zht|Xian Mu
@@ -77714,6 +77735,7 @@
 18459|4|ja|ぬきたし THE ANIMATION
 9762|4|ja|ヌキどきッ! ~天使と悪魔の搾精バトル~
 12594|4|ja|ヌキどきッ! ~天使と悪魔の搾精バトル~ Revolution
+12594|2|ja|ヌキどきッ! Revolution♡ ~天使と悪魔の搾精バトル~
 9119|4|ja|ぬっこ.
 7404|4|ja|ぬらりひょんの孫
 9368|4|ja|ぬらりひょんの孫 (2012)
@@ -81762,6 +81784,7 @@
 19393|4|zh-Hans|仙宠
 19393|2|zh-Hans|仙宠奶凶
 17598|2|zh-Hans|仙山缭乱之山海绝伦
+19689|4|zh-Hans|仙帝归来
 18356|4|zh-Hans|仙武传
 18357|4|zh-Hans|仙武传 第二季
 18356|2|zh-Hans|仙武帝尊
