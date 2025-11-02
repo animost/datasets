@@ -1,4 +1,4 @@
-# created: Fri Oct 31 03:00:01 2025
+# created: Sat Nov  1 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8182,6 +8182,7 @@
 14970|2|x-jat|Cencoroll s3
 3677|4|fr|Cendrillon
 3677|2|it|Cenerentola
+19692|1|x-zht|Cengjing You Yongshi
 3145|2|tr|Cennet Öpücüğü
 1540|2|tr|Cennet Ve Yeryüzü
 12637|3|x-jat|centaur
@@ -11158,6 +11159,7 @@
 1065|2|tr|Dedektif Conan: Semaya Gerisayım
 2646|2|tr|Dedektif Conan: Yüzyılın Son Sihirbazı
 8256|2|tr|Dedemin Kandili
+15403|4|es-419|Dedos traviesos
 13158|2|x-jat|Deeky & Carina
 15270|4|en|Deemo: Memorial Keys
 4700|2|en|Deep - Sea Legend Meremanoid
@@ -13995,6 +13997,7 @@
 13098|4|hr|Duh u oklopu: SAC_2045
 61|4|sl|Duh v školjki
 6671|2|x-jat|Dulalala!!
+13806|4|es-419|Dulce Castigo: La Mascota Personal del Guardia
 6671|2|x-jat|Dullalala
 6671|2|x-jat|Dullalala!!
 16801|4|cs|Dům na vlnách
@@ -14694,6 +14697,7 @@
 3472|3|es|El Saltador
 18452|4|es|El secreto de AiPri
 1895|4|es|El Secreto de Akko-chan
+15258|4|es-419|El Señor Lobo Quiere Ser Comido
 15085|4|es|El sol naciente
 1359|4|es|El sordido tren de medianoche
 3081|4|es|El Super Libro
@@ -15169,6 +15173,7 @@
 15630|4|zh-Hans|Eternity ～深夜的濡恋频道♡～
 17591|4|ja|ETERNITY MEMORIES
 17591|1|x-jat|Eternity Memories
+15630|4|es-419|Eternity: El Amoroso y Húmedo Canal de Medianoche
 15630|2|en|Eternity: Late Night Wet Love Channel
 15630|1|x-jat|Eternity: Shin`ya no Nurekoi Channel
 15630|4|en|Eternity: Sweet Love Story
@@ -16865,6 +16870,7 @@
 12095|1|x-jat|Fudanshi Koukou Seikatsu
 16060|1|x-jat|Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita
 13365|1|x-jat|Fue
+14924|4|es-419|Fuego en sus dedos
 3513|2|es|Fuerza G: Guardianes del Espacio
 17144|4|pt|Fuga Sangrenta: Morcegos Fora do Inferno
 8683|2|x-jat|Fuge no Gihou
@@ -18687,6 +18693,7 @@
 16516|2|x-kot|Gigi Goegoe Sunghyungsoo
 4012|4|pl|Gigi i fontanna młodości
 1822|4|it|Gigi la trottola
+19693|1|x-kot|Gigigoegoe
 16516|1|x-kot|Gigigoegoe Sunghyungsoo
 4012|3|is|Gígja Prinsessa
 3558|4|fr|Gigolo
@@ -21258,6 +21265,7 @@
 14349|1|x-jat|Hashiri Tsuzukete Yokattatte.
 14349|3|x-jat|Hashiyoka
 9755|1|x-jat|Hassou Hen
+14528|4|es-419|Hasta un padre merece...
 14618|1|x-jat|Hataage! Kemonomichi
 13276|2|en|Hataka Pig Bone Ramen
 7197|2|en|Hatanosuke and the Haunted House
@@ -29847,6 +29855,7 @@
 18867|4|es|La nobleza de las flores
 1131|4|es|La novia de la oscuridad
 14530|4|es-419|La Novia del Maestro Nobunaga
+15447|4|es-419|La novia del Titán
 2293|2|es|La Novicia Rebelde
 6400|4|es-419|La Nueva Doncella Musou
 1250|4|fr|La nuit du Galaxy Express
@@ -31314,6 +31323,7 @@
 13958|4|en|Lord of Vermilion: The Crimson King
 19041|2|en|Lord of Wonderlands
 9566|3|x-jat|LOS
+15697|4|es-419|Los adultos no saben amar
 16174|2|es|Los Apuntes de Vanitas
 1619|2|es|Los Caballeros de Kodai
 3511|4|es|Los Caballeros del Mundo Mon
@@ -31494,6 +31504,7 @@
 8874|2|x-jat|Love Live! MV 4
 8520|2|x-jat|Love Live! Natsu-iro Egao de 1, 2, Jump!
 15313|1|x-jat|Love Live! Nijigasaki Gakuen School Idol Doukoukai
+18079|2|x-jat|Love Live! Nijigasaki Gakuen School Idol Doukoukai - Kanketsu-hen
 16310|1|x-jat|Love Live! Nijigasaki Gakuen School Idol Doukoukai (2022)
 17732|1|x-jat|Love Live! Nijigasaki Gakuen School Idol Doukoukai: Next Sky
 15313|4|en|Love Live! Nijigasaki High School Idol Club
@@ -31501,6 +31512,7 @@
 18079|2|en|Love Live! Nijigasaki High School Idol Club (2024)
 17732|4|en|Love Live! Nijigasaki High School Idol Club NEXT SKY
 18079|2|en|Love Live! Nijigasaki High School Idol Club the Movie - Finale
+18079|4|de|Love Live! Nijigasaki High School Idol Club The Movie – Finale –
 15313|2|en|Love Live! Perfect Dream Project
 9927|2|en|Love Live! S2
 9271|1|x-jat|Love Live! School Idol Project
@@ -34707,6 +34719,7 @@
 18029|4|es|Mi nuevo jefe está en las nubes
 601|3|en|MI OVA
 5704|4|es|Mi Profesor Particular
+13402|4|es-419|Mi prometido es mi estudiante
 18538|4|es|Mi querida Oni
 18538|4|es-419|Mi querida oni
 16389|4|es|Mi tío es de otro mundo
@@ -35860,6 +35873,7 @@
 1539|4|fr|Monster
 1539|4|es|Monster
 17993|2|en|Monster But Wild
+19326|2|en|Monster But Wild 2nd Season
 1023|2|en|Monster City
 1248|2|en|Monster Classroom
 11062|2|en|Monster Family House: The Nightmare of Living With Family Who Rape My Girlfriend
@@ -36933,6 +36947,7 @@
 5630|4|fr|Nabari
 5630|1|x-jat|Nabari no Ou
 5630|4|en|Nabari no Ou
+16057|4|es-419|Nada es lo que Parece: Reencarné en el Mundo del Rey Demonio Evelogia
 8181|2|pl|Nadal nie znamy nazwy kwiatu, który widzieliśmy tamtego dnia.
 180|3|x-jat|Nadesico
 369|2|en|Nadesico Movie
@@ -49404,6 +49419,7 @@
 5576|2|en|So Long Mr. Despair Extreme
 18007|2|ja|So Low
 13925|2|en|So Many Colors in the Future What a Wonderful World
+19692|4|en|So You`re Raising a Warrior
 18007|1|x-jat|So_low
 18007|4|ja|so_low
 18007|2|x-jat|So_low Futago Shimai to Katei Kyoshi
@@ -50463,11 +50479,13 @@
 14544|2|en|Star Twinkle Precure: Wish Upon a Celestial Ballad
 1753|2|en|Star Warriors
 16420|4|ja|STAR WARS VISIONS
+19696|4|ja|STAR WARS VISIONS (2023)
 19005|4|ja|STAR WARS VISIONS (2025)
 18140|4|ja|STAR WARS VISIONS Journey to the Dark Head
 16420|1|x-jat|Star Wars: Visions
 18140|1|x-jat|Star Wars: Visions - Journey to the Dark Head
 18140|4|en|Star Wars: Visions - Journey to the Dark Head
+19696|1|x-jat|Star Wars: Visions (2023)
 19005|1|x-jat|Star Wars: Visions (2025)
 19005|2|en|Star Wars: Visions 2025
 19005|2|en|Star Wars: Visions 3
@@ -53749,6 +53767,7 @@
 2863|4|en|The Legend of Zorro
 17340|4|en|The Legendary Hero Is Dead!
 16743|2|en|The Legendary Monster Emperor
+19694|1|x-jat|The Lenticulars
 7578|4|en|The Lewd Boat
 4400|4|en|The Life of a Poet
 8922|4|en|The Life of Budori Gusuko
@@ -56888,6 +56907,7 @@
 17304|2|fr|Un heureux destin
 13730|2|fr|Un homme marié, deux garces et sexe à la carte
 39|4|it|Un incantesimo dischiuso tra i petali del tempo
+13192|4|es-419|Un lobo con vestido
 11606|4|it|Un marzo da leoni
 15384|2|fr|Un nouvel aiguillage scolaire – À la poursuite de souvenirs enfouis
 2288|4|it|Un oceano di avventure
@@ -56912,6 +56932,7 @@
 19145|4|es|Una estrella más radiante que el Sol
 8270|4|it|Una lettera per Momo
 2096|4|it|Una Miss Scacciafantasmi
+14300|4|es-419|Una noche ardiente con mi jefe en un hotel capsula
 16188|4|es|Una pareja de cucos
 2290|4|it|Una per tutte, tutte per una
 127|2|it|Una Porta Socchiusa ai Confini del Sole
@@ -69498,6 +69519,7 @@
 15175|4|ko|기가 트라이브
 9613|4|ko|기가 트라이브 (2008)
 9665|4|ko|기교소녀는 상처받지 않아
+19693|4|ko|기기괴괴
 16516|4|ko|기기괴괴 성형수
 8517|4|ko|기동전사 건다 더 오리진
 715|4|ko|기동전사 건담
@@ -73781,6 +73803,7 @@
 1398|2|ja|オーキッド★エンブレム
 1398|4|ja|オーキッド☆エンブレム
 5889|5|ja|オークション ~びじょどれい~
+5889|2|ja|オークション 闇市場 ~美女奴隷~
 5889|2|ja|オークション 闇市場〜美女奴隷〜
 12101|4|ja|オーケストラ
 1414|4|ja|オーディーン・光子帆船スターライト
@@ -75070,7 +75093,7 @@
 11267|4|ja|ゲゲゲの鬼太郎 妖怪JAPANラリー3D
 2284|4|ja|ゲゲゲの鬼太郎 妖怪大戦争
 7358|4|ja|ゲゲゲの鬼太郎 妖怪特急! まぼろしの汽車
-2315|4|ja|ゲゲゲの鬼太郎 激突!!異次元妖怪の大反乱
+2315|4|ja|ゲゲゲの鬼太郎 激突!! 異次元妖怪の大反乱
 7455|4|ja|ゲゲゲの鬼太郎 鬼太郎の幽霊電車
 18166|4|ja|ゲゲゲの鬼太郎~河童のテラフォーミング
 10689|4|ja|ケシカスくん
@@ -75461,6 +75484,7 @@
 17711|2|ja|ザ・マージナルサービス
 9896|4|ja|ザ・ミッドナイト★アニマル
 11745|2|ja|ザ・リフレクション
+19694|4|ja|ザ・レンチキュラーズ
 7033|4|ja|ザ・学園超女隊
 1035|4|ja|ザ・超女
 3508|2|ja|ザ·ボーグマン·ラストバトル
@@ -76305,6 +76329,7 @@
 6239|2|ja|セブンゴースト
 16038|2|ja|セブンナイツ レボリューション -英雄の継承者-
 14244|2|ja|セミとマジックキューブ
+7610|2|ja|せめ♥ちち
 7610|4|ja|せめちち
 1294|4|ja|セラフィムコール
 7045|4|ja|セルフ・ポートレート
@@ -79031,6 +79056,7 @@
 7519|2|ja|プリンセスナイト☆カチュア~堕ちた竜騎姫~
 227|4|ja|プリンセスナイン 如月女子高野球部
 19240|4|ja|プリンセスバースト!
+19240|2|ja|プリンセスバースト! ~危険日の種付け孕ませ羞恥バトル!~
 19240|2|ja|プリンセスバースト!~危険日の種付け孕ませ羞恥バトル!~
 2487|4|ja|プリンセスメモリー
 6438|4|ja|プリンセスラバー!
@@ -88916,6 +88942,7 @@
 8229|4|zh-Hans|曾几何时天魔的黑兔
 8481|4|zh-Hans|曾几何时天魔的黑兔 OAD
 18282|2|zh-Hans|曾经、魔法少女和邪恶相互为敌。
+19692|4|zh|曾经有勇士
 7008|2|zh-Hant|會長是女僕大人!
 12761|4|ja|月がきれい
 6611|4|ja|月がのぼるまでに
@@ -90934,6 +90961,7 @@
 10398|4|ja|犬神さんと猫山さん
 10398|4|zh-Hans|犬神同学和猫山同学
 13719|4|zh|犹太女孩在上海2: 项链密码
+7110|2|ja|狂った教頭 ~断罪の学園~
 7110|4|ja|狂った教頭 断罪の学園
 5580|4|ja|狂乱家族日記
 5580|2|zh-Hans|狂乱家族日记
@@ -93611,6 +93639,7 @@
 14701|4|zh-Hans|虚空魔境 第二季
 9879|4|ja|虜ノ契 ~家族のために身体を差し出す姉と妹~
 9879|2|ja|虜の契～家族のために身体を差し出す姉と妹～
+12636|2|ja|虜ノ鎖 ~処女たちを穢す淫らな楔~
 12636|4|ja|虜ノ鎖~処女たちを穢す淫らな楔~
 14593|4|ja|虜ノ雫 ~夏の豪華客船で穢される処女たち~
 8082|4|ja|虜姫~白濁まみれの令嬢~
