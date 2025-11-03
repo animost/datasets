@@ -1,4 +1,4 @@
-# created: Sat Nov  1 03:00:02 2025
+# created: Sun Nov  2 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6001,6 +6001,7 @@
 2254|2|x-jat|Black Gate Kanin no Gakuen
 2254|2|ko|Black Gate 간음 학원
 2254|4|ja|BLACK GATE ブラックゲート 姦淫の学園
+2254|2|ja|BLACK GATE 姦淫の学園
 2254|1|x-jat|Black Gate: Kan`in no Gakuen
 6211|2|en|Black God
 406|3|en|Black Heaven
@@ -7310,6 +7311,8 @@
 14230|2|x-jat|Bungou Stray Dogs Season 3
 15602|1|x-jat|Bungou Stray Dogs Wan!
 15602|4|en|Bungou Stray Dogs Wan!
+19698|1|x-jat|Bungou Stray Dogs Wan! 2
+19698|2|en|Bungou Stray Dogs Wan! 2
 12837|1|x-jat|Bungou Stray Dogs: Dead Apple
 12442|1|x-jat|Bungou Stray Dogs: Hitori Ayumu
 15328|1|x-jat|Bungou to Alchemist: Shinpan no Haguruma
@@ -31559,6 +31562,7 @@
 1762|1|x-jat|Love Love?
 1762|4|en|Love Love?
 2495|1|x-jat|Love Machine: Animaid Shoufu 23-gou
+19697|1|en|Love Magic Grocery
 15288|2|fr|Love Mary, l’Archange céleste de l’Amour – Conception malsaine
 1836|2|en|Love Me Knight
 14883|2|en|Love Me, Love Me Not
@@ -34977,8 +34981,8 @@
 10565|1|x-jat|Minami no Shima no Dera-chan
 7064|1|x-jat|Minami no Watashi no Heart ni Touch Shite...
 4309|1|x-jat|Minami-ke
-18745|1|x-jat|Minami-ke (Shin Series)
 6654|1|x-jat|Minami-ke Betsubara
+18745|1|x-jat|Minami-ke Korekara
 10015|1|x-jat|Minami-ke Natsuyasumi
 6219|1|x-jat|Minami-ke Okaeri
 5510|1|x-jat|Minami-ke Okawari
@@ -50479,18 +50483,17 @@
 14544|2|en|Star Twinkle Precure: Wish Upon a Celestial Ballad
 1753|2|en|Star Warriors
 16420|4|ja|STAR WARS VISIONS
-19696|4|ja|STAR WARS VISIONS (2023)
 19005|4|ja|STAR WARS VISIONS (2025)
 18140|4|ja|STAR WARS VISIONS Journey to the Dark Head
 16420|1|x-jat|Star Wars: Visions
 18140|1|x-jat|Star Wars: Visions - Journey to the Dark Head
 18140|4|en|Star Wars: Visions - Journey to the Dark Head
-19696|1|x-jat|Star Wars: Visions (2023)
 19005|1|x-jat|Star Wars: Visions (2025)
 19005|2|en|Star Wars: Visions 2025
 19005|2|en|Star Wars: Visions 3
 19299|4|ja|Star Wars: Visions Presents - The Ninth Jedi
 19299|1|x-jat|Star Wars: Visions Presents - The Ninth Jedi
+18140|2|ja|Star Wars: Visions Volume 2
 16420|4|cs|Star Wars: Vize
 17044|1|x-jat|Star Wars/Force no Kakusei
 8837|4|ja|STAR☆jewel
@@ -58221,6 +58224,7 @@
 9570|1|x-jat|Wanna. SpartanSex Spermax!!!
 9570|4|ja|Wanna. SpartanSex Spermax!!!
 3384|1|x-jat|Wannabes
+19697|4|zh|Wanneng Lian Ai Zahuo Dian
 19302|1|x-zht|Wanneng Lian Ai Zahuo Dian
 2201|1|x-jat|Wanpaku Ouji no Orochi Taiji
 2874|1|x-jat|Wanpaku Tanteidan
@@ -74596,6 +74600,7 @@
 7858|4|ja|キティとミミィのハッピーバースデー
 7859|4|ja|キティのふしぎなみずうみ
 2723|4|ja|キテレツ大百科
+2173|2|ja|キニナル キモチ
 2173|4|ja|キニナルキモチ
 17567|4|ja|キノコ
 18628|4|ja|きのこいぬ
@@ -79857,9 +79862,9 @@
 12916|4|ja|みどりのくにのおともだち こえだちゃん
 3156|4|ja|みどりのマキバオー
 4309|4|ja|みなみけ
-18745|4|ja|みなみけ (新シリーズ)
 6219|4|ja|みなみけ おかえり
 9267|4|ja|みなみけ おまたせ
+18745|4|ja|みなみけ これから
 9075|4|ja|みなみけ ただいま
 6654|4|ja|みなみけ べつばら
 10015|4|ja|みなみけ 夏やすみ
@@ -88048,6 +88053,7 @@
 12837|4|ja|文豪ストレイドッグス DEAD APPLE
 12837|2|ja|文豪ストレイドッグス デッドアップル
 15602|4|ja|文豪ストレイドッグス わん!
+19698|4|ja|文豪ストレイドッグス わん! 2
 12442|4|ja|文豪ストレイドッグス 独り歩む
 15328|4|ja|文豪とアルケミスト ~審判ノ歯車~
 15328|4|zh-Hans|文豪与炼金术师 ～审判的齿轮～
