@@ -1,4 +1,4 @@
-# created: Sun Nov  2 03:00:01 2025
+# created: Mon Nov  3 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3069,8 +3069,7 @@
 11203|2|x-jat|Ansatsu Kyoushitsu: Final Season
 11203|2|x-jat|Ansatsu Kyoushitsu: Second Season
 15475|1|x-jat|Ansatsu Kyoushitsu: Second Season - Kagaijugyou Hen
-19162|2|x-jat|Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga
-19162|1|x-jat|Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi Nodaga
+19162|1|x-jat|Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no Da ga
 2427|4|fr|Anthologie de la littérature japonaise
 11705|4|en|Anthology With Cranes
 6989|4|en|Anthropo-Cynical Farce
@@ -38590,7 +38589,7 @@
 14914|1|x-jat|Non Non Biyori Nonstop
 14914|4|en|Non Non Biyori Nonstop
 16507|1|x-jat|Non Non Biyori Nonstop: Bukatsu o Ganbatta
-16507|4|en|Non Non Biyori Nonstop: I Did My Best Doing the Club Activities
+16507|4|en|Non Non Biyori Nonstop: I Did My Best Doing Club Activities
 10587|1|x-jat|Non Non Biyori Repeat
 10587|4|en|Non Non Biyori Repeat
 12689|1|x-jat|Non Non Biyori Repeat: Hotaru ga Tanoshinda
@@ -43294,6 +43293,7 @@
 1140|1|x-jat|Psychic Force
 14963|2|en|Psychic Princess
 19483|4|en|Psychic Princess 2
+19483|2|en|Psychic Princess S2
 19483|2|en|Psychic Princess Season 2
 9208|4|en|Psychic School Wars
 5674|4|en|Psychic Squad
@@ -55535,6 +55535,7 @@
 14963|1|x-zht|Tong Ling Fei
 19483|1|x-zht|Tong Ling Fei 2
 19483|2|x-zht|Tong Ling Fei 2nd Season
+19483|2|x-zht|Tong Ling Fei Di Er Ji
 17293|1|x-zht|Tong Zhi Zhe
 16109|1|x-jat|Tongari Atama no Gonta: Futatsu no Namae o Ikita Fukushima Hisai Inu no Monogatari
 17305|1|x-jat|Tongari Boushi no Atelier
