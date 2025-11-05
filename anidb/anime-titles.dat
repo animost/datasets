@@ -1,4 +1,4 @@
-# created: Mon Nov  3 03:00:02 2025
+# created: Tue Nov  4 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2435,6 +2435,7 @@
 355|2|tr|Altın Çocuk
 5569|3|x-jat|AltoLi
 1544|2|sv|Älvans Sång - Elfen Lied
+19699|2|en|Always a Catch!
 3389|2|en|Always My Santa!
 4039|2|en|Always the Sun in My Soul
 17914|2|es|Alya a veces me susurra en ruso
@@ -19939,6 +19940,10 @@
 5459|3|en|gu trilogy
 19660|1|x-zht|Gu Wei Nan Ting
 16717|1|x-zht|Gu Xiong
+19700|1|x-zht|Gu Xiong (2025)
+16717|2|en|Gu Xiong Episode 0
+16717|2|en|Gu Xiong Pilot Episode
+16717|2|x-zht|Gu Xiong: Huo Qi
 1935|1|x-jat|Gu-Gu Ganmo
 2039|1|x-jat|Gu-Gu Ganmo (1985)
 2039|4|ja|GU-GU ガンモ
@@ -23454,6 +23459,7 @@
 12512|4|en|Hypnotized - All the Girls in Class Were Pregnant Before They Knew It
 3609|2|en|Hypo and Thomas
 3609|4|pl|Hyppo and Thomas
+19499|2|ko|H한 의붓누나 시리즈
 19499|4|ja|Hな義姉シリーズ The Animation
 17910|2|en|I Admire Magical Girls, and...
 18899|2|en|I Admire Magical Girls, and... 2
@@ -31258,6 +31264,11 @@
 4189|4|hu|Lolo kalandjai
 19357|3|en|LOM
 17219|4|en|Lonely Castle in the Mirror
+16717|4|en|Lonely Hero
+16717|2|en|Lonely Hero (2020)
+19700|4|en|Lonely Hero (2025)
+16717|2|en|Lonely Hero Episode 0
+16717|2|en|Lonely Hero Pilot Episode
 18432|4|en|Loner Life in Another World
 19517|2|en|Long March to the Stars
 11201|1|x-jat|Long Riders!
@@ -38050,6 +38061,7 @@
 18134|2|x-jat|NieR:Automata Ver1.1a Part 2
 18134|2|x-jat|NieR:Automata Ver1.1a Season 2
 3412|2|pl|Nieśmiertelny: W poszukiwaniu zemsty
+19699|1|x-jat|Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken
 17909|1|x-jat|Nige Jouzu no Wakagimi
 18903|1|x-jat|Nige Jouzu no Wakagimi 2
 18410|1|x-jat|Niger Monogatari
@@ -69444,6 +69456,7 @@
 11162|2|ko|그녀가 네코미미로 갈아입으면
 15586|4|ko|그녀가 녀석한테 안긴 날
 7929|2|ko|그녀가 문병을 오지 않는 이유
+19456|2|ko|그녀가 트레이닝복을 입는 이유
 10915|2|ko|그녀는 누구와도 섹스한다
 6946|2|ko|그녀는 신부 후보생
 461|2|ko|그녀와 그녀의 고양이
@@ -71557,6 +71570,7 @@
 10397|2|ko|위치 크래프트 워크스: 타카미야와 여동생의 흉계
 9496|4|ko|위치 크래프트 웍스
 2511|4|ko|위치블레이드
+19413|2|ko|위험한 숲 술래잡기
 19374|4|ko|위험한 편의점
 10307|2|ko|위험해! -복수・암흑 Site-
 11905|4|ko|유녀전기
@@ -71693,6 +71707,7 @@
 9129|2|ko|이것은 좀비입니까? OF THE DEAD: 네, 몸에 딱입니다.
 9241|2|ko|이것은 좀비입니까? OF THE DEAD: 네, 앵콜 고맙습니다
 8448|2|ko|이것은 좀비입니까? OVA
+19412|2|ko|이게 뭐게?
 11033|2|ko|이국레트로
 9536|4|ko|이나리, 콩콩, 사랑의 첫걸음
 10391|4|ko|이나리, 콩콩, 사랑의 첫걸음. 이나리, 콩콩 매미 울 적에
@@ -72261,6 +72276,7 @@
 1640|2|ko|크림 레몬
 4198|4|ko|크림 레몬：뉴 제네레이션
 8994|2|ko|크림슨 걸즈 ~ 치한 지배 ~
+19353|2|ko|큰일날 때까지 결혼
 5101|4|ko|클라나드
 5841|4|ko|클라나드 애프터 스토리
 16388|4|ko|클라이밍
@@ -72605,6 +72621,7 @@
 12776|4|ko|호동왕자와 락랑공주
 19350|4|ko|호랑이 들어와요
 15510|2|ko|호박색의 헌터 THE ANIMATION
+19329|2|ko|호색의 충의 쿠노이치 보탄
 3358|2|ko|호색일대남
 13704|4|ko|호오즈키의 냉철 (2018)
 2450|2|ko|호타루코
@@ -85594,6 +85611,8 @@
 16063|2|zh-Hant|孤獨搖滾
 16063|4|zh-Hant|孤獨搖滾！
 16717|4|zh-Hans|孤雄
+19700|4|zh-Hans|孤雄 (2025)
+16717|2|zh-Hans|孤雄 祸起
 10618|4|ja|学の夏休み
 13023|3|ja|学ベビ
 14001|4|zh-Hans|学园BASARA
@@ -94576,6 +94595,7 @@
 14354|4|ja|追跡
 8073|4|zh-Hans|追逐繁星的孩子
 13230|4|ja|退魔針
+19699|4|ja|逃がした魚は大きかったが釣りあげた魚が大きすぎた件
 17909|4|ja|逃げ上手の若君
 18903|4|ja|逃げ上手の若君 2
 10976|4|ja|逃亡者・毛利小五郎
