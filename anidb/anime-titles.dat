@@ -1,4 +1,4 @@
-# created: Tue Nov  4 03:00:01 2025
+# created: Wed Nov  5 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -54984,6 +54984,7 @@
 2546|2|en|Time Fighters
 5007|2|ja|Time For Action Series BAVI STOCK-I
 5007|6|ja|Time For Action Series BAVI STOCK-Ⅰ 果てしなき標的[ターゲット]
+18480|4|en|Time Left
 5320|4|de|Time Machine 001
 5132|4|it|Time of Eve
 5132|4|fr|Time of Eve
