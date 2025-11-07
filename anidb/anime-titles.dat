@@ -1,4 +1,4 @@
-# created: Wed Nov  5 03:00:02 2025
+# created: Thu Nov  6 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8793,6 +8793,7 @@
 19649|1|x-jat|Chou Jun! Choujou-senpai
 14308|4|es-419|Chou Kadou Girl - Súper Chica Móvil 1/6
 14308|1|x-jat|Chou Kadou Girl 1/6
+19701|1|x-jat|Chou Kaguya-hime!
 2577|1|x-jat|Chou Kidou Densetsu DinaGiga
 11676|1|x-jat|Chou Kidou Gaiku: Kashiwa-no-Ha
 4928|1|x-jat|Chou Kousoku Galvion
@@ -9702,6 +9703,7 @@
 4328|2|en|Cosmic Fantasy: Galaxy Cougar`s Trap
 4328|1|x-jat|Cosmic Fantasy: Ginga Mehyou no Wana
 4328|2|en|Cosmic Fantasy: Trap of the Galactic Temptress
+19701|4|en|Cosmic Princess Kaguya!
 630|2|en|Cosmic Stellvia
 11438|2|en|Cosmic Wave
 4027|1|x-jat|Cosmo Police Justy
@@ -23474,7 +23476,7 @@
 18541|2|en|I Am Behemoth of the S Rank Monster, but I Am Mistaken as a Cat and I Live as a Pet of Elf Girl
 2105|2|en|I Am Hanitarou
 13974|2|en|I Am Nezha
-19459|2|en|I am the Blade
+19459|4|en|I am the Blade
 16585|2|en|I Am The Only One
 3997|2|en|I am THE Shiratori Reiko!
 16633|2|en|I Am What I Am
@@ -47911,6 +47913,7 @@
 15713|4|ja|Shenmue the Animation
 1597|1|x-jat|Shenmue The Movie
 1597|3|x-jat|Shenmuu
+19702|1|x-zht|Shenqian Qiangzhi Daodai
 1141|2|x-jat|Shenron no Densetsu
 15979|1|x-zht|Shenshi Mowang: Gentleman Devil
 17039|2|x-zht|Shenyi Jiu Xiaojie
@@ -70032,6 +70035,7 @@
 2589|4|ko|레스톨 특수 구조대
 7566|2|ko|레이 제로
 13897|4|ko|레이디스포
+19510|2|ko|레이카는 화려한 나의 여왕
 13497|4|ko|레이튼 미스터리 탐정사: 카트리의 수수께끼 풀이 파일
 6154|2|ko|레이프! 레이프! 레이프!
 4878|2|ko|레이프맨
@@ -70877,6 +70881,7 @@
 9940|2|ko|순정소녀
 13147|4|ko|술은 부부가 된 후에
 19422|2|ko|숨바꼭질 The Animation
+19489|2|ko|쉬운 암컷의 나날
 7729|2|ko|슈타인즈 게이트
 10887|4|ko|슈타인즈 게이트: 총명예지의 코그니티브 컴퓨팅
 11167|4|ko|슈타인즈;게이트 0
@@ -71354,6 +71359,7 @@
 2451|2|ko|여동생으로 가자
 17733|2|ko|여동생은 귀여운 갸루
 1722|2|ko|여랑광유
+19547|2|ko|여름 아내
 9699|2|ko|여름방학
 17315|2|ko|여름방학 끝에 그녀는
 14529|2|ko|여름방학 보물찾기
@@ -72594,6 +72600,7 @@
 16120|2|ko|행복한 만큼 고기를 쌓아 올리자
 5910|2|ko|햑코
 14602|4|ko|허구추리
+19458|2|ko|허니 블론드2
 2835|2|ko|허니와 클로버
 4422|2|ko|허니와 클로버 2
 3675|4|ko|허클베리핀의 모험
@@ -90357,6 +90364,7 @@
 2801|4|zh-Hans|深海的童話
 6040|2|zh-Hans|深渊传说
 18385|4|zh-Hans|深渊游戏
+19702|4|zh-Hans|深潜 强制倒带
 6088|4|zh-Hans|混沌头
 11166|4|zh-Hans|混沌子
 1543|4|zh-Hans|混沌武士
@@ -94190,6 +94198,7 @@
 11953|4|zh-Hans|超·少年侦探团NEO
 4099|4|ja|超·時·空·ロ·マ·ネ·ス·ク Samy MISSING・99
 475|4|ja|超GALS! 寿蘭
+19701|4|ja|超かぐや姫!
 2140|4|ja|超くせになりそう
 5248|4|ja|超スーパーカー ガッタイガー
 10242|4|ja|超ゼンマイロボ パトラッシュ
