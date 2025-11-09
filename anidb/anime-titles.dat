@@ -1,4 +1,4 @@
-# created: Fri Nov  7 03:00:02 2025
+# created: Sat Nov  8 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -12804,6 +12804,7 @@
 6383|2|pt|Doraemon The Hero - Pioneiros do Espaço
 6383|2|en|Doraemon The Hero 2009
 6383|4|es|Doraemon The Hero: Pioneros del espacio
+18883|4|en|Doraemon the Movie - Nobita`s Art World Tales
 17500|2|en|Doraemon the Movie 2023: Nobita`s Sky Utopia
 1951|2|en|Doraemon the Movie: 25th Anniversary
 14446|2|en|Doraemon the Movie: Nobita`s Chronicle of the Moon Exploration
@@ -19023,6 +19024,7 @@
 14756|4|en|Given
 15102|4|en|Given the Movie
 15102|4|zh-Hant|GIVEN 被贈與的未來 劇場版
+19703|1|x-jat|Given: 10th Mix
 16357|4|en|Given: On the Other Hand
 16357|1|x-jat|Given: Uragawa no Sonzai
 6272|2|en|Giving Absolutely Greek Mythology
@@ -31337,6 +31339,7 @@
 13958|1|x-jat|Lord of Vermilion: Guren no Ou
 13958|4|en|Lord of Vermilion: The Crimson King
 19041|2|en|Lord of Wonderlands
+12013|2|ja|LORe：パコ すくすくみずきちゃん THE ANIMATION
 9566|3|x-jat|LOS
 15697|4|es-419|Los adultos no saben amar
 16174|2|es|Los Apuntes de Vanitas
@@ -40520,6 +40523,7 @@
 18587|1|x-jat|OVA Boku ni Harem Sexfriend ga Dekita Riyuu
 13769|2|en|OVA Complete Slut See their true colors Russian Step-Mother and Step-Sisters All you can have Sex
 18756|1|x-jat|OVA Incha Couple ga You Gal-tachi to Sex Training Suru Hanashi
+19704|1|x-jat|OVA Kegareboshi
 13769|1|x-jat|OVA Muttsuri Do Sukebe Ro Gibo Shimai no Honshitsu Minuite Sex Zanmai
 19547|1|x-jat|OVA Natsu Zuma
 19643|1|x-jat|OVA Oshikake! Bakunyuu Gyaru Harem Seikatsu
@@ -40540,6 +40544,7 @@
 15780|2|ko|OVA 수국이 질 때
 6285|4|ja|OVA うたわれるもの
 19643|4|ja|OVA おしかけ! 爆乳ギャルハーレム性活
+19704|4|ja|OVA ケガレボシ
 19514|4|ja|OVA シスターブリーダー
 18049|2|ja|OVA ツンデロシリーズ
 11271|4|ja|OVA ツンプリ
@@ -43354,6 +43359,7 @@
 10066|4|de|Psycho-Pass: Der Film
 9127|2|en|Psycho-Pass: Extended Edition
 10066|4|fr|Psycho-Pass: Le Film
+9127|2|en|Psycho-Pass: New Edit
 17573|4|en|PSYCHO-PASS: Providence
 17573|4|es-419|PSYCHO-PASS: Providencia
 13894|1|x-jat|Psycho-Pass: Sinners of the System
@@ -46126,7 +46132,7 @@
 14291|2|x-jat|Sakugan Labyrinth Marker
 15725|1|x-jat|Sakugasaku
 18527|4|en|Sakuna: Of Rice and Ruin
-18986|2|en|Sakuna: Of Rice and Ruin (Sequel)
+18986|2|en|Sakuna: Of Rice and Ruin (2026)
 400|2|pl|Sakura - wojna ducha
 400|2|pl|Sakura - wojna dusz
 400|4|pl|Sakura - wojny ducha
@@ -52614,7 +52620,7 @@
 12451|1|x-jat|Tenshi no Three Piece!
 18225|3|x-jat|tenshitsuki
 18527|1|x-jat|Tensui no Sakuna-hime
-18986|1|x-jat|Tensui no Sakuna-hime (Zokuhen)
+18986|1|x-jat|Tensui no Sakuna-hime (2026)
 13871|3|x-jat|tensura
 15456|3|x-jat|Tensura (2021 Part 2)
 14767|3|en|TenSura 2
@@ -74568,6 +74574,7 @@
 2597|4|ja|キ・ファイター テラン
 18960|4|ja|ギーツエクストラ ギーツあにめ あなざーぐらんぷり
 14756|4|ja|ギヴン
+19703|4|ja|ギヴン 10th mix
 16357|4|ja|ギヴン うらがわの存在
 981|4|ja|キカイダー01 THE ANIMATION
 7456|4|ja|きかんしゃやえもん
@@ -85053,7 +85060,7 @@
 16447|4|ja|天神
 29|3|ja|天禁
 18527|4|ja|天穂のサクナヒメ
-18986|4|ja|天穂のサクナヒメ (続編)
+18986|4|ja|天穂のサクナヒメ (2026)
 18527|4|zh-Hans|天穗之咲稻姬
 184|4|ja|天空のエスカフローネ
 331|4|ja|天空の城ラピュタ
