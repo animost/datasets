@@ -1,4 +1,4 @@
-# created: Sun Nov  9 03:00:02 2025
+# created: Mon Nov 10 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -14392,6 +14392,7 @@
 6382|1|x-jat|Eiga Doraemon: Nobita to Midori no Kyojin Den
 17500|1|x-jat|Eiga Doraemon: Nobita to Sora no Utopia
 9975|1|x-jat|Eiga Doraemon: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai
+19711|1|x-jat|Eiga Doraemon: Shin Nobita no Kaitei Kiganjou
 11353|1|x-jat|Eiga Doraemon: Shin Nobita no Nippon Tanjou
 6383|1|x-jat|Eiga Doraemon: Shin Nobita no Uchuu Kaitakushi
 7770|1|x-jat|Eiga Doraemon: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi
@@ -25246,6 +25247,7 @@
 18828|1|x-zht|Jian Lai
 19708|1|x-zht|Jian Wang 3: Shen Jianxin de 365 Tian
 15818|1|x-zht|Jian Wang 3: Xia Gan Yi Dan Shen Jian Xin - Changpiao
+19710|2|x-zht|Jian Wang 3: Xia Gan Yi Dan Shen Jianxin 3rd Season Part 2
 16568|1|x-zht|Jian Wang 3: Xia Gan Yi Dan Shen Jianxin Season 3
 19710|1|x-zht|Jian Wang 3: Xia Gan Yi Dan Shen Jianxin Season 3 (2024)
 14854|1|x-zht|Jian Wang 3: Xiaganyidan Shen Jianxin
@@ -25990,8 +25992,11 @@
 10591|1|x-jat|Juuza Engi: Engetsu Sangokuden
 13565|1|x-jat|Juvenile Pornography The Animation
 16568|4|en|JX Online3: The Adventure of Shen Jianxin 3rd Season
+19710|4|en|JX Online3: The Adventure of Shen Jianxin 3rd Season (2024)
 14854|2|en|JX3: Chivalrous Hero Shen Jianxin
 16568|2|en|JX3: Chivalrous Hero Shen Jianxin 3rd Season
+19710|2|en|JX3: Chivalrous Hero Shen Jianxin 3rd Season Part 2
+19708|2|en|JX3: Shen Jianxin`s 365th Day
 14390|2|x-jat|Jyoshi Kausei
 4226|4|fr|Jyu Oh Sei
 4226|2|x-jat|Jyu Oh Sei
@@ -34321,6 +34326,7 @@
 266|1|x-jat|Meitantei Conan
 19551|1|x-jat|Meitantei Conan (2026)
 9181|1|x-jat|Meitantei Conan Bonus File: Fantasista no Hana
+19712|1|x-jat|Meitantei Conan Episode "ZERO": Kudou Shinichi Suizokukan Jiken
 7252|1|x-jat|Meitantei Conan Magic File 2: Kudou Shin`ichi Nazo no Kabe to Kuro Lab Jiken
 8399|1|x-jat|Meitantei Conan Magic File 2011: Niigata - Tokyo Omiyage Capriccio
 7232|1|x-jat|Meitantei Conan Magic File 3: Shin`ichi to Ran Mahjong Pai to Tanabata no Omoide
@@ -53852,6 +53858,7 @@
 4003|2|en|The Maiden is Falling in Love with the Elder Sister
 12872|2|en|The Making of a Color Animation
 15052|2|en|The Making of a Wonderful Nation
+19708|4|en|The Man From Dao Xiang Cun
 8582|2|en|The Man Next Door
 15400|2|en|The Man Picked Up by the Gods
 13836|4|en|The Man Traveling with a Picture in Relief
@@ -53886,6 +53893,7 @@
 9896|1|x-jat|The Midnight Animals
 8614|2|en|The Midnight Parasites
 5195|2|en|The Mighty Orbots
+6130|2|en|The Millenial Tale of Genji
 15364|4|en|The Millionaire Detective - Balance: Unlimited
 15695|2|en|The Mirror: Twin Cities
 1839|4|en|The Mischievous Twins
@@ -82953,6 +82961,7 @@
 16568|4|zh-Hans|剑网3·侠肝义胆沈剑心 第三季
 19710|4|zh-Hans|剑网3·侠肝义胆沈剑心 第三季 (2024)
 16568|2|zh-Hans|剑网3·侠肝义胆沈剑心 第三季（上卷）
+19710|2|zh-Hans|剑网3·侠肝义胆沈剑心 第三季（下卷）
 15941|4|zh-Hans|剑网3·侠肝义胆沈剑心Ⅱ
 15818|4|zh-Hans|剑网3·侠肝义胆沈剑心之长漂
 19708|4|zh-Hans|剑网3·沈剑心的365天
@@ -83848,6 +83857,7 @@
 8534|4|ja|名探偵コナン vs Wooo
 18584|4|ja|名探偵コナン VS. 怪盗キッド
 9152|4|ja|名探偵コナン えくすかりばあの奇跡
+19712|4|ja|名探偵コナン エピソード"ZERO": 工藤新一水族館事件
 12644|4|ja|名探偵コナン エピソードONE 小さくなった名探偵
 12564|4|ja|名探偵コナン から紅の恋歌[ラブレター]
 6242|4|ja|名探偵コナン コナンvsキッド SHARK & JEWEL
@@ -88831,6 +88841,7 @@
 9975|4|ja|映画ドラえもん 新・のび太の大魔境 ~ペコと5人の探検隊~
 6383|4|ja|映画ドラえもん 新・のび太の宇宙開拓史
 11353|4|ja|映画ドラえもん 新・のび太の日本誕生
+19711|4|ja|映画ドラえもん 新・のび太の海底鬼岩城
 13657|2|ja|映画ドラゴンボール超
 7769|4|ja|映画ドラミ&ドラえもんズ 宇宙[スペース]ランド危機イッパツ!
 16008|4|ja|映画トロピカル~ジュ! プリキュア プチ とびこめ! コラボ♡ダンスパーティ!
