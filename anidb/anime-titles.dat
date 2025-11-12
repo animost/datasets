@@ -1,4 +1,4 @@
-# created: Mon Nov 10 03:00:02 2025
+# created: Tue Nov 11 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -12654,6 +12654,7 @@
 2022|4|en|Don`t Leave Me Alone, Daisy
 2719|4|en|Don`t Lose, Makendo
 12804|4|en|Don`t Lose!! Evil Corps!
+18530|2|en|Don`t Play by Rules
 9332|2|en|Don`t Problem Children Come From an Alternate World?
 11660|2|en|Don`t tell Mom
 19196|2|en|Don`t Touch Kotesashi
@@ -23517,6 +23518,7 @@
 3379|4|it|I Cinque Samurai - La Leggenda dell`imperatore splendente
 3380|4|it|I Cinque Samurai - Message
 19626|2|en|I Collect Waste in Heaven
+18530|2|en|I Determine My Own Destiny
 8419|2|en|I Don`t Have Many Friends
 7978|2|en|I Don`t Like My Big Brother At All!
 316|4|en|I Dream of Mimi
@@ -27898,6 +27900,7 @@
 7031|4|de|King of Thorn
 7031|4|en|King of Thorn
 12920|2|x-zht|King of Warrior Zhi Jufeng Zhan Hun
+18530|4|en|King`s Big Brother
 13335|4|en|King`s Game
 13335|4|fr|King`s Game "The Animation"
 16731|2|en|King`s Landing Under The Subject
@@ -37627,6 +37630,8 @@
 13632|1|x-jat|Nee,... Shiyo
 6467|1|x-jat|Needless
 6467|4|en|Needless
+19713|4|ja|NEEDY GIRL OVERDOSE
+19713|1|x-jat|Needy Girl Overdose
 18491|1|x-jat|NEET Kunoichi to Nazeka Dousei Hajimemashita
 3973|4|de|Negadon - Das Monster vom Mars
 3973|4|en|NEGADON - the Monster from Mars
@@ -51330,6 +51335,7 @@
 17333|4|en|Supreme Lord of Galaxy 2
 19430|2|en|Supreme Over the Sky
 3602|2|en|Supreme Ruler of the Hot Sands Gandahara
+18530|2|en|Supreme Senior Brother
 18393|4|en|Supreme Sword God
 18893|2|en|Supreme Sword God 2
 18893|2|en|Supreme Sword God 2nd Season
@@ -54805,7 +54811,7 @@
 15508|2|en|Those Years I Opened a Zoo
 19226|2|en|Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court
 16041|4|en|Thousand Autumns
-17364|2|en|Thousands of Worlds
+17364|4|en|Thousands of Worlds
 9592|2|en|Three Iron Musketeers
 14925|2|en|Three Kingdoms Talk Show
 14929|2|en|Three Kingdoms Talk Show Season 2
@@ -58236,7 +58242,7 @@
 15202|4|en|Wandering Witch: The Journey of Elaina
 11654|2|en|Wanderings of San Mao
 15769|1|x-jat|Wang Gu Shenhua Zhi Tian Xuanzhe
-18530|1|x-zht|Wang Zhe Da Shi Xiong
+18530|2|x-zht|Wang Zhe Da Shi Xiong
 5088|3|x-jat|wangan
 5088|1|x-jat|Wangan Midnight
 8047|1|x-kot|Wanghu Sim Cheong
@@ -58248,6 +58254,7 @@
 17933|1|x-zht|Wangu Shenhua
 13922|2|x-zht|Wangu Xian Qiong II
 18980|1|x-zht|Wangu Zui Qiang Zong
+18530|1|x-zht|Wangzhe Da Shixiong
 18409|1|x-zht|Wangzhe Rongyao: Rongyao Zhi Zhang
 19366|1|x-zht|Wangzhe Rongyao: Rongyao Zhi Zhang - Mingyun Pian
 18409|2|x-zht|Wangzhe Rongyao: Rongyao Zhi Zhang - Sui Yue Pian
@@ -62250,7 +62257,14 @@
 178|4|ru|Вандред: Второй уровень
 178|2|uk|Вандред: другий рівень
 11123|4|ru|Ванпанчмен
+11123|4|uk|Ванпанчмен
 12430|4|ru|Ванпанчмен (2 сезон)
+12430|2|uk|Ванпанчмен (2 сезон)
+12430|4|uk|Ванпанчмен (2019)
+17576|2|uk|Ванпанчмен (3 сезон)
+12430|2|uk|Ванпанчмен 2
+17576|4|uk|Ванпанчмен 2025
+17576|2|uk|Ванпанчмен 3
 10663|2|uk|Вартові кривавого бар’єру
 12571|2|uk|Вартові кривавого бар’єру: По той бік
 2436|4|ru|Василиск
@@ -66480,6 +66494,7 @@
 4222|2|ru|Школьный переполох - второй семестр
 3643|2|ru|Школьный переполох OVA
 5745|2|ru|Школьный Переполох: Третий Триместр
+11637|4|uk|Шлях до героя
 15812|4|uk|Шлях домогосподаря
 18593|4|uk|Шлях самотнього вовка
 6322|2|ru|Шок-подружка
@@ -77763,6 +77778,7 @@
 12558|4|ja|ナンバカ (2017)
 7690|4|ja|なんぼのもんじゃい! ヤンキー愚連隊
 17214|2|ja|ニーア オートマタ Ver1.1a
+19713|2|ja|ニーディーガールオーバードーズ
 18491|4|ja|ニートくノ一となぜか同棲はじめました
 6467|4|ja|ニードレス
 46|4|ja|ニア アンダーセブン
@@ -78607,6 +78623,7 @@
 13227|4|ja|ピコ太郎のララバイラーラバイ
 14253|3|ja|ひざうえ
 14973|4|ja|ビジネスフィッシュ
+19005|2|ja|ビジョンズ
 1296|4|ja|ピジョンブラッド
 5547|5|ja|ビスゲーマー
 9118|4|ja|ぴすとっ☆
@@ -83962,6 +83979,7 @@
 11775|4|ja|君の棲む街
 13363|4|ja|君の膵臓をたべたい
 12477|4|ja|君の魔名はリナ・ウィッチ
+12477|2|ja|君の魔名はリナ・ウィッチ ~アイドルのファミリア~
 18344|4|ja|君は冥土様.
 15414|4|ja|君は彼方
 17131|4|ja|君は放課後インソムニア
@@ -90383,6 +90401,7 @@
 1313|4|ja|淫辱の部屋
 658|2|ja|淫辱調教~メイド&義母~ (1)
 1272|2|ja|淫辱調教~メイド&義母~ (2)
+3131|2|ja|淫魔の幻影
 5985|2|ja|淫魔列伝
 5985|2|ja|淫魔列伝 The Immorality Wars
 5985|2|ja|淫魔大戦
@@ -90963,6 +90982,7 @@
 12888|4|zh-Hant|牙鬥獸娘
 17224|4|ja|牛頭
 19575|4|ja|牝を狩る村
+9897|2|ja|牝性 -ペルソナ-
 9897|4|ja|牝性 ペルソナ
 11474|2|zh-Hans|牝教师4 ~淫乱污秽的讲台~
 11474|4|zh|牝教师4 ~淫乱污秽的讲台~
