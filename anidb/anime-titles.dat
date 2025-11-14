@@ -1,4 +1,4 @@
-# created: Wed Nov 12 03:00:01 2025
+# created: Thu Nov 13 03:00:03 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -15693,6 +15693,7 @@
 4445|3|x-jat|Fandora
 16563|4|en|Fanfare of Adolescence
 15583|1|x-zht|Fang Kai Nage Nuwu
+19716|1|x-zht|Fang Kai Nage Nuwu (Web)
 2352|2|en|Fang of the Sun Dagram
 2352|2|en|Fang of the Sun Dougram
 15583|2|x-zht|Fangkai Nage Nuwu
@@ -25942,6 +25943,7 @@
 13199|4|en|Just Because!
 13199|4|fr|Just Because!
 13199|4|de|Just Because!
+19715|2|en|Just for a Meowment
 8710|1|x-jat|Justeen
 2313|2|en|Justice Supermen vs. Fighter Supermen
 10839|1|x-jat|Jutaijima
@@ -26615,6 +26617,7 @@
 14661|1|x-jat|Kanata no Astra
 17999|3|x-jat|kanaten
 18931|1|x-jat|Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyou-gakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi
+19717|1|x-jat|Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyou-gakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi 2
 10161|4|en|KanColle
 10161|3|x-jat|KanColle
 10161|4|fr|KanColle
@@ -26863,6 +26866,7 @@
 2843|3|x-jat|Kashimashi
 2843|4|en|Kashimashi: Girl Meets Girl
 2843|1|x-jat|Kashimashi: Girl Meets Girl
+19714|1|x-jat|Kashita Maryoku wa "Ribobarai" de Kyousei Choushuu: Youzumi to Party Tsuihou Sareta Ore wa, Kawaii Support Yousei to Issho ni Toritateta Maryoku o Un`you Shite Saikyou o Mezasu.
 168|2|x-jat|Kashou no Tsuki
 168|1|x-jat|Kashou no Tsuki: Aki Kyougen
 2843|2|x-jat|Kasimasi
@@ -31287,6 +31291,7 @@
 19700|4|en|Lonely Hero (2025)
 16717|2|en|Lonely Hero Episode 0
 16717|2|en|Lonely Hero Pilot Episode
+16717|2|en|Lonely Hero: Trouble Begin
 18432|4|en|Loner Life in Another World
 19517|2|en|Long March to the Stars
 11201|1|x-jat|Long Riders!
@@ -32594,6 +32599,7 @@
 17478|2|en|Magic Muscles
 11883|4|en|Magic of Stella
 12623|4|en|Magic of the Circus
+19714|2|en|Magic Repo Man: Dumped by My Party, I’ll Cash In with a Cute Support Fairy to Become the Strongest!
 3373|2|en|Magic School Lunar: Secret of the Blue Dragon
 1444|2|en|Magic Star Magical Emi
 2605|2|en|Magic Teacher Negima
@@ -39702,6 +39708,7 @@
 17576|4|ja|ONE PUNCH MAN (2025)
 17576|1|x-jat|One Punch Man (2025)
 17576|4|en|One Punch Man (2025)
+17576|2|x-other|One Punch Man 3
 12430|2|en|One Punch Man S2
 17576|2|en|one punch man s3
 17576|4|de|One Punch Man Staffel 3
@@ -44393,6 +44400,7 @@
 19109|4|en|Rebirth of the Sword Patriarch
 4295|1|x-jat|Rebiya
 4747|3|x-jat|Reborn
+19715|4|en|Reborn as a Cat
 19142|2|en|Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!
 17557|4|en|Reborn as a Vending Machine, I Now Wander the Dungeon
 18204|4|en|Reborn as a Vending Machine, I Now Wander the Dungeon 2nd Season
@@ -44581,6 +44589,7 @@
 571|1|x-jat|Rekka no Honoo
 9426|1|x-jat|Rekka no Honoo: Final Burning
 15583|2|en|Release That Witch
+19716|4|en|Release That Witch (Web)
 13760|4|ja|RELEASE THE SPYCE
 13760|1|x-jat|Release the Spyce
 13760|4|en|Release the Spyce
@@ -54579,7 +54588,9 @@
 2347|1|x-jat|The Ultraman
 18842|4|en|The Umbrella Fairy
 18931|2|en|The Unaware Atelier Master
+19717|2|en|The Unaware Atelier Master 2
 18931|4|en|The Unaware Atelier Meister
+19717|2|en|The Unaware Atelier Meister 2
 11428|4|en|The Undertaker and the Dog
 7193|2|en|The Underwater Tyrant
 19154|2|en|The Unemployed Demon King
@@ -58464,6 +58475,7 @@
 3449|4|sv|Weed - Silver Fangs Son
 8325|2|en|Weekly Shimakou
 16533|4|pl|Wehikuł Tatami
+19715|1|x-zht|Wei Miao Rensheng
 14830|2|x-zht|Wei Qi Shao Nian
 16585|1|x-zht|Wei Wo Du Shen
 14306|1|x-zht|Wei, Kan Jian Er Duo La!
@@ -74066,6 +74078,7 @@
 8795|4|ja|オトメドリ
 16602|5|ja|おとめはボクにこいしてる トリンクルスターズ
 10876|4|ja|オトメヒメ
+10876|2|ja|オトメヒメ ~さとるクン~
 12297|4|ja|オトメ勇者
 7512|4|ja|おとめ妖怪 ざくろ
 7512|2|ja|おとめ妖怪ざくろ
@@ -81564,6 +81577,7 @@
 14413|4|zh-Hans|为什么老师会在这里!
 18133|2|zh-Hans|为何我的世界被遗忘了？
 18930|4|zh-Hans|为你着迷
+19715|4|zh-Hans|为喵人生
 14068|4|zh-Hans|为我而生
 16446|4|zh-Hans|为美好的世界献上爆炎！
 11261|4|zh-Hans|为美好的世界献上祝福!
@@ -83469,6 +83483,7 @@
 15755|4|zh-Hant|動畫 水豚君
 4992|4|ja|動絵狐狸達引(うごきえこりのたてひき)
 18931|4|ja|勘違いの工房主~英雄パーティの元雑用係が, 実は戦闘以外がSSSランクだったというよくある話~
+19717|4|ja|勘違いの工房主~英雄パーティの元雑用係が, 実は戦闘以外がSSSランクだったというよくある話~ 2
 2412|4|ja|勝利投手
 238|4|ja|勝負師伝説 哲也
 17261|4|ja|勝連おもろそうし
@@ -88052,6 +88067,7 @@
 18171|4|zh-Hant|放學後少年花子君
 10958|4|zh-Hant|放學後的昴星團
 15583|4|zh|放开那个女巫
+19716|4|zh|放开那个女巫 (Web)
 7949|4|ja|放浪息子
 7949|4|zh-Hans|放浪男孩
 18494|4|zh-Hans|放荡之顷
@@ -94168,6 +94184,7 @@
 12635|2|ja|貴方ハ私ノモノ ドS彼女とドM彼氏
 12635|2|ja|貴方ハ私ノモノドS彼女とドM彼氏
 19087|4|ja|貴族転生 ~恵まれた生まれから最強の力を得る~
+19714|4|ja|貸した魔力は【リボ払い】で強制徴収~用済みとパーティー追放された俺は, 可愛いサポート妖精と一緒に取り立てた魔力を運用して最強を目指す.~
 19077|4|zh-Hant|費馬的料理
 18192|4|ja|貼りまわれ! こいぬ
 18555|4|ja|貼りまわれ! こいぬ (2024)
