@@ -1,4 +1,4 @@
-# created: Thu Nov 13 03:00:03 2025
+# created: Fri Nov 14 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -11130,6 +11130,9 @@
 10905|4|en|Death Parade
 10905|4|it|Death Parade
 18428|2|en|Death Rewind PlayBack
+19718|1|x-jat|Death Stranding Isolations
+19718|4|ja|DEATH STRANDING ISOLATIONS
+19718|2|en|Death Stranding Isolations
 19604|4|ja|DEATH STRANDING MOSQUITO
 19604|1|x-jat|Death Stranding Mosquito
 18991|3|x-jat|deathma2
@@ -17265,6 +17268,7 @@
 5518|1|x-jat|Fuusen Shoujo Temple-chan
 16186|4|en|Fuuto PI
 18724|2|en|Fuuto PI: Portrait of Kamen Rider Skull
+18724|4|en|Fuuto PI: The Portrait of Kamen Rider Skull
 16186|1|x-jat|Fuuto Tantei
 18724|1|x-jat|Fuuto Tantei: Kamen Rider Skull no Shouzou
 10365|2|x-jat|Fuuun Ishin Dai Shogun
@@ -29510,6 +29514,7 @@
 7980|1|x-jat|Kyouiku Shidou The Animation
 9518|1|x-jat|Kyoukai no Kanata
 15719|1|x-jat|Kyoukai no Kanata: Idol Saiban! Mayoi Nagara mo Kimi wo Sabaku Tami
+19719|1|x-jat|Kyoukai no Melody
 10936|1|x-jat|Kyoukai no Rinne
 11591|1|x-jat|Kyoukai no Rinne (2016)
 12426|1|x-jat|Kyoukai no Rinne (2017)
@@ -70840,6 +70845,7 @@
 10612|2|ko|성창녀
 4353|2|ko|성항녀
 14549|2|ko|성활주간
+19515|2|ko|성흔의 아리아
 6816|2|ko|성흔의 퀘이사
 7971|2|ko|성흔의 퀘이서: 여제의 초상
 9794|2|ko|세계에서 제일 강해지고 싶어!
@@ -75215,6 +75221,7 @@
 8578|4|ja|ケメ子のLOVE
 15323|5|ja|けものじへん
 4392|4|ja|ケモノヅメ
+16561|2|ja|けものっ娘通信 The Animation
 16561|4|ja|けものっ娘通信〜The Animation〜
 17795|4|ja|けものっ娘通信~The Animation~ 猫娘ニア
 6762|4|ja|けものとチャット
@@ -77948,6 +77955,7 @@
 3512|4|ja|ノエイン もうひとりの君へ
 7336|4|ja|ノエルの不思議な冒険
 17488|4|ja|ノケモノたちの夜
+10943|2|ja|のせわすれ ~女教師中善寺綾乃の淫鬱なこれから~
 10943|4|ja|のせわすれ THE ANIMATION 女教師中善寺綾乃の淫鬱なこれから
 10672|2|ja|ノゾ×キミ
 10672|4|ja|ノゾxキミ
@@ -84581,6 +84589,7 @@
 10936|4|ja|境界のRINNE
 11591|4|ja|境界のRINNE (2016)
 12426|4|ja|境界のRINNE (2017)
+19719|4|ja|境界のメロディ
 9518|4|ja|境界の彼方
 16128|4|zh-Hans|境界战机
 16128|4|ja|境界戦機
@@ -94647,6 +94656,7 @@
 9786|4|zh-Hans|连我小镇
 18620|4|zh-Hans|迟早是最强的炼金术师?
 6275|2|zh-Hans|迦南
+16908|4|zh-Hans|迪士尼 扭曲仙境
 8421|2|zh-Hant|迴轉企鵝罐
 7726|4|ja|迷elleオトコノ娘
 7229|4|ja|迷い猫オーバーラン!
