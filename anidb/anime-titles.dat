@@ -1,4 +1,4 @@
-# created: Fri Nov 14 03:00:02 2025
+# created: Mon Nov 17 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1130,6 +1130,7 @@
 18450|2|en|A Sheep In Wolf`s Clothing
 6929|2|en|A Ship of Oranges
 18101|4|en|A Sign of Affection
+18101|4|fr|A sign of affection
 10937|4|es|A Silent Voice
 10937|4|en|A Silent Voice
 10937|4|de|A Silent Voice
@@ -7594,6 +7595,7 @@
 3672|4|pl|Calineczka
 3383|1|x-jat|Call Me Tonight
 16971|4|en|Call of the Night
+16971|4|fr|Call of the Night
 16971|4|it|Call of the Night - Il richiamo della notte
 18531|4|en|Call of the Night Season 2
 3662|2|en|Call of the Wild
@@ -8267,6 +8269,7 @@
 15914|4|en|Chainsaw Man
 15914|4|pl|Chainsaw Man
 18324|4|de|Chainsaw Man - The Movie: Reze Arc
+18324|4|fr|Chainsaw Man – Le Film : L`arc de Reze
 19560|2|en|Chainsaw Man Compilation Movies
 19560|1|x-jat|Chainsaw Man Soushuuhen
 18324|2|en|Chainsaw Man the Movie: Reze Arc
@@ -10414,6 +10417,7 @@
 9541|4|vi|Đại Chiến Titan
 10944|4|vi|Đại chiến Titan Phần 2
 4346|2|vi|Đại Dương Ngôn Từ
+19723|1|x-jat|Dai Kaijuu Gaea-Tima
 4149|2|fr|Dai Maho Toge
 4149|2|fr|Dai Mahô Tôge
 4149|1|x-jat|Dai Mahou Touge
@@ -11172,6 +11176,7 @@
 15270|4|en|Deemo: Memorial Keys
 4700|2|en|Deep - Sea Legend Meremanoid
 4286|2|en|Deep Blue Fleet
+19702|4|en|Deep Dive: Forced Rewind
 16403|4|ja|Deep Insanity THE LOST CHILD
 16403|4|en|Deep Insanity: The Lost Child
 16403|1|x-jat|Deep Insanity: The Lost Child
@@ -16496,6 +16501,7 @@
 1974|2|x-jat|Flutter of Birds 2
 1974|1|x-jat|Flutter of Birds 2: Tenshi-tachi no Tsubasa
 1974|2|en|Flutter of Birds 2: The Wings of Angels
+1974|2|ja|flutter of birds II ~天使たちの翼~
 1974|4|ja|flutter of birds II 天使たちの翼
 1627|1|x-jat|Flutter of Birds: Tori-tachi no Habataki
 6064|1|x-jat|Fluximation
@@ -17269,6 +17275,7 @@
 16186|4|en|Fuuto PI
 18724|2|en|Fuuto PI: Portrait of Kamen Rider Skull
 18724|4|en|Fuuto PI: The Portrait of Kamen Rider Skull
+18724|4|de|Fuuto PI: The Portrait of Kamen Rider Skull
 16186|1|x-jat|Fuuto Tantei
 18724|1|x-jat|Fuuto Tantei: Kamen Rider Skull no Shouzou
 10365|2|x-jat|Fuuun Ishin Dai Shogun
@@ -17370,6 +17377,7 @@
 5235|3|x-jat|gadegade
 692|2|x-jat|Gadguard
 14534|4|my|Gadis Cuaca
+19723|2|en|Gaea-Tima the Gigantis
 11806|1|x-kot|Gaegujang-i Cheonsadeul
 2827|3|x-jat|gag manga
 4558|2|x-jat|Gag Manga Biyori 2
@@ -27637,6 +27645,7 @@
 8552|1|x-jat|Kill Me Baby
 8552|4|en|Kill Me Baby
 10025|1|x-jat|Kill Me Baby (2013)
+19722|2|en|Killed Again, Mr. Detective?
 14288|2|en|Killer Seven
 15381|2|en|Killer Seven 2
 15961|2|en|Killer Seven 3
@@ -30431,6 +30440,7 @@
 1496|4|fr|Le roi Léo
 1498|4|fr|Le roi Léo (1966)
 16849|1|x-zht|Le Rong Long
+16730|4|fr|Le Royaume des abysses
 679|4|fr|Le royaume des chats
 2104|4|fr|Le royaume des couleurs
 14906|2|fr|Le RPG des damnées – La chaste dame-chevalier Ruvyrias
@@ -31638,6 +31648,7 @@
 13656|4|en|Love To-Lie-Angle
 11822|4|en|Love Tyrant
 11822|4|fr|Love Tyrant
+19720|2|en|Love Unseen Beneath the Clear Night Sky
 793|2|en|Love Wedge
 1675|2|en|Love Wind
 15062|2|fr|Love x Holic – Une relation tendue avec de jeunes belles séduisantes
@@ -31811,6 +31822,7 @@
 14829|1|x-zht|Luo Xiao Hei Zhanji
 15253|1|x-zht|Luo Xiao Hei Zhanji (2019)
 16687|1|x-zht|Luo Xiao Hei Zhanji (2021)
+19721|1|x-zht|Luo Xiao Hei Zhanji (2025)
 17440|1|x-zht|Luoluo Li Xian Ji
 14465|4|vi|Lướt sóng cùng em
 16854|1|x-zht|Luotuo Xian Wu
@@ -33915,6 +33927,7 @@
 2827|2|en|Masuda Kousuke`s Theater: A Perfect Day for Gag-Manga
 16389|4|hu|Másvilági nagybátyám
 5320|2|pl|Maszyna Czasu 001
+19722|1|x-jat|Mata Korosarete Shimatta no Desu ne, Tantei-sama
 62|1|x-jat|Mata Mata Saber Marionette J
 632|1|x-jat|Matantei Loki Ragnarok
 3583|4|en|Matasaburo the Wind Boy
@@ -44081,6 +44094,7 @@
 14062|1|x-zht|Rang Wo Men Shao Ba!!!
 17703|4|es|Ranger Reject
 15298|4|en|Ranking of Kings
+15298|4|fr|Ranking of Kings
 17560|4|fr|Ranking of Kings: Le Trésor du Courage
 17560|4|en|Ranking of Kings: The Treasure Chest of Courage
 1175|1|x-jat|Rankou Choukyou: Maid ni Natta Shoujo
@@ -47917,6 +47931,7 @@
 13664|1|x-zht|Shen Po
 13596|2|x-zht|Shen Qi Huan Qi Tan
 13596|1|x-zht|Shen Qi Huan Qitan
+19702|1|x-zht|Shen Qian: Qiangzi Dao Dai
 17085|1|x-zht|Shen Wu Tianzun
 18779|1|x-zht|Shen Wu Tianzun (2024)
 18582|2|x-zht|Shen Yi Jiu Xiao Jie Di Er Ji
@@ -47951,7 +47966,6 @@
 15713|4|ja|Shenmue the Animation
 1597|1|x-jat|Shenmue The Movie
 1597|3|x-jat|Shenmuu
-19702|1|x-zht|Shenqian Qiangzhi Daodai
 1141|2|x-jat|Shenron no Densetsu
 15979|1|x-zht|Shenshi Mowang: Gentleman Devil
 17039|2|x-zht|Shenyi Jiu Xiaojie
@@ -53310,6 +53324,7 @@
 15349|2|en|The Elder Sister Like One
 8911|2|en|The Elder Sister`s Free Oral Day
 17909|4|en|The Elusive Samurai
+17909|4|fr|The Elusive Samurai
 18903|2|en|The Elusive Samurai 2
 851|4|en|The Elven Bride
 16073|4|en|The Eminence in Shadow
@@ -53721,6 +53736,7 @@
 13950|2|en|The King`s Avatar SP
 13950|2|en|The King`s Avatar Specials
 15035|2|en|The King`s Avatar: For the Glory
+15035|4|de|The King`s Avatar: For the Glory
 16731|2|en|The King`s Ministers
 16731|2|en|The King`s Subjects
 6880|2|en|The King`s Tail
@@ -54729,6 +54745,7 @@
 16537|4|en|The Wrong Way to Use Healing Magic
 18799|4|en|The Wrong Way to Use Healing Magic 2
 18799|2|en|The Wrong Way to Use Healing Magic Season 2
+3989|2|en|The X-treme Team!
 16611|4|en|The Yakuza`s Guide to Babysitting
 3664|2|en|The Yearling
 17058|4|en|The Young Brewmaster`s Adventure
@@ -55824,6 +55841,7 @@
 457|2|x-jat|Toukyou Babylon
 2795|2|x-jat|Toukyou Vice
 2554|1|x-jat|Touma Kijin Den Oni
+19720|1|x-jat|Toumei na Yoru ni Kakeru-kun to, Me ni Mienai Koi o Shita.
 4192|1|x-jat|Toumei Ningen
 7262|1|x-jat|Toumei Ningen R
 19015|1|x-jat|Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari
@@ -61390,6 +61408,7 @@
 17806|4|hu|Zom 100: Bakancslista zombiapokalipszis idejére
 17806|4|en|Zom 100: Bucket List of the Dead
 17806|4|de|Zom 100: Bucket List of the Dead
+17806|4|fr|Zom 100: Bucket List of the Dead
 17806|1|x-jat|Zom 100: Zombie ni Naru made ni Shitai 100 no Koto
 17806|3|x-jat|zom100
 13353|2|en|Zombie Brother
@@ -79771,6 +79790,7 @@
 11638|5|ja|まそうがくえん ハイブリッド・ハート
 18812|4|ja|マゾメスソープで逢いましょう!
 62|4|ja|またまたセイバーマリオネットJ
+19722|4|ja|また殺されてしまったのですね, 探偵様
 16944|4|ja|マチェーリカ
 14630|4|ja|まちカドまぞく
 15702|4|ja|まちカドまぞく 2丁目
@@ -84893,6 +84913,7 @@
 1592|4|zh-Hans|大小姐搜查网
 1078|2|ja|大山版ドラえもん
 6692|4|ja|大当り空の円タク
+19723|4|ja|大怪獣ゲァーチマ
 3606|4|ja|大恐竜時代
 3606|2|ja|大恐竜物語
 1847|4|ja|大悪司
@@ -92965,6 +92986,7 @@
 14829|4|zh-Hans|罗小黑战记
 15253|4|zh-Hans|罗小黑战记 (2019)
 16687|4|zh-Hans|罗小黑战记 (2021)
+19721|4|zh-Hans|罗小黑战记 (2025)
 16687|2|zh-Hans|罗小黑战记 众生之门篇
 169|2|zh-Hans|罗德岛战记ova
 137|2|zh-Hans|罗德岛战记TV 英雄骑士传
@@ -94733,6 +94755,7 @@
 13918|4|zh-Hans|逆转裁判 第二季
 10417|4|zh-Hans|选择感染者WIXOSS
 10698|4|zh-Hans|选择扩散者WIXOSS
+19720|4|ja|透明な夜に駆ける君と, 目に見えない恋をした.
 4192|4|ja|透明人間
 7262|4|ja|透明人間R
 14936|4|ja|透明少年探偵アキラ
