@@ -1,4 +1,4 @@
-# created: Tue Nov 18 03:00:02 2025
+# created: Wed Nov 19 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -22898,6 +22898,7 @@
 9637|2|en|Hopi and Chadol Bawi
 9637|2|en|Hopi and Quartz Rock
 9637|1|x-kot|Hopiwa Chadol Bawi
+19725|1|x-jat|Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu
 1882|3|x-jat|hopper
 11647|2|en|Hopscotch
 8068|2|pt|Hora do Banho com Hinako e Hiyoko
@@ -36823,6 +36824,7 @@
 9787|2|en|My Mental Multiple-Choice Power Is Completely Ruining My School Romantic Comedy
 11048|2|en|My Monster Secret
 18224|1|x-jat|My Mother
+18224|2|ja|My Mother The Animation
 19492|2|en|My Mother-in-law and Sister-in-law Who Don`t Bully Me
 2059|4|en|My My Mai
 2059|4|it|My My My Consulenze particolari
@@ -39768,6 +39770,7 @@
 11637|2|en|One-Punch Man OVA
 17576|2|en|One-Punch Man S3
 17576|2|en|One-Punch Man Season 3
+17576|2|it|One-Punch Man Stagione 3
 12430|2|en|One-Punch Man: Season 2
 3094|2|en|One-shot Kanta
 136|1|x-jat|One: Kagayaku Kisetsu e
@@ -40318,6 +40321,7 @@
 18086|4|en|Oshi no Ko (2024)
 18901|4|en|Oshi no Ko (2026)
 18086|2|x-jat|Oshi no Ko 2
+18901|2|en|Oshi no Ko 3
 18086|2|x-jat|Oshi no Ko Season 2
 14087|3|x-jat|Oshibudou
 13836|1|x-jat|Oshie to Tabi Suru Otoko
@@ -50385,6 +50389,7 @@
 17784|2|x-jat|Spy x Family Season 2
 18677|2|en|Spy x Family Season 3
 18677|4|de|SPY x FAMILY Staffel 3
+18677|2|it|Spy x Family Stagione 3
 16947|4|th|SPY x FAMILY ซีซั่น 2
 18933|4|en|Spy x Sect
 16947|4|ja|SPY×FAMILY
@@ -79550,6 +79555,7 @@
 11211|4|ja|ポッピンQ
 8596|5|ja|ポップ
 12772|4|ja|ぽっぷるメイル
+19725|4|ja|ほっぺちゃん ~サン王国と黒ほっぺ団の秘密~
 9577|4|ja|ぽっぺん先生と帰らずの沼
 6882|4|ja|ポッポやさん のんき機関士
 6883|4|ja|ポッポやさんののんき駅長
@@ -92313,6 +92319,7 @@
 7125|4|ja|私の知らない妻[メス]の貌
 7125|2|ja|私の知らない妻の貌
 11817|4|ja|私は, 快楽依存症
+11817|2|ja|私は、快楽依存症
 18942|4|ja|私を喰べたい, ひとでなし
 12193|4|ja|私立らいよん学園
 4482|4|ja|私立探偵・土岐正造トラブル・ノート ハード&ルーズ
