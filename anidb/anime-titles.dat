@@ -1,4 +1,4 @@
-# created: Wed Nov 19 03:00:02 2025
+# created: Thu Nov 20 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -12157,8 +12157,9 @@
 464|4|de|Digimon Frontier
 2528|4|en|Digimon Frontier - Revival of the Ancient Digimon
 2528|2|en|Digimon Frontier: Island of Lost Digimon
-2528|1|x-jat|Digimon Frontier: Kodai Digimon Fukkatsu!!
+2528|2|x-jat|Digimon Frontier: Kodai Digimon Fukkatsu!!
 2528|2|x-jat|Digimon Frontier: Ornismon Fukkatsu
+2528|1|x-jat|Digimon Frontier: Ornismon Fukkatsu!!
 7518|4|en|Digimon Fusion
 7518|4|pt|Digimon Fusion
 7518|4|es|Digimon Fusion
@@ -33234,6 +33235,7 @@
 18453|2|en|Majority Rule
 15202|3|x-jat|Majotabi
 286|3|x-jat|majotaku
+19726|1|x-jat|Majutsu o Kiwamete Tabi ni Deta Tensei Elf, Moteamashita Jumyou de Ikeru Densetsu to Naru
 19131|1|x-jat|Majutsushi Kunon wa Miete Iru
 538|1|x-jat|Majutsushi Orphen
 13964|1|x-jat|Majutsushi Orphen Hagure Tabi
@@ -53956,6 +53958,7 @@
 6736|2|en|The Monkey Fleet
 4087|2|en|The Monkey King
 4087|2|en|The Monkey King - Havoc in Heaven
+19727|1|en|The Monkey King 3D: Uproar in Heaven
 7386|2|en|The Monkey King and the Fruit of Immortality
 4907|2|en|The Monkey King and the Skeleton Ghost
 16736|4|en|The Monkey King: Reborn
@@ -54177,6 +54180,7 @@
 11745|4|en|The Reflection
 11745|4|ko|THE REFLECTION
 11745|2|en|The Reflection Wave One
+19726|2|en|The Reincarnated Elf Left on a Journey to Master His Magic and With His Extra Lifespan Became a Living Legend
 16030|2|en|The Reincarnated Sage`s Alternate World Life: I Got a Second Profession, and Became the Most Powerful in the World
 17159|4|en|The Reincarnation of the Strongest Exorcist in Another World
 17159|2|en|The Reincarnation of the Strongest Onmyoji
@@ -84986,6 +84990,7 @@
 964|4|zh-Hans|大铁人 地球静止之日
 3541|4|zh-Hans|大铁人 银铃外传
 4087|4|zh-Hans|大闹天宫
+19727|4|zh-Hant|大闹天宫3D
 16865|4|zh|大闹西游
 4765|4|zh-Hans|大雄的结婚前夜
 2018|4|ja|大雪山の勇者 牙王
@@ -88472,6 +88477,7 @@
 1189|4|ja|新海底軍艦
 6945|2|ja|新猿蟹合戦
 11818|4|ja|新生 ふたなりアイドル でかたま系! ~射精の宴は超絶MAX~
+11818|2|ja|新生 ふたなりアイドル♡ でかたま系!
 439|4|ja|新白雪姫伝説プリーティア
 14491|4|zh-Hant|新石紀
 18064|4|zh-Hant|新石紀 NEW WORLD 第二季度
@@ -96679,6 +96685,7 @@
 3636|4|zh-Hans|魔神英雄传
 3637|4|zh-Hans|魔神英雄传2
 15194|4|zh-Hant|魔神英雄傳 七魂的龍神丸
+19726|4|ja|魔術を極めて旅に出た転生エルフ, 持て余した寿命で生ける伝説となる
 538|4|ja|魔術士オーフェン
 678|4|ja|魔術士オーフェンRevenge
 13964|4|ja|魔術士オーフェンはぐれ旅
