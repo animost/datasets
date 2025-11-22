@@ -1,4 +1,4 @@
-# created: Thu Nov 20 03:00:01 2025
+# created: Fri Nov 21 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -13893,6 +13893,7 @@
 14623|4|en|Dropkick on My Devil!! Dash
 15749|4|en|Dropkick on My Devil!! X
 14798|4|en|Dropout Idol Fruit Tart
+19728|2|en|Drops of God
 16843|4|en|Drowning Sorrows in Raging Fire
 6671|3|x-jat|drrr
 10523|3|x-jat|drrr s2
@@ -26488,6 +26489,7 @@
 17006|1|x-jat|Kami Kuzu Idol
 14518|1|x-jat|Kami Machi Sana-chan The Animation
 19472|1|x-jat|Kami no Niwatsuki Kusunoki-tei
+19728|1|x-jat|Kami no Shizuku
 15391|1|x-jat|Kami no Tou
 17559|1|x-jat|Kami no Tou (2024)
 17559|2|x-jat|Kami no Tou 2
@@ -33692,6 +33694,7 @@
 7427|1|x-jat|Marie & Gali Ver.2.0
 19465|2|x-jat|Marie Antoinette ni Tensei Shita node, Zenryoku de Guillotine o Kaihi Shimasu
 19627|1|x-jat|Marika Kanri Den
+19730|1|x-jat|Marika-chan no Koukando wa Bukkowarete Iru
 1297|3|x-jat|Marimite
 2025|3|x-jat|marimite haru
 2025|3|x-jat|marimite2
@@ -33774,6 +33777,10 @@
 17818|2|en|Martial Universe 4th Season
 19126|2|en|Martial Universe 5
 19126|2|en|Martial Universe 5th Season
+19729|2|en|Martial Universe 6
+19729|2|en|Martial Universe 6th Season
+19126|2|en|Martial Universe S5
+19729|2|en|Martial Universe S6
 180|4|fr|Martian Successor Nadesico
 180|4|en|Martian Successor Nadesico
 180|4|pt-BR|Martian Successor Nadesico
@@ -58344,7 +58351,7 @@
 7646|1|x-jat|Warera Salaryman Tou
 13622|1|x-jat|Wares: Beyond
 14972|1|x-jat|Waresho! Warera! Shoudoubutsu Aigo Iinkai
-19724|1|x-jat|Wareware wa Uchuubito
+19724|1|x-jat|Wareware wa Uchuujin
 15413|4|en|Warlords of Sigrdrifa
 16591|2|en|Warm Sun
 1481|2|en|Warring Demon God GoShogun
@@ -59150,10 +59157,13 @@
 18919|2|x-zht|Wu Chengen Ji Yao Lu
 18919|2|en|Wu Chengen`s Demon Recording
 19126|2|x-zht|Wu Dong Qian Kun 5th Season
+19729|2|x-zht|Wu Dong Qian Kun 6th Season
 14649|1|x-zht|Wu Dong Qiankun
 16580|1|x-zht|Wu Dong Qiankun (2021)
 19126|2|x-zht|Wu Dong Qiankun 5
+19729|2|x-zht|Wu Dong Qiankun 6
 15687|1|x-zht|Wu Dong Qiankun Di Er Ji
+19729|1|x-zht|Wu Dong Qiankun Di Liu Ji
 16580|2|x-zht|Wu Dong Qiankun Di San Ji
 17818|1|x-zht|Wu Dong Qiankun Di Si Ji
 19126|1|x-zht|Wu Dong Qiankun Di Wu Ji
@@ -71631,6 +71641,7 @@
 15498|2|ko|우유뷔페 먹는날
 11274|4|ko|우주 흑기사
 13257|4|ko|우주보다 먼 곳
+1446|2|ko|우주소년 아톰
 630|2|ko|우주의 스텔비아
 15913|4|ko|우주전사 홍길동
 8787|2|ko|우주전함 야마토 2199
@@ -71884,6 +71895,7 @@
 19365|4|ko|일레나 에보이 관찰 일지
 19425|4|ko|일렉시드
 14454|4|ko|일반 공격이 전체 공격에 2회 공격인 엄마는 좋아하세요?
+8168|4|ko|일상
 12200|4|ko|일인지하 The Outcast
 13068|4|ko|일인지하 The Outcast 2
 5175|2|ko|일촌법사 (2007)
@@ -72123,6 +72135,7 @@
 14555|2|ko|천체의 메소드: 또 하나의 소원
 13960|4|ko|천총사
 567|4|ko|철권
+1446|4|ko|철완 아톰
 9643|4|ko|철인 007
 1672|2|ko|철인 28호
 14610|4|ko|철인 사천왕
@@ -82407,6 +82420,7 @@
 17806|4|zh-Hans|僵尸100～在成为僵尸前要做的100件事～
 5116|2|zh-Hans|僵尸借贷
 15406|4|ja|優等生 綾香のウラオモテ
+2373|2|ja|優遇接待 ~孤島の楽園へようこそ~
 2373|4|ja|優遇接待 孤島の極楽へようこそ
 2373|2|zh-Hant|優遇接待 歡迎來到孤島的極樂
 333|4|zh-Hans|儿时的点点滴滴
@@ -87231,6 +87245,7 @@
 14024|4|zh-Hans|恋爱禁止的世界 OAD
 16183|4|zh-Hans|恋爱要在世界征服后
 9183|2|ja|恋物語
+6484|4|zh-Hans|恋狱 ~月狂病~
 6484|2|zh-Hans|恋狱～月狂病～
 9460|4|ja|恋糸記念日 THE ANIMATION
 12822|4|ja|恋花火
@@ -89960,9 +89975,12 @@
 13030|4|zh-Hans|此花绮谭
 14649|4|zh-Hans|武动乾坤
 16580|4|zh-Hans|武动乾坤 (2021)
+19126|2|zh-Hans|武动乾坤 第5季
+19729|2|zh-Hans|武动乾坤 第6季
 16580|2|zh-Hans|武动乾坤 第三季
 15687|4|zh-Hans|武动乾坤 第二季
 19126|4|zh-Hans|武动乾坤 第五季
+19729|4|zh-Hans|武动乾坤 第六季
 17818|4|zh-Hans|武动乾坤 第四季
 2183|2|zh-Hans|武器种族传说
 9967|4|zh-Hans|武士弗拉明戈
@@ -92105,6 +92123,7 @@
 9553|4|ja|神のみぞ知るセカイ 女神篇
 8167|2|ja|神のみぞ知るセカイII
 19472|4|ja|神の庭付き楠木邸
+19728|4|ja|神の雫
 17146|4|ja|神は遊戯に飢えている.
 9482|4|zh-Hans|神不在的星期天
 9482|4|zh-Hant|神不在的星期天
@@ -93567,6 +93586,7 @@
 1292|4|zh-Hans|茄子 安达卢西亚之夏
 5110|4|zh-Hans|茄子 带着旅行箱的候鸟
 5110|2|zh-Hans|茄子 旅行箱中的候鸟
+19730|4|ja|茉莉花ちゃんの好感度はぶっ壊れている
 19627|4|ja|茉莉花官吏伝
 16913|4|ja|茜ハ摘マレ染メラレル
 6025|2|zh-Hans|茜色坂道 夕阳染红的坡道.染红的街道
