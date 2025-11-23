@@ -1,4 +1,4 @@
-# created: Fri Nov 21 03:00:01 2025
+# created: Sat Nov 22 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4921,6 +4921,7 @@
 17981|1|x-jat|Bang Dream! It`s MyGo!!!!!
 17981|4|en|Bang Dream! It`s MyGo!!!!!
 17981|4|de|Bang Dream! It`s MyGo!!!!!
+19733|1|en|BanG Dream! It`s MyGO!!!!! Movie
 17438|1|x-jat|Bang Dream! Morfonication
 17438|4|ja|BanG Dream! Morfonication
 15517|4|en|BanG Dream! Poppin`Dream!
@@ -12865,6 +12866,7 @@
 6588|2|en|Doraemon: Nobita and the Kingdom of Clouds
 6593|2|en|Doraemon: Nobita and the Knights on Dinosaurs
 6583|2|en|Doraemon: Nobita and the Legend of the Sun King
+19711|4|en|Doraemon: Nobita and the New Castle of the Undersea Devil
 7770|2|en|Doraemon: Nobita and the New Steel Troops: ~Winged Angels~
 4674|2|en|Doraemon: Nobita and the Platoon of Iron Men
 4674|2|en|Doraemon: Nobita and the Robot Army
@@ -26406,6 +26408,7 @@
 9568|1|x-jat|Kakumeiki Valvrave
 9949|1|x-jat|Kakumeiki Valvrave (2013)
 9949|2|x-jat|Kakumeiki Valvrave 2nd Season
+19731|1|x-jat|Kakunaru Ue wa
 2178|1|x-jat|Kakurenbo
 2178|4|sv|Kakurenbo
 2178|4|pt|Kakurenbo
@@ -38778,6 +38781,7 @@
 18014|2|en|Novoland Eagle Flag
 114|4|en|Now and Then, Here and There
 114|4|de|Now and Then, Here and There
+19731|2|en|Now That We Draw
 8835|2|en|Now with Maki
 3672|2|pl|Nowe Przygody Calineczki
 3605|2|pl|Nowe Przygody Pinokia
@@ -47700,7 +47704,7 @@
 2055|4|en|Shadow
 16073|2|en|Shadow Garden
 9213|1|x-kot|Shadow Love
-18906|2|en|Shadow of Heaven
+18906|4|en|Shadow of Heaven
 10880|4|en|Shadow of the Cherry Blossoms
 18906|2|en|Shadow of the Sky
 2543|1|x-jat|Shadow Skill
@@ -53850,7 +53854,7 @@
 1533|2|en|The Legend of the Four Kings
 4265|2|en|The Legend of The Glass Fleet
 7315|4|en|The Legend of the Legendary Heroes
-18389|2|en|The Legend of the Taiyi Sword Immortal
+18389|4|en|The Legend of the Taiyi Sword Immortal
 7117|4|en|The Legend of Thunder
 19623|2|en|The Legend of Wuhun Continent
 18377|2|en|The Legend of Yang Chen
@@ -83251,6 +83255,7 @@
 12149|4|ja|劇場版 はいからさんが通る
 8130|6|ja|劇場版 ハヤテのごとく! Hayate the combat butler HEAVEN IS A PLACE ON EARTH
 8130|4|ja|劇場版 ハヤテのごとく! HEAVEN IS A PLACE ON EARTH
+19733|4|ja|劇場版 バンドリ！It`s MyGO!!!!!
 13563|4|ja|劇場版 ひらがな男子 ~序~
 10353|4|ja|劇場版 プリティーリズム・オールスターセレクション プリズムショー☆ベストテン
 13847|4|ja|劇場版 プリパラ&キラッとプリ☆チャン ~きらきらメモリアルライブ~
@@ -88015,6 +88020,7 @@
 245|2|zh-Hans|推理之绊
 19011|4|zh-Hans|推理要在晚餐后
 19011|4|zh-Hant|推理要在晚餐後
+19731|4|ja|描くなるうえは
 5596|2|zh-Hans|提亚拉之泪
 12008|4|zh-Hans|握手者
 15249|2|ja|援助交配
