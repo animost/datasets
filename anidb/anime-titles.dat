@@ -1,4 +1,4 @@
-# created: Sun Nov 23 03:00:02 2025
+# created: Mon Nov 24 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3766,6 +3766,7 @@
 18302|2|en|Ascendance of a Bookworm: Adopted Daughter of an Archduke
 15300|4|en|Ascendance of a Bookworm: Eustachius`s Incognito Operation Downtown / Visiting Missus Corinna
 14727|2|en|Ascendance of a Bookworm: I`ll Do Anything to Become a Librarian!
+19734|4|en|Ascendants of the Nine Suns
 8686|2|ro|Ascultati-ma fetelor. Eu sunt tatal vostru!
 2862|4|fr|Aseria l`éternelle
 1102|4|de|Asgaldh: Das verwirrende Testament
@@ -3883,6 +3884,8 @@
 14661|4|en|Astra Lost in Space
 14661|4|de|Astra: Lost in Space
 4172|4|pl|Astraea Testament - The Good Witch of the West
+16745|4|en|Astral Sutra
+18155|4|en|Astral Sutra Season 2
 807|4|sk|Astro
 807|4|hr|Astro Boy
 1440|4|en|Astro Boy
@@ -16160,7 +16163,7 @@
 2367|2|en|Fifteen Boys Adrift
 9629|2|x-jat|Fifteen Children Space Adventure
 5163|1|x-jat|Fight Da!! Pyuta
-19147|2|en|Fight For The Throne
+19147|4|en|Fight For The Throne
 6481|1|x-jat|Fight Ippatsu! Juuden-chan!!
 14498|1|x-jat|Fight League: Gear Gadget Generators
 14498|4|en|Fight League: Gear Gadget Generators
@@ -16193,7 +16196,7 @@
 2786|2|en|Fighting Dodgeball Boy Dodge Danpei
 2857|4|en|Fighting Fairy Girl: Rescue Me, Mave-chan!
 4696|4|en|Fighting Foodons
-19147|4|en|Fighting for the Throne
+19147|2|en|Fighting for the Throne
 1815|2|en|Fighting General Daimos
 1815|2|en|Fighting King Daimos
 7916|4|ja|FIGHTING OF ECSTACY
@@ -25478,6 +25481,7 @@
 18435|1|x-zht|Jiu Tian Xuan Di Jue 4
 18436|1|x-zht|Jiu Tian Xuan Di Jue 5
 17602|1|x-zht|Jiu Tian Xuan Di Jue Di Er Ji
+19734|1|x-zht|Jiu Yang Wushen
 16002|2|x-zht|Jiu Ye Shen Chuan
 16002|1|x-zht|Jiu Ye Shen Zhuan
 18014|1|x-zht|Jiuzhou Piaomiao Lu
@@ -38247,6 +38251,7 @@
 3148|1|x-jat|Nine 2: Koibito Sengen
 299|4|en|Nine O`clock Woman
 14402|2|en|Nine Songs of the Moving Heavens
+19734|2|en|Nine Suns Martial God
 3149|1|x-jat|Nine: Kanketsuhen
 18660|2|en|Nine: Ruler`s Crown
 3607|2|x-jat|Nineteen - 19
@@ -53298,6 +53303,7 @@
 14797|4|cs|The Disastrous Life of Saiki K.: Reawakened
 14797|4|my|The Disastrous Life of Saiki K.: Reawakened
 19593|4|en|The Divine Emperor of Destiny
+19734|2|en|The Divine Warrior of Jiuyang
 18013|4|en|The Do-Over Damsel Conquers the Dragon Emperor
 17844|4|en|The Dog & the Boy
 1646|4|en|The Dog of Flanders
@@ -59463,6 +59469,8 @@
 13015|1|x-jat|Xing Ji (Movie)
 16745|1|x-zht|Xing Wu Shen Jue
 18155|1|x-zht|Xing Wu Shen Jue Di Er Ji
+16745|2|x-zht|Xing Wushen Jue
+18155|2|x-zht|Xing Wushen Jue 2nd Season
 13712|2|x-zht|Xing You Ji Zhi Fengbao Fa Mi La
 13712|1|x-zht|Xing You Ji: Fengbao Fa Mi La
 13712|2|x-zht|Xing You Ji: Fengbao Famila
@@ -81720,6 +81728,7 @@
 18014|4|zh-Hans|九州缥缈录
 8120|4|zh|九色鹿
 18377|4|zh-Hans|九辰风云录
+19734|4|zh-Hans|九阳武神
 10040|4|ja|九頭竜川と少年
 18917|4|ja|九龍ジェネリックロマンス
 18917|4|zh-Hant|九龍大眾浪漫
