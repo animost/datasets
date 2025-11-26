@@ -1,4 +1,4 @@
-# created: Mon Nov 24 03:00:02 2025
+# created: Tue Nov 25 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -13196,6 +13196,7 @@
 13721|2|x-zht|Doupo Cangqiong
 13721|2|x-jat|Doupo Capong
 4250|1|x-jat|Doura
+13789|2|en|Douro Mainland
 18506|1|x-jat|Douse, Koishite Shimaunda.
 19250|1|x-jat|Douse, Koishite Shimaunda. (2026)
 11567|1|x-jat|Doushitemo Eto ni Hairitai
@@ -17320,6 +17321,7 @@
 4736|1|x-jat|G-9
 4736|4|bg|G-9
 7668|4|uk|G-Best
+7668|2|ja|G-Best －G-tasteベストセレクション－
 7668|2|ja|G-Best G-taste
 3513|2|pt-BR|G-Force: Defensores do Espaço
 480|1|x-jat|G-on Riders
@@ -21649,6 +21651,7 @@
 7783|4|pt|Hello Kitty - Contos Originais - Uma Divertida Festa de Máscaras
 7785|4|pt|Hello Kitty - Contos Originais - Uma Tulipa Feliz
 7862|4|pt|Hello Kitty - Especial Natal - O Primeiro Bolo de Natal
+7176|4|pt|Hello Kitty - Paralelulu e a Floresta da Maçã
 7822|4|en|Hello Kitty & Dear Daniel in Hansel & Gretel
 7861|2|en|Hello Kitty & Dear Daniel in The Snow Queen
 7825|4|en|Hello Kitty & Mimmy in King Midas` Donkey Ears
@@ -39712,6 +39715,7 @@
 4851|1|x-jat|One Piece: Episode of Arabasta - Sabaku no Oujo to Kaizoku-tachi
 5691|2|en|One Piece: Episode of Chopper Plus - Bloom in the Winter, Miracle Sakura
 5691|4|en|One Piece: Episode of Chopper Plus: Bloom in the Winter, Miracle Cherry Blossom
+19735|1|x-jat|One Piece: Heart of Gold
 19524|2|en|One Piece: Heroines
 4097|4|it|One Piece: I Misteri dell`Isola Meccanica
 411|2|en|One Piece: I`ll Be a Pirate King
@@ -58631,6 +58635,7 @@
 8030|1|x-jat|Wheels
 4894|2|en|When Cicadas Cry 2nd Series
 16693|2|en|When History Meows
+17675|4|en|When I Woke Up I Became a Bagel Girl
 10313|4|id|When Marnie Was There
 10313|4|en|When Marnie Was There
 10313|4|tl|When Marnie Was There
@@ -73313,6 +73318,7 @@
 9239|2|ja|ありさ Good Luck
 9239|4|ja|ありさ☆Good Luck
 4448|4|ja|アリス
+4448|2|ja|アリス ~モンキー・パンチの世界~
 2175|4|ja|ありす ALICE in Cyber Land
 2175|2|ja|ありす in Cyberland
 2175|2|ja|ありす イン サイバーランド
@@ -81132,6 +81138,7 @@
 17576|2|ja|ワンパンマン3
 69|2|ja|ワンピース
 411|2|ja|ワンピース (2000)
+19735|4|ja|ワンピース ～ハートオブ ゴールド～
 11448|4|ja|ワンピース Cry heart
 4097|2|ja|ワンピース THE MOVIE カラクリ城のメカ巨兵
 4851|2|ja|ワンピース エピソードオブアラバスタ 砂漠の王女と海賊たち
