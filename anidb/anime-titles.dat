@@ -1,4 +1,4 @@
-# created: Tue Nov 25 03:00:02 2025
+# created: Wed Nov 26 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -12193,13 +12193,17 @@
 2528|3|en|Digimon Movie 7
 2528|2|en|Digimon Movie 7: Revival Of The Ancient Digimon
 4771|3|en|Digimon Movie 8
+19230|3|x-unk|digimon s10
 561|3|x-jat|digimon s2
 562|3|x-jat|digimon s3
 464|3|x-jat|digimon s4
 4283|2|x-jat|digimon s5
 7518|3|x-jat|digimon s6
+12132|3|x-unk|digimon s7
 8321|3|x-jat|digimon s7
+15358|3|x-unk|digimon s8
 8616|3|x-jat|digimon s8
+16502|3|x-unk|digimon s9
 4283|1|x-jat|Digimon Savers
 4771|2|en|Digimon Savers - The Movie: Ultimate Power! Activate Burst Mode!!
 7445|2|en|Digimon Savers 3D - A Close Call for the Digital World
@@ -12249,13 +12253,17 @@
 1148|2|en|Digimon: The Movie
 2390|2|x-jat|Digimon: X-Evolution
 234|3|x-jat|digimon1
+19230|3|x-unk|digimon10
 561|3|x-jat|digimon2
 562|3|x-jat|digimon3
 464|3|x-jat|digimon4
 4283|3|x-jat|digimon5
 7518|3|x-jat|digimon6
 8321|3|x-jat|digimon7
+12132|3|x-unk|digimon7
 8616|3|x-jat|digimon8
+15358|3|x-unk|digimon8
+16502|3|x-unk|digimon9
 234|4|lt|Digimonai
 234|4|hr|Digimoni
 234|4|hu|Digimonok
@@ -33286,6 +33294,7 @@
 4000|1|x-jat|Makaryuudo
 1736|1|x-jat|Makasete Iruka!
 18460|1|x-jat|Make a Girl
+18460|4|es|Make a Girl, Un Amor Artificial
 18317|1|x-jat|Make Heroine ga Oosugiru!
 19275|1|x-jat|Make Heroine ga Oosugiru! 2
 16378|1|x-jat|Make My Day
@@ -41026,6 +41035,7 @@
 10272|4|es|Parasyte -the maxim-
 10272|4|en|Parasyte: The Maxim
 10272|2|cs|Parazit: Mravní zásady života
+19736|2|en|Pardon the Intrusion, I`m Home!
 3081|2|en|Parent and Child Theatre
 8915|1|x-jat|Pareo wa Emerald
 3627|2|x-jat|Pari no Isaberu
@@ -51749,6 +51759,7 @@
 13492|4|en|Tada Never Falls in Love
 13492|1|x-jat|Tada-kun wa Koi o Shinai
 13492|2|x-unk|Tada-kun wa Koi wo Shinai
+19736|1|x-jat|Tadaima, Ojama Saremasu!
 18216|4|en|Tadaima, Okaeri
 18216|1|x-jat|Tadaima, Okaeri
 13492|3|x-jat|tadakoi
@@ -76827,6 +76838,7 @@
 14343|4|ja|たすけあいの歴史 -生命保険のはじまり-
 12779|2|ja|ただいま
 18216|4|ja|ただいま, おかえり
+19736|4|ja|ただいま, おじゃまされます!
 7977|4|ja|たちゅまる劇場
 5793|4|ja|ダッシュ!四駆郎
 1822|4|ja|ダッシュ勝平
