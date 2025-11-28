@@ -1,4 +1,4 @@
-# created: Wed Nov 26 03:00:01 2025
+# created: Thu Nov 27 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -13481,14 +13481,14 @@
 1043|4|it|Dragon Ball Z - La vendetta divina
 2336|4|it|Dragon Ball Z - Le origini del mito
 397|4|pt|Dragon Ball Z - O Ataque do Dragão
-906|2|pt|Dragon Ball Z - O Ataque do Super Guerreiro
+906|4|pt|Dragon Ball Z - O Ataque do Super Guerreiro
 1474|4|pt|Dragon Ball Z - O Desafio Final
 548|4|pt|Dragon Ball Z - O Destemido Songoku
 1046|4|pt|Dragon Ball Z - O Poder Misterioso
 1044|4|pt|Dragon Ball Z - O Super Herói
 1045|4|pt|Dragon Ball Z - Os Grandes Rivais
 1045|4|fi|Dragon Ball Z - Pahimmat viholliset
-1070|2|pt|Dragon Ball Z - Rivais Perigosos
+1070|4|pt|Dragon Ball Z - Rivais Perigosos
 1070|4|it|Dragon Ball Z - Sfida alla leggenda
 763|4|pt|Dragon Ball Z - Super Saya Son Goku
 1046|4|fi|Dragon Ball Z - Taistelu ylivoimaa vastaan
@@ -18934,6 +18934,8 @@
 9921|1|x-jat|Giovanni no Shima
 9921|4|en|Giovanni`s Island
 9921|4|de|Giovannis Insel
+19741|1|x-jat|Girl Crush
+19741|2|en|Girl Crush
 7512|2|en|Girl Demon Zakuro
 3134|2|en|Girl Detective Club
 10709|1|x-jat|Girl Friend (Kari)
@@ -19399,6 +19401,7 @@
 4261|4|tr|Gol
 1782|1|x-jat|Gold Lightan
 1782|4|en|Gold Lightan - Golden Warrior
+19379|2|en|Gold Player
 3336|4|en|Gold Throbber
 8038|2|en|Gold Wing 1.2.3.
 1910|2|en|Goldbang
@@ -27236,6 +27239,7 @@
 12748|1|x-jat|Kenka no Ato wa
 5002|1|x-jat|Kenken Goku Fuufu Teikin
 17049|1|x-jat|Kenketsu
+19738|1|x-jat|Kenki Virgo
 5147|2|x-jat|Kenko Zenrakei Suieibu Umisho
 5147|2|x-jat|Kenkou Zenrakei Suieibu Umisho
 5147|1|x-jat|Kenkou Zenrakei Suieibu Umishou
@@ -29641,6 +29645,8 @@
 861|4|fr|L`alien des ténèbres
 5059|4|it|L`allegro mondo di Talpilandia
 14465|4|es-CA|L`amor és a l`aigua
+19737|1|x-jat|L`amour fou de l`automate
+19737|4|ja|L`amour fou de l`automate
 17583|2|fr|L`amour? Plutôt mourir!
 3366|2|it|L`ape Magà
 1351|4|it|L`ape Maia
@@ -44683,6 +44689,7 @@
 73|3|en|reminiscence
 1827|4|it|Remy, la bambina senza famiglia
 1827|4|es|Remy, la niña sin hogar
+19259|4|en|Ren Arisugawa Is Actually a Girl
 15644|2|x-zht|Ren Zha Fan Pai Zi Jiu Xi Tong
 15644|2|x-zht|Ren Zha Fanpai Zijiu Xitong
 11822|1|x-jat|Ren`ai Boukun
@@ -50425,6 +50432,8 @@
 18677|2|it|Spy x Family Stagione 3
 16947|4|th|SPY x FAMILY ซีซั่น 2
 18933|4|en|Spy x Sect
+19740|4|en|Spy x Sect (2025)
+19740|2|en|Spy x Sect Part 2
 16947|4|ja|SPY×FAMILY
 17061|4|ja|SPY×FAMILY (2022)
 17784|4|ja|SPY×FAMILY (2023)
@@ -50601,6 +50610,8 @@
 19299|4|ja|Star Wars: Visions Presents - The Ninth Jedi
 19299|1|x-jat|Star Wars: Visions Presents - The Ninth Jedi
 18140|2|ja|Star Wars: Visions Volume 2
+16420|4|pt|Star Wars: Visões
+19005|4|pt|Star Wars: Visões (2025)
 16420|4|cs|Star Wars: Vize
 17044|1|x-jat|Star Wars/Force no Kakusei
 8837|4|ja|STAR☆jewel
@@ -53489,6 +53500,7 @@
 9589|4|fr|The Garden of Words
 9589|4|de|The Garden of Words
 4068|2|en|The Gargoyle of the Yoshinagas
+19739|4|en|The Gate of Mystical Realm
 17758|4|en|The Gene of AI
 2122|2|x-jat|The Generation of Chaos: Prologue OVA
 3477|2|en|The Genesis
@@ -54227,6 +54239,7 @@
 11948|2|en|The Restaurant of Many Orders (1994)
 14149|2|en|The Return of Rainbow Cat and Blue Rabbit
 18503|2|en|The Rich God
+19379|2|en|The Rich Player
 18483|2|en|The Richest Man In Game
 7440|2|en|The Riot of Flowers: Samurai Girls
 18473|4|en|The Rise of the Weak
@@ -58594,6 +58607,7 @@
 856|2|en|Welcome to Pia Carrot!! The Movie: Sayaka`s Love Story
 12700|4|en|Welcome to the Ballroom
 15141|2|en|Welcome to the Courtesans Palace of Mystics♥
+19379|2|en|Welcome to the Era
 14223|2|en|Welcome to the Japari Park
 4121|4|it|Welcome to the N-H-K
 4121|4|en|Welcome to the N.H.K
@@ -59579,6 +59593,7 @@
 1605|4|en|Xpress Train
 1606|4|en|Xtra Credit
 18662|2|x-zht|Xu Wu Bian Jing
+19739|1|x-zht|Xuan Jie Zhi Men
 14237|4|en|Xuan Yuan Sword Luminary
 15571|1|x-jat|Xuanyue Mengying
 11132|1|x-jat|Xuccess Heaven
@@ -61488,6 +61503,7 @@
 412|4|en|Zone of the Enders: Dolores
 408|4|en|Zone of the Enders: Idolo
 18933|1|x-zht|Zongmen Li Chule Wo Dou Shi Wodi
+19740|1|x-zht|Zongmen Li Chule Wo Dou Shi Wodi (2025)
 11989|1|x-jat|Zonmi-chan
 13933|1|x-jat|Zonmi-chan: Halloween Special Movie!
 11989|2|en|Zonmi-chan: Meat Pie of the Dead
@@ -74384,6 +74400,7 @@
 12471|4|ja|カーリー
 14113|4|ja|ガーリー・エアフォース
 11904|4|ja|ガーリッシュ ナンバー
+19741|4|ja|ガールクラッシュ
 9227|4|ja|ガールズ&パンツァー
 10009|4|ja|ガールズ&パンツァー これが本当のアンツィオ戦です!
 19220|4|ja|ガールズ&パンツァー もっとらぶらぶ作戦です!
@@ -83133,6 +83150,7 @@
 13685|4|ja|剣王朝
 13687|4|ja|剣王朝 (2017)
 98|4|ja|剣風伝奇ベルセルク
+19738|4|ja|剣鬼バルゴ
 15734|4|zh-Hans|剧偶像
 18849|4|zh-Hans|剧场版  闪电十一人 新英雄的序章
 15585|4|zh-Hans|剧场版 BEM ～BECOME HUMAN～
@@ -86025,6 +86043,8 @@
 4734|2|zh-Hans|完美小姐进化论
 6770|4|ja|宗谷物語
 18933|4|zh-Hans|宗门里除了我都是卧底
+19740|4|zh-Hans|宗门里除了我都是卧底 (2025)
+19740|2|zh-Hans|宗门里除了我都是卧底 第二部
 6398|4|ja|宙のまにまに
 19353|4|zh-Hans|定孕成婚
 16487|4|zh-Hans|定海浮生录
@@ -91438,6 +91458,7 @@
 132|4|zh-Hant|獵人X獵人(1999)
 6187|2|zh-Hant|獸之奏者艾琳
 9888|4|zh-Hant|獻給某飛行員的戀歌
+19739|4|zh-Hans|玄界之门
 7438|4|zh-Hans|玉响
 10767|4|zh-Hans|玉响/幸福光斑 剧场版:毕业写真
 8234|4|zh-Hans|玉响～hitotose～
