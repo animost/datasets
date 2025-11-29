@@ -1,4 +1,4 @@
-# created: Thu Nov 27 03:00:02 2025
+# created: Fri Nov 28 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -31673,6 +31673,7 @@
 10575|4|ja|LOVE STAGE!! チョットジャナクッテ
 10575|4|en|Love Stage!!: It Wasn`t Just a "Little"
 14919|2|en|Love Story of Cat Spirit
+19743|4|en|Love Through a Prism
 13656|2|en|Love to Lie Angle
 13656|4|en|Love To-Lie-Angle
 11822|4|en|Love Tyrant
@@ -34460,6 +34461,7 @@
 14849|1|x-jat|Meitantei Gordon
 617|1|x-jat|Meitantei Holmes
 617|2|x-jat|Meitantei Houmuzu
+19742|1|x-jat|Meitantei Precure!
 10294|1|x-jat|Meitantei Rascal
 18288|1|x-jat|Meitou "Isekai no Yu" Kaitaku-ki: Arafou Onsen Mania no Tensei Saki wa, Nonbiri Onsen Tengoku Deshita
 18288|2|x-jat|Meitou "Isekai no Yu" Kaitakuki: Around 40 Onsen Mania no Tensei Saki wa, Nonbiri Onsen Tengoku deshita
@@ -43215,6 +43217,7 @@
 7945|2|x-jat|Prism Magical: Prism Generations!
 7945|1|x-jat|Prism Mergical: Prism Generations!
 10515|2|x-jat|Prism Paradise
+19743|1|x-jat|Prism Rondo
 8240|3|x-jat|PRISM S1
 14121|1|x-jat|Prism Season
 6528|2|en|Prison Battleship
@@ -50567,6 +50570,7 @@
 648|2|en|Star Blazers: The Quest for Iscandar
 2814|2|en|Star Blazers: The Quest for Iscandar (movie)
 1586|2|en|Star Demon
+19742|2|en|Star Detective Precure!
 15867|2|en|Star Devourer
 7591|3|ja|Star Driver
 7591|4|en|Star Driver
@@ -79241,6 +79245,7 @@
 14121|4|ja|プリズム・シーズン
 5068|2|ja|プリズム·アーク
 7945|4|ja|プリズム☆ま~じカル PRISM Generations!
+19743|4|ja|プリズム輪舞曲
 10768|5|ja|プリズンスクール
 12007|4|ja|フリップフラッパーズ
 16284|4|ja|プリティーオールフレンズセレクション
@@ -84080,6 +84085,7 @@
 6650|4|ja|名探偵コナン~10年後の異邦人[ストレンジャー]~
 7252|4|ja|名探偵コナンMagic File 2 ~工藤新一 謎の壁と黒ラブ事件~
 7537|4|ja|名探偵コナンMAGIC FILE 4 ~大阪お好み焼きオデッセイ~
+19742|4|ja|名探偵プリキュア!
 617|4|ja|名探偵ホームズ
 18288|4|ja|名湯『異世界の湯』開拓記 ~アラフォー温泉マニアの転生先は, のんびり温泉天国でした~
 18288|2|zh-Hant|名湯開拓記～30 多歲溫泉狂熱者，轉生到悠閒的溫泉天國～
