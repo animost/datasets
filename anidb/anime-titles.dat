@@ -1,4 +1,4 @@
-# created: Fri Nov 28 03:00:02 2025
+# created: Sat Nov 29 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -18875,6 +18875,7 @@
 9384|2|de|Gintama Movie 2
 18180|1|x-jat|Gintama on Theater 2D: Baragaki Hen
 18556|1|x-jat|Gintama on Theater 2D: Ikkoku Keisei Hen
+19745|1|x-jat|Gintama on Theater 2D: Kintama Hen
 11850|2|x-jat|Gintama OVA: Aizome Kaori Hen
 8126|2|en|Gintama Season 2
 12419|4|en|Gintama Season 4
@@ -20626,6 +20627,8 @@
 271|4|en|Haibane Renmei
 271|4|de|Haibane Renmei - Ailes Grises
 271|4|pl|Haibane renmei: Stowarzyszenie szaropiórych
+19744|1|x-jat|Haibara-kun no Tsuyokute Seishun New Game
+19744|2|en|Haibara`s Teenage New Game+
 8096|3|x-jat|haideka
 8088|1|x-jat|Haido-keibu no Jikenbo: Hitokui-Yama
 14837|1|x-zht|Haier Xiongdi
@@ -34422,6 +34425,7 @@
 17755|1|x-jat|Meitantei Conan: Haibara Ai Monogatari - Kurogane no Mystery Train
 17009|1|x-jat|Meitantei Conan: Halloween no Hanayome
 16841|1|x-jat|Meitantei Conan: Hannin no Hanzawa-san
+19746|1|x-jat|Meitantei Conan: Highway no Tenshi
 14886|1|x-jat|Meitantei Conan: Hiiro no Dangan
 15999|1|x-jat|Meitantei Conan: Hiiro no Fuzai Shoumei
 2647|1|x-jat|Meitantei Conan: Hitomi no Naka no Ansatsusha
@@ -84042,6 +84046,7 @@
 6243|4|ja|名探偵コナン コナンvsキッド 漆黒の狙撃者(スナイパー)
 13605|4|ja|名探偵コナン ゼロの執行人
 16842|4|ja|名探偵コナン ゼロの日常
+19746|4|ja|名探偵コナン ハイウェイの堕
 17009|4|ja|名探偵コナン ハロウィンの花嫁
 867|4|ja|名探偵コナン ベイカー街[ストリート]の亡霊
 867|2|ja|名探偵コナン ベイカー街の亡霊
@@ -90795,6 +90800,7 @@
 1315|4|zh-Hans|火鸟2772: 爱的宇宙空间
 11712|4|ja|灰と幻想のグリムガル
 11712|4|zh-Hans|灰与幻想的格林姆迦尔
+19744|4|ja|灰原くんの強くて青春ニューゲーム
 8088|4|ja|灰土警部の事件簿 人喰山
 271|4|zh-Hans|灰羽联盟
 271|2|zh|灰羽聯盟
@@ -95291,6 +95297,7 @@
 11249|4|ja|銀魂×豆しば
 18180|4|ja|銀魂オンシアター2D バラガキ篇
 18556|4|ja|銀魂オンシアター2D 一国傾城篇
+19745|4|ja|銀魂オンシアター2D 金魂篇
 10917|2|ja|銀魂ジャンプフェスタアニメツアー’ 2014
 17919|2|ja|銀魂まるちばーすアニメ『3年Z組銀八先生』
 10405|4|zh-Hant|銀魂精選集2D影院
