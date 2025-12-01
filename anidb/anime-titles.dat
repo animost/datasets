@@ -1,4 +1,4 @@
-# created: Sat Nov 29 03:00:01 2025
+# created: Sun Nov 30 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8373,6 +8373,7 @@
 3111|1|x-jat|Chargeman Ken!
 3111|4|en|Chargeman Ken!
 6481|2|en|Charger Girl Ju-den Chan
+19747|1|x-jat|Charisma
 3486|4|fr|Charlotte
 3486|4|it|Charlotte
 10997|4|en|Charlotte
@@ -14442,6 +14443,7 @@
 15633|1|x-jat|Eiga Healin` Good Precure: Yume no Machi de Kyun! Tto Go Go! Daihenshin!!
 7620|1|x-jat|Eiga Heartcatch Precure! Hana no Miyako de Fashion Show... Desuka!?
 11155|1|x-jat|Eiga High Speed!: Free! Starting Days
+19749|1|x-jat|Eiga Himitsu no AiPri: Mankai Buzzlume Live
 13926|1|x-jat|Eiga Hugtto! Precure x Futari wa Precure: All Stars Memories
 18848|1|x-jat|Eiga Inazuma Eleven Soushuuhen: Densetsu no Kickoff
 2321|1|x-jat|Eiga Inuyasha: Guren no Houraijima
@@ -15403,6 +15405,7 @@
 6391|2|en|Every Day Mom
 13316|2|en|Everyday High School Girl Project
 19268|1|x-jat|Everyday Host
+19748|1|x-jat|Everyday Host (Zokuhen)
 936|4|en|Everyday Is Sunday
 8168|2|en|Everyday Life
 16121|2|en|Everyday life of Miss M who married into the S family
@@ -25836,6 +25839,7 @@
 16169|4|fr|Jujutsu Kaisen 0
 16169|2|pl|Jujutsu Kaisen 0
 16169|4|pt-BR|Jujutsu Kaisen 0: O Filme
+16169|4|pt|Jujutsu Kaisen 0: O Filme
 16169|4|pl|Jujutsu Kaisen 0: The Movie
 17196|2|x-jat|Jujutsu Kaisen 2
 18835|2|en|Jujutsu Kaisen Compilation Movie
@@ -73943,6 +73947,7 @@
 9415|2|ja|エフィカス この想いを君に...
 18513|4|ja|エフェメール
 19268|4|ja|えぶりでいホスト
+19748|4|ja|えぶりでいホスト (続編)
 9360|4|ja|えほん寄席
 17094|2|ja|エムエフゴースト
 7622|4|ja|えむえむっ!
@@ -74653,6 +74658,7 @@
 6732|4|ja|ガリヴァー奮闘記
 13592|2|ja|カリギュラ
 7270|4|ja|カリグラフィティー
+19747|4|ja|カリスマ
 6909|4|ja|かりた帽子
 2203|4|ja|ガリバーの宇宙旅行
 13158|2|ja|カリバディクス
@@ -89045,6 +89051,7 @@
 9527|4|ja|映画はなかっぱ 花さけ! パッカ~ん ♪蝶の国の大冒険
 10721|4|ja|映画ハピネスチャージプリキュア! 人形の国のバレリーナ
 15633|4|ja|映画ヒーリングっど♥プリキュア ゆめのまちでキュン! っとGoGo! 大変身!!
+19749|4|ja|映画ひみつのアイプリ まんかいバズリウムライブ!
 10227|4|ja|映画プリキュアオールスターズ New Stage 3 永遠のともだち
 11797|4|ja|映画プリキュアオールスターズ みんなで歌う♪奇跡の魔法!
 10941|4|ja|映画プリキュアオールスターズ 春のカーニバル♪
