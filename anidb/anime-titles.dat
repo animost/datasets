@@ -1,4 +1,4 @@
-# created: Mon Dec  1 03:00:02 2025
+# created: Tue Dec  2 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -12194,6 +12194,7 @@
 2528|3|en|Digimon Movie 7
 2528|2|en|Digimon Movie 7: Revival Of The Ancient Digimon
 4771|3|en|Digimon Movie 8
+234|3|x-unk|digimon s1
 19230|3|x-unk|digimon s10
 561|3|x-jat|digimon s2
 562|3|x-jat|digimon s3
@@ -31344,10 +31345,12 @@
 16717|2|en|Lonely Hero Pilot Episode
 16717|2|en|Lonely Hero: Trouble Begin
 18432|4|en|Loner Life in Another World
+19750|1|x-zht|Long Hun
 19517|2|en|Long March to the Stars
 11201|1|x-jat|Long Riders!
 11201|4|en|Long Riders!
 17179|1|x-zht|Long She Yanyi
+19750|2|x-zht|Long Shen Wan Xiang: Long Hun
 16011|2|en|Long Sword
 16851|1|x-zht|Long Wa
 16852|1|x-zht|Long Zai Na Li?
@@ -48385,6 +48388,7 @@
 4622|2|pl|Shin-chan: Imperium dorosłych kontratakuje
 3106|2|pl|Shin-chan: Kasukabe boys w wieczornym słońcu
 4627|4|pl|Shin-chan: Tańcz, amigo!
+19256|4|hi|Shin-chan: The Spicy Kasukabe Dancers in India
 4707|4|pl|Shin-chan: Zamieszanie w Dżungli
 8070|1|x-jat|Shin-Men
 8070|4|ja|SHIN-MEN
@@ -53362,6 +53366,7 @@
 15924|2|en|The Dragon and Freckled Princess
 12359|4|en|The Dragon Dentist
 12359|4|it|The Dragon Dentist
+19750|2|en|The Dragon Spirit
 7209|4|en|The Dream Machine
 17726|4|en|The Dreaming Boy is a Realist
 7209|2|en|The Dreaming Machine
@@ -97193,6 +97198,8 @@
 14626|2|zh-Hans|龙珠超 超级英雄
 14626|4|zh-Hans|龙珠超：超级人造人
 12359|4|zh-Hans|龙的牙医
+19750|2|zh-Hans|龙神万相之龙魂
 1068|4|zh-Hans|龙虎之拳
 5909|2|zh-Hans|龙虎斗
 17179|4|zh-Hans|龙蛇演义
+19750|4|zh-Hans|龙魂
