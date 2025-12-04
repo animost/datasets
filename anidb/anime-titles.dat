@@ -1,4 +1,4 @@
-# created: Tue Dec  2 03:00:02 2025
+# created: Wed Dec  3 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3199,6 +3199,7 @@
 12323|4|en|Aooni the Animation
 12322|4|en|Aooni the Blue Monster: The Animation
 7938|1|x-jat|Aos
+19753|1|x-zht|Aoshi Dan Shen
 18370|1|x-zht|Aoshi Jiuchong Tian
 9541|3|en|AoT
 14444|3|en|AoT 3.5
@@ -11404,6 +11405,7 @@
 2725|2|en|Demonic Armor Cybuster
 19394|2|en|Demonic Records
 10775|1|x-jat|Demonion: Gaiden
+19751|1|x-jat|Demons` Crest
 6284|2|lt|Demonų Valdovai
 4776|4|hu|Démonvadászok - Devil May Cry
 17026|4|da|Den imaginære
@@ -11610,7 +11612,6 @@
 2763|4|fr|Détective Conan : Stratégie en profondeur
 9505|4|fr|Détective Conan : Un détective privé en mer lointaine
 16842|4|fr|Détective Conan : Zero à l`heure du thé
-19551|2|en|Detective Conan (2026)
 304|4|es-419|Detective Conan 1 - Peligro en el rascacielos
 4187|4|es-419|Detective Conan 10 - El réquiem de los detectives (2006)
 4937|4|es-419|Detective Conan 11 - La bandera pirata en el vasto océano
@@ -11681,6 +11682,7 @@
 10290|4|en|Detective Conan: Dimensional Sniper
 12644|4|en|Detective Conan: Episode One - The Great Detective Turned Small
 12644|2|en|Detective Conan: Episode One - The Shrunken Great Detective
+19551|2|en|Detective Conan: Fallen Angel of the Highway
 4504|2|en|Detective Conan: Follow the Vanished Diamond! Conan & Heiji vs. Kid!
 5934|2|en|Detective Conan: Full Score of Fear
 16841|4|es|Detective Conan: Hanzawa el Culpable
@@ -12937,7 +12939,7 @@
 4757|2|en|Doraemon: Nobita`s Dinosaur (2006)
 4757|2|en|Doraemon: Nobita`s Dinosaur 2006
 5047|2|en|Doraemon: Nobita`s Dorabian Nights
-18102|2|en|Doraemon: Nobita`s Earth Symphony
+18102|4|en|Doraemon: Nobita`s Earth Symphony
 6586|2|en|Doraemon: Nobita`s Fantastical Three Musketeers
 5046|2|en|Doraemon: Nobita`s Galactic Express
 6585|4|en|Doraemon: Nobita`s Genesis Diary
@@ -17442,7 +17444,7 @@
 9657|2|en|Gakkatsu! 2nd Season
 9657|2|x-jat|Gakkatsu! Dai 2 Season
 9657|2|x-jat|Gakkatsu! Dai 2 Series
-11656|1|x-jat|Gakken ka Nani ka no Mukashi no Video: Nakayoku Dekiru yo
+11656|1|x-jat|Gakken ka Nanika no Mukashi no Video: Nakayoku Dekiru yo
 10697|2|x-jat|Gakkou Gurashi!
 481|1|x-jat|Gakkou no Kaidan
 8927|1|x-jat|Gakkou no Kaidan (2005)
@@ -21113,7 +21115,7 @@
 11795|1|x-jat|Happiness! Watarase Jun no Karei Naru Ichinichi - Oshimai
 10282|2|x-jat|HappinessCharge Precure!
 3301|3|x-jat|Happy 7
-6632|1|x-jat|Happy Birthday Inochi Kagayaku Toki
+6632|1|x-jat|Happy Birthday: Inochi Kagayaku Toki
 11101|1|x-jat|Happy ComeCome
 10684|2|en|Happy Cooking Graffiti
 7038|1|x-kot|Happy Day
@@ -34398,7 +34400,6 @@
 18350|4|de|Meisterdetektiv Ron Kamonohashi Staffel 2
 19541|3|x-jat|meitabe
 266|1|x-jat|Meitantei Conan
-19551|1|x-jat|Meitantei Conan (2026)
 9181|1|x-jat|Meitantei Conan Bonus File: Fantasista no Hana
 19712|1|x-jat|Meitantei Conan Episode "ZERO": Kudou Shinichi Suizokukan Jiken
 7252|1|x-jat|Meitantei Conan Magic File 2: Kudou Shin`ichi Nazo no Kabe to Kuro Lab Jiken
@@ -34432,6 +34433,7 @@
 17755|1|x-jat|Meitantei Conan: Haibara Ai Monogatari - Kurogane no Mystery Train
 17009|1|x-jat|Meitantei Conan: Halloween no Hanayome
 16841|1|x-jat|Meitantei Conan: Hannin no Hanzawa-san
+19551|1|x-jat|Meitantei Conan: Highway no Datenshi
 19746|1|x-jat|Meitantei Conan: Highway no Tenshi
 14886|1|x-jat|Meitantei Conan: Hiiro no Dangan
 15999|1|x-jat|Meitantei Conan: Hiiro no Fuzai Shoumei
@@ -52994,6 +52996,7 @@
 19011|4|it|The After-Dinner Mysteries
 19011|4|de|The After-Dinner Mysteries
 18443|2|en|The Age of Cosmos Exploration
+19753|2|en|The Alchemist`s Rise
 19323|4|en|The All-devouring Whale: Homecoming
 2300|2|en|The Alps Story: My Annette
 2876|4|en|The Amazing 3
@@ -59106,6 +59109,7 @@
 7348|2|en|World Comes Around
 10212|4|en|World Conquest Zvezda Plot
 17739|1|x-jat|World Dai Star
+19753|2|en|World Defying Dan God
 5920|2|en|World Destruction
 5920|2|x-jat|World Destruction
 5920|2|zh-Hans|World Destruction_毁灭世界的六人
@@ -59158,6 +59162,7 @@
 15322|4|en|World Trigger 2nd Season
 15934|1|x-jat|World Trigger 3rd Season
 15934|4|en|World Trigger 3rd Season
+19752|1|x-jat|World Trigger Reboot
 15322|2|en|World Trigger S2
 15322|2|en|World Trigger Season 2
 10657|2|x-jat|World Trigger: Isekai Kara no Toubousha
@@ -77354,6 +77359,7 @@
 749|4|ja|デビルマンレディー
 18281|4|ja|デブとラブと過ちと!
 10775|4|ja|デモニオン ~外伝~
+19751|4|ja|デモンズ・クレスト
 82|4|ja|デュアル! ぱられルンルン物語
 2910|4|ja|デュエル・マスターズ
 12818|2|ja|デュエル・マスターズ (2017)
@@ -81102,6 +81108,7 @@
 10657|4|ja|ワールドトリガー
 15322|4|ja|ワールドトリガー 2ndシーズン
 15934|4|ja|ワールドトリガー 3rdシーズン
+19752|4|ja|ワールドトリガー REBOOT
 10657|2|ja|ワールドトリガー 異世界からの逃亡者
 13071|4|ja|ワールドフールニュース PART II
 4098|4|ja|ワイルド7
@@ -82443,6 +82450,7 @@
 9785|4|ja|催眠術ZERO
 15289|4|zh-Hant|催眠麥克風
 15289|4|zh-Hans|催眠麦克风
+19753|4|zh-Hans|傲世丹神
 18370|4|zh-Hans|傲世九重天
 18049|4|zh-Hans|傲娇好色
 17075|4|zh-Hans|傲娇恶役大小姐莉泽洛特与实况转播远藤君和解说员小林
@@ -84036,7 +84044,6 @@
 10132|4|ja|名前... それは燃えるいのち
 14849|4|ja|名探偵ゴードン
 266|4|ja|名探偵コナン
-19551|4|ja|名探偵コナン (2026)
 7494|4|ja|名探偵コナン ~KID in TRAP ISLAND~
 8501|4|ja|名探偵コナン ~ロンドンからの㊙指令
 18219|4|ja|名探偵コナン 100万ドルの五稜星
@@ -84058,6 +84065,7 @@
 13605|4|ja|名探偵コナン ゼロの執行人
 16842|4|ja|名探偵コナン ゼロの日常
 19746|4|ja|名探偵コナン ハイウェイの堕
+19551|4|ja|名探偵コナン ハイウェイの堕天使
 17009|4|ja|名探偵コナン ハロウィンの花嫁
 867|4|ja|名探偵コナン ベイカー街[ストリート]の亡霊
 867|2|ja|名探偵コナン ベイカー街の亡霊
