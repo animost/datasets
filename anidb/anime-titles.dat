@@ -1,4 +1,4 @@
-# created: Wed Dec  3 03:00:01 2025
+# created: Thu Dec  4 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -50005,6 +50005,7 @@
 4224|1|x-jat|Soul Link
 4224|4|ja|Soul Link
 18143|2|en|Soul Of Light
+19750|2|en|Soul of the Dragon
 9863|1|x-jat|Soul Reviver
 12331|2|ja|Soul Worker: Your Destiny Awaits
 12742|2|en|Soul: Insert
