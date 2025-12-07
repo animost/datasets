@@ -1,4 +1,4 @@
-# created: Fri Dec  5 03:00:01 2025
+# created: Sat Dec  6 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -22962,6 +22962,7 @@
 8886|3|x-jat|horizon2
 5018|4|en|Horny Ladies and the News
 12609|1|x-jat|Horoscope: Anata no Seiza
+19754|2|en|Horror Collector
 11031|4|en|Horror News
 17092|4|en|Horror of the Underworld
 7743|1|x-jat|Horrorman to Hora Horako
@@ -29546,6 +29547,7 @@
 7618|1|x-jat|Kyou, Koi o Hajimemasu
 7618|2|x-jat|Kyou, Koi wo Hajimemasu
 12851|1|x-jat|Kyoudai Koguma
+19754|1|x-jat|Kyoufu Collector
 5681|1|x-jat|Kyoufu Densetsu Kaiki! Frankenstein
 1107|1|x-jat|Kyoufu no Bio Ningen Saishuu Kyoushi
 9013|1|x-jat|Kyoufu no Kyou-chan
@@ -38145,6 +38147,7 @@
 18249|4|pl|Niech śmierć nas rozdzieli
 11616|1|x-jat|Niedola
 11616|4|ja|Niedola
+9482|2|pl|Niedziela bez Boga
 15996|1|x-jat|Niehime to Kemono no Ou
 2871|4|it|Niente paura c`è Alfred
 18|2|pl|Nieodpowiedzialny kapitan Tylor
@@ -87368,6 +87371,7 @@
 1675|4|ja|恋風
 1675|4|zh-Hans|恋风
 9848|4|ja|恋騎士 Purely☆Kiss The Animation
+19754|4|ja|恐怖コレクター
 1107|4|ja|恐怖のバイオ人間 最終教師
 5681|4|ja|恐怖伝説 怪奇! フランケンシュタイン
 209|4|zh-Hans|恐怖宠物店
