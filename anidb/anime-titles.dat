@@ -1,4 +1,4 @@
-# created: Sat Dec  6 03:00:02 2025
+# created: Sun Dec  7 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3783,7 +3783,7 @@
 3076|1|x-jat|Ashita e Attack!
 3077|1|x-jat|Ashita e Free Kick
 3438|2|x-jat|Ashita Genki
-3438|1|x-jat|Ashita Genki ni Naare!: Hanbun no Satsumaimo
+3438|1|x-jat|Ashita Genki ni Naare! Hanbun no Satsumaimo
 3438|2|x-jat|Ashita Genki ni Nare!: Hanbun no Satsumaimo
 10119|1|x-jat|Ashita Kirarin
 6985|1|x-jat|Ashita no Eleven-tachi
@@ -25108,6 +25108,7 @@
 4293|1|x-jat|Jack to Mame no Ki
 7614|1|x-jat|Jack to Mame no Ki (1989)
 2206|4|es|Jack y la Bruja
+19190|4|en|Jack-of-All-Trades, Party of None
 3484|2|de|Jackie & Jill - Die Bärenkinder vom Berg Tarak
 2292|4|fr|Jackie dans la savane
 3484|4|de|Jackie und Jill - Die Bärenkinder vom Berg Tarak
@@ -29986,6 +29987,7 @@
 366|4|fr|La reine du fond des temps
 17432|2|fr|La renarde nympho des thermes
 10922|2|fr|La renarde oubliée
+8719|4|es-419|La reptante Nyarko
 965|4|fr|La revanche des Gobots
 2643|2|fr|La revanche du Docteur Egui
 679|4|it|La Ricompensa del Gatto
@@ -31866,7 +31868,7 @@
 14829|1|x-zht|Luo Xiao Hei Zhanji
 15253|1|x-zht|Luo Xiao Hei Zhanji (2019)
 16687|1|x-zht|Luo Xiao Hei Zhanji (2021)
-19721|1|x-zht|Luo Xiao Hei Zhanji (2025)
+19721|1|x-zht|Luo Xiao Hei Zhanji 2
 17440|1|x-zht|Luoluo Li Xian Ji
 14465|4|vi|Lướt sóng cùng em
 16854|1|x-zht|Luotuo Xian Wu
@@ -36231,6 +36233,7 @@
 10387|1|x-jat|Mou Hasamazu ni wa Irarenai: Hoshi ni Onegai Shitara Konna ni Okkiku Nacchatta!
 8339|1|x-jat|Mou Hitotsu no Doubutsuen: Zetsumetsu Doubutsu Monogatari
 10315|1|x-jat|Mou Hitotsu no Mirai o.
+19756|1|x-jat|Mou Ichido, Shite Mitai.
 16424|1|x-jat|Mou Ippon!
 8736|1|x-jat|Moudouken Quill no Isshou
 17729|1|x-jat|Mountain
@@ -49892,6 +49895,7 @@
 5261|2|x-jat|Soriton no Akuma
 6046|4|it|Sorridi, Piccola Anna
 486|2|en|Sorrowful Saline
+19755|2|en|Sorry About My Younger Brothers
 8472|2|en|Sorry I Love You: Between of One Year
 629|2|en|Sortie! Machine Robo Rescue
 1307|3|en|SoS
@@ -56720,6 +56724,7 @@
 14693|2|x-jat|Uchi no Musume no Tame Naraba, Ore wa Moshikashitara Maou mo Taoseru Kamo Shirenai.
 13694|1|x-jat|Uchi no Oochopus
 16067|1|x-jat|Uchi no Otouto Maji de Dekain Dakedo Mi ni Konai?
+19755|1|x-jat|Uchi no Otouto-domo ga Sumimasen
 5803|2|ja|Uchi no San Shimai
 16512|1|x-jat|Uchi no Shishou wa Shippo ga Nai
 14952|1|x-jat|Uchi Tama?! Uchi no Tama Shirimasenka?
@@ -61029,6 +61034,7 @@
 957|2|en|Yuusha/Brave Series 8
 9659|3|x-jat|Yuushibu
 10113|2|x-jat|Yuushibu Episode 13
+19190|2|x-jat|Yuusya Party wo Oidasareta Kiyou Bimbou
 9932|1|x-jat|Yuuto-kun ga Iku
 15406|1|x-jat|Yuutousei Ayaka no Uraomote
 1695|1|x-jat|Yuuwaku
@@ -73785,6 +73791,7 @@
 17670|4|ja|うちの会社の小さい先輩の話
 14693|4|ja|うちの娘の為ならば, 俺はもしかしたら魔王も倒せるかもしれない.
 16512|4|ja|うちの師匠はしっぽがない
+19755|4|ja|うちの弟どもがすみません
 16067|4|ja|ウチの弟マジでデカイんだけど見にこない?
 10320|5|ja|うちゅうきょうだい ナンバー・ゼロ
 12827|4|ja|うちゅうひこうしのうた
@@ -80354,6 +80361,7 @@
 16424|4|ja|もういっぽん!
 8339|4|ja|もうひとつのどうぶつえん ~絶滅動物ものがたり~
 10315|4|ja|もうひとつの未来を.
+19756|4|ja|もう一度, してみたい.
 10387|4|ja|もう挟まずにはいられない ~星にお願いしたらこんなにおっきくなっちゃった!
 5595|4|ja|もえがく★5
 1633|4|ja|モエかん THE ANIMATION
@@ -87083,6 +87091,7 @@
 10959|4|ja|心が叫びたがってるんだ.
 10129|4|ja|心のキャッチボール
 10898|4|ja|心の力
+414|4|zh-Hans|心之彼端
 336|4|zh-Hant|心之谷
 15776|4|ja|心予報
 199|2|zh-Hans|心动季节
@@ -88700,6 +88709,7 @@
 18784|4|zh-Hans|无脑魔女 (2024)
 18784|2|zh-Hans|无脑魔女 第二季
 17244|4|zh-Hans|无良公会
+18|4|zh-Hans|无责任舰长
 8732|4|zh-Hans|无责任舰长OVA
 13224|4|zh-Hans|无责任银河☆泰勒
 9015|4|zh-Hans|无赖勇者的鬼畜美学
@@ -88883,6 +88893,7 @@
 4502|2|zh-Hans|星空奇迹
 895|2|zh-Hans|星空清理者
 8592|4|ja|星編
+2745|4|zh-Hans|星舰驾驶员
 13067|2|ja|星色ガールドロップ
 13977|2|ja|星色ガールドロップ 2
 14645|4|zh|星辰变
@@ -93144,8 +93155,8 @@
 14829|4|zh-Hans|罗小黑战记
 15253|4|zh-Hans|罗小黑战记 (2019)
 16687|4|zh-Hans|罗小黑战记 (2021)
-19721|4|zh-Hans|罗小黑战记 (2025)
 16687|2|zh-Hans|罗小黑战记 众生之门篇
+19721|4|zh-Hans|罗小黑战记2
 169|2|zh-Hans|罗德岛战记ova
 137|2|zh-Hans|罗德岛战记TV 英雄骑士传
 6751|2|zh-Hans|罪与罚与赎的少女
