@@ -1,4 +1,4 @@
-# created: Sun Dec  7 03:00:01 2025
+# created: Mon Dec  8 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -7318,7 +7318,7 @@
 15602|1|x-jat|Bungou Stray Dogs Wan!
 15602|4|en|Bungou Stray Dogs Wan!
 19698|1|x-jat|Bungou Stray Dogs Wan! 2
-19698|2|en|Bungou Stray Dogs Wan! 2
+19698|4|en|Bungou Stray Dogs Wan! 2
 12837|1|x-jat|Bungou Stray Dogs: Dead Apple
 12442|1|x-jat|Bungou Stray Dogs: Hitori Ayumu
 15328|1|x-jat|Bungou to Alchemist: Shinpan no Haguruma
@@ -9355,6 +9355,7 @@
 7508|2|it|Code Geass: Akito the Exiled
 7508|4|en|Code Geass: Akito the Exiled
 7508|4|fr|Code Geass: Akito the Exiled
+19757|2|en|Code Geass: Aspar the Star Chaser
 7508|1|x-jat|Code Geass: Boukoku no Akito
 4521|2|vi|Code Geass: Cuộc khởi nghĩa của Lelouch
 5373|2|vi|Code Geass: Cuộc khởi nghĩa của Lelouch R2
@@ -9367,6 +9368,7 @@
 7127|2|en|Code Geass: Hangyaku no Lelouch R2 Special Edition - Zero Requiem
 7126|1|x-jat|Code Geass: Hangyaku no Lelouch Special Edition - Black Rebellion
 7126|2|en|Code Geass: Hangyaku no Lelouch Special Edition - Black Rebellion
+19757|1|x-jat|Code Geass: Hoshi Oi no Aspar
 4521|2|pt-BR|Code Geass: Lelouch da Rebelião
 5373|2|pt-BR|Code Geass: Lelouch da Rebelião R2
 4521|2|es|Code Geass: Lelouch de la Rebelión
@@ -11500,6 +11502,7 @@
 1203|4|de|Der Zauberlehrling
 10565|4|de|Dera von der Südseeinsel
 10565|2|en|Dera-chan of the Southern Island
+8928|4|fr|Des lucioles aux couleurs de l`arc-en-ciel : Les vacances d`été éternelles
 17325|2|fr|Des lycéennes contaminées & conditionnées à l’orgie éternelle
 18047|2|fr|Des nuits sans répit
 3542|2|ja|Des Roses de Bersilles
@@ -13912,7 +13915,6 @@
 14623|4|en|Dropkick on My Devil!! Dash
 15749|4|en|Dropkick on My Devil!! X
 14798|4|en|Dropout Idol Fruit Tart
-19728|2|en|Drops of God
 16843|4|en|Drowning Sorrows in Raging Fire
 6671|3|x-jat|drrr
 10523|3|x-jat|drrr s2
@@ -14894,6 +14896,7 @@
 19387|4|en|Embers
 4234|1|x-jat|Emblem Take 2
 4234|2|x-jat|Emblem Take Two
+19758|4|en|Embrace in the Dark Night
 2600|4|en|Embracing Love
 4828|4|en|Embracing Love - A Cicada in Winter
 15139|4|en|Embracing Those Emotions Forever
@@ -29202,6 +29205,7 @@
 4513|1|x-jat|Kujibiki Unbalance (2006)
 4513|4|en|Kujibiki Unbalance (2006)
 18622|1|x-jat|Kujima Utaeba Ie Hororo
+18622|4|en|Kujima: Why Sing, When You Can Warble?
 6838|1|x-jat|Kujira
 6874|1|x-jat|Kujira (1952)
 1229|1|x-jat|Kujira no Chouyaku
@@ -33736,7 +33740,6 @@
 6434|1|x-jat|Marie & Gali
 7427|1|x-jat|Marie & Gali Ver.2.0
 19465|2|x-jat|Marie Antoinette ni Tensei Shita node, Zenryoku de Guillotine o Kaihi Shimasu
-19627|1|x-jat|Marika Kanri Den
 19730|1|x-jat|Marika-chan no Koukando wa Bukkowarete Iru
 1297|3|x-jat|Marimite
 2025|3|x-jat|marimite haru
@@ -34006,6 +34009,7 @@
 14302|1|x-jat|Matsugae o Musubi
 18177|1|x-jat|Matsuinu
 6639|2|x-jat|Matsumoto Fragment
+19627|1|x-jat|Matsurika Kanri Den
 18827|1|x-jat|Mattaku Saikin no Tantei to Kitara
 18827|3|x-jat|mattan
 11452|1|x-jat|Mattsu to Yanma to Moburi-san 2: Suigun Otakara to Nazotoki no Shimajima
@@ -52126,7 +52130,7 @@
 10767|1|x-jat|Tamayura: Sotsugyou Shashin
 5235|3|x-jat|TAMNM
 18681|1|x-jat|Tamon-kun Ima Docchi!?
-18681|2|en|Tamon`s B-Side
+18681|4|en|Tamon`s B-Side
 14750|4|id|Tampaknya Anak SMA Cemerlang Masih Bisa Hidup Mudah di Dunia Lain
 6644|2|lt|Tamsiau už Juodą: Meteoro Dvyniai
 4353|2|lt|Tamsioji Koplyčia
@@ -53383,6 +53387,7 @@
 7209|2|en|The Dreaming Machine
 8228|4|en|The Dreams of Jinsha
 3476|4|en|The Drop
+19728|4|en|The Drops of God
 2783|4|en|The Duchess of Busty Mounds
 7194|2|en|The Duckling Saves the Day
 16036|4|en|The Duke of Death and His Maid
@@ -59035,6 +59040,7 @@
 15388|2|en|Womanizing Private Tutor`s Cuckoldry Report ~Slutty & Busty Mother & Daughter~
 15388|2|en|Womanizing Private Tutor`s Cuckoldry Report: Indecent and Busty Mother-Daughter Threesome
 2963|4|en|Women at Work
+19758|1|x-zht|Women Zai Heiye Zhong Xiang Yong
 17171|1|x-zht|Womende Dong Ao
 18823|2|x-jat|Wondance
 11433|1|x-jat|Wonder
@@ -63018,6 +63024,7 @@
 2535|2|uk|Джіпанґ
 11481|2|bg|Джокер
 11481|2|bg|Джокер гейм
+18363|2|bg|Джуджуцу Кайсен: Игра на подбор
 14112|2|uk|Джьошіочі! Дівчина впала з 2-го поверху?!
 14112|2|ru|Дзёсиоти: Девушка свалилась со второго этажа!
 2535|2|ru|Дзипанг
@@ -75459,6 +75466,7 @@
 8914|4|ja|コードギアス 反逆のルルーシュ ナナリーinワンダーランド
 15910|4|ja|コードギアス 奪還のロゼ
 12566|4|ja|コードギアス 復活のルルーシュ
+19757|4|ja|コードギアス 星追いのアスパル
 300|4|ja|コートの中の天使達
 11306|4|ja|コーヒータダイク
 11305|4|ja|コーヒーブレイク
@@ -87643,6 +87651,7 @@
 10187|4|zh|我为歌狂
 15771|4|zh-Hans|我为歌狂之旋律重启
 8181|4|zh-Hans|我们仍未知道那天所看见的花的名字.
+19758|4|zh-Hans|我们在黑夜中相拥
 10288|4|zh-Hans|我们大家的河合庄
 14289|4|zh-Hans|我们无法一起学习
 13389|4|zh-Hans|我们是妖怪人间
