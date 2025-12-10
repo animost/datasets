@@ -1,4 +1,4 @@
-# created: Mon Dec  8 03:00:02 2025
+# created: Tue Dec  9 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -11975,6 +11975,7 @@
 11068|1|x-jat|Diabolik Lovers More, Blood
 11068|3|x-jat|diaboliklovers2
 7069|4|ja|Diabolus 鬼哭
+7069|4|zh-Hans|Diabolus 鬼哭
 7069|1|x-jat|Diabolus: Kikoku
 9717|3|x-jat|dialover
 11491|3|x-jat|dialover ova
@@ -46517,6 +46518,7 @@
 16635|1|x-zht|San San Di Shenghuo Guoran You Wenti
 18842|1|x-zht|San Shaonu
 17778|1|x-zht|San Ti
+19759|2|x-zht|San Xian Lun Hui
 18585|2|x-zht|San Xiu Zhi Wang
 18585|1|x-zht|San Xiuzhi Wang
 6466|2|tr|Sana Ulaşmak
@@ -46613,6 +46615,8 @@
 18487|1|x-jat|Santa-san e no okuri mono
 18486|1|x-jat|Santa-san ga Futari Ita
 7865|1|x-jat|Santa-san to Tonakai Kuppi
+19759|1|x-zht|Sanxian Lun Hui
+19759|2|x-zht|Sanxian Lunhui
 11146|1|x-jat|Sanzoku Diary
 10421|1|x-jat|Sanzoku no Musume Ronja
 8692|3|ja|SAO
@@ -47047,6 +47051,7 @@
 1895|2|en|Secrets of Akko-chan (1998)
 1894|2|en|Secrets of Akko-chan 2
 1893|2|en|Secrets of Little Akko
+19759|4|en|Secrets of the Rivers
 18795|4|en|Secrets of the Silent Witch
 16020|4|ro|Secția de Extragere a Spermei
 10596|4|hr|Sedam smrtnih grijeha
@@ -54951,6 +54956,7 @@
 18379|2|en|Three Thousand Roads 2nd Season
 7224|2|en|Three Way Struggle
 7948|2|en|Three Way Struggle Increases!
+19759|2|en|Three-Line Reincarnation
 14584|2|en|Three-shot Interview: Chaining Humiliation - School of Training
 6785|2|en|Thriller Restaurant
 14577|2|en|Throne of Elves
@@ -57142,6 +57148,7 @@
 10800|4|ja|UNDER THE DOG
 10800|1|x-jat|Under the Dog
 8112|2|en|Under the Innocent Sky
+19759|2|en|Under the Three Rivers
 6099|1|x-jat|Under World
 4598|1|x-jat|Underbar Summer
 14387|1|x-kot|Underdog
@@ -70086,6 +70093,7 @@
 13533|4|ko|데이트 어 라이브 III
 10688|2|ko|데이트 어 라이브: 마유리 저지먼트
 13551|2|ko|도S 학생회장님은 M
+19543|2|ko|도S한 펫
 12031|4|ko|도검난무 하나마루
 15659|4|ko|도게자로 부탁해봤다
 9633|4|ko|도깨비 감투
@@ -71727,6 +71735,7 @@
 11985|4|x-kot|우라라 미로첩
 13035|4|ko|우라하라
 1691|2|ko|우로츠키
+19643|2|ko|우르르르! 폭유 갸루 하렘 성생활
 16067|2|ko|우리 동생 진짜 큰데 보러 안 올래?
 14693|2|ko|우리 딸을 위해서라면, 나는 마왕도 쓰러뜨릴 수 있을지 몰라.
 14026|4|ko|우리 메이드가 너무 짜증나!
@@ -81472,6 +81481,7 @@
 14165|4|zh-Hant|三次元女友
 11654|4|zh|三毛流浪记
 7533|4|ja|三毛猫ホームズの幽霊城主
+19759|4|zh-Hans|三线轮洄
 11568|4|zh-Hans|三者三叶
 11568|4|ja|三者三葉
 11568|2|zh-Hant|三者三葉
@@ -82578,6 +82588,7 @@
 12851|4|ja|兄弟こぐま
 9436|4|zh-Hans|兄弟战争
 11325|4|ja|兄貴の嫁さんなら, 俺にハメられてヒイヒイ言ってるところだよ
+9526|4|zh-Hans|先破处后NTR
 15621|4|ja|先輩がうざい後輩の話
 17945|4|ja|先輩はおとこのこ
 17945|6|ja|先輩はおとこのこ this is him (can`t be anyone else)
@@ -83829,6 +83840,7 @@
 8249|4|ja|印ストール
 16665|4|ja|印西あるある物語
 13579|4|zh-Hant|印順導師傳
+10307|4|zh-Hans|危机！-复仇·暗黑网站
 19413|2|ja|危険な森 おにごっこ
 19413|4|ja|危険な森 鬼ごっこ
 10395|4|zh-Hant|即使如此世界依然美麗
@@ -84443,6 +84455,7 @@
 18225|4|zh-Hant|單人房、日照一般、附天使。
 10023|4|zh-Hant|單色小姐
 10507|4|ja|喰ヒ人
+10507|4|zh-Hans|喰客
 6113|4|ja|喰霊 -零-
 6788|4|zh-Hans|喵丸侦探基尔米
 16764|4|zh-Hans|喵千岁的成年礼
@@ -84829,6 +84842,7 @@
 8247|4|ja|変身合体!!5つの熱き魂
 1087|4|zh|复仇天使
 1087|4|zh-Hans|复仇天使
+2697|4|zh-Hans|复仇学园
 10281|4|zh-Hans|复仇者联盟：光盘战争
 4113|2|zh-Hans|复生的天空
 15518|4|ja|夏が終わるまで The Animation
@@ -85596,6 +85610,7 @@
 12041|4|ja|好きになるその瞬間を. ~告白実行委員会~
 17820|3|ja|好きめが
 18417|4|ja|好みじゃないけど-ムカつく姉と相性抜群エッチ-
+2173|4|zh-Hans|好奇的心情
 3485|4|zh|好小子
 6466|4|zh-Hans|好想告诉你
 8014|2|zh-Hans|好想告诉你 2nd
@@ -85825,6 +85840,7 @@
 14724|4|ja|姫様LOVEライフ!
 4240|4|ja|姫様ご用心
 9033|4|ja|姫様限定!
+2176|4|zh-Hans|姫辱
 2176|2|ja|姫辱 -プリンセスダブル狩り-
 2176|4|ja|姫辱 プリンセスダブル狩り
 5639|2|ja|姫騎士アンジェリカ
@@ -85886,6 +85902,7 @@
 10618|4|ja|学の夏休み
 13023|3|ja|学ベビ
 14001|4|zh-Hans|学园BASARA
+11118|4|zh-Hans|学园中暂停时间
 4125|2|zh-Hans|学园乌托邦 - 学美向前冲
 2648|4|zh-Hans|学园便利屋
 3993|4|zh-Hans|学园双娇娃
@@ -86035,6 +86052,7 @@
 5848|4|ja|宇宙海賊サラ
 1469|4|ja|宇宙海賊ミトの大冒険
 1470|4|ja|宇宙海賊ミトの大冒険 2人の女王様
+5848|4|zh-Hans|宇宙海贼萨拉
 403|2|zh-Hant|宇宙特警
 630|2|zh-Hans|宇宙的星路
 5813|4|ja|宇宙皇子
@@ -86903,6 +86921,7 @@
 15481|2|zh-Hans|异世界四重奏 3
 17507|2|zh-Hans|异世界失格
 12562|4|zh-Hans|异世界居酒屋～古都阿伊特力亚的居酒屋「阿信」
+17242|4|zh-Hans|异世界性爱社团
 17290|4|zh-Hans|异世界悠闲农家
 18295|2|zh-Hans|异世界悠闲纪行 ～边养娃边当冒险者～
 6304|4|zh-Hans|异世界的圣机师物语
@@ -87029,6 +87048,7 @@
 11173|4|zh-Hans|影鳄
 11921|4|zh-Hans|影鳄 承
 6338|4|ja|彷徨う淫らなルナティクス
+6338|4|zh-Hans|彷徨淫乱的疯狂症状
 16971|4|zh-Hans|彻夜之歌
 18531|4|zh-Hans|彻夜之歌 第二季
 15299|4|ja|彼女, お借りします
@@ -87520,6 +87540,7 @@
 9916|4|zh-Hant|惡魔的謎語
 8660|2|zh-Hant|惡魔高校
 8660|2|zh-Hant|惡魔高校D×D
+2514|4|zh-Hans|惩戒
 17482|3|zh-Hans|惩戒2
 11799|4|ja|想いのかけら
 17388|4|ja|想い出のグリーングラス
@@ -90065,6 +90086,7 @@
 17208|2|zh-Hans|欢迎来到实力至上主义教室 第二季
 18361|4|zh-Hans|欢迎来到日本，妖精小姐。
 18361|2|zh-Hans|欢迎来到日本，精灵小姐。
+14592|4|zh-Hans|欢迎来到雏菊处女迷失俱乐部
 18012|4|zh-Hans|欢迎来到驹田蒸馏所
 6114|4|zh-Hans|欧派生活
 10003|2|ja|欲情バズーカ THE ANIMATION
@@ -90576,6 +90598,7 @@
 14519|4|zh-Hans|淫乱的青酱不能学习
 4942|2|ja|淫堕の姫騎士ジャンヌ
 4942|4|ja|淫堕の姫騎士ジャンヌ THE ANIMATION
+4942|4|zh-Hans|淫堕的姫骑士贞德
 1368|2|ja|淫夢 ~生贄の宴~
 1368|4|ja|淫夢~生贄の宴~
 1369|4|ja|淫夢2
@@ -92040,6 +92063,7 @@
 18719|4|zh-Hant|直至魔女消逝
 18719|4|zh-Hans|直至魔女消逝
 16270|4|zh-Hans|相合之物
+2582|4|zh-Hans|相奸连锁
 2582|2|ja|相姦連鎖
 2582|4|ja|相姦連鎖 砂の館 / 歪足
 5289|4|ja|相姦遊戯
@@ -94182,6 +94206,7 @@
 6722|4|zh-Hans|装甲骑兵 佩鲁森档案 剧场版
 7920|4|zh-Hans|装甲骑兵 孤影再临
 5131|2|zh-Hans|装甲骑兵波多姆兹PAILSEN FILES
+5541|4|zh-Hans|装甲骑女伊莉丝
 12273|4|ja|装神少女まとい
 12273|4|zh-Hans|装神少女小缠
 1487|4|ja|装鬼兵MDガイスト
