@@ -1,4 +1,4 @@
-# created: Tue Dec  9 03:00:01 2025
+# created: Wed Dec 10 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4503,6 +4503,7 @@
 17708|1|x-zht|Bai Lian Cheng Shen
 18252|1|x-zht|Bai Lian Cheng Shen 2
 18252|2|x-zht|Bai Lian Cheng Shen 2nd Season
+19761|1|x-zht|Bai Lian Cheng Shen 3
 18252|2|x-zht|Bai Lian Cheng Shen Di Er Ji
 19082|2|x-zht|Bai She 3: Fusheng
 16646|1|x-zht|Bai She II: Qing She Jie Qi
@@ -45894,6 +45895,7 @@
 17078|1|x-jat|Saihate no Paladin: Tetsusabi no Yama no Ou
 18868|3|x-jat|saihito
 11233|1|x-jat|Saijaku Muhai no Bahamut
+19760|1|x-jat|Saijaku na Boku wa "Kabenuke Bug" de Nariagaru: Kabe o Surinuketara, Shokai Clear Houshuu o Mugen Kaishuu Dekimashita!
 17712|1|x-jat|Saijaku Tamer wa Gomi Hiroi no Tabi o Hajimemashita.
 17712|2|x-jat|Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.
 17712|3|x-jat|saijakutamer
@@ -82842,6 +82844,7 @@
 14643|2|zh-Hans|最后的魁拔
 14014|4|zh-Hans|最喜欢的妈妈
 17712|4|ja|最弱テイマーはゴミ拾いの旅を始めました.
+19760|4|ja|最弱な僕は＜壁抜けバグ＞で成り上がる 〜壁をすり抜けたら, 初回クリア報酬を無限回収できました!~
 18675|4|zh-Hans|最弱技能《果实大师》～关于能无限食用技能果实（吃了就会死）这件事～
 18675|4|zh-Hant|最弱技能《果實大師》～關於能無限食用技能果實（吃了就會死）這件事～
 11233|4|zh-Hans|最弱无败神装机龙
@@ -92010,6 +92013,8 @@
 11234|4|zh-Hans|百武装战记
 17708|4|zh-Hans|百炼成神
 18252|4|zh-Hans|百炼成神 第二季
+18252|2|zh-Hans|百炼成神2
+19761|4|zh-Hans|百炼成神3
 13896|4|zh-Hans|百炼霸王与圣约女武神
 3507|4|ja|百獣王 ゴライオン
 2028|2|ja|百舌鳥の贄
