@@ -1,4 +1,4 @@
-# created: Wed Dec 10 03:00:01 2025
+# created: Thu Dec 11 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2605,6 +2605,7 @@
 10871|1|x-jat|Ana no Oku no Ii Tokoro
 9176|3|x-jat|anafuri
 9332|2|id|Anak-anak Bermasalah Datangnya dari Dunia Lain, Kan?
+19762|1|x-jat|Anal Mania Otaku to Ananii Daisuki na Ojou-sama
 3452|4|en|Anal Sanctuary
 8263|2|en|Anal Vampire
 6558|1|x-jat|Anata dake Konbanwa
@@ -3247,9 +3248,13 @@
 19444|2|en|Apothecary Diaries Season 3
 13910|2|fr|Apothéoses d’après-cours
 17708|4|en|Apotheosis
-18252|2|en|Apotheosis 2
+18252|4|en|Apotheosis 2
 18252|2|en|Apotheosis 2nd Season
+19761|4|en|Apotheosis 3
+19761|2|en|Apotheosis 3rd Season
 18252|2|en|Apotheosis S2
+19761|2|en|Apotheosis S3
+19761|2|en|Apotheosis Season 3
 15145|3|x-jat|appare
 15145|1|x-jat|Appare Ranman!
 15145|4|de|Appare-Ranman!
@@ -4505,6 +4510,7 @@
 18252|2|x-zht|Bai Lian Cheng Shen 2nd Season
 19761|1|x-zht|Bai Lian Cheng Shen 3
 18252|2|x-zht|Bai Lian Cheng Shen Di Er Ji
+19761|2|x-zht|Bai Lian Cheng Shen Di San Ji
 19082|2|x-zht|Bai She 3: Fusheng
 16646|1|x-zht|Bai She II: Qing She Jie Qi
 19082|1|x-zht|Bai She: Fu Sheng
@@ -13446,6 +13452,7 @@
 14626|4|de|Dragon Ball Super: Super Hero
 14626|4|en|Dragon Ball Super: Super Hero
 14626|4|pl|Dragon Ball Super: Super Hero
+14626|4|hu|Dragon Ball Super: Szuperhős
 1530|4|pt-BR|Dragon Ball Z
 1530|4|ro|Dragon Ball Z
 1530|4|hr|Dragon Ball Z
@@ -45897,6 +45904,7 @@
 11233|1|x-jat|Saijaku Muhai no Bahamut
 19760|1|x-jat|Saijaku na Boku wa "Kabenuke Bug" de Nariagaru: Kabe o Surinuketara, Shokai Clear Houshuu o Mugen Kaishuu Dekimashita!
 17712|1|x-jat|Saijaku Tamer wa Gomi Hiroi no Tabi o Hajimemashita.
+19763|1|x-jat|Saijaku Tamer wa Gomi Hiroi no Tabi o Hajimemashita. 2
 17712|2|x-jat|Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.
 17712|3|x-jat|saijakutamer
 19690|3|x-jat|saijo no osewa
@@ -54759,6 +54767,7 @@
 16200|4|en|The Way of the Househusband (2021)
 17643|4|en|The Way of the Househusband (2023)
 17712|4|en|The Weakest Tamer Began a Journey to Pick Up Trash
+19763|2|en|The Weakest Tamer Began a Journey to Pick Up Trash 2
 1234|4|en|The Weathering Continent
 1234|2|fr|The Weathering Continent
 1234|4|de|The Weathering Continent
@@ -73227,6 +73236,7 @@
 6419|4|ja|あなたの知らない看護婦 ~性的病棟24時~
 11404|4|ja|あなたもロボットになれる feat. かもめ児童合唱団
 11054|4|ja|あなたをずっとあいしてる
+19762|4|ja|アナルマニアオタクとアナニー大好きなお嬢様
 5211|4|ja|アニ*クリ15
 14820|4|ja|アニ×パラ
 10058|4|ja|アニサバ
@@ -82844,6 +82854,7 @@
 14643|2|zh-Hans|最后的魁拔
 14014|4|zh-Hans|最喜欢的妈妈
 17712|4|ja|最弱テイマーはゴミ拾いの旅を始めました.
+19763|4|ja|最弱テイマーはゴミ拾いの旅を始めました. 2
 19760|4|ja|最弱な僕は＜壁抜けバグ＞で成り上がる 〜壁をすり抜けたら, 初回クリア報酬を無限回収できました!~
 18675|4|zh-Hans|最弱技能《果实大师》～关于能无限食用技能果实（吃了就会死）这件事～
 18675|4|zh-Hant|最弱技能《果實大師》～關於能無限食用技能果實（吃了就會死）這件事～
@@ -92012,6 +92023,7 @@
 10611|4|zh-Hans|百日红
 11234|4|zh-Hans|百武装战记
 17708|4|zh-Hans|百炼成神
+19761|2|zh-Hans|百炼成神 第三季
 18252|4|zh-Hans|百炼成神 第二季
 18252|2|zh-Hans|百炼成神2
 19761|4|zh-Hans|百炼成神3
