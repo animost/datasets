@@ -1,4 +1,4 @@
-# created: Thu Dec 11 03:00:01 2025
+# created: Fri Dec 12 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -10718,6 +10718,7 @@
 1322|4|pl|Daphne
 1322|4|en|Daphne in the Brilliant Blue
 642|3|en|DAQ
+19764|2|en|Dara-san of Reiwa
 883|1|x-jat|Daraku
 12990|1|x-jat|Daraku Reijou The Animation
 1211|1|x-jat|Daraku: Onna Kyoushi Hakai
@@ -14272,7 +14273,7 @@
 1852|4|fr|Échanges de corps
 7946|1|x-jat|Echigo no Mukashibanashi: Attaten Ganoo
 13176|3|x-jat|echuuni movie
-19446|2|en|Eclipse of Illusion
+19446|4|en|Eclipse of Illusion
 13544|2|fr|École aux dames plantureuses – Le mouvement imparable des vierges
 11873|2|fr|Écolière à la taille de guêpe
 8599|1|x-jat|Ecophan
@@ -18556,6 +18557,7 @@
 1003|3|x-jat|ggr
 1003|3|x-jat|ggrave
 834|3|x-jat|GGTV
+17146|3|en|GGWP
 4564|3|x-jat|GH
 5127|3|x-jat|gh tv
 7940|4|en|Ghastly Prince Enma Burning Up
@@ -43492,6 +43494,8 @@
 10066|4|zh|PSYCHO-PASS心靈判官劇場版
 4532|2|x-jat|Psychoarmor Gobarian
 10877|2|en|Psychosomatic Medicine Explained Through Anime
+19765|1|x-jat|Psyren
+19765|4|ja|PSYЯEN
 1351|4|pl|Pszczółka Maja
 3663|4|pl|Pszczółka Maja (1982)
 751|3|en|pt2
@@ -44676,6 +44680,7 @@
 1600|4|fr|Reines, princesses et soumission
 2017|1|x-jat|Reinou Tantei Miko
 14399|2|ja|Reipu Gouhouka!!
+19764|1|x-jat|Reiwa no Dara-san
 16381|1|x-jat|Reiwa no Di Gi Charat
 13747|2|x-jat|Reizou Kono Kuni no Cocomong
 14095|2|x-jat|Reizou Kono Kuni no Cocomong 2
@@ -75821,6 +75826,7 @@
 11169|4|ja|サイボーグ009VSデビルマン
 1341|4|ja|サイボーグクロちゃん
 1796|4|ja|サイボットロボッチ
+19765|2|ja|サイレン
 18795|4|ja|サイレント・ウィッチ 沈黙の魔女の隠しごと
 5885|2|ja|サイレントチェイサー カガミ
 5885|2|ja|サイレントチェイサー狩神
@@ -81201,6 +81207,7 @@
 18545|4|ja|わたしの幸せな結婚 わたしの幸せのかたち
 12633|4|ja|わたしの紙風船
 12599|4|ja|わたしは「とうふ」です
+18942|3|ja|わたたべ
 19001|3|ja|わたなれ
 16399|4|ja|ワッチャプリマジ!
 5553|4|ja|ワット・ポーとぼくらのお話
@@ -82138,6 +82145,7 @@
 4234|4|ja|代紋(エンブレム) TAKE2
 4234|4|zh-Hans|代纹TAKE2
 8748|4|zh-Hans|令人战栗的日本昔话
+19764|4|ja|令和のダラさん
 16381|4|ja|令和のデ・ジ・キャラット
 16381|4|zh-Hant|令和的鈴鐺貓娘
 16381|4|zh-Hans|令和的铃铛猫娘
