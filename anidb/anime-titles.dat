@@ -1,4 +1,4 @@
-# created: Sat Dec 13 03:00:02 2025
+# created: Sun Dec 14 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -14405,6 +14405,7 @@
 10252|1|x-jat|Eiga Crayon Shin-chan: Gachinko! Gyakushuu no Robo Tou-chan
 15060|1|x-jat|Eiga Crayon Shin-chan: Gekitotsu! Rakugaki Kingdom to Hobo Yonin no Yuusha
 4703|1|x-jat|Eiga Crayon Shin-chan: Henderland no Daibouken
+19766|1|x-jat|Eiga Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation
 17028|1|x-jat|Eiga Crayon Shin-chan: Mononoke Ninja Chinfuuden
 15923|1|x-jat|Eiga Crayon Shin-chan: Nazo Meki! Hana no Tenkasu Gakuen
 10843|1|x-jat|Eiga Crayon Shin-chan: Ora no Hikkoshi Monogatari - Saboten Dai Shuugeki
@@ -24754,6 +24755,7 @@
 7723|4|pl|Iron Man
 1670|2|en|Iron Man 28
 1673|2|en|Iron Man 28 FX
+9468|4|pt|Iron Man: A Ascenção de Technovore
 9468|1|x-jat|Iron Man: Rise of Technovore
 9468|4|en|Iron Man: Rise of Technovore
 3579|2|en|Iron Story
@@ -51709,6 +51711,7 @@
 14451|2|x-jat|Sylvanian Families: Mini Story - Ivy
 17020|1|x-jat|Sylvanian Families: Mini Story - Peony
 14451|1|x-jat|Sylvanian Families: Mini Story - Season 2
+17987|4|en|Sylvanian Families: The Movie - A Gift from Freya
 8709|4|en|Symphogear
 8709|4|de|Symphogear
 9465|3|x-jat|Symphogear 2
@@ -56107,6 +56110,7 @@
 2069|2|en|Transformers: The Japanese Collection – Super-God Masterforce
 2065|2|en|Transformers: The Japanese Collection – Victory
 2065|4|en|Transformers: Victory
+19767|1|x-jat|Transformers: Wild King
 2103|4|en|Transformers: Zone
 13090|2|en|Transforming Girls
 4192|2|en|Transparent Human
@@ -77804,6 +77808,7 @@
 2806|4|ja|トランスフォーマー ギャラクシーフォース
 1342|4|ja|トランスフォーマー スーパーリンク
 7924|2|ja|トランスフォーマー ロボットマスターズ
+19767|4|ja|トランスフォーマー ワイルドキング
 3393|4|ja|トランスフォーマー・カーロボット
 2077|4|ja|トランスフォーマー・ザ・ヘッドマスターズ
 2069|4|ja|トランスフォーマー・超神マスターフォース
@@ -89115,6 +89120,7 @@
 10252|4|ja|映画クレヨンしんちゃん ガチンコ! 逆襲のロボとーちゃん
 9542|4|ja|映画クレヨンしんちゃん バカうまっ! B級グルメサバイバル!!
 17028|4|ja|映画クレヨンしんちゃん もののけニンジャ珍風伝
+19766|4|ja|映画クレヨンしんちゃん 奇々怪々! オラの妖怪バケ~ション
 8115|4|ja|映画クレヨンしんちゃん 嵐を呼ぶ黄金のスパイ大作戦
 14474|4|ja|映画クレヨンしんちゃん 新婚旅行ハリケーン ~失われたひろし~
 15060|4|ja|映画クレヨンしんちゃん 激突! ラクガキングダムとほぼ四人の勇者
