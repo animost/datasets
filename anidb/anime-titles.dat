@@ -1,4 +1,4 @@
-# created: Mon Dec 15 03:00:02 2025
+# created: Tue Dec 16 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8280,6 +8280,7 @@
 15914|1|x-jat|Chainsaw Man
 15914|4|en|Chainsaw Man
 15914|4|pl|Chainsaw Man
+18324|4|es|Chainsaw Man - La Película: El Arco de Reze
 18324|4|de|Chainsaw Man - The Movie: Reze Arc
 18324|4|fr|Chainsaw Man – Le Film : L`arc de Reze
 19560|2|en|Chainsaw Man Compilation Movies
@@ -24763,6 +24764,7 @@
 7453|2|en|Iron Vendetta
 1828|4|en|Iron Virgin Jun
 1828|1|x-jat|Iron Virgin Jun
+19768|2|en|Iron Wok Jan!
 3563|2|en|Ironfist Chinmi
 7723|2|ja|Ironman
 9643|2|en|Ironman 007
@@ -52882,6 +52884,7 @@
 5197|1|x-jat|Tetsuko no Tabi
 5197|2|en|Tetsuko`s Travels
 5881|2|x-jat|Tetsukuzu Monogatari
+19768|1|x-jat|Tetsunabe no Jan!
 4188|1|x-jat|Tetsuro no Kanata
 19632|1|x-jat|Tetsuryo! Meet with Tetsudou Musume
 1440|1|x-jat|Tetsuwan Atom
@@ -95361,6 +95364,7 @@
 7013|4|ja|鉄腕バーディー DECODE -THE CIPHER-
 6120|4|ja|鉄腕バーディー DECODE:02
 4188|4|ja|鉄路の彼方
+19768|4|ja|鉄鍋のジャン!
 10746|4|ja|鉱国のプリンセス ディアンシー
 9606|3|ja|銀の匙
 9606|4|ja|銀の匙 Silver Spoon
