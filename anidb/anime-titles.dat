@@ -1,4 +1,4 @@
-# created: Tue Dec 16 03:00:02 2025
+# created: Wed Dec 17 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1051,7 +1051,7 @@
 18914|2|en|A Mild Noble`s Vacation Suggestion
 1836|4|pt|A Minha Amiga Lícia
 18538|4|pt|A Minha Oni
-19564|2|en|A Misanthrope Teaches a Class for Demi-Humans
+19564|4|en|A Misanthrope Teaches a Class for Demi-Humans
 6797|4|pt|A Missão de Salvamento de Pikachu
 18846|4|en|A Moment But Forever
 15425|2|en|A Mortal`s Journey to Immortality Season 1
@@ -2590,6 +2590,7 @@
 4304|1|x-jat|Amy to Yobanaide
 2777|2|lt|Amžina Šeimynėlė
 3533|2|en|An Adventure in the Otaku Galaxy
+19324|4|en|An Adventurer`s Daily Grind at Age 29
 19183|2|en|An Anonymous Life
 1902|2|en|An Apache Baseball Team
 17686|4|en|An Archdemon`s Dilemma: How to Love Your Elf Bride
@@ -3104,7 +3105,7 @@
 2012|4|en|Anyone You Can Do... I Can Do Better!
 5568|2|en|Anyway It Doesn`t Matter
 18506|4|en|Anyway, I`m Falling in Love with You.
-19250|2|en|Anyway, I`m Falling in Love with You. (2026)
+19250|4|en|Anyway, I`m Falling in Love with You. (2026)
 12194|1|x-jat|Anzu-chan
 18502|4|fr|Anzu, chat-fantôme
 18502|4|es|Anzu, gato fantasma
@@ -6466,7 +6467,7 @@
 17954|4|pl|Blue Lock vs. U-20 Japan
 17955|4|en|Blue Lock: Episode Nagi
 18193|4|en|Blue Miburo
-19258|2|en|Blue Miburo: Serizawa Assassination
+19258|4|en|Blue Miburo: Serizawa Assassination
 2467|3|x-jat|Blue Noah
 2467|4|it|Blue Noah - Mare spaziale
 15993|4|pl|Blue Period
@@ -10752,7 +10753,7 @@
 18777|1|x-jat|Dark Machine the Animation
 18869|6|ja|DARK MOON -黒の月:月の祭壇-
 18869|2|x-kot|DARK MOON: Dal-ui Jedan
-18869|2|en|Dark Moon: The Blood Altar
+18869|4|en|Dark Moon: The Blood Altar
 18869|2|en|DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN
 18869|2|x-jat|Dark Moon: Tsuki no Saidan
 18869|4|ko|DARK MOON: 달의 제단
@@ -11049,8 +11050,8 @@
 17643|4|es|De yakuza a amo de casa (2023)
 1319|3|x-jat|DE2
 15848|2|x-jat|dea5
+19209|4|en|Dead Account
 19209|1|x-jat|Dead Account
-19209|2|en|Dead Account
 1806|2|en|Dead Aggressor
 17084|2|en|Dead Aggressor: Behind the Line
 9639|2|en|Dead Aggressor: Exodus
@@ -14244,7 +14245,7 @@
 3957|1|x-jat|Easy Cooking Animation: Seishun no Shokutaku
 3957|2|en|Easy Cooking Animation: Youth`s Dining Table
 14909|2|en|Easy!
-19298|2|en|Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City
+19298|4|en|Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City
 19652|2|en|Eat Around the Mortal World
 1773|4|fr|Eat-man
 1773|1|x-jat|Eat-Man
@@ -16340,11 +16341,11 @@
 15335|4|it|Fire Force - Seconda Stagione
 15335|4|en|Fire Force (2020)
 17420|2|en|Fire Force (2025)
-18742|4|en|Fire Force (2026)
 17420|2|en|Fire Force Chapter Three (2025)
 3286|4|en|Fire Force DNA Sights 999.9
 3286|4|fr|Fire Force DNA Sights 999.9
 17420|4|en|Fire Force Season 3
+18742|4|en|Fire Force Season 3 (2026)
 18742|2|en|Fire Force Season 3 Part 2
 15335|4|de|Fire Force Staffel 2
 17420|4|de|Fire Force Staffel 3
@@ -19458,7 +19459,7 @@
 14995|2|en|Golden Kamuy 3
 14995|2|x-jat|Golden Kamuy 3rd Season
 17023|2|en|Golden Kamuy 4
-18081|2|en|Golden Kamuy Final Chapter
+18081|4|en|Golden Kamuy Final Season
 14085|1|x-jat|Golden Kamuy OAD
 18081|1|x-jat|Golden Kamuy Saishuushou
 19475|1|x-jat|Golden Kamuy: Sapporo Beer Koujou Hen
@@ -24299,7 +24300,7 @@
 3184|4|en|In the Beginning: Stories from the Bible
 3184|2|en|In the Beginning: Stories from the Old Testament
 17761|4|en|In the Big Yard Inside the Teeny-Weeny Pocket
-19325|2|en|In the Clear Moonlit Dusk
+19325|4|en|In the Clear Moonlit Dusk
 1436|2|en|In the clutches of the sect
 17741|2|en|In the end, the Witch and that Customer
 16966|4|en|In the Heart of Kunoichi Tsubaki
@@ -25776,6 +25777,7 @@
 13181|2|fi|Joulupukin tunturi ja tonttumetsä
 16035|1|x-jat|Jouran: The Princess of Snow and Blood
 14716|2|en|Journal of the Mysterious Creatures
+18610|4|en|Journal with Witch
 8073|2|en|Journey to Agartha
 18221|1|x-jat|Journey to Bloom
 18221|4|ja|Journey to Bloom
@@ -25871,10 +25873,10 @@
 17196|2|x-jat|Jujutsu Kaisen S2
 17196|2|x-jat|Jujutsu Kaisen Season 2
 18835|2|x-jat|Jujutsu Kaisen: Ball/Break
-18363|2|en|Jujutsu Kaisen: Culling Game
 18835|4|de|JUJUTSU KAISEN: Der versteckte Schatz / Der verdorbene Schatz – Der Film
 18835|4|en|JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie
 18363|1|x-jat|Jujutsu Kaisen: Shimetsu Kaiyuu
+18363|4|en|Jujutsu Kaisen: The Culling Game
 18854|3|x-jat|jukishi
 13419|1|x-jat|Jukujo Shigan
 3667|4|fr|Julie et Stéphane
@@ -27025,7 +27027,7 @@
 14600|1|x-jat|Kawauso Labo
 18339|4|x-jat|Kay-chan no Enikki
 18339|4|en|Kay`s Daily Doodles
-18956|2|en|Kaya-chan Isn`t Scary
+18956|4|en|Kaya-chan Isn`t Scary
 18956|1|x-jat|Kaya-chan wa Kowakunai
 12523|4|tr|Kayıp Şarkı
 8486|1|x-jat|Kayoe! Chuugaku
@@ -27363,7 +27365,6 @@
 1552|4|fr|Keroro - Mission Titar
 7246|2|en|Keroro Gunso the Super Movie: Creation! Ultimate Keroro, Wonder Space-Time Island
 1552|1|x-jat|Keroro Gunsou
-19432|1|x-jat|Keroro Gunsou (2026)
 4818|2|x-jat|Keroro Gunsou Movie 2
 5956|2|en|Keroro Gunsou Movie 3
 3569|2|x-jat|Keroro Gunsou the Movie
@@ -34800,8 +34801,8 @@
 17094|4|en|MF Ghost
 18327|1|x-jat|MF Ghost 2nd Season
 18327|4|en|MF Ghost 2nd Season
+19071|4|en|MF Ghost 3rd Season
 19071|1|x-jat|MF Ghost 3rd Season
-19071|2|en|MF Ghost 3rd Season
 18327|2|en|MF Ghost Season 2
 4106|3|ja|MF5
 14622|3|fr|MFKZ
@@ -36836,7 +36837,7 @@
 18199|4|fr|My Hero Academia: UA Heroes Battle
 19069|4|de|My Hero Academia: Vigilantes
 19069|4|en|My Hero Academia: Vigilantes
-19423|2|en|My Hero Academia: Vigilantes (2026)
+19423|4|en|My Hero Academia: Vigilantes (2026)
 15873|4|en|My Hero Academia: World Heroes` Mission
 15873|4|fr|My Hero Academia: World Heroes` Mission
 18150|4|en|My Hero Academia: You`re Next
@@ -38609,7 +38610,7 @@
 18328|2|en|Noble Farmer 2nd Season
 19065|2|en|Noble Farmer 3rd Season
 17552|4|fr|Noble New World Adventures
-19087|2|en|Noble Reincarnation: Born Blessed, So I`ll Obtain Ultimate Power
+19087|4|en|Noble Reincarnation: Born Blessed, So I`ll Obtain Ultimate Power
 15409|1|x-jat|Noblesse
 15409|4|en|Noblesse
 15409|4|ja|NOBLESSE
@@ -41901,7 +41902,6 @@
 3293|2|x-jat|Playball
 12214|1|x-jat|Playground
 12214|4|ja|PLAYGROUND
-18845|2|en|Playing Death Games to Put Food on the Table
 9769|2|en|Playtime for Everyone: Anpanman and the Mischievous Ghost
 13826|3|x-jat|pldr
 12147|1|x-jat|Ple Ple Pleiades
@@ -47758,6 +47758,7 @@
 1612|3|x-jat|SGG S2
 12502|3|x-jat|sgs
 1552|4|en|Sgt. Frog
+19432|2|en|Sgt. Frog the Movie: The Earth is in Mortal Peril as Soon as We Come Back!
 5269|3|x-jat|sgtv
 881|3|x-jat|SGvNG
 881|3|x-jat|SGvsNG
@@ -48132,6 +48133,7 @@
 4296|2|en|Shibawanko`s Spirit of Wa
 18845|1|x-jat|Shibou Yuugi de Meshi o Kuu.
 18845|2|x-jat|Shibou Yuugi de Meshi wo Kuu.
+18845|4|en|Shiboyugi: Playing Death Games to Put Food on the Table
 18492|1|x-jat|Shibuya Hachi
 18822|1|x-jat|Shibuya Hachi (2024)
 19274|1|x-jat|Shibuya Hachi (2025)
@@ -48295,6 +48297,7 @@
 1452|2|x-jat|Shin Gegege no Kitarou
 19528|1|x-jat|Shin Gekijouban Gintama: Yoshiwara Dai Enjou
 9987|1|x-jat|Shin Gekijouban Initial D
+19432|1|x-jat|Shin Gekijouban Keroro Gunsou: Fukkatsu Shite Sokkou Chikyuu Metsubou no Kiki de Arimasu!
 16062|1|x-jat|Shin Gengou Nyankogelion
 1838|1|x-jat|Shin Getter Robo
 881|1|x-jat|Shin Getter Robo Tai Neo Getter Robo
@@ -53271,7 +53274,7 @@
 1525|4|en|The Dagger of Kamui
 615|4|en|The Daichis - Earth`s Defense Family
 18818|4|en|The Daily Life of a Middle-Aged Online Shopper in Another World
-19324|4|en|The Daily Life of a Single 29-Year-Old Adventurer
+19399|4|en|The Daily Life of a Part-time Torturer
 14718|4|en|The Daily Life of the Immortal King
 16359|4|en|The Daily Life of the Immortal King (2021)
 18217|2|en|The Daily Life of the Immortal King 4
@@ -53338,7 +53341,7 @@
 18764|2|en|The Demon Hunter Special
 18764|4|en|The Demon Hunter: Dongning Mansion Special
 19154|2|en|The Demon King Who Lost His Job
-19398|2|en|The Demon King`s Daughter Is Too Kind!!
+19398|4|en|The Demon King`s Daughter Is Too Kind!!
 18119|4|en|The Demon Prince of Momochi House
 16921|4|en|The Demon Sword Master of Excalibur Academy
 14860|2|en|The Demonic King Who Chases His Wife
@@ -53689,7 +53692,7 @@
 7382|4|pt|The Highschool of The Dead - A Escola dos Mortos
 4078|4|en|The Hills Have Size
 9058|2|en|The Himalayan Kingdom of Light
-18938|2|en|The Holy Grail of Eris
+18938|4|en|The Holy Grail of Eris
 15952|4|en|The Honor at Magic High School
 15952|4|de|The Honor at Magic High School
 15952|2|en|The Honor Student at Magic High School
@@ -54766,7 +54769,7 @@
 11822|2|ja|The very lovely tyrant of love ♥
 17805|4|en|The Vexations of a Shut-In Vampire Princess
 19534|4|en|The Villager of Level 999
-19512|2|en|The Villainess Is Adored by the Prince of the Neighbor Kingdom
+19512|4|en|The Villainess Is Adored by the Prince of the Neighbor Kingdom
 1297|2|en|The Virgin Mary is Watching Over You
 1297|2|en|The Virgin Mary is watching you
 2025|2|en|The Virgin Mary is watching you: Spring
@@ -56574,7 +56577,7 @@
 18847|4|pt|Túmulo dos Deuses Caídos 2
 15867|2|x-zht|Tun Shi Xing Kong
 19342|1|x-zht|Tun Tian Ji
-19210|2|en|Tune In to the Midnight Heart
+19210|4|en|Tune In to the Midnight Heart
 11784|2|vi|Tung tiền hữu tọa linh kiếm sơn
 17040|4|de|Tunnel to Summer
 15867|1|x-zht|Tunshi Xingkong
@@ -58477,7 +58480,7 @@
 275|2|sv|Warriors of the Wind
 10438|3|x-jat|warubure
 14847|1|x-jat|Warui no o taose! ! Salaryman Man
-19373|2|en|Wash It All Away
+19373|4|en|Wash It All Away
 14698|2|en|Washer! She and I in the Women`s Bath!?
 10422|1|x-jat|Washimo
 11007|2|x-jat|Washimo (2015)
@@ -75463,7 +75466,6 @@
 808|4|ja|ケロケロちゃいむ
 1811|4|ja|けろっこデメタン
 1552|4|ja|ケロロ軍曹
-19432|4|ja|ケロロ軍曹 (2026)
 12748|4|ja|ケンカのあとは
 11216|4|ja|ケンガンアシュラ
 17274|4|ja|ケンガンアシュラ (2023)
@@ -87939,6 +87941,7 @@
 4251|4|zh-Hans|战乙女瓦尔基里 真章
 5983|4|zh-Hans|战乙女瓦尔基里2
 9198|4|zh-Hans|战乙女瓦尔基里G
+5628|4|zh-Hans|战乙女苏菲亚
 6761|4|zh-Hans|战争童话集 小潜水艇和大鲸鱼的恋爱物语
 13036|4|zh-Hans|战刻夜想曲
 9393|4|zh-Hans|战勇。
@@ -88297,6 +88300,7 @@
 16035|4|ja|擾乱 THE PRINCESS OF SNOW AND BLOOD
 15519|4|zh-Hans|攀岩！ -Sport Climbing Girls-
 15519|4|zh-Hant|攀岩少女！
+15417|4|zh-Hans|支配の教坛
 15417|4|ja|支配の教壇
 814|4|ja|支配者の黄昏 Twilight Of The Dark Master
 247|3|zh|攻壳
@@ -88662,6 +88666,7 @@
 19528|4|ja|新劇場版 銀魂 -吉原大炎上-
 18032|4|ja|新劇場版 頭文字[イニシャル]D BATTLE DIGEST
 9987|4|ja|新劇場版 頭文字D
+19432|4|ja|新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります!
 14664|4|zh-Hans|新妖怪人间贝姆
 11142|4|ja|新妹魔王の契約者 BURST
 11890|4|ja|新妹魔王の契約者 BURST 東城刃更の至極平和な日常
@@ -91336,6 +91341,7 @@
 5469|4|ja|特別病棟
 17441|4|ja|特別編 響け! ユーフォニアム アンサンブルコンテスト編
 1878|2|zh-Hans|特别授业
+2524|4|zh-Hans|特别授业2
 5469|4|zh|特别病栋
 17441|4|zh-Hans|特别篇 吹响吧！上低音号～合奏比赛～
 14835|4|zh-Hans|特别车队
@@ -92969,6 +92975,7 @@
 15780|4|ja|紫陽花の散ル頃に
 18496|4|ja|紫雲寺家の子供たち
 18496|4|zh-Hant|紫雲寺家的兄弟姊妹
+5836|4|zh-Hans|紫音
 5223|2|zh-Hans|紫音之王
 11418|4|ja|細菌汚染
 4286|4|ja|紺碧の艦隊
