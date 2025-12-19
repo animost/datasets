@@ -1,4 +1,4 @@
-# created: Wed Dec 17 03:00:02 2025
+# created: Thu Dec 18 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -12945,6 +12945,7 @@
 6593|1|x-jat|Doraemon: Nobita to Ryuu no Kishi
 4674|1|x-jat|Doraemon: Nobita to Tetsujin Heidan
 4967|1|x-jat|Doraemon: Nobita to Tsubasa no Yuusha-tachi
+9528|4|vi|Doraemon: Nobita Và Cuốn Nhật Kí Tương Lai
 6584|2|en|Doraemon: Nobita`s Adventure in Clockwork City
 4673|2|en|Doraemon: Nobita`s Animal Planet
 6585|2|en|Doraemon: Nobita`s Diary of the Creation of the World
@@ -16850,7 +16851,7 @@
 15929|4|ja|from North Field
 12005|2|en|From now, I`m......
 18793|4|en|From Old Country Bumpkin to Master Swordsman
-19400|2|en|From Old Country Bumpkin to Master Swordsman (2026)
+19400|2|en|From Old Country Bumpkin to Master Swordsman II
 1383|4|en|From the Apennines to the Andes
 4751|4|en|From the Apennines to the Andes: The Movie
 9002|4|en|From the New World
@@ -21553,6 +21554,7 @@
 10864|4|fr|Heavy Object
 10864|1|x-jat|Heavy Object
 10864|4|en|Heavy Object
+19769|1|x-jat|Hebi to Kumo
 2241|2|en|Hedgehog Harry
 13428|2|x-zht|Hei Bai Wu Shuang
 16721|1|x-zht|Hei Mao Jing Zhan Zhi Fei Cui Zhi Xing
@@ -26952,7 +26954,7 @@
 13420|1|x-jat|Katainaka ni Totsuide Kita **ssiya Musume to H Shimakuru Ohanashi
 13420|2|x-jat|Katainaka ni Totsuide Kita Russia Musume to H Shimakuru Ohanashi
 18793|1|x-jat|Katainaka no Ossan, Kensei ni Naru
-19400|1|x-jat|Katainaka no Ossan, Kensei ni Naru (2026)
+19400|1|x-jat|Katainaka no Ossan, Kensei ni Naru II
 6987|1|x-jat|Kataku: Nou "Motometsuka" yori
 13172|4|en|Katana Maidens
 13172|4|fr|Katana Maidens
@@ -43727,7 +43729,6 @@
 13609|1|x-zht|Qiang Niang
 14160|1|x-zht|Qiang Shen Ji
 14298|2|x-zht|Qiang Shen Ji 2nd Season
-15823|1|x-jat|Qiang Shen Ji 3: Xuezu Mishi Pian
 15824|1|x-jat|Qiang Shen Ji 4: Shenhai Xianluo Pian
 14298|1|x-zht|Qiang Shen Ji: Tegong Shijia Pian
 15764|1|x-zht|Qiang Shen Ji: Xuezu Mishi Pian
@@ -50048,7 +50049,7 @@
 4224|1|x-jat|Soul Link
 4224|4|ja|Soul Link
 18143|2|en|Soul Of Light
-19750|2|en|Soul of the Dragon
+19750|4|en|Soul of the Dragon
 9863|1|x-jat|Soul Reviver
 12331|2|ja|Soul Worker: Your Destiny Awaits
 12742|2|en|Soul: Insert
@@ -89736,7 +89737,6 @@
 10965|4|zh-Hans|枪神斯托拉塔斯
 14160|4|zh-Hans|枪神记
 14298|4|zh-Hans|枪神记 特工世界篇
-15823|4|ja|枪神记 血族秘史篇
 15764|4|zh-Hans|枪神记 血族秘史篇
 8166|4|zh-Hans|架向星空之桥
 8166|4|zh-Hant|架向星空之橋
@@ -91295,7 +91295,7 @@
 13420|4|ja|片田舎に嫁いできた○シア娘とHしまくるお話
 13420|2|ja|片田舎に嫁いできたロシア娘とHしまくるお話
 18793|4|ja|片田舎のおっさん, 剣聖になる
-19400|4|ja|片田舎のおっさん, 剣聖になる (2026)
+19400|4|ja|片田舎のおっさん, 剣聖になるII
 9182|4|ja|片翼のクロノスギア
 4264|2|zh-Hans|牙
 4264|4|zh-Hans|牙 -KIBA-
@@ -94133,6 +94133,7 @@
 9727|4|zh-Hans|虽然是玻璃假面
 17353|4|zh-Hans|虽然等级只有1级但固有技能是最强的
 16895|4|zh-Hans|蚂蚁公主
+19769|4|ja|蛇と蜘蛛
 4919|2|zh-Hans|蛋黄酱萝莉
 8289|4|ja|蛍火の杜へ
 6919|4|ja|蛙の夢
@@ -94454,7 +94455,7 @@
 19386|2|zh-Hans|诛仙 第3季
 19386|4|zh-Hans|诛仙 第三季
 18577|4|zh-Hans|诛仙 第二季
-15835|4|zh|诡水疑云
+15835|4|zh-Hans|诡水疑云
 19357|4|zh-Hans|诡秘之主
 19357|2|zh-Hans|诡秘之主 小丑篇
 14376|4|zh-Hans|请吃红小豆吧!
