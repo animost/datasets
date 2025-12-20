@@ -1,4 +1,4 @@
-# created: Thu Dec 18 03:00:02 2025
+# created: Fri Dec 19 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1149,6 +1149,7 @@
 15473|1|x-jat|A Song for You! You? You!!
 4397|4|en|A Spirit of the Sun
 19145|4|en|A Star Brighter Than the Sun
+19770|2|en|A Star Brighter Than the Sun 2
 10082|4|en|A Starry Tale
 11711|2|en|A Story in Summertime
 13420|2|en|A Story of How a Russian Girl Suddenly Became a Part of My Back-Country Household and How Lots of Sex Ensued
@@ -2057,6 +2058,7 @@
 11995|2|en|Akashic Records of Bastard Magical Instructor
 10725|1|x-jat|Akatsuki no Yona
 11143|1|x-jat|Akatsuki no Yona (2015)
+19771|1|x-jat|Akatsuki no Yona (Zokuhen)
 11143|2|x-jat|Akatsuki no Yona OVA
 11143|2|x-jat|Akatsuki no Yona: Sono Se ni wa
 11143|2|x-jat|Akatsuki no Yona: Zeno Hen
@@ -51929,6 +51931,7 @@
 2209|1|x-jat|Taiyou no Ouji: Horus no Daibouken
 1709|1|x-jat|Taiyou no Yuusha Fighbird
 19145|1|x-jat|Taiyou yori mo Mabushii Hoshi
+19770|1|x-jat|Taiyou yori mo Mabushii Hoshi 2
 40|3|pl|Tajemnica Błękitnego Kamienia
 87|4|pl|Tajemnica przeszłości
 163|4|pl|Tajemnica przeszłości OVA
@@ -60315,6 +60318,7 @@
 8251|2|x-jat|Yon-juu-hachi x Roku-juu-ichi
 10725|4|en|Yona of the Dawn
 11143|2|en|Yona of the Dawn (2015)
+19771|2|en|Yona of the Dawn (Sequel)
 6795|2|x-jat|Yona Yona Penguin
 6795|4|hu|Yona, a pingvinek királynője
 6795|4|fr|Yona, la légende de l`oiseau sans ailes
@@ -85392,6 +85396,7 @@
 331|4|ja|天空の城ラピュタ
 13312|4|zh-Hans|天空与海洋之间
 331|4|zh|天空之城
+331|4|zh-Hans|天空之城
 184|4|zh-Hans|天空之艾斯嘉科尼
 6783|2|zh-Hant|天空之音
 15811|4|ja|天空侵犯
@@ -85458,6 +85463,7 @@
 2209|4|ja|太陽の王子 ホルスの大冒険
 97|2|ja|太陽の船ソルビアンカ
 19145|4|ja|太陽よりも眩しい星
+19770|4|ja|太陽よりも眩しい星 2
 2838|4|ja|太鼓の達人
 11330|4|ja|太鼓の達人15周年記念ショートアニメーション
 17001|4|zh-Hans|夫妇以上，恋人未满。
@@ -89274,6 +89280,7 @@
 11927|4|zh-Hans|智龙迷城X
 10725|4|ja|暁のヨナ
 11143|4|ja|暁のヨナ (2015)
+19771|4|ja|暁のヨナ (続編)
 18997|4|zh-Hans|暂停！智序重组
 17425|4|zh-Hans|暂停！让我查攻略
 11843|4|zh-Hans|暖暖日记
@@ -95603,6 +95610,7 @@
 11495|2|zh|银河英雄传说：全新命题 激战
 15728|2|zh-Hant|银河英雄传说：全新命题 激战 2022
 16863|2|zh-Hans|银河英雄传说：全新命题 策谋
+1307|4|zh-Hans|银河英雄传说:我的征途是星辰大海
 484|4|zh-Hans|银河铁道999
 485|4|zh-Hans|银河铁道999 剧场版
 2033|4|zh-Hans|银河铁道999 永恒幻想
@@ -96643,6 +96651,7 @@
 15202|4|zh-Hans|魔女之旅
 286|3|ja|魔女宅
 286|4|zh|魔女宅急便
+286|4|zh-Hans|魔女宅急便
 18816|2|zh-Hans|魔女守护者
 4966|2|zh-Hans|魔女猎人
 96|2|zh-Hans|魔女猎人罗宾
