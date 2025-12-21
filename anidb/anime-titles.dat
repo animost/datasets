@@ -1,4 +1,4 @@
-# created: Fri Dec 19 03:00:02 2025
+# created: Sat Dec 20 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -23464,6 +23464,7 @@
 17684|1|x-jat|Hyakushou Kizoku
 18328|1|x-jat|Hyakushou Kizoku 2nd Season
 19065|1|x-jat|Hyakushou Kizoku 3rd Season
+19772|1|x-jat|Hyakushou Kizoku 4th Season
 10049|1|x-jat|Hybrid Child
 10049|4|ja|Hybrid Child
 8096|1|x-jat|Hybrid Deka
@@ -34431,7 +34432,6 @@
 19541|3|x-jat|meitabe
 266|1|x-jat|Meitantei Conan
 9181|1|x-jat|Meitantei Conan Bonus File: Fantasista no Hana
-19712|1|x-jat|Meitantei Conan Episode "ZERO": Kudou Shinichi Suizokukan Jiken
 7252|1|x-jat|Meitantei Conan Magic File 2: Kudou Shin`ichi Nazo no Kabe to Kuro Lab Jiken
 8399|1|x-jat|Meitantei Conan Magic File 2011: Niigata - Tokyo Omiyage Capriccio
 7232|1|x-jat|Meitantei Conan Magic File 3: Shin`ichi to Ran Mahjong Pai to Tanabata no Omoide
@@ -38613,6 +38613,7 @@
 17684|2|en|Noble Farmer
 18328|2|en|Noble Farmer 2nd Season
 19065|2|en|Noble Farmer 3rd Season
+19772|2|en|Noble Farmer 4th Season
 17552|4|fr|Noble New World Adventures
 19087|4|en|Noble Reincarnation: Born Blessed, So I`ll Obtain Ultimate Power
 15409|1|x-jat|Noblesse
@@ -52757,10 +52758,10 @@
 15456|1|x-jat|Tensei Shitara Slime Datta Ken (2021 Dai 2 Bu)
 14767|1|x-jat|Tensei Shitara Slime Datta Ken (2021)
 17709|1|x-jat|Tensei Shitara Slime Datta Ken (2024)
+18884|1|x-jat|Tensei Shitara Slime Datta Ken (2026)
 14767|2|x-jat|Tensei Shitara Slime Datta Ken 2nd Season
 15456|2|x-jat|Tensei shitara Slime Datta Ken 2nd Season Part 2
 17709|2|x-jat|Tensei Shitara Slime Datta Ken 3rd Season
-18884|1|x-jat|Tensei Shitara Slime Datta Ken Dai 4 Ki
 14526|2|x-jat|Tensei Shitara Slime Datta Ken OAD
 14526|2|ja|Tensei Shitara Slime Datta Ken OVA
 15456|2|x-jat|Tensei shitara Slime Datta Ken Season 2 Part 2
@@ -52987,8 +52988,8 @@
 15456|4|en|That Time I Got Reincarnated as a Slime (2021 Part 2)
 14767|4|en|That Time I Got Reincarnated as a Slime (2021)
 17709|4|en|That Time I Got Reincarnated as a Slime (2024)
+18884|2|en|That Time I Got Reincarnated as a Slime (2026)
 14767|2|en|That Time I Got Reincarnated as a Slime 2nd Season
-18884|2|en|That Time I Got Reincarnated as a Slime 4
 16776|4|es|That Time I Got Reincarnated as a Slime la película: El vínculo escarlata
 14526|4|en|That Time I Got Reincarnated as a Slime OAD
 16776|4|en|That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond
@@ -59965,6 +59966,7 @@
 5814|1|x-jat|Yankee Reppuu Tai
 18971|1|x-jat|Yano-kun no Futsuu no Hibi
 18971|4|en|Yano-kun`s Ordinary Days
+18971|4|de|Yanos ganz normaler Alltag
 7616|2|x-jat|YANS! GANS!
 15436|1|x-zht|Yao Jing Zhong Zhi Shou Ce
 13191|1|x-zht|Yao Shen Ji
@@ -84149,7 +84151,6 @@
 8534|4|ja|名探偵コナン vs Wooo
 18584|4|ja|名探偵コナン VS. 怪盗キッド
 9152|4|ja|名探偵コナン えくすかりばあの奇跡
-19712|4|ja|名探偵コナン エピソード"ZERO": 工藤新一水族館事件
 12644|4|ja|名探偵コナン エピソードONE 小さくなった名探偵
 12564|4|ja|名探偵コナン から紅の恋歌[ラブレター]
 6242|4|ja|名探偵コナン コナンvsキッド SHARK & JEWEL
@@ -92089,6 +92090,7 @@
 17684|4|ja|百姓貴族
 18328|4|ja|百姓貴族 2nd Season
 19065|4|ja|百姓貴族 3rd Season
+19772|4|ja|百姓貴族 4th Season
 18524|4|zh-Hans|百家诀之江湖诡事录
 12874|4|ja|百年後の或る日
 13912|4|zh-Hans|百慕大三角～Colorful Pastrale～
@@ -94844,8 +94846,8 @@
 15456|4|ja|転生したらスライムだった件 (2021 第2部)
 14767|4|ja|転生したらスライムだった件 (2021)
 17709|4|ja|転生したらスライムだった件 (2024)
+18884|4|ja|転生したらスライムだった件 (2026)
 17873|4|ja|転生したらスライムだった件 コリウスの夢
-18884|4|ja|転生したらスライムだった件 第4期
 15457|4|ja|転生したらスライムだった件 転スラ日記
 19217|4|ja|転生したらドラゴンの卵だった~最強以外目指さねぇ~
 16785|4|ja|転生したら剣でした
