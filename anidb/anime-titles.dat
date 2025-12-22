@@ -1,4 +1,4 @@
-# created: Sat Dec 20 03:00:02 2025
+# created: Sun Dec 21 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1205,6 +1205,7 @@
 15373|4|pl|A Whisker Away
 13365|4|en|A whistle
 18831|4|en|A Wild Last Boss Appeared!
+19777|2|en|A Wild Last Boss Appeared! 2
 15693|4|en|A Will Eternal
 16619|2|en|A Will Eternal 2
 18384|2|en|A Will Eternal 3
@@ -3138,6 +3139,7 @@
 19249|1|x-jat|Ao no Hako 2
 10934|1|x-jat|Ao no Kanata no Four Rhythm
 18193|1|x-jat|Ao no Miburo
+19258|2|x-jat|Ao no Miburo S2
 19258|1|x-jat|Ao no Miburo: Serizawa Ansatsu Hen
 17314|1|x-jat|Ao no Orchestra
 18234|1|x-jat|Ao no Orchestra Season 2
@@ -6939,8 +6941,8 @@
 3142|1|x-jat|Boukensha-tachi: Gamba to Nanbiki no Nakama
 15765|1|x-jat|Boukyaku Battery
 18145|1|x-jat|Boukyaku Battery (2024)
+18979|1|x-jat|Boukyaku Battery (2027)
 18145|2|x-jat|Boukyaku Battery (TV)
-18979|1|x-jat|Boukyaku Battery 2
 1551|1|x-jat|Boukyaku no Senritsu
 2705|4|fr|Boumbo
 1095|4|de|Boundary Between Dream & Reality
@@ -26359,6 +26361,7 @@
 17550|1|x-jat|Kaijuu 8 Gou
 18722|1|x-jat|Kaijuu 8 Gou (2025)
 19471|1|x-jat|Kaijuu 8 Gou Dai 1 Ki Soushuuhen
+19776|1|x-jat|Kaijuu 8 Gou Kanketsuhen
 18722|2|x-jat|Kaijuu 8 Gou Season 2
 19471|2|x-jat|Kaijuu 8-gou - Mission Recon
 19471|2|x-jat|Kaijuu 8-gou Movie
@@ -36311,6 +36314,7 @@
 741|3|en|MPS
 15002|4|en|Mr Love: Queen`s Choice
 3482|4|it|Mr. Baseball
+19773|1|x-jat|Mr. Clice
 8462|2|en|Mr. Dough and the Egg Princess
 12926|1|x-jat|Mr. Empty
 4423|4|de|Mr. Happy und sein steifer Freund
@@ -36329,6 +36333,7 @@
 11631|4|ja|Mr. Shape
 13813|4|en|Mr. Tonegawa Middle Management Blues
 17879|4|en|Mr. Villain`s Day Off
+19773|4|ja|Mr.Clice
 12926|4|ja|Mr.EMPTY
 7363|4|ja|Mr.ペンペン
 7362|4|ja|Mr.ペンペンII
@@ -38008,6 +38013,7 @@
 1498|2|en|New Jungle Emperor, Go Ahead Leo!
 284|3|en|New Kimagure Orange Road
 284|4|en|New Kimagure Orange Road - Summer`s Beginning
+19774|2|en|New Kochikame: Tokyo Beat Cops
 5829|2|en|New Legend of Lyon 2
 5829|2|en|New Legend of Lyon: Another Flare
 1396|2|en|New Legend of Lyon: Jet-black Devil
@@ -39218,7 +39224,7 @@
 17450|2|ja|Obey Me! The Anime Season 2
 1815|2|fr|Objectif planète Terre
 18145|4|en|Oblivion Battery
-18979|2|en|Oblivion Battery 2
+18979|2|en|Oblivion Battery (2027)
 6299|4|en|Oblivion Island: Haruka and the Magic Mirror
 11982|2|pl|Oblubienica czarnoksiężnika
 7284|1|x-jat|Obocchama-kun
@@ -46241,6 +46247,9 @@
 18984|1|x-jat|Sakamoto Days (2025)
 18984|4|ja|SAKAMOTO DAYS (2025)
 18984|4|en|Sakamoto Days (2025)
+19775|1|x-jat|Sakamoto Days 2
+19775|4|ja|SAKAMOTO DAYS 2
+19775|2|en|Sakamoto Days 2
 18984|2|en|Sakamoto Days Part 2
 11881|1|x-jat|Sakamoto Desu ga?
 18654|4|hu|Sakamoto napjai
@@ -48330,6 +48339,7 @@
 2853|1|x-jat|Shin Kidou Senki Gundam Wing: Operation Meteor
 284|4|it|Shin Kimagure Orange Road - ... e poi l`inizio di quell`estate...
 284|1|x-jat|Shin Kimagure Orange Road: Soshite, Ano Natsu no Hajimari
+19774|1|x-jat|Shin Kochira Katsushikaku Kameari Kouenmae Hashutsujo
 6400|1|x-jat|Shin Koihime Musou
 6400|4|en|Shin Koihime Musou
 7470|1|x-jat|Shin Koihime Musou Live Revolution
@@ -60025,6 +60035,7 @@
 9263|1|x-jat|Yasashii March
 10118|1|x-jat|Yasashii Ookami
 18831|1|x-jat|Yasei no Last Boss ga Arawareta!
+19777|1|x-jat|Yasei no Last Boss ga Arawareta! 2
 15546|3|en|Yashahime 1
 16141|3|en|Yashahime 2
 15546|4|en|Yashahime: Princess Half-Demon
@@ -80003,8 +80014,7 @@
 8007|4|ja|まっくららんどのホネイヌくん
 12669|4|ja|まっくら森の歌
 17010|4|ja|まっさら
-18653|4|ja|マッシュル (続編)
-18653|2|ja|マッシュル 三魔対争神覚者最終試験編
+18653|4|ja|マッシュル 三魔対争神覚者最終試験編
 18088|4|ja|マッシュル 神覚者候補選抜試験編
 17478|4|ja|マッシュル-MASHLE-
 1029|4|ja|まっすぐにいこう.
@@ -87269,7 +87279,7 @@
 1551|4|ja|忘却の旋律
 15765|4|ja|忘却バッテリー
 18145|4|ja|忘却バッテリー (2024)
-18979|4|ja|忘却バッテリー2
+18979|4|ja|忘却バッテリー (2027)
 5188|2|zh|忧伤大人二之宫
 15774|4|zh-Hans|忧国的莫里亚蒂
 11924|4|zh-Hans|忧郁的物怪庵
@@ -87367,6 +87377,7 @@
 7651|4|zh-Hans|怪物王女 OAD
 17550|4|ja|怪獣8号
 18722|4|ja|怪獣8号 (2025)
+19776|4|ja|怪獣8号 完結編
 19471|4|ja|怪獣8号 第1期総集編
 17369|4|ja|怪獣がやってくる
 15269|2|ja|怪獣デコード
@@ -88606,6 +88617,7 @@
 506|2|ja|新キャプテン翼
 1751|4|ja|新グリム名作劇場
 1838|4|ja|新ゲッターロボ
+19774|4|ja|新こちら葛飾区亀有公園前派出所
 15097|4|ja|新サクラ大戦 the Animation
 18029|4|ja|新しい上司はど天然
 11417|4|ja|新しい世界
@@ -95298,6 +95310,7 @@
 7663|4|ja|野球狂の詩 北の狼南の虎
 11349|4|ja|野球部あるある
 18831|4|ja|野生のラスボスが現れた!
+19777|4|ja|野生のラスボスが現れた! 2
 18831|4|zh-Hans|野生的大魔王出现了！
 18831|4|zh-Hant|野生的大魔王出現了！
 13210|4|ja|野良スコ
