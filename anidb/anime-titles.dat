@@ -1,4 +1,4 @@
-# created: Sun Dec 21 03:00:01 2025
+# created: Mon Dec 22 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3136,7 +3136,7 @@
 18561|1|x-jat|Ao no Exorcist: Yuki no Hate Hen
 8148|2|x-jat|Ao no Futsumashi
 18278|1|x-jat|Ao no Hako
-19249|1|x-jat|Ao no Hako 2
+19249|1|x-jat|Ao no Hako (2026)
 10934|1|x-jat|Ao no Kanata no Four Rhythm
 18193|1|x-jat|Ao no Miburo
 19258|2|x-jat|Ao no Miburo S2
@@ -6389,7 +6389,7 @@
 18278|4|vi|Blue Box
 18278|4|ro|Blue Box
 18278|4|my|Blue Box
-19249|2|en|Blue Box 2
+19249|2|en|Blue Box (2026)
 19249|2|en|Blue Box Season 2
 3515|1|x-jat|Blue Butterfly Fish
 15069|4|en|Blue Cat
@@ -7936,6 +7936,7 @@
 19050|4|en|Cardfight!! Vanguard: Divinez Deluxe Arc
 19050|1|x-jat|Cardfight!! Vanguard: Divinez Deluxe Hen
 19352|1|x-jat|Cardfight!! Vanguard: Divinez Deluxe Kesshou Hen
+19780|1|x-jat|Cardfight!! Vanguard: Divinez Illusory Star Battle Arc
 18591|4|en|Cardfight!! Vanguard: Divinez Season 2
 18591|1|x-jat|Cardfight!! Vanguard: Divinez Season 2
 10483|1|x-jat|Cardfight!! Vanguard: Legion Mate Hen
@@ -8291,6 +8292,8 @@
 19560|2|en|Chainsaw Man Compilation Movies
 19560|1|x-jat|Chainsaw Man Soushuuhen
 18324|2|en|Chainsaw Man the Movie: Reze Arc
+19778|2|en|Chainsaw Man: Assassins Arc
+19778|1|x-jat|Chainsaw Man: Shikaku Hen
 19560|4|en|Chainsaw Man: The Compilation
 6810|2|en|Chalk-Colored People
 6810|1|x-jat|Chalk-iro no People
@@ -10564,8 +10567,8 @@
 18290|4|it|DAN DA DAN
 19060|4|en|Dan Da Dan (2025)
 19060|1|x-jat|Dan Da Dan (2025)
-19584|1|x-jat|Dan Da Dan 3
-19584|2|en|Dan Da Dan 3
+19584|1|x-jat|Dan Da Dan (2027)
+19584|2|en|Dan Da Dan (2027)
 19060|2|en|Dan Da Dan Season 2
 18920|1|x-zht|Dan Dao Zhizun
 18042|1|x-zht|Dan Dao Zongshi
@@ -11489,6 +11492,7 @@
 12990|2|en|Depraved Rich Girl
 1211|2|en|Depravity
 1211|4|en|Depravity: Destruction of a Female Teacher
+19231|4|de|Der ehemalige Hofmagier will der Stärkste werden
 2210|4|de|Der gestiefelte Kater
 2225|4|de|Der gestiefelte Kater reist um die Welt
 2295|2|de|Der große Plan der Tiere vom Nodoka-Wald
@@ -17416,6 +17420,8 @@
 19358|1|x-jat|Gacha o Mawashite Nakama o Fuyasu Saikyou no Bishoujo Gundan o Tsukuriagero
 18686|1|x-jat|Gachiakuta
 18686|4|en|Gachiakuta
+19779|1|x-jat|Gachiakuta 2
+19779|2|en|Gachiakuta 2
 692|1|x-jat|Gad Guard
 692|4|fr|Gad Guard
 692|4|en|Gad Guard
@@ -38199,7 +38205,7 @@
 3412|2|pl|Nieśmiertelny: W poszukiwaniu zemsty
 19699|1|x-jat|Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken
 17909|1|x-jat|Nige Jouzu no Wakagimi
-18903|1|x-jat|Nige Jouzu no Wakagimi 2
+18903|1|x-jat|Nige Jouzu no Wakagimi (2026)
 18410|1|x-jat|Niger Monogatari
 17909|3|x-jat|Nigewaka
 15834|4|ja|NIGHT HEAD 2041
@@ -53463,7 +53469,7 @@
 8911|2|en|The Elder Sister`s Free Oral Day
 17909|4|en|The Elusive Samurai
 17909|4|fr|The Elusive Samurai
-18903|2|en|The Elusive Samurai 2
+18903|2|en|The Elusive Samurai (2026)
 851|4|en|The Elven Bride
 16073|4|en|The Eminence in Shadow
 17877|4|en|The Eminence in Shadow 2nd Season
@@ -73112,7 +73118,7 @@
 7938|4|ja|アオス
 17401|4|ja|アオゾラ
 18278|4|ja|アオのハコ
-19249|4|ja|アオのハコ 2
+19249|4|ja|アオのハコ (2026)
 10385|4|ja|アオハライド
 10626|4|ja|アオハライド OAD
 17574|4|ja|アオハルスナッチ
@@ -74486,6 +74492,7 @@
 18591|4|ja|カードファイト!! ヴァンガード Divinez Season2
 19352|4|ja|カードファイト!! ヴァンガード Divinez デラックス決勝編
 19050|4|ja|カードファイト!! ヴァンガード Divinez デラックス編
+19780|4|ja|カードファイト!! ヴァンガード Divinez 幻真星戦編
 15646|4|ja|カードファイト!! ヴァンガード OverDress
 15995|4|ja|カードファイト!! ヴァンガード OverDress (2021)
 15995|2|ja|カードファイト!! ヴァンガード overDress Season2
@@ -74625,6 +74632,7 @@
 16387|4|ja|かたのあと
 3346|4|ja|ガタピシ
 18686|4|ja|ガチアクタ
+19779|4|ja|ガチアクタ 2
 6916|4|ja|カチカチ山
 6939|4|ja|かちかち山 (1934)
 6864|4|ja|カチカチ山 (1940)
@@ -77054,7 +77062,7 @@
 8143|4|ja|たんすわらし.
 18290|4|ja|ダンダダン
 19060|4|ja|ダンダダン (2025)
-19584|4|ja|ダンダダン 3
+19584|4|ja|ダンダダン (2027)
 7939|4|ja|ダンタリアンの書架
 8944|4|ja|ダンタリアンの書架 荊姫
 11081|4|ja|だんちがい
@@ -77102,6 +77110,7 @@
 949|5|ja|チェンジ!! ゲッターロボ せかいさいごのひ
 949|2|ja|チェンジ!! 真ゲッターロボ 世界最後の日
 15914|4|ja|チェンソーマン
+19778|4|ja|チェンソーマン 刺客篇
 19560|4|ja|チェンソーマン 総集篇
 13250|4|ja|ちおちゃんの通学路
 14369|4|ja|ちからばし
@@ -95042,7 +95051,7 @@
 13230|4|ja|退魔針
 19699|4|ja|逃がした魚は大きかったが釣りあげた魚が大きすぎた件
 17909|4|ja|逃げ上手の若君
-18903|4|ja|逃げ上手の若君 2
+18903|4|ja|逃げ上手の若君 (2026)
 10976|4|ja|逃亡者・毛利小五郎
 17803|4|zh-Hans|逃走中 GREAT MISSION
 17803|4|ja|逃走中 グレートミッション
@@ -95837,6 +95846,7 @@
 4207|4|zh-Hans|阿尔·卡拉尔的遗产
 426|4|zh-Hans|阿尔卑斯山的少女
 10910|2|zh-Hans|阿尔斯兰战记
+19116|4|zh-Hans|阿尔玛酱想成为家人
 15013|4|zh-Hans|阿尔蒂
 14560|2|zh-Hant|阿拉徳: 宿命之門
 14559|2|zh-Hans|阿拉德 2
