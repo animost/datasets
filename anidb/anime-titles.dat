@@ -1,4 +1,4 @@
-# created: Mon Dec 22 03:00:02 2025
+# created: Tue Dec 23 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -7936,7 +7936,7 @@
 19050|4|en|Cardfight!! Vanguard: Divinez Deluxe Arc
 19050|1|x-jat|Cardfight!! Vanguard: Divinez Deluxe Hen
 19352|1|x-jat|Cardfight!! Vanguard: Divinez Deluxe Kesshou Hen
-19780|1|x-jat|Cardfight!! Vanguard: Divinez Illusory Star Battle Arc
+19780|1|x-jat|Cardfight!! Vanguard: Divinez Genma Seisen Hen
 18591|4|en|Cardfight!! Vanguard: Divinez Season 2
 18591|1|x-jat|Cardfight!! Vanguard: Divinez Season 2
 10483|1|x-jat|Cardfight!! Vanguard: Legion Mate Hen
@@ -24255,6 +24255,9 @@
 18122|2|en|Immortality 2
 18595|2|en|Immortality 3
 18778|2|en|Immortality 4
+18778|2|en|Immortality 4th Season
+19781|2|en|Immortality 5
+19781|2|en|Immortality 5th Season
 16431|2|en|Immortals of the Godless
 93|3|x-jat|IMMSE
 9546|3|x-jat|ImoCho
@@ -35795,6 +35798,8 @@
 8450|1|x-jat|Mofu Mofu
 7704|2|x-jat|Mofuku Tsuma
 7704|1|x-jat|Mofukuzuma
+19783|4|ja|mofusand
+19783|1|x-jat|Mofusand
 9297|4|it|Mofy
 2681|1|x-jat|Mogitate Marina-chan
 8386|1|x-jat|Mogu Mogu
@@ -40566,6 +40571,7 @@
 17005|2|x-jat|Otome Game Sekai wa Mob ni Kibishii Sekai Desu
 10876|1|x-jat|Otome Hime
 7595|1|x-jat|Otome Juurin Yuugi: Maiden Infringement Play
+19782|1|x-jat|Otome Kaijuu Caramelise
 8968|1|x-jat|Otome Nadeshiko Koi Techou
 8968|2|en|Otome Nadeshiko Love Diary
 7277|3|x-jat|otome tairan
@@ -54015,6 +54021,7 @@
 18947|2|en|The Lone Sword Overlord 2nd Season
 19180|2|en|The Long Ballad
 19517|2|en|The Long March Toward the Universe
+19517|2|en|The Long March Towards the Stars
 11863|4|en|The Lost Village
 14395|2|en|The Love That I Feel for You
 15144|2|en|The Low Tier Character "Tomozaki-kun"
@@ -60358,9 +60365,12 @@
 18595|2|x-zht|Yong Sheng 3rd Season
 18778|2|x-zht|Yong Sheng 4
 18778|2|en|Yong Sheng 4th Season
+19781|2|x-zht|Yong Sheng 5
+19781|2|x-zht|Yong Sheng 5th Season
 18122|1|x-zht|Yong Sheng Zhi Shi Nian Zhi Yue
 18778|1|x-zht|Yong Sheng: Hai Shi Xian Ling
 18595|1|x-zht|Yong Sheng: Qizhuang Shanhe
+19781|1|x-zht|Yong Sheng: Tai Yuan Xian Fu
 18642|2|x-zht|Yong Zhe Da Mao Xian
 18642|1|x-zht|Yong Zhe Da Maoxian
 18674|1|x-zht|Yong Zhe Da Maoxian 2
@@ -81875,6 +81885,7 @@
 8968|4|ja|乙女なでしこ恋手帖
 4003|4|ja|乙女はお姉さま[ボク]に恋してる
 16602|4|ja|乙女はお姉さまに恋してる 3つのきら星 The Animation
+19782|4|ja|乙女怪獣キャラメリゼ
 7200|2|ja|乙女恥曝遊戯
 7200|4|ja|乙女恥曝遊戯 屈辱倍返しADV
 7595|2|ja|乙女蹂躙遊戯
@@ -90458,8 +90469,10 @@
 17161|4|zh-Hans|永生
 18595|2|zh-Hans|永生 第三季
 18122|2|zh-Hans|永生 第二季
+19781|2|zh-Hans|永生 第五季
 18778|2|zh-Hans|永生 第四季
 18122|4|zh-Hans|永生之十年之约
+19781|4|zh-Hans|永生之太元仙府
 17161|2|zh-Hans|永生之无尽仙途
 18595|4|zh-Hans|永生之气壮山河
 18778|4|zh-Hans|永生之海噬仙灵
