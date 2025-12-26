@@ -1,4 +1,4 @@
-# created: Wed Dec 24 03:00:01 2025
+# created: Thu Dec 25 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1595,6 +1595,7 @@
 9526|2|en|After Taken Girl - The violated student council president
 3624|2|en|After the man in the iron mask! from the Tale of d`Artagnan
 12906|4|en|After the Rain
+12906|4|de|After the Rain
 755|4|en|After War Gundam X
 18171|4|en|After-school Hanako-kun
 18272|4|en|After-school Hanako-kun (2024)
@@ -9957,6 +9958,8 @@
 9440|2|en|creator`s world project 2
 9441|2|en|creator`s world project 3
 9442|2|en|creator`s world project 4
+19415|4|pt-BR|Crepúsculo Além do Fim do Mundo
+19415|4|pt|Crepúsculo Para Além do Fim do Mundo
 4531|3|x-jat|Crescent Love
 15380|1|x-jat|Crescent Rise
 1|4|fr|Crest of the Stars
@@ -19176,6 +19179,8 @@
 2237|2|id|Gloizer X
 15957|2|en|Gloomy: The Naughty Grizzly
 1168|4|de|Gloria
+1168|4|pt|Glória: A Casa do Fruto Proibido
+1168|2|pt-BR|Glória: A Casa do Fruto Proibido
 1168|4|en|Gloria: House of the Forbidden Fruit
 1168|1|x-jat|Gloria: Kindan no Ketsuzoku
 1168|2|en|Gloria: Private Lessons
@@ -20088,6 +20093,7 @@
 18689|4|ja|GUILTY GEAR STRIVE: DUAL RULERS
 18689|4|en|Guilty Gear Strive: Dual Rulers
 19533|1|x-jat|Guilty Hole
+19533|4|en|Guilty Hole ~ Room of Guilty Pleasure
 19357|1|x-zht|Guimi Zhi Zhu
 19357|2|x-zht|Guimi Zhi Zhu: Xiaochou Pian
 6331|1|x-jat|Guin Saga
@@ -23630,6 +23636,8 @@
 1648|2|en|I Love You, Baby
 13124|4|ja|I LOVE コイキング
 3171|2|en|I Love! BuBu ChaCha
+19785|4|ja|I Made Friends with the Second Prettiest Girl in My Class
+19785|1|x-jat|I Made Friends with the Second Prettiest Girl in My Class
 18118|4|en|I May Be a Guild Receptionist, but I`ll Solo Any Boss to Clock Out on Time
 370|4|it|I miei vicini Yamada
 1009|4|sv|I Mumindalen
@@ -39096,6 +39104,8 @@
 18451|2|pt-BR|O curandeiro que foi banido do seu grupo é na verdade, o mais forte!
 4698|4|pl|O czym szumią wierzby
 2804|4|pt|O Demónio do Sexo
+5193|4|pt|O Demónio do Sexo 2
+6781|4|pt|O Demónio do Sexo 3
 7221|2|pt-BR|O Desaparecimento de Haruhi Suzumiya
 7221|2|pt-BR|O Desaparecimento de Suzumiya Haruhi
 266|4|es-GA|O detective Conan
