@@ -1,4 +1,4 @@
-# created: Thu Dec 25 03:00:01 2025
+# created: Fri Dec 26 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4222,6 +4222,7 @@
 13083|2|fr|Ayuri, tentatrice acoustique et lunatique
 12526|3|ja|az
 18285|4|hu|Az én démonom
+18867|4|hu|Az illatos virág méltósággal virágzik
 106|2|vi|AZ Manga King
 12986|4|hu|Az Ördög bábuja
 5945|4|hu|Az univerzum védői
@@ -10667,6 +10668,7 @@
 17565|2|x-jat|Danjo no Yuujou wa Seiritsu suru?
 17565|1|x-jat|Danjo no Yuujou wa Seiritsu Suru? (Iya, Shinai!!)
 17565|3|x-jat|danjoru
+19107|4|de|Dank dir überwindet unsere Liebe alle Hindernisse
 7196|2|en|Dankichi on a Tropical Island
 6711|1|x-jat|Dankichi-jima no Olympic Taikai
 10894|3|x-jat|danmachi
@@ -16442,6 +16444,7 @@
 3041|4|de|Fist of the North Star 4: Legend of Toki
 6105|4|de|Fist of the North Star 5: Legend of Kenshiro
 984|4|en|Fist of the North Star Part 2
+19188|2|en|Fist of the North Star: Elegy of Ken-Oh`s Army Grunts
 3038|4|pl|Fist of the North Star. Legend of Raoh - Death for Love
 3573|2|pt-BR|Fitando a Meia-Lua Acima
 3573|2|pt-BR|Fitando a Meia-Lua no Céu
@@ -18114,6 +18117,7 @@
 9384|1|x-jat|Gekijouban Gintama Kanketsuhen: Yorozuya yo Eien Nare
 9384|2|x-jat|Gekijouban Gintama: Kanketsuhen - Yorozuya yo Eien Nare
 7177|1|x-jat|Gekijouban Gintama: Shin`yaku Benizakura Hen
+19792|1|x-jat|Gekijouban Gochuumon wa Usagi Desuka?
 10621|1|x-jat|Gekijouban Gudaguda Fairiestte Iu Eiga wa Dou kana...?
 13108|1|x-jat|Gekijouban Gundam G no Reconguista
 13108|2|x-jat|Gekijouban Gundam Reconguista in G
@@ -18327,6 +18331,7 @@
 4005|1|x-jat|Gekkou no Pierce: Yumemi to Gin no Bara Kishidan
 7432|2|tr|Gelecek Günlüğü
 7723|2|lt|Geležinis Žmogus
+19788|1|x-jat|Gelpiyo
 5250|4|en|Gemini Prophecies
 627|3|x-jat|gen
 627|4|fr|Gen d`Hiroshima
@@ -19298,7 +19303,6 @@
 11049|2|en|Gochuumon wa Usagi Desuka 2
 14400|2|x-jat|Gochuumon wa Usagi Desuka 3
 10262|1|x-jat|Gochuumon wa Usagi Desuka?
-19188|1|x-jat|Gochuumon wa Usagi Desuka? (Shinsaku Anime)
 14400|1|x-jat|Gochuumon wa Usagi Desuka? Bloom
 11049|1|x-jat|Gochuumon wa Usagi Desuka??
 12118|1|x-jat|Gochuumon wa Usagi Desuka?? Dear My Sister
@@ -22690,6 +22694,7 @@
 4821|2|it|Ho sposato una sirena
 6126|2|it|Ho sposato una sirena OAV
 34|4|vi|Hoá giải lời nguyền
+18867|4|vi|Hoa thơm kiêu hãnh
 6395|3|x-jat|HoB
 3628|4|de|Hobberdy Dick - Der kleine Hauself
 12834|4|vi|Học viện đỏ đen
@@ -22731,6 +22736,7 @@
 5104|4|fr|Hokuto no Ken 2 - L`héritier du Hokuto
 6105|4|fr|Hokuto no Ken 3 - La Légende de Kenshiro
 5802|1|x-jat|Hokuto no Ken Raou Gaiden Ten no Haou
+19188|1|x-jat|Hokuto no Ken: Ken`ou-gun Zako-tachi no Banka
 9159|1|x-jat|Hokuto no Ken: Legend of Heroes
 4298|2|en|Holey Pants: Desire on a Stroll
 4032|3|x-jat|Holic TV
@@ -23636,8 +23642,7 @@
 1648|2|en|I Love You, Baby
 13124|4|ja|I LOVE コイキング
 3171|2|en|I Love! BuBu ChaCha
-19785|4|ja|I Made Friends with the Second Prettiest Girl in My Class
-19785|1|x-jat|I Made Friends with the Second Prettiest Girl in My Class
+18209|2|en|I Made Friends with the Second Prettiest Girl in My Class
 18118|4|en|I May Be a Guild Receptionist, but I`ll Solo Any Boss to Clock Out on Time
 370|4|it|I miei vicini Yamada
 1009|4|sv|I Mumindalen
@@ -24843,8 +24848,8 @@
 11049|2|en|Is the Order a Rabbit 2
 14400|2|en|Is the Order a Rabbit 3
 10262|4|en|Is the Order a Rabbit?
-19188|2|en|Is the Order a Rabbit? (New Anime)
 14400|4|en|Is the Order a Rabbit? Bloom
+19792|2|en|Is the Order a Rabbit? The Movie
 11049|4|en|Is the Order a Rabbit??
 12118|2|en|Is the Order a Rabbit?? Dear My Sister
 7674|4|en|Is This a Zombie?
@@ -25536,6 +25541,7 @@
 980|1|x-jat|Jinzou Ningen Kikaider The Animation
 17132|1|x-kot|Jiok Dugaeui Sam
 17840|1|x-zht|Jipin Quanneng Gaoshou
+19791|1|x-jat|Jirai Nandesuka? Chihara-san
 19328|1|x-jat|Jishou Akuyaku Reijou na Kon`yakusha no Kansatsu Kiroku.
 3648|1|x-jat|Jishu Seisaku Movie Binchou-tan
 1997|1|x-jat|Jisshuusei
@@ -26837,6 +26843,7 @@
 19218|1|x-jat|Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun
 17555|1|x-zht|Kao Ni La! Zhanshen Xitong
 1088|1|x-jat|Kao no Nai Tsuki
+18867|4|id|Kaoru & Rin
 18867|1|x-jat|Kaoru Hana wa Rin to Saku
 18867|4|pl|Kaoru i Rin: Rozkwitając z tobą
 16930|1|x-jat|Kaoru no Taisetsu na Mono
@@ -29991,6 +29998,7 @@
 17773|4|es-419|La Misión de la Familia Yozakura
 1859|4|es|La nave fantasma
 18867|4|es|La nobleza de las flores
+18867|4|es-419|La nobleza de las flores
 1131|4|es|La novia de la oscuridad
 14530|4|es-419|La Novia del Maestro Nobunaga
 15447|4|es-419|La novia del Titán
@@ -31251,6 +31259,9 @@
 11856|2|en|Little Sister Marshmallow Succubus
 15031|2|en|Little Stories for Sleepless Nights
 6980|2|en|Little Tamageta, the Neighbor
+19787|4|ja|Little Twin Stars はじまりの物語
+19787|1|x-jat|Little Twin Stars: Hajimari no Monogatari
+19787|2|en|Little Twin Stars: The Beginning Story
 5062|1|x-jat|Little Twins
 5063|1|x-jat|Little Twins: Bokura no Natsu ga Tondeiku
 2880|4|en|Little Wansa
@@ -32814,6 +32825,7 @@
 1391|2|en|Magical Play 3D
 4144|2|x-jat|Magical Pokan
 4144|2|x-jat|Magical Poken
+19786|2|en|Magical Princess Minky Momo (OVA)
 4011|2|en|Magical Princess Minky Momo: Hold on to Your Dreams
 4012|4|en|Magical Princess Minky Momo: La Ronde in my Dream
 741|2|en|Magical Project Pretty Sammy
@@ -32960,6 +32972,7 @@
 1900|1|x-jat|Mahou no Mako-chan
 6893|1|x-jat|Mahou no Pen
 1635|1|x-jat|Mahou no Princess Minky Momo
+19786|1|x-jat|Mahou no Princess Minky Momo (OVA)
 7388|1|x-jat|Mahou no Princess Minky Momo vs Mahou no Tenshi Creamy Mami
 9833|1|x-jat|Mahou no Princess Minky Momo: Hitomi no Seiza - Minky Momo Song Special
 4012|2|x-jat|Mahou no Princess Minky Momo: Yume no Naka no Rondo
@@ -35286,6 +35299,7 @@
 13174|4|es|Mirai, mi hermana pequeña
 13174|4|de|Mirai: Das Mädchen aus der Zukunft
 13174|4|vi|Mirai: Em gái đến từ tương lai
+18867|4|hr|Mirisni cvijet dostojanstveno cvate
 10751|2|x-jat|Miritari!
 1063|4|fr|Mirmo
 1063|4|es|Mirmo
@@ -40931,6 +40945,7 @@
 8462|1|x-jat|Pan Dane to Tamago Hime
 11532|1|x-jat|Pan de Peace!
 11532|4|en|Pan de Peace!
+19789|1|x-jat|Pan Dorobou
 1210|4|pl|Pan głowa
 17375|1|x-jat|Pan no March
 17311|1|x-jat|Pan o Funda Musume
@@ -41540,6 +41555,7 @@
 6256|4|ja|Phantom ~Requiem for the Phantom~
 6256|4|ko|Phantom ~Requiem for the Phantom~
 6256|2|x-jat|Phantom ~Requiem of Phantom~
+19790|1|x-jat|Phantom Alchemia: Silvia no Dokidoki Sakusei Toshi Keikaku
 9304|2|x-jat|Phantom Blood
 1219|2|en|Phantom Fighter: Bast of Lemon
 2017|2|en|Phantom Hunter Miko
@@ -44921,6 +44937,7 @@
 15360|2|en|Reversal Dimension
 15360|2|en|Reversal Dimension The Rise of AI
 11256|2|en|Reverse Witch Trial: Judged By a Slutty Witch
+604|2|fr|Rêves d`Androïde
 14299|2|en|RevEvolution
 15523|2|en|RevEvolution 2
 13891|1|x-jat|Revisions
@@ -57223,6 +57240,8 @@
 17586|4|en|Undead Unluck
 18789|2|en|Undead Unluck (2025)
 18789|1|x-jat|Undead Unluck (2025)
+19793|1|x-jat|Undead Unluck 2
+19793|2|en|Undead Unluck 2
 11233|4|en|Undefeated Bahamut Chronicle
 11233|4|de|Undefeated Bahamut Chronicle
 16588|1|x-jat|Under Ninja
@@ -62305,6 +62324,7 @@
 226|2|uk|Білий хрест: полум`я
 4411|2|ru|Благородный демон Эмма
 15795|4|ru|Благословлённое лунным светом приключение в другом мире
+18867|4|ru|Благоухающий цветок расцветает с достоинством
 361|2|uk|Блакитна номер 6
 18278|4|uk|Блакитна скринька
 15993|4|uk|Блакитний період
@@ -63438,6 +63458,7 @@
 9257|4|uk|Заохочення до підкорення вершин
 15073|2|ru|Западные ворота парка Икебукуро
 14632|2|ru|Запасной ключик
+18867|4|uk|Запашна квітка цвіте з гідністю
 18297|4|ru|Записи «Астро»
 14360|4|ru|Записи о магии: Другая история девочки-волшебницы Мадоки
 17870|4|ru|Записки аптекаря
@@ -67086,6 +67107,7 @@
 18517|4|he|הערפד מבית המרחץ
 15811|4|he|הפלישה לגורדי השחקים
 13911|4|he|הפנימייה של ג`ולייט
+18867|4|he|הפרח הריחני זוקף את קומתו
 12654|4|he|הקאבאנרי של מצודת הברזל: קרב אונאטו
 4193|4|he|הקוסם מארץ ים
 3669|4|he|הקוסם מארץ עוץ
@@ -67653,6 +67675,7 @@
 2786|4|ar|الرمية الملتهبة
 4489|2|ar|الزهرة البريئة
 1919|4|ar|الزهرة الجميلة
+18867|4|ar|‎الزهرة العطرة تزهر بكرامة
 3208|4|ar|السائق
 3669|2|ar|الساحر أوز
 5793|4|ar|السباق الكبير
@@ -69068,6 +69091,7 @@
 16164|4|th|ดอกเตอร์สโตน ภาคพิเศษ
 8181|4|th|ดอกไม้ มิตรภาพ และ ความทรงจำ
 1002|2|th|ดอกไม้เพชฌฆาต
+18867|4|th|ดอกรักผลิบานที่กลางใจ
 18290|4|th|ดันดาดัน
 14107|4|th|ดาบพิฆาตอสูร
 15113|4|th|ดาบพิฆาตอสูร เดอะมูฟวี่ : ศึกรถไฟสู่นิรันดร์
@@ -72919,6 +72943,7 @@
 12008|4|x-kot|핸드 셰이커
 16120|2|ko|행복한 만큼 고기를 쌓아 올리자
 5910|2|ko|햑코
+18867|4|ko|향기로운 꽃은 늠름하게 핀다
 14602|4|ko|허구추리
 19458|2|ko|허니 블론드2
 2835|2|ko|허니와 클로버
@@ -73581,6 +73606,7 @@
 3085|4|ja|アンデス少年 ペペロの冒険
 17586|4|ja|アンデッドアンラック
 18789|4|ja|アンデッドアンラック (2025)
+19793|4|ja|アンデッドアンラック 2
 17924|4|ja|アンデッドガール・マーダーファルス
 2208|4|ja|アンデルセン物語
 2314|4|ja|アンデルセン物語 (1971)
@@ -75493,6 +75519,7 @@
 1377|4|ja|けらく[快楽]の王
 1377|2|ja|けらくの王 -快楽の王-
 2737|4|ja|げらげらブース物語
+19788|4|ja|ゲルぴよ
 7790|4|ja|けろけろけろっぴ はすのうえタウン危機一髪!
 7812|4|ja|けろけろけろっぴのアラジンと魔法のランプ
 7795|4|ja|けろけろけろっぴのガリバーの冒険
@@ -75824,7 +75851,6 @@
 5188|4|ja|ご愁傷さま二ノ宮くん
 10077|4|ja|ご案内します アナザーワールドへ
 10262|4|ja|ご注文はうさぎですか?
-19188|4|ja|ご注文はうさぎですか? (新作アニメ)
 14400|4|ja|ご注文はうさぎですか? BLOOM
 11049|4|ja|ご注文はうさぎですか??
 12118|4|ja|ご注文はうさぎですか?? ~Dear My Sister~
@@ -78822,6 +78848,7 @@
 1874|2|ja|ハンドル ウイズ ケア
 1874|2|ja|ハンドルウィズケア
 11234|4|ja|ハンドレッド
+19789|4|ja|パンどろぼう
 14452|4|ja|パンと僕のモモちゃん
 17375|4|ja|パンのマーチ
 10985|2|ja|バンパイアー・ホームズ
@@ -79125,6 +79152,7 @@
 1625|4|ja|ファントム THE ANIMATION
 13978|2|ja|ファントム イン ザ トワイライト
 11730|4|ja|ファントム オブ キル -ZEROからの反逆-
+19790|4|ja|ファントム・アルケミア ~シルヴィアのドキドキ搾精都市計画~
 5823|4|ja|ファントム勇者伝説
 16325|3|ja|ファ美肉
 3668|2|ja|フィールド・ハンター
@@ -80939,6 +80967,7 @@
 9971|2|ja|リトルウィッチアカデミア 魔法仕掛けのパレード
 5062|4|ja|リトルツインズ
 5063|4|ja|リトルツインズ ぼくらの夏が飛んでいく
+19787|2|ja|リトルツインスターズはじまりの物語
 9132|4|ja|リトルバスターズ!
 9822|4|ja|リトルバスターズ! ~Refrain~
 9822|2|ja|リトルバスターズ! リフレイン
@@ -83472,6 +83501,7 @@
 13108|4|ja|劇場版 ガンダム Gのレコンギスタ
 4402|4|ja|劇場版 クラナド
 7163|4|ja|劇場版 ゲゲゲの鬼太郎 日本爆裂!!
+19792|4|ja|劇場版 ご注文はうさぎですか?
 10066|2|ja|劇場版 サイコパス
 17573|2|ja|劇場版 サイコパス PROVIDENCE
 11838|4|ja|劇場版 サルゲッチュ 黄金のピポヘル・ウッキーバトル
@@ -83803,6 +83833,7 @@
 211|4|ja|北斗の拳 (1986)
 9159|4|ja|北斗の拳 LEGEND of HEROES
 5802|4|ja|北斗の拳 ラオウ外伝 天の覇王
+19188|4|ja|北斗の拳 拳王軍ザコたちの挽歌
 386|2|zh-Hans|北斗神拳
 6229|4|ja|北極のムーシカ ミーシカ
 6229|2|ja|北極のムーシカ・ミーシカ
@@ -84836,6 +84867,7 @@
 14757|4|zh-Hans|地缚少年花子君
 17791|4|zh-Hans|地缚少年花子君 第二季
 19262|2|zh-Hans|地缚少年花子君 第二季 第2部分
+19791|4|ja|地雷なんですか? 地原さん
 11881|4|ja|坂本ですが?
 18654|4|zh-Hant|坂本日常
 18654|4|zh-Hans|坂本日常
@@ -94103,6 +94135,7 @@
 19671|4|ja|薬屋のひとりごと (2027)
 5631|4|ja|薬師寺涼子の怪奇事件簿
 18867|4|zh-Hans|薰香花朵凛然绽放
+18867|4|zh-Hant|薰香花朵凜然綻放
 74|4|ja|藍より青し
 1059|4|ja|藍より青し~縁~
 11683|4|zh-Hant|藍海少女！
@@ -96755,6 +96788,7 @@
 600|4|ja|魔法のチョコレート
 12801|4|ja|魔法のひろば
 1635|4|ja|魔法のプリンセス ミンキーモモ
+19786|4|ja|魔法のプリンセス ミンキーモモ (OVA)
 9833|4|ja|魔法のプリンセス ミンキーモモ 瞳の星座 ミンキーモモSONGスペシャル
 4011|4|ja|魔法のプリンセス ミンキーモモ(夢を抱きしめて)
 4012|2|ja|魔法のプリンセス ミンキーモモ夢の中の輪舞
