@@ -1,4 +1,4 @@
-# created: Fri Dec 26 03:00:02 2025
+# created: Sat Dec 27 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3404,6 +3404,7 @@
 7000|2|en|Archer Without a Bow
 2010|1|x-jat|Archetypes Forces
 11303|1|x-jat|Are wa Dare?
+19791|2|en|Are You a Jirai Girl, Chihara-san?
 14710|4|en|Are You Lost?
 15681|2|en|Are You OK
 14442|2|en|Are You Really the Only One Who Likes Me
@@ -25348,6 +25349,9 @@
 14377|2|x-unk|Ji Yi U-pan
 18535|1|x-zht|Jian Gu
 18828|1|x-zht|Jian Lai
+19794|1|x-zht|Jian Lai 2
+19794|2|x-zht|Jian Lai 2nd Season
+19794|2|x-zht|Jian Lai Di Er Ji
 19708|1|x-zht|Jian Wang 3: Shen Jianxin de 365 Tian
 15818|1|x-zht|Jian Wang 3: Xia Gan Yi Dan Shen Jian Xin - Changpiao
 19710|2|x-zht|Jian Wang 3: Xia Gan Yi Dan Shen Jianxin 3rd Season Part 2
@@ -50333,6 +50337,7 @@
 5584|4|fr|Special A
 5584|4|it|Special A
 5584|4|en|Special A
+5584|4|es-419|Special A
 4359|2|en|Special Armored Battalion Dorvack
 18968|4|ja|SPECIAL EDITED VERSION『ONE PIECE』魚人島編
 13824|2|x-unk|Special Edition Turning Mecard W: The Secret of Vandyne
@@ -51731,7 +51736,8 @@
 13902|1|x-jat|Sword Gai
 10858|1|x-jat|Sword Gai The Animation
 14000|1|x-jat|Sword Gai The Animation Part II
-18828|4|en|Sword of Coming
+18828|2|en|Sword of Coming
+19794|2|en|Sword of Coming 2nd Season
 16614|4|de|Sword of the Demon Hunter
 16614|4|en|Sword of the Demon Hunter
 4181|2|en|Sword of the Destroyer
@@ -54693,6 +54699,8 @@
 1035|1|x-jat|The Supergal
 15608|4|en|The Supernatural Sweet Shop
 19653|2|en|The Supreme Dantian
+18828|2|en|The Sword Comes
+19794|2|en|The Sword Comes 2nd Season
 19545|2|en|The Sword Emperor of Eternity
 17596|2|en|The Sword Fairy Is Here
 17596|4|en|The Sword Immortal Is Here
@@ -54702,6 +54710,10 @@
 5546|3|en|The Sword of Musashi
 1320|2|en|The Sword of the World Conquest
 1320|2|en|The Sword That Rules Over the Empires
+18828|4|en|The Swords
+19794|4|en|The Swords 2
+19794|2|en|The Swords 2nd Season
+19794|2|en|The Swords S2
 3057|2|en|The Tale of Cuore: The School of Love
 2426|4|en|The Tale of Genji
 17488|4|en|The Tale of Outcasts
@@ -83319,6 +83331,7 @@
 17985|2|zh-Hans|剑域风云 第二季
 11974|2|zh-Hans|剑姬神圣谭 在地下城寻求邂逅是否搞错了什么 外传
 18828|4|zh-Hans|剑来
+19794|4|zh-Hans|剑来 第二季
 10432|4|zh-Hans|剑灵
 13685|4|zh-Hans|剑王朝
 13687|4|zh-Hans|剑王朝 (2017)
