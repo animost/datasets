@@ -1,4 +1,4 @@
-# created: Sun Dec 28 03:00:02 2025
+# created: Mon Dec 29 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -28048,6 +28048,7 @@
 17474|2|en|Kingdom of Gold, Kingdom of Water
 17655|2|en|Kingdom S5
 19295|2|x-jat|Kingdom S6
+19796|2|en|Kingdom S6 Part II
 9672|4|en|Kingdom Season 2
 15259|4|en|Kingdom Season 3
 16912|4|en|Kingdom Season 4
@@ -34509,7 +34510,6 @@
 17009|1|x-jat|Meitantei Conan: Halloween no Hanayome
 16841|1|x-jat|Meitantei Conan: Hannin no Hanzawa-san
 19551|1|x-jat|Meitantei Conan: Highway no Datenshi
-19746|1|x-jat|Meitantei Conan: Highway no Tenshi
 14886|1|x-jat|Meitantei Conan: Hiiro no Dangan
 15999|1|x-jat|Meitantei Conan: Hiiro no Fuzai Shoumei
 2647|1|x-jat|Meitantei Conan: Hitomi no Naka no Ansatsusha
@@ -39867,6 +39867,9 @@
 17576|4|ja|ONE PUNCH MAN (2025)
 17576|1|x-jat|One Punch Man (2025)
 17576|4|en|One Punch Man (2025)
+19799|1|x-jat|One Punch Man (2027)
+19799|4|ja|ONE PUNCH MAN (2027)
+19799|2|en|One Punch Man (2027)
 17576|2|x-other|One Punch Man 3
 12430|2|en|One Punch Man S2
 17576|2|en|one punch man s3
@@ -45674,6 +45677,7 @@
 810|2|x-jat|Rupan Sansei: Twilight Gemini no Himitsu
 976|2|x-jat|Rupan Sansei: Warusa P38 - In Gedenken an die Walther P38
 823|2|x-jat|Rupan vs Fukusei-ningen
+19798|1|x-jat|Ruri Dragon
 18859|1|x-jat|Ruri no Houseki
 18859|4|en|Ruri Rocks
 7676|1|x-jat|Ruriiro Princess
@@ -47380,7 +47384,7 @@
 7154|1|x-jat|Sekai Meisaku Gekijou Kanketsu Ban: Trapp Ikka Monogatari
 7156|1|x-jat|Sekai Meisaku Gekijou Kanketsu Ban: Wakakusa Monogatari: Nan to Jo-sensei
 7153|1|x-jat|Sekai Meisaku Gekijou Kanketsu Ban: Watashi no Ashinaga Ojisan
-4950|1|x-jat|Sekai Monoshiri Ryoko
+4950|1|x-jat|Sekai Monoshiri Ryokou
 8851|2|x-jat|Sekai no Hikari: Shinran Seijin
 8851|1|x-jat|Sekai no Hikari: Shinran Shounin
 7662|1|x-jat|Sekai no Ouja: King Kong Taikai
@@ -81111,6 +81115,7 @@
 17634|4|ja|ルパン三世VSキャッツ・アイ
 3178|4|ja|ルパン対ホームズ
 18164|3|ja|ルプなな
+19798|4|ja|ルリドラゴン
 7676|4|ja|るり色プリンセス
 90|4|ja|るろうに剣心 -明治剣客浪漫譚-
 17065|4|ja|るろうに剣心 -明治剣客浪漫譚- (2023)
@@ -81363,6 +81368,7 @@
 2874|4|ja|わんぱく探偵団
 2201|4|ja|わんぱく王子の大蛇退治
 11123|2|ja|ワンパンマン
+19799|2|ja|ワンパンマン (2027)
 12430|2|ja|ワンパンマン 2
 17576|2|ja|ワンパンマン3
 69|2|ja|ワンピース
@@ -84255,7 +84261,6 @@
 6243|4|ja|名探偵コナン コナンvsキッド 漆黒の狙撃者(スナイパー)
 13605|4|ja|名探偵コナン ゼロの執行人
 16842|4|ja|名探偵コナン ゼロの日常
-19746|4|ja|名探偵コナン ハイウェイの堕
 19551|4|ja|名探偵コナン ハイウェイの堕天使
 17009|4|ja|名探偵コナン ハロウィンの花嫁
 867|4|ja|名探偵コナン ベイカー街[ストリート]の亡霊
