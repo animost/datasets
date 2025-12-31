@@ -1,4 +1,4 @@
-# created: Mon Dec 29 03:00:02 2025
+# created: Tue Dec 30 03:00:01 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -19374,8 +19374,10 @@
 12315|1|x-jat|Godzilla
 12315|2|tr|Godzilla
 12315|4|it|Godzilla
+12315|4|fr|Godzilla
 12315|4|pl|Godzilla
 12315|2|it|Godzilla - Il pianeta dei mostri
+15770|4|fr|Godzilla : L`origine de l`invasion
 15770|1|x-jat|Godzilla S.P
 12315|2|en|Godzilla: Monster Planet
 15770|2|x-jat|Godzilla: Singular Point
