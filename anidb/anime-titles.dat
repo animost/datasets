@@ -1,4 +1,4 @@
-# created: Tue Dec 30 03:00:01 2025
+# created: Wed Dec 31 03:00:02 2025
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -15800,6 +15800,7 @@
 10674|1|x-jat|Fantasista Stella
 890|2|pt-BR|Fantasma do Futuro 2: Inocente
 1581|2|es|Fantasmagórico
+481|4|it|Fantasmi a Scuola
 3339|4|en|Fantastic Adventure Of Yohko: Leda
 1267|2|en|Fantastic Adventures of Unico
 12207|4|ja|FANTASTIC CELL
@@ -58969,6 +58970,8 @@
 612|2|x-jat|Wild Striker
 612|2|x-jat|Wildstriker
 5406|2|pl|Wilk i Przyprawa
+6169|2|pl|Wilk i przyprawa II
+6465|2|pl|Wilk i przyprawa II: Wilk i bursztynowa melancholia
 6219|2|de|Wilkommen daheim, Minami-ke!
 10898|2|en|Will Power
 13632|2|en|Will You... Make Love?
