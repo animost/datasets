@@ -1,4 +1,4 @@
-# created: Wed Dec 31 03:00:02 2025
+# created: Thu Jan  1 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -26021,6 +26021,8 @@
 5881|1|x-jat|Junk Story
 5881|4|ja|JUNK STORY 鉄屑物語
 6247|2|en|Junk Town
+19800|1|x-jat|Junk World
+19800|4|ja|JUNK WORLD
 1325|1|x-jat|Junkers Come Here
 9205|1|x-jat|Junkers Come Here: Memories of You
 10178|1|x-jat|Junketsu no Maria
@@ -61163,6 +61165,7 @@
 19190|1|x-jat|Yuusha Party o Oidasareta Kiyoubinbou
 17444|1|x-jat|Yuusha Party o Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau
 18782|1|x-jat|Yuusha Party o Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugai Sugiru
+19190|2|x-jat|Yuusha Party wo Oidasareta Kiyoubinbou
 17444|2|x-jat|Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau
 18782|2|x-jat|Yuusha Party wo Tsuihousareta Shiro Madoushi, S Rank Boukensha ni Hirowareru - Kono Shiro Madoushi ga Kikakugai sugiru
 1819|1|x-jat|Yuusha Raideen
