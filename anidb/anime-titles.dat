@@ -1,4 +1,4 @@
-# created: Thu Jan  1 03:00:02 2026
+# created: Fri Jan  2 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -22572,6 +22572,7 @@
 947|4|pt|Histórias GRIMM Encantar
 9016|4|es-419|Historias Tradicionales Japonesas Para la Reconstrucción de los Pueblos
 11911|1|x-jat|Historical
+19802|1|x-jat|Historie the Animation
 4596|2|en|History`s Strongest Disciple Kenichi
 4258|2|en|Hit and Run
 1532|1|x-jat|Hit o Nerae!
@@ -26308,6 +26309,7 @@
 15806|2|x-jat|Kaguya-sama wa Kokurasetai (2022)
 15207|3|x-jat|Kaguya-sama wa Kokurasetai 2
 15806|2|x-jat|Kaguya-sama wa Kokurasetai 3
+19801|1|x-jat|Kaguya-sama wa Kokurasetai Kanketsuhen
 17477|1|x-jat|Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai
 19402|1|x-jat|Kaguya-sama wa Kokurasetai: Otona e no Kaidan
 14111|1|x-jat|Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren`ai Zunousen
@@ -26317,12 +26319,14 @@
 15807|1|x-jat|Kaguya-sama wa Kokurasetai? Tensai-tachi no Ren`ai Zunousen (2021)
 14111|4|en|Kaguya-sama: Love Is War
 14111|4|fr|Kaguya-sama: Love Is War
+19402|4|en|Kaguya-sama: Love Is War - Stairway to Adulthood
 17477|4|en|Kaguya-sama: Love Is War - The First Kiss That Never Ends
 15806|4|en|Kaguya-sama: Love Is War - Ultra Romantic
 17477|4|fr|Kaguya-sama: Love Is War -The First Kiss That Never Ends-
 15806|4|fr|Kaguya-sama: Love Is War -Ultra Romantic-
 15207|2|en|Kaguya-sama: Love Is War 2
 15806|2|x-jat|Kaguya-sama: Love Is War 3
+19801|2|en|Kaguya-sama: Love Is War Final Chapter
 15807|2|en|Kaguya-sama: Love is War OVA
 15806|2|en|Kaguya-sama: Love Is War Season 3
 15207|4|fr|Kaguya-sama: Love Is War?
@@ -34858,6 +34862,7 @@
 19071|4|en|MF Ghost 3rd Season
 19071|1|x-jat|MF Ghost 3rd Season
 18327|2|en|MF Ghost Season 2
+19071|2|en|MF Ghost Season 3
 4106|3|ja|MF5
 14622|3|fr|MFKZ
 17094|4|ja|MFゴースト
@@ -42883,9 +42888,12 @@
 6020|3|fr|Pororo
 6020|4|fr|Pororo - Le petit pingouin
 6020|4|en|Pororo - The Little Penguin
+12449|4|fr|Pororo : la course des champions
 13929|1|x-kot|Pororo Daemoheom
 12449|1|x-jat|Pororo Geugjangpan Super Sseolmae Daemoheom
+13928|2|en|Pororo goes to Korea
 13928|1|x-kot|Pororo Hanguk-e Wass-eoyo
+12449|4|en|Pororo, The Racing Adventure
 5552|3|en|Porphy
 5552|1|x-jat|Porphy no Nagai Tabi
 5552|2|en|Porphy`s Long Journey
@@ -54065,6 +54073,7 @@
 2220|2|en|The Little Mermaid Movie
 2209|2|en|The Little Norse Prince
 2209|2|en|The Little Norse Prince Valiant
+12449|2|en|The Little Penguin Pororo`s Racing Adventure
 2201|2|en|The Little Prince and the Eight Headed Dragon
 5062|2|en|The Little Twins
 2200|2|en|The Littlest Warrior
@@ -61500,6 +61509,7 @@
 16779|1|x-zht|Zhong Xiao Zhi Bangbangda
 16535|1|x-zht|Zhongguo Jingqi Xiansheng
 17885|1|x-zht|Zhongguo Qi Tan
+19804|1|x-zht|Zhongguo Qi Tan 2
 14930|1|x-zht|Zhonghua Dizi Gui
 14931|1|x-zht|Zhonghua Dizi Gui 2
 15225|1|x-zht|Zhonguo Changshiban
@@ -74684,6 +74694,7 @@
 17477|4|ja|かぐや様は告らせたい -ファーストキッスは終わらない-
 14111|4|ja|かぐや様は告らせたい ~天才たちの恋愛頭脳戦~
 19402|4|ja|かぐや様は告らせたい 大人への階段
+19801|4|ja|かぐや様は告らせたい 完結編
 15806|4|ja|かぐや様は告らせたい-ウルトラロマンティック-
 15207|4|ja|かぐや様は告らせたい? ~天才たちの恋愛頭脳戦~
 15807|4|ja|かぐや様は告らせたい? ~天才たちの恋愛頭脳戦~ (2021)
@@ -78981,6 +78992,7 @@
 1296|4|ja|ピジョンブラッド
 5547|5|ja|ビスゲーマー
 9118|4|ja|ぴすとっ☆
+19802|4|ja|ヒストリエ THE ANIMATION
 11911|4|ja|ヒストリカル
 8825|4|ja|ピスはめ!
 13625|4|ja|ひそねとまそたん
@@ -81887,6 +81899,7 @@
 12555|4|ja|中古ビデオ屋の女店員X
 15225|4|zh-Hans|中国唱诗班
 17885|4|zh-Hans|中国奇谭
+19804|4|zh-Hans|中国奇谭2
 16535|4|zh-Hans|中国惊奇先生
 8936|4|ja|中学星 UNIVERSALすこやか
 8935|4|ja|中学星 スーパーデラックス
