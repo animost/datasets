@@ -1,4 +1,4 @@
-# created: Fri Jan  2 03:00:01 2026
+# created: Sat Jan  3 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -206,12 +206,15 @@
 17754|1|x-jat|#Compass 2.0: Sentou Setsuri Kaiseki System
 17754|2|zh-Hans|#COMPASS2.0 战斗天赋解析系统
 17297|1|x-jat|#Ima Made de Ichiban Yokatta Sex The Animation
+19565|1|x-jat|#Kanagawa ni Sunderu Elf
 19586|1|x-jat|#Zombie Sagashitemasu
+19565|3|ja|#かなエル
 15798|4|ja|#コンパス
 17754|4|ja|#コンパス2.0 戦闘摂理解析システム
 17229|4|ja|#セカイが滅びる前にキミに会いたい
 19586|4|ja|#ゾンビさがしてます
 17297|4|ja|＃今までで一番良かったセックス THE ANIMATION
+19565|4|ja|#神奈川に住んでるエルフ
 17754|4|zh-Hant|#空帕斯2.0
 17754|4|zh-Hans|#空帕斯2.0 战斗天赋解析系统
 3067|2|tr|%100 Çilek
@@ -11681,6 +11684,7 @@
 12564|2|en|Detective Conan Movie 21: The Crimson Love Letter
 13605|2|en|Detective Conan Movie 22: Zero`s Executioner
 14520|2|en|Detective Conan Movie 23: The Fist of Blue Sapphire
+14886|2|x-unk|Detective Conan Movie 24
 14886|2|en|Detective Conan Movie 24: The Scarlet Bullet
 17009|2|en|Detective Conan Movie 25
 18219|2|en|Detective Conan Movie 27
@@ -11732,21 +11736,44 @@
 304|2|en|Detective Conan: Movie 1
 304|2|en|Detective Conan: Movie 1: The Timed Skyscraper
 4187|3|en|Detective Conan: Movie 10
+4187|2|en|Detective Conan: Movie 10 - The Private Eyes` Requiem
 4937|2|en|Detective Conan: Movie 11
+4937|2|en|Detective Conan: Movie 11 - Jolly Roger in the Deep Azure
 5934|2|en|Detective Conan: Movie 12
+5934|2|en|Detective Conan: Movie 12 - Full Score of Fear
 6245|2|en|Detective Conan: Movie 13
+6245|2|en|Detective Conan: Movie 13 - The Raven Chaser
 7250|2|en|Detective Conan: Movie 14
+7250|2|en|Detective Conan: Movie 14 - The Lost Ship in the Sky
+8121|2|en|Detective Conan: Movie 15 - Quarter of Silence
 8806|2|en|Detective Conan: Movie 16
+8806|2|en|Detective Conan: Movie 16 - The Eleventh Striker
+9505|2|en|Detective Conan: Movie 17 - Private Eye in the Distant Sea
+10290|2|en|Detective Conan: Movie 18
 2645|2|en|Detective Conan: Movie 2
+2645|2|en|Detective Conan: Movie 2 - The Fourteenth Target
+11753|2|en|Detective Conan: Movie 20
+13605|2|en|Detective Conan: Movie 22
+13605|2|en|Detective Conan: Movie 22 - Zero the Enforcer
+14520|2|en|Detective Conan: Movie 23
+14886|2|en|Detective Conan: Movie 24
 17334|2|en|Detective Conan: Movie 26
+19025|2|en|Detective Conan: Movie 28 - One-Eyed Flashback
 2646|2|en|Detective Conan: Movie 3
+2646|2|en|Detective Conan: Movie 3 - The Last Wizard of the Century
 2647|2|en|Detective Conan: Movie 4
+2647|2|en|Detective Conan: Movie 4 - Captured in Her Eyes
 1065|2|en|Detective Conan: Movie 5
+1065|2|en|Detective Conan: Movie 5 - Countdown to Heaven
 867|2|en|Detective Conan: Movie 6
+867|2|en|Detective Conan: Movie 6 - The Phantom of Baker Street
 867|2|en|Detective Conan: Movie 6: The Phantom of Baker Street
 2052|3|en|Detective Conan: Movie 7
+2052|2|en|Detective Conan: Movie 7 - Crossroad in the Ancient Capital
 2328|3|en|Detective Conan: Movie 8
+2328|2|en|Detective Conan: Movie 8 - Magician of the Silver Sky
 2763|3|en|Detective Conan: Movie 9
+2763|2|en|Detective Conan: Movie 9 - Strategy Above the Depths
 19025|2|en|Detective Conan: One-Eyed Flashback
 9505|2|en|Detective Conan: Private Eye in the Distant Sea
 8121|2|en|Detective Conan: Quarter of Silence
@@ -12341,6 +12368,7 @@
 11345|4|pl|Dimension W
 14427|4|zh-Hans|Dimension高中
 2577|3|x-jat|dinagiga
+19806|1|x-zht|Ding Ding Zhan Hou Wang
 16487|1|x-zht|Dinghai Fusheng Lu
 2728|2|en|Dino Adventure Jurassic Tripper
 14927|4|en|Dino Girl Gauko
@@ -18885,6 +18913,7 @@
 7068|1|x-jat|Ginga Tetsudou no Yoru: Fantasy Railroad in the Stars
 7068|2|x-jat|Ginga Tetsudou no Yoru: The Celestial Railroad
 19435|1|x-jat|Ginga Tokkyuu: Milky Subway
+19807|1|x-jat|Ginga Tokkyuu: Milky Subway Kakuekiteisha Gekijou Yuki
 1243|1|x-jat|Ginga: Nagareboshi Gin
 806|4|es-GA|Ginger a princesa do iudo
 9836|1|x-jat|Gingitsune
@@ -26723,8 +26752,8 @@
 7457|1|x-jat|Kan`in Tokkyuu: Michi Shio
 19037|1|x-jat|Kan`ochi x Netorare Kazoku The Animation
 11590|1|x-jat|Kana Kana Kazoku
+19565|3|x-jat|kanael
 12492|1|x-jat|Kanagatari. Kanabakari.: Kanadian Families
-19565|1|x-jat|Kanagawa ni Sunderu Erufu
 9440|1|x-jat|Kanai
 11820|1|x-jat|Kaname o
 6531|1|x-jat|Kanamemo
@@ -45693,6 +45722,7 @@
 19798|1|x-jat|Ruri Dragon
 18859|1|x-jat|Ruri no Houseki
 18859|4|en|Ruri Rocks
+19798|2|x-jat|RuriDragon
 7676|1|x-jat|Ruriiro Princess
 4531|3|x-jat|ruriirona
 90|3|en|RuroKen
@@ -60094,6 +60124,8 @@
 16882|1|x-zht|Yao Wen Lu
 17870|2|x-zht|Yao Wu Shaonu de Ninan
 17885|4|en|Yao-Chinese Folktales
+19804|4|en|Yao-Chinese Folktales 2
+19804|2|en|Yao-Chinese Folktales II
 12778|1|x-zht|Yaoguai Mingdan
 14078|1|x-jat|Yaoguai Mingdan 2nd Season
 3956|2|x-unk|Yap! Bun Bun
@@ -60262,6 +60294,7 @@
 15599|1|x-zht|Yi Ren Zhixia 3: Rushi Pian
 16719|1|x-zht|Yi Ren Zhixia 4
 17095|1|x-zht|Yi Ren Zhixia 5 Juezhan! Bi You Cun
+19805|1|x-zht|Yi Ren Zhixia Season 6
 18469|2|x-zht|Yi Shi Zhi Zun
 15645|1|x-zht|Yi Shijie Zhongyao Pu
 16676|1|x-zht|Yi Shijie Zhongyao Pu (2021)
@@ -81432,6 +81465,7 @@
 12200|4|zh-Hans|一人之下
 12200|4|ja|一人之下 THE OUTCAST
 13068|4|ja|一人之下 THE OUTCAST 2
+19805|4|zh-Hans|一人之下 第6季
 15599|2|zh|一人之下 第三季
 13068|2|zh-Hans|一人之下 第二季
 16719|2|zh|一人之下 第四季
@@ -81517,6 +81551,7 @@
 14420|2|zh-Hans|一骑当千 西部战狼
 8569|4|zh-Hans|一骑当千 集锷斗士血风录
 4870|2|zh-Hans|一骑当千2
+19806|4|zh-Hant|丁丁战猴王
 16119|4|ja|七ヶ浜でみつけた
 11138|4|ja|七つの大罪 (2015)
 10596|4|ja|七つの大罪 The Seven Deadly Sins
@@ -81899,6 +81934,7 @@
 12555|4|ja|中古ビデオ屋の女店員X
 15225|4|zh-Hans|中国唱诗班
 17885|4|zh-Hans|中国奇谭
+19804|2|zh-Hans|中国奇谭 第二季
 19804|4|zh-Hans|中国奇谭2
 16535|4|zh-Hans|中国惊奇先生
 8936|4|ja|中学星 UNIVERSALすこやか
@@ -95544,6 +95580,7 @@
 2362|4|ja|銀河漂流バイファム13
 3116|4|ja|銀河烈風バクシンガー
 19435|4|ja|銀河特急 ミルキー☆サブウェイ
+19807|4|ja|銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き
 3115|4|ja|銀河疾風サスライガー
 11495|4|ja|銀河英雄伝説 Die Neue These
 13473|4|ja|銀河英雄伝説 Die Neue These (2019)
