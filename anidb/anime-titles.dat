@@ -1,4 +1,4 @@
-# created: Sat Jan  3 03:00:02 2026
+# created: Sun Jan  4 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -31569,7 +31569,7 @@
 6143|2|es-419|Los Super Once
 6143|2|es|Los Super Once
 6470|3|x-jat|loscan
-18483|4|en|Losing Money to Be a Tycoon
+18483|2|en|Losing Money to Be a Tycoon
 6|2|en|Lost Chapter of the Stars
 13408|1|x-jat|Lost Forest
 13408|4|ja|LOST FOREST
@@ -54293,6 +54293,7 @@
 15599|2|en|The Outcast 3
 16719|2|en|The Outcast 4
 17095|2|en|The Outcast 5
+19808|4|en|The Outcast Season 6
 2218|2|en|The Panda`s Great Adventure
 19797|2|en|The Password of Shanhaiching
 4886|2|en|The Path of Wind
@@ -54433,7 +54434,7 @@
 14149|2|en|The Return of Rainbow Cat and Blue Rabbit
 18503|2|en|The Rich God
 19379|2|en|The Rich Player
-18483|2|en|The Richest Man In Game
+18483|4|en|The Richest Man In Game
 7440|2|en|The Riot of Flowers: Samurai Girls
 18473|4|en|The Rise of the Weak
 19496|4|en|The Rise of Twin Souls
@@ -58692,6 +58693,7 @@
 11781|1|x-jat|Watashitachi, Luck Logic Bu!
 12310|1|x-jat|Watashitachi, Luck Logic Bu! 2
 11979|3|x-jat|watasun
+18942|3|x-jat|watatabe
 14156|4|en|Wataten! An Angel Flew Down to Me
 15869|2|en|WATATEN!: an Angel Flew Down to Me -Precious Friends-
 17362|3|x-jat|watayuri
@@ -60288,6 +60290,7 @@
 12200|2|x-zht|Yi Ren Zhi Xia
 16371|1|x-zht|Yi Ren Zhi Xia 2: Fanwai Pian Tian Shi Xiashan
 15599|2|x-zht|Yi Ren Zhi Xia 3: Rushi Pian
+19808|1|zh|Yi Ren Zhi Xia 6
 15599|2|x-zht|Yi Ren Zhi Xia Di 3 Ji
 13068|2|x-zht|Yi Ren Zhi Xia Di Er Ji
 13068|1|x-zht|Yi Ren Zhixia 2
@@ -95101,6 +95104,7 @@
 8280|4|zh-Hans|轻音少女 剧场版
 7307|4|zh-Hans|轻音少女 第二季
 15806|4|zh-Hans|辉夜大小姐想让我告白 -究极浪漫-
+19402|4|zh-Hans|辉夜大小姐想让我告白 迈向大人的阶梯
 17477|4|zh-Hans|辉夜大小姐想让我告白-初吻不会结束-
 15207|4|zh-Hans|辉夜大小姐想让我告白？~天才们的恋爱头脑战~
 15807|4|zh-Hans|辉夜大小姐想让我告白？～天才们的恋爱头脑战～OVA
