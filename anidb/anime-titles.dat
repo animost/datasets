@@ -1,4 +1,4 @@
-# created: Sun Jan  4 03:00:02 2026
+# created: Mon Jan  5 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6944,6 +6944,7 @@
 1275|1|x-jat|Bouken! Iczer 3
 17552|2|x-jat|Boukenroku
 1617|1|x-jat|Boukensha
+19810|1|x-jat|Boukensha License o Hakudatsu Sareta Ossan Dakedo, Manamusume ga Dekita node Nonbiri Jinsei o Ouka Suru
 17695|1|x-jat|Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta
 3142|1|x-jat|Boukensha-tachi: Gamba to Nanbiki no Nakama
 15765|1|x-jat|Boukyaku Battery
@@ -7229,7 +7230,7 @@
 18040|2|en|Bucchigiri!
 18040|1|x-jat|Bucchigiri?!
 18040|4|en|Bucchigiri?!
-19530|1|x-jat|Buchigire Reijou wa Houfuku o Chikaimashita. Madousho no Chikara de Sokoku o Tataki Tsubushimasu
+19530|1|x-jat|Buchigire Reijou wa Houfuku o Chikaimashita. Madousho no Chikara de Sokoku o Tatakitsubushimasu
 3549|1|x-jat|Bucket de Gohan
 12584|1|x-jat|Bucket no Ana
 2993|4|pt-BR|Bucky
@@ -7942,9 +7943,11 @@
 18248|1|x-jat|Cardfight!! Vanguard: Divinez
 18248|4|en|Cardfight!! Vanguard: Divinez
 19050|4|en|Cardfight!! Vanguard: Divinez Deluxe Arc
+19352|4|en|Cardfight!! Vanguard: Divinez Deluxe Finals
 19050|1|x-jat|Cardfight!! Vanguard: Divinez Deluxe Hen
 19352|1|x-jat|Cardfight!! Vanguard: Divinez Deluxe Kesshou Hen
 19780|1|x-jat|Cardfight!! Vanguard: Divinez Genma Seisen Hen
+19780|4|en|Cardfight!! Vanguard: Divinez Parallactic Clash Arc
 18591|4|en|Cardfight!! Vanguard: Divinez Season 2
 18591|1|x-jat|Cardfight!! Vanguard: Divinez Season 2
 10483|1|x-jat|Cardfight!! Vanguard: Legion Mate Hen
@@ -8801,6 +8804,8 @@
 6934|1|x-jat|Chongire Hebi
 15580|1|x-zht|Chongwu Lianmeng: Pets United
 5303|1|x-kot|Chonnyonyeouu Yeouubi
+19813|4|ja|CHOPPER`S
+19813|1|x-jat|Chopper`s
 2482|4|de|Choppy und die Prinzessin
 19489|1|x-jat|Choro Mesu Days
 2356|2|x-jat|Choro Q Dagram
@@ -10392,7 +10397,6 @@
 15694|2|x-zht|Da Hua: Shao Nian You
 15514|2|x-zht|Da Li Si Rizhi
 17853|2|x-zht|Da Li Si Rizhi 2nd Season
-4087|1|x-zht|Da Nao Tian Gong
 16865|1|x-zht|Da Nao Xiyou
 4087|2|x-zht|Da no tien gu
 3574|2|sv|Då Sångstritaren Gråter
@@ -10594,6 +10598,8 @@
 6403|1|x-jat|Dan Fumi no Ohanashi Channel
 3098|1|x-jat|Dan Petory-kyouju no Yuuutsu
 15488|1|x-zht|Dan Zhu Chuanshuo
+4087|1|x-zht|Danao Tiangong
+19727|1|x-zht|Danao Tiangong 3D
 3286|2|x-jat|Danasite 999.9
 8226|1|x-jat|Danball Senki
 8903|2|x-jat|Danball Senki Double
@@ -10734,6 +10740,8 @@
 731|4|fr|Dante, seigneur des démons
 5359|2|es|Danza Carnal
 69|4|vi|Đảo hải tặc
+4087|2|x-zht|Dao Nao Tiangong
+19727|2|x-zht|Dao Nao Tiangong 3D
 16192|2|x-zht|Daomu Biji Zhi Qinling Shen Shu
 16192|1|x-zht|Daomu Biji: Qinling Shen Shu
 1322|3|x-jat|Daphne
@@ -18214,6 +18222,7 @@
 11980|1|x-jat|Gekijouban Mahouka Koukou no Rettousei: Hoshi o Yobu Shoujo
 18720|1|x-jat|Gekijouban Mahouka Koukou no Rettousei: Yotsuba Keishou Hen
 12033|1|x-jat|Gekijouban Majestic Prince: Kakusei no Idenshi
+19812|1|x-jat|Gekijouban Majo no Tabitabi
 5839|3|x-jat|Gekijouban Major
 5839|2|x-jat|Gekijouban Major: Yuujou no Ikkyuu
 5839|1|x-jat|Gekijouban Major: Yuujou no Winning Shot
@@ -23664,6 +23673,7 @@
 19417|2|en|I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! 2
 2536|2|en|I like what I like, so it can`t be helped
 2536|2|en|I like what I like, so there!
+19810|2|en|I Lost My Adventurer`s License, but It`s Fine Because I Have an Adorable Daughter Now
 3171|4|vi|I Love Bubu Chacha
 13124|1|x-jat|I Love Koiking
 13124|4|en|I Love Magikarp
@@ -25030,6 +25040,7 @@
 6504|1|x-jat|Issho ni Training: Training with Hinako
 7226|2|x-jat|Isshoni H Shiyo!
 18528|1|x-jat|Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer to Shite Tanoshiku Ikiru
+19811|1|x-jat|Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer to Shite Tanoshiku Ikiru 2
 10273|1|x-jat|Isshuukan Friends.
 6924|1|x-jat|Issunboushi
 6950|1|x-jat|Issunboushi (1956)
@@ -26415,7 +26426,6 @@
 15269|1|x-jat|Kaiju Decode
 19582|1|x-jat|Kaiju Decode: Aidara no Yubiwa
 19582|2|en|Kaiju Decode: The Ring of Aidara
-19659|1|x-zht|Kaiju Ditan Maidali
 12021|4|en|Kaiju Girls
 12021|4|fr|Kaijû Girls
 13975|4|en|Kaiju Girls Black
@@ -26521,6 +26531,7 @@
 13718|4|en|Kakegurui XX
 12834|4|no|Kakegurui: Compulsive Gambler
 12834|2|pl|Kakegurui: Szał hazardu
+19720|3|x-jat|Kakekoi
 19521|1|x-jat|Kaketa Tsuki no Mercedes: Kyuuketsuki no Kizoku ni Tensei Shitakedo Suterare Sounanode Dungeon o Seiha Suru
 12895|1|x-jat|Kakinoki Mokkii
 7996|1|x-jat|Kakko-Kawaii Sengen!
@@ -27856,6 +27867,7 @@
 13284|1|x-jat|Kimekoi! Takane no Hana to Osananajimi ga Kimatta Riyuu
 1356|3|x-jat|Kimengumi
 7475|3|x-jat|Kimengumi movie
+19657|4|es|Kimengumi: Escuela de locos
 1479|1|x-jat|Kimera
 1479|4|en|Kimera
 14107|1|x-jat|Kimetsu no Yaiba
@@ -33392,6 +33404,7 @@
 286|3|x-jat|majotaku
 19726|1|x-jat|Majutsu o Kiwamete Tabi ni Deta Tensei Elf, Moteamashita Jumyou de Ikeru Densetsu to Naru
 19131|1|x-jat|Majutsushi Kunon wa Miete Iru
+19131|2|x-jat|Majutsushi Kunon wa Mieteiru
 538|1|x-jat|Majutsushi Orphen
 13964|1|x-jat|Majutsushi Orphen Hagure Tabi
 15482|2|x-jat|Majutsushi Orphen Hagure Tabi Season 2
@@ -39397,6 +39410,7 @@
 1016|4|de|Odysseus 31
 1137|3|x-jat|oe
 5473|3|ja|OED48
+19181|2|en|Oedo Fire Slayer -The Legend of Phoenix-
 2750|1|x-jat|Oedo wa Nemurenai!
 5042|3|en|oedorocket
 17759|1|x-kot|Oemo Jisang Juui
@@ -46270,6 +46284,7 @@
 9456|2|en|Saint Young Men (2012)
 1884|4|de|Saint-Seiya - Die Krieger des Zodiac, Movie 1: Die Legende des goldenen Apfels
 17461|4|fr|Sainte Cecilia et le Pasteur Lawrence
+19809|1|x-jat|Saioshi no Gikei o Mederu Tame, Nagaikishimasu!
 1359|4|de|Saishu Chikan Densha
 1359|1|x-jat|Saishuu Chikan Densha
 9190|1|x-jat|Saishuu Chikan Densha Next
@@ -53296,6 +53311,7 @@
 3154|2|en|The Brave of Gold Goldran
 18898|2|en|The Bride of Barbaroi
 18528|4|en|The Brilliant Healer`s New Life in the Shadows
+19811|2|en|The Brilliant Healer`s New Life in the Shadows 2
 13112|2|en|The Brothers of Hungboo and Nolboo
 11949|2|en|The Buffalo Boy and His Flute
 16192|2|en|The Buried Tree Devil
@@ -54194,11 +54210,13 @@
 6736|2|en|The Monkey Fleet
 4087|2|en|The Monkey King
 4087|2|en|The Monkey King - Havoc in Heaven
-19727|1|en|The Monkey King 3D: Uproar in Heaven
+19727|2|zh|The Monkey King 3D
 7386|2|en|The Monkey King and the Fruit of Immortality
 4907|2|en|The Monkey King and the Skeleton Ghost
 16736|4|en|The Monkey King: Reborn
 4087|4|en|The Monkey King: Uproar in Heaven
+19727|4|en|The Monkey King: Uproar in Heaven (2012)
+19727|6|en|The Monkey King: Uproar in Heaven 3D
 6706|2|en|The Monkey Sword Masamune
 6849|2|en|The Monkey`s Big Catch
 18894|2|en|The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries
@@ -58541,6 +58559,7 @@
 7949|2|en|Wandering Son
 3155|2|en|Wandering Sun
 15202|4|en|Wandering Witch: The Journey of Elaina
+19812|2|en|Wandering Witch: The Journey of Elaina the Movie
 11654|2|en|Wanderings of San Mao
 15769|1|x-jat|Wang Gu Shenhua Zhi Tian Xuanzhe
 18530|2|x-zht|Wang Zhe Da Shi Xiong
@@ -60297,6 +60316,7 @@
 15599|1|x-zht|Yi Ren Zhixia 3: Rushi Pian
 16719|1|x-zht|Yi Ren Zhixia 4
 17095|1|x-zht|Yi Ren Zhixia 5 Juezhan! Bi You Cun
+19814|1|x-zht|Yi Ren Zhixia 6
 19805|1|x-zht|Yi Ren Zhixia Season 6
 18469|2|x-zht|Yi Shi Zhi Zun
 15645|1|x-zht|Yi Shijie Zhongyao Pu
@@ -61515,7 +61535,6 @@
 19148|1|x-zht|Zhanshen Lianmeng
 18005|1|x-zht|Zhe Tian
 18338|1|x-zht|Zhen Dao Ge 2nd Season
-19658|1|x-zht|Zhen Dao Ge 3rd Season
 16530|1|x-zht|Zhen Dao Ge: Chen Shi Xing
 16530|2|x-zht|Zhen Dao Ge: Chenshi Hang
 16267|1|x-zht|Zhen Dao Ge: Qianli Bu Liu Xing
@@ -74605,7 +74624,7 @@
 17470|4|ja|お金は回る －くらしと金融－
 6843|4|ja|お関所
 17108|4|ja|お隣の天使様にいつの間にか駄目人間にされていた件
-18235|4|ja|お隣の天使様にいつの間にか駄目人間にされていた件 2
+18235|4|ja|お隣の天使様にいつの間にか駄目人間にされていた件2
 14599|2|ja|ガ○にもどって犯りなおしっ!!!
 9682|4|ja|ガーデン
 9682|2|ja|ガーデン THE ANIMATION
@@ -74744,6 +74763,7 @@
 16967|5|ja|かケグルイツイン
 10218|4|ja|かげろうかーくん
 12094|4|ja|カゲロウデイズ-in a day`s-
+19720|3|ja|かけ恋
 7996|3|ja|カコカワ
 13166|4|ja|かこパッド -長岡花火物語-
 14286|4|ja|かさじぞう
@@ -81471,6 +81491,7 @@
 19805|4|zh-Hans|一人之下 第6季
 15599|2|zh|一人之下 第三季
 13068|2|zh-Hans|一人之下 第二季
+19814|4|zh|一人之下 第六季
 16719|2|zh|一人之下 第四季
 13068|4|zh-Hans|一人之下2
 16371|4|zh|一人之下2番外篇天师下山
@@ -81527,6 +81548,7 @@
 9082|4|ja|一発必中!! デバンダー
 3094|4|ja|一発貫太くん
 18528|4|ja|一瞬で治療していたのに役立たずと追放された天才治癒師, 闇ヒーラーとして楽しく生きる
+19811|4|ja|一瞬で治療していたのに役立たずと追放された天才治癒師, 闇ヒーラーとして楽しく生きる 2
 15984|4|zh-Hans|一禅小和尚
 9911|4|ja|一粒に変わらぬ愛をこめて
 7226|4|ja|一緒にHしよっ
@@ -83046,6 +83068,7 @@
 1617|4|ja|冒険者
 3142|4|ja|冒険者たち ガンバと7匹のなかま
 17695|4|ja|冒険者になりたいと都に出て行った娘がSランクになってた
+19810|4|ja|冒険者ライセンスを剥奪されたおっさんだけど, 愛娘ができたのでのんびり人生を謳歌する
 585|4|ja|冒険遊記プラスターワールド
 40|2|zh|冒險少女娜汀亞
 18868|3|ja|最ひと
@@ -83096,6 +83119,7 @@
 19335|4|ja|最後の空襲くまがや
 18868|4|zh-Hant|最後可以再拜託您一件事嗎？
 6968|2|zh-Hant|最後大魔王
+19809|4|ja|最推しの義兄を愛でるため, 長生きします!
 16261|4|ja|最果てのパラディン
 17078|4|ja|最果てのパラディン 鉄錆の山の王
 488|4|zh-Hans|最游记
@@ -83718,6 +83742,7 @@
 14017|4|zh-Hant|劇場版 高校艦隊
 15113|4|ja|劇場版 鬼滅の刃 無限列車編
 18699|4|ja|劇場版 鬼滅の刃 無限城編
+19812|4|ja|劇場版 魔女の旅々
 8778|4|ja|劇場版 魔法少女まどか☆マギカ
 16278|4|ja|劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉
 8778|4|zh-Hant|劇場版 魔法少女小圓
@@ -85375,7 +85400,7 @@
 964|4|zh-Hans|大铁人 地球静止之日
 3541|4|zh-Hans|大铁人 银铃外传
 4087|4|zh-Hans|大闹天宫
-19727|4|zh-Hant|大闹天宫3D
+19727|4|zh-Hans|大闹天宫3D
 16865|4|zh|大闹西游
 4765|4|zh-Hans|大雄的结婚前夜
 2018|4|ja|大雪山の勇者 牙王
@@ -85387,6 +85412,7 @@
 17811|4|zh-Hans|大雪海的卡纳 星之贤者
 15118|4|ja|大須のぶーちゃん
 4087|4|zh-Hant|大鬧天宮
+19727|4|zh-Hant|大鬧天宮3D
 1715|4|zh-Hans|大魔兽激斗 钢之鬼
 4149|4|ja|大魔法峠
 4149|4|zh-Hans|大魔法峠
@@ -87145,7 +87171,6 @@
 13011|4|zh-Hant|开封奇谈 (Movie)
 13010|4|zh-Hans|开封奇谈-这个包公不太行
 17358|4|zh-Hans|开局一座山
-19659|4|zh-Hans|开局地摊卖大力
 15339|4|zh-Hans|开挂药师的奇幻世界悠闲生活
 17742|4|zh-Hans|开阔天空！光之美少女
 17248|4|zh-Hans|异世界一击无双姐姐
@@ -89891,7 +89916,6 @@
 8532|4|ja|東映ロボットガールズ
 14302|4|ja|松が枝を結び
 16267|4|zh-Hans|枕刀歌 千里不留行
-19658|4|zh-Hans|枕刀歌 第三季 孤城闭雪
 18338|4|zh-Hans|枕刀歌 第二季
 16530|4|zh-Hans|枕刀歌之尘世行
 11213|4|ja|枕男子
