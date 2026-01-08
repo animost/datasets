@@ -1,4 +1,4 @@
-# created: Tue Jan  6 03:00:02 2026
+# created: Wed Jan  7 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -925,6 +925,7 @@
 16188|4|en|A Couple of Cuckoos
 18773|4|en|A Couple of Cuckoos Season 2
 19231|2|en|A Court Magician, Who Was Focused on Supportive Magic Because His Allies Were too Weak, Aims to Become the Strongest After Being Banished, Story of Lasting Period
+19337|4|hu|A csillagokon túl
 2630|4|hu|A csodálatos Triton
 8229|4|en|A Dark Rabbit Has Seven Lives
 12874|2|en|A Day After a Hundred Years
@@ -5875,6 +5876,7 @@
 914|2|x-jat|Biohunter
 914|2|pl|Biołowca
 4392|2|tr|Bir Canavarın Pençeleri
+19337|4|tr|Bir Yıldız Kadar Uzak
 3464|2|tr|Bir Yolcunun Günlüğü
 14466|4|it|Birba: Micio Combinaguai
 4855|2|en|Bird`s Song
@@ -14772,6 +14774,7 @@
 17026|4|es|El imaginario
 17026|4|es-419|El imaginario
 10952|4|es|El imperio de los cadáveres
+18646|4|es|El incidente Darwin
 1218|4|es-419|El Increíble Castillo Vagabundo
 9589|4|es|El Jardín de las Palabras
 3671|4|es|El Jardín Secreto
@@ -22757,6 +22760,7 @@
 4821|2|it|Ho sposato una sirena
 6126|2|it|Ho sposato una sirena OAV
 34|4|vi|Hoá giải lời nguyền
+17609|4|vi|Hoa hồng Versailles (2025)
 18867|4|vi|Hoa thơm kiêu hãnh
 6395|3|x-jat|HoB
 3628|4|de|Hobberdy Dick - Der kleine Hauself
@@ -25185,6 +25189,7 @@
 12201|3|x-jat|izetta
 12201|4|de|Izetta, Die Letzte Hexe
 12201|4|en|Izetta: The Last Witch
+19337|4|hr|Izgubljeni u zvjezdanom sjaju
 2833|4|fr|Izumo
 7462|4|ja|IZUMO
 7462|1|x-jat|Izumo
@@ -26119,6 +26124,7 @@
 13199|4|fr|Just Because!
 13199|4|de|Just Because!
 19715|2|en|Just for a Meowment
+19337|4|fr|Juste l`espace entre nous
 8710|1|x-jat|Justeen
 2313|2|en|Justice Supermen vs. Fighter Supermen
 10839|1|x-jat|Jutaijima
@@ -30129,9 +30135,12 @@
 2643|2|fr|La revanche du Docteur Egui
 679|4|it|La Ricompensa del Gatto
 287|4|it|La rivoluzione di Utena
+17609|4|es|La rosa de Versalles (2025)
+17609|4|es-419|La rosa de Versalles (2025)
 1570|2|it|La Rosa Nera
 181|2|fr|La rose de Versailles
 13615|2|ja|La Rose de Versailles
+17609|4|fr|La Rose de Versailles (2025)
 2142|4|es-419|La Sacerdotisa de Octubre
 1100|4|es|La Saga de la Sirena
 7221|2|it|La scomparsa di Haruhi Suzumiya
@@ -30205,6 +30214,7 @@
 515|4|en|Labyrinth of Flames
 515|4|fr|Labyrinth of Flames
 713|2|en|Labyrinth Tales
+19337|4|vi|Lạc trong ánh sao
 4325|2|ro|Lacrimi Adevarate
 8947|2|en|Ladies Matrimony Rivalry
 7009|1|x-jat|Ladies versus Butlers!
@@ -30620,6 +30630,7 @@
 1496|4|fr|Le roi Léo
 1498|4|fr|Le roi Léo (1966)
 16849|1|x-zht|Le Rong Long
+17609|4|it|Le rose di Versailles - Lady Oscar (2025)
 16730|4|fr|Le Royaume des abysses
 679|4|fr|Le royaume des chats
 2104|4|fr|Le royaume des couleurs
@@ -31054,7 +31065,11 @@
 795|4|de|Level-C
 17353|3|x-jat|level1
 18142|2|en|Leveling up in a Fantasy World
+18676|4|pt-BR|Leviatã
+18676|4|cs|Leviatan
+18676|4|hu|Leviatán
 18676|1|x-jat|Leviathan
+18676|4|fr|Léviathan
 9741|4|en|Leviathan: The Last Defense
 14784|4|ja|Levius
 14784|1|x-jat|Levius
@@ -31063,6 +31078,7 @@
 1313|2|en|Lewd Room
 1313|4|de|Lewd Room
 13762|2|en|Lewd Teacher 4 feat. Erotic Public Representative
+18676|4|pl|Lewiatan
 2884|2|de|Lexy weiss alles
 2884|2|de|Lexy weiß alles
 2148|4|de|Lez Byoutou
@@ -31393,6 +31409,8 @@
 3442|3|x-jat|LO FF7
 3442|3|x-jat|LO FFVII
 16048|4|es-419|Lo hice con mi mejor amigo y me gustó
+19337|4|es|Lo que le falta a esta estrella
+19337|4|es-419|Lo que le falta a esta estrella
 12013|1|x-jat|Lo Re: Pako Sukusuku Mizuki-chan The Animation
 12013|2|ko|Lo Re: 쑤컹 쑥쑥 미즈키 짱 The Animation
 12013|4|ja|LO Re: パコ すくすくみずきちゃん THE ANIMATION
@@ -31605,6 +31623,7 @@
 13408|1|x-jat|Lost Forest
 13408|4|ja|LOST FOREST
 19337|4|en|Lost in Starlight
+19337|4|hi|Lost in Starlight: सितारों में गुम
 12380|4|en|Lost in the Moonlight
 6658|2|en|Lost Property of the Sky
 12523|4|ja|LOST SONG
@@ -31677,6 +31696,7 @@
 12243|4|de|Love Express Misuzu Takase - Anime Edition
 12243|2|en|Love Express: Misuzu Takase
 17282|4|en|Love Flops
+17282|4|de|Love Flops
 6147|1|x-jat|Love Forever
 3960|2|x-jat|Love Get Chu
 3960|1|x-jat|Love Get Chu: Miracle Seiyuu Hakusho
@@ -41761,6 +41781,7 @@
 16012|4|pl|Piekielny Raj
 3497|4|fi|Pieni Merenneito
 12235|4|fi|Pieni noita-akatemia
+19337|4|ro|Pierduți printre stele
 521|2|x-jat|Pierrot Mahou Shoujo Series 1
 499|2|x-jat|Pierrot Mahou Shoujo Series 2
 1444|2|x-jat|Pierrot Mahou Shoujo Series 3
@@ -45553,6 +45574,7 @@
 15932|3|en|ror
 16540|3|x-jat|ror2
 3571|2|en|Rorita Anime
+17609|4|pt-BR|Rosa de Versalhes (2025)
 5273|2|x-jat|rosario
 5273|2|en|Rosario & Vampire
 5273|2|x-jat|Rosario + Vampire
@@ -45595,6 +45617,7 @@
 18667|2|en|Royal Guard: The Evil Menace
 196|4|en|Royal Space Force: The Wings of Honneamise
 181|2|pl|Róża Wersalu
+17609|4|pl|Róża Wersalu (2025)
 2386|4|ja|Rozen Maiden
 2386|1|x-jat|Rozen Maiden
 2386|4|fr|Rozen Maiden
@@ -45810,6 +45833,7 @@
 3665|4|es|Ruy el pequeño Cid
 3665|4|en|Ruy the Little Cid
 3665|2|it|Ruy, il piccolo Cid
+17609|4|cs|Růže z Versailles (2025)
 9514|4|tr|Rüzgar Yükseliyor
 275|4|tr|Rüzgarlı Vadi
 17277|2|en|RWBY Anime
@@ -47706,6 +47730,7 @@
 12732|1|x-kot|Seoulyeok
 15915|1|x-kot|Sepa Mecard S
 19337|4|pt|Separados Pelas Estrelas
+19337|4|pt-BR|Separados pelas Estrelas
 7486|4|cs|Sépijka
 336|4|cs|Šepot srdce
 1556|1|x-jat|Septem Charm Magical Kanan
@@ -53361,6 +53386,7 @@
 11912|2|en|The Case of Making My Stupid Little Sister Smart with Only My XX
 16174|4|en|The Case Study of Vanitas
 16367|4|en|The Case Study of Vanitas (2022)
+18967|4|en|The Casebook of Arne
 320|2|en|The Castle of Cagliostro
 19172|2|en|The Cat and the Dragon
 12882|4|en|The Cat Purr Dance
@@ -53455,7 +53481,7 @@
 2920|4|en|The Dark Myth
 1850|2|en|The Dark Red Eleven
 750|2|en|The Darker Descendant
-18646|2|en|The Darwin Incident
+18646|4|en|The Darwin Incident
 5671|2|en|The Daughter of Twenty Faces
 16280|4|en|The Dawn of the Witch
 15559|4|en|The Day I Became a God
@@ -58002,8 +58028,10 @@
 13615|1|x-jat|Versailles no Bara (2007)
 17609|1|x-jat|Versailles no Bara (2025)
 3542|1|x-jat|Versailles no Bara: Seimei Aru Kagiri Aishite
+17609|4|hu|Versailles rózsája (2025)
 13171|2|en|Versatile Mage
 181|4|tr|Versay`ın Gülü
+17609|4|tr|Versay`ın Gülü (2025)
 249|4|fr|Vertige de l`amour
 1335|4|en|Very Private Lesson
 6496|3|x-jat|vesperia
@@ -60544,6 +60572,7 @@
 10405|3|x-jat|Yorinuke Gintama
 10405|1|x-jat|Yorinuki Gintama-san on Theater 2D
 19380|1|x-jat|Yoroi Shin Den Samurai Troopers
+19380|4|de|Yoroi-Shinden Samurai Troopers
 460|1|x-jat|Yoroiden Samurai Troopers
 3377|1|x-jat|Yoroiden Samurai Troopers Gaiden
 3379|1|x-jat|Yoroiden Samurai Troopers Kikoutei Densetsu
@@ -61249,6 +61278,7 @@
 1717|1|x-jat|Yuusha Ou GaoGaiGar Final
 3152|1|x-jat|Yuusha Ou GaoGaiGar Final Grand Glorious Gathering
 19440|1|x-jat|Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shite Mita.
+19440|2|x-jat|Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.
 19190|1|x-jat|Yuusha Party o Oidasareta Kiyoubinbou
 17444|1|x-jat|Yuusha Party o Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau
 18782|1|x-jat|Yuusha Party o Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugai Sugiru
@@ -61804,6 +61834,7 @@
 2837|3|x-jat|zs
 5576|3|x-jat|zszs
 13047|1|x-jat|Zton Jingai Animation: A Beautiful Greed Nulu Nulu
+19337|4|cs|Ztracená v svitu hvězd
 431|2|lt|Žudikas Ičis
 15453|2|x-zht|Zui Hou De Zhao Huan Shi
 13746|1|x-jat|Zui Hou Jue Ding Ai Shang Ni
@@ -61952,6 +61983,7 @@
 10445|2|ja|ΛLDNOΛH.ZERO
 2078|4|el|Λαγουδένια Πολιτεία
 1921|4|el|Λάλαμπελ
+18676|4|el|Λεβιάθαν
 1496|4|el|Λέο, ο Βασιλιάς της Ζούγκλας
 1753|4|el|Λοκ ο Σούπερμαν
 1351|4|el|Μάγια η Μέλισσα
@@ -62103,6 +62135,7 @@
 1218|4|el|Το Κινούμενο Κάστρο
 2279|2|el|Το Παιδί της Ζούγκλας
 1681|4|el|Το Ράλλυ του Μόντε Κάρλο
+17609|4|el|Το Ρόδο των Βερσαλλιών (2025)
 1133|4|el|Το Τρίγωνο
 13098|4|el|Το Φάντασμα στο Κέλυφος: SAC_2045
 16427|4|el|Το Φάντασμα στο Κέλυφος: SAC_2045 - Βιώσιμος Πόλεμος
@@ -62119,6 +62152,7 @@
 2372|4|ja|Φなる・あぷろーち
 3412|4|el|Χάιλαντερ: Δίψα για Εκδίκηση
 426|4|el|Χάιντι
+19337|4|el|Χαμένη στο Φως των Αστεριών
 403|4|el|Χαμένος Γαλαξίας
 557|4|el|Χαμτάρο: Μικρά Χάμστερ, Μεγάλες Περιπέτειες
 1617|4|el|Χριστόφορος Κολόμβος
@@ -63555,6 +63589,7 @@
 83|2|uk|Загін вовків
 19115|2|ru|Загорелые гяру на любой вкус
 4574|2|ru|Заградители
+19337|4|uk|Загублені в зоряному сяйві
 10530|2|ru|Загугли это, Коккури-сан!
 14234|4|ru|Задержи этот звук!
 14234|2|ru|Задержите этот звук!
@@ -63591,6 +63626,7 @@
 189|4|uk|Заповітні Слова
 14693|4|uk|Заради моєї донечки я навіть Володаря Демонів здолаю
 6108|4|bg|Заразно зло: Дегенерация
+19337|4|ru|Затерянная в свете звезд
 403|4|ru|Затерянная вселенная
 10480|2|ru|Захватчики шести татами?!
 14068|4|ru|Зачатие
@@ -64196,6 +64232,7 @@
 4121|2|uk|Ласкаво просимо до NHK!
 15300|2|ru|ласть книжного червя, в гости к миссис Корине
 2245|2|ru|Лебединое озеро
+18676|4|uk|Левіафан
 12155|2|bg|Легенда за Генбаноджо
 2694|4|bg|Легенда за Дуо
 844|2|bg|Легенда за Лемнеар: Тъмните крила на валкириите
@@ -66432,6 +66469,7 @@
 3633|2|bg|Трите очарователни магически момичета
 5053|2|ru|Трогательный комплекс
 9347|2|ru|Тропический поцелуй
+17609|4|uk|Троянда Версаля (2025)
 7377|4|ru|Трудная дружба
 7268|2|ru|Трупный демон
 7268|2|uk|Труподемони
@@ -67185,6 +67223,7 @@
 5222|4|he|החיים
 18654|4|he|החיים החדשים של סקמוטו
 715|2|he|החליפה המונעת גאנדם
+19337|4|he|החלל שביניהם
 2382|4|he|החתולים הסמוראים
 331|4|he|הטירה בשמיים
 1218|2|he|הטירה הנעה
@@ -67320,6 +67359,7 @@
 5356|2|he|להב מבמבוק
 18493|4|he|להסתכל לאחור
 14784|4|he|לוויוס
+18676|4|he|לווייתן
 6470|4|he|לוחמי הקודש: הקנבס האבוד
 14755|4|he|לוכדי הדרקונים
 320|4|he|לופן השלישי: טירתו של קליוסטרו
@@ -68017,6 +68057,7 @@
 10439|4|fa|پس‌گرفتن مریخ
 8166|2|fa|پلی به آسمان پرستاره
 5107|4|fa|پونیو روی صخره کنار دریا
+19337|4|ar|تائهان في فضاء الحب
 8480|2|fa|تاج مجرم
 3370|2|ar|تاكامورا فتى القرن التاسع عشر
 4678|4|ar|تاما والأصدقاء
@@ -68297,6 +68338,7 @@
 2651|2|fa|سفرهای کینو: به خاطر کردن کاری - زندگی ادامه دارد
 575|4|fa|سفرهای کینو: دنیای زیبا
 2107|4|ar|سفينة الأصدقاء
+18676|4|ar|سفينة ليفايثان
 18283|4|ar|سكوت بيلغرام يمضي قدمًا
 2165|2|ar|سكول رمبل
 5745|2|ar|سكول رمبل الفصل الثالث
@@ -68995,6 +69037,7 @@
 17583|4|hi|रोमांटिक किलर
 18493|4|hi|लुक बैक
 17634|4|hi|लुपिन 3 बनाम कैट्स आइ
+18676|4|hi|लेवायथन
 13293|4|hi|वोटाकोई: लव इज़ हार्ड फ़ॉर ओटाकु
 10538|4|hi|साएकानो ♭ हाऊ टू रेज़ ए बोरिंग गर्लफ्रेंड
 11221|4|hi|साएकानो ♭ हाऊ टू रेज़ ए बोरिंग गर्लफ्रेंड.फ्लैट
@@ -69065,6 +69108,7 @@
 11216|4|th|กำปั้นอสูร โทคิตะ
 3468|4|th|กินทามะ
 3433|2|th|กีฏจารย์กับอาถรรพ์แมลงพิสดาร
+17609|4|th|กุหลาบแวร์ซายส์ (2025)
 15547|4|th|กู๊ดไนท์ เวิลด์
 2766|4|th|เกมกลคนอัจฉริยะ ดูเอลมอนสเตอร์ GX
 14758|4|th|เกิดชาตินี้พี่ต้องเทพ
@@ -69498,7 +69542,9 @@
 12712|4|th|ลำนำของเหล่าลูกปลาวาฬ
 9132|4|th|ลิตเติ้ล บัสเตอร์ส!
 17634|4|th|ลูแปงที่ 3 ปะทะ พยัคฆ์สาว แคทส์อาย
+18676|4|th|เลวีอาธาน ปฐมบทมหาสงคราม
 35|4|th|เลิฟฮินะ
+19337|4|th|เลือนหายในแสงดาว
 632|4|th|โลกิ ปริศนาแร็กนาร็อค
 17097|2|th|ไลโคริส รีคอยล์
 18517|4|th|วะวะวะวะแวมไพร์กับนายเวอร์จิ้น
@@ -70313,6 +70359,7 @@
 129|4|ko|더 파이팅
 6153|4|ko|더 파이팅 New Challenger
 19312|2|ko|더럽혀진 그녀
+19704|2|ko|더럽혀진 별
 2188|2|ko|더블 위시
 17564|4|ko|던전밥
 10894|4|ko|던전에서 만남을 추구하면 안 되는 걸까
@@ -70535,6 +70582,7 @@
 11074|2|ko|리라이프
 13123|2|ko|리라이프 OVA
 14102|2|ko|리리테일즈
+18676|4|ko|리바이어던
 13556|2|ko|리얼 에로게 시추에이션!
 15878|2|ko|리얼 에로게 시츄에이션! 2
 1212|2|ko|리욘 전설：플레어
@@ -70958,6 +71006,7 @@
 9646|2|ko|번개아톰
 9716|4|ko|범퍼킹 재퍼
 15457|4|ko|베루도라 일기: 전생했더니 슬라임이었던 건
+17609|4|ko|베르사유의 장미 (2025)
 12414|4|ko|베르세르크 (2017)
 161|4|ko|베리베리 뮤우뮤우
 15485|4|ko|베리베리 뮤우뮤우 뉴~♡
@@ -71815,6 +71864,7 @@
 17733|2|ko|여동생은 귀여운 갸루
 1722|2|ko|여랑광유
 19547|2|ko|여름 아내
+19556|2|ko|여름과 상자
 9699|2|ko|여름방학
 17315|2|ko|여름방학 끝에 그녀는
 14529|2|ko|여름방학 보물찾기
@@ -83074,6 +83124,7 @@
 17723|4|zh-Hant|再見，地球
 18862|4|zh-Hant|再見，地球 第二季
 16418|2|zh-Hans|再見了，橡果兄弟！
+19337|4|zh-Hant|再見星上人
 332|4|zh|再見螢火蟲
 18537|4|zh-Hant|再見龍生，你好人生
 765|4|zh-Hans|再见 银河铁道999 安卓梅达终点站
@@ -83084,6 +83135,7 @@
 15708|4|zh-Hans|再见了，我的克拉默
 16418|4|zh-Hans|再见了，橡果兄弟！
 2229|4|zh-Hans|再见宇宙战舰大和号 爱的战士们
+19337|4|zh-Hans|再见星上人
 5083|4|zh-Hans|再见绝望先生
 18537|4|zh-Hans|再见龙生，你好人生
 6032|2|zh-Hans|再造人卡夏
@@ -83412,12 +83464,16 @@
 5419|2|zh-Hans|初音岛II
 5652|4|zh-Hans|初音岛II 第二季
 9307|4|zh-Hans|初音岛III
+18124|4|zh-Hans|判处勇者刑 惩罚勇者9004队刑务纪录
+18124|2|zh-Hant|判處勇者刑
 8334|4|ja|別にアンタの為に大きくなったんじゃないんだからねっ!!
 18231|4|ja|別世界
 16089|4|ja|別冊 仮面ライダーセイバー 短編活動萬画集
 15390|4|ja|別冊オリンピア・キュクロス
 15390|4|zh-Hant|別冊奧林匹克之環
 14907|4|zh-Hant|別對映像研出手！
+18676|4|zh-Hant|利維坦號戰記
+18676|4|zh-Hans|利维坦号战记
 14907|4|zh-Hans|别对映像研出手！
 17328|4|zh-Hans|别当哥哥了！
 17328|2|zh-Hans|别当欧尼酱了！
@@ -90747,6 +90803,8 @@
 10496|4|zh-Hans|法兰雀丝卡
 8673|4|zh-Hans|法外制裁者
 4686|4|zh-Hans|法布尔先生是名侦探
+19190|4|zh-Hans|泛而不精的我被逐出了勇者队伍
+19190|4|zh-Hant|泛而不精的我被逐出了勇者隊伍
 17025|4|zh-Hans|泡泡
 17025|4|zh-Hant|泡泡
 535|4|zh-Hans|泡泡糖撞车
@@ -91924,6 +91982,7 @@
 3996|2|zh-Hans|玫瑰文胸的季节
 14255|4|zh-Hans|环战公主 CIRCLET PRINCESS
 11119|4|zh-Hans|现在，两人的道路
+18681|4|zh-Hans|现在多闻君是哪一面！？
 15505|4|zh-Hans|现实主义勇者的王国再建记
 16804|2|zh-Hans|现实主义勇者的王国再建记 后半
 16804|4|zh-Hans|现实主义勇者的王国再建记 第二季
@@ -91953,6 +92012,7 @@
 1783|2|ja|現代視覚文化研究会
 18743|4|ja|現代誤訳
 18743|4|zh-Hant|現代誤譯
+18681|4|zh-Hant|現在的是哪一個多聞！？
 15505|4|ja|現実主義勇者の王国再建記
 16804|4|ja|現実主義勇者の王国再建記 (2022)
 16804|2|zh-Hant|現實主義勇者的王國重建記 2
