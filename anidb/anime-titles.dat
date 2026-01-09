@@ -1,4 +1,4 @@
-# created: Wed Jan  7 03:00:02 2026
+# created: Thu Jan  8 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -28699,6 +28699,7 @@
 10922|1|x-jat|Koi Maguwai
 12104|1|x-jat|Koi ni Naritai Aquarium
 7884|1|x-jat|Koi Sento
+19815|1|x-jat|Koi Shita Hito wa, Imouto no Kawari ni Shindekure to Itta.
 14707|1|x-jat|Koi Suru Asteroid
 7522|1|x-jat|Koi Suru Boukun
 12668|1|x-jat|Koi Suru Niwatori
@@ -54373,6 +54374,7 @@
 10950|4|fr|The Perfect Insider
 18554|2|en|The Perfect Prince Loves Me, the Side Character?!
 4935|2|en|The Perfect World of Kai
+19815|2|en|The Person I Loved Asked Me to Die in My Sister`s Stead
 9153|4|en|The Pet Girl of Sakurasou
 17101|2|en|The Phantom Hunter
 6949|2|en|The Phantom Ship
@@ -87690,6 +87692,7 @@
 18062|4|zh-Hans|总之就是非常可爱 女子高中篇
 16961|4|zh-Hans|总之就是非常可爱 第二季
 14707|3|ja|恋アス
+19815|4|ja|恋した人は, 妹の代わりに死んでくれと言った.
 12645|4|ja|恋するシロクマ
 12668|4|ja|恋するニワトリ
 16025|4|ja|恋するネズミ
