@@ -1,4 +1,4 @@
-# created: Thu Jan  8 03:00:02 2026
+# created: Fri Jan  9 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1027,6 +1027,7 @@
 336|4|hu|A könyvek hercege
 3081|4|hu|A könyvek könyve
 3082|4|hu|A könyvek könyve II
+19701|4|hu|A kozmikus Kaguya hercegnő
 15326|2|fr|À l’étouffée
 10372|2|fr|À la recherche du futur perdu
 852|4|pt|A Ladra Meimi
@@ -4696,6 +4697,7 @@
 453|4|en|Baki The Grappler
 880|4|fr|Baki The Grappler - The Ultimate Tournament
 18579|1|x-jat|Baki-dou
+18579|4|en|BAKI-DOU: The Invincible Samurai
 14772|2|x-jat|Baki: Dai Raitaisai Hen
 12258|2|tr|Baki: En Kötü İdam Mahkumları
 12258|2|en|Baki: Most Evil Death Row Convicts Special Anime
@@ -8304,6 +8306,7 @@
 12291|4|en|Chain Chronicle: The Light of Haecceitas
 16982|4|en|Chained Soldier
 18548|2|en|Chained Soldier 2
+18548|4|en|Chained Soldier Season 2
 12447|1|x-jat|Chains & Rings
 12447|4|ja|Chains & Rings
 12636|2|en|Chains of Captivity: The Obscene Bonds of Disgraced Girls
@@ -8331,7 +8334,7 @@
 5379|1|x-jat|Chameko no Ichinichi
 2779|1|x-jat|Chameleon
 19046|1|x-jat|Champignon no Majo
-19046|2|en|Champignon Witch
+19046|4|en|Champignon Witch
 1816|2|en|Champion Gordian
 1631|4|en|Champion Joe
 1458|4|en|Champion Joe 2
@@ -9767,6 +9770,7 @@
 19701|4|en|Cosmic Princess Kaguya!
 630|2|en|Cosmic Stellvia
 11438|2|en|Cosmic Wave
+19701|4|ro|Cosmica prințesă Kaguya!
 4027|1|x-jat|Cosmo Police Justy
 4027|2|en|Cosmo Police Justy
 4027|4|ja|COSMO POLICE ジャスティ
@@ -13296,6 +13300,7 @@
 13721|2|x-jat|Doupo Capong
 4250|1|x-jat|Doura
 13789|2|en|Douro Mainland
+19250|2|x-jat|Douse, Koishite Shimaunda S2
 18506|1|x-jat|Douse, Koishite Shimaunda.
 19250|1|x-jat|Douse, Koishite Shimaunda. (2026)
 11567|1|x-jat|Doushitemo Eto ni Hairitai
@@ -22647,12 +22652,14 @@
 2683|1|x-jat|Hitomi no Naka no Shounen: 15 Shounen Hyouryuuki
 13989|2|en|Hitori Bocchi`s Life
 13068|2|x-jat|Hitori no Shita - The Outcast S2
+19808|2|x-jat|Hitori no Shita - The Outcast S6
 12200|1|x-jat|Hitori no Shita: The Outcast
 13068|4|en|Hitori no Shita: The Outcast 2
 13068|4|x-jat|Hitori no Shita: The Outcast 2
 15599|2|en|Hitori no Shita: The Outcast 3
 16719|2|x-jat|Hitori no Shita: The Outcast 4
 17095|2|x-jat|Hitori no Shita: The Outcast 5
+19808|2|x-jat|Hitori no Shita: The Outcast 6
 7635|1|x-jat|Hitoribocchi
 18432|1|x-jat|Hitoribocchi no Isekai Kouryaku
 13989|1|x-jat|Hitoribocchi no Marumaru Seikatsu
@@ -24480,6 +24487,7 @@
 5289|2|en|Incest Game
 512|4|fr|Incestua corpus
 16743|2|en|Incomparable Demon King
+18646|4|pl|Incydent Darwina
 4942|1|x-jat|Inda no Himekishi Janne The Animation
 4942|2|x-jat|Inda No Himekishi Jeanne
 15326|2|en|Indecent Hair
@@ -26356,6 +26364,7 @@
 8745|1|x-jat|Kago Shintarou Anime Sakuhin Shuu
 9515|3|x-jat|kagumono
 14111|3|en|Kaguya
+19701|4|vi|Kaguya – Công chúa vũ trụ!
 15207|3|en|Kaguya 2
 15806|3|x-jat|Kaguya 3
 9515|4|hu|Kaguya hercegnő története
@@ -26395,6 +26404,8 @@
 15806|2|en|Kaguya-sama: Love Is War Season 3
 15207|4|fr|Kaguya-sama: Love Is War?
 15207|4|en|Kaguya-sama: Love is War? Season 2
+19701|4|fr|Kaguya, princesse cosmique
+19701|4|pt-BR|Kaguya: A Princesa Espacial
 2367|4|fi|Kahden vuoden loma-aika
 12481|3|x-kot|Kai
 15715|1|x-jat|Kai Byoui Ramune
@@ -28699,6 +28710,7 @@
 10922|1|x-jat|Koi Maguwai
 12104|1|x-jat|Koi ni Naritai Aquarium
 7884|1|x-jat|Koi Sento
+19815|3|x-jat|koi shita hito wa
 19815|1|x-jat|Koi Shita Hito wa, Imouto no Kawari ni Shindekure to Itta.
 14707|1|x-jat|Koi Suru Asteroid
 7522|1|x-jat|Koi Suru Boukun
@@ -29043,6 +29055,7 @@
 1094|2|tr|Korsan Yazılımcı Shirase
 3535|2|x-jat|Koryu no Mimi
 6926|1|x-jat|Koshiore Tsubame
+19701|4|cs|Kosmická princezna Kaguja!
 1595|4|pl|Kosmiczna Misja 2
 648|2|pl|Kosmiczny pancernik Yamato
 8787|4|pl|Kosmiczny pancernik Yamato 2199
@@ -29201,6 +29214,7 @@
 11827|1|x-jat|Koyomimonogatari
 11827|4|en|Koyomimonogatari
 7026|1|x-jat|Kozaru no Buranko
+19701|4|hr|Kozmička princeza Kaguya!
 17343|4|hr|Kozmos lijepe zaštitnice Mjesečeve ratnice: Film
 17473|3|x-jat|Kozoda
 17411|1|x-jat|Kozou no Koushin
@@ -30109,6 +30123,8 @@
 2482|4|es-419|La Princesa Caballero
 366|2|es|La Princesa de los 1000 Años
 366|4|es-419|La Princesa de los 1000 Años
+19701|4|es-419|La princesa Kaguya del cosmos
+19701|4|es|La princesa Kaguya del cosmos
 7|4|es|La Princesa Mononoke
 7|4|es-419|La princesa Mononoke
 1890|4|es-419|La Princesa Sally
@@ -34159,6 +34175,7 @@
 40|4|fi|Matka maapallon ympäri
 16982|1|x-jat|Mato Seihei no Slave
 18548|1|x-jat|Mato Seihei no Slave 2
+18548|2|x-jat|Mato Seihei no Slave S2
 12273|3|x-jat|matoi
 12273|4|en|Matoi the Sacred Slayer
 16982|3|x-jat|matosla
@@ -39453,6 +39470,7 @@
 1137|3|x-jat|oe
 5473|3|ja|OED48
 19181|2|en|Oedo Fire Slayer -The Legend of Phoenix-
+19181|4|en|Oedo Fire Slayer: The Legend of Phoenix
 2750|1|x-jat|Oedo wa Nemurenai!
 5042|3|en|oedorocket
 17759|1|x-kot|Oemo Jisang Juui
@@ -43278,6 +43296,7 @@
 2918|4|en|Prince Shisukon
 18253|2|en|Prince Without a Servant: The Chronicle of Yatagarasu
 15786|2|x-unk|Prince, Don`t Do This!
+19701|4|pt|Princesa Cósmica Kaguya!
 7|4|pt-BR|Princesa Mononoke
 7|4|sl|Princesa Mononoke
 640|4|sl|Princesa Preklestva
@@ -47148,7 +47167,7 @@
 47|1|x-jat|Scryed
 8342|1|x-jat|Scryed Alteration
 8342|3|x-jat|scryed movie
-19219|2|en|Scum of the Brave
+19219|4|en|Scum of the Brave
 15644|2|en|Scum Villain`s Self-Saving System
 11998|4|en|Scum`s Wish
 15644|4|en|Scumbag System
@@ -48308,6 +48327,11 @@
 4296|2|en|Shibawanko`s Spirit of Wa
 18845|1|x-jat|Shibou Yuugi de Meshi o Kuu.
 18845|2|x-jat|Shibou Yuugi de Meshi wo Kuu.
+18845|4|fr|SHIBOYUGI : Survivre est mon métier
+18845|4|pt-BR|SHIBOYUGI: Jogos Mortais para Colocar Comida na Mesa
+18845|4|es|SHIBOYUGI: Juegos mortales para ganarse el pan
+18845|4|vi|SHIBOYUGI: Kiếm sống bằng trò chơi sinh tử
+18845|4|es-419|SHIBOYUGI: Me gano el pan participando de juegos mortales
 18845|4|en|Shiboyugi: Playing Death Games to Put Food on the Table
 18492|1|x-jat|Shibuya Hachi
 18822|1|x-jat|Shibuya Hachi (2024)
@@ -54361,6 +54385,7 @@
 15599|2|en|The Outcast 3
 16719|2|en|The Outcast 4
 17095|2|en|The Outcast 5
+19808|2|en|The Outcast 6
 19808|4|en|The Outcast Season 6
 2218|2|en|The Panda`s Great Adventure
 19797|2|en|The Password of Shanhaiching
@@ -60574,7 +60599,10 @@
 10405|3|x-jat|Yorinuke Gintama
 10405|1|x-jat|Yorinuki Gintama-san on Theater 2D
 19380|1|x-jat|Yoroi Shin Den Samurai Troopers
+19816|1|x-jat|Yoroi Shin Den Samurai Troopers 2
 19380|4|de|Yoroi-Shinden Samurai Troopers
+19380|4|en|Yoroi-Shinden Samurai Troopers
+19816|2|en|Yoroi-Shinden Samurai Troopers 2
 460|1|x-jat|Yoroiden Samurai Troopers
 3377|1|x-jat|Yoroiden Samurai Troopers Gaiden
 3379|1|x-jat|Yoroiden Samurai Troopers Kikoutei Densetsu
@@ -61981,6 +62009,7 @@
 286|4|el|Κίκι: Η Μικρή Μαγισσούλα
 2383|4|el|Κίκο το σκιουράκι
 10352|4|el|Κορίτσι με Υψηλό Σκορ
+19701|4|el|Κοσμική Πριγκίπισσα Καγκούγια!
 3081|4|el|Κρις και Τζόη: Ταξίδι στον Χρόνο
 10445|2|ja|ΛLDNOΛH.ZERO
 2078|4|el|Λαγουδένια Πολιτεία
@@ -64087,6 +64116,7 @@
 9092|2|ru|Корона грешника: Потерянное Рождество
 8480|2|bg|Короната на Грешника
 1315|4|bg|Космическата Огнена Птица
+19701|4|ru|Космическая принцесса Кагуя!
 630|2|ru|Космическая Стеллвия
 3139|2|ru|Космическая фантазия 2001
 3139|2|ru|Космическая фантазия: Две тысячи и одна ночь
@@ -64101,6 +64131,7 @@
 162|2|ru|Космический Рыцарь и Звёздные Шерифы
 10027|2|bg|Космическото Конте
 10553|2|bg|Космическото конте 2
+19701|4|uk|Космічна принцеса Каґуя!
 816|2|uk|Космічний вояка Зеро
 1091|2|uk|Космічні пригоди Кобри
 1384|2|uk|Космічні пригоди Кобри. Фільм
@@ -67256,11 +67287,13 @@
 15812|4|he|המלחמה על הבית
 3651|2|he|המלנכוליה של הארוהי סוזומיה
 112|4|he|המסע המופלא
+18579|4|he|‫‏המסע של באקי: הסמוראי הבלתי מנוצח
 575|4|he|המסע של קינו
 4217|4|he|המפחידנים
 16300|4|he|המשאלה של קומי
 14990|4|he|הנוכל
 17304|4|he|הנישואים המאושרים שלי
+19701|4|he|הנסיכה הקוסמית קאגויה
 7|4|he|הנסיכה מונונוקי
 275|4|he|הנסיכה מעמק הרוחות
 8069|4|he|הנערה הקסומה מאדוקה מאגיקה
@@ -67403,6 +67436,7 @@
 469|2|he|מעבר לעננים, המקום המובטח
 7164|4|he|מעשיות עליזות
 1481|4|he|מקרון 1
+19287|4|he|מרוץ סטיל בול: ההרפתקה המוזרה של ג`וג`ו
 11606|4|he|מרץ מגיע כאריה
 12994|4|he|מרץ מגיע כאריה עונה 2
 4677|4|he|משימתו של ג`ים
@@ -67500,6 +67534,7 @@
 4191|4|he|פפריקה
 34|4|he|פרוטס באסקט
 9043|4|he|פרויקט קיי
+19743|4|he|פריזמה של אהבה
 17617|4|he|פרירן: מעבר לסוף המסע
 10272|2|he|פרסייט
 10272|2|he|פרסייט: המקסים
@@ -68598,6 +68633,7 @@
 2179|2|ar|كاراس
 13893|2|ar|كارول وتيوزداي
 3214|2|ar|كارين
+19701|4|ar|‫كاغويا أميرة الفضاء!
 14111|4|ar|كاغويا تريد أن يعترف لها: ~حرب عباقرة القلوب والعقول~
 15207|4|ar|كاغويا تريد أن يعترف لها؟ ~حرب عباقرة القلوب والعقول~
 15207|3|ar|كاغويا-ساما
@@ -68673,6 +68709,7 @@
 17355|4|ar|لخطايا السبع المُميتة: فرسان نهاية العالم الأربعة
 15421|2|ar|لطيفة بأي حال
 1834|2|ar|لعبة العقل
+18845|4|ar|‎لعبة الموت من أجل لقمة العيش
 14476|4|ar|لعبة داروين
 285|2|ar|لعبة طفل
 1219|2|ar|لعبة ليمون
@@ -69184,6 +69221,7 @@
 56|2|th|เจ้าชายลูกสักหลาด
 679|4|th|เจ้าแมวยอดนักสืบ
 9515|4|th|เจ้าหญิงกระบอกไม้ไผ่
+19701|4|th|เจ้าหญิงกระบอกไม้ไผ่ ในโลกเมตาเวิร์ส
 1656|4|th|เจ้าหญิงเงือกน้อย Pure
 7|4|th|เจ้าหญิงจิตวิญญาณแห่งพงไพร
 15996|4|th|เจ้าหญิงผู้เสียสละกับราชาอสูร
@@ -69542,6 +69580,7 @@
 13052|4|th|ลาฟลอร่า Go Go!! อาเซียน
 15201|4|th|ล่าสไลม์มา 300 ปีรู้ตัวอีกทีก็เลเวล MAX ซะแล้ว
 12712|4|th|ลำนำของเหล่าลูกปลาวาฬ
+18845|4|th|ลิขิตชะตาเกมท้าตาย
 9132|4|th|ลิตเติ้ล บัสเตอร์ส!
 17634|4|th|ลูแปงที่ 3 ปะทะ พยัคฆ์สาว แคทส์อาย
 18676|4|th|เลวีอาธาน ปฐมบทมหาสงคราม
@@ -71159,6 +71198,7 @@
 14014|2|ko|사랑하는 엄마
 1648|2|ko|사랑해 Baby★★
 8082|2|ko|사로잡힌 아가씨 ~백탁 투성이의 영애~
+18845|4|ko|사망 유희로 밥을 먹는다.
 4463|2|ko|사매인형
 4801|2|ko|사모님은 마법사
 2650|4|ko|사모님은 마법소녀
@@ -71270,6 +71310,7 @@
 7310|2|ko|성도회장 히카루
 171|4|ko|성방무협 아웃로스타
 223|4|ko|성방천사 엔젤링크스
+19612|2|ko|성보정화 세인트라임
 4867|2|ko|성소녀완구 아리스 돌
 1399|2|ko|성소녀전대 레이커즈 EX
 1278|2|ko|성수전 트윈돌즈
@@ -72564,6 +72605,7 @@
 993|2|ko|체포하겠어! 극장판
 931|2|ko|체포하겠어! 스페셜
 675|2|ko|체포하겠어! 시즌2
+19701|4|ko|초(超) 가구야 공주!
 5278|2|ko|초겨울의 따뜻한 날씨
 5192|2|ko|초견 이상한 여자의 종류
 5981|2|ko|초견2 이상한 여자의 종류 ~again~
@@ -87692,6 +87734,7 @@
 18062|4|zh-Hans|总之就是非常可爱 女子高中篇
 16961|4|zh-Hans|总之就是非常可爱 第二季
 14707|3|ja|恋アス
+19815|3|ja|恋した人は
 19815|4|ja|恋した人は, 妹の代わりに死んでくれと言った.
 12645|4|ja|恋するシロクマ
 12668|4|ja|恋するニワトリ
@@ -94969,6 +95012,7 @@
 442|4|zh|超时空要塞7
 5415|3|zh-Hans|超时空要塞Frontier
 10569|4|zh-Hans|超时空要塞Δ
+19701|4|zh-Hans|超时空辉耀姬！
 309|4|ja|超昂天使エスカレイヤー
 6561|4|ja|超昂閃忍ハルカ
 10928|4|ja|超時空ロボ MEGURU
@@ -94981,6 +95025,7 @@
 2324|4|ja|超時空要塞マクロス FLASH BACK 2012
 996|4|ja|超時空要塞マクロス 愛・おぼえていますか
 501|4|ja|超時空要塞マクロスII -Lovers Again-
+19701|4|zh-Hant|超時空輝耀姬！
 1177|4|ja|超時空騎団サザンクロス
 19665|4|ja|超普通マホウ少女アスミトルバース
 18514|4|ja|超普通都市カシワ伝説
@@ -95808,6 +95853,7 @@
 3377|4|ja|鎧伝サムライトルーパー外伝
 3379|4|ja|鎧伝サムライトルーパー輝煌帝伝説
 19380|4|ja|鎧真伝サムライトルーパー
+19816|4|ja|鎧真伝サムライトルーパー 2
 15919|4|ja|鎮西八郎為朝
 17018|4|ja|鎮西八郎為朝 (2021)
 15914|4|zh|鏈鋸人
@@ -96488,6 +96534,7 @@
 9180|4|zh|靠岸
 18438|4|zh-Hans|靠废柴技能【状态异常】成为最强的我将蹂躏一切
 18438|4|zh-Hant|靠廢柴技能【狀態異常】成為最強的我將蹂躪一切
+18845|4|zh-Hant|靠死亡遊戲混飯吃。
 17878|4|zh-Hans|靠著魔法药水在异世界活下去
 17878|4|zh-Hant|靠著魔法藥水在異世界活下去
 1123|4|ja|靡・淫導師 美傀 -淫辱の学園-
