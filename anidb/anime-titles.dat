@@ -1,4 +1,4 @@
-# created: Fri Jan  9 03:00:02 2026
+# created: Sat Jan 10 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3131,6 +3131,7 @@
 5568|2|en|Anyway It Doesn`t Matter
 18506|4|en|Anyway, I`m Falling in Love with You.
 19250|4|en|Anyway, I`m Falling in Love with You. (2026)
+19250|2|en|Anyway, I`m Falling in Love with You. Season 2
 12194|1|x-jat|Anzu-chan
 18502|4|fr|Anzu, chat-fantôme
 18502|4|es|Anzu, gato fantasma
@@ -10801,6 +10802,7 @@
 3130|4|en|Dark Love
 18777|4|ja|DARK MACHINE THE ANIMATION
 18777|1|x-jat|Dark Machine the Animation
+18869|2|x-jat|Dark Moon - Tsuki no Saidan
 18869|6|ja|DARK MOON -黒の月:月の祭壇-
 18869|2|x-kot|DARK MOON: Dal-ui Jedan
 18869|4|en|Dark Moon: The Blood Altar
@@ -12633,6 +12635,7 @@
 14606|1|x-kot|Dodani
 19462|3|x-jat|Dodge Danko
 2786|3|x-jat|Dodge Danpei
+19330|2|en|Does It Count If You Lose Your Innocence to an Android?
 19330|2|en|Does It Count if You Lose Your Virginity to an Android?
 9663|4|en|Dog & Scissors
 8206|4|ja|DOG DAYS
@@ -18213,6 +18216,7 @@
 7703|1|x-jat|Gekijouban Inazuma Eleven: Saikyou Gundan Ogre Shuurai
 13400|1|x-jat|Gekijouban Infini-T Force: Gatchaman - Saraba Tomo yo
 15481|1|x-jat|Gekijouban Isekai Quartet: Another World
+19819|1|x-jat|Gekijouban Jujutsu Kaisen "Shibuya Jihen Tokubetsu Henshuuban" x "Shimetsu Kaiyuu Senkou Jouei"
 16169|1|x-jat|Gekijouban Jujutsu Kaisen 0
 9605|1|x-jat|Gekijouban K: Missing Kings
 4131|2|x-jat|Gekijouban Kabutomushi Ouja Mushiking: Greatest Champion e no Michi
@@ -25988,11 +25992,13 @@
 18835|2|en|Jujutsu Kaisen Compilation Movie
 17196|2|x-jat|Jujutsu Kaisen S2
 17196|2|x-jat|Jujutsu Kaisen Season 2
+18363|2|en|Jujutsu Kaisen Season 3
 18835|2|x-jat|Jujutsu Kaisen: Ball/Break
 18835|4|de|JUJUTSU KAISEN: Der versteckte Schatz / Der verdorbene Schatz – Der Film
+19819|4|en|Jujutsu Kaisen: Execution - Shibuya Incident x The Culling Game Begins
 18835|4|en|JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie
-18363|1|x-jat|Jujutsu Kaisen: Shimetsu Kaiyuu
-18363|4|en|Jujutsu Kaisen: The Culling Game
+18363|1|x-jat|Jujutsu Kaisen: Shimetsu Kaiyuu Zenpen
+18363|4|en|Jujutsu Kaisen: The Culling Game Part 1
 18854|3|x-jat|jukishi
 13419|1|x-jat|Jukujo Shigan
 3667|4|fr|Julie et Stéphane
@@ -26461,6 +26467,7 @@
 15269|1|x-jat|Kaiju Decode
 19582|1|x-jat|Kaiju Decode: Aidara no Yubiwa
 19582|2|en|Kaiju Decode: The Ring of Aidara
+19820|1|x-zht|Kaiju Ditan Mai Dali
 12021|4|en|Kaiju Girls
 12021|4|fr|Kaijû Girls
 13975|4|en|Kaiju Girls Black
@@ -40578,6 +40585,7 @@
 18086|2|x-jat|Oshi no Ko 2
 18901|2|en|Oshi no Ko 3
 18086|2|x-jat|Oshi no Ko Season 2
+17449|4|de|Oshi no Ko: Mein Star
 14087|3|x-jat|Oshibudou
 13836|1|x-jat|Oshie to Tabi Suru Otoko
 15385|1|x-jat|Oshiete Hokusai! The Animation
@@ -83806,6 +83814,7 @@
 18068|4|ja|劇場版 僕とロボコ
 18890|4|ja|劇場版 僕の心のヤバイやつ
 16169|4|ja|劇場版 呪術廻戦 0
+19819|4|ja|劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 先行上映」
 10726|4|ja|劇場版 境界の彼方-I`LL BE HERE-
 13512|4|ja|劇場版 夏目友人帳 ~うつせみに結ぶ~
 5783|4|ja|劇場版 天元突破グレンラガン 紅蓮篇
@@ -84655,7 +84664,7 @@
 15407|2|ja|呪いのワンピース
 15275|4|ja|呪術廻戦
 17196|4|ja|呪術廻戦 (2023)
-18363|4|ja|呪術廻戦 死滅回游
+18363|4|ja|呪術廻戦 死滅回游 前編
 19231|4|ja|味方が弱すぎて補助魔法に徹していた宮廷魔法師, 追放されて最強を目指す
 4380|4|ja|味楽る! ミミカ
 19296|4|zh|呼唤少女
@@ -87303,6 +87312,7 @@
 13011|4|zh-Hant|开封奇谈 (Movie)
 13010|4|zh-Hans|开封奇谈-这个包公不太行
 17358|4|zh-Hans|开局一座山
+19820|4|zh-Hans|开局地摊卖大力
 15339|4|zh-Hans|开挂药师的奇幻世界悠闲生活
 17742|4|zh-Hans|开阔天空！光之美少女
 17248|4|zh-Hans|异世界一击无双姐姐
@@ -88068,6 +88078,7 @@
 19459|4|zh-Hans|我为刀宗
 10187|4|zh|我为歌狂
 15771|4|zh-Hans|我为歌狂之旋律重启
+19601|4|zh-Hans|我们不可能成为恋人！绝对不行。 （※似乎可行？）～Next Shine～
 8181|4|zh-Hans|我们仍未知道那天所看见的花的名字.
 19758|4|zh-Hans|我们在黑夜中相拥
 10288|4|zh-Hans|我们大家的河合庄
