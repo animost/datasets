@@ -1,4 +1,4 @@
-# created: Sat Jan 10 03:00:02 2026
+# created: Sun Jan 11 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -39742,6 +39742,7 @@
 7942|2|x-jat|Omae Umasou Da na: Miyanishi Tatsuya Gekijou
 14069|2|x-jat|Omae Umasou Da na: Sayonara, Tyranno
 13781|1|x-jat|Omae wa Mada Gunma o Shiranai
+19821|1|x-jat|Omae wa Mada Gunma o Shiranai: Reiwa Ban
 13781|2|x-jat|Omae wa Mada Gunma wo Shiranai
 19310|3|x-jat|omagoto
 13781|3|x-jat|Omagun
@@ -40283,6 +40284,7 @@
 6199|3|x-jat|op ova 2
 7538|3|x-jat|op ova 3
 69|3|x-jat|OP TV
+19820|2|en|Open a Street Stall and Sell Vigorously
 4136|2|en|Open the Door
 4322|4|en|Open Your Mind
 2251|2|en|Opening the Door
@@ -54315,6 +54317,7 @@
 17688|4|en|The Most Heretical Last Boss Queen: From Villainess to Savior
 19420|2|en|The Most Heretical Last Boss Queen: From Villainess to Savior Season 2
 18592|4|en|The Most Notorious "Talker" Runs the World`s Greatest Clan
+19820|4|en|The Most Powerful Vendor
 16987|2|en|The Most Proud of the World
 6830|4|en|The Mountain Where Old Women Are Abandoned
 18041|2|en|The Mourning Children: Nagiko and the Girls Wearing Tsurubami Black
@@ -60668,6 +60671,7 @@
 13854|4|en|You Can Enjoy!
 19266|4|en|You Can`t Be in a Rom-Com with Your Childhood Friends!
 13781|4|en|You Don`t Know Gunma Yet
+19821|2|en|You Don`t Know Gunma Yet: Reiwa Version
 18259|1|x-zht|You Shou Yan
 18658|1|x-zht|You Shou Yan 2
 18657|1|x-zht|You Shou Yan 3
@@ -74717,6 +74721,7 @@
 7978|4|ja|お兄ちゃんのことなんかぜんぜん好きじゃないんだからねっ!!
 17328|4|ja|お兄ちゃんはおしまい!
 13781|4|ja|お前はまだグンマを知らない
+19821|4|ja|お前はまだグンマを知らない~令和版~
 13504|4|ja|お大師さま
 907|4|ja|お天気お姉さん
 10205|4|ja|お姉ちゃんが来た
