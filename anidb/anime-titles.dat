@@ -1,4 +1,4 @@
-# created: Sun Jan 11 03:00:01 2026
+# created: Mon Jan 12 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -184,8 +184,10 @@
 13066|4|ja|「Magical Music Train 」
 4317|4|ja|「エイジ」
 19310|4|ja|「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので, 王都で気ままに暮らしたい
+19310|4|zh-Hans|「凭你也想讨伐魔王？」被勇者小队逐出队伍，只好在王都自在过活
 19003|4|zh-Hans|「只能触摸一分钟哦...」合租房的秘密规则。
 15157|4|ja|「宇宙戦艦ヤマト」という時代 西暦2202年の選択
+19310|4|zh-Hant|「憑妳也想討伐魔王？」被勇者小隊逐出隊伍，只好在王都自在過活
 12142|4|ja|「英雄」解体
 19028|4|ja|『Fate/Grand Order』 Explore Movie 2024
 18160|4|ja|『Fate/Grand Order』 Memorial Movie 2023
@@ -13051,6 +13053,7 @@
 9316|2|en|Doraemon: Nobita`s Secret Gadget Museum
 3315|2|en|Doraemon: Nobita`s South Sea Adventure
 10737|2|en|Doraemon: Nobita`s Space Heroes
+1951|4|en|Doraemon: Nobita`s Spacetime Odyssey With Cats And Dogs
 6586|2|en|Doraemon: Nobita`s Three Visionary Swordsmen
 1951|2|en|Doraemon: Nobita`s Wannyan Space-Time Legend
 4967|2|en|Doraemon: Nobita`s Winged Heroes
@@ -13554,6 +13557,8 @@
 1530|2|el|Dragon Ball Z
 1530|4|es-419|Dragon Ball Z
 1530|4|es-GA|Dragon Ball Z
+762|2|pt-BR|Dragon Ball Z - A Árvore do Poder
+1069|4|pt-BR|Dragon Ball Z - A Batalha nos Dois Mundos
 2336|4|pt|Dragon Ball Z - A Descoberta do Herói
 905|4|pt|Dragon Ball Z - A Força Suprema
 1071|4|pt|Dragon Ball Z - A Fusão
@@ -13561,6 +13566,8 @@
 10742|4|pt|Dragon Ball Z - A Ressurreição de Freezer
 1043|4|pt|Dragon Ball Z - A Zona Morta
 9314|4|pt|Dragon Ball Z - Batalha dos Deuses
+905|2|x-unk|Dragon Ball Z - Boly, o Lendário Super-Saiyajin
+1070|4|pt-BR|Dragon Ball Z - Broly, o Retorno do Guerreiro Lendário
 1071|4|de|Dragon Ball Z - Der Film
 1069|4|pt|Dragon Ball Z - Encontro de Campeões
 1043|4|fi|Dragon Ball Z - Garlicin jäljillä
@@ -13580,11 +13587,14 @@
 1474|4|it|Dragon Ball Z - La storia di Trunks
 1043|4|it|Dragon Ball Z - La vendetta divina
 2336|4|it|Dragon Ball Z - Le origini del mito
+397|4|pt-BR|Dragon Ball Z - O Ataque do Dragão
 397|4|pt|Dragon Ball Z - O Ataque do Dragão
 906|4|pt|Dragon Ball Z - O Ataque do Super Guerreiro
+906|4|pt-BR|Dragon Ball Z - O Combate Final, Bio-Broly
 1474|4|pt|Dragon Ball Z - O Desafio Final
 548|4|pt|Dragon Ball Z - O Destemido Songoku
 1046|4|pt|Dragon Ball Z - O Poder Misterioso
+548|4|pt-BR|Dragon Ball Z - O Retorno dos Andróides
 1044|4|pt|Dragon Ball Z - O Super Herói
 1045|4|pt|Dragon Ball Z - Os Grandes Rivais
 1045|4|fi|Dragon Ball Z - Pahimmat viholliset
@@ -13595,6 +13605,8 @@
 1070|4|de|Dragon Ball Z - The Movie: Brolys Rückkehr
 762|2|de|Dragon Ball Z - The Movie: Die Entscheidungsschlacht
 1043|2|de|Dragon Ball Z - The Movie: Die Todeszone des Garlic Jr.
+1071|4|pt-BR|Dragon Ball Z - Uma Nova Fusão
+1045|4|pt-BR|Dragon Ball Z - Uma Vingança para Freeza
 9314|4|fr|Dragon Ball Z : Battle of Gods
 10742|4|fr|Dragon Ball Z : La Résurrection de `F`
 2643|2|fr|Dragon Ball Z : Le plan d`anéantissement des Saiyens
@@ -16456,6 +16468,7 @@
 17771|4|en|Firefighter Daigo: Rescuer in Orange
 17771|2|en|Firefighter! Daigo of Fire Company M: The Orange of National Salvation
 9641|2|en|Fireflies
+19823|2|en|Firefly Wedding
 637|1|x-jat|Firestorm
 637|4|ja|FIRESTORM ファイアーストーム
 12605|4|es|Fireworks
@@ -17061,6 +17074,7 @@
 5318|2|en|Fukuyama Theatre - Secret Summer
 1481|4|fr|Fulgutor
 117|2|fr|Fuli Culi
+19822|2|en|Full Clearing Another World Under a Goddess with Zero Believers
 15905|4|fr|Full Dive : L`ultime RPG est encore plus foireux que la réalité !
 15905|4|en|Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier Than Real Life!
 979|2|pl|Full Matal Alchemist/Stalowy Alchemik
@@ -22482,6 +22496,7 @@
 17805|3|x-jat|hikikomari
 17805|1|x-jat|Hikikomari Kyuuketsuki no Monmon
 14272|1|x-jat|Hikoichi Tonchi Banashi
+19181|2|x-jat|Hikuidori - Ushuu Boro Tobi-gumi
 19181|1|x-jat|Hikuidori: Ushuu Boro Tobi-gumi
 392|1|x-jat|Hikyou Tanken Fam & Ihrlie
 18264|2|x-jat|Hikyouiku kara Nigetai Watashi
@@ -22658,6 +22673,7 @@
 13068|2|x-jat|Hitori no Shita - The Outcast S2
 19808|2|x-jat|Hitori no Shita - The Outcast S6
 12200|1|x-jat|Hitori no Shita: The Outcast
+19824|4|ja|Hitori no Shita: The Outcast - Rust Iron Returns
 13068|4|en|Hitori no Shita: The Outcast 2
 13068|4|x-jat|Hitori no Shita: The Outcast 2
 15599|2|en|Hitori no Shita: The Outcast 3
@@ -23159,6 +23175,7 @@
 17367|1|x-jat|Hotaru Koi
 332|1|x-jat|Hotaru no Haka
 9641|1|x-jat|Hotaru no Mure
+19823|1|x-jat|Hotaru no Yomeiri
 8289|1|x-jat|Hotarubi no Mori e
 8289|2|x-jat|Hotarubi no Mori he
 2450|4|de|Hotaruko
@@ -34341,6 +34358,8 @@
 600|3|en|MC
 1319|3|x-jat|MCDE
 9466|2|fr|McDo
+16104|3|fr|mcdo 2
+17649|3|fr|mcdo 3
 811|4|fr|McDull dans les nuages
 8215|4|en|McDull, Kung Fu Kindergarten
 6180|4|fr|McDull, prince de la bun
@@ -48643,6 +48662,7 @@
 3106|2|pl|Shin-chan: Kasukabe boys w wieczornym słońcu
 4627|4|pl|Shin-chan: Tańcz, amigo!
 19256|4|hi|Shin-chan: The Spicy Kasukabe Dancers in India
+19256|4|en|Shin-chan: The Spicy Kasukabe Dancers in India
 4707|4|pl|Shin-chan: Zamieszanie w Dżungli
 8070|1|x-jat|Shin-Men
 8070|4|ja|SHIN-MEN
@@ -48709,6 +48729,7 @@
 5084|1|x-jat|Shining Tears X Wind
 5084|4|en|Shining Tears X Wind
 15840|1|x-jat|Shinizokonai Kakarichou
+19822|1|x-jat|Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku
 2665|2|x-jat|Shinjin Tour Conductor
 2665|1|x-jat|Shinjin Tour Conductor Rina
 18989|1|x-jat|Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift "Mugen Gacha" de Level 9999 no Nakama-tachi o Te ni Irete Moto Party Member to Sekai ni Fukushuu & "Zamaa!" Shimasu!
@@ -52959,7 +52980,7 @@
 17702|1|x-jat|Tensei Shitara Dai Nana Ouji Datta no de, Kimama ni Majutsu o Kiwamemasu
 18694|1|x-jat|Tensei Shitara Dai Nana Ouji Datta no de, Kimama ni Majutsu o Kiwamemasu Dai 2 Ki
 17702|2|x-jat|Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu
-19217|1|x-jat|Tensei Shitara Dragon no Tamago Datta: Saikyou Igai Mezasa Nee
+19217|1|x-jat|Tensei Shitara Dragon no Tamago Datta: Saikyou Igai Mezasanee
 16785|1|x-jat|Tensei Shitara Ken Deshita
 17789|1|x-jat|Tensei Shitara Ken Deshita II
 13871|1|x-jat|Tensei Shitara Slime Datta Ken
@@ -55133,6 +55154,7 @@
 18754|4|en|Theatre of Darkness: Yamishibai 13
 19086|4|en|Theatre of Darkness: Yamishibai 14
 19426|4|en|Theatre of Darkness: Yamishibai 15
+19825|4|en|Theatre of Darkness: Yamishibai 16
 10717|4|en|Theatre of Darkness: Yamishibai 2
 11748|4|en|Theatre of Darkness: Yamishibai 3
 12575|4|en|Theatre of Darkness: Yamishibai 4
@@ -60162,6 +60184,7 @@
 18754|1|x-jat|Yami Shibai 13
 19086|1|x-jat|Yami Shibai 14
 19426|1|x-jat|Yami Shibai 15
+19825|1|x-jat|Yami Shibai 16
 10717|1|x-jat|Yami Shibai 2
 11748|1|x-jat|Yami Shibai 3
 12575|1|x-jat|Yami Shibai 4
@@ -60401,6 +60424,7 @@
 15599|2|x-zht|Yi Ren Zhi Xia 3: Rushi Pian
 15599|2|x-zht|Yi Ren Zhi Xia Di 3 Ji
 13068|2|x-zht|Yi Ren Zhi Xia Di Er Ji
+19824|1|zh|Yi Ren Zhi Xia: Xiu Tie Chong Xian
 13068|1|x-zht|Yi Ren Zhixia 2
 15599|1|x-zht|Yi Ren Zhixia 3: Rushi Pian
 16719|1|x-zht|Yi Ren Zhixia 4
@@ -80047,6 +80071,7 @@
 2143|4|ja|ポストペットモモ便
 9913|4|ja|ホタルかがやく
 17367|4|ja|ほたるこい
+19823|4|ja|ホタルの嫁入り
 9641|4|ja|ほたるの群れ
 13514|4|ja|ポチっと発明 ピカちんキット
 13182|4|ja|ぽちはな
@@ -82555,6 +82580,7 @@
 15400|2|zh-Hans|众神眷顾的男人
 13699|4|zh-Hans|优C世界
 3978|4|zh-Hans|优介的双妻乐园
+18914|4|zh-Hans|优雅贵族的休假指南。
 6506|4|zh-Hans|伙头仔昆布
 17396|4|ja|会いにいくの.
 19588|4|zh-Hans|会动的！从前从前有只猫 世界喵童话
@@ -82711,6 +82737,7 @@
 7498|4|ja|保健室で逢いましょう
 17801|4|zh-Hant|保齡球少女！
 18989|4|ja|信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ!』します!
+19822|4|ja|信者ゼロの女神サマと始める異世界攻略
 6772|2|zh-Hans|信蜂
 6156|4|zh-Hans|信蜂 ～光与蓝的幻想夜话～
 7458|4|zh-Hans|信蜂 REVERSE
@@ -82933,6 +82960,7 @@
 2373|2|ja|優遇接待 ~孤島の楽園へようこそ~
 2373|4|ja|優遇接待 孤島の極楽へようこそ
 2373|2|zh-Hant|優遇接待 歡迎來到孤島的極樂
+18914|4|zh-Hant|優雅貴族的休假指南。
 333|4|zh-Hans|儿时的点点滴滴
 19198|4|ja|元カレとはできなかったセックスしてもいいですか?
 18671|4|zh-Hans|元尊
@@ -84152,6 +84180,8 @@
 12605|4|zh-Hans|升空的焰火，从下面看还是从侧面看？
 3573|2|zh-Hans|升起半月的天空
 1279|2|zh-Hans|午夜女豹
+19210|4|zh-Hans|午夜的倾心旋律
+19210|4|zh-Hant|午夜的傾心旋律
 9331|4|ja|午後の紅潮 ~純愛メロウより~
 12089|4|zh-Hant|午睡公主～不為人知的故事～
 12089|4|zh-Hans|午睡公主～我不为人知的故事～
@@ -84247,6 +84277,8 @@
 8101|4|zh-Hant|即將上線
 17749|4|ja|即死チートが最強すぎて, 異世界のやつらがまるで相手にならないんですが.
 1504|4|ja|厄災仔寵[やくさいこちょう]
+18938|4|zh-Hans|厄里斯的圣杯
+18938|4|zh-Hant|厄里斯的聖杯
 14959|4|zh-Hans|历师
 11827|4|zh-Hans|历物语
 13309|4|zh-Hans|原书·原书使
@@ -84692,6 +84724,7 @@
 7598|4|zh-Hans|和殿下一起 1分钟剧场
 8221|4|zh-Hans|和殿下一起～眼罩之野心～
 18824|4|zh-Hans|和雨．和你
+19266|4|zh-Hans|和青梅竹马之间不会有恋爱喜剧
 7477|4|ja|咎狗の血
 7477|4|zh-Hans|咎狗之血
 15275|4|zh-Hans|咒术回战
@@ -86491,6 +86524,8 @@
 16662|4|zh-Hans|安玲与史迪奇
 14778|4|zh-Hans|安菟！安菟！
 14904|4|zh-Hans|安达与岛村
+19298|4|zh-Hant|安逸領主的愉快領地防衛～用生產系魔術將無名村改造成最強要塞都市～
+19298|4|zh-Hans|安逸领主的愉快领地防卫～以生产系魔术将无名小村打造成最强要塞都市～
 3617|4|ja|安達が原
 14904|4|ja|安達としまむら
 14904|4|zh-Hant|安達與島村
@@ -87333,6 +87368,7 @@
 17290|4|zh-Hans|异世界悠闲农家
 18295|2|zh-Hans|异世界悠闲纪行 ～边养娃边当冒险者～
 6304|4|zh-Hans|异世界的圣机师物语
+19507|4|zh-Hans|异世界的安泰全看社畜
 18098|4|zh-Hans|异世界自杀小队
 16389|4|zh-Hans|异世界舅舅
 16441|4|zh-Hans|异世界药局
@@ -87349,6 +87385,7 @@
 17866|4|zh-Hans|异修罗
 18542|4|zh-Hans|异修罗 第二季
 14483|4|zh-Hans|异兽魔都
+18610|4|zh-Hans|异国日记
 8180|4|zh-Hans|异国迷宫的十字路口
 14716|4|zh-Hans|异常生物见闻录
 14987|2|zh-Hans|异度侵入
@@ -88463,6 +88500,8 @@
 9488|4|ja|打つ娘サユリ
 15201|4|zh-Hans|打了300年的史莱姆，不知不觉就练到了满级
 17110|4|zh-Hans|打了300年的史莱姆，不知不觉就练到了满级 第二季
+19399|4|zh-Hant|打工仔的拷問日常
+19399|4|zh-Hans|打工仔的拷问日常
 16104|2|zh-Hant|打工吧，魔王大人！第二季
 17649|4|zh-Hans|打工吧！！魔王大人 第二季 第二季度
 17649|4|zh-Hant|打工吧！！魔王大人 第二季 第二季度
@@ -89664,6 +89703,7 @@
 18754|4|zh-Hans|暗芝居 第十三季
 18402|4|zh-Hans|暗芝居 第十二季
 19426|4|zh-Hans|暗芝居 第十五季
+19825|4|zh-Hans|暗芝居 第十六季
 19086|4|zh-Hans|暗芝居 第十四季
 17057|4|zh-Hans|暗芝居 第十季
 12575|4|zh-Hans|暗芝居 第四季
@@ -90305,6 +90345,7 @@
 5509|4|zh-Hans|樱桃小丸子：我最喜欢的歌
 11354|4|zh-Hans|樱桃小丸子：来自意大利的少年
 1841|4|zh-Hans|樱桃小丸子(1990)
+1842|4|zh-Hans|樱桃小丸子(1995)
 1841|2|zh-Hans|樱桃小丸子(第一期)
 12602|4|zh-Hans|樱花任务
 400|4|zh-Hans|樱花大战
@@ -92290,6 +92331,7 @@
 16389|4|zh-Hant|異世界歸來的舅舅
 18702|4|ja|異世界黙示録マイノグーラ
 18702|2|ja|異世界黙示録マイノグーラ ～破滅の文明で始める世界征服～
+19507|4|zh-Hant|異世界的處置依社畜而定
 16325|4|ja|異世界美少女受肉おじさんと
 18098|4|zh-Hant|異世界自殺突擊隊
 16389|2|zh-Hant|異世界舅舅
@@ -92308,6 +92350,7 @@
 11033|4|ja|異国なレトロ
 5453|4|ja|異国色恋浪漫譚
 8180|4|ja|異国迷路のクロワーゼ The Animation La croisée dans un labyrinthe étranger
+18610|4|zh-Hant|異國日記
 8180|4|zh-Hant|異國迷宮的十字路口
 11776|4|ja|異字元合体もじバケるZ
 14716|4|ja|異常生物見聞録
@@ -94104,6 +94147,8 @@
 17184|4|zh-Hans|花开张美丽
 6988|4|ja|花折り
 16737|4|zh-Hans|花果山传
+18636|4|zh-Hans|花样少年少女
+18636|4|zh-Hant|花樣少年少女
 8538|4|zh-Hans|花牌情缘
 9261|4|zh-Hans|花牌情缘 2
 13841|2|zh-Hans|花牌情缘3
@@ -94420,6 +94465,8 @@
 9296|4|ja|藤子不二雄のキテレツ大百科
 19557|4|ja|藤本タツキ17-26
 17870|4|zh-Hant|藥師少女的獨語
+19046|4|zh-Hans|蘑菇魔女
+19046|4|zh-Hant|蘑菇魔女
 16853|4|zh-Hans|蘿蔔回來了
 18905|2|x-zht|虎x鹤妖师录
 5909|2|zh-Hans|虎X龙
@@ -94872,6 +94919,7 @@
 12635|2|ja|貴方ハ私ノモノ ドS彼女とドM彼氏
 12635|2|ja|貴方ハ私ノモノドS彼女とドM彼氏
 19087|4|ja|貴族転生 ~恵まれた生まれから最強の力を得る~
+19087|4|zh-Hant|貴族轉生～得天眷顧一出生就獲得最強力量～
 19714|4|ja|貸した魔力は【リボ払い】で強制徴収~用済みとパーティー追放された俺は, 可愛いサポート妖精と一緒に取り立てた魔力を運用して最強を目指す.~
 19077|4|zh-Hant|費馬的料理
 18192|4|ja|貼りまわれ! こいぬ
@@ -94906,6 +94954,7 @@
 4492|2|zh-Hans|贫穷姊妹物语
 4492|4|zh-Hans|贫穷姐妹物语
 1373|4|zh-Hans|贮金大冒险
+19087|4|zh-Hans|贵族转生 ～得天眷顾一出生就获得最强力量～
 19077|4|zh-Hans|费马的料理
 16256|4|zh-Hans|贾希大人不气馁！
 5427|2|zh-Hans|赌博默示录
@@ -95182,9 +95231,11 @@
 16564|4|zh-Hans|身为女主角！～被讨厌的女主角和秘密的工作～
 17688|4|zh-Hans|身为悲剧始作俑者的最强邪恶BOSS女王为民竭心尽力
 19162|4|zh-Hans|身为暗杀者的我明显比勇者还强
+19440|4|zh-Hans|身为魔族的我想向勇者小队的可爱女孩告白。
 17686|4|zh-Hans|身为魔王的我娶了奴隶精灵为妻，该如何表白我的爱？
 16087|4|ja|身体で解決♡ 百鬼屋探偵事務所 ~百鬼屋 光の妖怪事件簿~
 19162|4|zh-Hant|身為暗殺者的我明顯比勇者還強
+19440|4|zh-Hant|身為魔族的我 想向勇者小隊的可愛女孩告白
 17686|4|zh-Hant|身為魔王的我娶了奴隸精靈為妻，該如何表白我的愛？
 4306|4|ja|車畜~車の中で飼ってます~
 14350|4|ja|軌跡
@@ -95422,6 +95473,8 @@
 7262|4|ja|透明人間R
 14936|4|ja|透明少年探偵アキラ
 19015|4|ja|透明男と人間女~そのうち夫婦になるふたり~
+19015|4|zh-Hans|透明男与人类女～不久成为夫妇的二人～
+19015|4|zh-Hant|透明男子與人類女孩～兩人遲早會成為夫妻～
 483|4|zh-Hans|透镜人
 7316|4|ja|這いよる! ニャルアニ
 7992|4|ja|這いよる!ニャルアニ リメンバー・マイ・ラブ(クラフト先生)
@@ -96078,6 +96131,7 @@
 18754|4|ja|闇芝居 13
 19086|4|ja|闇芝居 14
 19426|4|ja|闇芝居 15
+19825|4|ja|闇芝居 16
 10717|4|ja|闇芝居 2
 11748|4|ja|闇芝居 3
 12575|4|ja|闇芝居 4
@@ -96096,6 +96150,7 @@
 18754|2|ja|闇芝居 十三期
 18402|2|ja|闇芝居 十二期
 19426|2|ja|闇芝居 十五期
+19825|2|ja|闇芝居 十六期
 19086|2|ja|闇芝居 十四期
 17057|2|ja|闇芝居 十期
 12575|2|ja|闇芝居 四期
@@ -96183,6 +96238,7 @@
 4207|4|zh-Hans|阿尔·卡拉尔的遗产
 426|4|zh-Hans|阿尔卑斯山的少女
 10910|2|zh-Hans|阿尔斯兰战记
+18967|4|zh-Hans|阿尔涅的事件簿
 19116|4|zh-Hans|阿尔玛酱想成为家人
 15013|4|zh-Hans|阿尔蒂
 14560|2|zh-Hant|阿拉徳: 宿命之門
@@ -96200,6 +96256,7 @@
 18798|4|ja|阿波連さんははかれない season2
 106|2|zh|阿滋漫画大王
 106|4|zh-Hans|阿滋漫画大王
+18967|4|zh-Hant|阿爾涅事件簿
 15013|4|zh-Hant|阿爾蒂
 12148|4|zh-Hans|阿童木起源
 10202|4|zh-Hans|阿茹茉妮
@@ -96517,6 +96574,7 @@
 17862|4|zh-Hant|青春豬頭少年不會夢到紅書包女孩
 18300|4|zh-Hant|青春豬頭少年不會夢到聖誕服女郎
 11620|4|ja|青木生命保険
+19266|4|zh-Hant|青梅竹馬的戀愛喜劇無法成立
 15756|4|zh-Hans|青梅竹马绝对不会输的恋爱喜剧
 1298|2|zh-Hans|青涩宝贝
 5019|2|zh-Hans|青空
@@ -96550,6 +96608,7 @@
 9180|4|zh|靠岸
 18438|4|zh-Hans|靠废柴技能【状态异常】成为最强的我将蹂躏一切
 18438|4|zh-Hant|靠廢柴技能【狀態異常】成為最強的我將蹂躪一切
+18845|4|zh-Hans|靠死亡游戏混饭吃。
 18845|4|zh-Hant|靠死亡遊戲混飯吃。
 17878|4|zh-Hans|靠著魔法药水在异世界活下去
 17878|4|zh-Hant|靠著魔法藥水在異世界活下去
@@ -97046,6 +97105,7 @@
 15482|4|zh-Hans|魔术士奥芬的无赖之旅 基姆拉克篇
 17644|4|zh-Hans|魔术士奥芬的无赖之旅 拉玛城篇
 14467|4|zh-Hans|魔术学姐
+19131|4|zh-Hans|魔术师库诺看得见一切
 7469|2|zh-Hans|魔术快斗
 10749|4|zh-Hans|魔术快斗1412
 11794|4|ja|魔法つかいプリキュア!
@@ -97355,6 +97415,7 @@
 15482|4|ja|魔術士オーフェンはぐれ旅 キムラック編
 17912|4|ja|魔術士オーフェンはぐれ旅 聖域編
 19131|4|ja|魔術師クノンは見えている
+19131|4|zh-Hant|魔術師庫諾看得見一切
 18382|4|zh-Hans|魔装传说
 11638|4|zh-Hans|魔装学园HxH
 11638|4|ja|魔装学園HxH
@@ -97377,6 +97438,8 @@
 16982|4|ja|魔都精兵のスレイブ
 18548|4|ja|魔都精兵のスレイブ2
 16982|4|zh-Hans|魔都精兵的奴隶
+18548|4|zh-Hans|魔都精兵的奴隶 第二季
+18548|4|zh-Hant|魔都精兵的奴隸 第二季
 16982|2|ja|魔防隊
 9717|4|zh-Hans|魔鬼恋人
 11491|4|zh-Hans|魔鬼恋人 OAD
