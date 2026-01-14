@@ -1,4 +1,4 @@
-# created: Mon Jan 12 03:00:02 2026
+# created: Tue Jan 13 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -667,10 +667,8 @@
 16934|4|ja|3秒後, 野獣. ~合コンで隅にいた彼は淫らな肉食でした
 18236|4|en|4 Cut Hero
 11217|1|x-jat|4 Eyes
-19603|4|en|4 Week Lovers
 7243|2|en|4-1/2 Tatami Mythological Chronicles
 2758|1|x-jat|4-Day Weekend
-19603|1|x-kot|4-ju Aein
 11217|2|ja|4・Eyes
 7243|2|en|4.5 Tatami Mythological Chronicles
 11217|2|x-jat|4.eyes
@@ -4950,6 +4948,8 @@
 14076|4|en|Bang Dream! 3rd Season
 18194|4|ja|BanG Dream! Ave Mujica
 18194|1|x-jat|Bang Dream! Ave Mujica
+19829|4|ja|BanG Dream! Ave Mujica prima aurora
+19829|1|x-jat|Bang Dream! Ave Mujica: Prima Aurora
 15516|4|en|BanG Dream! Episode of Roselia
 14802|1|x-jat|Bang Dream! Film Live
 14802|4|ja|BanG Dream! FILM LIVE
@@ -10378,6 +10378,7 @@
 1611|4|ko|D·N·A² ~어딘가에서 잃어버린 그 녀석의 그 녀석~ OVA
 2707|4|it|D`Artacan
 2707|4|es|D`Artacan y los tres mosqueperros
+2707|4|pt|D`Artacão e os Três Moscãoteiros
 1962|4|it|D`Artagnan e i moschettieri del re
 3639|4|it|D`Artagnan e i moschettieri del Re - La grande avventura di Aramis
 1962|4|pt|D`Artagnan e os Três Mosqueteiros
@@ -10439,6 +10440,7 @@
 18443|1|x-zht|Da Yuzhou Shidai
 16541|1|x-zht|Da Zhu Zai
 18028|1|x-zht|Da Zhu Zai Nian Fan
+19826|1|x-zht|Da Zhu Zai Nian Fan 2
 16703|1|x-zht|Da Zuiba Dudu
 561|3|x-jat|DA02
 351|1|x-jat|Daa! Daa! Daa!
@@ -10855,7 +10857,6 @@
 13259|4|de|Darling in the Franxx
 13259|4|pl|Darling in the Franxx
 1128|2|en|Darling Page
-2707|4|pt|Dartacão e os Três Moscãoteiros
 18646|1|x-jat|Darwin Jihen
 14476|1|x-jat|Darwin`s Game
 14476|4|en|Darwin`s Game
@@ -11842,6 +11843,7 @@
 832|2|en|Detective Goddess
 617|2|en|Detective Holmes
 617|2|es|Detective Holmes
+19830|1|x-jat|Detective Jia an
 1240|2|en|Detective Kindaichi Jr.`s Cases
 7627|2|en|Detective Opera Milky Holmes
 8594|4|en|Detective Opera Milky Holmes 2
@@ -40616,7 +40618,7 @@
 11756|1|x-jat|Oshiete! Galko-chan
 12350|1|x-jat|Oshiete! Galko-chan: Natsuyasumitte Hontou Desuka?
 11756|2|x-jat|Oshiete! Gyaruko-chan
-19643|2|x-jat|Oshikake! Bakunyuu Gal Harem Seikatsu
+19643|1|x-jat|Oshikake! Bakunyuu Gal Harem Seikatsu
 5505|1|x-jat|Oshin
 8711|1|x-jat|Oshioki: Gakuen Reijou Kousei Keikaku
 12978|1|x-jat|Oshiri Kajiri Mushi
@@ -40858,7 +40860,6 @@
 19704|1|x-jat|OVA Kegareboshi
 13769|1|x-jat|OVA Muttsuri Do Sukebe Ro Gibo Shimai no Honshitsu Minuite Sex Zanmai
 19547|1|x-jat|OVA Natsu Zuma
-19643|1|x-jat|OVA Oshikake! Bakunyuu Gyaru Harem Seikatsu
 19414|1|x-jat|OVA Pure Pure Pero Pero Princess
 19514|1|x-jat|OVA Sister Breeder
 11268|1|x-jat|OVA Tokyo Ghoul
@@ -40875,7 +40876,6 @@
 16328|2|ko|OVA 사신창관―음란 거유 모녀 산 제물의식
 15780|2|ko|OVA 수국이 질 때
 6285|4|ja|OVA うたわれるもの
-19643|4|ja|OVA おしかけ! 爆乳ギャルハーレム性活
 19704|4|ja|OVA ケガレボシ
 19514|4|ja|OVA シスターブリーダー
 18049|2|ja|OVA ツンデロシリーズ
@@ -50920,6 +50920,7 @@
 9209|2|ja|STARLESS
 9209|4|ja|STARLESS 21st Century nymphomaniacs.
 9209|1|x-jat|Starless: 21st Century Nymphomaniacs.
+19827|1|x-jat|Starlight Project
 14130|4|en|Starlight Promises
 4822|1|x-jat|Starlight Scramble Ren`ai Kouhosei
 12488|2|x-jat|Starly Girls
@@ -52446,6 +52447,7 @@
 9482|2|tr|Tanrısız Pazar Günü
 8143|1|x-jat|Tansu Warashi.
 642|1|x-jat|Tantei Gakuen Q
+19830|4|ja|Tantei Kaan
 10841|1|x-jat|Tantei Kageki Milky Holmes TD
 7627|1|x-jat|Tantei Opera Milky Holmes
 13591|2|en|Tantei Opera Milky Holmes - Arsene`s great desire
@@ -61567,6 +61569,8 @@
 5635|2|x-jat|Zero no Tsukaima: Princess no Rondo
 5635|1|x-jat|Zero no Tsukaima: Princesses no Rondo
 2424|2|en|Zero Person
+19828|1|x-jat|Zero Rise
+19828|4|ja|ZERO RISE
 13265|2|x-jat|Zero Seiki
 2616|4|ja|ZERO SUM GAME -SEX CRIME-
 2616|2|ja|ZERO SUM GAME ~セックスクライム~
@@ -72465,6 +72469,8 @@
 13188|4|ko|정글히어로
 889|2|ko|정들면 고향 코스모스장
 9999|2|ko|정령사의 검무
+15875|4|ko|정령환상기
+16962|4|ko|정령환상기 2
 9941|2|ko|정말로 있었던 여자0생 비밀 아르바이트
 17012|2|ko|정원 ～타카미네가의 이륜화～
 14747|4|ko|정원의 뱀파이어
@@ -74519,6 +74525,7 @@
 5450|4|ja|おしえてRe:メイド
 15385|4|ja|おしえて北斎! -THE ANIMATION-
 13811|4|ja|おしえて魔法のペンデュラム ~リルリルフェアリル~
+19643|4|ja|おしかけ! 爆乳ギャルハーレム性活
 14087|5|ja|おしがぶどうかんいってくれたらしぬ
 18355|4|ja|おじさんで埋める穴 THE ANIMATION
 11322|4|ja|おじさんとマシュマロ
@@ -76752,6 +76759,7 @@
 12488|2|ja|スターリーガールズ
 10082|4|ja|スターリーテイルズ -星座は時をこえて-
 6100|2|ja|スター誕生
+19827|4|ja|スタァライトプロジェクト
 1610|4|ja|スタイアー ~放課後のアルバム~
 17173|4|ja|スタこれ
 7240|3|ja|スタスカ
@@ -85470,6 +85478,7 @@
 16699|4|zh-Hans|大世界
 16541|4|zh-Hans|大主宰
 18028|4|zh-Hans|大主宰年番
+19826|4|zh-Hans|大主宰年番2
 15697|4|ja|大人にゃ恋の仕方がわからねぇ!
 9559|4|ja|大人女子のアニメタイム 2
 8208|4|ja|大人女子のアニメタイム「川面を滑る風」
@@ -86861,6 +86870,7 @@
 13152|2|ja|少女☆歌劇 レヴュー・スタァライト
 13152|4|ja|少女☆歌劇 レヴュースタァライト
 15254|4|ja|少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド
+19827|2|ja|少女☆歌劇 レヴュースタァライト 完全新作
 9246|4|ja|少女x少女x少女 THE ANIMATION
 11876|4|ja|少女から娼女へ...
 5931|4|ja|少女セクト ~Innocent Lovers~
