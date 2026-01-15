@@ -1,4 +1,4 @@
-# created: Tue Jan 13 03:00:01 2026
+# created: Wed Jan 14 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -28953,12 +28953,12 @@
 10097|1|x-jat|Kono Sora no Shita de
 16446|1|x-jat|Kono Subarashii Sekai ni Bakuen o!
 11261|1|x-jat|Kono Subarashii Sekai ni Shukufuku o!
-19213|1|x-jat|Kono Subarashii Sekai ni Shukufuku o! (Zokuhen)
 11992|1|x-jat|Kono Subarashii Sekai ni Shukufuku o! 2
 13317|2|en|Kono Subarashii Sekai ni Shukufuku o! 2 Episode 11
 13317|1|x-jat|Kono Subarashii Sekai ni Shukufuku o! 2: Kono Subarashii Geijutsu ni Shukufuku o!
 17431|1|x-jat|Kono Subarashii Sekai ni Shukufuku o! 3
 18865|1|x-jat|Kono Subarashii Sekai ni Shukufuku o! 3 Bonus Stage
+19213|1|x-jat|Kono Subarashii Sekai ni Shukufuku o! 4
 11854|2|en|Kono Subarashii Sekai ni Shukufuku o! Episode 11
 11854|1|x-jat|Kono Subarashii Sekai ni Shukufuku o! Kono Subarashii Choker ni Shukufuku o!
 13310|1|x-jat|Kono Subarashii Sekai ni Shukufuku o! Kurenai Densetsu
@@ -29005,6 +29005,7 @@
 13317|2|en|Konosuba: God`s Blessing on This Wonderful World! 2 God`s Blessing on This Wonderful Work of Art!
 17431|4|en|Konosuba: God`s Blessing on This Wonderful World! 3
 18865|4|en|Konosuba: God`s Blessing on This Wonderful World! 3 Bonus Stage
+19213|2|en|Konosuba: God`s Blessing on This Wonderful World! 4
 11854|4|en|Konosuba: God`s Blessing on This Wonderful World! God`s Blessing on This Wonderful Choker!
 11992|4|pt-BR|KONOSUBA! 2 As bençãos de Deus neste mundo maravilhoso!
 13310|4|de|Konosuba! Legend of Crimson
@@ -33657,6 +33658,7 @@
 4474|3|x-jat|Mamololli
 611|2|x-jat|Mamono Hunter Yohko
 611|1|x-jat|Mamono Hunter Youko
+19831|1|x-jat|Mamonogurai no Boukensha: Ore dake Mamono o Kuratte Tsuyoku Naru
 4529|3|x-jat|mamoru
 17113|1|x-jat|Mamoru Beki Mono
 4529|3|x-jat|mamoru-kun
@@ -36201,6 +36203,7 @@
 19326|2|en|Monster But Wild 2nd Season
 1023|2|en|Monster City
 1248|2|en|Monster Classroom
+19831|2|en|Monster Eater
 11062|2|en|Monster Family House: The Nightmare of Living With Family Who Rape My Girlfriend
 4695|2|x-jat|Monster Farm 2
 4106|1|x-jat|Monster Farm 5: Circus Caravan
@@ -49886,6 +49889,10 @@
 5019|1|x-jat|Sola
 5019|2|x-jat|Sola TV
 1350|2|ja|SOL·BIANCA
+16982|2|pt-BR|Soldado Acorrentado
+16982|4|pt|Soldado Acorrentado
+18548|2|pt-BR|Soldado Acorrentado 2
+18548|4|pt|Soldado Acorrentado 2
 13410|4|pt|Soldados Do Universo: Traidor De Marte
 11545|4|es-419|Soldados Valientes
 5261|1|x-jat|Soliton no Akuma
@@ -72742,6 +72749,8 @@
 17346|2|ko|치욕+ ~들켜버린 수치심~
 1970|2|ko|치욕감금 ~타락한 천사들~
 11975|2|ko|치욕의 제복
+16537|4|ko|치유마법의 잘못된 사용법
+18799|4|ko|치유마법의 잘못된 사용법 2
 5030|2|ko|치유해줄께 서유기
 15140|2|ko|치이짱 개발일기
 16400|2|ko|치즈루짱 개발일기
@@ -76004,11 +76013,11 @@
 16446|4|ja|この素晴らしい世界に爆焔を!
 11854|2|ja|この素晴らしい世界に祝福を OAD
 11261|4|ja|この素晴らしい世界に祝福を!
-19213|4|ja|この素晴らしい世界に祝福を! (続編)
 11992|4|ja|この素晴らしい世界に祝福を! 2
 13317|4|ja|この素晴らしい世界に祝福を! 2 この素晴らしい芸術に祝福を!
 17431|4|ja|この素晴らしい世界に祝福を! 3
 18865|4|ja|この素晴らしい世界に祝福を! 3 -BONUS STAGE-
+19213|4|ja|この素晴らしい世界に祝福を! 4
 11854|4|ja|この素晴らしい世界に祝福を! この素晴らしいチョーカーに祝福を!
 13310|4|ja|この素晴らしい世界に祝福を! 紅伝説
 11735|3|ja|この美
@@ -97354,6 +97363,7 @@
 127|2|zh-Hans|魔法骑士
 423|4|zh-Hans|魔法骑士雷阿斯OVA
 611|4|ja|魔物ハンター妖子
+19831|4|ja|魔物喰らいの冒険者 ~俺だけ魔物を喰らって強くなる~
 11130|4|zh-Hans|魔物娘的同居日常
 11926|4|zh-Hans|魔物娘的同居日常 OAD
 15266|4|zh-Hant|魔物娘的醫生
