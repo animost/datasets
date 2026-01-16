@@ -1,4 +1,4 @@
-# created: Wed Jan 14 03:00:02 2026
+# created: Thu Jan 15 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -14796,6 +14796,7 @@
 17026|4|es|El imaginario
 17026|4|es-419|El imaginario
 10952|4|es|El imperio de los cadáveres
+18646|4|es-419|El incidente Darwin
 18646|4|es|El incidente Darwin
 1218|4|es-419|El Increíble Castillo Vagabundo
 9589|4|es|El Jardín de las Palabras
@@ -16998,6 +16999,7 @@
 6482|1|x-jat|Fruits Version
 17343|4|ro|Frumoasa luptătoare Sailor Moon Cosmos: Filmul
 12754|4|ro|Frumoasa luptătoare Sailor Moon Eternal: Filmul
+18093|3|x-jat|FSF
 3348|3|x-jat|fsn
 9977|3|x-jat|FSN 2014
 10760|3|x-jat|FSN 2015
@@ -24718,6 +24720,7 @@
 12374|4|de|Interviews mit Monster-Mädchen
 12374|4|en|Interviews with Monster Girls
 1336|4|de|Intime Sprechstunde
+19833|1|en|Into a Landscape
 8289|2|en|Into the Forest of Fireflies` Light
 19136|4|en|Into the Mortal World
 4193|4|ro|Întoarcerea Dragonilor
@@ -40610,6 +40613,7 @@
 18901|4|en|Oshi no Ko (2026)
 18086|2|x-jat|Oshi no Ko 2
 18901|2|en|Oshi no Ko 3
+18901|2|x-jat|Oshi no Ko S3
 18086|2|x-jat|Oshi no Ko Season 2
 17449|4|de|Oshi no Ko: Mein Star
 14087|3|x-jat|Oshibudou
@@ -53027,7 +53031,7 @@
 12451|1|x-jat|Tenshi no Three Piece!
 18225|3|x-jat|tenshitsuki
 18527|1|x-jat|Tensui no Sakuna-hime
-18986|1|x-jat|Tensui no Sakuna-hime (2026)
+18986|1|x-jat|Tensui no Sakuna-hime: Kokoro wa Inasaku Nisshi
 13871|3|x-jat|tensura
 15456|3|x-jat|Tensura (2021 Part 2)
 14767|3|en|TenSura 2
@@ -56836,6 +56840,7 @@
 14740|4|ja|Tug-Tug
 570|4|lt|Tūkstantmečio aktorė
 332|4|fi|Tulikärpästen hauta
+19832|1|x-jat|Tulip-chan
 18847|2|pt-BR|Tumba dos Deuses Caídos 2
 17522|2|pt|Túmulo dos Deuses
 18847|2|pt|Túmulo dos Deuses 2
@@ -60814,6 +60819,10 @@
 10200|2|en|Young Animator Training Project 2014 2
 10199|2|en|Young Animator Training Project 2014 3
 10201|2|en|Young Animator Training Project 2014 4
+11100|2|en|Young Animator Training Project 2015 1
+11101|2|en|Young Animator Training Project 2015 2
+11102|2|en|Young Animator Training Project 2015 3
+11103|2|en|Young Animator Training Project 2015 4
 2981|2|en|Young Ashibe
 2982|2|en|Young Ashibe 2
 11887|2|en|Young Ashibe: Go! Go! Goma-chan
@@ -69349,6 +69358,7 @@
 15113|4|th|ดาบพิฆาตอสูร เดอะมูฟวี่ : ศึกรถไฟสู่นิรันดร์
 17198|4|th|ดาบพิฆาตอสูร ภาคหมู่บ้านช่างตีดาบ
 13946|4|th|ดาบล่าพญามาร โดโรโระ
+18646|4|th|ดาร์วิน พันธุ์อุบัติใหม่‬
 930|4|th|ดิจิการัต เนี้ยว เหมียวซ่าอลวน!!
 4549|4|th|ดีเกรย์แมน
 18285|4|th|ดีมอนของผม
@@ -70398,6 +70408,7 @@
 11545|4|ko|다람이와 고슴도치
 13300|4|ko|다메프리 애니메 카라반
 5005|2|ko|다비드의 별
+18646|4|ko|다윈 사변‬
 9596|4|ko|다윗과 골리앗
 4527|2|ko|다이버스터 극장판
 18832|2|ko|다이쇼 가짜 브라이덜 대리신부와 군복의 맹렬한 사랑
@@ -77500,6 +77511,7 @@
 12392|4|ja|チャンネル5.5 3rd Season
 12393|4|ja|チャンネル5.5 Season4
 7124|4|ja|ちゅーぶら!!
+19832|4|ja|チューリップちゃん
 9391|4|ja|ちゅうずもう
 7641|4|ja|チュウチュウバンバン
 3104|4|ja|ちゅっ^2
@@ -85778,7 +85790,7 @@
 16447|4|ja|天神
 29|3|ja|天禁
 18527|4|ja|天穂のサクナヒメ
-18986|4|ja|天穂のサクナヒメ (2026)
+18986|4|ja|天穂のサクナヒメ ココロワ稲作日誌
 18527|4|zh-Hans|天穗之咲稻姬
 184|4|ja|天空のエスカフローネ
 331|4|ja|天空の城ラピュタ
@@ -95372,6 +95384,7 @@
 7738|3|ja|農ムス
 7738|4|ja|農業ムスメ!
 17222|4|ja|農民関連のスキルばっか上げてたら何故か強くなった.
+18646|4|zh-Hans|达尔文事变
 14476|4|zh-Hans|达尔文游戏
 19166|4|zh-Hans|过分色气的深见君
 18388|4|zh-Hans|近战法师
@@ -95606,6 +95619,7 @@
 5779|2|zh-Hans|道子与哈金
 6999|4|ja|道成寺
 17682|4|ja|道産子ギャルはなまらめんこい
+18646|4|zh-Hant|達爾文事變‬
 14476|4|zh-Hant|達爾文遊戲
 18610|4|ja|違国日記
 1134|2|zh-Hans|遗作
