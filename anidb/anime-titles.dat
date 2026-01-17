@@ -1,4 +1,4 @@
-# created: Thu Jan 15 03:00:02 2026
+# created: Fri Jan 16 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3623,6 +3623,7 @@
 5126|2|en|Armored Trooper Votoms: Big Battle
 3998|4|en|Armored Trooper Votoms: Brilliantly Shining Heresy
 7920|4|en|Armored Trooper Votoms: Chirico`s Return
+19834|2|en|Armored Trooper Votoms: Die Garue Hexe
 4842|4|en|Armored Trooper Votoms: Origin of Ambition
 5131|4|en|Armored Trooper Votoms: Pailsen Files
 6722|2|en|Armored Trooper Votoms: Pailsen Files - The Movie
@@ -3632,6 +3633,7 @@
 5126|4|en|Armored Trooper Votoms: The Big Battle
 3998|2|en|Armored Trooper Votoms: The Brilliant Heretic
 3998|2|en|Armored Trooper Votoms: The Defrost
+19834|2|en|Armored Trooper Votoms: The Grey Witch
 5125|4|en|Armored Trooper Votoms: The Last Red Shoulder
 7919|2|en|Armored Trooper VOTOMS: VOTOMS Finder
 7433|2|en|Armored Troopers J-Phoenix PF Lips Team
@@ -45982,6 +45984,7 @@
 17695|3|x-jat|S Rank Musume
 19359|1|x-jat|S Rank Party kara Kaiko Sareta "Jugushi": "Noroi no Item" Shika Tsukuremasen ga, Sono Seinou wa Artifact-kyuu nari......!
 5584|2|it|S-A - Special A Class
+18511|4|en|S-CAT
 47|4|en|s-CRY-ed
 47|4|fr|s-CRY-ed
 47|4|pt-BR|s-CRY-ed
@@ -46632,6 +46635,7 @@
 9354|2|x-jat|Salmon-chan
 16634|2|en|Salted Fish
 18466|2|en|Salted Fish 2
+18513|2|x-jat|Salteel
 925|2|fr|Salut les filles
 13866|2|en|Sam and Chip’s Great Messy Race
 13866|1|x-jat|Sam to Chip no Hachamecha Dai Race
@@ -50218,6 +50222,7 @@
 5126|1|x-jat|Soukou Kihei Votoms: Big Battle
 7918|1|x-jat|Soukou Kihei Votoms: Case;Irvine
 7279|1|x-jat|Soukou Kihei Votoms: Gen`ei Hen
+19834|1|x-jat|Soukou Kihei Votoms: Haiiro no Hexe
 3998|1|x-jat|Soukou Kihei Votoms: Kakuyaku Taru Itan
 7920|1|x-jat|Soukou Kihei Votoms: Koei Futatabi
 9843|2|x-jat|Soukou Kihei Votoms: Kumen
@@ -59001,6 +59006,7 @@
 18744|2|en|What A Scandal
 17337|2|en|What God Does in a World Without Gods
 8027|2|en|What if a Female Manager of a High School Baseball Team Read Drucker`s `Management`?
+17894|2|en|What If a High School Girl Became a Shrine Maiden in the Metaverse
 8503|2|en|What Is Happiness?
 2675|2|en|What is It?
 8209|2|en|What is not Romance?
@@ -60823,6 +60829,45 @@
 11101|2|en|Young Animator Training Project 2015 2
 11102|2|en|Young Animator Training Project 2015 3
 11103|2|en|Young Animator Training Project 2015 4
+11282|2|en|Young Animator Training Project 2016 1
+11278|2|en|Young Animator Training Project 2016 2
+11279|2|en|Young Animator Training Project 2016 3
+11281|2|en|Young Animator Training Project 2016 4
+12153|2|en|Young Animator Training Project 2017 1
+11473|2|en|Young Animator Training Project 2017 2
+12155|2|en|Young Animator Training Project 2017 3
+12156|2|en|Young Animator Training Project 2017 4
+13211|2|en|Young Animator Training Project 2018 1
+13212|2|en|Young Animator Training Project 2018 2
+13213|2|en|Young Animator Training Project 2018 3
+13214|2|en|Young Animator Training Project 2018 4
+14178|2|en|Young Animator Training Project 2019 1
+14180|2|en|Young Animator Training Project 2019 2
+14179|2|en|Young Animator Training Project 2019 3
+14181|2|en|Young Animator Training Project 2019 4
+14980|2|en|Young Animator Training Project 2020 1
+14981|2|en|Young Animator Training Project 2020 2
+14982|2|en|Young Animator Training Project 2020 3
+16115|2|en|Young Animator Training Project 2021 1
+16116|2|en|Young Animator Training Project 2021 2
+16117|2|en|Young Animator Training Project 2021 3
+16118|2|en|Young Animator Training Project 2021 4
+16447|2|en|Young Animator Training Project 2022 1
+16448|2|en|Young Animator Training Project 2022 2
+16449|2|en|Young Animator Training Project 2022 3
+16450|2|en|Young Animator Training Project 2022 4
+17892|2|en|Young Animator Training Project 2023 1
+17893|2|en|Young Animator Training Project 2023 2
+17894|2|en|Young Animator Training Project 2023 3
+17895|2|en|Young Animator Training Project 2023 4
+18510|2|en|Young Animator Training Project 2024 1
+18511|2|en|Young Animator Training Project 2024 2
+18512|2|en|Young Animator Training Project 2024 3
+18513|2|en|Young Animator Training Project 2024 4
+19168|2|en|Young Animator Training Project 2025 1
+19169|2|en|Young Animator Training Project 2025 2
+19170|2|en|Young Animator Training Project 2025 3
+19171|2|en|Young Animator Training Project 2025 4
 2981|2|en|Young Ashibe
 2982|2|en|Young Ashibe 2
 11887|2|en|Young Ashibe: Go! Go! Goma-chan
@@ -84090,6 +84135,8 @@
 18782|4|ja|勇者パーティーを追放された白魔導師, Sランク冒険者に拾われる ~この白魔導師が規格外すぎる~
 19190|4|ja|勇者パーティを追い出された器用貧乏
 1819|4|ja|勇者ライディーン
+19219|4|zh-Hans|勇者之屑
+19219|4|zh-Hant|勇者之渣
 1710|4|zh-Hans|勇者传说
 18124|4|ja|勇者刑に処す 懲罰勇者9004隊刑務記録
 16653|4|zh-Hans|勇者動畫系列
@@ -84749,6 +84796,7 @@
 8655|4|zh-Hant|命運石之門 負荷領域的既視感
 12690|4|ja|和・和・和 ワッピちゃん
 17637|4|zh-Hans|和山田谈场Lv999的恋爱
+19330|4|zh-Hans|和机器人啪啪啪能算在经验次数里吗？
 11157|4|zh-Hans|和歌子酒
 7598|4|zh-Hans|和殿下一起 1分钟剧场
 8221|4|zh-Hans|和殿下一起～眼罩之野心～
@@ -85135,6 +85183,7 @@
 4638|2|zh-Hans|地狱少女 二笼
 12889|4|zh-Hans|地狱少女 宵伽
 2101|4|zh-Hans|地狱教师 剧场版
+19029|4|zh-Hans|地狱模式 ～喜欢速通游戏的玩家在废设定异世界无双～
 2100|2|zh-Hans|地狱老师
 18767|4|zh-Hans|地狱老师 2025年版
 4017|4|zh-Hans|地狱老师 OVA
@@ -85157,6 +85206,7 @@
 16012|4|ja|地獄楽
 18090|4|ja|地獄楽 第二期
 16012|4|zh-Hant|地獄樂
+19029|4|zh-Hant|地獄模式 ～喜歡挑戰特殊成就的玩家在廢設定的異世界成為無雙～
 10085|4|ja|地獄甲子園
 1416|4|ja|地球[テラ]へ...
 7328|4|ja|地球SOSそれいけコロリン
@@ -85567,6 +85617,7 @@
 15938|4|zh-Hant|大正處女御伽話
 6315|2|zh-Hans|大正野球娘
 6315|4|ja|大正野球娘.
+19181|4|zh-Hant|大江戶烈火殺手
 5473|4|zh|大江户四十八手
 5042|2|zh-Hans|大江户火箭
 5042|4|ja|大江戸ロケット
@@ -90541,6 +90592,7 @@
 777|2|ja|機動警察パトレイバー 劇場版
 395|4|ja|機動警察パトレイバー2 the Movie
 12298|2|ja|機動警察パトレイバーREBOOT
+19330|4|zh-Hant|機器人啪啪啪能算在經驗人數裡嗎？？
 9128|4|zh-Hant|機器人筆記
 1801|4|ja|機巧奇傳 ヒヲウ戦記
 9665|4|ja|機巧少女は傷つかない
@@ -90685,11 +90737,13 @@
 15840|4|ja|死にぞこない係長
 3302|2|zh-Hans|死亡代理人
 9253|4|zh-Hans|死亡台球
+19209|4|zh-Hant|死亡帳號
 10905|4|zh-Hans|死亡游行
 4563|4|zh-Hans|死亡笔记
 8147|4|zh-Hans|死亡笔记特别篇 L的继承者
 8146|4|zh-Hans|死亡笔记特别篇 幻觉之神
 4563|4|zh-Hant|死亡筆記本
+19209|4|zh-Hans|死亡账号
 18845|4|ja|死亡遊戯で飯を食う.
 11255|4|zh-Hans|死亡黑标
 6467|4|zh-Hans|死刑判决
@@ -91342,6 +91396,7 @@
 15184|4|zh-Hans|火力少年王之悠拳英雄
 18233|4|zh-Hans|火力少年王之悠拳英雄 2
 19181|4|ja|火喰鳥 羽州ぼろ鳶組
+19181|4|zh-Hans|火喰鸟 羽州褴褛鸢组
 3286|4|zh-Hans|火圣旅团999.9
 332|4|ja|火垂るの墓
 6987|4|ja|火宅 能「求塚」より
@@ -91454,9 +91509,11 @@
 14488|4|zh-Hans|炎炎消防队
 15335|4|zh-Hans|炎炎消防队 二之章
 17420|4|zh-Hans|炎炎消防队͏ 叁之章
+18742|4|zh-Hans|炎炎消防队 叁之章 第2部分
 15335|2|zh-Hans|炎炎消防队 贰之章
 14488|4|zh-Hant|炎炎消防隊
 17420|4|zh-Hant|炎炎消防隊 參之章
+18742|2|zh-Hant|炎炎消防隊 參之章 2026
 15335|4|zh-Hant|炎炎消防隊 貳之章
 2980|3|ja|炎転
 7028|4|ja|炬燵猫
@@ -92581,6 +92638,7 @@
 9654|4|zh-Hans|直白标题机器人动画
 18719|4|zh-Hant|直至魔女消逝
 18719|4|zh-Hans|直至魔女消逝
+19010|4|zh-Hans|相反的你和我
 16270|4|zh-Hans|相合之物
 2582|4|zh-Hans|相奸连锁
 2582|2|ja|相姦連鎖
@@ -92824,6 +92882,7 @@
 17559|2|zh-Hans|神之塔 第二季
 1258|4|zh-Hans|神八剑传
 1258|4|ja|神八剣伝
+18956|4|zh-Hans|神八小妹不可怕
 15116|4|zh-Hans|神兵小将
 15129|4|zh-Hans|神兵小将2
 17065|2|zh-Hant|神劍闖江湖 ―明治劍客浪漫譚―
@@ -94729,6 +94788,7 @@
 4842|4|ja|装甲騎兵ボトムズ レッドショルダードキュメント野望のルーツ
 7920|4|ja|装甲騎兵ボトムズ 孤影再び
 7279|4|ja|装甲騎兵ボトムズ 幻影篇
+19834|4|ja|装甲騎兵ボトムズ 灰色の魔女
 3998|4|ja|装甲騎兵ボトムズ 赫奕たる異端
 9846|4|ja|装甲騎兵ボトムズVOL.I STORIES OF THE "A.T.VOTOMS"
 9847|4|ja|装甲騎兵ボトムズVOL.II HIGHLIGHTS FROM THE "A.T.VOTOMS"
@@ -95322,6 +95382,7 @@
 8583|4|zh-Hant|輪迴的 Lagrange
 10122|4|ja|輪郭
 8421|4|zh-Hant|轉吧！企鵝罐
+19217|4|zh-Hant|轉生之後的我變成了龍蛋～目標是世界最強～
 15457|4|zh-Hant|轉生史萊姆日記關於我轉生變成史萊姆這檔事
 16785|2|zh-Hant|轉生就是劍
 18437|4|zh-Hant|轉生後的我成了英雄爸爸和精靈媽媽的女兒
@@ -95337,6 +95398,7 @@
 14237|4|zh-Hans|轩辕剑
 17702|4|zh-Hans|转生为第七王子，随心所欲的魔法学习之路
 18694|4|zh-Hans|转生为第七王子，随心所欲的魔法学习之路 第二季
+19217|4|zh-Hans|转生之后的我变成了龙蛋
 18437|2|zh-Hant|转生后的我成了英雄爸爸和精灵妈妈的女儿
 18497|4|zh-Hans|转生恶女的黑历史
 14449|4|zh-Hans|转生成为了只有乙女游戏破灭Flag的邪恶大小姐
@@ -96882,9 +96944,11 @@
 5582|4|zh-Hans|高岭的自行车
 17990|4|ja|高手
 739|2|zh-Hans|高智能方程式
+19657|4|zh-Hant|高校！奇面組
 15408|4|zh-Hans|高校之神
 15408|4|zh-Hant|高校之神
 1356|4|zh-Hans|高校奇面组
+19657|2|zh-Hans|高校奇面组 2026
 11144|4|zh-Hans|高校星歌剧
 13510|4|zh-Hans|高校星歌剧 第三季
 13511|2|ja|高校星歌劇 OVA
