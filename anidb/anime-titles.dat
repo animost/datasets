@@ -1,4 +1,4 @@
-# created: Fri Jan 16 03:00:02 2026
+# created: Sat Jan 17 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2687,7 +2687,7 @@
 911|1|x-jat|Android Ana Maico 2010
 911|2|en|Android Announcer Maico 2010
 980|4|en|Android Kikaider - The Animation
-19330|1|x-jat|Android wa Keiken Ninzuu ni Hairimasu ka??
+19330|1|x-jat|Android wa Keiken Ninzuu ni Hairimasuka??
 4255|2|es|Androide Rosa
 650|4|de|AndroMaid Aki
 5250|4|it|Andromeda galassia perduta
@@ -11369,7 +11369,7 @@
 1023|4|fr|Demon City Shinjuku
 632|2|en|Demon Detective Roki - Ragnarok
 6754|2|en|Demon Father
-10920|4|en|Demon Father 2: Harvest
+10920|4|en|Demon Father 2: Harvest - The Happy Sex Days of the Innocent Busty
 10061|4|en|Demon Father 2: Revenge
 8285|2|en|Demon Father Re-birth
 8761|2|x-unk|Demon Father: Reborn
@@ -12679,6 +12679,7 @@
 2707|2|de|Dogtanian und die drei Musketiere
 1746|3|en|dogtato
 1746|4|en|Dogtato-kun
+19838|2|x-kot|Dogul Wang
 17680|1|x-jat|Dogura Magura
 7493|1|x-jat|Dohyou no Oni-tachi
 5071|2|ja|Dōjin Wāku
@@ -13225,6 +13226,7 @@
 5071|1|x-jat|Doujin Work
 6999|1|x-jat|Doujou-ji
 9704|1|x-jat|Doukoku no Nightmare
+19839|1|x-jat|Doukyo Shite Iru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase Desu
 18157|1|x-jat|Doukyo Suru Neneki
 14253|1|x-jat|Doukyonin wa Hiza, Tokidoki, Atama no Ue.
 11134|4|en|Doukyusei Classmates
@@ -16924,6 +16926,7 @@
 18886|4|en|Frieren: Beyond Journey`s End (2026)
 17617|4|es-419|Frieren: Más allá del final del viaje
 17617|4|de|Frieren: Nach dem Ende der Reise
+18886|4|de|Frieren: Nach dem Ende der Reise Staffel 2
 17617|4|es|Frieren: Tras finalizar el viaje
 17617|4|pl|Frieren. U kresu drogi
 1113|4|de|Frivole Unschuld
@@ -20135,6 +20138,7 @@
 15667|2|x-zht|Guan Hai Ce zhi Tie Qi Xiang Guan
 15667|1|x-zht|Guan Hai Ce: Tieqi Xiangguan
 17854|1|x-zht|Guan Miao Shenmeshi
+19835|1|x-zht|Guangyin Zhi Wai
 606|2|en|Guard Earth and Advanced Reconnaissance Fighter Dendo
 5511|2|en|Guardian Fairy Michel
 783|1|x-jat|Guardian Hearts
@@ -22676,6 +22680,7 @@
 4853|1|x-jat|Hitohira
 2683|1|x-jat|Hitomi no Naka no Shounen: 15 Shounen Hyouryuuki
 13989|2|en|Hitori Bocchi`s Life
+19840|4|en|Hitori no Shita - The Outcast - Rust Iron Returns
 13068|2|x-jat|Hitori no Shita - The Outcast S2
 19808|2|x-jat|Hitori no Shita - The Outcast S6
 12200|1|x-jat|Hitori no Shita: The Outcast
@@ -25182,6 +25187,7 @@
 15519|1|x-jat|Iwa Kakeru! Sport Climbing Girls
 15519|3|x-jat|Iwaka
 15519|4|en|Iwakakeru: Sport Climbing Girls
+19837|1|x-jat|Iwamoto-senpai no Suisen
 18240|1|x-jat|Iwata-kun Chi no Obaa-chan
 15073|3|ja|IWGP
 374|3|en|IWYWH
@@ -36855,6 +36861,7 @@
 14622|1|x-jat|Mutafukaz
 14622|4|fr|Mutafukaz
 2641|1|x-jat|Mutant Turtles: Choujin Densetsu Hen
+2641|2|en|Mutant Turtles: The Legend Of Super Mutants
 1812|1|x-jat|Muteki Choujin Zanbot 3
 4381|1|x-jat|Muteki Kanban Musume
 1813|1|x-jat|Muteki Koujin Daitarn 3
@@ -40099,7 +40106,7 @@
 4398|1|x-jat|Oni
 6754|1|x-jat|Oni Chichi
 7850|1|x-jat|Oni Chichi 2
-10920|1|x-jat|Oni Chichi 2: Harvest
+10920|1|x-jat|Oni Chichi 2: Harvest - Tennen Kyonyuu no Hame Utsu Hiyori
 10061|1|x-jat|Oni Chichi 2: Revenge
 18860|1|x-jat|Oni Chichi Harem
 11687|2|en|Oni Chichi Vacation
@@ -44761,6 +44768,7 @@
 17483|2|fr|Récits des exploits scabreux de Colette l’alchimiste
 11175|2|fr|Récolte dystopique
 13082|2|en|Recommend! Godzilland
+19837|2|en|Recommendation from Mr. Iwamoto
 13345|2|en|Recommendation of the Wonderful Virtual Life
 12222|2|en|Reconciliation
 26|2|en|Record of 12 countries
@@ -48289,6 +48297,7 @@
 10238|1|x-zht|Shengshi Chuanshuo
 18428|1|x-zht|Shengsi Huifang
 19388|1|x-zht|Shenguo Zhi Shang
+19841|1|x-zht|Shenkong Bi An
 18932|1|x-zht|Shenlong Xing Zhu
 13852|2|x-unk|Shenme Gui
 16866|1|x-jat|Shenmi Shijie Lixian Ji
@@ -50356,6 +50365,7 @@
 2748|1|x-jat|Soushitsukyou
 17617|1|x-jat|Sousou no Frieren
 18886|1|x-jat|Sousou no Frieren (2026)
+18886|2|x-jat|Sousou no Frieren S2
 13040|1|x-jat|Soutai Sekai
 14430|3|x-jat|soutai sekai movie
 6408|1|x-jat|Souten Kouro
@@ -54432,6 +54442,7 @@
 14091|4|pl|The Orbital Children
 17965|4|en|The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible
 17965|4|de|The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible
+19841|4|en|The Other Side of Deep Space
 15599|2|en|The Outcast 3
 16719|2|en|The Outcast 4
 17095|2|en|The Outcast 5
@@ -55930,6 +55941,7 @@
 19523|2|en|Tomb of Fallen Gods 3
 19523|2|en|Tomb of Fallen Gods 3rd Season
 19523|2|en|Tomb of Fallen Gods Season 3
+19838|2|en|Tomb Raider King
 19229|1|x-jat|Tomb Raider King
 11806|4|en|Tomboy Angels
 18420|2|en|Tombs of Fallen Immortals
@@ -56243,6 +56255,7 @@
 13484|1|x-jat|Touken Ranbu: Hanamaru - Makuai Kaisouroku
 12790|4|en|Touken Ranbu: Hanamaru 2
 10781|1|x-jat|Toukiden Kiwami
+19838|1|x-jat|Toukutsu Ou
 457|2|x-jat|Toukyou Babylon
 2795|2|x-jat|Toukyou Vice
 2554|1|x-jat|Touma Kijin Den Oni
@@ -59798,6 +59811,7 @@
 4856|1|x-zht|Xiangqi Wang
 16632|1|x-zht|Xiangzhe Mingliang Nuo Fang
 19517|1|x-zht|Xiangzhe Xingchen De Changzheng
+19836|1|x-zht|Xianjian Qixiazhuan San
 17598|2|x-zht|Xianshan Liaoluan: Shanhai Juelun
 18356|2|x-zht|Xianwu Dizun
 18356|2|en|Xianwu Emperor
@@ -60450,6 +60464,7 @@
 16719|1|x-zht|Yi Ren Zhixia 4
 17095|1|x-zht|Yi Ren Zhixia 5 Juezhan! Bi You Cun
 19808|1|x-zht|Yi Ren Zhixia 6
+19840|1|x-zht|Yi Ren Zhixia: Xiu Tie Chong Xian
 18469|2|x-zht|Yi Shi Zhi Zun
 15645|1|x-zht|Yi Shijie Zhongyao Pu
 16676|1|x-zht|Yi Shijie Zhongyao Pu (2021)
@@ -61406,7 +61421,7 @@
 957|1|x-jat|Yuusha Ou GaoGaiGar
 1717|1|x-jat|Yuusha Ou GaoGaiGar Final
 3152|1|x-jat|Yuusha Ou GaoGaiGar Final Grand Glorious Gathering
-19440|1|x-jat|Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shite Mita.
+19440|1|x-jat|Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku Shite Mita.
 19440|2|x-jat|Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.
 19190|1|x-jat|Yuusha Party o Oidasareta Kiyoubinbou
 17444|1|x-jat|Yuusha Party o Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau
@@ -70524,6 +70539,7 @@
 19543|2|ko|도S한 펫
 12031|4|ko|도검난무 하나마루
 15659|4|ko|도게자로 부탁해봤다
+19838|4|ko|도굴왕
 9633|4|ko|도깨비 감투
 13196|4|ko|도깨비 방망이
 14606|4|ko|도단이
@@ -81729,6 +81745,7 @@
 13068|2|zh-Hans|一人之下 第二季
 19808|4|zh-Hans|一人之下 第六季
 16719|2|zh|一人之下 第四季
+19840|4|zh-Hans|一人之下 锈铁重现
 13068|4|zh-Hans|一人之下2
 16371|4|zh|一人之下2番外篇天师下山
 15599|2|zh|一人之下3 入世篇
@@ -82571,6 +82588,7 @@
 8521|4|zh-Hans|仙乐传说 世界统合篇
 6814|4|zh-Hans|仙乐传说 迪赛雅兰篇
 3519|4|ja|仙人部落
+19836|4|zh-Hans|仙剑奇侠传三
 18420|4|zh-Hans|仙墓
 19393|4|zh-Hans|仙宠
 19393|2|zh-Hans|仙宠奶凶
@@ -83098,6 +83116,7 @@
 5773|3|zh-Hans|光速大冒险PIPOPA
 2441|4|zh-Hans|光速蒙面侠21
 1929|4|ja|光速電神アルベガス
+19835|4|zh-Hans|光阴之外
 11344|4|zh-Hans|克拉斯卡劳埃德
 13069|4|zh-Hans|克拉斯卡劳埃德 第二季
 19379|4|zh-Hans|克金玩家
@@ -84517,6 +84536,7 @@
 5071|4|zh-Hans|同人WORK
 5071|2|zh-Hans|同人工坊
 5140|4|zh|同学的妈妈
+19839|4|ja|同居している剣聖の女師匠が可愛すぎて毎日幸せです
 18157|4|ja|同居する粘液
 14253|4|ja|同居人はひざ, 時々, 頭のうえ.
 14253|4|zh-Hans|同居人时而在腿上、时而跑到脑袋上
@@ -87123,6 +87143,7 @@
 19083|4|zh-Hans|岁月流逝饭菜依旧美味
 333|2|zh-Hans|岁月的童话
 15089|4|ja|岐阜のたてかよこ
+19837|4|ja|岩元先輩ノ推薦
 1868|4|zh-Hans|岩窟王
 15831|4|ja|岬のマヨイガ
 13812|4|zh-Hans|岸边露伴一动也不动
@@ -91234,6 +91255,7 @@
 6040|2|zh-Hans|深渊传说
 18385|4|zh-Hans|深渊游戏
 19702|4|zh-Hans|深潜 强制倒带
+19841|4|zh-Hans|深空彼岸
 6088|4|zh-Hans|混沌头
 11166|4|zh-Hans|混沌子
 1543|4|zh-Hans|混沌武士
@@ -92618,6 +92640,7 @@
 19106|4|zh-Hans|盒中之海
 18381|4|zh-Hans|盖世帝尊
 16192|2|zh-Hans|盗墓笔记之秦岭神树
+19838|4|ja|盗掘王
 4191|2|zh-Hans|盗梦侦探
 13772|4|zh-Hans|盛世妆娘
 10768|4|ja|監獄学園
@@ -97068,7 +97091,7 @@
 11269|4|ja|鬼父 Refresh
 11687|4|ja|鬼父 化ケーション
 7850|4|ja|鬼父2
-10920|4|ja|鬼父2 -harvest-
+10920|4|ja|鬼父2 -harvest- 天然巨乳のハメ鬱日和
 10061|4|ja|鬼父2 -REVENGE-
 10920|2|ja|鬼父2〜harvest〜
 8285|2|ja|鬼父Re-birth
