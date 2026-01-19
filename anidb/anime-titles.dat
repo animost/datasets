@@ -1,4 +1,4 @@
-# created: Sat Jan 17 03:00:02 2026
+# created: Sun Jan 18 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -198,6 +198,7 @@
 11989|2|ja|【ゾンミちゃん】- ミートパイ オブ ザ デッド -
 13933|4|ja|【ゾンミちゃん】ハロウィン☆スペシャルムービー!
 17724|4|ja|【ブルアカ】1.5周年記念ショートアニメーション
+18901|4|zh-Hans|【我推的孩子】
 18086|2|zh-Hans|【我推的孩子】 第二季
 17724|4|zh-Hans|【碧蓝档案】1.5周年纪念短篇动画
 15249|1|x-jat|**** Kouhai
@@ -18280,6 +18281,7 @@
 5839|1|x-jat|Gekijouban Major: Yuujou no Winning Shot
 552|1|x-jat|Gekijouban Marco: Haha o Tazunete Sanzenri
 12757|1|x-jat|Gekijouban Mazinger Z: Infinity
+19843|1|x-jat|Gekijouban Medalist
 8778|2|x-jat|Gekijouban Meguca
 10240|1|x-jat|Gekijouban Meiji Tokyo Renka
 7520|1|x-jat|Gekijouban Metal Fight Beyblade vs Taiyou: Shakunetsu no Shinryakusha Sol Blaze
@@ -36438,6 +36440,7 @@
 1488|2|en|Most Dangerous Geist II - Death Force
 3436|4|vi|Một Đêm Giông Bão
 8141|4|no|Møte på valmueåsen
+19842|1|x-jat|Mother
 8636|4|en|Mother In Love
 3595|4|en|Mother Knows Breast
 15522|4|en|Mother of the Goddess` Dormitory
@@ -48385,10 +48388,13 @@
 18492|1|x-jat|Shibuya Hachi
 18822|1|x-jat|Shibuya Hachi (2024)
 19274|1|x-jat|Shibuya Hachi (2025)
+19844|1|x-jat|Shibuya Hachi (2025) TV
+19844|2|en|Shibuya Hachi 4
 18822|2|x-jat|Shibuya Hachi Part 2
 18492|4|ja|SHIBUYA♡HACHI
 18822|4|ja|SHIBUYA♡HACHI (2024)
 19274|4|ja|SHIBUYA♡HACHI (2025)
+19844|4|ja|SHIBUYA♡HACHI (2025) TV
 16119|1|x-jat|Shichigahama de Mitsuketa
 853|1|x-jat|Shichinin no Nana
 13439|1|x-jat|Shichisei no Subaru
@@ -55635,6 +55641,7 @@
 15351|4|fr|To Your Eternity
 16573|4|en|To Your Eternity Season 2
 17904|4|en|To Your Eternity Season 3
+17904|4|de|To Your Eternity Staffel 3
 5625|2|ja|To-Love-Ru
 2922|4|ja|TO-Y
 2922|1|x-jat|To-Y
@@ -66787,6 +66794,10 @@
 5001|2|ru|Франц Кафка - Сельский врач
 4708|2|bg|Фрийдъм
 17617|4|ru|Фрирен, провожающая в последний путь
+17617|4|uk|Фрірен кінця шляху
+17617|2|uk|Фрірен, що проводжає в останню путь
+17617|2|uk|Фрірен: після кінця пригоди
+17617|2|uk|Фрірен: продовження подорожі
 17501|4|ru|Фронтир Шангри-ла
 8176|2|uk|Фуджілог
 117|2|ru|Фури Кури
@@ -84079,6 +84090,7 @@
 6427|2|ja|劇場版ムント
 13612|4|ja|劇場版メイドインアビス 深き魂の黎明
 5839|3|ja|劇場版メジャー
+19843|4|ja|劇場版メダリスト
 7520|4|ja|劇場版メタルファイト ベイブレードVS太陽 灼熱の侵略者ソルブレイズ
 17466|4|ja|劇場版モノノ怪
 2912|4|ja|劇場版ロックマンエグゼ 光と闇の遺産[プログラム]
