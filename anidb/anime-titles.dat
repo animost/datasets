@@ -1,4 +1,4 @@
-# created: Sun Jan 18 03:00:01 2026
+# created: Mon Jan 19 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8732,6 +8732,7 @@
 1400|1|x-jat|Chimera: Target I Datenshi Kourin
 17172|4|en|Chimimo
 17172|1|x-jat|Chimimo
+19845|1|x-jat|Chimimonryou
 6933|2|en|Chimney Sweep Pero
 5227|2|x-jat|Chimpui
 5228|2|x-jat|Chimpui: Eri-sama Katsudou Daishashin
@@ -31912,6 +31913,7 @@
 11822|4|en|Love Tyrant
 11822|4|fr|Love Tyrant
 19720|2|en|Love Unseen Beneath the Clear Night Sky
+19846|1|x-jat|Love wa Gal kara Hajimaru Unmei
 793|2|en|Love Wedge
 1675|2|en|Love Wind
 15062|2|fr|Love x Holic – Une relation tendue avec de jeunes belles séduisantes
@@ -53052,7 +53054,7 @@
 12451|1|x-jat|Tenshi no Three Piece!
 18225|3|x-jat|tenshitsuki
 18527|1|x-jat|Tensui no Sakuna-hime
-18986|1|x-jat|Tensui no Sakuna-hime: Kokoro wa Inasaku Nisshi
+18986|1|x-jat|Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi
 13871|3|x-jat|tensura
 15456|3|x-jat|Tensura (2021 Part 2)
 14767|3|en|TenSura 2
@@ -62834,6 +62836,7 @@
 2436|4|ru|Василиск
 13291|4|ru|Василиск: Книга ниндзя в вишнёвом цвету
 9582|2|bg|Ваша е вината, че не съм популярна!
+18699|4|uk|Вбивця Демонів: Замок Нескінченності
 17575|4|ru|Ведьма и зверь
 1891|2|ru|Ведьма Салли 2
 286|4|ru|Ведьмина служба доставки
@@ -81208,6 +81211,7 @@
 17086|2|ja|ラプソディ
 4584|4|ja|らぶドル ♪LOVELY IDOL♪
 15049|4|ja|ラブナイツ! A・D
+19846|4|ja|ラブはギャルから始まる運命
 8727|2|ja|ラブビッチ~優しい女...~
 35|4|ja|ラブひな
 49|4|ja|ラブひな Again
@@ -84837,6 +84841,7 @@
 7477|4|ja|咎狗の血
 7477|4|zh-Hans|咎狗之血
 15275|4|zh-Hans|咒术回战
+18363|4|zh-Hans|咒术回战 死灭回游 前篇
 17196|4|zh-Hans|咒术回战 第二季
 15275|4|zh-Hant|咒術迴戰
 17196|2|zh-Hant|咒術迴戰 第二季
@@ -92511,6 +92516,7 @@
 4644|4|ja|痴漢物語
 2603|4|ja|痴漢者トーマス
 1605|4|ja|痴漢電車
+19845|4|ja|痴魅悶凌
 6922|4|ja|瘤取り
 6702|4|ja|瘤取り (1929)
 5030|4|ja|癒してあげルン 西遊記
