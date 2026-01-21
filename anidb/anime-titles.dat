@@ -1,4 +1,4 @@
-# created: Mon Jan 19 03:00:01 2026
+# created: Tue Jan 20 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5709,6 +5709,7 @@
 4188|2|en|Beyond the Train Tracks
 13445|2|en|Beyond the Worlds
 13446|2|en|Beyond the Worlds S2
+19835|4|en|Beyond Time`s Gaze
 15032|1|x-jat|BeyWarriors: Cyborg
 14915|1|x-jat|Beywheelz
 3573|2|lt|Bežiūrint į dylantį mėnulį
@@ -17442,6 +17443,9 @@
 4828|3|x-jat|fuyusemi
 10502|4|en|Fuzzy Lips
 11727|4|ja|FW: HAMATORA [フォワードハマトラ]
+19847|2|en|FX Fighter Kurumi-chan
+19847|1|x-jat|FX Senshi Kurumi-chan
+19847|4|ja|FX戦士くるみちゃん
 87|3|ja|FY
 163|3|x-jat|FY OVA1
 164|3|x-jat|FY OVA2
@@ -19585,6 +19589,7 @@
 14085|1|x-jat|Golden Kamuy OAD
 18081|1|x-jat|Golden Kamuy Saishuushou
 18081|2|en|Golden Kamuy Season 5
+19848|1|x-jat|Golden Kamuy: Inazuma Goutou to Mamushi no Ogin / Shimaenaga
 19475|1|x-jat|Golden Kamuy: Sapporo Beer Koujou Hen
 8231|1|x-jat|Golden Kids
 9771|1|x-jat|Golden Time
@@ -35408,6 +35413,7 @@
 10075|1|x-jat|Mint
 370|4|et|Minu naabrid Yamadad
 2654|4|ro|Minunata călătorie a lui Nils Holgersson prin Suedia
+13362|4|fr|Minuscule
 2835|2|pl|Miód i koniczyna
 4422|2|pl|Miód i koniczyna II
 2048|4|pl|Miodulinka
@@ -37051,6 +37057,7 @@
 19069|4|en|My Hero Academia: Vigilantes
 19423|4|en|My Hero Academia: Vigilantes (2026)
 19423|2|en|My Hero Academia: Vigilantes Season 2
+19423|4|de|My Hero Academia: Vigilantes Staffel 2
 15873|4|en|My Hero Academia: World Heroes` Mission
 15873|4|fr|My Hero Academia: World Heroes` Mission
 18150|4|en|My Hero Academia: You`re Next
@@ -54222,7 +54229,6 @@
 3674|2|en|The Legend of Snow White
 15867|2|en|The Legend Of Spacewalker
 15029|2|en|The Legend of Super Normal City Kashiwa R
-18423|4|en|The Legend of Super Normal Pref. Chiba
 17582|2|en|The Legend of Sword Domain
 17985|2|en|The Legend of Sword Domain 2
 17985|2|en|The Legend of Sword Domain 2nd Season
@@ -75973,6 +75979,7 @@
 14085|4|ja|ゴールデンカムイ OAD
 18081|4|ja|ゴールデンカムイ 最終章
 19475|4|ja|ゴールデンカムイ 札幌ビール工場編
+19848|4|ja|ゴールデンカムイ 稲妻強盗と蝮のお銀 / シマエナガ
 14995|2|ja|ゴールデンカムイ 第三期
 14185|2|ja|ゴールデンカムイ 第二期
 17023|2|ja|ゴールデンカムイ 第四期
@@ -95225,6 +95232,7 @@
 19701|4|zh-Hant|超時空輝耀姬！
 1177|4|ja|超時空騎団サザンクロス
 19665|4|ja|超普通マホウ少女アスミトルバース
+18423|4|ja|超普通県チバ伝説
 18514|4|ja|超普通都市カシワ伝説
 15029|4|ja|超普通都市カシワ伝説R
 18515|4|ja|超普通都市カシワ伝説Z
