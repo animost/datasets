@@ -1,4 +1,4 @@
-# created: Tue Jan 20 03:00:01 2026
+# created: Wed Jan 21 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -25138,6 +25138,7 @@
 6141|2|x-jat|It`s a Rumic World: Ranma 1/2
 7322|2|x-jat|It`s a Rumic World: Urusei Yatsura
 9793|2|en|It`s Glass Mask But... the Movie: Female Spy`s Love! The Purple Rose Has a Dangerous Scent!?
+557|2|en|It`s Hamtaro!
 13645|4|ja|IT`S MY LIFE
 13645|1|x-jat|It`s My Life
 121|2|en|It`s my Rabbit and It`s Cue!!
@@ -43931,6 +43932,7 @@
 3481|1|x-jat|Pygmalio
 3481|4|fr|Pygmalion
 19392|1|x-kot|Pyramid Game
+19392|4|en|Pyramid Game
 5093|1|x-jat|Pyun Pyun Maru
 9502|1|x-jat|Pyuu to Fuku! Jaguar
 9618|1|x-jat|Pyuu to Fuku! Jaguar Return Of Yaku Ichinen buri
@@ -53623,6 +53625,7 @@
 19154|2|en|The Demon King Who Lost His Job
 19398|4|en|The Demon King`s Daughter Is Too Kind!!
 18119|4|en|The Demon Prince of Momochi House
+19315|2|en|The Demon Queen Has a Death Wish
 16921|4|en|The Demon Sword Master of Excalibur Academy
 14860|2|en|The Demonic King Who Chases His Wife
 15926|2|en|The Demonic King Who Chases His Wife 2
@@ -56580,6 +56583,7 @@
 16439|2|en|Tropical-Rouge! Precure the Movie: The Snow Princess and the Miraculous Ring
 15872|2|en|Tropical-Rouge! Pretty Cure
 15872|4|zh-Hans|Tropical-Rouge！光之美少女
+557|2|en|Trotting Hamtaro
 5625|2|x-jat|Trouble
 868|1|x-jat|Trouble Chocolate
 2570|1|x-jat|Trouble Evocation
@@ -66829,6 +66833,7 @@
 13362|4|ru|Хакумэй и Микоти
 9557|4|bg|Хал
 3411|4|ru|Хаммербой
+557|2|ru|Хамтаро
 6275|4|ru|Ханаан
 6275|2|bg|Ханаан
 16525|4|ru|Ханаби: девочка — игровой автомат
@@ -67143,6 +67148,7 @@
 1006|2|ru|Эстебан, сын Солнца
 4441|2|ru|Это были мы
 15730|4|ru|Это вам не трешовая игра!
+557|4|ru|Это Хамтаро!
 14477|2|ru|Этот герой чересчур осторожен, хоть и бессмертен
 11261|2|ru|Этот замечательный мир!
 11992|2|ru|Этот замечательный мир! ТВ2
