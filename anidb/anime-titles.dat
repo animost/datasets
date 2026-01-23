@@ -1,4 +1,4 @@
-# created: Wed Jan 21 03:00:02 2026
+# created: Thu Jan 22 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8112,6 +8112,7 @@
 3287|2|en|Cat Soup Theater
 16645|2|en|Cat Spirit Album
 9453|2|en|Cat Story (Black)
+19588|2|en|Cat Tales
 4608|2|en|Cat Town
 4114|2|en|Cat Yo-yo
 1025|1|x-jat|Cat`s Eye
@@ -26846,6 +26847,7 @@
 11590|1|x-jat|Kana Kana Kazoku
 19565|3|x-jat|kanael
 12492|1|x-jat|Kanagatari. Kanabakari.: Kanadian Families
+19565|2|en|Kanagawa Elves
 9440|1|x-jat|Kanai
 11820|1|x-jat|Kaname o
 6531|1|x-jat|Kanamemo
@@ -38413,6 +38415,7 @@
 17909|1|x-jat|Nige Jouzu no Wakagimi
 18903|1|x-jat|Nige Jouzu no Wakagimi (2026)
 18410|1|x-jat|Niger Monogatari
+19699|3|x-jat|Nigetsuri
 17909|3|x-jat|Nigewaka
 15834|4|ja|NIGHT HEAD 2041
 15834|1|x-jat|Night Head 2041
@@ -40092,6 +40095,7 @@
 16|3|x-jat|one1
 751|3|x-jat|One2
 10205|1|x-jat|Onee-chan ga Kita
+19850|1|x-jat|Onegai AiPri
 2966|1|x-jat|Onegai My Melody
 5852|1|x-jat|Onegai My Melody Kirara
 5158|1|x-jat|Onegai My Melody Sukkiri
@@ -55154,6 +55158,7 @@
 9324|4|en|The World God Only Knows OVA: Tenri Arc
 9553|4|en|The World God Only Knows: Goddesses
 9825|2|en|The World God Only Knows: Magical Star Kanon 100%
+19849|2|en|The World Is Dancing
 10395|4|en|The World Is Still Beautiful
 10395|4|fr|The World is Still Beautiful
 13787|2|en|The World of Fantasy
@@ -59503,6 +59508,7 @@
 10685|1|x-jat|World Fool News (2014)
 13071|1|x-jat|World Fool News Part II
 13071|4|en|World Fool News Part II
+19849|1|x-jat|World Is Dancing
 7137|2|en|World Masterpiece Theater Complete Edition: A Dog of Flanders
 7148|2|en|World Masterpiece Theater Complete Edition: A Little Princess Sara
 7142|2|en|World Masterpiece Theater Complete Edition: Anne of Green Gables
@@ -74766,6 +74772,7 @@
 751|4|ja|おねがい☆ツインズ
 16|4|ja|おねがい☆ティーチャー
 5852|4|ja|おねがい♪マイメロディ きららっ★
+19850|4|ja|おねがいアイプリ
 15836|4|ja|おねがいっパトロンさま！
 2966|4|ja|おねがいマイメロディ
 4333|4|ja|おねがいマイメロディ ~くるくるシャッフル!~
@@ -81633,6 +81640,7 @@
 189|4|ja|ワーズ・ワース
 1067|4|ja|ワーズ・ワース外伝
 11541|4|ja|わーなびっ.jk
+19849|4|ja|ワールド イズ ダンシング
 10633|4|ja|ワールド フールニュース
 10685|4|ja|ワールド フールニュース (2014)
 5920|4|ja|ワールド・デストラクション ~世界撲滅の六人~
@@ -95587,6 +95595,7 @@
 19699|4|ja|逃がした魚は大きかったが釣りあげた魚が大きすぎた件
 17909|4|ja|逃げ上手の若君
 18903|4|ja|逃げ上手の若君 (2026)
+19699|3|ja|逃げ釣り
 10976|4|ja|逃亡者・毛利小五郎
 17803|4|zh-Hans|逃走中 GREAT MISSION
 17803|4|ja|逃走中 グレートミッション
