@@ -1,4 +1,4 @@
-# created: Thu Jan 22 03:00:01 2026
+# created: Fri Jan 23 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -668,8 +668,10 @@
 16934|4|ja|3秒後, 野獣. ~合コンで隅にいた彼は淫らな肉食でした
 18236|4|en|4 Cut Hero
 11217|1|x-jat|4 Eyes
+19852|4|en|4 Week Lovers
 7243|2|en|4-1/2 Tatami Mythological Chronicles
 2758|1|x-jat|4-Day Weekend
+19852|1|x-kot|4-ju Aein
 11217|2|ja|4・Eyes
 7243|2|en|4.5 Tatami Mythological Chronicles
 11217|2|x-jat|4.eyes
@@ -16049,18 +16051,21 @@
 14238|4|zh-Hans|Fate/Grand Order 绝对魔兽战线 巴比伦尼亚
 17804|4|ja|Fate/Grand Order 藤丸立香はわからない
 18796|4|ja|Fate/Grand Order 藤丸立香はわからない (2024)
+19851|4|ja|Fate/Grand Order 藤丸立香はわからない (2025)
 15461|4|en|Fate/Grand Order: Final Singularity - Grand Temple of Time: Solomon
 12519|1|x-jat|Fate/Grand Order: First Order
 12519|4|en|Fate/Grand Order: First Order
 17804|1|x-jat|Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai
 18796|1|x-jat|Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai (2024)
+19851|1|x-jat|Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai (2025)
 18796|2|x-jat|Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2
 13643|1|x-jat|Fate/Grand Order: Moonlight/Lostroom
 13643|4|en|Fate/Grand Order: Moonlight/Lostroom
 15461|1|x-jat|Fate/Grand Order: Shuukyoku Tokuiten - Kan`i Jikan Shinden Solomon
 14239|4|en|Fate/Grand Order: The Sacred Round Table Realm Camelot
 17804|4|en|Fate/Grand Order: You`ve Lost Ritsuka Fujimaru
-18796|2|en|Fate/Grand Order: You`ve Lost Ritsuka Fujimaru (2024)
+18796|4|en|Fate/Grand Order: You`ve Lost Ritsuka Fujimaru (2024)
+19851|4|en|Fate/Grand Order: You`ve Lost Ritsuka Fujimaru (2025)
 14238|1|x-jat|Fate/Grand Order: Zettai Majuu Sensen Babylonia
 18092|1|x-jat|Fate/Grand Order: Zettai Majuu Sensen Babylonia Soushuuhen
 18092|4|en|Fate/Grand Order: Zettai Majuu Sensen Babylonia Summary
@@ -24369,6 +24374,7 @@
 19307|1|x-jat|Immoral Game Master The Animation
 658|2|en|Immoral Girls
 17244|4|en|Immoral Guild
+17244|4|de|Immoral Guild
 19036|1|x-jat|Immoral Routine The Animation
 174|4|en|Immoral Sisters
 1509|4|en|Immoral Sisters 2
@@ -30779,6 +30785,7 @@
 2694|4|hu|Legend of DUO
 15615|2|en|Legend of Exorcism
 16312|2|en|Legend of Exorcism (2021)
+16312|2|en|Legend of Exorcism S2
 584|2|en|Legend of Galactic Heroes
 1310|2|en|Legend of Galactic Heroes: A Hundred Billion Stars, a Hundred Billion Lights
 1311|2|en|Legend of Galactic Heroes: Spiral Labyrinth
@@ -40004,7 +40011,6 @@
 4851|1|x-jat|One Piece: Episode of Arabasta - Sabaku no Oujo to Kaizoku-tachi
 5691|2|en|One Piece: Episode of Chopper Plus - Bloom in the Winter, Miracle Sakura
 5691|4|en|One Piece: Episode of Chopper Plus: Bloom in the Winter, Miracle Cherry Blossom
-19735|1|x-jat|One Piece: Heart of Gold
 19524|2|en|One Piece: Heroines
 4097|4|it|One Piece: I Misteri dell`Isola Meccanica
 411|2|en|One Piece: I`ll Be a Pirate King
@@ -54645,6 +54651,8 @@
 14394|4|en|The Royal Tutor Movie
 15686|2|en|The Rule of Burning Sun Ⅰ
 16455|2|en|The Rule of Burning Sun II
+19853|1|en|The Run
+19853|4|ja|The Run
 13443|2|en|The Running Heroes
 13281|4|en|The Ryuo`s Work Is Never Done!
 6546|4|en|The Sacred Blacksmith
@@ -76275,7 +76283,7 @@
 3962|4|ja|サーフサイドハイスクール
 6321|4|ja|さぁイコー! たまごっち
 6321|2|ja|さあイコー! たまごっち
-18475|4|ja|サイエンスSARU×MBS オリジナルショートアニメ大作戦！
+18475|4|ja|サイエンスSARU×MBS オリジナルショートアニメ大作戦!
 113|2|ja|サイカノ
 1140|4|ja|サイキック フォース
 157|4|ja|サイキックアカデミー煌羅万象
@@ -81738,7 +81746,6 @@
 17576|2|ja|ワンパンマン3
 69|2|ja|ワンピース
 411|2|ja|ワンピース (2000)
-19735|4|ja|ワンピース ～ハートオブ ゴールド～
 11448|4|ja|ワンピース Cry heart
 4097|2|ja|ワンピース THE MOVIE カラクリ城のメカ巨兵
 4851|2|ja|ワンピース エピソードオブアラバスタ 砂漠の王女と海賊たち
