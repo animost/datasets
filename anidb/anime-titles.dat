@@ -1,4 +1,4 @@
-# created: Sat Jan 24 03:00:01 2026
+# created: Sun Jan 25 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2201,6 +2201,7 @@
 15437|3|x-jat|akudama
 15437|1|x-jat|Akudama Drive
 15437|4|en|Akudama Drive
+19512|2|x-jat|Akudeki
 2688|4|hu|Akuei és Gacchinpo
 3426|4|hu|Akuei és Gacchinpo 2
 2688|4|ro|Akuei şi Gacchinpo
@@ -25755,6 +25756,8 @@
 2852|4|pt|Joana e Sérgio: O Desafio dos Anjos
 3652|4|pt|Joaninha
 5303|2|lv|Jobi, Piecastes lapsa
+19854|1|x-jat|Jochum
+19855|1|x-jat|Jochum Season 2
 3664|4|nl|Jody en het Hertejong
 1458|2|fr|Joe 2
 4890|1|x-jat|Joe and Marilyn
@@ -38249,6 +38252,7 @@
 908|2|en|New Mobile Report Gundam Wing: Endless Waltz
 229|2|en|New Mobile War Century: Gundam Wing
 1008|2|en|New Moomin
+17493|3|x-jat|New PanSto
 17493|4|ja|New Panty & Stocking with Garterbelt
 17493|1|x-jat|New Panty & Stocking with Garterbelt
 17493|2|en|New Panty and Stocking
@@ -56530,6 +56534,7 @@
 17464|4|ja|TRIGUN STAMPEDE
 17464|1|x-jat|Trigun Stampede
 17464|4|en|Trigun Stampede
+17953|2|en|Trigun Stampede Season 2
 17953|4|ja|TRIGUN STARGAZE
 17953|1|x-jat|Trigun Stargaze
 17953|4|en|Trigun Stargaze
@@ -76518,6 +76523,8 @@
 8428|4|ja|しあわせ配達タネコ
 511|2|ja|ジィ・テイスト
 18153|4|ja|じいさんばあさん若返る
+19854|4|ja|ジェオチャム
+19855|4|ja|ジェオチャム SEASON2
 1916|4|ja|ジェッターマルス
 2122|4|ja|ジェネレーション オブ カオス
 1109|4|ja|ジェネレーション オブ カオス 3 時の封印
@@ -93596,6 +93603,8 @@
 19212|4|ja|終末のワルキューレIII
 18507|4|ja|終末ホスピタル
 15932|4|zh-Hant|終末的女武神
+19212|4|zh-Hans|終末的女武神 第三季
+16540|4|zh-Hans|終末的女武神 第二季
 15561|4|zh-Hant|終末的後宮
 17667|4|zh-Hant|終末的火車前往何方？
 18935|4|zh-Hant|終末起點
@@ -94604,6 +94613,7 @@
 16519|4|zh-Hans|蓝色监狱
 17954|4|zh-Hans|蓝色监狱 VS. U-20 日本
 17314|4|zh-Hans|蓝色管弦乐
+18234|4|zh-Hans|蓝色管弦乐 第二季
 4374|2|zh-Hans|蓝色计划-地球SOS
 8148|2|zh-Hans|蓝色驱魔师
 5044|2|zh|蓝龙
