@@ -1,4 +1,4 @@
-# created: Mon Jan 26 03:00:01 2026
+# created: Tue Jan 27 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3242,6 +3242,7 @@
 13241|3|en|AoT3
 14977|2|en|aot4
 13470|1|x-zht|AOTU Shijie
+19860|1|x-zht|AOTU Shijie 4
 13471|1|x-zht|AOTU Shijie Di Er Ji
 14870|1|x-zht|AOTU Shijie Di San Ji
 17508|1|x-zht|AOTU Shijie Di Si Ji
@@ -25572,7 +25573,7 @@
 12889|1|x-jat|Jigoku Shoujo: Yoi no Togi
 7935|1|x-jat|Jigokudou Reikai Tsuushin
 16012|1|x-jat|Jigokuraku
-18090|1|x-jat|Jigokuraku Dai Ni Ki
+18090|1|x-jat|Jigokuraku (2026)
 16649|1|x-zht|Jigong: Jiang Long Jiangshi
 2031|1|x-jat|Jii Tousaku
 18153|1|x-jat|Jiisan Baasan Wakagaeru
@@ -27298,6 +27299,7 @@
 11922|4|de|Keijo!!!!!!!!
 17616|1|x-jat|Keiken Zumi na Kimi to, Keiken Zero na Ore ga, Otsukiai Suru Hanashi.
 17616|2|x-jat|Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.
+18349|2|en|Keio Flying Squadron
 18349|1|x-jat|Keio Yugekitai: Katsugeki-hen
 6257|2|x-jat|keion
 7307|3|x-jat|keion 2
@@ -35574,6 +35576,7 @@
 2291|4|de|Missis Jo und ihre fröhliche Familie
 264|1|x-jat|Mister Ajikko
 19454|1|x-jat|Mister Giants Eikou no Sebangou San
+19454|2|en|Mister Giants Glorious Number 3
 1678|2|en|Mister Ikkyu
 14698|2|en|Mister Washer!: She and I in the Female Bath!?
 3524|4|en|Mistreated Bride
@@ -54186,6 +54189,7 @@
 19154|2|en|The Laid Off Demon
 19154|2|en|The Laid Off Demon King
 158|2|en|The Lament of an Otherwise Healthy Girl
+19017|2|en|The Land of Anger
 17534|4|en|The Land of Miracles
 18027|2|en|The Land of Miracles 2
 18027|2|en|The Land of Miracles 2nd Season
@@ -54282,6 +54286,7 @@
 8922|4|en|The Life of Budori Gusuko
 8922|4|pl|The Life Of Budori Gusuko
 6572|2|en|The Life of Guskou Budori
+19493|2|en|The Life of Kagawa Toyohiko: I Die Daily
 13798|2|en|The Light at Night in Summer
 15636|2|en|The Lilliput Kingdom
 5360|2|en|The Limited Express Train Of Lust - Matchless King
@@ -80682,7 +80687,7 @@
 13049|4|ja|ミス・モノクロームMUSIC CLIPS
 1328|4|ja|みずいろ
 752|4|ja|みずいろ (2003)
-19454|4|ja|ミスター・ジャイアンツ 栄光の背番号３
+19454|4|ja|ミスター・ジャイアンツ 栄光の背番号3
 14615|4|ja|ミスター・シャドウ
 264|4|ja|ミスター味っ子
 2022|2|ja|みすて♡ないでデイジー
@@ -83647,6 +83652,7 @@
 14870|4|zh-Hans|凹凸世界 第三季
 13471|4|zh-Hans|凹凸世界 第二季
 17508|4|zh-Hans|凹凸世界 第四季
+19860|4|zh|凹凸世界 第四季
 17614|4|zh-Hans|凹凸魔女的亲子日常
 17614|4|zh-Hant|凹凸魔女的親子日常
 3207|4|ja|出ましたっ! パワパフガールズZ
@@ -85329,7 +85335,7 @@
 5850|4|ja|地獄少女三鼎
 4638|4|ja|地獄少女二籠
 16012|4|ja|地獄楽
-18090|4|ja|地獄楽 第二期
+18090|4|ja|地獄楽 (2026)
 16012|4|zh-Hant|地獄樂
 19029|4|zh-Hant|地獄模式 ～喜歡挑戰特殊成就的玩家在廢設定的異世界成為無雙～
 10085|4|ja|地獄甲子園
