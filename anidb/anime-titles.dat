@@ -1,4 +1,4 @@
-# created: Tue Jan 27 03:00:02 2026
+# created: Wed Jan 28 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -11628,6 +11628,7 @@
 18991|3|x-jat|desuma2
 12603|3|x-jat|Desumachi
 9514|4|sv|Det blåser upp en vind
+17219|4|sv|Det ensamma slottet i spegeln
 1218|4|sv|Det levande slottet
 1218|4|da|Det levende slot
 1218|4|no|Det levende slottet
@@ -34548,6 +34549,7 @@
 146|4|en|MegaMan: NT Warrior
 146|4|pl|MegaMan: NT Warrior
 1144|4|en|MegaMan: Upon a Star
+19862|1|x-jat|Megami "Isekai Tensei Nani ni Naritai Desuka" Ore "Yuusha no Rokkotsu de"
 253|1|x-jat|Megami Kouhosei
 263|2|x-jat|Megami Kouhosei OVA
 263|1|x-jat|Megami Kouhosei Special Curriculum: Nakama
@@ -38730,6 +38732,7 @@
 15369|2|en|Niplheim`s Hunter
 6896|1|x-jat|Nippon Banzai
 3582|2|x-jat|Nippon Ichi no Otoko no Tamashii
+19861|1|x-jat|Nippon Sangoku
 3509|2|x-jat|Nippon Tanjo
 3582|1|x-jat|Nippon-ichi no Otoko no Tamashii
 4639|1|x-jat|Nippon-ichi no Otoko no Tamashii 2
@@ -42957,6 +42960,7 @@
 13992|2|x-jat|Ponoc Tanpen Gekijou
 13992|4|he|Ponoc גיבורים צנועים: הסרטים הקצרים של סטודיו
 334|3|x-jat|ponpoko
+19277|3|x-jat|ponsuka
 6851|1|x-jat|Ponsuke no Haru
 6875|1|x-jat|Ponsuke no Udekurabe
 15850|4|ja|Pont Qiao Booth
@@ -85892,6 +85896,7 @@
 17671|4|zh-Hant|天國大魔境
 14738|4|ja|天地
 15513|2|zh-Hans|天地创造设计部
+15513|4|zh|天地创造设计部
 15513|4|ja|天地創造デザイン部
 409|2|zh-Hans|天地无用
 358|4|zh-Hans|天地无用! GXP
@@ -86196,6 +86201,7 @@
 1407|4|ja|女畜
 6080|2|zh-Hans|女皇之刃
 8737|4|zh-Hans|女皇之刃 叛乱
+19862|4|ja|女神『異世界転生何になりたいですか』俺『勇者の肋骨で』
 17612|4|ja|女神のカフェテラス
 18080|4|ja|女神のカフェテラス (2024)
 253|4|zh-Hans|女神候补生
@@ -86993,7 +86999,10 @@
 14678|2|ja|小林さんちのメイドラゴン 2期
 12091|4|ja|小林さんちのメイドラゴン Miss Kobayashi`s Dragon Maid
 14678|4|ja|小林さんちのメイドラゴンS
+18873|4|zh-Hant|小林家的龍女僕：害怕寂寞的龍
+18873|4|zh-Hans|小林家的龙丫头：怕寂寞的龙
 12091|4|zh-Hans|小林家的龙女仆
+18873|2|zh-Hans|小林家的龙女仆：怕寂寞的龙
 14678|4|zh-Hans|小林家的龙女仆S
 11073|4|zh-Hans|小桃小栗 Love Love物语
 3064|4|ja|小梅ちゃんが行く!!
@@ -87303,6 +87312,7 @@
 15460|4|zh-Hant|工作細胞 特別上映版 - 強「菌」來襲！人體腸道大騷動！
 13743|4|zh-Hans|工作细胞
 15502|2|zh|工作细胞 Black
+14791|4|zh-Hans|工作细胞2
 15502|4|zh-Hans|工作细胞BLACK
 7692|4|ja|工業哀歌 バレーボーイズ
 17751|4|ja|左ききのエレン
@@ -88386,6 +88396,7 @@
 3360|4|zh-Hans|我太太是高中生
 9305|4|zh-Hans|我女友与青梅竹马的惨烈修罗场
 18099|4|zh-Hans|我实在不该私下瞒着妻子参加同人展
+46|2|zh-Hans|我家也有外星人
 16751|4|zh-Hans|我家大师兄是个反派
 15838|4|zh|我家大师兄是个反派
 17978|4|zh-Hans|我家大师兄有点靠谱
@@ -89454,6 +89465,7 @@
 3582|4|ja|日本一の男の魂
 4639|4|ja|日本一の男の魂2
 6699|4|ja|日本一桃太郎
+19861|4|ja|日本三國
 16375|4|ja|日本偉人大賞 偉人最強決定戦
 10896|4|zh-Hans|日本动画（人）博览会
 4991|4|ja|日本名作童話シリーズ 赤い鳥のこころ
@@ -95238,6 +95250,8 @@
 18836|4|zh-Hans|赤焰锦衣卫
 2887|4|zh-Hans|赤牙
 3071|4|ja|赤胴鈴之助
+627|2|zh-Hans|赤脚阿元
+2011|2|zh-Hans|赤脚阿元 2
 6276|4|ja|赤色エレジー
 11082|4|ja|赤髪の白雪姫 Snow White with the Red Hair
 11348|4|ja|赤髪の白雪姫 Snow White with the Red Hair (2016)
