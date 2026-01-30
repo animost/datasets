@@ -1,4 +1,4 @@
-# created: Wed Jan 28 03:00:01 2026
+# created: Thu Jan 29 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2285,7 +2285,6 @@
 11679|3|x-jat|alderamin
 11679|4|en|Alderamin on the Sky
 11679|4|fr|Alderamin on the Sky
-19085|4|ja|Aldnoah Zero EP 24.5 Ame no Danshō -The Penultimate Truth-
 10445|4|zh-Hans|ALDNOAH.ZERO
 10445|4|de|Aldnoah.Zero
 10445|4|ja|ALDNOAH.ZERO
@@ -2298,7 +2297,6 @@
 10846|1|x-jat|Aldnoah.Zero (2015)
 10846|4|ja|ALDNOAH.ZERO (2015)
 10846|4|en|Aldnoah.Zero (2015)
-19085|1|x-jat|Aldnoah.Zero (Re+)
 10846|4|zh-Hant|ALDNOAH.ZERO 2nd
 10846|2|x-jat|Aldnoah.Zero 2nd Part
 10846|2|x-jat|Aldnoah.Zero Part 2
@@ -8894,6 +8892,7 @@
 1711|1|x-jat|Choubatsu Yobikou
 17108|4|fr|Chouchouté par l’ange d’à côté
 1673|1|x-jat|Choudendou Robo Tetsujin 28-gou FX
+19864|1|x-jat|Chouetsu Jin Shinriki
 14510|1|x-jat|Chouetsu Sekai
 3483|1|x-jat|Chougattai Majutsu Robot Ginguiser
 1820|1|x-jat|Chouja Raideen
@@ -10180,6 +10179,8 @@
 10159|1|x-jat|Curucuru and Friends
 825|2|x-jat|Custom Dorei
 825|1|x-jat|Custom Reido
+19866|1|x-jat|Custom Robo
+19866|2|en|Custom Robo the Animation
 825|4|en|Custom Slave
 15748|4|en|Cute Executive Officer
 17631|2|en|Cute Executive Officer R
@@ -29815,6 +29816,7 @@
 7618|3|x-jat|KyouKoi
 5580|3|x-jat|kyouran
 5580|1|x-jat|Kyouran Kazoku Nikki
+19865|1|x-jat|Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei Shita Kami-goroshi no Bujin no Karei Naru Musouroku
 6908|1|x-jat|Kyouryoku Boukuusen
 2728|1|x-jat|Kyouryuu Boukenki Jura Tripper
 3087|1|x-jat|Kyouryuu Daisensou Izenborg
@@ -38382,6 +38384,7 @@
 16583|1|x-zht|Ni Tian Zhizun
 17257|1|x-zht|Ni Yian Jian Shen
 17335|1|x-zht|Ni Zhenshi Ge Tiancai
+19865|2|en|Nia Liston: The Merciless Maiden
 17594|1|x-zht|Nian Shou da Zuozhan
 18846|1|x-zht|Nian Wushuang
 8729|2|en|nichibros
@@ -48972,6 +48975,7 @@
 7172|1|x-jat|Shisei Sasshin
 6193|1|x-jat|Shisha no Sho
 10952|1|x-jat|Shisha no Teikoku
+19863|1|x-zht|Shishang Zui Qiang Lian Ti Lao Zu
 17447|1|x-zht|Shishang Zui Qiang Nan Zhujiao
 14887|1|x-jat|Shishigari
 14887|4|ja|SHISHIGARI
@@ -50057,7 +50061,6 @@
 17630|1|x-jat|Sono Bisque Doll wa Koi o Suru (2025)
 7541|1|x-jat|Sono Hanabira ni Kuchizuke o
 7541|2|x-jat|Sono Hanabira ni Kuchizuke o: Anata to Koibito Tsunagi
-19247|1|x-jat|Sono Keisatsukan, Tokidoki Yajuu!
 2059|1|x-jat|Sono Kinisasete yo: My My Mai
 16250|2|x-jat|Sono Kisekae Ningyou wa Koi o Suru
 17630|2|x-jat|Sono Kisekae Ningyou wa Koi o Suru 2
@@ -75121,6 +75124,7 @@
 14286|4|ja|かさじぞう
 240|4|ja|ガサラキ
 2843|4|ja|かしまし ~ガール・ミーツ・ガール~
+19866|4|ja|カスタムロボ
 825|4|ja|カスタム隷奴
 6057|4|ja|カスミン (第1シリーズ)
 6058|4|ja|カスミン (第2シリーズ)
@@ -77273,7 +77277,6 @@
 17630|4|ja|その着せ替え人形は恋をする (2025)
 17630|2|ja|その着せ替え人形は恋をする Season 2
 7541|4|ja|その花びらにくちづけを
-19247|4|ja|その警察官, ときどき野獣!
 6957|4|ja|そばかすプッチー
 14732|4|ja|そばへ
 8266|4|ja|そふてにっ
@@ -83640,6 +83643,7 @@
 9387|4|ja|凪のあすから
 10891|4|zh-Hans|凭物语
 13893|4|zh-Hant|凱洛與塔斯黛
+19865|4|ja|凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録
 7115|4|ja|凸凹新画帳 名案の失敗
 12384|4|zh-Hans|凸变英雄 BABA
 14380|4|zh-Hans|凸变英雄 LEAF (中文版)
@@ -84619,6 +84623,7 @@
 16100|4|zh-Hans|史上最强大魔王重生为村民A
 16100|2|zh-Hant|史上最强大魔王重生为村民甲
 4596|2|zh-Hans|史上最强弟子兼一
+19863|4|zh-Hans|史上最强炼体老祖
 17447|4|zh-Hans|史上最强男主角
 7729|2|zh-Hant|史塔斯閘門
 4336|2|zh-Hans|史诗创造者年代记
@@ -90791,6 +90796,7 @@
 14592|4|zh-Hans|欢迎来到雏菊处女迷失俱乐部
 18012|4|zh-Hans|欢迎来到驹田蒸馏所
 6114|4|zh-Hans|欧派生活
+19864|4|ja|欲六界
 10003|2|ja|欲情バズーカ THE ANIMATION
 10003|4|ja|欲情バズーカ THE ANIMATION たっぷり濃いのイッパツで!
 4249|2|ja|欲望病棟~淫乱病院の謎~
