@@ -1,4 +1,4 @@
-# created: Thu Jan 29 03:00:02 2026
+# created: Fri Jan 30 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -22572,7 +22572,6 @@
 10216|1|x-jat|Himekishi Olivia
 18898|2|x-jat|Himekishi wa Barbaroi no Yome
 8118|3|x-jat|himepara
-14724|2|ru|Himesama Love Life!
 9375|1|x-jat|Himeyuri
 13585|1|x-jat|Himeyuri no Tou
 454|2|tr|Himiko Efsanesi
@@ -25726,6 +25725,7 @@
 17196|3|x-jat|jjk s2
 16169|3|x-jat|jjk0
 17196|3|x-unk|jjk2
+18363|3|x-unk|jjk3
 8484|4|zh-Hans|JJ萌艺社
 26|3|x-jat|JK
 11802|2|en|JK and the Convenience Store Manager
@@ -31583,7 +31583,6 @@
 844|3|x-jat|lol
 7315|2|en|lol heroes
 7315|3|en|lolh
-18030|2|en|Loli on Ice
 2722|2|x-jat|Lolicon Angel
 2722|2|x-jat|Lolikon Angel
 12013|2|en|Lolipaco: Black Pals!
@@ -34582,7 +34581,8 @@
 12296|4|de|MEGATON MUSASHI
 17027|4|de|MEGATON MUSASHI Season 2
 12296|1|x-jat|Megaton-kyuu Musashi
-17027|1|x-jat|Megaton-kyuu Musashi (2022)
+17027|1|x-jat|Megaton-kyuu Musashi Cross
+17027|2|x-jat|Megaton-kyuu Musashi X
 1729|3|x-jat|megazone
 1729|1|x-jat|Megazone 23
 1729|4|it|Megazone 23 - Part I
@@ -52910,7 +52910,7 @@
 2510|1|x-jat|Tenchi Muyou! Ryououki (2003)
 15007|1|x-jat|Tenchi Muyou! Ryououki Dai Go-ki
 11715|1|x-jat|Tenchi Muyou! Ryououki Dai Yon-ki
-2508|1|x-jat|Tenchi Muyou! Ryououki: Omatsuri Zen`ya no Yoru!
+2508|1|x-jat|Tenchi Muyou! Ryououki: Omatsuri Zenjitsu no Yoru!
 205|3|x-jat|tenchi ova
 2508|3|x-jat|tenchi ova 1993
 2509|3|x-jat|tenchi ova 2
@@ -54963,6 +54963,7 @@
 544|4|en|The Super Milk-chan Show
 1035|1|x-jat|The Supergal
 15608|4|en|The Supernatural Sweet Shop
+19863|4|en|The Supreme Body Refining Master
 19653|2|en|The Supreme Dantian
 18828|2|en|The Sword Comes
 19794|2|en|The Sword Comes 2nd Season
@@ -55145,7 +55146,7 @@
 18126|4|en|The Westward: The Kingdom of Shadow
 6838|2|en|The Whale
 6874|2|en|The Whale (1952)
-3190|2|en|The Whale Hunt
+3190|4|en|The Whale Hunt
 18782|2|en|The White Mage Who Was Banished From the Hero`s Party Is Picked up by an S Rank Adventurer ~ This White Mage Is Too Out of the Ordinary!
 1861|2|en|The White Snake Enchantress
 3659|4|en|The White Whale of Mu
@@ -80872,7 +80873,7 @@
 12846|4|ja|メガゾーン23SIN
 5203|4|ja|めがちゅ! The Animation
 12296|4|ja|メガトン級ムサシ
-17027|4|ja|メガトン級ムサシ (2022)
+17027|4|ja|メガトン級ムサシX
 14625|4|ja|メガネnoメガミ
 9948|4|ja|メガネブ!
 13517|4|ja|メガロボクス
@@ -85921,7 +85922,7 @@
 205|4|ja|天地無用! 魎皇鬼
 2509|4|ja|天地無用! 魎皇鬼 (1994)
 2510|4|ja|天地無用! 魎皇鬼 (2003)
-2508|4|ja|天地無用! 魎皇鬼 お祭り前夜の夜!
+2508|4|ja|天地無用! 魎皇鬼 お祭り前日の夜!
 2510|2|ja|天地無用! 魎皇鬼 第三期
 15007|4|ja|天地無用! 魎皇鬼 第伍期
 11715|4|ja|天地無用! 魎皇鬼 第四期
@@ -94231,6 +94232,7 @@
 19599|4|zh-Hans|胶囊计划 英雄
 1986|4|ja|胸キュン! はぁとふるCafe
 1986|2|ja|胸キュンはぁとふるCafe
+19373|4|zh-Hans|能帮我弄干净吗？
 17423|4|zh-Hans|能干的猫今天也忧郁
 17423|2|zh-Hant|能幹貓今天也憂鬱
 14349|4|zh-Hans|能继续奔跑下去真是太好了。
