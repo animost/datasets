@@ -1,4 +1,4 @@
-# created: Fri Jan 30 03:00:01 2026
+# created: Sun Feb  1 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2956,7 +2956,7 @@
 15668|2|en|Animen (2011)
 15669|2|en|Animen II
 15579|2|en|Animen: Triton Force
-5484|1|x-jat|Animentary Ketsudan
+5484|2|x-jat|Animentary Ketsudan
 13307|2|pl|Aniołowie zbrodni
 14820|2|x-jat|AniPara
 1962|3|x-jat|anisan
@@ -8479,6 +8479,7 @@
 14610|1|x-kot|Chel-in sacheon-wang
 18744|2|x-zht|Cheng He Ti Tong
 18744|1|x-zht|Cheng He Titong
+19869|1|x-zht|Cheng He Titong 2
 11060|1|x-zht|Chengyu Donghua Lang
 15750|1|x-kot|Cheonbangjichuk Hani
 8785|2|x-zht|Cheong Gong Chat Hou: Oi Deikau
@@ -9667,6 +9668,7 @@
 12892|4|ko|Contact
 12892|1|x-kot|Contact
 1868|4|ro|Contele de Monte Cristo
+12075|2|en|Contemplation Sutra & Story of Prince Ajatashatru
 13388|2|fr|Contes & Mystères démoniques
 3588|4|fr|Contes animés du Vieux Japon
 15537|2|fr|Contes orgiaques dans un monde fantastique
@@ -16344,6 +16346,7 @@
 13466|2|en|Fighter of Destiny
 14297|2|en|Fighter of Destiny Season 4
 13466|2|en|Fighter of the Destiny
+19868|2|en|Fighter of the Destiny 3D
 13466|2|en|Fighter of the Destiny SS1
 3953|4|en|Fighting Beauty Wulong
 3953|4|fr|Fighting Beauty Wulong
@@ -16945,6 +16948,7 @@
 17617|4|pt-BR|Frieren e a Jornada para o Além
 17617|4|en|Frieren: Beyond Journey`s End
 18886|4|en|Frieren: Beyond Journey`s End (2026)
+18886|2|en|Frieren: Beyond Journey`s End Season 2
 17617|4|es-419|Frieren: Más allá del final del viaje
 17617|4|de|Frieren: Nach dem Ende der Reise
 18886|4|de|Frieren: Nach dem Ende der Reise Staffel 2
@@ -18444,6 +18448,7 @@
 8372|2|fr|Gekkage d’une fille pour les nuls
 18202|1|x-jat|Gekkan Mousou Kagaku
 10542|1|x-jat|Gekkan Shoujo Nozaki-kun
+19870|1|x-jat|Gekkan! Nanmono Anime
 1576|3|x-jat|Gekko Kamen
 4005|2|x-jat|Gekkou no Piasu
 4005|1|x-jat|Gekkou no Pierce: Yumemi to Gin no Bara Kishidan
@@ -27575,6 +27580,7 @@
 4574|2|vi|Kết giới sư
 2367|4|hu|Kétévi vakáció
 9582|4|hu|Kétség sincs afelől, hogy miattatok nem vagyok népszerű!
+5484|1|x-jat|Ketsudan
 9745|1|x-jat|Ketsuekigata-kun!
 10902|1|x-jat|Ketsuekigata-kun! 2
 11569|1|x-jat|Ketsuekigata-kun! 3
@@ -40126,6 +40132,7 @@
 16|3|x-jat|one1
 751|3|x-jat|One2
 10205|1|x-jat|Onee-chan ga Kita
+19871|1|x-jat|Onee-chan Gokko
 19850|1|x-jat|Onegai AiPri
 2966|1|x-jat|Onegai My Melody
 5852|1|x-jat|Onegai My Melody Kirara
@@ -42173,6 +42180,7 @@
 3293|2|x-jat|Playball
 12214|1|x-jat|Playground
 12214|4|ja|PLAYGROUND
+19871|4|en|Playing Sister
 9769|2|en|Playtime for Everyone: Anpanman and the Mischievous Ghost
 13826|3|x-jat|pldr
 12147|1|x-jat|Ple Ple Pleiades
@@ -44614,9 +44622,11 @@
 7876|1|x-jat|Ravex in Tezuka World
 4049|3|x-jat|Ray
 4049|4|pl|Ray
+19872|1|x-jat|Ray (Chou Kaguya-hime! Version)
 4049|4|ja|RAY THE ANIMATION
 4049|1|x-jat|Ray The Animation
 4049|4|en|Ray the Animation
+19872|4|ja|ray 超かぐや姫！Version
 4713|1|x-jat|Rayca
 423|1|x-jat|Rayearth
 423|4|it|Rayearth - Il sogno di Emeraude
@@ -55771,6 +55781,7 @@
 9286|2|en|Today`s Asuka Show
 13705|2|en|Today`s Menu for Emiya Family
 13705|4|en|Today`s Menu for the Emiya Family
+19867|1|x-jat|Todo no Tsumari
 6466|3|x-jat|Todoke
 389|3|x-jat|ToE
 14179|1|x-jat|Toe! Space Attendant Aoi
@@ -58940,6 +58951,8 @@
 776|2|ja|WAVER
 776|4|ja|WAVER(ウェーバー)
 13623|2|en|Way back to the Sea
+19868|2|en|Way of Choices (2026)
+19868|4|en|Way of Choices 3D
 13466|2|en|Way of Choices Season 1
 13467|2|en|Way of Choices Season 2
 13468|2|en|Way of Choices Season 3
@@ -61627,6 +61640,8 @@
 13603|1|x-jat|Zdravstvuite!
 1382|3|x-jat|zds
 13466|1|x-zht|Ze Tian Ji
+19868|2|x-zht|Ze Tian Ji (2026)
+19868|1|x-zht|Ze Tian Ji 3D
 13467|1|x-zht|Ze Tian Ji Di Er Ji
 13468|1|x-zht|Ze Tian Ji Di San Ji
 14297|1|x-zht|Ze Tian Ji Di Si Ji
@@ -73827,7 +73842,7 @@
 4190|2|ja|アニメの世界で優しく英語力 世界名作童話
 14539|4|ja|アニメぷそ煮コミ
 15635|4|ja|アニメぷそ煮コミおかわり
-5484|4|ja|アニメンタリー・決断
+5484|2|ja|アニメンタリー・決断
 1962|4|ja|アニメ三銃士
 3639|4|ja|アニメ三銃士 アラミスの冒険
 1500|4|ja|アニメ交響詩 ジャングル大帝
@@ -74944,6 +74959,7 @@
 13504|4|ja|お大師さま
 907|4|ja|お天気お姉さん
 10205|4|ja|お姉ちゃんが来た
+19871|4|ja|お姉ちゃんごっこ
 17666|4|ja|お嬢と番犬くん
 8947|2|ja|お嬢様☆嫁入り抗争
 8947|4|ja|お嬢様☆嫁入り抗争!
@@ -75947,6 +75963,7 @@
 11062|2|ja|ケダモノ(家族)たちの住む家で
 11062|4|ja|ケダモノ[家族]たちの住む家で
 4574|5|ja|けっかいし
+19870|4|ja|げっかん!なんものアニメ
 13873|4|ja|ケッケロケー
 1867|4|ja|けっこう仮面
 955|4|ja|ゲッターロボ
@@ -78184,6 +78201,7 @@
 5054|4|ja|トッポ♡ジージョ
 1780|4|ja|ドテラマン
 5436|4|ja|トトイ
+19867|4|ja|とどの妻り
 12586|4|ja|ドナ ドナ
 3299|4|ja|となグラ!
 6635|4|ja|となりの801ちゃんR
@@ -88333,6 +88351,7 @@
 18154|4|zh-Hans|成为名垂青史的恶役千金吧
 18154|2|zh-Hans|成为名留历史的坏女人吧
 18744|4|zh-Hans|成何体统
+19869|4|zh-Hans|成何体统 第二季
 586|4|ja|成恵の世界
 586|4|zh-Hans|成惠的世界
 18154|4|zh-Hant|成為名留歷史的壞女人吧
@@ -88788,6 +88807,7 @@
 13467|4|zh-Hans|择天记 第二季
 15783|4|zh-Hans|择天记 第五季
 14297|4|zh-Hans|择天记 第四季
+19868|4|zh-Hans|择天记3D
 14832|4|zh-Hans|拯救侏罗纪
 4595|2|zh-Hans|拯救德尔托拉
 11216|4|zh-Hans|拳愿阿修罗
@@ -91103,7 +91123,7 @@
 15073|4|zh-Hant|池袋西口公園
 13552|2|zh-Hans|汤摇庄的幽奈同学
 13659|4|zh-Hans|汤摇庄的幽奈同学 OAD
-5484|3|ja|決断
+5484|4|ja|決断
 12880|4|ja|汽車の發達
 18111|4|zh-Hans|汽车世界之工程车好伙伴
 13394|4|zh-Hans|汽车人总动员
