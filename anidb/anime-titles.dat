@@ -1,4 +1,4 @@
-# created: Sun Feb  1 03:00:02 2026
+# created: Mon Feb  2 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8097,7 +8097,6 @@
 6912|2|en|Cat and Mouse
 17324|4|en|Cat Bites Mouse
 4608|2|en|Cat City
-4710|2|en|Cat Eyed Boy
 610|2|en|Cat Girl Nuku Nuku DASH!
 526|3|en|Cat Girl Nuku Nuku TV
 19132|4|en|Cat God
@@ -8117,6 +8116,7 @@
 19588|2|en|Cat Tales
 4608|2|en|Cat Town
 4114|2|en|Cat Yo-yo
+4710|2|en|Cat-Eyed Boy
 1025|1|x-jat|Cat`s Eye
 1025|4|en|Cat`s Eye
 19004|4|de|Cat`s Eye – Ein Supertrio
@@ -8337,6 +8337,7 @@
 19778|2|en|Chainsaw Man: Assassins Arc
 19778|1|x-jat|Chainsaw Man: Shikaku Hen
 19560|4|en|Chainsaw Man: The Compilation
+19873|2|en|Chainsmoker Cat
 6810|2|en|Chalk-Colored People
 6810|1|x-jat|Chalk-iro no People
 6964|1|x-jat|Chamebou Kuukijuu no Maki
@@ -17222,6 +17223,7 @@
 2710|4|it|Fullmetal Panic! The Second Raid
 959|1|x-jat|Fullmetal Panic? Fumoffu
 21|3|x-jat|fullmoon
+19874|1|x-jat|Fullmoon Densetsu Indra
 15351|3|x-jat|Fumeta
 16573|2|x-jat|Fumeta s2
 15351|3|x-jat|fumetsu
@@ -25155,6 +25157,7 @@
 10881|1|x-jat|It Girl
 9746|2|en|It Is Living Happily on Ground Every Day.
 8334|2|en|It is not like I grew up like this just for you
+3406|2|en|It Rained Fire
 4152|4|en|It`s a Family Affair
 12984|1|x-jat|It`s a Rumic World: 50th Anniversary Weekly-Shonen Sunday
 12984|4|ja|It`s a Rumic World: 50th Anniversary Weekly-Shonen Sunday
@@ -31357,7 +31360,7 @@
 1207|4|de|Lingeries
 1207|2|en|Lingeries Office
 1207|2|de|Lingeries Office
-18850|2|en|Lingwu Continent
+18850|4|en|Lingwu Continent
 16648|2|en|Lingyun Code
 6529|4|pt-BR|Linha Vermelha
 16290|4|en|Link Click
@@ -44626,7 +44629,7 @@
 4049|4|ja|RAY THE ANIMATION
 4049|1|x-jat|Ray The Animation
 4049|4|en|Ray the Animation
-19872|4|ja|ray 超かぐや姫！Version
+19872|4|ja|ray 超かぐや姫! Version
 4713|1|x-jat|Rayca
 423|1|x-jat|Rayearth
 423|4|it|Rayearth - Il sogno di Emeraude
@@ -46672,6 +46675,7 @@
 38|3|x-jat|sakurumi: zero
 16020|1|x-jat|Sakusei Byoutou The Animation
 6059|2|en|Sakyo Komatsu`s Animation Theater
+6059|2|en|Sakyou Komatsu`s Animation Theater
 16792|4|pt-BR|Sala de Aula dos Heróis
 7204|1|x-jat|Salad Juu Yuushi Tomatoman
 4134|1|x-jat|Salamander
@@ -50950,7 +50954,7 @@
 648|2|en|Star Blazers: The Quest for Iscandar
 2814|2|en|Star Blazers: The Quest for Iscandar (movie)
 1586|2|en|Star Demon
-19742|2|en|Star Detective Precure!
+19742|4|en|Star Detective Precure!
 15867|2|en|Star Devourer
 7591|3|ja|Star Driver
 7591|4|en|Star Driver
@@ -53879,6 +53883,7 @@
 9749|4|es-419|The Fruit of Grisaia
 9749|4|es|The Fruit of Grisaia
 17843|1|en|The Fuccons
+19874|2|en|The Fullmoon Tradition: Indra - Pilot
 15495|2|en|The Furious Yama
 15685|2|en|The Furious Yama 2
 15685|2|en|The Furious Yama 2nd Season
@@ -57836,6 +57841,7 @@
 4236|1|x-jat|Ushiro no Hyakutarou
 3630|2|x-jat|Ushiro no Shomen Daare
 3630|1|x-jat|Ushiro no Shoumen Daare
+19875|1|x-jat|Uso Tantei Tomanto
 9069|1|x-jat|Usogui
 3570|4|hu|Üstökös Mumin-völgy fölött
 12709|2|tr|Üstün Sanal Havuzun Dünyası: Gerçeklik
@@ -60329,6 +60335,7 @@
 17026|1|x-jat|Yaneura no Rudger
 18698|1|x-zht|Yangguang Kafei Ting Zhi Xin You Ji
 16593|2|en|Yangyao The Spirit Catcher
+19873|1|x-jat|Yani Neko
 19479|3|x-jat|yanisuu
 12945|1|x-jat|Yankee Hamster
 16335|1|x-jat|Yankee Hamster Season 2
@@ -74360,6 +74367,7 @@
 3630|4|ja|うしろの正面だあれ
 4236|4|ja|うしろの百太郎
 15063|4|ja|うずまき
+19875|4|ja|うそ探偵トマント
 2481|4|ja|うた∽かた
 8259|3|ja|うた☆プリ
 4720|4|ja|ウダウダやってるヒマはねェ!
@@ -79978,6 +79986,7 @@
 12848|2|ja|ぷるぽん
 21|5|ja|フルムーンをさがして
 13478|5|ja|フルムーンをさがして かわいい かわいい だいぼうけん
+19874|4|ja|フルムーン伝説 インドラ
 17|4|ja|フルメタル・パニック!
 13472|4|ja|フルメタル・パニック! (ディレクターズカット)
 11731|2|ja|フルメタル・パニック! 4
@@ -81116,6 +81125,7 @@
 4103|4|ja|やどさがし
 8807|4|ja|やなせたかしメルヘン劇場
 19479|3|ja|ヤニすう
+19873|4|ja|ヤニねこ
 12205|4|ja|やねせんおんど
 10307|4|ja|ヤバい! -復讐・闇サイト-
 11801|4|ja|ヤハべえ
@@ -96887,6 +96897,8 @@
 17816|4|zh-Hans|非人哉 第二季
 17817|4|zh-Hans|非人哉 第二季 Part 2
 18169|4|zh-Hans|非人哉 第二季 Part 3
+19564|4|zh-Hans|非人学生与厌世教师
+19564|4|zh-Hant|非人學生與厭世教師
 302|4|zh-Hans|非常偶像Key
 14759|4|zh-Hans|非枪人生
 15143|4|zh-Hant|非槍人生 NO GUNS LIFE 第二季
@@ -97668,6 +97680,8 @@
 16101|4|zh-Hant|魔王學院的不適任者～史上最強的魔王始祖，轉生就讀子孫們的學校～ 第2季
 14391|4|ja|魔王様, リトライ!
 18167|4|ja|魔王様, リトライ! R
+19398|4|zh-Hans|魔王的女儿太温柔了！！
+19398|4|zh-Hant|魔王的女兒太溫柔了!!
 18427|4|ja|魔王軍最強の魔術師は人間だった
 2804|4|ja|魔界天使ジブリール
 5193|4|ja|魔界天使ジブリール episode2
