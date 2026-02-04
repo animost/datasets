@@ -1,4 +1,4 @@
-# created: Mon Feb  2 03:00:02 2026
+# created: Tue Feb  3 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -225,6 +225,7 @@
 10250|2|x-kot|`Pal-siip sa Taekwon V
 18082|4|en|`Tis Time for "Torture," Princess
 18566|4|en|`Tis Time for "Torture," Princess (2026)
+18566|2|en|`Tis Time for "Torture," Princess Season 2
 72|4|he|`איטמן 98
 2369|4|he|`בליץ
 11649|2|x-other|°
@@ -13325,6 +13326,7 @@
 16204|1|x-zht|Douluo Dalu: Xingdou Xian Ji
 16204|2|x-zht|Douluo Dalu: Xingdou Xian Ji Pian
 18069|1|x-zht|Douluo Dalu: Zhangu Zsn Xie
+19876|1|x-jat|Doumo, Suki na Hito ni Horegusuri o Irai Sareta Majo Desu.
 15273|1|x-jat|Dounika Naru Hibi
 13721|2|x-zht|Doupo Cangqiong
 13721|2|x-jat|Doupo Capong
@@ -20829,6 +20831,7 @@
 10981|4|en|Haikyu!! 2nd Season
 10981|4|de|Haikyu!! 2nd Season
 12982|4|en|Haikyu!! 3rd Season Movies
+17570|4|pt|HAIKYU!! A Batalha na Lixeira
 11040|4|en|Haikyu!! Compilation Movies
 12982|2|en|Haikyu!! Compilation Movies (2017)
 17570|2|en|Haikyu!! Final
@@ -22047,6 +22050,7 @@
 14532|4|ja|HELLO WORLD
 14532|1|x-jat|Hello World
 14532|4|it|Hello World
+19876|2|en|Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion!
 13778|2|en|Hello, This Is Terumi.
 2067|1|x-jat|Hello! Lady Lynn
 2067|2|en|Hello! Lady Lynn
@@ -23883,6 +23887,7 @@
 19359|2|en|I`m a Curse Crafter, and I Don`t Need an S-Rank Party!
 18536|4|en|I`m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic
 11817|4|en|I`m a sexaholic!
+19876|2|en|I`m a Witch Who`s Crush Requested a Love Potion
 18058|2|en|I`m Addicted to You.
 3357|2|en|I`m All Yours
 14550|2|en|I`m from Japan
@@ -73075,6 +73080,7 @@
 11694|4|ko|쿠마미코
 188|2|ko|쿨 디바이스
 188|4|ko|쿨 디바이스 시리즈
+19611|2|ko|쿨하지만 M
 8528|2|ko|퀸즈 블레이드
 11257|2|ko|퀸즈블레이드 그리모이어
 8737|2|ko|퀸즈블레이드 리벨리온
@@ -78134,6 +78140,7 @@
 6286|2|ja|トゥハート2 adplus
 14274|4|ja|どうぶつむらのこどもたち
 2214|4|ja|どうぶつ宝島
+19876|4|ja|どうも, 好きな人に惚れ薬を依頼された魔女です.
 3963|4|ja|トゥモロウズ ソング
 1206|2|ja|トゥルー・ラブストーリー
 15842|4|ja|トゥルーノース
