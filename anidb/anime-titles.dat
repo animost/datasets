@@ -1,4 +1,4 @@
-# created: Tue Feb  3 03:00:02 2026
+# created: Wed Feb  4 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -51667,6 +51667,7 @@
 1329|2|en|Super Heavy God Gravion Two
 1329|2|en|Super Heavy God Gravion Zwei
 18604|2|en|Super Heroic
+18604|2|en|Super Heroic Spirit
 4928|2|en|Super High Speed Galvion
 15241|4|en|Super HxEros
 4666|2|en|Super Inventor Boy Kanipan
@@ -59197,7 +59198,7 @@
 15123|4|en|Who Meowed?
 3630|2|en|Who`s Left Behind?
 11303|4|en|Who`s That?
-19368|2|en|Whoever Steals This Book
+19368|4|en|Whoever Steals This Book
 96|3|x-jat|WHR
 18133|4|en|Why Does Nobody Remember Me in This World?
 17518|2|en|Why I Have a Friend with Benefits
@@ -96065,6 +96066,7 @@
 16856|4|zh|金龟子
 3425|4|ja|釣りキチ三平
 1880|4|ja|釣りバカ日誌
+17041|4|zh|鈴芽之旅
 410|4|ja|鉄コミュニケイション
 2778|4|ja|鉄コン筋クリート
 4054|4|ja|鉄コン筋クリート (2006)
@@ -96299,7 +96301,7 @@
 15338|4|zh-Hans|铁路浪漫谭
 15921|4|zh-Hans|铁路浪漫谭 第二季
 5072|2|zh-Hans|铁马少年
-17041|4|zh-Hans|铃芽户缔
+17041|2|zh-Hans|铃芽户缔
 1003|4|zh-Hans|铳墓
 10710|4|zh-Hans|铳皇无尽的法夫纳
 9606|4|zh-Hans|银之匙 Silver Spoon
