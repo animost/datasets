@@ -1,4 +1,4 @@
-# created: Wed Feb  4 03:00:02 2026
+# created: Thu Feb  5 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -24604,6 +24604,7 @@
 12960|2|en|Infinity Nado 3
 15265|2|en|Infinity Nado 5
 2519|1|x-jat|Ingoku Byoutou
+19879|1|x-jat|Ingoku Danchi
 13890|4|ja|INGRESS THE ANIMATION
 13890|1|x-jat|Ingress the Animation
 13890|4|pl|Ingress: Serial animowany
@@ -33438,6 +33439,7 @@
 16627|1|x-jat|Mairimashita! Iruma-kun (2022)
 18995|1|x-jat|Mairimashita! Iruma-kun (2026)
 15428|2|x-jat|Mairimashita! Iruma-kun 2
+19878|1|x-jat|Mairimashita! Iruma-kun: If Episode of Mafia
 6111|4|en|Maison de Castle
 288|1|x-jat|Maison Ikkoku
 491|4|pl|Maison Ikkoku
@@ -53851,6 +53853,7 @@
 15974|4|pl|The First Slam Dunk
 17309|2|en|The First Son-In-Law Vanguard of All Time
 18379|2|en|The First Son-In-Law Vanguard of All Time 2
+5396|2|en|The First Tram Runs to Hiroshima
 8315|2|en|The Fish
 5377|1|x-jat|The Five Killers
 5377|4|ja|The Five Killers
@@ -55380,6 +55383,8 @@
 2227|4|en|Thumbelina (1978)
 11502|1|x-jat|Thunder
 11502|4|ja|THUNDER
+19877|1|x-jat|Thunder 3
+19877|2|en|Thunder 3
 1305|4|en|Thunder Jet
 9630|4|en|Thunder Prince
 1257|4|en|Thunderbirds 2086
@@ -59052,6 +59057,7 @@
 16627|4|en|Welcome to Demon School! Iruma-kun (2022)
 16627|4|pl|Welcome to Demon School! Iruma-kun (2022)
 18995|2|en|Welcome to Demon School! Iruma-kun (2026)
+19878|2|en|Welcome to Demon School! Iruma-kun: IruMafia Edition
 15428|2|en|Welcome to Demon School! Iruma-kun: Season 2
 14592|2|en|Welcome to Hinagiku Virgin Lost Club
 6677|4|en|Welcome to Irabu`s Office
@@ -74255,6 +74261,7 @@
 13890|2|ja|イングレス
 3702|5|ja|いんこ
 13253|2|ja|インコカラーズ The animation
+19879|4|ja|インゴクダンチ
 18479|4|ja|インザバックルーム
 12787|4|ja|インスタント ミュージック
 5035|4|ja|インスタントヒストリー
@@ -76546,6 +76553,7 @@
 9516|4|ja|サンタ・カンパニー
 14946|4|ja|サンタ・カンパニー ~クリスマスの秘密~
 16005|4|ja|サンタ・カンパニー ~真夏のメリークリスマス~
+19877|4|ja|サンダー3
 18574|4|ja|サンダーキャッツ
 5809|4|ja|サンタクロースつかまえた!
 18486|4|ja|サンタさんが二人いた
@@ -97337,6 +97345,7 @@
 15428|4|ja|魔入りました! 入間くん (2021)
 16627|4|ja|魔入りました! 入間くん (2022)
 18995|4|ja|魔入りました! 入間くん (2026)
+19878|4|ja|魔入りました! 入間くん if Episode of 魔フィア
 2855|4|zh-Hans|魔兵传奇
 8265|4|zh-Hans|魔具少女
 8566|4|zh-Hans|魔具少女！OAD
