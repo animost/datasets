@@ -1,4 +1,4 @@
-# created: Thu Feb  5 03:00:02 2026
+# created: Fri Feb  6 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -53808,6 +53808,7 @@
 3606|2|en|The Era of the Great Dinosaurs
 5175|4|en|The Erotic Adventures of Tom Thumb
 2862|4|en|The Eternal Aseria
+19880|2|en|The Eternal Fool`s Words of Wisdom
 18950|2|en|The Eternal Realm
 18284|2|en|The Eternal Strife
 896|2|en|The Eternity You Wish For
@@ -61496,6 +61497,7 @@
 15774|2|x-jat|Yuukoku no Moriarty 2nd Season
 16600|2|x-jat|Yuukoku no Moriarty OVA
 15774|2|x-jat|Yuukoku no Moriarty Part 2
+19880|1|x-jat|Yuukyuu no Gusha Asley no, Kenja no Susume
 13552|4|en|Yuuna and the Haunted Hot Springs
 18787|1|x-jat|Yuurei Sensen
 13321|1|x-jat|Yuurei Yashiki
@@ -88194,6 +88196,7 @@
 1517|4|ja|悟空の大冒険
 15434|4|ja|悟空の著作権入門
 12251|4|zh-Hant|悟空大战二郎神
+19880|4|ja|悠久の愚者アズリーの, 賢者のすゝめ
 5274|4|zh-Hans|悠久之翼
 6014|4|zh-Hans|悠久之翼2
 12227|4|zh-Hans|悠久持有者！～魔法老师! 2～
