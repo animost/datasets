@@ -1,4 +1,4 @@
-# created: Fri Feb  6 03:00:02 2026
+# created: Sun Feb  8 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8631,6 +8631,7 @@
 112|4|de|Chihiros Reise ins Zauberland
 16839|1|x-zht|Chihuo Yuzhou
 5801|3|x-jat|chii
+19881|3|x-jat|Chii Fuyo
 12933|2|en|Chii-chan Is Stupid But Good at Sucking Cock
 15140|1|x-jat|Chii-chan Kaihatsu Nikki
 17376|1|x-jat|Chii-chan no Himitsu
@@ -10750,6 +10751,7 @@
 17652|2|x-jat|DanMachi Season 4 Part 2
 18267|2|en|DanMachi Season 5
 18267|3|x-jat|DanMachi V
+19883|3|x-jat|DanMachi VI
 10894|4|es-419|DanMachi: ¿Está mal seducir chicas en un calabozo?
 10894|4|es|DanMachi: ¿Qué tiene de malo intentar ligar en una mazmorra?
 13829|4|es|DanMachi: ¿Qué tiene de malo intentar ligar en una mazmorra? II
@@ -14137,8 +14139,10 @@
 15471|1|x-jat|Duel Masters King
 17195|1|x-jat|Duel Masters King Max
 16009|1|x-jat|Duel Masters King!
+19884|4|ja|Duel Masters LOST ～忘却の太陽～
 18797|4|ja|Duel Masters LOST ~月下の死神~
 18521|4|ja|Duel Masters LOST ~追憶の水晶~
+19884|1|x-jat|Duel Masters Lost: Boukyaku no Taiyou
 18521|2|en|Duel Masters LOST: Crystal of Remembrance
 18797|2|en|Duel Masters LOST: Death Under the Moon
 18797|1|x-jat|Duel Masters Lost: Gekka no Shinigami
@@ -14204,6 +14208,7 @@
 17652|2|x-unk|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth Season 4 Part 2
 18267|2|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth Season 5
 18267|1|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth V
+19883|1|x-jat|Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth VI
 15111|2|x-jat|Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka 3
 16032|2|x-jat|Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka 4
 15111|2|x-jat|Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka III
@@ -23131,6 +23136,7 @@
 13704|3|x-jat|horei s3
 12954|3|x-jat|horei2
 13704|3|x-jat|horei3
+19876|3|x-jat|horemajo
 9229|1|x-jat|Hori-san to Miyamura-kun
 787|2|cs|Hořící přelud
 15733|1|x-jat|Horimiya
@@ -24987,6 +24993,7 @@
 18267|2|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? Season 5
 11974|2|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? Sword Oratoria
 18267|4|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? V
+19883|2|en|Is It Wrong to Try to Pick Up Girls in a Dungeon? VI
 13830|4|en|Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion
 9002|2|lt|Iš naujojo pasaulio
 8586|3|en|IS OVA
@@ -34371,6 +34378,7 @@
 950|4|en|Mazinger Z
 952|1|x-jat|Mazinger Z Tai Ankoku Daishougun
 951|1|x-jat|Mazinger Z Tai Devilman
+19885|1|x-jat|Mazinger Z Tai Doctor Hell
 952|2|ja|Mazinger Z vs Ankoku Daishougun
 952|2|en|Mazinger Z vs. The Grand General of Darkness
 6397|4|es|Mazinger Z: Edición Impacto!
@@ -37354,6 +37362,7 @@
 5630|4|en|Nabari no Ou
 16057|4|es-419|Nada es lo que Parece: Reencarné en el Mundo del Rey Demonio Evelogia
 8181|2|pl|Nadal nie znamy nazwy kwiatu, który widzieliśmy tamtego dnia.
+19330|4|es|Nadeshiko. Programada para amar
 180|3|x-jat|Nadesico
 369|2|en|Nadesico Movie
 666|3|x-jat|nadesico ova
@@ -39327,6 +39336,8 @@
 18080|2|pt|O Café Terraço e as Suas Deusas (2024)
 18080|4|pt|O Café Terraço e as Suas Deusas 2
 1457|4|pt|O Campeão
+1994|2|pt|O Canário Está Numa Gaiola
+1994|4|pt|O Canário Numa Gaiola
 1646|4|pt|O Cão de Flandres
 1218|4|pt|O Castelo Andante
 1218|4|pt-BR|O Castelo Animado
@@ -48486,6 +48497,7 @@
 16290|1|x-zht|Shiguang Dailiren
 16531|2|x-zht|Shiguang Dailiren 2nd Season
 16531|1|x-zht|Shiguang Dailiren II
+19882|1|x-zht|Shiguang Dailiren III
 19078|1|x-jat|Shiguang Dailiren: Yingdu Pian
 13726|1|x-zht|Shiguang Guiyu
 5108|1|x-jat|Shigurui
@@ -56789,6 +56801,7 @@
 6155|1|x-jat|Tsui no Sora
 5568|1|x-jat|Tsuide ni Tonchinkan
 18782|3|x-jat|Tsuihou Hakuma Doushi
+19881|1|x-jat|Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life o Ouka Suru. Ore wa Buki dake Janaku,  Arayuru Mono ni "Kyouka Point" o Fuyo Dekirushi, Ore no Ishi de Itsu demo Kouka o Kaijo Dekiru Kedo, Nokotta Hitotachi Daijoubu?
 18854|1|x-jat|Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru
 19054|1|x-jat|Tsuihousha Shokudou e Youkoso!
 13351|2|x-jat|Tsuin Seishin Tantei
@@ -77604,6 +77617,7 @@
 16032|4|ja|ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH IV
 17652|4|ja|ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH IV (2023)
 18267|4|ja|ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH V
+19883|4|ja|ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH VI
 11941|4|ja|ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH ダンジョンに温泉を求めるのは間違っているだろうか
 18267|2|ja|ダンジョンに出会いを求めるのは間違っているだろうかV 豊穣の女神篇
 11974|4|ja|ダンジョンに出会いを求めるのは間違っているだろうか外伝 ソード・オラトリア
@@ -77631,6 +77645,7 @@
 13829|3|ja|ダンまちII
 17652|2|ja|ダンまちIV 深章 厄災篇
 18267|3|ja|ダンまちⅤ
+19883|3|ja|ダンまちVI
 6711|4|ja|ダン吉島のオリムピック大会
 17480|4|ja|チ. -地球の運動について-
 7446|4|ja|ちーすい丸
@@ -77643,6 +77658,7 @@
 12308|2|ja|チーティングクラフト
 15339|3|ja|チート薬師
 15339|4|ja|チート薬師のスローライフ~異世界に作ろうドラッグストア~
+19881|3|ja|チー付与
 12019|4|ja|チア男子!!
 16943|4|ja|ちいかわ
 6062|3|ja|ちいこい
@@ -80554,6 +80570,7 @@
 950|4|ja|マジンガーZ
 11549|4|ja|マジンガーZIP!
 951|4|ja|マジンガーZ対デビルマン
+19885|4|ja|マジンガーZ対ドクターヘル
 952|4|ja|マジンガーZ対暗黒大将軍
 953|4|ja|マジンカイザー
 954|4|ja|マジンカイザー 死闘! 暗黒大将軍
@@ -88258,6 +88275,7 @@
 17150|2|zh-Hant|惑星公主蜥蜴騎士
 17150|2|zh-Hans|惑星公主蜥蜴骑士
 3973|4|ja|惑星大怪獣 ネガドン
+19876|3|ja|惚れ魔女
 9357|4|ja|惡の華
 3126|2|zh-Hans|惡戲
 4054|4|zh-Hant|惡童當街
@@ -94977,6 +94995,8 @@
 17517|4|zh-Hans|被解雇的暗黑士兵（30岁）慢生活的第二人生
 14756|4|zh-Hans|被赠与的未来
 18451|4|zh-Hant|被逐出隊伍的治癒師，其實是最強
+19512|4|zh-Hans|被邻国王子溺爱的反派女主
+19512|4|zh-Hant|被鄰國王太子溺愛的反派千金
 18451|4|zh-Hans|被队伍驱逐的治愈师，其实是最强的
 18782|4|zh-Hant|被驅逐出勇者隊伍的白魔導師，被S級冒險者撿到
 18782|4|zh-Hans|被驱逐出勇者队伍的白魔导师， 被S级冒险者捡到
@@ -95744,6 +95764,7 @@
 17981|4|zh-Hans|迷途之子!!!!!
 7229|4|zh-Hans|迷途猫OVER RUN
 7229|2|zh-Hans|迷途猫Overrun!
+19881|4|ja|追放されたチート付与魔術師は気ままなセカンドライフを謳歌する. ~俺は武器だけじゃなく, あらゆるものに『強化ポイント』を付与できるし, 俺の意思でいつでも効果を解除できるけど, 残った人たち大丈夫?~
 18854|4|ja|追放された転生重騎士はゲーム知識で無双する
 18782|3|ja|追放白魔導師
 19054|4|ja|追放者食堂へようこそ!
