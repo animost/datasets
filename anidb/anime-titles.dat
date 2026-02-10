@@ -1,4 +1,4 @@
-# created: Sun Feb  8 03:00:01 2026
+# created: Tue Feb 10 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -9969,7 +9969,7 @@
 3316|1|x-jat|Crayon Shin-chan: Arashi o Yobu Appare! Sengoku Daikassen
 872|1|x-jat|Crayon Shin-chan: Arashi o Yobu Eikou no Yakiniku Road
 4707|1|x-jat|Crayon Shin-chan: Arashi o Yobu Jungle
-4622|1|x-jat|Crayon Shin-chan: Arashi o Yobu Mouretsu! Otona Teikoku Gyakushuu
+4622|1|x-jat|Crayon Shin-chan: Arashi o Yobu Mouretsu! Otona Teikoku no Gyakushuu
 4910|1|x-jat|Crayon Shin-chan: Arashi o Yobu Utau Ketsu dake Bakudan!
 3106|1|x-jat|Crayon Shin-chan: Arashi o Yobu Yuuhi no Kasukabe Boys
 4706|1|x-jat|Crayon Shin-chan: Bakuhatsu! Onsen Wakuwaku Daikessen
@@ -10461,7 +10461,7 @@
 18443|1|x-zht|Da Yuzhou Shidai
 16541|1|x-zht|Da Zhu Zai
 18028|1|x-zht|Da Zhu Zai Nian Fan
-19826|1|x-zht|Da Zhu Zai Nian Fan 2
+19826|1|x-zht|Da Zhuzai Nian Fan 2
 16703|1|x-zht|Da Zuiba Dudu
 561|3|x-jat|DA02
 351|1|x-jat|Daa! Daa! Daa!
@@ -23649,7 +23649,7 @@
 13741|2|fr|Hynoplove : rencards étudiants
 6741|2|en|Hyoei and Heibei`s Tengu Hunt
 8855|2|x-jat|Hyoka
-2207|1|x-jat|Hyokkori Hyoutan Shima
+2207|1|x-jat|Hyokkori Hyoutanjima
 8855|2|x-jat|Hyou-ka: You Can`t Escape
 11224|1|x-jat|Hyoudou Ibuki: Kanpeki Ibuki Kaichou ga Kousoku Do M!? na Wake
 4036|1|x-jat|Hyouga Senshi Gaislugger
@@ -37517,6 +37517,7 @@
 14256|2|x-jat|Namu Amida Butsu! -Utena-
 14256|1|x-jat|Namu Amida Butsu! Utena
 14256|4|en|Namuamidabutsu! Utena
+19886|1|ko|Namui BL Manhwa Animation
 4143|1|x-jat|Nana
 4143|4|pt|Nana
 4143|4|fr|Nana
@@ -50027,6 +50028,7 @@
 458|4|en|Someday`s Dreamers
 5830|4|en|Someday`s Dreamers II: Sora
 458|2|en|Somedays Dreamers
+19886|4|en|Someone Else`s BL Comic Animation
 9655|2|en|Someone`s Gaze
 5026|1|x-jat|Something Great Chizu ni Nai Machi
 16799|2|en|Something is Wrong... with This Company!
@@ -54301,8 +54303,8 @@
 11411|4|en|The Legend of Shangri-La
 1141|2|en|The Legend of Shenlong
 17085|2|en|The Legend of Sky Lord
-18779|4|en|The Legend of Sky Lord (2024)
-18779|2|en|The Legend of Sky Lord 3D
+18779|2|en|The Legend of Sky Lord (2024)
+18779|4|en|The Legend of Sky Lord 3D
 3674|2|en|The Legend of Snow White
 15867|2|en|The Legend Of Spacewalker
 17582|2|en|The Legend of Sword Domain
@@ -59895,6 +59897,7 @@
 19689|1|x-zht|Xian Di Guilai
 16780|1|x-zht|Xian Feng Jian Yu Lu
 19297|1|x-zht|Xian Ji Xun Zong
+19836|1|x-zht|Xian Jian Qi Xia Chuan San
 18420|1|x-zht|Xian Mu
 18237|1|x-zht|Xian Ni
 19372|2|x-zht|Xian Ni Juchang Ban: Shenlin Zhi Zhan
@@ -59918,7 +59921,6 @@
 4856|1|x-zht|Xiangqi Wang
 16632|1|x-zht|Xiangzhe Mingliang Nuo Fang
 19517|1|x-zht|Xiangzhe Xingchen De Changzheng
-19836|1|x-zht|Xianjian Qixiazhuan San
 17598|2|x-zht|Xianshan Liaoluan: Shanhai Juelun
 18356|2|x-zht|Xianwu Dizun
 18356|2|en|Xianwu Emperor
@@ -61845,6 +61847,7 @@
 19148|1|x-zht|Zhanshen Lianmeng
 18005|1|x-zht|Zhe Tian
 18338|1|x-zht|Zhen Dao Ge 2nd Season
+19887|1|x-zht|Zhen Dao Ge 3rd Season
 16530|1|x-zht|Zhen Dao Ge: Chen Shi Xing
 16530|2|x-zht|Zhen Dao Ge: Chenshi Hang
 16267|1|x-zht|Zhen Dao Ge: Qianli Bu Liu Xing
@@ -90410,6 +90413,7 @@
 8532|4|ja|東映ロボットガールズ
 14302|4|ja|松が枝を結び
 16267|4|zh-Hans|枕刀歌 千里不留行
+19887|4|zh-Hans|枕刀歌 第三季
 18338|4|zh-Hans|枕刀歌 第二季
 16530|4|zh-Hans|枕刀歌之尘世行
 11213|4|ja|枕男子
