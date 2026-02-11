@@ -1,4 +1,4 @@
-# created: Tue Feb 10 03:00:02 2026
+# created: Wed Feb 11 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5318,6 +5318,7 @@
 709|4|en|Beast Fighter
 709|4|pt-BR|Beast Fighter
 709|4|fr|Beast Fighter : L`apocalypse
+4157|2|en|Beast God Liger
 3507|4|en|Beast King Golion
 19656|2|en|Beast of Kamisari Month
 9405|4|ja|BEAST SAGA
@@ -55373,6 +55374,7 @@
 18379|2|en|Three Thousand Roads 2nd Season
 7224|2|en|Three Way Struggle
 7948|2|en|Three Way Struggle Increases!
+17778|2|en|Three-Body
 19759|2|en|Three-Line Reincarnation
 14584|2|en|Three-shot Interview: Chaining Humiliation - School of Training
 6785|2|en|Thriller Restaurant
