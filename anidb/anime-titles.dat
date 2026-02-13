@@ -1,4 +1,4 @@
-# created: Wed Feb 11 03:00:01 2026
+# created: Thu Feb 12 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8556,7 +8556,7 @@
 19427|1|x-jat|Chibi Godzilla no Gyakushuu (2025)
 18631|2|x-jat|Chibi Godzilla no Gyakushuu Season 2
 17889|4|en|Chibi Godzilla Raids Again
-19427|2|en|Chibi Godzilla Raids Again (2025)
+19427|4|en|Chibi Godzilla Raids Again (2025)
 7420|1|x-jat|Chibi Kero: Kero Ball no Himitsu!?
 1841|4|de|Chibi Maruko Chan
 16023|2|en|Chibi Maruko Chan: The Fantastic Notebook
@@ -19174,6 +19174,7 @@
 9227|2|ja|GIRLS und PANZER
 9227|4|en|Girls und Panzer
 9227|4|de|Girls und Panzer
+19220|2|x-unk|Girls und Panzer - MLLSD
 12361|4|de|Girls und Panzer das Finale
 12361|4|en|Girls und Panzer das Finale
 10008|4|de|Girls und Panzer der Film
@@ -44885,6 +44886,11 @@
 17133|2|en|Records of a Guidance Counselor`s Hypnotic Sex Life
 19316|2|en|Records of the Heavenly Capital
 17973|2|en|Records of the Search for the Lustful Elves
+7713|4|en|Records of the Three Kingdoms I
+7715|4|en|Records of the Three Kingdoms II - Men Who Race Across the Heavens
+5407|4|en|Records of the Three Kingdoms Part 1 - The Dawn of the Heroes
+1232|4|en|Records of the Three Kingdoms Part 2 - The Yangtze River Burns!
+5408|4|en|Records of the Three Kingdoms Part 3 - The Distant Lands
 13345|4|en|Recovery of an MMO Junkie
 13345|4|fr|Recovery of an MMO Junkie
 13345|4|de|Recovery of an MMO Junkie
@@ -90905,6 +90911,7 @@
 19069|4|zh-Hans|正义使者 -我的英雄学院之非法英雄-
 15224|4|zh-Hans|正义红师
 19010|4|ja|正反対な君と僕
+19010|2|zh-Hans|正相反的你与我
 11762|4|zh-Hans|正确的KADO
 18918|4|zh-Hans|正经少主的幸福生活
 1576|4|ja|正義を愛する者 月光仮面
