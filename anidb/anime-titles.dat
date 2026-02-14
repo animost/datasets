@@ -1,4 +1,4 @@
-# created: Thu Feb 12 03:00:01 2026
+# created: Fri Feb 13 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4489,7 +4489,6 @@
 17036|1|x-jat|Backkom 3
 13121|2|en|Backkom Bear: Agent 008
 10322|2|x-kot|Backkom Meogeujan Yeohaeng
-19474|1|x-kot|Backkom2
 18989|2|en|Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, but Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out for Revenge on My Former Party Members and the World
 9431|1|x-jat|Backstage Idol Story
 9431|4|ja|BackstageIdolStory
@@ -12737,6 +12736,8 @@
 889|4|en|Dokkoida?!
 889|4|es-419|DOKKOIDER - Viviendo en el Apartamento Cósmico
 889|4|fr|Dokkoider !?
+19890|1|x-jat|Doko yori mo Tooi Basho ni Iru Kimi e
+19890|3|x-jat|dokokimi
 4953|1|x-jat|Dokonjou Gaeru
 6264|1|x-jat|Dokuhaku Suru Universal Yoko Mercator Egg Man
 2820|3|x-jat|dokuro
@@ -13926,6 +13927,7 @@
 14746|4|ja|DRAGON`S DOGMA
 2622|1|x-jat|Dragon`s Heaven
 15142|2|en|Dragon`s House-Hunting
+19888|4|en|Dragon`s Triumph in the Celestial Realm
 1112|2|x-jat|Dragonar
 9996|4|en|Dragonar Academy
 1112|2|it|Dragonar l`Armatura Metallica
@@ -17884,6 +17886,7 @@
 11778|2|en|Gantz: Osaka Arc
 11778|4|ja|GANTZ:O
 11778|4|pl|GANTZ:O
+19356|2|x-jat|Ganzo! Bandori-chan
 3152|3|x-jat|GaoGaiGar (2005)
 3152|2|x-jat|GaoGaiGar FINAL -GGG-
 1717|3|x-jat|GaoGaiGar OVA
@@ -31626,6 +31629,7 @@
 18432|4|en|Loner Life in Another World
 19750|1|x-zht|Long Hun
 19517|2|en|Long March to the Stars
+19888|1|x-zht|Long Po Jiutian
 11201|1|x-jat|Long Riders!
 11201|4|en|Long Riders!
 17179|1|x-zht|Long She Yanyi
@@ -40651,7 +40655,7 @@
 16383|4|pt-BR|Os Irmãos Grimm e as Facetas do Horror
 10951|4|pt|OS KABANES DA ESTAÇÃO DE FERRO
 4190|4|pt|Os Melhores Contos de Fadas
-556|4|pt|Os Peregrinos de El Hazard
+556|4|pt|Os Peregrinos de El-Hazard
 17547|2|pt|Os Perigos no Meu Coração
 18066|2|pt|Os Perigos no Meu Coração (2024)
 12637|2|x-unk|Os Problemas de um Centauro
@@ -55738,6 +55742,7 @@
 14090|1|x-jat|To the Moon
 1321|2|en|To the North: Diamond Dust Drops
 16707|2|en|To the Solitary Me Who Loved You
+19890|2|en|To You in the Beyond
 15351|4|en|To Your Eternity
 15351|4|fr|To Your Eternity
 16573|4|en|To Your Eternity Season 2
@@ -57876,6 +57881,7 @@
 4236|1|x-jat|Ushiro no Hyakutarou
 3630|2|x-jat|Ushiro no Shomen Daare
 3630|1|x-jat|Ushiro no Shoumen Daare
+19889|1|x-jat|Ushiro no Shoumen Kamui-san
 19875|1|x-jat|Uso Tantei Tomanto
 9069|1|x-jat|Usogui
 3570|4|hu|Üstökös Mumin-völgy fölött
@@ -59905,7 +59911,6 @@
 19689|1|x-zht|Xian Di Guilai
 16780|1|x-zht|Xian Feng Jian Yu Lu
 19297|1|x-zht|Xian Ji Xun Zong
-19836|1|x-zht|Xian Jian Qi Xia Chuan San
 18420|1|x-zht|Xian Mu
 18237|1|x-zht|Xian Ni
 19372|2|x-zht|Xian Ni Juchang Ban: Shenlin Zhi Zhan
@@ -71441,7 +71446,6 @@
 12890|4|ko|빼꼼
 17035|4|ko|빼꼼 2
 17036|4|ja|빼꼼 3
-19474|4|ko|빼꼼2
 10322|4|ko|빼꼼의 머그잔 여행
 12449|4|ja|뽀로로 극장판 슈퍼썰매 대모험
 13928|4|ko|뽀로로가 한국에 왔어요
@@ -74404,6 +74408,7 @@
 11318|2|ja|うしおととら(TVシリーズ・第3クール)
 15498|4|ja|うしちち食べ放題!ジ・アニメーション
 18800|4|ja|うじには物語がある
+19889|4|ja|うしろの正面カムイさん
 3630|4|ja|うしろの正面だあれ
 4236|4|ja|うしろの百太郎
 15063|4|ja|うずまき
@@ -78206,6 +78211,8 @@
 4949|4|ja|ドクター秩父山
 2417|4|ja|どくとるマンボウ&怪盗ジバコ 宇宙より愛をこめて!!
 17680|4|ja|ドグラ・マグラ
+19890|3|ja|どこきみ
+19890|4|ja|どこよりも遠い場所にいる君へ
 9167|4|ja|どすこい! わんぱく土俵
 15680|4|ja|どすこいすしずもう
 2214|3|ja|どたから
@@ -82777,7 +82784,6 @@
 8521|4|zh-Hans|仙乐传说 世界统合篇
 6814|4|zh-Hans|仙乐传说 迪赛雅兰篇
 3519|4|ja|仙人部落
-19836|4|zh-Hans|仙剑奇侠传三
 18420|4|zh-Hans|仙墓
 19393|4|zh-Hans|仙宠
 19393|2|zh-Hans|仙宠奶凶
@@ -98156,6 +98162,7 @@
 14626|2|zh-Hans|龙珠超 超级英雄
 14626|4|zh-Hans|龙珠超：超级人造人
 12359|4|zh-Hans|龙的牙医
+19888|4|zh-Hans|龙破九天
 19750|2|zh-Hans|龙神万相之龙魂
 1068|4|zh-Hans|龙虎之拳
 5909|2|zh-Hans|龙虎斗
