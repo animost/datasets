@@ -1,4 +1,4 @@
-# created: Fri Feb 13 03:00:02 2026
+# created: Sat Feb 14 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -10461,7 +10461,6 @@
 18443|1|x-zht|Da Yuzhou Shidai
 16541|1|x-zht|Da Zhu Zai
 18028|1|x-zht|Da Zhu Zai Nian Fan
-19826|1|x-zht|Da Zhuzai Nian Fan 2
 16703|1|x-zht|Da Zuiba Dudu
 561|3|x-jat|DA02
 351|1|x-jat|Daa! Daa! Daa!
@@ -37516,6 +37515,7 @@
 15136|1|x-jat|Nami yo Kiite Kure
 15136|2|x-jat|Nami yo Kiitekure
 12928|1|x-jat|Namida no Tsubomi
+19891|1|x-jat|Namidaame to Serenade
 9479|1|x-jat|Namiuchigiwa no Muromi-san
 9770|1|x-jat|Namiuchigiwa no Muromi-san: Pangea Choutairiku no Muromi-san
 15136|3|x-jat|namiyo
@@ -44420,6 +44420,7 @@
 11338|2|en|Rainy Cocoa: Season 2
 14039|4|en|Rainy Cocoa: Side G
 11338|4|en|Rainy Cocoa: Welcome to Rainy Color
+19891|2|en|Rainy Day Serenade
 2559|4|pt|Raio Azul
 18249|1|x-jat|Raise wa Tanin ga Ii
 4186|1|x-jat|Raiyantsuuri no Uta
@@ -85770,7 +85771,6 @@
 16699|4|zh-Hans|大世界
 16541|4|zh-Hans|大主宰
 18028|4|zh-Hans|大主宰年番
-19826|4|zh-Hans|大主宰年番2
 15697|4|ja|大人にゃ恋の仕方がわからねぇ!
 9559|4|ja|大人女子のアニメタイム 2
 8208|4|ja|大人女子のアニメタイム「川面を滑る風」
@@ -91382,6 +91382,7 @@
 14105|4|ja|消滅都市
 14105|4|zh-Hans|消灭都市
 12928|4|ja|涙の蕾
+19891|4|ja|涙雨とセレナーデ
 12823|2|ja|涼み舟
 5335|4|ja|涼宮ハルヒちゃんの憂鬱
 3651|4|ja|涼宮ハルヒの憂鬱
