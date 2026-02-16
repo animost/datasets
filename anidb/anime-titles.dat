@@ -1,4 +1,4 @@
-# created: Sat Feb 14 03:00:02 2026
+# created: Sun Feb 15 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6010,6 +6010,7 @@
 7369|4|de|Black Butler II
 7369|4|en|Black Butler II
 7369|2|en|Black Butler Season 2
+18100|2|en|Black Butler Season 4
 18739|2|en|Black Butler Season 5
 11696|2|en|Black Butler the Movie: Book of Atlantic
 10402|4|en|Black Butler: Book of Circus
@@ -10461,6 +10462,7 @@
 18443|1|x-zht|Da Yuzhou Shidai
 16541|1|x-zht|Da Zhu Zai
 18028|1|x-zht|Da Zhu Zai Nian Fan
+19893|1|x-zht|Da Zhu Zai Nian Fan 2
 16703|1|x-zht|Da Zuiba Dudu
 561|3|x-jat|DA02
 351|1|x-jat|Daa! Daa! Daa!
@@ -32074,6 +32076,8 @@
 12824|2|en|Lu`s Time
 13354|2|en|Lu`s Time 2nd Season
 235|2|pt|Lua Navegante
+19892|1|x-jat|Luca
+19892|4|ja|LUCA
 12605|4|es-419|Luces en el cielo
 423|4|es|Luchadoras de Leyenda Rayearth
 17150|4|en|Lucifer and the Biscuit Hammer
@@ -85771,6 +85775,7 @@
 16699|4|zh-Hans|大世界
 16541|4|zh-Hans|大主宰
 18028|4|zh-Hans|大主宰年番
+19893|4|zh-Hans|大主宰年番2
 15697|4|ja|大人にゃ恋の仕方がわからねぇ!
 9559|4|ja|大人女子のアニメタイム 2
 8208|4|ja|大人女子のアニメタイム「川面を滑る風」
