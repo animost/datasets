@@ -1,4 +1,4 @@
-# created: Sun Feb 15 03:00:02 2026
+# created: Mon Feb 16 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -44936,6 +44936,7 @@
 1386|2|en|Red Photon Zillion: Burning Night
 18809|2|en|Red Ranger Isekai
 854|4|en|Red Riding Hood Chacha
+19894|2|en|Red River
 15564|1|x-kot|Red Shoes
 15564|2|en|Red Shoes And The Seven Dwarfs
 11473|4|ja|RedAsh -GEARWORLD-
@@ -50153,6 +50154,7 @@
 6263|1|x-jat|Sora o Miageru Shoujo no Hitomi ni Utsuru Sekai
 13312|1|x-jat|Sora to Umi no Aida
 1859|2|x-jat|Sora Tobu Yuurei Fune
+19894|1|x-jat|Sora wa Akai Kawa no Hotori
 6176|2|x-jat|Sora wo Kakeru Shoujo
 6263|2|x-jat|Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai
 13257|1|x-jat|Sora yori mo Tooi Basho
@@ -61865,7 +61867,6 @@
 19148|1|x-zht|Zhanshen Lianmeng
 18005|1|x-zht|Zhe Tian
 18338|1|x-zht|Zhen Dao Ge 2nd Season
-19887|1|x-zht|Zhen Dao Ge 3rd Season
 16530|1|x-zht|Zhen Dao Ge: Chen Shi Xing
 16530|2|x-zht|Zhen Dao Ge: Chenshi Hang
 16267|1|x-zht|Zhen Dao Ge: Qianli Bu Liu Xing
@@ -85905,6 +85906,7 @@
 1715|4|ja|大魔獣激闘 鋼の鬼
 8156|4|zh-Hans|大鱼·海棠
 8019|4|ja|天の川
+19894|4|ja|天は赤い河のほとり
 6427|4|ja|天上人とアクト人最後の戦い Last war of Heavenloids and Akutoloids
 6427|4|zh-Hans|天上人与亚克托人最后的战斗
 1540|4|ja|天上天下
@@ -90432,7 +90434,6 @@
 8532|4|ja|東映ロボットガールズ
 14302|4|ja|松が枝を結び
 16267|4|zh-Hans|枕刀歌 千里不留行
-19887|4|zh-Hans|枕刀歌 第三季
 18338|4|zh-Hans|枕刀歌 第二季
 16530|4|zh-Hans|枕刀歌之尘世行
 11213|4|ja|枕男子
