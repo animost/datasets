@@ -1,4 +1,4 @@
-# created: Mon Feb 16 03:00:01 2026
+# created: Wed Feb 18 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4003,6 +4003,7 @@
 325|1|x-jat|Atashinchi
 3608|2|en|Atashinchi Movie
 18633|1|x-jat|Atashinchi Next
+19895|1|x-jat|Atashinchi Next (2025)
 8890|2|x-jat|Atchi Kotchi
 18554|2|x-jat|AteKuse
 10241|2|en|Atelier Escha & Logy - Alchemists of the Dusk Sky
@@ -15560,6 +15561,7 @@
 13316|2|en|Everyday High School Girl Project
 19268|1|x-jat|Everyday Host
 19748|1|x-jat|Everyday Host (Zokuhen)
+19268|2|en|Everyday Host Club
 936|4|en|Everyday Is Sunday
 8168|2|en|Everyday Life
 16121|2|en|Everyday life of Miss M who married into the S family
@@ -25087,6 +25089,8 @@
 19385|1|x-jat|Isekai Quartet 3
 19385|4|en|Isekai Quartet 3
 19385|2|en|Isekai Quartet S3
+14964|2|en|Isekai Quartet Season 2
+19385|2|en|Isekai Quartet Season 3
 15481|4|en|Isekai Quartet the Movie: Another World
 18809|3|x-jat|Isekai Red
 17507|1|x-jat|Isekai Shikkaku
@@ -46610,7 +46614,7 @@
 14291|2|x-jat|Sakugan Labyrinth Marker
 15725|1|x-jat|Sakugasaku
 18527|4|en|Sakuna: Of Rice and Ruin
-18986|2|en|Sakuna: Of Rice and Ruin (2026)
+18986|4|en|Sakuna: Of Rice and Ruin - Kokorowa`s Rice-Farming Diary
 400|2|pl|Sakura - wojna ducha
 400|2|pl|Sakura - wojna dusz
 400|4|pl|Sakura - wojny ducha
@@ -53881,6 +53885,7 @@
 15832|2|en|The Firecatcher Lord
 17104|2|en|The First Immortal of the Seven Realms
 18255|2|en|The First Order
+19264|4|en|The First Order 2
 15974|4|ja|THE FIRST SLAM DUNK
 15974|1|x-jat|The First Slam Dunk
 15974|4|pl|The First Slam Dunk
@@ -73823,6 +73828,7 @@
 16615|4|ja|あたしゃ川尻こだまだよ ~デンジャラスライフハッカーのただれた生活~
 325|4|ja|あたしンち
 18633|4|ja|あたしンちNEXT
+19895|4|ja|あたしンちNEXT (2025)
 4719|4|ja|あたし天使あなた悪魔
 2852|2|ja|アタッカー・ユウ!
 2852|4|ja|アタッカーYOU!
@@ -86039,6 +86045,7 @@
 5485|4|ja|天才バカボン
 4655|4|zh-Hant|天才博士俏护士
 6037|4|zh-Hans|天才嘉年华BEYOND
+3425|4|zh-Hans|天才小钓手
 7284|4|zh-Hans|天才少爷
 18528|4|zh-Hans|天才治疗师退队作为无照治疗师快乐过活
 16028|4|ja|天才王子の赤字国家再生術
