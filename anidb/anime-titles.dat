@@ -1,4 +1,4 @@
-# created: Wed Feb 18 03:00:02 2026
+# created: Thu Feb 19 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -10464,6 +10464,9 @@
 16541|1|x-zht|Da Zhu Zai
 18028|1|x-zht|Da Zhu Zai Nian Fan
 19893|1|x-zht|Da Zhu Zai Nian Fan 2
+19893|2|en|Da Zhuzai (2023) 2nd Season
+18028|2|x-zht|Da Zhuzai 3D
+19893|2|en|Da Zhuzai 3D 2nd Season
 16703|1|x-zht|Da Zuiba Dudu
 561|3|x-jat|DA02
 351|1|x-jat|Daa! Daa! Daa!
@@ -34105,6 +34108,7 @@
 15443|2|en|Martial Master
 19032|4|en|Martial Peak
 19536|2|en|Martial Shattered Galaxy
+19623|2|en|Martial Soul Continent
 14649|2|en|Martial Universe
 15687|2|en|Martial Universe 2nd Season
 16580|2|en|Martial Universe 3rd Season
@@ -53327,6 +53331,8 @@
 13499|3|en|TG3
 14059|3|en|TG4
 642|3|x-jat|TGQ
+18028|3|en|TGR
+19893|3|en|TGR 2
 4151|3|en|TGWLTT
 414|3|x-jat|th
 2404|3|x-jat|th rmm
@@ -54022,6 +54028,9 @@
 11362|4|en|The Great Rabbit
 16541|2|en|The Great Ruler
 18028|2|en|The Great Ruler (2023)
+19893|2|en|The Great Ruler 2
+18028|2|en|The Great Ruler 3D
+19893|2|en|The Great Ruler 3D 2nd Season
 2228|2|en|The Great Space War: Dangard Ace
 2295|2|en|The Great War of the Animals of Nodoka Forest
 14650|2|en|The Great Warrior Wall
@@ -59733,6 +59742,7 @@
 14379|1|x-zht|Wu Geng Ji II: Tianqi
 15682|1|x-zht|Wu Geng Ji III: Sanjie Yuanqi
 14379|2|x-zht|Wu Geng Ji Zhi Tianqi
+19623|1|x-zht|Wu Hun Dalu
 12251|2|zh|Wu Kong Da Zhan Er Lang Shen
 11650|1|x-zht|Wu Lan Qi Qi Ge
 19032|1|x-zht|Wu Lian Dianfeng
@@ -59765,7 +59775,7 @@
 18908|2|x-zht|Wuhang Zhanshen 2nd Season
 18908|2|x-zht|Wuhang Zhanshen Di Er Ji
 19623|2|en|Wuhun Continent
-19623|1|x-zht|Wuhun Dalu
+19623|2|x-zht|Wuhun Dalu
 18851|1|x-zht|Wujin Shenyu
 19371|2|en|WUKONG
 12251|1|x-zht|Wukong Dazhan Er Lang Shen
@@ -85781,6 +85791,8 @@
 1771|4|ja|大ヤマト零号
 16699|4|zh-Hans|大世界
 16541|4|zh-Hans|大主宰
+18028|2|zh-Hans|大主宰 年番1
+19893|2|zh-Hans|大主宰 第二季
 18028|4|zh-Hans|大主宰年番
 19893|4|zh-Hans|大主宰年番2
 15697|4|ja|大人にゃ恋の仕方がわからねぇ!
