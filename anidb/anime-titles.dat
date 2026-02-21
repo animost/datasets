@@ -1,4 +1,4 @@
-# created: Thu Feb 19 03:00:02 2026
+# created: Fri Feb 20 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -13089,6 +13089,7 @@
 1951|4|en|Doraemon: Nobita`s Spacetime Odyssey With Cats And Dogs
 6586|2|en|Doraemon: Nobita`s Three Visionary Swordsmen
 1951|2|en|Doraemon: Nobita`s Wannyan Space-Time Legend
+4765|2|en|Doraemon: Nobita`s Wedding Eve
 4967|2|en|Doraemon: Nobita`s Winged Heroes
 1078|4|es-GA|Doraemon: o gato cósmico
 6582|4|es-GA|Doraemon: O gladiador
@@ -83103,6 +83104,7 @@
 10918|4|ja|俺物語!!
 10918|4|zh-Hans|俺物语!!
 17557|3|ja|俺自販機
+19580|3|ja|俺自販機3
 1012|4|ja|個人授業
 5840|4|zh-Hans|個人授業
 5840|2|ja|個人授業 ～THE ANIMATION～ Schoolgirl ready for a private lesson
@@ -83985,6 +83987,7 @@
 4388|2|zh-Hans|剧场版 灼眼的夏娜
 4938|2|zh-Hans|剧场版 犬神
 14394|4|zh-Hans|剧场版 王室教师海涅
+18324|4|zh-Hans|剧场版 电锯人 蕾塞篇
 4932|4|zh-Hans|剧场版 空之境界
 12149|4|zh-Hans|剧场版 窈窕淑女
 13649|4|zh-Hans|剧场版 精灵宝可梦 大家的故事
@@ -97281,7 +97284,7 @@
 19378|4|ja|鬼の花嫁
 5260|4|ja|鬼丸 戦場に駆ける五つの青春
 16614|2|zh-Hans|鬼人幻灯抄
-16614|4|zh-Hans|鬼人幻灯抄 葛野篇&江户篇
+16614|4|zh-Hans|鬼人幻灯抄￴
 16614|4|ja|鬼人幻燈抄
 16614|4|zh-Hant|鬼人幻燈抄
 1348|4|zh-Hans|鬼作
