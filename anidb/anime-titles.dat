@@ -1,4 +1,4 @@
-# created: Fri Feb 20 03:00:02 2026
+# created: Sat Feb 21 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3235,11 +3235,17 @@
 18370|1|x-zht|Aoshi Jiuchong Tian
 9541|3|en|AoT
 14444|3|en|AoT 3.5
+15582|3|en|aot c
+10583|3|en|aot movie
+13546|3|en|aot movie 2
+9826|3|en|aot ova
 13241|3|en|AoT S3
 9541|3|en|AoT TV
 10944|3|en|AoT2
 13241|3|en|AoT3
 14977|2|en|aot4
+16177|3|en|aot5
+17303|3|en|aot6
 13470|1|x-zht|AOTU Shijie
 19860|1|x-zht|AOTU Shijie 4
 13471|1|x-zht|AOTU Shijie Di Er Ji
@@ -15731,6 +15737,7 @@
 18658|2|en|Fabulous Beasts 2
 18657|2|en|Fabulous Beasts 3
 18810|2|en|Fabulous Beasts 4
+19897|2|en|Fabulous Beasts 5
 17349|2|en|Face on Lie
 1088|2|en|Faceless Moon
 1063|2|pt-BR|Fada Egoísta Mirumo de Pon!
@@ -17001,6 +17008,7 @@
 12005|2|en|From now, I`m......
 18793|4|en|From Old Country Bumpkin to Master Swordsman
 19400|2|en|From Old Country Bumpkin to Master Swordsman II
+19896|2|en|From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage
 1383|4|en|From the Apennines to the Andes
 4751|4|en|From the Apennines to the Andes: The Movie
 9002|4|en|From the New World
@@ -25732,6 +25740,9 @@
 11048|1|x-jat|Jitsu wa Watashi wa
 17611|3|x-jat|jitsuore
 11048|3|x-jat|Jitsuwata
+19898|1|x-zht|Jiu Cang Miao Wo Miao Wangguo Pian
+19900|1|x-zht|Jiu Cang Miao Wo Richang Pian
+19899|1|x-zht|Jiu Cang Miao Wo Yinghua Cun Pian
 18377|1|x-zht|Jiu Chen Fengyun Lu
 8120|1|x-zht|Jiu Se Lu
 17601|1|x-zht|Jiu Tian Xuan Di Jue
@@ -29315,6 +29326,7 @@
 219|4|pl|Kowboj Bebop
 219|2|pl|Kowboj Bebop the Movie
 219|2|pl|Kowboj Bebop: Pukając do nieba bram
+18917|3|x-jat|kowloon
 18917|1|x-jat|Kowloon Generic Romance
 18917|4|en|Kowloon Generic Romance
 11725|3|x-jat|koya
@@ -35110,7 +35122,14 @@
 11554|3|x-jat|mh (2011)
 8041|3|x-jat|mh s2
 11739|3|en|MHA
+12344|3|en|mha ova
 12233|3|en|mha s2
+13485|3|en|mha s3
+14416|3|en|mha s4
+15484|3|en|mha s5
+16793|3|en|mha s6
+17931|3|en|mha s7
+18921|3|en|mha s8
 12233|3|en|mhas2
 2443|3|x-jat|mhd
 6087|3|x-jat|mhtv
@@ -44450,6 +44469,7 @@
 19009|2|en|Rakshasa Street 4th Season
 16372|2|en|Rakshasa Street II
 19009|2|en|Rakshasa Street Ⅳ
+19896|1|x-jat|Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S Rank Cheat Majutsushi Bouken Roku
 11126|1|x-jat|Rakudai Kishi no Cavalry
 11126|2|x-jat|Rakudai Kishi no Eiyuutan
 16876|1|x-jat|Rakudai Majo: Fuuka to Yami no Majo
@@ -58361,6 +58381,8 @@
 19069|1|x-jat|Vigilante: Boku no Hero Academia Illegals
 19423|1|x-jat|Vigilante: Boku no Hero Academia Illegals (2026)
 19069|2|en|Vigilante: My Hero Academia Illegals
+19069|3|en|Vigilantes
+19423|3|en|Vigilantes S2
 1428|4|fi|Viidakkokirja
 2279|4|fi|Viidakkopoika
 5303|2|et|Viie sabaga rebane Yobi
@@ -60881,6 +60903,7 @@
 18658|1|x-zht|You Shou Yan 2
 18657|1|x-zht|You Shou Yan 3
 18810|1|x-zht|You Shou Yan 4
+19897|1|x-zht|You Shou Yan 5
 4610|2|x-jat|You Shoumei Bijutsukan: Line
 12070|2|en|You Were Born for a Reason: The Real Purpose of Life
 15681|1|x-zht|You Yao
@@ -82527,6 +82550,8 @@
 5292|4|ja|九尾の狐と飛丸(殺生石)
 18014|4|zh-Hans|九州缥缈录
 8120|4|zh|九色鹿
+19898|4|zh-Hans|九藏喵窩 喵王國篇
+19899|4|zh-Hans|九藏喵窩 櫻花村篇
 18377|4|zh-Hans|九辰风云录
 19734|4|zh-Hans|九阳武神
 10040|4|ja|九頭竜川と少年
@@ -90142,6 +90167,7 @@
 18259|4|zh|有兽焉
 18657|4|zh-Hans|有兽焉 第三季
 18658|4|zh-Hans|有兽焉 第二季
+19897|4|zh-Hans|有兽焉 第五季
 18810|4|zh-Hans|有兽焉 第四季
 19259|4|ja|有栖川煉ってホントは女なんだよね.
 15681|4|zh-Hans|有药
@@ -92493,6 +92519,8 @@
 7931|4|zh-Hans|理欧 彩虹之门
 14590|4|zh-Hans|理科生坠入情网，故尝试证明。
 15788|4|zh-Hans|理科生坠入情网，故尝试证明。第二季
+14590|4|zh-Hant|理科生墜入情網，故嘗試證明。
+15788|4|zh-Hant|理科生墜入情網，故嘗試證明。r=1-sinθ
 14590|4|ja|理系が恋に落ちたので証明してみた.
 15788|4|ja|理系が恋に落ちたので証明してみた. [r=1-sinθ]
 15788|2|ja|理系が恋に落ちたので証明してみた. r=1-sinθ
@@ -94700,6 +94728,7 @@
 332|4|zh-Hans|萤火虫之墓
 16758|4|zh-Hans|落凡尘
 19136|4|zh-Hans|落凡尘 (2024)
+19896|4|ja|落第賢者の学院無双 ~二度目の転生, Sランクチート魔術師冒険録~
 11126|4|ja|落第騎士の英雄譚[キャバルリィ] A TALE OF WORST ONE
 11126|4|zh-Hans|落第骑士英雄谭
 16876|4|zh-Hans|落第魔女 风香与暗之魔女
@@ -95672,10 +95701,13 @@
 10122|4|ja|輪郭
 8421|4|zh-Hant|轉吧！企鵝罐
 19217|4|zh-Hant|轉生之後的我變成了龍蛋～目標是世界最強～
+17569|4|zh-Hant|轉生公主與天才千金的魔法革命
 15457|4|zh-Hant|轉生史萊姆日記關於我轉生變成史萊姆這檔事
 16785|2|zh-Hant|轉生就是劍
 18437|4|zh-Hant|轉生後的我成了英雄爸爸和精靈媽媽的女兒
 18497|4|zh-Hant|轉生惡女的黑歷史
+14449|4|zh-Hant|轉生成女性向遊戲只有毀滅END的壞人大小姐
+15604|4|zh-Hant|轉生成女性向遊戲只有毀滅END的壞人大小姐 X
 16727|4|zh-Hant|轉生成女性向遊戲只有毀滅END的壞人大小姐 劇場版
 17557|4|zh-Hant|轉生成自動販賣機的我今天也在迷宮徘徊
 14201|4|zh-Hant|轉生成蜘蛛又怎樣
