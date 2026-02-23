@@ -1,4 +1,4 @@
-# created: Sat Feb 21 03:00:02 2026
+# created: Sun Feb 22 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -12628,6 +12628,7 @@
 19543|1|x-jat|Do S na Pet
 13551|2|x-jat|Do S na Seitokaichou-sama ga M Note ni Shihai Saremashita
 4488|4|en|Do You Know the Milfing Man?
+19901|2|en|Do You Like Big Girls?
 14454|4|en|Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?
 14454|4|de|Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?
 13155|2|en|Do Your Absolute Best! Magical Girl Kurumi
@@ -18610,6 +18611,7 @@
 5210|2|en|Genshiken: Part 2
 1783|4|en|Genshiken: The Society for the Study of Modern Visual Culture
 5210|2|x-jat|genshiken2
+19902|1|x-jat|Genshin
 2331|1|x-jat|Gensou Jotan Ellcia
 2446|2|x-jat|Gensou Maden Saiyuki Premium
 488|1|x-jat|Gensou Maden Saiyuuki
@@ -40385,6 +40387,7 @@
 10919|3|x-jat|ookamishoujo ova
 335|4|et|Ookeanilained
 10200|1|x-jat|Ookii 1 Nensei to Chiisana 2 Nensei
+19901|1|x-jat|Ookii Onnanoko wa Suki Desuka?
 4923|3|x-jat|ookiku
 4923|1|x-jat|Ookiku Furikabutte
 7291|2|x-jat|Ookiku Furikabutte 2
@@ -54096,6 +54099,7 @@
 519|2|en|The Heroic Legend of Arslan - Age of Heroes
 10910|4|en|The Heroic Legend of Arslan (2015)
 11699|4|en|The Heroic Legend of Arslan: Dust Storm Dance
+13397|2|en|The Heroic Legend of Confucius
 929|2|en|The Hex Files
 15557|4|en|The Hidden Dungeon Only I Can Enter
 18568|2|en|The Hidden Sect Leader
@@ -54325,6 +54329,7 @@
 4207|2|en|The Legacy of Al Caral
 13596|4|en|The Legend of Ancient Soul
 8441|2|en|The Legend of Blue
+13397|2|en|The Legend of Confucius
 18472|4|en|The Legend of Dragon Soldier
 15253|2|en|The Legend of Hei
 15253|4|de|The Legend of Hei - Die Kraft in Dir
@@ -54384,6 +54389,7 @@
 4400|4|en|The Life of a Poet
 8922|4|en|The Life of Budori Gusuko
 8922|4|pl|The Life Of Budori Gusuko
+13397|2|en|The Life of Confucius
 6572|2|en|The Life of Guskou Budori
 19493|2|en|The Life of Kagawa Toyohiko: I Die Daily
 13798|2|en|The Light at Night in Summer
@@ -82298,6 +82304,7 @@
 18758|4|zh-Hant|不白吃古诗词漫游记 第二季
 17138|4|zh-Hans|不白吃话山海经
 16538|4|zh-Hans|不相信人类的冒险者们好像要去拯救世界
+16538|4|zh-Hant|不相信人類的冒險者們好像要去拯救世界
 15297|4|zh-Hant|不管養狗或是貓每天都很有趣
 2666|4|ja|不純異性交遊 ~大切な君へ~
 9728|4|ja|不良にハメられて受精する巨乳お母さん ~イキ地獄に堕ちた家族のゲーム~ THE ANIMATION
@@ -84628,6 +84635,7 @@
 13309|2|zh-Hans|原书·见习生
 1686|4|ja|原始少年リュウ
 16756|4|zh-Hans|原石奇传前传——歌莉娅
+19902|4|ja|原神
 4249|4|ja|原罪病棟
 6032|4|zh-Hans|原罪的卡辛
 14410|4|zh-Hans|厨病激发BOY
@@ -85814,6 +85822,7 @@
 1771|2|ja|大YAMATO零号
 10200|4|ja|大きい1年生と小さな2年生
 10200|2|ja|大きい一年生と小さな二年生
+19901|4|ja|大きい女の子は好きですか?
 17383|4|ja|大きな古時計
 6631|4|ja|大ちゃん, だいすき.
 1771|4|ja|大ヤマト零号
