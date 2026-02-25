@@ -1,4 +1,4 @@
-# created: Mon Feb 23 03:00:02 2026
+# created: Tue Feb 24 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -9859,7 +9859,9 @@
 9421|4|ja|Courtesy of ZETTAI KAREN CHILDREN THE UNLIMITED 兵部京介
 9421|1|x-jat|Courtesy of Zettai Karen Children: The Unlimited - Hyoubu Kyousuke
 2702|4|es-GA|Cousas de Tolos
+17798|4|pt|Covil dos Duendes
 17798|2|pt|Covil dos Goblins
+17798|2|pt-BR|Covil dos Goblins
 23|3|x-jat|CowBe
 23|4|pt|Cowboy Bebop
 23|4|pt-BR|Cowboy Bebop
@@ -10853,6 +10855,7 @@
 2403|4|en|Dark Shell: Lust in the Cage
 2403|1|x-jat|Dark Shell: Ori no Naka no Namameki
 7594|4|en|Dark Side Cat
+19908|1|x-jat|Dark Summoner to Dekite Iru
 2665|4|en|Dark Tours
 1591|4|en|Dark Warrior
 4906|4|de|Darker than Black
@@ -15448,6 +15451,7 @@
 326|2|x-jat|Evangelion - Death & Rebirth
 4847|4|fr|Evangelion : 1.0 You Are (Not) Alone
 6171|4|fr|Evangelion : 2.0 You Can (Not) Advance
+19905|1|x-jat|Evangelion (Kanzen shinsaku series)
 4847|2|en|Evangelion 1.0
 4847|4|et|Evangelion 1.0: Sa oled/pole üksinda
 4847|2|en|Evangelion 1.01
@@ -19434,6 +19438,7 @@
 10614|2|en|Goblin and Snow Hare
 17798|2|en|Goblin Den
 13831|2|tr|Goblin Katili (Goblin Slayer)
+17798|2|en|Goblin Lair
 17798|1|x-jat|Goblin no Suana
 13831|1|x-jat|Goblin Slayer
 13831|4|en|Goblin Slayer
@@ -33326,6 +33331,7 @@
 11794|1|x-jat|Mahou Tsukai Precure!
 17908|1|x-jat|Mahou Tsukai Precure!! Mirai Days
 16280|1|x-jat|Mahou Tsukai Reimeiki
+19907|1|x-jat|Mahou Tsukai Roze no Sado Life
 1890|1|x-jat|Mahou Tsukai Sally
 2049|1|x-jat|Mahou Tsukai Sally (1990)
 1891|1|x-jat|Mahou Tsukai Sally 2
@@ -40413,6 +40419,7 @@
 15402|1|x-jat|Ooya-san to Boku
 11595|1|x-jat|Ooya-san wa Shishunki!
 11595|4|en|Ooya-san wa Shishunki!
+1078|2|en|Ooyama Doraemon
 17143|1|x-jat|Ooyuki Umi no Kaina
 17811|1|x-jat|Ooyuki Umi no Kaina: Hoshi no Kenja
 69|3|x-jat|OP
@@ -44473,6 +44480,7 @@
 19009|2|en|Rakshasa Street 4th Season
 16372|2|en|Rakshasa Street II
 19009|2|en|Rakshasa Street Ⅳ
+19896|3|x-jat|rakudai kenja
 19896|1|x-jat|Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S Rank Cheat Majutsushi Bouken Roku
 11126|1|x-jat|Rakudai Kishi no Cavalry
 11126|2|x-jat|Rakudai Kishi no Eiyuutan
@@ -54783,6 +54791,7 @@
 13443|2|en|The Running Heroes
 13281|4|en|The Ryuo`s Work Is Never Done!
 6546|4|en|The Sacred Blacksmith
+19907|2|en|The Sado Life of Rosé the Witch
 15720|4|en|The Saint`s Magic Power Is Omnipotent
 17246|4|en|The Saint`s Magic Power Is Omnipotent (2023)
 17246|2|en|The Saint`s Magic Power is Omnipotent 2
@@ -61960,6 +61969,7 @@
 13456|1|x-zht|Zhu Zhu Xia: Bai Bian Lian Meng
 13454|1|x-zht|Zhu Zhu Xia: Bian Shen Xiao Ying Xiong
 13455|1|x-zht|Zhu Zhu Xia: Bian Shen Zhandui
+19906|1|x-zht|Zhu Zhu Xia: Bukesiyi De Shijie
 13461|1|x-zht|Zhu Zhu Xia: Chao Xing Meng Chong 1
 14081|1|x-zht|Zhu Zhu Xia: Chao Xing Meng Chong 2
 14082|1|x-zht|Zhu Zhu Xia: Chao Xing Meng Chong 3
@@ -65760,9 +65770,12 @@
 12111|4|ru|Полулюди ТВ-2
 11265|2|ru|Полулюди Фильм
 14488|4|uk|Полум’яні вогнеборці
+17420|2|uk|Полум’яні вогнеборці (2025)
+18742|2|uk|Полум’яні вогнеборці (2026)
 15335|3|uk|Полум’яні вогнеборці 2
 15335|4|uk|Полум’яні вогнеборці 2 розділ
-17420|4|uk|Полум’яні вогнеборці Розділ 3
+17420|4|uk|Полум’яні вогнеборці 3 розділ 1 частина
+18742|4|uk|Полум’яні вогнеборці 3 розділ 2 частина
 515|2|uk|Полум`яний лабіринт
 6271|2|ru|Полусломанная музыкальная шкатулка
 11265|2|ru|Получеловек
@@ -74618,6 +74631,7 @@
 5016|2|ja|えいゆうがいでんモザイカ
 58|4|ja|エイリアン9
 15127|4|ja|エイリは王さま!
+19905|4|ja|エヴァンゲリオン (完全新作シリーズ)
 16722|4|ja|エヴァンゲリオン 使徒、博多襲来
 8854|4|ja|エウレカセブンAO
 9147|4|ja|エウレカセブンAO -ユングフラウの花々たち-
@@ -77531,6 +77545,7 @@
 19688|4|ja|ダークギャザリング 2
 2789|4|ja|ダークキャット
 961|4|ja|ダークサイド・ブルース
+19908|4|ja|ダークサモナーとデキている
 1587|2|ja|ダークロウズ
 19317|4|ja|ターザン
 6941|4|ja|ターチャンの怪物退治
@@ -92302,6 +92317,7 @@
 14082|4|zh-Hans|猪猪侠 超星萌宠3
 14083|4|zh-Hans|猪猪侠 超星萌宠4
 13407|4|zh|猪猪侠 魔幻猪猡纪
+19906|4|zh-Hans|猪猪侠·不可思议的世界
 13457|2|zh-Hans|猪猪侠之五灵守卫者
 13458|2|zh-Hans|猪猪侠之光明守卫者
 13463|2|zh-Hans|猪猪侠之勇闯巨人岛
@@ -94742,6 +94758,7 @@
 332|4|zh-Hans|萤火虫之墓
 16758|4|zh-Hans|落凡尘
 19136|4|zh-Hans|落凡尘 (2024)
+19896|3|ja|落第賢者
 19896|4|ja|落第賢者の学院無双 ~二度目の転生, Sランクチート魔術師冒険録~
 11126|4|ja|落第騎士の英雄譚[キャバルリィ] A TALE OF WORST ONE
 11126|4|zh-Hans|落第骑士英雄谭
@@ -97598,6 +97615,7 @@
 16113|4|ja|魔法使いの嫁 西の少年と青嵐の騎士
 18599|4|ja|魔法使いの約束
 7910|4|ja|魔法使いハーレイのスピードストーリー
+19907|4|ja|魔法使いロゼの佐渡ライフ
 16280|4|ja|魔法使い黎明期
 5189|4|zh-Hans|魔法使借贷公司
 12269|4|zh-Hans|魔法使光之美少女 奇迹的变身！Cure Mofurun！
