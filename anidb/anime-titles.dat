@@ -1,4 +1,4 @@
-# created: Tue Feb 24 03:00:02 2026
+# created: Wed Feb 25 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -118,6 +118,7 @@
 12142|2|en|"Heroes" Dismissed
 16424|2|en|"Ippon" Again!
 19003|1|x-jat|"Ippunkan dake Furete mo Ii yo..." Share House no Himitsu Rule.
+19909|1|x-jat|"Kimi o Aisuru Ki wa Nai" to Itta Jiki Koushaku-sama ga Nazeka Dekiai Shite Kimasu
 19310|1|x-jat|"Omae Gotoki ga Maou ni Kateru to Omou na" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai
 17449|1|x-jat|"Oshi no Ko"
 18086|1|x-jat|"Oshi no Ko" (2024)
@@ -184,6 +185,7 @@
 13066|4|ja|「Magical Music Train 」
 4317|4|ja|「エイジ」
 19310|4|ja|「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので, 王都で気ままに暮らしたい
+19909|4|ja|「きみを愛する気はない」と言った 次期公爵様がなぜか溺愛してきます
 19310|4|zh-Hans|「凭你也想讨伐魔王？」被勇者小队逐出队伍，只好在王都自在过活
 19003|4|zh-Hans|「只能触摸一分钟哦...」合租房的秘密规则。
 15157|4|ja|「宇宙戦艦ヤマト」という時代 西暦2202年の選択
@@ -24442,7 +24444,7 @@
 1688|4|en|Immorality
 1688|4|de|Immorality
 15822|2|en|Immorality Boundary
-18897|4|en|Immortal Doctor In Modern City
+18897|2|en|Immortal Doctor In Modern City
 14718|2|en|Immortal King
 16359|2|en|Immortal King 2
 13660|2|en|IMMORTAL LEGENDS : GRAVE ROBBERS
@@ -53849,6 +53851,7 @@
 16036|4|en|The Duke of Death and His Maid
 16755|4|en|The Duke of Death and His Maid (2023)
 18213|4|en|The Duke of Death and His Maid (2024)
+19909|2|en|The Duke`s Son Claims He Won`t Love Me Yet Showers Me with Adoration
 5862|2|en|The Dull Sword
 15619|4|en|The Dungeon of Black Company
 6876|2|en|The Dwarf and the Green Catterpillar
@@ -57794,7 +57797,7 @@
 1411|1|x-jat|Urayasu Tekkin Kazoku
 11290|2|en|Urban Legend Series
 6268|2|en|Urban Legend Story Hikiko
-18897|2|en|Urban Miracle Doctor
+18897|4|en|Urban Miracle Doctor
 4026|2|x-jat|Urban Square
 4026|2|en|Urban Square: Chasing Amber
 4026|1|x-jat|Urban Square: Kohaku no Tsuigeki
@@ -58207,11 +58210,13 @@
 883|2|en|Vanilla Series - Dark
 2522|2|en|Vanilla Series - P.I.: Perverse Investigations
 7221|2|en|Vanishment of Haruhi Suzumiya
+16174|3|x-jat|vanitas
 16174|1|x-jat|Vanitas no Karte
 16367|1|x-jat|Vanitas no Karte (2022)
 16367|2|x-jat|Vanitas no Karte 2
 16174|2|x-jat|Vanitas no Shuki
 16367|2|x-jat|Vanitas no Shuki (2022)
+16367|3|x-jat|vanitas2
 4346|2|no|Vannspråk
 9513|4|ja|VANQUISHED QUEENS
 9513|1|x-jat|Vanquished Queens
@@ -70640,6 +70645,7 @@
 12594|4|ko|누키 움찔! 레볼루션
 9762|2|ko|누키도킷!
 12594|2|ko|누키도킷! 레볼루션
+18459|2|ko|누키타시 THE ANIMATION
 2174|2|ko|눈 오는 밤 이야기
 18896|2|ko|눌러앉은 갸루가 보지 쓰게 해주는 이야기
 11736|4|ko|뉴 게임!
@@ -88015,6 +88021,7 @@
 3100|2|ja|忍者マン一平
 17211|4|zh-Hans|忍者一时
 18596|4|zh-Hans|忍者与杀手二人组的日常生活
+19177|4|zh-Hans|忍者与极道
 3626|2|zh-Hans|忍者乱太郎
 7983|4|zh-Hans|忍者乱太郎 忍术学园全员出动之段
 2607|4|zh-Hant|忍者哈特利
