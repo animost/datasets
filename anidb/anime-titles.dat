@@ -1,4 +1,4 @@
-# created: Wed Feb 25 03:00:01 2026
+# created: Thu Feb 26 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -15468,6 +15468,7 @@
 9200|1|x-jat|Evangelion 3D
 9200|4|ja|Evangelion 3D
 8895|2|x-jat|Evangelion 4.0
+19910|1|x-jat|Evangelion Housou 30 Shuunen Kinen Tokubetsu Kougyou
 202|3|en|Evangelion movie
 6171|2|en|Evangelion New Theatrical Version: Break
 6171|2|en|Evangelion New Theatrical Version: Destruction
@@ -24413,6 +24414,7 @@
 17026|4|hr|Imaginarni
 18666|2|en|Imagination Real
 15215|4|fr|Imagine, un cambrousard du dernier donjon dans la ville de départ !
+16198|4|pt|Imaizumi Leva Todas as Gyarus Para a Sua Casa
 16198|2|en|Imaizumi`s Place Became a Gal Hang-Out Spot for Some Reason
 16198|1|x-jat|Imaizumin-chi wa Douyara Gal no Tamariba ni Natteru Rashii
 12005|2|x-jat|Imakara Atashi......
@@ -74639,6 +74641,7 @@
 15127|4|ja|エイリは王さま!
 19905|4|ja|エヴァンゲリオン (完全新作シリーズ)
 16722|4|ja|エヴァンゲリオン 使徒、博多襲来
+19910|4|ja|エヴァンゲリオン放送30周年記念特別興行
 8854|4|ja|エウレカセブンAO
 9147|4|ja|エウレカセブンAO -ユングフラウの花々たち-
 9512|2|ja|エウレカセブンAOショートアニメ
@@ -76987,6 +76990,7 @@
 13724|4|ja|シンテリヤ嬢の花婿
 6514|4|ja|シンデレラ エクスプレス
 14663|4|ja|シンデレラ・シェフ ～萌妻食神～
+16986|4|ja|シンデレラ・シェフ ～萌妻食神～ シーズン2
 781|4|ja|シンデレラボーイ
 3677|4|ja|シンデレラ物語
 11041|4|ja|シンドバッド
