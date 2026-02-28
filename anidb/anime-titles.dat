@@ -1,4 +1,4 @@
-# created: Thu Feb 26 03:00:02 2026
+# created: Fri Feb 27 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -18726,6 +18726,7 @@
 13452|2|en|GG Bond: Fairy Tales of the Brick Kingdom
 13465|2|en|GG Bond: Guarding
 13462|2|en|GG Bond: Hatching
+19906|4|en|GG Bond: Lollipop in Fantasy
 13454|2|en|GG Bond: Monster Hero
 13454|2|en|GG Bond: Seventh Season
 510|3|x-jat|gg ova
@@ -25388,6 +25389,7 @@
 12210|4|ja|JAM
 12210|1|x-jat|Jam
 16181|1|x-jat|Jam the Housnail
+19906|4|es|Jana y la piruleta mágica
 3155|4|it|Jane e Micci
 4231|1|x-kot|Jang Geum Ieui Kkum
 8105|1|x-kot|Jang Geum Ieui Kkum 2
@@ -28056,6 +28058,7 @@
 17976|1|x-jat|Kimetsu no Yaiba: Yuukaku Hen - Tokubetsu Henshuuban
 17976|2|x-jat|Kimetsu no Yaiba: Yuukaku Kessen Hen
 17976|2|x-jat|Kimetsu no Yaiba: Yuukaku Sennyuu Hen
+19909|3|x-jat|kimi ai
 14041|1|x-jat|Kimi dake ni Motetainda.
 5235|1|x-jat|Kimi ga Aruji de Shitsuji ga Ore de
 896|1|x-jat|Kimi ga Nozomu Eien
@@ -28737,6 +28740,7 @@
 12091|3|en|Kobayashi-san
 12091|2|x-jat|Kobayashi-san Chi no Maid Dragon
 14678|2|x-jat|Kobayashi-san Chi no Maid Dragon S
+18873|2|x-jat|Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu
 12091|1|x-jat|Kobayashi-san Chi no Maidragon
 14678|1|x-jat|Kobayashi-san Chi no Maidragon S
 14678|3|en|Kobayashi-san S
@@ -34509,6 +34513,7 @@
 16618|3|x-zht|mdzs s3
 17428|4|en|Me & Roboco
 18068|2|en|Me & Roboco the Movie
+18068|4|en|Me & Roboco: The Movie
 15508|2|en|Me and My Zoo
 17428|2|en|Me and Roboco
 19018|2|en|Me and the Alien MuMu
@@ -53237,6 +53242,7 @@
 17118|4|en|Teppen!!!!!!!!!!!!!!! Laughing `Til You Cry
 9634|2|x-kot|Tera
 12717|1|x-jat|Terajima-chou Kidan: Ginnagashi
+19911|1|x-kot|Tereomaen
 18275|4|hu|Terminátor – A vég kapujában
 18275|1|x-jat|Terminator 0
 18275|4|en|Terminator Zero
@@ -53271,6 +53277,7 @@
 10537|4|fr|Terror in Resonance
 10537|4|de|Terror in Tokio
 10537|2|en|Terror in Tokyo
+19911|4|en|Terror Man
 10537|4|pt|Terror no Eco
 10010|3|x-jat|tesabu
 10010|4|en|Tesagure!
@@ -53404,6 +53411,7 @@
 18884|2|en|That Time I Got Reincarnated as a Slime (2026)
 14767|2|en|That Time I Got Reincarnated as a Slime 2nd Season
 16776|4|es|That Time I Got Reincarnated as a Slime la película: El vínculo escarlata
+18885|4|es|That Time I Got Reincarnated as a Slime La Película: Lágrimas del mar celeste
 14526|4|en|That Time I Got Reincarnated as a Slime OAD
 16776|4|en|That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond
 18885|4|en|That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea
@@ -75643,6 +75651,7 @@
 12839|4|ja|キミはともだち
 19857|3|ja|きみはな
 17013|4|ja|キミはやさしく寝取られる THE ANIMATION
+19909|3|ja|きみ愛
 19189|3|ja|きみ死ぬ
 14465|3|ja|きみ波
 5272|4|ja|キムの十字架
@@ -86648,6 +86657,7 @@
 16232|4|ja|始まりは君の空
 702|2|zh-Hans|姐妹物语
 702|2|zh-Hans|姐妹的轮舞
+8590|4|zh-Hans|姐姐大人！
 10205|4|zh-Hans|姐姐来了
 10673|4|zh-Hans|姐姐的妄想日记OAD
 17472|4|ja|委員長は催眠アプリを信じてる.
