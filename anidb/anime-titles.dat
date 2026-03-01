@@ -1,4 +1,4 @@
-# created: Fri Feb 27 03:00:01 2026
+# created: Sun Mar  1 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4394,6 +4394,7 @@
 3515|2|x-jat|B.B. Fish
 3515|2|ja|B.B.[ブルーバタフライ]フィッシュ
 3515|4|ja|B.B.フィッシュ
+19914|2|x-unk|B.King
 3585|4|ja|B[ボンバーマン]ビーダマン爆外伝
 3586|4|ja|B[ボンバーマン]ビーダマン爆外伝V[ビクトリー]
 945|1|x-jat|B`t X
@@ -6729,6 +6730,7 @@
 13148|1|x-jat|Boku to Misaki-sensei
 14340|1|x-jat|Boku to Nurse no Kenshuu Nisshi The Animation
 17428|1|x-jat|Boku to Roboco
+18068|2|x-jat|Boku to Roboco Movie
 14913|1|x-jat|Boku to Sensei to Tomodachi no Mama
 16022|1|x-jat|Boku wa Boku o Suki ni Naru
 17462|1|x-jat|Boku wa Chiisana Succubus no Shimobe
@@ -10705,6 +10707,7 @@
 18290|4|tr|Dandadan
 18290|2|en|Dandadan
 18290|4|de|Dandadan
+19912|1|x-jat|Dandelion
 6738|2|en|Danemon`s Monster Hunt at Shojoji
 10937|2|x-unk|Dáng hình thanh âm
 10937|4|vi|Dáng Hình Thanh Âm
@@ -14161,10 +14164,12 @@
 17195|1|x-jat|Duel Masters King Max
 16009|1|x-jat|Duel Masters King!
 19884|4|ja|Duel Masters LOST ～忘却の太陽～
+19913|4|ja|Duel Masters LOST ~断罪の少年~
 18797|4|ja|Duel Masters LOST ~月下の死神~
 18521|4|ja|Duel Masters LOST ~追憶の水晶~
 19884|1|x-jat|Duel Masters Lost: Boukyaku no Taiyou
 18521|2|en|Duel Masters LOST: Crystal of Remembrance
+19913|1|x-jat|Duel Masters Lost: Danzai no Shounen
 18797|2|en|Duel Masters LOST: Death Under the Moon
 18797|1|x-jat|Duel Masters Lost: Gekka no Shinigami
 18521|1|x-jat|Duel Masters Lost: Tsuioku no Suishou
@@ -23340,6 +23345,7 @@
 15493|2|en|How NOT to Summon a Demon Lord Ω
 7874|2|en|How to Bloom a Flower
 2340|4|en|How to Breed Kappas
+15052|2|en|How to Build a Magnificent Nation
 15052|2|en|How To Build A Wonderful Country
 15052|2|en|How to Build a Wonderful Nation
 13252|4|en|How to Keep a Mummy
@@ -59988,6 +59994,7 @@
 19689|1|x-zht|Xian Di Guilai
 16780|1|x-zht|Xian Feng Jian Yu Lu
 19297|1|x-zht|Xian Ji Xun Zong
+19916|1|x-zht|Xian Jian Qi Xia Zhuan San (2025)
 18420|1|x-zht|Xian Mu
 18237|1|x-zht|Xian Ni
 19372|2|x-zht|Xian Ni Juchang Ban: Shenlin Zhi Zhan
@@ -61209,6 +61216,7 @@
 1093|3|x-jat|YtBtHnT
 1429|3|en|YTN
 11710|1|x-zht|Yu Bang Xiang Zheng
+19914|1|x-zht|Yu Ling Shi
 15212|1|x-zht|Yu Tong
 312|4|ro|Yu Yu Hakusho
 312|4|fr|Yu Yu Hakusho
@@ -61938,6 +61946,7 @@
 19148|1|x-zht|Zhanshen Lianmeng
 18005|1|x-zht|Zhe Tian
 18338|1|x-zht|Zhen Dao Ge 2nd Season
+19915|1|x-zht|Zhen Dao Ge 3
 16530|1|x-zht|Zhen Dao Ge: Chen Shi Xing
 16530|2|x-zht|Zhen Dao Ge: Chenshi Hang
 16267|1|x-zht|Zhen Dao Ge: Qianli Bu Liu Xing
@@ -77741,6 +77750,7 @@
 7939|4|ja|ダンタリアンの書架
 8944|4|ja|ダンタリアンの書架 荊姫
 11081|4|ja|だんちがい
+19912|4|ja|だんでらいおん
 1653|2|ja|ダンドー!!
 10676|3|ja|ダンナ
 14603|4|ja|ダンベル何キロ持てる?
@@ -82878,6 +82888,7 @@
 8521|4|zh-Hans|仙乐传说 世界统合篇
 6814|4|zh-Hans|仙乐传说 迪赛雅兰篇
 3519|4|ja|仙人部落
+19916|4|zh-Hans|仙剑奇侠传三 (2025)
 18420|4|zh-Hans|仙墓
 19393|4|zh-Hans|仙宠
 19393|2|zh-Hans|仙宠奶凶
@@ -84294,6 +84305,7 @@
 9384|4|ja|劇場版 銀魂 完結篇 万事屋よ永遠なれ
 7177|4|ja|劇場版 銀魂 新訳紅桜篇
 2359|4|ja|劇場版 鋼の錬金術師 シャンバラを征[ゆ]く者
+16776|4|zh-Hant|劇場版 關於我轉生變成史萊姆這檔事 紅蓮之絆篇
 18333|4|ja|劇場版 陰の実力者になりたくて! 残響編
 11747|4|ja|劇場版 響け! ユーフォニアム ~北宇治高校吹奏楽部へようこそ~
 13207|4|ja|劇場版 響け! ユーフォニアム ~誓いのフィナーレ~
@@ -90532,6 +90544,7 @@
 8532|4|ja|東映ロボットガールズ
 14302|4|ja|松が枝を結び
 16267|4|zh-Hans|枕刀歌 千里不留行
+19915|4|zh-Hans|枕刀歌 第三季
 18338|4|zh-Hans|枕刀歌 第二季
 16530|4|zh-Hans|枕刀歌之尘世行
 11213|4|ja|枕男子
@@ -96644,6 +96657,8 @@
 13871|4|zh-Hant|關於我轉生變成史萊姆這檔事
 17873|4|zh-Hant|關於我轉生變成史萊姆這檔事 柯里烏斯之夢
 17709|2|zh-Hant|關於我轉生變成史萊姆這檔事 第三季
+14767|4|zh-Hant|關於我轉生變成史萊姆這檔事 第二季
+15456|4|zh-Hant|關於我轉生變成史萊姆這檔事 第二季 第2部分
 17873|2|zh-Hant|關於我轉生變成史萊姆這檔事 高里烏斯之夢
 9166|4|zh-Hans|闪乱神乐
 10885|4|zh-Hans|闪乱神乐 ESTIVAL VERSUS -泳装满载的前夜祭-
@@ -97295,6 +97310,7 @@
 14367|4|ja|驚き盤
 17352|4|zh-Hans|马娘摇曳
 14828|4|zh-Hans|马拉松王子
+19914|4|zh-Hans|驭灵师
 17444|4|zh-Hans|驯兽师被逐出队伍后邂逅最强少女
 4549|4|zh-Hans|驱魔少年
 11848|4|zh-Hans|驱魔少年 HALLOW
