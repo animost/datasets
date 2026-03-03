@@ -1,4 +1,4 @@
-# created: Sun Mar  1 03:00:02 2026
+# created: Mon Mar  2 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4980,6 +4980,8 @@
 17981|1|x-jat|Bang Dream! It`s MyGo!!!!!
 17981|4|en|Bang Dream! It`s MyGo!!!!!
 17981|4|de|Bang Dream! It`s MyGo!!!!!
+19918|1|x-jat|Bang Dream! It`s MyGo!!!!! / Ave Mujica
+19918|4|ja|BanG Dream! It`s MyGO!!!!! / Ave Mujica
 19733|1|en|BanG Dream! It`s MyGO!!!!! Movie
 17438|1|x-jat|Bang Dream! Morfonication
 17438|4|ja|BanG Dream! Morfonication
@@ -29807,6 +29809,7 @@
 13544|1|x-jat|Kyonyuu Dosukebe Gakuen
 16914|1|x-jat|Kyonyuu Elf Oyako Saimin
 9010|1|x-jat|Kyonyuu Fantasy
+19919|1|x-jat|Kyonyuu ga Futari Inai to Bokki Shinai Otto no Tame ni Tomodachi wo Tsuretekita Tsuma
 11774|1|x-jat|Kyonyuu Hitozuma Onna Kyoushi Saimin
 14110|1|x-jat|Kyonyuu J* ga Ojisan Chinpo to Jupo Jupo Iyarashii Sex Shitemasu.
 14110|2|x-jat|Kyonyuu JK ga Ojisan Chinpo to Jupo Jupo Iyarashii Sex Shitemasu.
@@ -30424,6 +30427,7 @@
 17676|4|en|Laid-Back Camp Season 3
 18974|2|en|Laid-Back Camp Season 4
 14438|4|en|Laid-Back Camp the Movie
+12743|4|pt|Laid-Back Camp, O Filme
 14450|1|x-jat|Laidbackers
 14450|4|ja|LAIDBACKERS
 14450|4|en|Laidbackers
@@ -36751,6 +36755,7 @@
 141|3|en|MUC OVA
 140|3|en|MUC TV
 14220|1|x-jat|Muchi Muchi Kyousei Seichouchuu!!!
+19917|1|x-jat|Muchuu no Tou
 18930|1|x-jat|Muchuu sa, Kimi ni.
 7261|2|x-jat|Mudadzumo Naki Kaikaku
 11248|1|x-jat|Mudai
@@ -47218,6 +47223,7 @@
 12065|1|x-jat|Scared Rider Xechs
 12065|2|ja|Scared Rider XechS
 19073|4|en|Scarlet
+19073|4|pl|Scarlet
 8840|2|en|Scarlet Fragment
 16135|1|x-jat|Scarlet Nexus
 16135|4|ja|SCARLET NEXUS
@@ -87523,6 +87529,7 @@
 14110|4|ja|巨乳J○がオジさんチ○ポとじゅぽじゅぽいやらしいセックスしてます.
 14110|2|ja|巨乳JKがオジさんチンポとじゅぽじゅぽいやらしいセックスしてます.
 16914|4|ja|巨乳エルフ母娘催眠
+19919|4|ja|巨乳が2人いないと勃起しない夫のために友達を連れてきた妻
 13544|4|ja|巨乳ドスケベ学園
 10705|4|ja|巨乳トライ! -短期集中乳揉みレッスン-
 10705|2|ja|巨乳トライ！-短期集中乳揉みレッスン-
@@ -91948,6 +91955,7 @@
 17236|2|zh-Hant|無職轉生～到了異世界就拿出真本事 第二季
 14758|4|zh-Hant|無職轉生～到了異世界就拿出真本事～
 15954|4|zh-Hant|無職轉生～到了異世界就拿出真本事～ (2021)
+17236|4|zh-Hant|無職轉生～到了異世界就拿出真本事～ 第二季
 18104|2|zh-Hant|無職轉生～到了異世界就拿出真本事～ 第二季 第二季度
 15492|4|ja|無能なナナ
 15492|4|zh-Hant|無能力者娜娜
@@ -96953,6 +96961,7 @@
 11784|4|ja|霊剣山 星屑たちの宴
 2017|4|ja|霊能探偵ミコ
 1218|4|zh-Hant|霍爾的移動城堡
+19917|4|ja|霧中ノ塔
 19675|4|ja|霧尾ファンクラブ
 8696|4|ja|霧谷伯爵家の六姉妹
 12738|3|zh-Hant|露之歌
