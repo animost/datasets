@@ -1,4 +1,4 @@
-# created: Mon Mar  2 03:00:01 2026
+# created: Tue Mar  3 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -14165,7 +14165,7 @@
 15471|1|x-jat|Duel Masters King
 17195|1|x-jat|Duel Masters King Max
 16009|1|x-jat|Duel Masters King!
-19884|4|ja|Duel Masters LOST ～忘却の太陽～
+19884|4|ja|Duel Masters LOST ~忘却の太陽~
 19913|4|ja|Duel Masters LOST ~断罪の少年~
 18797|4|ja|Duel Masters LOST ~月下の死神~
 18521|4|ja|Duel Masters LOST ~追憶の水晶~
@@ -15904,7 +15904,7 @@
 4445|3|x-jat|Fandora
 16563|4|en|Fanfare of Adolescence
 15583|1|x-zht|Fang Kai Nage Nuwu
-19716|1|x-zht|Fang Kai Nage Nuwu (Web)
+19716|1|x-zht|Fang Kai Nage Nuwu (2026)
 2352|2|en|Fang of the Sun Dagram
 2352|2|en|Fang of the Sun Dougram
 15583|2|x-zht|Fangkai Nage Nuwu
@@ -19659,7 +19659,6 @@
 14085|1|x-jat|Golden Kamuy OAD
 18081|1|x-jat|Golden Kamuy Saishuushou
 18081|2|en|Golden Kamuy Season 5
-19848|1|x-jat|Golden Kamuy: Inazuma Goutou to Mamushi no Ogin / Shimaenaga
 19475|1|x-jat|Golden Kamuy: Sapporo Beer Koujou Hen
 8231|1|x-jat|Golden Kids
 9771|1|x-jat|Golden Time
@@ -42313,6 +42312,7 @@
 13826|4|en|Plunderer
 14342|1|x-jat|Plus 50000-nen
 18412|4|en|Plus-Sized Elf
+18412|4|de|Plus-Sized Elf
 18281|4|en|Plus-sized Misadventures in Love!
 585|4|en|Pluster World
 585|4|fr|Plusters
@@ -45086,7 +45086,7 @@
 571|1|x-jat|Rekka no Honoo
 9426|1|x-jat|Rekka no Honoo: Final Burning
 15583|2|en|Release That Witch
-19716|4|en|Release That Witch (Web)
+19716|4|en|Release That Witch (2026)
 13760|4|ja|RELEASE THE SPYCE
 13760|1|x-jat|Release the Spyce
 13760|4|en|Release the Spyce
@@ -76242,7 +76242,6 @@
 14085|4|ja|ゴールデンカムイ OAD
 18081|4|ja|ゴールデンカムイ 最終章
 19475|4|ja|ゴールデンカムイ 札幌ビール工場編
-19848|4|ja|ゴールデンカムイ 稲妻強盗と蝮のお銀 / シマエナガ
 14995|2|ja|ゴールデンカムイ 第三期
 14185|2|ja|ゴールデンカムイ 第二期
 17023|2|ja|ゴールデンカムイ 第四期
@@ -89183,7 +89182,7 @@
 18171|4|zh-Hant|放學後少年花子君
 10958|4|zh-Hant|放學後的昴星團
 15583|4|zh|放开那个女巫
-19716|4|zh|放开那个女巫 (Web)
+19716|4|zh|放开那个女巫 (2026)
 7949|4|ja|放浪息子
 7949|4|zh-Hans|放浪男孩
 18494|4|zh-Hans|放荡之顷
@@ -95759,6 +95758,7 @@
 9053|4|ja|輝け!友情のVサイン
 14111|4|zh-Hant|輝夜姬想讓人告白~天才們的戀愛頭腦戰~
 15207|4|zh-Hant|輝夜姬想讓人告白～天才們的戀愛頭腦戰～ 第二季
+15806|4|zh-Hant|輝夜姬想讓人告白ー超級浪漫ー
 9515|4|zh-Hant|輝耀姬物語
 8421|4|ja|輪るピングドラム
 3525|4|ja|輪奸学園
