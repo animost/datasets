@@ -1,4 +1,4 @@
-# created: Tue Mar  3 03:00:01 2026
+# created: Wed Mar  4 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -10811,6 +10811,7 @@
 69|4|vi|Đảo hải tặc
 4087|2|x-zht|Dao Nao Tiangong
 19727|2|x-zht|Dao Nao Tiangong 3D
+19921|1|x-zht|Dao Yao Xing
 16192|2|x-zht|Daomu Biji Zhi Qinling Shen Shu
 16192|1|x-zht|Daomu Biji: Qinling Shen Shu
 1322|3|x-jat|Daphne
@@ -12001,7 +12002,6 @@
 4776|4|it|Devil May Cry
 4776|4|de|Devil May Cry
 4776|2|pt-BR|Devil May Cry
-19278|1|ko|Devil May Cry (2025)
 9554|1|x-jat|Devil Survivor 2 The Animation
 9554|4|ja|DEVIL SURVIVOR 2 the ANIMATION
 9554|4|de|Devil Survivor 2 The Animation
@@ -34141,6 +34141,9 @@
 11856|1|x-jat|Marshmallow, Imouto, Succubus
 19536|4|en|Martial Conqueror of the Cosmos
 18614|2|en|Martial God Asura
+19923|4|en|Martial God Asura 2
+19923|2|en|Martial God Asura 2nd Season
+19923|2|en|Martial God Asura S2
 18682|2|en|Martial God Stream
 18977|4|en|Martial Inverse
 15443|2|en|Martial Master
@@ -36456,6 +36459,7 @@
 11800|1|x-jat|Moom
 1009|4|en|Moomin
 1007|2|x-jat|Moomin
+1009|4|es-419|Moomin
 1008|2|x-jat|Moomin (1972)
 1009|4|nl|Moomin (1990)
 1010|3|x-jat|Moomin (1991)
@@ -38475,6 +38479,8 @@
 16583|2|x-zht|Ni Tian Zhi Zun
 16583|1|x-zht|Ni Tian Zhizun
 17257|1|x-zht|Ni Yian Jian Shen
+19922|2|x-zht|Ni Zai Xing Guang Shen Chu
+19922|1|x-zht|Ni Zai Xingguang Shenchu
 17335|1|x-zht|Ni Zhenshi Ge Tiancai
 19865|2|en|Nia Liston: The Merciless Maiden
 17594|1|x-zht|Nian Shou da Zuozhan
@@ -44204,13 +44210,14 @@
 12799|1|x-jat|Quantum Leap
 12799|4|ja|Quantum Leap
 13171|1|x-zht|Quanzhi Fashi
-14572|1|x-zht|Quanzhi Fashi 3
 13469|1|x-zht|Quanzhi Fashi II
+14572|1|x-zht|Quanzhi Fashi III
 15397|1|x-zht|Quanzhi Fashi IV
 15397|2|x-zht|Quanzhi Fashi Season 4
 19503|1|x-zht|Quanzhi Fashi Tebie Pian: Shenmi Weituo
 16490|1|x-zht|Quanzhi Fashi V
 16579|1|x-zht|Quanzhi Fashi VI
+19920|1|x-zht|Quanzhi Fashi VII
 12560|1|x-zht|Quanzhi Gaoshou
 14978|1|x-zht|Quanzhi Gaoshou 2
 16589|2|x-zht|Quanzhi Gaoshou 3
@@ -51132,6 +51139,7 @@
 10082|1|x-jat|Starry Tales: Seiza wa Toki o Koete
 7240|4|ja|Starry☆Sky
 14200|4|en|Stars Align
+19922|4|en|Stars Fall
 17173|1|en|Stars*Collection
 17191|1|x-jat|Stars*Collection!
 340|2|en|Starship Girl Yamamoto Yohko
@@ -52439,6 +52447,7 @@
 4193|4|tl|Tales from Earthsea
 4193|4|nl|Tales from Earthsea
 4193|4|my|Tales from Earthsea
+1009|2|en|Tales from Moominvalley
 7946|2|en|Tales From The Snow Country
 11273|2|x-jat|Tales of 20th Anniversary Animation
 15537|2|en|Tales of A Harem in Another World
@@ -60156,6 +60165,10 @@
 16885|1|x-zht|Xiu Rong Zhen
 17808|2|x-zht|Xiu Zhen Si Wan Nian
 18614|1|x-zht|Xiuluo Wu Shen
+18614|2|x-zht|Xiuluo Wushen
+19923|1|x-zht|Xiuluo Wushen 2
+19923|2|x-zht|Xiuluo Wushen 2nd Season
+19923|2|x-zht|Xiuluo Wushen Di Er Ji
 14374|1|x-zht|Xixing Ji
 18310|1|x-zht|Xixing Ji (2023)
 18309|1|x-zht|Xixing Ji: Anying Mo Cheng
@@ -83050,6 +83063,7 @@
 16828|4|zh-Hans|你与我最后的战场，亦或是世界起始的圣战 第二季
 17984|4|zh-Hans|你们还真就结婚啦？
 15414|4|zh-Hant|你在他方
+19922|4|zh-Hans|你在星光深处
 14532|4|zh-Hans|你好 世界
 9295|4|zh-Hans|你好七叶
 9747|4|zh-Hans|你好七叶 第二季
@@ -83154,6 +83168,9 @@
 16885|4|zh-Hans|修容镇
 17808|2|zh-Hans|修真四万年
 18614|4|zh-Hans|修罗武神
+19923|4|zh-Hans|修罗武神 第2季
+19923|2|zh-Hans|修罗武神 第二季
+19923|2|zh-Hans|修罗武神2
 9174|4|ja|修羅がゆく
 1262|4|ja|修羅之介斬魔劍 死鎌紋の男
 10323|4|ja|俺, ツインテールになります.
@@ -83461,17 +83478,18 @@
 19129|4|zh-Hans|全球高武
 18741|4|ja|全知的な読者の視点から
 14574|4|zh-Hans|全缉毒狂潮
-13171|4|zh-Hant|全职法师
-13469|2|zh|全职法师 II
-14572|2|zh|全职法师 III
-19503|4|zh-Hant|全职法师 特别篇 神秘委托
-13469|4|zh-Hans|全职法师 第2季
-14572|4|zh|全职法师 第3季
+13171|4|zh-Hans|全职法师
+19503|4|zh-Hans|全职法师 特别篇 神秘委托
+13469|2|zh-Hans|全职法师 第2季
+14572|2|zh|全职法师 第3季
 15397|2|zh|全职法师 第4季
 13469|2|zh|全职法师 第二季
-15397|4|zh-Hant|全职法师IV
+13469|4|zh-Hans|全职法师II
+14572|4|zh-Hans|全职法师III
+15397|4|zh-Hans|全职法师IV
 16490|4|zh-Hans|全职法师V
 16579|4|zh-Hans|全职法师VI
+19920|4|zh-Hans|全职法师VII
 14572|2|zh|全职法师第三季
 10012|2|zh-Hans|全职猎人剧场版 最后的任务
 9323|2|zh-Hans|全职猎人剧场版 绯色的幻影
@@ -83588,7 +83606,7 @@
 14309|4|zh-Hans|兽王争锋
 14310|4|zh|兽王争锋 原石之力
 4226|2|zh-Hans|兽王星
-5314|2|zh-Hans|兽神演武
+5314|4|zh-Hans|兽神演武
 4829|4|zh-Hans|兽装机攻断空我NOVA
 15407|4|ja|内田春菊の呪いのワンピース
 1207|4|zh-Hans|内衣办公室
@@ -84017,7 +84035,6 @@
 15818|4|zh-Hans|剑网3·侠肝义胆沈剑心之长漂
 19708|4|zh-Hans|剑网3·沈剑心的365天
 5108|4|zh-Hans|剑豪生死斗
-5108|2|zh-Hans|剑豪生死门
 18393|4|zh-Hans|剑道第一仙
 18893|4|zh-Hans|剑道第一仙 第二季
 11851|3|zh-Hans|剑风传奇
@@ -88079,7 +88096,7 @@
 18145|4|ja|忘却バッテリー (2024)
 18979|4|ja|忘却バッテリー (2027)
 5188|2|zh|忧伤大人二之宫
-15774|4|zh-Hans|忧国的莫里亚蒂
+15774|4|zh-Hans|忧国的莫里亚蒂 后半
 11924|4|zh-Hans|忧郁的物怪庵
 14177|4|zh-Hans|忧郁的物怪庵 续
 3301|4|zh-Hans|快乐七人组
@@ -92992,6 +93009,7 @@
 19106|4|zh-Hans|盒中之海
 18381|4|zh-Hans|盖世帝尊
 16192|2|zh-Hans|盗墓笔记之秦岭神树
+19921|4|zh-Hans|盗妖行
 19838|4|ja|盗掘王
 4191|2|zh-Hans|盗梦侦探
 13772|4|zh-Hans|盛世妆娘
