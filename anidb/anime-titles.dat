@@ -1,4 +1,4 @@
-# created: Wed Mar  4 03:00:02 2026
+# created: Thu Mar  5 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2396,6 +2396,7 @@
 58|1|x-jat|Alien Nine
 3634|4|en|Alien X from A Zone
 58|2|x-jat|Alien9
+19921|4|en|Aliens Among Immortals
 5602|1|x-jat|Alignment You! You! The Animation
 223|3|x-jat|alinks
 2744|4|lt|Alisa - Stebuklų Šalyje
@@ -13104,6 +13105,7 @@
 3315|2|en|Doraemon: Nobita`s South Sea Adventure
 10737|2|en|Doraemon: Nobita`s Space Heroes
 1951|4|en|Doraemon: Nobita`s Spacetime Odyssey With Cats And Dogs
+6586|2|en|Doraemon: Nobita`s Three Fantasketeers
 6586|2|en|Doraemon: Nobita`s Three Visionary Swordsmen
 1951|2|en|Doraemon: Nobita`s Wannyan Space-Time Legend
 4765|2|en|Doraemon: Nobita`s Wedding Eve
@@ -15903,11 +15905,11 @@
 246|4|en|Fancy Lala
 4445|3|x-jat|Fandora
 16563|4|en|Fanfare of Adolescence
-15583|1|x-zht|Fang Kai Nage Nuwu
+15583|2|x-zht|Fang Kai Nage Nuwu
 19716|1|x-zht|Fang Kai Nage Nuwu (2026)
 2352|2|en|Fang of the Sun Dagram
 2352|2|en|Fang of the Sun Dougram
-15583|2|x-zht|Fangkai Nage Nuwu
+15583|1|x-zht|Fangkai Nage Nuwu
 19281|1|x-zht|Fangyu Quan Kai
 18594|1|x-zht|Fanpai Chushihua
 15425|2|x-zht|Fanren Xiu Xian Chuan
@@ -17291,6 +17293,7 @@
 11997|1|x-jat|Fune o Amu
 11997|2|x-jat|Fune wo Amu
 11997|3|x-jat|funewoamu
+19924|2|en|Fungus and Iron
 17377|1|x-jat|Funikuri funikura
 7164|4|en|Funky Fables
 12740|2|en|Funny Animal Bus
@@ -19212,6 +19215,7 @@
 19220|2|x-unk|Girls und Panzer - MLLSD
 12361|4|de|Girls und Panzer das Finale
 12361|4|en|Girls und Panzer das Finale
+19220|2|en|Girls und Panzer das Finale: Part 5
 10008|4|de|Girls und Panzer der Film
 10008|4|en|Girls und Panzer der Film
 10008|1|x-jat|Girls und Panzer Gekijouban
@@ -22986,6 +22990,7 @@
 4007|2|x-jat|Hon-maji-Ki
 13440|3|x-jat|honda
 13440|2|en|Honda-san
+19925|1|x-jat|Hone Dragon no Mana Musume
 11329|2|x-jat|Hone Hone Lock
 11329|1|x-jat|Hone Hone Rock
 11329|2|x-jat|Honehone Rock
@@ -28164,6 +28169,7 @@
 16083|1|x-jat|Kin Danjoshi
 17474|1|x-jat|Kin no Kuni Mizu no Kuni
 2316|3|x-jat|Kin no Tori
+19924|1|x-jat|Kin to Tetsu
 9579|1|x-jat|Kin`iro Mosaic
 12037|1|x-jat|Kin`iro Mosaic: Pretty Days
 10210|1|x-jat|Kin`iro no Chord: Blue Sky
@@ -47619,6 +47625,7 @@
 5208|1|x-jat|Seisen Gakuin
 899|1|x-jat|Seisenshi Dunbine
 2468|2|x-jat|Seisenshi Dunbine OVA
+19926|1|x-jat|Seishidouin no Oshigoto The Animation
 3184|2|x-jat|Seisho Monogatari
 4867|1|x-jat|Seishou Jogangu Alice Doll
 279|1|x-jat|Seishoujo Kantai Virgin Fleet
@@ -54983,6 +54990,7 @@
 13196|4|en|The Silver Twilight
 1432|2|it|The Sin of Desire and Shame
 15349|2|en|The Sister of the Woods with a Thousand Young
+19925|2|en|The Skull Dragon`s Precious Daughter
 4925|4|en|The Skull Man
 5310|4|en|The Sky Crawlers
 5310|4|de|The Sky Crawlers
@@ -88143,6 +88151,7 @@
 5844|4|ja|思春期少女 「かりかり」
 831|4|ja|思春期美少女合体ロボ ジーマイン THE BATTLING DAYS OF THE "SHITAMACHI" VIRGINS
 699|4|zh-Hans|性感突击队 外传
+19926|4|ja|性指導員のお仕事 The Animation
 18608|4|ja|性欲つよつよ THE ANIMATION
 14549|4|ja|性活週間 THE ANIMATION
 12886|4|zh-Hans|性爱海滩上的修学旅行！！动画版
@@ -94788,6 +94797,7 @@
 13628|4|zh|莫莫
 17920|4|zh-Hans|莱莎的炼金工房 ~常暗女王与秘密藏身处~
 14775|4|zh-Hans|莽荒纪
+19924|4|ja|菌と鉄
 115|4|ja|菜々子解体診書
 18271|4|ja|菜なれ花なれ
 16716|4|zh-Hans|菜包狗大反击
@@ -97346,6 +97356,7 @@
 419|4|zh-Hans|骑乘挑战
 12425|4|zh-Hans|骑士&魔法
 14512|4|zh-Hans|骚动时节的少女们啊。
+19925|4|ja|骨ドラゴンのマナ娘
 17235|2|ja|骨噛み
 17235|4|ja|骨嚙み
 4925|2|zh-Hans|骷髅人
