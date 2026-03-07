@@ -1,4 +1,4 @@
-# created: Thu Mar  5 03:00:01 2026
+# created: Fri Mar  6 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -15906,10 +15906,11 @@
 4445|3|x-jat|Fandora
 16563|4|en|Fanfare of Adolescence
 15583|2|x-zht|Fang Kai Nage Nuwu
-19716|1|x-zht|Fang Kai Nage Nuwu (2026)
+19716|2|x-zht|Fang Kai Nage Nuwu (2026)
 2352|2|en|Fang of the Sun Dagram
 2352|2|en|Fang of the Sun Dougram
 15583|1|x-zht|Fangkai Nage Nuwu
+19716|1|x-zht|Fangkai Nage Nuwu (2026)
 19281|1|x-zht|Fangyu Quan Kai
 18594|1|x-zht|Fanpai Chushihua
 15425|2|x-zht|Fanren Xiu Xian Chuan
@@ -18282,7 +18283,7 @@
 9384|1|x-jat|Gekijouban Gintama Kanketsuhen: Yorozuya yo Eien Nare
 9384|2|x-jat|Gekijouban Gintama: Kanketsuhen - Yorozuya yo Eien Nare
 7177|1|x-jat|Gekijouban Gintama: Shin`yaku Benizakura Hen
-19792|1|x-jat|Gekijouban Gochuumon wa Usagi Desuka?
+19792|1|x-jat|Gekijouban Gochuumon wa Usagi Desuka? We Are Family!
 10621|1|x-jat|Gekijouban Gudaguda Fairiestte Iu Eiga wa Dou kana...?
 13108|1|x-jat|Gekijouban Gundam G no Reconguista
 13108|2|x-jat|Gekijouban Gundam Reconguista in G
@@ -22993,6 +22994,7 @@
 19925|1|x-jat|Hone Dragon no Mana Musume
 11329|2|x-jat|Hone Hone Lock
 11329|1|x-jat|Hone Hone Rock
+19925|3|x-jat|honedora
 11329|2|x-jat|Honehone Rock
 8007|2|en|Honeinu-kun in the Makkuraland
 17235|1|x-jat|Honekami
@@ -25049,7 +25051,7 @@
 14400|2|en|Is the Order a Rabbit 3
 10262|4|en|Is the Order a Rabbit?
 14400|4|en|Is the Order a Rabbit? Bloom
-19792|2|en|Is the Order a Rabbit? The Movie
+19792|2|en|Is the Order a Rabbit? The Movie: We Are Family!
 11049|4|en|Is the Order a Rabbit??
 12118|2|en|Is the Order a Rabbit?? Dear My Sister
 7674|4|en|Is This a Zombie?
@@ -34599,6 +34601,7 @@
 18030|4|en|Medalist
 19260|1|x-jat|Medalist (2026)
 19260|2|en|Medalist (2026)
+19260|2|en|Medalist 2nd Season
 10631|1|x-jat|Medamayaki no Kimi Itsu Tsubusu?
 3303|1|x-jat|Medarot
 3303|4|it|Medarot
@@ -39990,6 +39993,7 @@
 16500|1|x-jat|Onaho Kyoushitsu: Joshi Zen`in Ninshin Keikaku the Animation
 16500|2|en|Onahole Classroom
 16500|2|en|Onahole Classroom: All Girls Pregnancy Plan
+19927|1|x-jat|Onaji Zemi no Someya-san ga Sexy Joyuu Datta Hanashi.
 12591|1|x-jat|Onaka no Ookina Ouji-sama
 14554|1|x-jat|Onaka-hime
 8241|1|x-jat|Onanie
@@ -84212,7 +84216,7 @@
 13108|4|ja|劇場版 ガンダム Gのレコンギスタ
 4402|4|ja|劇場版 クラナド
 7163|4|ja|劇場版 ゲゲゲの鬼太郎 日本爆裂!!
-19792|4|ja|劇場版 ご注文はうさぎですか?
+19792|4|ja|劇場版 ご注文はうさぎですか? ~We Are Family!~
 10066|2|ja|劇場版 サイコパス
 17573|2|ja|劇場版 サイコパス PROVIDENCE
 11838|4|ja|劇場版 サルゲッチュ 黄金のピポヘル・ウッキーバトル
@@ -84871,6 +84875,7 @@
 16812|4|ja|吉田勝子のヤバイわ! SDGs ~荒ぶる! トラブル! サステナブル!~
 7473|4|ja|吉野の姫
 7529|4|zh-Hans|吊带袜天使
+19927|4|ja|同じゼミの染谷さんがセクシー女優だった話。
 5071|4|zh-Hans|同人WORK
 5071|2|zh-Hans|同人工坊
 5140|4|zh|同学的妈妈
@@ -92297,7 +92302,9 @@
 16616|2|zh-Hans|狐妖小红娘 沐天城篇
 16864|2|zh-Hans|狐妖小红娘 第十一季
 18928|2|zh-Hans|狐妖小红娘 黄风岭篇
+16864|2|zh-Hans|狐妖小红娘·无暮篇
 16631|4|zh-Hans|狐妖小红娘·月红2
+18586|2|zh-Hans|狐妖小红娘·镜花缘篇
 13198|2|zh-Hans|狐妖小红娘（TV）
 16617|4|zh-Hans|狐妖小红娘10 两生花篇
 16864|4|zh-Hans|狐妖小红娘11 无暮篇
@@ -97356,6 +97363,7 @@
 419|4|zh-Hans|骑乘挑战
 12425|4|zh-Hans|骑士&魔法
 14512|4|zh-Hans|骚动时节的少女们啊。
+19925|3|ja|骨ドラ
 19925|4|ja|骨ドラゴンのマナ娘
 17235|2|ja|骨噛み
 17235|4|ja|骨嚙み
