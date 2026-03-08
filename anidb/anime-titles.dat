@@ -1,4 +1,4 @@
-# created: Fri Mar  6 03:00:02 2026
+# created: Sat Mar  7 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6310,6 +6310,7 @@
 12694|2|en|Blend S
 12694|4|fr|BLEND-S
 12694|4|en|Blend-S
+19928|1|x-jat|Bless
 7280|4|en|Blessing of the Campanella
 8243|4|en|Blessing of the Campanella (2011)
 1355|1|x-jat|Blind Night
@@ -23282,8 +23283,8 @@
 7382|3|x-jat|HOTDTV
 18973|4|en|Hotel Inhumans
 18973|1|x-jat|Hotel Inhumans
-19621|1|x-jat|Hotel Inhumans 2
-19621|2|en|Hotel Inhumans 2
+19621|2|en|Hotel Inhumans (2026)
+19621|1|x-jat|Hotel Inhumans (2026)
 18709|4|es-419|Hotel Tasokare
 2842|3|x-jat|hotori
 2842|2|en|Hotori ~The Simple Hope for Joy~
@@ -57443,6 +57444,7 @@
 19588|1|x-jat|Ugoku! Neko Mukashibanashi
 15916|1|x-jat|Ugoku! Nya Shogi
 9156|1|x-jat|Uhou Renka
+4653|4|x-kot|Ujeong-i Ground
 18800|1|x-jat|Uji ni wa Monogatari ga Aru
 11274|1|x-kot|Uju Heukgisa
 15913|1|x-kot|Uju Jeonsa Hong Gildong
@@ -72481,6 +72483,7 @@
 16360|2|ko|우사미미 모험담
 14094|4|ko|우에노 선배는 서툴러
 15498|2|ko|우유뷔페 먹는날
+4653|4|ko|우정의 그라운드
 11274|4|ko|우주 흑기사
 13257|4|ko|우주보다 먼 곳
 1446|2|ko|우주소년 아톰
@@ -80205,6 +80208,7 @@
 3293|4|ja|プレイボール
 4271|4|ja|プレイボール2nd
 3331|4|ja|プレイヤーズ
+19928|4|ja|ブレス
 10151|4|ja|プレゼント
 12695|4|ja|プレゼントまでの道のり
 6280|4|ja|フレッシュプリキュア!
@@ -80507,7 +80511,7 @@
 4981|4|ja|ボディジャック 楽しい幽体離脱
 4919|4|ja|ぽてまよ
 18973|4|ja|ホテル・インヒューマンズ
-19621|4|ja|ホテル・インヒューマンズ 2
+19621|4|ja|ホテル・インヒューマンズ (2026)
 7919|4|ja|ボトムズファインダー
 2842|4|ja|ほとり~たださいわいを希う.~
 11329|4|ja|ホネホネロック
