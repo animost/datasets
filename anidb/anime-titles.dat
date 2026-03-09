@@ -1,4 +1,4 @@
-# created: Sat Mar  7 03:00:02 2026
+# created: Sun Mar  8 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -14522,6 +14522,7 @@
 14447|1|x-jat|Egao no Daika
 7892|1|x-jat|Egao no Hana
 18422|1|x-jat|Egao no Taenai Shokuba Desu.
+18422|3|x-jat|egatae
 5310|4|hu|Égenjárók
 15076|4|ja|EGG CAR
 15076|1|x-jat|Egg Car
@@ -39648,6 +39649,7 @@
 1655|4|pl|Oddziały sterowane
 3110|2|en|Ode to Judo
 18044|1|x-jat|Odekake Kozame
+19929|1|x-jat|Odekake Kozame (2026)
 11462|1|x-jat|Odemashi Shoumajin Hoopa
 3054|1|x-jat|Oden-kun
 3054|2|x-jat|Odenkun
@@ -46711,6 +46713,7 @@
 138|4|es|Sakura Mail
 138|4|de|Sakura Mail
 138|4|it|Sakura Mail
+138|4|es-419|Sakura Mail
 4090|1|x-jat|Sakura Momoko Gekijou Cojicoji
 4090|2|x-jat|Sakura Momoko Gekijou: Cojicoji
 4090|4|en|Sakura Momoko Theatre: Kojikoji
@@ -49216,6 +49219,7 @@
 18864|2|en|Shoshimin: How to Become Ordinary Season 2
 19465|2|x-jat|Shoshin Time Leap
 16031|3|x-jat|shosho
+19930|1|x-jat|Shou 3 Ashibe QQ Goma-chan
 9894|1|x-zht|Shou Hu Zhe Sen Lin
 6834|1|x-jat|Shou-chan no Bouken
 12480|1|x-jat|Shou-chan Sora o Tobu
@@ -74990,6 +74994,7 @@
 10231|4|ja|おっぱインフィニティ∞! THE ANIMATION
 10793|4|ja|おっぱい学園マーチングバンド部!
 18044|4|ja|おでかけ子ザメ
+19929|4|ja|おでかけ子ザメ (2026)
 11462|4|ja|おでまし小魔神フーパ
 3054|4|ja|おでんくん
 12730|3|ja|おと♂デリ
@@ -87160,6 +87165,7 @@
 18942|4|zh-Hant|對我垂涎欲滴的非人少女
 7478|4|zh|對某飛行員的追憶
 12356|4|ja|導きの星
+19930|4|ja|小3アシベ QQゴマちゃん
 6761|4|ja|小さい潜水艦に恋をしたでかすぎるクジラの話
 2871|4|ja|小さなアヒルの大きな愛の物語 あひるのクワック
 6981|4|ja|小さなジャンボ
@@ -91376,7 +91382,8 @@
 18764|2|zh-Hans|沧元图 (2024)
 18764|2|zh-Hans|沧元图 Special
 18764|4|zh-Hans|沧元图 东宁府番外篇
-19030|4|zh-Hans|沧元图 第二季
+19030|2|zh-Hans|沧元图 第二季
+19030|4|zh-Hans|沧元图2
 4303|4|ja|河原崎家の一族 The Animation
 1622|4|ja|河原崎家の一族2 THE ANIMATION
 1622|2|zh-Hans|河原崎家的一族2
