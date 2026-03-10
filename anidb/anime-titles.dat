@@ -1,4 +1,4 @@
-# created: Sun Mar  8 03:00:02 2026
+# created: Mon Mar  9 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4324,6 +4324,7 @@
 7286|1|x-jat|B Gata H Kei
 7286|4|de|B Gata H Kei
 7286|4|en|B Gata H Kei: Yamada`s First Time
+19914|2|en|B King
 14619|1|x-jat|B Rappers Street
 11950|3|x-jat|B s1
 14136|3|x-jat|B s2
@@ -9282,7 +9283,7 @@
 7008|2|en|Class President is a Maid!
 1876|4|en|Class Reunion
 2421|4|en|Class Reunion Again
-1078|2|hi|Classic Doraemon
+1078|4|hi|Classic Doraemon
 19797|2|en|Classic of Mountains and Sea`s Secret
 18728|1|x-jat|Classic Stars
 18728|4|en|Classic Stars
@@ -17889,6 +17890,8 @@
 10733|4|en|Gangsta.
 17580|4|pt-BR|Ganhei um Poder Apelão em Outro Mundo e Agora Sou Imbatível no Mundo Real
 17580|2|pt-BR|Ganhei uma habilidade de trapaça em outro mundo e também me tornei incomparável no mundo real
+13235|4|x-jat|Ganjin Dai Oshou
+13235|2|x-jat|Ganjin Monogatari
 1868|3|x-jat|gank
 1868|3|x-jat|Gank-Ou
 1868|3|x-jat|Ganku-Ou
@@ -23344,6 +23347,9 @@
 14094|4|en|How Clumsy You Are, Miss Ueno.
 18744|2|en|How dare you do that?
 18744|4|en|How Dare You!?
+19869|2|en|How Dare You!? 2
+19869|2|en|How Dare You!? 2nd Season
+19869|4|en|How dare you!? Season 2
 13545|2|en|How Do You Live?
 14603|4|en|How Heavy Are the Dumbbells You Lift?
 18228|4|en|How I Attended an All-Guy`s Mixer
@@ -34286,8 +34292,10 @@
 11185|4|en|Master and Man
 11661|1|x-jat|Master Blaster
 11661|4|ja|MASTER BLASTER
+13235|2|en|Master Ganjin
 6173|2|en|Master Hamsters
 16649|2|en|Master Ji Gong
+13235|2|en|Master Jian Zhen
 1439|4|fr|Master Keaton
 1439|4|ja|MASTER KEATON
 1439|1|x-jat|Master Keaton
@@ -58316,6 +58324,7 @@
 2233|4|hr|Veliki Musashi
 13235|4|en|Ven. Jian Zhen
 15781|2|fr|Vendetta hypnotique
+13235|2|en|Venerable Ganjin
 12075|2|en|Venerable GrandMaster Shinran and Amitayurdhyana Sutra: The Anime
 728|2|en|Vengeance of the Space Pirate
 14173|2|it|Vento Aureo
@@ -88578,7 +88587,9 @@
 18154|4|zh-Hans|成为名垂青史的恶役千金吧
 18154|2|zh-Hans|成为名留历史的坏女人吧
 18744|4|zh-Hans|成何体统
+19869|2|zh-Hans|成何体统 第2季
 19869|4|zh-Hans|成何体统 第二季
+19869|2|zh-Hans|成何体统2
 586|4|ja|成恵の世界
 586|4|zh-Hans|成惠的世界
 18154|4|zh-Hant|成為名留歷史的壞女人吧
@@ -96483,7 +96494,10 @@
 15921|4|zh-Hant|鐵路浪漫譚 第二季
 6005|2|zh|鐵達尼亞
 19667|3|ja|鑑定士（仮）
+13235|2|zh-Hant|鑑真大和上
 13235|4|zh-Hant|鑑真大和尚
+13235|4|ja|鑑真大和尚
+13235|2|ja|鑑真尊師
 13235|2|ja|鑑真物語
 8916|4|zh-Hans|钓球
 1880|4|zh-Hans|钓鱼迷日记
