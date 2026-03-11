@@ -1,4 +1,4 @@
-# created: Mon Mar  9 03:00:01 2026
+# created: Tue Mar 10 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -28997,6 +28997,7 @@
 229|4|pl|Kombinezon Bojowy Gundam Wing
 1054|2|pl|Komedia
 1054|2|lt|Komedija
+19932|1|x-jat|Komekami! Girls
 3570|4|pl|Kometa nad Doliną Muminków
 16300|3|en|Komi
 17072|3|en|Komi 2
@@ -60036,7 +60037,7 @@
 19689|1|x-zht|Xian Di Guilai
 16780|1|x-zht|Xian Feng Jian Yu Lu
 19297|1|x-zht|Xian Ji Xun Zong
-19916|1|x-zht|Xian Jian Qi Xia Zhuan San (2025)
+19931|1|x-zht|Xian Jian Qi Xia Zhuan San (2025)
 18420|1|x-zht|Xian Mu
 18237|1|x-zht|Xian Ni
 19372|2|x-zht|Xian Ni Juchang Ban: Shenlin Zhi Zhan
@@ -76451,6 +76452,7 @@
 1225|4|ja|こみっくパーティーRevolution
 3068|4|ja|こみっくパーティーRevolution (2005)
 19074|4|ja|ゴムをつけてといいましたよね...
+19932|4|ja|こめかみっ！ガールズ
 11453|4|ja|コメット・ルシファー
 10128|4|ja|ごめんね, ミーちゃん
 4327|4|ja|コヨーテ ラグタイムショー
@@ -82936,7 +82938,7 @@
 8521|4|zh-Hans|仙乐传说 世界统合篇
 6814|4|zh-Hans|仙乐传说 迪赛雅兰篇
 3519|4|ja|仙人部落
-19916|4|zh-Hans|仙剑奇侠传三 (2025)
+19931|4|zh-Hans|仙剑奇侠传三 (2025)
 18420|4|zh-Hans|仙墓
 19393|4|zh-Hans|仙宠
 19393|2|zh-Hans|仙宠奶凶
