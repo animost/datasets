@@ -1,4 +1,4 @@
-# created: Tue Mar 10 03:00:01 2026
+# created: Wed Mar 11 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3434,6 +3434,8 @@
 8971|1|x-jat|Arcana Famiglia: La Storia della Arcana Famiglia
 8971|4|de|Arcana Famiglia: La storia della Arcana Famiglia
 19064|1|x-jat|Arcanadea
+19935|1|en|Arcane Afterglow
+19934|1|en|Arcane: League of Legends
 9287|2|en|Archenemy and Hero
 7000|2|en|Archer Without a Bow
 2010|1|x-jat|Archetypes Forces
@@ -8110,6 +8112,7 @@
 10931|4|en|Castle Town Dandelion
 754|2|en|Castles in the Air
 754|2|en|Castles in the sky
+19937|1|en|Castlevania
 3498|4|ro|Căsuţa zburătoare
 13893|3|x-jat|cat
 6912|2|en|Cat and Mouse
@@ -25357,8 +25360,10 @@
 17561|2|fr|J’invoque une succube, et ma daronne se pointe ?
 15920|1|x-jat|J* Fuuzoku Gakuensai
 17316|1|x-jat|J* Genkai Koubi: Goui Sounyuu de Bachibachi Niku Anaka
+19933|1|x-jat|J&lt;-&gt;M
 7998|2|fr|J`ai confiance en ma copine!
 17523|4|fr|J`épargne 80 000 pièces d`or dans un autre monde pour ma retraite
+19933|4|ja|J⇔Ｍ ジェイエム
 4206|3|x-jat|J0ker
 4206|2|x-jat|J0ker: Marginal City
 15920|4|ja|J〇フーゾク学園祭
@@ -58732,6 +58737,7 @@
 2188|3|x-jat|w-wish
 2188|2|x-jat|W: Wish
 6026|3|x-jat|W.A.
+19936|1|en|W.I.T.C.H.
 13934|1|x-jat|W`z
 13934|4|ja|W`z
 13934|4|en|W`z
