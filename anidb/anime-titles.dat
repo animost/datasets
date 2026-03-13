@@ -1,4 +1,4 @@
-# created: Wed Mar 11 03:00:02 2026
+# created: Thu Mar 12 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3283,6 +3283,7 @@
 6473|2|en|Apocalypse Meow
 44|2|en|Apocalypse of Devilman
 928|4|en|Apocalypse Zero
+19941|4|en|Apocalypse: I Dominate with My S-Rank Mech
 18702|4|id|Apokalips Dunia Lain Mynoghra ~Menaklukan Dunia Dimulai dari Peradaban Kehancuran~
 8870|3|x-jat|apollon
 19444|2|en|Apothecary Diaries S3
@@ -5470,6 +5471,7 @@
 13089|4|ja|behind a smile
 776|4|en|Behind Closed Doors
 19479|2|en|Behind the Supermarket, Smoking with You.
+19940|1|x-zht|Bei Jiazu Paoqi, Wo Juexing Jiu Yi Shuxing Dian
 595|4|lt|Beibleidai
 15567|2|en|Beijing Opera Cats
 16701|1|x-zht|Beiken Xiong 2: Jinpai Tegong
@@ -8101,6 +8103,7 @@
 6032|2|tr|Casshern Günahlar
 6032|1|x-jat|Casshern Sins
 6032|4|en|Casshern Sins
+19940|4|en|Cast Out by My Family, I Awakened 900 Million Stat Points
 1218|4|ro|Castelul umblător al lui Howl
 1338|1|x-jat|Castle Fantasia: Seima Taisen
 331|2|en|Castle in the Sky
@@ -10755,6 +10758,7 @@
 17565|1|x-jat|Danjo no Yuujou wa Seiritsu Suru? (Iya, Shinai!!)
 17565|3|x-jat|danjoru
 19107|4|de|Dank dir überwindet unsere Liebe alle Hindernisse
+19943|3|x-jat|dankatsu
 7196|2|en|Dankichi on a Tropical Island
 6711|1|x-jat|Dankichi-jima no Olympic Taikai
 10894|3|x-jat|danmachi
@@ -16821,6 +16825,7 @@
 14091|4|pt-BR|Fora de Órbita
 7890|3|x-jat|forarteri
 1467|2|en|Forbidden Apocalypse Crystal Triangle
+19938|2|en|Forbidden City: Cat Imperial Study
 2451|2|en|Forbidden Love
 6485|2|en|Forbidden Love Club
 9290|2|en|Forbidden Ward The Animation
@@ -17832,6 +17837,7 @@
 3088|1|x-jat|Game Center Arashi
 18839|2|x-jat|Game Center Shoujo to Ibunka Kouryuu
 593|2|en|Game King!
+19943|1|x-jat|Game Sekai Tensei "Dankatsu": Gamer wa "Dungeon Shuukatsu no Susume" o "Hajime kara" Play Suru
 8773|1|x-jat|Game Tengoku
 16385|4|en|Game World Reincarnation
 16385|2|en|Game World Reincarnation: Sex on the First Night
@@ -23438,6 +23444,7 @@
 7382|3|x-jat|HSOTDTV
 13276|3|x-jat|htr
 1173|2|x-unk|https://en.wikipedia.org/wiki/Bakus%C5%8D_Ky%C5%8Ddai_Let`s_&_Go!!
+18772|2|x-unk|https://www.allcinema.net/cinema/404433
 3296|3|en|HU
 18905|1|x-zht|Hu He Yao Shi Lu
 17102|1|x-zht|Hu Li Da Lieren
@@ -24548,12 +24555,11 @@
 16966|4|en|In the Heart of Kunoichi Tsubaki
 16069|4|en|In the Land of Leadale
 19502|4|en|In the Name of Ying Tai
-9376|2|en|In This Corner (and Other Corners) of the World
+14233|4|en|In This Corner (and Other Corners) of the World
 9376|4|en|In This Corner of the World
 9376|4|de|In this Corner of the World
 9376|4|pl|In This Corner of the World
 14233|4|pl|In This Corner of the World (2019)
-14233|4|en|In This Corners of the World
 5466|2|x-jat|In Warau Kangofu The Animation
 14602|4|en|In/Spectre
 15876|4|en|In/Spectre Season 2
@@ -26250,6 +26256,7 @@
 19800|4|ja|JUNK WORLD
 1325|1|x-jat|Junkers Come Here
 9205|1|x-jat|Junkers Come Here: Memories of You
+19944|1|x-jat|Junket Bank
 10178|1|x-jat|Junketsu no Maria
 16731|1|x-zht|Junlin Chengxia
 10178|3|x-jat|junmar
@@ -36581,6 +36588,7 @@
 16517|1|x-zht|Moshi Juexing: Suyuan Xupian
 8027|2|x-jat|Moshi Koukou Yakyuu no Joshi Manager ga Drucker no Management o Yondara
 17894|1|x-jat|Moshi Meta: Moshi Joshikousei ga Metaverse de Miko ni Nattara
+19941|1|x-zht|Moshi: S Ji Ji Jia Kaiju, Wo Wudile
 8027|1|x-jat|Moshidora
 13778|1|x-jat|Moshimoshi, Terumi Desu.
 1370|3|en|Mospeada
@@ -41593,6 +41601,8 @@
 10541|1|x-jat|Paulette no Isu
 10541|4|en|Paulette`s Chair
 17425|2|en|Pause! Let Me Check the Walkthrough First
+19938|4|en|Paw & Palaces
+19938|2|en|Paws & Palaces
 15122|1|x-zht|Paxiu de Huangying
 16724|2|en|Payback 45″
 9125|2|pt|Paz Curta
@@ -45103,6 +45113,7 @@
 18437|2|en|Reincarnated as the Daughter of the Legendary Hero and the Queen of Spirits
 16057|2|en|Reincarnated into Demon King Evelogia`s World
 18624|2|en|Reincarnated Marquis
+19943|2|en|Reincarnation in the Game World Dan-Katsu: Game Addict Plays "Encouragement for Job Hunting in Dungeons" From a "New Game"
 18791|2|x-jat|Reincarnation no Hanabira
 18791|1|x-jat|Reincarnation no Kaben
 327|4|fr|Réincarnations - Please Save My Earth
@@ -50049,6 +50060,7 @@
 5576|2|en|So Long Mr. Despair Extreme
 18007|2|ja|So Low
 13925|2|en|So Many Colors in the Future What a Wonderful World
+19942|2|en|So What`s Wrong with Getting Reborn as a Goblin?
 19692|4|en|So You`re Raising a Warrior
 18007|1|x-jat|So_low
 18007|4|ja|so_low
@@ -53105,6 +53117,7 @@
 6609|1|x-jat|Tengen Toppa Gurren Lagann Kirameki Youko Box: Pieces of Sweet Stars
 8918|2|pl|Tengen Toppa Gurren Lagann: Mój Gurren lśni!
 8918|1|x-jat|Tengen Toppa Gurren Lagann: Ore no Gurren wa Pikka Pika!!
+19942|3|x-jat|tengobu
 17671|4|en|Tengoku Daimakyo
 17671|1|x-jat|Tengoku Daimakyou
 17671|4|it|TENGOKU-DAIMAKYO
@@ -53199,6 +53212,7 @@
 16028|3|x-jat|tensaiouji
 18497|2|x-jat|Tensei Akujo no Kuro Rekishi
 18497|1|x-jat|Tensei Akujo no Kurorekishi
+19942|1|x-jat|Tensei Goblin Dakedo Shitsumon Aru?
 12934|1|x-jat|Tensei Kendo no Harem Colosseo
 12934|2|en|Tensei Kendo no Harem Colosseum
 12934|2|x-jat|Tensei Kendo no Kozukuri Tougijou
@@ -59644,7 +59658,7 @@
 11433|4|ja|WONDER
 2876|2|en|Wonder 3
 2875|4|en|Wonder Beat Scramble
-2875|1|x-jat|Wonder Beat Scrumble
+2875|1|x-jat|Wonder Beat Scramble
 5111|1|x-jat|Wonder Bebil-kun
 15772|1|x-jat|Wonder Egg Priority
 15772|4|en|Wonder Egg Priority
@@ -60414,6 +60428,7 @@
 13206|1|x-jat|Yama no Susume: Omoide Present - Natsu: Kokona no 8/31 / Aki: Hinata no 10/28
 10293|1|x-jat|Yama no Susume: Second Season
 13205|1|x-jat|Yama no Susume: Third Season
+19939|4|en|Yama Reborn: Master of Fate
 10955|3|en|Yamada
 7286|4|fr|Yamada : Ma première fois
 17637|2|x-jat|yamada (2023)
@@ -62065,6 +62080,7 @@
 13450|1|x-zht|Zhu Zhu Xia: Yong Chuang Weilai Cheng
 13464|1|x-zht|Zhu Zhu Xia: Zhong Ji Jue Zhan
 13738|1|x-zht|Zhu Zhu Xia: Zhong Ji Jue Zhan Qian Ye Pian
+19939|1|x-zht|Zhuan Zhi Yanwang, Wo Zhizhangle Shengsi Bu
 18006|1|x-zht|Zhui Xu
 18790|1|x-zht|Zhui Xu 2
 18790|2|x-zht|Zhui Xu 2nd Season
@@ -62076,6 +62092,7 @@
 19504|2|x-zht|Zi Chuan 2nd Season
 19504|2|x-zht|Zi Chuan Di Er Ji
 14866|1|x-zht|Zi Gu Yingxiong Chu Shaonian
+19938|1|x-zht|Zi Jin: Yu Miao Fang
 16594|2|x-zht|ZICHUAN
 19504|2|x-zht|Zichuan 2nd Season
 1811|4|pl|Zielone żabki
@@ -73579,6 +73596,7 @@
 11202|2|ko|학원의 제사
 12887|2|ko|학원침촉 XX of the DEAD
 4326|2|ko|학원헤븐 BOY`S LOVE SCRAMBLE!
+19756|2|ko|한 번 더, 해보고 싶어
 13684|4|ko|한국사 시간여행
 11908|4|ko|한다 군
 15737|4|ko|한마 바키
@@ -76135,6 +76153,7 @@
 248|4|ja|ゲートキーパーズ21
 12494|4|ja|ゲーマーズ!
 3088|4|ja|ゲームセンターあらし
+19943|4|ja|ゲーム世界転生〈ダン活〉~ゲーマーは【ダンジョン就活のススメ】を〈はじめから〉プレイする~
 8773|4|ja|ゲーム天国 THE GAME PARADISE!
 11080|4|ja|ケイオスドラゴン 赤竜戦役
 6257|4|ja|けいおん!
@@ -76942,6 +76961,7 @@
 1498|4|ja|ジャングル大帝 進めレオ!
 19662|4|ja|ジャングル大帝／本能寺の変
 2483|4|ja|ジャングル黒べえ
+19944|4|ja|ジャンケットバンク
 6520|4|ja|ジャンケンマン
 7343|4|ja|ジャンケンマン 怪獣大決戦
 17127|4|ja|じゃんたま PONG☆
@@ -77819,6 +77839,7 @@
 18267|3|ja|ダンまちⅤ
 19883|3|ja|ダンまちVI
 6711|4|ja|ダン吉島のオリムピック大会
+19943|3|ja|ダン活
 17480|4|ja|チ. -地球の運動について-
 7446|4|ja|ちーすい丸
 8759|4|ja|ちーすい丸 2ndシーズン
@@ -82038,6 +82059,7 @@
 5488|2|ja|ワンダーくんの初夢宇宙旅行
 2875|4|ja|ワンダービートS
 2875|5|ja|ワンダービートスクランブル
+2875|2|ja|ワンダービート大作戦
 5111|4|ja|ワンダーベビルくん
 10419|4|ja|ワンダーモモ
 5488|4|ja|ワンダー君の初夢宇宙旅行
@@ -90379,6 +90401,7 @@
 8181|3|zh-Hans|未闻花名
 9356|3|zh-Hans|未闻花名 剧场版
 154|4|zh-Hans|未麻的部屋
+19941|4|zh-Hans|末世：S级机甲开局，我无敌了
 19176|4|zh-Hant|末世二輪之旅
 19176|4|zh-Hans|末世二轮之旅
 14375|4|zh-Hans|末世觉醒之入侵
@@ -93900,6 +93923,7 @@
 16594|4|zh-Hans|紫川
 19504|4|zh-Hans|紫川 第2季
 19504|2|zh-Hans|紫川 第二季
+19938|4|zh-Hans|紫禁·御喵房
 12138|4|zh-Hans|紫罗兰永恒花园
 14840|4|zh-Hans|紫罗兰永恒花园外传：永远与自动手记人偶
 12138|4|zh-Hant|紫羅蘭永恆花園
@@ -95200,6 +95224,7 @@
 9280|4|zh-Hans|被NTR的妻子 ~礼子~
 17444|2|zh-Hans|被勇者队伍开除的驯兽师，邂逅最强种猫耳少女
 17444|2|zh-Hant|被勇者隊伍開除的馭獸使，邂逅了最強種的貓耳少女
+19940|4|zh-Hans|被家族抛弃，我觉醒九亿属性点
 7028|2|zh-Hans|被炉猫
 9208|4|zh-Hans|被狙击的学园
 15400|4|zh-Hans|被神捡到的男人
@@ -95787,12 +95812,14 @@
 14350|4|ja|軌跡
 14237|4|ja|軒轅剣 蒼き曜
 14237|2|ja|軒轅剣・蒼き曜
+19942|3|ja|転ゴブ
 17873|3|ja|転スラ コリウスの夢
 16785|3|ja|転剣
 17569|3|ja|転天
 18211|4|ja|転校先の清楚可憐な美少女が, 昔男子と思って一緒に遊んだ幼馴染だった件
 5200|4|ja|転校生
 12719|4|ja|転校生は宇宙人
+19942|4|ja|転生ゴブリンだけど質問ある?
 13871|4|ja|転生したらスライムだった件
 14526|4|ja|転生したらスライムだった件 (2019)
 15456|4|ja|転生したらスライムだった件 (2021 第2部)
@@ -95877,6 +95904,7 @@
 18026|4|zh-Hans|转生贵族凭鉴定技能扭转人生
 18707|4|zh-Hans|转生贵族凭鉴定技能扭转人生 第二季
 17552|4|zh-Hans|转生贵族的异世界冒险录 〜不知自重的众神使徒〜
+19939|4|zh-Hans|转职阎王，我执掌了生死簿
 18164|4|zh-Hans|轮回7次的恶役千金，在前敌国享受随心所欲的新婚生活
 8583|4|zh-Hans|轮回的拉格朗日
 8962|4|zh-Hans|轮回的拉格朗日 第二季
