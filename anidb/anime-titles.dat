@@ -1,4 +1,4 @@
-# created: Thu Mar 12 03:00:02 2026
+# created: Fri Mar 13 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -843,6 +843,7 @@
 15441|2|ja|86-エイティシックス-
 16172|2|ja|86-エイティシックス- (2021)
 15441|4|zh-Hant|86－不存在的戰區－
+16172|4|zh-Hant|86－不存在的戰區－(2021)
 15441|2|x-jat|86: Eighty-Six
 362|3|x-jat|8kenden
 1352|3|x-jat|8man
@@ -3144,7 +3145,7 @@
 18502|4|pl|Anzu. Kot-duch
 16358|1|x-jat|Ao Ashi
 16358|4|fr|Ao Ashi - Playmaker
-19318|1|x-jat|Ao Ashi (2026)
+19318|1|x-jat|Ao Ashi Season 2
 826|2|vi|Áo Giáp Vàng
 10385|1|x-jat|Ao Haru Ride
 10626|1|x-jat|Ao Haru Ride OAD
@@ -3183,7 +3184,7 @@
 361|3|x-jat|AO6
 16358|4|en|Aoashi
 16358|2|x-jat|Aoashi
-19318|2|en|Aoashi (2026)
+19318|2|en|Aoashi Season 2
 13900|3|x-jat|aobuta
 14397|3|x-jat|aobuta movie
 17640|3|x-jat|aobuta movie 2
@@ -4308,6 +4309,7 @@
 18188|2|en|Azur Lane: Slow Ahead! 2
 18078|2|en|Azure Legacy
 19030|2|en|Azure Legacy 2
+19946|2|en|Azure Legacy 3rd Season
 18764|2|en|Azure Legacy Special
 14396|3|x-jat|azurlane
 15327|3|x-jat|azurlane (2021)
@@ -7779,7 +7781,11 @@
 18764|2|x-zht|Cang Yuan Tu (2024)
 19030|1|x-zht|Cang Yuan Tu 2
 19030|2|x-zht|Cang Yuan Tu 2nd Season
+19946|1|x-zht|Cang Yuan Tu 3
+19946|2|x-zht|Cang Yuan Tu 3rd Season
 19030|2|x-zht|Cang Yuan Tu Di Er Ji
+19946|2|x-zht|Cang Yuan Tu Di San Ji
+19947|1|x-zht|Cang Yuan Tu Qianzhuan: Dongning Fu de Xiatian
 18764|2|x-zht|Cang Yuan Tu Special
 18764|1|x-zht|Cang Yuan Tu: Dongning Fu Fanwai Pian
 13348|1|x-jat|Cannon Busters
@@ -43402,6 +43408,7 @@
 18178|2|en|Pregnancy Club
 18609|2|en|Pregnancy Officer
 13051|2|en|Prehistoric Warriors
+19947|4|en|Prelude of The Demon Hunter: Dongning Prefecture in Summer
 241|4|it|Prendi il mondo e vai
 9515|4|tr|Prenses Kaguya Masalı
 7|4|tr|Prenses Mononoke
@@ -51674,6 +51681,7 @@
 13693|4|ja|Summer Pockets
 13693|1|x-jat|Summer Pockets
 13693|4|en|Summer Pockets
+19596|2|en|Summer Pockets Movie
 18376|4|en|Summer Punch
 9126|2|en|Summer Snow Rendezvous
 6340|2|en|Summer Storm
@@ -53828,8 +53836,10 @@
 15702|4|en|The Demon Girl Next Door 2
 18078|2|en|The Demon Hunter
 18764|2|en|The Demon Hunter (2024)
-19030|2|en|The Demon Hunter 2
+19030|4|en|The Demon Hunter 2
 19030|2|en|The Demon Hunter 2nd Season
+19946|4|en|The Demon Hunter 3
+19946|2|en|The Demon Hunter 3rd Season
 18764|2|en|The Demon Hunter SP
 18764|2|en|The Demon Hunter Special
 18764|4|en|The Demon Hunter: Dongning Mansion Special
@@ -55601,6 +55611,7 @@
 15370|1|x-zht|Tian Yu 2
 15370|2|x-zht|Tian Yu 2nd Season: Cang Gu Zhi Ban
 15370|2|x-zht|Tian Yu: Cang Gu Zhi Ban
+19945|1|x-zht|Tian Zhen Yu Kung Fu Wa
 16312|2|x-zht|Tianbao Fu Yao Lu (2021)
 19316|1|x-zht|Tiandu Yilu
 19128|1|x-zht|Tianming Da Zhuzai
@@ -70247,6 +70258,7 @@
 14708|2|ko|걸작
 16797|2|ko|걸즈 러시 The Animation
 1805|2|ko|걸즈 브라보
+19738|2|ko|검귀 바르고
 19516|4|ko|검은 고양이와 마녀의 교실
 11117|2|ko|검은교실
 14612|4|ko|검은별과 황금박쥐
@@ -72172,6 +72184,7 @@
 5889|2|ko|암시장 ~미녀노예~
 18448|2|ko|암컷
 9897|4|ko|암컷성: 페르소나
+19575|2|ko|암컷을 사냥 하는 마을
 17587|2|ko|암컷친구
 6547|2|ko|암쿄사 음욕의 교실
 13613|4|ko|앗군과 그녀
@@ -73844,7 +73857,7 @@
 748|4|ja|アウトランダーズ
 8110|2|ja|アオーク
 16358|4|ja|アオアシ
-19318|4|ja|アオアシ (2026)
+19318|4|ja|アオアシ Season2
 12322|4|ja|あおおに ~じ・あにめぇしょん~
 7938|4|ja|アオス
 17401|4|ja|アオゾラ
@@ -86256,6 +86269,7 @@
 13959|4|zh-Hans|天狼 Sirius the Jaeger
 4989|4|zh-Hans|天狼星的传说
 19651|4|zh-Hans|天相
+19945|4|zh-Hans|天真与功夫袜
 11952|4|zh-Hans|天真与闪电
 16447|4|ja|天神
 29|3|ja|天禁
@@ -91424,8 +91438,11 @@
 18764|2|zh-Hans|沧元图 (2024)
 18764|2|zh-Hans|沧元图 Special
 18764|4|zh-Hans|沧元图 东宁府番外篇
+19946|2|zh-Hans|沧元图 第三季
 19030|2|zh-Hans|沧元图 第二季
 19030|4|zh-Hans|沧元图2
+19946|4|zh-Hans|沧元图3
+19947|4|zh-Hans|沧元图前传 东宁府的夏天
 4303|4|ja|河原崎家の一族 The Animation
 1622|4|ja|河原崎家の一族2 THE ANIMATION
 1622|2|zh-Hans|河原崎家的一族2
@@ -92029,6 +92046,7 @@
 17337|2|zh-Hant|無神世界的神明活動
 2757|4|zh-Hant|無線之戰
 18232|4|ja|無職の英雄 別にスキルなんか要らなかったんだが
+18232|4|zh-Hant|無職英雄：技能什麼的毫無用處
 14758|4|ja|無職転生~異世界行ったら本気だす~
 15954|4|ja|無職転生~異世界行ったら本気だす~ (2021)
 15954|2|x-jat|無職転生～異世界行ったら本気だす～(第2クール)
