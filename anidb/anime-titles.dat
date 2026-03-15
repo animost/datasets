@@ -1,4 +1,4 @@
-# created: Fri Mar 13 03:00:01 2026
+# created: Sun Mar 15 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -13438,6 +13438,10 @@
 2275|2|en|Dr. Slump Movie 3
 2282|2|en|Dr. Slump Movie 4
 2286|2|en|Dr. Slump Movie 5
+6623|2|en|Dr. Slump Movie 6
+6624|2|en|Dr. Slump Movie 7
+6626|2|en|Dr. Slump Movie 8
+6627|2|en|Dr. Slump Movie 9
 2273|4|ja|Dr. Slump ドクタースランプ
 2273|2|ja|Dr. Slump ほよよ! 宇宙大冒険[スペース・アドベンチャー]
 4015|1|x-jat|Dr. Slump: Arale no Bikkuriman
@@ -25160,6 +25164,7 @@
 16936|1|x-jat|Isekai Shoukan wa Nidome Desu
 13871|3|en|isekai slime
 18098|1|x-jat|Isekai Suicide Squad
+19948|1|x-jat|Isekai Tensei Soudouki
 16389|2|en|Isekai Uncle
 13004|1|x-jat|Isekai wa Smartphone to Tomo ni.
 17317|1|x-jat|Isekai wa Smartphone to Tomo ni. 2
@@ -34105,6 +34110,7 @@
 7427|1|x-jat|Marie & Gali Ver.2.0
 19465|2|x-jat|Marie Antoinette ni Tensei Shita node, Zenryoku de Guillotine o Kaihi Shimasu
 19730|1|x-jat|Marika-chan no Koukando wa Bukkowarete Iru
+19730|4|en|Marika`s Love Meter Malfunction
 1297|3|x-jat|Marimite
 2025|3|x-jat|marimite haru
 2025|3|x-jat|marimite2
@@ -36857,6 +36863,7 @@
 6889|1|x-jat|Muku no Ki no Hanashi
 18254|1|x-jat|Mukuwarenakatta Murabito A, Kizoku ni Hirowarete Dekiai Sareru Ue ni, Jitsu wa Motteita Densetsu-kyuu no Kami Skill mo Kakusei Shita
 15815|1|x-jat|Mulan: Heng Kong Chu Shi
+19948|2|en|Multi-mind Mayhem
 14378|1|x-jat|Muma no Machi Cornelica
 19183|1|x-jat|Mumei no Jinsei
 1007|2|x-jat|Mumin
@@ -40625,6 +40632,7 @@
 15403|1|x-jat|Ore no Yubi de Midarero. Heitengo Futarikiri no Salon de...
 14442|1|x-jat|Ore o Suki na no wa Omae dake ka yo
 15329|1|x-jat|Ore o Suki na no wa Omae dake ka yo: Oretachi no Game Set
+19949|1|x-jat|Ore to Yuu-nii!
 7334|1|x-jat|Ore wa Chokkaku
 7998|1|x-jat|Ore wa Kanojo o Shinjiteru!
 18939|1|x-jat|Ore wa Seikan Kokka no Akutoku Ryoushu!
@@ -50437,6 +50445,7 @@
 1191|3|x-jat|Sou Nanda
 16432|2|x-zht|Sou Xuan Lu Zhi Chen Ling Ji
 16432|1|x-zht|Sou Xuan Lu: Chen Ling Ji
+19948|3|x-jat|soudouki
 6207|1|x-jat|Sougen no Ko Tenguri
 3644|1|x-jat|Sougen no Shoujo Laura
 11428|1|x-jat|Sougiya to Inu
@@ -53840,6 +53849,7 @@
 19030|2|en|The Demon Hunter 2nd Season
 19946|4|en|The Demon Hunter 3
 19946|2|en|The Demon Hunter 3rd Season
+19947|2|en|The Demon Hunter Prequel: Summer in Dongning
 18764|2|en|The Demon Hunter SP
 18764|2|en|The Demon Hunter Special
 18764|4|en|The Demon Hunter: Dongning Mansion Special
@@ -55611,7 +55621,6 @@
 15370|1|x-zht|Tian Yu 2
 15370|2|x-zht|Tian Yu 2nd Season: Cang Gu Zhi Ban
 15370|2|x-zht|Tian Yu: Cang Gu Zhi Ban
-19945|1|x-zht|Tian Zhen Yu Kung Fu Wa
 16312|2|x-zht|Tianbao Fu Yao Lu (2021)
 19316|1|x-zht|Tiandu Yilu
 19128|1|x-zht|Tianming Da Zhuzai
@@ -55627,6 +55636,7 @@
 13782|1|x-zht|Tianxin Gege Di Er Ji
 14317|1|x-zht|Tianxin Gege Di San Ji
 15856|1|x-zht|Tianxin Gege Di Si Ji
+19945|1|x-zht|Tianzhen Yu Gongfu Wa
 8388|4|x-jat|Tibet Inu Monogatari: Kin`iro no Duoji
 8388|2|en|Tibetan Dog Story
 3609|4|en|Tic Tac Toons
@@ -59522,6 +59532,8 @@
 6791|2|en|Wish upon a Star: Fantastic Cat
 8076|4|en|Wish Upon the Pleiades
 10958|4|en|Wish Upon the Pleiades (2015)
+18482|2|en|Wisteria of the Wand and Sword
+18889|2|en|Wisteria of the Wand and Sword Season 2
 18482|4|en|Wistoria: Wand and Sword
 18889|2|en|Wistoria: Wand and Sword Season 2
 4121|2|pl|Witaj w NHK!
@@ -83263,6 +83275,7 @@
 13389|4|ja|俺たちゃ妖怪人間
 13953|4|ja|俺たちゃ妖怪人間G
 8112|3|ja|俺つば
+19949|4|ja|俺と悠兄!
 7525|4|ja|俺の妹がこんなに可愛いわけがない
 9134|4|ja|俺の妹がこんなに可愛いわけがない.
 9305|4|ja|俺の彼女と幼なじみが修羅場すぎる
@@ -92902,6 +92915,7 @@
 16389|2|zh-Hant|異世界舅舅
 16441|4|ja|異世界薬局
 16441|2|zh-Hant|異世界藥局
+19948|4|ja|異世界転生騒動記
 15918|4|ja|異世界迷宮でハーレムを
 15918|2|zh-Hant|異世界迷宮裡的後宮生活
 12385|4|ja|異世界食堂
@@ -97428,6 +97442,7 @@
 8745|4|ja|駕籠真太郎アニメ作品集
 24|4|zh-Hant|駭客時空
 16854|4|zh-Hans|駱駝獻舞
+19948|3|ja|騒動記
 18493|4|zh-Hant|驀然回首
 4549|4|zh-Hant|驅魔少年
 14367|4|ja|驚き盤
