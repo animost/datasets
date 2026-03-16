@@ -1,4 +1,4 @@
-# created: Sun Mar 15 03:00:02 2026
+# created: Mon Mar 16 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5233,6 +5233,8 @@
 1462|3|x-jat|Battle Royale
 554|4|en|Battle Skipper
 554|2|en|Battle Skipper School
+19951|1|x-jat|Battle Spirits [Re] Zekkai no Kuu
+19951|4|ja|Battle Spirits [Re] 絶界の空
 7675|1|x-jat|Battle Spirits Brave
 6978|2|zh-Hans|Battle Spirits 少年激霸弹
 15368|4|zh-Hant|Battle Spirits 赫盟的加雷特
@@ -6722,6 +6724,7 @@
 17974|1|x-jat|Boku no Koi
 17547|1|x-jat|Boku no Kokoro no Yabai Yatsu
 18066|1|x-jat|Boku no Kokoro no Yabai Yatsu (2024)
+19950|1|x-jat|Boku no Kokoro no Yabai Yatsu (2027)
 1489|1|x-jat|Boku no Marie
 17359|1|x-jat|Boku no Me wa Neko no Me
 18714|1|x-jat|Boku no Oldies wa All Color
@@ -16015,7 +16018,7 @@
 18696|4|zh-Hant|FARMAGIA 魔農傳記
 7738|2|pl|Farmerki!
 17290|4|en|Farming Life in Another World
-19506|2|en|Farming Life in Another World 2
+19506|4|en|Farming Life in Another World 2
 9009|1|x-jat|Fashion
 3530|3|x-jat|Fashion Lala
 3530|4|en|Fashion Lala: The Story of the Harbour Light
@@ -53801,6 +53804,7 @@
 19374|4|en|The Dangerous Convenience Store
 17547|4|en|The Dangers in My Heart
 18066|4|en|The Dangers in My Heart (2024)
+19950|2|en|The Dangers in My Heart (2027)
 18066|2|en|The Dangers in My Heart Season 2
 18890|2|en|The Dangers in My Heart the Movie
 18497|4|en|The Dark History of the Reincarnated Villainess
@@ -54624,7 +54628,7 @@
 14177|4|en|The Morose Mononokean II
 14177|2|en|The Morose Mononokean Season 2
 17688|4|en|The Most Heretical Last Boss Queen: From Villainess to Savior
-19420|2|en|The Most Heretical Last Boss Queen: From Villainess to Savior Season 2
+19420|4|en|The Most Heretical Last Boss Queen: From Villainess to Savior Season 2
 18592|4|en|The Most Notorious "Talker" Runs the World`s Greatest Clan
 19820|4|en|The Most Powerful Vendor
 16987|2|en|The Most Proud of the World
@@ -60080,7 +60084,6 @@
 19689|1|x-zht|Xian Di Guilai
 16780|1|x-zht|Xian Feng Jian Yu Lu
 19297|1|x-zht|Xian Ji Xun Zong
-19931|1|x-zht|Xian Jian Qi Xia Zhuan San (2025)
 18420|1|x-zht|Xian Mu
 18237|1|x-zht|Xian Ni
 19372|2|x-zht|Xian Ni Juchang Ban: Shenlin Zhi Zhan
@@ -61275,6 +61278,7 @@
 10643|3|x-jat|yowapeda 2
 11154|3|x-jat|yowapeda movie
 19024|1|x-jat|Yowayowa Sensei
+19024|4|en|Yowayowa Sensei
 9464|4|de|Yoyo & Nene - Die magischen Schwestern
 4114|2|x-jat|Yoyo no Neko Tsumami
 5976|3|x-jat|yoza
@@ -82991,7 +82995,6 @@
 8521|4|zh-Hans|仙乐传说 世界统合篇
 6814|4|zh-Hans|仙乐传说 迪赛雅兰篇
 3519|4|ja|仙人部落
-19931|4|zh-Hans|仙剑奇侠传三 (2025)
 18420|4|zh-Hans|仙墓
 19393|4|zh-Hans|仙宠
 19393|2|zh-Hans|仙宠奶凶
@@ -83433,6 +83436,7 @@
 13217|2|ja|僕の彼女がマジメ過ぎる処女ビッチな件
 17547|4|ja|僕の心のヤバイやつ
 18066|4|ja|僕の心のヤバイやつ (2024)
+19950|4|ja|僕の心のヤバイやつ (2027)
 3540|2|ja|僕はこのまま帰らない
 13666|4|ja|僕はロボットごしの君に恋をする
 16022|4|ja|僕は僕を好きになる
@@ -86277,6 +86281,7 @@
 14534|4|zh-Hant|天氣之子
 10504|4|ja|天然恋色アルコール
 9286|4|zh-Hant|天然萌少女明日香
+9286|4|zh-Hans|天然萌少女明日香
 6741|4|ja|天狗退治
 13959|4|ja|天狼 Sirius the Jaeger
 13959|4|zh-Hans|天狼 Sirius the Jaeger
@@ -88097,6 +88102,7 @@
 5737|4|ja|微熱姫
 5737|2|ja|微熱姫 懺悔の章
 1336|4|ja|微熱症候群
+2326|4|zh-Hans|微笑的闪士
 18148|2|zh-Hans|德里科的托儿所
 16971|4|zh-Hant|徹夜之歌
 18531|4|zh-Hant|徹夜之歌 Season 2
@@ -88547,6 +88553,7 @@
 13987|4|zh-Hans|想星的大天使 Myth of Emotions
 13987|2|zh-Hans|想星的阿克艾利昂 情感神话
 17695|4|zh-Hant|想當冒險者前往都市的女兒成為S級
+19382|4|zh-Hans|想结束这场“我爱你”的游戏
 16073|4|zh-Hans|想要成为影之实力者！
 17877|4|zh-Hans|想要成为影之实力者！第二季
 13990|4|ja|想起モノクローム
@@ -89908,6 +89915,7 @@
 12261|4|zh-Hans|星梦手记
 16745|4|zh-Hans|星武神诀
 18155|4|zh|星武神诀 第二季
+1535|4|zh-Hans|星河战队
 21|4|zh-Hant|星河滿月
 17258|4|zh-Hans|星河至尊
 17333|4|zh-Hans|星河至尊 第二季
@@ -90675,6 +90683,7 @@
 1002|2|zh-Hans|枪姬
 5418|2|zh-Hans|枪姬2
 13609|4|zh-Hans|枪娘
+2839|4|zh-Hans|枪心剑刃
 14836|4|zh-Hans|枪灵计划
 7208|4|zh-Hans|枪神 Badlands Rumble
 17464|4|zh-Hans|枪神 斯坦比特
@@ -91800,6 +91809,7 @@
 12547|4|ja|漆黒のシャガ THE ANIMATION
 17203|4|ja|漣蒼士に純潔を捧ぐ
 11021|4|ja|漫喫ハプニング
+11021|2|zh|漫契咖啡厅
 12899|4|zh-Hans|漫威未来复仇者
 8579|4|ja|漫画
 12859|4|ja|漫画 あめやたぬき
@@ -92400,6 +92410,8 @@
 13735|4|zh-Hans|狐狸之声
 17102|4|zh-Hans|狐狸打猎人
 9663|4|zh-Hans|狗与剪刀的正确用法
+1029|4|zh-Hans|狗狗向前冲
+2327|4|zh-Hans|狗狗向前冲2
 10437|4|ja|狙われた女神天使エンゼルティアー ~守った人間達に裏切られて~
 14654|4|zh-Hans|狠西游
 14653|4|zh-Hans|狠西游 第2季
@@ -96611,6 +96623,7 @@
 7013|4|zh-Hans|铁腕巴迪 DECODE OVA
 6120|4|zh-Hans|铁腕巴迪 DECODE 第二季
 6120|2|zh-Hans|铁腕巴迪_DECODE_02
+1446|4|zh-Hans|铁臂阿童木
 15338|4|zh-Hans|铁路浪漫谭
 15921|4|zh-Hans|铁路浪漫谭 第二季
 5072|2|zh-Hans|铁马少年
