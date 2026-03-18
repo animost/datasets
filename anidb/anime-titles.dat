@@ -1,4 +1,4 @@
-# created: Mon Mar 16 03:00:02 2026
+# created: Tue Mar 17 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -22665,6 +22665,7 @@
 5658|3|x-jat|himitsu
 6958|2|x-jat|Himitsu Kessha Taka no Tsume The Movie 3 ~http://takanotsume.jp wa Eien ni~
 18452|1|x-jat|Himitsu no AiPri
+19205|2|en|Himitsu no AiPri Season 2
 19205|1|x-jat|Himitsu no AiPri: Ring Hen
 1893|1|x-jat|Himitsu no Akko-chan
 1896|1|x-jat|Himitsu no Akko-chan (1989)
@@ -24505,6 +24506,7 @@
 19781|2|en|Immortality 5
 19781|2|en|Immortality 5th Season
 16431|2|en|Immortals of the Godless
+16431|4|en|Immortals of the Godless age
 93|3|x-jat|IMMSE
 9546|3|x-jat|ImoCho
 10350|3|x-jat|imocho ova
