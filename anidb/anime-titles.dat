@@ -1,4 +1,4 @@
-# created: Tue Mar 17 03:00:02 2026
+# created: Wed Mar 18 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -43038,7 +43038,11 @@
 1804|4|lt|Pokemonai: Džiračis - norų valdovas
 991|4|lt|Pokemonas amžiams
 230|4|hr|Pokemoni
+17883|2|cs|Pokémoní delegátka
+19559|2|cs|Pokémoní delegátka (2025)
 991|4|hr|Pokemoni zauvijek
+17883|4|cs|Pokémonní delegátka
+19559|2|cs|Pokémonní delegátka (2025)
 11237|1|x-jat|Poker
 11237|4|ja|POKER
 15626|4|en|PokeToon
@@ -45858,6 +45862,7 @@
 18853|4|en|Roommates
 11394|2|en|Rooms for Twentysomethings
 18772|4|en|Rooster Fighter
+18772|4|de|Rooster Fighter
 4324|3|x-jat|roots
 3363|4|en|Roots Search: Life Devourer X
 3363|1|x-jat|Roots Search: Shokushin Buttai X
