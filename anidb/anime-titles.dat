@@ -1,4 +1,4 @@
-# created: Wed Mar 18 03:00:02 2026
+# created: Thu Mar 19 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -17026,6 +17026,7 @@
 14873|2|en|Frog Prince Adventures
 3689|2|en|From Aesop`s Tales: The Bull and the Frog / The Greedy Dog
 18366|4|en|From Bureaucrat to Villainess: Dad`s Been Reincarnated!
+19953|2|en|From Far Away
 404|4|pl|From I"S
 404|4|fr|From I``s
 404|4|de|From I``s
@@ -26990,6 +26991,7 @@
 16923|1|x-jat|Kanashiki Debu Neko-chan
 12589|1|x-jat|Kanashiki Mongoose
 3289|1|x-jat|Kanashimi no Belladonna
+19953|1|x-jat|Kanata Kara
 14661|1|x-jat|Kanata no Astra
 17999|3|x-jat|kanaten
 18931|1|x-jat|Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyou-gakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi
@@ -43425,7 +43427,7 @@
 18178|2|en|Pregnancy Club
 18609|2|en|Pregnancy Officer
 13051|2|en|Prehistoric Warriors
-19947|4|en|Prelude of The Demon Hunter: Dongning Prefecture in Summer
+19947|2|en|Prelude of The Demon Hunter: Dongning Prefecture in Summer
 241|4|it|Prendi il mondo e vai
 9515|4|tr|Prenses Kaguya Masalı
 7|4|tr|Prenses Mononoke
@@ -47983,6 +47985,7 @@
 12631|1|x-jat|Sense Honma ni Honma
 1697|2|x-jat|Sensei no Ojikan
 1697|1|x-jat|Sensei no Ojikan: Doki Doki School Hours
+19952|2|x-jat|Sensha Isu
 7034|2|en|Sensitive Athlete
 2897|4|ja|Sensitive Pornograph
 2897|4|de|Sensitive Pornograph
@@ -49115,6 +49118,7 @@
 5836|1|x-jat|Shion
 5223|1|x-jat|Shion no Ou
 5223|2|en|Shion`s King
+19955|1|x-jat|Shiotaiou no Sato-san ga Ore ni dake Amai
 16512|3|x-jat|shippona
 4140|2|x-jat|Shippu Iron Leaguer OVA
 4037|1|x-jat|Shippuu! Iron Leaguer
@@ -52028,6 +52032,7 @@
 17067|1|x-jat|Sutekina Okurimono
 6888|1|x-jat|Suteneko Tora-chan
 640|3|x-jat|sutepri
+19954|1|x-jat|Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car o Shoukan Shimashita
 1872|3|x-jat|sutesuta
 19162|3|x-jat|sutetsuyo
 10198|2|x-jat|Sutoraikuu~itchīzu: Operēshon bikutorīarō
@@ -52695,6 +52700,9 @@
 1155|1|x-jat|Tanjou: Debut
 17385|1|x-jat|Tanjoubi no Chachacha
 3112|3|x-jat|TANK
+19952|4|ja|TANK CHAIR
+19952|1|x-jat|Tank Chair
+19952|6|ja|TANK CHAIR-戦車椅子-
 643|2|en|Tank Knights Portriss
 786|2|en|Tank Police
 3112|2|en|Tank Police Team TANK S.W.A.T. 01
@@ -53860,7 +53868,7 @@
 19030|2|en|The Demon Hunter 2nd Season
 19946|4|en|The Demon Hunter 3
 19946|2|en|The Demon Hunter 3rd Season
-19947|2|en|The Demon Hunter Prequel: Summer in Dongning
+19947|4|en|The Demon Hunter Prequel: Summer in Dongning
 18764|2|en|The Demon Hunter SP
 18764|2|en|The Demon Hunter Special
 18764|4|en|The Demon Hunter: Dongning Mansion Special
@@ -54062,6 +54070,7 @@
 2234|2|en|The Forest That Lives
 10922|2|en|The Forgotten Phantom Fox
 1271|2|en|The Formators
+19954|2|en|The Forsaken Saintess and Her Foodie Roadtrip in Another World
 14162|2|en|The Founder of Demonic Path
 14162|2|en|The Founder of Diabolism
 14428|2|en|The Founder of Diabolism (2019)
@@ -54466,6 +54475,7 @@
 5037|2|en|The Legend of Marine Snow
 18387|2|en|The Legend of Masters
 16882|2|en|The Legend of Monster
+2641|2|en|The Legend Of Mutant Turtles
 14637|2|en|The Legend of Nezha
 19180|4|en|The Legend of Princess Chang-Ge
 17120|2|en|The Legend of Qin Remastered
@@ -54905,6 +54915,7 @@
 17246|4|en|The Saint`s Magic Power Is Omnipotent (2023)
 17246|2|en|The Saint`s Magic Power is Omnipotent 2
 17246|2|en|The Saint`s Magic Power is Omnipotent Season 2
+19955|2|en|The Salt-God Satou-san Is Only Sweet To Me!
 2124|1|x-jat|The Samurai
 2124|4|en|The Samurai
 13325|4|en|The Satellite Girl and Milk Cow
@@ -85732,6 +85743,7 @@
 6965|4|ja|塙凹内かっぱまつり
 5862|4|ja|塙凹内名刀之巻(なまくら刀)
 6738|2|ja|塙団右衛門化物退治の巻
+19955|4|ja|塩対応の佐藤さんが俺にだけ甘い
 10282|4|zh-Hant|填充幸福 光之美少女！
 2369|3|zh-Hans|境·界
 10936|4|ja|境界のRINNE
@@ -88072,6 +88084,7 @@
 15107|4|zh-Hans|彼得·格里尔的贤者时间
 16973|4|zh-Hans|彼得·格里尔的贤者时间 Super Extra
 2294|4|zh-Hans|彼得潘的冒险
+19953|4|ja|彼方から
 14661|4|ja|彼方のアストラ
 14661|4|zh-Hans|彼方的阿斯特拉
 14661|4|zh-Hant|彼方的阿斯特拉
@@ -89014,6 +89027,7 @@
 10321|4|ja|戦姫絶唱シンフォギアGX
 11959|4|ja|戦姫絶唱シンフォギアXV
 15413|4|ja|戦翼のシグルドリーヴァ
+19952|2|ja|戦車椅子
 2357|2|ja|戦闘 メカザブングル
 2357|4|ja|戦闘メカザブングル
 15440|4|ja|戦闘員, 派遣します!
@@ -89157,6 +89171,7 @@
 18464|4|zh-Hans|捕星司·源起
 4455|4|ja|捜獣戦士サイキック・ウォーズ
 17592|4|zh-Hans|捡走被人悔婚的千金，教会她坏坏的幸福生活
+19954|4|ja|捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました
 8873|2|zh-Hans|授业到天亮Chu!
 14552|4|zh-Hans|排球少年 TO THE TOP
 15283|4|zh-Hans|排球少年 TO THE TOP 第二期
