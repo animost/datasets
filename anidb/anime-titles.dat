@@ -1,4 +1,4 @@
-# created: Thu Mar 19 03:00:02 2026
+# created: Fri Mar 20 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -25178,6 +25178,7 @@
 17242|1|x-jat|Isekai Yarisaa
 18295|1|x-jat|Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu
 18295|2|x-jat|Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu
+19954|3|x-jat|Isekaigohantabi
 13757|3|x-jat|isekaimaou
 15493|3|x-jat|isekaimaou s2
 15918|3|x-jat|isekaimeikyuu
@@ -36347,6 +36348,7 @@
 17958|2|x-jat|Mononogatari Second Chapter
 5113|1|x-jat|Mononoke
 5113|4|en|Mononoke
+5113|4|es-419|Mononoke
 17466|4|it|Mononoke - Il film: lo spirito nella pioggia
 17466|4|pt-BR|Mononoke - O Filme: O Fantasma na Chuva
 17466|4|hu|Mononoke – A film: Fantom az esőben
@@ -39319,6 +39321,7 @@
 12594|2|en|Nuki Doki! Revolution ~Semen Squirt Battle Between an Angel and a Demon~
 9762|1|x-jat|Nuki Doki! Tenshi to Akuma no Sakusei Battle
 12594|1|x-jat|Nuki Doki! Tenshi to Akuma no Sakusei Battle - Revolution
+19956|1|x-jat|Nuki Nuki Zupposism
 18459|1|x-jat|Nukitashi the Animation
 18459|4|en|Nukitashi The Animation
 18459|4|de|Nukitashi: Welcome to Love Island!
@@ -40904,6 +40907,7 @@
 16|3|x-jat|OT
 751|3|x-jat|ot s2
 751|3|x-jat|ot2
+19628|3|x-jat|otagal
 13293|3|x-jat|Otakoi
 14405|3|x-jat|otakoi ova
 17460|4|en|Otaku Elf
@@ -48401,14 +48405,14 @@
 17501|4|en|Shangri-La Frontier
 17501|4|fr|Shangri-La Frontier
 18578|4|en|Shangri-La Frontier (2024)
+19263|2|en|Shangri-La Frontier (2027)
 17501|4|th|SHANGRI-LA FRONTIER ～เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ～
 18578|4|th|SHANGRI-LA FRONTIER ～เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ～ ซีซั่น 2
 18578|2|en|Shangri-La Frontier 2nd Season
-19263|2|en|Shangri-La Frontier 3
 18578|2|en|Shangri-La Frontier Season 2
 17501|1|x-jat|Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su
 18578|1|x-jat|Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su (2024)
-19263|1|x-jat|Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su 3
+19263|1|x-jat|Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su (2027)
 18578|2|x-jat|Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su Season 2
 6267|2|x-jat|Shangrila
 18982|1|x-zht|Shanhai Fu Mo Lu
@@ -49112,6 +49116,7 @@
 1561|2|x-jat|Shinzou Ningen Casshan
 1561|1|x-jat|Shinzou Ningen Casshern
 18021|1|x-jat|Shinzou Ningen Struggle Bunny
+19955|3|x-jat|shioama
 8746|1|x-jat|Shiodome Cable TV
 8646|1|x-jat|Shiofuki Mermaid: Poolside no Hatsutaiken
 15264|1|x-jat|Shiohi Girls: Vongole Bianco
@@ -76854,6 +76859,7 @@
 18250|4|ja|ジェレミーの木
 15713|2|ja|シェンムー the Animation
 1597|4|ja|シェンムー・ザ・ムービー
+19955|3|ja|しおあま
 4874|4|ja|ジオグラマトン
 11199|4|ja|ジオニックフロント 機動戦士ガンダム0079 ジオンの悲憤
 15264|4|ja|しおひガールズ ボンゴレビアンコ
@@ -76991,7 +76997,7 @@
 6267|4|ja|シャングリ・ラ
 13140|4|ja|シャングリラ
 17501|4|ja|シャングリラ・フロンティア ~クソゲーハンター, 神ゲーに挑まんとす~
-19263|4|ja|シャングリラ・フロンティア ~クソゲーハンター, 神ゲーに挑まんとす~ 3
+19263|4|ja|シャングリラ・フロンティア ~クソゲーハンター, 神ゲーに挑まんとす~ (2027)
 18578|4|ja|シャングリラ・フロンティア ~クソゲーハンター、神ゲーに挑まんとす~ (2024)
 599|4|ja|ジャングルDEいこう!
 7696|4|ja|ジャングルウォーズ
@@ -78930,6 +78936,7 @@
 9762|4|ja|ヌキどきッ! ~天使と悪魔の搾精バトル~
 12594|4|ja|ヌキどきッ! ~天使と悪魔の搾精バトル~ Revolution
 12594|2|ja|ヌキどきッ! Revolution♡ ~天使と悪魔の搾精バトル~
+19956|4|ja|ヌきヌき ずっぽしイズム
 9119|4|ja|ぬっこ.
 7404|4|ja|ぬらりひょんの孫
 9368|4|ja|ぬらりひょんの孫 (2012)
@@ -92917,6 +92924,7 @@
 14435|4|ja|異世界かるてっと
 14964|4|ja|異世界かるてっと2
 19385|4|ja|異世界かるてっと3
+19954|3|ja|異世界ごはん旅
 18098|4|ja|異世界スーサイド・スクワッド
 14038|4|ja|異世界チート魔術師
 17580|4|ja|異世界でチート能力を手にした俺は, 現実世界をも無双する~レベルアップは人生を変えた~
