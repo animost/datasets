@@ -1,4 +1,4 @@
-# created: Fri Mar 20 03:00:01 2026
+# created: Sat Mar 21 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -10872,6 +10872,7 @@
 18869|6|ja|DARK MOON -黒の月:月の祭壇-
 18869|2|x-kot|DARK MOON: Dal-ui Jedan
 18869|4|en|Dark Moon: The Blood Altar
+18869|4|de|Dark Moon: The Blood Altar
 18869|2|en|DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN
 18869|2|x-jat|Dark Moon: Tsuki no Saidan
 18869|4|ko|DARK MOON: 달의 제단
@@ -31790,6 +31791,7 @@
 19041|2|en|Lord of Wonderlands
 12013|2|ja|LORe：パコ すくすくみずきちゃん THE ANIMATION
 9566|3|x-jat|LOS
+3398|2|es-419|Los 12 Guerreros de Klinda
 15697|4|es-419|Los adultos no saben amar
 16174|2|es|Los Apuntes de Vanitas
 1619|2|es|Los Caballeros de Kodai
@@ -58433,6 +58435,7 @@
 13171|2|en|Versatile Mage
 181|4|tr|Versay`ın Gülü
 17609|4|tr|Versay`ın Gülü (2025)
+19957|1|x-jat|Vertex Force
 249|4|fr|Vertige de l`amour
 1335|4|en|Very Private Lesson
 6496|3|x-jat|vesperia
@@ -61883,8 +61886,10 @@
 1676|4|en|Zatch Bell! 101st Devil
 2776|4|en|Zatch Bell! Attack of Mechavulcan
 18046|1|x-jat|Zatsu Tabi
+19958|3|x-jat|zatsufuyo
 18046|2|x-jat|ZatsuTabi
 18046|2|en|ZatsuTabi -That`s Journey-
+19958|1|x-jat|Zatsuyou Fuyojutsu-shi ga Jibun no Saikyou ni Kizuku made
 11702|1|x-jat|Zawazawa
 11702|4|ja|ZAWAZAWA
 102|4|pl|Zdobywczyni kart Sakura
@@ -79085,6 +79090,7 @@
 14583|4|ja|バーチャルさんはみている
 6628|4|ja|バーチャルスター2000
 18451|4|ja|パーティーから追放されたその治癒師, 実は最強につき
+19957|4|ja|バーテックスフォース
 4681|4|ja|バーテンダー
 17673|2|ja|バーテンダー 神のグラス
 17822|4|ja|ハートカクテル カラフル
@@ -97005,6 +97011,8 @@
 12349|4|zh-Hans|雏子的笔记
 15870|4|zh-Hans|雏蜂 伊甸之子
 11295|4|zh-Hans|雏蜂-B.E.E-
+19958|3|ja|雑付与
+19958|4|ja|雑用付与術師が自分の最強に気付くまで
 18536|4|zh-Hant|雖然我是注定沒落的貴族 閒來無事只好來深究魔法
 18118|4|zh-Hant|雖然是公會的櫃檯小姐，但因為不想加班所以打算獨自討伐迷宮頭目
 17353|2|zh-Hant|雖然等級只有 1 級但固有技能是最強的
