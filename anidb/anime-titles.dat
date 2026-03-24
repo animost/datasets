@@ -1,4 +1,4 @@
-# created: Sat Mar 21 03:00:02 2026
+# created: Mon Mar 23 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1869,6 +1869,7 @@
 4852|2|zh-Hans|AIKa R-16: 处女任务
 6526|4|ja|AIKa ZERO
 6526|1|x-jat|Aika Zero
+19561|4|es|Aika: Capricho prohibidos -Mi hermanastra me la pone dura-
 280|2|de|AIKa: New Mission 1-3
 4852|3|x-jat|Aika: R-16
 280|2|de|AIKa: Trial 1-4
@@ -6564,6 +6565,7 @@
 2887|4|fi|Blue Sonnet
 10385|4|en|Blue Spring Ride
 10385|4|fr|Blue Spring Ride
+10626|2|en|Blue Spring Ride OAD
 361|4|fr|Blue Submarine N° 6
 361|4|en|Blue Submarine No.6
 361|4|de|Blue Submarine No.6
@@ -9036,6 +9038,7 @@
 9874|2|x-jat|Chu-2 Byo demo Koi ga Shitai! Ren
 8883|2|x-jat|Chu-2 Byou demo Koi ga Shitai!
 7124|2|x-jat|Chu-Bra!
+7124|4|en|Chu-Bra! Panty Appreciation Society
 8935|2|x-jat|chu-gakusei.
 9571|2|ko|Chu(치료) 해줄게
 9571|2|ko|Chu(치유) 해줄게 ~밀어닥친 누나의 성교치료~
@@ -15409,6 +15412,8 @@
 8184|2|en|Eternal Quon
 19109|2|en|Eternal Sword Ancestor
 19545|2|en|Eternal Sword Emperor
+19962|1|en|ETERNITY
+19962|4|ja|ETERNITY
 15630|4|zh-Hans|Eternity ～深夜的濡恋频道♡～
 17591|4|ja|ETERNITY MEMORIES
 17591|1|x-jat|Eternity Memories
@@ -21201,6 +21206,7 @@
 1249|1|x-jat|Hana yori Dango (1997)
 1249|4|en|Hana Yori Dango: The Movie
 18636|4|en|Hana-Kimi
+19961|2|en|Hana-Kimi 2
 7874|2|x-jat|Hana-Saku Iroha
 8365|1|x-jat|Hanabeam
 8365|4|ja|Hanabeam
@@ -21274,6 +21280,7 @@
 10351|4|fr|HaNaYaMaTa
 10351|4|en|Hanayamata
 18636|1|x-jat|Hanazakari no Kimitachi e
+19961|1|x-jat|Hanazakari no Kimitachi e 2
 3573|1|x-jat|Hanbun no Tsuki ga Noboru Sora
 565|1|x-jat|Hand Maid Mai
 60|1|x-jat|Hand Maid May
@@ -25410,6 +25417,7 @@
 7614|1|x-jat|Jack to Mame no Ki (1989)
 2206|4|es|Jack y la Bruja
 19190|4|en|Jack-of-All-Trades, Party of None
+19960|2|en|Jack-of-All-Trades, Party of None 2
 3484|2|de|Jackie & Jill - Die Bärenkinder vom Berg Tarak
 2292|4|fr|Jackie dans la savane
 3484|4|de|Jackie und Jill - Die Bärenkinder vom Berg Tarak
@@ -38669,6 +38677,7 @@
 3509|1|x-jat|Nihon Tanjou
 6699|1|x-jat|Nihon`ichi Momotarou
 6699|2|x-jat|Nihonichi Momotaro
+19959|1|x-jat|Nihyaku-nen no Yume wo Mita.
 14066|1|x-jat|Niizuma Koyomi The Animation
 11091|1|x-jat|Niji ni Mukatte
 3581|1|x-jat|Niji no Kanata e! Shoujo Diana Monogatari
@@ -56639,6 +56648,7 @@
 3522|3|x-jat|TR
 15601|3|en|TR
 17064|3|x-jat|tr s2
+17969|3|en|tr s3
 6633|4|en|Tracing the Gray Summer
 8574|2|en|Tragedy on the G Line
 938|4|en|Tragic Silence
@@ -61756,6 +61766,7 @@
 19440|1|x-jat|Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku Shite Mita.
 19440|2|x-jat|Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.
 19190|1|x-jat|Yuusha Party o Oidasareta Kiyoubinbou
+19960|1|x-jat|Yuusha Party o Oidasareta Kiyoubinbou 2
 17444|1|x-jat|Yuusha Party o Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau
 18782|1|x-jat|Yuusha Party o Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugai Sugiru
 19190|2|x-jat|Yuusha Party wo Oidasareta Kiyoubinbou
@@ -68926,7 +68937,6 @@
 7204|4|ar|طمطوم وأبطال الروضة الخضراء
 15138|2|ar|طوفان اليابان 2020
 161|2|ar|طوكيو مياو مياو
-18493|4|ar|ظرة إلى الوراء
 6340|2|ar|عاصفة الصيف!
 637|4|ar|عاصفة النار
 15065|4|ar|عالم آخر
@@ -69391,6 +69401,7 @@
 3070|4|ar|نشأة الآليين
 1537|4|ar|نصف بطل
 16355|2|ar|نصول الحماة
+18493|2|ar|نظرة إلى الوراء
 4324|2|ar|نقطة اختراق//جذور
 7008|2|fa|نماینده مدرسه پیشخدمته!
 15071|2|ar|نهوض بطل الدرع 3
@@ -82790,6 +82801,7 @@
 14093|4|ja|二度目の人生を異世界で
 13088|4|ja|二息歩行
 8912|4|ja|二死満塁
+19959|4|ja|二百年の夢を見た。
 2496|4|ja|二重奏 ~罠に落ちた女たち~
 18483|4|zh-Hans|亏成首富从游戏开始
 469|2|zh-Hans|云之彼端, 约定的地方
@@ -84602,6 +84614,7 @@
 17444|4|ja|勇者パーティーを追放されたビーストテイマー, 最強種の猫耳少女と出会う
 18782|4|ja|勇者パーティーを追放された白魔導師, Sランク冒険者に拾われる ~この白魔導師が規格外すぎる~
 19190|4|ja|勇者パーティを追い出された器用貧乏
+19960|4|ja|勇者パーティを追い出された器用貧乏 2
 1819|4|ja|勇者ライディーン
 19219|4|zh-Hans|勇者之屑
 19219|4|zh-Hant|勇者之渣
@@ -94730,6 +94743,7 @@
 17419|4|ja|花いちもんめ
 7874|3|ja|花いろ
 18636|4|ja|花ざかりの君たちへ
+19961|4|ja|花ざかりの君たちへ 2
 2240|4|ja|花さか天使テンテンくん
 10886|4|ja|花とアリス 殺人事件
 10886|2|ja|花とアリス殺人事件
