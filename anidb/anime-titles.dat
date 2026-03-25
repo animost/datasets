@@ -1,4 +1,4 @@
-# created: Mon Mar 23 03:00:02 2026
+# created: Tue Mar 24 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -16056,6 +16056,8 @@
 18385|2|en|Fatal Rule
 12704|4|hu|Fate / Apokrifek
 12046|4|hu|Fate / EXTRA Az utolsó ráadás
+19964|1|x-jat|Fate Grand Order THE STAGE -Shinsei Entaku Ryouiki Camelot-
+19964|4|ja|Fate Grand Order THE STAGE -神聖円卓領域キャメロット-
 9900|3|en|Fate Kaleid OVA
 19457|4|en|Fate Rewinder
 3348|2|x-jat|Fate Stay Night
@@ -16130,6 +16132,9 @@
 18092|4|ja|Fate/Grand Order -絶対魔獣戦線バビロニア- 総集編
 15461|4|zh-Hans|Fate/Grand Order -终局特异点 冠位时间神殿所罗门-
 14238|4|en|Fate/Grand Order Absolute Demonic Front: Babylonia
+19966|1|x-jat|Fate/Grand Order THE STAGE -Absolute Demonic Front: Babylonia-
+19965|4|ja|Fate/Grand Order THE STAGE –冠位時間神殿ソロモン-
+19966|4|ja|Fate/Grand Order THE STAGE –絶対魔獣戦線バビロニア-
 13644|1|x-jat|Fate/Grand Order x Himuro no Tenchi: 7-nin no Saikyou Ijin Hen
 13644|2|en|Fate/Grand Order x Ice Chamber of Heaven and Earth: 7 Strongest Men
 13644|4|ja|Fate/Grand Order x 氷室の天地 ~7人の最強偉人篇~
@@ -16139,6 +16144,7 @@
 18796|4|ja|Fate/Grand Order 藤丸立香はわからない (2024)
 19851|4|ja|Fate/Grand Order 藤丸立香はわからない (2025)
 15461|4|en|Fate/Grand Order: Final Singularity - Grand Temple of Time: Solomon
+19965|1|x-jat|Fate/Grand Order: Final Singularity-Grand Temple of Time: Solomon
 12519|1|x-jat|Fate/Grand Order: First Order
 12519|4|en|Fate/Grand Order: First Order
 17804|1|x-jat|Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai
@@ -19256,6 +19262,7 @@
 10008|1|x-jat|Girls und Panzer Gekijouban
 12361|1|x-jat|Girls und Panzer Saishuushou
 13571|1|x-jat|Girls und Panzer: Dai 63-kai Sensha-dou Zenkoku Koukousei Taikai - Soushuuhen
+19963|1|x-jat|Girls und Panzer: Dream Tank Match Picture Drama: Sensha Saiban Desu!
 10009|1|x-jat|Girls und Panzer: Kore ga Hontou no Anzio-sen Desu!
 19220|1|x-jat|Girls und Panzer: Motto Love Love Sakusen Desu!
 12361|6|x-jat|Girls und Panzer: Saishuushou das Finale
@@ -75330,6 +75337,7 @@
 19741|4|ja|ガールクラッシュ
 9227|4|ja|ガールズ&パンツァー
 10009|4|ja|ガールズ&パンツァー これが本当のアンツィオ戦です!
+19963|4|ja|ガールズ&パンツァー ドリームタンクマッチ ピクチャードラマ「戦車裁判です!」
 19220|4|ja|ガールズ&パンツァー もっとらぶらぶ作戦です!
 12361|6|ja|ガールズ&パンツァー 最終章 das FINALE
 10008|4|ja|ガールズ&パンツァー 劇場版
