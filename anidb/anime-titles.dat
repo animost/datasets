@@ -1,4 +1,4 @@
-# created: Tue Mar 24 03:00:02 2026
+# created: Thu Mar 26 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1009,6 +1009,7 @@
 18009|2|en|A Housewife`s Healing Touch
 5308|1|x-jat|A Hundred Percents
 5308|2|en|A Hundred Percents
+18618|4|en|A Hundred Scenes of Awajima
 16033|4|pt-BR|A Ilha das Sombras
 2038|4|pt|A Ilha do Tesouro
 2214|4|pt|A Ilha do Tesouro (Dos Animais)
@@ -1672,6 +1673,7 @@
 5106|4|et|Agent Vexille
 5106|2|lt|Agentė Veksilė
 15992|2|en|Agents in Otherworld
+19283|4|en|Agents of the Four Seasons: Dance of Spring
 315|2|ja|Agga Ruta
 315|2|ja|Agga Rutta
 12002|1|x-jat|Aggressive Retsuko
@@ -2631,7 +2633,7 @@
 12873|4|ja|AN EXPRESSION
 15992|1|x-zht|An Jie Shen Shi
 16662|1|x-zht|An Ling Yu Shi Di Qi
-19328|2|en|An Observation Log of My Fiancee Who Calls Herself a Villainess
+19328|4|en|An Observation Log of My Fiancee Who Calls Herself a Villainess
 2385|4|en|An Olympic Fable: Run for Life
 16968|2|en|An Otaku-Friendly Gal, or a Childhood Friend with Big Breasts
 14778|1|x-zht|An tu! An tu!
@@ -3437,8 +3439,6 @@
 8971|1|x-jat|Arcana Famiglia: La Storia della Arcana Famiglia
 8971|4|de|Arcana Famiglia: La storia della Arcana Famiglia
 19064|1|x-jat|Arcanadea
-19935|1|en|Arcane Afterglow
-19934|1|en|Arcane: League of Legends
 9287|2|en|Archenemy and Hero
 7000|2|en|Archer Without a Bow
 2010|1|x-jat|Archetypes Forces
@@ -3818,7 +3818,7 @@
 15634|2|en|Ascendance of a Bookworm S3
 18302|2|en|Ascendance of a Bookworm S4
 15634|2|en|Ascendance of a Bookworm Season 3
-18302|2|en|Ascendance of a Bookworm: Adopted Daughter of an Archduke
+18302|4|en|Ascendance of a Bookworm: Adopted Daughter of an Archduke
 15300|4|en|Ascendance of a Bookworm: Eustachius`s Incognito Operation Downtown / Visiting Missus Corinna
 14727|2|en|Ascendance of a Bookworm: I`ll Do Anything to Become a Librarian!
 19734|4|en|Ascendants of the Nine Suns
@@ -6951,6 +6951,7 @@
 2107|2|x-jat|Bosco Daibouken
 627|4|pl|Boso przez Hiroszimę
 2011|4|pl|Boso przez Hiroszimę 2
+19206|4|en|Botan Kamiina Fully Blossoms When Drunk
 3141|2|en|Botchan
 15721|4|en|Both When You Feel like Fapping and When You are Fucking
 888|2|en|Bothersome Witch Doremi
@@ -9330,8 +9331,8 @@
 2516|4|en|Classroom of Atonement
 13153|4|en|Classroom of the Elite
 13153|4|id|Classroom of the Elite
-18844|4|en|Classroom of the Elite 2nd Year
 17237|2|en|Classroom of the Elite 3rd Season
+18844|4|en|Classroom of the Elite 4th Season: Second Year, First Semester
 17208|4|en|Classroom of the Elite II
 17237|4|en|Classroom of the Elite III
 18844|2|en|Classroom of the Elite IV
@@ -13190,6 +13191,7 @@
 14483|4|pl|Dorohedoro
 14483|4|cs|Dorohedoro
 18397|1|x-jat|Dorohedoro (2026)
+18397|4|en|Dorohedoro (2026)
 11652|2|en|Doronjo ZIP!
 1119|4|en|Dororo
 8770|1|x-jat|Dororo
@@ -13494,7 +13496,7 @@
 18336|4|en|Dr. Stone: Science Future
 19248|4|en|Dr. Stone: Science Future (2025)
 19248|1|x-jat|Dr. Stone: Science Future (2025)
-19614|2|en|Dr. Stone: Science Future (2026)
+19614|4|en|Dr. Stone: Science Future (2026)
 19614|1|x-jat|Dr. Stone: Science Future (2026)
 15305|1|x-jat|Dr. Stone: Stone Wars
 15305|4|en|Dr. Stone: Stone Wars
@@ -15279,7 +15281,7 @@
 8347|4|ja|EREMENTAR GERAD-蒼空の戦旗-
 8347|1|x-jat|Erementar Gerad: Ao no Senki
 8347|2|en|Erementar Gerad: Flag of BlueSky
-17751|2|en|Eren the Southpaw
+17751|4|en|Eren the Southpaw
 3302|3|x-jat|ergo
 3302|2|lt|Ergo Proksi
 3302|1|x-jat|Ergo Proxy
@@ -15596,7 +15598,7 @@
 7249|1|x-jat|Eve no Jikan Gekijouban
 499|4|it|Evelyn e la magia di un sogno d`amore
 14528|4|en|Even a Dad Still Wants It...
-19158|2|en|Even a Replica Can Fall in Love
+19158|4|en|Even a Replica Can Fall in Love
 19158|2|en|Even a Replica Falls in Love
 18712|4|en|Even Given the Worthless "Appraiser" Class, I`m Actually the Strongest
 4889|2|en|Even if you become the enemy of the world
@@ -16056,8 +16058,6 @@
 18385|2|en|Fatal Rule
 12704|4|hu|Fate / Apokrifek
 12046|4|hu|Fate / EXTRA Az utolsó ráadás
-19964|1|x-jat|Fate Grand Order THE STAGE -Shinsei Entaku Ryouiki Camelot-
-19964|4|ja|Fate Grand Order THE STAGE -神聖円卓領域キャメロット-
 9900|3|en|Fate Kaleid OVA
 19457|4|en|Fate Rewinder
 3348|2|x-jat|Fate Stay Night
@@ -16132,9 +16132,6 @@
 18092|4|ja|Fate/Grand Order -絶対魔獣戦線バビロニア- 総集編
 15461|4|zh-Hans|Fate/Grand Order -终局特异点 冠位时间神殿所罗门-
 14238|4|en|Fate/Grand Order Absolute Demonic Front: Babylonia
-19966|1|x-jat|Fate/Grand Order THE STAGE -Absolute Demonic Front: Babylonia-
-19965|4|ja|Fate/Grand Order THE STAGE –冠位時間神殿ソロモン-
-19966|4|ja|Fate/Grand Order THE STAGE –絶対魔獣戦線バビロニア-
 13644|1|x-jat|Fate/Grand Order x Himuro no Tenchi: 7-nin no Saikyou Ijin Hen
 13644|2|en|Fate/Grand Order x Ice Chamber of Heaven and Earth: 7 Strongest Men
 13644|4|ja|Fate/Grand Order x 氷室の天地 ~7人の最強偉人篇~
@@ -16144,7 +16141,6 @@
 18796|4|ja|Fate/Grand Order 藤丸立香はわからない (2024)
 19851|4|ja|Fate/Grand Order 藤丸立香はわからない (2025)
 15461|4|en|Fate/Grand Order: Final Singularity - Grand Temple of Time: Solomon
-19965|1|x-jat|Fate/Grand Order: Final Singularity-Grand Temple of Time: Solomon
 12519|1|x-jat|Fate/Grand Order: First Order
 12519|4|en|Fate/Grand Order: First Order
 17804|1|x-jat|Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai
@@ -17847,7 +17843,7 @@
 2116|2|ja|GALLFORCE 新世紀編
 11512|1|x-jat|Galo Sengen
 475|3|x-jat|gals
-19628|2|en|Gals Can`t Be Kind to Otaku!?
+19628|4|en|Gals Can`t Be Kind to Otaku!?
 11512|4|ja|GAL男宣言
 11225|4|it|Gamba 3D
 11225|4|en|Gamba 3D
@@ -18811,6 +18807,7 @@
 18502|4|en|Ghost Cat Anzu
 18502|4|de|Ghost Cat Anzu
 19674|1|x-jat|Ghost Concert: Missing Songs
+19674|4|en|Ghost Concert: Missing Songs
 312|4|tl|Ghost Fighter
 5127|4|es|Ghost Hound
 5127|2|x-jat|Ghost Hound
@@ -23884,7 +23881,7 @@
 1648|2|en|I Love You, Baby
 13124|4|ja|I LOVE コイキング
 3171|2|en|I Love! BuBu ChaCha
-18209|2|en|I Made Friends with the Second Prettiest Girl in My Class
+18209|4|en|I Made Friends with the Second Prettiest Girl in My Class
 18118|4|en|I May Be a Guild Receptionist, but I`ll Solo Any Boss to Clock Out on Time
 370|4|it|I miei vicini Yamada
 1009|4|sv|I Mumindalen
@@ -23927,7 +23924,7 @@
 13363|4|es-419|I Want to Eat Your Pancreas
 13363|4|en|I Want to Eat Your Pancreas
 13363|4|de|I want to eat your pancreas
-19382|2|en|I Want to End This Love Game
+19382|4|en|I Want to End This Love Game
 18264|2|en|I Want to Escape from Princess Education
 18264|4|en|I Want to Escape from Princess Lessons
 11376|2|en|I Want to Let You Know That I Love You.
@@ -24572,6 +24569,7 @@
 9376|4|it|In questo angolo di mondo
 14457|4|ja|In Search of Axis
 14457|1|x-jat|In Search of Axis
+19968|4|en|In Search of Gods
 10372|4|en|In Search of the Lost Future
 7656|4|en|In Solitude Where We Are Least Alone
 7656|2|en|In Solitude, Where We are Least Alone
@@ -29795,7 +29793,7 @@
 11979|4|de|Küss ihn, nicht mich!
 2573|1|x-jat|Kussetsu
 19276|1|x-jat|Kusunoki no Bannin
-19472|2|en|Kusunoki`s Garden of Gods
+19472|4|en|Kusunoki`s Garden of Gods
 17870|1|x-jat|Kusuriya no Hitorigoto
 18562|1|x-jat|Kusuriya no Hitorigoto (2025)
 19444|1|x-jat|Kusuriya no Hitorigoto (2026)
@@ -34187,7 +34185,7 @@
 1612|4|en|Marriage of God & Soul Godannar!! (2004)
 1612|2|en|Marriage of God & Soul Godannar!! Second Season
 19625|1|x-jat|Marriage Toxin
-19625|2|en|Marriage Toxin
+19625|4|en|Marriage Toxin
 19625|2|x-jat|Marriagetoxin
 18033|4|en|Married Couple Swap
 19163|2|en|Married Women`s Lips Taste Like Canned Chuuhai
@@ -34467,6 +34465,7 @@
 11863|1|x-jat|Mayoiga
 13223|1|x-jat|Mayoiga no Onee-san The Animation
 19210|1|x-jat|Mayonaka Heart Tune
+19967|1|x-jat|Mayonaka Heart Tune 2
 14172|1|x-jat|Mayonaka no Occult Koumuin
 14706|1|x-jat|Mayonaka no Occult Koumuin: Fukurokouji to Anoko to Ore to
 16451|1|x-jat|Mayonaka no Yuugi: Nora ver.
@@ -35743,7 +35742,7 @@
 1678|2|en|Mister Ikkyu
 14698|2|en|Mister Washer!: She and I in the Female Bath!?
 3524|4|en|Mistreated Bride
-19293|2|en|Mistress Kanan Is Devilishly Easy
+19293|4|en|Mistress Kanan Is Devilishly Easy
 10542|2|pl|Mistrz Romansu Nozaki
 2910|4|pl|Mistrzowie Kaijudo
 826|2|pl|Mistyczny Wojownik Seiya
@@ -38155,6 +38154,7 @@
 6467|4|en|Needless
 19713|4|ja|NEEDY GIRL OVERDOSE
 19713|1|x-jat|Needy Girl Overdose
+19713|4|en|Needy Girl Overdose
 18491|1|x-jat|NEET Kunoichi to Nazeka Dousei Hajimemashita
 3973|4|de|Negadon - Das Monster vom Mars
 3973|4|en|NEGADON - the Monster from Mars
@@ -38740,6 +38740,7 @@
 299|4|en|Nine O`clock Woman
 14402|2|en|Nine Songs of the Moving Heavens
 19734|2|en|Nine Suns Martial God
+5292|2|en|Nine-Tailed Fox and Tobimaru (Killing Stone)
 3149|1|x-jat|Nine: Kanketsuhen
 18660|2|en|Nine: Ruler`s Crown
 3607|2|x-jat|Nineteen - 19
@@ -44985,7 +44986,7 @@
 19142|2|en|Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!
 17557|4|en|Reborn as a Vending Machine, I Now Wander the Dungeon
 18204|4|en|Reborn as a Vending Machine, I Now Wander the Dungeon 2nd Season
-19580|2|en|Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season
+19580|4|en|Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season
 18204|2|en|Reborn as a Vending Machine, I Now Wander the Dungeon Season 2
 12934|2|en|Reborn Gladiator of The Baby-Making Colosseum
 19653|2|en|Reborn to be a Supreme Emperor
@@ -45258,7 +45259,7 @@
 15743|4|en|Rent-a-Girlfriend (2022)
 17629|4|en|Rent-a-Girlfriend (2023)
 18753|4|en|Rent-a-Girlfriend (2025)
-19587|2|en|Rent-a-Girlfriend (2026)
+19587|4|en|Rent-a-Girlfriend (2026)
 15743|2|en|Rent-A-Girlfriend Season 2
 17629|2|en|Rent-A-Girlfriend Season 3
 18753|2|en|Rent-A-Girlfriend Season 4
@@ -50083,7 +50084,7 @@
 11348|4|en|Snow White with the Red Hair (2016)
 9126|2|en|Snow-in-Summer Rendezvous
 19477|1|x-jat|Snowball Earth
-19477|2|en|Snowball Earth
+19477|4|en|Snowball Earth
 14880|2|en|Snowing Indicates Harvest
 6816|3|x-jat|SnQ
 7971|3|x-jat|snq ova
@@ -50480,6 +50481,7 @@
 1241|1|x-jat|Sotsugyou: Graduation
 630|3|en|SotU
 1191|3|x-jat|Sou Nanda
+19968|1|x-zht|Sou Shen Ji
 16432|2|x-zht|Sou Xuan Lu Zhi Chen Ling Ji
 16432|1|x-zht|Sou Xuan Lu: Chen Ling Ji
 19948|3|x-jat|soudouki
@@ -52005,6 +52007,7 @@
 17333|2|en|Supreme Galaxy Season 2
 15573|2|en|Supreme God Emperor
 16397|2|en|Supreme God Emperor 2
+16397|2|en|Supreme God Emperor Season 2
 17258|4|en|Supreme Lord of Galaxy
 17333|4|en|Supreme Lord of Galaxy 2
 19430|2|en|Supreme Over the Sky
@@ -53531,7 +53534,7 @@
 15456|4|en|That Time I Got Reincarnated as a Slime (2021 Part 2)
 14767|4|en|That Time I Got Reincarnated as a Slime (2021)
 17709|4|en|That Time I Got Reincarnated as a Slime (2024)
-18884|2|en|That Time I Got Reincarnated as a Slime (2026)
+18884|4|en|That Time I Got Reincarnated as a Slime (2026)
 14767|2|en|That Time I Got Reincarnated as a Slime 2nd Season
 16776|4|es|That Time I Got Reincarnated as a Slime la película: El vínculo escarlata
 18885|4|es|That Time I Got Reincarnated as a Slime La Película: Lágrimas del mar celeste
@@ -53615,7 +53618,7 @@
 14871|2|en|The Ancient Welkin 3
 15821|2|en|The Ancient Welkin 4
 17108|4|en|The Angel Next Door Spoils Me Rotten
-18235|2|en|The Angel Next Door Spoils Me Rotten 2
+18235|4|en|The Angel Next Door Spoils Me Rotten 2
 7447|2|en|The Animal Conference on the Environment
 6727|2|en|The Animal Village in Trouble
 3671|2|en|The Animated Secret Garden
@@ -54087,7 +54090,7 @@
 14667|4|ja|the Fly BanD!
 1859|2|en|The Flying Ghost Ship
 3498|4|en|The Flying House
-19541|2|en|The Food Diary of Miss Maid
+19541|4|en|The Food Diary of Miss Maid
 17999|4|en|The Foolish Angel Dances with the Devil
 6873|2|en|The Forest Concert
 2234|2|en|The Forest That Lives
@@ -55182,7 +55185,7 @@
 7074|2|en|The Straw Millionaire
 11017|2|en|The Strict and Cool Teacher is Aheboteochi!
 18210|2|en|The Strongest Dull Prince`s Secret Battle for the Throne
-19667|2|en|The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!
+19667|4|en|The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!
 18427|4|en|The Strongest Magician in the Demon Lord`s Army Was a Human
 17447|2|en|The Strongest Male Hero Ever
 17447|2|en|The Strongest Male Protagonist of All Time
@@ -57189,6 +57192,7 @@
 15867|2|x-zht|Tun Shi Xing Kong
 19342|1|x-zht|Tun Tian Ji
 19210|4|en|Tune In to the Midnight Heart
+19967|2|en|Tune In to the Midnight Heart 2
 11784|2|vi|Tung tiền hữu tọa linh kiếm sơn
 17040|4|de|Tunnel to Summer
 15867|1|x-zht|Tunshi Xingkong
@@ -59299,7 +59303,7 @@
 15428|4|pl|Welcome to Demon School! Iruma-kun (2021)
 16627|4|en|Welcome to Demon School! Iruma-kun (2022)
 16627|4|pl|Welcome to Demon School! Iruma-kun (2022)
-18995|2|en|Welcome to Demon School! Iruma-kun (2026)
+18995|4|en|Welcome to Demon School! Iruma-kun (2026)
 19878|2|en|Welcome to Demon School! Iruma-kun: IruMafia Edition
 15428|2|en|Welcome to Demon School! Iruma-kun: Season 2
 14592|2|en|Welcome to Hinagiku Virgin Lost Club
@@ -59582,7 +59586,7 @@
 18482|2|en|Wisteria of the Wand and Sword
 18889|2|en|Wisteria of the Wand and Sword Season 2
 18482|4|en|Wistoria: Wand and Sword
-18889|2|en|Wistoria: Wand and Sword Season 2
+18889|4|en|Wistoria: Wand and Sword Season 2
 4121|2|pl|Witaj w NHK!
 9496|1|x-jat|Witch Craft Works
 9496|4|en|Witch Craft Works
@@ -59954,6 +59958,9 @@
 15631|1|x-zht|Wu Ren Shen Chuanshuo
 15663|1|x-zht|Wu Shan Wu Xing
 17241|1|x-zht|Wu Shan Wu Xing: Xichuan Huan Zi Lin
+15573|2|x-zht|Wu Shang Shen Di
+16397|2|x-zht|Wu Shang Shen Di 2
+16397|2|x-zht|Wu Shang Shen Di 2nd Season
 15443|2|x-zht|Wu Shen Zhu Zai
 15443|1|x-zht|Wu Shen Zhuzai
 19536|1|x-zht|Wu Sui Xinghe
@@ -76553,7 +76560,7 @@
 1225|4|ja|こみっくパーティーRevolution
 3068|4|ja|こみっくパーティーRevolution (2005)
 19074|4|ja|ゴムをつけてといいましたよね...
-19932|4|ja|こめかみっ！ガールズ
+19932|4|ja|こめかみっ! ガールズ
 11453|4|ja|コメット・ルシファー
 10128|4|ja|ごめんね, ミーちゃん
 4327|4|ja|コヨーテ ラグタイムショー
@@ -85636,6 +85643,7 @@
 11941|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 (OVA)
 13829|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 2
 16032|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 4
+17652|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 Ⅳ 深章 災厄篇
 15111|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 第三季
 11941|2|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 第三季 OVA
 18267|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 第五季
@@ -86532,6 +86540,7 @@
 16966|4|zh-Hans|女忍者椿的心事
 17005|4|zh-Hans|女性向游戏世界对路人角色很不友好
 17005|2|zh-Hans|女性向遊戲世界對路人角色很不友好
+17005|4|zh-Hant|女性向遊戲世界對路人角色很不友好
 2790|4|zh-Hans|女战士艾菲拉和吉利欧拉 古德的纹章
 2790|4|ja|女戦士エフェ&ジーラ グーデの紋章
 1983|4|zh-Hans|女教师
@@ -89253,6 +89262,7 @@
 15281|4|zh-Hant|搖滾少女!! 活力棉花糖!!
 18769|4|zh-Hant|搖滾樂是淑女的嗜好
 16432|4|zh-Hans|搜玄录之宸灵纪
+19968|4|zh-Hans|搜神记
 10475|4|zh-Hans|搞姬日常
 7087|4|zh-Hans|搞怪吹笛手：立刻开吹
 2827|4|zh-Hans|搞笑漫画日和
@@ -93281,6 +93291,7 @@
 14706|4|ja|真夜中のオカルト公務員 袋小路とあの子と俺と
 16451|4|ja|真夜中の誘戯（まよなかのいたずら） -ノーラver.-
 19210|4|ja|真夜中ハートチューン
+19967|4|ja|真夜中ハートチューン 2
 18454|4|ja|真夜中ぱんチ
 12802|4|ja|真夜中は純潔
 1331|4|ja|真奈美&ナミ スプライト
