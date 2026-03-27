@@ -1,4 +1,4 @@
-# created: Thu Mar 26 03:00:01 2026
+# created: Fri Mar 27 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -123,6 +123,7 @@
 17449|1|x-jat|"Oshi no Ko"
 18086|1|x-jat|"Oshi no Ko" (2024)
 18901|1|x-jat|"Oshi no Ko" (2026)
+19969|1|x-jat|"Oshi no Ko" Final Season
 14586|2|en|"Parade" de Satie
 15157|1|x-jat|"Uchuu Senkan Yamato" to Iu Jidai: Seireki 2202-nen no Sentaku
 10143|2|en|"Zero"
@@ -173,6 +174,7 @@
 17449|4|ja|[推しの子]
 18086|4|ja|[推しの子] (2024)
 18901|4|ja|[推しの子] (2026)
+19969|4|ja|[推しの子] Final Season
 16168|2|x-jat|{takt: op. Destiny}
 18424|4|ja|〈物語〉シリーズ オフ＆モンスターシーズン
 19436|4|ja|〈物語〉シリーズ オフ＆モンスターシーズン (新エピソード)
@@ -2013,6 +2015,7 @@
 8495|1|x-jat|Ajisai Hen
 15780|1|x-jat|Ajisai no Chiru Koro ni
 2160|1|x-jat|Ajisai no Uta
+19973|1|x-jat|Aka no Kioku
 12600|1|x-jat|Aka Oni to Ao Oni no Tango
 16085|1|x-jat|Akachan Honbuchou
 17123|1|x-jat|Akachan Honbuchou (2022)
@@ -21127,6 +21130,7 @@
 15604|2|x-jat|HameFura Season 2
 15604|3|x-jat|hamefurax
 16445|3|x-jat|hamefurax ova
+19970|1|x-jat|Hamehara: Sore Sekuhara Desu!
 775|3|x-jat|hameln
 805|3|x-jat|hameln movie
 805|1|x-jat|Hameln no Violin Hiki
@@ -33152,7 +33156,7 @@
 1391|2|en|Magical Play 3D
 4144|2|x-jat|Magical Pokan
 4144|2|x-jat|Magical Poken
-19786|2|en|Magical Princess Minky Momo (OVA)
+19786|2|en|Magical Princess Minky Momo: A Duo of Sincerity Toward a Dream of Longing
 4011|2|en|Magical Princess Minky Momo: Hold on to Your Dreams
 4012|4|en|Magical Princess Minky Momo: La Ronde in my Dream
 741|2|en|Magical Project Pretty Sammy
@@ -33299,8 +33303,8 @@
 1900|1|x-jat|Mahou no Mako-chan
 6893|1|x-jat|Mahou no Pen
 1635|1|x-jat|Mahou no Princess Minky Momo
-19786|1|x-jat|Mahou no Princess Minky Momo (OVA)
 7388|1|x-jat|Mahou no Princess Minky Momo vs Mahou no Tenshi Creamy Mami
+19786|1|x-jat|Mahou no Princess Minky Momo: Akogare no Yume e Magokoro no Duo
 9833|1|x-jat|Mahou no Princess Minky Momo: Hitomi no Seiza - Minky Momo Song Special
 4012|2|x-jat|Mahou no Princess Minky Momo: Yume no Naka no Rondo
 4011|1|x-jat|Mahou no Princess Minky Momo: Yume o Dakishimete
@@ -34610,6 +34614,7 @@
 7616|1|x-jat|Meat or Die
 7616|4|ja|Meat or Die
 10130|1|x-jat|Mebae no Asa
+14730|1|x-jat|Mebius Dust
 18448|1|x-jat|Mebuki The Animation
 7881|1|x-jat|Mecha Afro-kun
 18774|1|x-jat|Mecha Gishi Resta no Daibouken
@@ -35192,12 +35197,14 @@
 18327|4|en|MF Ghost 2nd Season
 19071|4|en|MF Ghost 3rd Season
 19071|1|x-jat|MF Ghost 3rd Season
+19974|1|x-jat|MF Ghost Final Season
 18327|2|en|MF Ghost Season 2
 19071|2|en|MF Ghost Season 3
 4106|3|ja|MF5
 14622|3|fr|MFKZ
 17094|4|ja|MFゴースト
 18327|4|ja|MFゴースト 2nd Season
+19974|4|ja|MFゴースト Final Season
 19071|4|ja|MFゴースト3rd Season
 1213|3|x-jat|MG
 311|3|x-jat|mgg
@@ -36129,7 +36136,6 @@
 3969|4|en|Mobile Suit Zeta Gundam: A New Translation II - Lovers
 4095|4|en|Mobile Suit Zeta Gundam: A New Translation III - Love Is the Pulse of the Stars
 719|2|en|Mobile Suit ZZ Gundam
-14730|1|x-jat|Mobius Dust
 18358|3|x-jat|Mobkara
 17005|3|x-jat|mobseka
 17796|3|x-jat|mobseka s2
@@ -40851,6 +40857,7 @@
 18901|4|en|Oshi no Ko (2026)
 18086|2|x-jat|Oshi no Ko 2
 18901|2|en|Oshi no Ko 3
+19969|2|en|Oshi no Ko Final Season
 18901|2|x-jat|Oshi no Ko S3
 18086|2|x-jat|Oshi no Ko Season 2
 17449|4|de|Oshi no Ko: Mein Star
@@ -41106,6 +41113,7 @@
 19704|1|x-jat|OVA Kegareboshi
 13769|1|x-jat|OVA Muttsuri Do Sukebe Ro Gibo Shimai no Honshitsu Minuite Sex Zanmai
 19547|1|x-jat|OVA Natsu Zuma
+19971|1|x-jat|OVA Paihame Kazoku
 19414|1|x-jat|OVA Pure Pure Pero Pero Princess
 19514|1|x-jat|OVA Sister Breeder
 11268|1|x-jat|OVA Tokyo Ghoul
@@ -41127,6 +41135,7 @@
 18049|2|ja|OVA ツンデロシリーズ
 11271|4|ja|OVA ツンプリ
 19313|4|ja|OVA トナリノカノジョ
+19971|4|ja|OVA パイハメ家族
 19414|4|ja|OVA ピュアピュア ぺろぺろ プリンセス
 13769|4|ja|OVA むっつりドスケベ露義母姉妹の本質見抜いてセックス三昧
 19312|4|ja|OVA ヨゴレタカノジョ
@@ -44681,6 +44690,7 @@
 18700|2|pt|Ranma 1/2 (2024)
 19067|2|en|Ranma 1/2 (2024) Season 2
 19067|1|x-jat|Ranma 1/2 (2025)
+19972|1|x-jat|Ranma 1/2 (2026)
 193|4|pt|Ranma 1/2 (Continuação)
 193|4|fr|Ranma 1/2 (suite)
 4576|4|de|Ranma 1/2 (Teil 1)
@@ -44713,6 +44723,8 @@
 4576|2|pt|Ranma ½
 193|2|x-unk|Ranma ½ (1989)
 18700|2|pt|Ranma ½ (2024)
+19972|2|en|Ranma ½ (2024) 3rd Season
+19972|2|en|Ranma ½ (2024) Season 3
 6393|2|x-jat|Ranma ½: Nettou Uta Gassen
 2850|2|x-unk|Ranma ½: One Flew Over the Kuno`s Nest
 367|3|x-jat|ranma movie
@@ -44756,6 +44768,7 @@
 18700|4|cs|Ranma1/2 (2024)
 18700|4|hu|Ranma1/2 (2024)
 18700|4|el|Ranma1/2 (2024)
+19972|2|en|Ranma1/2 (2026)
 367|3|x-jat|ranmov1
 368|3|x-jat|ranmov2
 405|3|x-jat|ranova
@@ -59594,6 +59607,7 @@
 10397|1|x-jat|Witch Craft Works: Takamiya-kun to Imouto no Warudakumi
 17614|4|fr|Witch Family!
 17305|4|en|Witch Hat Atelier
+17305|4|de|Witch Hat Atelier
 96|1|x-jat|Witch Hunter Robin
 96|4|fr|Witch Hunter Robin
 96|4|en|Witch Hunter Robin
@@ -79472,6 +79486,7 @@
 1649|4|ja|ハム太郎のおたんじょうび ~ママをたずねて三千てちてち~
 17846|4|ja|はめつのおうこく
 19081|4|ja|ハメツの誘惑
+19970|4|ja|ハメハラ ~それセクハラですっ~
 14449|3|ja|はめふら
 15604|3|ja|はめふら 2
 4917|4|ja|ハヤテのごとく!
@@ -81721,6 +81736,7 @@
 405|4|ja|らんま1/2 (1993)
 18700|4|ja|らんま1/2 (2024)
 19067|4|ja|らんま1/2 (2025)
+19972|4|ja|らんま1/2 (2026)
 2995|2|ja|らんま1/2 SPECIAL よみがえる記憶
 2996|4|ja|らんま1/2 SUPER
 2995|4|ja|らんま1/2 スペシャル
@@ -95669,6 +95685,7 @@
 16085|4|ja|赤ちゃん本部長
 17123|4|ja|赤ちゃん本部長 (2022)
 17306|4|ja|赤ちゃん本部長(第3シリーズ)
+19973|4|ja|赤のキヲク
 11168|4|zh-Hans|赤剑传奇
 11082|4|zh-Hans|赤发白雪姬
 11524|4|zh-Hans|赤发白雪姬 OAD
@@ -97839,7 +97856,7 @@
 600|4|ja|魔法のチョコレート
 12801|4|ja|魔法のひろば
 1635|4|ja|魔法のプリンセス ミンキーモモ
-19786|4|ja|魔法のプリンセス ミンキーモモ (OVA)
+19786|4|ja|魔法のプリンセス ミンキーモモ 憧れの夢へ まごころの二重奏
 9833|4|ja|魔法のプリンセス ミンキーモモ 瞳の星座 ミンキーモモSONGスペシャル
 4011|4|ja|魔法のプリンセス ミンキーモモ(夢を抱きしめて)
 4012|2|ja|魔法のプリンセス ミンキーモモ夢の中の輪舞
