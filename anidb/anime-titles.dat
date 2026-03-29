@@ -1,4 +1,4 @@
-# created: Fri Mar 27 03:00:02 2026
+# created: Sun Mar 29 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3253,7 +3253,7 @@
 9541|3|en|AoT TV
 10944|3|en|AoT2
 13241|3|en|AoT3
-14977|2|en|aot4
+14977|3|en|aot4
 16177|3|en|aot5
 17303|3|en|aot6
 13470|1|x-zht|AOTU Shijie
@@ -9014,6 +9014,7 @@
 1052|2|x-jat|Chrno Crusade: Mary Magdalene
 5911|4|en|Chrome Shelled Regios
 2733|2|en|Chronicle of the Wings
+17186|2|en|Chronicle of Zoids Wild War
 17552|2|en|Chronicles of an Aristocrat Reborn in Another World
 16780|2|en|Chronicles of Everlasting Wind and Sword Rain
 19655|2|en|Chronicles of Grace and Grudges in the Primordial Age
@@ -17026,6 +17027,7 @@
 17617|4|pt-BR|Frieren e a Jornada para o Além
 17617|4|en|Frieren: Beyond Journey`s End
 18886|4|en|Frieren: Beyond Journey`s End (2026)
+19977|2|en|Frieren: Beyond Journey`s End (2027)
 18886|2|en|Frieren: Beyond Journey`s End Season 2
 17617|4|es-419|Frieren: Más allá del final del viaje
 17617|4|de|Frieren: Nach dem Ende der Reise
@@ -21903,7 +21905,9 @@
 4638|4|en|Hell Girl: Two Mirrors
 6554|2|en|Hell Knight Ingrid
 19029|4|en|Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing
+19978|2|en|Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing (2026)
 19029|1|x-jat|Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru
+19978|1|x-jat|Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru (2026)
 17231|1|x-jat|Hell People!
 6294|4|ja|HELL TARGET
 6294|1|x-jat|Hell Target
@@ -23863,6 +23867,7 @@
 17203|2|en|I give my virginity to Soushi Sazanami. Now, let`s take our time to love her.
 17580|4|en|I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too
 18241|2|en|I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too (2026)
+19980|2|en|I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too 2nd Season
 18770|2|en|I Have a Crush at Work
 10594|2|en|I Have Been Treated Nicely
 10387|2|en|I just can`t stand not getting between them! ~I made a wish to the stars and they got this big!~
@@ -25146,6 +25151,7 @@
 14038|4|en|Isekai Cheat Magician
 17580|1|x-jat|Isekai de Cheat Skill o Te ni Shita Ore wa, Genjitsu Sekai o mo Musou Suru: Level Up wa Jinsei o Kaeta
 18241|1|x-jat|Isekai de Cheat Skill o Te ni Shita Ore wa, Genjitsu Sekai o mo Musou Suru: Level Up wa Jinsei o Kaeta (2026)
+19980|1|x-jat|Isekai de Cheat Skill o Te ni Shita Ore wa, Genjitsu Sekai o mo Musou Suru: Level Up wa Jinsei o Kaeta 2nd Season
 17504|1|x-jat|Isekai de Mofumofu Nadenade Suru Tame ni Ganbattemasu.
 15537|1|x-jat|Isekai Harem Monogatari
 12562|2|x-jat|Isekai Izakaya - Koto Aitheria no Izakaya Nobu
@@ -26186,8 +26192,10 @@
 18835|4|de|JUJUTSU KAISEN: Der versteckte Schatz / Der verdorbene Schatz – Der Film
 19819|4|en|Jujutsu Kaisen: Execution - Shibuya Incident x The Culling Game Begins
 18835|4|en|JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie
+19975|1|x-jat|Jujutsu Kaisen: Shimetsu Kaiyuu Kouhen
 18363|1|x-jat|Jujutsu Kaisen: Shimetsu Kaiyuu Zenpen
 18363|4|en|Jujutsu Kaisen: The Culling Game Part 1
+19975|2|en|Jujutsu Kaisen: The Culling Game Part 2
 18854|3|x-jat|jukishi
 13419|1|x-jat|Jukujo Shigan
 3667|4|fr|Julie et Stéphane
@@ -29002,6 +29010,8 @@
 7169|1|x-jat|Kokka o Suku e
 13513|4|en|Kokkoku
 13513|1|x-jat|Kokkoku
+19982|1|x-jat|Koko
+19982|4|ja|KOKO
 16199|1|x-jat|Koko Animal Otogibanashi
 1055|1|x-jat|Koko wa Green Wood
 1055|2|x-jat|Koko wa Greenwood
@@ -33048,7 +33058,7 @@
 127|4|it|Magic Knight Rayearth
 423|4|de|Magic Knight Rayearth
 423|4|fr|Magic Knight RayEarth - OAV
-18729|1|x-jat|Magic Knight Rayearth (Shin Anime-ka Project)
+18729|1|x-jat|Magic Knight Rayearth (2026)
 423|4|en|Magic Knight Rayearth OVA
 18750|2|x-jat|Magic Maker - Isekai Mahou no Tsukurikata
 18750|4|en|Magic Maker: How to Make Magic in Another World
@@ -39718,6 +39728,7 @@
 17076|3|x-jat|oddtaxi movie
 1655|4|pl|Oddziały sterowane
 3110|2|en|Ode to Judo
+19981|1|x-jat|Odebu Akujo ni Tensei Shitara, Nazeka Last Boss Ouji-sama ni Shuuchaku Sarete Imasu
 18044|1|x-jat|Odekake Kozame
 19929|1|x-jat|Odekake Kozame (2026)
 11462|1|x-jat|Odemashi Shoumajin Hoopa
@@ -41109,6 +41120,7 @@
 18587|2|x-jat|OVA Boku ni Harem Sefure ga Dekita Riyuu
 18587|1|x-jat|OVA Boku ni Harem Sexfriend ga Dekita Riyuu
 13769|2|en|OVA Complete Slut See their true colors Russian Step-Mother and Step-Sisters All you can have Sex
+19976|1|x-jat|OVA Heart Mark Oome.
 18756|1|x-jat|OVA Incha Couple ga You Gal-tachi to Sex Training Suru Hanashi
 19704|1|x-jat|OVA Kegareboshi
 13769|1|x-jat|OVA Muttsuri Do Sukebe Ro Gibo Shimai no Honshitsu Minuite Sex Zanmai
@@ -41135,6 +41147,7 @@
 18049|2|ja|OVA ツンデロシリーズ
 11271|4|ja|OVA ツンプリ
 19313|4|ja|OVA トナリノカノジョ
+19976|4|ja|OVA はーとまーく多め.
 19971|4|ja|OVA パイハメ家族
 19414|4|ja|OVA ピュアピュア ぺろぺろ プリンセス
 13769|4|ja|OVA むっつりドスケベ露義母姉妹の本質見抜いてセックス三昧
@@ -48045,7 +48058,10 @@
 18809|2|x-jat|Sentai Red: Isekai de Boukensha ni Naru
 17389|1|x-jat|Sentaku Jab Jab
 4995|1|x-jat|Sentakuya Shin-chan
+18124|4|de|Sentenced to Be a Hero
 18124|4|en|Sentenced to Be a Hero
+19979|2|en|Sentenced to Be a Hero 2
+19979|4|de|Sentenced to Be a Hero Staffel 2
 1298|2|en|Sentimental Graffiti
 1298|1|x-jat|Sentimental Journey
 2357|1|x-jat|Sentou Mecha Xabungle
@@ -48511,6 +48527,7 @@
 784|2|en|Sheep`s Song
 15027|4|en|Shellfish Employee
 12482|4|en|Shelter
+12482|2|en|Shelter the Animation
 12482|4|ja|shelter.
 12482|1|x-jat|Shelter.
 18052|1|x-zht|Shen Bi Ma Liang
@@ -49155,7 +49172,7 @@
 5836|1|x-jat|Shion
 5223|1|x-jat|Shion no Ou
 5223|2|en|Shion`s King
-19955|1|x-jat|Shiotaiou no Sato-san ga Ore ni dake Amai
+19955|1|x-jat|Shiotaiou no Satou-san ga Ore ni dake Amai
 16512|3|x-jat|shippona
 4140|2|x-jat|Shippu Iron Leaguer OVA
 4037|1|x-jat|Shippuu! Iron Leaguer
@@ -49480,6 +49497,7 @@
 12201|4|fr|Shûmatsu no Izetta
 18222|1|x-jat|Shunka Shuutou
 18222|2|x-jat|Shunkashuutou
+19283|2|x-jat|Shunkashuutou Daikousha - Haru no Mai
 19283|1|x-jat|Shunkashuutou Daikousha: Haru no Mai
 6562|2|x-jat|Shunmao Monogatari TaoTao
 6192|3|x-jat|shunmuki
@@ -50650,6 +50668,7 @@
 2748|1|x-jat|Soushitsukyou
 17617|1|x-jat|Sousou no Frieren
 18886|1|x-jat|Sousou no Frieren (2026)
+19977|1|x-jat|Sousou no Frieren (2027)
 18886|2|x-jat|Sousou no Frieren S2
 13040|1|x-jat|Soutai Sekai
 14430|3|x-jat|soutai sekai movie
@@ -54075,6 +54094,7 @@
 19583|4|en|The Fated Magical Princess: Who Made Me a Princess
 11710|2|en|The Fight Between the Snipe and the Clam
 10442|4|es|The File of Young Kindaichi Returns
+19981|2|en|The Final-Boss Prince Is Somehow Obsessed with the Chubby Villainess: Reincarnated Me
 16362|1|x-jat|The Fire G-Men
 15832|4|en|The Fire Hunter
 17916|4|en|The Fire Hunter (2024)
@@ -57807,9 +57827,9 @@
 17586|1|x-jat|Undead Unluck
 17586|4|en|Undead Unluck
 18789|2|en|Undead Unluck (2025)
-18789|1|x-jat|Undead Unluck (2025)
 19793|1|x-jat|Undead Unluck 2
 19793|2|en|Undead Unluck 2
+18789|1|x-jat|Undead Unluck: Winter Hen
 11233|4|en|Undefeated Bahamut Chronicle
 11233|4|de|Undefeated Bahamut Chronicle
 16588|1|x-jat|Under Ninja
@@ -61808,6 +61828,7 @@
 19014|1|x-jat|Yuusha-chan no Bouken wa Owatteshimatta!
 18230|1|x-jat|Yuusha-hime Miria
 18124|1|x-jat|Yuusha-kei ni Shosu: Choubatsu Yuusha 9004 Tai Keimu Kiroku
+19979|1|x-jat|Yuusha-kei ni Shosu: Choubatsu Yuusha 9004 Tai Keimu Kiroku 2
 16917|1|x-jat|Yuusha, Yamemasu
 1707|2|en|Yuusha/Brave Series 1
 1709|2|en|Yuusha/Brave Series 2
@@ -74382,8 +74403,8 @@
 2648|2|ja|アンティーク・ハート
 3085|4|ja|アンデス少年 ペペロの冒険
 17586|4|ja|アンデッドアンラック
-18789|4|ja|アンデッドアンラック (2025)
 19793|4|ja|アンデッドアンラック 2
+18789|4|ja|アンデッドアンラック Winter編
 17924|4|ja|アンデッドガール・マーダーファルス
 2208|4|ja|アンデルセン物語
 2314|4|ja|アンデルセン物語 (1971)
@@ -75125,6 +75146,7 @@
 10793|4|ja|おっぱい学園マーチングバンド部!
 18044|4|ja|おでかけ子ザメ
 19929|4|ja|おでかけ子ザメ (2026)
+19981|4|ja|おデブ悪女に転生したら, なぜかラスボス王子様に執着されています
 11462|4|ja|おでまし小魔神フーパ
 3054|4|ja|おでんくん
 12730|3|ja|おと♂デリ
@@ -80479,6 +80501,7 @@
 17231|4|ja|ヘルピポ!
 4275|4|ja|ヘルメス 愛は風の如く
 19029|4|ja|ヘルモード ~やり込み好きのゲーマーは廃設定の異世界で無双する~
+19978|4|ja|ヘルモード ~やり込み好きのゲーマーは廃設定の異世界で無双する~ (2026)
 7192|4|ja|ペレストロイカ
 3623|4|ja|ヘレン・ケラー物語 愛と光の天使
 9933|4|ja|ぺろぺろ☆てぃーちゃー
@@ -84651,6 +84674,7 @@
 19219|4|zh-Hant|勇者之渣
 1710|4|zh-Hans|勇者传说
 18124|4|ja|勇者刑に処す 懲罰勇者9004隊刑務記録
+19979|4|ja|勇者刑に処す 懲罰勇者9004隊刑務記録 2
 16653|4|zh-Hans|勇者動畫系列
 18642|4|zh-Hans|勇者大冒险
 18674|4|zh-Hans|勇者大冒险 第二季
@@ -85295,6 +85319,7 @@
 15275|4|ja|呪術廻戦
 17196|4|ja|呪術廻戦 (2023)
 18363|4|ja|呪術廻戦 死滅回游 前編
+19975|4|ja|呪術廻戦 死滅回游 後編
 19231|4|ja|味方が弱すぎて補助魔法に徹していた宮廷魔法師, 追放されて最強を目指す
 4380|4|ja|味楽る! ミミカ
 19296|4|zh|呼唤少女
@@ -92982,6 +93007,7 @@
 14038|4|ja|異世界チート魔術師
 17580|4|ja|異世界でチート能力を手にした俺は, 現実世界をも無双する~レベルアップは人生を変えた~
 18241|4|ja|異世界でチート能力を手にした俺は, 現実世界をも無双する~レベルアップは人生を変えた~ (2026)
+19980|4|ja|異世界でチート能力を手にした俺は, 現実世界をも無双する~レベルアップは人生を変えた~ 2nd Season
 17504|4|ja|異世界でもふもふなでなでするためにがんばってます.
 17290|4|ja|異世界のんびり農家
 19506|4|ja|異世界のんびり農家2
@@ -94986,6 +95012,7 @@
 15713|4|zh-Hans|莎木
 13628|4|zh|莫莫
 17920|4|zh-Hans|莱莎的炼金工房 ~常暗女王与秘密藏身处~
+4186|2|zh-Hans|莱阳茌梨之歌
 14775|4|zh-Hans|莽荒纪
 19924|4|ja|菌と鉄
 115|4|ja|菜々子解体診書
@@ -95032,6 +95059,7 @@
 11428|4|ja|葬儀屋と犬
 17617|4|ja|葬送のフリーレン
 18886|4|ja|葬送のフリーレン (2026)
+19977|4|ja|葬送のフリーレン (2027)
 17617|4|zh-Hans|葬送的芙莉莲
 17617|4|zh-Hant|葬送的芙莉蓮
 836|4|zh-Hans|蒲公英
@@ -98074,7 +98102,7 @@
 418|4|ja|魔法陣グルグル (1996)
 12723|4|ja|魔法陣グルグル (2017)
 127|4|ja|魔法騎士[マジックナイト]レイアース
-18729|4|ja|魔法騎士レイアース (新アニメ化プロジェクト)
+18729|4|ja|魔法騎士レイアース (2026)
 127|2|zh-Hans|魔法骑士
 423|4|zh-Hans|魔法骑士雷阿斯OVA
 611|4|ja|魔物ハンター妖子
