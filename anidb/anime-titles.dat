@@ -1,4 +1,4 @@
-# created: Sun Mar 29 03:00:02 2026
+# created: Tue Mar 31 03:00:03 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4025,6 +4025,7 @@
 18554|2|x-jat|AteKuse
 10241|2|en|Atelier Escha & Logy - Alchemists of the Dusk Sky
 10241|4|en|Atelier Escha & Logy: Alchemists of the Dusk Sky
+17305|4|de|Atelier of Witch Hat
 17920|4|en|Atelier Ryza: Ever Darkness & the Secret Hideout
 17305|4|pl|Atelier spiczastych kapeluszy
 8509|1|x-jat|Aterui
@@ -9070,6 +9071,7 @@
 19163|4|en|Chuhai Lips: Canned Flavor of Married Women
 14954|1|x-zht|Chui Zhi Shi Jie
 13278|1|x-kot|Chuldong! Super Wings
+19985|1|x-kot|Chuldong! Super Wings 10
 19529|1|x-kot|Chuldong! Super Wings 2
 19550|1|x-kot|Chuldong! Super Wings 3
 19558|1|x-kot|Chuldong! Super Wings 4
@@ -16073,6 +16075,8 @@
 10760|2|x-jat|Fate Stay Night 2015
 18093|4|ja|Fate strange Fake
 18093|1|x-jat|Fate Strange Fake
+19984|1|x-jat|Fate Strange Fake 2nd Season
+19984|4|ja|Fate strange Fake 2nd Season
 17636|4|ja|Fate strange Fake Whispers of Dawn
 17636|1|x-jat|Fate Strange Fake: Whispers of Dawn
 8160|2|en|Fate Zero
@@ -18203,7 +18207,6 @@
 4193|3|x-jat|gedsen
 18839|1|x-jat|Geesen Shoujo to Ibunka Kouryuu
 2242|2|de|Gefährlicher Countdown für Cyborg 009
-18886|2|de|gefroren
 13742|4|en|Gegege no Kitaro
 7357|2|en|GeGeGe no Kitaro movie 8: Ghost Nighter
 7356|2|en|Gegege no Kitaro: Great Sea Beast
@@ -19707,6 +19710,8 @@
 14085|1|x-jat|Golden Kamuy OAD
 18081|1|x-jat|Golden Kamuy Saishuushou
 18081|2|en|Golden Kamuy Season 5
+19986|1|x-jat|Golden Kamuy: Bousou Ressha Hen
+19986|2|en|Golden Kamuy: Runaway Train Arc
 19475|1|x-jat|Golden Kamuy: Sapporo Beer Koujou Hen
 8231|1|x-jat|Golden Kids
 9771|1|x-jat|Golden Time
@@ -25206,6 +25211,7 @@
 15493|3|x-jat|isekaimaou s2
 15918|3|x-jat|isekaimeikyuu
 17580|3|x-jat|Iseleve
+18241|3|x-jat|Iseleve - OVA
 16936|2|x-unk|isenido
 16936|3|x-jat|Isenido
 1604|2|lt|Įseserė
@@ -28468,6 +28474,7 @@
 2651|2|en|Kino`s Journey: Life Goes On
 575|4|en|Kino`s Journey: The Beautiful World
 12959|4|en|Kino`s Journey: The Beautiful World - The Animated Series
+19987|1|en|Kino`s Journey: The Tower Country -Freelance-
 4939|2|en|Kino`s Journey: World Country Of Illness -For You-
 575|2|en|Kino`s Travels: The Beautiful World
 12959|3|x-jat|kino2
@@ -29646,6 +29653,7 @@
 8499|2|x-zht|Kung Fu Liao Li Niang
 4889|2|lt|Kung Fu Meilė
 12247|2|en|Kung Fu Panda
+19945|4|en|Kung Fu Wa!
 4889|4|en|Kung-Fu Love
 3563|2|id|Kungfu Boy
 14881|2|en|Kungfu Heroes
@@ -39728,6 +39736,7 @@
 17076|3|x-jat|oddtaxi movie
 1655|4|pl|Oddziały sterowane
 3110|2|en|Ode to Judo
+19981|3|x-jat|odebu akujo
 19981|1|x-jat|Odebu Akujo ni Tensei Shitara, Nazeka Last Boss Ouji-sama ni Shuuchaku Sarete Imasu
 18044|1|x-jat|Odekake Kozame
 19929|1|x-jat|Odekake Kozame (2026)
@@ -47652,6 +47661,7 @@
 1576|1|x-jat|Seigi o Ai Suru Mono Gekkou Kamen
 1576|2|x-jat|Seigi o Aisuru Mono Gekkou Kamen
 19010|1|x-jat|Seihantai na Kimi to Boku
+19983|1|x-jat|Seihantai na Kimi to Boku (2026)
 171|1|x-jat|Seihou Bukyou Outlaw Star
 19612|1|x-jat|Seihou Shouka Saint Lime
 223|1|x-jat|Seihou Tenshi Angel Links
@@ -59627,7 +59637,6 @@
 10397|1|x-jat|Witch Craft Works: Takamiya-kun to Imouto no Warudakumi
 17614|4|fr|Witch Family!
 17305|4|en|Witch Hat Atelier
-17305|4|de|Witch Hat Atelier
 96|1|x-jat|Witch Hunter Robin
 96|4|fr|Witch Hunter Robin
 96|4|en|Witch Hunter Robin
@@ -61099,6 +61108,7 @@
 5275|1|x-jat|Yotsunoha
 14822|3|x-jat|YoU
 19010|4|en|You and I Are Polar Opposites
+19983|2|en|You and I Are Polar Opposites (2026)
 19019|4|en|You and Idol Precure
 19019|2|en|You and Idol Pretty Cure
 8367|4|en|You and Me
@@ -73229,6 +73239,7 @@
 10313|4|ko|추억의 마니
 5594|2|ko|춘연 소녀
 13278|4|ko|출동! 슈퍼윙스
+19985|4|ko|출동! 슈퍼윙스10
 19529|4|ko|출동! 슈퍼윙스2
 19550|4|ko|출동! 슈퍼윙스3
 19558|4|ko|출동! 슈퍼윙스4
@@ -75146,6 +75157,7 @@
 10793|4|ja|おっぱい学園マーチングバンド部!
 18044|4|ja|おでかけ子ザメ
 19929|4|ja|おでかけ子ザメ (2026)
+19981|3|ja|おデブ悪女
 19981|4|ja|おデブ悪女に転生したら, なぜかラスボス王子様に執着されています
 11462|4|ja|おでまし小魔神フーパ
 3054|4|ja|おでんくん
@@ -75803,6 +75815,7 @@
 18628|4|ja|きのこいぬ
 575|4|ja|キノの旅 -the Beautiful World-
 12959|4|ja|キノの旅 -the Beautiful World- the Animated Series
+19987|4|ja|キノの旅 the Beautiful World 塔の国 -Free Lance-
 4939|4|ja|キノの旅 the Beautiful World 病気の国 -For You-
 2651|4|ja|キノの旅 何かをするために -life goes on.-
 14404|4|ja|ギフト±
@@ -76428,6 +76441,7 @@
 17023|4|ja|ゴールデンカムイ (2022)
 14085|4|ja|ゴールデンカムイ OAD
 18081|4|ja|ゴールデンカムイ 最終章
+19986|4|ja|ゴールデンカムイ 暴走列車編
 19475|4|ja|ゴールデンカムイ 札幌ビール工場編
 14995|2|ja|ゴールデンカムイ 第三期
 14185|2|ja|ゴールデンカムイ 第二期
@@ -91266,6 +91280,7 @@
 19069|4|zh-Hans|正义使者 -我的英雄学院之非法英雄-
 15224|4|zh-Hans|正义红师
 19010|4|ja|正反対な君と僕
+19983|4|ja|正反対な君と僕 (2026)
 19010|2|zh-Hans|正相反的你与我
 11762|4|zh-Hans|正确的KADO
 18918|4|zh-Hans|正经少主的幸福生活
