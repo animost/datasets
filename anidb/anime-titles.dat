@@ -1,4 +1,4 @@
-# created: Tue Mar 31 03:00:03 2026
+# created: Wed Apr  1 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -691,6 +691,7 @@
 8251|1|x-jat|48x61
 8251|4|ja|48x61 四拾八x六拾壱
 11217|4|ja|4EYES
+19283|3|x-jat|4seasons
 17285|3|x-jat|4uso
 10539|4|ko|4월은 너의 거짓말
 2758|4|ja|4デイ・ウィークエンド
@@ -27236,6 +27237,7 @@
 199|4|es|Kare Kano
 199|2|pt-BR|Kare Kano
 199|4|de|Kare Kano - Mein Geheimnis Dein Geheimnis
+19988|1|x-jat|Kare no Shiranai Himitsu o Irete. The Animation
 199|2|x-jat|KareKano
 657|4|ja|KAREN
 657|4|en|Karen
@@ -36226,6 +36228,7 @@
 303|4|hr|Moj Susjed Totoro
 17449|4|pl|Moja Gwiazda
 8794|2|pl|Moja młodsza siostrzyczka - Diabełek z małymi cycuszkami
+17749|4|pl|Moja zdolność natychmiastowej śmierci jest tak przepotężna, że nikt w tym innym świecie nie ma ze mną szans!
 4662|2|en|Mojacko
 4662|1|x-jat|Mojakou
 18538|4|cs|Moje holka je démon
@@ -88156,6 +88159,7 @@
 6338|4|zh-Hans|彷徨淫乱的疯狂症状
 16971|4|zh-Hans|彻夜之歌
 18531|4|zh-Hans|彻夜之歌 第二季
+19988|4|ja|彼の知らない秘密を入れて。 THE ANIMATION
 15299|4|ja|彼女, お借りします
 15743|4|ja|彼女, お借りします (2022)
 17629|4|ja|彼女, お借りします (2023)
