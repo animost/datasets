@@ -1,4 +1,4 @@
-# created: Wed Apr  1 03:00:02 2026
+# created: Fri Apr  3 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1442,7 +1442,7 @@
 11115|2|en|Ace of the Diamond Season 2
 14504|4|en|Ace of the Diamond: Act II
 14504|4|fr|Ace of the Diamond: Act II
-18638|2|en|Ace of the Diamond: Act II Second Season
+18638|4|en|Ace of the Diamond: Act II Second Season
 1072|2|x-jat|Ace wo Nerae
 1072|2|x-jat|Ace wo Nerae!
 1074|2|x-jat|Ace wo Nerae! (1979)
@@ -2075,6 +2075,7 @@
 10407|4|pl|Akame ga Kill!
 18266|4|id|Akan Aku "Tangkis" Semua: Pengin Jadi Petualang, Malah Dikira Orang Terkuat di Dunia
 1892|3|x-jat|akane
+19513|2|x-jat|Akane Banashi
 6025|4|en|Akane Iro ni Somaru Saka
 2425|1|x-jat|Akane Maniax
 13956|1|x-jat|Akane Sasu Shoujo
@@ -2085,6 +2086,7 @@
 1892|4|es|Akane-chan
 12454|1|x-jat|Akane-chan no Wasuremono
 16913|2|en|Akane`s In A Pinch
+19513|2|x-jat|Akanebanashi
 6025|1|x-jat|Akaneiro ni Somaru Saka
 13956|3|x-jat|akanesasu
 13956|2|x-jat|Akanesasu Shoujo
@@ -2475,7 +2477,7 @@
 355|2|tr|Altın Çocuk
 5569|3|x-jat|AltoLi
 1544|2|sv|Älvans Sång - Elfen Lied
-19699|2|en|Always a Catch!
+19699|4|en|Always a Catch!
 3389|2|en|Always My Santa!
 4039|2|en|Always the Sun in My Soul
 17914|2|es|Alya a veces me susurra en ruso
@@ -9339,7 +9341,7 @@
 13153|4|en|Classroom of the Elite
 13153|4|id|Classroom of the Elite
 17237|2|en|Classroom of the Elite 3rd Season
-18844|4|en|Classroom of the Elite 4th Season: Second Year, First Semester
+18844|4|en|Classroom of the Elite 4th Season: 2nd Year, 1st Term
 17208|4|en|Classroom of the Elite II
 17237|4|en|Classroom of the Elite III
 18844|2|en|Classroom of the Elite IV
@@ -13197,8 +13199,9 @@
 14483|4|en|Dorohedoro
 14483|4|pl|Dorohedoro
 14483|4|cs|Dorohedoro
-18397|1|x-jat|Dorohedoro (2026)
-18397|4|en|Dorohedoro (2026)
+18397|2|x-jat|Dorohedoro S2
+18397|1|x-jat|Dorohedoro Season 2
+18397|4|en|Dorohedoro Season 2
 11652|2|en|Doronjo ZIP!
 1119|4|en|Dororo
 8770|1|x-jat|Dororo
@@ -13487,6 +13490,7 @@
 17053|4|pl|Dr. Stone (2023)
 18064|4|pl|Dr. Stone (2023) (Part 2)
 15305|2|en|Dr. Stone S2: Stone Wars
+19614|2|en|Dr. Stone S4
 18064|2|x-jat|Dr. Stone Season 3 Part 2
 18336|2|en|Dr. Stone Season 4
 19248|2|en|Dr. Stone Season 4 Part 2
@@ -20905,7 +20909,7 @@
 271|4|de|Haibane Renmei - Ailes Grises
 271|4|pl|Haibane renmei: Stowarzyszenie szaropiórych
 19744|1|x-jat|Haibara-kun no Tsuyokute Seishun New Game
-19744|2|en|Haibara`s Teenage New Game+
+19744|4|en|Haibara`s Teenage New Game+
 8096|3|x-jat|haideka
 8088|1|x-jat|Haido-keibu no Jikenbo: Hitokui-Yama
 14837|1|x-zht|Haier Xiongdi
@@ -22304,7 +22308,7 @@
 15242|2|en|Heroic Little Sisters of the Grassland
 18230|2|en|Heroic Princess Milia
 16564|1|x-jat|Heroine Taru Mono! Kiraware Heroine to Naisho no Oshigoto
-19327|2|en|Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!
+19327|4|en|Heroine? Saint? No, I`m an All-Works Maid (And Proud of It)!
 19327|1|x-jat|Heroine? Seijo? Iie, All Works Maid Desu (Ko)!
 16564|4|en|Heroines Run the Show: The Unpopular Girl and the Secret Task
 7412|1|x-jat|Heroman
@@ -25685,7 +25689,9 @@
 5193|2|en|Jiburiru: The Devil Angel 2
 6781|2|en|Jiburiru: The Devil Angel 3
 18394|1|x-zht|Jidao Long Shen
+19580|2|x-jat|Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season
 18204|2|x-jat|Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou S2
+19580|2|x-jat|Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou S3
 17557|1|x-jat|Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou
 18204|1|x-jat|Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou 2nd Season
 19580|1|x-jat|Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou 3rd Season
@@ -28049,7 +28055,7 @@
 8552|1|x-jat|Kill Me Baby
 8552|4|en|Kill Me Baby
 10025|1|x-jat|Kill Me Baby (2013)
-19722|2|en|Killed Again, Mr. Detective?
+19722|4|en|Killed Again, Mr. Detective?
 14288|2|en|Killer Seven
 15381|2|en|Killer Seven 2
 15961|2|en|Killer Seven 3
@@ -28534,6 +28540,7 @@
 7054|1|x-jat|Kirin no Monoshiri Yakata
 13861|1|x-jat|Kirin the Noop
 19675|1|x-jat|Kirio Fan Club
+19675|2|x-jat|Kirio Fanclub
 8696|1|x-jat|Kiriya Hakushakuke no Roku Shimai
 13371|4|ja|kiro no hito
 13371|1|x-jat|Kiro no Hito
@@ -31636,6 +31643,7 @@
 6157|1|x-jat|Live On Cardliver Kakeru
 4339|4|en|Living for the Day After Tomorrow
 534|4|en|Living Sex Toy Delivery
+4657|2|en|Living Together
 13417|5|zh|Lixiang Jinqu
 13491|4|fr|Liz & l`oiseau bleu
 13491|4|en|Liz and the Blue Bird
@@ -32007,7 +32015,8 @@
 9927|2|x-jat|Love Live! 2
 8520|2|en|Love Live! 3
 7956|2|x-jat|Love Live! Bokura no Live, Kimi to no Life
-19376|1|x-jat|Love Live! Hasu no Sora Jogakuin School Idol Club
+19989|1|x-jat|Love Live! Hasu no Sora Jogakuin School Idol Club
+19376|1|x-jat|Love Live! Hasu no Sora Jogakuin School Idol Club: Bloom Garden Party
 11250|1|x-jat|Love Live! M`s-&gt;Next Love Live! 2014: Endless Parade
 8874|2|x-jat|Love Live! MV 4
 8520|2|x-jat|Love Live! Natsu-iro Egao de 1, 2, Jump!
@@ -36441,7 +36450,7 @@
 19326|2|en|Monster But Wild 2nd Season
 1023|2|en|Monster City
 1248|2|en|Monster Classroom
-19831|2|en|Monster Eater
+19831|4|en|Monster Eater
 11062|2|en|Monster Family House: The Nightmare of Living With Family Who Rape My Girlfriend
 4695|2|x-jat|Monster Farm 2
 4106|1|x-jat|Monster Farm 5: Circus Caravan
@@ -37396,6 +37405,7 @@
 1554|2|en|My Princess
 5704|4|en|My Private Tutor
 17421|2|en|My Recently Hired Maid Is Suspicious
+19862|4|en|My Ribdiculous Reincarnation
 13799|1|x-jat|My Road
 13799|4|ja|My Road
 14253|4|en|My Roommate Is a Cat
@@ -45530,6 +45540,7 @@
 15874|1|x-jat|Rikujoubu Joshi wa Ore no Nama Onaho!!! The Animation
 444|2|x-jat|rikumao
 18936|1|x-jat|Rilakkuma
+18936|4|en|Rilakkuma
 13528|4|en|Rilakkuma and Kaoru
 13528|4|pl|Rilakkuma i Kaoru
 13528|1|x-jat|Rilakkuma to Kaoru-san
@@ -53720,6 +53731,7 @@
 13794|2|en|The Beetles
 8805|2|x-jat|The Beginning
 18935|4|en|The Beginning After the End
+19381|2|en|The Beginning After the End S2
 19381|4|en|The Beginning After the End Season 2
 3620|2|en|The Bells of Nagasaki
 2964|2|en|The Best Student Council
@@ -53828,7 +53840,7 @@
 14981|2|en|The Chronicles of Rebecca
 16638|2|en|The Chronicles of the Ranger
 17472|2|en|The Class Rep Believes in the Hypnosis App
-19516|2|en|The Classroom of a Black Cat and a Witch
+19516|4|en|The Classroom of a Black Cat and a Witch
 14899|2|en|The Cloudy Dog Talk About
 813|1|x-jat|The Cockpit
 813|4|fr|The Cockpit
@@ -54085,6 +54097,8 @@
 14800|2|en|The Extraordinary Adventures of the Mouse and His Child
 6973|2|en|The Extravagant Muchabee
 18108|1|x-jat|The Fable
+19990|1|x-jat|The Fable 2
+19990|2|en|The Fable 2
 10220|2|en|The Fake
 10220|4|es|The Fake
 18378|2|en|The Fallen Master
@@ -54908,7 +54922,7 @@
 1171|2|en|The Racing Brothers, Lets and Go
 1173|2|en|The Racing Brothers, Lets and Go Max
 1172|2|en|The Racing Brothers, Lets and Go WGP
-19139|2|en|The Ramparts of Ice
+19139|4|en|The Ramparts of Ice
 4878|1|x-jat|The Rapeman Anime Version
 18011|1|x-zht|The Ravages of Time
 18011|2|en|The Ravages of Time
@@ -59711,6 +59725,7 @@
 14781|1|x-zht|Wo Jiao Bai Xiao Fei
 15508|1|x-zht|Wo Kai Dongwuyuan Naxie Nian
 18953|1|x-zht|Wo Neng Wuxian Dunwu
+19991|1|x-zht|Wo Qi Ku Le Baiwan Xiulian Zhe 2nd Season
 16630|2|x-zht|Wo Qi Ku Le Baiwan Xiulianzhe
 16630|2|x-zht|Wo Qi Ku Liao Bai Wan Xiulian Zhe
 16630|1|x-zht|Wo Qi Ku Liao Baiwan Xiulian Zhe
@@ -61212,8 +61227,9 @@
 13153|1|x-jat|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
 17208|1|x-jat|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season
 17237|1|x-jat|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season
-18844|1|x-jat|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season
+18844|1|x-jat|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2 Nensei Hen 1 Gakki
 17208|2|x-jat|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S2
+18844|2|x-jat|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4
 7271|1|x-jat|Youkoso Lodoss-tou e!
 8988|1|x-jat|Youkoso Uchuujin
 13550|1|x-jat|Youkoso! Sukebe Elf no Mori e
@@ -76705,6 +76721,7 @@
 10730|4|ja|ザ・バスルーム
 4233|4|ja|ザ・ヒューマノイド 哀の惑星レザリア
 18108|4|ja|ザ・ファブル
+19990|4|ja|ザ・ファブル 2
 4408|4|ja|ザ・フロッグマンショー
 3508|2|ja|ザ・ボーグマン ラストバトル
 17711|2|ja|ザ・マージナルサービス
@@ -78814,7 +78831,7 @@
 9347|2|ja|トロピカルKISS♡
 9347|2|ja|トロピカルKISS♥
 14483|4|ja|ドロヘドロ
-18397|4|ja|ドロヘドロ (2026)
+18397|4|ja|ドロヘドロ Season2
 15805|4|ja|トロみつ娘の秘湯サービス ~とろッとろちゅるちゅるご奉仕させてください~
 8770|4|ja|どろろ
 1119|2|ja|どろろ (1969)
@@ -81621,7 +81638,7 @@
 13153|4|ja|ようこそ実力至上主義の教室へ
 17208|4|ja|ようこそ実力至上主義の教室へ 2nd Season
 17237|4|ja|ようこそ実力至上主義の教室へ 3rd Season
-18844|4|ja|ようこそ実力至上主義の教室へ 4th Season
+18844|4|ja|ようこそ実力至上主義の教室へ 4th Season 2年生編1学期
 6332|4|ja|よくわかる現代魔法
 424|4|ja|ヨコハマ買い出し紀行
 468|4|ja|ヨコハマ買い出し紀行 Quiet Country Cafe
@@ -81742,7 +81759,8 @@
 8520|2|ja|ラブライブ! スクールアイドルプロジェクト3
 7956|2|ja|ラブライブ! 僕らのLIVE 君とのLIFE
 8520|2|ja|ラブライブ! 夏色えがおで1, 2, Jump!
-19376|4|ja|ラブライブ! 蓮ノ空女学院スクールアイドルクラブ
+19989|4|ja|ラブライブ! 蓮ノ空女学院スクールアイドルクラブ
+19376|4|ja|ラブライブ! 蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party
 15313|4|ja|ラブライブ! 虹ヶ咲学園スクールアイドル同好会
 16310|4|ja|ラブライブ! 虹ヶ咲学園スクールアイドル同好会 (2022)
 17732|4|ja|ラブライブ! 虹ヶ咲学園スクールアイドル同好会 NEXT SKY
@@ -88899,6 +88917,7 @@
 10978|4|zh-Hans|我是高宫茄乃
 18587|4|zh-Hans|我有后宫炮友的原因
 16630|4|zh-Hans|我气哭了百万修炼者
+19991|4|zh-Hans|我气哭了百万修炼者 第二季
 3389|2|zh-Hans|我永远的圣诞老人
 17495|4|zh-Hans|我独自升级
 18576|4|zh-Hans|我独自升级 第二季 -起于暗影-
