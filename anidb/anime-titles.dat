@@ -1,4 +1,4 @@
-# created: Fri Apr  3 03:00:02 2026
+# created: Sun Apr  5 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2080,6 +2080,8 @@
 2425|1|x-jat|Akane Maniax
 13956|1|x-jat|Akane Sasu Shoujo
 16913|1|x-jat|Akane wa Tsumare Somerareru
+19513|4|es-419|Akane-banashi
+19513|4|pt-BR|Akane-banashi
 19513|1|x-jat|Akane-banashi
 19513|2|en|Akane-banashi
 1892|1|x-jat|Akane-chan
@@ -2640,6 +2642,7 @@
 15992|1|x-zht|An Jie Shen Shi
 16662|1|x-zht|An Ling Yu Shi Di Qi
 19328|4|en|An Observation Log of My Fiancee Who Calls Herself a Villainess
+19328|4|de|An Observation Log of My Fiancée Who Calls Herself a Villainess
 2385|4|en|An Olympic Fable: Run for Life
 16968|2|en|An Otaku-Friendly Gal, or a Childhood Friend with Big Breasts
 14778|1|x-zht|An tu! An tu!
@@ -3824,6 +3827,7 @@
 15634|2|en|Ascendance of a Bookworm S3
 18302|2|en|Ascendance of a Bookworm S4
 15634|2|en|Ascendance of a Bookworm Season 3
+18302|4|de|Ascendance of a Bookworm: Adopted Daughter of an Archduke
 18302|4|en|Ascendance of a Bookworm: Adopted Daughter of an Archduke
 15300|4|en|Ascendance of a Bookworm: Eustachius`s Incognito Operation Downtown / Visiting Missus Corinna
 14727|2|en|Ascendance of a Bookworm: I`ll Do Anything to Become a Librarian!
@@ -5892,6 +5896,7 @@
 17162|1|x-zht|Bing Zhu Qi Hun
 17857|1|x-zht|Bing Zhu Qi Hun (2023)
 8888|3|x-jat|binga
+17332|2|x-zht|Binghuo Mochu
 4200|4|fr|Biniky le dragon rose
 7034|1|x-jat|Binkan Athlete
 5717|4|pt-BR|Binsky
@@ -7308,6 +7313,7 @@
 12073|2|en|Buddha Sutra Story
 12073|2|en|Buddha Sutras
 7507|2|en|Buddha: The Great Departure
+12073|2|en|Buddhacharita
 12896|2|en|Buddhist Animation: Other Bodhisattva Buddha Tact Chapter
 12073|2|en|Buddhist Sutra Stories
 10291|4|en|Buddy Complex
@@ -10528,6 +10534,7 @@
 18437|4|en|Dad Is a Hero, Mom Is a Spirit, I`m a Reincarnator
 18927|1|x-zht|Dadao Chaotian
 6986|4|en|Daddy Long Legs
+19451|4|de|Daemons of the Shadow Realm
 19451|4|en|Daemons of the Shadow Realm
 1153|2|en|Daft Punk & Leiji Matsumoto`s INTERSTELLA 5555: The 5tory of the 5ecret 5tar 5ystem
 1153|4|hu|Daft Punk: Interstella 5555
@@ -10586,6 +10593,7 @@
 3151|3|x-jat|daikengo
 3151|4|it|Daikengo, il guardiano dello spazio
 3151|4|en|Daikengo, The Guardian of Space
+19994|1|x-jat|Daikenja Riddle no Jikan Gyakkou
 2780|3|x-jat|Daikon
 1682|1|x-jat|Daikuu Maryuu Gaiking
 3606|2|x-jat|Daikyouryu Monogatari
@@ -23191,6 +23199,7 @@
 15634|3|x-jat|Honzuki 3
 15293|3|x-jat|Honzuki no Gekokujou 2
 15634|2|x-jat|Honzuki no Gekokujou 3
+18302|2|x-jat|Honzuki no Gekokujou S4
 14727|1|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen
 15300|1|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Eustachius no Shitamachi Sennyuu Daisakusen / Corinna-sama no Otaku Houmon
 18302|1|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Ryoushu no Youjo
@@ -23489,7 +23498,6 @@
 7382|3|x-jat|HSOTDTV
 13276|3|x-jat|htr
 1173|2|x-unk|https://en.wikipedia.org/wiki/Bakus%C5%8D_Ky%C5%8Ddai_Let`s_&_Go!!
-18772|2|x-unk|https://www.allcinema.net/cinema/404433
 3296|3|en|HU
 18905|1|x-zht|Hu He Yao Shi Lu
 17102|1|x-zht|Hu Li Da Lieren
@@ -25830,6 +25838,7 @@
 17840|1|x-zht|Jipin Quanneng Gaoshou
 19791|1|x-jat|Jirai Nandesuka? Chihara-san
 19328|1|x-jat|Jishou Akuyaku Reijou na Kon`yakusha no Kansatsu Kiroku.
+19328|2|x-jat|Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.
 3648|1|x-jat|Jishu Seisaku Movie Binchou-tan
 1997|1|x-jat|Jisshuusei
 12698|1|x-jat|Jitaku Keibiin
@@ -26388,6 +26397,7 @@
 11302|1|x-jat|Juunigatsu no Uta
 10710|1|x-jat|Juuou Mujin no Fafnir
 4226|1|x-jat|Juuousei
+19995|1|x-jat|Juurin Oukoku
 9022|1|x-jat|Juusen Battle Monsuno
 9795|1|x-jat|Juusen Battle Monsuno (2013)
 18732|1|x-jat|Juusen Battle Monsuno (2014)
@@ -29824,6 +29834,7 @@
 11979|4|de|Küss ihn, nicht mich!
 2573|1|x-jat|Kussetsu
 19276|1|x-jat|Kusunoki no Bannin
+19472|4|de|Kusunoki`s Garden of Gods
 19472|4|en|Kusunoki`s Garden of Gods
 17870|1|x-jat|Kusuriya no Hitorigoto
 18562|1|x-jat|Kusuriya no Hitorigoto (2025)
@@ -33596,6 +33607,7 @@
 16627|1|x-jat|Mairimashita! Iruma-kun (2022)
 18995|1|x-jat|Mairimashita! Iruma-kun (2026)
 15428|2|x-jat|Mairimashita! Iruma-kun 2
+18995|2|x-jat|Mairimashita! Iruma-kun S4
 19878|1|x-jat|Mairimashita! Iruma-kun: If Episode of Mafia
 6111|4|en|Maison de Castle
 288|1|x-jat|Maison Ikkoku
@@ -34841,6 +34853,7 @@
 13871|4|de|Meine Wiedergeburt als Schleim in einer anderen Welt
 14526|4|de|Meine Wiedergeburt als Schleim in einer anderen Welt OAD
 14767|4|de|Meine Wiedergeburt als Schleim in einer anderen Welt Staffel 2
+18884|4|de|Meine Wiedergeburt als Schleim in einer anderen Welt Staffel 4
 18885|4|de|Meine Wiedergeburt als Schleim in einer anderen Welt the Movie: Tears of the Azure Sea
 1005|2|x-jat|Meioh Project Zeorymer
 16402|1|x-zht|Meirenyu: Haidao Laixi
@@ -41071,6 +41084,7 @@
 17339|1|x-jat|Otonari ni Ginga
 17108|1|x-jat|Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken
 18235|1|x-jat|Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2
+18235|2|x-jat|Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken S2
 13105|1|x-jat|Otoppe
 933|2|x-jat|Otori Sousakan Kate: Mesuinu
 9183|2|x-jat|Otorimonogatari
@@ -48689,6 +48703,8 @@
 4296|2|en|Shibawanko`s Spirit of Tradition
 4296|2|en|Shibawanko`s Spirit of Wa
 18845|1|x-jat|Shibou Yuugi de Meshi o Kuu.
+19992|1|x-jat|Shibou Yuugi de Meshi o Kuu. - 44: CLOUDY BEACH
+19993|1|x-jat|Shibou Yuugi de Meshi o Kuu. 44:Cloudy Beach
 18845|2|x-jat|Shibou Yuugi de Meshi wo Kuu.
 18845|4|fr|SHIBOYUGI : Survivre est mon métier
 18845|4|pt-BR|SHIBOYUGI: Jogos Mortais para Colocar Comida na Mesa
@@ -48696,6 +48712,8 @@
 18845|4|vi|SHIBOYUGI: Kiếm sống bằng trò chơi sinh tử
 18845|4|es-419|SHIBOYUGI: Me gano el pan participando de juegos mortales
 18845|4|en|Shiboyugi: Playing Death Games to Put Food on the Table
+19992|4|en|Shiboyugi: Playing Death Games to Put Food on the Table - 44: CLOUDY BEACH
+19993|2|en|Shiboyugi: Playing Death Games to Put Food on the Table - 44:Cloudy Beach
 18492|1|x-jat|Shibuya Hachi
 18822|1|x-jat|Shibuya Hachi (2024)
 19274|1|x-jat|Shibuya Hachi (2025)
@@ -53360,8 +53378,10 @@
 14767|2|x-jat|Tensei Shitara Slime Datta Ken 2nd Season
 15456|2|x-jat|Tensei shitara Slime Datta Ken 2nd Season Part 2
 17709|2|x-jat|Tensei Shitara Slime Datta Ken 3rd Season
+18884|2|x-jat|Tensei Shitara Slime Datta Ken 4th Season
 14526|2|x-jat|Tensei Shitara Slime Datta Ken OAD
 14526|2|ja|Tensei Shitara Slime Datta Ken OVA
+18884|2|x-jat|Tensei Shitara Slime Datta Ken S4
 15456|2|x-jat|Tensei shitara Slime Datta Ken Season 2 Part 2
 17709|2|x-jat|Tensei Shitara Slime Datta Ken Season 3
 17873|1|x-jat|Tensei Shitara Slime Datta Ken: Coleus no Yume
@@ -54269,6 +54289,8 @@
 19893|2|en|The Great Ruler 2
 18028|2|en|The Great Ruler 3D
 19893|2|en|The Great Ruler 3D 2nd Season
+19994|2|en|The Great Sage Riddle`s Time Reversal
+19994|2|en|The Great Sage Ryddel and the Hands of Time
 2228|2|en|The Great Space War: Dangard Ace
 2295|2|en|The Great War of the Animals of Nodoka Forest
 14650|2|en|The Great Warrior Wall
@@ -54641,6 +54663,7 @@
 1893|2|en|The Magic Mirror
 15237|4|en|The Magic Paintbrush
 6893|2|en|The Magic Pen
+17332|2|en|The Magical Chef of Ice and Fire
 18282|4|en|The Magical Girl and the Evil Lieutenant Used to Be Archenemies
 18282|4|de|The Magical Girl and the Evil Lieutenant Used to Be Archenemies
 17569|4|en|The Magical Revolution of the Reincarnated Princess and the Genius Young Lady
@@ -55245,6 +55268,7 @@
 7074|2|en|The Straw Millionaire
 11017|2|en|The Strict and Cool Teacher is Aheboteochi!
 18210|2|en|The Strongest Dull Prince`s Secret Battle for the Throne
+19667|4|de|The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!
 19667|4|en|The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!
 18427|4|en|The Strongest Magician in the Demon Lord`s Army Was a Human
 17447|2|en|The Strongest Male Hero Ever
@@ -59364,6 +59388,7 @@
 16627|4|en|Welcome to Demon School! Iruma-kun (2022)
 16627|4|pl|Welcome to Demon School! Iruma-kun (2022)
 18995|4|en|Welcome to Demon School! Iruma-kun (2026)
+18995|4|de|Welcome to Demon School! Iruma-kun Staffel 4
 19878|2|en|Welcome to Demon School! Iruma-kun: IruMafia Edition
 15428|2|en|Welcome to Demon School! Iruma-kun: Season 2
 14592|2|en|Welcome to Hinagiku Virgin Lost Club
@@ -65318,6 +65343,7 @@
 15304|2|ru|Моя первая замужняя женщина
 12554|4|ru|Моя первая модница
 18538|4|ru|Моя подруга — демон
+18534|4|ru|Моя подруга-олениха Нокотан
 1554|2|ru|Моя принцесса
 14449|4|ru|Моя реинкарнация в отомэ-игре в качестве главной злодейки
 15604|4|ru|Моя реинкарнация в отомэ-игре в качестве главной злодейки X
@@ -86237,6 +86263,7 @@
 13641|2|zh-Hant|大護法
 15694|4|zh-Hans|大话之少年游
 15409|4|zh-Hant|大貴族
+19994|4|ja|大賢者リドルの時間逆行
 18927|4|zh-Hans|大道朝天
 78|2|zh-Hans|大都会
 78|2|zh-Hant|大都會
@@ -89999,6 +90026,7 @@
 16166|4|zh-Hant|明日同學的水手服
 17781|4|zh-Hans|明日方舟：冬隐归路
 17781|4|zh-Hant|明日方舟：冬隱歸路
+18602|4|zh-Hans|明日方舟：焰烬曙明
 16931|4|zh-Hans|明日方舟：黎明前奏
 6110|2|zh-Hans|明日的与一!
 520|2|zh-Hans|明日的娜嘉
@@ -91375,6 +91403,7 @@
 4563|4|zh-Hant|死亡筆記本
 19209|4|zh-Hans|死亡账号
 18845|4|ja|死亡遊戯で飯を食う.
+19993|4|ja|死亡遊戯で飯を食う. 44:CLOUDY BEACH
 11255|4|zh-Hans|死亡黑标
 6467|4|zh-Hans|死刑判决
 5549|2|zh-Hans|死后文
@@ -95992,6 +96021,7 @@
 4151|4|zh-Hant|跳躍吧! 時空少女
 9721|4|ja|踊り子クリノッペ
 13753|4|ja|踏切時間
+19995|4|ja|蹂躙王国
 16981|2|zh-Hant|躍動青春
 17828|2|zh-Hans|身为VTuber的我因为忘记关台而成了传说
 16564|2|zh-Hans|身为女主角 讨厌的女主角与秘密的工作
