@@ -1,4 +1,4 @@
-# created: Sun Apr  5 03:00:01 2026
+# created: Mon Apr  6 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -548,6 +548,8 @@
 13597|4|zh-Hans|25岁的女高中生
 13597|4|ja|25歳の女子高生
 19324|1|x-jat|29-sai Dokushin Chuuken Boukensha no Nichijou
+19324|4|zh-Hans|29岁单身中坚冒险家的日常
+19324|3|zh-Hans|29岁单身冒险家的日常
 19324|4|ja|29歳独身中堅冒険者の日常
 2984|2|x-jat|2koi
 7195|2|en|2nd Lieutenant Norakuro: Sunday Magic
@@ -1433,12 +1435,14 @@
 9881|2|en|Ace of Diamond
 9881|4|fr|Ace of Diamond
 10739|4|en|Ace of Diamond (2014)
+18638|2|en|Ace of Diamond Act II S2
 11115|4|fr|Ace of Diamond Saison 2
 11115|4|en|Ace of Diamond: Second Season
 9881|4|es|Ace of the Diamond
 9881|4|es-419|Ace of the Diamond
 9881|4|en|Ace of the Diamond
 14504|2|en|Ace of the Diamond Act II
+18638|4|de|Ace of the Diamond act II Second Season
 11115|2|en|Ace of the Diamond Season 2
 14504|4|en|Ace of the Diamond: Act II
 14504|4|fr|Ace of the Diamond: Act II
@@ -7313,7 +7317,7 @@
 12073|2|en|Buddha Sutra Story
 12073|2|en|Buddha Sutras
 7507|2|en|Buddha: The Great Departure
-12073|2|en|Buddhacharita
+12073|4|en|Buddhacharita
 12896|2|en|Buddhist Animation: Other Bodhisattva Buddha Tact Chapter
 12073|2|en|Buddhist Sutra Stories
 10291|4|en|Buddy Complex
@@ -17324,7 +17328,6 @@
 19874|1|x-jat|Fullmoon Densetsu Indra
 15351|3|x-jat|Fumeta
 16573|2|x-jat|Fumeta s2
-15351|3|x-jat|fumetsu
 15351|1|x-jat|Fumetsu no Anata e
 16573|1|x-jat|Fumetsu no Anata e Season 2
 17904|1|x-jat|Fumetsu no Anata e Season 3
@@ -18827,6 +18830,7 @@
 19540|2|en|Ghost Blows Out the Light: Return to the South Sea
 18502|4|en|Ghost Cat Anzu
 18502|4|de|Ghost Cat Anzu
+19674|2|en|Ghost Concert - missing Songs
 19674|1|x-jat|Ghost Concert: Missing Songs
 19674|4|en|Ghost Concert: Missing Songs
 312|4|tl|Ghost Fighter
@@ -24730,6 +24734,7 @@
 15265|2|en|Infinity Nado 5
 2519|1|x-jat|Ingoku Byoutou
 19879|1|x-jat|Ingoku Danchi
+19879|4|en|Ingoku Danchi: Deviant`s Apartment Complex
 13890|4|ja|INGRESS THE ANIMATION
 13890|1|x-jat|Ingress the Animation
 13890|4|pl|Ingress: Serial animowany
@@ -38958,6 +38963,7 @@
 6896|1|x-jat|Nippon Banzai
 3582|2|x-jat|Nippon Ichi no Otoko no Tamashii
 19861|1|x-jat|Nippon Sangoku
+19861|4|en|Nippon Sangoku: The Three Nations of the Crimson Sun
 3509|2|x-jat|Nippon Tanjo
 3582|1|x-jat|Nippon-ichi no Otoko no Tamashii
 4639|1|x-jat|Nippon-ichi no Otoko no Tamashii 2
@@ -52136,7 +52142,7 @@
 1872|3|x-jat|sutesuta
 19162|3|x-jat|sutetsuyo
 10198|2|x-jat|Sutoraikuu~itchīzu: Operēshon bikutorīarō
-12073|4|en|Sutra Stories
+12073|2|en|Sutra Stories
 18442|1|x-jat|Suufunkan no Yell o
 530|4|et|Suur panda ja väike panda
 6976|4|et|Suur panda ja väike panda: tsirkus vihmas
@@ -53347,6 +53353,7 @@
 16028|3|x-jat|tensaiouji
 18497|2|x-jat|Tensei Akujo no Kuro Rekishi
 18497|1|x-jat|Tensei Akujo no Kurorekishi
+19996|1|x-jat|Tensei Akujo no Kurorekishi: Bangai Hen - Yomi to Shitto to Tanjoubi / Iana to Sol: Netsuppoi Ichinichi
 19942|1|x-jat|Tensei Goblin Dakedo Shitsumon Aru?
 12934|1|x-jat|Tensei Kendo no Harem Colosseo
 12934|2|en|Tensei Kendo no Harem Colosseum
@@ -53418,6 +53425,7 @@
 14767|3|x-jat|tensura s2
 15456|3|x-jat|tensura s2.5
 17709|3|x-jat|tensura s3
+18884|3|x-jat|TenSura S4
 15457|3|x-jat|tensura: nikki
 8409|1|x-jat|Tentacle and Witches
 8409|4|ja|Tentacle and Witches
@@ -54343,6 +54351,7 @@
 7382|4|pt|The Highschool of The Dead - A Escola dos Mortos
 4078|4|en|The Hills Have Size
 9058|2|en|The Himalayan Kingdom of Light
+4947|2|en|The History of Japan
 18938|4|en|The Holy Grail of Eris
 15952|4|en|The Honor at Magic High School
 15952|4|de|The Honor at Magic High School
@@ -57093,6 +57102,7 @@
 10536|1|x-jat|Tsubu Doll
 10536|2|x-unk|Tsubu★Doll
 18482|1|x-jat|Tsue to Tsurugi no Wistoria
+18889|2|x-jat|Tsue to Tsurugi no Wistoria S2
 18889|1|x-jat|Tsue to Tsurugi no Wistoria Season 2
 9401|1|x-jat|Tsugou no Yoi Sexfriend?
 14728|1|x-jat|Tsugu Tsugumomo
@@ -59672,6 +59682,7 @@
 18889|2|en|Wisteria of the Wand and Sword Season 2
 18482|4|en|Wistoria: Wand and Sword
 18889|4|en|Wistoria: Wand and Sword Season 2
+18889|4|de|Wistoria: Wand and Sword Staffel 2
 4121|2|pl|Witaj w NHK!
 9496|1|x-jat|Witch Craft Works
 9496|4|en|Witch Craft Works
@@ -67247,6 +67258,7 @@
 5001|2|ru|Франц Кафка - Сельский врач
 4708|2|bg|Фрийдъм
 17617|4|ru|Фрирен, провожающая в последний путь
+18886|2|ru|Фрирен, провожающая в последний путь (2026)
 17617|4|uk|Фрірен кінця шляху
 17617|2|uk|Фрірен, що проводжає в останню путь
 17617|2|uk|Фрірен: після кінця пригоди
@@ -67374,6 +67386,7 @@
 2621|2|uk|Це мій хазяїн
 14477|4|uk|Цей герой надмогутній, але занадто обережний
 1431|2|uk|Цей жахливий та прекрасний світ
+18451|4|ru|Целитель, которого исключили из группы, оказался сильнейшим!
 16286|4|ru|Целительница
 2359|2|ru|Цельнометаллический алхимик: Завоеватель Шамбаллы
 14447|4|ru|Цена улыбки
@@ -96066,6 +96079,7 @@
 12934|2|ja|転生剣奴の子作り闘技場（ハーレムコロッセオ）
 19323|4|ja|転生宗主の覇道譚 ～すべてを呑み込むサカナと這い上がる～
 18497|4|ja|転生悪女の黒歴史
+19996|4|ja|転生悪女の黒歴史 番外編 ヨミと嫉妬と誕生日 / イアナとソル 熱っぽい一日
 17569|4|ja|転生王女と天才令嬢の魔法革命
 18026|4|ja|転生貴族, 鑑定スキルで成り上がる
 18707|4|ja|転生貴族, 鑑定スキルで成り上がる (2024)
