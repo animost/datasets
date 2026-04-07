@@ -1,4 +1,4 @@
-# created: Mon Apr  6 03:00:02 2026
+# created: Tue Apr  7 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -10537,6 +10537,7 @@
 9307|3|x-jat|dacapo s5
 18437|4|en|Dad Is a Hero, Mom Is a Spirit, I`m a Reincarnator
 18927|1|x-zht|Dadao Chaotian
+19997|1|x-zht|Dadao Duxing: Die Long Bian
 6986|4|en|Daddy Long Legs
 19451|4|de|Daemons of the Shadow Realm
 19451|4|en|Daemons of the Shadow Realm
@@ -15528,6 +15529,7 @@
 7565|2|ja|Evangelion 3.0
 8895|2|pl|Evangelion 3.0+1.01 Od-Nowa
 7565|4|de|Evangelion 3.33: You can (not) redo
+19910|2|en|Evangelion 30th Anniversary Special
 9200|1|x-jat|Evangelion 3D
 9200|4|ja|Evangelion 3D
 8895|2|x-jat|Evangelion 4.0
@@ -25192,6 +25194,7 @@
 6304|1|x-jat|Isekai no Seikishi Monogatari
 17290|1|x-jat|Isekai Nonbiri Nouka
 19506|1|x-jat|Isekai Nonbiri Nouka 2
+19506|2|x-jat|Isekai Nonbiri Nouka S2
 19507|4|en|Isekai Office Worker: The Other World`s Books Depend on the Bean Counter
 16389|1|x-jat|Isekai Ojisan
 17248|2|x-jat|Isekai One Turn Kill Nee-san
@@ -35141,6 +35144,8 @@
 1489|2|en|Metal Angel Marie
 1112|4|en|Metal Armor Dragonar
 1112|4|it|Metal Armor Dragonar
+19998|1|en|Metal Cardbot
+19998|4|x-kot|Metal Cardbot
 6426|1|x-jat|Metal Fight Beyblade
 8298|1|x-jat|Metal Fight Beyblade 4D
 7520|2|en|Metal Fight Beyblade the Movie: VS the Sun; Sol Blaze, the Scorching-hot Invader
@@ -48709,7 +48714,6 @@
 4296|2|en|Shibawanko`s Spirit of Tradition
 4296|2|en|Shibawanko`s Spirit of Wa
 18845|1|x-jat|Shibou Yuugi de Meshi o Kuu.
-19992|1|x-jat|Shibou Yuugi de Meshi o Kuu. - 44: CLOUDY BEACH
 19993|1|x-jat|Shibou Yuugi de Meshi o Kuu. 44:Cloudy Beach
 18845|2|x-jat|Shibou Yuugi de Meshi wo Kuu.
 18845|4|fr|SHIBOYUGI : Survivre est mon métier
@@ -48718,7 +48722,6 @@
 18845|4|vi|SHIBOYUGI: Kiếm sống bằng trò chơi sinh tử
 18845|4|es-419|SHIBOYUGI: Me gano el pan participando de juegos mortales
 18845|4|en|Shiboyugi: Playing Death Games to Put Food on the Table
-19992|4|en|Shiboyugi: Playing Death Games to Put Food on the Table - 44: CLOUDY BEACH
 19993|2|en|Shiboyugi: Playing Death Games to Put Food on the Table - 44:Cloudy Beach
 18492|1|x-jat|Shibuya Hachi
 18822|1|x-jat|Shibuya Hachi (2024)
@@ -53353,7 +53356,7 @@
 16028|3|x-jat|tensaiouji
 18497|2|x-jat|Tensei Akujo no Kuro Rekishi
 18497|1|x-jat|Tensei Akujo no Kurorekishi
-19996|1|x-jat|Tensei Akujo no Kurorekishi: Bangai Hen - Yomi to Shitto to Tanjoubi / Iana to Sol: Netsuppoi Ichinichi
+19996|1|x-jat|Tensei Akujo no Kurorekishi: Bangai Hen - Yomi to Shitto to Tanjoubi / Iana to Sol Netsuppoi Ichinichi
 19942|1|x-jat|Tensei Goblin Dakedo Shitsumon Aru?
 12934|1|x-jat|Tensei Kendo no Harem Colosseo
 12934|2|en|Tensei Kendo no Harem Colosseum
@@ -53935,6 +53938,7 @@
 18890|2|en|The Dangers in My Heart the Movie
 18497|4|en|The Dark History of the Reincarnated Villainess
 18497|4|de|The Dark History of the Reincarnated Villainess
+19996|4|en|The Dark History of the Reincarnated Villainess: Side Story - Yomi, Jealousy, and a Birthday / Iana and Sol`s Feverish Day
 6554|4|en|The Dark Knight Ingrid
 2920|4|fr|The Dark Myth
 2920|4|en|The Dark Myth
@@ -54529,6 +54533,7 @@
 19133|2|en|The Kitchen
 6768|2|en|The Kitten`s Doodles
 5731|2|en|The Kitten`s Studio
+19277|4|en|The Klutzy Class Monitor and the Girl with the Short Skirt
 16876|2|en|The Klutzy Witch
 8798|4|en|The Knight in the Area
 4396|2|en|The Knight of Eon
@@ -64017,6 +64022,7 @@
 13946|4|ru|Дороро
 14483|2|ru|Дорохедоро
 14483|2|uk|Дорохедоро
+18397|4|uk|Дорохедоро 2 сезон
 154|4|uk|Досконала Журба
 17486|2|ru|Доставка члена по заказу старшей сестры
 5039|2|ru|Достичь Тэрры
@@ -64646,6 +64652,7 @@
 4894|2|uk|Коли плачуть цикади: Розв`язка
 6051|2|uk|Коли плачуть чайки
 14053|2|uk|Коли прийде час, я стану тобою
+18884|4|uk|Коли я переродився слизом (2026)
 13385|4|ru|Коллекция Дзюндзи Ито
 15603|4|ru|Коллекция ниндзя
 3134|2|ru|Команда боевых девушек-детективов
@@ -69573,6 +69580,7 @@
 3623|2|ar|هيلين كيلر
 14727|4|ar|هيمنة عثة كتب
 15293|4|ar|هيمنة عثة كتب (2020)
+18302|4|ar|هيمنة عثة كتب: ابنة أرشيدوق بالتبني
 15300|4|ar|هيمنة عثة كتب: عمليّة إيوستاكيوس السرّية في مركز المدينة \ زيارة السيّدة كورينا
 8109|4|fa|هیدان نو آریا
 8855|2|fa|هیوکا
@@ -86278,6 +86286,7 @@
 15409|4|zh-Hant|大貴族
 19994|4|ja|大賢者リドルの時間逆行
 18927|4|zh-Hans|大道朝天
+19997|4|zh-Hans|大道独行之蝶龙变
 78|2|zh-Hans|大都会
 78|2|zh-Hant|大都會
 964|4|zh-Hans|大铁人 地球静止之日
