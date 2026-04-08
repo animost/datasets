@@ -1,4 +1,4 @@
-# created: Tue Apr  7 03:00:01 2026
+# created: Wed Apr  8 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3752,7 +3752,7 @@
 29|3|en|AS
 18026|4|en|As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World
 18707|4|en|As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World (2024)
-19070|2|en|As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World 3
+19070|2|en|As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World (2026)
 196|2|pt|As Asas de Honneamise
 9514|4|pt|As Asas do Vento
 2744|4|pt|As Aventuras de Alice no País das Maravilhas
@@ -5751,6 +5751,7 @@
 13445|2|en|Beyond the Worlds
 13446|2|en|Beyond the Worlds S2
 19835|4|en|Beyond Time`s Gaze
+20000|2|en|Beyond Twilight
 15032|1|x-jat|BeyWarriors: Cyborg
 14915|1|x-jat|Beywheelz
 3573|2|lt|Bežiūrint į dylantį mėnulį
@@ -23427,6 +23428,7 @@
 13757|4|de|How Not to Summon a Demon Lord
 15493|2|en|How Not to Summon a Demon Lord - Season 2
 15493|4|en|How Not to Summon a Demon Lord Omega
+19999|2|en|How Not to Summon a Demon Lord ULT
 15493|2|en|How NOT to Summon a Demon Lord Ω
 7874|2|en|How to Bloom a Flower
 2340|4|en|How to Breed Kappas
@@ -23738,7 +23740,9 @@
 18343|3|x-jat|hyakkano 2
 19663|3|x-jat|hyakkano 3
 1628|1|x-jat|Hyakki
+20000|2|x-jat|Hyakki Yagshosho
 4109|2|x-jat|Hyakki Yako: Warashi
+20000|1|x-jat|Hyakki Yakoushou
 1628|4|es|Hyakki, el secreto de la isla del diablo
 1628|4|en|Hyakki: The Secret of Devil`s Island
 16087|2|en|Hyakkiya Detective Agency
@@ -25185,6 +25189,7 @@
 17653|1|x-jat|Isekai Kita no de Sukebe Skill de Zenryoku Ouka Shiyou to Omou The Animation
 13757|1|x-jat|Isekai Maou to Shoukan Shoujo no Dorei Majutsu
 15493|1|x-jat|Isekai Maou to Shoukan Shoujo no Dorei Majutsu Omega
+19999|1|x-jat|Isekai Maou to Shoukan Shoujo no Dorei Majutsu ULT
 15493|2|x-jat|Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω
 15918|1|x-jat|Isekai Meikyuu de Harem o
 18702|1|x-jat|Isekai Mokushiroku Mynoghra
@@ -30732,6 +30737,7 @@
 6427|2|en|Last War of Heavenloids and Akutoloids
 17688|3|x-jat|Lastame
 19420|3|x-jat|lastame 2
+19420|2|x-jat|LasTame S2
 581|4|ja|LASTEXILE
 581|2|x-jat|LastEXILE
 8260|2|en|LASTEXILE -Fam, The Silver Wing-
@@ -41604,7 +41610,7 @@
 10272|4|es|Parasyte -the maxim-
 10272|4|en|Parasyte: The Maxim
 10272|2|cs|Parazit: Mravní zásady života
-19736|2|en|Pardon the Intrusion, I`m Home!
+19736|4|en|Pardon the Intrusion, I`m Home!
 3081|2|en|Parent and Child Theatre
 8915|1|x-jat|Pareo wa Emerald
 3627|2|x-jat|Pari no Isaberu
@@ -52457,6 +52463,7 @@
 13492|1|x-jat|Tada-kun wa Koi o Shinai
 13492|2|x-unk|Tada-kun wa Koi wo Shinai
 19736|1|x-jat|Tadaima, Ojama Saremasu!
+19736|2|x-jat|Tadaima, Ojamasaremasu!
 18216|4|en|Tadaima, Okaeri
 18216|1|x-jat|Tadaima, Okaeri
 13492|3|x-jat|tadakoi
@@ -53367,7 +53374,7 @@
 17552|1|x-jat|Tensei Kizoku no Isekai Boukenroku: Jichou o Shiranai Kamigami no Shito
 18026|1|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru
 18707|1|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru (2024)
-19070|1|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru 3
+19070|1|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru (2026)
 18707|2|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru Season 2
 18026|2|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta
 17569|1|x-jat|Tensei Oujo to Tensai Reijou no Mahou Kakumei
@@ -82823,6 +82830,7 @@
 17529|2|zh-Hans|义妹生活
 9854|4|zh-Hans|义风堂堂！兼续与庆次
 7939|4|zh-Hans|丹特丽安的书架
+8944|4|zh-Hans|丹特丽安的书架 荆姬
 7939|4|zh-Hant|丹特麗安的書架
 18042|4|zh-Hans|丹道宗师
 18920|4|zh-Hans|丹道至尊
@@ -84037,6 +84045,7 @@
 3191|4|ja|冬の日
 4828|4|ja|冬の蝉
 5855|2|zh-Hans|冬季恋歌
+4797|4|zh-Hans|冬季花园
 4797|2|zh-Hans|冬日花园
 4828|3|ja|冬蝉
 12012|4|zh-Hans|冰上的尤里
@@ -85649,6 +85658,7 @@
 16533|4|ja|四畳半タイムマシンブルース
 7243|4|ja|四畳半神話大系
 9681|4|ja|四百二十連敗ガール
+17277|4|zh-Hans|四色战记 冰雪帝国
 6424|2|zh-Hant|四葉遊戲
 1171|2|zh-Hans|四驱兄弟
 7203|4|zh-Hans|四驱兄弟WGP 暴走四驱大追踪
@@ -87201,6 +87211,7 @@
 12051|4|ja|宇宙戦艦ヤマト2202愛の戦士たち
 14804|4|ja|宇宙戦艦ヤマト2205 新たなる旅立ち
 2661|4|ja|宇宙戦艦ヤマトIII
+630|4|zh-Hans|宇宙星路
 10027|2|zh-Hans|宇宙浪子
 10553|2|zh-Hant|宇宙浪子 第二季
 725|4|zh-Hans|宇宙海盗哈洛克
@@ -92636,6 +92647,7 @@
 6465|2|ja|狼と香辛料II OVA
 6465|4|ja|狼と香辛料II 狼と琥珀色の憂鬱
 5406|2|zh-Hans|狼与香辛料
+6169|4|zh-Hans|狼与香辛料 第二季
 17221|4|zh-Hans|狼与香辛料 行商邂逅贤狼
 18876|4|zh-Hans|狼与香辛料 行商邂逅贤狼 第二季
 6169|2|zh-Hans|狼与香辛料II
@@ -93131,6 +93143,7 @@
 12385|4|ja|異世界食堂
 16274|4|ja|異世界食堂2
 13757|4|ja|異世界魔王と召喚少女の奴隷魔術
+19999|4|ja|異世界魔王と召喚少女の奴隷魔術ULT
 15493|4|ja|異世界魔王と召喚少女の奴隷魔術Ω
 18702|4|zh-Hant|異世界默示錄麥諾格拉～從毀滅文明開始征服世界～
 17866|4|ja|異修羅
@@ -93249,6 +93262,7 @@
 18119|4|zh-Hans|百千家的妖怪王子
 635|4|zh-Hans|百变之星
 4123|4|zh-Hans|百变之星 不死鸟传说 ～蕾拉・汉密尔顿物语～
+102|4|zh-Hans|百变小樱
 334|2|zh-Hans|百变狸猫
 13451|4|zh-Hans|百变猪猪侠
 17982|4|zh-Hans|百变的七仓同学
@@ -93301,6 +93315,7 @@
 334|4|zh|百變狸貓
 13896|4|ja|百錬の覇王と聖約の戦乙女[ヴァルキュリア]
 1628|4|ja|百鬼
+20000|4|ja|百鬼夜行抄
 14853|4|zh-Hans|百鬼幼儿园
 14872|4|zh-Hans|百鬼幼儿园 第2季
 15863|4|ja|百鬼幼儿园 第三季
@@ -93508,6 +93523,7 @@
 4071|4|ja|砂漠の海賊! キャプテンクッパ
 13348|4|zh-Hant|砲彈剋星
 10426|4|zh-Hans|破刃之剑
+7103|4|zh-Hans|破刃之剑 剧场版
 7103|2|zh-Hans|破剑之刃
 301|4|ja|破壊魔定光
 5533|2|zh-Hans|破天荒游戏
@@ -96092,7 +96108,7 @@
 17569|4|ja|転生王女と天才令嬢の魔法革命
 18026|4|ja|転生貴族, 鑑定スキルで成り上がる
 18707|4|ja|転生貴族, 鑑定スキルで成り上がる (2024)
-19070|4|ja|転生貴族, 鑑定スキルで成り上がる 3
+19070|4|ja|転生貴族, 鑑定スキルで成り上がる (2026)
 17552|4|ja|転生貴族の異世界冒険録 ~自重を知らない神々の使徒~
 16030|4|ja|転生賢者の異世界ライフ~第二の職業を得て, 世界最強になりました~
 4435|4|ja|軽井沢シンドローム
@@ -96193,6 +96209,7 @@
 16249|2|zh-Hans|这个医师超麻烦
 7674|4|zh-Hans|这个是僵尸吗？
 8476|4|zh-Hans|这个是僵尸吗？OF THE DEAD
+16249|4|zh-Hans|这个治疗有点烦
 11792|4|zh-Hans|这个男人、工作是魔法
 11735|4|zh-Hans|这个美术社大有问题!
 18770|4|zh-Hans|这公司有我喜欢的人
