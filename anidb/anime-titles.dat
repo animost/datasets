@@ -1,4 +1,4 @@
-# created: Wed Apr  8 03:00:02 2026
+# created: Thu Apr  9 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5751,7 +5751,7 @@
 13445|2|en|Beyond the Worlds
 13446|2|en|Beyond the Worlds S2
 19835|4|en|Beyond Time`s Gaze
-20000|2|en|Beyond Twilight
+20000|4|en|Beyond Twilight
 15032|1|x-jat|BeyWarriors: Cyborg
 14915|1|x-jat|Beywheelz
 3573|2|lt|Bežiūrint į dylantį mėnulį
@@ -27119,6 +27119,7 @@
 17629|1|x-jat|Kanojo, Okarishimasu (2023)
 18753|1|x-jat|Kanojo, Okarishimasu (2025)
 19587|1|x-jat|Kanojo, Okarishimasu (2026)
+19587|2|x-jat|Kanojo, Okarishimasu S5
 17629|2|x-jat|Kanojo, Okarishimasu Season 3
 18753|2|x-jat|Kanojo, Okarishimasu Season 4
 461|3|x-jat|kanojoneko
@@ -33219,6 +33220,7 @@
 70|4|en|Magical Shopping Arcade Abenobashi
 70|2|en|Magical Shopping Street Abenobashi
 19214|2|en|Magical Sisters Lulutto Lilly
+19214|2|en|Magical Sisters LuluttoLilly
 9464|4|en|Magical Sisters Yoyo & Nene
 607|2|en|Magical Soldier Louie
 11172|4|en|Magical Somera-chan
@@ -33366,6 +33368,7 @@
 4848|1|x-jat|Mahou no Rouge Lipstick
 2562|1|x-jat|Mahou no Shiho-chan
 19214|1|x-jat|Mahou no Shimai Lulutto Lily
+19214|2|x-jat|Mahou no Shimai LuluttoLilly
 246|1|x-jat|Mahou no Stage Fancy Lala
 1444|1|x-jat|Mahou no Star Magical Emi
 7072|1|x-jat|Mahou no Star Magical Emi Finale! Finale! Soushuuhen
@@ -45009,6 +45012,7 @@
 15593|2|en|Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season 2nd Part
 15593|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2
 17947|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season
+19242|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu 4th Season
 14792|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu S2
 14792|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu Season 2 Part 1
 15593|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu Season 2 Part 2
@@ -59072,6 +59076,7 @@
 11311|4|ja|WALKING MAN
 12220|1|x-jat|Walking Meat
 12220|4|ja|Walking Meat
+19997|4|en|Walking the Way All Alone
 9931|1|x-jat|Walkure Romanze
 9931|4|en|Walkure Romanze
 9931|4|zh-Hans|Walkure Romanze 少女骑士物语
@@ -61885,6 +61890,7 @@
 10113|1|x-jat|Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku o Ketsui Shimashita.: Yuusha ni Narenakatta Ore no Imouto ga Joukyou Shite Kimashita.
 9659|4|es|Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita
 19219|1|x-jat|Yuusha no Kuzu
+19862|3|x-jat|Yuusha no Rokkotsu de
 957|1|x-jat|Yuusha Ou GaoGaiGar
 1717|1|x-jat|Yuusha Ou GaoGaiGar Final
 3152|1|x-jat|Yuusha Ou GaoGaiGar Final Grand Glorious Gathering
