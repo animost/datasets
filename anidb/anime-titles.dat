@@ -1,4 +1,4 @@
-# created: Thu Apr  9 03:00:02 2026
+# created: Fri Apr 10 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2600,6 +2600,7 @@
 10146|1|x-jat|Amigo Tomodachi
 10313|4|hu|Amikor Marnie ott volt
 262|2|ro|Amintiri
+12075|4|en|Amitayurdhyana Sutra: The Rajagriha Treachery
 93|3|x-jat|AMMSE
 8852|3|x-jat|amnesia
 9358|1|x-jat|Amnesia
@@ -19731,6 +19732,7 @@
 18081|1|x-jat|Golden Kamuy Saishuushou
 18081|2|en|Golden Kamuy Season 5
 19986|1|x-jat|Golden Kamuy: Bousou Ressha Hen
+20001|1|x-jat|Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga
 19986|2|en|Golden Kamuy: Runaway Train Arc
 19475|1|x-jat|Golden Kamuy: Sapporo Beer Koujou Hen
 8231|1|x-jat|Golden Kids
@@ -30969,6 +30971,7 @@
 2068|4|lt|Ledi Lina
 2067|4|lt|Ledi Lina 2
 2072|2|lt|Ledi Lina filmas
+19139|4|cs|Ledové hradby
 18000|2|x-kot|Lee Du-Na!
 17772|2|x-jat|Lee Tantei Jimusho
 17772|4|en|Lee`s Detective Agency: A Day in Lungmen
@@ -34870,6 +34873,7 @@
 13871|4|de|Meine Wiedergeburt als Schleim in einer anderen Welt
 14526|4|de|Meine Wiedergeburt als Schleim in einer anderen Welt OAD
 14767|4|de|Meine Wiedergeburt als Schleim in einer anderen Welt Staffel 2
+17709|4|de|Meine Wiedergeburt als Schleim in einer anderen Welt Staffel 3
 18884|4|de|Meine Wiedergeburt als Schleim in einer anderen Welt Staffel 4
 18885|4|de|Meine Wiedergeburt als Schleim in einer anderen Welt the Movie: Tears of the Azure Sea
 1005|2|x-jat|Meioh Project Zeorymer
@@ -76522,6 +76526,7 @@
 18081|4|ja|ゴールデンカムイ 最終章
 19986|4|ja|ゴールデンカムイ 暴走列車編
 19475|4|ja|ゴールデンカムイ 札幌ビール工場編
+20001|4|ja|ゴールデンカムイ 稲妻強盗と蝮のお銀 / シマエナガ
 14995|2|ja|ゴールデンカムイ 第三期
 14185|2|ja|ゴールデンカムイ 第二期
 17023|2|ja|ゴールデンカムイ 第四期
