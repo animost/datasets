@@ -1,4 +1,4 @@
-# created: Fri Apr 10 03:00:01 2026
+# created: Sun Apr 12 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -733,6 +733,7 @@
 4241|2|uk|5-2 сьогодні
 6054|3|x-jat|5-2tv
 4184|1|x-jat|5-tou ni Naritai.
+20004|1|en|500000000 years button
 1153|3|x-jat|5555
 4568|3|x-jat|5cm
 4568|3|en|5cm per Second
@@ -741,6 +742,7 @@
 7248|3|en|5leaves
 14247|4|ko|5등분의 신부
 14492|4|ja|5万匹
+20004|4|ja|5億年ボタン
 4184|4|ja|5等になりたい.
 2773|1|x-jat|6 Angels
 12684|1|x-jat|6 Heart Princess
@@ -2600,7 +2602,6 @@
 10146|1|x-jat|Amigo Tomodachi
 10313|4|hu|Amikor Marnie ott volt
 262|2|ro|Amintiri
-12075|4|en|Amitayurdhyana Sutra: The Rajagriha Treachery
 93|3|x-jat|AMMSE
 8852|3|x-jat|amnesia
 9358|1|x-jat|Amnesia
@@ -8009,6 +8010,7 @@
 13635|4|ja|CARDFIGHT!! Vanguard (2018)
 13635|4|en|Cardfight!! Vanguard (2018)
 14681|2|en|Cardfight!! Vanguard (2019)
+20003|1|x-jat|Cardfight!! Vanguard (2027)
 8974|4|en|Cardfight!! Vanguard Asia Circuit
 10869|1|x-jat|Cardfight!! Vanguard G
 11485|4|en|Cardfight!! Vanguard G GIRS Crisis
@@ -8032,6 +8034,7 @@
 19780|4|en|Cardfight!! Vanguard: Divinez Parallactic Clash Arc
 18591|4|en|Cardfight!! Vanguard: Divinez Season 2
 18591|1|x-jat|Cardfight!! Vanguard: Divinez Season 2
+20002|1|x-jat|Cardfight!! Vanguard: Divinez Unmei Seisen Hen
 10483|1|x-jat|Cardfight!! Vanguard: Legion Mate Hen
 9437|1|x-jat|Cardfight!! Vanguard: Link Joker Hen
 15646|1|x-jat|Cardfight!! Vanguard: Over Dress
@@ -10995,8 +10998,8 @@
 13533|2|en|Date a Live (2019)
 15106|2|x-jat|Date a Live (2022)
 17476|2|x-jat|Date a Live (2024)
-19284|1|x-jat|Date a Live (Shin Project)
 9935|2|x-jat|Date a Live 2
+19284|1|x-jat|Date a Live F Last Date
 9935|1|x-jat|Date a Live II
 9935|4|en|Date a Live II
 9935|4|de|Date a Live II
@@ -16660,6 +16663,7 @@
 6105|4|de|Fist of the North Star 5: Legend of Kenshiro
 984|4|en|Fist of the North Star Part 2
 19188|2|en|Fist of the North Star: Elegy of Ken-Oh`s Army Grunts
+18190|4|de|Fist of the North Star: HOKUTO NO KEN
 3038|4|pl|Fist of the North Star. Legend of Raoh - Death for Love
 3573|2|pt-BR|Fitando a Meia-Lua Acima
 3573|2|pt-BR|Fitando a Meia-Lua no Céu
@@ -20744,6 +20748,7 @@
 2068|4|fr|Gwendoline - Saison 1
 2067|4|fr|Gwendoline - Saison 2
 2072|2|fr|Gwendoline Le Film
+19145|4|pl|Gwiazda jaśniejsza od słońca
 16420|4|pl|Gwiezdne wojny: Wizje
 229|3|x-jat|gwtv
 2766|4|he|GX !יוגי-הו
@@ -23430,7 +23435,7 @@
 13757|4|de|How Not to Summon a Demon Lord
 15493|2|en|How Not to Summon a Demon Lord - Season 2
 15493|4|en|How Not to Summon a Demon Lord Omega
-19999|2|en|How Not to Summon a Demon Lord ULT
+19999|2|en|How Not to Summon a Demon Lord Ult
 15493|2|en|How NOT to Summon a Demon Lord Ω
 7874|2|en|How to Bloom a Flower
 2340|4|en|How to Breed Kappas
@@ -24115,7 +24120,9 @@
 6212|2|en|Ichigo Mashimaro Encore
 4559|2|en|Ichigo Mashimaro OVA
 6212|2|x-jat|Ichigo Mashimaro: Encore
+19455|2|x-jat|Ichijouma Mankitsu Gurashi!
 19455|1|x-jat|Ichijouma Mankitsu Kurashi!
+19455|2|x-jat|Ichijyoma Mankitsu Gurashi!
 2787|3|x-jat|IchiMashi
 12832|1|x-jat|Ichinen Buri no The Animation
 13813|2|x-jat|Ichinichi Gaishutsuroku Hanchou
@@ -25191,7 +25198,7 @@
 17653|1|x-jat|Isekai Kita no de Sukebe Skill de Zenryoku Ouka Shiyou to Omou The Animation
 13757|1|x-jat|Isekai Maou to Shoukan Shoujo no Dorei Majutsu
 15493|1|x-jat|Isekai Maou to Shoukan Shoujo no Dorei Majutsu Omega
-19999|1|x-jat|Isekai Maou to Shoukan Shoujo no Dorei Majutsu ULT
+19999|1|x-jat|Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ult
 15493|2|x-jat|Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω
 15918|1|x-jat|Isekai Meikyuu de Harem o
 18702|1|x-jat|Isekai Mokushiroku Mynoghra
@@ -34435,6 +34442,7 @@
 14708|4|ja|Master Piece THE ANIMATION
 14708|1|x-jat|Master Piece The Animation
 11297|4|en|Master Q: Incredible Pet Detective
+12075|4|en|Master Shinran And The Amitayurdhyana Sutra: The Tragedy At Rajagriha
 266|4|sv|Mästerdetektiven Conan
 16841|4|sv|Mästerdetektiven Conan: Förövaren Hanzawa
 16842|4|sv|Mästerdetektiven Conan: Tedags för Zero
@@ -38890,6 +38898,7 @@
 19384|4|ja|NINJA KAMUI RED VENDETTA
 19384|1|x-jat|Ninja Kamui: Red Vendetta
 2641|2|tr|Ninja Kaplumbağalar: Süpermen Efsanesi
+19177|4|pl|Ninja kontra Yakuza
 277|4|et|Ninja manuskript
 994|1|x-jat|Ninja Mono
 13086|1|x-jat|Ninja Negizou
@@ -38982,6 +38991,7 @@
 3582|2|x-jat|Nippon Ichi no Otoko no Tamashii
 19861|1|x-jat|Nippon Sangoku
 19861|4|en|Nippon Sangoku: The Three Nations of the Crimson Sun
+19861|4|pl|Nippon Sangoku: Trzy Narody Wschodzącego Słońca
 3509|2|x-jat|Nippon Tanjo
 3582|1|x-jat|Nippon-ichi no Otoko no Tamashii
 4639|1|x-jat|Nippon-ichi no Otoko no Tamashii 2
@@ -41647,6 +41657,7 @@
 1543|2|lt|Paslaptingas Samurajus
 6048|2|lt|Paslaptingasis liokajus
 3082|1|x-jat|Pasocon Travel Tanteidan
+10272|4|pl|Pasożyt
 18941|4|en|Pass the Monster Meat, Milady!
 10570|2|en|Passage of Time: Tokyo Station
 14889|4|pt|Pássaro que Canta Não Voa - Nuvens que se Fundem
@@ -75444,11 +75455,13 @@
 7989|2|ja|カードファイト!! ヴァンガード
 13635|2|ja|カードファイト!! ヴァンガード (2018)
 14681|2|ja|カードファイト!! ヴァンガード (2019)
+20003|4|ja|カードファイト!! ヴァンガード (2027)
 18248|4|ja|カードファイト!! ヴァンガード Divinez
 18591|4|ja|カードファイト!! ヴァンガード Divinez Season2
 19352|4|ja|カードファイト!! ヴァンガード Divinez デラックス決勝編
 19050|4|ja|カードファイト!! ヴァンガード Divinez デラックス編
 19780|4|ja|カードファイト!! ヴァンガード Divinez 幻真星戦編
+20002|4|ja|カードファイト!! ヴァンガード Divinez 運命星戦編
 15646|4|ja|カードファイト!! ヴァンガード OverDress
 15995|4|ja|カードファイト!! ヴァンガード OverDress (2021)
 15995|2|ja|カードファイト!! ヴァンガード overDress Season2
@@ -78259,10 +78272,10 @@
 16494|4|ja|でーじミーツガール
 15100|4|ja|デート・ア・バレット
 8808|4|ja|デート・ア・ライブ
-19284|4|ja|デート・ア・ライブ (新プロジェクト)
 9734|4|ja|デート・ア・ライブ DATE TO DATE
 9935|4|ja|デート・ア・ライブ II
 9734|2|ja|デート・ア・ライブ OAD
+19284|4|ja|デート・ア・ライブF Last Date
 10568|4|ja|デート・ア・ライブII 狂三スターフェスティバル
 13533|4|ja|デート・ア・ライブIII
 15106|4|ja|デート・ア・ライブIV
@@ -90372,6 +90385,7 @@
 2600|4|ja|春を抱いていた
 13589|4|zh-Hans|春原庄的管理人
 19283|4|ja|春夏秋冬代行者 春の舞
+19283|4|zh-Hans|春夏秋冬代行者 春之舞
 9029|4|zh-Hans|春天来了
 15884|4|ja|春子の冒険
 12647|4|zh-Hans|春宵苦短,少女前进吧!
