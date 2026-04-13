@@ -1,4 +1,4 @@
-# created: Sun Apr 12 03:00:01 2026
+# created: Mon Apr 13 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8184,7 +8184,8 @@
 19004|1|x-jat|Cat`s Eye (2025)
 19004|2|en|Cat`s Eye 2025
 17417|1|x-jat|Cat`s Eye Love
-16775|2|en|Cat`s Tea
+16775|4|en|Cat`s Tea
+18701|4|en|Cat`s Tea 2
 2299|4|pt|Catarina
 18295|4|id|Catatan Perjalanan Santai di Dunia Lain: Aku Menjadi Petualang Sembari Mengasuh Anak
 4926|1|x-jat|Catblue Dynamite
@@ -8805,6 +8806,7 @@
 6640|1|x-jat|Chin`yuuki: Tarou to Yukai na Nakama-tachi
 6089|2|en|Chindonya Rising Fortune and Good Luck
 11060|2|en|Chinese Idiom Anime
+20006|2|en|Chinese Paladin 3
 10904|4|nl|Chinese Sterrenbeeld
 6486|1|x-jat|Chinetsu Karte: The Devilish Cherry
 6973|1|x-jat|Chingou Muchabee
@@ -12755,6 +12757,7 @@
 17832|1|x-jat|Dog Signal
 1526|1|x-jat|Dog Soldier
 1526|4|en|Dog Soldier: Shadows of the Past
+20007|4|en|Dog`s Tea
 15659|1|x-jat|Dogeza de Tanondemita
 15659|4|en|Dogeza: I Tried Asking While Kowtowing.
 2202|2|en|Doggie March
@@ -19274,6 +19277,8 @@
 2679|2|x-jat|Girls Bravo 2
 1805|1|x-jat|Girls Bravo: First Season
 2679|1|x-jat|Girls Bravo: Second Season
+13723|4|en|Girls Dorm
+13818|4|en|Girls Dorm 2nd Season
 4067|2|en|Girls High
 3955|2|en|Girls in Summer Clothes
 13233|1|x-jat|Girls Jockey
@@ -29816,6 +29821,7 @@
 11819|4|en|Kuromukuro
 11819|4|pl|Kuromukuro
 13809|1|x-jat|Kuroneko Monroe
+19516|2|x-jat|Kuroneko to Majo no Kyoushitsu
 6048|1|x-jat|Kuroshitsuji
 18100|2|x-jat|Kuroshitsuji - Kishuku Gakkou-hen
 18739|2|x-jat|Kuroshitsuji - Midori no Majo-hen
@@ -31642,6 +31648,7 @@
 2212|2|en|Little Remi and Famous Dog Kapi
 3071|4|en|Little Samurai
 18044|4|en|Little Shark`s Outings
+19929|4|en|Little Shark`s Outings (2026)
 11856|2|en|Little Sister Marshmallow Succubus
 15031|2|en|Little Stories for Sleepless Nights
 6980|2|en|Little Tamageta, the Neighbor
@@ -34061,7 +34068,7 @@
 14919|1|x-zht|Mao Yao De Youhuo
 14466|1|x-zht|Mao Yu Tao Hua Yuan
 16775|1|x-zht|Mao Zhi Ming
-18701|1|zh|Mao Zhi Ming 2
+18701|1|x-zht|Mao Zhi Ming Season 2
 444|4|en|Mao-chan
 15131|3|x-jat|maogaku
 16101|3|x-jat|maogaku s2
@@ -44377,6 +44384,7 @@
 13469|2|x-zht|Quan Zhi Fa Shi II
 15397|2|x-zht|Quan Zhi Fa Shi IV
 14978|2|x-zht|Quan Zhi Gao Shou Season 2
+20007|1|x-zht|Quan Zhi Ming
 10509|2|fr|Quand les batailles surnaturelles deviennent ordinaires
 3574|2|pt-BR|Quando as Cigarras Choram
 10313|4|it|Quando c`era Marnie
@@ -49536,6 +49544,8 @@
 1831|2|en|Shoyonoido Mako-chan
 124|4|en|Shrine of the Morning Mist
 18005|2|en|Shrouding the Heavens
+20005|4|en|Shrouding the Heavens: The Imperial Path
+20005|2|en|Shrounding the Heavens Movie: Fighting Against Wang Teng with Copper Coffin
 16752|1|x-zht|Shu Ling Ji
 16753|1|x-zht|Shu Ling Ji (2020)
 17426|1|x-zht|Shu Ling Ji 3
@@ -51478,6 +51488,7 @@
 2342|2|de|Stern der Seine
 275|2|de|Sternenkrieger - Warriors of the Wind
 11292|4|ro|Șters
+18005|3|en|STH
 9083|3|x-jat|STI
 19515|2|en|Stigma Aria
 4891|2|en|Stigma of the Wind
@@ -52260,6 +52271,7 @@
 2302|4|en|Swiss Family Robinson
 6044|1|x-jat|Switch
 6044|4|zh-Hans|switch缉毒特搜班
+20006|4|en|Sword and Fairy 3
 8692|1|x-jat|Sword Art Online
 8692|4|fr|Sword Art Online
 8692|4|en|Sword Art Online
@@ -60263,6 +60275,9 @@
 19689|1|x-zht|Xian Di Guilai
 16780|1|x-zht|Xian Feng Jian Yu Lu
 19297|1|x-zht|Xian Ji Xun Zong
+20006|2|x-zht|Xian Jian Qi Xia Chuan San
+20006|2|x-zht|Xian Jian Qi Xia Zhuan 3
+20006|1|x-zht|Xian Jian Qi Xia Zhuan San
 18420|1|x-zht|Xian Mu
 18237|1|x-zht|Xian Ni
 19372|2|x-zht|Xian Ni Juchang Ban: Shenlin Zhi Zhan
@@ -62226,6 +62241,8 @@
 17541|2|x-zht|Zhanguo Qiannian
 19148|1|x-zht|Zhanshen Lianmeng
 18005|1|x-zht|Zhe Tian
+20005|2|zh-Hant|Zhe Tian Juchang Ban: Bei Guan Zhan Wang Teng
+20005|1|x-zht|Zhe Tian Movie: Bei Guan Zhan Wang Teng
 18338|1|x-zht|Zhen Dao Ge 2nd Season
 19915|1|x-zht|Zhen Dao Ge 3
 16530|1|x-zht|Zhen Dao Ge: Chen Shi Xing
@@ -83206,6 +83223,8 @@
 8521|4|zh-Hans|仙乐传说 世界统合篇
 6814|4|zh-Hans|仙乐传说 迪赛雅兰篇
 3519|4|ja|仙人部落
+20006|2|zh-Hans|仙剑奇侠传三
+20006|4|zh-Hans|仙剑奇侠传叁
 18420|4|zh-Hans|仙墓
 19393|4|zh-Hans|仙宠
 19393|2|zh-Hans|仙宠奶凶
@@ -92573,6 +92592,7 @@
 15297|4|ja|犬と猫どっちも飼ってると毎日たのしい
 17260|4|ja|犬になったら好きな人に拾われた.
 9663|3|ja|犬ハサ
+20007|4|zh-Hans|犬之茗
 6989|4|ja|犬儒戯画
 144|4|ja|犬夜叉
 144|4|zh-Hans|犬夜叉
@@ -92784,6 +92804,7 @@
 2895|4|zh-Hans|猫之乡
 679|4|zh-Hans|猫之报恩
 16775|4|zh-Hans|猫之茗
+18701|4|zh-Hans|猫之茗 第二季
 14070|4|ja|猫企画
 14919|4|zh-Hans|猫妖的诱惑
 14570|4|zh-Hans|猫娘乐园
@@ -96484,6 +96505,8 @@
 4058|2|zh-Hans|遥远时空中 剧场版 ~舞一夜~
 7086|2|zh-Hans|遥远时空中3 永无止境的命运
 18005|4|zh-Hans|遮天
+20005|4|zh-Hans|遮天剧场版 背棺战王腾
+20005|2|zh-Hans|遮天剧场版：背棺战王腾
 18620|4|zh-Hant|遲早是最強的鍊金術師?
 1134|4|ja|遺作
 898|4|ja|遺作 ~Respect~
