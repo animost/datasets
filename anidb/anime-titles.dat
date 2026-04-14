@@ -1,4 +1,4 @@
-# created: Mon Apr 13 03:00:02 2026
+# created: Tue Apr 14 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4038,7 +4038,7 @@
 18554|2|x-jat|AteKuse
 10241|2|en|Atelier Escha & Logy - Alchemists of the Dusk Sky
 10241|4|en|Atelier Escha & Logy: Alchemists of the Dusk Sky
-17305|4|de|Atelier of Witch Hat
+17305|2|de|Atelier of Witch Hat
 17920|4|en|Atelier Ryza: Ever Darkness & the Secret Hideout
 17305|4|pl|Atelier spiczastych kapeluszy
 8509|1|x-jat|Aterui
@@ -24125,8 +24125,7 @@
 6212|2|en|Ichigo Mashimaro Encore
 4559|2|en|Ichigo Mashimaro OVA
 6212|2|x-jat|Ichigo Mashimaro: Encore
-19455|2|x-jat|Ichijouma Mankitsu Gurashi!
-19455|1|x-jat|Ichijouma Mankitsu Kurashi!
+19455|1|x-jat|Ichijouma Mankitsu Gurashi!
 19455|2|x-jat|Ichijyoma Mankitsu Gurashi!
 2787|3|x-jat|IchiMashi
 12832|1|x-jat|Ichinen Buri no The Animation
@@ -30100,6 +30099,7 @@
 1351|4|it|L`ape Maia
 3158|4|fr|L`appel de la forêt
 113|4|fr|L`arme ultime
+17305|4|fr|L`Atelier des Sorciers
 9541|4|it|L`attacco dei Giganti
 14977|4|it|L`Attacco Dei Giganti - La Stagione Finale
 16177|4|it|L`Attacco dei Giganti - La Stagione Finale (2022)
@@ -31685,6 +31685,7 @@
 16778|1|x-zht|Liu Yi Chuanqi
 6157|1|x-jat|Live On Cardliver Kakeru
 4339|4|en|Living for the Day After Tomorrow
+19455|2|en|Living in a One-Tatami Room!
 534|4|en|Living Sex Toy Delivery
 4657|2|en|Living Together
 13417|5|zh|Lixiang Jinqu
@@ -34265,6 +34266,7 @@
 1612|2|en|Marriage of God & Soul Godannar!! Second Season
 19625|1|x-jat|Marriage Toxin
 19625|4|en|Marriage Toxin
+19625|4|de|MARRIAGETOXIN
 19625|2|x-jat|Marriagetoxin
 18033|4|en|Married Couple Swap
 19163|2|en|Married Women`s Lips Taste Like Canned Chuuhai
@@ -35821,7 +35823,7 @@
 5870|1|x-jat|Mission-E
 5870|4|ja|MISSION-E
 17773|4|en|Mission: Yozakura Family
-18900|2|en|Mission: Yozakura Family (2026)
+18900|4|en|Mission: Yozakura Family (2026)
 2291|4|de|Missis Jo und ihre fröhliche Familie
 264|1|x-jat|Mister Ajikko
 19454|1|x-jat|Mister Giants Eikou no Sebangou San
@@ -59734,6 +59736,7 @@
 10397|1|x-jat|Witch Craft Works: Takamiya-kun to Imouto no Warudakumi
 17614|4|fr|Witch Family!
 17305|4|en|Witch Hat Atelier
+17305|4|de|Witch Hat Atelier
 96|1|x-jat|Witch Hunter Robin
 96|4|fr|Witch Hunter Robin
 96|4|en|Witch Hunter Robin
