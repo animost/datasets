@@ -1,4 +1,4 @@
-# created: Tue Apr 14 03:00:01 2026
+# created: Wed Apr 15 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1981,6 +1981,7 @@
 13634|1|x-zht|Aishen Qiaokeli-ing... II
 1836|1|x-jat|Aishite Knight
 19382|1|x-jat|Aishiteru Game o Owarasetai
+19382|2|x-jat|Aishiteru Game wo Owarasetai
 1648|1|x-jat|Aishiteru ze Baby
 1648|3|x-jat|aishiteruze
 1648|2|x-jat|Aishiteruze Baby
@@ -6067,6 +6068,7 @@
 3321|4|ar|Black Cat
 3321|4|pt-BR|Black Cat
 12692|4|en|Black Cat Detective
+20009|1|x-jat|Black Channel
 12351|1|x-jat|Black Clover
 12665|4|fr|Black Clover
 12665|4|en|Black Clover
@@ -14068,6 +14070,7 @@
 12658|1|x-jat|Dre-Fes! R
 15367|1|x-jat|Dream
 15367|4|ja|Dream
+19048|4|en|Dream Animals
 7993|1|x-jat|Dream C Club Pure Songs Clips
 7993|4|ja|DREAM C CLUB PURE SONGS CLIPS
 2104|2|en|Dream Crayon Kingdom
@@ -28081,7 +28084,7 @@
 4237|4|pt|Kilari
 4237|4|pl|Kilari
 19546|1|x-jat|Kill Ao
-19546|2|en|Kill Blue
+19546|4|en|Kill Blue
 9875|2|ja|KILL la KILL
 9875|4|fr|Kill la Kill
 9875|4|en|Kill la Kill
@@ -33385,7 +33388,7 @@
 4011|2|x-jat|Mahou no Princess Minky Momo: Yume wo Dakishimete
 4848|1|x-jat|Mahou no Rouge Lipstick
 2562|1|x-jat|Mahou no Shiho-chan
-19214|1|x-jat|Mahou no Shimai Lulutto Lily
+19214|1|x-jat|Mahou no Shimai Lulutto Lilly
 19214|2|x-jat|Mahou no Shimai LuluttoLilly
 246|1|x-jat|Mahou no Stage Fancy Lala
 1444|1|x-jat|Mahou no Star Magical Emi
@@ -54430,6 +54433,7 @@
 15262|4|ja|THE IDOLM@STER CINDERELLA GIRLS Spin-off!
 5751|4|ja|THE iDOLM@STER Live For You!
 15625|4|ja|THE iDOLM@STER MILLION LIVE!
+20008|1|x-jat|THE IDOLM@STER Million Live! ~Itsuka, Mannaka de~
 9701|4|ja|THE IDOLM@STER MOVIE 輝きの向こう側へ!
 17918|4|ja|THE IDOLM@STER SHINY COLORS
 18523|4|ja|THE IDOLM@STER SHINY COLORS 2nd season
@@ -54458,6 +54462,7 @@
 16140|1|x-jat|The Idolmaster Cinderella Girls: Starlight Stage 5 Shuunen Kinen - Go Just Go!
 16140|2|en|The Idolmaster Cinderella Girls: Starlight Stage 5th Anniversary - Go Just Go!
 15625|1|x-jat|The Idolmaster Million Live!
+20008|4|en|The Idolmaster Million Live! Someday, In the Middle
 9701|2|en|The Idolmaster Movie: Beyond the Brilliant Future!
 9701|1|x-jat|The Idolmaster Movie: Kagayaki no Mukougawa e!
 17918|1|x-jat|The Idolmaster Shiny Colors
@@ -74058,6 +74063,7 @@
 14516|2|ja|アイドルマスター シンデレラガールズ劇場 CLIMAX SEASON
 15396|4|ja|アイドルマスター シンデレラガールズ劇場 Extra Stage
 15625|2|ja|アイドルマスター ミリオンライブ!
+20008|4|ja|アイドルマスター ミリオンライブ！ 〜いつか、真ん中で〜
 5751|2|ja|アイドルマスター ライブフォーユー!
 4773|4|ja|アイドルマスターXENOGLOSSIA
 12261|4|ja|アイドルメモリーズ
@@ -80341,6 +80347,7 @@
 2544|4|ja|ブラックジャック
 2389|4|ja|ブラックジャック (2004)
 2672|2|ja|ブラックジャック スペシャル ~命をめぐる4つの奇跡~
+20009|4|ja|ブラックチャンネル
 19203|2|ja|ブラックトーチ
 13924|2|ja|ブラックフォックス
 1202|2|ja|ブラックホールへの道~異星人クルス&シスイ~
@@ -82896,6 +82903,8 @@
 11854|4|zh-Hans|为美好的世界献上祝福！为美好的项圈献上祝福！
 3686|4|zh-Hans|为食龙少爷
 18715|4|zh-Hans|主公与狗
+19713|4|zh-Hant|主播女孩重度依賴
+19713|4|zh-Hans|主播女孩重度依赖
 8093|4|ja|主治医の淫謀
 5581|4|ja|乃木坂春香の秘密
 6721|4|ja|乃木坂春香の秘密 ぴゅあれっつぁ♪
@@ -83383,6 +83392,7 @@
 15216|4|zh-Hans|你与我最后的战场，亦或是世界起始的圣战
 16828|4|zh-Hans|你与我最后的战场，亦或是世界起始的圣战 第二季
 17984|4|zh-Hans|你们还真就结婚啦？
+19722|4|zh-Hant|你又被殺了呢，偵探大人
 15414|4|zh-Hant|你在他方
 19922|4|zh-Hans|你在星光深处
 14532|4|zh-Hans|你好 世界
@@ -83906,6 +83916,7 @@
 14767|4|zh-Hans|关于我转生变成史莱姆这档事 第二季
 15456|4|zh-Hans|关于我转生变成史莱姆这档事 第二季 第2部分
 15457|4|zh-Hans|关于我转生变成史莱姆这档事 转生史莱姆日记
+19699|4|zh-Hans|关于虽然逃走的鱼很大、但钓上来的鱼却太大了这件事
 17108|4|zh-Hans|关于邻家的天使大人不知不觉把我惯成了废人这档子事
 17854|4|zh-Hans|关喵什么事
 17162|4|ja|兵主奇魂
@@ -84136,6 +84147,7 @@
 12333|4|zh-Hans|冷然之天秤
 16099|4|zh|冷血狂宴
 3611|4|zh-Hans|冷面天使
+19477|4|zh-Hans|冻结地球
 15590|4|zh|净化法则
 3651|3|zh|凉宫
 3651|4|zh-Hans|凉宫春日的忧郁
@@ -84155,6 +84167,7 @@
 13792|4|ja|凌辱輪廻
 18404|4|zh-Hant|凍牌~地下麻將鬥牌錄~
 18404|4|ja|凍牌~裏レート麻雀闘牌録~
+19477|4|zh-Hant|凍結地球
 18265|4|zh-Hans|凡人修仙传 星海飞驰篇 序章
 16039|2|zh-Hant|凡人修仙传 特别篇: 燕家堡大战
 18332|4|zh-Hans|凡人修仙传 第三季
@@ -84768,6 +84781,8 @@
 2330|4|zh-Hans|加什之翼
 6531|2|zh-Hans|加奈日记
 4434|4|zh-Hans|加州危机
+18815|4|zh-Hant|加油！中村同學！！
+18815|4|zh-Hans|加油吧！中村君！！
 16536|4|zh-Hans|加油吧同期酱
 16536|4|zh-Hant|加油吧同期醬
 8691|4|zh-Hans|加速世界
@@ -85046,6 +85061,7 @@
 18929|4|zh-Hans|去唱卡拉OK吧！
 9924|4|ja|参乗合体 トランスフォーマーGo!
 14880|4|zh-Hans|参娃与天池怪兽之瑞雪兆丰年
+19722|4|zh-Hans|又被杀掉了呢，侦探大人
 16026|4|ja|友達の妹が俺にだけウザい
 19084|4|zh-Hans|双人单身露营
 3312|4|ja|双子(フタゴ)ノ母(ハハ)性本能
@@ -85405,6 +85421,8 @@
 17093|2|zh-Hans|吞噬星空 第二季
 18365|4|zh-Hans|吞噬星空 第四季
 19039|4|zh-Hans|吞噬星空剧场版 血洛大陆
+19831|4|zh-Hans|吞噬魔物的冒险者
+19831|4|zh-Hant|吞噬魔物的冒險者
 19342|4|zh-Hans|吞天记
 4120|2|zh-Hans|吟游默示录II
 2599|4|ja|吟遊黙示録 マイネリーベ
@@ -86341,6 +86359,7 @@
 15694|4|zh-Hans|大话之少年游
 15409|4|zh-Hant|大貴族
 19994|4|ja|大賢者リドルの時間逆行
+19994|4|zh-Hant|大賢者里德爾的時間逆行
 18927|4|zh-Hans|大道朝天
 19997|4|zh-Hans|大道独行之蝶龙变
 78|2|zh-Hans|大都会
@@ -87409,6 +87428,7 @@
 2729|2|zh-Hant|家有酷妹
 17805|4|zh-Hant|家裡蹲吸血姬的鬱悶
 17805|4|zh-Hans|家里蹲吸血姬的郁闷
+19293|4|zh-Hant|容易對付的惡魔大人
 16168|4|zh-Hans|宿命回响：命运节拍
 16761|4|zh-Hans|宿身小人
 13911|4|ja|寄宿学校のジュリエット
@@ -88172,6 +88192,7 @@
 17866|4|zh-Hans|异修罗
 18542|4|zh-Hans|异修罗 第二季
 14483|4|zh-Hans|异兽魔都
+18397|4|zh-Hans|异兽魔都 第二季
 18610|4|zh-Hans|异国日记
 8180|4|zh-Hans|异国迷宫的十字路口
 14716|4|zh-Hans|异常生物见闻录
@@ -89335,6 +89356,7 @@
 13836|4|ja|押絵ト旅スル男
 10725|2|zh-Hans|拂晓的尤娜
 11143|4|zh-Hans|拂晓的尤娜 OAD
+18936|4|zh-Hant|拉拉熊
 18130|4|zh-Hans|拉撒路
 1942|4|zh-Hans|拉瓦拳星球
 15303|4|zh-Hans|拉链超人组 4
@@ -90639,7 +90661,9 @@
 14303|4|ja|木ノ花ノ咲クヤ森
 13122|4|ja|木の葉化石の夏
 15815|4|ja|木兰：横空出世
+19277|4|zh-Hans|木头风纪委员和迷你裙JK的故事
 8143|4|zh-Hans|木橱童子
+19277|4|zh-Hant|木頭風紀委員和迷你裙 JK 的故事
 18073|4|ja|未ル わたしのみらい
 1972|4|ja|未亡人 ~ぬめり合う肉欲と淫らに濡れる蜜壺~
 9492|2|ja|未亡人日記 ～憧れのあの女(ひと)と一つ屋根の下～
@@ -90713,6 +90737,7 @@
 4007|4|ja|本気(マジ)!
 15260|4|zh-Hans|本田小狼与我
 19448|4|ja|朱色の仮面
+19513|4|zh-Hant|朱音落語
 5944|4|ja|朱鷺色怪魔
 3070|4|zh-Hans|机兽起源
 1775|4|zh-Hans|机兽超世纪
@@ -91114,6 +91139,8 @@
 2454|4|ja|椿色のプリジオーネ
 17071|4|ja|楓と鈴 THE ANIMATION
 6305|4|ja|楓ニュータウン
+19472|4|zh-Hans|楠木邸的神明庭院
+19472|4|zh-Hant|楠木邸的神明庭院
 5258|4|ja|楳図かずおの呪い
 6411|4|ja|極上!!めちゃモテ委員長
 7546|4|ja|極上!!めちゃモテ委員長 Second Collection
@@ -91925,6 +91952,8 @@
 3701|4|ja|淫母
 3701|2|ja|淫母 -いんぼ-
 15326|4|ja|淫毛
+19879|4|zh-Hans|淫狱团地
+19879|4|zh-Hant|淫獄團地
 2519|4|ja|淫獄病棟
 1433|4|ja|淫獣 ねらわれたアイドル
 1131|4|ja|淫獣 ねらわれた花嫁
@@ -92034,6 +92063,7 @@
 6130|2|zh-Hant|源氏物語千年紀 Genji
 6130|4|zh-Hans|源氏物语千年纪 Genji
 16652|4|zh-Hans|源神浩劫
+19699|4|zh-Hant|溜掉的大魚比不上自己釣到的魚
 14011|2|x-unk|溫泉屋小女將
 14011|4|zh-Hant|溫泉屋小女將
 7404|4|zh-Hans|滑头鬼之孙
@@ -93210,6 +93240,7 @@
 8720|2|ja|異常痴態　実験奴隷
 207|4|ja|異次元の世界エルハザード
 14483|4|zh-Hant|異獸魔都
+18397|4|zh-Hant|異獸魔都 第二季
 14969|4|ja|異種族レビュアーズ
 14969|4|zh-Hant|異種族風俗娘評鑑指南
 16046|4|ja|異能のアイシス ESP & HIGH SCHOOL DETECTIVE
@@ -95113,7 +95144,9 @@
 5110|4|zh-Hans|茄子 带着旅行箱的候鸟
 5110|2|zh-Hans|茄子 旅行箱中的候鸟
 19730|4|ja|茉莉花ちゃんの好感度はぶっ壊れている
+19730|4|zh-Hant|茉莉花同學的好感度壞得很徹底
 19627|4|ja|茉莉花官吏伝
+19730|4|zh-Hans|茉莉花酱的好感度正在崩坏
 16913|4|ja|茜ハ摘マレ染メラレル
 6025|2|zh-Hans|茜色坂道 夕阳染红的坡道.染红的街道
 13956|4|zh-Hans|茜色少女
@@ -95205,6 +95238,7 @@
 16876|4|zh-Hans|落第魔女 风香与暗之魔女
 3684|4|ja|落語天女おゆい
 3684|2|zh-Hans|落语天女
+19513|4|zh-Hans|落语朱音
 16339|4|ja|葉っぱのリーフものがたり
 4610|2|ja|葉祥明美術館 LINE
 8122|4|zh-Hans|葫芦兄弟
@@ -96177,6 +96211,7 @@
 8128|4|ja|輪罠(わな)~白濁まみれの放課後~
 18164|4|zh-Hant|輪迴七次的惡役千金，在前敵國享受隨心所欲的新婚生活
 8583|4|zh-Hant|輪迴的 Lagrange
+18791|4|zh-Hant|輪迴的花瓣
 10122|4|ja|輪郭
 8421|4|zh-Hant|轉吧！企鵝罐
 19217|4|zh-Hant|轉生之後的我變成了龍蛋～目標是世界最強～
@@ -96222,11 +96257,13 @@
 18164|4|zh-Hans|轮回7次的恶役千金，在前敌国享受随心所欲的新婚生活
 8583|4|zh-Hans|轮回的拉格朗日
 8962|4|zh-Hans|轮回的拉格朗日 第二季
+18791|4|zh-Hans|轮回的花瓣
 3525|4|zh-Hans|轮奸学园
 11476|4|zh-Hans|轮奸春药中毒 ~无处可逃！被全部1428名学生SEX的千金沙也香~
 824|4|zh-Hans|轰炸超人
 6462|2|zh-Hans|轻声密语
 12007|2|zh-Hans|轻拍翻转小魔女
+18936|4|zh-Hans|轻松熊
 13783|4|zh-Hans|轻羽飞扬！
 6257|2|zh-Hans|轻音少女
 8280|4|zh-Hans|轻音少女 剧场版
@@ -96287,6 +96324,7 @@
 9786|4|zh-Hans|连我小镇
 18620|4|zh-Hans|迟早是最强的炼金术师?
 6275|2|zh-Hans|迦南
+19293|4|zh-Hans|迦楠大人的白给是恶魔级
 16908|4|zh-Hans|迪士尼 扭曲仙境
 8421|2|zh-Hant|迴轉企鵝罐
 7726|4|ja|迷elleオトコノ娘
@@ -96852,6 +96890,7 @@
 13235|4|ja|鑑真大和尚
 13235|2|ja|鑑真尊師
 13235|2|ja|鑑真物語
+18638|4|zh-Hant|鑽石王牌 act2 第二季
 8916|4|zh-Hans|钓球
 1880|4|zh-Hans|钓鱼迷日记
 834|4|zh-Hans|钟之音学园
@@ -96882,6 +96921,7 @@
 14182|4|zh-Hans|钱进球场 第二季
 9881|4|zh-Hans|钻石王牌
 14504|4|zh-Hans|钻石王牌 act2
+18638|4|zh-Hans|钻石王牌 act2 第二季
 11115|2|zh-Hans|钻石王牌 第2季
 11115|4|zh-Hans|钻石王牌 第二季
 1674|4|zh-Hans|铁人28号
@@ -97371,6 +97411,7 @@
 4345|4|zh-Hant|電腦線圈
 8400|4|ja|電車かもしれない
 15610|4|zh-Hant|電馭叛客：邊緣行者
+19675|4|zh-Hans|雾尾粉丝后援会
 15663|4|zh-Hans|雾山五行
 17241|4|zh-Hans|雾山五行 犀川幻紫林
 12030|4|ja|霊剣山 叡智への資格
@@ -97379,6 +97420,7 @@
 1218|4|zh-Hant|霍爾的移動城堡
 19917|4|ja|霧中ノ塔
 19675|4|ja|霧尾ファンクラブ
+19675|4|zh-Hant|霧尾粉絲後援會
 8696|4|ja|霧谷伯爵家の六姉妹
 12738|3|zh-Hant|露之歌
 17661|4|zh-Hans|露出系女大学生克莉丝提亚
@@ -98116,6 +98158,8 @@
 19583|4|zh-Hant|魔法公主的小煩惱
 18750|4|zh-Hans|魔法制造者 ~异世界魔法的制作方法~
 1063|4|zh-Hans|魔法咪路咪路
+19214|4|zh-Hant|魔法姊妹露露特莉莉
+19214|4|zh-Hans|魔法姐妹露露特莉莉
 5656|2|zh-Hans|魔法学园MA
 3373|4|ja|魔法学園ルナ! 青い竜の秘密
 1358|2|ja|魔法少女 アイ
@@ -98483,6 +98527,7 @@
 5265|4|ja|麻雀飛翔伝 哭きの竜
 14048|4|ja|麻雀飛翔伝 哭きの竜 飛竜之章
 18709|4|zh-Hant|黃昏旅店
+19451|4|zh-Hant|黃泉使者
 12037|4|zh-Hant|黃金拼圖 Pretty Days
 355|4|zh-Hans|黃金男孩
 13337|4|zh-Hant|黃金神威
@@ -98498,6 +98543,7 @@
 18709|4|zh-Hans|黄昏旅店
 7532|2|zh-Hans|黄段子学生会
 19451|4|ja|黄泉のツガイ
+19451|4|zh-Hans|黄泉使者
 17876|4|ja|黄金の庭園: 冬に積もる新年の願い
 4277|4|ja|黄金の法 エル・カンターレの歴史観
 6862|4|ja|黄金の鈎
@@ -98699,7 +98745,7 @@
 16595|4|zh-Hans|龙族
 19480|2|zh-Hans|龙族 第二季
 19480|2|zh-Hans|龙族2悼亡者之瞳
-19480|4|zh-Hans|龙族Ⅱ：悼亡者之瞳
+19480|4|zh-Hans|龙族Ⅱ: 悼亡者之瞳
 19480|2|zh-Hans|龙族II悼亡者之瞳
 614|4|zh-Hans|龙机传承
 16118|4|zh-Hans|龙杀之狂骨
