@@ -1,4 +1,4 @@
-# created: Wed Apr 15 03:00:02 2026
+# created: Thu Apr 16 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -30421,6 +30421,7 @@
 4151|2|it|La ragazza che corre nel tempo
 4151|4|it|La Ragazza che Saltava nel Tempo
 11224|2|fr|La raison première du masochisme de la présidente Hyoudou Ibuki
+17159|4|es-419|La reencarnación del exorcista más fuerte de otro mundo
 366|4|it|La regina dei mille anni
 13264|2|it|La Regina delle Rondini
 19003|4|fr|La règle secrète de la coloc`
@@ -31568,6 +31569,7 @@
 19078|2|en|Link Click - Bridon Arc
 16531|2|en|Link Click 2nd Season
 16531|4|de|Link Click II
+16531|4|en|Link Click Season 2
 19078|2|en|Link Click Season 3
 19078|4|en|Link Click: Bridon Arc
 13014|4|en|Link Planets
@@ -33706,6 +33708,7 @@
 15202|6|x-jat|Majo no Tabitabi: The Journey of Elaina
 286|1|x-jat|Majo no Takkyuubin
 17575|1|x-jat|Majo to Yajuu
+20010|1|x-jat|Majo to Youhei
 17741|1|x-jat|Majo wa Kekkyoku Sono Kyaku to... The Animation
 9464|2|x-jat|Majocco Classical
 3634|2|x-jat|Majocco Club
@@ -37687,6 +37690,7 @@
 413|4|en|Najica Blitz Tactics
 413|1|x-jat|Najica Dengeki Sakusen
 413|2|fr|Najica missions éclair
+17159|2|pl|Najpotężniejszy egzorcysta odrodzony w innym świecie
 14100|1|x-jat|Naka no Hito Genome [Jikkyouchuu]
 15217|1|x-jat|Naka no Hito Genome [Jikkyouchuu]: Knots of Memories
 14100|3|x-jat|nakageno
@@ -59735,6 +59739,7 @@
 18889|4|en|Wistoria: Wand and Sword Season 2
 18889|4|de|Wistoria: Wand and Sword Staffel 2
 4121|2|pl|Witaj w NHK!
+20010|2|en|Witch and Mercenary
 9496|1|x-jat|Witch Craft Works
 9496|4|en|Witch Craft Works
 10397|2|en|Witch Craft Works: Takamiya-kun and His Sister`s Conspiracy
@@ -73333,6 +73338,7 @@
 8409|2|ko|촉수와 마녀
 18793|4|ko|촌구석 아저씨, 검성이 되다‬
 9011|2|ko|총무과 드롭
+17159|4|ko|최강 음양사의 이세계 전생기
 10912|4|ko|최강 합체 믹스마스터
 7434|4|ko|최강무장전 삼국연의
 19667|4|ko|최강의 직업은 용사도 현자도 아닌 감정사(임시)인 것 같은데요?
@@ -98023,6 +98029,7 @@
 3053|4|ja|魔女っ子チックル
 1906|4|ja|魔女っ子メグちゃん
 5078|4|ja|魔女でもステディ
+20010|4|ja|魔女と傭兵
 17575|4|ja|魔女と野獣
 286|4|ja|魔女の宅急便
 15202|4|ja|魔女の旅々
