@@ -1,4 +1,4 @@
-# created: Thu Apr 16 03:00:02 2026
+# created: Fri Apr 17 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1651,6 +1651,10 @@
 7669|3|x-jat|AG OVA
 18367|2|en|Against the Gods
 18367|2|en|Against the Gods (2023)
+20011|2|en|Against the Gods 2
+20011|2|en|Against the Gods 2nd Season
+20011|2|en|Against the Gods II
+20011|2|en|Against the Gods Season 2
 16583|2|en|Against the Sky Supreme
 16433|1|en|AgainsttheGods
 18375|4|en|Agate
@@ -7796,6 +7800,9 @@
 2193|1|x-jat|Candy Candy: Haru no Yobigoe
 2193|2|en|Candy Candy: The Call of Spring
 1915|2|en|CANDY CANDY`s Summer Holidays
+20012|1|x-jat|Candy Caries
+20012|4|ja|CANDY CARIES
+20012|4|en|Candy Caries
 2193|3|x-jat|candy movie
 1915|3|x-jat|candy movie 2
 818|3|x-jat|candy movie 3
@@ -39042,6 +39049,9 @@
 587|1|x-jat|Nitabou: Tsugaru Shamisen Shiso Gaibun
 18367|2|x-zht|Nitian Xie Shen
 18367|2|x-zht|Nitian Xie Shen (2023)
+20011|2|x-zht|Nitian Xie Shen 2nd Season
+20011|2|x-zht|Nitian Xie Shen S2
+20011|1|x-zht|Nitian Xie Shen: Nian Fan
 16583|2|x-zht|Nitian Zhizun
 18772|1|x-jat|Niwatori Fighter
 15360|1|x-zht|Nizhuan Ciyuan: AI Jueqi
@@ -51330,6 +51340,7 @@
 19299|4|ja|Star Wars: Visions Presents - The Ninth Jedi
 19299|1|x-jat|Star Wars: Visions Presents - The Ninth Jedi
 18140|2|ja|Star Wars: Visions Volume 2
+20014|1|en|Star Wars: Visions Volume 2 (2023)
 16420|4|pt|Star Wars: Visões
 19005|4|pt|Star Wars: Visões (2025)
 16420|4|cs|Star Wars: Vize
@@ -60996,6 +61007,7 @@
 14191|1|x-zht|Yinyang Shi: Pingan Wuyu
 15248|1|x-zht|Yinyang Shi: Pingan Wuyu 2
 15248|2|x-zht|Yinyang Shi: Pingan Wuyu Di Er Ji
+20013|1|x-zht|Yinyue Gongzhu Ai Meili
 18461|2|x-zht|Yiren Jun Moxie
 18469|1|x-zht|Yishi Du Zun
 18947|2|x-zht|Yishi Du Zun 2
@@ -67125,6 +67137,7 @@
 14295|4|ru|Тот, кто зажигает звёзды: Сторона М «Мы маленькие не просто так»
 17918|4|ru|Тот, кто зажигает звёзды: Яркие цвета
 17316|2|ru|Тотальное совокупление
+15561|2|ru|Тотальный гарем
 303|3|uk|Тоторо
 8624|2|ru|Тохо - Калейдоскоп Фантазии
 8624|2|bg|Тохо - Спомените на призрака
@@ -76063,6 +76076,7 @@
 818|4|ja|キャンディ・キャンディ (1992)
 1915|4|ja|キャンディ・キャンディ キャンディの夏休み
 2193|4|ja|キャンディ・キャンディ 春の呼び声
+20012|2|ja|キャンディーカリエス
 17416|4|ja|キャンディの夢
 1301|4|ja|キャンパス
 5887|2|ja|キャンパスメイト
@@ -82624,6 +82638,7 @@
 11441|4|ja|上京物語
 19206|3|ja|上伊那ぼたん
 19206|4|ja|上伊那ぼたん, 酔へる姿は百合の花
+19206|4|zh-Hans|上伊那牡丹，酒醉身姿似百合花般
 18768|4|zh-Hans|上班族去了异世界后成了四天王
 16376|4|zh-Hans|上班族想被治愈
 850|4|zh-Hans|上班族金太郎
@@ -85503,6 +85518,7 @@
 11157|4|zh-Hans|和歌子酒
 7598|4|zh-Hans|和殿下一起 1分钟剧场
 8221|4|zh-Hans|和殿下一起～眼罩之野心～
+18209|4|zh-Hans|和班上第二可爱的女孩成为朋友
 18824|4|zh-Hans|和雨．和你
 19266|4|zh-Hans|和青梅竹马之间不会有恋爱喜剧
 7477|4|ja|咎狗の血
@@ -86060,6 +86076,7 @@
 1087|4|zh-Hans|复仇天使
 2697|4|zh-Hans|复仇学园
 10281|4|zh-Hans|复仇者联盟：光盘战争
+19158|4|zh-Hans|复制品的我也会谈恋爱
 4113|2|zh-Hans|复生的天空
 15518|4|ja|夏が終わるまで The Animation
 18570|4|ja|夏が終わるまで 夏の終わり The Animation
@@ -86784,6 +86801,8 @@
 1407|4|ja|女畜
 6080|2|zh-Hans|女皇之刃
 8737|4|zh-Hans|女皇之刃 叛乱
+19862|4|zh-Hans|女神“异世界转生想成为什么”我“勇者的肋骨”
+19862|4|zh-Hant|女神「異世界轉生想成為什麼」我「勇者的肋骨」
 19862|4|ja|女神『異世界転生何になりたいですか』俺『勇者の肋骨で』
 17612|4|ja|女神のカフェテラス
 18080|4|ja|女神のカフェテラス (2024)
@@ -86818,6 +86837,8 @@
 10850|4|ja|女系家族III~秘密HIMITSU卑蜜~ THE ANIME
 3103|3|ja|女転
 7048|4|ja|女郎
+18898|4|zh-Hant|女騎士成為蠻族新娘
+18898|4|zh-Hans|女骑士成为蛮族新娘
 14471|4|zh-Hans|女高中生的无所事事
 14471|2|zh-Hans|女高中生的虚度日常
 14923|4|ja|女魔王メリッサのHな冒険記
@@ -87104,6 +87125,8 @@
 3326|4|zh-Hans|娱乐金鱼眼 剧场版
 10121|4|ja|婆ちゃの金魚
 274|4|zh-Hans|婆娑罗
+19625|4|zh-Hans|婚姻剧毒
+19625|4|zh-Hant|婚姻劇毒
 17826|4|zh-Hans|婚戒物语
 18559|4|zh-Hans|婚戒物语 第二季
 17592|4|ja|婚約破棄された令嬢を拾った俺が, イケナイことを教え込む
@@ -87906,6 +87929,8 @@
 5255|4|ja|左のオクロック!!
 18045|4|zh-Hans|左手上篮
 19130|4|zh-Hans|左手上篮2
+17751|4|zh-Hans|左撇子艾伦
+17751|4|zh-Hant|左撇子艾倫
 14110|4|ja|巨乳J○がオジさんチ○ポとじゅぽじゅぽいやらしいセックスしてます.
 14110|2|ja|巨乳JKがオジさんチンポとじゅぽじゅぽいやらしいセックスしてます.
 16914|4|ja|巨乳エルフ母娘催眠
@@ -88150,6 +88175,7 @@
 18787|4|ja|幽霊船戦
 7|4|zh-Hant|幽靈公主
 17763|4|ja|幾多の北
+18622|4|zh-Hans|库兹马唱歌的话家里哆啰啰
 1810|2|zh-Hans|库拉乌 幻之记忆
 7093|4|zh-Hans|应避忌的狼
 17827|2|zh-Hans|庙不可言
@@ -88158,6 +88184,7 @@
 18686|2|zh-Hans|废渊战鬼
 15365|4|zh-Hant|座敷童子塌塌米醬
 15365|4|zh-Hans|座敷童子榻榻米酱
+18622|4|zh-Hant|庫吉馬唱歌的家
 640|2|ja|廃棄王女
 12290|4|zh-Hant|廢天使加百列
 13300|4|zh-Hant|廢柴王子
@@ -88228,6 +88255,8 @@
 15144|2|zh-Hans|弱势角色友崎同学
 15144|4|zh-Hans|弱势角色友崎君
 17134|4|zh-Hans|弱势角色友崎君 2nd STAGE
+19024|4|zh-Hans|弱弱老师
+19024|4|zh-Hant|弱弱老師
 19650|3|ja|弱気MAX
 19650|4|ja|弱気MAX令嬢なのに, 辣腕婚約者様の賭けに乗ってしまった
 9591|4|ja|弱虫ペダル
@@ -88278,6 +88307,7 @@
 17944|2|zh-Hans|归还者的魔法要特别
 18554|4|ja|当て馬キャラのくせして, スパダリ王子に寵愛されています.
 10113|4|zh-Hans|当不成勇者的我，只好认真找工作了。 OAD
+19736|4|zh-Hans|当前、正被打扰中！
 11694|4|zh-Hans|当女孩遇到熊
 6611|4|zh-Hans|当月亮开始升起时
 17280|4|ja|彗星のフロイライン~プロローグ~
@@ -88931,6 +88961,7 @@
 586|4|zh-Hans|成惠的世界
 18154|4|zh-Hant|成為名留歷史的壞女人吧
 17688|2|zh-Hant|成為悲劇元兇的最強異端，最後頭目女王為了人民犧牲奉獻
+19420|4|zh-Hant|成為悲劇元兇的最強異端，最後頭目女王為了人民犧牲奉獻 第二季
 18314|4|zh-Hant|成為星星的少女
 15559|4|zh-Hant|成神之日
 15559|4|zh-Hans|成神之日
@@ -88986,9 +89017,11 @@
 14781|4|zh-Hans|我叫白小飞
 18708|4|zh-Hant|我和班上最討厭的女生結婚了。
 18708|4|zh-Hans|我和班上最讨厌的女生结婚了。
+18209|4|zh-Hant|我和班上第二可愛的女生成為朋友
 17820|4|zh-Hans|我喜欢的女孩忘记戴眼镜
 13534|4|zh-Hans|我喜欢的是妹妹但不是妹妹
 17820|2|zh-Hant|我喜歡的女孩忘記戴眼鏡
+19736|4|zh-Hant|我回來了，他又來打擾了！
 18216|4|zh-Hans|我回来了，欢迎回来
 18142|4|zh-Hans|我在仙界挣积分
 19626|4|zh-Hans|我在天庭收废品
@@ -90840,6 +90873,7 @@
 17674|4|zh-Hans|杀手奶爸
 18108|4|zh-Hans|杀手寓言
 18973|4|zh-Hans|杀手旅店
+19546|4|zh-Hans|杀手青春
 15917|4|zh-Hans|杀爱
 18046|2|zh-Hans|杂旅
 16675|4|zh-Hans|李林克的 小馆儿
@@ -91561,6 +91595,7 @@
 9007|4|ja|殺人狂時代
 13307|4|ja|殺戮の天使
 18973|4|zh-Hant|殺手旅店
+19546|4|zh-Hant|殺手青春
 1409|4|ja|殻の中の小鳥
 7037|4|ja|殻ノ少女
 1409|2|zh-Hans|殻中小鳥
@@ -93402,6 +93437,8 @@
 13896|4|ja|百錬の覇王と聖約の戦乙女[ヴァルキュリア]
 1628|4|ja|百鬼
 20000|4|ja|百鬼夜行抄
+20000|4|zh-Hant|百鬼夜行抄
+20000|4|zh-Hans|百鬼夜行抄
 14853|4|zh-Hans|百鬼幼儿园
 14872|4|zh-Hans|百鬼幼儿园 第2季
 15863|4|ja|百鬼幼儿园 第三季
@@ -93687,6 +93724,8 @@
 17559|2|ja|神之塔 王子の帰還
 17559|2|zh-Hans|神之塔 王子的归来
 17559|2|zh-Hans|神之塔 第二季
+19728|4|zh-Hans|神之水滴
+19728|4|zh-Hant|神之雫
 1258|4|zh-Hans|神八剑传
 1258|4|ja|神八剣伝
 18956|4|zh-Hans|神八小妹不可怕
@@ -95637,6 +95676,7 @@
 14571|4|zh-Hans|裤袜视界
 11954|4|zh-Hans|裸体海滩上的修学旅行！！动画版
 5887|4|ja|裸足の放課後
+19158|4|zh-Hant|複製品的我也會談戀愛
 8719|4|zh-Hant|襲來！美少女邪神
 10803|4|zh-Hant|襲來！美少女邪神 F
 9459|4|zh-Hant|襲來！美少女邪神W
@@ -96154,6 +96194,7 @@
 16564|2|zh-Hans|身为女主角 讨厌的女主角与秘密的工作
 16564|4|zh-Hans|身为女主角！～被讨厌的女主角和秘密的工作～
 17688|4|zh-Hans|身为悲剧始作俑者的最强邪恶BOSS女王为民竭心尽力
+19420|4|zh-Hans|身为悲剧始作俑者的最强邪恶BOSS女王为民竭心尽力。 第二季
 19162|4|zh-Hans|身为暗杀者的我明显比勇者还强
 19440|4|zh-Hans|身为魔族的我想向勇者小队的可爱女孩告白。
 17686|4|zh-Hans|身为魔王的我娶了奴隶精灵为妻，该如何表白我的爱？
@@ -96392,6 +96433,8 @@
 18473|4|zh-Hans|逆天战纪
 16583|4|zh-Hans|逆天至尊
 18367|4|zh-Hans|逆天邪神
+20011|4|zh-Hans|逆天邪神 年番
+20011|2|zh-Hans|逆天邪神 第二季
 18367|2|zh-Hans|逆天邪神3D
 5255|4|zh-Hans|逆时针环游
 16184|4|ja|逆転世界ノ電池少女
@@ -97589,6 +97632,7 @@
 3309|4|ja|韋駄天翔(ジャンプ)
 3309|2|zh-Hans|韦驮天翔
 9744|4|ja|音々The Animation
+20013|4|zh-Hans|音乐公主艾美丽
 13913|4|zh-Hans|音乐少女
 9399|4|ja|音楽
 11102|4|ja|音楽少女
