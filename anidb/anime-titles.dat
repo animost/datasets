@@ -1,4 +1,4 @@
-# created: Fri Apr 17 03:00:02 2026
+# created: Sat Apr 18 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1112,6 +1112,7 @@
 2910|2|hu|A párbaj mesterei
 3349|2|pt|A Patrulha da Selva
 3349|4|pt|A Patrulha U
+20018|2|en|A Pen, Handcuffs, and a Common-Law Marriage
 7331|2|en|A Penguin`s Memories: A Tale of Happiness
 5901|2|en|A Penguin`s Troubles
 7597|2|en|A Penguin`s Troubles Max
@@ -14864,6 +14865,7 @@
 13537|4|es-419|El bosque del piano
 13537|4|es|El bosque del piano
 521|4|es|El broche encantado
+8798|4|es-419|El caballero del área
 17219|4|es|El Castillo a través del Espejo
 1218|4|es|El Castillo Ambulante
 331|4|es|El Castillo en el Cielo
@@ -37289,7 +37291,6 @@
 18205|4|en|My Happy Marriage (2025)
 19280|2|en|My Happy Marriage (2026)
 18545|4|en|My Happy Marriage: The Shape of My Happiness
-17989|4|en|My Hashtag Does Not Shine
 10959|2|en|My Heart Wants to Shout
 5188|2|en|My Heartfelt Sympathy, Ninomiya-kun
 13242|4|de|My Hentai Girl The Animation
@@ -41859,6 +41860,7 @@
 2304|4|it|Peline Story
 979|2|pl|Pełno-metalowy alchemik
 5610|4|id|Pemakan Jiwa
+20018|1|x-jat|Pen to Wappa to Jijitsukon
 3537|1|x-jat|Pendant
 3537|4|de|Pendant
 3537|2|de|Pendant - Das Wiedersehen
@@ -51340,7 +51342,6 @@
 19299|4|ja|Star Wars: Visions Presents - The Ninth Jedi
 19299|1|x-jat|Star Wars: Visions Presents - The Ninth Jedi
 18140|2|ja|Star Wars: Visions Volume 2
-20014|1|en|Star Wars: Visions Volume 2 (2023)
 16420|4|pt|Star Wars: Visões
 19005|4|pt|Star Wars: Visões (2025)
 16420|4|cs|Star Wars: Vize
@@ -59328,7 +59329,6 @@
 15869|1|x-jat|Watashi ni Tenshi ga Maiorita! Precious Friends
 1955|1|x-jat|Watashi no Ashinaga Ojisan
 9140|4|x-jat|Watashi no Coffee Samurai: Jihanki Teki na Kareshi
-17989|1|x-jat|Watashi no Hashtag ga Haenakute.
 12633|1|x-jat|Watashi no Kamifuusen
 11432|1|x-jat|Watashi no Kao
 17766|1|x-jat|Watashi no Oshi wa Akuyaku Reijou.
@@ -61008,6 +61008,9 @@
 15248|1|x-zht|Yinyang Shi: Pingan Wuyu 2
 15248|2|x-zht|Yinyang Shi: Pingan Wuyu Di Er Ji
 20013|1|x-zht|Yinyue Gongzhu Ai Meili
+20015|1|x-zht|Yinyue Gongzhu Ai Meili 2
+20016|1|x-zht|Yinyue Gongzhu Ai Meili 3
+20017|1|x-zht|Yinyue Gongzhu Ai Meili 4
 18461|2|x-zht|Yiren Jun Moxie
 18469|1|x-zht|Yishi Du Zun
 18947|2|x-zht|Yishi Du Zun 2
@@ -80683,6 +80686,7 @@
 3537|4|ja|ペンダント
 10127|4|ja|へんてこなボランティア
 8292|2|ja|ベントー
+20018|4|ja|ペンと手錠と事実婚
 12676|4|ja|ヘンなABC
 8446|4|ja|へんな子ちゃん
 5901|3|ja|ペンもん
@@ -97632,6 +97636,9 @@
 3309|4|ja|韋駄天翔(ジャンプ)
 3309|2|zh-Hans|韦驮天翔
 9744|4|ja|音々The Animation
+20015|4|zh-Hans|音乐公主爱美莉 第2季
+20016|4|zh-Hans|音乐公主爱美莉 第三季
+20017|4|zh-Hans|音乐公主爱美莉 第四季
 20013|4|zh-Hans|音乐公主艾美丽
 13913|4|zh-Hans|音乐少女
 9399|4|ja|音楽
