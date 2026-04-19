@@ -1,4 +1,4 @@
-# created: Sat Apr 18 03:00:01 2026
+# created: Sun Apr 19 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -12290,6 +12290,7 @@
 2120|2|x-jat|Diebuster
 4527|2|en|DieBuster Movie
 4527|4|en|Diebuster the Movie
+19912|4|es|Diente de león
 2309|4|nl|Dieren van het Groene Woud
 11204|1|x-jat|Dies Irae
 11204|4|ja|Dies irae
@@ -14983,6 +14984,7 @@
 3472|3|es|El Saltador
 18452|4|es|El secreto de AiPri
 1895|4|es|El Secreto de Akko-chan
+19259|4|es|El secreto de Ren: Solo yo sé que ella es sexy
 15258|4|es-419|El Señor Lobo Quiere Ser Comido
 15085|4|es|El sol naciente
 1359|4|es|El sordido tren de medianoche
@@ -32346,6 +32348,7 @@
 16758|1|x-zht|Luo Fanchen
 19136|1|x-zht|Luo Fanchen (2024)
 15253|2|x-zht|Luo Xiao Hei Zhan Ji (2019)
+19721|2|x-zht|Luo Xiao Hei Zhan Ji 2
 14829|1|x-zht|Luo Xiao Hei Zhanji
 15253|1|x-zht|Luo Xiao Hei Zhanji (2019)
 16687|1|x-zht|Luo Xiao Hei Zhanji (2021)
@@ -33251,7 +33254,7 @@
 14467|4|en|Magical Sempai
 70|4|en|Magical Shopping Arcade Abenobashi
 70|2|en|Magical Shopping Street Abenobashi
-19214|2|en|Magical Sisters Lulutto Lilly
+19214|4|en|Magical Sisters Lulutto Lilly
 19214|2|en|Magical Sisters LuluttoLilly
 9464|4|en|Magical Sisters Yoyo & Nene
 607|2|en|Magical Soldier Louie
@@ -54644,6 +54647,8 @@
 18472|4|en|The Legend of Dragon Soldier
 15253|2|en|The Legend of Hei
 15253|4|de|The Legend of Hei - Die Kraft in Dir
+19721|4|en|The Legend of Hei 2
+19721|2|en|The Legend of Hei II
 16112|4|ja|The Legend of Heroes 閃の軌跡 Northern War
 16112|1|x-jat|The Legend of Heroes: Sen no Kiseki - Northern War
 8138|4|en|The Legend of Heroes: Trails in The Sky
@@ -82706,6 +82711,7 @@
 11924|4|ja|不機嫌なモノノケ庵
 14177|4|ja|不機嫌なモノノケ庵 續
 11995|4|zh-Hans|不正经的魔术讲师与禁忌教典
+17586|2|zh-Hans|不死不幸
 18284|4|zh-Hans|不死不灭
 17586|4|zh-Hans|不死不运
 17586|4|zh-Hant|不死不運
