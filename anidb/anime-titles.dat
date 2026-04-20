@@ -1,4 +1,4 @@
-# created: Sun Apr 19 03:00:02 2026
+# created: Mon Apr 20 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -22665,6 +22665,7 @@
 934|1|x-jat|Hika Ryoujoku: Wana ni Hamatta Futari
 84|3|x-jat|HikaGo
 2924|3|x-jat|Hikalion
+18649|3|x-jat|hikanatsu
 1864|2|de|Hikari - Die kleinen Superstars
 1864|1|x-jat|Hikari no Densetsu
 15654|1|x-jat|Hikari no Megami
@@ -77370,6 +77371,7 @@
 6514|4|ja|シンデレラ エクスプレス
 14663|4|ja|シンデレラ・シェフ ～萌妻食神～
 16986|4|ja|シンデレラ・シェフ ～萌妻食神～ シーズン2
+17511|4|ja|シンデレラ・シェフ ～萌妻食神～ シーズン3
 781|4|ja|シンデレラボーイ
 3677|4|ja|シンデレラ物語
 11041|4|ja|シンドバッド
