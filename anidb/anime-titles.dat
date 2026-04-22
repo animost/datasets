@@ -1,4 +1,4 @@
-# created: Mon Apr 20 03:00:02 2026
+# created: Wed Apr 22 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1103,6 +1103,7 @@
 14990|4|hu|A nagy színlelő
 18597|4|en|A New Dawn
 11577|4|vi|Á nhân
+20019|2|en|A Night in the Valley of Witches
 18596|4|en|A Ninja and an Assassin Under One Roof
 18358|4|en|A Nobody`s Way Up to an Exploration Hero
 2465|4|pt-BR|A Noite do Sexo
@@ -17068,6 +17069,7 @@
 8174|2|en|Friends: Naki of Monster Island
 17617|4|fr|Frieren
 17617|4|it|Frieren - Oltre la Fine del Viaggio
+18886|4|it|Frieren - Oltre la fine del viaggio (2026)
 18886|2|en|Frieren 2
 17617|2|pt|Frieren e a Jornada para o Além
 17617|4|pt-BR|Frieren e a Jornada para o Além
@@ -19642,6 +19644,7 @@
 12315|2|it|Godzilla - Il pianeta dei mostri
 15770|4|fr|Godzilla : L`origine de l`invasion
 15770|1|x-jat|Godzilla S.P
+15770|4|pl|Godzilla Singular Point
 12315|2|en|Godzilla: Monster Planet
 15770|2|x-jat|Godzilla: Singular Point
 2423|3|x-jat|Goemon
@@ -33720,6 +33723,7 @@
 15202|1|x-jat|Majo no Tabitabi
 15202|6|x-jat|Majo no Tabitabi: The Journey of Elaina
 286|1|x-jat|Majo no Takkyuubin
+20019|1|x-jat|Majo no Tani no Yoru
 17575|1|x-jat|Majo to Yajuu
 20010|1|x-jat|Majo to Youhei
 17741|1|x-jat|Majo wa Kekkyoku Sono Kyaku to... The Animation
@@ -34880,7 +34884,6 @@
 12461|1|x-jat|Meiji Tokyo Renka
 12461|4|en|Meiji Tokyo Renka
 16082|4|x-jat|Meijou
-16082|2|x-jat|Meijyou
 3305|1|x-jat|Meiken Jolie
 2289|1|x-jat|Meiken Lassie
 647|4|en|MeiKing
@@ -36309,6 +36312,7 @@
 303|4|hr|Moj Susjed Totoro
 17449|4|pl|Moja Gwiazda
 8794|2|pl|Moja młodsza siostrzyczka - Diabełek z małymi cycuszkami
+17749|2|pl|Moja natychmiastowa zdolność śmierci jest tak potężna, że nikt w tym innym świecie nie ma ze mną szans!
 17749|4|pl|Moja zdolność natychmiastowej śmierci jest tak przepotężna, że nikt w tym innym świecie nie ma ze mną szans!
 4662|2|en|Mojacko
 4662|1|x-jat|Mojakou
@@ -43730,6 +43734,7 @@
 15690|1|x-jat|Princess Connect! Re:Dive Season 2
 15690|4|en|Princess Connect! Re:Dive Season 2
 2755|2|en|Princess Connection
+20013|4|en|Princess Doremi
 16141|3|en|Princess Half-Demon S2
 1665|1|x-jat|Princess Holiday: Korogaru Ringo Tei Sen`ya Ichiya
 1665|4|ja|Princess Holiday~転がるりんご亭千夜一夜~
@@ -80094,6 +80099,7 @@
 9062|4|ja|ヒロシマへの旅
 3288|4|ja|ピロッポ
 12998|4|ja|びろのびろだいすきな木
+12120|2|ja|ピンカートン
 4658|4|ja|ピンカと海のお友達
 7034|4|ja|びんかんアスリート
 4379|2|ja|ピンキーストリート
@@ -98093,6 +98099,7 @@
 286|4|ja|魔女の宅急便
 15202|4|ja|魔女の旅々
 15202|6|ja|魔女の旅々 The Journey of Elaina
+20019|4|ja|魔女の谷の夜
 17741|4|ja|魔女は結局その客と... THE ANIMATION
 18816|4|zh-Hans|魔女与使魔
 17575|4|zh-Hans|魔女与野兽
