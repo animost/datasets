@@ -1,4 +1,4 @@
-# created: Wed Apr 22 03:00:02 2026
+# created: Tue Apr 28 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3148,6 +3148,7 @@
 10598|2|en|Antimagic Academy 35th Test Platoon
 11407|1|x-jat|Antinotice
 11407|4|ja|antinotice
+12808|2|en|Antiquarian Bookshop Biblia`s Case Files
 5971|3|ja|antique
 5971|4|en|Antique Bakery
 2648|1|x-jat|Antique Heart
@@ -3414,6 +3415,8 @@
 14559|2|x-unk|Arad: Reversal of Fate
 14560|2|x-jat|Arad: Shukumei no Mon
 14560|1|x-zht|Arad: Suming Zhi Men
+20020|3|x-jat|arafo kenja
+20020|1|x-jat|Arafoo Kenja no Isekai Seikatsu Nikki
 18818|1|x-jat|Arafou Otoko no Isekai Tsuuhan
 18818|2|x-jat|Arafou Otoko no Isekai Tsuuhan Seikatsu
 18818|3|x-jat|arafou tsuuhan
@@ -5618,6 +5621,7 @@
 12414|4|en|Berserk (Season 2)
 7991|2|en|Berserk Movie
 17687|4|en|Berserk of Gluttony
+20026|2|en|Berserk of Gluttony 2
 7991|4|de|Berserk: Das goldene Zeitalter
 7991|1|x-jat|Berserk: Ougon Jidai Hen
 7991|2|x-jat|Berserk: Ougon Jidai Hen - Memorial Edition
@@ -7047,6 +7051,7 @@
 1179|1|x-jat|Bounty Dog: Getsumen no Eve
 1501|4|en|Bounty Hunter: the Hard
 17687|1|x-jat|Boushoku no Berserk
+20026|1|x-jat|Boushoku no Berserk 2
 7601|1|x-jat|Bousou Sengokushi
 2329|4|fr|Bouton d`or
 3976|3|x-jat|Bow
@@ -14505,6 +14510,7 @@
 12742|2|fr|Échange de corps
 1852|4|fr|Échanges de corps
 7946|1|x-jat|Echigo no Mukashibanashi: Attaten Ganoo
+20025|2|en|Echoes of Aincrad Movie
 13176|3|x-jat|echuuni movie
 19446|4|en|Eclipse of Illusion
 13544|2|fr|École aux dames plantureuses – Le mouvement imparable des vierges
@@ -15651,6 +15657,7 @@
 18712|4|en|Even Given the Worthless "Appraiser" Class, I`m Actually the Strongest
 4889|2|en|Even if you become the enemy of the world
 19594|2|en|Even Reincarnated, Hanaori`s Still Spoiling for a Fight
+20024|4|en|Ever Night
 7056|2|en|Evergreen Literature
 8783|2|en|Everlasting Bond
 16957|4|en|Everlasting God Of Sword
@@ -16168,6 +16175,7 @@
 12046|4|ko|Fate/EXTRA Last Encore
 12046|4|zh-Hans|Fate/EXTRA Last Encore
 12046|4|en|Fate/EXTRA Last Encore
+12046|4|es-419|Fate/EXTRA Last Encore
 12046|1|x-jat|Fate/Extra: Last Encore
 12046|4|cs|Fate/EXTRA: Poslední přídavek
 15899|1|x-jat|Fate/Grand Carnival
@@ -19426,6 +19434,7 @@
 4265|2|en|Glass`s Armada
 4265|2|en|Glass`s Fleet
 4265|2|en|Glass`s Naval Fleet
+20022|2|en|Glasses with a Chance of Delinquent
 10506|1|x-jat|Glasslip
 10506|4|en|Glasslip
 10506|4|fr|Glasslip
@@ -21520,6 +21529,7 @@
 15918|2|pt|Harém no Labirinto de Outro Mundo
 13243|4|en|Harem of the Hell Spawn
 9340|1|x-jat|Harem Time The Animation
+20028|1|x-jat|Harem-jima e Youkoso!
 5665|1|x-jat|Harenchi Koumon Manyuuki
 18192|1|x-jat|Hari Maware! Koinu
 18555|1|x-jat|Hari Maware! Koinu (2024)
@@ -25715,6 +25725,7 @@
 18893|2|x-zht|Jiandao Di Yi Xian 2nd Season
 18893|2|x-zht|Jiandao Di Yi Xian Di Er Ji
 18393|2|x-zht|Jiandao Diyi Xian
+20024|1|x-zht|Jiang Ye
 15375|1|x-zht|Jiang Ziya
 13235|1|x-zht|Jianzhen Da he shang
 15219|1|x-zht|Jiao Jiao Yu Jing Jing
@@ -26634,6 +26645,8 @@
 320|4|tr|Kagliostro`nun Şatosu
 8745|1|x-jat|Kago Shintarou Anime Sakuhin Shuu
 9515|3|x-jat|kagumono
+20027|1|x-jat|Kagurabachi
+20027|2|en|Kagurabachi
 14111|3|en|Kaguya
 19701|4|vi|Kaguya – Công chúa vũ trụ!
 15207|3|en|Kaguya 2
@@ -29745,6 +29758,7 @@
 18307|1|x-jat|Kuramerukagari
 18307|4|de|Kuramerukagari
 18307|4|en|Kuramerukagari
+18209|2|x-jat|Kuranika
 1810|3|x-jat|Kurau
 1810|4|ja|KURAU Phantom Memory
 1810|1|x-jat|Kurau Phantom Memory
@@ -30085,7 +30099,6 @@
 11447|1|x-jat|Kyuutai Panic Adventure!
 10632|4|ja|KY系JCクウキちゃん
 5147|3|x-jat|KZSU
-4121|2|el|Kαλωσήρθατε στο NHK
 522|2|x-jat|L-Gaim
 13303|4|en|L.O.R.D: Legend of Ravaging Dynasties
 16099|4|en|L.O.R.D: Legend of Ravaging Dynasties 2
@@ -33181,6 +33194,7 @@
 18138|2|en|Magical Battle Maiden Lysristia
 11718|2|en|Magical Beast Purifier Girls Utea
 14884|2|en|Magical Beast Sherbert
+19958|4|en|Magical Buffs: The Support Caster is Stronger Than He Realized!
 600|4|en|Magical Chocolate
 311|2|en|Magical Circle Guru Guru
 1619|2|en|Magical Circle Guru Guru 2
@@ -34831,6 +34845,7 @@
 9518|2|x-jat|Megane Hen
 7878|1|x-jat|Megane na Kanojo
 14625|1|x-jat|Megane no Megami
+20022|1|x-jat|Megane, Tokidoki, Yankee-kun
 9948|4|en|Meganebu!
 10726|3|x-jat|meganehen movie
 3103|3|x-jat|megaten
@@ -41068,6 +41083,7 @@
 13293|2|tr|Otakuysan Gönül İşleri Çok Zahmetli
 6972|1|x-jat|Otanoshimi Anime Gekijou
 1308|3|en|OtaNW
+20022|3|x-jat|otasukebu
 907|1|x-jat|Otenki Onee-san
 2864|4|en|Other Worlds
 15423|4|en|Otherside Picnic
@@ -47960,7 +47976,7 @@
 17443|1|x-jat|Sekai no Owari ni Shiba Inu to
 12947|1|x-jat|Sekai no Yami Zukan
 16055|1|x-jat|Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei Suru
-18207|1|x-jat|Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei Suru 2
+18207|1|x-jat|Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei Suru (2027)
 16055|2|ja|Sekai Saikou no Assassin, Isekai Kizoku ni Tensei suru
 19569|1|x-jat|Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha
 10212|4|de|Sekai Seifuku - World Conquest Zvezda Plot
@@ -52341,6 +52357,7 @@
 11681|4|en|Sword Art Online the Movie: Ordinal Scale
 15735|4|en|Sword Art Online the Movie: Progressive - Aria of a Starless Night
 16951|4|en|Sword Art Online the Movie: Progressive - Scherzo of Deep Night
+20025|4|ja|SWORD ART ONLINE Unanswered//butterfly
 8692|2|en|Sword Art Online: Aincrad
 13493|1|x-jat|Sword Art Online: Alicization
 14796|4|en|Sword Art Online: Alicization - War of Underworld
@@ -52355,6 +52372,7 @@
 10022|4|en|Sword Art Online: Extra Edition
 8692|2|en|Sword Art Online: Fairy Dance
 13835|1|x-jat|Sword Art Online: Fatal Bullet - The Third Episode
+20025|1|x-jat|Sword Art Online: Unanswered//Butterfly
 13685|4|en|Sword Dynasty
 13687|4|en|Sword Dynasty 2
 1262|4|en|Sword for Truth
@@ -52362,6 +52380,7 @@
 10858|1|x-jat|Sword Gai The Animation
 14000|1|x-jat|Sword Gai The Animation Part II
 18828|2|en|Sword of Coming
+19794|2|en|Sword of Coming 2
 19794|2|en|Sword of Coming 2nd Season
 16614|4|de|Sword of the Demon Hunter
 16614|4|en|Sword of the Demon Hunter
@@ -53907,6 +53926,7 @@
 18967|2|en|The Case Book of Arne
 10442|4|en|The Case File of Young Kindaichi Returns
 11367|4|en|The Case File of Young Kindaichi Returns (2015)
+12808|2|en|The Case Files of Biblia Bookstore
 15038|4|en|The Case Files of Jeweler Richard
 1240|2|en|The Case Files of Young Kindaichi
 1585|2|en|The Case Files of Young Kindaichi Movie
@@ -54080,6 +54100,7 @@
 8104|2|en|The Devil`s Virgins
 10507|2|en|The Devourer
 5580|2|en|The Diary of a Crazed Family
+20020|2|en|The Diary of a Middle-Aged Sage`s Carefree Life in Another World
 2652|4|en|The Diary of Anne Frank
 13299|2|en|The Diary of Our Days
 4297|2|en|The Diary of the Animals of Mitsugoro: Donbe`s Story
@@ -55063,6 +55084,9 @@
 4060|2|en|The Restaurant of Many Orders (1991)
 11948|2|en|The Restaurant of Many Orders (1994)
 14149|2|en|The Return of Rainbow Cat and Blue Rabbit
+20023|1|x-jat|The Ribbon Hero
+20023|4|ja|THE RIBBON HERO
+20023|6|ja|THE RIBBON HERO リボンヒーロー
 18503|2|en|The Rich God
 19379|2|en|The Rich Player
 18483|4|en|The Richest Man In Game
@@ -55634,7 +55658,7 @@
 12947|4|en|The World Yamizukan
 16055|2|en|The World`s Best Assassin, to Reincarnate in a Different World Aristocrat
 16055|4|en|The World`s Finest Assassin Gets Reincarnated in Another World as an Aristocrat
-18207|2|en|The World`s Finest Assassin Gets Reincarnated in Another World as an Aristocrat 2
+18207|2|en|The World`s Finest Assassin Gets Reincarnated in Another World as an Aristocrat (2027)
 7051|4|en|The World`s Greatest Fairy Tales
 19569|2|en|The World`s Strongest Rearguard: Labyrinth Country`s Novice Seeker
 16537|4|en|The Wrong Way to Use Healing Magic
@@ -62673,6 +62697,7 @@
 4193|4|el|Ιστορίες από τη Γαιοθάλασσα
 933|4|el|Κate, η Σκλάβα Βασίλισσα
 15547|4|el|Καληνύχτα, Κόσμε
+4121|2|el|Καλωσήρθατε στο NHK
 2007|4|el|Καμπαμαρού
 1913|4|el|Κάντυ Κάντυ
 23|4|el|Καουμπόηδες του Διαστήματος
@@ -64509,6 +64534,7 @@
 8658|2|ru|Истории подделок
 11350|2|ru|Истории Последствий
 2382|2|ru|История кошек-ниндзя
+6675|2|ru|История о 15 прекрасных девушках
 15537|2|ru|История о гареме из другого мира
 18860|4|ru|История о грудастых демонах
 15215|4|ru|История о том, как мальчик из деревни возле финального подземелья перебрался в стартовый город
@@ -71738,6 +71764,7 @@
 9398|2|ko|백화요란 사무라이 브라이드
 10765|2|ko|백화요란 사무라이 애프터
 4109|2|ko|백희야행 ~짚풀~
+19769|2|ko|뱀과 거미
 8551|2|ko|뱀파이어
 66|4|ko|뱀파이어 헌터 D
 14077|4|ko|뱅드림 걸즈 밴드 파티 피코
@@ -73711,6 +73738,7 @@
 1844|2|ko|패밀리 레스토랑 전사 푸딩
 18317|4|ko|패배 히로인이 너무 많아!
 17325|2|ko|팬데믹
+19790|2|ko|팬텀 알케미아
 13978|4|ko|팬텀 인 더 트와일라잇
 7529|4|ko|팬티 & 스타킹 with 가터벨트
 972|2|ko|퍼레이드 퍼레이드
@@ -74454,6 +74482,8 @@
 1779|4|ja|アラビアンナイト シンドバッドの冒険
 18818|4|ja|アラフォー男の異世界通販
 18818|2|ja|アラフォー男の異世界通販生活
+20020|3|ja|アラフォー賢者
+20020|4|ja|アラフォー賢者の異世界生活日記
 18818|3|ja|アラフォー通販
 14212|4|ja|あらら
 11083|4|ja|アラルガンド The Animation
@@ -75294,6 +75324,7 @@
 130|4|ja|おたくのビデオ
 3533|4|ja|おたくの星座
 15016|5|ja|おだしなもんのぶなが
+20022|3|ja|おたすけ部
 6972|4|ja|おたのしみアニメ劇場
 8256|4|ja|おぢいさんのランプ
 14798|4|ja|おちこぼれフルーツタルト
@@ -75634,6 +75665,7 @@
 15806|4|ja|かぐや様は告らせたい-ウルトラロマンティック-
 15207|4|ja|かぐや様は告らせたい? ~天才たちの恋愛頭脳戦~
 15807|4|ja|かぐや様は告らせたい? ~天才たちの恋愛頭脳戦~ (2021)
+20027|4|ja|カグラバチ
 13564|4|ja|かくりよの宿飯
 18607|4|ja|かくりよの宿飯 弐
 2178|4|ja|カクレンボ
@@ -79351,6 +79383,7 @@
 17193|4|ja|ハーレム・カルト
 17566|4|ja|ハーレムきゃんぷっ!
 9340|4|ja|ハーレムタイム THE ANIMATION
+20028|4|ja|ハーレム島へようこそ！
 661|4|ja|ハーロック・サーガ ニーベルングの指環 -ラインの黄金-
 15448|2|ja|バーン・ザ・ウィッチ
 18196|2|ja|バーンザウィッチゼロポイントエイト
@@ -81432,6 +81465,7 @@
 5203|4|ja|めがちゅ! The Animation
 12296|4|ja|メガトン級ムサシ
 17027|4|ja|メガトン級ムサシX
+20022|4|ja|メガネ, 時々, ヤンキーくん
 14625|4|ja|メガネnoメガミ
 9948|4|ja|メガネブ!
 13517|4|ja|メガロボクス
@@ -82437,6 +82471,7 @@
 18195|2|zh-Hant|一兆＄遊戲
 18195|4|zh-Hant|一兆遊戲
 5499|2|zh-Hans|一千零一夜
+19455|4|zh-Hans|一叠间漫画咖啡屋生活！
 10273|4|zh-Hans|一周的朋友。
 17900|4|zh-Hans|一定要与猫和解
 6924|4|ja|一寸法師
@@ -82475,6 +82510,7 @@
 1679|4|ja|一球さん
 17278|2|ja|一番光れ!
 19455|4|ja|一畳間まんきつ暮らし!
+19455|4|zh-Hant|一疊間漫畫咖啡廳日常
 9082|4|ja|一発必中!! デバンダー
 3094|4|ja|一発貫太くん
 18648|4|zh-Hant|一百公尺
@@ -82778,7 +82814,7 @@
 12947|4|zh-Hans|世界之暗图鉴
 19569|4|ja|世界最強の後衛 ~迷宮国の新人探索者~
 16055|4|ja|世界最高の暗殺者, 異世界貴族に転生する
-18207|4|ja|世界最高の暗殺者, 異世界貴族に転生する 2
+18207|4|ja|世界最高の暗殺者, 異世界貴族に転生する (2027)
 17618|4|ja|世界名作劇場・完結版 	ポルフィの長い旅
 7140|4|ja|世界名作劇場・完結版 あらいぐまラスカル
 7146|4|ja|世界名作劇場・完結版 アルプス物語 わたしのアンネット
@@ -82876,6 +82912,7 @@
 16298|4|zh-Hans|两不疑
 18025|4|ja|两不疑 第二季
 9678|4|zh-Hans|两个人是少女福尔摩斯
+9582|3|zh-Hans|丧女
 1012|4|zh-Hans|个人授业
 8883|4|ja|中二病でも恋がしたい!
 9874|4|ja|中二病でも恋がしたい! 戀
@@ -84046,6 +84083,7 @@
 18675|4|zh-Hant|最弱技能《果實大師》～關於能無限食用技能果實（吃了就會死）這件事～
 11233|4|zh-Hans|最弱无败神装机龙
 11233|4|ja|最弱無敗の神装機竜[バハムート]
+17712|2|zh-Hans|最弱的驯养师开启的捡垃圾的旅途.
 17712|4|zh-Hans|最弱魔物使开始了捡垃圾之旅。
 17712|2|zh-Hant|最弱魔物使開始了撿垃圾之旅。
 18229|4|ja|最強タンクの迷宮攻略 ~体力9999のレアスキル持ちタンク, 勇者パーティーを追放される~
@@ -84109,6 +84147,7 @@
 9546|4|ja|最近, 妹のようすがちょっとおかしいんだが.
 10350|4|ja|最近, 妹のようすがちょっとおかしいんだが. 萌亜の初恋メモリー? 16年目のハッピークリスマス
 9546|4|zh-Hans|最近, 妹妹的样子有点怪?
+18827|2|zh-Hans|最近的侦探真没用
 18827|4|zh-Hant|最近的偵探真沒用
 17421|4|ja|最近雇ったメイドが怪しい
 2446|4|ja|最遊記
@@ -86751,9 +86790,11 @@
 17549|4|ja|女の園の星
 18344|4|zh-Hans|女仆冥土小姐。
 7569|4|zh-Hans|女仆咖啡厅
+19541|4|zh-Hans|女仆小姐的贪吃日常
 17886|4|zh-Hans|女仆教育。－没落贵族 瑠璃川椿－ THE ANIMATION
 16106|4|zh|女他
 18344|4|zh-Hant|女僕冥土小姐
+19541|4|zh-Hant|女僕小姐的貪吃日常
 15851|4|zh-Hans|女友成双
 17628|4|zh-Hans|女友成双 第二季
 15851|2|zh-Hant|女友成堆
@@ -87539,6 +87580,7 @@
 1732|4|zh-Hans|封闭的神秘大地
 12651|4|ja|将国のアルタイル
 12651|4|zh-Hans|将国之天鹰星
+20024|4|zh-Hans|将夜
 10383|4|ja|将太の寿司 心にひびくシャリの味
 11537|4|ja|将棋アワー
 14790|4|zh-Hant|尋找小魔女 DoReMi
@@ -88874,6 +88916,7 @@
 13987|4|zh-Hans|想星的大天使 Myth of Emotions
 13987|2|zh-Hans|想星的阿克艾利昂 情感神话
 17695|4|zh-Hant|想當冒險者前往都市的女兒成為S級
+19382|4|zh-Hant|想結束這場的遊戲
 19382|4|zh-Hans|想结束这场“我爱你”的游戏
 16073|4|zh-Hans|想要成为影之实力者！
 17877|4|zh-Hans|想要成为影之实力者！第二季
@@ -90619,6 +90662,7 @@
 7443|4|zh-Hans|暴力宇宙海贼
 7601|4|ja|暴走戦國史
 17687|4|ja|暴食のベルセルク
+20026|4|ja|暴食のベルセルク 2
 17687|4|zh-Hans|暴食狂战士
 17687|2|zh-Hant|暴食狂戰士
 11827|4|zh-Hant|曆物語
@@ -98680,6 +98724,7 @@
 7729|2|zh-Hant|黑曜石之門
 3130|4|zh-Hans|黑爱～一夜妻馆·淫口乱乳录～
 3321|2|zh-Hans|黑猫
+19516|4|zh-Hans|黑猫与魔女的教室
 12692|4|zh-Hans|黑猫警长
 17607|4|zh|黑猫警长 (2010)
 16721|4|zh-Hans|黑猫警长之翡翠之星
@@ -98707,6 +98752,7 @@
 11819|4|zh-Hans|黑色残骸
 4416|2|zh-Hans|黑血兄弟
 10733|2|zh-Hans|黑街
+19516|4|zh-Hant|黑貓與魔女的教室
 12692|4|zh|黑貓警長
 16620|4|zh-Hans|黑门
 9020|4|zh-Hans|黑魔女学园
