@@ -1,4 +1,4 @@
-# created: Tue Apr 28 03:00:02 2026
+# created: Wed Apr 29 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -19507,6 +19507,7 @@
 4534|2|en|Go Wapper 5 Go Dam
 14654|2|en|Go West Hard
 15403|2|en|Go Wild from My Fingers. Alone Together at the Salon After Shop Hours...
+20029|2|en|Go with the Clouds, North-by-Northwest
 10574|1|x-jat|Go-Go Tamagotchi!
 10574|4|ja|GO-GO たまごっち!
 12580|1|x-jat|Go-hiki no Kobuta to Charleston
@@ -23025,6 +23026,8 @@
 14899|1|x-jat|Hokori Inu no Hanashi
 9573|1|x-jat|Hokori: Tsutaeyou Kono Nippon no Ayumi
 9652|1|x-kot|Hokseong Robot Sseondeo A
+20029|3|x-jat|hokuhokusei
+20029|1|x-jat|Hokuhokusei ni Kumori to Yuke
 13165|3|x-jat|hokuni
 9983|3|x-jat|hokuni (2013)
 5239|1|x-jat|Hokuro Kyoudai Full Throttle!!!!
@@ -31170,6 +31173,8 @@
 4034|2|en|Leisure Club
 16879|1|x-zht|Leiting Shiming Lianhe Xingdong
 5001|2|pl|Lekarz wiejski
+20031|1|x-zht|Lele Bianlidian
+20031|4|en|Lele Convenience Store
 14580|3|x-jat|lem
 16421|3|x-jat|lem special
 844|3|x-jat|lemnear
@@ -41241,6 +41246,7 @@
 18587|2|x-jat|OVA Boku ni Harem Sefure ga Dekita Riyuu
 18587|1|x-jat|OVA Boku ni Harem Sexfriend ga Dekita Riyuu
 13769|2|en|OVA Complete Slut See their true colors Russian Step-Mother and Step-Sisters All you can have Sex
+20030|1|x-jat|OVA Furachi
 19976|1|x-jat|OVA Heart Mark Oome.
 18756|1|x-jat|OVA Incha Couple ga You Gal-tachi to Sex Training Suru Hanashi
 19704|1|x-jat|OVA Kegareboshi
@@ -41271,6 +41277,7 @@
 19976|4|ja|OVA はーとまーく多め.
 19971|4|ja|OVA パイハメ家族
 19414|4|ja|OVA ピュアピュア ぺろぺろ プリンセス
+20030|4|ja|OVA フラチ
 13769|4|ja|OVA むっつりドスケベ露義母姉妹の本質見抜いてセックス三昧
 19312|4|ja|OVA ヨゴレタカノジョ
 6285|2|zh-Hans|OVA 传颂之物
@@ -82995,6 +83002,7 @@
 1824|4|zh-Hans|乌龙派出所
 12224|4|zh-Hans|乌龙派出所 THE FINAL 两津勘吉最后的一天
 1823|4|zh-Hans|乌龙派出所 剧场版：史上最恶爆弹大作战
+20031|4|zh-Hans|乐乐便利店
 9088|4|zh-Hans|乐园追放 -Expelled From Paradise-
 16849|4|zh-Hans|乐融龙
 10400|4|zh-Hans|乒乓 THE ANIMATION
@@ -84955,6 +84963,8 @@
 9442|4|ja|化石ドロボウと恐竜石
 1321|4|ja|北へ. ~Diamond Dust Drops~
 9243|4|ja|北へ. PURE SESSION
+20029|3|ja|北北西
+20029|4|ja|北北西に曇と往け
 17763|4|zh-Hant|北國奇遇記
 386|4|ja|北斗の拳
 18190|4|ja|北斗の拳  (2026)
