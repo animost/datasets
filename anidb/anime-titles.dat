@@ -1,4 +1,4 @@
-# created: Wed Apr 29 03:00:02 2026
+# created: Fri May  1 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -20818,7 +20818,7 @@
 8847|3|x-jat|gyrozetter
 7382|2|lt|Gyvųjų Numirėlių Mokykla
 8574|4|ja|G線上の悲劇
-19499|1|x-jat|H na Gishi Series The Animation
+19499|1|x-jat|H na Ane Series The Animation
 3672|2|el|H Τοσοδούλα
 6312|4|ja|H・P・ラヴクラフトの ダニッチ・ホラー
 353|2|ja|H.G.J -Habitat Ground Jewdo-
@@ -21201,7 +21201,6 @@
 805|3|x-jat|hameln movie
 805|1|x-jat|Hameln no Violin Hiki
 775|1|x-jat|Hameln no Violin Hiki (1997)
-17846|3|x-jat|hametsu
 3225|1|x-jat|Hametsu no Mars
 17846|1|x-jat|Hametsu no Oukoku
 19081|1|x-jat|Hametsu no Yuuwaku
@@ -21529,6 +21528,7 @@
 8660|2|ja|Harem King
 15918|2|pt|Harém no Labirinto de Outro Mundo
 13243|4|en|Harem of the Hell Spawn
+20032|1|x-jat|Harem Shima e Youkoso!
 9340|1|x-jat|Harem Time The Animation
 20028|1|x-jat|Harem-jima e Youkoso!
 5665|1|x-jat|Harenchi Koumon Manyuuki
@@ -37404,6 +37404,7 @@
 17749|4|en|My Instant Death Ability Is Overpowered
 17749|2|en|My Instant Death Ability Is So Overpowered, No One in this Other World Stands a Chance Against Me!
 16030|2|en|My Isekai Life
+16030|4|pl|My Isekai Life
 16030|4|en|My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!
 17308|2|en|My Journey in an Alternate World
 17308|2|en|My Journey To Another World
@@ -38782,9 +38783,9 @@
 5357|1|x-jat|Night Wizard The Animation
 16246|2|en|Night World
 4472|2|ja|NIGHTHEAD-GENESIS
+17983|4|ja|Nightmare × Deathscythe ～叛逆のレゾナンス～
 1181|4|en|Nightmare Campus
-17983|4|ja|Nightmare x Deathscythe
-17983|1|x-jat|Nightmare x Deathscythe
+17983|1|x-jat|Nightmare x Deathscythe: Hangyaku no Resonance
 17983|2|x-jat|Nightmare×Deathscythe
 1095|2|de|Nightmares - Das Tor zur anderen Welt
 7278|3|en|Nightraid
@@ -41077,6 +41078,7 @@
 16968|1|x-jat|Otaku ni Yasashii Gal toka, Kyonyuu no Osananajimi toka.
 19628|1|x-jat|Otaku ni Yasashii Gal wa Inai!?
 16968|2|x-jat|Otaku ni Yasashii Gyaru toka, Kyonyuu no Osananajimi ka
+20034|1|x-jat|Otaku no Boku ga Ichigun Gal to Tsukiaeru made no Hanashi
 3533|1|x-jat|Otaku no Seiza
 130|1|x-jat|Otaku no Video
 130|4|fr|Otaku no Video
@@ -41253,7 +41255,6 @@
 13769|1|x-jat|OVA Muttsuri Do Sukebe Ro Gibo Shimai no Honshitsu Minuite Sex Zanmai
 19547|1|x-jat|OVA Natsu Zuma
 19971|1|x-jat|OVA Paihame Kazoku
-19414|1|x-jat|OVA Pure Pure Pero Pero Princess
 19514|1|x-jat|OVA Sister Breeder
 11268|1|x-jat|OVA Tokyo Ghoul
 19313|1|x-jat|OVA Tonari no Kanojo
@@ -41276,7 +41277,6 @@
 19313|4|ja|OVA トナリノカノジョ
 19976|4|ja|OVA はーとまーく多め.
 19971|4|ja|OVA パイハメ家族
-19414|4|ja|OVA ピュアピュア ぺろぺろ プリンセス
 20030|4|ja|OVA フラチ
 13769|4|ja|OVA むっつりドスケベ露義母姉妹の本質見抜いてセックス三昧
 19312|4|ja|OVA ヨゴレタカノジョ
@@ -44258,6 +44258,7 @@
 11061|4|en|Pure Love Maniac
 653|4|en|Pure Mail
 653|1|x-jat|Pure Mail
+19414|1|x-jat|Pure Pure Pero Pero Princess
 4200|1|x-jat|Pure-tou no Nakama-tachi
 18703|4|en|Purgatory Walkers
 1413|3|x-jat|purikyaa
@@ -48843,7 +48844,7 @@
 16531|2|x-zht|Shiguang Dailiren 2nd Season
 16531|1|x-zht|Shiguang Dailiren II
 19882|1|x-zht|Shiguang Dailiren III
-19078|1|x-jat|Shiguang Dailiren: Yingdu Pian
+19078|1|x-zht|Shiguang Dailiren: Yingdu Pian
 13726|1|x-zht|Shiguang Guiyu
 5108|1|x-jat|Shigurui
 5108|4|en|Shigurui: Death Frenzy
@@ -56683,6 +56684,7 @@
 1815|2|x-jat|Tosho Daimos
 5558|1|x-jat|Toshokan Sensou
 8885|1|x-jat|Toshokan Sensou: Kakumei no Tsubasa
+20033|1|x-jat|Toshoshitsu no Kanojo: Onna Kyoushi ga Ochiru made The Animation
 15662|1|x-jat|Toshoshitsu no Kanojo: Seiso na Kimi ga Ochiru made The Animation
 6040|3|en|TotA
 8549|4|en|Total Eclipse
@@ -62000,9 +62002,7 @@
 19960|1|x-jat|Yuusha Party o Oidasareta Kiyoubinbou 2
 17444|1|x-jat|Yuusha Party o Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau
 18782|1|x-jat|Yuusha Party o Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugai Sugiru
-19190|2|x-jat|Yuusha Party wo Oidasareta Kiyoubinbou
 17444|2|x-jat|Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau
-18782|2|x-jat|Yuusha Party wo Tsuihousareta Shiro Madoushi, S Rank Boukensha ni Hirowareru - Kono Shiro Madoushi ga Kikakugai sugiru
 1819|1|x-jat|Yuusha Raideen
 2459|1|x-jat|Yuusha Shirei Dagwon
 3153|1|x-jat|Yuusha Shirei Dagwon: Suishou no Hitomi no Shounen
@@ -62023,7 +62023,6 @@
 957|2|en|Yuusha/Brave Series 8
 9659|3|x-jat|Yuushibu
 10113|2|x-jat|Yuushibu Episode 13
-19190|2|x-jat|Yuusya Party wo Oidasareta Kiyou Bimbou
 9932|1|x-jat|Yuuto-kun ga Iku
 15406|1|x-jat|Yuutousei Ayaka no Uraomote
 1695|1|x-jat|Yuuwaku
@@ -74131,7 +74130,7 @@
 14516|2|ja|アイドルマスター シンデレラガールズ劇場 CLIMAX SEASON
 15396|4|ja|アイドルマスター シンデレラガールズ劇場 Extra Stage
 15625|2|ja|アイドルマスター ミリオンライブ!
-20008|4|ja|アイドルマスター ミリオンライブ！ 〜いつか、真ん中で〜
+20008|4|ja|アイドルマスター ミリオンライブ! ~いつか, 真ん中で~
 5751|2|ja|アイドルマスター ライブフォーユー!
 4773|4|ja|アイドルマスターXENOGLOSSIA
 12261|4|ja|アイドルメモリーズ
@@ -75329,6 +75328,7 @@
 16968|4|ja|オタクに優しいギャルとか、巨乳の幼なじみとか。
 19628|4|ja|オタクに優しいギャルはいない!?
 130|4|ja|おたくのビデオ
+20034|4|ja|オタクの僕が一軍ギャルと付き合えるまでの話
 3533|4|ja|おたくの星座
 15016|5|ja|おだしなもんのぶなが
 20022|3|ja|おたすけ部
@@ -79390,6 +79390,7 @@
 17193|4|ja|ハーレム・カルト
 17566|4|ja|ハーレムきゃんぷっ!
 9340|4|ja|ハーレムタイム THE ANIMATION
+20032|4|ja|ハーレム島へようこそ!
 20028|4|ja|ハーレム島へようこそ！
 661|4|ja|ハーロック・サーガ ニーベルングの指環 -ラインの黄金-
 15448|2|ja|バーン・ザ・ウィッチ
@@ -80109,6 +80110,7 @@
 9804|2|ja|ピューパ
 17657|4|ja|ヒューマンバグ大学
 17657|2|ja|ヒューマンバグ大学 -不死学部不幸学科-
+19414|4|ja|ピュアピュア ぺろぺろ プリンセス
 19414|2|ja|ピュアピュア♥ぺろぺろ♥プリンセス
 653|4|ja|ピュアメール
 4200|4|ja|ピュア島の仲間たち
@@ -85842,7 +85844,8 @@
 15316|4|ja|困ったじいさん
 17830|4|zh-Hans|困病之笼
 2037|4|ja|囲まれた世界
-15662|4|ja|図書室ノ彼女~清楚ナ君ガ堕チルマデ~ THE ANIMATION
+20033|4|ja|図書室ノ彼女 ~女教師ガ堕チルマデ~ THE ANIMATION
+15662|4|ja|図書室ノ彼女 ~清楚ナ君ガ堕チルマデ~ THE ANIMATION
 5558|4|ja|図書館戦争
 8885|4|ja|図書館戦争 革命のつばさ
 14830|4|zh-Hans|围棋少年
