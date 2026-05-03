@@ -1,4 +1,4 @@
-# created: Fri May  1 03:00:01 2026
+# created: Sun May  3 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1472,6 +1472,7 @@
 14655|2|ja|Act! Addict! Actors! Season Spring & Summer
 12746|1|x-jat|Action Heroine Cheer Fruits
 12746|4|en|Action Heroine Cheer Fruits
+20038|4|en|Action Monster Big Movie
 7020|2|en|Action Series Puppets: New Three Musketeers
 11690|4|zh-Hans|Active Raid -机动强袭室第八课-
 11831|4|zh-Hans|Active Raid -机动强袭室第八课- 2nd
@@ -1976,6 +1977,7 @@
 10141|1|x-jat|Airy Me
 10141|4|ja|Airy Me
 7988|1|x-jat|Aisai Nikki
+20036|1|x-jat|Aisanai to Iwaremashite mo: Moto Maou no Hakushaku Reijou wa Kimajime Gunjin ni Ezuke o Sarete Shiawase ni Naru
 15288|1|x-jat|Aisei Tenshi Love Mary: Akusei Jutai The Animation
 13358|4|ja|aiseki MOGOL GIRL
 13358|1|x-jat|Aiseki Mogol Girl
@@ -3281,6 +3283,7 @@
 13471|1|x-zht|AOTU Shijie Di Er Ji
 14870|1|x-zht|AOTU Shijie Di San Ji
 17508|1|x-zht|AOTU Shijie Di Si Ji
+20037|1|x-zht|AOTU Shijie REBORN
 13470|4|en|AOTU World
 12762|3|x-jat|aoyama
 4636|1|x-jat|Aoyama Goushou Tanpenshuu
@@ -6746,6 +6749,7 @@
 17356|2|x-jat|Boku no Hero Academia: Hero League Baseball
 14776|2|x-jat|Boku no Hero Academia: Heroes Rising
 15672|1|x-jat|Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren
+20039|1|x-jat|Boku no Hero Academia: More
 18199|2|ja|Boku no Hero Academia: UA Heroes Battle
 17356|2|x-jat|Boku no Hero Academia: Warae! Jigoku no You ni
 18199|1|x-jat|Boku no Hero Academia: Yuuei Heroes Battle
@@ -12520,6 +12524,7 @@
 2577|3|x-jat|dinagiga
 19806|1|x-zht|Ding Ding Zhan Hou Wang
 16487|1|x-zht|Dinghai Fusheng Lu
+20036|2|en|Dinners with My Darling: How the Former Monster King Ate Her Way to Happiness
 2728|2|en|Dino Adventure Jurassic Tripper
 14927|4|en|Dino Girl Gauko
 14927|4|pt|Dino Girl Gauko
@@ -24013,6 +24018,7 @@
 13698|2|en|I Want You To Make a Disgusted Face and Show Me Your Underwear
 14259|2|en|I Want You To Make a Disgusted Face and Show Me Your Underwear 2
 19508|2|en|I Want You To Make a Disgusted Face and Show Me Your Underwear Returns
+19508|4|en|I Want You To Show Me Your Panties with a Disgusted Face Returns
 10729|2|en|I Was Abducted by an Elite All-Girls School as a Sample Commoner
 19519|2|en|I Was Exiled as a Villainess! I Am Now a Sister Living the Good Life Through a Culinary Reform
 17693|2|en|I Was Kicked out of the Hero`s Party Because I Wasn`t a True Companion so I Decided to Have a Slow Life at the Frontier 2nd
@@ -26708,6 +26714,7 @@
 13010|1|x-zht|Kai Feng Qitan: Zhege Baogong Bu Taixing
 13010|2|en|Kai Feng Story
 6051|2|lt|Kai Kirai Verkia
+20038|1|x-zht|Kai Pai La! Guaishou Da Dianying
 12481|1|x-kot|Kai: Geoul Hosuui Jeonseol
 12481|4|en|Kai: Legend of the Icy Lake
 12481|2|en|Kai: The Legend of Mirror Lake
@@ -47987,6 +47994,7 @@
 18207|1|x-jat|Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei Suru (2027)
 16055|2|ja|Sekai Saikou no Assassin, Isekai Kizoku ni Tensei suru
 19569|1|x-jat|Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha
+20035|1|x-jat|Sekai Saikyou no Majo, Hajimemashita
 10212|4|de|Sekai Seifuku - World Conquest Zvezda Plot
 10212|1|x-jat|Sekai Seifuku: Bouryaku no Zvezda
 10212|4|fr|Sekai Seifuku: le complot Zvezda
@@ -48000,6 +48008,7 @@
 8113|1|x-jat|Sekaiichi Hatsukoi TV
 15055|1|x-jat|Sekaiichi Hatsukoi: Proposal Hen
 7921|3|x-jat|sekakoi
+20035|3|x-jat|sekamajo
 9794|3|x-jat|Sekatsuyo
 1913|4|tr|Şeker Kız Candy
 818|2|tr|Şeker Kız Candy Film
@@ -54487,7 +54496,6 @@
 15262|4|ja|THE IDOLM@STER CINDERELLA GIRLS Spin-off!
 5751|4|ja|THE iDOLM@STER Live For You!
 15625|4|ja|THE iDOLM@STER MILLION LIVE!
-20008|1|x-jat|THE IDOLM@STER Million Live! ~Itsuka, Mannaka de~
 9701|4|ja|THE IDOLM@STER MOVIE 輝きの向こう側へ!
 17918|4|ja|THE IDOLM@STER SHINY COLORS
 18523|4|ja|THE IDOLM@STER SHINY COLORS 2nd season
@@ -54516,6 +54524,7 @@
 16140|1|x-jat|The Idolmaster Cinderella Girls: Starlight Stage 5 Shuunen Kinen - Go Just Go!
 16140|2|en|The Idolmaster Cinderella Girls: Starlight Stage 5th Anniversary - Go Just Go!
 15625|1|x-jat|The Idolmaster Million Live!
+20008|1|x-jat|The Idolmaster Million Live! Itsuka, Mannaka de
 20008|4|en|The Idolmaster Million Live! Someday, In the Middle
 9701|2|en|The Idolmaster Movie: Beyond the Brilliant Future!
 9701|1|x-jat|The Idolmaster Movie: Kagayaki no Mukougawa e!
@@ -55669,6 +55678,7 @@
 18207|2|en|The World`s Finest Assassin Gets Reincarnated in Another World as an Aristocrat (2027)
 7051|4|en|The World`s Greatest Fairy Tales
 19569|2|en|The World`s Strongest Rearguard: Labyrinth Country`s Novice Seeker
+20035|2|en|The World`s Strongest Witch
 16537|4|en|The Wrong Way to Use Healing Magic
 18799|4|en|The Wrong Way to Use Healing Magic 2
 18799|2|en|The Wrong Way to Use Healing Magic Season 2
@@ -59790,9 +59800,11 @@
 10958|4|en|Wish Upon the Pleiades (2015)
 18482|2|en|Wisteria of the Wand and Sword
 18889|2|en|Wisteria of the Wand and Sword Season 2
+18482|3|x-jat|wistoria
 18482|4|en|Wistoria: Wand and Sword
 18889|4|en|Wistoria: Wand and Sword Season 2
 18889|4|de|Wistoria: Wand and Sword Staffel 2
+18889|3|x-jat|wistoria2
 4121|2|pl|Witaj w NHK!
 20010|2|en|Witch and Mercenary
 9496|1|x-jat|Witch Craft Works
@@ -62289,6 +62301,7 @@
 4371|1|x-jat|Zettaizetsumei Dangerous Jii-san (2004)
 15091|1|x-jat|Zettaizetsumei Dangerous Jii-san (2005)
 16971|4|pl|Zew nocy
+18531|4|pl|Zew nocy Sezon 2
 3969|2|x-jat|ZGII
 3969|3|en|ZGII -Lovers-
 11653|1|x-zht|Zhan Long Si Qu
@@ -77739,6 +77752,7 @@
 826|5|ja|セイントセイヤ
 8963|5|ja|セイントセイヤオメガ
 7921|3|ja|セカコイ
+20035|3|ja|せかまじょ
 5786|4|ja|セキレイ
 6793|4|ja|セキレイ~Pure Engagement~
 699|4|ja|セクシーコマンドー外伝 すごいよ!! マサルさん
@@ -82822,6 +82836,7 @@
 8567|4|ja|世界一初恋2
 12947|4|zh-Hans|世界之暗图鉴
 19569|4|ja|世界最強の後衛 ~迷宮国の新人探索者~
+20035|4|ja|世界最強の魔女, 始めました
 16055|4|ja|世界最高の暗殺者, 異世界貴族に転生する
 18207|4|ja|世界最高の暗殺者, 異世界貴族に転生する (2027)
 17618|4|ja|世界名作劇場・完結版 	ポルフィの長い旅
@@ -83751,6 +83766,7 @@
 18921|4|ja|僕のヒーローアカデミア (2025)
 17356|4|ja|僕のヒーローアカデミア (Web)
 18921|2|ja|僕のヒーローアカデミア FINAL SEASON
+20039|4|ja|僕のヒーローアカデミア More
 13633|4|ja|僕のヒーローアカデミア THE MOVIE -2人の英雄[ヒーロー]-
 14776|4|ja|僕のヒーローアカデミア THE MOVIE ヒーローズ:ライジング
 18150|4|ja|僕のヒーローアカデミア THE MOVIE ユアネクスト
@@ -84296,6 +84312,7 @@
 13471|4|zh-Hans|凹凸世界 第二季
 17508|4|zh-Hans|凹凸世界 第四季
 19860|4|zh|凹凸世界 第四季
+20037|4|zh-Hans|凹凸世界REBORN
 17614|4|zh-Hans|凹凸魔女的亲子日常
 17614|4|zh-Hant|凹凸魔女的親子日常
 3207|4|ja|出ましたっ! パワパフガールズZ
@@ -88266,6 +88283,7 @@
 13010|4|zh-Hans|开封奇谈-这个包公不太行
 17358|4|zh-Hans|开局一座山
 19820|4|zh-Hans|开局地摊卖大力
+20038|4|zh-Hans|开拍啦！怪兽大电影
 15339|4|zh-Hans|开挂药师的奇幻世界悠闲生活
 17742|4|zh-Hans|开阔天空！光之美少女
 17248|4|zh-Hans|异世界一击无双姐姐
@@ -88946,6 +88964,7 @@
 15653|4|ja|愛・スカイツリー 21
 10727|4|ja|愛・天地無用!
 17395|4|ja|愛w君
+20036|4|ja|愛さないといわれましても ~元魔王の伯爵令嬢は生真面目軍人に餌付けをされて幸せになる~
 1836|4|ja|愛してナイト
 19382|4|ja|愛してるゲームを終わらせたい
 1648|4|ja|愛してるぜベイベ★★
@@ -92617,7 +92636,7 @@
 3386|4|ja|爆裂天使 -Infinity-
 3386|4|zh-Hans|爆裂天使INFINITY
 16522|4|zh-Hans|爆裂飞车2 星能觉醒
-16523|4|zh-Hans|爆裂飞车3兽神合体
+16523|4|zh-Hans|爆裂飞车3 兽神合体
 1180|4|zh-Hans|爆裂鼻毛真拳
 9039|4|ja|爆走サーキット·ロマン TWIN
 1171|4|zh-Hans|爆走兄弟Let`s & Go!!
