@@ -1,4 +1,4 @@
-# created: Sun May  3 03:00:02 2026
+# created: Mon May  4 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5634,6 +5634,11 @@
 98|2|lt|Berserkas
 18781|4|id|Bertunangan dengan Mantan Tunangan Kakakku
 181|3|x-jat|berubara
+14373|3|en|Beryl and Sapphire
+18925|2|en|Beryl and Sapphire IV
+18926|2|en|Beryl and Sapphire V
+18923|2|en|Beryl and Sapphire: Demon King Chapter
+18924|2|en|Beryl and Sapphire: Demon King Chapter II
 18793|4|fr|Beryl: de paysan à maître d`armes
 730|2|tr|Beş Yıldız Öyküleri
 11979|4|es|Bésalo a él, no a mí
