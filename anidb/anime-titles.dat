@@ -1,4 +1,4 @@
-# created: Mon May  4 03:00:01 2026
+# created: Wed May  6 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3279,10 +3279,10 @@
 16177|3|en|aot5
 17303|3|en|aot6
 13470|1|x-zht|AOTU Shijie
+14870|2|x-zht|AOTU Shijie 3
 19860|1|x-zht|AOTU Shijie 4
 13471|1|x-zht|AOTU Shijie Di Er Ji
 14870|1|x-zht|AOTU Shijie Di San Ji
-17508|1|x-zht|AOTU Shijie Di Si Ji
 20037|1|x-zht|AOTU Shijie REBORN
 13470|4|en|AOTU World
 12762|3|x-jat|aoyama
@@ -37386,6 +37386,7 @@
 15672|4|en|My Hero Academia: Make It! Do-or-Die Survival Training
 15672|4|fr|My Hero Academia: Make It! Do-or-Die Survival Training
 15873|4|es|My Hero Academia: misión mundial de héroes
+20039|4|en|My Hero Academia: More
 15672|4|pt-BR|My Hero Academia: Sobreviva! Treinamento de Sobrevivência Mortal
 13633|4|en|My Hero Academia: Two Heroes
 13633|4|fr|My Hero Academia: Two Heroes
@@ -41225,6 +41226,7 @@
 16828|2|en|Our Last Crusade or the Rise of a New World Season 2
 16828|4|en|Our Last Crusade or the Rise of a New World Season II
 13038|4|en|Our Love Has Always Been 10 Centimeters Apart.
+14026|2|en|Our Maid Is Way Too Annoying!
 18105|2|en|Our Rainy Protocol
 3540|2|en|Our Road of No Return
 13692|4|en|Our Saint Honen
@@ -69815,6 +69817,7 @@
 18493|4|hi|लुक बैक
 17634|4|hi|लुपिन 3 बनाम कैट्स आइ
 18676|4|hi|लेवायथन
+18889|2|hi|विस्टोरिया: छड़ी एंड तलवार सीज़न 2
 13293|4|hi|वोटाकोई: लव इज़ हार्ड फ़ॉर ओटाकु
 10538|4|hi|साएकानो ♭ हाऊ टू रेज़ ए बोरिंग गर्लफ्रेंड
 11221|4|hi|साएकानो ♭ हाऊ टू रेज़ ए बोरिंग गर्लफ्रेंड.फ्लैट
@@ -84315,8 +84318,7 @@
 13470|2|zh-Hans|凹凸世界 第一季
 14870|4|zh-Hans|凹凸世界 第三季
 13471|4|zh-Hans|凹凸世界 第二季
-17508|4|zh-Hans|凹凸世界 第四季
-19860|4|zh|凹凸世界 第四季
+19860|4|zh-Hans|凹凸世界 第四季
 20037|4|zh-Hans|凹凸世界REBORN
 17614|4|zh-Hans|凹凸魔女的亲子日常
 17614|4|zh-Hant|凹凸魔女的親子日常
