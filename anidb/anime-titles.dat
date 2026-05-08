@@ -1,4 +1,4 @@
-# created: Wed May  6 03:00:01 2026
+# created: Fri May  8 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -9104,6 +9104,7 @@
 15644|2|x-zht|Chuan Shu Zi Jiu Zhi Nan
 15644|1|x-zht|Chuan Shu Zijiu Zhinan
 16685|1|x-zht|Chuanyue Huoxian: Youling Jihua
+20043|1|x-zht|Chuanyue Shou Shi, Shenshou Nan Pu Zhu Wo Cheng Hou
 18637|2|en|Chubby Girlfriend and Pity Boyfriend
 3466|2|en|Chubby Ninja
 15547|4|vi|Chúc thế giới ngủ ngon
@@ -9581,6 +9582,7 @@
 13326|1|x-jat|Cogimyun
 7884|4|en|Coicent
 4345|2|en|Coil - A Circle of Children
+20041|4|en|Coiling Dragon
 4090|3|x-jat|Coji Coji
 4090|3|x-jat|Coji-Coji
 4090|3|x-jat|Cojicoji
@@ -20829,6 +20831,8 @@
 7382|2|lt|Gyvųjų Numirėlių Mokykla
 8574|4|ja|G線上の悲劇
 19499|1|x-jat|H na Ane Series The Animation
+19499|2|x-jat|H na Gishi Series The Animation
+19499|2|x-jat|H na Onee Series The Animation
 3672|2|el|H Τοσοδούλα
 6312|4|ja|H・P・ラヴクラフトの ダニッチ・ホラー
 353|2|ja|H.G.J -Habitat Ground Jewdo-
@@ -27167,6 +27171,7 @@
 15586|1|x-jat|Kanojo ga Yatsu ni Dakareta Hi
 15851|1|x-jat|Kanojo mo Kanojo
 17628|1|x-jat|Kanojo mo Kanojo (2023)
+20040|1|x-jat|Kanojo no Tomodachi
 461|1|x-jat|Kanojo to Kanojo no Neko
 11874|1|x-jat|Kanojo to Kanojo no Neko: Everything Flows
 10915|1|x-jat|Kanojo wa Dare to demo Sex Suru.
@@ -27209,6 +27214,7 @@
 15|2|en|Kanon 2002
 4404|2|en|Kanon Remake
 4404|2|ja|Kanon(新)
+20040|3|x-jat|kanotomo
 14468|2|x-jat|Kanpeki Irina Ojou-sama
 14468|1|x-jat|Kanpeki Ojou-sama no Watakushi ga Dogeza de Maso Ochi Suru Choroin na Wakenai Desu wa!
 14468|2|x-jat|Kanpeki Ojousama no Watakushi ga Dogeza de Maso Ochi Suru Choroin na Wakenai Desu wa!
@@ -31065,6 +31071,7 @@
 454|4|en|Legend of Himiko
 14645|2|en|Legend of Immortals
 19137|2|en|Legend of Immortals 6th Season
+20044|2|en|Legend of Immortals 7th Season
 844|4|en|Legend of Lemnear
 844|4|pt|Legend of Lemnear - A Lenda de Lemnear
 844|2|en|Legend of Lemnear - Valkysas, the Wings of Ultimate Darkness
@@ -37139,6 +37146,7 @@
 10571|4|en|Mushi-Shi The Next Passage (2014)
 10991|2|en|Mushi-Shi: Bell Droplets
 10384|2|en|Mushi-Shi: Next Passage
+10274|4|en|Mushi-shi: The Shadow that Devours the Sun
 5212|2|x-jat|Mushi-Uta
 10384|3|x-jat|mushi2
 8001|1|x-jat|Mushiba Tetsudou
@@ -41568,6 +41576,7 @@
 10909|1|x-jat|Pankis! 2 Jigen
 8129|1|x-jat|Pankunchi
 8129|4|ja|PANKUNCHI
+20041|1|x-zht|Panlong
 12981|1|x-jat|Panpaka Pants O New-san
 12067|1|x-jat|Panpaka Pants O New!
 12068|1|x-jat|Panpaka Pants WO New!
@@ -45163,6 +45172,7 @@
 19580|4|en|Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season
 18204|2|en|Reborn as a Vending Machine, I Now Wander the Dungeon Season 2
 12934|2|en|Reborn Gladiator of The Baby-Making Colosseum
+20043|2|en|Reborn in Beast World, My Divine Beasts Make Me Queen
 19653|2|en|Reborn to be a Supreme Emperor
 17015|4|en|Reborn to Master the Blade: From Hero-King to Extraordinary Squire
 17015|2|en|Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀
@@ -51539,11 +51549,14 @@
 1470|2|en|Stellar Buster Mito 2
 14645|2|en|Stellar Transformation
 19137|2|en|Stellar Transformation 6
+20044|2|en|Stellar Transformation 7
+20044|2|en|Stellar Transformation 7th Season
 15594|2|en|Stellar Transformation Season 2
 16578|2|en|Stellar Transformation Season 3
 16581|2|en|Stellar Transformation Season 4
 17807|2|en|Stellar Transformation Season 5
 19137|2|en|Stellar Transformation Season 6
+20044|2|en|Stellar Transformation Season 7
 630|4|en|Stellvia
 630|3|x-jat|Stellvia
 630|2|en|Stellvia of the Universe
@@ -52297,6 +52310,7 @@
 17093|2|en|Swallowed Star S2
 19039|2|en|Swallowed Star The Movie: Xueluo Continent
 19039|2|en|Swallowed Star: Blood Luo Continent
+20042|4|en|Swallowed Star: Showdown on Primeval Star
 19342|4|en|Swallowing the Heavens
 1694|4|en|Swallowtail Inn
 13222|2|ko|Swamp Stamp
@@ -57422,6 +57436,7 @@
 18365|2|x-zht|Tunshi Xingkong 4
 18365|2|x-zht|Tunshi Xingkong Di Si Ji
 19039|2|x-zht|Tunshi Xingkong Juchang Ban: Xueluo Dalu
+20042|1|x-zht|Tunshi Xingkong Movie: Juezhan Yuanshi Xing
 19039|1|x-zht|Tunshi Xingkong Movie: Xueluo Dalu
 17093|1|x-zht|Tunshi Xingkong Zhuangzhi Lingyun
 17026|4|vi|Tưởng tượng
@@ -60445,7 +60460,10 @@
 14645|1|x-zht|Xing Chen Bian
 16581|1|x-zht|Xing Chen Bian (2022)
 19137|2|x-zht|Xing Chen Bian 6
+20044|2|x-zht|Xing Chen Bian 7
+20044|2|x-zht|Xing Chen Bian 7th Season
 19137|1|x-zht|Xing Chen Bian Di Liu Ji
+20044|1|x-zht|Xing Chen Bian Di Qi Ji
 17807|1|x-zht|Xing Chen Bian Di Wu Ji
 15594|2|x-zht|Xing Chen Bian Season 2
 16578|2|x-zht|Xing Chen Bian Season 3
@@ -60471,8 +60489,10 @@
 17554|1|x-zht|Xing Yuan Zhi Zhu
 14645|2|zh|Xingchen Bian
 19137|2|x-zht|Xingchen Bian 6th Season
+20044|2|x-zht|Xingchen Bian 7th Season
 17807|2|x-zht|Xingchen Bian: An Xing Jie Pian
 16581|2|x-zht|Xingchen Bian: Po Tian Mi Ju
+20044|2|x-zht|Xingchen Bian: Tianzun Zhi Zhan
 16578|1|x-zht|Xingchen Bian: Xingchen Yao Hai
 15594|1|x-zht|Xingchen Bian: Yu Li Cang Hai
 17258|1|x-zht|Xinghe Zhizun
@@ -67615,6 +67635,11 @@
 18500|4|uk|Чі. Пригоди однієї киці: Літні канікули
 7532|2|ru|Члены школьного совета
 10197|2|ru|Члены Школьного совета [ТВ-2]
+10810|2|ru|Члены школьного совета 2 OVA
+8204|2|ru|Члены школьного совета OVA (2011)
+8996|2|ru|Члены школьного совета OVA (2012)
+12618|2|ru|Члены школьного совета. Фильм
+15294|2|ru|Члены школьного совета. Фильм 2
 12|2|bg|Чобитс
 12|4|ru|Чобиты
 12|2|uk|Чобіти
@@ -70881,6 +70906,7 @@
 18337|2|ko|꿈꾸는 소녀
 12362|4|ko|꿈왕국과 잠자는 100명의 왕자님
 4445|2|ko|꿈차원 헌터 판도라
+19867|2|ko|끝내 아내가 되어
 1048|2|ko|끝없는 세레나데
 18935|4|ko|끝이 아닌 시작
 14131|2|ko|끼워줄께
@@ -71950,6 +71976,7 @@
 6184|4|ko|쁘띠 에바: Evangelion@School
 12835|2|ko|사랑과 거짓말
 15061|2|ko|사랑방
+19846|2|ko|사랑은 갸루에서 시작되는 운명
 12906|4|ko|사랑은 비가 갠 뒤처럼
 3078|4|ko|사랑은콩다콩
 734|2|ko|사랑의 물결
@@ -73480,6 +73507,7 @@
 4255|2|ko|치궁의 안드로이드
 14116|2|ko|치녀누나 맥스하트
 15088|4|ko|치로와 친구들
+19845|2|ko|치매문릉
 3595|2|ko|치모
 6486|2|ko|치열 카르테 The Devilish Cherry
 13250|4|ko|치오쨩의 통학로
@@ -75781,6 +75809,7 @@
 6787|4|ja|かのこん ~真夏の大謝肉祭~
 15851|4|ja|カノジョも彼女
 17628|4|ja|カノジョも彼女 (2023)
+20040|3|ja|カノトモ
 15|2|ja|カノン
 4404|2|ja|カノン (2006)
 3609|4|ja|カバトット
@@ -84025,6 +84054,7 @@
 17709|4|zh-Hans|关于我转生变成史莱姆这档事 第三季
 14767|4|zh-Hans|关于我转生变成史莱姆这档事 第二季
 15456|4|zh-Hans|关于我转生变成史莱姆这档事 第二季 第2部分
+18884|4|zh-Hans|关于我转生变成史莱姆这档事 第四季
 15457|4|zh-Hans|关于我转生变成史莱姆这档事 转生史莱姆日记
 19699|4|zh-Hans|关于虽然逃走的鱼很大、但钓上来的鱼却太大了这件事
 17108|4|zh-Hans|关于邻家的天使大人不知不觉把我惯成了废人这档子事
@@ -84138,7 +84168,9 @@
 19191|4|zh-Hans|最强升级
 7434|4|zh-Hans|最强武將傳 三國演義
 18935|4|zh-Hans|最强王者的第二人生
+19381|4|zh-Hans|最强王者的第二人生 第二季
 18935|2|zh-Hans|最强的王者，在第二次的人生能做什么？
+19667|4|zh-Hans|最强的职业不是勇者也不是贤者好像是鉴定士(伪)的样子
 18229|4|zh-Hans|最强肉盾的迷宫攻略～拥有稀少技能体力9999的肉盾，被勇者队伍辞退了～
 16883|4|zh-Hans|最强蜗牛x不速之客
 10005|4|zh-Hans|最强银河 究极ZERO ～Battle Spirits～
@@ -84218,6 +84250,7 @@
 4797|2|zh-Hans|冬日花园
 4828|3|ja|冬蝉
 12012|4|zh-Hans|冰上的尤里
+19139|4|zh-Hans|冰之城墙
 17357|4|zh-Hant|冰冰冰 冰淇淋君 2
 17341|4|zh-Hans|冰剑的魔术师将要统一世界
 17341|4|ja|冰剣の魔術師が世界を統べる
@@ -85534,7 +85567,9 @@
 18364|4|zh-Hans|吞噬星空 第三季
 17093|2|zh-Hans|吞噬星空 第二季
 18365|4|zh-Hans|吞噬星空 第四季
+20042|2|zh-Hans|吞噬星空剧场版 决战原始星
 19039|4|zh-Hans|吞噬星空剧场版 血洛大陆
+20042|4|zh-Hans|吞噬星空剧场版：决战原始星
 19831|4|zh-Hans|吞噬魔物的冒险者
 19831|4|zh-Hant|吞噬魔物的冒險者
 19342|4|zh-Hans|吞天记
@@ -85962,6 +85997,7 @@
 18267|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 第五季
 13830|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼：俄里翁之箭
 17580|4|zh-Hans|在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～
+18241|4|zh-Hans|在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～ (2026)
 18095|4|zh-Hant|在沖繩喜歡上的女孩方言講得太過令人困擾
 17580|2|zh-Hant|在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～
 8620|4|zh-Hans|在盛夏等待
@@ -86477,6 +86513,7 @@
 15409|4|zh-Hant|大貴族
 19994|4|ja|大賢者リドルの時間逆行
 19994|4|zh-Hant|大賢者里德爾的時間逆行
+19994|4|zh-Hans|大贤者里德尔的时间逆行
 18927|4|zh-Hans|大道朝天
 19997|4|zh-Hans|大道独行之蝶龙变
 78|2|zh-Hans|大都会
@@ -87643,6 +87680,7 @@
 15383|4|ja|小さな蕾のその奥に......
 18182|4|zh-Hans|小不点
 18182|4|zh-Hant|小不點
+18302|4|zh-Hans|小书痴的下克上 〜为了成为图书管理员而不择手段〜 第四季
 15634|2|zh-Hans|小书痴的下克上：为了成为图书管理员不择手段！ 第三季
 15293|4|zh-Hans|小书痴的下克上～为了成为图书管理员而不择手段～ 第2部
 15634|4|zh-Hans|小书痴的下克上～为了成为图书管理员而不择手段～ 第3部
@@ -88455,6 +88493,7 @@
 7929|4|ja|彼女が見舞いに来ない理由
 461|4|ja|彼女と彼女の猫
 11874|4|ja|彼女と彼女の猫 -Everything Flows-
+20040|4|ja|彼女の友達
 11900|4|ja|彼女はゾンビ
 10915|4|ja|彼女は誰とでもセックスする.
 18951|4|ja|彼女フェイス THE ANIMATION
@@ -90364,8 +90403,11 @@
 13977|2|ja|星色ガールドロップ 2
 14645|4|zh|星辰变
 16581|4|zh-Hans|星辰变 (2022)
+20044|2|zh-Hans|星辰变 最终季
+20044|2|zh-Hans|星辰变 天尊之战
 16578|4|zh-Hans|星辰变 星辰耀海
 19137|4|zh-Hans|星辰变 第6季
+20044|4|zh-Hans|星辰变 第7季
 17807|4|zh-Hans|星辰变 第五季
 19137|2|zh-Hans|星辰变 第六季
 16581|2|zh-Hans|星辰变 第四季
@@ -91539,6 +91581,7 @@
 17208|4|zh-Hans|欢迎来到实力至上主义教室 2
 17237|4|zh-Hans|欢迎来到实力至上主义教室 3
 17208|2|zh-Hans|欢迎来到实力至上主义教室 第二季
+18844|4|zh-Hans|欢迎来到实力至上主义教室 第四季
 18361|4|zh-Hans|欢迎来到日本，妖精小姐。
 18361|2|zh-Hans|欢迎来到日本，精灵小姐。
 14592|4|zh-Hans|欢迎来到雏菊处女迷失俱乐部
@@ -92063,6 +92106,7 @@
 7221|4|zh-Hant|涼宮春日的消失
 3203|4|ja|涼風
 3203|4|zh-Hant|涼風
+18618|4|zh-Hans|淡岛百景
 18618|4|ja|淡島百景
 1688|4|ja|淫の方程式
 19307|4|ja|淫モラル・ゲームマスター THE ANIMATION
@@ -92467,6 +92511,7 @@
 11650|4|zh|烏蘭其其格
 1824|4|zh-Hant|烏龍派出所
 1824|4|zh-nan|烏龍派出所
+19291|4|zh-Hans|烟囱镇的普佩尔~约定的钟楼
 12605|3|zh-Hans|烟花
 13795|4|zh-Hans|烟草
 13531|4|zh-Hans|烤肉店战国
@@ -93562,6 +93607,7 @@
 19921|4|zh-Hans|盗妖行
 19838|4|ja|盗掘王
 4191|2|zh-Hans|盗梦侦探
+20041|4|zh-Hans|盘龙
 13772|4|zh-Hans|盛世妆娘
 10768|4|ja|監獄学園
 11805|4|ja|監獄学園[プリズンスクール] マッドワックス
@@ -94119,6 +94165,7 @@
 7678|2|ja|秘湯めぐり隠れ湯
 15299|4|zh-Hans|租借女友
 17629|4|zh-Hans|租借女友 第三季
+19587|4|zh-Hans|租借女友 第五季
 18753|4|zh-Hans|租借女友 第四季
 15299|2|zh-Hans|租赁女友
 15784|4|zh-Hans|秦侠
@@ -94204,6 +94251,7 @@
 1859|4|ja|空飛ぶゆうれい船
 3966|4|ja|空飛ぶ都市計画
 15644|4|zh-Hans|穿书自救指南
+20043|4|zh-Hans|穿越兽世, 神兽男仆助我成后
 6176|2|zh-Hans|穿越宇宙的少女
 4151|4|zh-Hans|穿越时空的少女
 16685|4|zh-Hans|穿越火线：幽灵计划
@@ -96393,6 +96441,7 @@
 17789|4|zh-Hans|转生成为魔剑了 2
 18532|4|zh-Hans|转生成猫咪的大叔
 17557|4|zh-Hans|转生成自动贩卖机的我今天也在迷宫徘徊
+19580|4|zh-Hans|转生成自动贩卖机的我今天也在迷宫徘徊 第三季
 18204|4|zh-Hans|转生成自动贩卖机的我今天也在迷宫徘徊 第二季
 14201|4|zh-Hans|转生成蜘蛛又怎样！
 17569|4|zh-Hans|转生王女与天才千金的魔法革命
