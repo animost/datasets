@@ -1,4 +1,4 @@
-# created: Fri May  8 03:00:02 2026
+# created: Sat May  9 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2473,6 +2473,7 @@
 19116|4|en|Alma-chan Wants to Be a Family!
 19116|2|en|Alma-chan Wants to Have a Family!
 3672|4|es-419|Almendrita
+19920|2|en|Almighty Mage 7th Season
 7920|3|en|Alone Again
 3667|4|it|Alpenrose
 3667|4|en|Alpenrose of Fire Judy and Randy
@@ -5744,6 +5745,7 @@
 13791|2|en|Beyblade: Beyblade Burst Turbo
 594|2|en|Beyblade: Beyblade G Revolution
 1964|2|en|Beyblade: Beyblade V-Force
+14915|4|en|Beyblade: Beywheelz
 7520|2|en|Beyblade: Metal Fight Beyblade the Movie: VS the Sun; Sol Blaze, the Scorching-hot Invader
 8298|4|en|Beyblade: Metal Fury
 6426|4|en|Beyblade: Metal Fusion
@@ -5774,7 +5776,7 @@
 19835|4|en|Beyond Time`s Gaze
 20000|4|en|Beyond Twilight
 15032|1|x-jat|BeyWarriors: Cyborg
-14915|1|x-jat|Beywheelz
+14915|1|x-jat|BeyWheelz
 3573|2|lt|Bežiūrint į dylantį mėnulį
 11523|4|pl|Bezpańscy Literaci
 17131|4|pl|Bezsenność po szkole
@@ -16021,6 +16023,7 @@
 17004|1|x-zht|Fanren Xiu Xian Chuan: Mo Dao Zhengfeng
 19121|2|x-zht|Fanren Xiu Xian Chuan: Waihai Fengyun
 18265|1|x-zht|Fanren Xiu Xian Chuan: Xinghai Feichi Pian Xuzhang
+20045|1|en|Fanren Xiu Xian Zhuan: Mulan Zhi Zhan
 15425|1|x-zht|Fanren Xiuxian Chuan: Feng Qi Tian Nan
 17033|1|x-zht|Fanren Xiuxian Chuan: Feng Qi Tian Nan Er
 13545|4|sl|Fant in čaplja
@@ -17307,12 +17310,14 @@
 14978|2|en|Full-Time Expert Season 2
 13171|2|en|Full-Time Magister
 15397|2|en|Full-Time Magister 4
+19920|2|en|Full-Time Magister 7th Season
 15397|2|en|Full-Time Magister IV
 13469|2|en|Full-Time Magister Season 2
 14572|2|en|Full-Time Magister Season 3
 15397|2|en|Full-Time Magister Season 4
 16490|2|en|Full-Time Magister Season 5
 16579|2|en|Full-Time Magister Season 6
+19920|2|en|Full-Time Magister Season 7
 15905|3|x-jat|fulldive
 979|3|en|Fullmetal
 979|4|fr|Fullmetal Alchemist
@@ -25831,6 +25836,7 @@
 83|4|es|Jin-Roh
 83|4|it|Jin-Roh - Uomini e Lupi
 83|2|en|Jin-Roh, the Wolf Brigade
+83|2|pl|Jin-Roh: Brygada Wilków
 83|2|es-419|Jin-Roh: La Brigada Lobo
 83|4|fi|Jin-Roh: The Wolf Brigade
 83|4|en|Jin-Roh: The Wolf Brigade
@@ -26386,6 +26392,7 @@
 11907|1|x-jat|Junk Head
 16823|1|x-jat|Junk Head (2017)
 16823|4|ja|JUNK HEAD (2017)
+11907|2|en|JUNK HEAD 1
 10044|1|x-jat|Junk Land The Animation
 10044|4|ja|JUNK LAND THE ANIMATION
 5881|1|x-jat|Junk Story
@@ -30913,6 +30920,7 @@
 17488|4|fr|Le conte des parias
 1234|4|fr|Le continent du vent
 15263|2|fr|Le Culte de la Chair
+18650|2|fr|Le dernier souffle d`un yakuza
 2426|2|fr|Le Dit du Genji
 747|4|fr|Le dortoir des grandes
 747|2|fr|Le dortoir des grandes - vol. 1-2
@@ -32177,7 +32185,7 @@
 1762|1|x-jat|Love Love?
 1762|4|en|Love Love?
 2495|1|x-jat|Love Machine: Animaid Shoufu 23-gou
-19697|1|en|Love Magic Grocery
+19302|4|en|Love Magic Grocery
 15288|2|fr|Love Mary, l’Archange céleste de l’Amour – Conception malsaine
 1836|2|en|Love Me Knight
 14883|2|en|Love Me, Love Me Not
@@ -36751,6 +36759,7 @@
 15324|4|en|Moriarty the Patriot
 15774|4|en|Moriarty the Patriot (2021)
 15774|2|en|Moriarty the Patriot Part 2
+18817|4|en|Moriarty`s Perfect Crime
 15774|3|x-jat|Moriarty2
 4403|3|x-jat|Moribito
 4403|4|es|Moribito, guardián del Espíritu Sagrado
@@ -44474,6 +44483,7 @@
 12799|1|x-jat|Quantum Leap
 12799|4|ja|Quantum Leap
 13171|1|x-zht|Quanzhi Fashi
+19920|2|x-zht|Quanzhi Fashi 7th Season
 13469|1|x-zht|Quanzhi Fashi II
 14572|1|x-zht|Quanzhi Fashi III
 15397|1|x-zht|Quanzhi Fashi IV
@@ -44566,6 +44576,7 @@
 15397|3|x-jat|qzfs s4
 16490|3|x-jat|qzfs s5
 16579|3|x-jat|qzfs s6
+19920|3|x-zht|qzfs s7
 12560|3|x-zht|qzgs
 15035|3|x-zht|qzgs movie
 14978|3|x-zht|qzgs s2
@@ -52307,6 +52318,7 @@
 18364|2|en|Swallowed Star 3rd Season
 18365|2|en|Swallowed Star 4th Season
 19039|4|en|Swallowed Star Movie: Blood Luo Continent
+20042|2|en|Swallowed Star Movie: The Decisive Battle on the Primordial Star
 17093|2|en|Swallowed Star S2
 19039|2|en|Swallowed Star The Movie: Xueluo Continent
 19039|2|en|Swallowed Star: Blood Luo Continent
@@ -58690,6 +58702,7 @@
 3542|1|x-jat|Versailles no Bara: Seimei Aru Kagiri Aishite
 17609|4|hu|Versailles rózsája (2025)
 13171|2|en|Versatile Mage
+19920|2|en|Versatile Mage 7th Season
 181|4|tr|Versay`ın Gülü
 17609|4|tr|Versay`ın Gülü (2025)
 19957|1|x-jat|Vertex Force
@@ -59310,7 +59323,6 @@
 9570|1|x-jat|Wanna. SpartanSex Spermax!!!
 9570|4|ja|Wanna. SpartanSex Spermax!!!
 3384|1|x-jat|Wannabes
-19697|4|zh|Wanneng Lian Ai Zahuo Dian
 19302|1|x-zht|Wanneng Lian Ai Zahuo Dian
 2201|1|x-jat|Wanpaku Ouji no Orochi Taiji
 2874|1|x-jat|Wanpaku Tanteidan
@@ -83955,6 +83967,8 @@
 13469|2|zh-Hans|全职法师 第2季
 14572|2|zh|全职法师 第3季
 15397|2|zh|全职法师 第4季
+19920|2|zh-Hans|全职法师 第7季
+19920|2|zh-Hans|全职法师 第七季
 13469|2|zh|全职法师 第二季
 13469|4|zh-Hans|全职法师II
 14572|4|zh-Hans|全职法师III
@@ -84316,6 +84330,7 @@
 18265|4|zh-Hans|凡人修仙传 星海飞驰篇 序章
 16039|2|zh-Hant|凡人修仙传 特别篇: 燕家堡大战
 18332|4|zh-Hans|凡人修仙传 第三季
+20045|4|zh-Hans|凡人修仙传 第五季
 19121|4|zh-Hans|凡人修仙传 第四季
 15425|4|zh-Hans|凡人修仙传 风起天南
 17004|4|zh-Hans|凡人修仙传 魔道争锋
@@ -85567,9 +85582,9 @@
 18364|4|zh-Hans|吞噬星空 第三季
 17093|2|zh-Hans|吞噬星空 第二季
 18365|4|zh-Hans|吞噬星空 第四季
-20042|2|zh-Hans|吞噬星空剧场版 决战原始星
+20042|4|zh-Hans|吞噬星空剧场版 决战原始星
 19039|4|zh-Hans|吞噬星空剧场版 血洛大陆
-20042|4|zh-Hans|吞噬星空剧场版：决战原始星
+20042|2|zh-Hans|吞噬星空剧场版：决战原始星
 19831|4|zh-Hans|吞噬魔物的冒险者
 19831|4|zh-Hant|吞噬魔物的冒險者
 19342|4|zh-Hans|吞天记
