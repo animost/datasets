@@ -1,4 +1,4 @@
-# created: Mon May 11 03:00:01 2026
+# created: Tue May 12 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4434,7 +4434,7 @@
 3515|2|x-jat|B.B. Fish
 3515|2|ja|B.B.[ブルーバタフライ]フィッシュ
 3515|4|ja|B.B.フィッシュ
-19914|2|x-unk|B.King
+19914|4|en|B.King
 3585|4|ja|B[ボンバーマン]ビーダマン爆外伝
 3586|4|ja|B[ボンバーマン]ビーダマン爆外伝V[ビクトリー]
 945|1|x-jat|B`t X
@@ -12906,7 +12906,7 @@
 7096|1|x-jat|Don: Gokudou Suikoden
 15859|2|en|Don`t Be A Hero
 15730|4|en|Don`t Call Us a Junk Game!
-18748|2|en|Don`t Give Up!
+18748|4|en|Don`t Give Up!
 16249|4|en|Don`t Hurt Me, My Healer!
 2022|4|en|Don`t Leave Me Alone, Daisy
 2719|4|en|Don`t Lose, Makendo
@@ -19343,6 +19343,9 @@
 19963|1|x-jat|Girls und Panzer: Dream Tank Match Picture Drama: Sensha Saiban Desu!
 10009|1|x-jat|Girls und Panzer: Kore ga Hontou no Anzio-sen Desu!
 19220|1|x-jat|Girls und Panzer: Motto Love Love Sakusen Desu!
+20047|4|en|Girls und Panzer: Princess Samurai
+20047|1|x-jat|Girls und Panzer: Ribbon no Musha
+20047|2|en|Girls und Panzer: Ribbon Warrior
 12361|6|x-jat|Girls und Panzer: Saishuushou das Finale
 10009|4|en|Girls und Panzer: This Is the Real Anzio Battle!
 16006|4|en|Girls` Frontline
@@ -54045,6 +54048,7 @@
 11949|2|en|The Cowherd`s Flute
 10173|2|en|The Crab Gets Its Revenge on the Monkey
 4625|2|en|The Crayon Shin-Chan movie: Treasures of the BuriBuri kingdom
+20046|2|en|The Credits Roll into the Sea
 306|2|en|The Crimson Pig
 2179|2|en|The Crow
 1233|2|ja|The Crown Knights Jaja馬!カルテット
@@ -57946,6 +57950,7 @@
 5258|1|x-jat|Umezu Kazuo no Noroi
 2706|4|is|Umhverfis jörðina á áttatíu dögum
 5226|1|x-jat|Umi Da! Funade Da! Nikoniko, Pun
+20046|1|x-jat|Umi ga Hashiru End Roll
 335|1|x-jat|Umi ga Kikoeru
 7976|1|x-jat|Umi kara no Shisha
 6402|4|en|Umi Monogatari
@@ -75700,6 +75705,7 @@
 10009|4|ja|ガールズ&パンツァー これが本当のアンツィオ戦です!
 19963|4|ja|ガールズ&パンツァー ドリームタンクマッチ ピクチャードラマ「戦車裁判です!」
 19220|4|ja|ガールズ&パンツァー もっとらぶらぶ作戦です!
+20047|4|ja|ガールズ&パンツァー リボンの武者
 12361|6|ja|ガールズ&パンツァー 最終章 das FINALE
 10008|4|ja|ガールズ&パンツァー 劇場版
 13571|4|ja|ガールズ&パンツァー 第63回戦車道全国高校生大会 総集編
@@ -92107,6 +92113,7 @@
 335|4|ja|海がきこえる
 7976|4|ja|海からの使者
 335|2|ja|海が聞こえる
+20046|4|ja|海が走るエンドロール
 335|3|ja|海きこ
 5226|4|ja|海だ! 船出だ! にこにこ, ぷん
 11097|4|ja|海に落ちた月の話
