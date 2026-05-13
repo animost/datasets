@@ -1,4 +1,4 @@
-# created: Tue May 12 03:00:01 2026
+# created: Wed May 13 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -61027,6 +61027,7 @@
 6249|2|tr|Yaz Savaşları
 11226|3|x-jat|YBJ
 142|3|x-jat|YDATV
+20048|1|x-zht|Ye Luoli - Jin Liuxin
 16059|1|en|Yebisu Celebrities 1st
 16059|4|ja|YEBISUセレブリティーズ1st
 10596|2|tr|Yedi Ölümcül Günah
@@ -62895,6 +62896,7 @@
 785|4|el|Σεβάχ ο Θαλασσινός
 13347|4|el|ΣΕΝΤ ΣΕΪΓΙΑ: Οι Ιππότες του Ζωδιακού
 3178|4|el|Σέρλοκ Χόλμς εναντίον Αρσέν Λουπέν
+1593|4|el|Σι-μποτς
 18283|4|el|Σκοτ Πίλγκριμ: Η Σειρά
 8250|4|el|Σόλ Κάτσι
 8284|4|el|Σόλ Κάτσι 2
@@ -85406,6 +85408,7 @@
 17447|4|zh-Hans|史上最强男主角
 7729|2|zh-Hant|史塔斯閘門
 4336|2|zh-Hans|史诗创造者年代记
+20048|4|zh-Hans|叶罗丽金鎏心
 19075|2|zh-Hans|叹气的亡灵好想隐退
 18498|4|zh-Hans|叹气的亡灵想隐退
 19075|4|zh-Hans|叹气的亡灵想隐退 第2部分
@@ -89071,6 +89074,7 @@
 13987|4|zh-Hans|想星的大天使 Myth of Emotions
 13987|2|zh-Hans|想星的阿克艾利昂 情感神话
 17695|4|zh-Hant|想當冒險者前往都市的女兒成為S級
+13698|4|zh-Hant|想看她一臉嫌惡地露出褲褲
 19382|4|zh-Hant|想結束這場的遊戲
 19382|4|zh-Hans|想结束这场“我爱你”的游戏
 16073|4|zh-Hans|想要成为影之实力者！
