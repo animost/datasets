@@ -1,4 +1,4 @@
-# created: Wed May 13 03:00:01 2026
+# created: Thu May 14 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2013,8 +2013,8 @@
 11265|2|tr|Ajin
 12111|1|x-jat|Ajin (2016 Dai 2 Cour)
 11577|1|x-jat|Ajin (2016)
+11758|1|x-jat|Ajin (OAD)
 18993|1|x-jat|Ajin ga Osuki nan Desu ne
-11758|1|x-jat|Ajin OAD
 11758|4|en|Ajin OVA
 12111|2|en|Ajin Part 2 (2016)
 4182|1|x-jat|Ajin Senshi
@@ -5509,6 +5509,7 @@
 776|4|en|Behind Closed Doors
 19479|2|en|Behind the Supermarket, Smoking with You.
 19940|1|x-zht|Bei Jiazu Paoqi, Wo Juexing Jiu Yi Shuxing Dian
+20049|1|x-zht|Bei Ken Xiong: Huoxing Renwu
 595|4|lt|Beibleidai
 15567|2|en|Beijing Opera Cats
 16701|1|x-zht|Beiken Xiong 2: Jinpai Tegong
@@ -8177,7 +8178,6 @@
 10931|4|en|Castle Town Dandelion
 754|2|en|Castles in the Air
 754|2|en|Castles in the sky
-19937|1|en|Castlevania
 3498|4|ro|Căsuţa zburătoare
 13893|3|x-jat|cat
 6912|2|en|Cat and Mouse
@@ -83246,7 +83246,7 @@
 11265|4|ja|亜人
 12111|4|ja|亜人 (2016 第2クール)
 11577|4|ja|亜人 (2016)
-11758|4|ja|亜人 OAD
+11758|4|ja|亜人 (OAD)
 18993|4|ja|亜人がお好きなんですね
 18993|2|ja|亜人がお好きなんですね♡
 12374|4|ja|亜人ちゃんは語りたい
@@ -94313,6 +94313,7 @@
 9309|4|zh|空之境界 未來福音
 9309|4|zh-Hans|空之境界 未来福音
 3527|4|zh-Hant|空之色，水之色
+3527|4|zh-Hans|空之色，水之色
 6783|2|zh-Hans|空之音
 18966|4|ja|空想の機械達の中の破壊の発明
 7265|4|ja|空想の空とぶ機械達
@@ -96131,6 +96132,7 @@
 2516|4|ja|贖罪の教室
 1975|4|ja|贖罪の教室 Bad End
 867|2|zh-Hans|贝克街的亡灵
+20049|4|zh|贝肯熊：火星任务
 16701|4|zh-Hans|贝肯熊2:金牌特工
 3085|4|zh-Hans|贝贝罗历险记
 14514|4|zh-Hans|贤惠幼妻仙狐小姐
@@ -98598,6 +98600,7 @@
 423|4|zh-Hans|魔法骑士雷阿斯OVA
 611|4|ja|魔物ハンター妖子
 19831|4|ja|魔物喰らいの冒険者 ~俺だけ魔物を喰らって強くなる~
+15266|4|zh-Hans|魔物娘的医生
 11130|4|zh-Hans|魔物娘的同居日常
 11926|4|zh-Hans|魔物娘的同居日常 OAD
 15266|4|zh-Hant|魔物娘的醫生
@@ -98779,6 +98782,7 @@
 13848|4|zh-Hans|鸭子的天空
 5786|2|zh-Hans|鹡鴒计划
 5786|4|zh-Hans|鹡鸰女神
+6793|4|zh-Hans|鹡鸰女神 2
 5786|2|zh-Hans|鹦鹉
 6793|2|zh-Hans|鹦鹉女神~Pure Engagement~
 11710|4|zh-Hans|鹬蚌相争
