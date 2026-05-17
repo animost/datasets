@@ -1,4 +1,4 @@
-# created: Fri May 15 03:00:01 2026
+# created: Sun May 17 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -11361,6 +11361,7 @@
 11302|4|en|December Song
 5484|2|en|Decision
 14243|2|fr|Déclencheur d’œstrus : des femmes entraînées dans la débauche
+20051|1|x-jat|Deco x Deco The Animation
 4194|4|fr|Décolletés lubriques
 17273|3|x-jat|Dededede
 18670|2|en|DeDeDeDe
@@ -16376,6 +16377,7 @@
 17817|1|x-zht|Fei Ren Zai Di Er Ji Part 2
 18169|1|x-zht|Fei Ren Zai Di Er Ji Part 3
 19500|1|x-zht|Fei Ren Zai Di San Ji
+20055|1|x-zht|Fei Ren Zai Di San Ji part 2
 13852|1|x-zht|Fei Ren Zai Part 2
 16603|1|x-zht|Fei Ren Zai Part 3
 16604|1|x-zht|Fei Ren Zai Part 4
@@ -17984,6 +17986,7 @@
 3143|1|x-jat|Ganbare!! Tabuchi-kun!! Dai 2 Dan Gekitou Pennant Race
 4372|1|x-jat|Ganbarist! Shun
 18544|1|x-jat|Ganbatte Ikimasshoi
+20050|1|x-kot|Gancheob Jabneun Ttoli Janggun
 3602|3|fr|Gandalla
 3602|4|fr|Gandalla - Le roi du désert brûlant
 3602|2|en|Gandalla: The King of the Burning Desert
@@ -18644,6 +18647,7 @@
 3095|2|en|General Inakappe
 16085|2|en|General Manager of Baby
 17123|2|en|General Manager of Baby (2022)
+15404|4|en|General Ttoli: 3rd Tunnel
 430|2|it|Generation Basket
 2122|1|x-jat|Generation of Chaos
 1109|2|en|Generation of Chaos III: Seal of Time
@@ -19713,11 +19717,13 @@
 7063|1|x-jat|Gokkun Doll: Choujigen Pico-chan Toujou!!
 331|4|tr|Gökteki Kale
 1545|4|en|Goku II: Midnight Eye
+15434|1|x-jat|Goku no Chosakken Nyuumon
 6031|1|x-jat|Goku Sayonara Zetsubou-sensei
 1507|4|en|Goku: Midnight Eye
 1517|4|en|Goku`s Adventure
 18035|1|x-jat|Goku`s Fire Brigade
 1517|2|en|Goku`s Great Adventures
+15434|2|en|Goku`s Introduction to Copyright
 18034|1|x-jat|Goku`s Traffic Safety
 466|3|x-jat|Gokudo
 466|4|en|Gokudo
@@ -19744,7 +19750,6 @@
 15812|4|hr|Gokushufudou: Od yakuze do kućanice
 15812|4|pt-BR|Gokushufudou: Tatsu Imortal
 17716|4|ja|Gokuu Gaiden! Yuuki no Akashi wa Sixingqiu
-15434|1|x-jat|Gokuu no Chosakken Nyuumon
 1517|1|x-jat|Gokuu no Daibouken
 18034|4|ja|Gokuu no Koutsuuanzen
 18035|4|ja|Gokuu no Shouboutai
@@ -25478,6 +25483,7 @@
 19508|1|x-jat|Iya na Kao Sarenagara Opantsu Misete Moraitai Returns
 13698|3|x-jat|iyapan
 14259|2|x-jat|IyaPan 2
+19508|3|x-jat|IyaPan R
 14259|3|x-jat|IyaPan S2
 5030|2|x-jat|Iyashite Agerun Saiyuki
 5030|1|x-jat|Iyashite Agerun Saiyuuki
@@ -27208,6 +27214,7 @@
 15299|3|x-jat|KanoKari
 15743|3|x-jat|KanoKari 2
 17629|3|x-jat|KanoKari 3
+19587|3|x-jat|KanoKari 5
 15743|3|x-jat|kanokari s2
 17629|3|x-jat|kanokari s3
 18753|3|x-jat|KanoKari s4
@@ -29169,6 +29176,7 @@
 18012|4|es|Komada: Aromas de Whisky
 7306|1|x-jat|Komadori Eiga Komaneko
 7305|1|x-jat|Komaneko no Christmas: Maigo ni Natta Present
+20053|1|x-jat|Komaneko no orusuban
 7305|3|x-jat|komaneko s2
 7306|2|en|Komaneko: The Curious Cat
 6059|1|x-jat|Komatsu Sakyou Anime Gekijou
@@ -36224,6 +36232,7 @@
 4758|4|en|Mobile Suit Gundam SEED DESTINY Special Edition III: The Hell Fire of Destiny
 4905|4|en|Mobile Suit Gundam SEED DESTINY Special Edition IV: The Cost of Freedom
 14032|2|en|Mobile Suit Gundam SEED Freedom
+18958|2|en|Mobile Suit Gundam SEED Freedom Zero
 2445|4|en|Mobile Suit Gundam Seed MSV Astray
 4169|4|en|Mobile Suit Gundam SEED: Movie I - The Empty Battlefield
 4168|4|en|Mobile Suit Gundam SEED: Movie II - The Far-Away Dawn
@@ -41537,6 +41546,7 @@
 11532|4|en|Pan de Peace!
 19789|1|x-jat|Pan Dorobou
 1210|4|pl|Pan głowa
+20054|1|x-jat|Pan no Akachan
 17375|1|x-jat|Pan no March
 17311|1|x-jat|Pan o Funda Musume
 14452|1|x-jat|Pan to Boku no Momo-chan
@@ -44855,6 +44865,7 @@
 1175|2|en|Rancou Choukyo
 14062|1|x-zht|Rang Wo Men Shao Ba!!!
 17703|4|es|Ranger Reject
+16638|2|en|Ranger Wars
 15298|4|en|Ranking of Kings
 15298|4|fr|Ranking of Kings
 17560|4|fr|Ranking of Kings: Le Trésor du Courage
@@ -52229,6 +52240,7 @@
 15215|4|en|Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town?
 18920|2|en|Supreme Alchemy
 17258|2|en|Supreme Galaxy
+17333|2|en|Supreme Galaxy 2nd Season
 17333|2|en|Supreme Galaxy Season 2
 15573|2|en|Supreme God Emperor
 16397|2|en|Supreme God Emperor 2
@@ -53534,13 +53546,16 @@
 14767|1|x-jat|Tensei Shitara Slime Datta Ken (2021)
 17709|1|x-jat|Tensei Shitara Slime Datta Ken (2024)
 18884|1|x-jat|Tensei Shitara Slime Datta Ken (2026)
+20052|1|x-jat|Tensei Shitara Slime Datta Ken (2027)
 14767|2|x-jat|Tensei Shitara Slime Datta Ken 2nd Season
 15456|2|x-jat|Tensei shitara Slime Datta Ken 2nd Season Part 2
 17709|2|x-jat|Tensei Shitara Slime Datta Ken 3rd Season
 18884|2|x-jat|Tensei Shitara Slime Datta Ken 4th Season
+20052|2|x-jat|Tensei Shitara Slime Datta Ken 4th Season Part 2
 14526|2|x-jat|Tensei Shitara Slime Datta Ken OAD
 14526|2|ja|Tensei Shitara Slime Datta Ken OVA
 18884|2|x-jat|Tensei Shitara Slime Datta Ken S4
+20052|2|x-jat|Tensei Shitara Slime Datta Ken S4 Part 2
 15456|2|x-jat|Tensei shitara Slime Datta Ken Season 2 Part 2
 17709|2|x-jat|Tensei Shitara Slime Datta Ken Season 3
 17873|1|x-jat|Tensei Shitara Slime Datta Ken: Coleus no Yume
@@ -53578,6 +53593,7 @@
 15456|3|x-jat|tensura s2.5
 17709|3|x-jat|tensura s3
 18884|3|x-jat|TenSura S4
+20052|3|x-jat|TenSura S4 Part 2
 15457|3|x-jat|tensura: nikki
 8409|1|x-jat|Tentacle and Witches
 8409|4|ja|Tentacle and Witches
@@ -53771,6 +53787,7 @@
 14767|4|en|That Time I Got Reincarnated as a Slime (2021)
 17709|4|en|That Time I Got Reincarnated as a Slime (2024)
 18884|4|en|That Time I Got Reincarnated as a Slime (2026)
+20052|4|en|That Time I Got Reincarnated as a Slime (2027)
 14767|2|en|That Time I Got Reincarnated as a Slime 2nd Season
 16776|4|es|That Time I Got Reincarnated as a Slime la película: El vínculo escarlata
 18885|4|es|That Time I Got Reincarnated as a Slime La Película: Lágrimas del mar celeste
@@ -55116,6 +55133,7 @@
 1173|2|en|The Racing Brothers, Lets and Go Max
 1172|2|en|The Racing Brothers, Lets and Go WGP
 19139|4|en|The Ramparts of Ice
+16638|2|en|The Ranger Wars
 4878|1|x-jat|The Rapeman Anime Version
 18011|1|x-zht|The Ravages of Time
 18011|2|en|The Ravages of Time
@@ -57416,7 +57434,7 @@
 6082|3|x-jat|ttgl: pw
 7485|3|x-jat|ttgl: pw 2
 12955|1|x-kot|Ttokttokbaksa Eddy
-15404|1|x-kot|Ttoli Janggun
+15404|1|x-kot|Ttoli Janggun: Je 3 Ttanggul Pyeon
 9650|2|en|Ttori and the Tyrannosaurus
 9597|1|x-kot|Ttori wa Zeta Robot
 9650|2|x-kot|Ttoriwa Baekkongnyong Tirano
@@ -60522,6 +60540,8 @@
 16578|1|x-zht|Xingchen Bian: Xingchen Yao Hai
 15594|1|x-zht|Xingchen Bian: Yu Li Cang Hai
 17258|1|x-zht|Xinghe Zhizun
+17333|2|x-zht|Xinghe Zhizun 2
+17333|2|x-zht|Xinghe Zhizun 2nd Season
 17333|1|x-zht|Xinghe Zhizun Di Er Ji
 16739|1|x-zht|Xingji Xia Tan
 13802|1|x-zht|Xiong Bing Lian
@@ -61623,6 +61643,9 @@
 9816|1|x-jat|Yozakura Quartet: Hana no Uta
 7460|1|x-jat|Yozakura Quartet: Hoshi no Umi
 9817|2|en|Yozakura Quartet: Howl at the Moon
+7460|4|en|Yozakura Quartet: Sea of Stars
+9816|4|en|Yozakura Quartet: Song of Flowers
+9817|4|en|Yozakura Quartet: Tears of the Moon
 9817|1|x-jat|Yozakura Quartet: Tsuki ni Naku
 17773|1|x-jat|Yozakura-san Chi no Daisakusen
 18900|1|x-jat|Yozakura-san Chi no Daisakusen (2026)
@@ -67614,6 +67637,7 @@
 16912|4|ru|Царство 4
 4763|4|bg|Царят на динозаврите
 3527|2|ru|Цвет неба, цвет воды
+17753|4|bg|Цветовете отвътре
 6329|2|ru|Цветущая молодость
 9357|2|ru|Цветы зла
 2621|2|uk|Це мій хазяїн
@@ -70609,6 +70633,7 @@
 10158|2|ko|간염:Ball Buster
 4352|2|ko|간옥 ~음욕 실험동~
 7457|2|ko|간음특급 만조
+20050|4|ko|간첩 잡는 똘이장군
 14214|2|ko|감염 소돔
 6765|2|ko|감염: 음욕의 연쇄
 7259|2|ko|감염2 음죄도시
@@ -71374,7 +71399,7 @@
 12955|4|ko|똑똑박사 에디
 9650|2|ko|똘이와 백공룡 티라노
 9597|4|ko|똘이와 제타 로보트
-15404|4|ko|똘이장군
+15404|4|ko|똘이장군 제3땅굴편
 682|2|ko|라 블루 걸 EX
 676|2|ko|라 블루 걸 리턴
 13053|4|ko|라면 너무 좋아 코이즈미씨
@@ -76922,6 +76947,7 @@
 7349|4|ja|コボちゃんスペシャル 秋がいっぱい
 7352|4|ja|コボちゃんスペシャル 約束のマジックディ
 7305|4|ja|こまねこ のクリスマス -迷子になったプレゼント-
+20053|4|ja|こまねこのおるすばん
 7306|4|ja|こま撮りえいが こまねこ
 13238|3|ja|こみが
 13238|4|ja|こみっくがーるず
@@ -78575,6 +78601,7 @@
 16954|4|ja|テクノロイド OVERMIND
 16954|2|ja|テクノロイド オーバーマインド
 11449|4|ja|テク助物語
+20051|4|ja|デコ×デコ THE ANIMATION
 3692|4|ja|でこぼこフレンズ
 17614|4|ja|でこぼこ魔女の親子事情
 8789|4|ja|テコンV
@@ -80031,6 +80058,7 @@
 19789|4|ja|パンどろぼう
 14452|4|ja|パンと僕のモモちゃん
 17375|4|ja|パンのマーチ
+20054|4|ja|パンの赤ちゃん
 10985|2|ja|バンパイアー・ホームズ
 66|4|ja|バンパイアハンターD
 14803|4|ja|バンパイヤ
@@ -96456,6 +96484,7 @@
 14767|4|ja|転生したらスライムだった件 (2021)
 17709|4|ja|転生したらスライムだった件 (2024)
 18884|4|ja|転生したらスライムだった件 (2026)
+20052|4|ja|転生したらスライムだった件 (2027)
 17873|4|ja|転生したらスライムだった件 コリウスの夢
 15457|4|ja|転生したらスライムだった件 転スラ日記
 19217|4|ja|転生したらドラゴンの卵だった~最強以外目指さねぇ~
@@ -97835,6 +97864,7 @@
 16605|4|zh-Hans|非人哉 (5)
 16606|4|zh-Hans|非人哉 (6)
 19500|4|zh-Hans|非人哉 第三季
+20055|4|zh-Hans|非人哉 第三季 Part 2
 17816|4|zh-Hans|非人哉 第二季
 17817|4|zh-Hans|非人哉 第二季 Part 2
 18169|4|zh-Hans|非人哉 第二季 Part 3
