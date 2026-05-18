@@ -1,4 +1,4 @@
-# created: Sun May 17 03:00:02 2026
+# created: Mon May 18 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -19348,9 +19348,6 @@
 19963|1|x-jat|Girls und Panzer: Dream Tank Match Picture Drama: Sensha Saiban Desu!
 10009|1|x-jat|Girls und Panzer: Kore ga Hontou no Anzio-sen Desu!
 19220|1|x-jat|Girls und Panzer: Motto Love Love Sakusen Desu!
-20047|4|en|Girls und Panzer: Princess Samurai
-20047|1|x-jat|Girls und Panzer: Ribbon no Musha
-20047|2|en|Girls und Panzer: Ribbon Warrior
 12361|6|x-jat|Girls und Panzer: Saishuushou das Finale
 10009|4|en|Girls und Panzer: This Is the Real Anzio Battle!
 16006|4|en|Girls` Frontline
@@ -24487,6 +24484,7 @@
 8180|3|x-jat|ikokumeiro
 5062|4|hu|Ikri és Mikri
 8058|2|lt|Iksmenai
+19105|2|en|Iku Iku Succubus Re-Education
 19007|1|x-jat|Ikuiku Succubus Saikyouiku
 17735|1|x-jat|Ikumonogakari The Animation
 5628|1|x-jat|Ikusa Otome Suvia
@@ -29176,7 +29174,7 @@
 18012|4|es|Komada: Aromas de Whisky
 7306|1|x-jat|Komadori Eiga Komaneko
 7305|1|x-jat|Komaneko no Christmas: Maigo ni Natta Present
-20053|1|x-jat|Komaneko no orusuban
+20053|1|x-jat|Komaneko no Orusuban
 7305|3|x-jat|komaneko s2
 7306|2|en|Komaneko: The Curious Cat
 6059|1|x-jat|Komatsu Sakyou Anime Gekijou
@@ -45626,6 +45624,7 @@
 17947|3|x-jat|rezero s3
 14792|3|x-jat|rezero2
 17947|3|x-jat|rezero3
+19242|3|x-jat|rezero4
 15014|2|x-jat|Reバース for you
 4522|3|x-jat|RG
 465|4|en|RG Veda
@@ -49594,6 +49593,7 @@
 4214|1|x-jat|Shounen Onmyouji
 4053|1|x-jat|Shounen Santa no Daibouken
 2198|1|x-jat|Shounen Sarutobi Sasuke
+20056|1|x-jat|Shounen to Gundam
 9065|1|x-jat|Shounen to Sakura
 1909|1|x-jat|Shounen Tokugawa Ieyasu
 15657|2|x-jat|Shounen Yuusha Gildong
@@ -53792,6 +53792,7 @@
 16776|4|es|That Time I Got Reincarnated as a Slime la película: El vínculo escarlata
 18885|4|es|That Time I Got Reincarnated as a Slime La Película: Lágrimas del mar celeste
 14526|4|en|That Time I Got Reincarnated as a Slime OAD
+18884|2|en|That Time I Got Reincarnated as a Slime Season 4
 16776|4|en|That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond
 18885|4|en|That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea
 17873|4|en|That Time I Got Reincarnated as a Slime: Visions of Coleus
@@ -75734,7 +75735,6 @@
 10009|4|ja|ガールズ&パンツァー これが本当のアンツィオ戦です!
 19963|4|ja|ガールズ&パンツァー ドリームタンクマッチ ピクチャードラマ「戦車裁判です!」
 19220|4|ja|ガールズ&パンツァー もっとらぶらぶ作戦です!
-20047|4|ja|ガールズ&パンツァー リボンの武者
 12361|6|ja|ガールズ&パンツァー 最終章 das FINALE
 10008|4|ja|ガールズ&パンツァー 劇場版
 13571|4|ja|ガールズ&パンツァー 第63回戦車道全国高校生大会 総集編
@@ -88002,6 +88002,7 @@
 2279|4|ja|少年ケニヤ
 4053|4|ja|少年サンタの大冒険!
 2206|4|ja|少年ジャックと魔法使い
+20056|4|ja|少年とガンダム
 9065|4|ja|少年とさくら
 10517|4|ja|少年ハリウッド -HOLLY STAGE FOR 49-
 10855|4|ja|少年ハリウッド -HOLLY STAGE FOR 50-
