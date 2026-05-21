@@ -1,4 +1,4 @@
-# created: Tue May 19 03:00:01 2026
+# created: Thu May 21 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -16101,6 +16101,7 @@
 7738|2|pl|Farmerki!
 17290|4|en|Farming Life in Another World
 19506|4|en|Farming Life in Another World 2
+19506|2|en|Farming Life in Another World Season 2
 9009|1|x-jat|Fashion
 3530|3|x-jat|Fashion Lala
 3530|4|en|Fashion Lala: The Story of the Harbour Light
@@ -30493,6 +30494,7 @@
 4151|2|it|La ragazza che corre nel tempo
 4151|4|it|La Ragazza che Saltava nel Tempo
 11224|2|fr|La raison première du masochisme de la présidente Hyoudou Ibuki
+17883|4|fr|La Réceptionniste Pokémon
 17159|4|es-419|La reencarnación del exorcista más fuerte de otro mundo
 366|4|it|La regina dei mille anni
 13264|2|it|La Regina delle Rondini
@@ -30648,6 +30650,7 @@
 16814|1|x-zht|Lalala De Ma Xiya
 16815|1|x-zht|Lalala De Ma Xiya Di Er Ji
 16816|1|x-zht|Lalala De Ma Xiya Di San Ji
+20059|1|en|Lalala Demacia
 13215|1|x-jat|Lalala Lala-chan
 13216|2|x-jat|Lalala Lala-chan Season 2
 13422|2|x-jat|Lalala Lala-chan Season 3
@@ -30655,6 +30658,8 @@
 13909|1|x-jat|Lalala Lala-chan: Lala to Mainichi
 13216|1|x-jat|Lalala Lala-chan: Patapata Daisensou
 13422|1|x-jat|Lalala Lala-chan: Uchuu ni Muchuu
+20057|1|x-zht|LaLaLa!!! Demacia 4 Chao Shen Xueyuan
+20057|4|zh|LaLaLa!!!德玛西亚4超神学院
 15334|4|ja|LALALACOCO
 15334|1|x-jat|Lalalacoco
 15623|4|ja|LALALACOCO (2020)
@@ -35910,6 +35915,7 @@
 5870|4|ja|MISSION-E
 17773|4|en|Mission: Yozakura Family
 18900|4|en|Mission: Yozakura Family (2026)
+18900|2|en|Mission: Yozakura Family Season 2
 2291|4|de|Missis Jo und ihre fröhliche Familie
 264|1|x-jat|Mister Ajikko
 19454|1|x-jat|Mister Giants Eikou no Sebangou San
@@ -40194,6 +40200,7 @@
 13781|1|x-jat|Omae wa Mada Gunma o Shiranai
 19821|1|x-jat|Omae wa Mada Gunma o Shiranai: Reiwa Ban
 13781|2|x-jat|Omae wa Mada Gunma wo Shiranai
+20060|1|x-jat|Omae, Tanuki ni Naranee ka?
 19310|3|x-jat|omagoto
 13781|3|x-jat|Omagun
 6571|3|x-jat|Omahima
@@ -45203,6 +45210,7 @@
 18204|4|en|Reborn as a Vending Machine, I Now Wander the Dungeon 2nd Season
 19580|4|en|Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season
 18204|2|en|Reborn as a Vending Machine, I Now Wander the Dungeon Season 2
+19580|2|en|Reborn as a Vending Machine, I Now Wander the Dungeon Season 3
 12934|2|en|Reborn Gladiator of The Baby-Making Colosseum
 20043|2|en|Reborn in Beast World, My Divine Beasts Make Me Queen
 19653|2|en|Reborn to be a Supreme Emperor
@@ -61142,6 +61150,7 @@
 20015|1|x-zht|Yinyue Gongzhu Ai Meili 2
 20016|1|x-zht|Yinyue Gongzhu Ai Meili 3
 20017|1|x-zht|Yinyue Gongzhu Ai Meili 4
+20058|1|x-zht|Yinyue Gongzhu Aimeili zhi Gongzhu Shangxue Ji
 18461|2|x-zht|Yiren Jun Moxie
 18469|1|x-zht|Yishi Du Zun
 18947|2|x-zht|Yishi Du Zun 2
@@ -75646,6 +75655,7 @@
 9230|4|ja|お兄ちゃんだけど愛さえあれば関係ないよねっ
 7978|4|ja|お兄ちゃんのことなんかぜんぜん好きじゃないんだからねっ!!
 17328|4|ja|お兄ちゃんはおしまい!
+20060|4|ja|お前, タヌキにならねーか?
 13781|4|ja|お前はまだグンマを知らない
 19821|4|ja|お前はまだグンマを知らない~令和版~
 13504|4|ja|お大師さま
@@ -85861,6 +85871,7 @@
 9519|4|ja|問題児たちが異世界から来るそうですよ? ~温泉漫遊記~
 9332|4|zh-Hant|問題兒童都來自異世界？
 16814|4|zh-Hans|啦啦啦德玛西亚
+20059|4|zh|啦啦啦德玛西亚
 16816|4|zh-Hans|啦啦啦德玛西亚 第三季
 16815|4|zh-Hans|啦啦啦德玛西亚 第二季
 8552|4|zh-Hans|啾咪BABY
@@ -97903,6 +97914,7 @@
 20015|4|zh-Hans|音乐公主爱美莉 第2季
 20016|4|zh-Hans|音乐公主爱美莉 第三季
 20017|4|zh-Hans|音乐公主爱美莉 第四季
+20058|4|zh-Hans|音乐公主爱美莉之公主上学记
 20013|4|zh-Hans|音乐公主艾美丽
 13913|4|zh-Hans|音乐少女
 9399|4|ja|音楽
