@@ -1,4 +1,4 @@
-# created: Thu May 21 03:00:01 2026
+# created: Sat May 23 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8572,6 +8572,7 @@
 11060|1|x-zht|Chengyu Donghua Lang
 15750|1|x-kot|Cheonbangjichuk Hani
 8785|2|x-zht|Cheong Gong Chat Hou: Oi Deikau
+20064|1|x-kot|Cheongchun Blossom: Uliui Bom
 5303|2|x-kot|Cheonnyeon-yeowoo Yeowoobi
 9643|1|x-kot|Cheorin 007
 9592|1|x-kot|Cheorin Samchongsa
@@ -18612,6 +18613,7 @@
 2323|1|x-jat|Gekitou! Crush Gear Turbo: Kaiservern no Chousen
 2027|1|x-jat|Gekka Bijin
 8372|2|fr|Gekkage d’une fille pour les nuls
+20063|1|x-jat|Gekkakoku Kiiden
 18202|1|x-jat|Gekkan Mousou Kagaku
 10542|1|x-jat|Gekkan Shoujo Nozaki-kun
 19870|1|x-jat|Gekkan! Nanmono Anime
@@ -23862,6 +23864,7 @@
 9102|4|en|Hyouka: What Should Be Had
 17341|3|x-jat|hyouken
 17341|1|x-jat|Hyouken no Majutsushi ga Sekai o Suberu
+20065|1|x-jat|Hyouken no Majutsushi ga Sekai o Suberu II
 14362|1|x-jat|Hyoutan
 8122|2|x-jat|Hyoutan Douji
 4933|1|x-jat|Hyoutan Suzume
@@ -38892,6 +38895,7 @@
 14236|1|x-jat|Nijuuseiki Denki Mokuroku: Eureka Evrika
 3132|1|x-jat|Nijuushi no Hitomi
 2496|1|x-jat|Nijuusou: Wana ni Ochita Onna-tachi
+20066|1|x-jat|Nikenichi! Non Non Zenshou Kichi
 1646|4|de|Niklaas, der Junge aus Flandern
 1650|4|de|Niklaas, ein Junge aus Flandern
 5226|3|x-jat|nikopun
@@ -41301,6 +41305,7 @@
 171|4|en|Outlaw Star
 171|4|pt|Outlaw Star
 171|4|fr|Outlaw Star
+20066|2|en|Outpost: Off-Duty Tales
 18587|2|x-jat|OVA Boku ni Harem Sefure ga Dekita Riyuu
 18587|1|x-jat|OVA Boku ni Harem Sexfriend ga Dekita Riyuu
 13769|2|en|OVA Complete Slut See their true colors Russian Step-Mother and Step-Sisters All you can have Sex
@@ -45487,6 +45492,7 @@
 15743|2|en|Rent-A-Girlfriend Season 2
 17629|2|en|Rent-A-Girlfriend Season 3
 18753|2|en|Rent-A-Girlfriend Season 4
+19587|2|en|Rent-a-Girlfriend Season 5
 5189|3|x-jat|Rental
 5189|1|x-jat|Rental Magica
 5189|4|en|Rental Magica
@@ -47762,6 +47768,7 @@
 19297|2|en|Searching For The Immortals
 14790|2|en|Searching for Witch Apprentices
 671|2|en|Season Heat
+20064|2|en|Seasons of Blossom: Our Spring
 11123|2|pl|Seba Jedna Wjeba
 18592|4|id|Sebagai Peran Pendukung Terburuk, 【Juru Bicara】
 13028|4|de|Second Inofficial Examination
@@ -54263,6 +54270,7 @@
 15619|4|en|The Dungeon of Black Company
 6876|2|en|The Dwarf and the Green Catterpillar
 4005|2|en|The Earring of Moonlight
+20063|2|en|The Eccentric Doctor of the Moon Flower Kingdom
 9782|4|en|The Eccentric Family
 12417|4|fr|The Eccentric Family - Saison 2
 12417|4|en|The Eccentric Family 2
@@ -54554,6 +54562,7 @@
 17473|4|fr|The Ice Guy & The Cool Girl
 17473|4|en|The Ice Guy and His Cool Female Colleague
 17341|4|en|The Iceblade Sorcerer Shall Rule the World
+20065|2|en|The Iceblade Sorcerer Shall Rule the World II
 15676|4|en|The Idaten Deities Know Only Peace
 15676|4|fr|The Idaten Deities Know Only Peace
 18319|2|en|The Ideal Sponger Life
@@ -55542,6 +55551,7 @@
 10437|2|en|The targeted Angel Goddess Angeltia: Betrayed by the people I`ve protected
 7243|4|en|The Tatami Galaxy
 7243|4|fr|The Tatami Galaxy
+16533|4|en|The Tatami Time Machine Blues
 13093|4|en|The Tayo Movie: Mission Ace
 1983|2|en|The Teacheress
 8046|2|en|The Telegraph Pole Mother
@@ -55595,6 +55605,8 @@
 18426|2|en|The Totem Warrior 2
 5503|4|en|The Tower of Druaga: The Aegis of Uruk
 6018|4|en|The Tower of Druaga: The Sword of Uruk
+20061|1|x-jat|The Tower Will Go On
+20062|1|en|The Tower Will Go On 2
 16885|2|en|The Town
 11775|4|en|The town you live in.
 15874|2|en|The Track and Field Club Girls are My Onaholes!!! The Animation
@@ -56654,9 +56666,12 @@
 15931|1|x-jat|Tonikaku Kawaii: SNS
 15421|4|en|Tonikawa: Over the Moon for You
 18062|2|en|Tonikawa: Over the Moon for You - High School Days
+18062|4|de|Tonikawa: Over the Moon for You - High School Days
 15931|4|en|Tonikawa: Over the Moon for You - SNS
 17300|4|en|Tonikawa: Over the Moon for You - Uniform
 16961|4|en|Tonikawa: Over the Moon for You (2023)
+16961|4|de|Tonikawa: Over the Moon for You (2023)
+17300|4|de|TONIKAWA: Over The Moon For You ~Uniform~
 11466|2|en|Tonkatsu DJ Age-Taro
 11466|4|en|Tonkatsu DJ Agetaro
 11466|1|x-jat|Tonkatsu DJ Agetarou
@@ -73517,6 +73532,7 @@
 12758|4|ko|청초하고 성실한 그녀가 가장 밑바닥 성교서클에 초대되면...?
 14397|2|ko|청춘 돼지는 꿈꾸는 소녀의 꿈을 꾸지 않는다
 13900|4|ko|청춘 돼지는 바니걸 선배의 꿈을 꾸지 않는다
+20064|4|ko|청춘 블라썸: 우리의 봄
 13731|2|ko|체리 & 갸루`s
 15914|4|ko|체인소 맨
 438|2|ko|체포하겠어!
@@ -79314,6 +79330,7 @@
 18491|4|ja|ニートくノ一となぜか同棲はじめました
 6467|4|ja|ニードレス
 46|4|ja|ニア アンダーセブン
+20066|4|ja|にけにち! ~のんのん前哨基地~
 5226|3|ja|にこぷん
 17760|3|ja|にごリリ
 9965|4|ja|にじいろ☆プリズムガール
@@ -83797,6 +83814,8 @@
 5840|4|ja|個人授業 ~THE ANIMATION~ Schoolgirl ready for a private lesson!
 11622|4|ja|個人都市
 916|2|zh-Hans|倒A高达
+20061|4|ja|倒不了的塔
+20062|4|zh|倒不了的塔第2季：重生之死
 2854|4|ja|倒凶十将伝
 2867|4|ja|倒凶十将伝 封魔五行伝承
 7258|4|ja|借りぐらしのアリエッティ
@@ -84368,6 +84387,7 @@
 17357|4|zh-Hant|冰冰冰 冰淇淋君 2
 17341|4|zh-Hans|冰剑的魔术师将要统一世界
 17341|4|ja|冰剣の魔術師が世界を統べる
+20065|4|ja|冰剣の魔術師が世界を統べるII
 17473|4|zh-Hans|冰属性男子与酷酷女同事
 8855|2|zh-Hans|冰果
 4036|4|zh-Hans|冰河战士Guyslugger
@@ -90922,6 +90942,7 @@
 14485|4|zh-Hant|月歌。THE ANIMATION 2
 12761|4|zh-Hans|月色真美
 2027|4|ja|月花美人
+20063|4|ja|月華国奇医伝
 2478|4|ja|月詠 -MOON PHASE-
 15839|4|zh-Hans|月野艺能 华彩原石
 1982|4|ja|月陽炎
