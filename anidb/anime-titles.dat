@@ -1,4 +1,4 @@
-# created: Sat May 23 03:00:02 2026
+# created: Sun May 24 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -45122,6 +45122,7 @@
 19242|4|en|Re:Zero - Starting Life in Another World (2026)
 14792|2|en|Re:Zero - Starting Life in Another World 2nd Season
 17947|2|en|Re:Zero - Starting Life in Another World Season 3
+19242|2|en|Re:Zero - Starting Life in Another World Season 4
 11370|4|es|Re:Zero -Empezar de cero en un mundo diferente-
 14792|4|de|Re:ZERO -Starting Life in Another World- 2
 15593|4|de|Re:ZERO -Starting Life in Another World- 2 Cour 2
@@ -45163,6 +45164,7 @@
 11370|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu Shin Henshuuban
 13430|3|x-jat|re:zero ova
 17947|2|en|Re:Zero Season 3
+19242|2|en|Re:Zero Season 4
 17947|4|ru|Re:Zero. Жизнь с нуля в альтернативном мире 3
 1662|4|ja|Re:キューティーハニー
 14192|4|ja|Re:ステージ! ドリームデイズ♪
