@@ -1,4 +1,4 @@
-# created: Sun May 24 03:00:01 2026
+# created: Mon May 25 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2098,7 +2098,6 @@
 19513|4|es-419|Akane-banashi
 19513|4|pt-BR|Akane-banashi
 19513|1|x-jat|Akane-banashi
-19513|2|en|Akane-banashi
 1892|1|x-jat|Akane-chan
 1892|4|es|Akane-chan
 12454|1|x-jat|Akane-chan no Wasuremono
@@ -31530,6 +31529,7 @@
 6348|2|en|Licca: the Mysterious Magical Ring
 4428|2|en|Licca: the Mystery Tale of Mysterious Yunia
 9439|2|en|License to Molest
+9439|4|en|License to Sleaze
 467|1|x-jat|Licensed by Royal
 4739|2|en|Licentious Demon Insect
 1919|4|ro|Lidia în jurul lumii
@@ -58544,6 +58544,7 @@
 15093|1|x-jat|Valkyrie Hazard
 15005|2|x-jat|Valkyrie no Shokutaku
 15614|2|x-jat|Valkyrie no Shokutaku 2
+9931|2|en|Valkyrie Romance
 4251|2|en|Valkyrie The True Story
 7102|2|en|Valkyrie Training: Semen Tank of 10 Battlemaid Sisters
 14065|1|en|Valley of White Birds
@@ -60616,6 +60617,7 @@
 19923|1|x-zht|Xiuluo Wushen 2
 19923|2|x-zht|Xiuluo Wushen 2nd Season
 19923|2|x-zht|Xiuluo Wushen Di Er Ji
+20067|1|x-zht|Xiuxian Zhe Dazhan Chaonengli
 14374|1|x-zht|Xixing Ji
 18310|1|x-zht|Xixing Ji (2023)
 18309|1|x-zht|Xixing Ji: Anying Mo Cheng
@@ -83765,6 +83767,7 @@
 14530|4|zh-Hans|信长老师的幼妻
 10609|4|zh-Hans|修业魔女璐璐萌
 14406|4|zh-Hans|修业魔女璐璐萌 完结篇
+20067|4|zh-Hans|修仙者大战超能力
 16885|4|zh-Hans|修容镇
 17808|2|zh-Hans|修真四万年
 18614|4|zh-Hans|修罗武神
