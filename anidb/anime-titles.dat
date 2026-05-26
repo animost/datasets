@@ -1,4 +1,4 @@
-# created: Mon May 25 03:00:01 2026
+# created: Tue May 26 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -17318,6 +17318,7 @@
 15397|2|en|Full-Time Magister 4
 19920|2|en|Full-Time Magister 7th Season
 15397|2|en|Full-Time Magister IV
+19920|2|en|Full-Time Magister S7
 13469|2|en|Full-Time Magister Season 2
 14572|2|en|Full-Time Magister Season 3
 15397|2|en|Full-Time Magister Season 4
@@ -30019,7 +30020,7 @@
 13544|1|x-jat|Kyonyuu Dosukebe Gakuen
 16914|1|x-jat|Kyonyuu Elf Oyako Saimin
 9010|1|x-jat|Kyonyuu Fantasy
-19919|1|x-jat|Kyonyuu ga Futari Inai to Bokki Shinai Otto no Tame ni Tomodachi wo Tsuretekita Tsuma
+19919|1|x-jat|Kyonyuu ga Futari Inai to Bokki Shinai Otto no Tame ni Tomodachi o Tsurete Kita Tsuma
 11774|1|x-jat|Kyonyuu Hitozuma Onna Kyoushi Saimin
 14110|1|x-jat|Kyonyuu J* ga Ojisan Chinpo to Jupo Jupo Iyarashii Sex Shitemasu.
 14110|2|x-jat|Kyonyuu JK ga Ojisan Chinpo to Jupo Jupo Iyarashii Sex Shitemasu.
@@ -31176,7 +31177,7 @@
 1861|2|en|Legend of the White Serpent
 1861|2|en|Legend of the White Snake
 1722|4|en|Legend of the Wolf Woman
-18356|2|en|Legend of Xianwu
+18356|4|en|Legend of Xianwu
 18357|2|en|Legend of Xianwu 2
 18357|2|en|Legend of Xianwu 2nd Season
 558|2|en|Legend of Zenki
@@ -32150,6 +32151,7 @@
 7956|2|x-jat|Love Live! Bokura no Live, Kimi to no Life
 19989|1|x-jat|Love Live! Hasu no Sora Jogakuin School Idol Club
 19376|1|x-jat|Love Live! Hasu no Sora Jogakuin School Idol Club: Bloom Garden Party
+20069|1|x-jat|Love Live! Hasunosora Jogakuin School Idol Club Bloom Garden Party
 11250|1|x-jat|Love Live! M`s-&gt;Next Love Live! 2014: Endless Parade
 8874|2|x-jat|Love Live! MV 4
 8520|2|x-jat|Love Live! Natsu-iro Egao de 1, 2, Jump!
@@ -44174,6 +44176,7 @@
 10066|4|fr|Psycho-Pass: Le Film
 9127|2|en|Psycho-Pass: New Edit
 17573|4|en|PSYCHO-PASS: Providence
+17573|4|de|Psycho-Pass: Providence
 17573|4|es-419|PSYCHO-PASS: Providencia
 13894|1|x-jat|Psycho-Pass: Sinners of the System
 13894|4|en|Psycho-Pass: Sinners of the System
@@ -44322,6 +44325,7 @@
 653|4|en|Pure Mail
 653|1|x-jat|Pure Mail
 19414|1|x-jat|Pure Pure Pero Pero Princess
+20068|1|x-jat|Pure x Holic: Junketsu Otome to Kon`in Kankei!? The Animation
 4200|1|x-jat|Pure-tou no Nakama-tachi
 18703|4|en|Purgatory Walkers
 1413|3|x-jat|purikyaa
@@ -44519,6 +44523,7 @@
 13469|1|x-zht|Quanzhi Fashi II
 14572|1|x-zht|Quanzhi Fashi III
 15397|1|x-zht|Quanzhi Fashi IV
+19920|2|x-zht|Quanzhi Fashi S7
 15397|2|x-zht|Quanzhi Fashi Season 4
 19503|1|x-zht|Quanzhi Fashi Tebie Pian: Shenmi Weituo
 16490|1|x-zht|Quanzhi Fashi V
@@ -54634,6 +54639,7 @@
 18897|2|en|The Immortal Doctor
 13660|4|en|The Immortal Legend
 19297|2|en|The Immortal Traces
+20067|4|en|The Immortal VS Superheroes
 15376|2|en|The Import Player`s Entry!!
 7466|4|ja|The Impression of First GUNDAM
 7466|1|x-jat|The Impression of First Gundam
@@ -80296,6 +80302,7 @@
 17657|2|ja|ヒューマンバグ大学 -不死学部不幸学科-
 19414|4|ja|ピュアピュア ぺろぺろ プリンセス
 19414|2|ja|ピュアピュア♥ぺろぺろ♥プリンセス
+20068|4|ja|ピュアホリック ～純潔乙女と婚姻カンケイ！？～ THE ANIMATION
 653|4|ja|ピュアメール
 4200|4|ja|ピュア島の仲間たち
 5093|4|ja|ピュンピュン丸
@@ -82133,6 +82140,7 @@
 15313|4|ja|ラブライブ! 虹ヶ咲学園スクールアイドル同好会
 16310|4|ja|ラブライブ! 虹ヶ咲学園スクールアイドル同好会 (2022)
 17732|4|ja|ラブライブ! 虹ヶ咲学園スクールアイドル同好会 NEXT SKY
+20069|4|ja|ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party
 6464|4|ja|ラブリー・シリーズ
 14974|4|ja|らぶりー♡
 11575|4|ja|ラブリームービー いとしのムーコ
