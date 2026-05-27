@@ -1,4 +1,4 @@
-# created: Tue May 26 03:00:01 2026
+# created: Wed May 27 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8220,6 +8220,7 @@
 4926|4|ja|CATBLUE DYNAMITE
 4926|2|ja|CATBLUE:DYNAMITE
 18985|4|en|Catch Me at the Ballpark!
+19336|4|en|Catch! Teenieping: Fairies of Emotion
 19336|1|x-kot|Catch! Tiniping
 13280|1|x-jat|Catchy-kun no Nice Catch!
 167|2|en|Catgirl Nuku Nuku OVA
@@ -59617,6 +59618,7 @@
 16627|4|en|Welcome to Demon School! Iruma-kun (2022)
 16627|4|pl|Welcome to Demon School! Iruma-kun (2022)
 18995|4|en|Welcome to Demon School! Iruma-kun (2026)
+18995|2|en|Welcome to Demon School! Iruma-kun Season 4
 18995|4|de|Welcome to Demon School! Iruma-kun Staffel 4
 19878|2|en|Welcome to Demon School! Iruma-kun: IruMafia Edition
 15428|2|en|Welcome to Demon School! Iruma-kun: Season 2
@@ -76256,6 +76258,7 @@
 1445|4|ja|キャシャーン
 6032|4|ja|キャシャーン Sins
 1338|4|ja|キャッスルファンタジア ~聖魔大戦~
+19336|4|ja|キャッチ!ティニピン
 13280|4|ja|キャッチーくんのナイスキャッチ!
 1025|4|ja|キャッツ・アイ
 14582|4|ja|キャッツ・アイ (1984)
