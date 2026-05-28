@@ -1,4 +1,4 @@
-# created: Wed May 27 03:00:01 2026
+# created: Thu May 28 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2411,6 +2411,7 @@
 3084|2|en|Alice`s Detective Agency
 2744|4|es|Alicia en el País de las Maravillas
 2744|2|pl|Alicja w Krainie Czarów
+19110|4|pl|Alicja w Krainie Czarów: Skok w nieznane
 8337|4|pl|Alicja w Krainie Serc
 58|2|fr|Alien 9
 58|2|x-jat|Alien 9
@@ -3847,6 +3848,7 @@
 15634|2|en|Ascendance of a Bookworm S3
 18302|2|en|Ascendance of a Bookworm S4
 15634|2|en|Ascendance of a Bookworm Season 3
+18302|2|en|Ascendance of a Bookworm Season 4
 18302|4|de|Ascendance of a Bookworm: Adopted Daughter of an Archduke
 18302|4|en|Ascendance of a Bookworm: Adopted Daughter of an Archduke
 15300|4|en|Ascendance of a Bookworm: Eustachius`s Incognito Operation Downtown / Visiting Missus Corinna
@@ -13259,6 +13261,8 @@
 18397|2|x-jat|Dorohedoro S2
 18397|1|x-jat|Dorohedoro Season 2
 18397|4|en|Dorohedoro Season 2
+20072|1|x-jat|Dorohedoro Season 3
+20072|2|en|Dorohedoro Season 3
 11652|2|en|Doronjo ZIP!
 1119|4|en|Dororo
 8770|1|x-jat|Dororo
@@ -24720,6 +24724,7 @@
 9045|3|x-jat|inago cs
 9867|3|x-jat|inago3
 13073|1|x-jat|Inaka Nezumi to Machi Nezumi
+20071|1|x-jat|Inaka ni wa Kore Kurai Shika Goraku ga Nai
 3095|1|x-jat|Inakappe Taishou
 9536|3|x-jat|Inakon
 10391|3|x-jat|Inakon OVA
@@ -47412,6 +47417,7 @@
 14364|1|x-jat|Sarasouju no Hana no Iro
 13869|1|x-jat|Sarazanmai
 13869|4|en|Sarazanmai
+20070|1|x-jat|Sare Tsuma wa Ubawaretai
 12337|2|x-jat|Saredo Tsumibito wa Ryuu to Odoru
 12337|1|x-jat|Saredo Tsumibito wa Ryuu to Odoru: Dances with the Dragons
 12337|3|x-jat|sareryuu
@@ -77263,6 +77269,7 @@
 5526|4|ja|サルゲッチュ ~オンエアー~ 2nd
 1901|4|ja|さるとびエッちゃん
 12337|4|ja|されど罪人は竜と踊る Dances with the Dragons
+20070|4|ja|サレ妻は奪われたい
 12337|3|ja|され竜
 19196|4|ja|さわらないで小手指くん
 15912|4|ja|さんかく窓の外側は夜
@@ -79201,6 +79208,7 @@
 9347|2|ja|トロピカルKISS♥
 14483|4|ja|ドロヘドロ
 18397|4|ja|ドロヘドロ Season2
+20072|4|ja|ドロヘドロ Season3
 15805|4|ja|トロみつ娘の秘湯サービス ~とろッとろちゅるちゅるご奉仕させてください~
 8770|4|ja|どろろ
 1119|2|ja|どろろ (1969)
@@ -93441,6 +93449,7 @@
 11783|4|ja|田中くんはいつもけだるげ
 11783|4|zh-Hans|田中君总是如此慵懒
 15874|4|zh-Hans|田径部女子是我的活自慰套
+20071|4|ja|田舎にはこれくらいしか娯楽がない
 2008|4|ja|甲竜伝説 ヴィルガスト
 4131|4|ja|甲虫王者ムシキング グレイテストチャンピオンへの道 劇場版
 4998|4|ja|甲虫王者ムシキング スーパーバトルムービー ~闇の改造甲虫~
@@ -94899,6 +94908,7 @@
 7464|4|zh-Hans|绿山高校 甲子园篇
 9894|4|zh|绿林大冒险
 14541|2|zh|绿林大冒险之糖果世界
+1055|4|zh-Hans|绿林寮
 322|4|zh-Hans|绿色传奇 乱
 14373|2|zh-Hans|绿蓝 Beryl and Sapphire
 14035|4|zh|缇可 冬季篇
