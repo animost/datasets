@@ -1,4 +1,4 @@
-# created: Thu May 28 03:00:01 2026
+# created: Fri May 29 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -41757,6 +41757,7 @@
 10272|4|en|Parasyte: The Maxim
 10272|2|cs|Parazit: Mravní zásady života
 19736|4|en|Pardon the Intrusion, I`m Home!
+19139|4|pt-BR|Parede de Gelo
 3081|2|en|Parent and Child Theatre
 8915|1|x-jat|Pareo wa Emerald
 3627|2|x-jat|Pari no Isaberu
@@ -56575,7 +56576,6 @@
 19523|2|en|Tomb of Fallen Gods 3rd Season
 19523|2|en|Tomb of Fallen Gods Season 3
 19838|2|en|Tomb Raider King
-19229|1|x-jat|Tomb Raider King
 11806|4|en|Tomboy Angels
 18420|2|en|Tombs of Fallen Immortals
 332|2|en|Tombstone for Fireflies
@@ -59719,6 +59719,7 @@
 4894|4|en|When They Cry: Kai
 5634|4|en|When They Cry: Rei
 15975|4|en|When Will Ayumu Make His Move?
+9176|2|en|When You Look Back
 17667|2|en|Where Does the Doomsday Train Go?
 15232|4|en|Where is Mama
 6051|2|en|Where the Seagulls Cry
