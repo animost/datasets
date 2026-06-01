@@ -1,4 +1,4 @@
-# created: Sun May 31 03:00:02 2026
+# created: Mon Jun  1 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2827,6 +2827,7 @@
 175|4|en|Angel Tales
 680|2|en|Angel Tales 2
 680|2|en|Angel Tales OVA
+10437|2|en|Angel Tear: Goddess Betrayed
 1919|4|pt-BR|Angel, a Menina das Flores
 2043|2|pt-BR|Angel, a Menina das Flores: O Filme
 1919|4|es-419|Ángel, la Niña de las Flores
@@ -6577,6 +6578,7 @@
 17954|4|en|Blue Lock vs. U-20 Japan
 17954|4|pl|Blue Lock vs. U-20 Japan
 17955|4|en|Blue Lock: Episode Nagi
+17955|4|pt|Blue Lock: O Filme - Episódio Nagi
 18193|4|en|Blue Miburo
 19258|4|en|Blue Miburo: Serizawa Assassination
 2467|3|x-jat|Blue Noah
@@ -24626,6 +24628,7 @@
 1688|4|en|Immorality
 1688|4|de|Immorality
 15822|2|en|Immorality Boundary
+20067|2|en|Immortal Cultivator vs Superhero
 18897|2|en|Immortal Doctor In Modern City
 14718|2|en|Immortal King
 16359|2|en|Immortal King 2
@@ -26798,6 +26801,7 @@
 12021|4|fr|Kaijû Girls
 13975|4|en|Kaiju Girls Black
 13401|4|en|Kaiju Girls: Season 2
+20073|1|x-zht|Kaiju Jiu You Wangzhe Zhanghao
 17550|4|en|Kaiju No. 8
 17550|4|de|Kaiju No. 8
 18722|4|en|Kaiju No. 8 (2025)
@@ -38530,6 +38534,7 @@
 9989|2|x-jat|Neppuu Kairiku Bushiroad
 9208|3|x-jat|neragaku
 9208|1|x-jat|Nerawareta Gakuen
+10437|2|x-jat|Nerawareta Megami Tenshi Angeltear ~Mamotta Ningen-tachi ni Uragirarete~
 10437|2|ja|Nerawareta Megami Tenshi Angeltia ~Mamotta Ningen-tachi ni Uragirarete~
 10437|1|x-jat|Nerawareta Megami Tenshi Angeltia: Mamotta Ningen-tachi ni Uragirarete
 4085|3|x-jat|Nerima
@@ -54644,6 +54649,7 @@
 17026|4|id|The Imaginary
 17026|4|tl|The Imaginary
 4617|4|en|The Immorals
+20067|2|en|The Immortal Cultivators vs Superheroes
 18897|2|en|The Immortal Doctor
 13660|4|en|The Immortal Legend
 19297|2|en|The Immortal Traces
@@ -86107,7 +86113,7 @@
 6546|2|zh-Hans|圣剑锻造师
 4006|4|zh-Hans|圣剑风云
 9456|4|zh-Hans|圣哥传 OAD
-10437|4|zh-Hans|圣天之泪：惨遭背刺的天使
+10437|4|zh-Hans|圣天之泪: 惨遭背刺的天使
 18940|4|zh-Hans|圣女因太过完美不够可爱而被废除婚约并卖到邻国
 15720|4|zh-Hans|圣女魔力无所不能
 17246|4|zh-Hans|圣女魔力无所不能 第二季
@@ -88498,6 +88504,7 @@
 13010|4|zh-Hans|开封奇谈-这个包公不太行
 17358|4|zh-Hans|开局一座山
 19820|4|zh-Hans|开局地摊卖大力
+20073|4|zh-Hans|开局就有王者账号
 20038|4|zh-Hans|开拍啦！怪兽大电影
 15339|4|zh-Hans|开挂药师的奇幻世界悠闲生活
 17742|4|zh-Hans|开阔天空！光之美少女
@@ -96376,7 +96383,7 @@
 501|4|ja|超時空要塞マクロスII -Lovers Again-
 19701|4|zh-Hant|超時空輝耀姬！
 1177|4|ja|超時空騎団サザンクロス
-19665|4|ja|超普通マホウ少女アスミトルバース
+19665|4|ja|超普通マホウ少女 アスミトルバース
 18423|4|ja|超普通県チバ伝説
 18423|6|ja|超普通県チバ伝説 The Legend of Super Normal Pref. Chiba
 18514|4|ja|超普通都市カシワ伝説
