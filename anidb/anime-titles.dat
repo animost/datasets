@@ -1,4 +1,4 @@
-# created: Mon Jun  1 03:00:02 2026
+# created: Tue Jun  2 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -734,6 +734,7 @@
 6054|3|x-jat|5-2tv
 4184|1|x-jat|5-tou ni Naritai.
 20004|1|en|500000000 years button
+20075|1|en|500000000 years button Part 2
 1153|3|x-jat|5555
 4568|3|x-jat|5cm
 4568|3|en|5cm per Second
@@ -743,6 +744,7 @@
 14247|4|ko|5등분의 신부
 14492|4|ja|5万匹
 20004|4|ja|5億年ボタン
+20075|4|ja|5億年ボタン Part 2
 4184|4|ja|5等になりたい.
 2773|1|x-jat|6 Angels
 12684|1|x-jat|6 Heart Princess
@@ -10182,6 +10184,7 @@
 9820|3|x-jat|crowds
 10226|3|x-jat|crowds2
 1233|2|x-jat|Crown Knights
+20073|4|en|Crowned from the Start
 9345|1|x-jat|Crows
 4327|3|x-jat|CRS
 4327|3|x-jat|CRTS
@@ -25396,6 +25399,7 @@
 9746|2|en|It Is Living Happily on Ground Every Day.
 8334|2|en|It is not like I grew up like this just for you
 3406|2|en|It Rained Fire
+20073|2|en|It Starts with a Kingpin Account
 4152|4|en|It`s a Family Affair
 12984|1|x-jat|It`s a Rumic World: 50th Anniversary Weekly-Shonen Sunday
 12984|4|ja|It`s a Rumic World: 50th Anniversary Weekly-Shonen Sunday
@@ -34376,6 +34380,7 @@
 19625|2|x-jat|Marriagetoxin
 18033|4|en|Married Couple Swap
 19163|2|en|Married Women`s Lips Taste Like Canned Chuuhai
+20074|1|x-jat|Marronnier Oukoku no Shichinin no Kishi
 19353|2|en|Marry Me, I’ll Fuck You Until You’re Pregnant!
 19353|2|en|Marry Me, Let`s Have a Baby!
 5696|1|x-jat|Mars
@@ -51524,9 +51529,12 @@
 15252|4|ja|START
 15538|2|en|Start to Be a Star Today
 18144|2|en|Start to Be a Star Today Ⅱ
+20073|2|en|Start with a King Account
 18703|2|en|Starting from Guhuo Bird: Dragon City Storm
 18403|2|en|Starting From The Red Moon
 1560|2|en|Starting Today, I`ll!!
+20073|2|en|Starting with a King-Level Account
+20073|2|en|Starting with a King`s Account
 19653|2|en|Starting with the Supreme Dantian
 4655|2|en|Startling Doctor
 14459|3|x-jat|startwi
@@ -81448,6 +81456,7 @@
 7439|4|ja|マルドゥック・スクランブル
 15317|4|ja|まるまるマヌル
 6900|4|ja|マレー沖海戦
+20074|4|ja|マロニエ王国の七人の騎士
 3592|2|ja|まんが ふるさと昔ばなし
 3592|2|ja|まんが ふるさと昔話
 3092|4|ja|まんが 水戸黄門
