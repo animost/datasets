@@ -1,4 +1,4 @@
-# created: Tue Jun  2 03:00:02 2026
+# created: Wed Jun  3 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -9600,6 +9600,8 @@
 4067|2|pt-BR|Colegiais
 5705|4|pt-BR|Colegiais em Apuros
 17483|2|en|Colette the Cum Collecting Alchemist
+20076|4|ja|Collector
+20076|1|x-jat|Collector
 3529|2|x-jat|Collector Yui
 15203|1|x-jat|ColoColo Animal ABC @ Kin Tele
 13339|1|x-jat|Color Noise
@@ -53718,7 +53720,7 @@
 357|2|x-jat|test`blubb
 4747|4|tr|Tetikçi Eğitmen Reborn!
 12826|1|x-jat|Tetopettenson
-1828|2|x-jat|Tetsu no Otome Jun
+1828|6|x-jat|Tetsu no Otome [Iron Virgin] Jun
 4936|2|en|Tetsujin #28 - The Lingering Moon of Midday
 4936|2|en|Tetsujin #28: The Daytime Moon
 1674|4|en|Tetsujin 28
@@ -54338,7 +54340,7 @@
 8117|4|en|The Everyday Tales of a Cat God
 8932|4|en|The Everyday Tales of a Cat God - Cherry Blossom Viewing Ghost Busters
 16031|4|en|The Executioner and Her Way of Life
-18854|2|en|The Exiled Heavy Knight Knows How to Game the System
+18854|4|en|The Exiled Heavy Knight Knows How to Game the System
 18854|2|en|The Exiled Reincarnated Heavy Knight Is Unrivaled in Game Knowledge
 14800|2|en|The Extraordinary Adventures of the Mouse and His Child
 6973|2|en|The Extravagant Muchabee
@@ -55395,6 +55397,7 @@
 15997|4|he|The Seven Deadly Sins: קללת האור
 13599|4|en|The Seven Heavenly Virtues
 10686|2|en|The Seven Impregnated Women Who Sneaked into the Night
+20074|2|en|The Seven Knights of the Marronnier Kingdom
 4734|2|en|The Seven Metamorphoses of Yamato Nadeshiko
 14867|2|en|The Seven Warring States Fan
 9510|4|en|The Severing Crime Edge
@@ -61380,10 +61383,10 @@
 10405|3|x-jat|Yorinuke Gintama
 10405|1|x-jat|Yorinuki Gintama-san on Theater 2D
 19380|1|x-jat|Yoroi Shin Den Samurai Troopers
-19816|1|x-jat|Yoroi Shin Den Samurai Troopers 2
+19816|1|x-jat|Yoroi Shin Den Samurai Troopers (2026)
 19380|4|de|Yoroi-Shinden Samurai Troopers
 19380|4|en|Yoroi-Shinden Samurai Troopers
-19816|2|en|Yoroi-Shinden Samurai Troopers 2
+19816|2|en|Yoroi-Shinden Samurai Troopers (2026)
 460|1|x-jat|Yoroiden Samurai Troopers
 3377|1|x-jat|Yoroiden Samurai Troopers Gaiden
 3379|1|x-jat|Yoroiden Samurai Troopers Kikoutei Densetsu
@@ -67226,6 +67229,8 @@
 271|2|bg|Съюзът на Среброкрилите
 15364|4|ru|Сыщик-миллионер - Balance: UNLIMITED
 5786|2|ru|Сэкирэй
+6793|2|ru|Сэкирэй: Честная битва
+6793|2|ru|Сэкирэй: Чистая связь
 13341|4|ru|Сэнран Кагура. Мастер Синови —Призраки из Токио—
 10969|2|ru|Сюита школы Микагура
 12462|4|ru|Тавава по понедельникам
@@ -97098,6 +97103,7 @@
 4054|4|ja|鉄コン筋クリート (2006)
 5629|4|ja|鉄のラインバレル
 1828|4|ja|鉄の処女 JUN
+1828|6|ja|鉄の処女[アイアンバージン] JUN
 3579|3|ja|鉄ものがたり
 1670|4|ja|鉄人28号
 1672|4|ja|鉄人28号 (1980)
@@ -97255,7 +97261,7 @@
 3377|4|ja|鎧伝サムライトルーパー外伝
 3379|4|ja|鎧伝サムライトルーパー輝煌帝伝説
 19380|4|ja|鎧真伝サムライトルーパー
-19816|4|ja|鎧真伝サムライトルーパー 2
+19816|4|ja|鎧真伝サムライトルーパー (2026)
 15919|4|ja|鎮西八郎為朝
 17018|4|ja|鎮西八郎為朝 (2021)
 15914|4|zh|鏈鋸人
