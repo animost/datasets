@@ -1,4 +1,4 @@
-# created: Wed Jun  3 03:00:01 2026
+# created: Thu Jun  4 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -187,7 +187,7 @@
 13066|4|ja|「Magical Music Train 」
 4317|4|ja|「エイジ」
 19310|4|ja|「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので, 王都で気ままに暮らしたい
-19909|4|ja|「きみを愛する気はない」と言った 次期公爵様がなぜか溺愛してきます
+19909|4|ja|「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます
 19310|4|zh-Hans|「凭你也想讨伐魔王？」被勇者小队逐出队伍，只好在王都自在过活
 19003|4|zh-Hans|「只能触摸一分钟哦...」合租房的秘密规则。
 15157|4|ja|「宇宙戦艦ヤマト」という時代 西暦2202年の選択
@@ -259,8 +259,8 @@
 18736|1|x-jat|0-saiji Start Dash Monogatari
 19119|1|x-jat|0-saiji Start Dash Monogatari (2025)
 19119|2|x-jat|0-saiji Start Dash Monogatari Season 2
-2195|4|ja|0[ゼロ]テスター
-2196|4|ja|0[ゼロ]テスター 地球を守れ!
+2195|6|ja|0[ゼロ]テスター
+2196|6|ja|0[ゼロ]テスター 地球を守れ!
 11391|1|x-jat|00:08
 11391|4|ja|00:08
 11392|1|x-jat|001
@@ -287,8 +287,8 @@
 6239|2|tr|07-Hayalet
 6239|2|fa|07-روح
 6239|3|x-jat|07ghost
-2195|2|ja|0テスター
-2196|2|ja|0テスター 地球を守れ!
+2195|4|ja|0テスター
+2196|4|ja|0テスター 地球を守れ!
 5121|4|ja|0戦はやと
 18736|4|ja|0歳児スタートダッシュ物語
 19119|4|ja|0歳児スタートダッシュ物語 (2025)
@@ -7170,6 +7170,7 @@
 7103|2|en|Break Blade Movie
 17268|2|en|Break of Dawn
 17268|4|de|Break of Dawn
+3523|2|en|Break Through The Wind!
 6405|4|ja|BREAK-AGE
 6405|1|x-jat|Breakage
 14722|1|x-jat|Breakers
@@ -14452,6 +14453,7 @@
 12806|2|fr|e t’ai toujours aimé
 1213|4|it|È un po` magia per Terry e Maggie
 653|4|de|E-Mail für Eve
+20079|1|x-jat|E, Shanai System Subete Wanope Shiteiru Watashi o Kaiko Desuka?
 2479|4|en|E.Y.E.S. of Mars
 624|3|x-jat|E`s
 624|1|x-jat|E`s Otherwise
@@ -16661,10 +16663,11 @@
 1315|2|en|Firebird 2772: Cosmos Zone of Love
 2629|2|en|Firebird: Karma Chapter
 2878|2|en|Firebird: Space Chapter
+20079|2|en|Fired? But I Maintain All the Software!
 17771|4|en|Firefighter Daigo: Rescuer in Orange
 17771|2|en|Firefighter! Daigo of Fire Company M: The Orange of National Salvation
 9641|2|en|Fireflies
-19823|2|en|Firefly Wedding
+19823|4|en|Firefly Wedding
 637|1|x-jat|Firestorm
 637|4|ja|FIRESTORM ファイアーストーム
 12605|4|es|Fireworks
@@ -17724,7 +17727,7 @@
 18686|1|x-jat|Gachiakuta
 18686|4|en|Gachiakuta
 19779|1|x-jat|Gachiakuta 2
-19779|2|en|Gachiakuta 2
+19779|4|en|Gachiakuta 2
 692|1|x-jat|Gad Guard
 692|4|fr|Gad Guard
 692|4|en|Gad Guard
@@ -17755,6 +17758,7 @@
 3704|1|x-jat|Gaiking: Legend of Daiku-Maryu
 3704|5|x-jat|Gaiking: Legend of Daikuu Maryuu
 3704|2|x-jat|Gaiking: Legend of Daikuu-Maryuu
+19053|3|x-jat|Gaikotsu Kishi-sama II
 16262|1|x-jat|Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu
 19053|1|x-jat|Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II
 13440|1|x-jat|Gaikotsu Shoten`in Honda-san
@@ -19921,7 +19925,7 @@
 16418|1|x-jat|Goodbye, Don Glees!
 16418|2|x-jat|Goodbye, DonGlees!
 16418|4|it|Goodbye, DonGlees!
-18643|2|en|Goodbye, Lara
+18643|4|en|Goodbye, Lara
 15547|4|fr|Goodnight World
 10530|2|en|Google it! Kokkuri-san
 12979|1|x-jat|Gooorgeous
@@ -20305,7 +20309,7 @@
 6113|3|x-jat|GRZ
 252|3|x-jat|GS
 2445|3|x-jat|GS Astray
-2096|3|x-jat|gs mikami
+2096|2|x-jat|GS Mikami
 4169|3|x-jat|GS SE I
 4168|3|x-jat|GS SE II
 4165|3|x-jat|GS SE III
@@ -20313,7 +20317,7 @@
 4168|3|x-jat|GS Special Edition II
 4165|3|x-jat|GS Special Edition III
 4366|3|x-jat|GS Stargazer
-2096|4|ja|GS[ゴーストスイーパー]美神
+2096|6|ja|GS[ゴーストスイーパー]美神
 1506|4|ja|GS[ゴーストスイーパー]美神 極楽大作戦!!
 2186|3|x-jat|gs2
 11681|3|x-jat|gsao movie
@@ -20337,7 +20341,7 @@
 10542|3|x-jat|gsnk
 1686|3|x-jat|GSR
 6031|3|x-jat|gszs
-2096|2|ja|GS美神
+2096|4|ja|GS美神
 1506|2|ja|GS美神 極楽大作戦!!
 9771|3|en|GT
 233|4|he|GT דרגון בול
@@ -21634,7 +21638,6 @@
 11270|1|x-jat|Haruchika: Haruta to Chika wa Seishun Suru
 2600|3|x-jat|Harudaki
 3651|3|x-jat|haruhi
-5335|3|x-jat|haruhi (2009)
 3651|3|x-jat|Haruhi 1
 3651|3|x-jat|Haruhi 2006
 6367|3|x-jat|Haruhi 2009
@@ -23942,7 +23945,7 @@
 3325|2|en|I and Myself: The Two Lottes
 16630|2|en|I Annoyed Millions of Cultivators
 8073|4|it|I bambini che inseguono le stelle
-19635|2|en|I Became a Legend After My 10 Year-Long Last Stand
+19635|4|en|I Became a Legend After My 10 Year-Long Last Stand
 18438|2|en|I Became the Strongest with the Failure Frame "Abnormal State Skill" as i Devastated Everything
 3050|4|it|I bon bon magici di Lilly
 19337|1|x-kot|I Byeol-e Pil-yohan
@@ -26506,6 +26509,7 @@
 12956|1|x-jat|Juuni Taisen
 5726|1|x-jat|Juuni-nin no Onna Kyoushi
 11302|1|x-jat|Juunigatsu no Uta
+20081|1|x-jat|Juuou Bushin Dandivine
 10710|1|x-jat|Juuou Mujin no Fafnir
 4226|1|x-jat|Juuousei
 19995|1|x-jat|Juurin Oukoku
@@ -29362,7 +29366,6 @@
 1938|1|x-jat|Konpora Kid
 13117|3|x-jat|Konshi s1
 16831|1|x-jat|Konu to Tanoshii Otomodachi
-17592|2|x-jat|Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu
 19139|1|x-jat|Koori no Jouheki
 10787|1|x-jat|Koori no Kuni no Misuke
 17473|1|x-jat|Koori Zokusei Danshi to Cool na Douryou Joshi
@@ -30601,7 +30604,7 @@
 515|2|pt-BR|Labirinto de Chamas
 713|2|lt|Labirinto Istorijos
 17564|4|cs|Labužníci v kobce
-19429|2|en|Labyrinth
+19429|4|en|Labyrinth
 1879|2|en|Labyrinth in the Clouds Zeguy
 515|4|en|Labyrinth of Flames
 515|4|fr|Labyrinth of Flames
@@ -32767,7 +32770,7 @@
 986|4|de|Lupin the 3rd: Voyage To Danger
 19020|4|ja|LUPIN THE IIIRD THE MOVIE 不死身の血族
 19020|1|x-jat|Lupin the IIIrd the Movie: Fujimi no Ketsuzoku
-19020|2|en|Lupin the IIIrd the Movie: The Immortal Bloodline
+19020|4|en|Lupin the IIIrd the Movie: The Immortal Bloodline
 14616|4|ja|LUPIN THE IIIRD 峰不二子の嘘
 10535|4|ja|LUPIN THE IIIRD 次元大介の墓標
 12398|4|ja|LUPIN THE IIIRD 血煙の石川五ェ門
@@ -34370,7 +34373,6 @@
 2161|3|x-jat|marple
 2689|1|x-jat|Marriage
 2689|4|ja|Marriage ~結婚~
-9491|2|x-jat|Marriage Blue ~Kon Yakusha ga Iru no ni, Doushite Konna Otoko ni...~
 9491|1|x-jat|Marriage Blue: "Kon`yakusha ga Iru no ni, Doushite Konna Otoko ni......"
 18033|2|en|Marriage Exchange Amazing Extramarital Sex Compared to My Husband
 1104|4|en|Marriage of God & Soul Godannar!!
@@ -41389,6 +41391,7 @@
 15274|1|x-jat|Overflow
 15274|4|en|Overflow
 15274|4|es-419|Overflow: Desbordándose
+20077|4|en|Overgeared
 10816|1|x-jat|Overlord
 10816|4|ja|OVERLORD
 10816|4|en|Overlord
@@ -43361,11 +43364,11 @@
 7852|1|x-jat|Pom Pom Purin no Usagi to Kame
 7853|4|en|Pom Pom Purin`s The Northwind and the Sun
 7852|4|en|Pom Pom Purin`s The Tortoise and the Hare
+13405|4|en|Pompo the Cinephile
 13405|4|it|Pompo, la cinefila
 13405|4|es|Pompo, la magia del cine
 13405|4|cs|Pompo, milovnice filmů
 13405|2|en|Pompo: The Cinephile
-13405|2|en|Pompo: The Cinéphile
 334|4|fr|Pompoko
 334|4|es|Pompoko
 334|4|da|Pompoko
@@ -44550,8 +44553,9 @@
 19920|1|x-zht|Quanzhi Fashi VII
 12560|1|x-zht|Quanzhi Gaoshou
 14978|1|x-zht|Quanzhi Gaoshou 2
-16589|2|x-zht|Quanzhi Gaoshou 3
-16589|1|x-zht|Quanzhi Gaoshou Di San Ji
+16589|1|x-zht|Quanzhi Gaoshou 3
+20078|1|x-zht|Quanzhi Gaoshou 4
+16589|2|x-zht|Quanzhi Gaoshou Di San Ji
 19122|1|x-zht|Quanzhi Gaoshou Q
 13950|2|en|Quanzhi Gaoshou Specials
 15035|2|x-zht|Quanzhi Gaoshou Zhi Dianfeng Rongyao
@@ -47460,7 +47464,7 @@
 17077|4|en|Sasaki and Miyano: A Tiny Episode from Before He Realized His Feelings
 17287|4|en|Sasaki and Miyano: Graduation
 17530|4|en|Sasaki and Peeps
-18563|2|en|Sasaki and Peeps Season 2
+18563|4|en|Sasaki and Peeps Season 2
 17530|4|id|Sasaki dan Pipi
 17287|4|it|Sasaki e Miyano Il film — Diploma —
 15865|1|x-jat|Sasaki to Miyano
@@ -50297,7 +50301,7 @@
 394|3|x-jat|smjtox
 13625|4|pl|SMOCZA PILOTKA: Hisone i Masotan
 231|2|pl|Smocze Kule
-19479|2|en|Smoking Behind the Supermarket with You
+19479|4|en|Smoking Behind the Supermarket with You
 1247|2|x-jat|SMR
 2538|3|x-jat|sms
 2540|3|x-jat|SMSS
@@ -51554,6 +51558,7 @@
 16331|1|x-jat|Station Idol Latch!
 16331|4|ja|STATION IDOL LATCH!
 13672|2|x-unk|Station Memories!
+20080|4|en|Stay Low Profile, Sect Chief
 8933|1|x-jat|Stay The Same
 8933|4|ja|Stay the same
 9772|3|x-jat|stb
@@ -53337,9 +53342,12 @@
 11450|1|x-jat|Tell Your World
 11450|4|ja|Tell Your World
 572|2|it|Temi d`amore tra i banchi di scuola
+20077|1|x-jat|Tempal: Item no Chikara
+20077|2|en|Tempal: The Power of Items
 17827|2|x-jat|Temple
 5518|2|it|Temple e Tam-Tam
 5518|4|en|Temple the Balloonist
+20077|2|x-kot|Temppal
 1695|4|en|Temptation
 1062|2|en|Temptation Countdown
 14361|1|x-jat|Ten
@@ -53720,7 +53728,8 @@
 357|2|x-jat|test`blubb
 4747|4|tr|Tetikçi Eğitmen Reborn!
 12826|1|x-jat|Tetopettenson
-1828|6|x-jat|Tetsu no Otome [Iron Virgin] Jun
+1828|2|x-jat|Tetsu no Otome [Iron Virgin] Jun
+1828|6|x-jat|Tetsu no Shojo [Iron Virgin] Jun
 4936|2|en|Tetsujin #28 - The Lingering Moon of Midday
 4936|2|en|Tetsujin #28: The Daytime Moon
 1674|4|en|Tetsujin 28
@@ -53932,8 +53941,8 @@
 2427|2|en|The Anthology of Japanese Literature
 17870|4|en|The Apothecary Diaries
 18562|4|en|The Apothecary Diaries (2025)
-19444|2|en|The Apothecary Diaries (2026)
-19671|2|en|The Apothecary Diaries (2027)
+19444|4|en|The Apothecary Diaries (2026)
+19671|4|en|The Apothecary Diaries (2027)
 18562|2|en|The Apothecary Diaries S2
 18562|2|en|The Apothecary Diaries Season 2
 19670|2|en|The Apothecary Diaries the Movie
@@ -54380,6 +54389,7 @@
 15974|4|ja|THE FIRST SLAM DUNK
 15974|1|x-jat|The First Slam Dunk
 15974|4|pl|The First Slam Dunk
+15974|4|en|The First Slam Dunk
 17309|2|en|The First Son-In-Law Vanguard of All Time
 18379|2|en|The First Son-In-Law Vanguard of All Time 2
 5396|2|en|The First Tram Runs to Hiroshima
@@ -54741,6 +54751,7 @@
 14978|2|en|The King`s Avatar (2019)
 14978|4|en|The King`s Avatar 2
 16589|2|en|The King`s Avatar 3
+20078|2|en|The King`s Avatar 4
 16589|2|en|The King`s Avatar Ⅲ
 13950|2|en|The King`s Avatar SP
 13950|2|en|The King`s Avatar Specials
@@ -55046,11 +55057,12 @@
 6982|2|en|The Number One Miser of the City
 11075|2|en|The Numbers
 12558|2|en|The Numbers (2017)
+19485|4|en|The Oblivious Saint Can`t Contain Her Power
 19485|2|en|The Oblivious Saint Can`t Contain Her Power Glossary
 19485|2|en|The Oblivious Saint Can`t Contain Her Power: Forget My Sister! Turns Out I Was the Real Saint All Along!
 6837|2|en|The Octopus Bone
 2028|2|en|The Offering of the Shrike
-19378|2|en|The Ogre`s Bride
+19378|4|en|The Ogre`s Bride
 3045|4|en|The Old Crocodile
 11095|4|en|The Old Man and the Sea
 15763|2|en|The Old Man and Two Mountains
@@ -56592,7 +56604,7 @@
 19523|2|en|Tomb of Fallen Gods 3
 19523|2|en|Tomb of Fallen Gods 3rd Season
 19523|2|en|Tomb of Fallen Gods Season 3
-19838|2|en|Tomb Raider King
+19838|4|en|Tomb Raider King
 11806|4|en|Tomboy Angels
 18420|2|en|Tombs of Fallen Immortals
 332|2|en|Tombstone for Fireflies
@@ -58846,7 +58858,7 @@
 8012|2|en|Victini and the Black Hero: Zekrom
 8012|2|en|Victini and the Dark Hero: Zekrom
 8269|2|en|Victini and the White Hero: Reshiram
-19573|2|en|Victoria of Many Faces
+19573|4|en|Victoria of Many Faces
 11194|2|en|Victorian Maid Maria`s Service
 11194|1|x-jat|Victorian Maid: Maria no Houshi
 2695|2|en|Victorian Romance Emma
@@ -60691,7 +60703,6 @@
 14060|1|x-zht|Xue Haizi
 13801|1|x-zht|Xue Se Cang Qiong
 15972|2|x-zht|Xue Ying Ling Zhu
-14726|2|x-zht|Xue Ying Ling Zhu - Season 3
 16596|2|en|Xue Ying Ling Zhu - Season 3
 14726|1|x-zht|Xue Ying Lingzhu
 15972|1|x-zht|Xue Ying Lingzhu Di Er Ji
@@ -62457,6 +62468,7 @@
 15227|1|x-zht|Zhandouban Geji! Di Er Ji
 15228|1|x-zht|Zhandouban Geji! Di Ling Ji
 15226|1|x-zht|Zhandouban Geji! Di Yi Ji
+20080|1|x-zht|Zhang Men Didiao Dian
 14867|1|x-zht|Zhanguo Fan
 17541|2|x-zht|Zhanguo Qiannian
 19148|1|x-zht|Zhanshen Lianmeng
@@ -73895,6 +73907,7 @@
 10666|4|ko|테일즈 오브 제스티리아: 도사의 새벽
 1374|4|ko|테일즈 오브 판타지아 The Animation
 17589|4|ko|텔레몬스터
+20077|2|ko|템빨
 8211|4|ko|토끼 드롭스
 16360|2|ko|토끼귀 모험담
 5909|4|ko|토라도라!
@@ -75218,6 +75231,7 @@
 11084|4|ja|うわばきクック
 7451|4|ja|うんこさん ツイてる人にしか見えない妖精
 9443|4|ja|うんこさん ツイてる人にしか見えない妖精 純情派
+20079|4|ja|え, 社内システム全てワンオペしている私を解雇ですか?
 17205|2|ja|エ○○ーマン
 5137|2|ja|エー・ガール
 14292|2|ja|エーアールピーバックステージパス
@@ -77989,15 +78003,15 @@
 5537|4|ja|ゼロ デュエル・マスターズ
 12450|4|ja|ゼロから始める魔法の書
 4637|2|ja|ゼロゼロナインワン
-2195|2|ja|ゼロテスター
+2195|5|ja|ゼロテスター
 2196|5|ja|ゼロテスター ちきゅうをまもれ
 2196|2|ja|ゼロテスター 地球を守れ!
 5635|5|ja|ゼロのつかいま プリンセッセのロンド
 4146|4|ja|ゼロの使い魔
 4915|4|ja|ゼロの使い魔 ~双月の騎士~
 4915|2|ja|ゼロの使い魔 第2シリーズ
-5635|4|ja|ゼロの使い魔~三美姫[プリンセッセ]の輪舞[ロンド]~
-5635|2|ja|ゼロの使い魔~三美姫の輪舞~
+5635|6|ja|ゼロの使い魔~三美姫[プリンセッセ]の輪舞[ロンド]~
+5635|4|ja|ゼロの使い魔~三美姫の輪舞~
 8593|4|ja|ゼロの使い魔F
 2424|4|ja|ゼロの者
 9326|4|ja|セロひきのゴーシュ
@@ -78770,6 +78784,7 @@
 1657|4|ja|デビルマン 誕生編
 749|4|ja|デビルマンレディー
 18281|4|ja|デブとラブと過ちと!
+20077|4|ja|テムパル~アイテムの力~
 10775|4|ja|デモニオン ~外伝~
 19751|4|ja|デモンズ・クレスト
 82|4|ja|デュアル! ぱられルンルン物語
@@ -83396,8 +83411,8 @@
 15760|2|zh-Hans|京剧猫第二季: 信念的冒险
 15758|2|zh-Hans|京剧猫第四季: 脚踏实地
 15758|2|zh-Hans|京剧猫第四季: 脚踏实地(上)
-4583|4|ja|京四郎と永遠(とわ)の空
-4583|2|ja|京四郎と永遠の空
+4583|6|ja|京四郎と永遠[とわ]の空
+4583|4|ja|京四郎と永遠の空
 4583|2|zh-Hans|京四郎和永远的天空
 1001|4|ja|京極夏彦 巷説百物語
 13904|4|ja|京都寺町三条のホームズ
@@ -84146,9 +84161,12 @@
 10012|2|zh-Hans|全职猎人剧场版 最后的任务
 9323|2|zh-Hans|全职猎人剧场版 绯色的幻影
 12560|4|zh-Hans|全职高手
-16589|4|zh-Hans|全职高手 第三季
+16589|2|zh-Hans|全职高手 第三季
+20078|2|zh-Hans|全职高手 第四季
 19122|2|zh-Hans|全职高手·荣耀小剧场
 14978|4|zh-Hans|全职高手2
+16589|4|zh-Hans|全职高手3
+20078|4|zh-Hans|全职高手4
 19122|4|zh-Hans|全职高手Q
 15035|4|zh-Hans|全职高手之巅峰荣耀
 13950|4|zh|全职高手特别篇
@@ -84466,10 +84484,10 @@
 17515|4|zh-Hans|决斗大师WIN
 17921|4|zh-Hans|决斗大师WIN 决斗学园篇
 10538|3|ja|冴えカノ
-11221|4|ja|冴えない彼女[ヒロイン]の育てかた♭
+11221|6|ja|冴えない彼女[ヒロイン]の育てかた♭
 10538|4|ja|冴えない彼女の育てかた
 13626|4|ja|冴えない彼女の育てかた Fine
-11221|2|ja|冴えない彼女の育てかた♭
+11221|4|ja|冴えない彼女の育てかた♭
 12333|4|zh-Hans|冷然之天秤
 16099|4|zh|冷血狂宴
 3611|4|zh-Hans|冷面天使
@@ -85398,8 +85416,8 @@
 19722|4|zh-Hans|又被杀掉了呢，侦探大人
 16026|4|ja|友達の妹が俺にだけウザい
 19084|4|zh-Hans|双人单身露营
-3312|4|ja|双子(フタゴ)ノ母(ハハ)性本能
-3312|2|ja|双子ノ母性本能
+3312|6|ja|双子[フタゴ]ノ母[ハハ]性本能
+3312|4|ja|双子ノ母性本能
 19051|4|zh-Hans|双子姐妹
 19051|2|zh-Hans|双子阳奈妃
 2162|4|ja|双恋
@@ -86762,8 +86780,8 @@
 4086|4|ja|天使なんかじゃない
 75|4|ja|天使な小生意気
 690|4|ja|天使になるもんっ!
-12451|2|ja|天使の3P!
-12451|4|ja|天使の3P[スリーピース]!
+12451|4|ja|天使の3P!
+12451|6|ja|天使の3P[スリーピース]!
 680|4|ja|天使のしっぽChu!
 318|4|ja|天使のたまご
 9537|4|ja|天使のどろっぷ
@@ -89792,6 +89810,7 @@
 17592|4|zh-Hans|捡走被人悔婚的千金，教会她坏坏的幸福生活
 19954|4|ja|捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました
 8873|2|zh-Hans|授业到天亮Chu!
+20080|4|zh-Hans|掌门低调点
 14552|4|zh-Hans|排球少年 TO THE TOP
 15283|4|zh-Hans|排球少年 TO THE TOP 第二期
 13332|4|zh-Hans|排球少年 特集！赌在春高上的青春
@@ -93263,6 +93282,7 @@
 9795|4|ja|獣旋バトル モンスーノ (2013)
 18732|4|ja|獣旋バトル モンスーノ (2014)
 4226|4|ja|獣王星
+20081|4|ja|獣王武神ダンデヴァイン
 4157|4|ja|獣神ライガー
 5314|4|ja|獣神演武 - HERO TALES -
 4829|4|ja|獣装機攻ダンクーガノヴァ
@@ -98201,6 +98221,7 @@
 16262|4|zh-Hant|骸骨騎士大人異世界冒險中
 16262|4|ja|骸骨騎士様, 只今異世界へお出掛け中
 19053|4|ja|骸骨騎士様, 只今異世界へお出掛け中II
+19053|3|ja|骸骨騎士様II
 16262|4|zh-Hans|骸骨骑士大人奇幻世界冒险中
 16262|2|zh-Hans|骸骨骑士大人异世界冒险中
 15689|4|zh-Hant|體操武士
