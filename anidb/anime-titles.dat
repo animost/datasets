@@ -1,4 +1,4 @@
-# created: Thu Jun  4 03:00:01 2026
+# created: Fri Jun  5 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -19074,6 +19074,7 @@
 4585|3|x-jat|gift-er
 4585|1|x-jat|Gift: Eternal Rainbow
 14404|2|x-jat|Gift±
+20082|1|x-jat|Gifted
 11261|2|en|Gifting this Wonderful World with Blessings!
 9854|4|fr|Gifu Dodo !! Kanetsugu et Keiji
 15089|1|x-jat|Gifu no Tatekayoko
@@ -26380,7 +26381,6 @@
 1497|1|x-jat|Jungle Taitei (1966)
 1499|1|x-jat|Jungle Taitei (1989)
 1490|1|x-jat|Jungle Taitei (1997)
-19662|1|x-jat|Jungle Taitei / Honnouji no Hen
 1490|2|x-jat|Jungle Taitei Leo
 1498|2|x-jat|Jungle Taitei Susume Leo
 1498|1|x-jat|Jungle Taitei Susume Leo!
@@ -77522,7 +77522,6 @@
 1490|4|ja|ジャングル大帝 (1997)
 6652|4|ja|ジャングル大帝 勇気が未来をかえる
 1498|4|ja|ジャングル大帝 進めレオ!
-19662|4|ja|ジャングル大帝／本能寺の変
 2483|4|ja|ジャングル黒べえ
 19944|4|ja|ジャンケットバンク
 6520|4|ja|ジャンケンマン
