@@ -1,4 +1,4 @@
-# created: Fri Jun  5 03:00:01 2026
+# created: Sat Jun  6 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -21908,6 +21908,7 @@
 2799|4|en|Heavenly Chronicles
 17671|2|en|Heavenly Delusion
 17671|2|de|Heavenly Delusion: Das verlorene Paradies
+20084|2|en|Heavily Armed High School Girls
 5230|1|x-jat|Heavy
 522|4|en|Heavy Metal L-Gaim
 523|1|x-jat|Heavy Metal L-Gaim I: Pentagona Window + Lady Gablae
@@ -26499,6 +26500,7 @@
 10225|2|x-unk|Juugo Shounen Hyouryuuki Kaizoku Jima DE! Daibouken
 10225|1|x-jat|Juugo Shounen Hyouryuuki Kaizokujima DE! Daibouken
 10225|2|x-jat|Juugo Shounen Hyouryuuki: Kaizokujima DE! Daibouken
+20084|1|x-jat|Juuheisou-gata Joshikousei
 1869|1|x-jat|Juuichinin Iru!
 4944|2|x-jat|Juuippiki no Neko
 13104|1|x-jat|Juujika You and I
@@ -33631,6 +33633,7 @@
 10182|1|x-jat|Mahouka Koukou no Rettousei
 15132|2|x-jat|Mahouka Koukou no Rettousei (2020)
 17098|1|x-jat|Mahouka Koukou no Rettousei (2024)
+20083|1|x-jat|Mahouka Koukou no Rettousei (Dai Ni Bu)
 15132|2|x-jat|Mahouka Koukou no Rettousei 2nd Season
 15132|2|x-jat|Mahouka Koukou no Rettousei S2
 17098|2|x-jat|Mahouka Koukou no Rettousei Season 3
@@ -54696,6 +54699,7 @@
 10182|4|en|The Irregular at Magic High School
 10182|4|fr|The irregular at magic high school
 17098|4|en|The Irregular at Magic High School (2024)
+20083|2|en|The Irregular at Magic High School (Part II)
 11980|2|en|The Irregular at Magic High School The Movie
 16081|4|en|The Irregular at Magic High School: Reminiscence Arc
 16081|4|de|The Irregular at Magic High School: Reminiscence Arc
@@ -97033,6 +97037,7 @@
 15423|4|zh-Hans|里世界郊游
 16069|2|zh-Hans|里亚德录大地
 16069|4|zh-Hant|里亞德錄大地
+20084|4|ja|重兵装型女子高生
 15716|4|zh-Hans|重创的伤口
 16794|4|zh-Hans|重启人生 : 大逃亡
 18013|4|zh-Hans|重启人生的千金小姐正在攻略龙帝陛下
@@ -98701,6 +98706,7 @@
 15132|4|zh-Hant|魔法科高中的劣等生來訪者篇
 15952|4|ja|魔法科高校の優等生
 17098|4|ja|魔法科高校の劣等生 (2024)
+20083|4|ja|魔法科高校の劣等生 (第二部)
 10182|4|ja|魔法科高校の劣等生 The irregular at magic high school
 15132|4|ja|魔法科高校の劣等生 来訪者編
 16081|4|ja|魔法科高校の劣等生 追憶編
