@@ -1,4 +1,4 @@
-# created: Sat Jun  6 03:00:02 2026
+# created: Sun Jun  7 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -23292,7 +23292,6 @@
 8245|2|x-jat|Honto ni Atta! Reibai Sensei
 8245|1|x-jat|Honto ni Atta! Reibai-sensei
 9941|1|x-jat|Hontou ni Atta
-14727|3|x-jat|Honzuki
 15293|3|x-jat|Honzuki 2
 15634|3|x-jat|Honzuki 3
 15293|3|x-jat|Honzuki no Gekokujou 2
@@ -27849,6 +27848,7 @@
 1552|4|fr|Keroro - Mission Titar
 7246|2|en|Keroro Gunso the Super Movie: Creation! Ultimate Keroro, Wonder Space-Time Island
 1552|1|x-jat|Keroro Gunsou
+20085|1|x-jat|Keroro Gunsou Hoshi
 4818|2|x-jat|Keroro Gunsou Movie 2
 5956|2|en|Keroro Gunsou Movie 3
 3569|2|x-jat|Keroro Gunsou the Movie
@@ -76805,6 +76805,7 @@
 808|4|ja|ケロケロちゃいむ
 1811|4|ja|けろっこデメタン
 1552|4|ja|ケロロ軍曹
+20085|4|ja|ケロロ軍曹☆
 12748|4|ja|ケンカのあとは
 11216|4|ja|ケンガンアシュラ
 17274|4|ja|ケンガンアシュラ (2023)
