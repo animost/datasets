@@ -1,4 +1,4 @@
-# created: Sun Jun  7 03:00:02 2026
+# created: Mon Jun  8 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -7279,6 +7279,7 @@
 469|3|en|btc
 2820|3|x-jat|btd
 5089|3|x-jat|btd2
+19835|3|en|BTG
 1399|3|en|BTLEX
 43|3|en|BtLV
 9249|3|x-jat|Btoom
@@ -20981,6 +20982,7 @@
 12387|4|en|Hagane Orchestra
 979|3|x-jat|HagaRen
 6107|3|x-jat|HagaRen (2009)
+6107|3|x-jat|HagaRen Brotherhood
 2359|3|x-jat|hagaren movie
 2359|2|x-jat|Hagaren The Movie
 8090|2|x-jat|Hagaren the Movie (2011)
@@ -70750,6 +70752,7 @@
 10429|2|ko|거유 가족 최면
 10900|2|ko|거유 공주기사&여전사
 13356|2|ko|거유 대가족 최면
+19919|2|ko|거유 두 명이 없으면 안 서는 남편을 위해 친구를 데리고 온 아내
 13544|2|ko|거유 변태 학원
 16914|2|ko|거유 엘프 모녀 최면
 18525|2|ko|거유 여사관
