@@ -1,4 +1,4 @@
-# created: Mon Jun  8 03:00:01 2026
+# created: Wed Jun 10 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6569,8 +6569,6 @@
 16519|1|x-jat|Blue Lock
 16519|4|pl|Blue Lock
 17955|4|es-419|BLUE LOCK -Episodio Nagi-
-19620|2|en|Blue Lock (New Series)
-19620|1|x-jat|Blue Lock (Shin Series)
 17954|2|x-jat|BLUE LOCK 2
 17954|2|x-jat|BLUE LOCK 2nd Season
 17955|4|pt-BR|BLUE LOCK O FILME -EPISÓDIO NAGI-
@@ -6580,6 +6578,8 @@
 17954|4|en|Blue Lock vs. U-20 Japan
 17954|4|pl|Blue Lock vs. U-20 Japan
 17955|4|en|Blue Lock: Episode Nagi
+19620|1|x-jat|Blue Lock: Neo Egoist League
+19620|2|en|Blue Lock: Neo Egoist League
 17955|4|pt|Blue Lock: O Filme - Episódio Nagi
 18193|4|en|Blue Miburo
 19258|4|en|Blue Miburo: Serizawa Assassination
@@ -11627,6 +11627,8 @@
 14564|3|x-jat|dendro
 16872|1|x-zht|Deng Ming Tian
 18438|4|id|Dengan Bingkai Status Sampah "Skill Abnormal" Aku Menjadi Terkuat dan Akan Menghabisi Semuanya
+20086|1|x-jat|Dengeki Daisy
+20086|2|en|Dengeki Daisy
 5214|2|x-jat|Dengeki Oshioki Musume Gootaman R: Ai to Kanashimi no Final Battle!!
 1422|2|x-jat|Dengeki Oshioki Musume Gootaman: Gootaman Tanjou Hen
 5214|1|x-jat|Dengeki Oshioki Musume Gotaman Return: Ai to Kanashimi no Final Battle!!
@@ -34864,6 +34866,7 @@
 19260|1|x-jat|Medalist (2026)
 19260|2|en|Medalist (2026)
 19260|2|en|Medalist 2nd Season
+19260|2|en|Medalist Season 2
 10631|1|x-jat|Medamayaki no Kimi Itsu Tsubusu?
 3303|1|x-jat|Medarot
 3303|4|it|Medarot
@@ -37138,6 +37141,7 @@
 17458|4|en|Murai in Love
 17458|1|x-jat|Murai no Koi
 3479|1|x-jat|Muramasa
+20087|1|x-jat|Muramata-san no Aijou
 15566|1|x-jat|Muramata-san no Himitsu
 4393|1|x-jat|Murder
 10407|2|en|murder city
@@ -38578,6 +38582,7 @@
 9280|2|x-jat|Netorare Tsuma
 7816|1|x-jat|Netorare: Tanabe Yuuka no Dokuhaku
 19383|1|x-jat|Netorareta Bakunyuu Tsuma-tachi
+20088|1|x-jat|Netorareta Bakunyuu Tsuma-tachi 2
 9280|1|x-jat|Netorarezuma
 11258|1|x-jat|Netoraserare
 16066|1|x-jat|Netoshisu
@@ -55797,7 +55802,7 @@
 9324|4|en|The World God Only Knows OVA: Tenri Arc
 9553|4|en|The World God Only Knows: Goddesses
 9825|2|en|The World God Only Knows: Magical Star Kanon 100%
-19849|2|en|The World Is Dancing
+19849|4|en|The World Is Dancing
 10395|4|en|The World Is Still Beautiful
 10395|4|fr|The World is Still Beautiful
 13787|2|en|The World of Fantasy
@@ -56931,7 +56936,7 @@
 457|2|x-jat|Toukyou Babylon
 2795|2|x-jat|Toukyou Vice
 2554|1|x-jat|Touma Kijin Den Oni
-19720|1|x-jat|Toumei na Yoru ni Kakeru-kun to, Me ni Mienai Koi o Shita.
+19720|1|x-jat|Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi o Shita.
 4192|1|x-jat|Toumei Ningen
 7262|1|x-jat|Toumei Ningen R
 19015|1|x-jat|Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari
@@ -71478,6 +71483,7 @@
 9715|4|ko|따개비 루
 3067|2|ko|딸기 100%
 13164|2|ko|딸기 쇼콜라 맛
+19561|2|ko|딸기 애가 ~엉성하고 건방진 여동생과 딱 잘라 말할 수 없는 오빠~
 8250|4|ko|떠돌이 까치
 8043|4|ko|떳다 그녀!!
 12955|4|ko|똑똑박사 에디
@@ -72288,6 +72294,7 @@
 899|2|ko|성전사 단바인
 4213|2|ko|성조노예
 1403|2|ko|성지
+19926|2|ko|성지도원의 업무
 5208|2|ko|성찬학음
 10612|2|ko|성창녀
 4353|2|ko|성항녀
@@ -72690,6 +72697,7 @@
 15511|2|ko|악의 여간부: 보름달이 뜬 날 리턴즈
 9483|2|ko|악의 여간부: 보름달이 뜬 밤
 3126|2|ko|악희
+19917|2|ko|안개 속의 탑
 14625|2|ko|안경 여신
 13979|4|ko|안기고 싶은 남자 1위에게 협박당하고 있습니다
 12590|4|ko|안녕 자두야
@@ -73428,6 +73436,7 @@
 10236|2|ko|젖색한숨
 14132|2|ko|젖은 JK 비오는 강간
 14132|4|ko|젖은 JK 비피하며 레이프
+19971|2|ko|젖통 삽입 가족
 13028|2|ko|제2차 속입학시험
 4178|2|ko|제가페인
 2616|2|ko|제로 썸 게임
@@ -74120,6 +74129,7 @@
 13276|4|ko|하카타 돈코츠 라멘즈
 13362|4|ko|하쿠메이와 미코치
 8742|2|ko|하트 커넥트
+19976|2|ko|하트마크 듬뿍
 1042|2|ko|하트워크 파괴의 심포니
 13324|2|ko|하트풀 마망
 8434|2|ko|학교
@@ -80789,8 +80799,8 @@
 2627|4|ja|ブルーリメイン
 18263|4|ja|フルール THE ANIMATION
 16519|4|ja|ブルーロック
-19620|4|ja|ブルーロック (新シリーズ)
 17954|4|ja|ブルーロック VS. U-20 JAPAN
+19620|4|ja|ブルーロック ネオ・エゴイストリーグ
 10502|4|ja|フルエルクチビル
 4588|4|ja|ふるさと-JAPAN
 4588|2|ja|ふるさとJAPAN
@@ -87831,6 +87841,7 @@
 4894|2|zh-Hans|寒蝉鸣泣之时·解
 3574|2|zh-Hant|寒蟬鳴泣之時
 19383|4|ja|寝取られた爆乳妻たち
+20088|4|ja|寝取られた爆乳妻たち2
 7578|4|ja|寝取られファイター ヤリっちんぐ!
 17208|2|zh-Hant|實教 2
 12739|4|zh-Hant|實驗品家庭
@@ -91243,6 +91254,7 @@
 17858|4|zh-Hans|李林克的小馆儿 第二季
 17458|4|ja|村井の恋
 17458|4|zh-Hans|村井之恋
+20087|4|ja|村又さんの愛情
 15566|4|ja|村又さんの秘密
 3479|4|ja|村正
 6705|4|ja|村祭
@@ -97816,6 +97828,7 @@
 14108|4|zh-Hant|電影版 怪物彈珠 空之彼方
 14438|4|zh-Hant|電影版 搖曳露營△
 10937|4|zh-Hant|電影版 聲之形
+20086|4|ja|電撃デイジー
 12925|4|ja|電気グルーヴ カフェ・ド・鬼(顔と科学)
 11478|2|ja|電気グルーヴ モノノケダンス
 11315|4|ja|電気グルーヴ 中年パンク
