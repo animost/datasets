@@ -1,4 +1,4 @@
-# created: Fri Jun 12 03:00:01 2026
+# created: Sat Jun 13 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2413,6 +2413,7 @@
 3084|2|en|Alice`s Detective Agency
 2744|4|es|Alicia en el País de las Maravillas
 2744|2|pl|Alicja w Krainie Czarów
+19110|2|pl|Alicja w Krainie Czarów: Dive in Wonderland
 19110|4|pl|Alicja w Krainie Czarów: Skok w nieznane
 8337|4|pl|Alicja w Krainie Serc
 58|2|fr|Alien 9
@@ -5854,6 +5855,8 @@
 2373|4|fr|Bienvenue à l`île de la jouissance
 4121|2|fr|Bienvenue à la NHK
 14748|4|vi|Biệt đội siêu gian
+20093|1|x-jat|Big Boss
+20093|4|ja|Big Boss
 9010|2|en|Big Breasts Fantasy
 13356|2|en|Big Breasts, Big Family, Hypnosis - I Can`t Stop Having Orgasm-Filled Sex with My Whole Family!
 17856|2|en|Big Brother
@@ -17280,6 +17283,7 @@
 12088|3|x-jat|fukumenkeinoise
 12088|3|x-jat|fukuno
 12088|3|x-jat|Fukuno s1
+20095|1|x-jat|Fukurai-chu, ton`neru roji no otoko
 17563|1|x-jat|Fukuro
 6952|1|x-jat|Fukusuke
 5318|1|x-jat|Fukuyama Gekijou
@@ -24120,6 +24124,7 @@
 19876|2|en|I`m a Witch Who`s Crush Requested a Love Potion
 18058|2|en|I`m Addicted to You.
 3357|2|en|I`m All Yours
+19908|2|en|I`m Dating a Dark Summoner
 14550|2|en|I`m from Japan
 18708|4|en|I`m Getting Married to a Girl I Hate in My Class
 17592|4|en|I`m Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness
@@ -25957,7 +25962,6 @@
 17840|1|x-zht|Jipin Quanneng Gaoshou
 19791|1|x-jat|Jirai Nandesuka? Chihara-san
 19328|1|x-jat|Jishou Akuyaku Reijou na Kon`yakusha no Kansatsu Kiroku.
-19328|2|x-jat|Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.
 3648|1|x-jat|Jishu Seisaku Movie Binchou-tan
 1997|1|x-jat|Jisshuusei
 12698|1|x-jat|Jitaku Keibiin
@@ -29106,6 +29110,7 @@
 12906|3|x-jat|koiame
 14707|3|x-jat|koias
 8820|3|x-jat|Koichoco
+20091|3|x-jat|koidomo
 549|1|x-jat|Koihime
 549|4|en|Koihime
 2141|2|x-jat|Koihime 2
@@ -34339,6 +34344,7 @@
 7427|1|x-jat|Marie & Gali Ver.2.0
 19465|2|x-jat|Marie Antoinette ni Tensei Shita node, Zenryoku de Guillotine o Kaihi Shimasu
 19730|1|x-jat|Marika-chan no Koukando wa Bukkowarete Iru
+19730|2|x-jat|Marika-chan no Koukando wa Bukkowareteiru
 19730|4|en|Marika`s Love Meter Malfunction
 1297|3|x-jat|Marimite
 2025|3|x-jat|marimite haru
@@ -37792,6 +37798,7 @@
 11163|3|x-jat|nagatoyuki ova
 10815|3|x-jat|nagatoyukichan
 11163|3|x-jat|nagatoyukichan ova
+20094|1|x-jat|Nageki no aisukyandii
 18498|1|x-jat|Nageki no Bourei wa Intai Shitai
 19075|1|x-jat|Nageki no Bourei wa Intai Shitai (2025)
 158|1|x-jat|Nageki no Kenkou Yuuryouji
@@ -38793,6 +38800,8 @@
 7630|1|x-jat|Nichijou: Nichijou no 0 Wa
 13270|4|de|Nicht schon wieder, Takagi-san
 5059|2|pt-BR|Nick e Nack
+20096|1|x-jat|NICKY
+20096|4|ja|NICKY
 942|4|fr|Nicky Larson
 1566|4|fr|Nicky Larson - Amour, destin et un Magnum 357
 1567|4|fr|Nicky Larson - Bay City Wars
@@ -53130,6 +53139,7 @@
 8002|1|x-jat|Taropicana
 6925|1|x-jat|Tarou no Banpei
 5387|1|x-jat|Tarou no Banpei Senkoutei no Maki
+20092|1|x-jat|Tarou wa Mizu ni Naritakatta
 6703|1|x-jat|Tarou-san no Kisha
 187|3|x-jat|Taruto
 19317|1|x-jat|TarZAN
@@ -86049,6 +86059,7 @@
 11945|4|zh-Hans|喵楞！
 2740|4|zh-Hans|喷嚏大魔王
 15675|4|zh-Hans|嗜谎之神
+20094|4|ja|嘆きのアイスキャンディー
 18498|4|ja|嘆きの亡霊は引退したい
 19075|4|ja|嘆きの亡霊は引退したい (2025)
 158|4|ja|嘆きの健康優良児
@@ -86999,6 +87010,7 @@
 6703|4|ja|太郎さんの汽車
 6925|4|ja|太郎の番兵
 5387|4|ja|太郎の番兵 潜航艇の巻
+20092|4|ja|太郎は水になりたかった
 1350|4|zh-Hans|太阳之船
 2209|4|zh-Hans|太阳王子 霍尔斯的大冒险
 4397|4|zh-Hans|太阳默示录
@@ -89021,6 +89033,7 @@
 8820|3|ja|恋チョコ
 8456|4|ja|恋つぼみ
 15002|4|ja|恋とプロデューサー~EVOL×LOVE~
+20091|3|ja|恋ども
 15362|4|ja|恋と呼ぶには気持ち悪い
 12835|4|ja|恋と嘘
 14024|4|ja|恋と嘘 一生の恋 / 恋の気持ち
@@ -94278,6 +94291,7 @@
 17096|4|zh-Hant|福星小子（2022）
 17096|4|zh-Hans|福星小子（2022）
 17861|4|zh-Hans|福星小子（2024）
+20095|4|ja|福来町、トンネル路地の男
 7565|4|zh-Hans|福音战士新剧场版：Q
 4847|4|zh-Hans|福音战士新剧场版：序
 6171|4|zh-Hans|福音战士新剧场版：破
