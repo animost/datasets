@@ -1,4 +1,4 @@
-# created: Sat Jun 13 03:00:02 2026
+# created: Sun Jun 14 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1091,6 +1091,7 @@
 19564|4|en|A Misanthrope Teaches a Class for Demi-Humans
 6797|4|pt|A Missão de Salvamento de Pikachu
 18846|4|en|A Moment But Forever
+20098|2|en|A Mortal`s Journey 5th Season
 15425|2|en|A Mortal`s Journey to Immortality Season 1
 17033|2|en|A Mortal`s Journey to Immortality Season 1 Part 2
 17004|2|en|A Mortal`s Journey to Immortality Season 2
@@ -1147,8 +1148,10 @@
 15662|2|pt|A Rapariga na Biblioteca: Até o Puro Eu Cai em Desgraça
 17038|2|en|A Raven in the Harem
 15425|2|en|A Record of a Mortal`s Journey to Immortality
+20098|2|en|A Record of a Mortal`s Journey to Immortality 5th Season
 17004|2|en|A Record of a Mortal`s Journey to Immortality Season 2
 18332|2|en|A Record of a Mortal`s Journey to Immortality Season 3
+20098|2|en|A Record of Mortal`s Journey to Immortality 5th Season
 19121|2|en|A Record of Mortal`s Journey to Immortality Season 4
 18265|2|en|A Record of Mortal`s Journey to Immortality: Speeding in the Sea of Stars
 19003|4|pt-BR|A Regra Secreta da Casa Compartilhada
@@ -1370,6 +1373,7 @@
 7431|2|en|Abnormal Physiology Seminar
 8287|2|en|Abnormal Physiology Seminar (TV)
 8720|2|en|Abnormalities: Experimental Slave
+20101|4|en|Above Myriads
 19388|2|en|Above the Divine Kingdom
 19388|2|en|Above the Kingdom of God
 7027|2|en|Absent Minded Penelope
@@ -5824,6 +5828,10 @@
 97|3|x-jat|Bianca
 3674|2|it|Biancaneve
 16355|1|x-zht|Biao Ren
+20099|2|x-zht|Biao Ren 2
+20099|2|x-zht|Biao Ren 2nd Season
+20099|2|x-zht|Biao Ren Di Er Ji
+20099|1|x-zht|Biao Ren Er
 528|1|x-jat|Bible Black
 528|4|en|Bible Black
 528|4|de|Bible Black
@@ -6265,6 +6273,9 @@
 5679|4|pt-BR|Blade: A Lâmina do Imortal
 18464|2|en|Blader Soul
 16355|2|en|Blades of The Guardians
+20099|4|en|Blades of the Guardians 2
+20099|2|en|Blades of the Guardians 2nd Season
+20099|2|en|Blades of the Guardians S2
 10432|3|x-jat|bladesoul
 1050|3|x-jat|Blame
 1050|1|x-jat|Blame!
@@ -16045,10 +16056,13 @@
 16039|2|x-zht|Fanren Xiu Xian Chuan Tebie Pian: Yan Jia Bao Dazhan
 18332|1|x-zht|Fanren Xiu Xian Chuan: Di San Ji
 19121|1|x-zht|Fanren Xiu Xian Chuan: Di Si Ji
+20098|2|x-zht|Fanren Xiu Xian Chuan: Di Wu Ji
 17004|1|x-zht|Fanren Xiu Xian Chuan: Mo Dao Zhengfeng
+20098|1|x-zht|Fanren Xiu Xian Chuan: Mulan Zhi Zhan
 19121|2|x-zht|Fanren Xiu Xian Chuan: Waihai Fengyun
 18265|1|x-zht|Fanren Xiu Xian Chuan: Xinghai Feichi Pian Xuzhang
-20045|1|en|Fanren Xiu Xian Zhuan: Mulan Zhi Zhan
+20098|2|x-zht|Fanren Xiu Xian Zhuan 5th Season
+20098|2|x-zht|Fanren Xiu Xian Zhuan: Mulan Zhi Zhan
 15425|1|x-zht|Fanren Xiuxian Chuan: Feng Qi Tian Nan
 17033|1|x-zht|Fanren Xiuxian Chuan: Feng Qi Tian Nan Er
 13545|4|sl|Fant in čaplja
@@ -27857,7 +27871,7 @@
 1552|4|fr|Keroro - Mission Titar
 7246|2|en|Keroro Gunso the Super Movie: Creation! Ultimate Keroro, Wonder Space-Time Island
 1552|1|x-jat|Keroro Gunsou
-20085|1|x-jat|Keroro Gunsou Hoshi
+20085|1|x-jat|Keroro Gunsou (2026)
 4818|2|x-jat|Keroro Gunsou Movie 2
 5956|2|en|Keroro Gunsou Movie 3
 3569|2|x-jat|Keroro Gunsou the Movie
@@ -44084,6 +44098,7 @@
 15716|2|en|Project Scard: Scar on the Praeter
 8980|1|x-jat|Project Show-A
 8980|4|ja|Project Show-A
+20102|4|en|Project Spark
 18298|4|ja|PROJECT SYMPHOGEAR -next-
 18298|1|x-jat|Project Symphogear: Next
 12884|2|ja|Project Twilight
@@ -59387,6 +59402,7 @@
 16437|1|x-zht|Wan Jie Xian Zong Di Si Ji
 16499|1|x-zht|Wan Jie Xian Zong Di Wu Ji
 11123|2|x-jat|Wan Pan Man
+20101|1|x-zht|Wan Ren Zhi Shang
 15576|1|x-zht|Wan Sheng Jie
 15939|1|x-zht|Wan Sheng Jie 2
 16592|1|x-zht|Wan Sheng Jie 3
@@ -60035,6 +60051,7 @@
 583|3|x-jat|wkreuz
 582|3|x-jat|wkreuz ova
 226|3|x-jat|wkreuz s2
+20102|1|x-zht|Wo Ba Mori Shang Jiao Geile Guojia
 14029|1|x-zht|Wo De Ni Tian Shenqi
 14029|2|x-zht|Wo De Nitian Shenqi
 19269|1|x-zht|Wo De Shixiong Tai Qiang Le
@@ -82880,6 +82897,7 @@
 11210|4|zh-Hant|七龍珠超
 13657|4|zh-Hant|七龍珠超 布羅利
 17140|4|zh-Hans|万事屋斋藤，到异世界
+20101|4|zh-Hans|万人之上
 19589|4|zh-Hans|万剑王座
 17763|4|zh-Hans|万千北方
 13732|4|zh-Hans|万古仙穹
@@ -84546,10 +84564,11 @@
 18404|4|zh-Hant|凍牌~地下麻將鬥牌錄~
 18404|4|ja|凍牌~裏レート麻雀闘牌録~
 19477|4|zh-Hant|凍結地球
+20098|4|zh-Hans|凡人修仙传 慕兰之战
 18265|4|zh-Hans|凡人修仙传 星海飞驰篇 序章
 16039|2|zh-Hant|凡人修仙传 特别篇: 燕家堡大战
 18332|4|zh-Hans|凡人修仙传 第三季
-20045|4|zh-Hans|凡人修仙传 第五季
+20098|2|zh-Hans|凡人修仙传 第五季
 19121|4|zh-Hans|凡人修仙传 第四季
 15425|4|zh-Hans|凡人修仙传 风起天南
 17004|4|zh-Hans|凡人修仙传 魔道争锋
@@ -87452,6 +87471,7 @@
 8590|4|zh-Hans|姐姐大人！
 10205|4|zh-Hans|姐姐来了
 10673|4|zh-Hans|姐姐的妄想日记OAD
+9552|4|zh-Hans|姐恋 喜欢・讨厌・最喜欢了。
 17472|4|ja|委員長は催眠アプリを信じてる.
 15375|4|zh-Hans|姜子牙
 15219|4|zh-Hans|姣姣与晶晶
@@ -89447,6 +89467,7 @@
 17877|4|zh-Hant|我想成為影之強者！第二季
 18264|4|zh-Hant|我想蹺掉太子妃培訓
 1648|2|zh|我愛你Baby
+20102|4|zh-Hans|我把末日上交给了国家
 18468|4|zh-Hans|我捡起了一地属性
 17137|4|zh-Hans|我是不白吃
 13974|4|zh-Hans|我是哪吒
@@ -89907,6 +89928,7 @@
 16020|4|ja|搾精病棟 THE ANIMATION
 13698|4|zh-Hans|摆出讨厌的表情露出内裤
 14259|4|zh-Hans|摆出讨厌的表情露出内裤 2
+19508|4|zh-Hans|摆出讨厌的表情露出内裤 R
 13552|4|zh-Hans|摇曳庄的幽奈小姐
 8353|2|zh-Hans|摇曳百合
 11124|4|zh-Hans|摇曳百合 3☆High!
@@ -95611,6 +95633,7 @@
 15242|4|zh-Hans|草原英雄小姐妹
 17380|4|ja|草競馬
 3067|2|zh-Hans|草莓100%
+19561|4|zh-Hans|草莓哀歌~散漫嚣张的妹妹与无法释怀的哥哥~
 2787|4|zh-Hans|草莓棉花糖
 6212|4|zh-Hans|草莓棉花糖 OVA 第2期
 6212|2|zh-Hans|草莓棉花糖 再来一次
@@ -97482,6 +97505,8 @@
 19009|4|zh-Hans|镇魂街 第四季
 15940|2|zh-Hans|镇魂街第二季
 16355|4|zh-Hans|镖人
+20099|2|zh-Hans|镖人 第二季
+20099|4|zh-Hans|镖人 贰
 17107|4|zh-Hans|镜·双城
 15695|4|zh-Hans|镜·双城 风起篇
 17219|4|zh-Hans|镜之孤城
