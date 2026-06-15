@@ -1,4 +1,4 @@
-# created: Sun Jun 14 03:00:01 2026
+# created: Mon Jun 15 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -54056,6 +54056,7 @@
 1525|2|en|The Blade of Kamui
 15563|2|en|The Blade of The Beast
 15125|2|en|The Blind Girl and the Foxes
+20103|1|en|The Bloody Mary
 12863|4|en|The Blossom Man
 17314|2|en|The Blue Orchestra
 18234|2|en|The Blue Orchestra Season 2
@@ -70865,6 +70866,7 @@
 17486|2|ko|고추 배달을 시키고 싶은 누님
 8677|2|ko|고쿠죠 ~극락원 여학교 기숙사 이야기~
 8561|2|ko|고혹의 각
+8997|4|ko|곤
 13337|4|ko|골든 카무이
 14185|4|ko|골든 카무이 (2018)
 9771|4|ko|골든 타임
@@ -80720,6 +80722,7 @@
 1202|2|ja|ブラックホールへの道~異星人クルス&シスイ~
 578|4|ja|ブラックマジックM(マリオ)-66
 1089|4|ja|フラッシュバックゲーム
+20103|4|ja|ブラッディ・メアリー
 17144|2|ja|ブラッディエスケープ -地獄の逃走劇-
 8929|4|ja|ブラッドラッド
 9803|4|ja|ブラッドラッド 我輩は猫ではない
