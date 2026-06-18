@@ -1,4 +1,4 @@
-# created: Wed Jun 17 03:00:02 2026
+# created: Thu Jun 18 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4349,7 +4349,7 @@
 15327|2|pl|Azur Lane: Powoli przed siebie!
 16664|1|x-jat|Azur Lane: Queen`s Orders
 15327|4|en|Azur Lane: Slow Ahead!
-18188|2|en|Azur Lane: Slow Ahead! 2
+18188|4|en|Azur Lane: Slow Ahead! Season 2
 18078|2|en|Azure Legacy
 19030|2|en|Azure Legacy 2
 19946|2|en|Azure Legacy 3rd Season
@@ -6233,9 +6233,9 @@
 16705|2|pl|Black Rock Shooter: Upadek
 17204|4|en|Black Summoner
 6098|2|en|Black Tomb
+19203|4|en|Black Torch
 19203|1|x-jat|Black Torch
 19203|4|ja|BLACK TORCH
-19203|2|en|Black Torch
 1598|4|en|Black Widow
 6820|2|ja|BLACK★ROCK SHOOTER
 1181|2|en|Blackboard Jungle
@@ -7446,6 +7446,7 @@
 14230|4|en|Bungo Stray Dogs 3
 16965|4|en|Bungo Stray Dogs 4
 17962|4|en|Bungo Stray Dogs 5
+19698|4|en|Bungo Stray Dogs Wan! 2
 12837|4|en|Bungo Stray Dogs: Dead Apple
 11523|3|ja|bungosd
 11965|3|x-jat|bungosd2
@@ -7467,7 +7468,6 @@
 15602|1|x-jat|Bungou Stray Dogs Wan!
 15602|4|en|Bungou Stray Dogs Wan!
 19698|1|x-jat|Bungou Stray Dogs Wan! 2
-19698|4|en|Bungou Stray Dogs Wan! 2
 12837|1|x-jat|Bungou Stray Dogs: Dead Apple
 12442|1|x-jat|Bungou Stray Dogs: Hitori Ayumu
 15328|1|x-jat|Bungou to Alchemist: Shinpan no Haguruma
@@ -10928,7 +10928,7 @@
 1322|4|pl|Daphne
 1322|4|en|Daphne in the Brilliant Blue
 642|3|en|DAQ
-19764|2|en|Dara-san of Reiwa
+19764|4|en|Dara-san of Reiwa
 883|1|x-jat|Daraku
 12990|1|x-jat|Daraku Reijou The Animation
 1211|1|x-jat|Daraku: Onna Kyoushi Hakai
@@ -14563,6 +14563,11 @@
 20025|2|en|Echoes of Aincrad Movie
 13176|3|x-jat|echuuni movie
 19446|4|en|Eclipse of Illusion
+20107|2|en|Eclipse of Illusion 2
+20107|2|en|Eclipse of Illusion 2nd Season
+20107|2|en|Eclipse of Illusion II
+20106|4|en|Eclipse of Illusion SP: The Miasma War
+20106|2|en|Eclipse of Illusion Special: The Battle of Qiumina
 13544|2|fr|École aux dames plantureuses – Le mouvement imparable des vierges
 11873|2|fr|Écolière à la taille de guêpe
 8599|1|x-jat|Ecophan
@@ -17178,7 +17183,7 @@
 12005|2|en|From now, I`m......
 18793|4|en|From Old Country Bumpkin to Master Swordsman
 19400|2|en|From Old Country Bumpkin to Master Swordsman II
-19896|2|en|From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage
+19896|4|en|From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage
 1383|4|en|From the Apennines to the Andes
 4751|4|en|From the Apennines to the Andes: The Movie
 9002|4|en|From the New World
@@ -20319,7 +20324,7 @@
 444|2|en|Ground Defence Mao-chan
 444|2|en|Ground Defense Force! Mao-chan
 19473|1|x-jat|Grow Up Show: Himawari no Circus-dan
-19473|2|en|Grow Up Show: The Sunflower Circus Troupe
+19473|4|en|Grow Up Show: Sunflower Circus
 15844|2|en|Growing Up
 15845|2|en|Growing Up 2
 19404|4|en|Growing Up With Tiantian
@@ -21351,7 +21356,7 @@
 1249|1|x-jat|Hana yori Dango (1997)
 1249|4|en|Hana Yori Dango: The Movie
 18636|4|en|Hana-Kimi
-19961|2|en|Hana-Kimi 2
+19961|4|en|Hana-Kimi (2026)
 7874|2|x-jat|Hana-Saku Iroha
 8365|1|x-jat|Hanabeam
 8365|4|ja|Hanabeam
@@ -21384,6 +21389,7 @@
 18058|1|x-jat|Hananoi-kun to Koi no Yamai
 18058|3|x-jat|hananoikun
 6988|1|x-jat|Hanaori
+19594|4|en|Hanaori-san Still Wants to Fight in the Next Life
 19594|1|x-jat|Hanaori-san wa Tensei Shite mo Kenka ga Shitai
 19594|2|en|Hanaori-san Wants to Have a Fight Even if She Reincarnates
 2109|4|en|Hanappe Bazooka
@@ -21425,7 +21431,7 @@
 10351|4|fr|HaNaYaMaTa
 10351|4|en|Hanayamata
 18636|1|x-jat|Hanazakari no Kimitachi e
-19961|1|x-jat|Hanazakari no Kimitachi e 2
+19961|1|x-jat|Hanazakari no Kimitachi e (2026)
 3573|1|x-jat|Hanbun no Tsuki ga Noboru Sora
 565|1|x-jat|Hand Maid Mai
 60|1|x-jat|Hand Maid May
@@ -24080,7 +24086,7 @@
 18264|2|en|I Want to Escape from Princess Education
 18264|4|en|I Want to Escape from Princess Lessons
 11376|2|en|I Want to Let You Know That I Love You.
-19189|2|en|I Want to Love You Till Your Dying Day
+19189|4|en|I Want to Love You Till Your Dying Day
 4184|2|en|I want to win 5th prize
 13698|2|en|I Want You To Make a Disgusted Face and Show Me Your Underwear
 14259|2|en|I Want You To Make a Disgusted Face and Show Me Your Underwear 2
@@ -25573,7 +25579,7 @@
 1332|3|x-jat|J2
 14743|1|x-jat|JA Kumamoto Keizairen
 17507|2|pt|Já não é Permitido em Outro Mundo
-19290|2|en|Jaadugar: A Witch in Mongolia
+19290|4|en|Jaadugar: A Witch in Mongolia
 332|4|et|Jaanimardikate haud
 4293|4|en|Jack and the Beanstalk
 7614|2|en|Jack and the Beanstalk (1989)
@@ -26496,6 +26502,7 @@
 13199|4|fr|Just Because!
 13199|4|de|Just Because!
 19715|2|en|Just for a Meowment
+20104|2|en|Just Like Mona Lisa
 19337|4|fr|Juste l`espace entre nous
 8710|1|x-jat|Justeen
 2313|2|en|Justice Supermen vs. Fighter Supermen
@@ -26832,6 +26839,7 @@
 19582|1|x-jat|Kaiju Decode: Aidara no Yubiwa
 19582|2|en|Kaiju Decode: The Ring of Aidara
 19820|1|x-zht|Kaiju Ditan Mai Dali
+19782|4|en|Kaiju Girl Caramelise
 12021|4|en|Kaiju Girls
 12021|4|fr|Kaijû Girls
 13975|4|en|Kaiju Girls Black
@@ -32298,7 +32306,7 @@
 13656|4|en|Love To-Lie-Angle
 11822|4|en|Love Tyrant
 11822|4|fr|Love Tyrant
-19720|2|en|Love Unseen Beneath the Clear Night Sky
+19720|4|en|Love Unseen Beneath the Clear Night Sky
 19846|1|x-jat|Love wa Gal kara Hajimaru Unmei
 793|2|en|Love Wedge
 1675|2|en|Love Wind
@@ -33333,7 +33341,7 @@
 8821|2|x-jat|Magical Girl Lyrical Nanoha A`s - The Movie 2nd
 13301|4|ja|Magical Girl Lyrical NANOHA Detonation
 13301|1|x-jat|Magical Girl Lyrical Nanoha Detonation
-19080|2|en|Magical Girl Lyrical Nanoha Exceeds: Gun Blaze Vengeance
+19080|4|en|Magical Girl Lyrical Nanoha Exceeds: Gun Blaze Vengeance
 9788|1|x-jat|Magical Girl Lyrical Nanoha Reflection
 9788|4|ja|Magical Girl Lyrical NANOHA Reflection
 4688|4|en|Magical Girl Lyrical Nanoha StrikerS
@@ -34839,6 +34847,7 @@
 7616|1|x-jat|Meat or Die
 7616|4|ja|Meat or Die
 10130|1|x-jat|Mebae no Asa
+14730|4|en|Mebius Dust
 14730|1|x-jat|Mebius Dust
 18448|1|x-jat|Mebuki The Animation
 7881|1|x-jat|Mecha Afro-kun
@@ -36530,6 +36539,7 @@
 17637|4|fr|Mon histoire d`amour avec Yamada à Lv999
 18538|4|fr|Mon oni à moi
 303|4|fr|Mon voisin Totoro
+20104|3|x-jat|mona lisa
 3484|4|en|Monarch: The Big Bear of Tallac
 18627|2|x-jat|monaxmedaka
 9539|1|x-jat|Monchicchiisu
@@ -40039,6 +40049,7 @@
 9033|2|pl|Ograniczona księżniczka!
 3494|4|en|Ogre Slayer
 1348|2|en|Ogre Work
+18211|4|en|Oh Boy, Was I Wrong About Her
 14212|2|en|Oh Dear
 27|4|en|Oh My Goddess!
 206|2|en|Oh My Goddess! The Movie
@@ -41198,6 +41209,7 @@
 19628|1|x-jat|Otaku ni Yasashii Gal wa Inai!?
 16968|2|x-jat|Otaku ni Yasashii Gyaru toka, Kyonyuu no Osananajimi ka
 20034|1|x-jat|Otaku no Boku ga Ichigun Gal to Tsukiaeru made no Hanashi
+20034|2|x-jat|Otaku no Boku ga Ichigun Gal to Tsukiaerumade no Hanashi
 3533|1|x-jat|Otaku no Seiza
 130|1|x-jat|Otaku no Video
 130|4|fr|Otaku no Video
@@ -44401,7 +44413,7 @@
 16594|2|en|Purple River
 19504|2|en|Purple River 2
 19504|2|en|Purple River 2nd Season
-19504|2|en|Purple River S2
+19504|4|en|Purple River S2
 19504|2|en|Purple River Season 2
 12848|4|ja|PURU POM
 12848|1|x-jat|Puru Pom
@@ -45733,7 +45745,7 @@
 2482|1|x-jat|Ribbon no Kishi
 8628|1|x-jat|Ribbon no Kishi (1999)
 9085|1|x-jat|Ribbon-chan
-19690|2|en|Rich Girl Caretaker: I`m Secretly the Caregiver of the Most Popular Girl in This Rich Kid School
+19690|4|en|Rich Girl Caretaker: I`m Secretly the Caregiver of the Most Popular Girl in This Rich Kid School
 16534|1|x-jat|Rich Keikan Cash!
 19379|2|en|Rich Player
 16534|2|en|Rich Police Cash!
@@ -47919,6 +47931,7 @@
 15720|3|x-jat|seiban
 17246|3|x-jat|seiban s2
 17246|3|x-jat|seiban2
+20104|1|x-jat|Seibetsu "Mona Lisa" no Kimi e.
 8389|1|x-jat|Seibu Tetsudou Ekiin Tako-chan
 13900|3|x-jat|Seibuta
 14397|3|en|seibuta movie
@@ -50074,7 +50087,7 @@
 2038|4|af|Skateiland
 3500|2|en|Skating Rink Kaleidoscope
 16262|4|en|Skeleton Knight in Another World
-19053|2|en|Skeleton Knight in Another World II
+19053|4|en|Skeleton Knight in Another World II
 2698|3|x-jat|skelter
 2698|2|x-jat|Skelter+Heaven
 8039|3|x-jat|sket
@@ -50774,7 +50787,7 @@
 5261|2|x-jat|Soriton no Akuma
 6046|4|it|Sorridi, Piccola Anna
 486|2|en|Sorrowful Saline
-19755|2|en|Sorry About My Younger Brothers
+19755|4|en|Sorry About My Little Brotherss
 8472|2|en|Sorry I Love You: Between of One Year
 629|2|en|Sortie! Machine Robo Rescue
 1307|3|en|SoS
@@ -52039,6 +52052,7 @@
 18256|1|x-jat|suma Netori Kan: Bijutsu Kyoushi no Baai
 18256|4|ja|suma Netori Kan: Bijutsu Kyoushi no Baai
 889|1|x-jat|Sumeba Miyako no Cosmos-sou Suttoko Taisen Dokkoider
+15843|2|en|Sumikko Gurashi The Movie 2 - The Little Wizard in the Blue Moonlight
 19639|2|en|Sumikko Gurashi the Movie: The Kingdom of the Sky and Two Children
 14683|4|en|Sumikko Gurashi the Movie: The Unexpected Picture Book and the Secret Child
 19305|1|x-jat|Sumikko Gurashi: Koko ga Ochitsukun Desu
@@ -54113,7 +54127,7 @@
 16367|4|en|The Case Study of Vanitas (2022)
 18967|4|en|The Casebook of Arne
 320|2|en|The Castle of Cagliostro
-19172|2|en|The Cat and the Dragon
+19172|4|en|The Cat and the Dragon
 12882|4|en|The Cat Purr Dance
 679|4|en|The Cat Returns
 679|4|id|The Cat Returns
@@ -54346,7 +54360,7 @@
 16036|4|en|The Duke of Death and His Maid
 16755|4|en|The Duke of Death and His Maid (2023)
 18213|4|en|The Duke of Death and His Maid (2024)
-19909|2|en|The Duke`s Son Claims He Won`t Love Me Yet Showers Me with Adoration
+19909|4|en|The Duke`s Son Claims He Won`t Love Me Yet Showers Me with Adoration
 5862|2|en|The Dull Sword
 15619|4|en|The Dungeon of Black Company
 6876|2|en|The Dwarf and the Green Catterpillar
@@ -54364,7 +54378,7 @@
 8911|2|en|The Elder Sister`s Free Oral Day
 17909|4|en|The Elusive Samurai
 17909|4|fr|The Elusive Samurai
-18903|2|en|The Elusive Samurai (2026)
+18903|4|en|The Elusive Samurai (2026)
 851|4|en|The Elven Bride
 16073|4|en|The Eminence in Shadow
 17877|4|en|The Eminence in Shadow 2nd Season
@@ -54498,6 +54512,7 @@
 9589|4|de|The Garden of Words
 4068|2|en|The Gargoyle of the Yoshinagas
 19739|4|en|The Gate of Mystical Realm
+20104|2|en|The Gender of Mona Lisa
 17758|4|en|The Gene of AI
 2122|2|x-jat|The Generation of Chaos: Prologue OVA
 3477|2|en|The Genesis
@@ -54726,7 +54741,7 @@
 17750|4|en|The Infinitors
 4821|2|en|The Inland Sea Bride
 6126|2|en|The Inland Sea Bride OVA
-18210|2|en|The Insipid Prince`s Furtive Grab for the Throne
+18210|4|en|The Insipid Prince`s Furtive Grab for the Throne
 6843|2|en|The Inspection Station
 4950|4|en|The Instructive Trip Around the World
 7486|2|en|The Invader Comes From the Bottom of the Sea!
@@ -55851,7 +55866,7 @@
 16055|4|en|The World`s Finest Assassin Gets Reincarnated in Another World as an Aristocrat
 18207|2|en|The World`s Finest Assassin Gets Reincarnated in Another World as an Aristocrat (2027)
 7051|4|en|The World`s Greatest Fairy Tales
-19569|2|en|The World`s Strongest Rearguard: Labyrinth Country`s Novice Seeker
+19569|4|en|The World`s Strongest Rearguard: Labyrinth Country`s Novice Seeker
 20035|2|en|The World`s Strongest Witch
 16537|4|en|The Wrong Way to Use Healing Magic
 18799|4|en|The Wrong Way to Use Healing Magic 2
@@ -55955,7 +55970,7 @@
 79|4|en|Those Who Hunt Elves
 80|4|en|Those Who Hunt Elves II
 15508|2|en|Those Years I Opened a Zoo
-19226|2|en|Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court
+19226|4|en|Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court
 16041|4|en|Thousand Autumns
 17364|4|en|Thousands of Worlds
 19797|4|en|Threads of Fate: A War Untold
@@ -60121,6 +60136,7 @@
 449|4|en|Wolf`s Rain
 449|2|x-jat|Wolfs Rain
 8832|3|de|Wolfskinder
+20105|1|x-kot|Wollum Jogyonim
 7384|1|x-jat|Wolverine
 7384|4|pl|Wolverine
 7384|4|pt|Wolverine
@@ -61443,7 +61459,7 @@
 19816|1|x-jat|Yoroi Shin Den Samurai Troopers (2026)
 19380|4|de|Yoroi-Shinden Samurai Troopers
 19380|4|en|Yoroi-Shinden Samurai Troopers
-19816|2|en|Yoroi-Shinden Samurai Troopers (2026)
+19816|4|en|Yoroi-Shinden Samurai Troopers (2026)
 460|1|x-jat|Yoroiden Samurai Troopers
 3377|1|x-jat|Yoroiden Samurai Troopers Gaiden
 3379|1|x-jat|Yoroiden Samurai Troopers Kikoutei Densetsu
@@ -61485,7 +61501,7 @@
 5275|1|x-jat|Yotsunoha
 14822|3|x-jat|YoU
 19010|4|en|You and I Are Polar Opposites
-19983|2|en|You and I Are Polar Opposites (2026)
+19983|4|en|You and I Are Polar Opposites (2026)
 19019|4|en|You and Idol Precure
 19019|2|en|You and Idol Pretty Cure
 8367|4|en|You and Me
@@ -62057,6 +62073,10 @@
 4830|1|x-jat|Yumiko Kirita in Venus
 4830|4|ja|YUMIKO KIRITA in Venus
 19446|1|x-zht|Yun Shen Buzhi Meng
+20107|2|x-zht|Yun Shen Buzhi Meng 2nd Season
+20107|2|x-zht|Yun Shen Buzhi Meng Di Er Ji
+20107|1|x-zht|Yun Shen Buzhi Meng II
+20106|1|x-zht|Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi
 3534|1|x-jat|Yun`yun Paradise
 13552|4|de|Yunas Geisterhaus
 1047|2|x-jat|yuno
@@ -73130,6 +73150,7 @@
 12157|2|ko|원교소녀: 육상부 윳키의 경우
 1022|4|ko|원더풀 데이즈
 7|2|ko|원령공주
+20105|4|ko|원룸 조교님
 15249|2|ko|원조교배
 4249|2|ko|원죄병동
 11123|4|ko|원펀맨
@@ -81887,6 +81908,7 @@
 15841|4|ja|もっと! まじめにふまじめ かいけつゾロリ (2021)
 16925|4|ja|もっと! まじめにふまじめ かいけつゾロリ (2022)
 7680|4|ja|もっとTo LOVEる -とらぶる-
+20104|3|ja|モナリザ
 5585|4|ja|モノクローム・ファクター
 6960|4|ja|ものしり大学 明日のカレンダー
 16976|4|ja|もののがたり
@@ -83387,6 +83409,10 @@
 469|2|zh-Hans|云之彼端, 约定的地方
 254|4|zh|云海骑兵队
 19446|4|zh-Hans|云深不知梦
+20106|4|zh-Hans|云深不知梦 特别篇：逐冥之役
+20107|2|zh-Hans|云深不知梦 第二季
+20107|2|zh-Hans|云深不知梦2
+20107|4|zh-Hans|云深不知梦II
 12854|4|ja|五一ぢいさん
 14492|2|ja|五万匹
 12580|4|ja|五匹のこぶたとチャールストン
@@ -88947,6 +88973,7 @@
 5844|2|ja|思春期少女
 5844|4|ja|思春期少女 「かりかり」
 831|4|ja|思春期美少女合体ロボ ジーマイン THE BATTLING DAYS OF THE "SHITAMACHI" VIRGINS
+20104|4|ja|性別「モナリザ」の君へ.
 699|4|zh-Hans|性感突击队 外传
 19926|4|ja|性指導員のお仕事 The Animation
 18608|4|ja|性欲つよつよ THE ANIMATION
@@ -91619,6 +91646,7 @@
 10069|4|ja|極黒のブリュンヒルデ
 4698|4|ja|楽しいウイロータウン
 1009|4|ja|楽しいムーミン一家
+3570|2|ja|楽しいムーミン一家 ムーミン谷の彗星
 1010|4|ja|楽しいムーミン一家 冒険日記
 918|4|ja|楽勝! ハイパードール
 17838|4|ja|楽園侵触 Island of the dead
@@ -95467,7 +95495,7 @@
 17419|4|ja|花いちもんめ
 7874|3|ja|花いろ
 18636|4|ja|花ざかりの君たちへ
-19961|4|ja|花ざかりの君たちへ 2
+19961|4|ja|花ざかりの君たちへ (2026)
 2240|4|ja|花さか天使テンテンくん
 10886|4|ja|花とアリス 殺人事件
 10886|2|ja|花とアリス殺人事件
