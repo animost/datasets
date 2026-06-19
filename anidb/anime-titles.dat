@@ -1,4 +1,4 @@
-# created: Thu Jun 18 03:00:02 2026
+# created: Fri Jun 19 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2385,6 +2385,7 @@
 2435|2|en|Alice Academy
 12526|2|en|Alice and Zoroku
 2744|4|fr|Alice au pays des merveilles
+19110|4|fr|Alice au pays des merveilles: Dive in Wonderland
 4867|2|x-jat|Alice Doll
 2435|3|x-jat|alice g
 17147|1|x-jat|Alice Gear Aegis Expansion
@@ -2393,6 +2394,7 @@
 15794|1|x-jat|Alice Gear Aegis: Doki! Actress Darake no Mermaid Grand Prix
 2744|2|tr|Alice Harikalar Diyarında
 2744|4|de|Alice im Wunderland
+19110|4|de|Alice im Wunderland: Dive in Wonderland
 10628|2|en|Alice in Borderland
 2175|1|x-jat|Alice in Cyberland
 2175|4|en|Alice in Cyberland
@@ -8759,6 +8761,7 @@
 6452|3|x-jat|chii2
 16943|4|en|Chiikawa
 16943|1|x-jat|Chiikawa
+20111|2|en|Chiikawa the Movie: The Secret of the Mermaid Island
 6062|3|x-jat|chiikoi
 17382|1|x-jat|Chiisai Aki Mitsuketa
 6761|1|x-jat|Chiisai Sensuikan ni Koi o Shita Dekasugiru Kujira no Hanashi
@@ -10084,6 +10087,7 @@
 13201|2|en|Crayon Shin-chan Side Story: O O O no Shinnosuke
 12517|2|en|Crayon Shin-chan Side Story: Toy Wars
 18306|2|en|Crayon Shin-chan the Movie: Our Dinosaur Diary
+19766|2|en|Crayon Shin-chan the Movie: Spooky! My Yokai Vacation
 19256|2|en|Crayon Shin-chan the Movie: Super Hot! The Spicy Kasukabe Dancers
 4624|1|x-jat|Crayon Shin-chan: Action Kamen vs Haigure Maou
 4704|1|x-jat|Crayon Shin-chan: Ankoku Tamatama Daitsuiseki
@@ -12253,6 +12257,7 @@
 2433|3|en|DICE
 2433|4|cs|DICE
 2433|4|hu|DICE - A mentőcsapat
+20108|2|en|Dice with Demon
 286|4|vi|Dịch vụ giao hàng của phù thủy Kiki
 13844|4|en|Didn`t I Say to Make My Abilities Average in the Next Life?!
 191|2|lt|Didysis mokytojas Onizuka
@@ -14682,6 +14687,7 @@
 2978|1|x-jat|Eiga Beast Wars Second Chou Seimeitai Transformers Lio Convoy Kikiippatsu!
 16176|1|x-jat|Eiga Black Clover: Mahoutei no Ken
 11354|1|x-jat|Eiga Chibi Maruko-chan: Italia kara Kita Shounen
+20111|1|x-jat|Eiga Chiikawa: Ningyo no Shima no Himitsu
 13176|1|x-jat|Eiga Chuunibyou demo Koi ga Shitai! Take on Me
 12478|1|x-jat|Eiga Crayon Shin-chan Shuurai! Uchuujin Shiriri
 8115|1|x-jat|Eiga Crayon Shin-chan: Arashi o Yobu Ougon no Spy Daisakusen
@@ -14826,6 +14832,7 @@
 18519|1|x-jat|Eiga Sore Ike! Anpanman: Baikinman to Ehon no Lulun
 19257|1|x-jat|Eiga Sore Ike! Anpanman: Chapon no Hero!
 17121|1|x-jat|Eiga Sore Ike! Anpanman: Dororin to Bakeru Carnival
+20110|1|x-jat|Eiga Sore Ike! Anpanman: Pantan to Yakusoku no Hoshi
 17810|1|x-jat|Eiga Sore Ike! Anpanman: Roboly to Pokapoka Present
 14544|1|x-jat|Eiga Star Twinkle Precure: Hoshi no Uta ni Omoi o Komete
 8489|1|x-jat|Eiga Suite Precure: Torimodose! Kokoro ga Tsunagu Kiseki no Melody
@@ -21717,6 +21724,7 @@
 17368|1|x-jat|Hasami Togi
 18483|4|x-jat|Hasan Fugou
 14131|1|x-jat|Hasande Ageru
+20108|1|x-jat|Haseo Sugoroku
 10649|1|x-jat|Hashi no Mukou
 15058|1|x-jat|Hashire Melos
 2385|1|x-jat|Hashire Melos (1981)
@@ -26411,6 +26419,7 @@
 1497|1|x-jat|Jungle Taitei (1966)
 1499|1|x-jat|Jungle Taitei (1989)
 1490|1|x-jat|Jungle Taitei (1997)
+20113|1|x-jat|Jungle Taitei / Honnouji no Hen
 1490|2|x-jat|Jungle Taitei Leo
 1498|2|x-jat|Jungle Taitei Susume Leo
 1498|1|x-jat|Jungle Taitei Susume Leo!
@@ -35327,6 +35336,8 @@
 9897|1|x-jat|Mesu Saga: Persona
 17587|1|x-jat|Mesudachi The Animation
 3303|4|pt-BR|Metabot
+20109|1|x-jat|Metafear
+20109|4|ja|Metafear
 13180|1|x-kot|MetaJets
 1489|2|en|Metal Angel Marie
 1112|4|en|Metal Armor Dragonar
@@ -39195,6 +39206,7 @@
 10859|3|x-jat|nisekoi2
 11551|3|x-jat|nisekoi2 ova
 16550|1|x-jat|Nisekoimonogatari
+19431|1|x-jat|Nisemono no Renkinjutsushi
 8658|1|x-jat|Nisemonogatari
 8658|4|en|Nisemonogatari
 8658|4|fr|Nisemonogatari (Histoires d`Imposture)
@@ -43722,6 +43734,7 @@
 17742|3|x-jat|precure20
 18294|3|x-unk|precure21
 19019|3|en|precure22
+19742|3|x-jat|precure23
 4117|3|x-jat|precure3
 4844|3|x-jat|precure3 movie
 4901|3|x-jat|precure5
@@ -44103,8 +44116,6 @@
 13860|4|ja|PROJECT HAL
 4974|2|en|Project ICE
 9043|2|en|Project Key
-19431|1|x-jat|Project M
-19431|4|ja|Project M
 4292|1|x-jat|Project Papo
 15716|4|ja|PROJECT SCARD プレイタの傷
 15716|1|x-jat|Project Scard: Praeter no Kizu
@@ -49480,6 +49491,8 @@
 19012|1|x-jat|Shiranai Koto Shiritai no? The Animation
 10223|1|x-jat|Shiranpuri
 8466|1|x-jat|Shiranpuri (2012)
+20112|1|x-jat|Shiranuhi
+20112|2|x-jat|Shiranui
 16784|2|fr|Shiranui, agente de l’ombre
 3997|1|x-jat|Shiratori Reiko de Gozaimasu!
 11082|4|fr|Shirayuki aux cheveux rouges
@@ -54414,6 +54427,7 @@
 19990|2|en|The Fable 2
 10220|2|en|The Fake
 10220|4|es|The Fake
+19431|2|en|The Fake Alchemist
 18378|2|en|The Fallen Master
 14906|2|en|The Fallen RPG Holy Knight Luvilias
 1577|2|en|The Familiar Moonlight Mask-kun
@@ -75327,6 +75341,7 @@
 19257|4|ja|えいがそれいけ! アンパンマン チャポンのヒーロー!
 17121|4|ja|えいがそれいけ! アンパンマン ドロリンとバケ~るカーニバル
 18519|4|ja|えいがそれいけ! アンパンマン ばいきんまんとえほんのルルン
+20110|4|ja|えいがそれいけ! アンパンマン パンタンと約束の星
 17810|4|ja|えいがそれいけ! アンパンマン ロボリィとぽかぽかプレゼント
 7018|4|ja|えいがでとーじょー! たまごっち ドキドキ! うちゅーのまいごっち!?
 17500|5|ja|えいがドラえもん のびたとそらのユートピア
@@ -77597,6 +77612,7 @@
 1490|4|ja|ジャングル大帝 (1997)
 6652|4|ja|ジャングル大帝 勇気が未来をかえる
 1498|4|ja|ジャングル大帝 進めレオ!
+20113|4|ja|ジャングル大帝／本能寺の変
 2483|4|ja|ジャングル黒べえ
 19944|4|ja|ジャンケットバンク
 6520|4|ja|ジャンケンマン
@@ -77684,6 +77700,7 @@
 15287|3|ja|ジョゼ虎
 8349|4|ja|ショッキングピンク!
 9921|4|ja|ジョバンニの島
+20112|4|ja|しらぬひ
 10223|4|ja|しらんぷり
 8466|4|ja|しらんぷり (2012)
 99|4|ja|シリアルエクスペリメンツレイン
@@ -79474,6 +79491,7 @@
 10859|4|ja|ニセコイ:
 11551|4|ja|ニセコイ: (2016)
 16550|4|ja|ニセコイモノガタリ
+19431|4|ja|ニセモノの錬金術師
 6896|4|ja|ニッポンバンザイ
 17760|5|ja|にてんごじげんのリリサ
 1769|4|ja|ニニンがシノブ伝 The nonsense KUNOICHI fiction
@@ -90864,6 +90882,7 @@
 8957|4|ja|映画ジュエルペット スウィーツダンスプリンセス
 14544|4|ja|映画スター☆トゥインクルプリキュア 星のうたに想いをこめて
 12515|4|ja|映画たまごっち ヒミツのおとどけ大作戦!
+20111|4|ja|映画ちいかわ 人魚の島のひみつ
 11354|4|ja|映画ちびまる子ちゃん イタリアから来た少年
 17176|4|ja|映画デリシャスパーティ♡プリキュア 夢みる♡お子さまランチ!
 8542|4|ja|映画ドラえもん のび太と奇跡の島 ~アニマル アドベンチャー~
@@ -97546,6 +97565,7 @@
 14863|4|zh-Hans|镜花缘
 480|4|zh-Hans|镜装女骑士
 8785|4|zh-Hant|長江7號愛地球
+20108|4|ja|長谷雄双六
 10815|4|ja|長門有希ちゃんの消失
 11163|4|ja|長門有希ちゃんの消失 終われない夏休み
 2210|4|ja|長靴をはいた猫
@@ -97733,6 +97753,7 @@
 16670|4|zh-Hans|阿衰 第4季
 16671|4|zh-Hans|阿衰 第5季
 16668|4|zh-Hans|阿衰 第二季
+8997|2|zh|阿贡
 15587|4|zh-Hans|阿雅与魔女
 17646|4|zh-Hans|阿鲁斯的巨兽
 444|4|zh-Hans|陆上防卫队
