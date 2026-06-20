@@ -1,4 +1,4 @@
-# created: Fri Jun 19 03:00:01 2026
+# created: Sat Jun 20 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -19458,6 +19458,7 @@
 18544|2|en|Give It Your All
 14756|1|x-jat|Given
 14756|4|en|Given
+19703|4|en|given Moments in Life
 15102|4|en|Given the Movie
 15102|4|zh-Hant|GIVEN 被贈與的未來 劇場版
 19703|1|x-jat|Given: 10th Mix
@@ -25897,6 +25898,7 @@
 6030|4|de|Jim Knopf
 15855|1|x-jat|Jimihen!! Jimiko o Kae Chau Jun Isei Kouyuu
 14550|1|x-jat|Jimoto ga Japan
+20114|1|x-jat|Jimoto Saikou!
 18679|1|x-zht|Jin Can Wangshi
 4907|1|x-zht|Jin Hou Xiang Yao
 83|2|x-jat|Jin Roh
@@ -62770,6 +62772,7 @@
 5116|4|ja|ZOMBIE-LOAN
 5116|4|en|Zombie-Loan
 14198|2|x-jat|Zombieland Saga
+16911|2|x-jat|Zombieland Saga Movie - Yumeginga Paradise
 408|2|de|Zone Of Enders: 2167 Idolo
 408|4|fr|Zone of the Enders - Z.O.E 2167 - Idolo
 408|4|de|Zone of the Enders - Z.O.E 2167 - Idolo
@@ -80264,6 +80267,7 @@
 8305|4|ja|ビーチクビーチ~南国乳辱撮影会~
 15678|4|ja|ピーチボーイリバーサイド
 945|5|ja|ビート・エックス
+16544|2|ja|ビートアンドモーション
 353|4|ja|ヒートガイジェイ
 5794|2|ja|ビートショット!!
 13500|2|ja|ビートレス
@@ -86328,6 +86332,7 @@
 16588|4|zh-Hant|地下忍者
 16588|4|zh-Hans|地下忍者
 12151|4|ja|地下鉄に乗るっ
+20114|4|ja|地元最高!
 15855|4|zh-Hans|地味变!!～改变土妹子的纯洁异性交往～
 13177|4|ja|地図のない冒険
 4193|4|zh-Hans|地海传说
