@@ -1,4 +1,4 @@
-# created: Sat Jun 20 03:00:01 2026
+# created: Sun Jun 21 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2105,6 +2105,7 @@
 19513|4|es-419|Akane-banashi
 19513|4|pt-BR|Akane-banashi
 19513|1|x-jat|Akane-banashi
+20117|1|x-jat|Akane-banashi (2027)
 1892|1|x-jat|Akane-chan
 1892|4|es|Akane-chan
 12454|1|x-jat|Akane-chan no Wasuremono
@@ -4179,6 +4180,7 @@
 12097|2|fr|Au-delà des lèvres
 5889|2|en|Auction: Beautiful Slave
 5889|1|x-jat|Auction: Bijo Dorei
+16298|4|fr|Aucun doute en nous
 11662|4|en|Audition
 12382|4|en|Augmented Reality Girls Trinary
 355|2|lt|Auksinis Vaikis
@@ -20409,6 +20411,7 @@
 15667|1|x-zht|Guan Hai Ce: Tieqi Xiangguan
 17854|1|x-zht|Guan Miao Shenmeshi
 19835|1|x-zht|Guangyin Zhi Wai
+20115|1|x-zht|Guangyin Zhi Wai 2
 606|2|en|Guard Earth and Advanced Reconnaissance Fighter Dendo
 5511|2|en|Guardian Fairy Michel
 783|1|x-jat|Guardian Hearts
@@ -27198,6 +27201,7 @@
 6531|4|en|Kanamemo
 11820|2|x-jat|Kanamewo
 19293|1|x-jat|Kanan-sama wa Akumade Choroi
+20118|1|x-jat|Kanan-sama wa Akumade Choroi 2
 6275|2|lt|Kanana
 2781|3|x-jat|kanantv
 1994|2|x-jat|Kanariya wa Kago no Naka
@@ -31566,6 +31570,7 @@
 16840|1|x-zht|Lian Sheng San Ji
 16298|1|x-zht|Liang Bu Yi
 17988|1|x-zht|Liang Bu Yi 2nd Season
+20116|4|x-zht|Liang Bu Yi S2
 18025|1|x-zht|Liang Bu Yi Season 2
 19538|4|en|Liar Game
 19538|4|ja|LIAR GAME
@@ -36003,6 +36008,7 @@
 14698|2|en|Mister Washer!: She and I in the Female Bath!?
 3524|4|en|Mistreated Bride
 19293|4|en|Mistress Kanan Is Devilishly Easy
+20118|2|en|Mistress Kanan Is Devilishly Easy 2
 10542|2|pl|Mistrz Romansu Nozaki
 2910|4|pl|Mistrzowie Kaijudo
 826|2|pl|Mistyczny Wojownik Seiya
@@ -39252,6 +39258,7 @@
 12841|1|x-jat|No Doubt
 16298|2|en|No Doubt In Us
 17988|4|en|No Doubt in Us 2nd Season
+20116|1|en|No Doubt In Us S2
 9998|1|x-jat|No Game No Life
 9998|4|en|No Game No Life
 9998|4|de|No Game No Life
@@ -40016,6 +40023,9 @@
 18766|1|x-jat|Odoru Mowai-kun
 6801|1|x-jat|Odoru Pokemon Himitsu Kichi
 15457|4|pl|Odrodzony jako galareta
+16776|4|pl|Odrodzony jako galareta: Szkarłatna więź
+18885|4|pl|Odrodzony jako galareta. Film: Łzy Morza Lazuroweg
+13871|4|pl|Odrodzony jako galaretaㅤ
 8857|2|pl|Odwrócona Patema
 1016|4|de|Odysseus 31
 1137|3|x-jat|oe
@@ -54600,6 +54610,7 @@
 19893|2|en|The Great Ruler 2
 18028|2|en|The Great Ruler 3D
 19893|2|en|The Great Ruler 3D 2nd Season
+19893|2|en|The Great Ruler S2
 19994|2|en|The Great Sage Riddle`s Time Reversal
 19994|4|en|The Great Sage Ryddel and the Hands of Time
 2228|2|en|The Great Space War: Dangard Ace
@@ -74494,6 +74505,7 @@
 12454|4|ja|あかねちゃんの忘れもの
 2425|4|ja|アカネマニアックス
 19513|4|ja|あかね噺
+20117|4|ja|あかね噺 (2027)
 6025|4|ja|あかね色に染まる坂
 2840|2|ja|あかほり外道アワーらぶげ part 1
 2841|2|ja|あかほり外道アワーらぶげ part 2
@@ -76076,6 +76088,7 @@
 1994|4|ja|カナリヤは籠の中
 6275|4|ja|カナン
 19293|4|ja|カナン様はあくまでチョロい
+20118|4|ja|カナン様はあくまでチョロい 2
 5575|4|ja|かのこん
 6787|4|ja|かのこん ~真夏の大謝肉祭~
 15851|4|ja|カノジョも彼女
@@ -84208,6 +84221,7 @@
 2441|4|zh-Hans|光速蒙面侠21
 1929|4|ja|光速電神アルベガス
 19835|4|zh-Hans|光阴之外
+20115|4|zh-Hans|光阴之外2
 11344|4|zh-Hans|克拉斯卡劳埃德
 13069|4|zh-Hans|克拉斯卡劳埃德 第二季
 19379|4|zh-Hans|克金玩家
