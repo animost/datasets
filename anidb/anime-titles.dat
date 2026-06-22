@@ -1,4 +1,4 @@
-# created: Sun Jun 21 03:00:01 2026
+# created: Mon Jun 22 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5791,6 +5791,8 @@
 13445|2|en|Beyond the Worlds
 13446|2|en|Beyond the Worlds S2
 19835|4|en|Beyond Time`s Gaze
+20115|4|en|Beyond Time`s Gaze 2
+20115|2|en|Beyond Time`s Gaze 2nd Season
 20000|4|en|Beyond Twilight
 15032|1|x-jat|BeyWarriors: Cyborg
 14915|1|x-jat|BeyWheelz
@@ -20412,6 +20414,8 @@
 17854|1|x-zht|Guan Miao Shenmeshi
 19835|1|x-zht|Guangyin Zhi Wai
 20115|1|x-zht|Guangyin Zhi Wai 2
+20115|2|x-zht|Guangyin Zhi Wai 2nd Season
+20115|2|x-zht|Guangyin Zhi Wai: Nian Fan
 606|2|en|Guard Earth and Advanced Reconnaissance Fighter Dendo
 5511|2|en|Guardian Fairy Michel
 783|1|x-jat|Guardian Hearts
@@ -22741,6 +22745,7 @@
 4894|3|x-jat|higurashi kai
 3574|1|x-jat|Higurashi no Naku Koro ni
 15350|2|x-jat|Higurashi no Naku Koro ni (2020)
+20119|1|x-jat|Higurashi no Naku Koro ni (shinsaku TV anime)
 15350|1|x-jat|Higurashi no Naku Koro ni Gou
 4894|1|x-jat|Higurashi no Naku Koro ni Kai
 9574|1|x-jat|Higurashi no Naku Koro ni Kaku: Outbreak
@@ -33404,6 +33409,7 @@
 70|4|en|Magical Shopping Arcade Abenobashi
 70|2|en|Magical Shopping Street Abenobashi
 19214|4|en|Magical Sisters Lulutto Lilly
+20120|4|en|Magical Sisters Lulutto Lilly (2026)
 19214|2|en|Magical Sisters LuluttoLilly
 9464|4|en|Magical Sisters Yoyo & Nene
 607|2|en|Magical Soldier Louie
@@ -33552,6 +33558,7 @@
 4848|1|x-jat|Mahou no Rouge Lipstick
 2562|1|x-jat|Mahou no Shiho-chan
 19214|1|x-jat|Mahou no Shimai Lulutto Lilly
+20120|1|x-jat|Mahou no Shimai Lulutto Lilly (2026)
 19214|2|x-jat|Mahou no Shimai LuluttoLilly
 246|1|x-jat|Mahou no Stage Fancy Lala
 1444|1|x-jat|Mahou no Star Magical Emi
@@ -39190,6 +39197,7 @@
 6896|1|x-jat|Nippon Banzai
 3582|2|x-jat|Nippon Ichi no Otoko no Tamashii
 19861|1|x-jat|Nippon Sangoku
+19861|4|fr|Nippon Sangoku: Les Nations du Soleil Sanglant
 19861|4|en|Nippon Sangoku: The Three Nations of the Crimson Sun
 19861|4|pl|Nippon Sangoku: Trzy Narody Wschodzącego Słońca
 3509|2|x-jat|Nippon Tanjo
@@ -48918,6 +48926,7 @@
 1597|3|x-jat|Shenmuu
 1141|2|x-jat|Shenron no Densetsu
 15979|1|x-zht|Shenshi Mowang: Gentleman Devil
+15979|2|x-zht|Shenshi Mowang: Gentleman Devil - Pilot
 17039|2|x-zht|Shenyi Jiu Xiaojie
 18582|2|x-zht|Shenyi Jiu Xiaojie 2nd Season
 18385|1|x-zht|Shenyuan Youxi
@@ -59794,6 +59803,7 @@
 8493|3|en|wga
 532|4|it|What a mess Slump e Arale
 18744|2|en|What A Scandal
+19869|2|en|What A Scandal 2
 17337|2|en|What God Does in a World Without Gods
 8027|2|en|What if a Female Manager of a High School Baseball Team Read Drucker`s `Management`?
 17894|2|en|What If a High School Girl Became a Shrine Maiden in the Metaverse
@@ -80333,6 +80343,7 @@
 12283|4|ja|ビキニ・ウォリアーズ (2016)
 3481|4|ja|ピグマリオ
 3574|4|ja|ひぐらしのなく頃に
+20119|4|ja|ひぐらしのなく頃に (新作TVアニメ)
 16137|4|ja|ひぐらしのなく頃に卒
 9574|4|ja|ひぐらしのなく頃に拡 アウトブレイク
 15350|4|ja|ひぐらしのなく頃に業
@@ -84221,6 +84232,8 @@
 2441|4|zh-Hans|光速蒙面侠21
 1929|4|ja|光速電神アルベガス
 19835|4|zh-Hans|光阴之外
+20115|2|zh-Hans|光阴之外 年番
+20115|2|zh-Hans|光阴之外 第二季
 20115|4|zh-Hans|光阴之外2
 11344|4|zh-Hans|克拉斯卡劳埃德
 13069|4|zh-Hans|克拉斯卡劳埃德 第二季
@@ -98669,6 +98682,7 @@
 499|4|ja|魔法の妖精 ペルシャ
 8676|4|ja|魔法の妖精ペルシャ 回転木馬
 19214|4|ja|魔法の姉妹ルルットリリィ
+20120|4|ja|魔法の姉妹ルルットリリィ (2026)
 2562|4|ja|魔法の詩保ちゃん
 7430|4|zh-Hans|魔法之星爱美 云光中
 8426|4|zh-Hant|魔法亞媽
