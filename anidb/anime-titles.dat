@@ -1,4 +1,4 @@
-# created: Mon Jun 22 03:00:02 2026
+# created: Tue Jun 23 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -23992,6 +23992,7 @@
 19502|2|en|I am Ying Tai
 3325|2|en|I and Myself: The Two Lottes
 16630|2|en|I Annoyed Millions of Cultivators
+19991|4|en|I Annoyed Millions of Cultivators 2nd season
 8073|4|it|I bambini che inseguono le stelle
 19635|4|en|I Became a Legend After My 10 Year-Long Last Stand
 18438|2|en|I Became the Strongest with the Failure Frame "Abnormal State Skill" as i Devastated Everything
@@ -24090,6 +24091,7 @@
 15659|4|de|I Tried Asking While Kowtowing
 7998|2|en|I Trust My Girlfriend!
 16630|2|en|I upset millions of cultivators
+19991|2|en|I Upset Millions Of Cultivators 2nd season
 2013|4|it|I Vampiriani - Vampiri Vegetariani
 17395|1|x-jat|I W
 15258|2|en|I Want to be His Prey
@@ -31575,7 +31577,7 @@
 16840|1|x-zht|Lian Sheng San Ji
 16298|1|x-zht|Liang Bu Yi
 17988|1|x-zht|Liang Bu Yi 2nd Season
-20116|4|x-zht|Liang Bu Yi S2
+17988|2|x-zht|Liang Bu Yi Di Er Ji
 18025|1|x-zht|Liang Bu Yi Season 2
 19538|4|en|Liar Game
 19538|4|ja|LIAR GAME
@@ -39265,8 +39267,8 @@
 12841|4|ja|NO DOUBT
 12841|1|x-jat|No Doubt
 16298|2|en|No Doubt In Us
-17988|4|en|No Doubt in Us 2nd Season
-20116|1|en|No Doubt In Us S2
+17988|4|en|No Doubt In Us 2
+17988|2|en|No Doubt In Us 2nd Season
 9998|1|x-jat|No Game No Life
 9998|4|en|No Game No Life
 9998|4|de|No Game No Life
@@ -52274,6 +52276,7 @@
 543|4|en|Super Milk-chan
 2577|4|en|Super Mobile Legend Dinagiga
 19479|1|x-jat|Super no Ura de Yani Suu Futari
+19479|2|x-jat|Super no Ura de Yani Suu Futari Mini
 6143|4|pt-BR|Super Onze
 2076|2|en|Super Phoenix
 1392|4|pt-BR|Super Pig
@@ -60120,10 +60123,11 @@
 14781|1|x-zht|Wo Jiao Bai Xiao Fei
 15508|1|x-zht|Wo Kai Dongwuyuan Naxie Nian
 18953|1|x-zht|Wo Neng Wuxian Dunwu
+16630|1|x-zht|Wo Qi Ku Le Baiwan Xiulian Zhe
 19991|1|x-zht|Wo Qi Ku Le Baiwan Xiulian Zhe 2nd Season
 16630|2|x-zht|Wo Qi Ku Le Baiwan Xiulianzhe
 16630|2|x-zht|Wo Qi Ku Liao Bai Wan Xiulian Zhe
-16630|1|x-zht|Wo Qi Ku Liao Baiwan Xiulian Zhe
+16630|2|x-zht|Wo Qi Ku Liao Baiwan Xiulian Zhe
 17137|1|x-zht|Wo Shi Bu Bai Chi
 15860|2|x-zht|Wo Shi Da Shen Xian
 15860|1|x-zht|Wo Shi Da Shenxian
@@ -83284,6 +83288,7 @@
 12951|2|zh|东郭小节
 14356|4|ja|両人侍誉皮切
 16298|4|zh-Hans|两不疑
+17988|4|zh-Hans|两不疑 第二季
 18025|4|ja|两不疑 第二季
 9678|4|zh-Hans|两个人是少女福尔摩斯
 9582|3|zh-Hans|丧女
@@ -84233,6 +84238,7 @@
 1929|4|ja|光速電神アルベガス
 19835|4|zh-Hans|光阴之外
 20115|2|zh-Hans|光阴之外 年番
+19835|2|zh-Hans|光阴之外 第一季
 20115|2|zh-Hans|光阴之外 第二季
 20115|4|zh-Hans|光阴之外2
 11344|4|zh-Hans|克拉斯卡劳埃德
@@ -92750,6 +92756,7 @@
 11712|4|ja|灰と幻想のグリムガル
 11712|4|zh-Hans|灰与幻想的格林姆迦尔
 19744|4|ja|灰原くんの強くて青春ニューゲーム
+19744|4|zh-Hans|灰原君的青春二周目
 8088|4|ja|灰土警部の事件簿 人喰山
 271|4|zh-Hans|灰羽联盟
 271|2|zh|灰羽聯盟
@@ -95473,6 +95480,7 @@
 2031|4|ja|自慰倒錯
 9100|4|zh-Hans|自摸摸和努呸呸
 7260|4|ja|自画像
+19328|4|zh-Hans|自称恶役大小姐的婚约者观察记录。
 19328|4|ja|自称悪役令嬢な婚約者の観察記録.
 15578|4|zh-Hans|自称贤者弟子的贤者
 15578|4|zh-Hant|自稱賢者弟子的賢者
