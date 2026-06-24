@@ -1,4 +1,4 @@
-# created: Tue Jun 23 03:00:01 2026
+# created: Wed Jun 24 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -16961,6 +16961,8 @@
 13658|4|en|Food Wars! The Third Plate: Totsuki Train Arc
 17138|2|en|Foodie Boy’s Classic of Mountains & Seas
 17138|2|en|Foodie Boys Classic of Mountains Seas
+20121|1|x-jat|Fool Night
+20121|2|en|Fool Night
 117|2|en|Fooley Cooley
 3595|2|en|Foolish Mother
 117|2|en|Fooly Cooly
@@ -37420,6 +37422,7 @@
 17854|2|en|My Cat Hates Me
 13588|2|en|My Catastrophic Girfriend
 13588|2|en|My Catastrophic Girlfriend
+19927|2|en|My Classmate`s a Sexy Actress, and Now We Live Together?!
 5140|4|en|My Classmate`s Mother
 17720|4|en|My Clueless First Friend
 9140|2|en|My Coffee Samurai: A Vending Machine Boyfriend
@@ -38994,6 +38997,7 @@
 3132|1|x-jat|Nijuushi no Hitomi
 2496|1|x-jat|Nijuusou: Wana ni Ochita Onna-tachi
 20066|1|x-jat|Nikenichi! Non Non Zenshou Kichi
+20066|2|x-jat|Nikke Nichi! Non Non Zenshou Kichi
 1646|4|de|Niklaas, der Junge aus Flandern
 1650|4|de|Niklaas, ein Junge aus Flandern
 5226|3|x-jat|nikopun
@@ -80526,6 +80530,7 @@
 11940|4|ja|ブーブーボーイ
 11940|2|ja|ブーブーボーイだっぷ
 2515|4|ja|フーリガン
+20121|4|ja|フールナイト
 1080|4|ja|ファーストKiss☆物語[ストーリー] Kissからはじまる物語
 4401|4|ja|ファーストスクワッド
 19577|4|ja|ファーストライン
