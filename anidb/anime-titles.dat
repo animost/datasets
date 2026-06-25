@@ -1,4 +1,4 @@
-# created: Wed Jun 24 03:00:02 2026
+# created: Thu Jun 25 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2460,6 +2460,7 @@
 18127|2|en|All Saints Street 4
 7454|4|ja|ALL THAT GUNDAM
 7454|1|x-jat|All That Gundam
+19327|2|en|All Works Maid
 19208|4|en|All You Need Is Kill
 19208|4|ja|All You Need Is Kill
 19208|1|x-jat|All You Need Is Kill
@@ -4768,7 +4769,7 @@
 453|4|en|Baki The Grappler
 880|4|fr|Baki The Grappler - The Ultimate Tournament
 18579|1|x-jat|Baki-dou
-18579|4|en|BAKI-DOU: The Invincible Samurai
+18579|4|en|Baki-Dou: The Invincible Samurai
 14772|2|x-jat|Baki: Dai Raitaisai Hen
 12258|2|tr|Baki: En Kötü İdam Mahkumları
 12258|2|en|Baki: Most Evil Death Row Convicts Special Anime
@@ -9420,6 +9421,7 @@
 13153|4|id|Classroom of the Elite
 17237|2|en|Classroom of the Elite 3rd Season
 18844|4|en|Classroom of the Elite 4th Season: 2nd Year, 1st Term
+20123|2|en|Classroom of the Elite 5th Season
 17208|4|en|Classroom of the Elite II
 17237|4|en|Classroom of the Elite III
 18844|2|en|Classroom of the Elite IV
@@ -19464,10 +19466,10 @@
 18544|2|en|Give It Your All
 14756|1|x-jat|Given
 14756|4|en|Given
-19703|4|en|given Moments in Life
 15102|4|en|Given the Movie
 15102|4|zh-Hant|GIVEN 被贈與的未來 劇場版
 19703|1|x-jat|Given: 10th Mix
+19703|4|en|Given: Moments in Life
 16357|4|en|Given: On the Other Hand
 16357|1|x-jat|Given: Uragawa no Sonzai
 6272|2|en|Giving Absolutely Greek Mythology
@@ -22460,7 +22462,7 @@
 18230|2|en|Heroic Princess Milia
 16564|1|x-jat|Heroine Taru Mono! Kiraware Heroine to Naisho no Oshigoto
 19327|4|en|Heroine? Saint? No, I`m an All-Works Maid (And Proud of It)!
-19327|1|x-jat|Heroine? Seijo? Iie, All Works Maid Desu (Ko)!
+19327|1|x-jat|Heroine? Seijo? Iie, All Works Maid Desu (Hokori)!
 16564|4|en|Heroines Run the Show: The Unpopular Girl and the Secret Task
 7412|1|x-jat|Heroman
 7412|4|ja|HEROMAN
@@ -26916,6 +26918,7 @@
 17811|4|en|Kaina of the Great Snow Sea: Star Sage
 795|1|x-jat|Kairaku no Houteishiki Level-C
 1337|1|x-jat|Kairaku Satsujin Chousakan Koji
+19182|2|en|Kairyu and the Mail Carrier
 19182|1|x-jat|Kairyuu to Yuubin`ya-san
 12024|3|x-jat|Kaishain
 1436|2|x-jat|Kaishun
@@ -35979,7 +35982,7 @@
 12091|4|en|Miss Kobayashi`s Dragon Maid
 12091|4|fr|Miss Kobayashi`s Dragon Maid
 14678|4|en|Miss Kobayashi`s Dragon Maid S
-18873|2|en|Miss Kobayashi`s Dragon Maid: A Lonely Dragon Wants to Be Loved
+18873|4|en|Miss Kobayashi`s Dragon Maid: A Lonely Dragon Wants to Be Loved
 12091|4|it|Miss Kobayashi`s Dragon Name
 16425|4|en|Miss Kuroitsu from the Monster Development Department
 4056|4|en|Miss Machiko
@@ -45208,6 +45211,7 @@
 15593|2|zh-Hans|Re: 从零开始的异世界生活 第二季 后半部分
 1662|4|zh-Hans|Re: 甜心战士
 10620|4|ja|Re:␣ HAMATORA [リプライハマトラ]
+20122|1|x-jat|Re:bel Robotica
 1662|3|x-jat|Re:CH
 15505|2|en|Re:Construction the Elfrieden Kingdom Tales of Realistic Brave
 12657|4|ja|Re:CREATORS
@@ -47079,9 +47083,9 @@
 18984|1|x-jat|Sakamoto Days (2025)
 18984|4|ja|SAKAMOTO DAYS (2025)
 18984|4|en|Sakamoto Days (2025)
-19775|1|x-jat|Sakamoto Days 2
-19775|4|ja|SAKAMOTO DAYS 2
-19775|2|en|Sakamoto Days 2
+19775|2|en|Sakamoto Days (2027)
+19775|1|x-jat|Sakamoto Days (2027)
+19775|4|ja|SAKAMOTO DAYS (2027)
 18984|2|en|Sakamoto Days Part 2
 11881|1|x-jat|Sakamoto Desu ga?
 18654|4|hu|Sakamoto napjai
@@ -49782,6 +49786,8 @@
 11763|1|x-jat|Show by Rock!!#
 11763|4|en|Show by Rock!!#
 14768|4|ja|SHOW BY ROCK!!×JOYSOUND
+13698|4|en|Show Me Your Panties While You Give Me That Disgusted Look
+14259|4|en|Show Me Your Panties While You Give Me That Disgusted Look (2019)
 16543|4|en|Show Time!
 16999|4|en|Show Time! 2
 16543|4|zh-Hans|Show Time！唱歌的大姐姐也想做
@@ -54334,6 +54340,7 @@
 5580|2|en|The Diary of a Crazed Family
 20020|2|en|The Diary of a Middle-Aged Sage`s Carefree Life in Another World
 2652|4|en|The Diary of Anne Frank
+18182|4|en|The Diary of Ochibi-san
 13299|2|en|The Diary of Our Days
 4297|2|en|The Diary of the Animals of Mitsugoro: Donbe`s Story
 3464|2|en|The Diary of Tortov Roddle
@@ -61648,6 +61655,7 @@
 17208|1|x-jat|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season
 17237|1|x-jat|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season
 18844|1|x-jat|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2 Nensei Hen 1 Gakki
+20123|1|x-jat|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season
 17208|2|x-jat|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S2
 18844|2|x-jat|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4
 7271|1|x-jat|Youkoso Lodoss-tou e!
@@ -73321,6 +73329,7 @@
 17641|4|ko|음양사
 7065|2|ko|음양사 아야카시의 여신 음란주박
 1993|2|ko|음양사: 요염한 두루마리
+19879|2|ko|음옥단지
 2519|2|ko|음옥병동
 4739|2|ko|음요충
 5764|2|ko|음요충 식 ~능욕촉수섬 퇴마록~
@@ -82195,6 +82204,7 @@
 17208|4|ja|ようこそ実力至上主義の教室へ 2nd Season
 17237|4|ja|ようこそ実力至上主義の教室へ 3rd Season
 18844|4|ja|ようこそ実力至上主義の教室へ 4th Season 2年生編1学期
+20123|4|ja|ようこそ実力至上主義の教室へ 5th Season
 6332|4|ja|よくわかる現代魔法
 424|4|ja|ヨコハマ買い出し紀行
 468|4|ja|ヨコハマ買い出し紀行 Quiet Country Cafe
@@ -82602,6 +82612,7 @@
 14981|6|ja|レベッカ THE CHRONICLES OF REBECCA
 17353|4|ja|レベル1だけどユニークスキルで最強です
 8057|4|ja|レベルE
+20122|4|ja|レベルロボチカ
 4744|4|ja|レポーターブルース
 5249|4|ja|レポーターブルース (1992)
 7626|4|ja|レミー・ラ・ボエーム
