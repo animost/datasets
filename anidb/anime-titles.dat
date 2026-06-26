@@ -1,4 +1,4 @@
-# created: Thu Jun 25 03:00:01 2026
+# created: Fri Jun 26 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5067,6 +5067,7 @@
 17693|4|en|Banished from the Hero`s Party, I Decided to Live a Quiet Life in the Countryside 2nd
 17693|2|en|Banished from the Hero`s Party, I Decided To Live A Quiet Life In The Countryside Part Season 2
 15853|2|en|Banished from the Heroes` Party
+20129|1|x-kot|Banjjagbanjjag Catch! Tiniping
 4|4|en|Banner of the Stars
 5|2|en|Banner of the Stars 2
 2673|2|en|Banner of the Stars 3
@@ -17157,6 +17158,7 @@
 17617|4|it|Frieren - Oltre la Fine del Viaggio
 18886|4|it|Frieren - Oltre la fine del viaggio (2026)
 18886|2|en|Frieren 2
+19977|2|en|Frieren 3
 17617|2|pt|Frieren e a Jornada para o Além
 17617|4|pt-BR|Frieren e a Jornada para o Além
 17617|4|en|Frieren: Beyond Journey`s End
@@ -17944,6 +17946,7 @@
 486|2|en|Galaxy Fraulein Yuna: Siren`s Sadness
 487|2|en|Galaxy Fraulein Yuna: The Abyssal Fairy
 5742|4|en|Galaxy Investigation 2100: Border Planet
+8923|4|en|Galaxy Kickoff!!
 9634|2|en|Galaxy Legend Tera
 8668|2|x-jat|Galaxy Racer Scan2Go
 4122|2|en|Galaxy Railway 999: Can You Love Like a Mother?!!
@@ -18881,6 +18884,7 @@
 1652|2|x-jat|Getter Robo: Grendizer, Getter Robo G, Great Mazinger: Kessen! Daikaijuu!
 1838|2|x-jat|Getter Robo: Shin Getter Robo
 881|2|x-jat|Getter Robo: Shin Getter Robo Tai Neo Getter Robo
+20127|2|en|Getting Shots on a Frying Pan
 17512|1|x-kot|Geu Yeoreum
 19021|1|x-kot|Geu Yeoreum (2023)
 12796|2|x-kot|Geugjangpan Annyeong Jadooya
@@ -19769,6 +19773,7 @@
 3066|1|x-jat|Gokiburi-chan
 2406|1|x-jat|Gokiburi-tachi no Tasogare
 9434|1|x-jat|Gokicha!! Cockroach Girls
+20128|1|x-jat|Gokigen`you, Ikkyoku Ikaga?
 1387|3|x-jat|GokiMono
 1387|3|x-jat|gokinjo
 1387|1|x-jat|Gokinjo Monogatari
@@ -19938,6 +19943,7 @@
 11313|2|en|Good Bye Marilyn
 18537|4|en|Good Bye, Dragon Life
 18537|4|de|Good Bye, Dragon Life
+20128|2|en|Good Day to You, How About a Game?
 6558|2|en|Good Evening Just For You
 17510|4|en|Good Friend
 16194|4|ja|Good job!
@@ -21292,7 +21298,7 @@
 15604|2|x-jat|HameFura Season 2
 15604|3|x-jat|hamefurax
 16445|3|x-jat|hamefurax ova
-19970|1|x-jat|Hamehara: Sore Sekuhara Desu!
+19970|1|x-jat|Hamehara
 775|3|x-jat|hameln
 805|3|x-jat|hameln movie
 805|1|x-jat|Hameln no Violin Hiki
@@ -37788,6 +37794,7 @@
 5630|4|fr|Nabari
 5630|1|x-jat|Nabari no Ou
 5630|4|en|Nabari no Ou
+20127|1|x-jat|Nabe ni Tama o Ukenagara
 16057|4|es-419|Nada es lo que Parece: Reencarné en el Mundo del Rey Demonio Evelogia
 8181|2|pl|Nadal nie znamy nazwy kwiatu, który widzieliśmy tamtego dnia.
 19330|4|es|Nadeshiko. Programada para amar
@@ -39614,8 +39621,10 @@
 114|3|en|NTHT
 12546|2|ja|NTR
 16065|2|x-jat|NTR Kanojo
+20125|1|x-jat|NTR Kishi
 9280|2|ko|NTR 아내
 12546|2|en|NTR: Netsuzou Trap
+20125|4|ja|NTR騎士
 239|3|x-jat|NTV
 4880|3|en|ntv2
 16583|3|en|NTZZ
@@ -41250,7 +41259,6 @@
 19628|1|x-jat|Otaku ni Yasashii Gal wa Inai!?
 16968|2|x-jat|Otaku ni Yasashii Gyaru toka, Kyonyuu no Osananajimi ka
 20034|1|x-jat|Otaku no Boku ga Ichigun Gal to Tsukiaeru made no Hanashi
-20034|2|x-jat|Otaku no Boku ga Ichigun Gal to Tsukiaerumade no Hanashi
 3533|1|x-jat|Otaku no Seiza
 130|1|x-jat|Otaku no Video
 130|4|fr|Otaku no Video
@@ -52009,6 +52017,7 @@
 2865|3|x-jat|Suchi Pai
 4995|2|es|Sucia Lavanderia
 10508|2|en|Sucker Announcer: The Magic Semen
+20126|1|x-jat|Sudachi no Maou-jou
 336|4|et|Südame sosin
 2642|2|en|Suddenly Princess
 6807|1|x-jat|Sue Cat
@@ -54504,6 +54513,7 @@
 730|4|en|The Five Star Stories
 18836|4|en|The Flame Imperial Guards
 16759|2|en|The Flavor
+20126|2|en|The Fledgling Demon Lord`s Starter Shop
 4287|2|en|The Fleet of the Rising Sun
 6871|2|en|The Flower and the Butterfly
 1919|2|en|The Flower Angel
@@ -62575,6 +62585,7 @@
 11653|1|x-zht|Zhan Long Si Qu
 17541|1|x-zht|Zhan Qiannian
 18801|1|x-zht|Zhan Shen: Fanchen Shenyu
+20124|1|x-zht|Zhan Shen: Fanchen Shenyu II
 15563|1|x-zht|Zhan Shou Zhi Ren
 16754|1|x-zht|Zhan Shuang Panini
 16777|1|x-zht|Zhan Yi Yingxiong
@@ -72072,6 +72083,7 @@
 17747|2|ko|반에서 남자는 나 혼자!?
 13952|4|ko|반역성 밀리언아서
 13752|4|ko|반짝 프리채널
+20129|4|ko|반짝반짝 캐치! 티니핑
 14126|4|ko|반짝반짝 해피★ 열려라! 코코타마
 3573|2|ko|반쪽 달이 떠오르는 하늘
 191|4|ko|반항하지마
@@ -77023,6 +77035,7 @@
 7625|4|ja|こえでおしごと! The ANIMATION
 6932|4|ja|こがねの花
 12457|2|ja|コカラス
+20128|4|ja|ごきげんよう, 一局いかが?
 9434|4|ja|ごきチャ!! Cockroach Girls
 10878|4|ja|こぎつねのおくりもの
 15799|4|ja|こぎつねの交通安全
@@ -77899,6 +77912,7 @@
 1610|4|ja|スタイアー ~放課後のアルバム~
 17173|4|ja|スタこれ
 7240|3|ja|スタスカ
+20126|4|ja|すだちの魔王城
 7591|3|ja|スタドラ
 18781|4|ja|ずたぼろ令嬢は姉の元婚約者に溺愛される
 11144|2|ja|スタミュ
@@ -80094,7 +80108,7 @@
 1649|4|ja|ハム太郎のおたんじょうび ~ママをたずねて三千てちてち~
 17846|4|ja|はめつのおうこく
 19081|4|ja|ハメツの誘惑
-19970|4|ja|ハメハラ ~それセクハラですっ~
+19970|4|ja|ハメハラ
 14449|3|ja|はめふら
 15604|3|ja|はめふら 2
 4917|4|ja|ハヤテのごとく!
@@ -90322,6 +90336,7 @@
 15563|4|zh|斩兽之刃
 9875|4|zh-Hans|斩服少女
 18801|4|zh-Hans|斩神之凡尘神域
+20124|4|zh-Hans|斩神之凡尘神域 2
 12116|4|zh-Hans|斩首循环 蓝色学者与戏言跟班
 12116|2|zh-Hans|斩首循环: 蓝色学者与戏言跟班
 18320|4|ja|断れない母
@@ -97445,6 +97460,7 @@
 18478|4|ja|錠剤
 17483|4|ja|錬精術士コレットのHな搾精物語
 4144|4|ja|錬金3級 まじかる? ぽか~ん
+20127|4|ja|鍋に弾丸を受けながら
 3985|4|ja|鍵姫物語 永久アリス輪舞曲[ロンド]
 16264|4|zh-Hant|鍵等
 17089|2|zh-Hant|鍵等 第二季
