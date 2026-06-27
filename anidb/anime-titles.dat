@@ -1,4 +1,4 @@
-# created: Fri Jun 26 03:00:02 2026
+# created: Sat Jun 27 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2500,6 +2500,7 @@
 2300|4|en|Alps Stories: My Annette
 18223|1|x-jat|Alps to Kiken na Mori
 9|3|en|ALSFS
+20130|1|x-kot|Alssongdalssong Catch! Tiniping
 12651|4|en|Altair: A Record of Battles
 12651|2|it|Altair: Racconti di Battaglia
 14481|1|x-jat|Altered Carbon: Resleeved
@@ -16757,7 +16758,8 @@
 3040|2|en|Fist of the North Star - The Legend of Yuria
 386|4|de|Fist of the North Star (1984)
 211|4|en|Fist of the North Star (1986)
-18190|2|en|Fist of the North Star (2026)
+18190|4|en|Fist of the North Star (2026)
+20134|2|en|Fist of the North Star (2027)
 3038|4|de|Fist of the North Star 1: Legend of Raoh - Death for Love
 984|4|de|Fist of the North Star 2
 3040|4|de|Fist of the North Star 2: Legend of Yuria
@@ -23141,6 +23143,7 @@
 3041|4|fr|Hokuto no Ken - La légende de Toki
 211|1|x-jat|Hokuto no Ken (1986)
 18190|1|x-jat|Hokuto no Ken (2026)
+20134|1|x-jat|Hokuto no Ken (2027)
 3038|4|fr|Hokuto no Ken 1 - L`ère de Raoh
 984|2|x-jat|Hokuto no Ken 2
 5104|4|fr|Hokuto no Ken 2 - L`héritier du Hokuto
@@ -27292,6 +27295,7 @@
 17629|1|x-jat|Kanojo, Okarishimasu (2023)
 18753|1|x-jat|Kanojo, Okarishimasu (2025)
 19587|1|x-jat|Kanojo, Okarishimasu (2026)
+20136|1|x-jat|Kanojo, Okarishimasu 6
 19587|2|x-jat|Kanojo, Okarishimasu S5
 17629|2|x-jat|Kanojo, Okarishimasu Season 3
 18753|2|x-jat|Kanojo, Okarishimasu Season 4
@@ -43938,6 +43942,7 @@
 4240|2|en|Princess Be Careful
 4240|2|en|Princess Beware
 19240|1|x-jat|Princess Burst!
+20137|1|x-kot|Princess Catch! Tiniping
 539|4|en|Princess Comet
 14690|4|en|Princess Connect! Re: Dive
 14690|1|x-jat|Princess Connect! Re:Dive
@@ -45391,6 +45396,7 @@
 15932|4|cs|Record of Ragnarök
 16540|4|en|Record of Ragnarok II
 19212|4|en|Record of Ragnarok III
+20135|4|en|Record of Ragnarok IV
 482|2|en|Record of School War Muryou
 12438|1|x-jat|Recorder
 12438|4|ja|RECORDER
@@ -45619,6 +45625,7 @@
 17629|4|en|Rent-a-Girlfriend (2023)
 18753|4|en|Rent-a-Girlfriend (2025)
 19587|4|en|Rent-a-Girlfriend (2026)
+20136|2|en|Rent-a-Girlfriend 6
 15743|2|en|Rent-A-Girlfriend Season 2
 17629|2|en|Rent-A-Girlfriend Season 3
 18753|2|en|Rent-A-Girlfriend Season 4
@@ -46720,6 +46727,7 @@
 13626|2|en|Saekano: How to Raise a Boring Girlfriend Fine
 11221|4|en|Saekano: How to Raise a Boring Girlfriend Flat
 11221|3|x-jat|saekanoflat
+20132|1|x-kot|Saekomdalkom Catch! Tiniping
 10538|1|x-jat|Saenai Heroine no Sodatekata
 10538|4|fr|Saenai Heroine no Sodatekata
 13626|1|x-jat|Saenai Heroine no Sodatekata Fine
@@ -47236,6 +47244,7 @@
 7204|1|x-jat|Salad Juu Yuushi Tomatoman
 4134|1|x-jat|Salamander
 4134|4|fr|Salamander
+20138|1|x-kot|Salangui Hachyuping
 13195|1|x-kot|Salaoreum: Cheonnyeonui Donghaeng
 266|4|fi|Salapoliisi Conan
 16841|4|fi|Salapoliisi Conan: Hämärä tyyppi Hanzawa
@@ -49664,6 +49673,7 @@
 16980|1|x-jat|Shoot! Goal to the Future
 1870|4|en|Shootfighter Tekken
 12672|1|x-jat|Shooting Hero
+20133|1|x-kot|Shooting Star Catch! Tiniping
 1491|2|en|Shooting Star Gakusaver
 8868|2|en|Shooting Star Lens
 18972|2|en|Shopping Panda!
@@ -49899,6 +49909,7 @@
 15932|1|x-jat|Shuumatsu no Walkure
 16540|1|x-jat|Shuumatsu no Walkure II
 19212|1|x-jat|Shuumatsu no Walkure III
+20135|1|x-jat|Shuumatsu no Walkure IV
 19176|1|x-jat|Shuumatsu Touring
 17667|1|x-jat|Shuumatsu Train Doko e Iku?
 746|1|x-jat|Shuusaku
@@ -50242,6 +50253,10 @@
 1973|4|en|Slaves to Passion
 5818|3|en|Slay Rev
 18801|4|en|Slay The Gods
+20124|4|en|Slay The Gods 2
+20124|2|en|Slay The Gods 2nd Season
+20124|2|en|Slay the Gods Ⅱ
+20124|2|en|Slay The Gods Season 2
 39|1|x-jat|Slayers
 39|4|ro|Slayers
 39|4|fr|Slayers
@@ -50469,6 +50484,8 @@
 9126|2|en|Snow-in-Summer Rendezvous
 19477|1|x-jat|Snowball Earth
 19477|4|en|Snowball Earth
+20131|1|x-jat|Snowball Earth 2
+20131|2|en|Snowball Earth 2
 14880|2|en|Snowing Indicates Harvest
 6816|3|x-jat|SnQ
 7971|3|x-jat|snq ova
@@ -62584,7 +62601,10 @@
 3969|3|en|ZGII -Lovers-
 11653|1|x-zht|Zhan Long Si Qu
 17541|1|x-zht|Zhan Qiannian
+20124|2|x-zht|Zhan Shen 2
 18801|1|x-zht|Zhan Shen: Fanchen Shenyu
+20124|2|x-zht|Zhan Shen: Fanchen Shenyu 2nd Season
+20124|2|x-zht|Zhan Shen: Fanchen Shenyu Di Er Ji
 20124|1|x-zht|Zhan Shen: Fanchen Shenyu II
 15563|1|x-zht|Zhan Shou Zhi Ren
 16754|1|x-zht|Zhan Shuang Panini
@@ -72291,6 +72311,7 @@
 734|2|ko|사랑의 물결
 18447|2|ko|사랑의 우유 주문 ~리필~
 891|4|ko|사랑의 천사 웨딩피치
+20138|4|ko|사랑의 하츄핑
 5638|2|ko|사랑의 형태
 14014|2|ko|사랑하는 엄마
 1648|2|ko|사랑해 Baby★★
@@ -72364,6 +72385,7 @@
 14066|2|ko|새댁 코요미
 1627|2|ko|새들의 날개짓
 1974|2|ko|새들의 날개짓2
+20132|4|ko|새콤달콤 캐치! 티니핑
 15592|2|ko|색욕INFINITE
 15263|2|ko|색정교단
 12386|2|ko|생활지도
@@ -72528,6 +72550,7 @@
 7729|2|ko|슈타인즈 게이트
 10887|4|ko|슈타인즈 게이트: 총명예지의 코그니티브 컴퓨팅
 11167|4|ko|슈타인즈;게이트 0
+20133|4|ko|슈팅스타 캐치! 티니핑
 531|4|ko|슈퍼 그랑조
 14086|4|ko|슈퍼 드래곤볼 히어로즈
 13184|4|ko|슈퍼 삼총사
@@ -72832,6 +72855,7 @@
 10445|4|ko|알드노아 제로
 10846|2|ko|알드노아 제로 S2
 11083|2|ko|알라르간도
+20130|4|ko|알쏭달쏭 캐치! 티니핑
 1868|4|ko|암굴왕
 9358|4|ko|암네시아
 9985|4|ko|암살교실
@@ -74188,6 +74212,7 @@
 664|2|ko|프린세스 로드 ~장미와 해골의 문장~
 19240|2|ko|프린세스 버스트!
 17177|4|ko|프린세스 아야
+20137|4|ko|프린세스 캐치! 티니핑
 13031|4|ko|프린세스 프린서플
 1665|2|ko|프린세스 홀리데이
 254|2|ko|플라스틱 리틀
@@ -77062,6 +77087,7 @@
 290|4|ja|ココロ図書館
 19635|3|ja|ここ俺
 7026|4|ja|こざるのぶらんこ
+7719|2|ja|ゴシック
 12315|2|ja|ゴジラ
 15770|4|ja|ゴジラ S.P
 15770|2|ja|ゴジラ シンギュラポイント
@@ -78009,6 +78035,7 @@
 18060|4|ja|スナックバス江
 11180|2|ja|スナックワールド
 19477|4|ja|スノウボールアース
+20131|4|ja|スノウボールアース 2
 13589|4|ja|すのはら荘の管理人さん
 7321|3|ja|スパIV
 17869|2|ja|スパイシーキャンディ
@@ -85401,6 +85428,7 @@
 386|4|ja|北斗の拳
 18190|4|ja|北斗の拳  (2026)
 211|4|ja|北斗の拳 (1986)
+20134|4|ja|北斗の拳 (2027)
 9159|4|ja|北斗の拳 LEGEND of HEROES
 5802|4|ja|北斗の拳 ラオウ外伝 天の覇王
 19188|4|ja|北斗の拳 拳王軍ザコたちの挽歌
@@ -88864,6 +88892,7 @@
 17629|4|ja|彼女, お借りします (2023)
 18753|4|ja|彼女, お借りします (2025)
 19587|4|ja|彼女, お借りします (2026)
+20136|4|ja|彼女, お借りします 6
 7136|4|ja|彼女×彼女×彼女~三姉妹とのドキドキ共同生活~
 19456|4|ja|彼女がセパレートをまとう理由
 11162|4|ja|彼女がネコミミに着替えたら
@@ -90335,8 +90364,12 @@
 10407|4|zh-Hans|斩! 赤红之瞳
 15563|4|zh|斩兽之刃
 9875|4|zh-Hans|斩服少女
+20124|2|zh-Hans|斩神2
 18801|4|zh-Hans|斩神之凡尘神域
-20124|4|zh-Hans|斩神之凡尘神域 2
+20124|4|zh-Hans|斩神之凡尘神域 第2季
+20124|2|zh-Hans|斩神之凡尘神域 第二季
+20124|2|zh-Hans|斩神之凡尘神域2
+20124|2|zh-Hans|斩神之凡尘神域Ⅱ
 12116|4|zh-Hans|斩首循环 蓝色学者与戏言跟班
 12116|2|zh-Hans|斩首循环: 蓝色学者与戏言跟班
 18320|4|ja|断れない母
@@ -94881,6 +94914,7 @@
 15932|4|ja|終末のワルキューレ
 16540|4|ja|終末のワルキューレII
 19212|4|ja|終末のワルキューレIII
+20135|4|ja|終末のワルキューレIV
 18507|4|ja|終末ホスピタル
 15932|4|zh-Hant|終末的女武神
 19212|4|zh-Hans|終末的女武神 第三季
@@ -97630,6 +97664,7 @@
 16355|4|zh-Hans|镖人
 20099|2|zh-Hans|镖人 第二季
 20099|4|zh-Hans|镖人 贰
+20099|2|zh-Hans|镖人2
 17107|4|zh-Hans|镜·双城
 15695|4|zh-Hans|镜·双城 风起篇
 17219|4|zh-Hans|镜之孤城
