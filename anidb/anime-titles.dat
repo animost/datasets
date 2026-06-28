@@ -1,4 +1,4 @@
-# created: Sat Jun 27 03:00:01 2026
+# created: Sun Jun 28 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2691,6 +2691,7 @@
 11054|1|x-jat|Anata o Zutto Aishiteru
 12635|1|x-jat|Anata wa Watashi no Mono: Do S Kanojo to Do M Kareshi
 11054|2|x-jat|Anata wo Zutto Aishiteru
+19894|2|en|Anatolia Story
 131|3|x-jat|anc
 14430|4|it|Anche se il mondo finisse domani - The relative worlds
 12089|2|en|Ancien and the Magic Tablet
@@ -22076,7 +22077,7 @@
 4638|4|en|Hell Girl: Two Mirrors
 6554|2|en|Hell Knight Ingrid
 19029|4|en|Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing
-19978|2|en|Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing (2026)
+19978|4|en|Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing (2026)
 19029|1|x-jat|Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru
 19978|1|x-jat|Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru (2026)
 17231|1|x-jat|Hell People!
@@ -28248,7 +28249,9 @@
 4237|4|pt|Kilari
 4237|4|pl|Kilari
 19546|1|x-jat|Kill Ao
+20139|1|x-jat|Kill Ao 2
 19546|4|en|Kill Blue
+20139|2|en|Kill Blue 2
 9875|2|ja|KILL la KILL
 9875|4|fr|Kill la Kill
 9875|4|en|Kill la Kill
@@ -29020,6 +29023,8 @@
 15113|3|x-jat|KnY movie
 14107|3|x-jat|KnY s1
 16054|3|x-jat|KnY s3
+17198|3|x-jat|KnY s4
+18067|3|x-jat|KnY s5
 1224|2|en|KO Beast
 1224|2|en|KO Century Beast
 4301|1|x-jat|Ko Ko Ro
@@ -54055,6 +54060,7 @@
 15821|2|en|The Ancient Welkin 4
 17108|4|en|The Angel Next Door Spoils Me Rotten
 18235|4|en|The Angel Next Door Spoils Me Rotten 2
+18235|2|en|The Angel Next Door Spoils Me Rotten Season 2
 7447|2|en|The Animal Conference on the Environment
 6727|2|en|The Animal Village in Trouble
 3671|2|en|The Animated Secret Garden
@@ -54546,7 +54552,7 @@
 2234|2|en|The Forest That Lives
 10922|2|en|The Forgotten Phantom Fox
 1271|2|en|The Formators
-19954|4|en|The Forsaken Saintess and Her Foodie Road Trip in Another World
+19954|4|en|The Forsaken Saintess and Her Foodie Roadtrip in Another World
 14162|2|en|The Founder of Demonic Path
 14162|2|en|The Founder of Diabolism
 14428|2|en|The Founder of Diabolism (2019)
@@ -76571,6 +76577,7 @@
 7054|4|ja|キリンのものしり館
 7054|2|ja|キリンものしり館
 19546|4|ja|キルアオ
+20139|4|ja|キルアオ 2
 1085|4|ja|ギルガメッシュ
 1855|4|ja|ギルスティン
 1855|2|ja|ギルステイン
