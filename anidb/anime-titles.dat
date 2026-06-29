@@ -1,4 +1,4 @@
-# created: Sun Jun 28 03:00:02 2026
+# created: Mon Jun 29 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1458,6 +1458,7 @@
 14504|4|en|Ace of the Diamond: Act II
 14504|4|fr|Ace of the Diamond: Act II
 18638|4|en|Ace of the Diamond: Act II Second Season
+20143|4|en|Ace of the Diamond: Act II Second Season (2026)
 1072|2|x-jat|Ace wo Nerae
 1072|2|x-jat|Ace wo Nerae!
 1074|2|x-jat|Ace wo Nerae! (1979)
@@ -10617,8 +10618,8 @@
 18927|1|x-zht|Dadao Chaotian
 19997|1|x-zht|Dadao Duxing: Die Long Bian
 6986|4|en|Daddy Long Legs
-19451|4|de|Daemons of the Shadow Realm
 19451|4|en|Daemons of the Shadow Realm
+19451|2|de|Daemons of the Shadow Realm
 1153|2|en|Daft Punk & Leiji Matsumoto`s INTERSTELLA 5555: The 5tory of the 5ecret 5tar 5ystem
 1153|4|hu|Daft Punk: Interstella 5555
 1710|3|x-jat|Dagarn
@@ -11029,6 +11030,7 @@
 14476|1|x-jat|Darwin`s Game
 14476|4|en|Darwin`s Game
 18646|2|en|Darwin`s Incident
+19451|4|de|Das Band der Unterwelt
 1266|4|de|Das Bildnis der Petit Cossette
 3325|2|de|Das doppelte Lottchen
 1428|4|de|Das Dschungelbuch - Die Serie
@@ -12225,6 +12227,7 @@
 14504|2|en|Dia no Ace (2019)
 14504|1|x-jat|Dia no Ace: Act II
 18638|1|x-jat|Dia no Ace: Act II Second Season
+20143|1|x-jat|Dia no Ace: Act II Second Season (2026)
 11115|1|x-jat|Dia no Ace: Second Season
 9717|1|x-jat|Diabolik Lovers
 9717|4|ja|DIABOLIK LOVERS
@@ -19476,6 +19479,7 @@
 15102|4|en|Given the Movie
 15102|4|zh-Hant|GIVEN 被贈與的未來 劇場版
 19703|1|x-jat|Given: 10th Mix
+19703|2|en|Given: Glimpses of Life
 19703|4|en|Given: Moments in Life
 16357|4|en|Given: On the Other Hand
 16357|1|x-jat|Given: Uragawa no Sonzai
@@ -19919,6 +19923,7 @@
 16860|1|x-zht|Gon Di Hanta Di Er Ji
 16861|1|x-zht|Gon Di Hanta Di San Ji
 16862|1|x-zht|Gon Di Hanta: Ta Turan Xiangdao
+11153|2|en|Gon Returns
 11153|4|ja|GON-ゴン- (2015)
 4683|4|de|Gon, der Höhlenfratz
 7964|2|en|Gon, the Little Fox
@@ -27308,6 +27313,7 @@
 15743|3|x-jat|KanoKari 2
 17629|3|x-jat|KanoKari 3
 19587|3|x-jat|KanoKari 5
+20136|3|x-jat|KanoKari 6
 15743|3|x-jat|kanokari s2
 17629|3|x-jat|kanokari s3
 18753|3|x-jat|KanoKari s4
@@ -31991,6 +31997,9 @@
 5029|2|zh-Hans|Loli的时间
 4189|4|hu|Lolo kalandjai
 19357|3|en|LOM
+20140|1|x-jat|LONA
+20140|4|ja|LONA
+20140|6|ja|LONA LABORATORY OF OPTICS AND NEURAL ANALYSIS
 17219|4|en|Lonely Castle in the Mirror
 16717|4|en|Lonely Hero
 16717|2|en|Lonely Hero (2020)
@@ -36027,6 +36036,7 @@
 5870|1|x-jat|Mission-E
 5870|4|ja|MISSION-E
 17773|4|en|Mission: Yozakura Family
+20142|4|en|Mission: Yozakura Family (2026 2 Cour)
 18900|4|en|Mission: Yozakura Family (2026)
 18900|2|en|Mission: Yozakura Family Season 2
 2291|4|de|Missis Jo und ihre fröhliche Familie
@@ -37011,6 +37021,7 @@
 13527|3|x-jat|mp100r
 8421|3|x-jat|mpd
 16180|3|x-jat|mpd movie
+17780|3|x-jat|mpm
 741|3|en|MPS
 15002|4|en|Mr Love: Queen`s Choice
 3482|4|it|Mr. Baseball
@@ -57498,6 +57509,7 @@
 18482|1|x-jat|Tsue to Tsurugi no Wistoria
 18889|2|x-jat|Tsue to Tsurugi no Wistoria S2
 18889|1|x-jat|Tsue to Tsurugi no Wistoria Season 2
+20141|1|x-jat|Tsue to Tsurugi no Wistoria Season 3
 9401|1|x-jat|Tsugou no Yoi Sexfriend?
 14728|1|x-jat|Tsugu Tsugumomo
 14728|4|en|Tsugu Tsugumomo
@@ -60084,6 +60096,7 @@
 18482|3|x-jat|wistoria
 18482|4|en|Wistoria: Wand and Sword
 18889|4|en|Wistoria: Wand and Sword Season 2
+20141|2|en|Wistoria: Wand and Sword Season 3
 18889|4|de|Wistoria: Wand and Sword Staffel 2
 18889|3|x-jat|wistoria2
 4121|2|pl|Witaj w NHK!
@@ -61331,6 +61344,7 @@
 16719|1|x-zht|Yi Ren Zhixia 4
 17095|1|x-zht|Yi Ren Zhixia 5 Juezhan! Bi You Cun
 19808|1|x-zht|Yi Ren Zhixia 6
+20144|1|x-zht|Yi Ren Zhixia 7
 19840|1|x-zht|Yi Ren Zhixia: Xiu Tie Chong Xian
 18469|2|x-zht|Yi Shi Zhi Zun
 15645|1|x-zht|Yi Shijie Zhongyao Pu
@@ -61868,6 +61882,7 @@
 9817|4|en|Yozakura Quartet: Tears of the Moon
 9817|1|x-jat|Yozakura Quartet: Tsuki ni Naku
 17773|1|x-jat|Yozakura-san Chi no Daisakusen
+20142|1|x-jat|Yozakura-san Chi no Daisakusen (2026 2 Cour)
 18900|1|x-jat|Yozakura-san Chi no Daisakusen (2026)
 18900|2|x-jat|Yozakura-san Chi no Daisakusen Season 2
 4901|3|x-jat|YPC5
@@ -78455,6 +78470,7 @@
 8859|4|ja|タイムレンジャー セザールボーイの冒険 ローマ帝国編
 10739|4|ja|ダイヤのA (2014)
 14504|4|ja|ダイヤのA actII
+20143|4|ja|ダイヤのA actII -Second Season- (2026)
 18638|4|ja|ダイヤのA actII Second Season
 9881|4|ja|ダイヤのA[エース]
 11115|4|ja|ダイヤのA[エース] -SECOND SEASON-
@@ -82903,6 +82919,7 @@
 15599|4|zh-Hans|一人之下3入世篇
 16719|4|zh-Hans|一人之下4
 17095|4|zh-Hans|一人之下5 决战！碧游村
+20144|4|zh-Hans|一人之下7
 1678|4|ja|一休さん
 9416|4|ja|一休さん ワイド版 大暴れやんちゃ姫
 7847|4|ja|一休さん 春だ! やんちゃ姫
@@ -86741,6 +86758,7 @@
 17938|4|zh-Hans|夜晚的水母不会游泳
 17938|4|zh-Hant|夜晚的水母不會游泳
 17773|4|ja|夜桜さんちの大作戦
+20142|4|ja|夜桜さんちの大作戦 (2026 2クール)
 18900|4|ja|夜桜さんちの大作戦 (2026)
 9816|4|ja|夜桜四重奏 ~ハナノウタ~
 7460|4|ja|夜桜四重奏 ~ホシノウミ~
@@ -91462,6 +91480,7 @@
 6705|4|ja|村祭
 18482|4|ja|杖と剣のウィストリア
 18889|4|ja|杖と剣のウィストリア Season2
+20141|4|ja|杖と剣のウィストリア Season3
 18482|2|zh-Hans|杖与剑的魔剑谭
 18889|4|zh-Hans|杖与剑的魔剑谭 第二季
 7471|4|ja|杜子春
