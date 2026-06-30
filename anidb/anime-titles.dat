@@ -1,4 +1,4 @@
-# created: Mon Jun 29 03:00:01 2026
+# created: Tue Jun 30 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -19869,7 +19869,6 @@
 18081|1|x-jat|Golden Kamuy Saishuushou
 18081|2|en|Golden Kamuy Season 5
 19986|1|x-jat|Golden Kamuy: Bousou Ressha Hen
-20001|1|x-jat|Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga
 19986|2|en|Golden Kamuy: Runaway Train Arc
 19475|1|x-jat|Golden Kamuy: Sapporo Beer Koujou Hen
 8231|1|x-jat|Golden Kids
@@ -37176,6 +37175,7 @@
 2290|4|es|Mujercitas
 2868|2|es|Mujercitas (1981)
 4445|1|x-jat|Mujigen Hunter Fandora
+20146|1|x-jat|Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara The Animation
 19485|3|x-jat|mujikaku seijo
 19485|1|x-jat|Mujikaku Seijo wa Kyou mo Muishiki ni Chikara o Tarenagasu
 19362|1|x-jat|Mujin Eki The Animation
@@ -56849,6 +56849,7 @@
 17293|1|x-zht|Tong Zhi Zhe
 16109|1|x-jat|Tongari Atama no Gonta: Futatsu no Namae o Ikita Fukushima Hisai Inu no Monogatari
 17305|1|x-jat|Tongari Boushi no Atelier
+20145|1|x-jat|Tongari Boushi no Atelier 2
 1933|1|x-jat|Tongari Boushi no Memole
 2040|1|x-jat|Tongari Boushi no Memole (1985)
 8151|1|x-jat|Tongari Boushi no Memole: Mariel no Housekibako
@@ -60108,6 +60109,7 @@
 17614|4|fr|Witch Family!
 17305|4|en|Witch Hat Atelier
 17305|4|de|Witch Hat Atelier
+20145|2|en|Witch Hat Atelier 2
 96|1|x-jat|Witch Hunter Robin
 96|4|fr|Witch Hunter Robin
 96|4|en|Witch Hunter Robin
@@ -77060,7 +77062,6 @@
 18081|4|ja|ゴールデンカムイ 最終章
 19986|4|ja|ゴールデンカムイ 暴走列車編
 19475|4|ja|ゴールデンカムイ 札幌ビール工場編
-20001|4|ja|ゴールデンカムイ 稲妻強盗と蝮のお銀 / シマエナガ
 14995|2|ja|ゴールデンカムイ 第三期
 14185|2|ja|ゴールデンカムイ 第二期
 17023|2|ja|ゴールデンカムイ 第四期
@@ -79457,6 +79458,7 @@
 3369|2|ja|ドン・チャック物語
 11466|4|ja|とんかつDJアゲ太郎
 17305|4|ja|とんがり帽子のアトリエ
+20145|4|ja|とんがり帽子のアトリエ 2
 1933|4|ja|とんがり帽子のメモル
 2040|4|ja|とんがり帽子のメモル (1985)
 8151|4|ja|とんがり帽子のメモル マリエルの宝石箱
@@ -93009,6 +93011,7 @@
 18104|2|zh-Hant|無職轉生～到了異世界就拿出真本事～ 第二季 第二季度
 15492|4|ja|無能なナナ
 15492|4|zh-Hant|無能力者娜娜
+20146|4|ja|無自覚な幼馴染と興味本位でヤってみたら THE ANIMATION
 19485|3|ja|無自覚聖女
 19485|4|ja|無自覚聖女は今日も無意識に力を垂れ流す
 13224|4|ja|無責任ギャラクシー☆タイラー
