@@ -1,4 +1,4 @@
-# created: Tue Jun 30 03:00:02 2026
+# created: Wed Jul  1 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4615,6 +4615,7 @@
 19761|1|x-zht|Bai Lian Cheng Shen 3
 18252|2|x-zht|Bai Lian Cheng Shen Di Er Ji
 19761|2|x-zht|Bai Lian Cheng Shen Di San Ji
+20151|1|x-zht|Bai Ri Cheng Wang
 19082|2|x-zht|Bai She 3: Fusheng
 16646|1|x-zht|Bai She II: Qing She Jie Qi
 19082|1|x-zht|Bai She: Fu Sheng
@@ -5048,6 +5049,7 @@
 14075|2|en|BanG Dream! S2
 14075|2|en|BanG Dream! Season 2
 19566|1|x-jat|Bang Dream! Yumemita
+19566|4|en|Bang Dream! Yumemita
 17981|4|ru|BanG Dream! Это MyGO!
 14077|4|ja|BanG Dream! ガルパ☆ピコ
 15307|4|ja|BanG Dream! ガルパ☆ピコ ~大盛り~
@@ -8675,9 +8677,11 @@
 17889|1|x-jat|Chibi Godzilla no Gyakushuu
 18631|1|x-jat|Chibi Godzilla no Gyakushuu (2024)
 19427|1|x-jat|Chibi Godzilla no Gyakushuu (2025)
+20149|1|x-jat|Chibi Godzilla no Gyakushuu (2026)
 18631|2|x-jat|Chibi Godzilla no Gyakushuu Season 2
 17889|4|en|Chibi Godzilla Raids Again
 19427|4|en|Chibi Godzilla Raids Again (2025)
+20149|4|en|Chibi Godzilla Raids Again (2026)
 7420|1|x-jat|Chibi Kero: Kero Ball no Himitsu!?
 1841|4|de|Chibi Maruko Chan
 16023|2|en|Chibi Maruko Chan: The Fantastic Notebook
@@ -8826,6 +8830,7 @@
 11187|1|x-jat|Chikotan: Boku no Oyome-san
 615|1|x-jat|Chikyuu Bouei Kazoku
 428|1|x-jat|Chikyuu Bouei Kigyou Dai-Guard
+20148|1|x-jat|Chikyuu Daisuki! Kikkun
 1416|2|x-jat|Chikyuu e...
 2532|1|x-jat|Chikyuu ga Ugoita Hi
 5039|2|ja|Chikyuu he...
@@ -10218,6 +10223,7 @@
 10226|3|x-jat|crowds2
 1233|2|x-jat|Crown Knights
 20073|4|en|Crowned from the Start
+20151|4|en|Crowned in a Hundred Days
 9345|1|x-jat|Crows
 4327|3|x-jat|CRS
 4327|3|x-jat|CRTS
@@ -14146,6 +14152,7 @@
 10554|1|x-jat|Dramatical Murder
 10554|4|en|DRAMAtical Murder
 10554|4|fr|DRAMAtical Murder
+19232|4|en|Draw This, Then Die!
 8143|2|en|Drawer Hobs
 12042|1|x-jat|Dre-Fes!
 12658|1|x-jat|Dre-Fes! R
@@ -20114,7 +20121,7 @@
 13734|1|x-jat|Grand Blue
 13734|4|en|Grand Blue Dreaming
 18892|4|en|Grand Blue Dreaming Season 2
-19600|2|en|Grand Blue Dreaming Season 3
+19600|4|en|Grand Blue Dreaming Season 3
 18892|2|x-jat|Grand Blue S2
 19600|2|x-jat|Grand Blue S3
 18892|1|x-jat|Grand Blue Season 2
@@ -21920,6 +21927,7 @@
 9168|1|x-jat|Heart Cocktail Again
 17822|1|x-jat|Heart Cocktail: Colorful
 15776|2|en|Heart Forecast
+19976|1|x-jat|Heart Mark Motto Oome.
 8337|1|x-jat|Heart no Kuni no Alice: Wonderful Wonder World
 14983|1|x-jat|Heart Realize
 13849|2|en|Heart-Throbbing Little Landlady
@@ -25248,7 +25256,7 @@
 7453|2|en|Iron Vendetta
 1828|4|en|Iron Virgin Jun
 1828|1|x-jat|Iron Virgin Jun
-19768|2|en|Iron Wok Jan!
+19768|4|en|Iron Wok Jan!
 3563|2|en|Ironfist Chinmi
 7723|2|ja|Ironman
 9643|2|en|Ironman 007
@@ -31511,6 +31519,7 @@
 7226|2|en|Let`s Do It
 5951|2|en|Let`s Fall in Love Like the Ero-manga
 19646|1|x-jat|Let`s Go Kaiki-gumi
+19646|4|en|Let`s Go Kaikigumi
 18929|4|en|Let`s Go Karaoke!
 995|2|en|Let`s Go Marine-chan
 7400|2|en|Let`s Go Play!
@@ -34473,6 +34482,8 @@
 1612|2|en|Marriage of God & Soul Godannar!! Second Season
 19625|1|x-jat|Marriage Toxin
 19625|4|en|Marriage Toxin
+20150|1|x-jat|Marriage Toxin (2027)
+20150|2|en|Marriage Toxin (2027)
 19625|4|de|MARRIAGETOXIN
 19625|2|x-jat|Marriagetoxin
 18033|4|en|Married Couple Swap
@@ -37178,6 +37189,7 @@
 20146|1|x-jat|Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara The Animation
 19485|3|x-jat|mujikaku seijo
 19485|1|x-jat|Mujikaku Seijo wa Kyou mo Muishiki ni Chikara o Tarenagasu
+19485|2|x-jat|Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu
 19362|1|x-jat|Mujin Eki The Animation
 1122|1|x-jat|Mujin Wakusei Survive
 298|1|x-jat|Mujintou Monogatari X
@@ -40555,7 +40567,7 @@
 4851|1|x-jat|One Piece: Episode of Arabasta - Sabaku no Oujo to Kaizoku-tachi
 5691|2|en|One Piece: Episode of Chopper Plus - Bloom in the Winter, Miracle Sakura
 5691|4|en|One Piece: Episode of Chopper Plus: Bloom in the Winter, Miracle Cherry Blossom
-19524|2|en|One Piece: Heroines
+19524|4|en|One Piece: Heroines
 4097|4|it|One Piece: I Misteri dell`Isola Meccanica
 411|2|en|One Piece: I`ll Be a Pirate King
 1253|4|it|One Piece: Il Tesoro del Re
@@ -41451,7 +41463,6 @@
 18587|1|x-jat|OVA Boku ni Harem Sexfriend ga Dekita Riyuu
 13769|2|en|OVA Complete Slut See their true colors Russian Step-Mother and Step-Sisters All you can have Sex
 20030|1|x-jat|OVA Furachi
-19976|1|x-jat|OVA Heart Mark Oome.
 18756|1|x-jat|OVA Incha Couple ga You Gal-tachi to Sex Training Suru Hanashi
 19704|1|x-jat|OVA Kegareboshi
 13769|1|x-jat|OVA Muttsuri Do Sukebe Ro Gibo Shimai no Honshitsu Minuite Sex Zanmai
@@ -41477,7 +41488,6 @@
 18049|2|ja|OVA ツンデロシリーズ
 11271|4|ja|OVA ツンプリ
 19313|4|ja|OVA トナリノカノジョ
-19976|4|ja|OVA はーとまーく多め.
 19971|4|ja|OVA パイハメ家族
 20030|4|ja|OVA フラチ
 13769|4|ja|OVA むっつりドスケベ露義母姉妹の本質見抜いてセックス三昧
@@ -45397,6 +45407,7 @@
 13082|2|en|Recommend! Godzilland
 19837|2|en|Recommendation from Mr. Iwamoto
 13345|2|en|Recommendation of the Wonderful Virtual Life
+19837|4|en|Recommendations from Iwamoto-Senpai
 12222|2|en|Reconciliation
 26|2|en|Record of 12 countries
 12496|4|es-419|Record of Grancrest War
@@ -45471,7 +45482,7 @@
 1386|2|en|Red Photon Zillion: Burning Night
 18809|2|en|Red Ranger Isekai
 854|4|en|Red Riding Hood Chacha
-19894|2|en|Red River
+19894|4|en|Red River
 15564|1|x-kot|Red Shoes
 15564|2|en|Red Shoes And The Seven Dwarfs
 11473|4|ja|RedAsh -GEARWORLD-
@@ -48084,7 +48095,9 @@
 16962|1|x-jat|Seirei Gensouki 2
 16962|2|x-jat|Seirei Gensouki S2
 15875|4|en|Seirei Gensouki: Spirit Chronicles
+15875|4|de|Seirei Gensouki: Spirit Chronicles
 16962|4|en|Seirei Gensouki: Spirit Chronicles 2
+16962|4|de|Seirei Gensouki: Spirit Chronicles 2
 16962|2|en|Seirei Gensouki: Spirit Chronicles Season 2
 4403|1|x-jat|Seirei no Moribito
 2792|1|x-jat|Seirei Tsukai
@@ -48409,6 +48422,7 @@
 2897|1|x-jat|Sensitive Pornograph
 2897|4|it|Sensitive Pornograph - Storie d’amore, fumetti e coniglietti
 8639|1|x-jat|Sensou ga Owatta Natsu ni 1945 Karafuto
+20147|1|x-jat|Sensou Kyoushitsu
 11936|1|x-jat|Sensou no Tsukurikata: What Happens Before War?
 843|2|en|Sensual Phrase
 3358|4|fr|Sensualist
@@ -50272,6 +50286,7 @@
 20124|4|en|Slay The Gods 2
 20124|2|en|Slay The Gods 2nd Season
 20124|2|en|Slay the Gods Ⅱ
+20124|2|en|Slay The Gods S2
 20124|2|en|Slay The Gods Season 2
 39|1|x-jat|Slayers
 39|4|ro|Slayers
@@ -54001,7 +54016,7 @@
 9341|4|es-419|The “HENTAI” prince and the stony cat.
 17906|4|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You
 18343|4|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You (2025)
-19663|2|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You (2026)
+19663|4|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You (2026)
 18343|2|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 2
 19452|2|en|The 100th Time`s the Charm: She Was Executed 99 Times, So How Did She Unlock "Super Love" Mode?!
 13597|2|en|The 25 Year Old High School Girl
@@ -54190,6 +54205,7 @@
 19811|2|en|The Brilliant Healer`s New Life in the Shadows 2
 13112|2|en|The Brothers of Hungboo and Nolboo
 11949|2|en|The Buffalo Boy and His Flute
+20147|2|en|The Bugle Call: Song of War
 16192|2|en|The Buried Tree Devil
 4009|2|en|The Burning Wild Man
 4010|2|en|The Burning Wild Man OVA
@@ -54573,7 +54589,7 @@
 18867|4|en|The Fragrant Flower Blooms with Dignity
 6919|2|en|The Frog`s Dream
 4408|1|x-jat|The Frogman Show
-19484|2|en|The Frontier Lord Begins with Zero Subjects
+19484|4|en|The Frontier Lord Begins with Zero Subjects
 17295|4|en|The Fruit of Evolution 2: Before I Knew It, My Life Had It Made
 16018|2|en|The Fruit of Evolution: Before I Knew It, I Had It Made
 16018|4|en|The Fruit of Evolution: Before I Knew It, My Life Had It Made
@@ -62625,6 +62641,7 @@
 11653|1|x-zht|Zhan Long Si Qu
 17541|1|x-zht|Zhan Qiannian
 20124|2|x-zht|Zhan Shen 2
+20124|2|x-zht|Zhan Shen S2
 18801|1|x-zht|Zhan Shen: Fanchen Shenyu
 20124|2|x-zht|Zhan Shen: Fanchen Shenyu 2nd Season
 20124|2|x-zht|Zhan Shen: Fanchen Shenyu Di Er Ji
@@ -78667,6 +78684,7 @@
 17889|4|ja|ちびゴジラの逆襲
 18631|4|ja|ちびゴジラの逆襲 (2024)
 19427|4|ja|ちびゴジラの逆襲 (2025)
+20149|4|ja|ちびゴジラの逆襲 (2026)
 17366|4|ja|ちびっこカウボーイ
 8641|4|ja|ちびっこカムのぼうけん
 5095|4|ja|ちびっこ怪獣ヤダモン
@@ -79809,6 +79827,8 @@
 9168|4|ja|ハートカクテルアゲイン
 7285|4|ja|ハートキャッチプリキュア!
 8337|4|ja|ハートの国のアリス ~Wonderful Wonder World~
+19976|6|ja|はーとまーく多[もっと]め.
+19976|4|ja|はーとまーく多め.
 14983|4|ja|ハートリアライズ
 3307|4|ja|ハードル
 12226|4|ja|バーナード嬢曰く.
@@ -81669,6 +81689,7 @@
 2025|4|ja|マリア様がみてる 春
 4101|5|ja|マリス@ドール
 19625|4|ja|マリッジトキシン
+20150|4|ja|マリッジトキシン (2027)
 9491|4|ja|マリッジブルー 「婚約者がいるのに, どうしてこんな男に......」
 1187|4|ja|マリといた夏
 8867|4|ja|まりもの花 ~最強武闘派小学生伝説~
@@ -86501,6 +86522,7 @@
 14091|4|ja|地球外少年少女
 14091|4|zh-Hans|地球外少年少女
 14091|4|zh-Hant|地球外少年少女
+20148|4|ja|地球大好き! きっくん
 327|4|zh-Hans|地球守护灵
 107|4|zh-Hans|地球少女Arjuna
 107|4|ja|地球少女アルジュナ
@@ -89889,6 +89911,7 @@
 12319|4|ja|戦国鳥獣戯画~甲~
 6244|4|ja|戦場のヴァルキュリア Valkyria Chronicles
 8158|4|ja|戦場のヴァルキュリア3 UNRECORDED CHRONICLES -誰がための銃瘡-
+20147|4|ja|戦奏教室
 8709|4|ja|戦姫絶唱シンフォギア
 8709|2|ja|戦姫絶唱シンフォギア Meteoroid-falling, burning, and disappear, then...
 11955|4|ja|戦姫絶唱シンフォギアAXZ
@@ -94020,6 +94043,7 @@
 13912|4|zh-Hans|百慕大三角～Colorful Pastrale～
 13912|4|zh-Hant|百慕達三角～多彩田園曲～
 6538|4|ja|百日の薔薇
+20151|4|zh-Hans|百日成王
 10611|4|ja|百日紅~Miss HOKUSAI~
 10611|4|zh-Hans|百日红
 11234|4|zh-Hans|百武装战记
