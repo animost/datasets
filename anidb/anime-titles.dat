@@ -1,4 +1,4 @@
-# created: Wed Jul  1 03:00:02 2026
+# created: Fri Jul  3 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -177,7 +177,7 @@
 19969|4|ja|[推しの子] Final Season
 16168|2|x-jat|{takt: op. Destiny}
 18424|4|ja|〈物語〉シリーズ オフ＆モンスターシーズン
-19436|4|ja|〈物語〉シリーズ オフ＆モンスターシーズン (新エピソード)
+19436|4|ja|〈物語〉シリーズ オフ＆モンスターシーズン 業物語 かれんオウガ
 10143|4|ja|「0」
 19003|2|ko|「1분만 만져도 괜찮아...」 쉐어하우스의 비밀 규칙
 19003|4|ja|「1分間だけ触れてもいいよ...」シェアハウスの秘密ルール.
@@ -2098,7 +2098,6 @@
 10407|4|pl|Akame ga Kill!
 18266|4|id|Akan Aku "Tangkis" Semua: Pengin Jadi Petualang, Malah Dikira Orang Terkuat di Dunia
 1892|3|x-jat|akane
-19513|2|x-jat|Akane Banashi
 6025|4|en|Akane Iro ni Somaru Saka
 2425|1|x-jat|Akane Maniax
 13956|1|x-jat|Akane Sasu Shoujo
@@ -2111,7 +2110,6 @@
 1892|4|es|Akane-chan
 12454|1|x-jat|Akane-chan no Wasuremono
 16913|2|en|Akane`s In A Pinch
-19513|2|x-jat|Akanebanashi
 6025|1|x-jat|Akaneiro ni Somaru Saka
 13956|3|x-jat|akanesasu
 13956|2|x-jat|Akanesasu Shoujo
@@ -2229,6 +2227,7 @@
 9357|4|de|Aku no Hana: Die Blumen des Bösen
 9357|4|id|Aku no Hana: Kembang Jahanam
 8678|1|x-jat|Aku no Onna Kanbu
+9483|2|x-jat|Aku no Onna Kanbu: Full Moon Night
 9483|1|x-jat|Aku no Onna Kanbu: Full Moon Night - Nikutan Ken`you
 15511|1|x-jat|Aku no Onna Kanbu: Full Moon Night Returns
 8678|2|x-jat|Aku no Onna Kanbu: Kono Watashi ni Oshioki da to!? Fuzakeru na!
@@ -5785,6 +5784,7 @@
 9518|4|fr|Beyond The Boundary
 9518|4|en|Beyond the Boundary
 10726|4|en|Beyond the Boundary: I`ll Be Here
+20155|1|x-jat|Beyond the Boundary: I`ll Be Here - Future
 15719|4|ja|Beyond the Boundary: Idol Trial! きょうかいのかなた アイドル裁判！～迷いながらも君を裁く民～
 9518|4|de|Beyond the Boundary: Kyoukai no Kanata
 469|3|en|Beyond The Clouds
@@ -5885,6 +5885,8 @@
 18330|3|en|Big Brother 2
 18691|3|en|Big Brother 3
 19375|3|en|Big Brother 4
+19375|2|en|Big Brother 4th Season
+20153|2|en|Big Brother Final Season
 14975|2|en|Big Brother, Hold Me Until Morning
 14975|2|en|Big Brother, Keep Hugging Me Tight Until Morning Comes!
 11081|2|en|Big Difference
@@ -7342,6 +7344,7 @@
 17025|4|en|Bubble
 17025|4|pl|Bubble
 18625|1|x-jat|Bubble de House de *** The Animation
+18625|2|x-jat|Bubble de House de Marumarumaru The Animation
 18625|2|x-jat|Bubble de House de OOO The Animation
 535|4|de|Bubblegum Crash
 535|4|fr|Bubblegum Crash
@@ -7481,6 +7484,7 @@
 15602|1|x-jat|Bungou Stray Dogs Wan!
 15602|4|en|Bungou Stray Dogs Wan!
 19698|1|x-jat|Bungou Stray Dogs Wan! 2
+19698|2|x-jat|Bungou Stray Dogs Wan! S2
 12837|1|x-jat|Bungou Stray Dogs: Dead Apple
 12442|1|x-jat|Bungou Stray Dogs: Hitori Ayumu
 15328|1|x-jat|Bungou to Alchemist: Shinpan no Haguruma
@@ -8461,7 +8465,7 @@
 19778|2|en|Chainsaw Man: Assassins Arc
 19778|1|x-jat|Chainsaw Man: Shikaku Hen
 19560|4|en|Chainsaw Man: The Compilation
-19873|2|en|Chainsmoker Cat
+19873|4|en|Chainsmoker Cat
 6810|2|en|Chalk-Colored People
 6810|1|x-jat|Chalk-iro no People
 6964|1|x-jat|Chamebou Kuukijuu no Maki
@@ -9628,6 +9632,7 @@
 13326|1|x-jat|Cogimyun
 7884|4|en|Coicent
 4345|2|en|Coil - A Circle of Children
+20041|2|en|Coiled Dragon
 20041|4|en|Coiling Dragon
 4090|3|x-jat|Coji Coji
 4090|3|x-jat|Coji-Coji
@@ -10948,7 +10953,7 @@
 1322|4|pl|Daphne
 1322|4|en|Daphne in the Brilliant Blue
 642|3|en|DAQ
-19764|4|en|Dara-san of Reiwa
+19764|4|en|Dara-san of the Reiwa Era
 883|1|x-jat|Daraku
 12990|1|x-jat|Daraku Reijou The Animation
 1211|1|x-jat|Daraku: Onna Kyoushi Hakai
@@ -16817,6 +16822,7 @@
 571|4|en|Flame of Recca
 9426|2|en|Flame of Recca: Final Burning
 3667|2|en|Flaming Alpen Rose: Jeudi & Lundi
+19462|4|en|Flaming Dodgeball Girl Danko
 4737|2|en|Flaming Impregnating Transfer Student
 1650|1|x-jat|Flanders no Inu
 1646|2|x-jat|Flanders no Inu (1997)
@@ -18963,8 +18969,8 @@
 845|1|x-jat|Ghiblies
 15890|4|ja|GHOST
 15890|1|x-jat|Ghost
-19377|1|x-jat|Ghost (2027)
-19377|4|ja|ghost (2027)
+19377|1|x-jat|Ghost / Yoru no Hate
+19377|4|ja|ghost / 夜の果て
 19540|2|en|Ghost Blows Out the Light: Return to the South Sea
 18502|4|en|Ghost Cat Anzu
 18502|4|de|Ghost Cat Anzu
@@ -21471,6 +21477,7 @@
 10351|4|en|Hanayamata
 18636|1|x-jat|Hanazakari no Kimitachi e
 19961|1|x-jat|Hanazakari no Kimitachi e (2026)
+19961|2|x-jat|Hanazakari no Kimitachi e S2
 3573|1|x-jat|Hanbun no Tsuki ga Noboru Sora
 565|1|x-jat|Hand Maid Mai
 60|1|x-jat|Hand Maid May
@@ -21647,7 +21654,6 @@
 13243|4|en|Harem of the Hell Spawn
 20032|1|x-jat|Harem Shima e Youkoso!
 9340|1|x-jat|Harem Time The Animation
-20028|1|x-jat|Harem-jima e Youkoso!
 5665|1|x-jat|Harenchi Koumon Manyuuki
 18192|1|x-jat|Hari Maware! Koinu
 18555|1|x-jat|Hari Maware! Koinu (2024)
@@ -22539,6 +22545,7 @@
 4240|3|x-jat|hgy
 612|3|x-jat|hh
 7732|3|x-jat|HHH
+7732|2|x-jat|HHH Triple Ecchi
 7732|2|ja|HHH トリプルエッチ
 7732|2|ja|HHHトリプルエッチ
 7732|2|ja|ＨＨＨトリプルエッチ
@@ -25008,6 +25015,7 @@
 1120|1|x-jat|Inma Youjo
 15326|1|x-jat|Inmou
 1369|1|x-jat|Inmu 2
+1369|2|x-jat|Inmu 2: Chijoku no Kaniku Matsuri
 1369|4|en|Inmu 2: Flesh Dreams
 7324|1|x-jat|Inmu Gakuen: "Dame... Konna ni Nacchau no wa Yume no Naka dake na no...!" - Inmu ni Torawareta Bijin Shimai
 1368|4|en|Inmu: Feast of Victims
@@ -30115,6 +30123,7 @@
 7631|1|x-jat|Kyojin no Hoshi: Ike Ike Hyuuma
 7632|1|x-jat|Kyojin no Hoshi: Shukumei no Taiketsu
 15447|1|x-jat|Kyojin-zoku no Hanayome
+20155|4|ja|Kyôkai no Kanata: mirai-hen
 9518|3|x-jat|Kyokan
 10726|3|x-jat|Kyokan movie
 7618|3|x-jat|KyoKoi
@@ -33916,6 +33925,7 @@
 15202|6|x-jat|Majo no Tabitabi: The Journey of Elaina
 286|1|x-jat|Majo no Takkyuubin
 20019|1|x-jat|Majo no Tani no Yoru
+20154|1|x-jat|Majo to Ryouken
 17575|1|x-jat|Majo to Yajuu
 20010|1|x-jat|Majo to Youhei
 17741|1|x-jat|Majo wa Kekkyoku Sono Kyaku to... The Animation
@@ -33997,6 +34007,7 @@
 9590|1|x-jat|Makai Ouji: Devils and Realist
 3444|1|x-jat|Makai Senki Disgaea
 2804|1|x-jat|Makai Tenshi Djibril
+5193|2|x-jat|Makai Tenshi Djibril 2
 6781|1|x-jat|Makai Tenshi Djibril 3
 5193|1|x-jat|Makai Tenshi Djibril Episode 2
 2804|2|x-jat|Makai Tenshi Jibril
@@ -34475,6 +34486,7 @@
 2161|3|x-jat|marple
 2689|1|x-jat|Marriage
 2689|4|ja|Marriage ~結婚~
+9491|2|x-jat|Marriage Blue
 9491|1|x-jat|Marriage Blue: "Kon`yakusha ga Iru no ni, Doushite Konna Otoko ni......"
 18033|2|en|Marriage Exchange Amazing Extramarital Sex Compared to My Husband
 1104|4|en|Marriage of God & Soul Godannar!!
@@ -36666,7 +36678,7 @@
 9183|4|en|Monogatari Series Second Season
 18424|1|x-jat|Monogatari Series: Off & Monster Season
 18424|4|en|Monogatari Series: Off & Monster Season
-19436|1|x-jat|Monogatari Series: Off & Monster Season (Shin Episode)
+19436|1|x-jat|Monogatari Series: Off & Monster Season - Wazamonogatari: Karen Ogre
 9183|1|x-jat|Monogatari Series: Second Season
 10046|2|x-unk|Monogatari Series: Second Season +α
 9183|2|en|Monogatari SS
@@ -37706,6 +37718,7 @@
 17856|2|en|My Senior Brother is Too Steady
 18691|2|en|My Senior Brother Is Too Steady 3rd Season
 19375|2|en|My Senior Brother Is Too Steady 4th Season
+20153|2|en|My Senior Brother Is Too Steady Final Season
 18330|2|en|My Senior Brother is Too Steady Season 2
 18691|2|en|My Senior Brother is Too Steady Season 3
 18691|2|en|My Senior Brother is Too Steady: Fan Year
@@ -38952,6 +38965,7 @@
 18410|1|x-jat|Niger Monogatari
 19699|3|x-jat|Nigetsuri
 17909|3|x-jat|Nigewaka
+18903|3|x-jat|Nigewaka 2
 15834|4|ja|NIGHT HEAD 2041
 15834|1|x-jat|Night Head 2041
 15834|4|en|Night Head 2041
@@ -40410,6 +40424,7 @@
 999|1|x-jat|On-chan, Yume Power Daibouken!
 9399|4|en|On-Gaku: Our Sound
 461|2|cs|Ona a její kočka
+8241|2|x-jat|Ona x2
 13379|1|x-jat|Onagawa Chuu Baske Bu: 5-nin no Natsu
 16500|1|x-jat|Onaho Kyoushitsu: Joshi Zen`in Ninshin Keikaku the Animation
 16500|2|en|Onahole Classroom
@@ -40938,6 +40953,7 @@
 10793|1|x-jat|Oppai Gakuen Marching Band Bu!
 8553|1|x-jat|Oppai Heart: Kanojo wa Kedamono Hatsujouki!?
 10231|2|x-jat|Oppai Infinity
+10231|2|x-jat|Oppai Infinity! The Animation
 6114|1|x-jat|Oppai Life
 7319|1|x-jat|Oppai no Ouja 48: Nanimo Kangaezu Me no Mae no Oppai Zenbu Shabure!
 6114|4|ja|OPPAI ライフ
@@ -46949,6 +46965,7 @@
 235|3|x-jat|SailorMoon
 235|2|nl|Sailormoon
 235|2|nl|Sailormoon: Het meisje met de macht van de maannevel
+13741|2|x-jat|Saimin ☆ Gakuen
 12512|1|x-jat|Saimin Class: Joshi Zen`in, Shiranai Uchi ni Ninshin Shitemashita
 5982|1|x-jat|Saimin Gakuen
 13741|1|x-jat|Saimin Gakuen (2018)
@@ -49637,8 +49654,9 @@
 18691|2|x-zht|Shixiong A Shixiong Di San Ji
 19375|2|x-zht|Shixiong A Shixiong Di Si Ji
 18691|2|en|Shixiong A Shixiong Nian Fan
-19375|2|x-zht|Shixiong A Shixiong Nian Fan 2
 18691|2|x-zht|Shixiong A Shixiong:  Tianting Fuxīng Pian
+19375|2|x-zht|Shixiong A Shixiong: Nian Fan 2
+20153|1|x-zht|Shixiong A Shixiong: Zuizhong Ji
 17187|1|x-jat|Shiyakusho
 12739|1|x-zht|Shiyan Pin Jiating
 19154|1|x-zht|Shiye Mowang
@@ -50562,6 +50580,9 @@
 1402|2|ko|SOAP의 모코쨩
 1402|4|ja|SOAPのMOKOちゃん
 2762|4|en|Soar High! Isami
+20152|2|en|Soara and Monster`s House
+20152|2|en|Soara and the House of Monsters
+20152|1|x-jat|Soara to Mamono no Ie
 17742|4|en|Soaring Sky! Pretty Cure
 14732|1|x-jat|Soba e
 6957|1|x-jat|Sobakasu Pucchi
@@ -60117,6 +60138,7 @@
 18889|4|de|Wistoria: Wand and Sword Staffel 2
 18889|3|x-jat|wistoria2
 4121|2|pl|Witaj w NHK!
+20154|2|en|Witch and Hound
 20010|2|en|Witch and Mercenary
 9496|1|x-jat|Witch Craft Works
 9496|4|en|Witch Craft Works
@@ -78264,6 +78286,7 @@
 14000|4|ja|ソードガイ The Animation PartII
 13902|4|ja|ソードガイ 装刀凱
 412|2|ja|ゾーン オブ エンダーズ ドロレス・アイ
+20152|4|ja|ソアラと魔物の家
 1382|4|ja|ゾイド
 3070|4|ja|ゾイド ジェネシス
 1775|4|ja|ゾイドフューザーズ
@@ -79849,7 +79872,6 @@
 17566|4|ja|ハーレムきゃんぷっ!
 9340|4|ja|ハーレムタイム THE ANIMATION
 20032|4|ja|ハーレム島へようこそ!
-20028|4|ja|ハーレム島へようこそ！
 661|4|ja|ハーロック・サーガ ニーベルングの指環 -ラインの黄金-
 15448|2|ja|バーン・ザ・ウィッチ
 18196|2|ja|バーンザウィッチゼロポイントエイト
@@ -81690,6 +81712,7 @@
 4101|5|ja|マリス@ドール
 19625|4|ja|マリッジトキシン
 20150|4|ja|マリッジトキシン (2027)
+9491|2|ja|マリッジブルー
 9491|4|ja|マリッジブルー 「婚約者がいるのに, どうしてこんな男に......」
 1187|4|ja|マリといた夏
 8867|4|ja|まりもの花 ~最強武闘派小学生伝説~
@@ -88591,10 +88614,12 @@
 7172|4|ja|市制刷新
 11361|4|ja|布団
 17856|4|zh-Hans|师兄啊师兄
+20153|4|zh-Hans|师兄啊师兄 最终季
 18691|2|zh-Hans|师兄啊师兄 天庭复兴篇
 18691|2|zh-Hans|师兄啊师兄 年番
 18691|2|zh-Hans|师兄啊师兄 年番1
 19375|2|zh-Hans|师兄啊师兄 年番2
+20153|2|zh-Hans|师兄啊师兄 年番3
 18691|4|zh-Hans|师兄啊师兄 第三季
 18330|4|zh-Hans|师兄啊师兄 第二季
 19375|4|zh-Hans|师兄啊师兄 第四季
@@ -98731,6 +98756,7 @@
 1906|4|ja|魔女っ子メグちゃん
 5078|4|ja|魔女でもステディ
 20010|4|ja|魔女と傭兵
+20154|4|ja|魔女と猟犬
 17575|4|ja|魔女と野獣
 286|4|ja|魔女の宅急便
 15202|4|ja|魔女の旅々
