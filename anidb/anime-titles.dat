@@ -1,4 +1,4 @@
-# created: Sun Jul  5 03:00:02 2026
+# created: Tue Jul  7 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -308,6 +308,7 @@
 17906|2|en|100 Girlfriends
 18343|2|en|100 Girlfriends 2
 18343|2|en|100 Girlfriends Season 2
+19663|2|en|100 Girlfriends Season 3
 1001|2|lt|100 Istorijų
 17906|2|x-jat|100 Kanojo
 18343|2|ja|100 Kanojo 2
@@ -4349,6 +4350,7 @@
 8792|1|x-jat|Azumanga Web Daiou
 2102|1|x-jat|Azumi Mamma Mia
 14396|3|x-jat|Azur Lane
+18188|2|x-jat|Azur Lane - Bisoku Zenshin! S2
 14396|4|en|Azur Lane the Animation
 14396|1|x-jat|Azur Lane the Animation
 15327|1|x-jat|Azur Lane: Bisoku Zenshin!
@@ -4494,6 +4496,7 @@
 1460|1|x-jat|Babel Nisei
 1461|1|x-jat|Babel Nisei (1992)
 655|1|x-jat|Babel Nisei (2001)
+20054|2|en|Babies of Bread
 1460|4|it|Babil Junior
 1461|4|it|Babil Junior: La Leggenda
 989|4|hu|Babilon aranykincse
@@ -7374,6 +7377,7 @@
 18040|1|x-jat|Bucchigiri?!
 18040|4|en|Bucchigiri?!
 19530|1|x-jat|Buchigire Reijou wa Houfuku o Chikaimashita. Madousho no Chikara de Sokoku o Tatakitsubushimasu
+19530|2|x-jat|Buchigire Reijou wa Houfuku wo Chikaimashita
 3549|1|x-jat|Bucket de Gohan
 12584|1|x-jat|Bucket no Ana
 2993|4|pt-BR|Bucky
@@ -11783,10 +11787,13 @@
 17746|2|en|Desire To Shoot Breast Milk
 14775|2|en|Desolate Era
 15051|4|en|Despair of the Monster
+20175|1|x-jat|Despera
 2962|4|en|Desperate Carnal Housewives
 791|2|en|Desperate Love 1989
 12906|4|es|Después de la lluvia
 12906|4|es-419|Después de la lluvia
+14236|4|es-419|Destellos del mañana
+14236|4|es|Destellos del mañana
 4547|2|es|Destinados al amor
 4547|4|en|Destined For Love
 2142|2|pt|Destino da Donzela do Santuário
@@ -14687,6 +14694,7 @@
 7892|1|x-jat|Egao no Hana
 18422|1|x-jat|Egao no Taenai Shokuba Desu.
 18422|3|x-jat|egatae
+19080|3|x-jat|egbv
 5310|4|hu|Égenjárók
 15076|4|ja|EGG CAR
 15076|1|x-jat|Egg Car
@@ -15139,7 +15147,8 @@
 7903|2|en|Electromagnetic Wave Woman and Adolescent Man
 6460|4|ro|Electromaster Mikoto Misaka
 13017|4|en|Elegant Yokai Apartment Life
-19188|2|en|Elegy for the Henchmen: Fist of the North Star
+19188|4|en|Elegy for the Henchmen: Fist of the North Star
+20178|4|en|Elegy for the Henchmen: Fist of the North Star (2026)
 6322|2|lt|Elektromagnetinė Mergaitė
 6335|2|en|Element Hunters
 2183|4|en|Elemental Gelade
@@ -15745,6 +15754,7 @@
 18712|4|en|Even Given the Worthless "Appraiser" Class, I`m Actually the Strongest
 4889|2|en|Even if you become the enemy of the world
 19594|2|en|Even Reincarnated, Hanaori`s Still Spoiling for a Fight
+19650|2|en|Even Though I`m a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé
 20024|4|en|Ever Night
 7056|2|en|Evergreen Literature
 8783|2|en|Everlasting Bond
@@ -17337,6 +17347,7 @@
 11022|1|x-jat|Fukubiki! Triangle: Futaba wa Atafuta - Koakuma Itazurakko no Kabedon Aika
 7375|1|x-jat|Fukubiki! Triangle: Miharu After
 7375|2|x-jat|Fukubiki! Triangle: Yoshiharu After
+20177|1|x-jat|Fukufuku no Chizu
 12088|1|x-jat|Fukumenkei Noise
 12088|3|x-jat|fukumenkeinoise
 12088|3|x-jat|fukuno
@@ -18651,6 +18662,7 @@
 12439|1|x-jat|Gekijouban Soushuuhen Overlord
 17785|1|x-jat|Gekijouban Spy x Family Code: White
 18564|1|x-jat|Gekijouban SutoPuri: Hajimari no Monogatari - Strawberry School Festival!!!
+17705|1|x-jat|Gekijouban Sword Art Online: Integral Domain
 11681|1|x-jat|Gekijouban Sword Art Online: Ordinal Scale
 15735|1|x-jat|Gekijouban Sword Art Online: Progressive - Hoshinaki Yoru no Aria
 16951|1|x-jat|Gekijouban Sword Art Online: Progressive - Kuraki Yuuyami no Scherzo
@@ -23181,6 +23193,7 @@
 6105|4|fr|Hokuto no Ken 3 - La Légende de Kenshiro
 5802|1|x-jat|Hokuto no Ken Raou Gaiden Ten no Haou
 19188|1|x-jat|Hokuto no Ken: Ken`ou-gun Zako-tachi no Banka
+20178|1|x-jat|Hokuto no Ken: Ken`ou-gun Zako-tachi no Banka (2026)
 9159|1|x-jat|Hokuto no Ken: Legend of Heroes
 4298|2|en|Holey Pants: Desire on a Stroll
 4032|3|x-jat|Holic TV
@@ -26077,6 +26090,7 @@
 18014|1|x-zht|Jiuzhou Piaomiao Lu
 16760|1|x-zht|Jiyi Guanli Ju
 19175|1|x-jat|Jiyi Guanli Ju (2025)
+20174|1|x-zht|Jiyi Guanli Ju (2026)
 14377|1|x-zht|Jiyi U Pan
 14377|2|x-unk|Jiyi U-Pan
 9304|3|en|JJBA 2012
@@ -27241,6 +27255,7 @@
 1525|1|x-jat|Kamui no Ken
 2866|4|es-419|Kamui, el Ninja Desertor
 2866|4|es|Kamui, el Ninja Desertor
+19889|4|en|Kamui: He`s behind you
 649|1|x-jat|Kamyla
 649|4|en|Kamyla
 649|4|ja|KAMYLA
@@ -32029,6 +32044,7 @@
 3571|2|en|Lolita Anime
 3313|1|x-jat|Lolita Anime (Nikkatsu Video)
 5029|2|zh-Hans|Loli的时间
+20176|1|en|Lollipop Chainsaw (Anime Project)
 4189|4|hu|Lolo kalandjai
 19357|3|en|LOM
 20140|1|x-jat|LONA
@@ -34171,6 +34187,7 @@
 1295|3|x-jat|mamo
 684|3|x-jat|mamo tv
 4474|3|x-jat|Mamololli
+20159|3|x-jat|mamomusu
 611|2|x-jat|Mamono Hunter Yohko
 611|1|x-jat|Mamono Hunter Youko
 20159|1|x-jat|Mamono Tsukai no Musume
@@ -39076,6 +39093,7 @@
 17632|4|en|Nijiyon Animation
 18347|1|x-jat|Nijiyon Animation 2
 18347|4|en|Nijiyon Animation 2
+14236|2|x-jat|Nijusseiki Denki Mokuroku: Eureka Evrika
 5671|1|x-jat|Nijuu-Mensou no Musume
 299|1|x-jat|Nijuuichiji no Onna: Newscaster Katsuragi Miki
 14236|1|x-jat|Nijuuseiki Denki Mokuroku: Eureka Evrika
@@ -40127,6 +40145,10 @@
 16776|4|pl|Odrodzony jako galareta: Szkarłatna więź
 18885|4|pl|Odrodzony jako galareta. Film: Łzy Morza Lazuroweg
 13871|4|pl|Odrodzony jako galaretaㅤ
+14767|4|pl|Odrodzony jako galaretaㅤ - Sezon 2 część 1
+15456|4|pl|Odrodzony jako galaretaㅤ - Sezon 2 część 2
+17709|4|pl|Odrodzony jako galaretaㅤ - Sezon 3
+18884|4|pl|Odrodzony jako galaretaㅤ - Sezon 4
 8857|2|pl|Odwrócona Patema
 1016|4|de|Odysseus 31
 1137|3|x-jat|oe
@@ -41254,6 +41276,8 @@
 18901|2|x-jat|Oshi no Ko S3
 18086|2|x-jat|Oshi no Ko Season 2
 17449|4|de|Oshi no Ko: Mein Star
+18086|4|de|Oshi no Ko: Mein Star - Season 2
+18901|4|de|Oshi no Ko: Mein Star - Season 3
 14087|3|x-jat|Oshibudou
 13836|1|x-jat|Oshie to Tabi Suru Otoko
 15385|1|x-jat|Oshiete Hokusai! The Animation
@@ -46909,6 +46933,7 @@
 7434|1|x-jat|Saikyou Bushou-den Sangoku Engi
 7434|2|x-jat|Saikyou Bushouden: Sangoku Engi
 18210|1|x-jat|Saikyou Degarashi Ouji no An`yaku Teii Arasoi: Munou o Enjiru SS Rank Ouji wa Koui Keishou-sen o Kage kara Shihai Suru
+18210|2|x-jat|Saikyou Degarashi Ouji no Anyaku Teii Arasoi
 10005|1|x-jat|Saikyou Ginga Ultimate Zero: Battle Spirits
 15651|1|x-jat|Saikyou Kamizmode!
 20089|1|x-jat|Saikyou Mahoushi no Inton Keikaku
@@ -48706,6 +48731,7 @@
 6283|3|en|sf4
 3658|3|x-jat|sfa2
 3658|3|x-jat|sfag
+20165|3|en|Sfather
 231|2|it|Sfere del drago
 4575|4|it|Sfondamento dei Cieli Gurren Lagann
 1593|3|x-jat|SFSS
@@ -51284,6 +51310,7 @@
 16356|2|en|Spare Me, Great Lord!
 18391|2|en|Spare Me, Great Lord! 2nd Season
 5683|2|en|Sparkling Red Star
+14236|4|de|Sparks of Tomorrow
 14236|2|en|Sparks of Tomorrow
 9714|1|x-jat|Sparrow`s Hotel
 9714|4|en|Sparrow`s Hotel
@@ -52662,7 +52689,6 @@
 8692|4|en|Sword Art Online
 8692|4|de|Sword Art Online
 13493|2|x-jat|Sword Art Online - Alicization
-17705|1|x-jat|Sword Art Online (Original Gekijouban)
 10376|2|en|Sword Art Online 2
 10376|4|fr|Sword Art Online 2: Phantom Bullet
 13493|4|en|Sword Art Online Alicization
@@ -52820,6 +52846,7 @@
 6509|3|x-jat|szs4
 7214|3|x-jat|szs5
 335|4|pl|Szum morza
+20165|3|ja|Sファザ
 19359|4|ja|Sランクパーティから解雇された【呪具師】~『呪いのアイテム』しか作れませんが, その性能はアーティファクト級なり......!~
 18541|4|ja|Sランクモンスターの《ベヒーモス》だけど, 猫と間違われてエルフ娘の騎士として暮らしてます
 20165|4|ja|Sランク冒険者である俺の娘たちは重度のファザコンでした
@@ -53737,6 +53764,7 @@
 14534|1|x-jat|Tenki no Ko
 29|3|x-jat|tenkin
 14534|3|x-jat|Tenko
+18211|2|x-jat|Tenkosaki
 14055|1|x-jat|Tenkou Kotofumi
 18211|1|x-jat|Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken
 5200|1|x-jat|Tenkousei
@@ -54076,6 +54104,7 @@
 18343|4|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You (2025)
 19663|4|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You (2026)
 18343|2|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 2
+19663|2|en|The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3
 19452|2|en|The 100th Time`s the Charm: She Was Executed 99 Times, So How Did She Unlock "Super Love" Mode?!
 13597|2|en|The 25 Year Old High School Girl
 5377|2|en|The 5 Killers
@@ -56842,6 +56871,7 @@
 18788|1|x-jat|Tomica Heroes Jobraver: Tokusou Gattai Robo
 19647|1|x-jat|Tomica Heroes Jobraver: Tokusou Gattai Robo - Job Labor Selection
 19648|1|x-jat|Tomica Heroes Jobraver: Tokusou Gattai Robo - Job Labor Selection (2025)
+20173|1|x-jat|Tomica Heroes Jobraver: Tokusou Gattai Robo Job Labor - Gyakushu no Joka!
 12721|1|x-jat|Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu
 13607|1|x-jat|Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu (2018)
 15355|1|x-jat|Tomica Kizuna Gattai: Earth Granner
@@ -57156,6 +57186,7 @@
 2795|2|x-jat|Toukyou Vice
 2554|1|x-jat|Touma Kijin Den Oni
 19720|1|x-jat|Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi o Shita.
+19720|2|x-jat|Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.
 4192|1|x-jat|Toumei Ningen
 7262|1|x-jat|Toumei Ningen R
 19015|1|x-jat|Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari
@@ -78315,7 +78346,6 @@
 5817|4|ja|ぜんまいざむらい
 6783|4|ja|ソ・ラ・ノ・ヲ・ト
 8692|4|ja|ソードアート・オンライン
-17705|4|ja|ソードアート・オンライン (オリジナル劇場版)
 10022|4|ja|ソードアート・オンライン Extra Edition
 13493|4|ja|ソードアート・オンライン アリシゼーション
 14796|4|ja|ソードアート・オンライン アリシゼーション War of Underworld
@@ -79011,6 +79041,7 @@
 14072|4|ja|デスティニーチャイルド ONA
 4563|2|ja|デスノート
 9253|4|ja|デスビリヤード
+20175|4|ja|ですぺら
 12603|3|ja|デスマ
 12603|4|ja|デスマーチからはじまる異世界狂想曲
 18991|4|ja|デスマーチからはじまる異世界狂想曲 2
@@ -79323,6 +79354,7 @@
 12721|4|ja|トミカハイパーレスキュー ドライブヘッド 機動救急警察
 13607|4|ja|トミカハイパーレスキュー ドライブヘッド 機動救急警察 (2018)
 18788|4|ja|トミカヒーローズ ジョブレイバー 特装合体ロボ
+20173|4|ja|トミカヒーローズ ジョブレイバー 特装合体ロボ ジョブレイバー 逆襲のジョーカー！
 19647|4|ja|トミカヒーローズ ジョブレイバー 特装合体ロボ　ジョブレイバーセレクション
 19648|4|ja|トミカヒーローズ ジョブレイバー 特装合体ロボ　ジョブレイバーセレクション (2025)
 8741|4|ja|トミカ未来緊急隊アースコマンダー
@@ -80804,6 +80836,7 @@
 11022|4|ja|ふくびき! トライアングル~双葉はあたふた~♥~ 小悪魔イタズラっ娘の壁ドン哀歌
 7375|4|ja|ふくびき! トライアングル~美晴アフター~
 11022|2|ja|ふくびき!トライアングル～双葉はあたふた～
+20177|4|ja|ふくふくの地図
 5318|4|ja|ふくやま劇場
 18996|4|ja|ブサメンガチファイター
 10436|2|ja|ふさわしい場所
@@ -81736,6 +81769,7 @@
 13559|4|ja|まめねこ
 4474|4|ja|まもって! ロリポップ
 922|4|ja|まもって守護月天!
+20159|3|ja|まもむす
 6358|4|ja|マヤの一生
 3984|4|ja|まゆとろ THE TOONS
 11863|5|ja|マヨイガ
@@ -82857,6 +82891,7 @@
 18858|4|ja|ロメリア戦記
 3571|4|ja|ロリータアニメ
 3313|4|ja|ロリータアニメ (にっかつビデオ)
+20176|4|ja|ロリポップチェーンソー
 11201|4|ja|ろんぐらいだぁす!
 11432|4|ja|ワ・タ・シ・ノ・カ・オ
 189|4|ja|ワーズ・ワース
@@ -85210,6 +85245,7 @@
 9500|4|ja|劇場版 しまじろうと フフの だいぼうけん ~すくえ! 七色の花~
 17987|4|ja|劇場版 シルバニアファミリー フレアからのおくりもの
 17785|2|ja|劇場版 スパイ×ファミリー CODE: White
+17705|4|ja|劇場版 ソードアート・オンライン - インテグラル・ドメイン -
 11681|4|ja|劇場版 ソードアート・オンライン -オーディナル・スケール-
 16951|4|ja|劇場版 ソードアート・オンライン -プログレッシブ- 冥き夕闇のスケルツォ
 15735|4|ja|劇場版 ソードアート・オンライン -プログレッシブ- 星なき夜のアリア
@@ -85549,6 +85585,7 @@
 9159|4|ja|北斗の拳 LEGEND of HEROES
 5802|4|ja|北斗の拳 ラオウ外伝 天の覇王
 19188|4|ja|北斗の拳 拳王軍ザコたちの挽歌
+20178|4|ja|北斗の拳 拳王軍ザコたちの挽歌 (2026)
 386|2|zh-Hans|北斗神拳
 6229|4|ja|北極のムーシカ ミーシカ
 6229|2|ja|北極のムーシカ・ミーシカ
@@ -96524,6 +96561,7 @@
 14377|4|zh-Hans|记忆U盘
 5530|2|zh-Hans|记忆女神的女儿们
 16760|4|zh-Hans|记忆管理局
+20174|4|zh-Hans|记忆管理局 (2026)
 18117|4|zh-Hans|记忆缝线
 4158|2|zh-Hans|记忆裂痕
 16747|4|zh-Hans|许愿神龙
@@ -96577,6 +96615,7 @@
 679|4|zh|貓之報恩
 14570|4|zh-Hant|貓娘樂園
 679|4|zh-Hant|貓的報恩
+19172|4|zh-Hant|貓與龍
 18317|4|ja|負けヒロインが多すぎる!
 19275|4|ja|負けヒロインが多すぎる! 2
 2719|4|ja|負けるな!魔剣道
@@ -97793,6 +97832,7 @@
 19009|4|zh-Hans|镇魂街 第四季
 15940|2|zh-Hans|镇魂街第二季
 16355|4|zh-Hans|镖人
+20099|2|zh-Hans|镖人 第2季
 20099|2|zh-Hans|镖人 第二季
 20099|4|zh-Hans|镖人 贰
 20099|2|zh-Hans|镖人2
