@@ -1,4 +1,4 @@
-# created: Thu Jul  9 03:00:02 2026
+# created: Fri Jul 10 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5005,6 +5005,7 @@
 15036|4|en|Bananya and the Curious Bunch
 18837|1|x-jat|Bananya: Around the World
 18837|4|en|Bananya: Around the World
+20189|1|x-jat|Bananya: At Home Party
 15036|1|x-jat|Bananya: Fushigi na Nakama-tachi
 2991|3|x-jat|Bander Book
 1521|2|es|Bandidos del Tiempo
@@ -8618,6 +8619,7 @@
 18744|2|x-zht|Cheng He Ti Tong
 18744|1|x-zht|Cheng He Titong
 19869|1|x-zht|Cheng He Titong 2
+20188|1|x-zht|Cheng Huang Lu
 11060|1|x-zht|Chengyu Donghua Lang
 15750|1|x-kot|Cheonbangjichuk Hani
 8785|2|x-zht|Cheong Gong Chat Hou: Oi Deikau
@@ -54753,6 +54755,7 @@
 16432|2|en|The Gerent Saga
 4217|2|en|The Ghost Holly
 18652|2|en|The Ghost in the Shell
+18652|4|fr|The Ghost in the Shell
 3558|4|en|The Gigolo - Dochinpira
 7258|2|x-unk|Thế giới bí mật của Arrietty
 15066|2|ja|The Girl and the Monster
@@ -59415,6 +59418,7 @@
 2041|4|de|Voltron (2)
 3507|2|en|Voltron: Defender of the Universe
 18793|4|de|Vom Landei zum Schwertheiligen
+19400|4|de|Vom Landei zum Schwertheiligen II
 494|4|en|Voogie`s Angel
 494|2|x-jat|Voogie`s Angels
 2185|4|et|Võõra mõõk
@@ -59792,6 +59796,7 @@
 16546|1|x-jat|Wasureta Furi wo Shite
 12501|2|x-jat|WaSuYu
 3575|1|x-jat|Wata no Kuni Hoshi
+20186|3|x-jat|watacen
 17304|3|x-jat|watakon
 13692|1|x-jat|Watakushitachi no Hounen-sama
 9582|3|x-jat|Watamote
@@ -80260,6 +80265,7 @@
 13536|2|ja|バナナフィッシュ
 11506|4|ja|バナナ村に雨がふる
 11910|4|ja|ばなにゃ
+20189|4|ja|ばなにゃ あっとほーむぱーてぃー
 18837|4|ja|ばなにゃ あらうんど ざ わーるど
 15036|4|ja|ばなにゃ ふしぎななかまたち
 11436|4|ja|はなのはなし
@@ -83012,6 +83018,7 @@
 18545|4|ja|わたしの幸せな結婚 わたしの幸せのかたち
 12633|4|ja|わたしの紙風船
 12599|4|ja|わたしは「とうふ」です
+20186|3|ja|ワタセン
 18942|3|ja|わたたべ
 19001|3|ja|わたなれ
 16399|4|ja|ワッチャプリマジ!
@@ -86722,6 +86729,7 @@
 1563|4|zh-Hant|城市獵人2
 1564|4|zh-Hant|城市獵人3
 17782|4|ja|城郭合体オシロボッツ
+20188|4|zh|城隍录
 15501|2|zh-Hans|埃及神明们的日常
 16508|4|zh-Hans|埃及神明们的日常 第二季
 11981|4|zh-Hans|埃罗芒阿老师
@@ -94720,6 +94728,7 @@
 9582|4|ja|私がモテないのはどう考えてもお前らが悪い!
 10064|4|ja|私がモテないのはどう考えてもお前らが悪い! モテないし, 謎めいてみる
 11351|4|ja|私が虜になって犯る
+20186|3|ja|私セン
 11781|4|ja|私たち, らくろじ部!
 12310|4|ja|私たち, らくろじ部! 2
 9364|4|ja|私たちの暮らしと土木シリーズ
