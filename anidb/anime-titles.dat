@@ -1,4 +1,4 @@
-# created: Fri Jul 10 03:00:02 2026
+# created: Sat Jul 11 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1197,6 +1197,7 @@
 19145|4|en|A Star Brighter Than the Sun
 19770|2|en|A Star Brighter Than the Sun 2
 10082|4|en|A Starry Tale
+19927|2|en|A Story about How Someya-san, a Girl from My College Seminar, Turned out to Be an AV Actress.
 11711|2|en|A Story in Summertime
 13420|2|en|A Story of How a Russian Girl Suddenly Became a Part of My Back-Country Household and How Lots of Sex Ensued
 6845|4|en|A Story of Tobacco
@@ -5003,9 +5004,11 @@
 11910|4|es-419|Bananya
 15036|3|x-jat|Bananya 2
 15036|4|en|Bananya and the Curious Bunch
+20189|2|x-jat|Bananya At-Home Party
 18837|1|x-jat|Bananya: Around the World
 18837|4|en|Bananya: Around the World
 20189|1|x-jat|Bananya: At Home Party
+20189|4|en|Bananya: At-Home Party
 15036|1|x-jat|Bananya: Fushigi na Nakama-tachi
 2991|3|x-jat|Bander Book
 1521|2|es|Bandidos del Tiempo
@@ -12889,7 +12892,7 @@
 2707|2|de|Dogtanian und die drei Musketiere
 1746|3|en|dogtato
 1746|4|en|Dogtato-kun
-19838|2|x-kot|Dogul Wang
+19838|1|x-kot|Dogul Wang
 17680|1|x-jat|Dogura Magura
 7493|1|x-jat|Dohyou no Oni-tachi
 5071|2|ja|Dōjin Wāku
@@ -24819,7 +24822,9 @@
 654|2|en|In a Distant Time: Hydrangea Dream Story
 8440|2|en|In a Pig`s Eye
 13004|4|en|In Another World with My Smartphone
+13004|4|de|In Another World with My Smartphone
 17317|4|en|In Another World with My Smartphone 2
+17317|4|de|In Another World with My Smartphone 2
 1688|1|x-jat|In no Houteishiki
 17000|4|en|In Other Words, Sketch.
 3184|4|it|In principio: Storie dalla Bibbia
@@ -25400,6 +25405,7 @@
 16325|2|x-jat|Isekai Bishoujo Juniku Ojisan to
 14038|1|x-jat|Isekai Cheat Magician
 14038|4|en|Isekai Cheat Magician
+14038|4|de|Isekai Cheat Magician
 17580|1|x-jat|Isekai de Cheat Skill o Te ni Shita Ore wa, Genjitsu Sekai o mo Musou Suru: Level Up wa Jinsei o Kaeta
 18241|1|x-jat|Isekai de Cheat Skill o Te ni Shita Ore wa, Genjitsu Sekai o mo Musou Suru: Level Up wa Jinsei o Kaeta (2026)
 19980|1|x-jat|Isekai de Cheat Skill o Te ni Shita Ore wa, Genjitsu Sekai o mo Musou Suru: Level Up wa Jinsei o Kaeta 2nd Season
@@ -31825,6 +31831,7 @@
 19078|2|en|Link Click - Bridon Arc
 16531|2|en|Link Click 2nd Season
 16531|4|de|Link Click II
+19882|2|en|Link Click III Part One
 16531|4|en|Link Click Season 2
 19078|2|en|Link Click Season 3
 19078|4|en|Link Click: Bridon Arc
@@ -41487,6 +41494,7 @@
 19099|3|x-jat|otosaba
 12784|1|x-jat|Otoshidama
 17108|3|x-jat|Ototen
+18235|3|x-jat|Ototen S2
 13470|2|x-jat|Ōtotsu Sekai
 13878|1|x-jat|Otousan wa Ai no Hito
 7123|1|x-jat|Otsuki-sama to Oujo
@@ -52966,7 +52974,6 @@
 15542|1|x-zht|Tai Yi Xian Mo Lu Zhi Ling Fei Ji II
 15543|1|x-zht|Tai Yi Xian Mo Lu Zhi Ling Fei Ji III
 16382|1|x-zht|Tai Yi Xian Mo Lu: Ling Fei Ji IV
-16000|2|x-jat|Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai
 16255|1|x-jat|Taiban!
 9320|4|tl|Taichi Chaser
 11186|2|x-jat|Taifu no Noruda
@@ -55238,6 +55245,7 @@
 16618|4|en|The Master of Diabolism (2021)
 15617|4|en|The Master of Diabolism Q
 13896|4|en|The Master of Ragnarok & Blesser of Einherjar
+13896|4|de|The Master of Ragnarok & Blesser of Einherjar
 17423|4|en|The Masterful Cat Is Depressed Again Today
 11379|4|en|The Mechanism of Spring
 15115|2|en|The Medical Journal with My Doctor Girlfriend
@@ -57218,7 +57226,7 @@
 13484|1|x-jat|Touken Ranbu: Hanamaru - Makuai Kaisouroku
 12790|4|en|Touken Ranbu: Hanamaru 2
 10781|1|x-jat|Toukiden Kiwami
-19838|1|x-jat|Toukutsu Ou
+19838|4|x-jat|Toukutsu Ou
 457|2|x-jat|Toukyou Babylon
 2795|2|x-jat|Toukyou Vice
 2554|1|x-jat|Touma Kijin Den Oni
@@ -60233,6 +60241,7 @@
 7400|2|de|Wir kommen um Spaß zu haben!
 99|4|pl|Wirtualna Lain
 13477|4|en|Wise Man`s Grandchild
+13477|4|de|Wise Man`s Grandchild
 2534|1|x-jat|Wish
 2188|4|es|Wish
 2534|4|ja|Wish
@@ -90914,8 +90923,10 @@
 4287|4|zh-Hans|旭日舰队
 15664|4|zh-Hans|时之歌—花与焰的狂想诗
 16290|4|zh-Hans|时光代理人
+19882|2|zh-Hans|时光代理人 第三季 [PART ONE]
 19078|4|zh-Hans|时光代理人 英都篇
 16531|4|zh-Hans|时光代理人II -LINK CLICK-
+19882|2|zh-Hans|时光代理人III [PART ONE]
 14763|2|zh-Hans|时光沙漏
 14763|4|zh-Hans|时光碎片
 13726|4|zh|时光诡域
