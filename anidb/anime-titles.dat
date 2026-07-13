@@ -1,4 +1,4 @@
-# created: Sat Jul 11 03:00:02 2026
+# created: Sun Jul 12 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1699,6 +1699,12 @@
 18975|4|ja|Agent Blue
 18227|4|cs|Agent Bon na cestách časem
 5106|4|et|Agent Vexille
+280|2|pt-BR|Agente Aika
+280|4|pt|Agente Aika
+4852|2|pt-BR|Agente Aika: R-16
+4852|4|pt|Agente Aika: R-16
+6526|4|pt|Agente Aika: Zero
+6526|2|pt-BR|Agente Aika: Zero
 5106|2|lt|Agentė Veksilė
 15992|2|en|Agents in Otherworld
 19283|4|en|Agents of the Four Seasons: Dance of Spring
@@ -2516,6 +2522,7 @@
 3389|2|en|Always My Santa!
 4039|2|en|Always the Sun in My Soul
 17914|2|es|Alya a veces me susurra en ruso
+17914|4|pt|Alya Esconde os Seus Sentimentos em Russo
 17914|4|en|Alya Sometimes Hides Her Feelings in Russian
 18872|2|en|Alya Sometimes Hides Her Feelings in Russian Season 2
 634|3|x-jat|AM
@@ -21471,6 +21478,7 @@
 6988|1|x-jat|Hanaori
 19594|4|en|Hanaori-san Still Wants to Fight in the Next Life
 19594|1|x-jat|Hanaori-san wa Tensei Shite mo Kenka ga Shitai
+19594|2|x-jat|Hanaori-san wa Tensei shitemo Kenka ga Shitai
 19594|2|en|Hanaori-san Wants to Have a Fight Even if She Reincarnates
 2109|4|en|Hanappe Bazooka
 2109|1|x-jat|Hanappe Bazooka
@@ -25680,6 +25688,7 @@
 1332|3|x-jat|J2
 14743|1|x-jat|JA Kumamoto Keizairen
 17507|2|pt|Já não é Permitido em Outro Mundo
+19290|4|fr|Jaadugar, la légende de Fatima
 19290|4|en|Jaadugar: A Witch in Mongolia
 332|4|et|Jaanimardikate haud
 4293|4|en|Jack and the Beanstalk
@@ -31710,6 +31719,7 @@
 9439|4|en|License to Sleaze
 467|1|x-jat|Licensed by Royal
 4739|2|en|Licentious Demon Insect
+18731|4|pt|Lidar com as Irmãs Mikadono é Canja.
 1919|4|ro|Lidia în jurul lumii
 15686|1|x-zht|Lie Yang Tiandao I
 16455|1|x-zht|Lie Yang Tiandao II
@@ -33580,7 +33590,7 @@
 4074|4|en|Magikano
 18292|2|en|Magilumiere Co. Ltd.
 18292|4|en|Magilumiere Magical Girls Inc.
-19063|2|en|Magilumiere Magical Girls Inc. (2026)
+19063|4|en|Magilumiere Magical Girls Inc. (2026)
 10609|2|x-jat|Magimoji Rurumo
 10609|4|en|Magimoji Rurumo
 14406|4|en|Magimoji Rurumo: The Conclusion
@@ -35308,6 +35318,8 @@
 7048|1|x-jat|Mellow
 1161|3|x-jat|Mellowlink
 1161|2|pt|Mellowlink o Caçador de Armaduras
+1161|2|pt-BR|Mellowlink, o Caçador de Armaduras
+1161|4|pt|Mellowlink, o Caçador de Armaduras
 3395|2|lv|Melnā Lagūna
 6048|2|lv|Melnais Virssulainis
 4416|2|lv|Melno Asiņu Brāļi
@@ -41559,6 +41571,8 @@
 171|4|pt|Outlaw Star
 171|4|fr|Outlaw Star
 20066|4|en|Outpost: Off-Duty Tales
+18919|4|pt|Outra Jornada ao Oeste
+18919|2|pt-BR|Outra Jornada ao Oeste
 18587|2|x-jat|OVA Boku ni Harem Sefure ga Dekita Riyuu
 18587|1|x-jat|OVA Boku ni Harem Sexfriend ga Dekita Riyuu
 13769|2|en|OVA Complete Slut See their true colors Russian Step-Mother and Step-Sisters All you can have Sex
@@ -56470,6 +56484,8 @@
 14194|1|x-jat|Tiny Evil
 13362|2|en|Tiny Little Life in the Woods
 9|2|en|Tiny Little Snow Fairy Sugar
+20190|2|en|Tiny Metal: Zero Line
+20190|1|x-jat|Tiny Metal: Zerosen Sen
 9|2|en|Tiny Snow Fairy Sugar
 7300|2|en|Tiny Snow Fairy Sugar - Summer Special
 3520|2|en|Tirorin Village Story
@@ -78619,6 +78635,7 @@
 3340|4|ja|タイドライン・ブルー
 8919|4|ja|タイトロープ
 15962|4|ja|ダイナ荘びより
+20190|4|ja|タイニーメタル: 零戦線
 13051|2|ja|ダイノゾーズ
 3338|4|ja|ダイノゾーン
 822|4|ja|ダイバージェンス・イヴ
@@ -81647,6 +81664,7 @@
 15956|4|ja|マウスマン~愛の塊~
 4259|4|ja|まえがみ太郎
 14996|4|ja|まえせつ! -opening act-
+19469|2|x-unk|マオ
 15131|3|ja|まおがく
 9287|4|ja|まおゆう魔王勇者
 14391|3|ja|まおリト
