@@ -1,4 +1,4 @@
-# created: Sun Jul 12 03:00:01 2026
+# created: Mon Jul 13 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -17668,6 +17668,7 @@
 18717|2|x-jat|Futsuma Shoujo Charlotte
 19226|3|x-jat|futsutsuka
 19226|1|x-jat|Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den
+19226|2|x-jat|Futsutsuka na Akujo dewa Gozaimasu ga
 10404|1|x-jat|Futsuu no Joshikousei ga [Locodol] Yattemita.
 11286|1|x-jat|Futsuu no Joshikousei ga [Locodol] Yattemita. (2015)
 12899|4|en|Future Avengers
@@ -42808,6 +42809,7 @@
 895|4|en|Planetes
 895|4|es|Planetes
 895|2|fr|Planètes
+20191|1|x-jat|Plannosaurus: Gachi Koseibutsu Bu
 15436|2|en|Planting Manual
 18261|1|x-jat|Plantopia
 7244|1|x-jat|Planzet
@@ -56157,6 +56159,7 @@
 19086|4|en|Theatre of Darkness: Yamishibai 14
 19426|4|en|Theatre of Darkness: Yamishibai 15
 19825|4|en|Theatre of Darkness: Yamishibai 16
+20192|2|en|Theatre of Darkness: Yamishibai 17
 10717|4|en|Theatre of Darkness: Yamishibai 2
 11748|4|en|Theatre of Darkness: Yamishibai 3
 12575|4|en|Theatre of Darkness: Yamishibai 4
@@ -61276,6 +61279,7 @@
 19086|1|x-jat|Yami Shibai 14
 19426|1|x-jat|Yami Shibai 15
 19825|1|x-jat|Yami Shibai 16
+20192|1|x-jat|Yami Shibai 17
 10717|1|x-jat|Yami Shibai 2
 11748|1|x-jat|Yami Shibai 3
 12575|1|x-jat|Yami Shibai 4
@@ -81092,6 +81096,7 @@
 13965|4|ja|プラネット・ウィズ
 10356|4|ja|プラネットワルキューレ
 895|4|ja|プラネテス
+20191|4|ja|プラノサウルス ガチコセイブツ部
 11782|2|ja|ブラム (2017)
 1050|4|ja|ブラム!
 3324|4|ja|プラレス3四郎
@@ -97991,6 +97996,7 @@
 19086|4|ja|闇芝居 14
 19426|4|ja|闇芝居 15
 19825|4|ja|闇芝居 16
+20192|4|ja|闇芝居 17
 10717|4|ja|闇芝居 2
 11748|4|ja|闇芝居 3
 12575|4|ja|闇芝居 4
@@ -98006,6 +98012,7 @@
 15879|2|ja|闇芝居 八期
 14088|2|ja|闇芝居 六期
 18020|2|ja|闇芝居 十一期
+20192|2|ja|闇芝居 十七期
 18754|2|ja|闇芝居 十三期
 18402|2|ja|闇芝居 十二期
 19426|2|ja|闇芝居 十五期
