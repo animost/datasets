@@ -1,4 +1,4 @@
-# created: Mon Jul 13 03:00:02 2026
+# created: Tue Jul 14 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -28963,6 +28963,7 @@
 19087|1|x-jat|Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara o Eru
 19442|1|x-jat|Kizu Darake Seijo yori Houfuku o Komete
 10139|1|x-jat|Kizudarake no Ringo
+20193|1|x-jat|Kizuguchi to Houtai
 8357|1|x-jat|Kizumonogatari
 8357|4|en|Kizumonogatari
 18187|4|es-419|Kizumonogatari - Vampiro Koyomi -
@@ -39468,6 +39469,8 @@
 8210|1|x-jat|No.6
 8210|4|ja|NO.6
 8210|3|x-jat|no6
+20194|2|en|Noa Is My Senior, and My Friend.
+20194|1|x-jat|Noa-senpai wa Tomodachi.
 15547|4|ro|Noapte bună, lume!
 14345|1|x-jat|Nobara
 3649|1|x-jat|Nobara no Julie
@@ -60600,6 +60603,7 @@
 14405|2|x-jat|Wotaku ni Koi wa Muzukashii: Youth
 336|3|en|WotH
 14695|2|en|Would you love a pervert as long as she`s cute?
+20193|2|en|Wound & Bandage
 4470|4|en|Wounded Man
 1949|4|en|Wowser
 891|3|x-jat|wp
@@ -71140,6 +71144,7 @@
 14708|2|ko|걸작
 16797|2|ko|걸즈 러시 The Animation
 1805|2|ko|걸즈 브라보
+9227|2|ko|걸즈 앤 판처
 19738|2|ko|검귀 바르고
 19516|4|ko|검은 고양이와 마녀의 교실
 11117|2|ko|검은교실
@@ -79931,6 +79936,7 @@
 10054|4|ja|ノーマン・ザ・スノーマン ~北の国のオーロラ(仮)~
 19223|4|ja|ノーマン・ザ・スノーマン〜流れ星のふる夜に〜
 3988|2|ja|ノーラ
+20194|4|ja|のあ先輩はともだち.
 11534|2|ja|ノイズ
 15011|4|ja|ノイド
 9787|3|ja|のうコメ
@@ -84396,6 +84402,7 @@
 17075|4|zh-Hans|傲娇恶役大小姐莉泽洛特与实况转播远藤君和解说员小林
 15206|2|zh-Hant|傳頌之物 二人的白皇
 19442|4|ja|傷だらけ聖女より報復をこめて
+20193|4|ja|傷口と包帯
 8357|4|ja|傷物語
 8357|4|zh-Hant|傷物語
 18187|4|ja|傷物語 -こよみヴァンプ-
