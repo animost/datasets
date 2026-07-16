@@ -1,4 +1,4 @@
-# created: Tue Jul 14 03:00:01 2026
+# created: Thu Jul 16 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6823,6 +6823,7 @@
 17547|1|x-jat|Boku no Kokoro no Yabai Yatsu
 18066|1|x-jat|Boku no Kokoro no Yabai Yatsu (2024)
 19950|1|x-jat|Boku no Kokoro no Yabai Yatsu (2027)
+18890|2|x-jat|Boku no Kokoro no Yabai Yatsu Movie
 1489|1|x-jat|Boku no Marie
 17359|1|x-jat|Boku no Me wa Neko no Me
 18714|1|x-jat|Boku no Oldies wa All Color
@@ -12900,6 +12901,7 @@
 1746|3|en|dogtato
 1746|4|en|Dogtato-kun
 19838|1|x-kot|Dogul Wang
+19838|2|x-kot|Dogulwang
 17680|1|x-jat|Dogura Magura
 7493|1|x-jat|Dohyou no Oni-tachi
 5071|2|ja|Dōjin Wāku
@@ -13014,6 +13016,7 @@
 1949|2|x-jat|Dondon Domel to Don
 1949|1|x-jat|Dondon Dommel to Ron
 558|2|vi|Đồng Tử Công
+20197|1|x-zht|Dongda Gao Wu Xueyuan
 15311|1|x-zht|Dongfang Shaonian Zhi Ji Dou Zhan Che
 15311|2|x-zht|Dongfang Shaonian: Ji Dou Zhanche
 12951|1|x-zht|Dongguo Xiaojie
@@ -21445,6 +21448,7 @@
 1249|4|en|Hana Yori Dango: The Movie
 18636|4|en|Hana-Kimi
 19961|4|en|Hana-Kimi (2026)
+19961|2|en|Hana-Kimi Season 2
 7874|2|x-jat|Hana-Saku Iroha
 8365|1|x-jat|Hanabeam
 8365|4|ja|Hanabeam
@@ -25933,6 +25937,7 @@
 19597|1|x-zht|Jiaonang Jihua
 19598|1|x-zht|Jiaonang Jihua 2
 19598|2|x-zht|Jiaonang Jihua Di Er Ji
+20199|1|x-zht|Jiaonang Jihua: Qiji
 19599|1|x-zht|Jiaonang Jihua: Yingxiong
 15655|1|x-kot|Jib
 19311|1|x-kot|Jib-i eobs-eo
@@ -57097,6 +57102,7 @@
 1356|2|en|Topsy-Turvy High School
 9481|3|x-jat|ToRa
 16567|1|x-jat|Tora to Mike Animation
+20196|1|x-jat|Tora Tsugumi
 6886|2|en|Tora-chan and the Bride
 6877|1|x-jat|Tora-chan no Kankan Mushi
 6886|1|x-jat|Tora-chan to Hanayome
@@ -57690,6 +57696,7 @@
 9401|1|x-jat|Tsugou no Yoi Sexfriend?
 14728|1|x-jat|Tsugu Tsugumomo
 14728|4|en|Tsugu Tsugumomo
+20196|2|en|Tsugumi Project
 12395|1|x-jat|Tsugumomo
 12395|4|en|Tsugumomo
 12395|4|de|Tsugumomo
@@ -62635,6 +62642,7 @@
 18562|4|pl|Zapiski zielarki Sezon 2
 8146|4|cs|Zápisník smrti - Spasitelské vize
 12116|2|x-jat|Zaregoto Series
+16732|2|pl|Zarządzanie początkującym alchemikiem
 15365|1|x-jat|Zashiki-warashi no Tatami-chan
 1676|3|en|Zatch Bell Movie 1
 2776|3|en|Zatch Bell Movie 2
@@ -62721,6 +62729,7 @@
 10778|1|x-jat|Zephyr
 10778|4|ja|ZEPHYR
 6271|2|pl|Zepsuta Pozytywka
+20198|1|x-zht|Zeri Feisheng
 4146|3|x-jat|zero
 5537|1|x-jat|Zero Duel Masters
 10741|2|en|Zero Escape: Virtue`s Last Reward
@@ -83585,6 +83594,7 @@
 4799|2|zh-Hans|东京魔人学院剑风帖 龙龙
 11000|2|zh-Hans|东城刃更的浓浓甜蜜日常
 11890|4|zh-Hans|东城刃更至极平和的日常
+20197|4|zh-Hans|东大高武学院
 19202|4|zh-Hans|东岛丹三郎想成为假面骑士
 15969|2|zh-Hans|东方少年
 17275|2|zh-Hans|东方少年 第二季
@@ -90236,6 +90246,7 @@
 15783|4|zh-Hans|择天记 第五季
 14297|4|zh-Hans|择天记 第四季
 19868|4|zh-Hans|择天记3D
+20198|4|zh-Hans|择日飞升
 14832|4|zh-Hans|拯救侏罗纪
 4595|2|zh-Hans|拯救德尔托拉
 11216|4|zh-Hans|拳愿阿修罗
@@ -95771,6 +95782,7 @@
 14569|4|ja|胡蝶綺 ~若き信長~
 17901|4|zh-Hans|胡言乱语的世界情节剧
 19597|4|zh-Hans|胶囊计划
+20199|4|zh-Hans|胶囊计划 奇迹
 19599|2|zh-Hans|胶囊计划 第三季
 19598|4|zh-Hans|胶囊计划 第二季
 19599|4|zh-Hans|胶囊计划 英雄
@@ -96286,6 +96298,7 @@
 8293|4|zh|虎王归来
 5909|2|zh-Hant|虎與龍
 11971|4|zh-Hans|虎面人W
+20196|4|ja|虎鶫
 18905|4|zh-Hans|虎鹤妖师录
 4860|2|zh-Hans|虐杀姬
 10540|4|ja|虐殺器官 GENOCIDAL ORGAN
