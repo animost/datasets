@@ -1,4 +1,4 @@
-# created: Thu Jul 16 03:00:01 2026
+# created: Fri Jul 17 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3239,6 +3239,7 @@
 361|3|x-jat|AO6
 16358|4|en|Aoashi
 16358|2|x-jat|Aoashi
+16358|4|de|Aoashi
 19318|4|en|Aoashi Season 2
 13900|3|x-jat|aobuta
 14397|3|x-jat|aobuta movie
@@ -8556,6 +8557,7 @@
 11166|4|ja|CHAOS;CHILD
 11166|1|x-jat|Chaos;Child
 11166|4|en|Chaos;Child
+11166|4|de|Chäos;Child
 13057|4|ja|CHAOS;CHILD SILENT SKY
 13057|1|x-jat|Chaos;Child: Silent Sky
 6088|1|x-jat|Chaos;Head
@@ -20469,6 +20471,7 @@
 4841|3|x-jat|gto (1994)
 191|4|ja|GTO(グレート・ティーチャー・オニヅカ)
 4307|3|x-jat|GTR
+20201|1|x-zht|Gu Changge: Wo! Tianming Da Fanpai
 17435|1|x-zht|Gu Du De Li Li
 1935|4|fr|Gu Gu Ganmo
 8442|1|x-zht|Gu Huo Xiang Jia Tou
@@ -31591,7 +31594,9 @@
 12933|2|en|Lessons with Chii-chan
 17425|4|en|Let Me Check the Walkthrough First
 18498|4|en|Let This Grieving Soul Retire
+18498|4|de|Let This Grieving Soul Retire
 19075|4|en|Let This Grieving Soul Retire (2025)
+19075|4|de|Let This Grieving Soul Retire: Cour 2
 11837|2|x-jat|Let You, Get You, Saru Get You
 7757|2|en|Let’s Go! Anpanman – The Amazing Naganegiman and Yakisobapanman
 1171|4|pt|Let`s & Go
@@ -54729,6 +54734,7 @@
 3498|4|en|The Flying House
 19541|4|en|The Food Diary of Miss Maid
 17999|4|en|The Foolish Angel Dances with the Devil
+17999|4|de|The Foolish Angel Dances with the Devil
 6873|2|en|The Forest Concert
 2234|2|en|The Forest That Lives
 10922|2|en|The Forgotten Phantom Fox
@@ -61359,6 +61365,7 @@
 19478|1|x-zht|Yao Shen Ji Di Jiu Ji
 17835|1|x-zht|Yao Shen Ji Di Liu Ji
 17836|1|x-zht|Yao Shen Ji Di Qi Ji
+20200|1|x-zht|Yao Shen Ji Di Shi Ji
 16988|1|x-zht|Yao Shen Ji Di Wu Ji
 15670|1|x-zht|Yao Shen Ji: Hei Yu Pian
 14473|2|x-zht|Yao Shen Ji: Ying Yao Pian
@@ -71299,6 +71306,7 @@
 17512|4|ko|그 여름
 19021|4|ko|그 여름 (2023)
 8620|2|ko|그 여름에서 기다릴게
+19988|2|ko|그가 모르는 비밀을 넣어줘
 11011|4|ko|그것이 성우!
 8181|4|ko|그날 본 꽃의 이름을 우리는 아직 모른다
 7136|2|ko|그녀x그녀x그녀: 세자매와 두근두근 동거생활
@@ -87783,13 +87791,14 @@
 17835|2|zh-Hans|妖神记 第6季
 17836|2|zh-Hans|妖神记 第7季
 18606|2|zh-Hans|妖神记 第8季
-19478|4|zh-Hans|妖神记 第9季
+19478|2|zh-Hans|妖神记 第9季
 17836|4|zh-Hans|妖神记 第七季
-19478|2|zh-Hans|妖神记 第九季
+19478|4|zh-Hans|妖神记 第九季
 13868|2|zh-Hans|妖神记 第二季
 16988|4|zh-Hans|妖神记 第五季
 18606|4|zh-Hans|妖神记 第八季
 17835|4|zh-Hans|妖神记 第六季
+20200|4|zh-Hans|妖神记 第十季
 14473|2|zh-Hans|妖神记之影妖篇
 15670|4|zh-Hans|妖神记之黑狱篇
 13868|4|zh|妖神记第2季
@@ -98570,6 +98579,7 @@
 17745|4|zh-Hans|顶尖恶路
 17118|4|zh-Hans|顶点!!!!!!!!!!!!!!!
 1947|4|zh-Hans|顽皮小白貂
+20201|4|zh-Hans|顾长歌：我！天命大反派
 18194|4|zh-Hans|颂乐人偶
 14646|4|zh|领风者
 16628|4|zh-Hans|颜王 -怪画廊-
