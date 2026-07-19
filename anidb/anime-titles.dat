@@ -1,4 +1,4 @@
-# created: Fri Jul 17 03:00:01 2026
+# created: Sat Jul 18 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3041,6 +3041,7 @@
 1458|3|x-jat|anj s2
 4512|3|x-jat|anj s3
 2234|4|de|Anja und die vier Jahreszeiten
+314|2|pt|Anjo da Vingança
 147|2|pt|Anjo de Combate: Alita
 1536|2|pt-BR|Anjo Explosivo
 300|4|pt|Anjos em Campo
@@ -35009,7 +35010,6 @@
 7616|4|ja|Meat or Die
 10130|1|x-jat|Mebae no Asa
 14730|4|en|Mebius Dust
-14730|1|x-jat|Mebius Dust
 18448|1|x-jat|Mebuki The Animation
 7881|1|x-jat|Mecha Afro-kun
 18774|1|x-jat|Mecha Gishi Resta no Daibouken
@@ -36548,6 +36548,7 @@
 3969|4|en|Mobile Suit Zeta Gundam: A New Translation II - Lovers
 4095|4|en|Mobile Suit Zeta Gundam: A New Translation III - Love Is the Pulse of the Stars
 719|2|en|Mobile Suit ZZ Gundam
+14730|1|x-jat|Mobius Dust
 18358|3|x-jat|Mobkara
 17005|3|x-jat|mobseka
 17796|3|x-jat|mobseka s2
@@ -39059,6 +39060,7 @@
 19699|1|x-jat|Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken
 17909|1|x-jat|Nige Jouzu no Wakagimi
 18903|1|x-jat|Nige Jouzu no Wakagimi (2026)
+18903|2|x-jat|Nige Jouzu no Wakagimi S2
 18410|1|x-jat|Niger Monogatari
 19699|3|x-jat|Nigetsuri
 17909|3|x-jat|Nigewaka
@@ -60891,10 +60893,6 @@
 15315|1|x-zht|Xiao Hua Xian 5 - Si Shi Huayu Chun Xia Part 1 Chun
 15232|1|x-zht|Xiao Kadou Zhao Mama
 14373|1|x-zht|Xiao Lu He Xiao Lan
-19184|1|x-zht|Xiao Lu he Xiao Lan 2nd season (Beryl and Sapphire 2nd season)
-19185|1|x-zht|Xiao Lu he Xiao Lan 3rd season (Beryl and Sapphire 3rd season)
-19186|1|x-zht|Xiao Lu he Xiao Lan 4th season (Beryl and Sapphire 4th season)
-19187|1|x-zht|Xiao Lu he Xiao Lan 5th season (Beryl and Sapphire 5th season)
 18923|1|x-zht|Xiao Lu He Xiao Lan II
 18924|1|x-zht|Xiao Lu He Xiao Lan III
 18925|1|x-zht|Xiao Lu He Xiao Lan IV
@@ -88455,10 +88453,6 @@
 18924|4|zh|小绿和小蓝 III
 18925|4|zh|小绿和小蓝 IV
 18926|4|zh|小绿和小蓝 V
-19185|4|zh|小绿和小蓝 第三季
-19187|4|zh|小绿和小蓝 第五季
-19186|4|zh|小绿和小蓝 第四季
-19184|4|zh|小绿和小蓝 魔王篇
 1009|4|zh|小肥肥一族
 13663|4|zh|小花仙
 13710|4|ja|小花仙 第三季
