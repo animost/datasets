@@ -1,4 +1,4 @@
-# created: Sat Jul 18 03:00:01 2026
+# created: Sun Jul 19 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6267,8 +6267,12 @@
 17204|4|en|Black Summoner
 6098|2|en|Black Tomb
 19203|4|en|Black Torch
+19203|4|de|Black Torch
+19203|4|es|Black Torch
+19203|4|it|Black Torch
 19203|1|x-jat|Black Torch
 19203|4|ja|BLACK TORCH
+19203|4|fr|Black Torch
 1598|4|en|Black Widow
 6820|2|ja|BLACK★ROCK SHOOTER
 1181|2|en|Blackboard Jungle
@@ -34864,7 +34868,7 @@
 11863|1|x-jat|Mayoiga
 13223|1|x-jat|Mayoiga no Onee-san The Animation
 19210|1|x-jat|Mayonaka Heart Tune
-19967|1|x-jat|Mayonaka Heart Tune 2
+19967|1|x-jat|Mayonaka Heart Tune (2027)
 14172|1|x-jat|Mayonaka no Occult Koumuin
 14706|1|x-jat|Mayonaka no Occult Koumuin: Fukurokouji to Anoko to Ore to
 16451|1|x-jat|Mayonaka no Yuugi: Nora ver.
@@ -40564,7 +40568,7 @@
 14311|2|en|One Hundred Thousand Bad Jokes Season 1
 14312|2|en|One Hundred Thousand Bad Jokes Season 2
 14313|2|en|One Hundred Thousand Bad Jokes Season 3
-18369|2|en|One Hundred Thousand Years of Qi Refining
+18369|4|en|One Hundred Thousand Years of Qi Refining
 12308|2|en|One Lesson One Fight
 9650|2|en|One Million Year Dinosaur Dddli
 2991|4|en|One Million-Year Trip: Bander Book
@@ -44966,7 +44970,9 @@
 96|2|lt|Raganų Medžiotoja Robin
 10373|4|en|Rage of Bahamut: Genesis
 10373|4|fr|Rage of Bahamut: Genesis
+10373|4|de|Rage of Bahamut: Genesis
 11223|4|en|Rage of Bahamut: Virgin Soul
+11223|4|de|Rage of Bahamut: Virgin Soul
 17263|2|pt|Ragna Carmesim
 17263|4|en|Ragna Crimson
 17263|1|x-jat|Ragna Crimson
@@ -56943,6 +56949,7 @@
 19523|2|en|Tomb of Fallen Gods 3rd Season
 19523|2|en|Tomb of Fallen Gods Season 3
 19838|4|en|Tomb Raider King
+19838|4|de|Tomb Raider King
 11806|4|en|Tomboy Angels
 18420|2|en|Tombs of Fallen Immortals
 332|2|en|Tombstone for Fireflies
@@ -57885,7 +57892,7 @@
 15867|2|x-zht|Tun Shi Xing Kong
 19342|1|x-zht|Tun Tian Ji
 19210|4|en|Tune In to the Midnight Heart
-19967|2|en|Tune In to the Midnight Heart 2
+19967|2|en|Tune In to the Midnight Heart (2027)
 11784|2|vi|Tung tiền hữu tọa linh kiếm sơn
 17040|4|de|Tunnel to Summer
 15867|1|x-zht|Tunshi Xingkong
@@ -60080,6 +60087,7 @@
 4894|2|en|When Cicadas Cry 2nd Series
 16693|2|en|When History Meows
 17675|4|en|When I Woke Up I Became a Bagel Girl
+17675|4|de|When I Woke Up I Became a Bagel Girl
 10313|4|id|When Marnie Was There
 10313|4|en|When Marnie Was There
 10313|4|tl|When Marnie Was There
@@ -94422,7 +94430,7 @@
 14706|4|ja|真夜中のオカルト公務員 袋小路とあの子と俺と
 16451|4|ja|真夜中の誘戯（まよなかのいたずら） -ノーラver.-
 19210|4|ja|真夜中ハートチューン
-19967|4|ja|真夜中ハートチューン 2
+19967|4|ja|真夜中ハートチューン (2027)
 18454|4|ja|真夜中ぱんチ
 12802|4|ja|真夜中は純潔
 1331|4|ja|真奈美&ナミ スプライト
