@@ -1,4 +1,4 @@
-# created: Sun Jul 19 03:00:01 2026
+# created: Tue Jul 21 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -342,6 +342,7 @@
 15415|2|x-jat|100-man no Inochi no Ue ni Ore wa Tatteiru
 15930|3|en|100-man S2
 18369|2|en|100.000 Years of Refining Qi
+20204|2|en|100.000 Years of Refining Qi: Yang Ascendant
 5308|3|x-jat|100%
 3067|4|it|100% Fragola
 3067|2|pt|100% Morango
@@ -1003,6 +1004,7 @@
 17666|4|en|A Girl & Her Guard Dog
 7044|2|en|A Girl at Dojo Temple
 1090|2|en|A Girl in a Lower Grade
+20198|4|en|A Good Day to Ascend
 9765|4|en|A Good Librarian Like a Good Shepherd
 1886|4|pt-BR|A Grande Batalha dos Deuses
 10121|2|en|A Grandma`s Goldfish
@@ -3868,6 +3870,7 @@
 4339|3|x-jat|asatte
 4755|1|x-jat|Asatte Dance
 4339|1|x-jat|Asatte no Houkou.
+20198|2|en|Ascend Another Day
 14727|4|en|Ascendance of a Bookworm
 15293|4|en|Ascendance of a Bookworm (2020)
 15634|4|en|Ascendance of a Bookworm (2022)
@@ -5461,6 +5464,8 @@
 19449|4|ja|BEASTARS FINAL SEASON (2026)
 19449|1|x-jat|Beastars Final Season (2026)
 19449|4|en|Beastars Final Season (2026)
+16443|2|en|Beastars Final Season Part 1
+19449|2|en|Beastars Final Season Part 2
 16443|2|en|Beastars: Final Season
 14659|4|vi|BEASTARS: Thế giới người thú
 16858|4|zh-Hans|BEASTY
@@ -8638,6 +8643,7 @@
 18744|1|x-zht|Cheng He Titong
 19869|1|x-zht|Cheng He Titong 2
 20188|1|x-zht|Cheng Huang Lu
+20188|4|en|CHENGHUANG
 11060|1|x-zht|Chengyu Donghua Lang
 15750|1|x-kot|Cheonbangjichuk Hani
 8785|2|x-zht|Cheong Gong Chat Hou: Oi Deikau
@@ -9310,6 +9316,7 @@
 12545|4|pl|Citrus
 12545|4|zh-Hans|citrus～柑橘味香气～
 3610|2|en|City Boy
+20188|2|en|City God Chronicles
 942|4|ja|CITY HUNTER
 942|1|x-jat|City Hunter
 942|4|de|City Hunter
@@ -13112,6 +13119,7 @@
 3315|4|es-GA|Doraemon e os piratas dos mares do Sur
 4967|4|es|Doraemon en el mágico mundo de las aves
 8542|4|es|Doraemon en la Isla del Escarabajo Dorado
+19711|4|fr|Doraemon et le château sous-marin
 11353|4|it|Doraemon Il film: Nobita e la Nascita del Giappone
 3114|2|en|Doraemon Movie 1
 6591|3|en|Doraemon Movie 10
@@ -16284,8 +16292,8 @@
 14238|2|x-jat|Fate: Fate/Grand Order: Zettai Majuu Sensen Babylonia
 9042|2|x-jat|Fate: Fate/Kaleid Liner Prisma Illya
 9900|2|x-jat|Fate: Fate/Kaleid Liner Prisma Illya (2014)
-16565|2|x-jat|Fate: Fate/Kaleid Liner Prisma Illya (Zokuhen)
 11639|2|x-jat|Fate: Fate/Kaleid Liner Prisma Illya Drei!!
+16565|2|x-jat|Fate: Fate/Kaleid Liner Prisma Illya Finale
 10833|2|x-jat|Fate: Fate/Kaleid Liner Prisma Illya Zwei Herz!
 10091|2|x-jat|Fate: Fate/Kaleid Liner Prisma Illya Zwei!
 10804|2|x-jat|Fate: Fate/Kaleid Liner Prisma Illya Zwei! (2015)
@@ -16358,7 +16366,6 @@
 9042|1|x-jat|Fate/Kaleid Liner Prisma Illya
 9042|4|en|Fate/Kaleid Liner Prisma Illya
 9900|1|x-jat|Fate/Kaleid Liner Prisma Illya (2014)
-16565|1|x-jat|Fate/Kaleid Liner Prisma Illya (Zokuhen)
 10833|4|en|Fate/Kaleid Liner Prisma Illya 2wei Herz!
 10091|2|x-jat|Fate/Kaleid Liner Prisma Illya 2wei!
 10091|4|en|Fate/Kaleid Liner Prisma Illya 2wei!
@@ -16366,6 +16373,7 @@
 11639|4|en|Fate/Kaleid Liner Prisma Illya 3rei!!
 11639|2|x-jat|Fate/Kaleid Liner Prisma Illya 3rei!!
 11639|1|x-jat|Fate/Kaleid Liner Prisma Illya Drei!!
+16565|1|x-jat|Fate/Kaleid Liner Prisma Illya Finale
 10833|1|x-jat|Fate/Kaleid Liner Prisma Illya Zwei Herz!
 10091|1|x-jat|Fate/Kaleid Liner Prisma Illya Zwei!
 10804|1|x-jat|Fate/Kaleid Liner Prisma Illya Zwei! (2015)
@@ -16392,12 +16400,12 @@
 9900|2|ko|Fate/Kaleid Liner 프리즈마☆이리야: 운동회 DE 댄스 (2014)
 9042|4|ja|Fate/kaleid liner プリズマ☆イリヤ
 9900|4|ja|Fate/kaleid liner プリズマ☆イリヤ (2014)
-16565|4|ja|Fate/kaleid liner プリズマ☆イリヤ (続編)
 10833|4|ja|Fate/kaleid liner プリズマ☆イリヤ 2wei Herz!
 10091|4|ja|Fate/kaleid liner プリズマ☆イリヤ 2wei!
 10804|4|ja|Fate/kaleid liner プリズマ☆イリヤ 2wei! (2015)
 10804|2|ja|Fate/kaleid liner プリズマ☆イリヤ 2wei! 魔法少女in温泉旅行
 11639|4|ja|Fate/kaleid liner プリズマ☆イリヤ 3rei!!
+16565|4|ja|Fate/kaleid liner プリズマ☆イリヤ FINALE
 10091|2|ja|Fate/kaleid liner プリズマ☆イリヤ ツヴァイ!
 11639|2|ja|Fate/kaleid liner プリズマ☆イリヤ プリズマ☆イリヤ ドライ!!
 13508|4|ja|Fate/kaleid liner プリズマ☆イリヤ プリズマ☆ファンタズム
@@ -18876,7 +18884,9 @@
 4782|2|en|Genshiken OVA
 9934|3|x-jat|genshiken ova 2
 9676|4|en|Genshiken Second Generation
+9934|2|en|Genshiken Second Generation - Volume 6
 9676|2|en|Genshiken Second Season
+9934|2|en|Genshiken Second Season - Volume 6
 1783|2|en|Genshiken TV
 5210|2|en|Genshiken TV 2
 2163|3|x-jat|genshiken: kujian
@@ -20476,6 +20486,7 @@
 4841|3|x-jat|gto (1994)
 191|4|ja|GTO(グレート・ティーチャー・オニヅカ)
 4307|3|x-jat|GTR
+20201|2|en|Gu Changge: Me! The Heavenly Destined Villain
 20201|1|x-zht|Gu Changge: Wo! Tianming Da Fanpai
 17435|1|x-zht|Gu Du De Li Li
 1935|4|fr|Gu Gu Ganmo
@@ -24085,6 +24096,7 @@
 2105|2|en|I Am Hanitarou
 13974|2|en|I Am Nezha
 19459|4|en|I am the Blade
+20201|2|en|I Am the Fated Villain
 16585|2|en|I Am The Only One
 3997|2|en|I am THE Shiratori Reiko!
 16633|2|en|I Am What I Am
@@ -31698,6 +31710,8 @@
 174|4|fr|Liaisons immorales
 17874|1|x-zht|Lian Qi Lianle 3000 Nian
 18369|1|x-zht|Lian Qi Shi Wan Nian
+20204|1|x-zht|Lian Qi Shi Wan Nian Special: Yangji Tianxia
+20204|2|x-zht|Lian Qi Shi Wan Nian Tebie Pian: Yangji Tianxia
 16840|1|x-zht|Lian Sheng San Ji
 16298|1|x-zht|Liang Bu Yi
 17988|1|x-zht|Liang Bu Yi 2nd Season
@@ -33608,6 +33622,7 @@
 18292|2|en|Magilumiere Co. Ltd.
 18292|4|en|Magilumiere Magical Girls Inc.
 19063|4|en|Magilumiere Magical Girls Inc. (2026)
+19063|2|en|Magilumiere Magical Girls Inc. Season 2
 10609|2|x-jat|Magimoji Rurumo
 10609|4|en|Magimoji Rurumo
 14406|4|en|Magimoji Rurumo: The Conclusion
@@ -36163,6 +36178,7 @@
 1678|2|en|Mister Ikkyu
 14698|2|en|Mister Washer!: She and I in the Female Bath!?
 3524|4|en|Mistreated Bride
+19293|4|de|Mistress Kanan Is Devilishly Easy
 19293|4|en|Mistress Kanan Is Devilishly Easy
 20118|2|en|Mistress Kanan Is Devilishly Easy 2
 10542|2|pl|Mistrz Romansu Nozaki
@@ -40569,6 +40585,8 @@
 14312|2|en|One Hundred Thousand Bad Jokes Season 2
 14313|2|en|One Hundred Thousand Bad Jokes Season 3
 18369|4|en|One Hundred Thousand Years of Qi Refining
+20204|2|en|One Hundred Thousand Years of Qi Refining Special
+20204|4|en|One Hundred Thousand Years of Qi Training: Yang Ascendant
 12308|2|en|One Lesson One Fight
 9650|2|en|One Million Year Dinosaur Dddli
 2991|4|en|One Million-Year Trip: Bander Book
@@ -41223,6 +41241,7 @@
 17275|4|en|Orient (2022)
 15969|2|x-jat|Orient: Aki Tabidachi Hen
 17275|2|x-jat|Orient: Awaji Shima Gekitou Hen
+20197|4|en|Oriental Martial Academy
 14432|2|fr|Orientations hypnotiques
 16072|1|x-jat|Origami Fighters
 16042|1|en|Origami of Landscape
@@ -42828,6 +42847,7 @@
 895|4|en|Planetes
 895|4|es|Planetes
 895|2|fr|Planètes
+20191|2|en|Plannosaurus Serious Paleontology Club
 20191|1|x-jat|Plannosaurus: Gachi Koseibutsu Bu
 15436|2|en|Planting Manual
 18261|1|x-jat|Plantopia
@@ -45498,6 +45518,7 @@
 13556|1|x-jat|Real Eroge Situation! The Animation
 13581|4|en|Real Girl
 14165|4|en|Real Girl (2019)
+20202|1|x-jat|Real mo Tama ni wa Uso o Tsuku
 8245|2|en|Really Existed! Spirit Medium Teacher
 16651|2|en|Realm of Terracotta
 3986|3|x-jat|rean
@@ -50805,6 +50826,7 @@
 5026|1|x-jat|Something Great Chizu ni Nai Machi
 16799|2|en|Something is Wrong... with This Company!
 3452|4|es|Sometidas
+20202|2|en|Sometimes Even Reality Is a Lie!
 13190|4|de|Sommerkotze ist Winterfreude
 763|4|es-GA|Son Gokuh superguerreiro
 13600|1|x-jat|Son Gokuu Silk Road o Tobu!!
@@ -53176,7 +53198,10 @@
 18383|4|en|Tales Of Dark River
 18763|4|en|Tales Of Dark River (2024)
 18763|2|en|Tales Of Dark River Part 2
+20200|2|en|Tales of Demon and God 10th Season
 13191|4|en|Tales of Demons and Gods
+20200|2|en|Tales of Demons and Gods 10
+20200|2|en|Tales of Demons and Gods 10th Season
 13868|2|en|Tales of Demons and Gods 2
 14473|2|en|Tales of Demons and Gods 3
 15670|2|en|Tales of Demons and Gods 4
@@ -54419,6 +54444,7 @@
 19660|4|en|The Chosen One
 1035|2|x-jat|The Choujo
 2512|2|en|The Chronicle of the Big Battle between Yin and Yang
+20188|2|en|The Chronicles of City God
 14981|2|en|The Chronicles of Rebecca
 16638|2|en|The Chronicles of the Ranger
 17472|2|en|The Class Rep Believes in the Hypnosis App
@@ -54900,6 +54926,7 @@
 2465|4|en|The Harvest Night
 18451|2|en|The Healer
 18451|4|en|The Healer Who Was Banished From His Party, Is, in Fact, the Strongest
+20201|4|en|The Heavenly Fate Villain
 16601|4|en|The Heike Story
 14514|4|en|The Helpful Fox Senko-san
 1712|2|en|The Hentai Academy
@@ -61352,6 +61379,7 @@
 15436|1|x-zht|Yao Jing Zhong Zhi Shou Ce
 13191|1|x-zht|Yao Shen Ji
 14473|2|x-zht|Yao Shen Ji - Ying Yao Pian
+20200|2|x-zht|Yao Shen Ji 10th Season
 13868|1|x-zht|Yao Shen Ji 2
 14473|1|x-zht|Yao Shen Ji 3
 15670|2|x-zht|Yao Shen Ji 4
@@ -61808,6 +61836,7 @@
 14822|3|x-jat|YoU
 19010|4|en|You and I Are Polar Opposites
 19983|4|en|You and I Are Polar Opposites (2026)
+19983|2|en|You and I Are Polar Opposites Season 2
 19019|4|en|You and Idol Precure
 19019|2|en|You and Idol Pretty Cure
 8367|4|en|You and Me
@@ -62394,6 +62423,7 @@
 13289|1|x-jat|Yura Yura Suizokukan
 13552|1|x-jat|Yuragi-sou no Yuuna-san
 13659|1|x-jat|Yuragi-sou no Yuuna-san OAD
+20203|1|x-jat|Yurayura Q
 336|4|tr|Yüreğinin Sesi
 17207|4|ja|YUREI DECO
 17207|1|x-jat|Yurei Deco
@@ -82474,6 +82504,7 @@
 12036|4|ja|ゆゆ式 困らせたり, 困らされたり
 13552|4|ja|ゆらぎ荘の幽奈さん
 13659|4|ja|ゆらぎ荘の幽奈さん OAD
+20203|4|ja|ゆらゆらQ
 13289|4|ja|ユラユラすいぞくかん
 17372|4|ja|ゆりかごのうた
 13498|4|ja|ユリシーズ ジャンヌ・ダルクと錬金の騎士
@@ -82687,6 +82718,7 @@
 16069|4|ja|リアデイルの大地にて
 15878|4|ja|リアルエロゲシチュエーション! 2 THE ANIMATION
 13556|4|ja|リアルエロゲシチュエーション! THE ANIMATION
+20202|5|ja|リアルもたまにはうそをつく
 18791|5|ja|りぃんかーねーしょんのかべん
 18791|4|ja|リィンカーネーションの花弁
 18676|4|ja|リヴァイアサン
@@ -83491,10 +83523,12 @@
 18712|4|ja|不遇職【鑑定士】が実は最強だった
 19579|4|ja|不運からの最強男
 17244|4|zh-Hant|不道德公會
+19189|4|zh-Hans|与你相恋到生命尽头
 12760|4|zh-Hans|与僧侣交合的色欲之夜
 17487|4|zh-Hans|与动物交换身体
 16325|2|zh-Hans|与变成了异世界美少女的大叔一起冒险
 16325|4|zh-Hans|与变成了异世界美少女的好友一起冒险
+19720|4|zh-Hans|与奔驰于透明之夜的你，谈一场看不见的恋爱。
 17289|2|zh-Hans|与妖为邻
 18839|4|zh-Hans|与游戏中心的少女异文化交流的故事
 17336|4|zh-Hans|与猫共度的夜晚
@@ -83519,6 +83553,8 @@
 12947|4|zh-Hans|世界之暗图鉴
 19569|4|ja|世界最強の後衛 ~迷宮国の新人探索者~
 20035|4|ja|世界最強の魔女, 始めました
+19569|4|zh-Hant|世界最強後衛 ～迷宮國的新人探索者～
+19569|4|zh-Hans|世界最强的后卫 ～迷宫国的新人探索者～
 16055|4|ja|世界最高の暗殺者, 異世界貴族に転生する
 18207|4|ja|世界最高の暗殺者, 異世界貴族に転生する (2027)
 17618|4|ja|世界名作劇場・完結版 	ポルフィの長い旅
@@ -84002,9 +84038,11 @@
 16198|4|ja|今泉ん家はどうやらギャルの溜まり場になってるらしい
 8454|4|zh-Hans|今生缘
 10628|4|ja|今際の国のアリス
+19484|4|zh-Hans|从0位居民开始的边境领主大人
 18247|4|zh-Hans|从Lv2开始开外挂的前勇者候补过着悠哉异世界生活
 11784|4|zh-Hans|从前有座灵剑山
 12030|4|zh-Hans|从前有座灵剑山 第二季
+19889|4|zh-Hans|从后面来的神威先生
 18703|4|zh-Hans|从姑获鸟开始之龙城风云
 18358|4|zh-Hans|从小人物开始的探索英雄谭
 11376|4|zh-Hans|从很久以前就喜欢你了。～告白实行委员会～
@@ -84054,6 +84092,7 @@
 8748|4|zh-Hans|令人战栗的日本昔话
 19764|4|ja|令和のダラさん
 16381|4|ja|令和のデ・ジ・キャラット
+19764|4|zh-Hans|令和妖神斑小姐
 16381|4|zh-Hant|令和的鈴鐺貓娘
 16381|4|zh-Hans|令和的铃铛猫娘
 2379|2|ja|令嬢キャスター ~淫虐の罠~
@@ -84766,6 +84805,7 @@
 18862|4|zh-Hant|再見，地球 第二季
 16418|2|zh-Hans|再見了，橡果兄弟！
 19337|4|zh-Hant|再見星上人
+18643|4|zh-Hant|再見菈菈
 332|4|zh|再見螢火蟲
 18537|4|zh-Hant|再見龍生，你好人生
 765|4|zh-Hans|再见 银河铁道999 安卓梅达终点站
@@ -84778,6 +84818,7 @@
 2229|4|zh-Hans|再见宇宙战舰大和号 爱的战士们
 19337|4|zh-Hans|再见星上人
 5083|4|zh-Hans|再见绝望先生
+18643|4|zh-Hans|再见菈菈
 18537|4|zh-Hans|再见龙生，你好人生
 6032|2|zh-Hans|再造人卡夏
 81|4|zh-Hans|再造基因
@@ -87516,6 +87557,8 @@
 12105|4|zh-Hans|奇异太郎少年的妖怪绘日记
 17626|4|zh-Hans|奇异贤伴 黑色天使
 18206|4|zh-Hans|奇异贤伴 黑色天使 第二季度
+19573|4|zh-Hant|奇招百出的維多利亞
+19573|4|zh-Hans|奇招百出的维多利亚
 12105|4|ja|奇異太郎少年の妖怪絵日記
 17626|4|zh-Hant|奇異賢伴 黑色天使
 18206|4|zh-Hant|奇異賢伴 黑色天使 第二季度
@@ -87791,6 +87834,7 @@
 1162|4|ja|妖獣教室外伝
 1040|4|ja|妖獣都市
 13191|4|zh-Hans|妖神记
+20200|2|zh-Hans|妖神记 第10季
 14473|4|zh|妖神记 第3季
 15670|2|zh-Hans|妖神记 第4季
 16988|2|zh-Hans|妖神记 第5季
@@ -88540,6 +88584,8 @@
 18271|2|zh-Hans|少女如草花绽放
 940|4|ja|少女小悪魔系
 940|2|ja|少女小悪魔系 ~蠢く女たち~
+19782|4|zh-Hans|少女怪兽焦糖味
+19782|4|zh-Hant|少女怪獸焦糖戀心
 7609|4|ja|少女戦機 ソウルイーター
 8175|4|ja|少女戦機 ブレインジャッカー
 11034|4|ja|少女教育
@@ -88632,6 +88678,7 @@
 6036|2|zh-Hans|尸姬 赫
 10952|4|zh-Hans|尸者的帝国
 7268|4|zh-Hans|尸鬼
+19873|4|zh-Hans|尼古喵喵
 17214|4|zh-Hans|尼尔：自动人形 Ver1.1a
 18134|2|zh-Hans|尼尔：自动人形 Ver1.1a 第2部分
 10395|4|zh-Hans|尽管如此世界依然美丽
@@ -88697,6 +88744,8 @@
 333|2|zh-Hans|岁月的童话
 15089|4|ja|岐阜のたてかよこ
 19837|4|ja|岩元先輩ノ推薦
+19837|4|zh-Hant|岩元前輩的推薦
+19837|4|zh-Hans|岩元前辈的推荐
 1868|4|zh-Hans|岩窟王
 15831|4|ja|岬のマヨイガ
 13812|4|zh-Hans|岸边露伴一动也不动
@@ -89211,9 +89260,11 @@
 18948|4|zh-Hans|徒弟个个是大佬
 12814|4|zh-Hans|徒然Children
 12814|4|ja|徒然チルドレン
+19484|4|zh-Hant|從 0 位居民開始的邊境領主大人
 18247|4|zh-Hant|從Lv2開始開外掛的前勇者候補過著悠哉異世界生活
 19588|4|zh-Hant|從前從前有隻貓！世界喵童話
 11376|2|zh-Hans|從好久以前就喜歡你
+19889|4|zh-Hant|從後面來的神威先生
 18358|4|zh-Hant|從路人角色開始的探索英雄譚
 1958|4|zh-Hans|御伽草子
 1865|4|ja|御先祖様万々歳!
@@ -89754,6 +89805,8 @@
 2435|2|zh-Hant|愛麗絲學園
 6765|4|ja|感染 淫欲の連鎖
 14214|4|ja|感染ソドム
+16000|4|zh-Hant|感謝對戰。～大小姐才不玩格鬥遊戲～
+16000|4|zh-Hans|感谢对战。 ～大小姐才不玩格斗游戏～
 14477|4|zh-Hans|慎重勇者 ～这个勇者明明超强却过分慎重～
 14477|4|ja|慎重勇者~この勇者が俺TUEEEくせに慎重すぎる~
 9704|4|ja|慟哭のナイトメア WAILING NIGHTMARE
@@ -89881,6 +89934,8 @@
 10635|4|zh-Hans|我家浴缸的二三事
 14026|4|zh-Hans|我家的女仆太烦人了！
 14026|4|zh-Hant|我家的女僕有夠煩！
+19755|4|zh-Hans|我家的弟弟们真是让您费心了
+19755|4|zh-Hant|我家的弟弟們真是讓您費心了
 17471|4|zh-Hans|我家的英雄
 14484|4|zh-Hans|我家的莉莉安娜
 18545|2|zh-Hans|我幸福的形式
@@ -90195,6 +90250,8 @@
 17823|4|zh-Hans|手语！
 19690|3|ja|才女のお世話
 19690|4|ja|才女のお世話 高嶺の花だらけな名門校で, 学院一のお嬢様(生活能力皆無)を陰ながらお世話することになりました
+19690|4|zh-Hans|才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐
+19690|4|zh-Hant|才女的侍從 在滿是高嶺之花的貴族學校暗中照顧（毫無生活自理能力的）學院第一大小姐
 2820|2|zh-Hans|扑杀天使
 2820|4|zh-Hans|扑杀天使朵库萝
 5089|4|zh-Hans|扑杀天使朵库萝2
@@ -90260,6 +90317,8 @@
 20198|4|zh-Hans|择日飞升
 14832|4|zh-Hans|拯救侏罗纪
 4595|2|zh-Hans|拯救德尔托拉
+20180|4|zh-Hans|拯救替身千金的是冷酷无情冰之王子的爱
+20180|4|zh-Hant|拯救替身千金的是冷酷無情冰之王子的愛
 11216|4|zh-Hans|拳愿阿修罗
 15110|4|zh-Hans|拳愿阿修罗 Part 2
 17274|4|zh-Hans|拳愿阿修罗 第二季
@@ -90564,6 +90623,7 @@
 14179|4|ja|斗え! スペースアテンダントアオイ
 19147|4|zh-Hans|斗战天下
 3446|2|zh-Hans|斗牌传说
+19462|4|zh-Hans|斗球女弹子
 13721|4|zh|斗破苍穹
 14891|4|zh-Hans|斗破苍穹 Q版小剧场
 14892|4|zh-Hans|斗破苍穹 Q版小剧场 第2季
@@ -90902,6 +90962,7 @@
 4381|2|zh-Hans|无敌看板娘
 2021|4|zh-Hans|无敌飞天侠
 6818|4|zh-Hans|无法逃离的背叛
+19954|4|zh-Hans|无用圣女的异世界美食之旅 凭借隐藏技能召唤露营车
 11964|4|zh-Hans|无畏魔女
 17337|4|zh-Hans|无神世界的神明活动
 4489|2|zh-Hans|无罪维纳斯
@@ -93212,6 +93273,7 @@
 13317|4|zh-Hant|為美好的世界獻上祝福！第二季：為美好的藝術獻上祝福！
 3686|2|zh|為食龍少爺
 18369|4|zh-Hans|炼气十万年
+20204|4|zh-Hans|炼气十万年特别篇 阳极天下
 17874|4|zh-Hans|炼气练了3000年
 4144|2|zh-Hans|炼金3级 魔法少女
 4144|4|zh-Hans|炼金三级魔法少女
@@ -93256,6 +93318,7 @@
 15698|2|ja|無敵級*ビリーバー & 未来ハーモニー
 1812|4|ja|無敵超人ザンボット3
 1813|4|ja|無敵鋼人ダイターン3
+19954|4|zh-Hant|無用聖女的異世界美食之旅 憑藉隱藏技能召喚露營車
 17337|2|zh-Hant|無神世界的神明活動
 2757|4|zh-Hant|無線之戰
 18232|4|ja|無職の英雄 別にスキルなんか要らなかったんだが
@@ -93899,6 +93962,7 @@
 18743|4|ja|現代誤訳
 18743|4|zh-Hant|現代誤譯
 18681|4|zh-Hant|現在的是哪一個多聞！？
+20202|4|ja|現実もたまには嘘をつく
 15505|4|ja|現実主義勇者の王国再建記
 16804|4|ja|現実主義勇者の王国再建記 (2022)
 16804|2|zh-Hant|現實主義勇者的王國重建記 2
@@ -94066,6 +94130,7 @@
 7237|4|ja|町ぐるみの罠 白濁にまみれた肢体
 7237|2|ja|町ぐるみの罠～白濁にまみれた肢体～
 6982|4|ja|町一番のけちんぼう
+19232|4|zh-Hans|画完这个再去死
 12206|4|zh-Hans|画江湖之不良人
 16314|4|zh-Hans|画江湖之不良人 IV
 17145|4|zh-Hans|画江湖之不良人 V
@@ -94155,6 +94220,7 @@
 16046|4|ja|異能のアイシス ESP & HIGH SCHOOL DETECTIVE
 10509|4|ja|異能バトルは日常系のなかで
 19629|4|ja|異郷の爪塗り見習い
+19232|4|zh-Hant|畫完這個再去死
 13323|2|zh-Hant|畫江湖之杯莫停
 14461|4|zh-Hant|當不成魔法師的女孩
 11694|2|zh-Hant|當女孩遇到熊
@@ -94543,9 +94609,11 @@
 13524|4|zh-Hans|碧蓝幻想 第二季
 14396|4|zh-Hans|碧蓝航线
 15327|4|zh-Hans|碧蓝航线：微速前行！
+18188|4|zh-Hans|碧蓝航线：微速前行！第二季
 13734|4|zh-Hant|碧藍之海
 11597|4|zh-Hant|碧藍幻想
 13524|4|zh-Hant|碧藍幻想 第二季
+18188|4|zh-Hant|碧藍航線 微速前進！2
 15392|4|ja|磔
 15392|2|ja|磔(ハリツケ)
 11723|4|ja|磯部磯兵衛物語~浮世はつらいよ~
@@ -94939,6 +95007,8 @@
 4827|4|ja|究極のシェフは美味しんぼパパ
 5215|4|ja|究極超人あ~る
 15905|4|ja|究極進化したフルダイブRPGが現実よりもクソゲーだったら
+19290|4|zh-Hans|穹庐下的魔女
+19290|4|zh-Hant|穹廬下的魔女
 10167|4|ja|空とぶうさぎの誘拐防止 ぼく いやだよ!
 4932|2|ja|空の境界
 5935|4|ja|空の桃太郎
@@ -95861,6 +95931,8 @@
 5921|2|zh-Hans|致命紫罗兰 编号044
 16706|4|zh-Hans|致我深爱的每个你
 16707|4|zh-Hans|致深爱你的那个我
+19720|4|zh-Hant|與奔馳於透明之夜的你，談一場看不見的戀愛。
+19189|4|zh-Hant|與妳相戀到生命盡頭
 16325|2|zh-Hant|與變成了異世界美少女的大叔一起冒險
 18870|4|ja|舌先から恋 ミニアニメ
 6914|4|ja|舌切雀
@@ -97486,6 +97558,8 @@
 2580|4|zh-Hans|遥远时空中 八叶抄
 4058|2|zh-Hans|遥远时空中 剧场版 ~舞一夜~
 7086|2|zh-Hans|遥远时空中3 永无止境的命运
+18854|4|zh-Hant|遭到流放的轉生重騎士憑藉遊戲知識大開無雙
+18854|4|zh-Hans|遭到流放的转生重骑士凭借游戏知识大开无双
 18005|4|zh-Hans|遮天
 20005|4|zh-Hans|遮天剧场版 背棺战王腾
 20005|2|zh-Hans|遮天剧场版：背棺战王腾
@@ -98809,6 +98883,7 @@
 16384|4|zh-Hans|高达破坏者 对战记录
 4480|2|ja|高速社会と人間
 17099|4|ja|高野交差点
+19462|4|zh-Hant|鬥球女彈子
 18071|2|zh-Hant|鬥羅大陸II絕世唐門
 14161|4|zh-Hant|鬥魂衛之玄月奇缘
 4398|4|ja|鬼
@@ -98905,6 +98980,8 @@
 11481|4|zh-Hans|鬼牌游戏
 9183|2|ja|鬼物語
 10263|4|ja|鬼畜 ~母姉妹調教日記~
+19378|4|zh-Hant|鬼的新娘
+19378|4|zh-Hans|鬼的新娘
 7621|4|ja|鬼神伝
 7621|4|zh-Hans|鬼神传
 558|4|ja|鬼神童子ZENKI
@@ -99489,6 +99566,7 @@
 11532|2|zh-Hant|麵包和平!
 11532|2|zh-Hant|麵包帶來和平!
 11532|2|zh-Hant|麵包日常!
+19257|4|zh-Hant|麵包超人電影版：小水滴的英雄！
 13522|2|zh-Hans|麦兜 饭宝奇兵
 11160|4|ja|麻呂の患者はガテン系
 16893|4|zh-Hans|麻神
