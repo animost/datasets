@@ -1,4 +1,4 @@
-# created: Tue Jul 21 03:00:02 2026
+# created: Thu Jul 23 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -13659,6 +13659,7 @@
 18064|2|x-jat|Dr. Stone Season 3 Part 2
 18336|2|en|Dr. Stone Season 4
 19248|2|en|Dr. Stone Season 4 Part 2
+19614|2|en|Dr. Stone Season 4 Part 3
 17053|1|x-jat|Dr. Stone: New World
 17053|4|de|Dr. Stone: New World
 17053|4|en|Dr. Stone: New World
@@ -39337,7 +39338,7 @@
 3091|4|en|Ninja the Wonder Boy
 19177|1|x-jat|Ninja to Gokudou
 18596|1|x-jat|Ninja to Koroshiya no Futarigurashi
-19177|4|en|Ninja Vs. Gokudo
+19177|4|en|Ninja vs. Gokudo
 1959|2|en|Ninja Warrior Tobikage
 3091|4|pl|Ninja, cudowny chłopak
 16979|1|x-jat|Ninjala
@@ -41632,6 +41633,7 @@
 16066|2|ko|OVA 네토시스
 16065|2|ko|OVA 네토카노
 19057|2|ko|OVA 노노하라 유카의 비밀 방송
+20030|2|ko|OVA 발칙함
 16328|2|ko|OVA 사신창관―음란 거유 모녀 산 제물의식
 15780|2|ko|OVA 수국이 질 때
 6285|4|ja|OVA うたわれるもの
@@ -41645,6 +41647,7 @@
 19312|4|ja|OVA ヨゴレタカノジョ
 6285|2|zh-Hans|OVA 传颂之物
 18587|4|ja|OVA 僕にハーレムセフレが出来た理由
+19547|2|zh-Hans|OVA 夏妻
 19547|4|ja|OVA 夏妻
 19105|4|ja|OVA 夕顔
 19105|6|ja|OVA 夕顔[ゆうがお]
@@ -44137,7 +44140,7 @@
 1665|1|x-jat|Princess Holiday: Korogaru Ringo Tei Sen`ya Ichiya
 1665|4|ja|Princess Holiday~転がるりんご亭千夜一夜~
 1665|2|ja|Princess Holiday～転がるりんご亭千夜一夜～
-7927|2|en|Princess Iron Fan
+7927|4|en|Princess Iron Fan
 7531|4|en|Princess Jellyfish
 2482|4|en|Princess Knight
 5639|4|de|Princess Knight Angelica
@@ -44984,6 +44987,7 @@
 4161|1|x-jat|Radio City Fantasy: Machikado no Marchen
 4161|2|x-jat|Radio City Fantasy: Machikado no Meruhen
 4161|4|ja|RADIO-CITY FANTASY 街角のメルヘン
+17498|3|en|Raeliana
 17498|4|de|Raeliana – Warum sie die Verlobte des Dukes wurde
 632|3|x-jat|rag
 1523|3|x-jat|ragani
@@ -52199,6 +52203,8 @@
 9090|4|en|Student Council`s Discretion Lv. 2
 9474|4|en|Student Council`s Discretion Lv. 2: The Student Council Hands Over
 18225|4|en|Studio Apartment, Good Lighting, Angel Included
+20206|1|x-jat|Studio Cabana
+20206|2|en|Studio Cabana
 5208|4|de|Study a Broad - Die Schule des heiligen Wassers
 5331|4|de|Study a Broad - Die Talentförderung
 5331|4|en|Study-A-Broad
@@ -53323,8 +53329,8 @@
 10326|2|en|Tamako Market Movie
 1634|3|x-jat|Tamala
 5480|2|ja|TAMALA 2010
-1634|1|x-jat|Tamala 2010 - A Punk Cat in Space
 1634|4|fr|Tamala 2010 - A Punk Cat in Space
+1634|1|x-jat|Tamala 2010: A Punk Cat in Space
 19490|4|ja|TAMALA 2030 -a punk cat in dark-
 19490|1|x-jat|Tamala 2030: A Punk Cat in Dark
 19490|4|en|Tamala 2030: A Punk Cat in Dark
@@ -56232,6 +56238,8 @@
 2708|2|en|There, Here and Where
 12584|2|en|There`s a Hole in My Bucket
 13647|2|en|There`s a Pit in My Our Big Brother`s Brain
+12921|2|en|There`s No Cure for My Brother!
+14098|2|en|There`s No Cure for My Brother! 2
 19001|4|en|There`s No Freaking Way I`ll be Your Lover! Unless...
 14468|2|en|There`s No Way That A Perfect Lady Like Me Will Easily Kneel Down And Degrade Myself Into A Mere Masochist!
 16799|4|en|There`s Something Off With This Company...!
@@ -56812,6 +56820,7 @@
 4384|3|x-jat|Tokimemo
 292|3|x-jat|tokimemo ova
 7411|3|x-jat|tokimemo ova 2
+20205|4|ja|Tokio kido porisu
 802|1|x-jat|Tokio Kidou Police
 5891|2|de|Tokio Love Story
 802|4|en|Tokio Private Police
@@ -56916,6 +56925,7 @@
 2989|4|en|Tokyo Pig
 802|4|fr|Tokyo Police Privée
 802|4|de|Tokyo Private Police
+20205|1|it|Tokyo Private Police - Poliziotte, robottoni e pistoni
 8005|4|ja|Tokyo Punch!
 8005|1|x-jat|Tokyo Punch!
 9481|1|x-jat|Tokyo Ravens
@@ -59381,6 +59391,7 @@
 870|1|x-jat|Virgin Night
 18866|1|x-jat|Virgin Punk
 18866|4|en|Virgin Punk
+18866|2|en|Virgin Punk: Clockwork Girl
 1627|4|en|Virgin Touch
 11223|3|x-jat|virginsoul
 1647|1|x-jat|Virtua Fighter
@@ -61566,6 +61577,7 @@
 12791|1|x-zht|Yi Kong Zhi Dian
 18384|1|x-zht|Yi Nian Yong Heng Di San Ji
 16619|1|x-zht|Yi Nian Yong Heng: Chuan Cheng Pian
+20207|1|x-zht|Yi Nian Yong Heng: Wanjie Ji
 15693|1|x-zht|Yi Nian Yongheng
 18461|1|x-zht|Yi Ren Jun Moye
 12200|2|x-zht|Yi Ren Zhi Xia
@@ -77780,6 +77792,7 @@
 18136|4|ja|シーキャット
 8376|2|ja|シーキューブ
 5015|2|ja|シークエンス
+1423|2|ja|シークレット アニマ シリーズ
 20130|4|ja|シークレット キャッチ! ティニピン
 11759|2|ja|シークレット・ジャーニー
 1186|2|ja|シークレットアニマシリーズ
@@ -78211,6 +78224,7 @@
 19827|4|ja|スタァライトプロジェクト
 1610|4|ja|スタイアー ~放課後のアルバム~
 17173|4|ja|スタこれ
+20206|4|ja|スタジオカバナ
 7240|3|ja|スタスカ
 20126|4|ja|すだちの魔王城
 7591|3|ja|スタドラ
@@ -83222,6 +83236,7 @@
 14553|4|zh-Hans|一弦定音！第二季
 15693|4|zh-Hans|一念永恒
 16619|4|zh-Hans|一念永恒 传承篇
+20207|4|zh-Hans|一念永恒 完结季
 18384|4|zh-Hans|一念永恒 第三季
 16619|2|zh-Hans|一念永恒 第二季
 11123|4|zh-Hans|一拳超人
@@ -93505,6 +93520,7 @@
 891|4|zh-Hans|爱天使传说婚纱桃子
 174|4|zh-Hans|爱姐妹～二人的果实～
 17800|4|zh|爱幽的密室
+19976|2|zh-Hans|爱心符号多一点。
 2372|2|zh-Hans|爱情泡泡糖
 100|2|zh-Hans|爱情白皮书
 18856|4|zh-Hans|爱有些沉重的黑暗精灵从异世界追过来了
