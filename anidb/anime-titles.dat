@@ -1,4 +1,4 @@
-# created: Thu Jul 23 03:00:01 2026
+# created: Fri Jul 24 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3963,6 +3963,7 @@
 12245|2|en|Assassination Classroom the Movie 365 Days
 12245|4|en|Assassination Classroom the Movie: 365 Days Time
 19567|2|en|Assassination Classroom the Movie: Everybody`s Time
+19567|2|en|Assassination Classroom the Movie: Our Time
 11203|2|en|Assassination Classroom: Final Season
 11203|4|en|Assassination Classroom: Second Season
 15475|2|en|Assassination Classroom: Second Season - Extra Lesson
@@ -5503,6 +5504,7 @@
 219|3|x-jat|bebop movie
 23|3|x-jat|Bebop TV
 7978|4|en|Because I Don`t Like My Big Brother at All!
+20209|2|en|Because I, the True Saint, was Banished, that Country Is Done For!
 2320|3|en|Beck
 2320|4|fr|Beck - Mongolian Chop Squad
 2320|4|it|Beck - Mongolian Chop Squad
@@ -17275,6 +17277,7 @@
 12005|2|en|From now, I`m......
 18793|4|en|From Old Country Bumpkin to Master Swordsman
 19400|2|en|From Old Country Bumpkin to Master Swordsman II
+19400|2|en|From Old Country Bumpkin to Master Swordsman Season 2
 19896|4|en|From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage
 1383|4|en|From the Apennines to the Andes
 4751|4|en|From the Apennines to the Andes: The Movie
@@ -25363,15 +25366,6 @@
 10137|2|en|Is Alive
 8586|3|en|IS Encore
 10894|2|nl|Is het Verkeerd om Meisjes Op te Pikken in Een Dungeon?
-18704|2|en|Is it the King?
-18705|2|en|Is it the King? 2nd Season
-18706|2|en|Is it the King? 3rd Season
-19114|2|en|Is it the King? 4th Season
-19654|2|en|Is it the King? 5th Season
-18705|2|en|Is it the King? Season 2
-18706|2|en|Is it the King? Season 3
-19114|2|en|Is it the King? Season 4
-19654|2|en|Is it the King? Season 5
 12350|2|en|Is It True That It’s Summer Vacation?
 10652|2|en|Is it worth it?
 10894|4|en|Is It Wrong to Try to Pick Up Girls in a Dungeon?
@@ -25405,6 +25399,15 @@
 9241|4|en|Is This a Zombie? Of the Dead: Yes, Thank You for This Encore
 9129|4|en|Is This a Zombie? Of the Dead: Yes, This Suits Me Just Fine
 8448|4|en|Is This a Zombie? OVA: Eh, Is This the Final Episode?
+18704|2|en|Is This Honor of Kings?
+18705|2|en|Is This Honor of Kings? 2nd Season
+18706|2|en|Is This Honor of Kings? 3rd Season
+19114|2|en|Is This Honor of Kings? 4th Season
+19654|2|en|Is This Honor of Kings? 5th Season
+18705|2|en|Is This Honor of Kings? Season 2
+18706|2|en|Is This Honor of Kings? Season 3
+19114|2|en|Is This Honor of Kings? Season 4
+19654|2|en|Is This Honor of Kings? Season 5
 7727|1|x-jat|IS: Infinite Stratos
 7727|4|en|IS: Infinite Stratos
 7727|4|de|IS: Infinite Stratos
@@ -26910,6 +26913,7 @@
 14111|4|en|Kaguya-sama: Love Is War
 14111|4|fr|Kaguya-sama: Love Is War
 19402|4|en|Kaguya-sama: Love Is War - Stairway to Adulthood
+19402|4|fr|Kaguya-sama: Love Is War - Stairway to Adulthood
 17477|4|en|Kaguya-sama: Love Is War - The First Kiss That Never Ends
 15806|4|en|Kaguya-sama: Love Is War - Ultra Romantic
 17477|4|fr|Kaguya-sama: Love Is War -The First Kiss That Never Ends-
@@ -28184,6 +28188,7 @@
 4195|1|x-jat|Kidou Senshi Gundam MS Igloo: Mokushiroku 0079
 14042|1|x-jat|Kidou Senshi Gundam Narrative
 14042|2|x-jat|Kidou Senshi Gundam NT
+20210|1|x-jat|Kidou Senshi Gundam RG: Alex-Zero
 252|1|x-jat|Kidou Senshi Gundam SEED
 4366|1|x-jat|Kidou Senshi Gundam SEED C.E. 73 Stargazer
 2186|1|x-jat|Kidou Senshi Gundam SEED Destiny
@@ -28936,6 +28941,7 @@
 9857|4|es-419|Kitakubu Katsudou Kiroku
 9857|1|x-jat|Kitakubu Katsudou Kiroku
 9857|4|es|Kitakubu Katsudou Kiroku
+16107|4|fr|Kitaro Birth: The Mystery of GeGeGe
 11317|2|x-jat|Kitaro Tanjo Hen
 16107|1|x-jat|Kitarou Tanjou: Gegege no Nazo
 3401|3|en|KitD
@@ -30152,6 +30158,8 @@
 11979|4|de|Küss ihn, nicht mich!
 2573|1|x-jat|Kussetsu
 19276|1|x-jat|Kusunoki no Bannin
+20208|1|x-jat|Kusunoki-san wa Koukou Debut ni Shippai Shite Iru
+20208|2|en|Kusunoki`s Flunking Her High School Glow-Up
 19472|4|de|Kusunoki`s Garden of Gods
 19472|4|en|Kusunoki`s Garden of Gods
 17870|1|x-jat|Kusuriya no Hitorigoto
@@ -39618,6 +39626,7 @@
 13|2|x-jat|noir tv
 1165|3|x-jat|noiseman
 1165|4|en|Noiseman Sound Insect
+1165|4|fr|Noiseman Sound Insect
 4453|1|x-jat|Noisy Birth
 9398|2|pt|Noivas Samurais
 9398|2|pt|Noivas Samurais das Cem Flores
@@ -49475,6 +49484,7 @@
 17693|2|x-jat|Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life Suru Koto ni Shimashita 2nd
 17693|2|x-jat|Shin no Nakama S2
 17693|2|x-jat|Shin no Nakama Season 2
+20209|1|x-jat|Shin no Seijo de Aru Watashi wa Tsuihou Saremashita. Dakara Kono Kuni wa Mou Owari Desu
 2585|1|x-jat|Shin Obake no Q-Tarou
 4748|1|x-jat|Shin Onimusha: Dawn of Dreams the Story
 7095|1|x-jat|Shin Otokogi
@@ -49669,6 +49679,7 @@
 17693|3|x-jat|shinnaka s2
 17693|2|ja|shinnaka2
 15853|3|x-jat|shinnonakama
+20209|3|x-jat|shinnoseijo
 2601|1|x-jat|Shino-sensei no Yuuwaku Jugyou
 2601|4|de|Shino`s Verführung
 18165|1|x-jat|Shinobanai! Crypto Ninja Sakuya
@@ -54654,6 +54665,7 @@
 15924|2|en|The Dragon and Freckled Princess
 12359|4|en|The Dragon Dentist
 12359|4|it|The Dragon Dentist
+12359|4|fr|The Dragon Dentist
 19750|2|en|The Dragon Spirit
 7209|4|en|The Dream Machine
 17726|4|en|The Dreaming Boy is a Realist
@@ -58553,6 +58565,7 @@
 9647|2|en|Underwater Expedition Marin X
 6985|2|it|Undici campioni
 15235|3|x-jat|une
+18597|4|fr|Une aube nouvelle
 16799|2|fr|Une entreprise plutôt… déconcertante
 14197|2|fr|Une fille sous effet de serre
 16913|2|fr|Une garance plumée & souillée
@@ -62050,6 +62063,7 @@
 8402|2|en|Younger Sister Paradise!
 9898|2|en|Younger Sister Paradise! 2
 5155|4|en|Your Choice!
+17753|4|fr|Your Color
 18117|1|x-jat|Your Forma
 18117|2|en|Your Forma
 10539|4|en|Your Lie in April
@@ -92112,6 +92126,7 @@
 2454|4|ja|椿色のプリジオーネ
 17071|4|ja|楓と鈴 THE ANIMATION
 6305|4|ja|楓ニュータウン
+20208|4|ja|楠木さんは高校デビューに失敗している
 19472|4|zh-Hans|楠木邸的神明庭院
 19472|4|zh-Hant|楠木邸的神明庭院
 5258|4|ja|楳図かずおの呪い
@@ -92258,6 +92273,7 @@
 4166|4|ja|機動戦士ガンダムII 哀・戦士編
 4167|4|ja|機動戦士ガンダムIII めぐりあい宇宙[そら]編
 14042|4|ja|機動戦士ガンダムNT (ナラティブ)
+20210|4|ja|機動戦士ガンダムRG XARX-ZERO
 4170|2|ja|機動戦士ガンダムSDESTINY FINAL PLUS 選ばれた未来
 4466|2|ja|機動戦士ガンダムSDESTINY それぞれの剣
 4457|2|ja|機動戦士ガンダムSDESTINY 砕かれた世界
@@ -94505,6 +94521,8 @@
 15853|4|ja|真の仲間じゃないと勇者のパーティーを追い出されたので, 辺境でスローライフすることにしました
 17693|4|ja|真の仲間じゃないと勇者のパーティーを追い出されたので, 辺境でスローライフすることにしました 2nd
 17693|2|ja|真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました 第2期
+20209|3|ja|真の聖女
+20209|4|ja|真の聖女である私は追放されました. だからこの国はもう終わりです
 6397|4|ja|真マジンガー 衝撃! Z編 on television
 8230|4|ja|真剣で私に恋しなさい!!
 8230|3|ja|真剣恋
