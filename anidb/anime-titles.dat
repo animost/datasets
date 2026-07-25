@@ -1,4 +1,4 @@
-# created: Fri Jul 24 03:00:01 2026
+# created: Sat Jul 25 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1258,6 +1258,9 @@
 15693|4|en|A Will Eternal
 16619|2|en|A Will Eternal 2
 18384|2|en|A Will Eternal 3
+18384|2|en|A Will Eternal 3rd Season
+20207|2|en|A Will Eternal 4
+20207|4|en|A Will Eternal Final Season
 200|4|en|A Wind Named Amnesia
 8208|2|en|A Wind Skimming the River`s Surface
 19290|2|en|A Witch`s Life in Mongol
@@ -3158,6 +3161,7 @@
 9985|1|x-jat|Ansatsu Kyoushitsu
 10702|1|x-jat|Ansatsu Kyoushitsu (2015)
 11203|1|x-jat|Ansatsu Kyoushitsu (2016)
+19567|2|x-jat|Ansatsu Kyoushitsu Movie - Minna no Jikan
 15475|2|x-jat|Ansatsu Kyoushitsu: Dai 2 Ki - Kagaijugyou Hen
 11203|2|x-jat|Ansatsu Kyoushitsu: Final Season
 11203|2|x-jat|Ansatsu Kyoushitsu: Second Season
@@ -3397,6 +3401,8 @@
 8055|1|x-jat|Appleseed XIII
 8055|4|en|Appleseed XIII
 8311|4|en|Appleseed XIII: Tartaros & Ouranos
+8311|4|pt|Appleseed XIII: Tártaros e Urano
+8311|2|pt-BR|Appleseed XIII: Tártaros e Urano
 10636|2|ja|Appleseed α
 10636|4|pt|Appleseed: Alpha - O filme
 5080|4|pl|Appleseed: Ex Machina
@@ -9261,6 +9267,8 @@
 3652|4|tr|Cici Kız Georgie
 890|4|pt|Cidade Assombrada - Inocência
 6122|2|pt|Cidade Assombrada Nova Versão
+1023|2|pt|Cidade Demoníaca Shinjuku
+1023|2|pt-BR|Cidade Demoníaca Shinjuku
 1040|4|pt|Cidade Maligna
 1040|2|pt-BR|Cidade Maligna
 1040|2|pt|Cidade Perversa
@@ -9505,7 +9513,7 @@
 4579|4|en|Cleopatra: Queen of Sex
 18730|4|en|Clevatess
 19581|4|en|Clevatess II
-19581|1|x-jat|Clevatess II: Majuu no Ou to Akago to Shikabane no Yuusha
+19581|1|x-jat|Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou
 19581|2|en|Clevatess S2
 18730|1|x-jat|Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha
 3466|4|en|Clever Sarutobi
@@ -9853,6 +9861,8 @@
 11836|3|x-jat|ConRevo 2
 11836|3|x-jat|ConRevo s2
 4252|4|en|Consenting Adultery
+335|2|pt|Consigo Ouvir o Oceano
+335|2|pt-BR|Consigo Ouvir o Oceano
 17216|1|en|Conspiracy of Love (2019)
 12892|4|ko|Contact
 12892|1|x-kot|Contact
@@ -11643,6 +11653,7 @@
 18067|4|de|Demon Slayer: Hashira Training Arc
 18067|4|en|Demon Slayer: Hashira Training Arc
 18699|4|en|Demon Slayer: Infinity Castle
+18699|2|en|Demon Slayer: Infinity Castle I
 14107|2|en|Demon Slayer: Kimetsu no Yaiba
 14107|4|fr|Demon Slayer: Kimetsu no Yaiba
 17198|4|pt-BR|Demon Slayer: Kimetsu no Yaiba - Arco da Vila dos Ferreiros
@@ -16519,6 +16530,8 @@
 16642|1|x-zht|Fei Zhi Baike Yuanlai Ni Shi Zheyang Di Zhiwu
 16644|1|x-zht|Fei Zhi Baike Yuanlai Ni Shi Zheyang Di Zhiwu (2021)
 17506|1|x-zht|Feiqi Zhi Cheng
+13611|2|pt-BR|Feitiçaria na Cidade Grande
+13611|4|pt|Feitiçaria na Grande Cidade
 4594|2|pt-BR|Felicidade!
 12871|1|x-jat|Felix no Mei Tantei
 12871|4|ja|FELIXノ迷探偵
@@ -17562,6 +17575,7 @@
 4784|2|x-jat|Funny Pets 2nd Season Plus
 4784|4|ja|Funny Pets 2ndシーズン
 4069|2|x-jat|Funny Pets Plus
+20030|1|x-jat|Furachi
 4323|2|x-jat|Furakappa
 18301|1|x-jat|Fureru.
 117|2|x-jat|Furi Curi
@@ -20842,6 +20856,8 @@
 1304|2|ja|GUNNDRESS
 147|4|fr|Gunnm
 147|3|x-jat|Gunnm
+9327|2|pt|Gunnm 3D Especial
+9327|2|pt-BR|Gunnm 3D Especial
 9327|1|x-jat|Gunnm 3D Special
 518|4|en|Gunparade March
 518|4|fr|Gunparade March
@@ -26476,6 +26492,7 @@
 16612|1|x-zht|Jueshi Wu Hun
 16612|2|x-zht|Jueshi Wuhun
 18604|1|x-zht|Jueshi Zhan Hun
+20212|1|x-zht|Jueshi Zhan Hun 2nd Season
 2078|2|hu|Juharfalva lakói
 14843|4|ja|Juicy Jungle
 14843|1|x-jat|Juicy Jungle
@@ -32763,8 +32780,12 @@
 704|2|en|Lupin III: Die, Nostradamus!
 989|4|es|Lupin III: El Oro de Babilonia
 5367|2|en|Lupin III: Elusiveness of the Fog
+821|4|pt|Lupin III: Episódio 0 - Primeiro Contato
+821|2|pt-BR|Lupin III: Episódio 0 - Primeiro Contato
 9937|2|en|Lupin III: Family All-Stars
 704|4|en|Lupin III: Farewell to Nostradamus
+9937|2|pt-BR|Lupin III: Formação da Família
+9937|4|pt|Lupin III: Formação da Família
 987|2|en|Lupin III: From Russia with Love
 987|4|en|Lupin III: From Siberia With Love
 1941|4|it|Lupin III: Fuga da Alcatraz
@@ -33089,6 +33110,8 @@
 5296|4|ja|m-flo Loves Chara: Love to Live By
 4529|3|x-jat|m-kun
 9853|1|x-jat|M-ogui: Last Order
+9853|2|pt-BR|M-ogui: Último Pedido
+9853|4|pt|M-ogui: Último Pedido
 5435|3|x-jat|m;y
 1487|4|en|M.D. Geist
 1487|4|de|M.D. Geist
@@ -36252,6 +36275,8 @@
 4843|2|x-jat|Miyazawa Kenji Meisaku Anime Series: Donguri to Yamaneko
 3583|2|x-jat|Miyazawa Kenji Meisaku Anime Series: Kaze no Matasaburou
 15373|4|it|Miyo - Un amore felino
+5297|4|pt|Miyori e a Floresta Mágica
+5297|2|pt-BR|Miyori e a Floresta Mágica
 5297|1|x-jat|Miyori no Mori
 5297|2|en|Miyori`s Forest
 5297|2|en|Miyori`s Wood
@@ -41625,7 +41650,6 @@
 18587|2|x-jat|OVA Boku ni Harem Sefure ga Dekita Riyuu
 18587|1|x-jat|OVA Boku ni Harem Sexfriend ga Dekita Riyuu
 13769|2|en|OVA Complete Slut See their true colors Russian Step-Mother and Step-Sisters All you can have Sex
-20030|1|x-jat|OVA Furachi
 18756|1|x-jat|OVA Incha Couple ga You Gal-tachi to Sex Training Suru Hanashi
 19704|1|x-jat|OVA Kegareboshi
 13769|1|x-jat|OVA Muttsuri Do Sukebe Ro Gibo Shimai no Honshitsu Minuite Sex Zanmai
@@ -41651,7 +41675,6 @@
 18049|2|ja|OVA ツンデロシリーズ
 11271|4|ja|OVA ツンプリ
 19313|4|ja|OVA トナリノカノジョ
-20030|4|ja|OVA フラチ
 13769|4|ja|OVA むっつりドスケベ露義母姉妹の本質見抜いてセックス三昧
 19312|4|ja|OVA ヨゴレタカノジョ
 6285|2|zh-Hans|OVA 传颂之物
@@ -42253,6 +42276,7 @@
 10074|1|x-jat|Peeping Life: YouTuber-kun
 7731|4|ja|Peeping Life劇場オリジナル版
 18604|2|en|Peerless Battle Spirit
+20212|2|en|Peerless Battle Spirit 2nd Season
 19592|2|en|Peerless Divine Emperor
 16612|2|en|Peerless Martial Spirit
 7804|2|en|Pekkle in Drakestail
@@ -46427,6 +46451,7 @@
 4832|4|en|Romeo x Juliet
 2023|2|en|Romeo`s Blue Skies
 4832|2|pt-BR|Romeu e Julieta
+19139|4|es-419|Rompiendo el hielo
 17783|2|en|Ron Kamonohashi: Deranged Detective
 17783|4|fr|Ron Kamonohashi: Deranged Detective
 17783|4|en|Ron Kamonohashi`s Forbidden Deductions
@@ -47671,6 +47696,7 @@
 1232|1|x-jat|Sangokushi Dai Ni Bu Choukou Moyu!
 5408|1|x-jat|Sangokushi Dai San Bu: Haruka Naru Daichi
 1599|2|es|Sangre Real
+20211|1|x-zht|Sanguo Sha: Taiping Tianshu
 14888|2|x-zht|Sanguo Yanyi
 18678|1|x-zht|Sanguo Yanyi Di Er Ji: Zhulu Zhongyuan
 18640|1|x-zht|Sanguo Yanyi Di San Ji
@@ -49621,6 +49647,8 @@
 2665|2|x-jat|Shinjin Tour Conductor
 2665|1|x-jat|Shinjin Tour Conductor Rina
 18989|1|x-jat|Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift "Mugen Gacha" de Level 9999 no Nakama-tachi o Te ni Irete Moto Party Member to Sekai ni Fukushuu & "Zamaa!" Shimasu!
+1023|2|pt-BR|Shinjuku Cidade Demoníaca
+1023|4|pt|Shinjuku Cidade Demoníaca
 6352|1|x-jat|Shinjuku Shin-chan Patrol: Warui Otona ni Ki o Tsukete
 14257|2|x-jat|Shinjuku-ku Kabukichou
 17737|1|x-jat|Shinjuku//Actors-Nova
@@ -52513,7 +52541,11 @@
 1329|2|en|Super Heavy God Gravion Two
 1329|2|en|Super Heavy God Gravion Zwei
 18604|2|en|Super Heroic
-18604|2|en|Super Heroic Spirit
+20212|2|en|Super Heroic 2nd Season
+18604|4|en|Super Heroic Spirit
+20212|2|en|Super Heroic Spirit 2
+20212|2|en|Super Heroic Spirit 2nd Season
+20212|4|en|Super Heroic Spirit Season 2
 4928|2|en|Super High Speed Galvion
 15241|4|en|Super HxEros
 4666|2|en|Super Inventor Boy Kanipan
@@ -53351,6 +53383,8 @@
 9525|3|x-jat|Tamama
 10326|3|x-jat|Tamama movie
 19279|1|x-jat|Tamaranai no wa Koi na no ka
+12742|2|pt-BR|Tamashii: Insere
+12742|4|pt|Tamashii: Insere
 12742|1|x-jat|Tamashii: Insert
 14960|1|x-jat|Tamayomi
 14960|4|en|Tamayomi: The Baseball Girls
@@ -56832,7 +56866,6 @@
 4384|3|x-jat|Tokimemo
 292|3|x-jat|tokimemo ova
 7411|3|x-jat|tokimemo ova 2
-20205|4|ja|Tokio kido porisu
 802|1|x-jat|Tokio Kidou Police
 5891|2|de|Tokio Love Story
 802|4|en|Tokio Private Police
@@ -56937,7 +56970,6 @@
 2989|4|en|Tokyo Pig
 802|4|fr|Tokyo Police Privée
 802|4|de|Tokyo Private Police
-20205|1|it|Tokyo Private Police - Poliziotte, robottoni e pistoni
 8005|4|ja|Tokyo Punch!
 8005|1|x-jat|Tokyo Punch!
 9481|1|x-jat|Tokyo Ravens
@@ -59539,6 +59571,8 @@
 8073|4|fr|Voyage vers Agartha
 16551|1|x-jat|Voyager
 1975|4|en|Voyeur`s Digest
+104|4|pt|Vozes de Uma Estrela Distante
+104|2|pt-BR|Vozes de Uma Estrela Distante
 9513|3|x-jat|VQ
 9276|2|ro|Vrăjitoarea De Oțel Annerose
 2738|4|nl|Vrouwtje Theelepel
@@ -61588,9 +61622,11 @@
 7569|2|en|Yet the Town Turns
 2061|2|x-jat|YGO
 12791|1|x-zht|Yi Kong Zhi Dian
+18384|2|x-zht|Yi Nian Yong Heng 3rd Season
 18384|1|x-zht|Yi Nian Yong Heng Di San Ji
 16619|1|x-zht|Yi Nian Yong Heng: Chuan Cheng Pian
 20207|1|x-zht|Yi Nian Yong Heng: Wanjie Ji
+18384|2|x-zht|Yi Nian Yong Heng: Zhizi Pian
 15693|1|x-zht|Yi Nian Yongheng
 18461|1|x-zht|Yi Ren Jun Moye
 12200|2|x-zht|Yi Ren Zhi Xia
@@ -65250,6 +65286,7 @@
 7109|2|ru|Карманные монстры: Мюцу! Я существую
 9186|4|bg|Карнавал
 4001|4|bg|Карол
+18581|4|ru|Карта детектива Такао Амэку
 3470|2|ru|Картинки с выставки
 241|2|ru|Касание
 6613|2|bg|Катанагатари
@@ -65606,6 +65643,7 @@
 3674|4|ru|Легенда о принцессе Белоснежке
 4989|2|ru|Легенда о Сириусе
 1864|2|ru|Легенда о Хикари
+3611|4|ru|Легенда об Ангеле
 891|2|ru|Легенда об ангеле любви: Свадебный Персик
 2863|2|uk|Легенда про Зорро
 7315|4|uk|Легенда про легендарних героїв
@@ -66588,6 +66626,7 @@
 17557|4|ru|Переродившись в торговый автомат, я блуждаю по подземелью
 17015|4|ru|Переродился, чтобы стать мастером меча: из великого короля в ученицу рыцаря
 2640|2|ru|Перерождение
+18366|4|ru|Перерождение мужчины средних лет в дочь дворянина
 17159|4|ru|Перерождение сильнейшего экзорциста в другом мире
 18201|4|ru|Перерождение: Монстр
 16917|2|ru|Перестану быть героем
@@ -66883,6 +66922,7 @@
 7008|2|ru|Президент студенческого совета - горничная!
 7008|2|uk|Президент студради - покоївка
 7008|2|ru|Президент студсовета - горничная!
+18736|4|ru|Преимущество при рождении
 9306|2|ru|Прекрасная воительница Сейлор Мун: Кристалл
 18447|2|ru|Прекрасная грудь с доставкой
 9722|2|ru|Прекрасные деньки
@@ -68202,6 +68242,7 @@
 979|4|sr|Челични алхемичар/Čelični alhemičar
 7999|2|ru|Человек на моноцикле
 15914|4|ru|Человек-бензопила
+18324|4|ru|Человек-Бензопила: История Резе
 7412|2|ru|Человек-герой
 12986|4|ru|Человек-дьявол: плакса
 15400|2|ru|Человек, выбранный богами
@@ -68313,6 +68354,7 @@
 5685|2|uk|Шкільні дні: день святого Валентина
 5536|2|uk|Шкільні дні: магічне серце☆Кокоро-чан
 13741|2|ru|Школа гипноза
+7382|4|ru|Школа мертвецов
 7382|2|ru|Школа Мёртвых
 7382|2|uk|Школа мерців
 9208|4|ru|Школа под прицелом
@@ -81136,6 +81178,7 @@
 10854|2|ja|プラスティック・メモリーズ
 10854|4|ja|プラスティック･メモリーズ
 5531|4|ja|ブラスレイター
+20030|4|ja|フラチ
 15936|4|ja|プラチナエンド
 686|2|ja|ブラック・ジャック (1996)
 7544|4|ja|ブラック・ジャック (2001)
@@ -83251,8 +83294,12 @@
 15693|4|zh-Hans|一念永恒
 16619|4|zh-Hans|一念永恒 传承篇
 20207|4|zh-Hans|一念永恒 完结季
+18384|2|zh-Hans|一念永恒 第3季
+20207|2|zh-Hans|一念永恒 第4季
 18384|4|zh-Hans|一念永恒 第三季
 16619|2|zh-Hans|一念永恒 第二季
+20207|2|zh-Hans|一念永恒 第四季
+18384|2|zh-Hans|一念永恒 质子篇
 11123|4|zh-Hans|一拳超人
 11123|4|zh-Hant|一拳超人
 11637|4|zh-Hans|一拳超人 OAD
@@ -83433,6 +83480,7 @@
 5408|4|ja|三国志 第三部 遥かなる大地
 1232|4|ja|三国志 第二部 長江燃ゆ!
 7715|4|ja|三国志II 天翔ける英雄たち
+20211|4|zh-Hans|三国杀：太平天书
 14888|4|zh-Hans|三国演义
 18640|4|zh-Hans|三国演义 第三季
 18678|4|zh-Hans|三国演义 第二季 逐鹿中原
@@ -95527,6 +95575,8 @@
 8270|4|zh-Hans|给桃子的信
 18071|2|zh-Hans|绝世唐门
 18604|4|zh-Hans|绝世战魂
+20212|4|zh-Hans|绝世战魂 第2季
+20212|2|zh-Hans|绝世战魂 第二季
 16612|4|zh-Hans|绝世武魂
 19592|4|zh-Hans|绝世神皇
 17669|4|zh-Hans|绝代双骄
