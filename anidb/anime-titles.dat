@@ -1,4 +1,4 @@
-# created: Sat Jul 25 03:00:02 2026
+# created: Sun Jul 26 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6395,6 +6395,7 @@
 5352|2|en|BLEACH The Movie: The DiamondDust Rebellion Another Hyourinmaru
 2369|2|x-jat|bleach tv
 15449|4|ja|BLEACH 千年血戦篇
+19079|2|ja|BLEACH 千年血戦篇 最終クール
 18220|4|ja|BLEACH 千年血戦篇-相剋譚-
 19079|4|ja|BLEACH 千年血戦篇-禍進譚-
 17765|4|ja|BLEACH 千年血戦篇-訣別譚-
@@ -6414,6 +6415,8 @@
 17765|1|x-jat|Bleach: Sennen Kessen Hen - Ketsubetsu Tan
 18220|1|x-jat|Bleach: Sennen Kessen Hen - Soukoku Tan
 18220|2|x-jat|Bleach: Sennen Kessen Hen Part 3
+19079|2|x-jat|Bleach: Sennen Kessen Hen Saishuu Cour
+19079|2|x-jat|Bleach: Sennen Kessen-hen - Kashin-tan
 15449|4|de|Bleach: Thousand-Year Blood War
 15449|4|en|Bleach: Thousand-Year Blood War
 15449|4|fr|Bleach: Thousand-Year Blood War
@@ -6424,6 +6427,7 @@
 17765|4|en|Bleach: Thousand-Year Blood War - The Separation
 17765|4|de|Bleach: Thousand-Year Blood War - The Separation
 18220|2|en|Bleach: Thousand-Year Blood War Arc Part 3
+19079|2|en|Bleach: Thousand-Year Blood War Final Part
 15449|2|bg|Bleach: Хилядолетната кървава война
 15449|3|x-jat|Bleach2
 17765|3|x-jat|Bleach3
@@ -6842,6 +6846,7 @@
 17547|1|x-jat|Boku no Kokoro no Yabai Yatsu
 18066|1|x-jat|Boku no Kokoro no Yabai Yatsu (2024)
 19950|1|x-jat|Boku no Kokoro no Yabai Yatsu (2027)
+18066|2|x-jat|Boku no Kokoro no Yabai Yatsu 2nd Season
 18890|2|x-jat|Boku no Kokoro no Yabai Yatsu Movie
 1489|1|x-jat|Boku no Marie
 17359|1|x-jat|Boku no Me wa Neko no Me
@@ -8077,6 +8082,7 @@
 14593|2|en|Captive Drops: Virgins Defiled on a Luxury Cruise Ship in Summer
 505|3|x-jat|captsuba
 5764|2|fr|Capture démonique sur l’île Ryoushoku
+16748|2|en|Capybara Bathhouse
 288|4|it|Cara Dolce Kyoko
 13870|1|x-jat|Cara to Otamajakushijima
 14128|1|x-jat|Caramel Honey
@@ -17768,6 +17774,7 @@
 18724|4|en|Fuuto PI: The Portrait of Kamen Rider Skull
 18724|4|de|Fuuto PI: The Portrait of Kamen Rider Skull
 16186|1|x-jat|Fuuto Tantei
+18724|3|x-jat|Fuuto Tantei Movie
 18724|1|x-jat|Fuuto Tantei: Kamen Rider Skull no Shouzou
 10365|2|x-jat|Fuuun Ishin Dai Shogun
 10365|1|x-jat|Fuuun Ishin Dai Shougun
@@ -18486,6 +18493,7 @@
 666|4|en|Gekigangar 3
 666|2|en|Gekiganger 3
 666|1|x-jat|Gekiganger 3: Nekketsu Daikessen!!
+20214|1|x-jat|Gekijou Ginga Tetsudou 999
 15922|1|x-jat|Gekijou Henshuuban Kakushigoto: Himegoto wa Nandesuka
 19596|1|x-jat|Gekijou Henshuuban Summer Pockets
 8311|1|x-jat|Gekijou Remix Ban Appleseed XIII
@@ -25420,10 +25428,12 @@
 18706|2|en|Is This Honor of Kings? 3rd Season
 19114|2|en|Is This Honor of Kings? 4th Season
 19654|2|en|Is This Honor of Kings? 5th Season
+20213|2|en|Is This Honor of Kings? 6th Season
 18705|2|en|Is This Honor of Kings? Season 2
 18706|2|en|Is This Honor of Kings? Season 3
 19114|2|en|Is This Honor of Kings? Season 4
 19654|2|en|Is This Honor of Kings? Season 5
+20213|2|en|Is This Honor of Kings? Season 6
 7727|1|x-jat|IS: Infinite Stratos
 7727|4|en|IS: Infinite Stratos
 7727|4|de|IS: Infinite Stratos
@@ -26168,6 +26178,7 @@
 16760|1|x-zht|Jiyi Guanli Ju
 19175|1|x-jat|Jiyi Guanli Ju (2025)
 20174|1|x-zht|Jiyi Guanli Ju (2026)
+20216|1|x-zht|Jiyi Guanli Ju(2026)
 14377|1|x-zht|Jiyi U Pan
 14377|2|x-unk|Jiyi U-Pan
 9304|3|en|JJBA 2012
@@ -35842,7 +35853,9 @@
 3950|3|x-jat|MiH SuperS
 18137|1|x-jat|Mihitsu no Koi
 759|3|x-jat|mihoshi
+20215|2|en|Mii-chan and Miss Yamada
 8726|1|x-jat|Mii-chan no Tenohira
+20215|1|x-jat|Mii-chan to Yamada-san
 13252|1|x-jat|Miira no Kaikata
 15892|1|x-jat|Miira no Yume
 10109|1|x-jat|Miitsuketa!
@@ -39703,6 +39716,7 @@
 9278|1|x-jat|Nontan to Issho
 4647|4|ja|NOOBOW
 4647|1|x-jat|Noobow
+9865|2|en|Noobow and the Lost Medal
 9865|1|x-jat|Noobow: Kieta Medal
 9866|1|x-jat|Noobow: Mini Theater
 4381|2|en|Noodle Fighter Miki
@@ -49227,14 +49241,17 @@
 18706|2|x-zht|Shi Wangzhe A? 3rd Season
 19114|2|x-zht|Shi Wangzhe A? 4th Season
 19654|2|x-zht|Shi Wangzhe A? 5th Season
+20213|2|x-zht|Shi Wangzhe A? 6th Season
 18705|1|x-zht|Shi Wangzhe A? Di 2 Ji: Yun Zhong Bu Wanquan Jiao Fei Riji
 18706|1|x-zht|Shi Wangzhe A? Di 3 Ji: Youqiubiying Xingzhi Dui
 19114|1|x-zht|Shi Wangzhe A? Di 4 Ji: Mudan Xiang You Dali Si
 19654|1|x-zht|Shi Wangzhe A? Di 5 Ji: Feng Wu Leiting Chang`an Juan
+20213|1|x-zht|Shi Wangzhe A? Di 6 Ji: Xuezhang Jiadao Qing Zhijiao
 18705|2|x-zht|Shi Wangzhe A? Season 2
 18706|2|x-zht|Shi Wangzhe A? Season 3
 19114|2|x-zht|Shi Wangzhe A? Season 4
 19654|2|x-zht|Shi Wangzhe A? Season 5
+20213|2|x-zht|Shi Wangzhe A? Season 6
 13353|1|x-zht|Shi Xiong
 16593|1|x-zht|Shi Ye Miao Yin
 16354|2|x-zht|Shi Yi Chang`An: Mingyue Jishi You Er
@@ -54752,6 +54769,7 @@
 19880|2|en|The Eternal Fool`s Words of Wisdom
 18950|2|en|The Eternal Realm
 18284|2|en|The Eternal Strife
+20217|4|en|The Eternal Supreme, Li Yunxiao
 896|2|en|The Eternity You Wish For
 8400|2|en|The Evening Traveling
 8117|4|en|The Everyday Tales of a Cat God
@@ -56339,6 +56357,7 @@
 17364|4|en|Thousands of Worlds
 19797|4|en|Threads of Fate: A War Untold
 9592|2|en|Three Iron Musketeers
+20211|4|en|Three Kingdoms Kill: Taiping Heavenly Book
 14925|2|en|Three Kingdoms Talk Show
 14929|2|en|Three Kingdoms Talk Show Season 2
 11568|4|en|Three Leaves, Three Colors
@@ -59846,6 +59865,7 @@
 18398|1|x-zht|Wangu Kuang Di
 17933|1|x-zht|Wangu Shenhua
 13922|2|x-zht|Wangu Xian Qiong II
+20217|1|zh|Wangu Zhizun: Li Yunxiao Zhuan
 18980|1|x-zht|Wangu Zui Qiang Zong
 18530|1|x-zht|Wangzhe Da Shixiong
 18409|1|x-zht|Wangzhe Rongyao: Rongyao Zhi Zhang
@@ -62626,7 +62646,6 @@
 1717|1|x-jat|Yuusha Ou GaoGaiGar Final
 3152|1|x-jat|Yuusha Ou GaoGaiGar Final Grand Glorious Gathering
 19440|1|x-jat|Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku Shite Mita.
-19440|2|x-jat|Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.
 19190|1|x-jat|Yuusha Party o Oidasareta Kiyoubinbou
 19960|1|x-jat|Yuusha Party o Oidasareta Kiyoubinbou 2
 17444|1|x-jat|Yuusha Party o Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau
@@ -82062,6 +82081,7 @@
 13955|4|ja|まんなかのりっくん
 10109|4|ja|みーつけた!
 2884|4|ja|ミームいろいろ夢の旅
+20215|4|ja|みいちゃんと山田さん
 8726|4|ja|みいちゃんのてのひら
 15892|4|ja|ミイラの夢
 13252|4|ja|ミイラの飼い方
@@ -83590,6 +83610,8 @@
 2666|4|ja|不純異性交遊 ~大切な君へ~
 9728|4|ja|不良にハメられて受精する巨乳お母さん ~イキ地獄に堕ちた家族のゲーム~ THE ANIMATION
 9728|2|ja|不良にハメられて受精する巨乳お母さん THE ANIMATION
+19492|4|zh-Hant|不虐待我的繼母與繼姐
+19492|4|zh-Hans|不虐待我的继母与继姐
 15622|4|zh-Hant|不要欺負我，長瀞同學
 15622|4|zh-Hans|不要欺负我，长瀞同学
 16926|4|zh-Hans|不要欺负我，长瀞同学 第二季
@@ -85411,6 +85433,7 @@
 4600|4|ja|創星のアクエリオン
 1533|4|ja|創竜伝
 2830|4|ja|創聖のアクエリオン
+20214|4|ja|劇場 銀河鉄道999
 8311|4|ja|劇場リミックス版 APPLESEED XIII
 1667|4|ja|劇場版 AIR
 15516|4|ja|劇場版 BanG Dream! Episode of Roselia
@@ -89097,11 +89120,13 @@
 5984|4|ja|幼なじみと同級生
 11905|4|zh-Hans|幼女战记
 16393|4|zh-Hans|幼女战记 沙漠意面大作战
+16392|4|zh-Hans|幼女战记 第二季
 11905|4|ja|幼女戦記
 13717|4|ja|幼女戦記 (2019)
 16393|4|ja|幼女戦記 砂漠のパスタ大作戦
 16392|4|ja|幼女戦記II
 11905|4|zh-Hant|幼女戰記
+16392|4|zh-Hant|幼女戰記 2
 15748|4|ja|幼女社長
 17631|4|ja|幼女社長R
 19631|4|ja|幼稚園WARS
@@ -89703,6 +89728,7 @@
 14044|2|zh|恶偶
 19341|4|zh-Hans|恶兽
 19341|2|zh-Hans|恶兽 : 全球首部AI电影
+19226|4|zh-Hans|恶女不才，请多关照 ～雏宫蝶鼠换身传～
 4564|2|zh-Hans|恶灵猎人
 4054|2|zh-Hans|恶童
 18941|4|zh-Hans|恶食千金与狂血公爵
@@ -90029,6 +90055,7 @@
 1648|2|zh|我愛你Baby
 20102|4|zh-Hans|我把末日上交给了国家
 18468|4|zh-Hans|我捡起了一地属性
+19226|2|zh-Hant|我是不才惡女
 17137|4|zh-Hans|我是不白吃
 13974|4|zh-Hans|我是哪吒
 9695|4|zh-Hans|我是国王
@@ -91486,7 +91513,9 @@
 18705|4|zh-Hans|是王者啊？第2季 云中不完全剿匪日记
 18706|4|zh-Hans|是王者啊？第3季 有求必应星之队
 19654|4|zh-Hans|是王者啊？第5季 凤舞雷霆长安卷
+20213|4|zh-Hans|是王者啊？第6季 学长驾到请指教
 19654|2|zh-Hans|是王者啊？第五季
+20213|2|zh-Hans|是王者啊？第六季
 13439|4|zh-Hans|昴宿七星
 17914|4|ja|時々ボソッとロシア語でデレる隣のアーリャさん
 18872|4|ja|時々ボソッとロシア語でデレる隣のアーリャさん Season2
@@ -93175,6 +93204,8 @@
 10803|4|zh-Hans|潜行吧！奈亚子F
 11053|4|zh-Hans|潮与虎
 11318|4|zh-Hant|潮与虎 第二季
+20187|4|zh-Hans|澈底对你成瘾
+20187|4|zh-Hant|澈底對你成癮
 11098|4|ja|澱みの騒ぎ
 4956|4|ja|激走! ルーベンカイザー
 9886|4|ja|激辛ギャグ劇場 タバスコシャワー
@@ -94472,12 +94503,14 @@
 10526|4|zh-Hans|监督不行届
 19106|4|zh-Hans|盒中之海
 18381|4|zh-Hans|盖世帝尊
+19838|4|zh-Hans|盗墓王
 16192|2|zh-Hans|盗墓笔记之秦岭神树
 19921|4|zh-Hans|盗妖行
 19838|4|ja|盗掘王
 4191|2|zh-Hans|盗梦侦探
 20041|4|zh-Hans|盘龙
 13772|4|zh-Hans|盛世妆娘
+19838|4|zh-Hant|盜墓王
 10768|4|ja|監獄学園
 11805|4|ja|監獄学園[プリズンスクール] マッドワックス
 14562|4|ja|監獄実験 -プリズンラボ-
@@ -96140,6 +96173,8 @@
 18597|4|ja|花緑青が明ける日に
 8498|4|ja|花編
 19594|4|ja|花織さんは転生しても喧嘩がしたい
+19594|4|zh-Hant|花織即使是轉生也想打架
+19594|4|zh-Hans|花织即使是转生也想打架
 10351|4|zh-Hans|花舞少女
 10351|4|zh-Hant|花舞少女
 11869|4|zh-Hans|花辫儿的小神明
@@ -96849,6 +96884,7 @@
 5530|2|zh-Hans|记忆女神的女儿们
 16760|4|zh-Hans|记忆管理局
 20174|4|zh-Hans|记忆管理局 (2026)
+20216|4|zh|记忆管理局(2026)
 18117|4|zh-Hans|记忆缝线
 4158|2|zh-Hans|记忆裂痕
 16747|4|zh-Hans|许愿神龙
@@ -98881,7 +98917,9 @@
 18578|4|zh-Hans|香格里拉・开拓异境～粪作猎手挑战神作～ 第二季
 17501|4|zh-Hant|香格里拉・開拓異境～糞作獵手挑戰神作～
 18578|4|zh-Hant|香格里拉・開拓異境～糞作獵手挑戰神作～ 第二季
+20189|4|zh-Hant|香蕉喵 10 週年紀念篇
 15036|4|zh-Hans|香蕉喵 不可思议的伙伴们
+20189|4|zh-Hans|香蕉喵10周年纪念特别篇
 18837|4|zh-Hant|香蕉喵遊世界
 11910|4|zh-Hans|香蕉猫咪
 6847|4|ja|馬具田城の盗賊
