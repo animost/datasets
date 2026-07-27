@@ -1,4 +1,4 @@
-# created: Sun Jul 26 03:00:02 2026
+# created: Mon Jul 27 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6422,6 +6422,7 @@
 15449|4|fr|Bleach: Thousand-Year Blood War
 19079|4|en|Bleach: Thousand-Year Blood War - The Calamity
 19079|4|de|Bleach: Thousand-Year Blood War - The Calamity
+19079|2|en|Bleach: Thousand-Year Blood War - The Calamity Arc
 18220|4|en|Bleach: Thousand-Year Blood War - The Conflict
 18220|4|de|Bleach: Thousand-Year Blood War - The Conflict
 17765|4|en|Bleach: Thousand-Year Blood War - The Separation
@@ -13318,6 +13319,7 @@
 3315|2|en|Doraemon: Nobita`s South Sea Adventure
 10737|2|en|Doraemon: Nobita`s Space Heroes
 1951|4|en|Doraemon: Nobita`s Spacetime Odyssey With Cats And Dogs
+20220|2|en|Doraemon: Nobita`s Steam-Powered Time Machine
 6586|2|en|Doraemon: Nobita`s Three Fantasketeers
 6586|2|en|Doraemon: Nobita`s Three Visionary Swordsmen
 1951|2|en|Doraemon: Nobita`s Wannyan Space-Time Legend
@@ -14820,6 +14822,7 @@
 18883|1|x-jat|Eiga Doraemon: Nobita no E Sekai Monogatari
 14446|1|x-jat|Eiga Doraemon: Nobita no Getsumen Tansaki
 9316|1|x-jat|Eiga Doraemon: Nobita no Himitsu Dougu Museum
+20220|1|x-jat|Eiga Doraemon: Nobita no Jouki Jikansha
 6594|2|x-jat|Eiga Doraemon: Nobita no Little Star Wars
 15852|1|x-jat|Eiga Doraemon: Nobita no Little Star Wars 2021
 12275|1|x-jat|Eiga Doraemon: Nobita no Nankyoku Kachi Kochi Daibouken
@@ -14883,6 +14886,7 @@
 18079|1|x-jat|Eiga Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsuhen
 17922|1|x-jat|Eiga Madogiwa no Totto-chan
 12269|1|x-jat|Eiga Mahou Tsukai Precure! Kiseki no Henshin! Cure Mofurun!
+20218|1|x-jat|Eiga Meitantei Precure! Fushigi na Niwa to Futari no Himitsu
 1791|1|x-jat|Eiga Motto! Ojamajo Doremi Kaeru Ishi no Himitsu
 15104|1|x-jat|Eiga Neko Neko Nihonshi: Ryouma no Hachamecha Time Travel ze yo!
 3640|1|x-jat|Eiga Nintama Rantarou
@@ -17204,6 +17208,8 @@
 2738|4|de|Frau Pfeffertopf
 12374|4|fr|Freaky Girls
 10415|3|x-jat|Free ES
+18626|4|ja|Free Fire Daybreak
+18626|1|x-jat|Free Fire Daybreak
 13621|2|en|Free Friends 2
 10718|2|en|Free Friends the Animation: The Uniform-Clad Fallen Angel`s Extracurricular Lessons
 3077|2|en|Free Kick Toward Tomorrow
@@ -18239,8 +18245,6 @@
 17012|1|x-jat|Garden: Takamine-ke no Nirinka The Animation
 17012|2|en|Garden: The Takamine Family`s Two Flowers
 6113|2|x-jat|garei zero
-18626|1|x-jat|Garena Free Fire
-18626|4|ja|Garena Free Fire
 9556|3|x-jat|gargantia
 9556|4|en|Gargantia on the Verdurous Planet
 9556|4|fr|Gargantia on the Verdurous Planet
@@ -19809,6 +19813,7 @@
 970|4|en|God Mazinger
 15675|2|en|God of Deception
 16750|2|en|God of Desolation
+20219|4|en|God of Eternity
 11894|2|en|God of Love`s Chocolate
 16749|2|en|God of Ten Thousand Realms
 19148|4|en|God of War Alliance
@@ -33715,6 +33720,8 @@
 11794|3|x-jat|mahopre
 2443|3|x-jat|Mahoraba
 2443|1|x-jat|Mahoraba: Heartful Days
+20224|1|x-jat|MAHOROBA
+20224|4|ja|MAHOROBA
 109|4|fr|Mahoromatic
 109|4|de|Mahoromatic - Automatic Maiden
 201|3|x-jat|Mahoromatic 2
@@ -37340,6 +37347,7 @@
 5173|1|x-jat|Mugen Shinshi: Bouken Katsugeki Hen
 18508|1|x-jat|Mugoku no Kuni no Alice
 15343|1|x-jat|Mugyutto! Black Clover
+20223|1|x-jat|Muhou no Ai
 13916|3|x-jat|muhyo
 14953|2|x-jat|Muhyo (2020)
 13916|4|fr|Muhyo & Rôji – Bureau d`investigation des affaires du paranormal
@@ -38652,6 +38660,7 @@
 7268|2|en|Necrodemon
 4463|4|en|Necromancer
 18254|2|en|Necromancer Isekai: How I Went from Abandoned Villager to the Emperor`s Favorite
+20221|4|en|Necromancer: I Am the Scourge
 19042|4|en|Necronomico and the Cosmic Horror Show
 19042|1|x-jat|Necronomico no Cosmic Horror Show
 8590|1|x-jat|Nee Summer!
@@ -40643,6 +40652,7 @@
 6139|1|x-jat|One Outs
 6139|4|en|One Outs
 6139|2|en|One Outs: Nobody Wins, but I!
+20222|1|en|One Pace
 69|4|pt|One Piece
 69|4|pt-BR|One Piece
 69|1|x-jat|One Piece
@@ -48636,6 +48646,7 @@
 13341|4|de|Senran Kagura: Shinovi Master
 13341|4|en|Senran Kagura: Shinovi Master - Tokyo Youma Chapter
 13341|1|x-jat|Senran Kagura: Shinovi Master - Tokyo Youma Hen
+20225|1|x-jat|Senren Banka
 14522|4|en|Senryu Girl
 14522|1|x-jat|Senryuu Shoujo
 12631|1|x-jat|Sense Honma ni Honma
@@ -50204,6 +50215,7 @@
 16826|4|fr|Si je suis la Vilaine, autant mater le boss final
 13352|2|x-zht|Si Ling Bianma Zhi Shijie Caozong Zhe
 13352|1|x-zht|Si Ling Bianma: Shijie Caozong Zhe
+20221|1|x-zht|Si Ling Fashi! Wo Ji Shi Tianzai
 3671|2|tl|Si Maria at Ang Lihim na Hardin
 11548|2|fr|Si petites à l’intérieur
 335|4|it|Si sente il mare
@@ -51247,7 +51259,7 @@
 19481|2|en|Soul Land Movie: Sword of Dust
 19481|2|en|Soul Land Sword of Dust
 19481|2|en|Soul Land: Sword Dao Chen Xin
-19481|2|en|Soul Land: Sword Master
+19481|4|en|Soul Land: Sword Master
 4224|1|x-jat|Soul Link
 4224|4|ja|Soul Link
 18143|2|en|Soul Of Light
@@ -51837,6 +51849,7 @@
 20133|4|en|Star Catch! Teenieping
 1586|2|en|Star Demon
 19742|4|en|Star Detective Precure!
+20218|2|en|Star Detective Precure! The Movie: The Mysterious Garden and a Secret Pair
 15867|2|en|Star Devourer
 7591|3|ja|Star Driver
 7591|4|en|Star Driver
@@ -59863,6 +59876,7 @@
 16957|1|x-zht|Wangu Jian Shen
 18421|1|x-zht|Wangu Jian Shen (2022)
 18398|1|x-zht|Wangu Kuang Di
+20219|1|x-zht|Wangu Shen Di
 17933|1|x-zht|Wangu Shenhua
 13922|2|x-zht|Wangu Xian Qiong II
 20217|1|zh|Wangu Zhizun: Li Yunxiao Zhuan
@@ -60081,6 +60095,7 @@
 3449|4|sv|Weed - Silver Fangs Son
 8325|2|en|Weekly Shimakou
 16533|4|pl|Wehikuł Tatami
+20226|1|x-zht|Wei Jiang
 19715|1|x-zht|Wei Miao Rensheng
 14830|2|x-zht|Wei Qi Shao Nian
 16585|1|x-zht|Wei Wo Du Shen
@@ -60492,6 +60507,7 @@
 18468|1|x-zht|Wo Jian Qile Yi Di Shuxing
 14781|1|x-zht|Wo Jiao Bai Xiao Fei
 15508|1|x-zht|Wo Kai Dongwuyuan Naxie Nian
+20227|1|x-zht|Wo Kao Chongzhi Dang Wudi
 18953|1|x-zht|Wo Neng Wuxian Dunwu
 16630|1|x-zht|Wo Qi Ku Le Baiwan Xiulian Zhe
 19991|1|x-zht|Wo Qi Ku Le Baiwan Xiulian Zhe 2nd Season
@@ -61819,6 +61835,7 @@
 347|2|fr|Yoma - les ténèbres
 17731|1|x-jat|Yomawari Neko
 19451|1|x-jat|Yomi no Tsugai
+19451|4|pt-BR|Yomi no Tsugai - Daemons do Reino das Sombras
 4113|3|x-jat|Yomigaeru Sora
 4113|1|x-jat|Yomigaeru Sora: Rescue Wings
 8251|2|x-jat|Yon-juu-hachi x Roku-juu-ichi
@@ -76614,7 +76631,6 @@
 2418|4|ja|カレイドスター ~新たなる翼~ EXTRA STAGE
 4123|4|ja|カレイドスター Legend of phoenix ~レイラ・ハミルトン物語~
 3120|4|ja|カレイドスター ぐっどだよ! ぐぅ~っど!!
-18626|2|ja|ガレナ フリーファイア
 11219|4|ja|カレバカ 吾輩ノ彼ハ馬鹿である
 11219|2|ja|カレバカ~吾輩ノ彼ハ馬鹿でR~
 2618|2|ja|ガレリアンズ:リオン
@@ -81265,6 +81281,7 @@
 8978|4|ja|プリーズ♡♡♡♡ミー!
 4708|2|ja|フリーダム
 2369|2|ja|ブリーチ
+18626|2|ja|フリーファイアデイブレイク
 1031|3|ja|ぷりアミ
 830|2|ja|ブリガドーン まりんとメラン
 9698|4|ja|プリキュアオールスターズDX the DANCE LIVE♡ ~ミラクルダンスステージへようこそ~
@@ -83443,7 +83460,9 @@
 16957|4|zh-Hans|万古剑神
 18421|4|zh-Hans|万古剑神 (2022)
 18398|4|zh-Hans|万古狂帝
+20219|4|zh-Hans|万古神帝
 17933|4|zh-Hans|万古神话
+20217|4|zh-Hans|万古至尊：李云霄传
 15723|4|zh-Hans|万国志
 15576|4|zh-Hans|万圣街
 18127|4|zh-Hant|万圣街 第四季
@@ -83596,6 +83615,9 @@
 17924|4|zh-Hans|不死少女・杀人笑剧
 17924|4|zh-Hant|不死少女的謀殺鬧劇
 14718|4|ja|不死身な僕の日常
+16359|4|ja|不死身な僕の日常　シーズン2
+17125|4|ja|不死身な僕の日常　シーズン3
+18217|4|ja|不死身な僕の日常　シーズン4
 15351|4|ja|不滅のあなたへ
 16573|4|ja|不滅のあなたへ Season2
 17904|4|ja|不滅のあなたへ Season3
@@ -85898,6 +85920,7 @@
 570|4|zh-Hant|千年女優
 764|4|zh-Hans|千年女王
 5303|2|ja|千年狐ヨウビ
+20225|4|ja|千恋＊万花
 4299|4|zh-Hans|千惠奋战记 小麻烦千惠
 14411|4|zh-Hans|千枪士 OVA
 18811|4|ja|千歳くんはラムネ瓶のなか
@@ -90179,6 +90202,7 @@
 19487|4|zh-Hans|我要招架一切 逆向误解的世界最强梦想成为冒险者 第二季
 13979|4|zh-Hans|我让最想被拥抱的男人给威胁了。
 728|4|zh-Hans|我青春的世外桃源
+20227|4|zh-Hans|我靠充值当武帝
 12967|4|zh|戒魔人
 3464|4|ja|或る旅人の日記
 14908|4|zh-Hans|战×恋
@@ -91451,6 +91475,7 @@
 13228|4|ja|映画ドラえもん のび太の宝島
 14984|4|ja|映画ドラえもん のび太の新恐竜
 14446|4|ja|映画ドラえもん のび太の月面探査記
+20220|4|ja|映画ドラえもん のび太の蒸気時間車
 18883|4|ja|映画ドラえもん のび太の絵世界物語
 7770|4|ja|映画ドラえもん 新・のび太と鉄人兵団 ~はばたけ 天使たち~
 9975|4|ja|映画ドラえもん 新・のび太の大魔境 ~ペコと5人の探検隊~
@@ -91475,6 +91500,7 @@
 15204|4|ja|映画プリキュアミラクルリープ みんなとの不思議な1日
 18079|4|ja|映画ラブライブ! 虹ヶ咲学園スクールアイドル同好会 完結編
 6431|4|ja|映画レイトン教授と永遠の歌姫 THE ETERNAL DIVA
+20218|4|ja|映画名探偵プリキュア! 不思議な庭と2人の秘密
 13405|4|ja|映画大好きポンポさん
 16922|4|ja|映画妖怪ウォッチ♪ ケータとオレっちの出会い編だニャン♪ワ, ワタクシも~♪♪
 15968|4|ja|映画演説 政治の倫理化 後藤新平 1926
@@ -92587,6 +92613,7 @@
 4463|4|ja|死妹人形
 17187|4|ja|死役所
 19042|4|zh-Hans|死灵子的宇宙恐怖秀
+20221|4|zh-Hans|死灵法师！我即是天灾
 13352|4|zh|死灵编码之世界操纵者
 2369|4|zh-Hant|死神
 2369|4|zh-Hans|死神
@@ -93428,6 +93455,7 @@
 15698|2|ja|無敵級*ビリーバー & 未来ハーモニー
 1812|4|ja|無敵超人ザンボット3
 1813|4|ja|無敵鋼人ダイターン3
+20223|4|ja|無法の愛
 19954|4|zh-Hant|無用聖女的異世界美食之旅 憑藉隱藏技能召喚露營車
 17337|2|zh-Hant|無神世界的神明活動
 2757|4|zh-Hant|無線之戰
@@ -95648,6 +95676,7 @@
 8840|4|zh-Hans|绯色的欠片
 9284|4|zh-Hans|绯色的欠片 第二章
 11194|4|zh-Hans|维多利亚女仆 玛丽亚的奉仕
+20226|4|zh-Hans|维将
 17427|4|zh-Hans|绽放的阿尔斯诺特利亚
 7464|4|zh-Hans|绿山高校 甲子园篇
 9894|4|zh|绿林大冒险
