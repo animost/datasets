@@ -1,4 +1,4 @@
-# created: Mon Jul 27 03:00:01 2026
+# created: Tue Jul 28 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -23122,6 +23122,7 @@
 16719|2|x-jat|Hitori no Shita: The Outcast 4
 17095|2|x-jat|Hitori no Shita: The Outcast 5
 19808|2|x-jat|Hitori no Shita: The Outcast 6
+20229|1|x-jat|Hitori Tsuma
 7635|1|x-jat|Hitoribocchi
 18432|1|x-jat|Hitoribocchi no Isekai Kouryaku
 20166|1|x-jat|Hitoribocchi no Isekai Kouryaku 2
@@ -35843,6 +35844,7 @@
 16132|4|en|Mieruko-chan
 20180|3|x-jat|migawari reijou
 20180|1|x-jat|Migawari Reijou o Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai Deshita
+20180|2|x-jat|Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita
 1548|2|x-jat|Might Gaine
 1440|2|en|Mighty Atom
 2341|4|en|Mighty Cat Masked Niyander
@@ -35951,6 +35953,7 @@
 570|4|en|Millennium Actress
 570|4|pt|Millennium Actress - A Chave da Vida
 570|2|en|Millennium Actress Chiyoko
+20228|2|en|Millennium Family
 6130|4|en|Millennium Old Journal: The Tale of Genji
 17541|2|en|Millenniums Of Warring States
 14381|4|en|Million Arthur
@@ -40275,6 +40278,7 @@
 14367|1|x-jat|Odoroki Ban
 18766|1|x-jat|Odoru Mowai-kun
 6801|1|x-jat|Odoru Pokemon Himitsu Kichi
+20228|1|x-jat|Odoru Sennen Kazoku
 15457|4|pl|Odrodzony jako galareta
 16776|4|pl|Odrodzony jako galareta: Szkarłatna więź
 18885|4|pl|Odrodzony jako galareta. Film: Łzy Morza Lazuroweg
@@ -41703,7 +41707,6 @@
 19312|4|ja|OVA ヨゴレタカノジョ
 6285|2|zh-Hans|OVA 传颂之物
 18587|4|ja|OVA 僕にハーレムセフレが出来た理由
-19547|2|zh-Hans|OVA 夏妻
 19547|4|ja|OVA 夏妻
 19105|4|ja|OVA 夕顔
 19105|6|ja|OVA 夕顔[ゆうがお]
@@ -46461,6 +46464,7 @@
 4832|3|x-jat|RomeJuli
 18858|1|x-jat|Romelia Senki
 18858|2|x-jat|Romelia Senki: Maou wo Taoshita Ato mo Jinrui Yabasou Dakara Guntai Soshiki Shita
+18858|4|de|Romelia War Chronicle
 18858|2|en|Romélia War Chronicle: The Count’s Daughter Rallies an Army in the Wake of Mankind’s Victory
 2023|3|x-jat|romeo
 2023|4|en|Romeo and The Black Brothers
@@ -60194,6 +60198,7 @@
 2675|2|en|What is It?
 8209|2|en|What is not Romance?
 14112|2|en|What She Fell on Was the Tip of My Dick
+19381|2|en|What Will the Mighty King Do in His Second Life?
 11328|2|en|What`s Good for You is Good for Me
 5946|1|x-jat|What`s Michael?
 5946|4|ja|What`s Michael?
@@ -80866,6 +80871,7 @@
 13989|4|ja|ひとりぼっちの○○生活
 18432|4|ja|ひとりぼっちの異世界攻略
 20166|4|ja|ひとりぼっちの異世界攻略 2
+20229|4|ja|ヒトリ妻
 13025|4|ja|ひとり暮らしの小学生
 18567|4|ja|ひな
 14592|4|ja|ヒナギクヴァージンロストクラブへようこそ
@@ -97296,6 +97302,7 @@
 4151|2|zh-Hans|跳跃吧! 时空少女
 4151|4|zh-Hant|跳躍吧! 時空少女
 9721|4|ja|踊り子クリノッペ
+20228|4|ja|踊る千年家族
 13753|4|ja|踏切時間
 19995|4|ja|蹂躙王国
 16981|2|zh-Hant|躍動青春
