@@ -1,4 +1,4 @@
-# created: Tue Jul 28 03:00:01 2026
+# created: Wed Jul 29 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -13110,6 +13110,7 @@
 4757|4|cs|Doraemon - Nobitův dinosaurus
 1078|4|pt|Doraemon - O Gato Cósmico
 1078|1|x-jat|Doraemon (1979)
+9528|2|en|Doraemon (1994) - Nobita & the Future Notebook
 4635|1|x-jat|Doraemon (2005)
 2691|2|en|Doraemon 2112: The Birth of Doraemon
 6596|4|es|Doraemon Atlantis: El castillo del mal
@@ -16128,7 +16129,7 @@
 14112|2|en|Falling Girls! A Girl Comes... Falling from the Second Floor!?
 9903|2|en|False Love
 16760|2|en|False Memory
-19175|4|en|False Memory (2025)
+19175|4|en|False Memory (2026)
 9903|2|pl|Fałszywa Miłość
 392|2|en|Fam and Ihrie - Ruin Explorers
 392|4|fr|Fam et Ihrlie, exploratrices
@@ -20517,6 +20518,7 @@
 4841|3|x-jat|gto (1994)
 191|4|ja|GTO(グレート・ティーチャー・オニヅカ)
 4307|3|x-jat|GTR
+20230|2|en|Gu An
 20201|2|en|Gu Changge: Me! The Heavenly Destined Villain
 20201|1|x-zht|Gu Changge: Wo! Tianming Da Fanpai
 17435|1|x-zht|Gu Du De Li Li
@@ -20534,6 +20536,7 @@
 2039|4|ja|GU-GU ガンモ
 1935|4|ja|Gu-Guガンモ
 18813|1|x-zht|Guai Xiang Shou
+20230|4|en|GuAn
 14159|1|x-zht|Guan Hai Ce
 15667|2|x-zht|Guan Hai Ce zhi Tie Qi Xiang Guan
 15667|1|x-zht|Guan Hai Ce: Tieqi Xiangguan
@@ -25534,7 +25537,6 @@
 15493|3|x-jat|isekaimaou s2
 15918|3|x-jat|isekaimeikyuu
 17580|3|x-jat|Iseleve
-18241|3|x-jat|Iseleve - OVA
 16936|2|x-unk|isenido
 16936|3|x-jat|Isenido
 1604|2|lt|Įseserė
@@ -26182,9 +26184,7 @@
 16002|1|x-zht|Jiu Ye Shen Zhuan
 18014|1|x-zht|Jiuzhou Piaomiao Lu
 16760|1|x-zht|Jiyi Guanli Ju
-19175|1|x-jat|Jiyi Guanli Ju (2025)
-20174|1|x-zht|Jiyi Guanli Ju (2026)
-20216|1|x-zht|Jiyi Guanli Ju(2026)
+19175|1|x-jat|Jiyi Guanli Ju (2026)
 14377|1|x-zht|Jiyi U Pan
 14377|2|x-unk|Jiyi U-Pan
 9304|3|en|JJBA 2012
@@ -28484,6 +28484,7 @@
 1479|1|x-jat|Kimera
 1479|4|en|Kimera
 14107|1|x-jat|Kimetsu no Yaiba
+18699|2|x-jat|Kimetsu no Yaiba Movie 1 - Mugenjou-hen - Akaza Sairai
 15113|2|x-jat|Kimetsu no Yaiba Movie: Mugen Ressha-hen
 17069|1|x-jat|Kimetsu no Yaiba: Asakusa Hen
 16258|2|x-jat|Kimetsu no Yaiba: Chuugou Kaigi - Chouyashiki Hen
@@ -34893,6 +34894,7 @@
 5044|2|tr|Mavi Ejder
 1022|4|tr|Mavi Gökyüzü
 19315|1|x-kot|Mawangnim-eun Juggo Sip-eo
+20231|1|x-kot|Mawangui Ttallo Taeeonatseumnida
 8421|1|x-jat|Mawaru Penguindrum
 8421|4|it|Mawaru Penguindrum
 8421|4|fr|Mawaru Penguindrum
@@ -37806,6 +37808,8 @@
 12306|2|en|My little sister and her friend are too erotic, my dick won`t go down!
 7525|2|en|My Little Sister Can`t Be This Cute
 9134|2|en|My Little Sister Can`t Be This Cute 2
+7598|4|en|My Lord and Me
+8221|4|en|My Lord and Me ~The Ambition Behind the Eyepatch~
 2599|2|en|My love
 17637|4|en|My Love Story with Yamada-kun at Lv999
 10918|4|en|My Love Story!!
@@ -40838,6 +40842,7 @@
 13480|4|en|One Room: Second Season
 15411|1|x-jat|One Room: Third Season
 15411|4|en|One Room: Third Season
+20230|2|en|One Slash Through The Heavens
 15679|2|en|One Step Toward Freedom
 8872|4|en|One Stormy Night
 3683|2|en|One Thousand and One Arabian Nights
@@ -41478,6 +41483,8 @@
 12472|1|x-jat|Osomatsu-san: Ouma de Kobanashi
 12935|1|x-jat|Osomatsu-san: Sentou Quiz 2
 17247|1|x-jat|Osomatsu-san: Tamashii no Takoyaki Party to Densetsu no Otomarikai
+16369|2|en|Osomatsu-san: The Hipipo Tribe and the Shining Fruit
+17247|2|en|Osomatsu-san: The Spirit Takoyaki Party and the Legendary Sleepover
 1737|3|x-jat|osr
 17965|3|en|Ossan Newbie
 171|3|x-jat|ostar
@@ -54311,6 +54318,7 @@
 9530|1|x-jat|The Adventure of Stray Sheep
 9530|4|ja|The Adventure of STRAY SHEEP
 3142|2|en|The Adventurers Gamba and His Seven Friends
+20231|4|en|The Adventures of a Demon King`s Daughter
 2871|2|en|The Adventures of Alfred J. Quack
 524|4|en|The Adventures of Captain Future
 5411|2|en|The Adventures of Gamba
@@ -61687,6 +61695,7 @@
 15645|1|x-zht|Yi Shijie Zhongyao Pu
 16676|1|x-zht|Yi Shijie Zhongyao Pu (2021)
 13149|1|x-zht|Yi Wan Nian Yi Hou
+20230|1|x-zht|Yi Zhan Cangqiong
 15984|1|x-zht|Yichan Xiao Heshang
 14716|1|x-zht|Yichang Shengwu Jianwen Lu
 18568|2|x-zht|Yin Shi Zong Men Zhang Jiao
@@ -72216,6 +72225,7 @@
 14391|2|ko|마왕님, 리트라이!
 19315|4|ko|마왕님은 죽고 싶어
 15095|2|ko|마왕성에서 잘 자요
+20231|4|ko|마왕의 딸로 태어났습니다
 12076|2|ko|마왕의 제물 3
 15131|4|ko|마왕학원의 부적합자 ~사상 최강의 마왕인 시조, 전생해서 자손들의 학교에 다니다~
 8179|2|ko|마요치키!
@@ -83353,6 +83363,7 @@
 2177|4|ja|一撃殺虫!! ホイホイさん
 9372|4|ja|一撃殺虫!! ホイホイさんLEGACY
 18305|2|zh-Hant|一擊沖天
+20230|4|zh-Hans|一斩苍穹
 16049|4|ja|一日にして成らず
 2769|2|ja|一月にはChristmas
 5464|4|ja|一期一会 恋バナ友バナ
@@ -96918,8 +96929,7 @@
 14377|4|zh-Hans|记忆U盘
 5530|2|zh-Hans|记忆女神的女儿们
 16760|4|zh-Hans|记忆管理局
-20174|4|zh-Hans|记忆管理局 (2026)
-20216|4|zh|记忆管理局(2026)
+19175|4|zh-Hans|记忆管理局 (2026)
 18117|4|zh-Hans|记忆缝线
 4158|2|zh-Hans|记忆裂痕
 16747|4|zh-Hans|许愿神龙
