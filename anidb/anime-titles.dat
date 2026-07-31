@@ -1,4 +1,4 @@
-# created: Wed Jul 29 03:00:01 2026
+# created: Fri Jul 31 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1673,7 +1673,7 @@
 18367|2|en|Against the Gods (2023)
 20011|2|en|Against the Gods 2
 20011|2|en|Against the Gods 2nd Season
-20011|2|en|Against the Gods II
+20011|4|en|Against the Gods II
 20011|2|en|Against the Gods Season 2
 16583|2|en|Against the Sky Supreme
 16433|1|en|AgainsttheGods
@@ -2330,7 +2330,7 @@
 3368|4|ro|Albinuţa Hutch
 4144|2|en|Alchemist Grade 3: Magical Pokahn
 18042|2|en|Alchemy Master
-18920|4|en|Alchemy Supreme
+18920|2|en|Alchemy Supreme
 979|2|ro|Alchimistul de Oţel
 10445|3|x-jat|ald0
 10846|3|x-jat|ald0 s2
@@ -2720,6 +2720,7 @@
 16848|2|en|Ancient G`s Frame
 16848|4|en|Ancient Girl`s Frame
 16848|2|en|ancient girls frame
+20233|2|en|Ancient God Sovereign
 7074|2|en|Ancient Japanese Folktale: Ancient Boy
 18469|2|en|Ancient Lords
 18465|2|en|Ancient Lords (2024)
@@ -9522,6 +9523,7 @@
 19581|4|en|Clevatess II
 19581|1|x-jat|Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou
 19581|2|en|Clevatess S2
+19581|2|en|Clevatess Season 2
 18730|1|x-jat|Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha
 3466|4|en|Clever Sarutobi
 16290|2|en|Click
@@ -15906,6 +15908,7 @@
 17661|2|en|Exhibitionist Magical College Girl Christia
 6324|2|en|Exile Generation
 9088|2|en|Exiled From Paradise
+20234|2|en|Exiled Merchant Saves the World with the Power of Money
 1707|3|x-jat|exkaiser
 1707|3|x-jat|Exkaizer
 9086|2|en|Exogenesis: Symphony Part 3 (Redemption)
@@ -19544,6 +19547,7 @@
 8040|1|x-jat|Gitai Saimin
 61|3|x-jat|GitS
 6122|3|en|GitS 2.0
+18652|3|en|gits 2026
 890|3|en|GitS INNOCENCE
 247|3|en|GitS SAC
 1176|3|en|GitS SAC 2
@@ -26390,6 +26394,7 @@
 15067|4|pt|Jornadas Pokémon: A Série
 3366|2|es|Jose Miel
 15287|1|x-jat|Josee to Tora to Sakana-tachi
+15287|2|x-jat|Josee to Tora to Sakanatachi
 15287|4|es-CA|Josee, el Tigre i els Peixos
 15287|4|es|Josee, el Tigre y los Peces
 15287|4|it|Josée, la Tigre e i Pesci
@@ -30353,6 +30358,7 @@
 7618|3|x-jat|KyouKoi
 5580|3|x-jat|kyouran
 5580|1|x-jat|Kyouran Kazoku Nikki
+19865|2|ja|Kyouran Reijou Nia Liston
 19865|1|x-jat|Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei Shita Kami-goroshi no Bujin no Karei Naru Musouroku
 6908|1|x-jat|Kyouryoku Boukuusen
 2728|1|x-jat|Kyouryuu Boukenki Jura Tripper
@@ -31748,6 +31754,7 @@
 17858|1|x-zht|Li Lin Ke Di: Xiao Guan Ren 2
 14959|1|x-zht|Li Shi
 17772|1|x-zht|Li Shi Zhentan Shiwusuo
+20232|1|x-zht|Li Xiongmao
 19141|4|en|Li`l Miss Vampire Can`t Suck Right
 8468|4|en|Li`l Spider Girl
 15611|2|fr|Liaisons en chassé-croisé
@@ -41370,8 +41377,10 @@
 10951|4|pt|OS KABANES DA ESTAÇÃO DE FERRO
 4190|4|pt|Os Melhores Contos de Fadas
 556|4|pt|Os Peregrinos de El-Hazard
-17547|2|pt|Os Perigos no Meu Coração
-18066|2|pt|Os Perigos no Meu Coração (2024)
+17547|4|pt|Os Perigos no Meu Coração
+18066|4|pt|Os Perigos no Meu Coração (2024)
+19950|4|pt|Os Perigos no Meu Coração (2027)
+18890|4|pt|Os Perigos no Meu Coração: Filme
 12637|2|x-unk|Os Problemas de um Centauro
 17846|4|pt-BR|Os Reinos da Ruína
 2382|4|pt|Os Samurai Pizza Gatos
@@ -44155,6 +44164,7 @@
 5382|4|en|Prime Rose
 5382|4|it|Prime Rose
 4401|4|es|Primer escuadrón
+20233|4|en|Primeval Overlord
 2209|2|fr|Prince du soleil : les grandes aventures d`Horus
 2074|4|fr|Prince Hercule
 9369|4|en|Prince Nezha`s Triumph Against Dragon King
@@ -45189,6 +45199,7 @@
 19891|2|en|Rainy Day Serenade
 2559|4|pt|Raio Azul
 18249|1|x-jat|Raise wa Tanin ga Ii
+20232|4|en|Raised by Demons: Panda Li
 4186|1|x-jat|Raiyantsuuri no Uta
 6238|2|cs|Ráj východu
 12541|1|x-jat|Raja Maharaja
@@ -52720,7 +52731,7 @@
 1392|4|pl|Superświnka
 14748|4|hr|Superzločinci
 15215|4|en|Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town?
-18920|2|en|Supreme Alchemy
+18920|4|en|Supreme Alchemy
 17258|2|en|Supreme Galaxy
 17333|2|en|Supreme Galaxy 2nd Season
 17333|2|en|Supreme Galaxy Season 2
@@ -53117,6 +53128,7 @@
 9320|4|tr|Tai Chi Avcıları
 9320|1|x-jat|Tai Chi Chasers
 9320|2|x-jat|Tai Chi Senjimon
+20233|1|x-zht|Tai Gu Shen Zun
 16875|1|x-zht|Tai Lyu
 18389|1|x-zht|Tai Yi Jian Xian Chuan
 15541|1|x-zht|Tai Yi Xian Mo Lu Zhi Ling Fei Ji
@@ -57849,6 +57861,7 @@
 5568|1|x-jat|Tsuide ni Tonchinkan
 18782|3|x-jat|Tsuihou Hakuma Doushi
 19881|1|x-jat|Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life o Ouka Suru. Ore wa Buki dake Janaku,  Arayuru Mono ni "Kyouka Point" o Fuyo Dekirushi, Ore no Ishi de Itsu demo Kouka o Kaijo Dekiru Kedo, Nokotta Hitotachi Daijoubu?
+20234|1|x-jat|Tsuihou Sareta Shounin wa Kin no Chikara de Sekai o Sukuu
 18854|1|x-jat|Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru
 18854|2|x-jat|Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru
 19054|1|x-jat|Tsuihousha Shokudou e Youkoso!
@@ -87620,6 +87633,7 @@
 16382|2|zh-Hans|太乙仙魔录第四季
 19294|4|zh-Hans|太古战魂
 18449|4|zh-Hans|太古星神诀
+20233|4|zh-Hans|太古神尊
 2650|4|zh-Hans|太太是魔法少女
 2408|4|ja|太平洋にかける虹
 9320|4|zh-Hans|太极千字文
@@ -91553,6 +91567,7 @@
 18705|2|zh-Hans|是王者啊? 第二季
 19114|2|zh-Hans|是王者啊？ 第四季
 19114|2|zh-Hans|是王者啊？之牡丹香幽大理寺
+20213|2|zh-Hans|是王者啊？稷下篇
 18705|4|zh-Hans|是王者啊？第2季 云中不完全剿匪日记
 18706|4|zh-Hans|是王者啊？第3季 有求必应星之队
 19654|4|zh-Hans|是王者啊？第5季 凤舞雷霆长安卷
@@ -91944,6 +91959,7 @@
 16675|4|zh-Hans|李林克的 小馆儿
 16675|2|zh-Hans|李林克的小馆儿
 17858|4|zh-Hans|李林克的小馆儿 第二季
+20232|4|zh-Hans|李熊猫
 17458|4|ja|村井の恋
 17458|4|zh-Hans|村井之恋
 20087|4|ja|村又さんの愛情
@@ -97541,6 +97557,7 @@
 7229|4|zh-Hans|迷途猫OVER RUN
 7229|2|zh-Hans|迷途猫Overrun!
 19881|4|ja|追放されたチート付与魔術師は気ままなセカンドライフを謳歌する. ~俺は武器だけじゃなく, あらゆるものに『強化ポイント』を付与できるし, 俺の意思でいつでも効果を解除できるけど, 残った人たち大丈夫?~
+20234|4|ja|追放された商人は金の力で世界を救う
 18854|4|ja|追放された転生重騎士はゲーム知識で無双する
 18782|3|ja|追放白魔導師
 19054|4|ja|追放者食堂へようこそ!
