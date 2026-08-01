@@ -1,4 +1,4 @@
-# created: Fri Jul 31 03:00:01 2026
+# created: Sat Aug  1 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8004,11 +8004,16 @@
 1588|1|x-jat|Capricorn
 19597|4|en|CAPSULES
 19598|4|en|CAPSULES 2
+19599|2|en|CAPSULES 3
+19599|2|en|Capsules 3rd Season
+20199|2|en|CAPSULES 4
 19597|2|en|Capsules Project
 19598|2|en|Capsules Project 2
 19598|2|en|Capsules Project Season 2
 19599|2|en|Capsules Project: Hero
 19599|4|en|CAPSULES: Hero
+20199|4|en|CAPSULES: Miracle
+19599|2|en|Capsules:Hero
 7165|1|x-jat|Captain
 7085|1|x-jat|Captain (1983)
 14181|1|x-jat|Captain Bal: Bal Kaizokudan! / Isogashi Sugiru Fune
@@ -9540,6 +9545,7 @@
 18388|2|en|Close Combat Mage
 5135|2|en|Close the Last Door
 12922|1|x-kot|Closers: Side Blacklambs
+20235|2|en|Cloud Moon Continent
 2893|1|x-jat|Clover
 2893|4|ja|CLOVER
 102|2|en|Clow Master Sakura
@@ -25998,7 +26004,10 @@
 11978|1|x-zht|Jiaoao de Jiangjun
 19597|1|x-zht|Jiaonang Jihua
 19598|1|x-zht|Jiaonang Jihua 2
+19598|2|x-zht|Jiaonang Jihua 2nd Season
+20199|2|x-zht|Jiaonang Jihua 4th Season
 19598|2|x-zht|Jiaonang Jihua Di Er Ji
+19598|2|x-zht|Jiaonang Jihua II
 20199|1|x-zht|Jiaonang Jihua: Qiji
 19599|1|x-zht|Jiaonang Jihua: Yingxiong
 15655|1|x-kot|Jib
@@ -50447,6 +50456,7 @@
 15736|4|ru|SK8: На скейте в бесконечность
 2714|2|lt|Skaitmeninės Sultys
 2000|2|lt|Skanautojas
+3676|4|pl|Skarbczyk najpiękniejszych bajek
 15286|1|x-jat|Skate-Leading Stars
 15286|4|en|Skate-Leading Stars
 2038|4|af|Skateiland
@@ -54992,7 +55002,7 @@
 11362|4|en|The Great Rabbit
 16541|2|en|The Great Ruler
 18028|2|en|The Great Ruler (2023)
-19893|2|en|The Great Ruler 2
+19893|4|en|The Great Ruler 2
 18028|2|en|The Great Ruler 3D
 19893|2|en|The Great Ruler 3D 2nd Season
 19893|2|en|The Great Ruler S2
@@ -62542,6 +62552,7 @@
 20107|2|x-zht|Yun Shen Buzhi Meng Di Er Ji
 20107|1|x-zht|Yun Shen Buzhi Meng II
 20106|1|x-zht|Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi
+20235|1|x-zht|Yun Yue Dalu
 3534|1|x-jat|Yun`yun Paradise
 13552|4|de|Yunas Geisterhaus
 1047|2|x-jat|yuno
@@ -83974,6 +83985,7 @@
 2496|4|ja|二重奏 ~罠に落ちた女たち~
 18483|4|zh-Hans|亏成首富从游戏开始
 469|2|zh-Hans|云之彼端, 约定的地方
+20235|4|zh-Hans|云月大陆
 254|4|zh|云海骑兵队
 19446|4|zh-Hans|云深不知梦
 20106|4|zh-Hans|云深不知梦 特别篇：逐冥之役
@@ -96045,6 +96057,7 @@
 20199|4|zh-Hans|胶囊计划 奇迹
 19599|2|zh-Hans|胶囊计划 第三季
 19598|4|zh-Hans|胶囊计划 第二季
+20199|2|zh-Hans|胶囊计划 第四季
 19599|4|zh-Hans|胶囊计划 英雄
 1986|4|ja|胸キュン! はぁとふるCafe
 1986|2|ja|胸キュンはぁとふるCafe
