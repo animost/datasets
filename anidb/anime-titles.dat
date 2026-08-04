@@ -1,4 +1,4 @@
-# created: Mon Aug  3 03:00:01 2026
+# created: Tue Aug  4 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -8667,6 +8667,7 @@
 18744|1|x-zht|Cheng He Titong
 19869|1|x-zht|Cheng He Titong 2
 20188|1|x-zht|Cheng Huang Lu
+20245|1|x-zht|Cheng Ye Xiao He
 20188|4|en|CHENGHUANG
 11060|1|x-zht|Chengyu Donghua Lang
 15750|1|x-kot|Cheonbangjichuk Hani
@@ -10411,6 +10412,7 @@
 15748|4|en|Cute Executive Officer
 17631|2|en|Cute Executive Officer R
 13706|4|en|Cute High Earth Defense Club Happy Kiss!
+19227|4|en|Cute High Earth Defense Club Hi-CARA!
 10853|4|en|Cute High Earth Defense Club Love!
 11488|4|en|Cute High Earth Defense Club Love! Love!
 12993|4|en|Cute High Earth Defense Club Love! Love! Love!
@@ -17095,6 +17097,7 @@
 6996|4|en|For Almost Forgotten Stories
 14898|1|x-jat|For Kimi ni Okuru Uta
 4007|2|en|For Real
+20245|2|en|For the Win!
 13784|2|en|For Whom the Alchemist Exists
 13784|4|en|For Whom the Alchemist Exists the Movie
 18636|2|en|For You in Full Blossom
@@ -26044,6 +26047,7 @@
 17557|1|x-jat|Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou
 18204|1|x-jat|Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou 2nd Season
 19580|1|x-jat|Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou 3rd Season
+20242|1|x-zht|Jie Men Zhi Xia
 12967|1|x-zht|Jie Mo Ren
 15354|1|x-zht|Jie Yao
 7260|1|x-jat|Jigazou
@@ -47065,6 +47069,7 @@
 12422|4|fr|Sagrada Reset
 12596|1|x-jat|Sagurare Otome The Animation
 12923|1|x-jat|Sai (Zenpen): Mawaru, Meguru, Sono Kaku e
+20243|1|x-zht|Sai Ngoi
 19102|1|x-jat|Sai-Kyo-Oh! Zukan: The Ultimate Battles
 19289|1|x-jat|Sai-Kyo-Oh! Zukan: The Ultimate Battles - Tamashi no Sakebi!
 19288|1|x-jat|Sai-Kyo-Oh! Zukan: The Ultimate Tournament
@@ -49288,6 +49293,7 @@
 7268|4|fr|Shi ki
 18387|1|x-zht|Shi Shi Chuanshuo
 16904|1|x-jat|Shi to Otome
+20244|1|x-zht|Shi Wai
 13567|1|x-zht|Shi Wan Ge Leng Xiaohua
 14313|2|x-zht|Shi Wan Ge Leng Xiaohua (2015)
 13642|1|x-zht|Shi Wan Ge Leng Xiaohua 2
@@ -56752,6 +56758,7 @@
 12939|4|en|To Be Heroine
 14380|2|x-jat|To Be Heroine (Original Chinese Version)
 14732|2|en|To Be Near You
+20245|4|en|To Be Winner
 16564|2|en|To Become a Real Heroine! The Unpopular Girl and the Secret Task
 16706|4|en|To Every You I`ve Loved Before
 414|1|x-jat|To Heart
@@ -58675,6 +58682,7 @@
 16588|4|en|Under Ninja
 10800|4|ja|UNDER THE DOG
 10800|1|x-jat|Under the Dog
+20242|4|en|Under the Gate
 8112|2|en|Under the Innocent Sky
 19759|2|en|Under the Three Rivers
 6099|1|x-jat|Under World
@@ -83724,6 +83732,8 @@
 8747|4|ja|世にも恐ろしいグリム童話
 8748|4|ja|世にも恐ろしい日本昔話
 10592|4|zh-Hans|世嘉硬件女孩
+20244|4|zh-Hans|世外
+20243|4|zh|世外
 9794|4|ja|世界でいちばん強くなりたい!
 8851|4|ja|世界の光 親鸞聖人
 7662|4|ja|世界の王者 キングコング大会
@@ -90037,6 +90047,7 @@
 18853|4|zh-Hans|戏精宿舍
 18154|4|zh-Hans|成为名垂青史的恶役千金吧
 18154|2|zh-Hans|成为名留历史的坏女人吧
+20245|4|zh-Hans|成也萧河
 18744|4|zh-Hans|成何体统
 19869|2|zh-Hans|成何体统 第2季
 19869|4|zh-Hans|成何体统 第二季
@@ -94360,6 +94371,7 @@
 15861|4|zh-Hans|画江湖之轨夜行
 17160|4|zh-Hans|画江湖之轨夜行 下篇
 14431|2|x-zht|画江湖之风语咒
+20242|4|zh-Hans|界门之下
 2965|4|ja|留守電アワー SODANブラザーズ
 17242|4|ja|異世界♂ヤリサー
 16389|4|ja|異世界おじさん
