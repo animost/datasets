@@ -1,4 +1,4 @@
-# created: Tue Aug  4 03:00:01 2026
+# created: Wed Aug  5 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1254,7 +1254,7 @@
 15373|4|pl|A Whisker Away
 13365|4|en|A whistle
 18831|4|en|A Wild Last Boss Appeared!
-19777|2|en|A Wild Last Boss Appeared! 2
+19777|2|en|A Wild Last Boss Appeared! (2026)
 15693|4|en|A Will Eternal
 16619|2|en|A Will Eternal 2
 18384|2|en|A Will Eternal 3
@@ -3141,6 +3141,7 @@
 8625|4|ja|Another The Other -因果-
 15065|4|ja|ANOTHER WORLD
 15065|1|x-jat|Another World
+20244|4|en|Another World (2025)
 8625|2|pl|Another: Inny - Karma
 8625|1|x-jat|Another: The Other - Inga
 7497|2|en|Anpanman Blacknose and the Magical Song
@@ -12959,6 +12960,7 @@
 6999|2|en|Dojoji Temple
 3482|1|x-jat|Dokaben
 5290|1|x-jat|Dokachin
+20246|1|x-jat|Dokagui Daisuki! Mochizuki-san
 14608|2|en|Dokgo Tak - Mound Which Was Taken Back
 14609|2|en|Dokgo Tak: Throw to the Sun
 14608|1|x-kot|Dokgotak Dasi Chajeun Maundeu
@@ -24245,7 +24247,7 @@
 2548|4|it|I predatori del tempo
 4193|4|it|I Racconti di Terramare
 14449|2|en|I Reincarnated into an Otome Game as a Villainess With Only Destruction Flags...
-19633|4|en|I Saved Myself with a Potion! : Life in Another World
+19633|4|en|I Saved Myself with a Potion!: Life in Another World
 2728|4|it|I segreti dell`isola misteriosa
 10596|2|it|I Sette Peccati Capitali
 13286|2|it|I Sette Peccati Capitali - I prigionieri del cielo
@@ -61597,7 +61599,7 @@
 9263|1|x-jat|Yasashii March
 10118|1|x-jat|Yasashii Ookami
 18831|1|x-jat|Yasei no Last Boss ga Arawareta!
-19777|1|x-jat|Yasei no Last Boss ga Arawareta! 2
+19777|1|x-jat|Yasei no Last Boss ga Arawareta! (2026)
 15546|3|en|Yashahime 1
 16141|3|en|Yashahime 2
 15546|4|en|Yashahime: Princess Half-Demon
@@ -61693,6 +61695,7 @@
 19322|1|x-kot|Yeon-aejehanguyeog
 19322|2|x-kot|Yeonae Jehan Guyeok
 10796|2|x-kot|Yeongsimi
+20247|1|x-kot|Yeonui Pyeonji
 4734|2|x-kot|Yeopgi Ingeol Sunako
 18806|1|x-kot|Yeosin Gangnim
 19088|1|x-kot|Yeosin Gangnim 2
@@ -62206,6 +62209,7 @@
 17753|4|fr|Your Color
 18117|1|x-jat|Your Forma
 18117|2|en|Your Forma
+20247|4|en|Your Letter
 10539|4|en|Your Lie in April
 10892|2|en|Your Lie in April OVA
 12991|2|en|Your Light: Kase-san and Morning Glories
@@ -73523,6 +73527,7 @@
 15500|2|ko|연애하루전 (2018)
 15527|4|ko|연애하루전2
 10485|2|x-unk|연유 테일즈
+20247|4|ko|연의 편지
 17483|2|ko|연정술사 콜렛의 H한 착정이야기
 549|2|ko|연희
 2141|2|ko|연희 (속), 연희 2
@@ -79564,6 +79569,7 @@
 15842|4|ja|トゥルーノース
 5290|4|ja|ドカチン
 3482|4|ja|ドカベン
+20246|4|ja|ドカ食いダイスキ! もちづきさん
 10080|4|ja|トキ この地球(ほし)の未来を見つめて
 9523|4|ja|ドキドキ! プリキュア
 1619|4|ja|ドキドキ伝説 魔法陣グルグル
@@ -97896,7 +97902,7 @@
 7663|4|ja|野球狂の詩 北の狼南の虎
 11349|4|ja|野球部あるある
 18831|4|ja|野生のラスボスが現れた!
-19777|4|ja|野生のラスボスが現れた! 2
+19777|4|ja|野生のラスボスが現れた! (2026)
 18831|4|zh-Hans|野生的大魔王出现了！
 18831|4|zh-Hant|野生的大魔王出現了！
 13210|4|ja|野良スコ
