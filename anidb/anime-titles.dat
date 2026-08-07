@@ -1,4 +1,4 @@
-# created: Wed Aug  5 03:00:02 2026
+# created: Thu Aug  6 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4605,6 +4605,7 @@
 18716|1|x-jat|Bad Girl
 19267|2|en|Bad Guys 7
 2375|4|en|Bad Teacher Equation
+20252|1|ko|Badass Girl : Run Hany
 8441|1|x-kot|Badaui Jeonseol Jangbogo
 18716|2|en|BADGIRL
 7842|2|en|Badtz-Maru in The Ants and the Grasshopper
@@ -16027,6 +16028,8 @@
 18657|2|en|Fabulous Beasts 3
 18810|2|en|Fabulous Beasts 4
 19897|2|en|Fabulous Beasts 5
+20248|2|en|Fabulous Beasts 6
+20248|2|en|Fabulous Beasts 6th Season
 17349|2|en|Face on Lie
 1088|2|en|Faceless Moon
 1063|2|pt-BR|Fada Egoísta Mirumo de Pon!
@@ -51030,6 +51033,8 @@
 9631|1|x-kot|Sonyeon 007 Eunhateukgongdae
 9632|1|x-kot|Sonyeon 007 Jihajeguj
 9632|2|x-kot|Sonyeon 007 Jihajeguk
+20250|1|x-jat|Sonyeonjangsu
+20251|1|x-kot|Sonyeonjangsu (2015)
 14132|4|en|Sopping Wet JK Rainy R*peover
 14132|2|en|Sopping Wet JK Rainy Rapeover
 19169|2|en|Sora and the Big Tree
@@ -56370,6 +56375,7 @@
 2557|4|fr|Théo ou la batte de la victoire - Le cadeau d`adieu
 3059|4|fr|Théo ou la batte de la victoire - Miss Lonely Yesterday
 2556|4|fr|Théo ou la batte de la victoire - Un champion sans numéro
+20248|2|en|There Are Fabulous Beasts: Season 6
 19308|2|en|There Is Also a Hole in the Student Organization!
 14547|2|en|There is No Way Bitch Academy is Pure!!?
 8043|1|x-jat|There She Is!!
@@ -62027,6 +62033,8 @@
 18657|1|x-zht|You Shou Yan 3
 18810|1|x-zht|You Shou Yan 4
 19897|1|x-zht|You Shou Yan 5
+20248|1|x-zht|You Shou Yan 6
+20248|2|x-zht|You Shou Yan 6th Season
 4610|2|x-jat|You Shoumei Bijutsukan: Line
 12070|2|en|You Were Born for a Reason: The Real Purpose of Life
 15681|1|x-zht|You Yao
@@ -62579,8 +62587,10 @@
 1268|4|fr|Yumeria
 1268|4|en|Yumeria
 1268|3|x-jat|yumi
+20249|4|en|Yumi`s Cells: The Movie
 4830|1|x-jat|Yumiko Kirita in Venus
 4830|4|ja|YUMIKO KIRITA in Venus
+20249|1|x-kot|Yumiui Sepodeul Deo Mubi
 19446|1|x-zht|Yun Shen Buzhi Meng
 20107|2|x-zht|Yun Shen Buzhi Meng 2nd Season
 20107|2|x-zht|Yun Shen Buzhi Meng Di Er Ji
@@ -63927,6 +63937,7 @@
 6041|2|bg|Белина: Чезнеща в тъмнината
 6026|2|ru|Белый Альбом
 226|2|ru|Белый крест II
+15705|2|ru|Белый Синий
 98|4|ru|Берсерк
 98|2|bg|Берсерк
 98|2|uk|Берсерк
@@ -66342,6 +66353,8 @@
 8312|2|ru|Наруто: Ураганные хроники 5 - Кровавая тюрьма
 3524|2|ru|Насилие над женой
 16564|4|ru|Настоящая героиня
+2988|2|ru|Настоящая грусть
+4245|2|ru|Настоящая грусть - Генезис
 4325|2|ru|Настоящие слёзы
 275|3|bg|Наусика
 275|2|bg|Наусика от Долината на Вятъра
@@ -66411,6 +66424,7 @@
 15131|2|uk|Невизнаний в академії Короля Демонів
 16101|4|uk|Невизнаний в академії Короля Демонів 2
 4489|2|bg|Невинната Красавица
+3952|2|ru|Невинная грусть
 1113|2|uk|Невинний Вигляд
 4489|2|ru|Невинный Венус
 1113|2|ru|Невинный вид
@@ -66612,6 +66626,7 @@
 1003|4|bg|Оръжие до гроб
 2839|2|bg|Оръжие по Меч
 13760|2|ru|Освобождение шпионов
+9668|2|ru|Осколки твоего сердца
 7139|2|ru|Особняк развратного очарования
 581|2|uk|Останній вигнанець
 8260|2|uk|Останній Вигнанець: Сріблясті Крила Фам
@@ -67423,6 +67438,7 @@
 1543|2|uk|Самурай Чямплу
 932|2|ru|Самурайский дух - Фильм
 960|2|ru|Самурайский дух OVA
+18444|2|ru|Самый дорогой
 8642|3|uk|Санка
 8642|2|uk|Санкареа
 8969|2|uk|Санкареа ОВА
@@ -67570,6 +67586,7 @@
 1023|2|ru|Синдзюку - город-ад
 74|2|ru|Синее синего
 6443|2|bg|Сини Цветчета
+6622|2|ru|Синий треугольник
 8148|4|ru|Синий экзорцист
 8148|2|bg|Синият Екзорсист
 17211|4|ru|Синоби Иттоки
@@ -67906,6 +67923,7 @@
 7369|2|uk|Темний дворецький 2
 4906|2|uk|Темніше за чорне
 6644|2|uk|Темніше чорного: Близнюки метеора
+8979|2|ru|Темно-синий
 19115|2|ru|Темнокожая гяру а-ля карт
 6048|2|ru|Тёмный Дворецкий
 7369|2|ru|Тёмный дворецкий 2
@@ -72948,6 +72966,8 @@
 9631|4|ko|소년 007 은하특공대
 9632|4|ko|소년 007 지하제국
 18680|2|ko|소년이 어른이 되는 여름
+20250|4|ko|소년장수
+20251|4|ko|소년장수 (2015)
 8692|4|ko|소드 아트 온라인
 10376|4|ko|소드 아트 온라인 II
 13494|4|ko|소드 아트 온라인 얼터너티브: 건 게일 온라인
@@ -73727,6 +73747,7 @@
 10576|4|ko|유리의 꽃과 부수는 세계
 4265|4|ko|유리함대
 1687|2|ko|유모
+20249|4|ko|유미의 세포들 더 무비
 6553|2|ko|유부녀 교간 일기
 2962|2|ko|유부녀 능욕 참관일
 13357|2|ko|유부녀 라이프
@@ -91800,6 +91821,7 @@
 18657|4|zh-Hans|有兽焉 第三季
 18658|4|zh-Hans|有兽焉 第二季
 19897|4|zh-Hans|有兽焉 第五季
+20248|4|zh-Hans|有兽焉 第六季
 18810|4|zh-Hans|有兽焉 第四季
 19259|4|ja|有栖川煉ってホントは女なんだよね.
 15681|4|zh-Hans|有药
