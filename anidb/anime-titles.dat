@@ -1,4 +1,4 @@
-# created: Thu Aug  6 03:00:02 2026
+# created: Fri Aug  7 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -11876,6 +11876,8 @@
 14072|1|x-jat|Destiny Child ONA
 2142|4|fr|Destiny of shrine maiden
 2142|4|en|Destiny of the Shrine Maiden
+20254|4|ja|Destiny Unchain Online
+20254|1|x-jat|Destiny Unchain Online
 14449|2|en|Destruction Flag Otome
 12603|3|x-jat|desuma
 18991|3|x-jat|desuma2
@@ -17509,6 +17511,7 @@
 19920|2|en|Full-Time Magister 7th Season
 15397|2|en|Full-Time Magister IV
 19920|2|en|Full-Time Magister S7
+20253|2|en|Full-Time Magister S8
 13469|2|en|Full-Time Magister Season 2
 14572|2|en|Full-Time Magister Season 3
 15397|2|en|Full-Time Magister Season 4
@@ -44948,11 +44951,13 @@
 14572|1|x-zht|Quanzhi Fashi III
 15397|1|x-zht|Quanzhi Fashi IV
 19920|2|x-zht|Quanzhi Fashi S7
+20253|2|x-zht|Quanzhi Fashi S8
 15397|2|x-zht|Quanzhi Fashi Season 4
 19503|1|x-zht|Quanzhi Fashi Tebie Pian: Shenmi Weituo
 16490|1|x-zht|Quanzhi Fashi V
 16579|1|x-zht|Quanzhi Fashi VI
 19920|1|x-zht|Quanzhi Fashi VII
+20253|1|x-zht|Quanzhi Fashi VIII
 12560|1|x-zht|Quanzhi Gaoshou
 14978|1|x-zht|Quanzhi Gaoshou 2
 16589|1|x-zht|Quanzhi Gaoshou 3
@@ -45039,6 +45044,7 @@
 16490|3|x-jat|qzfs s5
 16579|3|x-jat|qzfs s6
 19920|3|x-zht|qzfs s7
+20253|3|x-zht|qzfs s8
 12560|3|x-zht|qzgs
 15035|3|x-zht|qzgs movie
 14978|3|x-zht|qzgs s2
@@ -59344,7 +59350,9 @@
 3542|1|x-jat|Versailles no Bara: Seimei Aru Kagiri Aishite
 17609|4|hu|Versailles rózsája (2025)
 13171|2|en|Versatile Mage
+19920|4|en|Versatile Mage (2026)
 19920|2|en|Versatile Mage 7th Season
+20253|2|en|Versatile Mage S8
 181|4|tr|Versay`ın Gülü
 17609|4|tr|Versay`ın Gülü (2025)
 19957|1|x-jat|Vertex Force
@@ -84880,12 +84888,14 @@
 19920|2|zh-Hans|全职法师 第7季
 19920|2|zh-Hans|全职法师 第七季
 13469|2|zh|全职法师 第二季
+20253|2|zh-Hans|全职法师 第八季
 13469|4|zh-Hans|全职法师II
 14572|4|zh-Hans|全职法师III
 15397|4|zh-Hans|全职法师IV
 16490|4|zh-Hans|全职法师V
 16579|4|zh-Hans|全职法师VI
 19920|4|zh-Hans|全职法师VII
+20253|4|zh-Hans|全职法师VIII
 14572|2|zh|全职法师第三季
 10012|2|zh-Hans|全职猎人剧场版 最后的任务
 9323|2|zh-Hans|全职猎人剧场版 绯色的幻影
