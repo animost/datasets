@@ -1,4 +1,4 @@
-# created: Fri Aug  7 03:00:01 2026
+# created: Sat Aug  8 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -4563,6 +4563,7 @@
 4897|1|x-jat|Baccano!
 4897|2|it|Baccano!
 4897|4|pl|Baccano!
+20255|2|en|Back Alley of Guyu Street
 15341|1|x-jat|Back Arrow
 15341|4|en|Back Arrow
 19689|4|en|Back as Immortal Lord
@@ -6246,6 +6247,7 @@
 3395|4|it|Black Lagoon
 3395|4|pt|Black Lagoon
 3395|4|en|Black Lagoon
+3395|4|cs|Black Lagoon
 3395|2|x-jat|Black Lagoon 1
 3395|2|x-jat|Black Lagoon 1st Season
 4597|2|x-jat|Black Lagoon 2nd Barrage
@@ -10690,6 +10692,8 @@
 19893|2|en|Da Zhuzai (2023) 2nd Season
 18028|2|x-zht|Da Zhuzai 3D
 19893|2|en|Da Zhuzai 3D 2nd Season
+18028|2|x-zht|Da Zhuzai: Nian Fan
+19893|2|x-zht|Da Zhuzai: Nian Fan 2
 16703|1|x-zht|Da Zuiba Dudu
 561|3|x-jat|DA02
 351|1|x-jat|Daa! Daa! Daa!
@@ -11031,6 +11035,9 @@
 1322|4|pl|Daphne
 1322|4|en|Daphne in the Brilliant Blue
 642|3|en|DAQ
+20256|4|en|Daqian Town
+20256|2|x-zht|Daqian Xiao Zhen
+20256|1|x-zht|Daqian Xiaozhen
 19764|4|en|Dara-san of the Reiwa Era
 883|1|x-jat|Daraku
 12990|1|x-jat|Daraku Reijou The Animation
@@ -12309,6 +12316,7 @@
 4797|4|en|Di Gi Charat: Winter Garden
 19488|2|x-zht|Di Ling Ai Zhi Mo Shui Linglong
 19488|1|x-zht|Di Ling Ai: Mo Shui Linglong
+20257|1|x-zht|Di Ling Ai: Shui Xin Chan
 13660|1|x-zht|Di Ling Qu
 14483|4|vi|Dị thú ma đô
 13720|1|x-zht|Di Tou Ren Sheng
@@ -12805,8 +12813,11 @@
 11266|4|fr|Divine Gate
 18945|4|en|Divine Lord of the Heavens
 862|2|en|Divine Love
-19488|4|en|Divine Love - Deep Blue
-19488|2|en|Divine Love: Deep Blue
+19488|2|en|Divine Love - Deep Blue
+20257|2|en|Divine Love 2
+19488|4|en|Divine Love: Deep Blue
+20257|2|en|Divine Love: Entwined Water Hearts
+20257|2|en|Divine Love: Water Heart Entwine
 19651|4|en|Divine Manifestation
 9298|2|fr|Divine Nanami
 1277|2|en|Divine Punishment: Angel Rabbie OVA
@@ -17601,6 +17612,7 @@
 3570|2|en|Fun Family Moomintroll: The Comet of Moominvalley
 4698|2|en|Fun Willow Town
 11137|1|x-jat|Funasshi no Funafunafuna Hiyori
+9010|4|en|Funbag Fantasy
 11997|1|x-jat|Fune o Amu
 11997|2|x-jat|Fune wo Amu
 11997|3|x-jat|funewoamu
@@ -21009,6 +21021,7 @@
 4036|2|it|Guyslagger
 4036|2|en|Guyslugger
 2125|2|x-jat|Guystars: Fractions of the Earth
+20255|1|x-zht|Guyu Jie Hou Xiang
 619|4|fr|Guyver
 619|3|x-jat|Guyver
 3185|4|de|Guyver - The Bioboosted Armor
@@ -41622,6 +41635,7 @@
 17796|2|x-jat|Otome Game Sekai wa Mob ni Kibishii Sekai desu S2
 10876|1|x-jat|Otome Hime
 7595|1|x-jat|Otome Juurin Yuugi: Maiden Infringement Play
+19782|2|x-jat|Otome Kaijuu
 19782|1|x-jat|Otome Kaijuu Caramelise
 19782|2|x-jat|Otome Kaijuu Carameliser
 8968|1|x-jat|Otome Nadeshiko Koi Techou
@@ -87380,6 +87394,7 @@
 13598|4|ja|大切な家族を包む, その手.
 4892|2|zh-Hans|大剑
 6700|4|ja|大力太郎の無茶修業
+20256|4|zh-Hans|大千小镇
 13121|4|zh|大卫贝肯之倒霉特工熊
 11322|4|zh-Hans|大叔与棉花糖
 17965|4|zh-Hans|大叔新人冒险者，被最强小队往死里锻炼后变无敌了
@@ -95808,6 +95823,9 @@
 14035|4|zh|缇可 冬季篇
 18919|4|zh-Hans|缉妖录之启程篇
 19488|4|zh-Hans|缔灵爱之默水玲珑
+20257|2|zh-Hans|缔灵爱之默水玲珑2
+20257|2|zh-Hans|缔灵爱之默水玲珑第二季
+20257|4|zh-Hans|缔灵爱水心缠
 11997|4|zh-Hans|编舟记
 7656|4|zh-Hans|缘之空
 15272|4|zh-Hans|缘结熊本！
@@ -97071,6 +97089,7 @@
 8853|4|zh-Hans|谜样女友X
 8995|4|zh-Hans|谜样女友X OAD 谜之夏日祭典
 19660|4|zh-Hans|谷围南亭
+20255|4|zh-Hans|谷雨街后巷
 9829|4|ja|豆しば
 8022|4|ja|豆富小僧
 5305|2|zh-Hans|豆芽小文
