@@ -1,4 +1,4 @@
-# created: Sat Aug  8 03:00:01 2026
+# created: Sun Aug  9 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6261,6 +6261,7 @@
 4597|4|ja|BLACK LAGOON The Second Barrage
 6645|1|x-jat|Black Lagoon: Roberta`s Blood Trail
 6645|4|en|Black Lagoon: Roberta`s Blood Trail
+6645|4|cs|Black Lagoon: Robertina krvavá stopa
 4597|1|x-jat|Black Lagoon: The Second Barrage
 4597|4|en|Black Lagoon: The Second Barrage
 4597|4|pl|Black Lagoon: The Second Barrage
@@ -10859,7 +10860,7 @@
 18290|4|vi|DAN DA DAN
 18290|4|my|DAN DA DAN
 18290|4|es-419|DAN DA DAN
-18290|4|fr|DAN DA DAN
+18290|4|fr|Dan Da Dan
 18290|4|id|DAN DA DAN
 18290|4|pt-BR|DAN DA DAN
 18290|4|tl|DAN DA DAN
@@ -13170,6 +13171,7 @@
 2717|4|pt|Doraemon e os Deuses do Vento
 3315|4|pt|Doraemon e os Piratas dos Mares do Sul
 3315|4|es-GA|Doraemon e os piratas dos mares do Sur
+5432|4|pt|Doraemon E Os Sete Magos
 4967|4|es|Doraemon en el mágico mundo de las aves
 8542|4|es|Doraemon en la Isla del Escarabajo Dorado
 19711|4|fr|Doraemon et le château sous-marin
@@ -26566,6 +26568,7 @@
 15275|1|x-jat|Jujutsu Kaisen
 15275|4|en|Jujutsu Kaisen
 15275|4|pl|Jujutsu Kaisen
+15275|4|fr|Jujutsu Kaisen
 17196|1|x-jat|Jujutsu Kaisen (2023)
 17196|4|en|Jujutsu Kaisen (2023)
 17196|4|fr|Jujutsu Kaisen (Saison 2)
@@ -30531,6 +30534,7 @@
 15235|2|fr|L`étranger du plage
 5679|2|fr|L`habitant de l`infini
 14912|4|fr|L`Habitant de l`infini (2019)
+20023|4|fr|L`héroïne au ruban
 17755|4|fr|L`histoire d`Ai Haibara - Le mystère du train noir
 3103|4|fr|L`histoire du démon numérique
 7999|4|fr|L`homme au monocycle
@@ -31592,7 +31596,7 @@
 13743|4|fr|Les Brigades Immunitaires
 14791|4|fr|Les Brigades Immunitaires !!
 15502|4|fr|Les Brigades Immunitaires Black
-17870|4|fr|Les Carnets de l`apothicaire
+17870|4|fr|Les carnets de l`apothicaire
 18562|4|fr|Les Carnets de l`apothicaire (2025)
 3511|4|fr|Les chevaliers de l`outre-monde
 2546|4|fr|Les chevaliers du temps
@@ -40820,6 +40824,7 @@
 2036|4|ja|ONE PIECE 呪われた聖剣
 1253|4|ja|ONE PIECE 珍獣島のチョッパー王国
 893|2|pt|One Piece: A Aventura na Ilha Mecânica
+20258|1|en|One Piece: Adventure in the Ocean`s Navel
 893|4|en|One Piece: Adventure of Spiral Island
 893|4|it|One Piece: Avventura all`Isola Spirale
 2644|4|en|One Piece: Baron Omatsuri and the Island of Secrets
@@ -40857,6 +40862,7 @@
 4097|4|en|One Piece: The Giant Mechanical Soldier of Karakuri Castle
 411|4|en|One Piece: The Movie
 1254|4|it|One Piece: Trappola mortale
+20258|4|ja|One Piece: Umi no Heso no Daibouken-hen
 4851|4|it|One Piece: Un`amicizia oltre i confini del mare
 2900|4|en|One Pound Gospel
 11123|4|fr|One Punch Man
@@ -42451,6 +42457,7 @@
 16281|2|en|Perfect World
 18871|2|en|Perfect World Embers of Fire
 18871|2|en|Perfect World Movie
+18871|2|en|Perfect World The Movie: Ashes of Fire
 18871|2|en|Perfect World Theater Edition
 18871|2|en|Perfect World: Theatrical Movie
 154|3|x-jat|perfectb
@@ -47433,6 +47440,7 @@
 18654|4|ja|SAKAMOTO DAYS
 18654|4|en|Sakamoto Days
 18654|4|pl|Sakamoto Days
+18654|4|fr|Sakamoto Days
 18984|1|x-jat|Sakamoto Days (2025)
 18984|4|ja|SAKAMOTO DAYS (2025)
 18984|4|en|Sakamoto Days (2025)
@@ -58700,6 +58708,7 @@
 17924|4|en|Undead Murder Farce
 17586|1|x-jat|Undead Unluck
 17586|4|en|Undead Unluck
+17586|4|fr|Undead Unluck
 18789|2|en|Undead Unluck (2025)
 19793|1|x-jat|Undead Unluck 2
 19793|2|en|Undead Unluck 2
@@ -59985,6 +59994,7 @@
 19041|1|x-zht|Wanjie Zhuzai
 3543|1|x-jat|Wankorobee
 16281|1|x-zht|Wanmei Shijie
+18871|2|x-zht|Wanmei Shijie Movie: Huo Zhi Huijin
 16892|1|x-zht|Wanmei Shijie Shuang Shi Ji
 18871|1|x-zht|Wanmei Shijie: Juchang Ban
 9794|4|fr|Wanna Be the Strongest in the World!
