@@ -1,4 +1,4 @@
-# created: Sun Aug  9 03:00:02 2026
+# created: Mon Aug 10 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -458,6 +458,8 @@
 12576|4|ja|18if
 11393|1|x-jat|1989
 11393|4|ja|1989
+20262|1|zh-Hans|1999! Shenmi Xue Duice Bu
+20262|4|zh|1999！神秘学对策部
 3370|2|en|19th-Century Boy Takamaru
 18008|1|x-jat|1LDK + JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?
 18008|2|en|1LDK + JK Living Together Suddenly? Close Contact!? First Sex!!?
@@ -2291,6 +2293,7 @@
 11848|2|tr|Akuma`nın Gri Çocuğu: Azizlerin Gecesi
 1480|1|x-jat|Akuu Daisakusen Srungle
 17937|2|x-jat|Akuyaku LV99
+20259|1|x-jat|Akuyaku no Ending wa Shi Nomi
 17937|2|x-jat|Akuyaku Reijou Level 99
 17937|1|x-jat|Akuyaku Reijou Level 99: Watashi wa Ura Boss Desu ga Maou de wa Arimasen
 16826|1|x-jat|Akuyaku Reijou nano de Last Boss o Katte Mimashita
@@ -7785,6 +7788,7 @@
 16716|1|x-zht|Cai Bao Gou Da Fanji
 647|3|de|Cain
 647|4|de|Cain - Die Macht der Liebe
+20261|1|x-zht|Caishen Dou Zhanlong
 8122|2|en|Calabash Brothers
 18401|1|x-jat|Calabi Yau no Sukima
 9285|4|en|Calamity of a Zombie Girl
@@ -34300,6 +34304,7 @@
 2068|4|pl|Mała dama
 2067|4|pl|Mała dama 2
 2072|4|pl|Mała Dama the Movie
+5436|4|pl|Mała foczka
 2298|4|pl|Mała księżniczka
 2298|2|pl|Mała księżniczka Sara
 15595|1|x-zht|Mala Nu Pei
@@ -42457,6 +42462,9 @@
 16281|2|en|Perfect World
 18871|2|en|Perfect World Embers of Fire
 18871|2|en|Perfect World Movie
+20260|2|en|Perfect World Movie: Nine Calamities Burning Heaven
+20260|2|en|Perfect World Movie: Nine Tribulations Incinerate the Heavens
+20260|4|en|Perfect World Movie: Ninefold The Burning Sky
 18871|2|en|Perfect World The Movie: Ashes of Fire
 18871|2|en|Perfect World Theater Edition
 18871|2|en|Perfect World: Theatrical Movie
@@ -47085,6 +47093,7 @@
 11905|4|en|Saga of Tanya the Evil
 13717|4|en|Saga of Tanya the Evil (2019)
 16392|4|en|Saga of Tanya the Evil II
+16392|2|en|Saga of Tanya the Evil Season 2
 16393|4|en|Saga of Tanya the Evil: Operation Desert Pasta
 13717|2|en|Saga of Tanya the Evil: The Movie
 13945|4|ro|SAGA VINLAND
@@ -59487,6 +59496,7 @@
 3519|2|en|Village of the Hermit
 18594|4|en|Villain Initialization
 17937|4|en|Villainess Level 99: I May Be the Hidden Boss but I`m Not the Demon Lord
+20259|2|en|Villains Are Destined to Die
 2008|3|x-jat|Villgust
 9514|4|no|Vinden stiger
 275|2|sv|Vindens Krigare
@@ -59995,6 +60005,7 @@
 3543|1|x-jat|Wankorobee
 16281|1|x-zht|Wanmei Shijie
 18871|2|x-zht|Wanmei Shijie Movie: Huo Zhi Huijin
+20260|1|x-zht|Wanmei Shijie Movie: Jiu Jie Fen Tian
 16892|1|x-zht|Wanmei Shijie Shuang Shi Ji
 18871|1|x-zht|Wanmei Shijie: Juchang Ban
 9794|4|fr|Wanna Be the Strongest in the World!
@@ -68164,6 +68175,7 @@
 14751|4|ru|Упорные рыцари
 1844|2|ru|Упругие секс-воины
 591|2|ru|Урасиман: Полиция будущего
+19730|2|ru|Уровень симпатии Марики ненормально высокий
 16542|2|ru|Урок изучения полового созревания
 12386|2|ru|Уроки жизни
 9933|2|ru|Уроки облизывания
@@ -73336,6 +73348,7 @@
 16108|4|ko|악마 군 (2023)
 11327|2|ko|악마 단속반
 9916|2|ko|악마의 리들
+20259|4|ko|악역의 엔딩은 죽음뿐
 14044|4|ko|악우 - 천재인형
 8678|2|ko|악의 여간부
 15511|4|ko|악의 여간부 Full Moon Night
@@ -88497,9 +88510,13 @@
 14468|4|ja|完璧お嬢様の私が土下座でマゾ堕ちするちょろインなワケないですわ!
 18940|4|ja|完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる
 16281|4|zh-Hans|完美世界
+20260|2|zh-Hans|完美世界 剧场版之九劫焚天
+20260|2|zh-Hans|完美世界之九劫焚天
 18871|2|zh-Hans|完美世界之火之灰烬
 18871|4|zh-Hans|完美世界剧场版
+20260|4|zh-Hans|完美世界剧场版 九劫焚天
 18871|2|zh-Hans|完美世界剧场版 火之灰烬
+20260|2|zh-Hans|完美世界剧场版 第二部
 18871|2|zh-Hans|完美世界剧场版（总集篇）
 16892|4|zh-Hans|完美世界双食记
 18940|2|zh-Hans|完美到难以接近的圣女遭到解除婚约后被卖到邻国
@@ -89942,6 +89959,7 @@
 15511|2|ja|悪の女幹部フルムーンナイトリターンズ
 14044|4|ja|悪偶 ‐天才人形‐
 3618|4|ja|悪右衛門
+20259|4|ja|悪役のエンディングは死のみ
 16826|4|ja|悪役令嬢なのでラスボスを飼ってみました
 19360|4|ja|悪役令嬢の中の人
 19519|4|ja|悪役令嬢の追放後! 教会改革ごはんで悠々シスター暮らし
@@ -97160,6 +97178,7 @@
 20049|4|zh|贝肯熊：火星任务
 16701|4|zh-Hans|贝肯熊2:金牌特工
 3085|4|zh-Hans|贝贝罗历险记
+20261|4|zh-Hans|财神窦占龙
 14514|4|zh-Hans|贤惠幼妻仙狐小姐
 13477|4|zh-Hans|贤者之孙
 18317|4|zh-Hans|败犬女主太多了！
