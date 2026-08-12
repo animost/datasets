@@ -1,4 +1,4 @@
-# created: Mon Aug 10 03:00:01 2026
+# created: Tue Aug 11 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2148,6 +2148,7 @@
 2860|3|x-jat|akazukin ova
 11016|1|x-jat|Akazukin to Kenkou
 2859|3|x-jat|akazukin tv
+20263|1|x-jat|Akazukin, Tabi no Tochuu de Shitai to Deau.
 8816|1|x-jat|AKB0048
 8816|4|ja|AKB0048
 8816|4|en|AKB0048
@@ -3376,6 +3377,7 @@
 16538|2|en|Apparently, Disillusioned Adventurers Will Save the World
 3416|2|x-jat|Appleland Monogatari
 3416|4|en|Appleland Story
+20255|2|en|APPLES
 1312|2|sv|Appleseed
 166|1|x-jat|Appleseed
 1312|4|pl|Appleseed
@@ -15807,6 +15809,7 @@
 8895|4|en|Evangelion: 3.0+1.01 Thrice Upon a Time
 8895|4|fr|Evangelion: 3.0+1.01 Thrice Upon a Time
 8895|2|x-jat|Evangelion: 3.0+1.11 Thrice Upon a Time
+8895|4|de|Evangelion: 3.0+1.11 Thrice Upon a Time
 7565|4|pl|Evangelion: 3.33 (Nie) możesz powtórzyć.
 7565|2|en|Evangelion: 3.33 You Can (Not) Redo
 7565|2|en|Evangelion: 3.333 You Can (Not) Redo
@@ -55041,7 +55044,7 @@
 15408|4|en|The God of High School
 15408|1|x-jat|The God of High School
 15408|4|ja|THE GOD OF HIGH SCHOOL
-15443|2|en|The God of War Dominates
+15443|4|en|The God of War Dominates
 3195|2|en|The Goddess is a Middle School Student
 1330|4|en|The Gokusen
 2316|4|de|The Golden Bird
@@ -67898,6 +67901,7 @@
 6793|2|ru|Сэкирэй: Чистая связь
 13341|4|ru|Сэнран Кагура. Мастер Синови —Призраки из Токио—
 10969|2|ru|Сюита школы Микагура
+19873|4|ru|Табакошка
 12462|4|ru|Тавава по понедельникам
 16734|4|ru|Тавава по понедельникам 2
 12562|2|ru|Таверна "Нобу" из другого мира
@@ -97218,6 +97222,7 @@
 17390|4|ja|赤い花 白い花
 11400|4|ja|赤い靴! 女の子!
 1850|4|ja|赤き血のイレブン
+20263|4|ja|赤ずきん, 旅の途中で死体と出会う.
 854|4|ja|赤ずきんチャチャ
 869|4|ja|赤ずきんチャチャ (1995)
 11016|4|ja|赤ずきんと健康
