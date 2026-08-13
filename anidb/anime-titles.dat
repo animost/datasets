@@ -1,4 +1,4 @@
-# created: Tue Aug 11 03:00:01 2026
+# created: Wed Aug 12 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -39085,6 +39085,7 @@
 5397|1|x-jat|Nezumi Monogatari: George to Gerald no Bouken
 6690|1|x-jat|Nezumi no Rusuban
 5732|1|x-jat|Nezumi no Yomeiri
+20264|1|x-jat|Nezumi-kun no Chokki
 1364|2|x-jat|NG Kishin Lamune & 40
 1366|2|x-jat|NG Kishin Lamune & 40 DX Wakuwaku Jiku, Hono no Daisousasen
 1365|2|x-jat|NG Kishin Lamune & 40 EX Biku Biku Triangle Ai no Arashi Daisakusen
@@ -60089,6 +60090,7 @@
 17304|3|x-jat|watakon
 13692|1|x-jat|Watakushitachi no Hounen-sama
 9582|3|x-jat|Watamote
+11979|3|x-jat|Watamote (2016)
 10064|3|x-jat|watamote OVA
 10064|2|en|Watamote OVA
 9582|4|en|Watamote: No Matter How I Look at It, It`s You Guys` Fault I`m Not Popular!
@@ -62786,7 +62788,6 @@
 10113|1|x-jat|Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku o Ketsui Shimashita.: Yuusha ni Narenakatta Ore no Imouto ga Joukyou Shite Kimashita.
 9659|4|es|Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita
 19219|1|x-jat|Yuusha no Kuzu
-19862|3|x-jat|Yuusha no Rokkotsu de
 957|1|x-jat|Yuusha Ou GaoGaiGar
 1717|1|x-jat|Yuusha Ou GaoGaiGar Final
 3152|1|x-jat|Yuusha Ou GaoGaiGar Final Grand Glorious Gathering
@@ -80209,6 +80210,7 @@
 12583|4|ja|ねこふんじゃった
 14723|4|ja|ねころんでテレビ.
 11679|4|ja|ねじ巻き精霊戦記 天鏡のアルデラミン
+20264|4|ja|ねずみくんのチョッキ
 5732|4|ja|ねずみのよめいり
 5397|4|ja|ねずみ物語 ジョージとジェラルドの冒険
 12970|4|ja|ねっこ君
