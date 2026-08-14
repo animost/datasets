@@ -1,4 +1,4 @@
-# created: Wed Aug 12 03:00:01 2026
+# created: Thu Aug 13 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -47603,6 +47603,7 @@
 4134|1|x-jat|Salamander
 4134|4|fr|Salamander
 20138|1|x-kot|Salangui Hachyuping
+20265|1|x-kot|Salangui Hachyuping: Golaeboseogui Jeonseol
 13195|1|x-kot|Salaoreum: Cheonnyeonui Donghaeng
 266|4|fi|Salapoliisi Conan
 16841|4|fi|Salapoliisi Conan: Hämärä tyyppi Hanzawa
@@ -72827,6 +72828,7 @@
 18447|2|ko|사랑의 우유 주문 ~리필~
 891|4|ko|사랑의 천사 웨딩피치
 20138|4|ko|사랑의 하츄핑
+20265|4|ko|사랑의 하츄핑: 고래보석의 전설
 5638|2|ko|사랑의 형태
 14014|2|ko|사랑하는 엄마
 1648|2|ko|사랑해 Baby★★
