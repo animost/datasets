@@ -1,4 +1,4 @@
-# created: Thu Aug 13 03:00:02 2026
+# created: Fri Aug 14 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -7790,7 +7790,6 @@
 16716|1|x-zht|Cai Bao Gou Da Fanji
 647|3|de|Cain
 647|4|de|Cain - Die Macht der Liebe
-20261|1|x-zht|Caishen Dou Zhanlong
 8122|2|en|Calabash Brothers
 18401|1|x-jat|Calabi Yau no Sukima
 9285|4|en|Calamity of a Zombie Girl
@@ -9227,6 +9226,8 @@
 15644|2|x-zht|Chuan Shu Zi Jiu Zhi Nan
 15644|1|x-zht|Chuan Shu Zijiu Zhinan
 16685|1|x-zht|Chuanyue Huoxian: Youling Jihua
+20266|2|x-zht|Chuanyue Shikong Cheng Xian Di, Xitong Chidao Ba Wan Nian
+20266|1|x-zht|Chuanyue Shikong Cheng Xiandi, Xitong Chidao Bawan Nian
 20043|1|x-zht|Chuanyue Shou Shi, Shenshou Nan Pu Zhu Wo Cheng Hou
 18637|2|en|Chubby Girlfriend and Pity Boyfriend
 3466|2|en|Chubby Ninja
@@ -22126,6 +22127,7 @@
 4575|2|en|Heaven-Piercing Gurren Lagann
 17002|4|en|Heaven’s Official Blessing Season 2
 15513|4|en|Heaven`s Design Team
+20266|4|en|Heaven`s Game
 6658|4|en|Heaven`s Lost Property
 8931|2|en|Heaven`s Lost Property Final: Eternal My Master
 7950|4|en|Heaven`s Lost Property OVA: Project Pink
@@ -44235,6 +44237,7 @@
 5382|4|it|Prime Rose
 4401|4|es|Primer escuadrón
 20233|4|en|Primeval Overlord
+20233|2|en|Primordial God
 2209|2|fr|Prince du soleil : les grandes aventures d`Horus
 2074|4|fr|Prince Hercule
 9369|4|en|Prince Nezha`s Triumph Against Dragon King
@@ -53222,6 +53225,8 @@
 11186|2|x-jat|Taifu no Noruda
 11186|1|x-jat|Taifuu no Noruda
 10598|3|x-jat|taigak
+20233|2|x-zht|Taigu Shen Zun
+20233|2|x-zht|Taigu Shenzun
 18449|1|x-zht|Taigu Xing Shen Jue
 19294|1|x-zht|Taigu Zhan Hun
 2408|1|x-jat|Taiheiyou ni Kakeru Niji
@@ -57599,6 +57604,7 @@
 19784|4|en|Transcend Evolution
 13802|2|en|Transcend the Gods
 18370|2|en|Transcending the Nine Heavens
+20266|2|en|Transcending time and space to become an immortal emperor, the system is 80,000 years late
 9558|1|x-jat|Transfer
 9558|4|ja|Transfer
 5200|2|en|Transfer student
@@ -95365,6 +95371,7 @@
 15644|4|zh-Hans|穿书自救指南
 20043|4|zh-Hans|穿越兽世, 神兽男仆助我成后
 6176|2|zh-Hans|穿越宇宙的少女
+20266|4|zh-Hans|穿越时空成仙帝，系统迟到八万年
 4151|4|zh-Hans|穿越时空的少女
 16685|4|zh-Hans|穿越火线：幽灵计划
 9736|4|zh-Hans|穿透幻影的太阳
@@ -97186,7 +97193,6 @@
 20049|4|zh|贝肯熊：火星任务
 16701|4|zh-Hans|贝肯熊2:金牌特工
 3085|4|zh-Hans|贝贝罗历险记
-20261|4|zh-Hans|财神窦占龙
 14514|4|zh-Hans|贤惠幼妻仙狐小姐
 13477|4|zh-Hans|贤者之孙
 18317|4|zh-Hans|败犬女主太多了！
