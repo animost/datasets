@@ -1,4 +1,4 @@
-# created: Fri Aug 14 03:00:01 2026
+# created: Sat Aug 15 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -17310,8 +17310,10 @@
 18886|4|it|Frieren - Oltre la fine del viaggio (2026)
 18886|2|en|Frieren 2
 19977|2|en|Frieren 3
-17617|2|pt|Frieren e a Jornada para o Além
+17617|4|pt|Frieren e a Jornada para o Além
 17617|4|pt-BR|Frieren e a Jornada para o Além
+18886|4|pt|Frieren e a Jornada para o Além (2026)
+19977|4|pt|Frieren e a Jornada para o Além (2027)
 17617|4|en|Frieren: Beyond Journey`s End
 18886|4|en|Frieren: Beyond Journey`s End (2026)
 19977|2|en|Frieren: Beyond Journey`s End (2027)
@@ -23013,8 +23015,6 @@
 18215|1|x-jat|Hime dorei
 5950|1|x-jat|Hime Dorei: Mesu e to Ochiyuku Futago no Oujo
 8118|1|x-jat|Hime Gal Paradise: Love and Beauty
-18898|1|x-jat|Hime Kishi wa Barbaroi no Yome
-19160|1|x-jat|Hime Kishi-sama no Himo
 842|3|x-jat|Hime-chan
 842|1|x-jat|Hime-chan no Ribbon
 842|4|en|Hime-chan`s Ribbon
@@ -23031,7 +23031,8 @@
 5639|1|x-jat|Himekishi Angelica The Animation
 4493|1|x-jat|Himekishi Lilia
 10216|1|x-jat|Himekishi Olivia
-18898|2|x-jat|Himekishi wa Barbaroi no Yome
+18898|1|x-jat|Himekishi wa Barbaroi no Yome
+19160|1|x-jat|Himekishi-sama no Himo
 8118|3|x-jat|himepara
 9375|1|x-jat|Himeyuri
 13585|1|x-jat|Himeyuri no Tou
@@ -31983,10 +31984,12 @@
 16290|4|en|Link Click
 19078|2|en|Link Click - Bridon Arc
 16531|2|en|Link Click 2nd Season
+19882|2|en|LINK CLICK 3
 16531|4|de|Link Click II
 19882|2|en|Link Click III Part One
+19882|2|en|Link Click S3
 16531|4|en|Link Click Season 2
-19078|2|en|Link Click Season 3
+19882|2|en|Link Click Season 3
 19078|4|en|Link Click: Bridon Arc
 13014|4|en|Link Planets
 13015|2|en|Link Planets (Movie)
@@ -49475,6 +49478,7 @@
 15964|4|pt-BR|Shikimori-san Não é Apenas Uma Gracinha
 15964|4|en|Shikimori`s Not Just a Cutie
 15964|3|x-jat|shikimorisan
+19938|4|x-jat|Shikin: On Myao Bou - Shikinjou Neko Keibishitsu
 13846|1|x-jat|Shikioriori
 12872|1|x-jat|Shikisai Manga no Dekiru Made
 15592|1|x-jat|Shikiyoku Infinite
@@ -89492,6 +89496,7 @@
 4150|2|zh-Hans|彩云国物语
 5024|2|zh-Hans|彩云国物语 第2季
 11505|4|ja|彩人四季という名の意思畑
+516|4|zh-Hant|彩夢芭蕾
 7389|2|zh-Hans|彩虹 二舍六房的七人
 4150|4|ja|彩雲国物語
 5024|4|ja|彩雲国物語 第2シリーズ
@@ -91341,6 +91346,7 @@
 19882|2|zh-Hans|时光代理人 第三季 [PART ONE]
 19078|4|zh-Hans|时光代理人 英都篇
 16531|4|zh-Hans|时光代理人II -LINK CLICK-
+19882|4|zh-Hans|时光代理人III -LINK CLICK-
 19882|2|zh-Hans|时光代理人III [PART ONE]
 14763|2|zh-Hans|时光沙漏
 14763|4|zh-Hans|时光碎片
@@ -95576,6 +95582,7 @@
 16594|4|zh-Hans|紫川
 19504|4|zh-Hans|紫川 第2季
 19504|2|zh-Hans|紫川 第二季
+19938|4|ja|紫禁・御猫房〜紫禁城猫警備室〜
 19938|4|zh-Hans|紫禁·御喵房
 12138|4|zh-Hans|紫罗兰永恒花园
 14840|4|zh-Hans|紫罗兰永恒花园外传：永远与自动手记人偶
