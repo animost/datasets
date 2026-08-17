@@ -1,4 +1,4 @@
-# created: Sat Aug 15 03:00:02 2026
+# created: Sun Aug 16 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5374,6 +5374,10 @@
 8633|1|x-jat|Bavi Stock II: The Revenge of Eyesman - Ai no Kodou no Kanata ni
 5007|4|ja|BAVI STOCK-I -果てしなき標的-
 8633|4|ja|BAVI STOCK-II The Revenge of Eyesman -愛の鼓動の彼方に-
+20270|1|x-zht|Bawang Long Lei Qi
+20269|1|x-zht|Bawang Long Lei Qi 2
+20268|2|x-zht|Bawang Long Lei Qi 3
+20268|1|x-zht|Bawang Long Lei Qi: Lei Qi Zhi Duoshao
 15213|1|x-zht|Baxian Yu Tiaozao
 3116|3|x-jat|Baxingar
 3116|3|x-jat|Baxinger
@@ -7660,6 +7664,7 @@
 8463|1|x-jat|Buta Hime-sama
 10900|1|x-jat|Buta no Gotoki Sanzoku ni Torawarete Shojo o Ubawareru Kyonyuu Himekishi & Onna Senshi: Zettai Chinpo Nanka ni Maketari Shinai!! The Animation
 17031|1|x-jat|Buta no Liver wa Kanetsu Shiro
+20267|1|x-kot|Butagini Jugeojura
 17031|2|en|ButaLiver
 17031|4|en|Butareba: The Story of a Man Turned into a Pig
 13437|2|x-jat|Butlers - Chitose Momotose Monogatari
@@ -30260,6 +30265,7 @@
 2573|1|x-jat|Kussetsu
 19276|1|x-jat|Kusunoki no Bannin
 20208|1|x-jat|Kusunoki-san wa Koukou Debut ni Shippai Shite Iru
+20208|2|x-jat|Kusunoki-san wa Koukou Debut ni Shippai Shiteiru
 20208|2|en|Kusunoki`s Flunking Her High School Glow-Up
 19472|4|de|Kusunoki`s Garden of Gods
 19472|4|en|Kusunoki`s Garden of Gods
@@ -46949,6 +46955,7 @@
 10602|3|x-jat|ryuugajou ona
 8864|3|x-jat|ryuugajounanana
 10602|3|x-jat|ryuugajounanana ona
+20171|2|x-jat|Ryuugeshou no Shinobi
 20171|1|x-jat|Ryuugeshou no Shinobu
 5491|1|x-jat|Ryuuichi Manga Gekijou: Onbu Obake
 11484|1|x-jat|Ryuujinnuma
@@ -54878,6 +54885,7 @@
 17909|4|en|The Elusive Samurai
 17909|4|fr|The Elusive Samurai
 18903|4|en|The Elusive Samurai (2026)
+18903|2|en|The Elusive Samurai Season 2
 851|4|en|The Elven Bride
 16073|4|en|The Eminence in Shadow
 17877|4|en|The Eminence in Shadow 2nd Season
@@ -55650,6 +55658,7 @@
 17965|4|en|The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible
 17965|4|de|The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible
 19841|4|en|The Other Side of Deep Space
+8345|4|en|The Other Side of the Other Side
 15599|2|en|The Outcast 3
 16719|2|en|The Outcast 4
 17095|2|en|The Outcast 5
@@ -58296,6 +58305,7 @@
 2560|4|it|Tyltyl, Mytyl e l`uccellino azzurro
 11186|2|x-jat|Typhoon no Noruda
 11186|4|en|Typhoon Noruda
+20268|2|en|Tyrannosaurus Rex Ricky 3
 6005|1|x-jat|Tytania
 6005|4|en|Tytania
 6005|2|ko|TYTANIA -타이타니아-
@@ -72047,6 +72057,7 @@
 12603|4|ko|데스마치에서 시작하는 이세계 광상곡
 13533|4|ko|데이트 어 라이브 III
 10688|2|ko|데이트 어 라이브: 마유리 저지먼트
+20051|2|ko|데코x데코
 13551|2|ko|도S 학생회장님은 M
 19543|2|ko|도S한 펫
 12031|4|ko|도검난무 하나마루
@@ -72741,6 +72752,7 @@
 10629|2|ko|부인의 허니데이즈
 18009|2|ko|부인의 회복술
 17794|2|ko|부정 with...
+20267|4|ko|부탁이니 죽어주라
 3038|4|ko|북두신권 - 라오우전 순애의 장
 3040|4|ko|북두신권 - 유리아전
 211|4|ko|북두의 권 - 세기말구세주전설
@@ -73157,6 +73169,7 @@
 265|4|ko|시간탐험대 / 돈데크만
 15025|2|ko|시고카레 ~야한 여대생과 두근 x2 러브 레슨!!
 13420|2|ko|시골구석에 시집온 0시아 아가씨와 H하다
+20071|2|ko|시골에는 오락이 이 정도 밖에 없다
 12596|2|ko|시구라레 오토메
 5108|4|ko|시구루이
 2601|2|ko|시노선생의 유혹수업
@@ -73808,6 +73821,7 @@
 12743|4|ko|유루 캠프
 10576|4|ko|유리의 꽃과 부수는 세계
 4265|4|ko|유리함대
+19995|2|ko|유린왕국
 1687|2|ko|유모
 20249|4|ko|유미의 세포들 더 무비
 6553|2|ko|유부녀 교간 일기
@@ -74789,8 +74803,10 @@
 17566|2|ko|하렘 캠프
 9340|2|ko|하렘 타임
 17193|2|ko|하렘・컬트
+20032|2|ko|하렘섬에 어서오세요
 10757|2|ko|하렘을 만난 소년
 3673|2|ko|하루미의 장난
+19970|2|ko|하메하라
 10942|2|ko|하면 안되는 것
 4917|4|ko|하야테처럼
 8438|4|ko|하얀 마음 백구
@@ -98803,6 +98819,10 @@
 16126|4|zh-Hans|霸旋陀螺 爆刃对决 DB
 14688|4|zh-Hans|霸旋陀螺 爆刃对决 GT
 15438|4|zh-Hans|霸旋陀螺 爆刃对决 超王
+20270|4|zh-Hans|霸王龙雷奇
+20269|4|zh-Hans|霸王龙雷奇 第二季
+20268|4|zh-Hans|霸王龙雷奇之雷奇知多少
+20268|2|zh-Hans|霸王龙雷奇第三季
 13336|4|zh-Hans|霸穹 封神演义
 4637|2|zh-Hans|霹雳娇娃009-1
 14639|2|zh|靈劍尊
