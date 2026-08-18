@@ -1,4 +1,4 @@
-# created: Sun Aug 16 03:00:01 2026
+# created: Mon Aug 17 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -7795,6 +7795,7 @@
 16716|1|x-zht|Cai Bao Gou Da Fanji
 647|3|de|Cain
 647|4|de|Cain - Die Macht der Liebe
+20271|1|x-zht|Caishen Dou Zhanlong
 8122|2|en|Calabash Brothers
 18401|1|x-jat|Calabi Yau no Sukima
 9285|4|en|Calamity of a Zombie Girl
@@ -8342,6 +8343,7 @@
 2895|2|en|Catnapped
 14466|4|en|Cats
 14466|6|de|Cats
+19172|2|en|Cats and Dragon
 14466|2|en|Cats and Peachtopia
 11677|2|en|Cats Don`t Come When You Call Them.
 1025|2|x-jat|Cats Eye
@@ -19876,6 +19878,7 @@
 11894|2|en|God of Love`s Chocolate
 16749|2|en|God of Ten Thousand Realms
 19148|4|en|God of War Alliance
+20271|2|en|God of Wealth Dou Zhanlong
 19652|2|en|God on a Miserable Journey
 3124|2|it|God Sigma, l`imperatore dello spazio
 15004|2|en|God Troubles Me
@@ -20011,6 +20014,7 @@
 355|4|de|Golden Boy
 3154|2|en|Golden Brave Goldran
 17876|4|en|Golden Courtyard: New Year Wishes in Winter
+20271|4|en|Golden Curse
 9636|2|en|Golden Cyborg
 7216|3|x-jat|golden eggs
 638|2|en|Golden Gash Bell!!
@@ -31989,6 +31993,7 @@
 6529|4|pt-BR|Linha Vermelha
 16290|4|en|Link Click
 19078|2|en|Link Click - Bridon Arc
+19882|4|en|Link Click (2026)
 16531|2|en|Link Click 2nd Season
 19882|2|en|LINK CLICK 3
 16531|4|de|Link Click II
@@ -36115,6 +36120,8 @@
 19409|1|x-kot|Mini Force
 186|3|en|mini goddess
 11728|1|x-jat|Mini Hama: Minimum-Hamatora
+20272|2|en|Mini Link Click
+20273|2|en|Mini Link Click S2
 17761|1|x-jat|Mini Mini Pokke no Ooki na Niwa de
 4065|1|x-jat|Mini Moni the TV
 4066|1|x-jat|Mini Moni Yaru no da Pyon!
@@ -49448,6 +49455,8 @@
 19882|1|x-zht|Shiguang Dailiren III
 19078|1|x-zht|Shiguang Dailiren: Yingdu Pian
 13726|1|x-zht|Shiguang Guiyu
+20273|1|x-zht|Shiguang Xiao Juchang
+20272|1|x-zht|Shiguang Zhaoxiang Guan de Richang
 5108|1|x-jat|Shigurui
 5108|4|en|Shigurui: Death Frenzy
 15417|1|x-jat|Shihai no Kyoudan
@@ -50564,12 +50573,12 @@
 18989|3|x-jat|Skill Mugen Gacha
 16981|2|en|Skip & Loafers
 16981|4|en|Skip and Loafer
-19061|2|en|Skip and Loafer 2
+19061|2|en|Skip and Loafer 2nd Season
 6103|2|x-jat|Skip Beat
 6103|1|x-jat|Skip Beat!
 6103|4|en|Skip Beat!
 16981|1|x-jat|Skip to Loafer
-19061|1|x-jat|Skip to Loafer 2
+19061|1|x-jat|Skip to Loafer 2nd Season
 13192|1|x-jat|Skirt no Naka wa Kedamono Deshita.
 7277|3|x-jat|skmot
 7258|4|lt|Skoliniautojai
@@ -54698,6 +54707,8 @@
 15407|2|en|The Cursed One-piece
 1525|4|en|The Dagger of Kamui
 615|4|en|The Daichis - Earth`s Defense Family
+20272|2|en|The Daily Life at Time Photo Studio
+20272|2|en|The Daily Life in Lightime Short
 18818|4|en|The Daily Life of a Middle-Aged Online Shopper in Another World
 19399|4|en|The Daily Life of a Part-time Torturer
 14718|4|en|The Daily Life of the Immortal King
@@ -55035,6 +55046,7 @@
 4217|2|en|The Ghost Holly
 18652|2|en|The Ghost in the Shell
 18652|4|fr|The Ghost in the Shell
+18652|4|de|The Ghost in the Shell
 3558|4|en|The Gigolo - Dochinpira
 7258|2|x-unk|Thế giới bí mật của Arrietty
 15066|2|ja|The Girl and the Monster
@@ -78435,7 +78447,7 @@
 11220|4|ja|スキージャンプ・ペア ~Road to TORINO 2006~
 6103|4|ja|スキップ・ビート!
 16981|4|ja|スキップとローファー
-19061|4|ja|スキップとローファー 2
+19061|4|ja|スキップとローファー 2nd season
 18989|3|ja|スキル無限ガチャ
 5065|4|ja|スクーパーズ
 12502|4|ja|スクールガールストライカーズ Animation Channel
@@ -91364,7 +91376,9 @@
 16531|4|zh-Hans|时光代理人II -LINK CLICK-
 19882|4|zh-Hans|时光代理人III -LINK CLICK-
 19882|2|zh-Hans|时光代理人III [PART ONE]
+20273|4|zh-Hans|时光小剧场
 14763|2|zh-Hans|时光沙漏
+20272|4|zh-Hans|时光照相馆的日常
 14763|4|zh-Hans|时光碎片
 13726|4|zh|时光诡域
 18227|4|zh-Hans|时光巡逻队
@@ -97216,6 +97230,7 @@
 20049|4|zh|贝肯熊：火星任务
 16701|4|zh-Hans|贝肯熊2:金牌特工
 3085|4|zh-Hans|贝贝罗历险记
+20271|4|zh-Hans|财神窦占龙
 14514|4|zh-Hans|贤惠幼妻仙狐小姐
 13477|4|zh-Hans|贤者之孙
 18317|4|zh-Hans|败犬女主太多了！
@@ -98004,6 +98019,7 @@
 17944|4|zh-Hans|重生者的魔法一定要特别
 12252|4|ja|重神機パンドーラ
 10864|4|zh-Hans|重装武器
+10864|4|zh-Hant|重裝武器
 11074|4|zh-Hans|重返17岁
 5587|4|zh-Hans|重金属摇滚双面人
 18854|3|ja|重騎士
