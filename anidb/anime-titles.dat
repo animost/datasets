@@ -1,4 +1,4 @@
-# created: Mon Aug 17 03:00:02 2026
+# created: Tue Aug 18 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6864,6 +6864,7 @@
 18066|1|x-jat|Boku no Kokoro no Yabai Yatsu (2024)
 19950|1|x-jat|Boku no Kokoro no Yabai Yatsu (2027)
 18066|2|x-jat|Boku no Kokoro no Yabai Yatsu 2nd Season
+19950|2|x-jat|Boku no Kokoro no Yabai Yatsu 3
 18890|2|x-jat|Boku no Kokoro no Yabai Yatsu Movie
 1489|1|x-jat|Boku no Marie
 17359|1|x-jat|Boku no Me wa Neko no Me
@@ -7157,6 +7158,7 @@
 5842|1|x-jat|Bounen no Xamdou
 1179|1|x-jat|Bounty Dog: Getsumen no Eve
 1501|4|en|Bounty Hunter: the Hard
+20274|1|x-jat|Bousei no Volicia
 17687|1|x-jat|Boushoku no Berserk
 20026|1|x-jat|Boushoku no Berserk 2
 7601|1|x-jat|Bousou Sengokushi
@@ -18985,6 +18987,7 @@
 1783|4|en|Genshiken: The Society for the Study of Modern Visual Culture
 5210|2|x-jat|genshiken2
 19902|1|x-jat|Genshin
+19902|2|ja|Genshin Impact
 2331|1|x-jat|Gensou Jotan Ellcia
 2446|2|x-jat|Gensou Maden Saiyuki Premium
 488|1|x-jat|Gensou Maden Saiyuuki
@@ -26792,6 +26795,7 @@
 5726|1|x-jat|Juuni-nin no Onna Kyoushi
 11302|1|x-jat|Juunigatsu no Uta
 20081|1|x-jat|Juuou Bushin Dandivine
+20081|2|x-jat|Juuou Mujin Dandivine
 10710|1|x-jat|Juuou Mujin no Fafnir
 4226|1|x-jat|Juuousei
 19995|1|x-jat|Juurin Oukoku
@@ -28785,6 +28789,7 @@
 16912|2|x-jat|Kingdom 4
 17655|2|x-jat|Kingdom 5
 19295|2|x-jat|Kingdom 6
+19796|2|x-jat|Kingdom 6th season 2nd part
 19334|1|x-jat|Kingdom Hearts X Back Cover
 1252|2|x-jat|Kingdom of Chaos
 1252|1|x-jat|Kingdom of Chaos: Born to Kill
@@ -28797,6 +28802,7 @@
 16912|4|en|Kingdom Season 4
 17655|4|en|Kingdom Season 5
 19295|4|en|Kingdom Season 6
+19796|2|x-jat|Kingdom Season 6 Part 2
 9672|4|de|Kingdom Staffel 2
 15259|4|de|Kingdom Staffel 3
 16912|4|de|Kingdom Staffel 4
@@ -40909,6 +40915,7 @@
 17576|2|x-other|One Punch Man 3
 12430|2|en|One Punch Man S2
 17576|2|en|one punch man s3
+19799|2|x-jat|One Punch Man Season 3 Part 2
 17576|4|de|One Punch Man Staffel 3
 11123|4|ja|ONE PUNCH MAN ワンパンマン
 12430|4|ja|ONE PUNCH MAN ワンパンマン (2019)
@@ -41216,6 +41223,7 @@
 12430|3|en|OPM 2
 11637|3|en|OPM OAD
 17576|3|x-jat|opm s3
+19799|3|x-jat|opm s3p2
 411|3|en|opm1
 12430|3|x-jat|opm2
 1253|3|en|opm3
@@ -51452,6 +51460,8 @@
 18886|1|x-jat|Sousou no Frieren (2026)
 19977|1|x-jat|Sousou no Frieren (2027)
 18886|2|x-jat|Sousou no Frieren S2
+19977|2|x-jat|Sousou no Frieren: Ougonkyou Hen
+19977|2|x-jat|Sousou no Frieren: Ougonkyou-hen
 13040|1|x-jat|Soutai Sekai
 14430|3|x-jat|soutai sekai movie
 6408|1|x-jat|Souten Kouro
@@ -53829,6 +53839,7 @@
 3195|2|en|Teenage Goddess
 19397|2|en|Teenage Mercenary
 2641|4|en|Teenage Mutant Ninja Turtles - Superman Legend
+20265|4|en|Teenieping: Legend of the Whale Heartstone
 19573|1|x-jat|Tefuda ga Oome no Victoria
 10115|1|x-jat|Tegami
 6772|1|x-jat|Tegami Bachi
@@ -56982,6 +56993,7 @@
 7477|3|x-jat|togainu
 7477|1|x-jat|Togainu no Chi
 7477|2|x-jat|Togainu no Chi: Bloody Curs
+18404|2|x-jat|Tohai: Ura Rate Mahjong Tohai Roku
 414|4|ja|ToHeart
 3428|2|x-jat|ToHeart 2
 2404|4|ja|ToHeart Remember my memories
@@ -61245,6 +61257,7 @@
 17554|1|x-zht|Xing Yuan Zhi Zhu
 14645|2|zh|Xingchen Bian
 19137|2|x-zht|Xingchen Bian 6th Season
+20044|2|x-zht|Xingchen Bian 7
 20044|2|x-zht|Xingchen Bian 7th Season
 17807|2|x-zht|Xingchen Bian: An Xing Jie Pian
 16581|2|x-zht|Xingchen Bian: Po Tian Mi Ju
@@ -89704,6 +89717,7 @@
 15765|4|ja|忘却バッテリー
 18145|4|ja|忘却バッテリー (2024)
 18979|4|ja|忘却バッテリー (2027)
+20274|4|ja|忘星のヴァリシア
 5188|2|zh|忧伤大人二之宫
 15774|4|zh-Hans|忧国的莫里亚蒂 后半
 11924|4|zh-Hans|忧郁的物怪庵
@@ -96617,6 +96631,7 @@
 17617|4|ja|葬送のフリーレン
 18886|4|ja|葬送のフリーレン (2026)
 19977|4|ja|葬送のフリーレン (2027)
+19977|2|ja|葬送のフリーレン 黄金郷編
 17617|4|zh-Hans|葬送的芙莉莲
 17617|4|zh-Hant|葬送的芙莉蓮
 836|4|zh-Hans|蒲公英
