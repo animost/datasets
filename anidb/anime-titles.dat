@@ -1,4 +1,4 @@
-# created: Wed Aug 19 03:00:02 2026
+# created: Thu Aug 20 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6954,6 +6954,7 @@
 18890|3|x-jat|bokuyaba movie
 18066|3|x-jat|bokuyaba s2
 5222|4|sk|Bol raz jeden život
+20277|1|x-kot|Bol-cheu-wa Beul-lib: Dalnala Ligeuui Jeontu
 2786|2|pt-BR|Bola de Dan
 2786|4|es|Bola de Dan
 231|4|es-CA|Bola de Drac
@@ -16427,12 +16428,14 @@
 17804|4|ja|Fate/Grand Order 藤丸立香はわからない
 18796|4|ja|Fate/Grand Order 藤丸立香はわからない (2024)
 19851|4|ja|Fate/Grand Order 藤丸立香はわからない (2025)
+20278|4|ja|Fate/Grand Order 藤丸立香はわからない (2026)
 15461|4|en|Fate/Grand Order: Final Singularity - Grand Temple of Time: Solomon
 12519|1|x-jat|Fate/Grand Order: First Order
 12519|4|en|Fate/Grand Order: First Order
 17804|1|x-jat|Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai
 18796|1|x-jat|Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai (2024)
 19851|1|x-jat|Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai (2025)
+20278|1|x-jat|Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai (2026)
 18796|2|x-jat|Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2
 13643|1|x-jat|Fate/Grand Order: Moonlight/Lostroom
 13643|4|en|Fate/Grand Order: Moonlight/Lostroom
@@ -16441,6 +16444,7 @@
 17804|4|en|Fate/Grand Order: You`ve Lost Ritsuka Fujimaru
 18796|4|en|Fate/Grand Order: You`ve Lost Ritsuka Fujimaru (2024)
 19851|4|en|Fate/Grand Order: You`ve Lost Ritsuka Fujimaru (2025)
+20278|4|en|Fate/Grand Order: You`ve Lost Ritsuka Fujimaru (2026)
 14238|1|x-jat|Fate/Grand Order: Zettai Majuu Sensen Babylonia
 18092|1|x-jat|Fate/Grand Order: Zettai Majuu Sensen Babylonia Soushuuhen
 18092|4|en|Fate/Grand Order: Zettai Majuu Sensen Babylonia Summary
@@ -20896,7 +20900,6 @@
 1703|2|x-jat|Gundam: SD Gundam Force
 7399|2|x-jat|Gundam: SD Gundam Sangokuden: Brave Battle Warriors
 15849|2|x-jat|Gundam: SD Gundam World Heroes
-16709|2|x-jat|Gundam: SD Gundam World Heroes: The Legend of Dragon Knight
 14497|2|x-jat|Gundam: SD Gundam World: Sangoku Souketsuden
 14043|2|x-jat|Gundam: Senkou no Hathaway
 2853|2|x-jat|Gundam: Shin Kidou Senki Gundam W: Operation Meteor
@@ -24201,6 +24204,7 @@
 13974|2|en|I Am Nezha
 19459|4|en|I am the Blade
 20201|2|en|I Am the Fated Villain
+20280|4|en|I Am the Only Human in School
 16585|2|en|I Am The Only One
 3997|2|en|I am THE Shiratori Reiko!
 16633|2|en|I Am What I Am
@@ -46319,6 +46323,7 @@
 18305|1|x-jat|Rising Impact
 18305|4|en|Rising Impact
 18805|1|x-jat|Rising Impact (2024)
+20279|4|en|Rising in The Fire
 971|3|x-jat|Risky Safety
 18319|1|x-jat|Risou no Himo Seikatsu
 6384|2|ja|Rispara
@@ -48255,8 +48260,6 @@
 15849|1|x-jat|SD Gundam World Heroes
 15849|4|ja|SD GUNDAM WORLD HEROES
 15849|4|en|SD Gundam World Heroes
-16709|4|ja|SD GUNDAM WORLD HEROES THE LEGEND OF DRAGON KNIGHT
-16709|1|x-jat|SD Gundam World Heroes: The Legend of Dragon Knight
 14497|4|en|SD Gundam World: Sangoku Soketsuden
 14497|1|x-jat|SD Gundam World: Sangoku Souketsuden
 590|3|x-jat|SD!
@@ -48282,7 +48285,6 @@
 1703|4|ja|SDガンダムフォース
 3342|2|ja|SDガンダムまつり
 15849|2|ja|SDガンダムワールド ヒーローズ
-16709|2|ja|SDガンダムワールド ヒーローズ THE LEGEND OF DRAGON KNIGHT
 14497|4|ja|SDガンダムワールド 三国創傑伝
 7399|4|ja|SDガンダム三国伝 Brave Battle Warriors
 7399|2|ja|SDガンダム三国伝 BraveBattleWarriors
@@ -60701,6 +60703,7 @@
 14674|2|x-zht|Wo Shi Jiang Xiaobai Juchang Ban
 14674|1|x-zht|Wo Shi Jiang Xiaobai: Shijie Shang de Ling Yige Wo
 13974|1|x-zht|Wo Shi Nezha
+20280|1|x-zht|Wo shi xue xiao wei yi de ren lei
 19459|1|x-zht|Wo Wei Dao Zong
 10187|1|x-zht|Wo Wei Ge Kuang
 15771|2|x-zht|Wo Wei Ge Kuang 2
@@ -61175,6 +61178,7 @@
 18357|1|x-zht|Xian Wu Chuan 2
 18357|2|x-zht|Xian Wu Chuan 2nd Season
 18357|2|x-zht|Xian Wu Chuan Di Er Ji
+20279|1|x-zht|Xiang Huo Er Sheng
 13442|1|x-zht|Xiang Ling Ji
 4856|2|en|Xiangqi Master
 4856|1|x-zht|Xiangqi Wang
@@ -72764,6 +72768,7 @@
 1014|2|ko|본디지 게임
 11559|4|ko|볼로기 이야기
 12700|2|ko|볼룸에 오신 것을 환영합니다
+20277|4|ko|볼츠와 블립: 달나라 리그의 전투
 16063|2|ko|봇치 더 록!
 2770|4|ko|봉봉차차
 15366|2|ko|부계에 잠든 왕녀의 아바돈
@@ -86569,6 +86574,7 @@
 4572|2|zh-Hans|向日葵 第2季
 15782|4|ja|向日葵ハ夜ニ咲ク
 17203|4|zh-Hans|向涟苍士献上纯洁
+20279|4|zh|向火而生
 16632|4|zh-Hans|向着明亮那方
 19517|4|zh-Hans|向着星辰的长征
 4743|2|zh-Hans|向阳素描
@@ -90315,6 +90321,7 @@
 15860|6|zh-Hans|我是大神仙 仙考篇
 18955|4|zh-Hans|我是大神仙 第三季
 18954|4|zh-Hans|我是大神仙 第二季
+20280|4|zh-Hant|我是學校唯一的人類
 521|4|zh-Hans|我是小甜甜
 1863|4|zh-Hans|我是小甜甜 永远的再一次
 4602|4|zh-Hans|我是小甜甜 漫长的告别
