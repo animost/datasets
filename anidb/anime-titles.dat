@@ -1,4 +1,4 @@
-# created: Thu Aug 20 03:00:01 2026
+# created: Fri Aug 21 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6973,6 +6973,8 @@
 18868|4|id|Bolehkah Saya Mengajukan Satu Permintaan Terakhir?
 11559|1|x-jat|Bollogi Iyagi
 11559|4|en|Bologee Story
+20281|4|ko|Bolts & Blip
+20281|1|x-kot|Bolts-wa Blip
 8766|2|en|Bomahead
 3217|2|en|Bomb Milk Sisters
 8740|2|es|Bombardero X
@@ -84180,6 +84182,7 @@
 17968|4|ja|五等分の花嫁∽
 14247|4|zh-Hant|五等分的新娘
 14247|4|zh-Hans|五等分的新娘
+18603|4|zh-Hant|五等分的新娘*
 18603|4|zh-Hans|五等分的新娘＊
 14903|4|zh-Hans|五等分的新娘∬
 17968|4|zh-Hans|五等分的新娘∽
@@ -85803,6 +85806,7 @@
 9950|4|ja|劇場版 世界一初恋 横澤隆史の場合
 18780|4|zh-Hant|劇場版 世界計畫 崩壞的世界與無法歌唱的初音未來
 16727|4|ja|劇場版 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった...
+16165|4|zh-Hant|劇場版 五等分的新娘
 13612|4|zh-Hant|劇場版 來自深淵 深沉靈魂的黎明
 20162|4|ja|劇場版 俺だけレベルアップな件 -Beyond the System-
 18068|4|ja|劇場版 僕とロボコ
@@ -91753,6 +91757,7 @@
 9029|4|zh-Hans|春天来了
 15884|4|ja|春子の冒険
 12647|4|zh-Hans|春宵苦短,少女前进吧!
+12647|4|zh-Hant|春宵苦短，少女前進吧！
 4699|4|ja|春庭家の3人目
 5594|4|ja|春恋*乙女 ~乙女の園で逢いましょう.~
 16896|4|zh-Hans|春田花花中華博物館
@@ -94781,6 +94786,7 @@
 20041|4|zh-Hans|盘龙
 13772|4|zh-Hans|盛世妆娘
 19838|4|zh-Hant|盜墓王
+4191|4|zh-Hant|盜夢偵探
 10768|4|ja|監獄学園
 11805|4|ja|監獄学園[プリズンスクール] マッドワックス
 14562|4|ja|監獄実験 -プリズンラボ-
@@ -96756,6 +96762,7 @@
 74|4|ja|藍より青し
 1059|4|ja|藍より青し~縁~
 11683|4|zh-Hant|藍海少女！
+154|4|zh-Hant|藍色恐懼
 15993|4|zh-Hant|藍色時期
 16519|4|zh-Hant|藍色監獄
 17314|2|zh-Hant|藍色管弦樂
@@ -97096,6 +97103,7 @@
 17517|4|ja|解雇された暗黒兵士(30代)のスローなセカンドライフ
 9589|4|ja|言の葉の庭
 9589|4|zh-Hans|言叶之庭
+9589|4|zh-Hant|言葉之庭
 14642|4|zh-Hant|言語如汽水般湧現
 14642|4|zh-Hans|言语如苏打般涌现
 15012|4|ja|言霊少女 the Animation -Microphone soul spinners-
@@ -97141,6 +97149,7 @@
 8995|4|ja|謎の彼女X 謎の夏祭り
 8853|3|ja|謎彼X
 19011|4|ja|謎解きはディナーのあとで
+9376|4|zh-Hant|謝謝你，在世界的角落找到我
 10976|2|ja|謹賀新年 毛利小五郎
 6744|4|ja|證城寺の狸囃子
 6738|4|ja|證城寺の狸囃子 塙団右衛門
@@ -98288,6 +98297,7 @@
 17018|4|ja|鎮西八郎為朝 (2021)
 15914|4|zh|鏈鋸人
 4931|2|zh-Hant|鏖战星球
+17219|4|zh-Hant|鏡之孤城
 11129|4|ja|鐘声色彩幻想
 7927|4|zh-Hant|鐵扇公主
 1945|2|zh-Hant|鐵腕女刑警
