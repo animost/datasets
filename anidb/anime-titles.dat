@@ -1,4 +1,4 @@
-# created: Fri Aug 21 03:00:01 2026
+# created: Sat Aug 22 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1703,7 +1703,7 @@
 280|4|en|Agent Aika
 16701|2|en|Agent Backkom: Kings Bear
 18975|1|x-jat|Agent Blue
-18975|4|ja|Agent Blue
+18975|4|ja|AGENT BLUE
 18227|4|cs|Agent Bon na cestách časem
 5106|4|et|Agent Vexille
 280|2|pt-BR|Agente Aika
@@ -2909,6 +2909,8 @@
 13255|4|zh-Hans|Angolmois 元寇合战记
 13255|1|x-jat|Angolmois: Genkou Kassenki
 13255|4|en|Angolmois: Record of Mongol Invasion
+20285|1|x-jat|Angry Rabbit
+20285|4|ja|ANGRY RABBIT
 11321|2|x-jat|Anhapi
 18383|2|x-zht|Anhe Zhuan
 18763|2|x-zht|Anhe Zhuan Part 2
@@ -17947,6 +17949,7 @@
 19358|1|x-jat|Gacha o Mawashite Nakama o Fuyasu Saikyou no Bishoujo Gundan o Tsukuriagero
 18686|1|x-jat|Gachiakuta
 18686|4|en|Gachiakuta
+18686|4|de|Gachiakuta
 19779|1|x-jat|Gachiakuta 2
 19779|4|en|Gachiakuta 2
 692|1|x-jat|Gad Guard
@@ -25851,6 +25854,7 @@
 17548|2|en|Jade Dynasty
 18577|2|en|Jade Dynasty 2
 19386|2|en|Jade Dynasty 3
+19386|2|en|Jade Dynasty 3rd Season
 18577|2|en|Jade Dynasty Ⅱ
 18577|2|en|Jade Dynasty Season 2
 19386|2|en|Jade Dynasty Season 3
@@ -32516,6 +32520,7 @@
 7956|2|x-jat|Love Live! Bokura no Live, Kimi to no Life
 19989|1|x-jat|Love Live! Hasu no Sora Jogakuin School Idol Club
 19376|1|x-jat|Love Live! Hasu no Sora Jogakuin School Idol Club: Bloom Garden Party
+19376|2|en|Love Live! Hasunosora Girls` High School Idol Club: Bloom Garden Party
 20069|1|x-jat|Love Live! Hasunosora Jogakuin School Idol Club Bloom Garden Party
 11250|1|x-jat|Love Live! M`s-&gt;Next Love Live! 2014: Endless Parade
 8874|2|x-jat|Love Live! MV 4
@@ -34083,6 +34088,8 @@
 7008|4|de|Maid-sama
 11245|1|x-jat|Maid-san to Boin Damashii The Animation
 19541|1|x-jat|Maid-san wa Taberu Dake
+20284|4|ja|Maiden Blood
+20284|1|x-jat|Maiden Blood
 1409|3|en|Maiden Diaries
 2030|4|en|Maiden of Deliverance
 1409|2|en|Maiden of Desire
@@ -38891,6 +38898,7 @@
 14723|1|x-jat|Nekoronde TV.
 679|3|x-jat|Nekoshi
 10986|1|x-jat|Nekota no Koto ga Ki ni Natte Shikatanai.
+19090|3|x-jat|Nekotama
 2615|2|x-jat|Nekusto Senki Ehrgeiz
 2823|4|fr|Nell
 2823|2|en|Nell the Wandering Girl
@@ -52751,6 +52759,8 @@
 543|1|x-jat|Super Milk-chan
 543|4|en|Super Milk-chan
 2577|4|en|Super Mobile Legend Dinagiga
+20286|4|ja|SUPER NINJA NEKO
+20286|1|x-jat|Super Ninja Neko
 19479|1|x-jat|Super no Ura de Yani Suu Futari
 19479|2|x-jat|Super no Ura de Yani Suu Futari Mini
 6143|4|pt-BR|Super Onze
@@ -63216,6 +63226,7 @@
 19386|2|x-zht|Zhu Xian 3rd Season
 18577|2|x-zht|Zhu Xian Di Er Ji
 19386|2|x-zht|Zhu Xian Di San Ji
+20282|1|x-zht|Zhu Xian: Zuizhong Ji
 13460|1|x-zht|Zhu Zhu Xia Fan Wai: Pin Zhuang Tegong Dui
 13456|1|x-zht|Zhu Zhu Xia: Bai Bian Lian Meng
 13454|1|x-zht|Zhu Zhu Xia: Bian Shen Xiao Ying Xiong
@@ -80261,6 +80272,7 @@
 18532|3|ja|ねこおじ
 13858|4|ja|ネコこのゴロ
 13858|2|ja|ネコこのゴロ 令和版
+19090|3|ja|ねこたま
 3287|4|ja|ねこぢる劇場 ぢるぢるORIGINAL
 1027|4|ja|ねこぢる草
 17900|4|ja|ネコと和解せな
@@ -82486,6 +82498,7 @@
 2763|5|ja|めいたんていコナン すいへいせんじょうのストラテジー
 16842|5|ja|めいたんていコナン ゼロのティータイム
 10294|2|ja|めいたんていラスカル
+20284|2|ja|メイデンブラッド
 2501|4|ja|メイド イン ドリーム
 12681|4|ja|メイドインアビス
 17824|4|ja|メイドインアビス (2026)
@@ -97178,6 +97191,7 @@
 2481|4|zh|诗片
 2481|4|zh-Hans|诗片
 17548|4|zh-Hans|诛仙
+20282|4|zh-Hans|诛仙 最终季
 18577|2|zh-Hans|诛仙 第2季
 19386|2|zh-Hans|诛仙 第3季
 19386|4|zh-Hans|诛仙 第三季
