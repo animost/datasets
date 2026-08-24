@@ -1,4 +1,4 @@
-# created: Sat Aug 22 03:00:02 2026
+# created: Sun Aug 23 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -16638,6 +16638,7 @@
 14893|1|x-zht|Feng Shen Bang Chuanqi
 16710|1|x-zht|Feng Shu Zhan Jing
 16711|1|x-zht|Feng Shu Zhan Jing 2
+20287|1|x-zht|Feng Tian Qi
 13445|1|x-zht|Feng Wei Ying Xiong
 14431|1|x-zht|Feng Yu Zhou
 19133|2|en|Fengwu Demon Chef
@@ -21830,8 +21831,8 @@
 8660|2|ja|Harem King
 15918|2|pt|Harém no Labirinto de Outro Mundo
 13243|4|en|Harem of the Hell Spawn
-20032|1|x-jat|Harem Shima e Youkoso!
 9340|1|x-jat|Harem Time The Animation
+20032|1|x-jat|Harem-tou e Youkoso!
 5665|1|x-jat|Harenchi Koumon Manyuuki
 18192|1|x-jat|Hari Maware! Koinu
 18555|1|x-jat|Hari Maware! Koinu (2024)
@@ -25855,6 +25856,8 @@
 18577|2|en|Jade Dynasty 2
 19386|2|en|Jade Dynasty 3
 19386|2|en|Jade Dynasty 3rd Season
+20282|2|en|Jade Dynasty 4th Season
+20282|4|en|Jade Dynasty Final Season
 18577|2|en|Jade Dynasty Ⅱ
 18577|2|en|Jade Dynasty Season 2
 19386|2|en|Jade Dynasty Season 3
@@ -63224,8 +63227,10 @@
 18577|2|x-zht|Zhu Xian 2nd Season
 19386|1|x-zht|Zhu Xian 3
 19386|2|x-zht|Zhu Xian 3rd Season
+20282|2|x-zht|Zhu Xian 4th Season
 18577|2|x-zht|Zhu Xian Di Er Ji
 19386|2|x-zht|Zhu Xian Di San Ji
+20282|2|x-zht|Zhu Xian Di Si Ji
 20282|1|x-zht|Zhu Xian: Zuizhong Ji
 13460|1|x-zht|Zhu Zhu Xia Fan Wai: Pin Zhuang Tegong Dui
 13456|1|x-zht|Zhu Zhu Xia: Bai Bian Lian Meng
@@ -83651,6 +83656,7 @@
 16963|4|zh-Hans|七大罪 怨嗟的爱丁堡
 15459|4|zh-Hans|七大罪 愤怒的审判
 11646|4|zh-Hans|七大罪 戒律的复活
+11646|4|zh-Hant|七大罪 戒律的復活
 17355|4|zh-Hant|七大罪 啟示錄四騎士
 18558|4|zh-Hant|七大罪 啟示錄四騎士 第二季
 14819|4|zh-Hans|七大罪 诸神的逆鳞
@@ -86137,6 +86143,7 @@
 12956|4|zh-Hant|十二大戰
 3398|4|ja|十二戦支 爆烈エトレンジャー
 14865|4|zh-Hans|十二生肖
+3398|2|zh-Hant|十二生肖 爆烈戰士
 2367|4|ja|十五少年漂流記
 10225|4|ja|十五少年漂流記 海賊島DE! 大冒険
 76|2|zh-Hans|十兵卫: 爱心眼罩的秘密
@@ -87318,6 +87325,7 @@
 10832|4|ja|夏恋戦機
 13693|4|zh-Hans|夏日口袋
 6249|4|zh-Hans|夏日大作战
+16033|4|zh-Hant|夏日時光
 16033|4|zh-Hans|夏日重现
 3955|4|ja|夏服の少女たち ~ヒロシマ・昭和20年8月6日~
 10997|4|zh-Hans|夏洛特
@@ -88040,6 +88048,8 @@
 263|4|ja|女神候補生 スペシャルカリキュラム ~仲間~
 17612|2|zh-Hans|女神咖啡厅
 18080|4|zh-Hans|女神咖啡厅 第二季
+17612|4|zh-Hant|女神咖啡廳
+18080|4|zh-Hant|女神咖啡廳 第二季
 1476|4|ja|女神天国
 1476|4|zh-Hans|女神天国
 15522|4|zh-Hans|女神宿舍的管理员。
@@ -88070,6 +88080,7 @@
 18898|4|zh-Hans|女骑士成为蛮族新娘
 14471|4|zh-Hans|女高中生的无所事事
 14471|2|zh-Hans|女高中生的虚度日常
+14471|4|zh-Hant|女高中生的虛度日常
 14923|4|ja|女魔王メリッサのHな冒険記
 13505|4|zh-Hans|奴隶区 我与23人的奴隶
 1606|2|zh-Hans|奴隶学园
@@ -88753,6 +88764,7 @@
 16784|4|ja|対魔忍不知火~淫欲の奴隷娼婦~
 13234|2|ja|寿司忍者
 11600|4|zh-Hans|寿司警察
+20287|4|zh-Hans|封天契
 13092|4|zh|封神榜
 14893|4|zh-Hans|封神榜传奇
 1732|4|zh-Hans|封闭的神秘大地
@@ -88955,6 +88967,7 @@
 940|2|ja|少女小悪魔系 ~蠢く女たち~
 19782|4|zh-Hans|少女怪兽焦糖味
 19782|4|zh-Hant|少女怪獸焦糖戀心
+8898|2|zh-Hant|少女愛上大姊姊 2
 7609|4|ja|少女戦機 ソウルイーター
 8175|4|ja|少女戦機 ブレインジャッカー
 11034|4|ja|少女教育
@@ -89104,6 +89117,7 @@
 17637|4|ja|山田くんとLv999の恋をする
 10955|4|zh-Hans|山田君与7个魔女
 10955|4|zh-Hant|山田君與7人魔女
+10955|2|zh-Hant|山田君與7位魔女
 17728|4|zh-Hans|山神与小枣
 11146|4|ja|山賊ダイアリー
 10421|4|ja|山賊の娘ローニャ
@@ -89160,7 +89174,10 @@
 17887|4|zh-Hans|川越男子歌唱团
 17887|4|zh-Hant|川越男子歌唱團
 4555|2|zh-Hans|工作狂
+13743|4|zh-Hant|工作細胞
 15460|4|zh-Hant|工作細胞 特別上映版 - 強「菌」來襲！人體腸道大騷動！
+15502|4|zh-Hant|工作細胞BLACK
+14791|4|zh-Hant|工作細胞S2
 13743|4|zh-Hans|工作细胞
 15502|2|zh|工作细胞 Black
 14791|4|zh-Hans|工作细胞2
@@ -89808,6 +89825,7 @@
 3654|4|ja|怪~ayakashi~ JAPANESE CLASSIC HORROR
 16425|4|zh-Hans|怪人开发部的黑井津小姐
 18103|4|zh-Hans|怪人的沙拉碗
+18103|4|zh-Hant|怪人的沙拉碗
 16425|4|ja|怪人開発部の黒井津さん
 16425|4|zh-Hant|怪人開發部的黑井津小姐
 1334|4|zh-Hans|怪侠佐罗利
@@ -90605,6 +90623,7 @@
 17703|4|zh-Hant|戰隊大失格
 15440|4|zh-Hant|戰鬥員派遣中！
 11595|4|zh-Hans|房东妹子青春期
+11595|4|zh-Hant|房東妹子思春期！
 14439|4|zh-Hant|房間露營
 14439|4|zh-Hans|房间露营
 4357|4|ja|所ビデオ
@@ -92059,6 +92078,7 @@
 19941|4|zh-Hans|末世：S级机甲开局，我无敌了
 19176|4|zh-Hant|末世二輪之旅
 19176|4|zh-Hans|末世二轮之旅
+18838|4|zh-Hant|末世旅館
 14375|4|zh-Hans|末世觉醒之入侵
 16491|4|zh-Hans|末世觉醒之入侵 (2019)
 16492|4|zh-Hans|末世觉醒之溯源
@@ -95453,6 +95473,7 @@
 3966|4|ja|空飛ぶ都市計画
 15644|4|zh-Hans|穿书自救指南
 20043|4|zh-Hans|穿越兽世, 神兽男仆助我成后
+19110|4|zh-Hant|穿越吧！不思議少女
 6176|2|zh-Hans|穿越宇宙的少女
 20266|4|zh-Hans|穿越时空成仙帝，系统迟到八万年
 4151|4|zh-Hans|穿越时空的少女
@@ -96362,6 +96383,7 @@
 10814|4|zh-Hans|舞力四射
 16196|4|zh-Hans|舞动不止
 12700|4|zh-Hans|舞动青春
+16196|4|zh-Hant|舞動不止
 15476|4|ja|舞妓さんちのまかないさん
 4603|4|ja|舞姫
 9721|4|zh-Hans|舞蹈精灵clinoppe
@@ -97196,6 +97218,7 @@
 19386|2|zh-Hans|诛仙 第3季
 19386|4|zh-Hans|诛仙 第三季
 18577|4|zh-Hans|诛仙 第二季
+20282|2|zh-Hans|诛仙 第四季
 15835|4|zh-Hans|诡水疑云
 19357|4|zh-Hans|诡秘之主
 19357|2|zh-Hans|诡秘之主 小丑篇
