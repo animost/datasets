@@ -1,4 +1,4 @@
-# created: Sun Aug 23 03:00:01 2026
+# created: Mon Aug 24 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5576,6 +5576,7 @@
 776|4|en|Behind Closed Doors
 19479|2|en|Behind the Supermarket, Smoking with You.
 19940|1|x-zht|Bei Jiazu Paoqi, Wo Juexing Jiu Yi Shuxing Dian
+20289|1|x-zht|Bei Jiazu Paoqi, Wo Juexing Jiu Yi Shuxing Dian 2
 20049|1|x-zht|Bei Ken Xiong: Huoxing Renwu
 595|4|lt|Beibleidai
 15567|2|en|Beijing Opera Cats
@@ -11373,6 +11374,7 @@
 18793|4|pt-BR|De Caipira a Mestre Espadachim
 18793|4|pt|De Caipira a Mestre Espadachim
 18793|4|es|De camp esino cuarentón a espadachín legendario
+19400|4|es|De campesino cuarentón a espadachín legendario II
 2302|4|nl|De Familie Robinson
 1006|4|sv|De gåtfulla guldstäderna
 10936|4|nl|De Grens van Rinne
@@ -21831,6 +21833,7 @@
 8660|2|ja|Harem King
 15918|2|pt|Harém no Labirinto de Outro Mundo
 13243|4|en|Harem of the Hell Spawn
+20032|2|x-jat|Harem Shima e Youkoso!
 9340|1|x-jat|Harem Time The Animation
 20032|1|x-jat|Harem-tou e Youkoso!
 5665|1|x-jat|Harenchi Koumon Manyuuki
@@ -34706,6 +34709,7 @@
 19730|1|x-jat|Marika-chan no Koukando wa Bukkowarete Iru
 19730|2|x-jat|Marika-chan no Koukando wa Bukkowareteiru
 19730|4|en|Marika`s Love Meter Malfunction
+19730|3|x-jat|marikowa
 1297|3|x-jat|Marimite
 2025|3|x-jat|marimite haru
 2025|3|x-jat|marimite2
@@ -40818,11 +40822,15 @@
 8762|1|x-jat|One Piece 3D: Gekisou! Trap Coaster
 8010|1|x-jat|One Piece 3D: Mugiwara Chase
 8010|4|en|One Piece 3D: Straw Hat Chase
+20291|4|ja|ONE PIECE FILM BAAD
+20290|4|ja|ONE PIECE FILM GOD VALLEY
 11529|4|ja|ONE PIECE FILM GOLD
 16983|4|ja|ONE PIECE FILM RED
 6537|4|ja|ONE PIECE FILM STRONG WORLD
 7538|4|ja|ONE PIECE FILM STRONG WORLD Episode:0
 8940|4|ja|ONE PIECE FILM Z
+20291|1|x-jat|One Piece Film: Baad
+20290|1|x-jat|One Piece Film: God Valley
 11529|1|x-jat|One Piece Film: Gold
 11529|4|en|One Piece Film: Gold
 16983|4|de|One Piece Film: Red
@@ -47874,6 +47882,7 @@
 18678|1|x-zht|Sanguo Yanyi Di Er Ji: Zhulu Zhongyuan
 18640|1|x-zht|Sanguo Yanyi Di San Ji
 4568|2|tr|Saniyede 5 Santimetre
+20288|1|x-zht|Sanjiaozhou: Zaowuzhu Wanjia
 9924|1|x-jat|Sanjougattai Transformers Go!
 8106|2|x-jat|Sanjuu Sai no Hoken Taiiku
 15912|1|x-jat|Sankaku Mado no Sotogawa wa Yoru
@@ -50629,6 +50638,7 @@
 5269|1|x-jat|Sky Girls (2007)
 4383|2|en|Sky Girls OVA
 5269|2|x-jat|Sky Girls TV
+20292|1|x-jat|Sky Kids BOOBY
 2169|4|en|Sky of Iriya, Summer of UFO
 18906|2|en|Sky Shadow
 10736|4|fr|Sky Wizards Academy
@@ -57374,6 +57384,7 @@
 17391|1|x-jat|Tooi Sekai ni
 19447|3|x-jat|tooi-san
 19447|1|x-jat|Tooi-san wa Seishun Shitai! "Baka to Sumaho to Romance to"
+19447|2|x-jat|Tooi-san wa Seishun Shitai! Baka to Smartphone to Romance to
 18317|2|en|Toooooo Many Losing Heroines!
 2411|1|x-jat|Tooyamazakura Uchuuchou: Yatsu no Na wa Gold
 1374|3|x-jat|ToP
@@ -83774,6 +83785,7 @@
 7533|4|zh-Hans|三色猫幽灵城主
 12876|2|ja|三角のリズム / トランプの爭
 958|4|zh-Hans|三角心 ～Sweet Songs Forever～
+20288|4|zh-Hans|三角洲：造物主玩家
 15912|2|zh-Hans|三角窗外是黑夜
 2|2|zh-nan|三隻眼
 12957|4|zh-Hans|三颗星彩色冒险
@@ -97011,6 +97023,7 @@
 17444|2|zh-Hans|被勇者队伍开除的驯兽师，邂逅最强种猫耳少女
 17444|2|zh-Hant|被勇者隊伍開除的馭獸使，邂逅了最強種的貓耳少女
 19940|4|zh-Hans|被家族抛弃，我觉醒九亿属性点
+20289|4|zh-Hans|被家族抛弃，我觉醒九亿属性点 第二季
 7028|2|zh-Hans|被炉猫
 9208|4|zh-Hans|被狙击的学园
 15400|4|zh-Hans|被神捡到的男人
