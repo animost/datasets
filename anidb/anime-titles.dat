@@ -1,4 +1,4 @@
-# created: Mon Aug 24 03:00:02 2026
+# created: Tue Aug 25 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -456,11 +456,13 @@
 16285|3|x-jat|180kimimimi
 16285|4|ja|180秒で君の耳を幸せにできるか?
 12576|4|ja|18if
+20293|1|zh-Hans|19 Tian
 11393|1|x-jat|1989
 11393|4|ja|1989
 20262|1|zh-Hans|1999! Shenmi Xue Duice Bu
 20262|4|zh|1999！神秘学对策部
 3370|2|en|19th-Century Boy Takamaru
+20293|4|zh|19天
 18008|1|x-jat|1LDK + JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?
 18008|2|en|1LDK + JK Living Together Suddenly? Close Contact!? First Sex!!?
 18008|2|ko|1LDK+JK 갑자스레 동거? 밀착!? 첫 섹스!!?
@@ -2459,6 +2461,7 @@
 2744|4|lt|Alisa - Stebuklų Šalyje
 147|3|es|Alita
 147|3|en|Alita
+20294|1|zh-Hans|Alita De Shi Lian
 147|4|es-CA|Alita, àngel de combat
 147|4|es|Alita, ángel de combate
 11403|1|x-jat|All Alone With You
@@ -2743,6 +2746,7 @@
 11480|2|en|And You Thought There Are No Girls On the Internet?
 11480|4|en|And You Thought There Is Never a Girl Online?
 14778|2|en|And2 Girls
+14778|2|x-unk|And2! And2!
 2208|3|x-jat|andersen
 2220|1|x-jat|Andersen Douwa: Ningyohime
 2208|1|x-jat|Andersen Monogatari
@@ -3252,6 +3256,7 @@
 14519|3|en|Ao-chan
 14519|4|en|Ao-chan Can`t Study
 361|3|x-jat|AO6
+20295|1|zh-Hans|Aoao Dai Bu
 16358|4|en|Aoashi
 16358|2|x-jat|Aoashi
 16358|4|de|Aoashi
@@ -4650,9 +4655,14 @@
 19761|1|x-zht|Bai Lian Cheng Shen 3
 18252|2|x-zht|Bai Lian Cheng Shen Di Er Ji
 19761|2|x-zht|Bai Lian Cheng Shen Di San Ji
+20296|1|zh-Hans|Bai Lian Feisheng Lu
+20297|1|zh-Hans|Bai Lian Feisheng Lu Di Er Ji
+20298|1|x-jat|Bai Ri Cheng Cai
 20151|1|x-zht|Bai Ri Cheng Wang
 19082|2|x-zht|Bai She 3: Fusheng
 16646|1|x-zht|Bai She II: Qing She Jie Qi
+19082|2|x-zht|Bai She III: Fusheng
+20299|1|zh-Hans|Bai She Zhuan: Bai Suzhen
 19082|1|x-zht|Bai She: Fu Sheng
 18983|1|x-zht|Bai She: Fusheng
 14876|1|x-zht|Bai She: Yuanqi
@@ -5023,6 +5033,7 @@
 7073|4|fi|Bambukarhut
 5356|4|sk|Bambusová čepeľ
 6738|2|x-jat|Ban Danemon Bakemono Taiji no Maki
+20300|1|zh-Hant|Ban Shen Zhi Jing
 2383|4|pt|Bana e Flapi
 13536|4|ja|BANANA FISH
 13536|1|x-jat|Banana Fish
@@ -5123,7 +5134,9 @@
 610|1|x-jat|Bannou Bunka Nekomusume Dash!
 8257|1|x-jat|Bannou Yasai Ninninman
 10985|2|x-jat|Banpaiā Hōmuzu
+20301|1|zh-Hant|Banshou Shaonian
 6679|3|x-jat|bantorra
+20302|1|x-zht|Bao Ke Meng Donghua Tujian: Xiaoqi Dao Zhong
 2753|1|x-zht|Bao Lian Deng
 17103|1|x-zht|Bao Shou Lieren
 13165|2|vi|Bảo Thạch Chi Quốc
@@ -5134,6 +5147,7 @@
 941|4|en|Baoh the Visitor
 16522|1|x-zht|Baolie Feiche 2: Xing Neng Juexing
 16523|1|x-zht|Baolie Feiche 3: Shou Shen Heti
+20320|1|x-zht|Baoxiao Kung Fu
 18376|2|x-zht|Baozou Xiari
 11055|1|x-jat|Bar Kiraware Yasai
 11055|4|ja|BAR 嫌われ野菜
@@ -5578,6 +5592,7 @@
 19940|1|x-zht|Bei Jiazu Paoqi, Wo Juexing Jiu Yi Shuxing Dian
 20289|1|x-zht|Bei Jiazu Paoqi, Wo Juexing Jiu Yi Shuxing Dian 2
 20049|1|x-zht|Bei Ken Xiong: Huoxing Renwu
+20303|1|zh-Hant|Bei Xue
 595|4|lt|Beibleidai
 15567|2|en|Beijing Opera Cats
 16701|1|x-zht|Beiken Xiong 2: Jinpai Tegong
@@ -6800,6 +6815,7 @@
 10990|1|x-kot|Bogeul Bogeul Bomulseon
 18675|4|en|Bogus Skill &lt;&lt;Fruitmaster&gt;&gt;: About That Time I Became Able to Eat Unlimited Numbers of Skill Fruits (That Kill You)
 8658|2|en|Bogustory
+18232|2|pl|Bohater bez klasy: Na co komu zdolności?!
 7952|1|x-jat|Bohemian Rhapsody feat. Matsumoto Reiji
 5610|4|cs|Bohové smrti
 3447|4|ja|boin
@@ -8283,6 +8299,7 @@
 6032|1|x-jat|Casshern Sins
 6032|4|en|Casshern Sins
 19940|4|en|Cast Out by My Family, I Awakened 900 Million Stat Points
+20289|4|en|Cast Out by My Family, I Awakened 900 Million Stat Points 2
 1218|4|ro|Castelul umblător al lui Howl
 1338|1|x-jat|Castle Fantasia: Seima Taisen
 331|2|en|Castle in the Sky
@@ -8565,9 +8582,11 @@
 10308|1|x-kot|Chang
 18296|1|en|Chang An
 16587|1|x-zht|Chang An Huan Jie
+20304|1|zh-Hant|Chang An San Wan Li
 19180|1|x-zht|Chang Ge Xing
 16011|1|x-zht|Chang Jian Fengyun
 17986|1|x-zht|Chang Jian Fengyun (2023)
+8785|2|x-zht|Chang Jiang 7 Hao Ai Di Qiu
 8785|2|x-zht|Chang Jiang 7 Hao: Ai Diqiu
 8785|2|x-zht|Chang Jiang Qi Hao: Ai Diqiu
 4917|2|vi|Chàng quản gia
@@ -8578,6 +8597,7 @@
 949|4|it|Change!! Shin Getter Robot - L`ultimo giorno del mondo
 949|2|en|Change!! True Getter Robo - The Final Days of the World
 3382|2|en|Changing Moral Hazard
+8785|2|x-zht|Changjiang 7 Hao Ai Diqiu
 18950|2|x-zht|Changsheng Jie
 18415|1|x-zht|Changye Kaita Zhe
 12388|1|x-jat|Channel 5.5
@@ -8589,6 +8609,7 @@
 19111|4|ja|ChaO
 19111|4|en|Chao
 18361|4|vi|Chào mừng đến Nhật, bạn Elf
+20305|1|x-zht|Chao Neng Fuke Jing
 19234|1|x-zht|Chao Neng Lifang: Chaofan Pian
 16817|1|x-zht|Chao Shen Xueyuan
 16818|1|x-zht|Chao Shen Xueyuan Di Er Ji
@@ -8603,6 +8624,7 @@
 15668|1|x-zht|Chao Wa Zhanshi: Xingji Jiayuan
 17831|1|x-zht|Chao Xian Lie Bing-kai Neng
 13748|1|x-zht|Chao You Bing
+13748|2|x-zht|Chao You Bing: Zhi Yong Zhe Chuan Shuo
 13161|1|x-zht|Chao Zhi Neng Zu Qiu
 14462|1|x-zht|Chao Zhi Neng Zu Qiu 2
 14462|2|x-zht|Chao Zhi Neng Zu Qiu 2: Shijie Dasai Pian
@@ -8688,10 +8710,12 @@
 8014|2|pt-BR|Chegando Até Você 2
 8014|2|pt-BR|Chegando Até Você: Segunda Temporada
 14610|1|x-kot|Chel-in sacheon-wang
+20306|1|x-zht|Chen Feng Gui
 18744|2|x-zht|Cheng He Ti Tong
 18744|1|x-zht|Cheng He Titong
 19869|1|x-zht|Cheng He Titong 2
 20188|1|x-zht|Cheng Huang Lu
+20307|1|x-zht|Cheng Li Laile Liao Yi Tiao Long
 20245|1|x-zht|Cheng Ye Xiao He
 20188|4|en|CHENGHUANG
 11060|1|x-zht|Chengyu Donghua Lang
@@ -9057,6 +9081,7 @@
 9654|1|x-jat|Chokkyuu Hyoudai Robot Anime: Straight Title
 14857|1|x-jat|Chokotto Anime Kemono Friends 3
 4350|2|x-jat|Chokotto Sister
+20308|1|x-zht|Chong Chu Diqiu
 18659|2|x-zht|Chong Mei
 6934|1|x-jat|Chongire Hebi
 15580|1|x-zht|Chongwu Lianmeng: Pets United
@@ -9240,6 +9265,7 @@
 9874|3|x-jat|chu2ren
 15644|2|x-zht|Chuan Shu Zi Jiu Zhi Nan
 15644|1|x-zht|Chuan Shu Zijiu Zhinan
+20309|1|x-zht|Chuan Shu Zijiu Zhinan: Xian Meng Pian
 16685|1|x-zht|Chuanyue Huoxian: Youling Jihua
 20266|2|x-zht|Chuanyue Shikong Cheng Xian Di, Xitong Chidao Ba Wan Nian
 20266|1|x-zht|Chuanyue Shikong Cheng Xiandi, Xitong Chidao Bawan Nian
@@ -10707,6 +10733,7 @@
 13121|1|x-zht|Da Wei Beiken: Daomei Tegong Xiong
 19340|1|x-zht|Da Xia Qing Shang Gong
 8156|1|x-zht|Da Yu Hai Tang
+20310|1|x-zht|Da Yu Hai Tang: Rong Song Chuan
 19371|1|x-zht|Da Yuan Hun
 18443|1|x-zht|Da Yuzhou Shidai
 16541|1|x-zht|Da Zhu Zai
@@ -10721,6 +10748,7 @@
 561|3|x-jat|DA02
 351|1|x-jat|Daa! Daa! Daa!
 12247|1|x-zht|Dabing Jinbao
+12247|2|x-zht|Dabing Jinbao Lixian Ji
 12986|4|cs|Ďáblův chlapec
 837|3|x-jat|dacapo
 7904|3|x-jat|dacapo (2010)
@@ -11620,6 +11648,7 @@
 16115|4|ja|DELIVER POLICE/西東京市デリバー警察隊
 17486|1|x-jat|Delivery Chi*ko o Tanomitai Onee-san
 17486|2|x-jat|Delivery Chinko o Tanomitai Onee-san
+20288|4|en|Delta Force: The Creator
 4595|1|x-jat|Deltora Quest
 4595|4|it|Deltora Quest
 4595|4|hu|Deltora Quest
@@ -12343,6 +12372,8 @@
 19488|1|x-zht|Di Ling Ai: Mo Shui Linglong
 20257|1|x-zht|Di Ling Ai: Shui Xin Chan
 13660|1|x-zht|Di Ling Qu
+20311|1|x-zht|Di Ling Qu: Loulan Wanjie Pian
+20312|1|x-zht|Di Ling Qu: Nanjiang Miwu
 14483|4|vi|Dị thú ma đô
 13720|1|x-zht|Di Tou Ren Sheng
 13954|1|x-zht|Di Wang Gong Lue
@@ -13110,6 +13141,7 @@
 20197|1|x-zht|Dongda Gao Wu Xueyuan
 15311|1|x-zht|Dongfang Shaonian Zhi Ji Dou Zhan Che
 15311|2|x-zht|Dongfang Shaonian: Ji Dou Zhanche
+20313|1|x-zht|Dongfang Ye Que Shitang Donghua
 12951|1|x-zht|Dongguo Xiaojie
 12951|2|x-zht|Dongguo Xiaojie: Karma
 10155|1|x-jat|Donguri Mori e
@@ -13514,6 +13546,7 @@
 14892|1|x-zht|Dou Po Cang Qiong: Q Ban Xiao Juchang 2
 14874|1|x-zht|Dou Po Cang Qiong: Tebie Pian 2 - Sha Zhi Lan Ge
 13721|1|x-jat|Dou Po Cangqiong
+14874|2|x-zht|Dou Po Cangqiong 2: Tebie Pian - Sha Zhi Lan Ge
 14874|2|en|Dou po Cangqiong 2nd Season: Song of Desert
 13851|1|x-zht|Dou Po Cangqiong Di Er Ji
 15147|1|x-zht|Dou Po Cangqiong Di San Ji
@@ -13637,6 +13670,7 @@
 19876|1|x-jat|Doumo, Suki na Hito ni Horegusuri o Irai Sareta Majo Desu.
 15273|1|x-jat|Dounika Naru Hibi
 13721|2|x-zht|Doupo Cangqiong
+14874|2|x-zht|Doupo Cangqiong: Tebie Pian 2 - Sha Zhi Lan Ge
 13721|2|x-jat|Doupo Capong
 4250|1|x-jat|Doura
 13789|2|en|Douro Mainland
@@ -14572,6 +14606,7 @@
 8852|4|de|Dusk Maiden of Amnesia
 8149|2|pl|Dusza na sprzedaż
 2783|2|en|Dutchess of Busty Mounds
+20315|1|x-zht|Duxing Yueqiu
 26|2|cs|Dvanáct království
 61|2|lt|Dvasia Šarvuose
 890|4|lt|Dvasia šarvuose 2: Nekaltybė
@@ -16242,6 +16277,7 @@
 20098|1|x-zht|Fanren Xiu Xian Chuan: Mulan Zhi Zhan
 19121|2|x-zht|Fanren Xiu Xian Chuan: Waihai Fengyun
 18265|1|x-zht|Fanren Xiu Xian Chuan: Xinghai Feichi Pian Xuzhang
+17004|2|x-zht|Fanren Xiu Xian Zhuan 2nd Season
 20098|2|x-zht|Fanren Xiu Xian Zhuan 5th Season
 20098|2|x-zht|Fanren Xiu Xian Zhuan: Mulan Zhi Zhan
 15425|1|x-zht|Fanren Xiuxian Chuan: Feng Qi Tian Nan
@@ -16591,6 +16627,7 @@
 10660|1|x-jat|Fechikano!
 17218|1|en|Feel the Fairies (2020)
 11939|2|en|Feeling from Mountain and Water
+20316|1|x-zht|Fei Ba! Lanqiu
 16607|1|x-zht|Fei Ren Zai
 18752|1|x-jat|Fei Ren Zai -Kami-sama no Nichijou-
 17816|1|x-zht|Fei Ren Zai Di Er Ji
@@ -16603,6 +16640,7 @@
 16604|1|x-zht|Fei Ren Zai Part 4
 16605|1|x-zht|Fei Ren Zai Part 5
 16606|1|x-zht|Fei Ren Zai Part 6
+20317|1|x-zht|Fei Ren Zai: Xian Shi Wan Jia
 17313|1|x-zht|Fei Yue Di Xin
 16643|1|x-zht|Fei Zhi Baike Yuanlai Ni Shi Zheyang Di Dongwu
 16642|1|x-zht|Fei Zhi Baike Yuanlai Ni Shi Zheyang Di Zhiwu
@@ -16627,6 +16665,8 @@
 15656|4|en|Fena: Pirate Princess
 700|4|en|Fencer of Minerva
 700|4|de|Fencer of Minerva
+20318|1|x-zht|Feng Huo Zhan Ji
+3188|2|x-zht|Feng Ji Yun Nu
 13447|1|x-zht|Feng Ling Yu Xiu
 18159|2|x-zht|Feng Ling Yu Xiu 2
 18807|2|x-zht|Feng Ling Yu Xiu 2: Special
@@ -16639,6 +16679,7 @@
 13092|1|x-zht|Feng Shen Bang
 14893|1|x-zht|Feng Shen Bang Chuanqi
 16710|1|x-zht|Feng Shu Zhan Jing
+20319|1|x-zht|Feng Shu Zhan Jing (2012)
 16711|1|x-zht|Feng Shu Zhan Jing 2
 20287|1|x-zht|Feng Tian Qi
 13445|1|x-zht|Feng Wei Ying Xiong
@@ -17068,6 +17109,8 @@
 18191|1|en|Flying Luna Clipper
 1859|4|en|Flying Phantom Ship
 10799|2|en|Flying Superboard
+10873|2|en|Flying Superboard (1998)
+10874|2|en|Flying Superboard (2001)
 11469|1|x-jat|Flying Witch
 11469|4|en|Flying Witch
 979|3|en|FMA
@@ -22147,6 +22190,7 @@
 18218|4|en|Heaven Official`s Blessing 2
 15648|2|en|Heaven Officials` Blessing
 19626|4|en|Heaven Scrap Master
+20287|2|en|Heaven Sealing Contract
 19342|2|en|Heaven Swallow
 19342|2|en|Heaven Swallowing Record
 1777|2|en|Heaven Wars Shurato
@@ -32274,6 +32318,7 @@
 16717|2|en|Lonely Hero: Trouble Begin
 18432|4|en|Loner Life in Another World
 20166|2|en|Loner Life in Another World 2
+1528|2|x-zht|Long Dao Qi Yuan -DragonBlade-
 19750|1|x-zht|Long Hun
 19517|2|en|Long March to the Stars
 19888|1|x-zht|Long Po Jiutian
@@ -60589,6 +60634,7 @@
 1578|3|x-jat|Wing Man
 1578|4|fr|Wingman
 1578|4|it|Wingman il guerriero dei sogni
+12902|2|en|Wings of Dragon
 196|2|en|Wings of Honneamise
 196|4|fi|Wings of Honneamise
 196|4|de|Wings of Honneamise - Eroberung des Universums
@@ -60730,6 +60776,7 @@
 14674|1|x-zht|Wo Shi Jiang Xiaobai: Shijie Shang de Ling Yige Wo
 13974|1|x-zht|Wo Shi Nezha
 20280|1|x-zht|Wo shi xue xiao wei yi de ren lei
+20280|2|x-zht|Wo Shi Xuexiao Weiyi de Renlei
 19459|1|x-zht|Wo Wei Dao Zong
 10187|1|x-zht|Wo Wei Ge Kuang
 15771|2|x-zht|Wo Wei Ge Kuang 2
@@ -84017,6 +84064,7 @@
 11890|4|zh-Hans|东城刃更至极平和的日常
 20197|4|zh-Hans|东大高武学院
 19202|4|zh-Hans|东岛丹三郎想成为假面骑士
+20313|4|zh|东方夜雀食堂动画
 15969|2|zh-Hans|东方少年
 17275|2|zh-Hans|东方少年 第二季
 15311|4|zh-Hans|东方少年之击斗战车
@@ -84117,6 +84165,7 @@
 9921|4|zh-Hans|乔瓦尼之岛
 15287|4|zh-Hans|乔西的虎与鱼
 14465|2|zh-Hant|乘浪之約
+20306|4|zh|乘风归
 19099|3|ja|乙サバ
 8898|4|ja|乙女[おとめ]はお姉さま[ボク]に恋してる 2人のエルダー THE ANIMATION
 19099|4|ja|乙女ゲームのヒロインで最強サバイバル
@@ -85349,6 +85398,7 @@
 8855|4|zh-Hans|冰菓
 16378|4|zh-Hans|冰雪极境
 16378|4|zh-Hant|冰雪極境
+20308|4|zh|冲出地球
 4124|2|zh-Hans|冲吧!彻之进
 12002|4|zh-Hans|冲吧烈子
 2910|4|zh-Hans|决斗大师
@@ -86205,6 +86255,7 @@
 15546|4|zh-Hans|半妖的夜叉姬
 16141|2|zh-Hans|半妖的夜叉姬 第二季
 11908|4|zh-Hans|半田君
+20300|4|zh|半神之境
 18833|4|ja|卑触家のルール
 2845|4|ja|卒業 Next Graduation
 1241|4|ja|卒業~Graduation~
@@ -87131,6 +87182,8 @@
 4193|4|zh|地海戰記
 4193|4|zh-Hant|地海戰記
 13660|4|zh-Hans|地灵曲
+20312|4|zh|地灵曲 南疆迷雾
+20311|4|zh|地灵曲 楼兰完结篇
 13660|2|zh-Hans|地灵曲——楼兰古城
 16012|4|zh-Hans|地狱乐
 6109|4|zh-Hans|地狱天使
@@ -87215,6 +87268,7 @@
 1563|4|zh-Hant|城市獵人2
 1564|4|zh-Hant|城市獵人3
 17782|4|ja|城郭合体オシロボッツ
+20307|4|zh|城里来了一条龙
 20188|4|zh|城隍录
 15501|2|zh-Hans|埃及神明们的日常
 16508|4|zh-Hans|埃及神明们的日常 第二季
@@ -87522,6 +87576,7 @@
 14412|4|zh-Hans|大人的防具店
 15724|4|zh-Hans|大人的防具店 第二季
 19340|4|zh-Hans|大侠请上功
+12247|2|zh-Hant|大兵金宝历险记
 12247|4|zh-Hant|大兵金寶
 13598|4|ja|大切な家族を包む, その手.
 4892|2|zh-Hans|大剑
@@ -87649,6 +87704,7 @@
 4149|4|zh-Hans|大魔法峠
 1715|4|ja|大魔獣激闘 鋼の鬼
 8156|4|zh-Hans|大鱼·海棠
+20310|4|zh|大鱼海棠之融松传
 8019|4|ja|天の川
 19894|4|ja|天は赤い河のほとり
 6427|4|ja|天上人とアクト人最後の戦い Last war of Heavenloids and Akutoloids
@@ -87978,6 +88034,7 @@
 4801|4|ja|奥様は魔法使い
 7928|4|ja|女スパイ拷問 敵の基地は女体拷問所
 17549|4|ja|女の園の星
+19327|4|zh-Hant|女主角？聖女？都不對，我是雜役女僕（自豪）！
 18344|4|zh-Hans|女仆冥土小姐。
 7569|4|zh-Hans|女仆咖啡厅
 19541|4|zh-Hans|女仆小姐的贪吃日常
@@ -88644,6 +88701,7 @@
 15067|4|zh-Hans|宝可梦
 17777|2|zh-Hans|宝可梦 地平线
 14215|4|zh-Hans|宝可梦：超梦的逆袭 进化
+20302|4|zh|宝可梦动画图鉴 小憩岛中
 2038|4|ja|宝島
 10513|4|ja|宝島 (1987)
 8576|4|ja|宝島メモリアル「夕凪と呼ばれた男」
@@ -88864,6 +88922,7 @@
 14834|4|zh-Hans|小明和王猫
 5278|2|zh-Hans|小春日和
 17494|4|zh-Hant|小智是女孩啦！
+14727|4|zh-Hant|小書痴的下剋上：為了成為圖書管理員不擇手段！
 15634|2|zh-Hant|小書痴的下剋上：為了成為圖書管理員不擇手段！第三季
 13252|4|zh-Hans|小木乃伊到我家
 6059|4|ja|小松左京 アニメ劇場
@@ -90684,6 +90743,7 @@
 17434|4|zh-Hans|打火机与公主裙
 12382|4|zh-Hans|扩张少女系Trinary
 16035|4|zh-Hans|扰乱 THE PRINCESS OF SNOW AND BLOOD
+20301|4|zh|扳手少年
 10296|2|zh-Hant|扶他部！
 10964|2|zh-Hant|扶他部！！
 11182|2|zh-Hant|扶他部3
@@ -90962,6 +91022,7 @@
 9016|4|zh-Hans|故乡重现 日本的古老传说
 2150|4|zh-Hans|敌人是海盗 猫们的飨宴
 4664|4|ja|救命戦士ナノセイバー
+20295|4|zh|敖敖待捕
 18317|4|zh-Hant|敗北女角太多了！
 19103|4|ja|教えて！土管くん
 11147|4|zh-Hans|教室☆危机
@@ -92263,6 +92324,7 @@
 844|4|zh-Hans|极黑之翼
 10069|4|zh-Hans|极黑的布伦希尔德
 10069|2|zh-Hans|极黑的布伦希尔特
+20303|4|zh|杯雪
 6238|4|ja|東のエデン
 6763|4|ja|東のエデン Air Communication
 6636|4|ja|東のエデン 劇場版I The King of Eden
@@ -93890,6 +93952,7 @@
 4127|4|ja|爆球HIT! クラッシュビーダマン
 4702|4|ja|爆球連発!!スーパービーダマン
 1442|4|ja|爆発寸前!! 天使のカウントダウン
+20320|4|zh|爆笑功夫
 1295|2|zh-Hant|爆笑吸血鬼
 1295|4|zh-Hans|爆笑吸血鬼 OVA
 4680|4|zh-Hans|爆笑四人组
@@ -94115,6 +94178,7 @@
 13025|4|zh-Hans|独自生活的小学生
 6456|2|ja|独蛾 THE ANIMATION
 6456|4|ja|独蛾~THE ANIMATION~
+20315|4|zh|独行月球
 5553|4|zh-Hans|独角鲸落难记
 5893|4|ja|独身アパートどくだみ荘
 6031|2|zh-Hans|狱·再见! 绝望老师
@@ -94722,6 +94786,7 @@
 19082|2|zh-Hans|白蛇3：浮生
 16646|4|zh-Hans|白蛇Ⅱ: 青蛇劫起
 1861|4|ja|白蛇伝
+20299|4|zh|白蛇传之白素贞
 18760|4|ja|白豚貴族ですが前世の記憶が生えたのでひよこな弟育てます
 14540|4|zh-Hant|白貓 Project Zero Chronicle 零之紀元
 15936|4|zh-Hans|白金终局
@@ -94780,6 +94845,7 @@
 13912|4|zh-Hant|百慕達三角～多彩田園曲～
 6538|4|ja|百日の薔薇
 20151|4|zh-Hans|百日成王
+20298|4|ja|百日成财
 10611|4|ja|百日紅~Miss HOKUSAI~
 10611|4|zh-Hans|百日红
 11234|4|zh-Hans|百武装战记
@@ -94789,6 +94855,8 @@
 18252|2|zh-Hans|百炼成神2
 19761|4|zh-Hans|百炼成神3
 13896|4|zh-Hans|百炼霸王与圣约女武神
+20296|4|zh|百炼飞升录
+20297|4|zh|百炼飞升录二季
 3507|4|ja|百獣王 ゴライオン
 18648|4|zh-Hans|百米。
 2028|2|ja|百舌鳥の贄
@@ -95484,6 +95552,7 @@
 1859|4|ja|空飛ぶゆうれい船
 3966|4|ja|空飛ぶ都市計画
 15644|4|zh-Hans|穿书自救指南
+20309|4|zh|穿书自救指南之仙盟篇
 20043|4|zh-Hans|穿越兽世, 神兽男仆助我成后
 19110|4|zh-Hant|穿越吧！不思議少女
 6176|2|zh-Hans|穿越宇宙的少女
@@ -97544,6 +97613,7 @@
 1820|4|ja|超者ライディーン
 6467|2|zh-Hans|超能力大战/死刑判决
 5778|4|ja|超能力少女バラバンバ
+20305|4|zh|超能复刻镜
 19234|4|zh|超能立方 超凡篇
 12004|4|zh-Hans|超自然9人组
 15579|4|zh|超蛙战士之初露锋芒
@@ -97684,6 +97754,7 @@
 18791|4|zh-Hant|輪迴的花瓣
 10122|4|ja|輪郭
 8421|4|zh-Hant|轉吧！企鵝罐
+18211|4|zh-Hant|轉學後班上的清純可愛美少女，竟是小時候玩在一起的哥兒們
 19217|4|zh-Hant|轉生之後的我變成了龍蛋～目標是世界最強～
 17569|4|zh-Hant|轉生公主與天才千金的魔法革命
 15457|4|zh-Hant|轉生史萊姆日記關於我轉生變成史萊姆這檔事
@@ -98486,6 +98557,7 @@
 14940|2|zh-Hans|锈色铠甲 黎明
 14940|4|zh-Hans|锈色铠甲-黎明-
 16710|4|zh-Hans|锋速战警
+20319|4|zh|锋速战警 (2012)
 16711|4|zh-Hans|锋速战警2
 12538|4|zh|锦绣神州之奇游迹
 14581|4|zh-Hans|锦绣神州之姓氏王国
@@ -98523,6 +98595,7 @@
 17986|2|zh-Hans|长剑风云 第二季
 18415|4|zh-Hans|长夜开拓者
 18296|4|zh-Hans|长安三万里
+20304|4|zh|长安三万里
 16587|4|zh-Hans|长安幻街
 3620|4|zh-Hans|长崎1945 天使之钟
 19180|4|zh-Hans|长歌行
@@ -98698,6 +98771,7 @@
 15013|4|zh-Hant|阿爾蒂
 12148|4|zh-Hans|阿童木起源
 10202|4|zh-Hans|阿茹茉妮
+20294|4|zh|阿莉塔的试炼
 1190|4|zh-Hans|阿莱蒂公主
 16667|4|zh-Hans|阿衰
 16666|4|zh-Hans|阿衰 on line
@@ -99049,6 +99123,7 @@
 17816|4|zh-Hans|非人哉 第二季
 17817|4|zh-Hans|非人哉 第二季 Part 2
 18169|4|zh-Hans|非人哉 第二季 Part 3
+20317|4|zh|非人哉：限时玩家
 19564|4|zh-Hans|非人学生与厌世教师
 19564|4|zh-Hant|非人學生與厭世教師
 302|4|zh-Hans|非常偶像Key
@@ -99178,6 +99253,7 @@
 18414|4|zh-Hans|风姿物语 仙罗篇
 16639|4|zh-Hans|风姿物语 银河篇
 16640|4|zh-Hans|风姿物语 银河篇 (2021)
+20318|4|zh|风火战纪
 13447|4|zh-Hans|风灵玉秀
 18159|4|zh-Hans|风灵玉秀 第二章
 18807|4|zh-Hans|风灵玉秀 第二章 特别篇
@@ -99201,6 +99277,7 @@
 14113|4|zh-Hant|飛翔吧！戰機少女
 11469|2|zh-Hant|飛翔的魔女
 2762|4|zh-Hans|飞吧！伊莎美
+20316|4|zh|飞吧！篮球
 3207|4|zh-Hans|飞天小女警Z
 6255|2|zh-Hans|飞篮扣杀
 14113|4|zh-Hans|飞翔吧！战机少女
