@@ -1,9 +1,8 @@
-# created: Tue Aug 25 03:00:01 2026
+# created: Thu Aug 27 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
 4598|2|ru|_Лето
-10004|2|en|-Dark night at NTR Village-, Kagachi-sama, please honor me with your presence
 17715|4|ja|-禅- グローグーとマックロクロスケ
 7307|2|he|!!קיי-און
 4572|2|ar|!!هيماواري
@@ -1680,7 +1679,6 @@
 20011|4|en|Against the Gods II
 20011|2|en|Against the Gods Season 2
 16583|2|en|Against the Sky Supreme
-16433|1|en|AgainsttheGods
 18375|4|en|Agate
 18784|4|en|Agate (2024)
 18784|2|en|Agate 2
@@ -2663,6 +2661,8 @@
 15373|2|es|Amor de gata
 15373|4|es-419|Amor de gata
 7995|4|pt-BR|Amor de Hiyo
+885|2|pt-BR|Amor Estranho
+885|4|pt|Amor Estranho
 10876|2|fr|Amourettes impures
 15353|1|x-jat|Amrita no Kyouen
 27|3|x-jat|AMS
@@ -4682,6 +4682,7 @@
 7748|1|x-jat|Baikinman to 3-bai Punch
 6773|4|es|Bailando con Vampiros
 6773|4|es-419|Bailando con Vampiros
+14065|1|x-zht|Bainiao Gu
 18804|1|x-zht|Baise Shandian
 15721|2|fr|Baiser les yeux fermés, d’un amour aveugle
 15137|2|fr|Baisers d’amour
@@ -9592,7 +9593,7 @@
 3466|4|en|Clever Sarutobi
 16290|2|en|Click
 19858|2|en|Click Me All Over
-16388|1|en|Climbing
+16388|1|x-kot|Climbing
 3495|2|en|Climbing on a Cloud
 323|2|en|Clinging Angel
 12985|1|x-jat|Clione no Akari
@@ -10377,7 +10378,7 @@
 1018|4|ja|Crying フリーマン
 5723|1|x-jat|Crystal Blaze
 16405|4|ja|CRYSTAL CLEAR
-16405|1|en|CRYSTAL CLEAR
+16405|1|en|Crystal Clear
 14524|4|en|Crystal Sky of Yesterday
 1467|4|en|Crystal Triangle
 1467|2|en|Crystal Triangle: The Forbidden Message
@@ -10440,6 +10441,7 @@
 4563|4|vi|Cuốn sổ tử thần
 3057|3|x-jat|Cuore
 1383|2|it|Cuore
+20303|4|en|Cup of Snow
 11894|2|en|Cupid`s Chocolates
 13634|2|en|Cupid`s Chocolates II
 1963|4|fr|Cure de sexothérapie
@@ -10585,6 +10587,7 @@
 3669|4|pl|Czarnoksiężnik z Krainy Oz
 7084|4|pl|Czarnoksiężnik z krainy OZ
 4906|2|pl|Czarny Kontraktor
+19131|4|pl|Czarodziej Kunon potrafi widzieć
 235|4|pl|Czarodziejka z Księżyca
 2539|4|pl|Czarodziejka z Księżyca R
 2152|4|pl|Czarodziejka z Księżyca: Sailor Moon R the Movie
@@ -11130,6 +11133,7 @@
 18869|2|x-jat|Dark Moon: Tsuki no Saidan
 18869|4|ko|DARK MOON: 달의 제단
 2920|2|en|Dark Myth
+10004|2|en|Dark night at NTR Village: Kagachi-sama, please honor me with your presence
 8229|4|fr|Dark Rabbit
 4730|2|en|Dark Sea, Moon Shadow
 2403|3|en|Dark Shell
@@ -15711,6 +15715,7 @@
 1006|4|tr|Esteban
 1006|2|en|Esteban and the Seven Cities of Gold
 1006|2|en|Esteban: The Child of the Sun
+885|2|pt|Estranho Amor
 4777|2|pt|Estrela da Sorte
 12758|2|fr|Et si ma gentille et fidèle petite amie se faisait tringler par le pire groupe de cette planète ?
 5516|4|fr|Et voici la petite Lulu
@@ -17106,6 +17111,7 @@
 2999|2|en|Fly! Peek the Whale
 9608|2|en|Fly! Space Battleship Geobukseon
 12522|2|en|Flying Babies
+14917|2|en|Flying Lotus - More (feat. Anderson .Paak)
 18191|1|en|Flying Luna Clipper
 1859|4|en|Flying Phantom Ship
 10799|2|en|Flying Superboard
@@ -25039,6 +25045,7 @@
 17741|2|en|In the end, the Witch and that Customer
 16966|4|en|In the Heart of Kunoichi Tsubaki
 16069|4|en|In the Land of Leadale
+16069|4|de|In the Land of Leadale
 19502|4|en|In the Name of Ying Tai
 14233|4|en|In This Corner (and Other Corners) of the World
 9376|4|en|In This Corner of the World
@@ -29532,6 +29539,8 @@
 7169|1|x-jat|Kokka o Suku e
 13513|4|en|Kokkoku
 13513|1|x-jat|Kokkoku
+13513|4|pt|Kokkoku: Momento a Momento
+13513|2|pt-BR|Kokkoku: Momento a Momento
 19982|1|x-jat|Koko
 19982|4|ja|KOKO
 16199|1|x-jat|Koko Animal Otogibanashi
@@ -32039,7 +32048,7 @@
 19430|1|x-zht|Ling Tian Du Zun
 18850|1|x-zht|Ling Wu Dalu
 14816|1|x-zht|Ling Xie Ji
-13787|1|en|Ling Yu
+13787|1|x-zht|Ling Yu
 14227|2|en|Ling Yu 6th Season
 14210|1|x-zht|Ling Yu Di 2 Ji
 14227|1|x-zht|Ling Yu Di Liu Ji
@@ -32069,6 +32078,7 @@
 19882|2|en|Link Click S3
 16531|4|en|Link Click Season 2
 19882|2|en|Link Click Season 3
+20273|2|en|Link Click SP2
 19078|4|en|Link Click: Bridon Arc
 13014|4|en|Link Planets
 13015|2|en|Link Planets (Movie)
@@ -36891,6 +36901,7 @@
 18600|1|x-jat|Momentary Lily
 18600|4|en|Momentary Lily
 18600|4|zh-Hant|MOMENTARY LILY 剎那之花
+13513|2|pt|Momento a Momento
 2500|1|x-jat|Momiji
 2500|4|en|Momiji
 2500|4|pt-BR|Momiji
@@ -37233,6 +37244,7 @@
 6048|2|pt|Mordomo Negro
 17235|4|fr|Mordre les morts
 14917|1|en|More
+14917|2|en|More feat. Anderson .Paak
 17001|4|en|More Than a Married Couple, but Not Lovers.
 1766|2|en|More! Bothersome Witch Doremi
 1766|2|en|More! Useless Witch Doremi
@@ -37992,8 +38004,8 @@
 10208|4|en|My Mental Choices Are Completely Interfering with My School Romantic Comedy - Kataomoi Otome
 9787|2|en|My Mental Multiple-Choice Power Is Completely Ruining My School Romantic Comedy
 11048|2|en|My Monster Secret
-18224|1|x-jat|My Mother
-18224|2|ja|My Mother The Animation
+18224|1|x-tht|My Mother The Animation
+18224|4|th|My Mother THE ANIMATION
 19492|2|en|My Mother-in-law and Sister-in-law Who Don`t Bully Me
 2059|4|en|My My Mai
 2059|4|it|My My My Consulenze particolari
@@ -39233,7 +39245,6 @@
 18830|1|x-zht|Ni De Rensheng Shi Wo Lai Chi Le
 1423|2|x-jat|Ni Kakeru Ichi
 14679|1|x-jat|Ni no Kuni
-16433|4|x-zht|Ni Tian Xie Shen
 18367|1|x-zht|Ni Tian Xieshen
 18473|1|x-zht|Ni Tian Zhan Ji
 16583|2|x-zht|Ni Tian Zhi Zun
@@ -41482,7 +41493,7 @@
 20197|4|en|Oriental Martial Academy
 14432|2|fr|Orientations hypnotiques
 16072|1|x-jat|Origami Fighters
-16042|1|en|Origami of Landscape
+16042|4|en|Origami of Landscape
 3385|4|pt-BR|Origem: Espíritos do passado
 3385|4|de|Origin - Spirits of the past
 3385|4|pl|Origin: Spirits of the Past
@@ -44255,6 +44266,7 @@
 3566|2|en|Pretty Cure Movie 2
 4117|2|x-jat|Pretty Cure Splash Star
 4844|2|en|Pretty Cure Splash Star Tic-Tac Crisis Hanging by a Thin Thread!
+235|2|en|Pretty Guardian Sailor Moon
 17343|4|it|Pretty Guardian Sailor Moon Cosmos - Il film
 17343|4|hu|Pretty Guardian Sailor Moon Cosmos – A film
 17343|4|fr|Pretty Guardian Sailor Moon Cosmos : Le film
@@ -44276,6 +44288,8 @@
 12754|4|pt-BR|Pretty Guardian Sailor Moon Eternal: O Filme
 12754|4|pt|Pretty Guardian Sailor Moon Eternal: O Filme
 12754|4|el|Pretty Guardian Sailor Moon Eternal: Η Ταινία
+2539|2|en|Pretty Guardian Sailor Moon R
+2152|2|en|Pretty Guardian Sailor Moon R the Movie
 9306|2|en|Pretty Guardian Sailor Moon: Crystal
 12754|2|en|Pretty Guardians Sailor Moon Eternal the Movie
 10578|1|x-jat|Pretty Rhythm: All Star Selection
@@ -45999,11 +46013,13 @@
 11074|1|x-jat|Relife
 11074|4|ja|ReLIFE
 11074|4|en|Relife
+11074|4|de|ReLIFE
 13123|4|ja|ReLIFE (2018)
 13123|1|x-jat|Relife (2018)
 13123|2|x-jat|ReLIFE Kanketsuhen
 13123|4|en|Relife OVA
 13123|4|zh-Hans|ReLIFE 完结篇
+13123|4|de|ReLIFE: Final Arc
 15320|4|en|Remake Our Life!
 4039|2|en|Remember the Sun in the Heart
 1827|2|x-jat|Remi
@@ -50568,6 +50584,7 @@
 5640|4|en|Sinners Paradise
 1403|4|en|Sins of the Flesh
 2552|4|en|Sins of the Sisters
+16042|1|x-jat|Sinu Nara Konnna Basyo De Ga Ii
 11829|4|et|Sinu nimi on...
 2127|4|lt|Šinzo
 6998|4|cs|Šípková Růženka aneb Spící krasavice
@@ -57972,6 +57989,8 @@
 14751|1|x-jat|Try Knights
 14751|4|zh-Hans|TRY KNIGHTS
 5886|1|x-jat|Try Z
+19029|4|pl|Tryb piekła: Hardcorowy gracz dominuje w innym świecie ze śmietnikowym balansowaniem
+19978|4|pl|Tryb piekła: Hardcorowy gracz dominuje w innym świecie ze śmietnikowym balansowaniem (2026)
 2630|4|pl|Tryton z Morza
 2708|4|pl|Trzy małe duszki
 6191|3|x-jat|TS
@@ -59295,7 +59314,7 @@
 9931|2|en|Valkyrie Romance
 4251|2|en|Valkyrie The True Story
 7102|2|en|Valkyrie Training: Semen Tank of 10 Battlemaid Sisters
-14065|1|en|Valley of White Birds
+14065|2|en|Valley of White Birds
 10859|4|nl|Valse Liefde:
 335|4|ro|Valurile oceanului
 9568|3|x-jat|valvrave
@@ -61860,7 +61879,7 @@
 11226|3|x-jat|YBJ
 142|3|x-jat|YDATV
 20048|1|x-zht|Ye Luoli - Jin Liuxin
-16059|1|en|Yebisu Celebrities 1st
+16059|1|x-jat|Yebisu Celebrities 1st
 16059|4|ja|YEBISUセレブリティーズ1st
 10596|2|tr|Yedi Ölümcül Günah
 11646|2|tr|Yedi Ölümcül Günah: Emirlerin Uyanışı
@@ -62385,7 +62404,7 @@
 1881|2|en|Young Ninja Fujimaru of the Wind
 1909|2|en|Young Tokugawa Ieyasu
 11663|2|en|Young Warriors of Koguryo
-10796|1|en|Young-sim
+10796|1|x-kot|Young-sim
 1749|2|en|Younger Sister Juice
 8402|2|en|Younger Sister Paradise!
 9898|2|en|Younger Sister Paradise! 2
@@ -71247,6 +71266,7 @@
 14043|4|th|โมบิลสูทกันดั้ม ฮาธาเวย์ส แฟลช
 720|4|th|โมบิลสูทกันดั้ม: ชาร์ เคาน์เตอร์ แอทแทค
 4366|4|th|โมบิลสูทกันดั้มซี้ด ซี.อี.73 สตาร์เกเซอร์
+18224|2|th|ไม มอเธอร์ เดอะ แอนิเมชั่น
 1554|4|th|ไม-HiME ศึกศาสตราเจ้าหญิงแห่งดวงดาว
 4567|4|th|ไม-Z-HiME-Zwei ศึกอัญมณีสาวน้อยแห่งดวงดาว
 3216|2|th|ไม-โอโตเมะ
@@ -83835,6 +83855,7 @@
 20288|4|zh-Hans|三角洲：造物主玩家
 15912|2|zh-Hans|三角窗外是黑夜
 2|2|zh-nan|三隻眼
+12957|4|zh-Hant|三顆星彩色冒險
 12957|4|zh-Hans|三颗星彩色冒险
 11441|4|ja|上京物語
 19206|3|ja|上伊那ぼたん
@@ -86800,6 +86821,7 @@
 7598|4|zh-Hans|和殿下一起 1分钟剧场
 8221|4|zh-Hans|和殿下一起～眼罩之野心～
 18209|4|zh-Hans|和班上第二可爱的女孩成为朋友
+10932|4|zh-Hant|和諧
 18824|4|zh-Hans|和雨．和你
 19266|4|zh-Hans|和青梅竹马之间不会有恋爱喜剧
 7477|4|ja|咎狗の血
@@ -92947,6 +92969,7 @@
 18154|3|ja|歴悪
 16904|4|ja|死と処女
 15840|4|ja|死にぞこない係長
+16042|4|ja|死ぬならこんな場所でがいい
 3302|2|zh-Hans|死亡代理人
 9253|4|zh-Hans|死亡台球
 19209|4|zh-Hant|死亡帳號
