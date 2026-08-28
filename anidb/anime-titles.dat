@@ -1,4 +1,4 @@
-# created: Thu Aug 27 03:00:02 2026
+# created: Fri Aug 28 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -6895,6 +6895,7 @@
 796|2|x-jat|Boku no Sekuhara
 796|1|x-jat|Boku no Sexual Harassment
 7340|1|x-jat|Boku no Son Gokuu
+20322|1|x-jat|Boku no Suki na Hito ga Suki na Hito
 14393|1|x-jat|Boku no Tonari ni Ankoku Hakaishin ga Imasu.
 18518|1|x-jat|Boku no Tsuma wa Kanjou ga Nai
 7014|1|x-jat|Boku no Umareta Hi
@@ -10634,6 +10635,8 @@
 9307|2|ko|D.C 다 카포 3
 837|3|x-jat|D.C.
 2832|4|ja|D.C. ~ダ・カーポ~ セコンドシースン
+837|2|zh-Hant|D.C. ～戀愛學園～
+837|2|zh-Hant|D.C. ～青春戀歌～
 7986|1|x-jat|D.C. I&II P.S.P. Re-Animated
 5419|1|x-jat|D.C. II: Da Capo II
 2832|3|x-jat|D.C. S.S.
@@ -14221,7 +14224,7 @@
 623|4|fr|Dragon PinK
 623|4|en|Dragon Pink
 623|2|en|Dragon Pink: Tale of Three Kitties
-18671|2|en|Dragon Prince Yuan
+18671|4|en|Dragon Prince Yuan
 2091|4|ja|DRAGON QUEST
 2091|1|x-jat|Dragon Quest
 1105|4|es|Dragon Quest - Las aventuras de Fly
@@ -29751,6 +29754,7 @@
 16831|1|x-jat|Konu to Tanoshii Otomodachi
 19139|1|x-jat|Koori no Jouheki
 20168|1|x-jat|Koori no Jouheki (2026)
+19139|2|x-jat|Koori no Jyōheki
 10787|1|x-jat|Koori no Kuni no Misuke
 17473|1|x-jat|Koori Zokusei Danshi to Cool na Douryou Joshi
 3677|4|pl|Kopciuszek
@@ -37829,6 +37833,7 @@
 9140|2|en|My Coffee Samurai: A Vending Machine Boyfriend
 5188|2|en|My Condolences, Niniomiya-kun
 9430|2|en|My Cranky Maid Is Very Horny
+20322|2|en|My Crush`s Crush
 13588|2|en|My Cultivator Girlfriend
 1955|4|en|My Daddy Long Legs
 18285|4|en|My Daemon
@@ -37858,6 +37863,7 @@
 13217|4|en|My Girlfriend Is Shobitch
 13515|2|en|My Girlfriend Is Shobitch OAD
 13217|4|fr|My Girlfriend Is Too Much to Handle
+20323|4|en|My Grave Nourishes My Cultivation
 17304|4|en|My Happy Marriage
 17304|4|tr|My Happy Marriage
 17304|4|tl|My Happy Marriage
@@ -37963,6 +37969,7 @@
 16030|4|en|My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!
 17308|2|en|My Journey in an Alternate World
 17308|2|en|My Journey To Another World
+20324|2|en|My Junior Uncle Cannot Be This Strong
 13639|1|x-jat|My Last Day
 17653|2|en|My Lewd Skill Makes Me OP Even at Level 1
 10144|1|x-jat|My Life
@@ -38107,6 +38114,7 @@
 12077|4|en|My Teen Romantic Comedy: SNAFU Too! - Undoubtedly, Girls Are Made of Sugar, Spice, and Everything Nice
 9310|2|en|My Teenage RomCom SNAFU
 17670|4|en|My Tiny Senpai
+20323|2|en|My Tomb Can Nourish Cultivation
 14069|2|en|My Tyrano Together, Forever
 17353|4|en|My Unique Skill Makes Me OP Even at Level 1
 12266|2|en|My Very Own Hero
@@ -38120,6 +38128,7 @@
 10970|4|en|My Wife Is the Student Council President
 11743|2|en|My Wife Is the Student Council President! Student Council President and Bath Play
 11901|4|en|My Wife Is the Student Council President+!
+20324|4|en|My Young Master-Uncle Couldn`t Be This Powerful
 8794|2|en|My Younger Sister: Little Devil with an A Cup
 728|2|en|My Youth in Arcadia
 726|2|en|My Youth in Arcadia: Endless Road SSX
@@ -40410,6 +40419,7 @@
 14798|3|x-jat|OchiFuru
 14798|1|x-jat|Ochikobore Fruit Tart
 7978|3|x-jat|ochinko
+20321|1|x-jat|Ochiru Pato Tsuma Toshishita Otoko to no Jouji ni Oboreta Hate ni...
 6867|1|x-jat|Ochou Fujin no Gensou
 2706|4|ro|Ocolul pământului în 80 de zile cu Willy Fog
 3578|2|en|Octopus Dumpling Mantleman
@@ -44838,6 +44848,7 @@
 17433|1|x-jat|Pui Pui Molcar: Driving School
 16007|4|ja|PUI PUI モルカー
 17433|4|ja|PUI PUI モルカー DRIVING SCHOOL
+16007|4|zh-Hant|PUI PUI 天竺鼠車車
 17433|4|zh-Hant|PUI PUI 天竺鼠車車 駕訓班篇
 17433|3|zh-Hans|PUI PUI 天竺鼠车车 DRIVING SCHOOL
 14481|4|cs|Půjčovna masa: Nové pouzdro
@@ -53337,7 +53348,7 @@
 9320|4|tr|Tai Chi Avcıları
 9320|1|x-jat|Tai Chi Chasers
 9320|2|x-jat|Tai Chi Senjimon
-20233|1|x-zht|Tai Gu Shen Zun
+20233|2|x-zht|Tai Gu Shen Zun
 16875|1|x-zht|Tai Lyu
 18389|1|x-zht|Tai Yi Jian Xian Chuan
 15541|1|x-zht|Tai Yi Xian Mo Lu Zhi Ling Fei Ji
@@ -53350,7 +53361,7 @@
 11186|1|x-jat|Taifuu no Noruda
 10598|3|x-jat|taigak
 20233|2|x-zht|Taigu Shen Zun
-20233|2|x-zht|Taigu Shenzun
+20233|1|x-zht|Taigu Shenzun
 18449|1|x-zht|Taigu Xing Shen Jue
 19294|1|x-zht|Taigu Zhan Hun
 2408|1|x-jat|Taiheiyou ni Kakeru Niji
@@ -54970,6 +54981,7 @@
 12359|4|en|The Dragon Dentist
 12359|4|it|The Dragon Dentist
 12359|4|fr|The Dragon Dentist
+18671|2|en|The Dragon Prince
 19750|2|en|The Dragon Spirit
 7209|4|en|The Dream Machine
 17726|4|en|The Dreaming Boy is a Realist
@@ -60759,6 +60771,7 @@
 582|3|x-jat|wkreuz ova
 226|3|x-jat|wkreuz s2
 20102|1|x-zht|Wo Ba Mori Shang Jiao Geile Guojia
+20323|1|x-zht|Wo De Fenzhong Neng Ziyang Xiuwei
 14029|1|x-zht|Wo De Ni Tian Shenqi
 14029|2|x-zht|Wo De Nitian Shenqi
 19269|1|x-zht|Wo De Shixiong Tai Qiang Le
@@ -60808,6 +60821,7 @@
 16751|1|x-zht|Wojia Da Shixiong Shi Ge Fanpai
 15838|1|x-zht|Wojia Da Shixiong Shige Fanpai
 13647|2|zh|Wǒjiā túdì yòu guàle
+20324|1|x-zht|Wojia Xiao Shishu Bukeneng Zheme Qiang
 3513|4|pl|Wojna planet
 1385|2|pl|Wojownicy Maris
 127|4|pl|Wojowniczki z Krainy Marzeń
@@ -81924,6 +81938,7 @@
 4544|4|ja|ぼくのぴこ
 1489|4|ja|ぼくのマリー
 327|4|ja|ぼくの地球を守って
+20322|4|ja|ぼくの好きな人が好きな人
 7340|4|ja|ぼくの孫悟空
 11044|4|ja|ボクの弥生さん
 17974|4|ja|ぼくの恋
@@ -84884,6 +84899,8 @@
 11526|4|zh-Hans|偶像活动Stars! 剧场版
 1154|4|zh-Hans|偶像计划
 9457|4|zh-Hans|偷·窥·的·小·洞
+10475|2|zh-Hant|偽姬日常
+10475|4|zh-Hant|偽姬物語
 9903|4|zh-Hant|偽戀
 8658|4|ja|偽物語
 8658|4|zh-Hant|偽物語
@@ -84976,6 +84993,8 @@
 10288|4|ja|僕らはみんな河合荘
 14635|4|ja|僕らまだアンダーグラウンド
 16706|3|ja|僕愛
+16706|4|zh-Hant|僕愛君愛：致我深愛的每個妳
+16707|4|zh-Hant|僕愛君愛：致深愛妳的那個我
 4441|4|ja|僕等がいた
 11292|3|ja|僕街
 12760|4|ja|僧侶と交わる色欲の夜に...
@@ -85166,6 +85185,7 @@
 7577|2|zh|公主恋人！西尔维娅篇
 6438|4|zh-Hant|公主戀人
 18082|2|zh-Hant|公主殿下，的時間到了
+640|2|zh-Hant|公主流浪記
 4240|2|zh-Hans|公主请小心
 15690|4|zh-Hans|公主连结 Re:Dive 第二季
 17670|4|zh-Hant|公司的小小前輩
@@ -85250,6 +85270,7 @@
 17723|4|zh-Hant|再見，地球
 18862|4|zh-Hant|再見，地球 第二季
 16418|2|zh-Hans|再見了，橡果兄弟！
+16418|4|zh-Hant|再見了，橡果兄弟！－奇蹟的暑假－
 19337|4|zh-Hant|再見星上人
 18643|4|zh-Hant|再見菈菈
 332|4|zh|再見螢火蟲
@@ -85612,6 +85633,7 @@
 5419|2|zh-Hans|初音岛II
 5652|4|zh-Hans|初音岛II 第二季
 9307|4|zh-Hans|初音岛III
+837|2|zh-Hant|初音島
 18124|4|zh-Hans|判处勇者刑 惩罚勇者9004队刑务纪录
 18124|2|zh-Hant|判處勇者刑
 8334|4|ja|別にアンタの為に大きくなったんじゃないんだからねっ!!
@@ -85975,6 +85997,7 @@
 9384|4|ja|劇場版 銀魂 完結篇 万事屋よ永遠なれ
 7177|4|ja|劇場版 銀魂 新訳紅桜篇
 2359|4|ja|劇場版 鋼の錬金術師 シャンバラを征[ゆ]く者
+18324|4|zh-Hant|劇場版 鏈鋸人 蕾潔篇
 16776|4|zh-Hant|劇場版 關於我轉生變成史萊姆這檔事 紅蓮之絆篇
 18333|4|ja|劇場版 陰の実力者になりたくて! 残響編
 11747|4|ja|劇場版 響け! ユーフォニアム ~北宇治高校吹奏楽部へようこそ~
@@ -86983,6 +87006,7 @@
 15287|4|zh-Hant|喬瑟與虎與魚群
 18225|4|zh-Hant|單人房、日照一般、附天使。
 10023|4|zh-Hant|單色小姐
+12803|4|zh-Hant|單蠢女孩
 10507|4|ja|喰ヒ人
 10507|4|zh-Hans|喰客
 6113|4|ja|喰霊 -零-
@@ -87305,6 +87329,7 @@
 17946|2|zh-Hant|堀與宮村 -piece-
 5002|4|ja|堅々獄夫婦庭訓
 14906|4|ja|堕ちモノRPG 聖騎士ルヴィリアス
+20321|4|ja|堕ちるパート妻 年下男との情事に溺れた果てに...
 6162|4|ja|堕天使たちの狂宴
 883|4|ja|堕楽
 18378|4|zh-Hans|堕玄师
@@ -88939,6 +88964,7 @@
 11153|4|zh-Hans|小恐龙阿贡 第二季
 17284|2|zh-Hans|小恶魔之约
 10160|4|ja|小悪魔カノジョ THE ANIMATION
+14630|4|zh-Hant|小惡魔女在街角
 19196|4|zh-Hans|小手指同学，请别乱摸
 19196|4|zh-Hant|小手指同學，請別亂摸
 14834|4|zh-Hans|小明和王猫
@@ -89545,6 +89571,7 @@
 12290|4|zh-Hant|廢天使加百列
 13300|4|zh-Hant|廢柴王子
 17506|4|zh-Hant|廢棄之城
+640|4|zh-Hant|廢棄公主
 13011|4|zh-Hant|开封奇谈 (Movie)
 13010|4|zh-Hans|开封奇谈-这个包公不太行
 17358|4|zh-Hans|开局一座山
@@ -90413,6 +90440,7 @@
 13647|4|zh-Hans|我家大师兄脑子有坑
 16751|2|zh-Hans|我家大师兄脑子有坑 第二季
 15964|2|zh-Hans|我家女友可不止可爱呢
+20324|4|zh-Hans|我家小师叔不可能这么强
 16512|2|zh-Hans|我家师傅没有尾巴
 16512|2|zh-Hant|我家師傅沒有尾巴
 5557|2|zh-Hans|我家有个狐仙大人
@@ -90478,6 +90506,7 @@
 19238|4|zh-Hans|我的可爱对黑岩目高不管用 第二季
 19676|4|zh-Hans|我的同学是美人鱼
 19677|4|zh-Hans|我的同学是美人鱼 第二季
+20323|4|zh-Hans|我的坟冢能滋养修为
 13588|4|zh|我的天劫女友
 2533|4|zh|我的女神
 27|2|zh-Hans|我的女神
@@ -90517,6 +90546,7 @@
 8522|2|zh-Hans|我的朋友很少OAD
 5575|2|zh-Hans|我的狐仙女友
 6787|4|zh-Hans|我的狐仙女友 ～真夏的大谢肉祭～
+6787|4|zh-Hant|我的狐仙女友 OVA 盛夏的狂歡節
 17362|4|zh-Hans|我的百合乃工作是也！
 9787|4|zh-Hans|我的脑内恋碍选项
 11739|4|zh-Hans|我的英雄学院
@@ -90553,6 +90583,7 @@
 15415|4|zh-Hant|我立於百萬生命之上
 10970|4|zh-Hans|我老婆是学生会长
 11901|4|zh-Hans|我老婆是学生会长!+!
+10970|4|zh-Hant|我老婆是學生會長
 18953|4|zh-Hans|我能无限顿悟
 5435|4|zh-Hans|我自己；你自己
 18491|4|zh-Hant|我與尼特女忍者的莫名同居生活
@@ -91087,7 +91118,9 @@
 7294|4|zh-Hans|文学少女 今日的点心～初恋～
 6959|4|zh-Hans|文学少女 剧场版
 13135|4|ja|文学少年の憂鬱
+6959|4|zh-Hant|文學少女 劇場版
 6839|4|ja|文福茶釜
+11965|4|zh-Hant|文豪 Stray Dogs 第二季
 15602|4|zh-Hant|文豪Stray Dogs 汪！
 11523|4|ja|文豪ストレイドッグス
 11965|4|ja|文豪ストレイドッグス (2016)
@@ -92634,6 +92667,7 @@
 11804|4|zh-Hant|槍彈辯駁3 -The End of 希望峰學園- 未來篇
 12035|4|zh-Hant|槍彈辯駁3 -The End of 希望峰學園- 絕望篇
 2839|4|zh-Hant|槍與劍
+9088|2|zh-Hant|樂園追放 -Expelled from Paradise-
 1610|2|zh-Hant|樓梯 ~放課後之影集~
 7670|4|zh-Hans|模型战士高达模型制作家 起始G
 7670|2|ja|模型戦士 ガンプラ ビルダーズ ビギニングG
@@ -95110,6 +95144,7 @@
 13348|4|zh-Hant|砲彈剋星
 10426|4|zh-Hans|破刃之剑
 7103|4|zh-Hans|破刃之剑 剧场版
+7103|2|zh-Hant|破刃之劍劇場版
 7103|2|zh-Hans|破剑之刃
 301|4|ja|破壊魔定光
 5533|2|zh-Hans|破天荒游戏
@@ -95751,6 +95786,7 @@
 4364|4|zh-Hant|紅孩兒: 決戰火焰山
 4364|2|zh-Hant|紅孩兒大話火焰山
 11815|4|ja|紅殻のパンドラ GHOST URN
+11815|2|zh-Hant|紅殼的潘朵拉
 1466|4|ja|紅狼
 1345|4|ja|紅蓮
 306|4|zh|紅豬
@@ -95761,6 +95797,7 @@
 10759|4|ja|純情ロマンチカ 3
 6073|4|ja|純情ロマンチカ2
 9940|4|ja|純情少女エトセトラ
+49|2|zh-Hant|純情房東俏房客 Again
 16905|4|ja|純情銃撃コスプレ少女
 11061|4|ja|純愛まにあっく Pure Love Maniac
 10178|4|ja|純潔のマリア
@@ -95840,6 +95877,7 @@
 13728|4|ja|結城友奈は勇者である -鷲尾須美の章- (2017)
 15577|4|ja|結城友奈は勇者である ちゅるっと!
 12543|4|ja|結城友奈は勇者部所属
+10750|4|zh-Hant|結城友奈是勇者
 15665|2|zh-Hans|結城友奈是勇者 大滿開之章
 17984|4|ja|結婚するって, 本当ですか
 17826|4|ja|結婚指輪物語
@@ -97101,6 +97139,7 @@
 13965|4|zh-Hans|行星与共
 3977|2|zh-Hans|行运超人
 4161|2|zh-Hans|街角的童话
+14630|2|zh-Hant|街角的魔族女孩
 14630|4|zh-Hans|街角魔族
 15702|4|zh-Hans|街角魔族 2丁目
 15702|2|zh-Hans|街角魔族 第二季
@@ -98643,6 +98682,7 @@
 793|4|ja|間の楔
 6303|4|ja|間の楔 (2012)
 17061|3|zh-Hant|間諜家家酒
+17979|2|zh-Hant|間諜教室 第二季
 17026|4|zh-Hant|閣樓的拉傑
 6099|4|ja|閻魔國 アンダーワールド
 7235|2|ja|闇のパープル・アイ
@@ -98936,6 +98976,7 @@
 3495|4|ja|雲にのる
 469|4|ja|雲のむこう, 約束の場所
 502|4|ja|雲のように風のように
+469|4|zh-Hant|雲之彼端，約定的地方
 254|4|zh-nan|雲海歷險
 1879|4|ja|雲界の迷宮ZEGUY
 6712|4|ja|雲雀の宿替
