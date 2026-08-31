@@ -1,4 +1,4 @@
-# created: Sun Aug 30 03:00:01 2026
+# created: Mon Aug 31 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -7474,6 +7474,7 @@
 12073|4|en|Buddhacharita
 12896|2|en|Buddhist Animation: Other Bodhisattva Buddha Tact Chapter
 12073|2|en|Buddhist Sutra Stories
+20328|4|en|Buddies for Bud
 10291|4|en|Buddy Complex
 10291|1|x-jat|Buddy Complex
 10291|4|zh-Hans|BUDDY COMPLEX
@@ -16113,6 +16114,7 @@
 19897|2|en|Fabulous Beasts 5
 20248|2|en|Fabulous Beasts 6
 20248|2|en|Fabulous Beasts 6th Season
+16628|2|en|Face King
 17349|2|en|Face on Lie
 1088|2|en|Faceless Moon
 1063|2|pt-BR|Fada Egoísta Mirumo de Pon!
@@ -24092,6 +24094,7 @@
 16726|1|x-zht|Huoli Shaonian Wang 3
 15184|1|x-zht|Huoli Shaonian Wang: You Quan Yingxiong
 18233|1|x-zht|Huoli Shaonian Wang: You Quan Yingxiong 2
+20327|1|x-zht|Huoxing Xi Lu 7 Hao
 13526|3|x-jat|hupc
 3472|4|et|Hüppamine
 3307|1|x-jat|Hurdle
@@ -28805,6 +28808,7 @@
 3642|2|en|King Kong: The Animated Series
 3642|2|en|King Kong: The Animation
 3642|2|en|King Kong: The Anime Series
+16628|2|en|King of Appearance
 555|4|de|King of Bandit Jing
 555|4|en|King of Bandit Jing
 1371|2|en|King of Bandit Jing in 7th Heaven OVA
@@ -39666,6 +39670,7 @@
 20011|2|x-zht|Nitian Xie Shen S2
 20011|1|x-zht|Nitian Xie Shen: Nian Fan
 16583|2|x-zht|Nitian Zhizun
+20326|1|x-zht|Niu Lai
 18772|1|x-jat|Niwatori Fighter
 15360|1|x-zht|Nizhuan Ciyuan: AI Jueqi
 13345|3|x-jat|njns
@@ -39742,6 +39747,7 @@
 9801|4|fr|No-Rin
 8210|2|ja|No. 6
 8210|4|en|No. 6
+20327|4|en|No. 7 West Mars St.
 8210|4|ko|No.6
 8210|1|x-jat|No.6
 8210|4|ja|NO.6
@@ -48392,6 +48398,7 @@
 1307|2|en|Sea of Stars
 4989|4|en|Sea Prince and the Fire Child
 6402|2|en|Sea Story
+20287|2|en|Seal The Heaven Covenant
 12596|2|fr|Séance redevable
 5985|2|en|Search for Uranus
 21|2|en|Searching for the Full Moon
@@ -58253,6 +58260,7 @@
 13814|1|x-zht|Tu Xia Chuanqi
 13815|1|x-zht|Tu Xia: Qing Li Chuanshuo
 1431|3|en|tuabw
+20328|1|x-zht|Tuanzimen de Shiming
 18948|1|x-zht|Tudi Ge Ge Shi Da Lao
 4151|4|et|Tüdruk, kes hüppas läbi aja
 14534|4|et|Tüdruk, kes muutis ilma
@@ -61732,6 +61740,7 @@
 1093|3|x-jat|yamitoboushi
 17074|1|x-jat|Yamitsuki Mura: Melty Limit The Animation
 16806|1|x-jat|Yamitsuki Pheromone The Animation
+16628|2|x-zht|Yan Wang
 16628|1|x-zht|Yan Wang: Guai Hualang
 8368|1|x-jat|Yan`yan Machiko
 8807|1|x-jat|Yanase Takashi Marchen Gekijou
@@ -83654,7 +83663,9 @@
 10200|4|zh-Hans|一年级大个子二年级小个子
 19661|4|ja|一式さんは恋を知りたい.
 14234|4|zh-Hans|一弦定音!
+14234|4|zh-Hant|一弦定音！
 14553|4|zh-Hans|一弦定音！第二季
+14553|4|zh-Hant|一弦定音！第二季
 15693|4|zh-Hans|一念永恒
 16619|4|zh-Hans|一念永恒 传承篇
 20207|4|zh-Hans|一念永恒 完结季
@@ -86610,12 +86621,34 @@
 10953|4|zh-Hant|名偵探柯南 業火的向日葵
 11753|4|zh-Hant|名偵探柯南 純黑的惡夢
 9505|4|zh-Hant|名偵探柯南 絕海的偵探
+18219|4|zh-Hant|名偵探柯南：100萬美元的五稜星
+2646|4|zh-Hant|名偵探柯南：世紀末的魔術師
+4187|4|zh-Hant|名偵探柯南：偵探們的鎮魂歌
 12564|4|zh-Hant|名偵探柯南：唐紅的戀歌
+7250|4|zh-Hant|名偵探柯南：天空的劫難船
+304|4|zh-Hant|名偵探柯南：引爆摩天樓
+1065|4|zh-Hant|名偵探柯南：往天國的倒數計時
+5934|4|zh-Hant|名偵探柯南：戰慄的樂譜
+2763|4|zh-Hant|名偵探柯南：水平線上的陰謀
+8121|4|zh-Hant|名偵探柯南：沉默的15分鐘
+6245|4|zh-Hant|名偵探柯南：漆黑的追跡者
 16841|2|zh-Hant|名偵探柯南：犯人・犯沢先生
 16841|4|zh-Hant|名偵探柯南：犯人・犯澤先生
 19025|4|zh-Hant|名偵探柯南：獨眼的殘像
+10290|4|zh-Hant|名偵探柯南：異次元的狙擊手
+2647|4|zh-Hant|名偵探柯南：瞳孔中的暗殺者
+17009|4|zh-Hant|名偵探柯南：萬聖節的新娘
+2645|4|zh-Hant|名偵探柯南：第14號獵物
+4937|4|zh-Hant|名偵探柯南：紺碧之棺
 14520|4|zh-Hant|名偵探柯南：紺青之拳
+15999|4|zh-Hant|名偵探柯南：緋色的不在場證明
+14886|4|zh-Hant|名偵探柯南：緋色的彈丸
+867|4|zh-Hant|名偵探柯南：貝克街的亡靈
+2052|4|zh-Hant|名偵探柯南：迷宮的十字路
+2328|4|zh-Hant|名偵探柯南：銀翼的奇術師
+13605|4|zh-Hant|名偵探柯南：零的執行人
 16842|4|zh-Hant|名偵探柯南：零的日常
+17334|4|zh-Hant|名偵探柯南：黑鐵的魚影
 10132|4|ja|名前... それは燃えるいのち
 14849|4|ja|名探偵ゴードン
 266|4|ja|名探偵コナン
@@ -87099,6 +87132,7 @@
 8485|2|zh-Hant|因果日記
 16826|2|zh-Hant|因為是反派大小姐所以養了魔王
 17172|4|zh-Hans|团团奇米莫
+20328|4|ja|团子们的使命
 9625|4|ja|団地ともお
 10735|4|ja|団子兵衛捕物帖 開けーごまの巻
 933|2|ja|囮捜査官ケイト~牝犬~
@@ -93705,6 +93739,7 @@
 8312|4|zh-Hans|火影忍者疾风传 剧场版 血狱
 10439|4|zh-Hans|火星异种
 11493|4|zh-Hans|火星异种 REVENGE
+20327|4|zh-Hans|火星西路7号
 2859|2|zh-Hans|火枪手小红帽
 13348|2|zh-Hant|火炮剋星
 1471|4|zh-Hans|火焰之纹章
@@ -99266,6 +99301,7 @@
 20201|4|zh-Hans|顾长歌：我！天命大反派
 18194|4|zh-Hans|颂乐人偶
 14646|4|zh|领风者
+16628|2|zh-Hans|颜王
 16628|4|zh-Hans|颜王 -怪画廊-
 8857|2|zh-Hans|颠倒的帕特玛
 14109|4|ja|風が強く吹いている
