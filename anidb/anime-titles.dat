@@ -1,4 +1,4 @@
-# created: Mon Aug 31 03:00:01 2026
+# created: Tue Sep  1 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -829,6 +829,7 @@
 1352|1|x-jat|8 Man
 1353|1|x-jat|8 Man After
 1353|4|en|8 Man After
+20330|1|x-jat|8-gatsu 31-nichi no Long Summer
 6621|2|x-jat|8-gatsu no Symphony: Shibuya 2002-2003
 2706|2|en|80 Days Around the World With Willy Fog
 2706|4|hu|80 nap alatt a Föld körül Willy Foggal
@@ -864,6 +865,7 @@
 362|3|x-jat|8kenden
 1352|3|x-jat|8man
 217|3|en|8th Team
+20330|4|ja|8月31日のロングサマー
 6621|4|ja|8月のシンフォニー -渋谷 2002~2003
 18660|2|x-jat|9 -Nine-
 3354|2|en|9 Love Stories
@@ -4754,6 +4756,7 @@
 12569|4|tr|BAKI (2018)
 12569|4|vi|BAKI (2018)
 14772|1|x-jat|Baki (2020)
+20331|1|x-jat|Baki Gaiden: Retsu Kaiou wa Isekai Tensei Shitemo Ikkou ni Kamawan!
 15737|4|en|Baki Hanma
 15737|4|da|Baki Hanma
 15737|4|nl|Baki Hanma
@@ -24540,7 +24543,8 @@
 4559|2|en|Ichigo Mashimaro OVA
 6212|2|x-jat|Ichigo Mashimaro: Encore
 19455|1|x-jat|Ichijouma Mankitsu Gurashi!
-19455|2|x-jat|Ichijyoma Mankitsu Gurashi!
+19455|4|de|Ichijouma Mankitsu Gurashi!
+19455|4|en|Ichijyoma Mankitsu Gurashi!
 2787|3|x-jat|IchiMashi
 12832|1|x-jat|Ichinen Buri no The Animation
 13813|2|x-jat|Ichinichi Gaishutsuroku Hanchou
@@ -27434,7 +27438,6 @@
 10763|3|x-jat|Kamihaji S2
 15400|3|x-jat|Kamihiro
 16364|3|x-jat|kamihiro s2
-19206|3|x-jat|kamiina botan
 19206|1|x-jat|Kamiina Botan, Yoeru Sugata wa Yuri no Hana
 17337|3|x-jat|kamikatsu
 17337|4|pt-BR|KamiKatsu: Atividades Divinas em um Mundo sem Deuses
@@ -29175,7 +29178,6 @@
 13128|1|x-jat|KiyaKiya
 15476|4|en|Kiyo in Kyoto: From the Maiko House
 16918|1|x-jat|Kiyo Neko
-19190|3|x-jat|kiyoubinbou
 19143|1|x-jat|Kizetsu Yuusha to Ansatsu Hime
 2246|2|pl|Kizia i Mizia
 11692|1|x-jat|Kiznaiver
@@ -38096,6 +38098,7 @@
 13534|4|en|My Sister, My Writer
 8794|2|en|My Sister`s Devilish A Cup
 6842|2|en|My Ski Trip
+7340|4|en|My Son Goku
 15304|2|en|My Son`s First Wife
 17128|4|ja|My song
 17128|1|x-jat|My Song
@@ -40290,6 +40293,8 @@
 18427|2|pt|O Mago Mais Forte do Exército do Lorde Demónio era um Humano
 14512|4|en|O Maidens in Your Savage Season
 1044|4|es-GA|O máis forte do mundo
+8338|4|pt|O Manual Secreto dos Seios Demoníacos
+8338|2|pt-BR|O Manual Secreto dos Seios Demoníacos
 1916|4|pt-BR|O Menino Biônico
 10967|2|pt-BR|O Menino e a Besta
 13545|4|pt-BR|O Menino e a Garça
@@ -43699,6 +43704,7 @@
 11462|2|en|Pokemon XY: The Archdjinni Hoopa, Appear!
 11842|2|en|Pokemon XY&Z the Movie: Volcanion and the Exquisite Magearna
 990|4|el|Pokémon η ταινία - Ο Mewtwo αντεπιτίθεται
+20329|4|ja|Pokémon ワイルドカード
 14993|4|da|Pokémon-filmen: Junglens hemmeligheder
 12407|4|pt|Pokémon, A Série: Sol & Lua
 11585|4|pt|Pokémon, a Série: XYZ
@@ -43851,6 +43857,8 @@
 15309|4|en|Pokemon: Twilight Wings
 15309|2|en|Pokémon: Twilight Wings
 11842|4|pl|Pokémon: Volcanion i mechaniczny zachwyt
+20329|1|x-jat|Pokemon: Wild Card
+20329|2|en|Pokemon: Wild Card
 990|2|pl|Pokémon: Zemsta Mewtwo
 14215|4|pl|Pokémon: Zemsta Mewtwo – Ewolucja
 7257|4|de|Pokémon: Zoroark - Meister der Illusionen
@@ -45419,7 +45427,6 @@
 19009|2|en|Rakshasa Street 4th Season
 16372|2|en|Rakshasa Street II
 19009|2|en|Rakshasa Street Ⅳ
-19896|3|x-jat|rakudai kenja
 19896|1|x-jat|Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S Rank Cheat Majutsushi Bouken Roku
 11126|1|x-jat|Rakudai Kishi no Cavalry
 11126|2|x-jat|Rakudai Kishi no Eiyuutan
@@ -47270,7 +47277,6 @@
 19763|1|x-jat|Saijaku Tamer wa Gomi Hiroi no Tabi o Hajimemashita. 2
 17712|2|x-jat|Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.
 17712|3|x-jat|saijakutamer
-19690|3|x-jat|saijo no osewa
 19690|1|x-jat|Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) o Kagenagara Osewa Suru Koto ni Narimashita
 113|4|en|Saikano
 113|4|pt-BR|Saikano
@@ -55608,6 +55614,8 @@
 19180|2|en|The Long Ballad
 19517|2|en|The Long March Toward the Universe
 19517|2|en|The Long March Towards the Stars
+20330|2|en|The Long Summer of August 31
+20330|2|en|The Long Summer of August 31st
 11863|4|en|The Lost Village
 14395|2|en|The Love That I Feel for You
 15144|2|en|The Low Tier Character "Tomozaki-kun"
@@ -61674,6 +61682,7 @@
 5467|2|x-jat|Yamahime no Jitsu
 10683|3|x-jat|Yamajo
 10955|3|x-jat|yamajo TV
+20332|1|x-jat|Yamakawa Jun`ichi Anime Gekijou
 5028|1|x-jat|Yamakoshi Mura no Mari to Sanbiki no Koinu
 1299|2|en|Yamamoto Anshin Travel
 4734|2|en|Yamanade
@@ -80630,6 +80639,7 @@
 12569|4|ja|バキ (2018)
 14772|4|ja|バキ (2020)
 14772|2|ja|バキ 大擂台賽編
+20331|4|ja|バキ外伝 烈海王は異世界転生しても一向にかまわんッッ
 10659|4|ja|ばくあね 弟しぼっちゃうぞ! THE ANIMATION
 13411|4|ja|ばくあね2 弟いっぱいしぼっちゃうぞ! THE ANIMATION
 11754|2|ja|はくおうき ~おとぎそうし~
@@ -83884,7 +83894,6 @@
 12957|4|zh-Hant|三顆星彩色冒險
 12957|4|zh-Hans|三颗星彩色冒险
 11441|4|ja|上京物語
-19206|3|ja|上伊那ぼたん
 19206|4|ja|上伊那ぼたん, 酔へる姿は百合の花
 19206|4|zh-Hans|上伊那牡丹，酒醉身姿似百合花般
 18768|4|zh-Hans|上班族去了异世界后成了四天王
@@ -87069,7 +87078,6 @@
 18315|4|zh-Hans|噗妮露是可爱史莱姆
 2740|4|zh-Hant|噴嚏大魔王
 15344|4|zh-Hant|噴嚏大魔王 2020
-19190|3|ja|器用貧乏
 10842|4|zh-Hans|噬神者
 9772|4|zh-Hans|噬血狂袭
 16412|4|zh-Hans|噬血狂袭 最终季
@@ -87132,7 +87140,7 @@
 8485|2|zh-Hant|因果日記
 16826|2|zh-Hant|因為是反派大小姐所以養了魔王
 17172|4|zh-Hans|团团奇米莫
-20328|4|ja|团子们的使命
+20328|4|zh|团子们的使命
 9625|4|ja|団地ともお
 10735|4|ja|団子兵衛捕物帖 開けーごまの巻
 933|2|ja|囮捜査官ケイト~牝犬~
@@ -89256,6 +89264,7 @@
 8322|4|ja|山姫の花 真穂
 8322|2|ja|山姫の花-真穂-
 18946|4|zh-Hans|山山田田间
+20332|4|ja|山川純一アニメ劇場
 4683|2|zh|山林小猎人
 11939|2|zh-Hant|山水情
 11939|4|zh-Hans|山水情
@@ -90807,7 +90816,6 @@
 10115|4|ja|手紙
 13043|4|ja|手紙 ~拝啓 十五の君へ~
 17823|4|zh-Hans|手语！
-19690|3|ja|才女のお世話
 19690|4|ja|才女のお世話 高嶺の花だらけな名門校で, 学院一のお嬢様(生活能力皆無)を陰ながらお世話することになりました
 19690|4|zh-Hans|才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐
 19690|4|zh-Hant|才女的侍從 在滿是高嶺之花的貴族學校暗中照顧（毫無生活自理能力的）學院第一大小姐
@@ -92896,6 +92904,7 @@
 9128|4|zh-Hant|機器人筆記
 1801|4|ja|機巧奇傳 ヒヲウ戦記
 9665|4|ja|機巧少女は傷つかない
+9665|4|zh-Hant|機巧少女不會受傷
 17147|2|zh-Hant|機戰少女 Alice Expansion
 18803|4|ja|機械じかけのマリー
 18803|4|zh-Hant|機械女僕‧瑪麗
@@ -96848,7 +96857,6 @@
 332|4|zh-Hans|萤火虫之墓
 16758|4|zh-Hans|落凡尘
 19136|4|zh-Hans|落凡尘 (2024)
-19896|3|ja|落第賢者
 19896|4|ja|落第賢者の学院無双 ~二度目の転生, Sランクチート魔術師冒険録~
 11126|4|ja|落第騎士の英雄譚[キャバルリィ] A TALE OF WORST ONE
 11126|4|zh-Hans|落第骑士英雄谭
