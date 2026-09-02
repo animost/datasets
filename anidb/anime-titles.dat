@@ -1,4 +1,4 @@
-# created: Tue Sep  1 03:00:01 2026
+# created: Wed Sep  2 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -502,6 +502,7 @@
 17760|2|x-jat|2.5-jigen no Ririsa
 17760|4|ja|2.5次元の誘惑
 19047|4|ja|2.5次元の誘惑 2
+17760|4|zh-Hant|2.5次元的誘惑
 17760|4|zh-Hans|2.5次元的诱惑
 1423|4|ja|2×1
 1423|2|ja|2×1 スペシ
@@ -9403,6 +9404,7 @@
 12545|4|ko|Citrus
 12545|4|pl|Citrus
 12545|4|zh-Hans|citrus～柑橘味香气～
+12545|4|zh-Hant|Citrus~柑橘味香氣
 3610|2|en|City Boy
 20188|2|en|City God Chronicles
 942|4|ja|CITY HUNTER
@@ -17548,6 +17550,7 @@
 11022|1|x-jat|Fukubiki! Triangle: Futaba wa Atafuta - Koakuma Itazurakko no Kabedon Aika
 7375|1|x-jat|Fukubiki! Triangle: Miharu After
 7375|2|x-jat|Fukubiki! Triangle: Yoshiharu After
+20177|4|en|FukuFuku Map
 20177|1|x-jat|Fukufuku no Chizu
 12088|1|x-jat|Fukumenkei Noise
 12088|3|x-jat|fukumenkeinoise
@@ -22592,6 +22595,7 @@
 10603|1|x-jat|Hello!! Kin`iro Mosaic
 10603|2|x-jat|Hello!! Kiniro Mosaic
 10603|4|en|Hello!! Kinmoza!
+10603|4|zh-Hant|Hello!! 黃金拼圖
 10603|4|zh-Hans|Hello!! 黄金拼图
 6109|4|ja|HELLS
 6109|1|x-jat|Hells
@@ -25752,6 +25756,7 @@
 8334|2|en|It is not like I grew up like this just for you
 3406|2|en|It Rained Fire
 20073|2|en|It Starts with a Kingpin Account
+17358|2|en|It Starts with a Mountain
 4152|4|en|It`s a Family Affair
 12984|1|x-jat|It`s a Rumic World: 50th Anniversary Weekly-Shonen Sunday
 12984|4|ja|It`s a Rumic World: 50th Anniversary Weekly-Shonen Sunday
@@ -32369,6 +32374,7 @@
 17759|4|pl|Lookism
 18164|1|x-jat|Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuukimama na Hanayome Seikatsu o Mankitsu Suru
 18164|3|x-jat|loop7
+20333|2|en|Loosen Up
 14573|2|en|Lord El-Melloi II Case Files
 14580|2|x-jat|Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note
 14573|2|x-jat|Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi
@@ -34236,6 +34242,7 @@
 258|3|x-jat|Majikarute
 8230|3|x-jat|Majikoi
 8230|4|en|Majikoi: Oh! Samurai Girls!
+20333|1|x-jat|Majime na Kimi ni Hamaru Karada The Animation
 3584|1|x-jat|Majime ni Fumajime Kaiketsu Zorori
 4319|1|x-jat|Majime ni Fumajime Kaiketsu Zorori: Nazo no Otakara Daisakusen
 8724|1|x-jat|Majime ni Fumajime Kaiketsu Zorori: Uchuu Tanken Daisakusen
@@ -83724,6 +83731,7 @@
 8068|4|zh-Hans|一起洗澡吧
 7295|4|zh-Hans|一起睡觉吧
 7999|4|ja|一輪者 ICHIRIN-SHA
+10273|4|zh-Hant|一週的朋友。
 10273|4|ja|一週間フレンズ.
 618|4|ja|一騎当千
 4870|4|ja|一騎当千 Dragon Destiny
@@ -83906,6 +83914,7 @@
 18000|4|ja|下の階には澪がいる
 6103|2|zh-Hans|下一站巨星
 10888|2|zh-Hans|下流梗不存在的灰暗世界
+10888|4|zh-Hant|下流梗不存在的灰暗世界
 1166|4|ja|下級生
 1090|4|ja|下級生 (1999)
 1166|2|ja|下級生 MY PRETTY CLASS STUDENT
@@ -83954,6 +83963,7 @@
 19141|4|zh-Hans|不擅吸血的吸血鬼
 17914|4|zh-Hans|不时用俄语小声说真心话的邻桌艾莉同学
 17914|2|zh-Hans|不时轻声地以俄语遮羞的邻座艾莉同学
+17914|4|zh-Hant|不時輕聲地以俄語遮羞的鄰座艾莉同學
 16505|4|zh-Hant|不會拿捏距離的阿波連同學
 18798|4|zh-Hant|不會拿捏距離的阿波連同學 第二季
 11924|4|ja|不機嫌なモノノケ庵
@@ -84209,6 +84219,7 @@
 6721|2|zh-Hans|乃木坂春香的秘密 purezza
 17360|4|ja|久保さんは僕を許さない
 17360|4|zh-Hans|久保同学不放过我
+17360|4|zh-Hant|久保同學不放過我
 11918|4|zh-Hans|乌冬面之国的金色毛毬
 18253|4|zh-Hans|乌鸦不择主
 1824|4|zh-Hans|乌龙派出所
@@ -84347,6 +84358,7 @@
 1480|4|ja|亜空大作戦 スラングル
 1230|4|ja|亜紀子
 11577|4|zh-Hant|亞人
+12374|4|zh-Hant|亞人醬有話要說
 5842|4|ja|亡念のザムド
 5842|2|zh-Hans|亡念的扎穆德
 5549|2|zh-Hans|亡者之信
@@ -84586,6 +84598,7 @@
 2238|4|ja|仰天人間バトシーラー
 3573|2|zh-Hans|仰望半月之空
 3573|2|zh-Hans|仰望半月的夜空
+3573|4|zh-Hant|仰望半月的夜空
 6263|2|zh-Hans|仰望天空的少女瞳孔中所映照的世界
 16773|4|zh-Hans|任务大师
 11498|2|zh-Hant|任性High-Spec
@@ -84725,6 +84738,7 @@
 12681|4|zh-Hant|來自深淵
 15359|2|zh-Hant|來自深淵 烈日的黃金鄉
 8141|4|zh-Hant|來自紅花坂
+13925|4|zh-Hant|來自繽紛世界的明日
 9387|4|zh-Hant|來自風平浪靜的明日
 16377|4|zh-Hans|例外
 16377|4|zh-Hant|例外
@@ -84774,6 +84788,7 @@
 8294|2|ja|侵略!?イカ娘
 5970|2|zh-Hans|侵袭魔女
 8292|4|zh-Hans|便·当
+8292|4|zh-Hant|便·當
 17140|4|ja|便利屋斎藤さん, 異世界に行く
 13117|4|zh-Hans|便利店男友
 8292|2|zh-Hans|便当
@@ -85579,6 +85594,8 @@
 5189|2|zh-Hans|出租魔法使
 13172|4|ja|刀使ノ巫女
 15318|4|ja|刀使ノ巫女 刻みし一閃の燈火
+13172|2|zh-Hant|刀使之巫女
+13172|2|zh-Hant|刀使巫女
 13172|4|zh-Hans|刀使的巫女
 12031|4|zh-Hant|刀剑乱舞-花丸-
 12031|4|zh-Hans|刀剑乱舞-花丸-
@@ -86033,6 +86050,7 @@
 8778|4|zh-Hant|劇場版 魔法少女小圓
 18720|4|ja|劇場版 魔法科高校の劣等生 四葉継承編
 11980|4|ja|劇場版 魔法科高校の劣等生 星を呼ぶ少女
+15450|4|zh-Hant|劇場版 黃金拼圖 Thank you!!
 11966|4|ja|劇場版 黒子のバスケ LAST GAME
 7059|4|ja|劇場版・ペリーヌ物語
 6959|4|ja|劇場版"文学少女"
@@ -86503,7 +86521,10 @@
 16659|4|zh-Hans|只好背叛地球了
 14041|4|zh-Hans|只想受你欢迎。
 6466|4|zh-Hant|只想告訴你
+18179|4|zh-Hant|只想告訴你 第三季
+8014|4|zh-Hant|只想告訴你 第二季
 11292|4|zh-Hans|只有我不存在的城市
+11292|4|zh-Hant|只有我不存在的城市
 15557|4|zh-Hans|只有我能进入的隐藏迷宫
 7568|4|zh-Hans|只有神知道的世界
 7568|4|zh-Hant|只有神知道的世界
@@ -87086,6 +87107,9 @@
 12121|4|zh-Hans|噬血狂袭II
 13901|4|zh-Hans|噬血狂袭III
 15126|4|zh-Hans|噬血狂袭IV
+9772|4|zh-Hant|噬血狂襲
+12121|4|zh-Hant|噬血狂襲 II
+13901|4|zh-Hant|噬血狂襲 III
 5610|2|zh-Hans|噬魂师
 10254|4|zh-Hant|噬魂師NOT!
 10842|2|zh-Hans|噬魂者
@@ -87138,6 +87162,8 @@
 15464|4|zh-Hans|因为太怕痛就全点防御力了。2
 16826|2|zh-Hans|因为是反派大小姐所以养了魔王
 8485|2|zh-Hant|因果日記
+15853|2|zh-Hant|因為不是命中注定的夥伴而被逐出勇者隊伍，從此到邊境過上了悠閒的隱居生活
+15853|4|zh-Hant|因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生
 16826|2|zh-Hant|因為是反派大小姐所以養了魔王
 17172|4|zh-Hans|团团奇米莫
 20328|4|zh|团子们的使命
@@ -87248,6 +87274,7 @@
 8620|4|zh-Hans|在盛夏等待
 9376|4|zh-Hans|在这世界的角落
 9465|6|zh-Hans|在远处，那天，当星星变成音乐。。。
+8620|4|zh-Hant|在那個夏天等待
 15095|4|zh-Hant|在魔王城說晚安
 15095|4|zh-Hans|在魔王城说晚安
 17480|4|zh-Hant|地。－關於地球的運動
@@ -87999,10 +88026,15 @@
 15370|4|zh|天谕 苍古之绊
 19316|4|zh-Hans|天都异录
 6658|4|zh-Hans|天降之物
+6658|4|zh-Hant|天降之物
+7950|4|zh-Hant|天降之物 桃花源（粉紅）計畫
 8271|4|zh-Hans|天降之物 计时的悲伤女神
 7628|4|zh-Hans|天降之物f
+7628|4|zh-Hant|天降之物f
 8931|4|zh-Hans|天降之物Final：永远的我的鸟笼
 14112|4|zh-Hans|天降少女！～从2层落下了少女！？～
+10525|4|zh-Hant|天體的秩序
+10525|2|zh-Hant|天體運行式
 18389|4|zh-Hans|太一剑仙传
 15541|4|zh-Hans|太乙仙魔录之灵飞纪
 16382|4|zh-Hans|太乙仙魔录之灵飞纪 第四季
@@ -88133,6 +88165,7 @@
 16106|4|zh|女他
 18344|4|zh-Hant|女僕冥土小姐
 19541|4|zh-Hant|女僕小姐的貪吃日常
+10709|4|zh-Hant|女友伴身邊
 15851|4|zh-Hans|女友成双
 17628|4|zh-Hans|女友成双 第二季
 15851|2|zh-Hant|女友成堆
@@ -88178,13 +88211,19 @@
 2111|2|ja|女淫道中
 1722|4|ja|女狼狂濡
 8528|4|zh-Hans|女王之刃
+8737|4|zh-Hant|女王之刃 叛亂
+8528|4|zh-Hant|女王之刃 叛亂 OVA
 9513|4|zh-Hans|女王之刃 战败女王
+9513|2|zh-Hant|女王之刃 戰敗女王
 12836|4|zh-Hans|女王之刃 无限
 6080|4|zh-Hans|女王之刃 流浪战士
+6080|4|zh-Hant|女王之刃 流浪戰士
+6653|4|zh-Hant|女王之刃 王位繼承者
 6653|4|zh-Hans|女王之刃 王位继承者
 6653|2|zh-Hans|女王之刃 王座继承者
 7442|4|zh-Hans|女王之刃 美丽的斗士们
 11257|4|zh-Hans|女王之刃 魔法之书
+7442|4|zh-Hant|女王之刃OVA：美麗的鬥士們
 879|2|zh-Hans|女王样SM奴隶
 879|4|ja|女王様はM奴隷
 17884|2|zh-Hant|女王的手術刀
@@ -89001,6 +89040,7 @@
 18405|4|ja|小市民シリーズ
 18864|4|ja|小市民シリーズ (2025)
 18405|4|zh-Hans|小市民系列
+18405|4|zh-Hant|小市民系列
 18864|4|zh-Hans|小市民系列 第二季
 18864|4|zh-Hant|小市民系列 第二季
 6062|3|ja|小恋
@@ -89870,6 +89910,7 @@
 292|4|zh-Hans|心跳回忆
 4384|2|zh-Hans|心跳回忆 Only Love
 2729|2|zh-Hant|心跳在今夜
+8742|2|zh-Hant|心連·情結
 4236|2|ja|心霊恐怖レポート うしろの百太郎
 7233|4|ja|心霊探偵 八雲
 11846|2|zh-Hant|心靈代碼 Qualidea Code
@@ -90284,6 +90325,8 @@
 9916|4|zh-Hant|惡魔的謎語
 8660|2|zh-Hant|惡魔高校
 8660|2|zh-Hant|惡魔高校D×D
+9409|4|zh-Hant|惡魔高校D×D NEW
+8925|4|zh-Hant|惡魔高校D×D OAD
 2514|4|zh-Hans|惩戒
 17482|3|zh-Hans|惩戒2
 11799|4|ja|想いのかけら
@@ -90791,6 +90834,7 @@
 15413|4|zh-Hant|戰翼的希格德莉法
 17703|4|zh-Hant|戰隊大失格
 15440|4|zh-Hant|戰鬥員派遣中！
+12080|4|zh-Hant|戰鬥女子學園
 11595|4|zh-Hans|房东妹子青春期
 11595|4|zh-Hant|房東妹子思春期！
 14439|4|zh-Hant|房間露營
@@ -90937,6 +90981,7 @@
 11040|4|zh-Hans|排球少年！！垃圾场决战
 14552|4|zh-Hant|排球少年！！第四季
 15283|4|zh-Hant|排球少年！！第四季 Part 2
+18303|4|zh-Hant|掙扎吧，亞當君
 13826|4|zh-Hans|掠夺者
 13826|4|zh-Hant|掠奪者
 10556|4|ja|探したのはお部屋, 見つけたのは未来
@@ -91480,6 +91525,7 @@
 16878|4|zh-Hans|新网球王子 U-17 WORLD CUP
 14551|4|zh-Hans|新网球王子 剧场版
 9508|4|zh-Hans|新蔷薇少女
+9508|4|zh-Hant|新薔薇少女
 6944|4|ja|新説カチカチ山
 1561|4|ja|新造人間キャシャーン
 18021|4|ja|新造人間ストラグルバニ
@@ -91706,6 +91752,7 @@
 171|4|ja|星方武侠アウトロースター
 782|4|zh-Hans|星星公主
 9004|4|zh-Hans|星星游乐园
+12462|4|zh-Hant|星期一的豐滿
 162|4|zh-Hans|星枪士俾斯麦
 12261|4|zh-Hans|星梦手记
 16745|4|zh-Hans|星武神诀
@@ -92389,6 +92436,7 @@
 20141|4|ja|杖と剣のウィストリア Season3
 18482|2|zh-Hans|杖与剑的魔剑谭
 18889|4|zh-Hans|杖与剑的魔剑谭 第二季
+18482|4|zh-Hant|杖與劍的魔劍譚
 7471|4|ja|杜子春
 19094|4|ja|杜子春 (1981)
 16188|4|zh-Hant|杜鵑婚約
@@ -93933,6 +93981,7 @@
 20146|4|ja|無自覚な幼馴染と興味本位でヤってみたら THE ANIMATION
 19485|3|ja|無自覚聖女
 19485|4|ja|無自覚聖女は今日も無意識に力を垂れ流す
+13038|4|zh-Hant|無論何時我們的戀情都是10厘米。
 13224|4|ja|無責任ギャラクシー☆タイラー
 18|4|ja|無責任艦長タイラー
 8733|4|ja|無責任艦長タイラー 地上より永遠に
@@ -94235,6 +94284,8 @@
 13718|4|zh-Hans|狂赌之渊 ××
 16967|4|zh-Hans|狂赌之渊：双
 9536|4|zh-Hans|狐仙的恋爱入门
+9536|4|zh-Hant|狐仙的戀愛入門
+10391|2|zh-Hant|狐仙的戀愛入門 OVA
 12119|4|zh-Hant|狐妖小紅娘
 12119|2|zh|狐妖小红娘
 13198|4|zh-Hans|狐妖小红娘
@@ -94772,6 +94823,7 @@
 17242|2|ja|異世界ヤリサー
 18295|4|ja|異世界ゆるり紀行 ~子育てしながら冒険者します~
 17248|4|ja|異世界ワンターンキル姉さん ~姉同伴の異世界生活はじめました~
+17248|4|zh-Hant|異世界一擊殺姊姊 ～姊姊同伴的異世界生活開始了～
 16936|4|ja|異世界召喚は二度目です
 14435|4|zh-Hant|異世界四重奏
 15481|2|zh-Hant|異世界四重奏 第三季
@@ -95126,6 +95178,7 @@
 636|4|zh-Hant|真珠美人魚
 16114|2|zh|真琴开发日记
 18143|4|zh-Hans|真阳武神
+20333|4|ja|真面目なキミにハマるカラダ THE ANIMATION
 7309|4|ja|真章 幻夢館
 7309|2|ja|真章・幻夢館
 6397|2|zh-Hans|真魔神Z
@@ -95221,6 +95274,8 @@
 13734|4|zh-Hant|碧藍之海
 11597|4|zh-Hant|碧藍幻想
 13524|4|zh-Hant|碧藍幻想 第二季
+14396|4|zh-Hant|碧藍航線
+15327|4|zh-Hant|碧藍航線 微速前進！
 18188|4|zh-Hant|碧藍航線 微速前進！2
 15392|4|ja|磔
 15392|2|ja|磔(ハリツケ)
@@ -96601,6 +96656,7 @@
 10559|4|ja|艶美
 1626|4|zh-Hans|艾尔菲娜~身处贱卖给淫夜的王国
 321|4|zh-Hans|艾斯嘉科尼
+14580|4|zh-Hant|艾梅洛閣下 II 世事件簿 -魔眼蒐集列車 Grace note-
 14573|4|zh-Hant|艾梅洛閣下II世事件簿 -魔眼蒐集列車 Grace note-
 5569|2|zh-Hans|艾莉森与莉莉亚
 5188|4|zh-Hans|节哀唷♥二之宫同学
@@ -96668,6 +96724,8 @@
 16737|4|zh-Hans|花果山传
 18636|4|zh-Hans|花样少年少女
 18636|4|zh-Hant|花樣少年少女
+8538|4|zh-Hant|花牌情緣
+9261|4|zh-Hant|花牌情緣 第二季
 8538|4|zh-Hans|花牌情缘
 9261|4|zh-Hans|花牌情缘 2
 13841|2|zh-Hans|花牌情缘3
@@ -97368,6 +97426,7 @@
 14400|4|zh-Hant|請問您今天要來點兔子嗎？BLOOM
 15096|4|zh-Hant|請在伸展台上微笑
 8230|2|zh|請認真的和我戀愛!!
+14514|4|zh-Hant|請讓我撒嬌，仙狐大人！
 16182|2|zh-Hant|謊言遊戲
 8853|4|ja|謎の彼女X
 8995|4|ja|謎の彼女X 謎の夏祭り
@@ -98186,6 +98245,7 @@
 2581|4|ja|遙かなる時空の中で2~白き龍の神子~
 5454|4|ja|遙かなる時空の中で3 紅の月
 7086|4|ja|遙かなる時空の中で3 終わりなき運命
+13296|4|zh-Hant|遙的接球
 2864|4|ja|遠い世界
 17391|4|ja|遠い世界に
 15985|4|ja|遠い君に, 僕は届かない
@@ -98323,6 +98383,8 @@
 9048|4|zh-Hans|金属对决 战斗陀螺 ZERO G
 4174|2|ja|金曜ロードショー オープニング映像
 18030|4|zh-Hans|金牌得主
+18030|4|zh-Hant|金牌得主
+19260|4|zh-Hant|金牌得主 第2季
 4907|4|zh|金猴降妖
 1585|4|ja|金田一少年の事件簿
 1240|4|ja|金田一少年の事件簿 (1997)
@@ -98524,6 +98586,7 @@
 15919|4|ja|鎮西八郎為朝
 17018|4|ja|鎮西八郎為朝 (2021)
 15914|4|zh|鏈鋸人
+15914|4|zh-Hant|鏈鋸人
 4931|2|zh-Hant|鏖战星球
 17219|4|zh-Hant|鏡之孤城
 11129|4|ja|鐘声色彩幻想
@@ -98791,6 +98854,7 @@
 14767|4|zh-Hant|關於我轉生變成史萊姆這檔事 第二季
 15456|4|zh-Hant|關於我轉生變成史萊姆這檔事 第二季 第2部分
 17873|2|zh-Hant|關於我轉生變成史萊姆這檔事 高里烏斯之夢
+10676|4|zh-Hant|關於聽不懂老公在說什麼這件事
 9166|4|zh-Hans|闪乱神乐
 10885|4|zh-Hans|闪乱神乐 ESTIVAL VERSUS -泳装满载的前夜祭-
 13341|4|zh-Hans|闪乱神乐 SHINOVI MASTER -东京妖魔篇-
@@ -99459,6 +99523,7 @@
 6847|4|ja|馬具田城の盗賊
 14537|4|zh-Hant|馬娘四格
 11519|4|ja|馬鹿馬鹿馬鹿な世界
+13172|2|zh-Hant|馭刀巫女
 13672|4|ja|駅メモ!
 18012|4|ja|駒田蒸留所へようこそ
 8745|4|ja|駕籠真太郎アニメ作品集
@@ -100113,6 +100178,7 @@
 20238|4|ja|魔都精兵のスレイブ3
 16982|4|zh-Hans|魔都精兵的奴隶
 18548|4|zh-Hans|魔都精兵的奴隶 第二季
+16982|4|zh-Hant|魔都精兵的奴隸
 18548|4|zh-Hant|魔都精兵的奴隸 第二季
 16982|2|ja|魔防隊
 9717|4|zh-Hans|魔鬼恋人
@@ -100236,6 +100302,7 @@
 14048|4|ja|麻雀飛翔伝 哭きの竜 飛竜之章
 18709|4|zh-Hant|黃昏旅店
 19451|4|zh-Hant|黃泉使者
+9579|4|zh-Hant|黃金拼圖
 12037|4|zh-Hant|黃金拼圖 Pretty Days
 355|4|zh-Hans|黃金男孩
 13337|4|zh-Hant|黃金神威
