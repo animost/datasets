@@ -1,4 +1,4 @@
-# created: Wed Sep  2 03:00:01 2026
+# created: Thu Sep  3 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -32049,6 +32049,7 @@
 16850|1|x-zht|Ling Cao Xiao Zhanshi
 14646|1|x-zht|Ling Feng Zhe
 14639|1|x-zht|Ling Jian Zun
+20335|2|zh-Hant|Ling Jing Xing Zhe
 19346|1|x-zht|Ling Long 2
 19346|2|x-zht|Ling Long 2nd Season
 19346|2|x-zht|Ling Long Di Er Ji
@@ -32080,6 +32081,7 @@
 1207|4|de|Lingeries
 1207|2|en|Lingeries Office
 1207|2|de|Lingeries Office
+20335|1|x-zht|Lingjing Xingzhe
 18850|4|en|Lingwu Continent
 16648|2|en|Lingyun Code
 6529|4|pt-BR|Linha Vermelha
@@ -37290,7 +37292,7 @@
 15324|4|en|Moriarty the Patriot
 15774|4|en|Moriarty the Patriot (2021)
 15774|2|en|Moriarty the Patriot Part 2
-18817|4|en|Moriarty`s Perfect Crime
+18817|2|en|Moriarty`s Perfect Crime
 15774|3|x-jat|Moriarty2
 4403|3|x-jat|Moribito
 4403|4|es|Moribito, guardián del Espíritu Sagrado
@@ -44794,7 +44796,7 @@
 4532|2|x-jat|Psychoarmor Gobarian
 10877|2|en|Psychosomatic Medicine Explained Through Anime
 19765|1|x-jat|Psyren
-19765|2|en|Psyren
+19765|4|en|Psyren
 19765|4|ja|PSYЯEN
 1351|4|pl|Pszczółka Maja
 3663|4|pl|Pszczółka Maja (1982)
@@ -51862,6 +51864,7 @@
 14225|2|en|Spirit Realm 4
 14226|2|en|Spirit Realm 5
 14227|2|en|Spirit Realm 6
+20335|2|en|Spirit Realm Walker
 14639|2|en|Spirit Sword Master
 14639|2|en|Spirit Sword Sovereign
 975|4|en|Spirit Warrior (1-2)
@@ -51887,11 +51890,12 @@
 14224|2|en|Spiritual Domain 3
 14224|2|en|Spiritual Field 3
 18635|2|en|Spiritual Lord of Chaos
+20335|4|en|Spiritual Realm Walker
 12538|2|en|Splendid China: Hunting Treasures
 7654|3|en|SPN
 10700|1|x-jat|Spo-chan Taiketsu: Youkai Daikessen
 10510|1|x-jat|Spocon!
-10510|2|x-jat|Spocon! ~Sportswear-Complex~
+10510|2|x-jat|Spocon! Sportswear Complex
 3573|2|pl|Spoglądając na półksiężyc
 2708|2|no|Spøkelsestrioen
 2708|4|no|Spøketrioen
@@ -53966,6 +53970,7 @@
 2641|4|en|Teenage Mutant Ninja Turtles - Superman Legend
 20265|4|en|Teenieping: Legend of the Whale Heartstone
 19573|1|x-jat|Tefuda ga Oome no Victoria
+20334|1|x-jat|Tefuda ga Oome no Victoria 2
 10115|1|x-jat|Tegami
 6772|1|x-jat|Tegami Bachi
 6156|4|fr|Tegami Bachi : L`histoire fantastique de la lumière et du bleu
@@ -55893,6 +55898,7 @@
 11978|2|en|The Proud General
 19753|2|en|The Proud God of Alchemy
 4409|2|en|The Psammead
+20323|2|en|The Public Enemy Of The Immortal World
 1928|2|en|The Pumpkin Wine
 2281|2|en|The Pumpkin Wine: Nita`s Love Story
 4213|4|de|The Pupets
@@ -56205,6 +56211,7 @@
 4933|2|en|The Sparrow in the Empty Pumpkin
 6733|2|en|The Sparrows` Lodge
 250|4|en|The Special Duty Combat Unit Shinesman
+20335|2|en|The Spirealm Voyager
 1952|4|ja|The Spirit of Wonder チャイナさんの憂鬱
 1952|1|x-jat|The Spirit of Wonder: China-san no Yuuutsu
 14370|4|en|The Sprites of Floria
@@ -60143,7 +60150,6 @@
 639|3|x-jat|wandaba
 639|4|en|Wandaba Style
 18823|1|x-jat|Wandance
-18823|2|en|Wandance
 18823|4|pt|Wandance - A Animação
 17893|4|ja|WANDER BURABURA BAKKAMU
 17893|1|x-jat|Wander Burabura Bakkamu
@@ -78801,7 +78807,7 @@
 10950|4|ja|すべてがFになる
 8290|4|ja|スペランカー先生
 10510|4|ja|すぽコン!
-10510|2|ja|すぽコン! ~SPORTSWEARE-COMPLEX~
+10510|2|ja|すぽコン! ~SPORTSWEAR-COMPLEX~
 10700|4|ja|スポチャン対決~妖怪大決戦~
 1731|4|ja|スポットライト
 8819|4|ja|スマイルプリキュア!
@@ -90811,7 +90817,7 @@
 8158|4|ja|戦場のヴァルキュリア3 UNRECORDED CHRONICLES -誰がための銃瘡-
 20147|4|ja|戦奏教室
 8709|4|ja|戦姫絶唱シンフォギア
-8709|2|ja|戦姫絶唱シンフォギア Meteoroid-falling, burning, and disappear, then...
+8709|6|ja|戦姫絶唱シンフォギア Meteoroid-falling, burning, and disappear, then...
 11955|4|ja|戦姫絶唱シンフォギアAXZ
 9465|4|ja|戦姫絶唱シンフォギアG
 10321|4|ja|戦姫絶唱シンフォギアGX
@@ -90855,6 +90861,7 @@
 16163|2|zh-Hans|手工少女!!
 16163|3|zh-Hans|手工少女！！
 19573|4|ja|手札が多めのビクトリア
+20334|4|ja|手札が多めのビクトリア 第2期
 4778|2|zh-Hans|手机少女
 16746|4|zh-Hans|手机里的浣熊小镇
 10115|4|ja|手紙
@@ -93834,6 +93841,7 @@
 14227|2|zh-Hans|灵域 追忆篇
 14210|4|zh|灵域第2季
 14227|4|zh-Hans|灵域第6季
+20335|4|zh-Hans|灵境行者
 12656|4|zh-Hans|灵契
 13503|4|zh-Hans|灵契·黄泉之契
 13503|2|zh-Hans|灵契第二季
