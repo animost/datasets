@@ -1,4 +1,4 @@
-# created: Thu Sep  3 03:00:02 2026
+# created: Fri Sep  4 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1857,6 +1857,8 @@
 2290|1|x-jat|Ai no Wakakusa Monogatari
 2291|2|x-jat|Ai no Wakakusa Monogatari II
 3065|1|x-jat|Ai no Wakakusa Yama Monogatari
+20337|4|ja|Ai no Yakusoku
+20337|1|x-jat|Ai no Yakusoku
 17400|1|x-jat|Ai o Kite
 12100|1|x-jat|Ai o Komete
 1509|1|x-jat|Ai Shimai 2: Futari no Kajitsu
@@ -11124,8 +11126,8 @@
 4253|4|en|Dark Future
 17536|1|x-jat|Dark Gathering
 17536|4|en|Dark Gathering
-19688|1|x-jat|Dark Gathering 2
-19688|2|en|Dark Gathering 2
+19688|1|x-jat|Dark Gathering (2027)
+19688|2|en|Dark Gathering (2027)
 12724|2|en|Dark Hour Academy
 12724|4|en|Dark Hour Academy: Fertilization Arc
 14469|2|en|Dark Knight Ingrid
@@ -19338,6 +19340,7 @@
 12373|1|x-jat|Giant Hammer
 7234|1|x-jat|Giant Killing
 7234|4|ja|GIANT KILLING
+19192|4|en|GIANT OJOSAMA
 19192|1|x-jat|Giant Ojou-sama
 964|4|pt|Giant Robo
 964|4|fr|Giant Robo
@@ -28674,7 +28677,6 @@
 2425|2|ja|Kimi ga Nozomu Eien Gaiden
 5470|1|x-jat|Kimi ga Nozomu Eien: Next Season
 19189|1|x-jat|Kimi ga Shinu made Koi o Shitai
-19189|2|x-jat|Kimi ga Shinu made Koi wo Shitai
 15826|1|x-jat|Kimi ga Suki. The Animation
 13983|1|x-jat|Kimi Koe Project
 6466|1|x-jat|Kimi ni Todoke
@@ -39640,8 +39642,10 @@
 6896|1|x-jat|Nippon Banzai
 3582|2|x-jat|Nippon Ichi no Otoko no Tamashii
 19861|1|x-jat|Nippon Sangoku
+20336|1|x-jat|Nippon Sangoku 2
 19861|4|fr|Nippon Sangoku: Les Nations du Soleil Sanglant
 19861|4|en|Nippon Sangoku: The Three Nations of the Crimson Sun
+20336|2|en|Nippon Sangoku: The Three Nations of the Crimson Sun 2
 19861|4|pl|Nippon Sangoku: Trzy Narody Wschodzącego Słońca
 3509|2|x-jat|Nippon Tanjo
 3582|1|x-jat|Nippon-ichi no Otoko no Tamashii
@@ -50615,6 +50619,7 @@
 6589|4|cs|Šinko a kouzelná šošolka
 19706|1|x-kot|Sinnaneun Gwahak Aenimeisyeon Why?
 5640|4|en|Sinners Paradise
+20338|1|x-jat|SINoALICE: Ichiban Saigo no Monogatari
 1403|4|en|Sins of the Flesh
 2552|4|en|Sins of the Sisters
 16042|1|x-jat|Sinu Nara Konnna Basyo De Ga Ii
@@ -79116,7 +79121,7 @@
 17801|2|ja|ターキー!
 2403|4|ja|ダーク・シェル 檻の中の艶
 17536|4|ja|ダークギャザリング
-19688|4|ja|ダークギャザリング 2
+19688|4|ja|ダークギャザリング (2027)
 2789|4|ja|ダークキャット
 961|4|ja|ダークサイド・ブルース
 19908|4|ja|ダークサモナーとデキている
@@ -83799,6 +83804,7 @@
 17104|4|zh-Hans|七界第一仙
 3301|2|zh-Hans|七福娘
 13599|4|zh-Hans|七美德
+13599|2|zh-Hant|七美德
 4884|2|zh-Hans|七色星露
 4884|2|zh-Hans|七色糖果
 5612|4|ja|七都市物語 ~北極海戦線~
@@ -83887,6 +83893,7 @@
 14888|4|zh-Hans|三国演义
 18640|4|zh-Hans|三国演义 第三季
 18678|4|zh-Hans|三国演义 第二季 逐鹿中原
+10480|4|zh-Hant|三坪房間的侵略者！？
 10480|4|zh-Hans|三坪房间的侵略者！
 17581|4|zh-Hans|三寸人间
 14584|2|ja|三射面談〜連鎖する恥辱・調教の学園〜
@@ -85246,6 +85253,7 @@
 1294|4|zh-Hans|六翼天使之声
 10938|4|ja|六花の勇者
 10938|4|zh-Hans|六花的勇者
+10938|4|zh-Hant|六花的勇者
 17825|4|ja|六道の悪女たち
 17825|4|zh-Hans|六道的恶女们
 17825|2|zh-Hant|六道的惡女們
@@ -85982,6 +85990,8 @@
 19819|4|ja|劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 先行上映」
 10726|4|ja|劇場版 境界の彼方-I`LL BE HERE-
 13512|4|ja|劇場版 夏目友人帳 ~うつせみに結ぶ~
+5783|2|zh-Hant|劇場版 天元突破 紅蓮螺巖 紅蓮篇
+6325|2|zh-Hant|劇場版 天元突破 紅蓮螺巖 螺巖篇
 5783|4|ja|劇場版 天元突破グレンラガン 紅蓮篇
 6325|4|ja|劇場版 天元突破グレンラガン 螺巌篇
 18881|4|zh-Hant|劇場版 學姊是男孩：雨後天晴
@@ -87899,6 +87909,7 @@
 4575|3|zh-Hans|天元
 4575|4|ja|天元突破 グレンラガン
 8918|4|ja|天元突破 グレンラガン 俺のグレンはピッカピカ!!
+4575|4|zh-Hant|天元突破 紅蓮螺巖
 4575|2|zh-Hans|天元突破 红莲之眼
 4575|4|zh-Hans|天元突破 红莲螺岩
 6609|4|ja|天元突破グレンラガン キラメキ☆ヨーコBOX~Pieces of sweet stars~
@@ -87999,6 +88010,7 @@
 18527|4|ja|天穂のサクナヒメ
 18986|4|ja|天穂のサクナヒメ ココロワ稲作日誌
 18527|4|zh-Hans|天穗之咲稻姬
+18527|4|zh-Hant|天穗之咲稻姬
 184|4|ja|天空のエスカフローネ
 331|4|ja|天空の城ラピュタ
 13312|4|zh-Hans|天空与海洋之间
@@ -89327,6 +89339,7 @@
 17637|4|ja|山田くんとLv999の恋をする
 10955|4|zh-Hans|山田君与7个魔女
 10955|4|zh-Hant|山田君與7人魔女
+10683|2|zh-Hant|山田君與7人魔女 OVA
 10955|2|zh-Hant|山田君與7位魔女
 17728|4|zh-Hans|山神与小枣
 11146|4|ja|山賊ダイアリー
@@ -91636,6 +91649,7 @@
 4639|4|ja|日本一の男の魂2
 6699|4|ja|日本一桃太郎
 19861|4|ja|日本三國
+20336|4|ja|日本三國 2
 16375|4|ja|日本偉人大賞 偉人最強決定戦
 10896|4|zh-Hans|日本动画（人）博览会
 4991|4|ja|日本名作童話シリーズ 赤い鳥のこころ
@@ -95999,6 +96013,7 @@
 17994|4|zh-Hant|結緣甘神神社
 10745|4|zh-Hant|絕對雙刃
 1641|4|ja|絢爛舞踏祭 ザ･マーズ･デイブレイク
+15351|4|zh-Hant|給不滅的你
 16573|4|zh-Hant|給不滅的你 第二季
 5674|3|ja|絶チル
 15090|4|ja|絶体絶命でんぢゃらすじーさん
