@@ -1,4 +1,4 @@
-# created: Tue Sep  8 03:00:02 2026
+# created: Thu Sep 10 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -17826,6 +17826,7 @@
 2984|2|x-jat|Futakoi 2
 2984|3|x-jat|Futakoi alt
 2984|1|x-jat|Futakoi Alternative
+20344|1|x-jat|Futanari Jinja wa Otome Ochinpo Soudansho
 242|1|x-jat|Futari Ecchi
 10613|1|x-jat|Futari Ecchi (2014)
 242|2|x-jat|Futari H
@@ -28433,7 +28434,6 @@
 4169|1|x-jat|Kidou Senshi Gundam SEED: Kokuu no Senjou
 4165|1|x-jat|Kidou Senshi Gundam SEED: Meidou no Sora
 9778|1|x-jat|Kidou Senshi Gundam Senki: Avant Title
-19345|1|x-jat|Kidou Senshi Gundam Tekketsu no Orphans Urdr Hunt -Chiisana Chousen-Sha no Kiseki-
 6517|2|x-jat|Kidou Senshi Gundam UC
 16870|1|x-jat|Kidou Senshi Gundam UC Perfectibility Special Movie: Until-L
 6517|1|x-jat|Kidou Senshi Gundam Unicorn
@@ -38089,6 +38089,7 @@
 18029|4|en|My New Boss Is Goofy
 15245|2|en|My Next Door Neighbor Anette-san The Animation
 14449|4|en|My Next Life as a Villainess: All Routes Lead to Doom!
+16445|4|de|My Next Life as a Villainess: All Routes Lead to Doom! Ich habe die mir vorbestimmte Person getroffen
 16727|4|en|My Next Life as a Villainess: All Routes Lead to Doom! Movie
 15604|4|en|My Next Life as a Villainess: All Routes Lead to Doom! X
 16445|4|en|My Next Life as a Villainess: All Routes Lead to Doom! X: I Met My Destined One...
@@ -41960,7 +41961,6 @@
 13769|2|ko|OVA 과묵한 호색한 외자매 본심을 내보이는 섹스 삼매경
 16066|2|ko|OVA 네토시스
 16065|2|ko|OVA 네토카노
-19057|2|ko|OVA 노노하라 유카의 비밀 방송
 20030|2|ko|OVA 발칙함
 16328|2|ko|OVA 사신창관―음란 거유 모녀 산 제물의식
 15780|2|ko|OVA 수국이 질 때
@@ -50156,6 +50156,7 @@
 17447|1|x-zht|Shishang Zui Qiang Nan Zhujiao
 14887|1|x-jat|Shishigari
 14887|4|ja|SHISHIGARI
+20345|1|x-jat|Shishite Ikiru SSS-kyuu Hunter
 11112|1|x-jat|Shishou Series
 831|1|x-jat|Shishunki Bishoujo Gattai Robo Z-Mind: The Battling Days of the "Shitamachi" Virgins
 16542|1|x-jat|Shishunki no Obenkyou
@@ -52087,6 +52088,7 @@
 3320|2|x-jat|SSR
 13256|2|en|ssr
 4414|3|x-jat|SSS
+20345|4|en|SSS-Class Revival Hunter
 1153|2|x-jat|SSSS
 15312|1|x-jat|SSSS.Dynazenon
 15312|4|ja|SSSS.DYNAZENON
@@ -52104,6 +52106,7 @@
 13260|2|ja|SSSS.グリッドマン
 13260|4|zh-Hans|SSSS.古立特
 15312|4|zh-Hans|SSSS.电光机王
+20345|4|ko|SSS급 죽어야 사는 헌터
 4556|3|x-jat|SStrain
 42|3|x-jat|sstv
 9002|3|x-jat|SSY
@@ -72120,6 +72123,7 @@
 12622|2|ko|네코파라 OVA
 14206|2|ko|네코파라 OVA Extra
 7816|2|ko|네토라레 다나베 유카의 독백
+20070|2|ko|네토라레 아내는 빼앗기고 싶다
 7578|2|ko|네토라레 파이터 야리짱!
 11258|2|ko|네토라세라레
 14759|4|ko|노 건즈 라이프
@@ -72127,6 +72131,7 @@
 12276|2|ko|노 게임 노 라이프 제로
 19134|2|ko|노・섹스로이드 에우리!
 1205|2|ko|노노무라 병원 사람들
+19057|2|ko|노노하라 유카의 비밀 방송
 4691|4|ko|노다메 칸타빌레
 9925|4|x-kot|노라가미
 11864|4|ko|노라와 황녀와 도둑고양이 하트
@@ -74972,6 +74977,7 @@
 646|2|ko|풍욕맨션 ~ 사랑은 열쇠의 수 만큼
 653|2|ko|퓨어 메일
 19414|2|ko|퓨어 퓨어 페로 페로 프린세스
+20068|2|ko|퓨어 홀릭 ~순결한 처녀와 결혼하게 된다고!?~
 15906|4|ko|프라오레! PRIDE OF ORANGE
 7873|2|ko|프랙탈
 12563|4|ko|프레임 암즈 걸
@@ -81533,6 +81539,8 @@
 6022|4|ja|ふたごのモンチッチ
 1139|4|ja|ふたつのスピカ
 5361|4|ja|ふたつの胡桃
+20344|6|ja|ふたなり神社は乙女おチ○ポ相談所
+20344|4|ja|ふたなり神社は乙女おチンポ相談所
 242|4|ja|ふたりエッチ
 10613|4|ja|ふたりエッチ (2014)
 19084|4|ja|ふたりソロキャンプ
@@ -88952,7 +88960,6 @@
 6317|4|ja|完全勝利ダイテイオー
 2680|4|ja|完全無修正 それぞれの放課後
 19037|2|ja|完堕ちX●取られ家族
-19037|2|ja|完堕ちX寝取られ家族 The Animation
 19037|4|ja|完堕ちX寝取られ家族 The Animation ~アナタ, 許して. 私たち, 浮気セックスに本気でハマっちゃったの~
 14468|2|ja|完璧イリナお嬢様
 14468|4|ja|完璧お嬢様の私が土下座でマゾ堕ちするちょろインなワケないですわ!
@@ -89920,6 +89927,8 @@
 5060|4|ja|強殖装甲ガイバー II
 1412|2|ja|強殖装甲ガイバー OUT OF STANDARDRIZED
 17672|4|zh-Hant|強者的新傳說
+5970|4|zh-Hant|強襲魔女
+8272|2|zh-Hant|強襲魔女 劇場版
 14203|4|zh-Hant|強襲魔女 通往柏林之路
 14109|4|zh-Hant|強風吹拂
 9555|4|zh-Hans|弹丸论破 希望学园与绝望高中生
@@ -93079,7 +93088,6 @@
 11372|4|ja|機動戦士ガンダム 鉄血のオルフェンズ
 12048|4|ja|機動戦士ガンダム 鉄血のオルフェンズ (2016)
 14587|4|ja|機動戦士ガンダム 鉄血のオルフェンズ ウルズハント
-19345|4|ja|機動戦士ガンダム 鉄血のオルフェンズ ウルズハント -小さな挑戦者の軌跡-
 19707|4|ja|機動戦士ガンダム 鉄血のオルフェンズ ウルズハント 小さな挑戦者の軌跡
 19709|4|ja|機動戦士ガンダム 鉄血のオルフェンズ 幕間の楔
 16704|4|ja|機動戦士ガンダム 鉄血のオルフェンズ 特別編
@@ -93319,6 +93327,7 @@
 333|4|zh|歲月的童話
 18154|4|ja|歴史に残る悪女になるぞ
 18154|3|ja|歴悪
+20345|4|ja|死して生きるSSS級ハンター
 16904|4|ja|死と処女
 15840|4|ja|死にぞこない係長
 16042|4|ja|死ぬならこんな場所でがいい
@@ -94204,6 +94213,7 @@
 1813|4|ja|無敵鋼人ダイターン3
 20223|4|ja|無法の愛
 19954|4|zh-Hant|無用聖女的異世界美食之旅 憑藉隱藏技能召喚露營車
+11964|4|zh-Hant|無畏魔女
 17337|2|zh-Hant|無神世界的神明活動
 2757|4|zh-Hant|無線之戰
 18232|4|ja|無職の英雄 別にスキルなんか要らなかったんだが
@@ -99448,6 +99458,7 @@
 8280|4|zh-Hant|電影 K-ON！輕音部
 13310|4|zh-Hant|電影 為美好的世界獻上祝福！紅傳說
 63|4|ja|電影少女 VIDEO・GIRL・AI
+11747|4|zh-Hant|電影版 吹響吧！上低音號～歡迎加入北宇治高中管樂社～
 17076|4|zh-Hant|電影版 奇巧計程車：撲朔謎林
 16401|4|zh-Hant|電影版 後空翻少年!!
 14108|4|zh-Hant|電影版 怪物彈珠 空之彼方
