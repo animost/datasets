@@ -1,4 +1,4 @@
-# created: Thu Sep 10 03:00:02 2026
+# created: Sat Sep 12 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2807,7 +2807,6 @@
 8707|4|ja|Anemone
 2300|4|pl|Anette
 16288|2|fr|Anette et Liliana, double désir
-16288|1|x-jat|Anette-san to Liliana-san The Animation
 15245|2|fr|Anette, ma voisine de palier
 1297|2|tl|Ang Birheng Maria ay Pumapatnubay sa Iyo
 40|2|tl|Ang Mahiwagang Kwintas
@@ -3104,6 +3103,7 @@
 11321|4|en|Anne-Happy
 1061|4|fr|Anne... la maison aux pignons verts
 2578|4|nl|Annemarie
+16288|1|x-jat|Annet-san to Liliana-san The Animation
 608|4|fr|Annus Fabulosus - Le marché aux désirs !...
 12590|2|x-kot|Annyeong Jadooya
 12794|2|x-kot|Annyeong Jadooya 2
@@ -4982,6 +4982,7 @@
 19595|4|en|Balala the Fairies: Ocean Magic Season 2
 13702|2|en|Balala The Fairies: Over The Rainbow 2
 11796|2|en|Balala the Fairies: Rainbow Heart Stone
+19576|2|en|Balala The Fairies: Star Fate Butterfly Awakening
 13701|2|en|Balala the Faries: Over the Rainbow
 12565|2|x-zht|Balala Xiao Mo Xian: Qiji Wubu
 14638|2|en|Balala Xiaomoxian 5th Season
@@ -7828,6 +7829,7 @@
 18808|4|en|Caged Character
 320|3|x-jat|cagliostro
 16716|1|x-zht|Cai Bao Gou Da Fanji
+20271|2|x-zht|Cai Shen Dou Zhan Long
 647|3|de|Cain
 647|4|de|Cain - Die Macht der Liebe
 20271|1|x-zht|Caishen Dou Zhanlong
@@ -8360,6 +8362,7 @@
 16775|4|en|Cat`s Tea
 18701|4|en|Cat`s Tea 2
 2299|4|pt|Catarina
+20221|2|en|Catastrophic Necromancer
 18295|4|id|Catatan Perjalanan Santai di Dunia Lain: Aku Menjadi Petualang Sembari Mengasuh Anak
 4926|1|x-jat|Catblue Dynamite
 4926|4|ja|CATBLUE DYNAMITE
@@ -14220,6 +14223,7 @@
 149|1|x-jat|Dragon Half
 149|4|de|Dragon Half
 149|4|en|Dragon Half
+20185|2|en|Dragon Heart: Adventures Beyond This World
 20185|1|x-jat|Dragon Heart: Reikai Tanbouki
 3982|4|de|Dragon Knight
 674|4|ja|DRAGON KNIGHT
@@ -14760,6 +14764,8 @@
 72|4|en|Eat-Man `98
 72|4|ja|EAT-MAN `98
 72|4|fr|Eat-man 98
+20346|4|ja|EAT-MAN The Over Order
+20346|1|x-jat|Eat-Man: The Over Order
 1773|2|x-jat|Eatman
 72|2|x-jat|Eatman 98
 801|3|x-jat|EB
@@ -15747,6 +15753,7 @@
 17927|1|x-jat|Eternal Boys Next Stage
 2777|4|en|Eternal Family
 5943|2|en|Eternal Filena
+20219|2|en|Eternal God Emperor
 8184|2|en|Eternal Quon
 19109|2|en|Eternal Sword Ancestor
 19545|2|en|Eternal Sword Emperor
@@ -17306,6 +17313,7 @@
 16617|2|en|Fox Spirit Matchmaker 10th Season
 16864|2|en|Fox Spirit Matchmaker 11th Season
 16616|2|en|Fox Spirit Matchmaker 9th Season
+18928|2|en|Fox Spirit Matchmaker Season 13
 16864|2|en|Fox Spirit Matchmaker: Endless Arc
 16864|2|en|Fox Spirit Matchmaker: Endless Chapter
 16616|2|en|Fox Spirit Matchmaker: Mutian City Chapter
@@ -17494,6 +17502,7 @@
 17343|4|ro|Frumoasa luptătoare Sailor Moon Cosmos: Filmul
 12754|4|ro|Frumoasa luptătoare Sailor Moon Eternal: Filmul
 18093|3|x-jat|FSF
+18928|3|en|fsm s13
 3348|3|x-jat|fsn
 9977|3|x-jat|FSN 2014
 10760|3|x-jat|FSN 2015
@@ -19878,6 +19887,7 @@
 14903|2|x-jat|Go-toubun no Hanayome S2
 14903|2|x-jat|Go-Toubun no Hanayome: Nijuu Sekibun
 17968|1|x-jat|Go-Toubun no Hanayome~
+20110|2|en|Go! Anpanman: Pantan and the Promised Star
 7558|2|en|Go! Anpanman: The Pyramid of the Rainbow
 10255|1|x-jat|Go! Go! 575
 6093|1|x-jat|Go! Go! Ackman
@@ -21853,6 +21863,7 @@
 12915|1|x-jat|Happy Party Train
 12915|4|ja|HAPPY PARTY TRAIN
 4275|2|en|Happy Science Movie 1
+20185|2|x-unk|Happy Science Movie 10
 4276|2|en|Happy Science Movie 2
 4277|2|en|Happy Science Movie 3
 4631|2|en|Happy Science Movie 4
@@ -24147,6 +24158,7 @@
 2227|4|hu|Hüvelyk Panna
 3672|4|hu|Hüvelyk Panna nyomában
 13198|2|x-zht|Huyao Xiao Hongniang
+18928|2|x-zht|Huyao Xiao Hongniang 13: Huang Feng Ling Pian
 4193|4|vi|Huyền thoại đất liền và đại dương
 1|2|cs|Hvězdný erb
 162|4|sk|Hviezdny šerif Saber Rider
@@ -36909,6 +36921,7 @@
 7704|1|x-jat|Mofukuzuma
 19783|4|ja|mofusand
 19783|1|x-jat|Mofusand
+19783|2|ja|mofusand animation
 9297|4|it|Mofy
 2681|1|x-jat|Mogitate Marina-chan
 8386|1|x-jat|Mogu Mogu
@@ -38088,6 +38101,7 @@
 370|2|en|My Neighbours the Yamadas
 18029|4|en|My New Boss Is Goofy
 15245|2|en|My Next Door Neighbor Anette-san The Animation
+14449|4|de|My Next Life as a Villainess – Wie überlebe ich in einem Dating-Game?
 14449|4|en|My Next Life as a Villainess: All Routes Lead to Doom!
 16445|4|de|My Next Life as a Villainess: All Routes Lead to Doom! Ich habe die mir vorbestimmte Person getroffen
 16727|4|en|My Next Life as a Villainess: All Routes Lead to Doom! Movie
@@ -38905,6 +38919,7 @@
 7268|2|en|Necrodemon
 4463|4|en|Necromancer
 18254|2|en|Necromancer Isekai: How I Went from Abandoned Villager to the Emperor`s Favorite
+20221|2|en|Necromancer: I Am A Disaster
 20221|4|en|Necromancer: I Am the Scourge
 19042|4|en|Necronomico and the Cosmic Horror Show
 19042|1|x-jat|Necronomico no Cosmic Horror Show
@@ -41411,6 +41426,7 @@
 6114|4|ja|OPPAI ライフ
 6114|2|ja|ＯＰＰＡＩライフ
 8141|4|da|Oppe på Valmuebakken
+16520|2|en|Opti-Morphs
 69|3|x-jat|optv
 17283|1|x-jat|Opus Colors
 17283|4|ja|Opus.COLORs
@@ -55239,9 +55255,10 @@
 3471|4|en|The Gentle Lion
 16432|2|en|The Gerent Saga
 4217|2|en|The Ghost Holly
-18652|2|en|The Ghost in the Shell
 18652|4|fr|The Ghost in the Shell
 18652|4|de|The Ghost in the Shell
+18652|4|en|The Ghost in the Shell
+18652|4|it|The Ghost in the Shell
 3558|4|en|The Gigolo - Dochinpira
 7258|2|x-unk|Thế giới bí mật của Arrietty
 15066|2|ja|The Girl and the Monster
@@ -55741,6 +55758,7 @@
 1551|4|en|The Melody of Oblivion
 7976|2|en|The Messenger from the Sea
 18524|4|en|The Metaverse
+16586|2|en|The Meteor Magic Sword
 9896|1|x-jat|The Midnight Animals
 8614|2|en|The Midnight Parasites
 5195|2|en|The Mighty Orbots
@@ -56781,7 +56799,6 @@
 14556|1|x-jat|Thunderbolt Fantasy: Touri-ken Yuuki 3
 16558|1|x-jat|Thunderbolt Fantasy: Touri-ken Yuuki 4
 18560|1|x-jat|Thunderbolt Fantasy: Touri-ken Yuuki Saishuushou
-18574|1|x-jat|ThunderCats
 8685|2|en|Thundercloud Graffiti
 2467|4|en|Thundersub
 13812|4|en|Thus Spoke Kishibe Rohan
@@ -57456,7 +57473,7 @@
 9599|2|x-jat|tonakai ova
 13966|3|x-jat|tonakyu
 6635|1|x-jat|Tonari no 801-chan R
-15245|1|x-jat|Tonari no Ie no Anette-san The Animation
+15245|1|x-jat|Tonari no Ie no Annet-san The Animation
 9235|1|x-jat|Tonari no Kaibutsu-kun
 9599|1|x-jat|Tonari no Kaibutsu-kun (2013)
 9599|2|x-jat|Tonari no Kaibutsu-kun: Tonari no Gokudou-kun
@@ -60155,6 +60172,7 @@
 8385|4|ja|WAMONO
 14747|4|pl|Wampir w ogrodzie
 3214|2|pl|Wampirzyca Karin
+20219|2|x-zht|Wan Gu Shen Di
 13732|1|x-zht|Wan Gu Xian Qiong
 13922|1|x-zht|Wan Gu Xian Qiong II
 14871|1|x-zht|Wan Gu Xian Qiong III: Eren Gu Pian
@@ -78279,7 +78297,6 @@
 14946|4|ja|サンタ・カンパニー ~クリスマスの秘密~
 16005|4|ja|サンタ・カンパニー ~真夏のメリークリスマス~
 19877|4|ja|サンダー3
-18574|4|ja|サンダーキャッツ
 5809|4|ja|サンタクロースつかまえた!
 18486|4|ja|サンタさんが二人いた
 7865|4|ja|サンタさんとトナカイクッピ
@@ -85232,6 +85249,7 @@
 10006|2|ja|全力愚少女!!アクション!!
 15437|4|zh-Hans|全员恶玉
 15437|4|zh-Hant|全員惡玉
+20221|2|zh|全民转职：死灵法师！我即是天灾
 9183|2|ja|全物語
 19129|4|zh-Hans|全球高武
 18741|4|ja|全知的な読者の視点から
@@ -92165,6 +92183,7 @@
 13553|4|ja|映画しまじろう まほうのしまの だいぼうけん
 8957|4|ja|映画ジュエルペット スウィーツダンスプリンセス
 14544|4|ja|映画スター☆トゥインクルプリキュア 星のうたに想いをこめて
+20110|2|ja|映画それいけ！アンパンマン パンタンと約束の星
 12515|4|ja|映画たまごっち ヒミツのおとどけ大作戦!
 20111|4|ja|映画ちいかわ 人魚の島のひみつ
 11354|4|ja|映画ちびまる子ちゃん イタリアから来た少年
@@ -95775,6 +95794,7 @@
 16680|4|zh-Hant|禪說阿寬
 9566|4|zh-Hans|离线LINE - 上班族 -
 17140|4|zh-Hant|萬事屋齋藤先生轉生異世界
+20219|2|zh|萬古神帝
 635|4|zh|萬花筒之星
 635|2|zh-Hant|萬花筒之星
 4655|4|zh|秀逗博士
