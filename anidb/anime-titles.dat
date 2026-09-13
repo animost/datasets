@@ -1,4 +1,4 @@
-# created: Sat Sep 12 03:00:02 2026
+# created: Sun Sep 13 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -15071,6 +15071,7 @@
 16008|1|x-jat|Eiga Tropical-Rouge! Precure: Petit Tobikome! Collabo Dance Party!
 16439|1|x-jat|Eiga Tropical-Rouge! Precure: Yuki no Princess to Kiseki no Yubiwa!
 14715|1|x-jat|Eiga Uchi no 3 Shimai
+20347|1|x-jat|Eiga Uchuu Nanchara Kotetsu-kun: Ukkari Detekita Uchuujin o Sagase!
 6453|1|x-jat|Eiga Yes! Precure 5 Go Go! Okashi no Kuni no Happy Birthday
 5572|1|x-jat|Eiga Yes! Precure 5: Kagami no Kuni no Miracle Daibouken!
 14754|1|x-jat|Eiga Youkai Watch Jam: Youkai Gakuen Y - Neko wa Hero ni Nareru ka
@@ -18295,7 +18296,9 @@
 1923|1|x-jat|Ganbare Genki
 2423|1|x-jat|Ganbare Goemon
 7402|1|x-jat|Ganbare Goemon: Chikyuu Kyuushutsu Daisakusen
+7402|2|en|Ganbare Goemon: Earth Rescue Operation
 7394|1|x-jat|Ganbare Goemon: Jigen Jou no Akumu
+7394|2|en|Ganbare Goemon: Nightmare in the Dimensional Castle
 6519|1|x-jat|Ganbare Gonbe
 7330|1|x-jat|Ganbare Swimmy
 4258|1|x-jat|Ganbare! Bokura no Hit and Run
@@ -39132,7 +39135,6 @@
 11480|3|x-jat|netogenoyome
 13345|1|x-jat|Netojuu no Susume
 16065|1|x-jat|Netokano
-11258|2|ja|Netora Serare
 7578|1|x-jat|Netorare Fighter Yaricchingu!
 16065|2|fr|Netorare Kanojo – Case.1: Mizuki Suzumori | Copine dérobée
 16066|2|fr|Netorare Kanojo – Case.2: Kasumi Haruno | Sœur dérobée
@@ -92133,6 +92135,7 @@
 11816|4|ja|映画 妖怪ウォッチ 空飛ぶクジラとダブル世界の大冒険だニャン!
 10680|4|ja|映画 妖怪ウォッチ 誕生の秘密だニャン!
 14754|4|ja|映画 妖怪ウォッチJam 妖怪学園Y 猫はHEROになれるか
+20347|4|ja|映画 宇宙なんちゃら こてつくん うっかり出てきた宇宙人を探せ!
 18873|4|ja|映画 小林さんちのメイドラゴン さみしがりやの竜
 3640|4|ja|映画 忍たま乱太郎
 14713|4|ja|映画 爆釣バーハンター 謎のバーコードトライアングル! 爆釣れ! 神海魚ポセイドン
