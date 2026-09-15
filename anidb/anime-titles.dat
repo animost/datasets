@@ -1,4 +1,4 @@
-# created: Sun Sep 13 03:00:02 2026
+# created: Tue Sep 15 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -17743,6 +17743,7 @@
 4784|2|x-jat|Funny Pets 2nd Season Plus
 4784|4|ja|Funny Pets 2ndシーズン
 4069|2|x-jat|Funny Pets Plus
+20350|1|x-jat|Funsou Deshitara Hatta Made
 20030|1|x-jat|Furachi
 4323|2|x-jat|Furakappa
 18301|1|x-jat|Fureru.
@@ -18757,6 +18758,7 @@
 10012|1|x-jat|Gekijouban Hunter x Hunter: The Last Mission
 17230|1|x-jat|Gekijouban Idol Bu Show
 17809|1|x-jat|Gekijouban Idolish Seven: Live 4bit - Beyond the Period
+20349|1|x-jat|Gekijouban Idolmaster: SideM Fantastic Battle Fes - Who goes first
 9265|1|x-jat|Gekijouban Inazuma Eleven GO vs Danball Senki W
 8512|1|x-jat|Gekijouban Inazuma Eleven GO: Kyuukyoku no Kizuna Gryphon
 18849|1|x-jat|Gekijouban Inazuma Eleven: Aratanaru Eiyuu-tachi no Joshou
@@ -20327,6 +20329,7 @@
 9035|1|x-jat|Goulart Knights: Evoked the Beginning White
 19399|1|x-jat|Goumon Baito-kun no Nichijou
 19399|3|x-jat|goumonbt
+8122|2|en|Gourd Brothers
 10684|4|en|Gourmet Girl Graffiti
 16233|1|x-kot|Gouyeong-ui Samgugji
 16242|1|x-kot|Gouyeong-ui Samgugji 2: Tadodongtag
@@ -21335,6 +21338,7 @@
 2272|1|x-jat|Haguregumo
 9015|3|x-jat|hagureyuusha
 1383|3|x-jat|haha
+20351|1|x-zht|Haha Da Maoxian
 9385|2|x-jat|Haha Musume Donburi: Oppai Tokumori Bonyuu Shiru Dakude
 13877|1|x-jat|Haha no Supporter
 1383|1|x-jat|Haha o Tazunete Sanzenri
@@ -21952,6 +21956,7 @@
 661|4|it|Harlock Saga - L`anello dei nibelunghi
 661|4|fr|Harlock Saga - L`Anneau des Nibelunghen - L`or du Rhin
 661|2|x-jat|Harlock Saga: Nibelung no Yubiwa
+661|2|x-jat|Harlock Saga: Niibarungu no Yubiwa
 661|2|en|Harlock Saga: The Ring of the Nibelung
 661|4|en|Harlock Saga: The Ring of the Nibelung - The Rhein Gold
 725|3|x-jat|Harlock TV
@@ -22185,6 +22190,7 @@
 2621|4|de|He is my Master
 2621|2|de|He Is My Master - stets zu ihren Diensten!
 15768|1|x-jat|He Jing Shao Nian
+20352|1|x-zht|He Nu`er De Richang
 17513|4|es-419|He renacido como un micrófono en forma de cabeza
 15644|2|th|Hệ Thống Tự Cứu Của Nhân Vật Phản Diện
 19106|1|x-zht|He Zhong Zhi Hai
@@ -22665,6 +22671,7 @@
 6232|1|x-jat|Helter Skelter: Hakudaku no Mura
 6232|2|en|Helter Skelter: The White-Stained Village
 885|1|x-jat|Hen
+20353|1|x-zht|Hen Chun Hen Aimei
 8446|2|x-jat|Hen na Ko-chan
 12364|1|x-jat|Hen na Omame-san
 7431|2|x-jat|Hen Semi
@@ -22727,6 +22734,7 @@
 2454|4|en|Heritage from Father
 533|3|x-jat|herlock
 661|1|x-jat|Herlock Saga
+661|2|x-jat|Herlock Saga: Nibelung no Yubiwa
 4152|2|es|Hermanas al Boing
 174|4|es|Hermanas Inmorales
 1509|4|es|Hermanas inmorales 2
@@ -24010,6 +24018,7 @@
 16332|1|x-zht|Hua Jianghu: Huan Shi Mensheng II
 13042|1|x-zht|Hua Jianghu: Ling Zhu
 15220|1|x-zht|Hua Jianghu: Xia Lan
+20354|1|x-zht|Hua Kai Zhang Meili
 17184|1|x-zht|Hua Kaizhang Meili
 20164|1|x-zht|Hua Xianzi: Mofa Xiang Dui Lun
 16737|1|x-zht|Huaguoshan Zhuan
@@ -24021,6 +24030,7 @@
 17101|1|x-zht|Huan You Lieren
 16723|1|x-zht|Huang Feihong Zhi Yong Chuang Tianxia
 14959|2|x-unk|Huang Li Shi
+20355|1|x-zht|Huang Li Shi
 17349|1|x-zht|Huang Yan
 19655|1|x-zht|Huanggu En Chou Lu: Po Feng Pian
 17876|1|x-zht|Huangjin Tingyuan: Dongri Li de Xinnian Yuanwang
@@ -26087,6 +26097,7 @@
 18250|1|x-jat|Jeremy no Ki
 466|2|en|Jester the Adventurer
 466|4|es|Jester: El Aventurero
+1413|4|pl|Jesteśmy Pretty Cure
 12547|2|en|Jet Black Shaga The Animation
 1916|2|x-jat|Jet Mars
 1916|4|es|Jet Marte
@@ -34038,7 +34049,6 @@
 2430|1|x-jat|Mahou Shoujo Lyrical Nanoha
 3440|1|x-jat|Mahou Shoujo Lyrical Nanoha A`s
 13301|2|x-jat|Mahou Shoujo Lyrical Nanoha Detonation
-19080|2|x-jat|Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance
 19080|1|x-jat|Mahou Shoujo Lyrical Nanoha Exceeds: Gun Blaze Vengeance
 9788|2|x-jat|Mahou Shoujo Lyrical Nanoha Reflection
 4688|1|x-jat|Mahou Shoujo Lyrical Nanoha StrikerS
@@ -40126,6 +40136,7 @@
 13723|1|x-zht|Nu Sheng Su She Ri Chang
 106|4|vi|Nữ Sinh Trung Học
 16106|1|x-zht|Nu ta
+11972|2|x-zht|Nu Wa Cheng Zhang Ri Ji
 15005|1|x-zht|Nu Wushen de Canzhuo
 15614|1|x-zht|Nu Wushen de Canzhuo II
 16591|1|x-zht|Nuan Yang
@@ -40209,6 +40220,7 @@
 10776|2|en|Nutcracker (2014)
 6983|4|en|Nutcracker Fantasy
 3520|2|en|Nutsberry Town
+11972|2|x-zht|Nuwa Cheng Zhang Riji
 11972|1|x-zht|Nuwa Chengzhang Riji
 11972|4|en|Nuwa`s Diary
 5787|3|x-jat|ny
@@ -43930,6 +43942,7 @@
 11842|4|pl|Pokémon: Volcanion i mechaniczny zachwyt
 20329|1|x-jat|Pokemon: Wild Card
 20329|2|en|Pokemon: Wild Card
+20329|2|x-jat|Pokemon: Wildcard
 990|2|pl|Pokémon: Zemsta Mewtwo
 14215|4|pl|Pokémon: Zemsta Mewtwo – Ewolucja
 7257|4|de|Pokémon: Zoroark - Meister der Illusionen
@@ -49574,6 +49587,7 @@
 19114|1|x-zht|Shi Wangzhe A? Di 4 Ji: Mudan Xiang You Dali Si
 19654|1|x-zht|Shi Wangzhe A? Di 5 Ji: Feng Wu Leiting Chang`an Juan
 20213|1|x-zht|Shi Wangzhe A? Di 6 Ji: Xuezhang Jiadao Qing Zhijiao
+19654|2|x-unk|Shi Wangzhe A? Di Wu Ji: Feng Wu Leiting Chang`an Juan
 18705|2|x-zht|Shi Wangzhe A? Season 2
 18706|2|x-zht|Shi Wangzhe A? Season 3
 19114|2|x-zht|Shi Wangzhe A? Season 4
@@ -49904,6 +49918,7 @@
 10368|1|x-jat|Shin Tennis no Ouji-sama (2014)
 15536|1|x-jat|Shin Tennis no Ouji-sama: Hyoutei vs Rikkai - Game of Future
 16878|1|x-jat|Shin Tennis no Ouji-sama: U-17 World Cup
+20348|1|x-jat|Shin Tennis no Ouji-sama: U-17 World Cup - Kesshou Member Ketteisen
 18054|1|x-jat|Shin Tennis no Ouji-sama: U-17 World Cup Semifinal
 1672|2|x-jat|Shin Tetsujin 28-gou
 18616|1|x-jat|Shin Yaranai ka
@@ -55944,6 +55959,7 @@
 10368|2|en|The Prince of Tennis II OVAs vs Genius 10
 15536|4|en|The Prince of Tennis II: Hyotei vs. Rikkai - Game of Future
 16878|4|en|The Prince of Tennis II: U-17 World Cup
+20348|2|en|The Prince of Tennis II: U-17 World Cup Finals Members Decisive Match
 18054|4|en|The Prince of Tennis II: U-17 World Cup Semifinal
 4244|4|en|The Prince of Tennis OVA: The National Tournament
 8344|2|en|The Prince of Tennis: A Gift from Atobe
@@ -56374,6 +56390,7 @@
 17596|2|en|The Sword Fairy Is Here
 17596|4|en|The Sword Immortal Is Here
 19153|2|en|The Sword Immortal is Here 2nd Season
+19153|2|en|The Sword Immortal Is Here S2
 19153|2|en|The Sword Immortal Season 02
 18415|2|en|The Sword Of Dawn
 5546|3|en|The Sword of Musashi
@@ -56888,6 +56905,7 @@
 11971|4|en|Tiger Mask W
 6971|1|x-jat|Tiger Mask: Fukumen League Sen
 6971|2|en|Tiger Mask: War to the League of Masked Wrestlers
+8293|2|en|Tiger Returns
 8101|4|ro|Tiger și Bunny
 18905|2|en|Tiger x Crane
 18905|2|en|Tiger x Crane Demon Master
@@ -62282,6 +62300,7 @@
 10405|1|x-jat|Yorinuki Gintama-san on Theater 2D
 19380|1|x-jat|Yoroi Shin Den Samurai Troopers
 19816|1|x-jat|Yoroi Shin Den Samurai Troopers (2026)
+19816|2|x-jat|Yoroi Shin Den Samurai Troopers Part 2
 19380|4|de|Yoroi-Shinden Samurai Troopers
 19380|4|en|Yoroi-Shinden Samurai Troopers
 19816|4|en|Yoroi-Shinden Samurai Troopers (2026)
@@ -63132,6 +63151,7 @@
 469|2|cs|Za oblaky země zaslíbená
 2124|2|x-jat|Za Samurai
 3073|4|pl|Żabki opowiadają
+14236|4|cs|Záblesky zítřka
 112|4|sr|Začarani grad
 10537|4|pl|Zagadkowi terroryści
 19337|4|pl|Zagubieni w świetle gwiazd
@@ -86023,6 +86043,7 @@
 2189|4|ja|劇場版 XXX HOLiC 真夏ノ夜ノ夢
 206|4|ja|劇場版 ああっ女神さまっ
 10482|4|ja|劇場版 アイカツ! アイドルカツドウ!
+20349|4|ja|劇場版 アイドルマスター SideM F＠NTASTIC BATTLE FES ～Who goes first～
 18849|4|ja|劇場版 イナズマイレブン 新たなる英雄たちの序章
 9265|4|ja|劇場版 イナズマイレブンGO vs ダンボール戦機W
 14013|4|ja|劇場版 ヴァイオレット・エヴァーガーデン
@@ -86140,6 +86161,7 @@
 12618|4|ja|劇場版 生徒会役員共
 15294|4|ja|劇場版 生徒会役員共2
 15481|4|ja|劇場版 異世界かるてっと ~あなざーわーるど~
+15481|4|zh-Hant|劇場版 異世界四重奏 ～Another World～
 14061|4|zh-Hant|劇場版 白箱 SHIROBAKO
 4932|4|ja|劇場版 空の境界 the Garden of sinners
 9309|4|ja|劇場版 空の境界 未来福音 the Garden of sinners recalled out summer
@@ -87055,6 +87077,7 @@
 11167|4|zh-Hant|命運石之門 0
 8655|4|zh-Hant|命運石之門 負荷領域的既視感
 12690|4|ja|和・和・和 ワッピちゃん
+20352|4|zh|和女儿的日常
 17637|4|zh-Hans|和山田谈场Lv999的恋爱
 19330|4|zh-Hans|和机器人啪啪啪能算在经验次数里吗？
 11157|4|zh-Hans|和歌子酒
@@ -87138,6 +87161,7 @@
 7768|4|zh-Hans|哆啦美与哆啦A梦七小子 机器人学校七不思议
 7011|4|zh-Hans|哆啦美与哈啰小恐龙
 16399|4|zh-Hans|哇恰美妙魔法！
+20351|4|zh|哈哈大冒险
 557|4|zh-Hans|哈姆太郎
 1218|4|zh-Hans|哈尔的移动城堡
 1218|4|zh|哈爾移動城堡
@@ -88130,6 +88154,7 @@
 6246|4|zh-Hans|天才麻将少女
 9490|4|zh-Hans|天才麻将少女 全国篇
 8701|4|zh-Hans|天才麻将少女 阿知贺篇 episode of side-A
+9490|4|zh-Hant|天才麻將少女 全國篇
 9268|4|zh-Hans|天方魔谭MAGI
 9807|4|zh-Hans|天方魔谭MAGI 第二季
 11672|4|zh-Hans|天方魔谭MAGI 辛巴达的冒险
@@ -90049,6 +90074,7 @@
 14339|4|zh-Hans|彼时彼女
 199|4|ja|彼氏彼女の事情
 199|2|zh-Hans|彼氏彼女的故事
+20353|4|zh|很纯很暧昧
 17038|4|ja|後宮の烏
 17038|2|zh-Hant|後宮之烏
 19527|4|ja|後朝の花雪
@@ -91613,6 +91639,7 @@
 10368|4|ja|新テニスの王子様 (2014)
 16878|4|ja|新テニスの王子様 U-17 WORLD CUP
 18054|4|ja|新テニスの王子様 U-17 WORLD CUP SEMIFINAL
+20348|4|ja|新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦
 15536|4|ja|新テニスの王子様 氷帝vs立海 Game of Future
 4635|2|ja|新ドラえもん
 5232|2|ja|新ドリームハンター麗夢
@@ -95108,6 +95135,7 @@
 17248|4|zh-Hant|異世界一擊殺姊姊 ～姊姊同伴的異世界生活開始了～
 16936|4|ja|異世界召喚は二度目です
 14435|4|zh-Hant|異世界四重奏
+19385|4|zh-Hant|異世界四重奏 3
 15481|2|zh-Hant|異世界四重奏 第三季
 14964|4|zh-Hant|異世界四重奏 第二季
 17507|4|ja|異世界失格
@@ -96214,6 +96242,7 @@
 18866|2|zh-Hant|純潔龐克 發條少女
 9036|4|ja|紙兎ロペ
 12282|4|ja|紙兎ロペ 笑う朝には福来たるってマジっすか!?
+20350|4|ja|紛争でしたら八田まで
 5902|4|ja|素人倶楽部/ハメ撮りアニメ完全無修正!!
 5186|2|zh-Hans|素描本 ~full color`s~
 5414|4|ja|素敵探偵☆ラビリンス
@@ -97044,6 +97073,7 @@
 7874|2|zh-Hans|花开伊吕波
 8827|4|zh-Hans|花开伊吕波 Home Sweet Home
 17184|4|zh-Hans|花开张美丽
+20354|4|zh|花开张美丽
 6988|4|ja|花折り
 16737|4|zh-Hans|花果山传
 18636|4|zh-Hans|花样少年少女
@@ -100689,6 +100719,7 @@
 14995|4|zh-Hant|黃金神威 第三季
 17023|4|zh-Hant|黃金神威 第四季
 14959|2|x-unk|黄历师
+20355|4|zh|黄历师
 18097|4|ja|黄昏アウトフォーカス
 8852|4|ja|黄昏乙女xアムネジア
 18097|2|zh-Hans|黄昏光影
