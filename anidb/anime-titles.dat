@@ -1,4 +1,4 @@
-# created: Tue Sep 15 03:00:02 2026
+# created: Wed Sep 16 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -212,6 +212,7 @@
 17754|4|en|#Compass 2.0 Animation Project
 17754|1|x-jat|#Compass 2.0: Sentou Setsuri Kaiseki System
 17754|2|zh-Hans|#COMPASS2.0 战斗天赋解析系统
+19586|4|en|#I`m Looking for a Zombie
 17297|1|x-jat|#Ima Made de Ichiban Yokatta Sex The Animation
 19565|1|x-jat|#Kanagawa ni Sunderu Elf
 19586|1|x-jat|#Zombie Sagashitemasu
@@ -1218,7 +1219,7 @@
 1392|4|pt|A Super Porca
 702|4|en|A Tail of Two Sisters
 5612|2|en|A Tale of Seven Cities - the Arctic Front
-19201|2|en|A Tale of the Secret Saint
+19201|4|en|A Tale of the Secret Saint
 14045|1|x-zht|A Tang Qiyu
 335|4|hu|A Tenger Zúgása
 18321|4|en|A Terrified Teacher at Ghoul School!
@@ -1260,7 +1261,8 @@
 15373|4|pl|A Whisker Away
 13365|4|en|A whistle
 18831|4|en|A Wild Last Boss Appeared!
-19777|2|en|A Wild Last Boss Appeared! (2026)
+19777|4|en|A Wild Last Boss Appeared! (2026)
+19777|2|en|A Wild Last Boss Appeared! Season 2
 15693|4|en|A Will Eternal
 16619|2|en|A Will Eternal 2
 18384|2|en|A Will Eternal 3
@@ -3825,7 +3827,8 @@
 29|3|en|AS
 18026|4|en|As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World
 18707|4|en|As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World (2024)
-19070|2|en|As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World (2026)
+19070|4|en|As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World (2026)
+19070|2|en|As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World Season 3
 196|2|pt|As Asas de Honneamise
 9514|4|pt|As Asas do Vento
 2744|4|pt|As Aventuras de Alice no País das Maravilhas
@@ -11143,6 +11146,7 @@
 3130|4|en|Dark Love
 18777|4|ja|DARK MACHINE THE ANIMATION
 18777|1|x-jat|Dark Machine the Animation
+18777|4|en|Dark Machine the Animation
 18869|2|x-jat|Dark Moon - Tsuki no Saidan
 18869|6|ja|DARK MOON -黒の月:月の祭壇-
 18869|2|x-kot|DARK MOON: Dal-ui Jedan
@@ -15949,7 +15953,7 @@
 18712|4|en|Even Given the Worthless "Appraiser" Class, I`m Actually the Strongest
 4889|2|en|Even if you become the enemy of the world
 19594|2|en|Even Reincarnated, Hanaori`s Still Spoiling for a Fight
-19650|2|en|Even Though I`m a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé
+19650|4|en|Even Though I`m a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiance
 20024|4|en|Ever Night
 7056|2|en|Evergreen Literature
 8783|2|en|Everlasting Bond
@@ -17728,6 +17732,7 @@
 4698|2|en|Fun Willow Town
 11137|1|x-jat|Funasshi no Funafunafuna Hiyori
 9010|4|en|Funbag Fantasy
+20375|1|x-jat|Funbarus
 11997|1|x-jat|Fune o Amu
 11997|2|x-jat|Fune wo Amu
 11997|3|x-jat|funewoamu
@@ -21987,6 +21992,7 @@
 6743|1|x-jat|Haru no Uta
 2600|1|x-jat|Haru o Daite Ita
 2600|4|de|Haru o Daiteita
+20374|1|x-jat|Haru to Gen: 70-sai, Hajimete no Kosodate
 9029|1|x-jat|Haru wa Kuru
 2600|2|x-jat|Haru wo Daite Ita
 11270|2|en|Haruchika
@@ -22621,7 +22627,7 @@
 14532|4|ja|HELLO WORLD
 14532|1|x-jat|Hello World
 14532|4|it|Hello World
-19876|2|en|Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion!
+19876|4|en|Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion!
 13778|2|en|Hello, This Is Terumi.
 2067|1|x-jat|Hello! Lady Lynn
 2067|2|en|Hello! Lady Lynn
@@ -23823,8 +23829,8 @@
 7382|3|x-jat|HOTDTV
 18973|4|en|Hotel Inhumans
 18973|1|x-jat|Hotel Inhumans
-19621|2|en|Hotel Inhumans (2026)
 19621|1|x-jat|Hotel Inhumans (2026)
+19621|4|en|Hotel Inhumans (2026)
 18709|4|es-419|Hotel Tasokare
 2842|3|x-jat|hotori
 2842|2|en|Hotori ~The Simple Hope for Joy~
@@ -24143,6 +24149,9 @@
 19127|1|x-zht|Huo Feng Liao Yuan 2
 19127|2|x-zht|Huo Feng Liao Yuan 2nd Season
 16726|1|x-zht|Huoli Shaonian Wang 3
+20356|1|x-zht|Huoli Shaonian Wang 3: Xuji
+20357|1|x-zht|Huoli Shaonian Wang: Chuanqi Zaixian
+20358|1|x-zht|Huoli Shaonian Wang: Chuanqi Zaixian: Xuji
 15184|1|x-zht|Huoli Shaonian Wang: You Quan Yingxiong
 18233|1|x-zht|Huoli Shaonian Wang: You Quan Yingxiong 2
 20327|1|x-zht|Huoxing Xi Lu 7 Hao
@@ -26181,6 +26190,7 @@
 18346|1|x-zht|Jian Yu Fengyun 3rd Season
 17985|2|x-zht|Jian Yu Fengyun Di Er Ji
 18346|2|x-zht|Jian Yu Fengyun Di San Ji
+20360|1|x-zht|Jian Yu Yuanzheng: Insomnia De Naxie Shier
 18393|1|x-zht|Jiandao Di Yi Xian
 18893|1|x-zht|Jiandao Di Yi Xian 2
 18893|2|x-zht|Jiandao Di Yi Xian 2nd Season
@@ -26188,6 +26198,7 @@
 18393|2|x-zht|Jiandao Diyi Xian
 20024|1|x-zht|Jiang Ye
 15375|1|x-zht|Jiang Ziya
+20359|1|x-zht|Jiangnan
 13235|1|x-zht|Jianzhen Da he shang
 15219|1|x-zht|Jiao Jiao Yu Jing Jing
 11978|1|x-zht|Jiaoao de Jiangjun
@@ -26332,6 +26343,14 @@
 16770|1|x-zht|Jingling Meng Xie Luo Li Di 6 Ji
 16771|1|x-zht|Jingling Meng Xie Luo Li Di 7 Ji
 16772|1|x-zht|Jingling Meng Xie Luo Li Di 8 Ji
+16765|2|x-zht|Jingling Meng Yeloli
+20362|1|x-zht|Jingling Meng Yeloli Di 10 Ji
+20363|1|x-zht|Jingling Meng Yeloli Di 11 Ji
+20364|1|x-zht|Jingling Meng Yeloli Di 11 Ji Xia
+20361|1|x-zht|Jingling Meng Yeloli Di 9 Ji: Ni Wang Zhi Zhan
+20371|1|x-zht|Jingling Meng Yeloli x Bing Lianhua
+20370|1|x-zht|Jingling Meng Yeloli x Guang Fuchen
+20366|1|x-zht|Jingling Meng Yeloli x Jin Huaguan
 14577|2|x-zht|Jingling Wangzuo
 16856|1|x-zht|Jinguizi
 11243|1|x-jat|Jinken Mamoru-kun to Ayumi-chan Sekai wo Shiawase ni
@@ -26381,6 +26400,7 @@
 19900|1|x-zht|Jiu Cang Miao Wo Richang Pian
 19899|1|x-zht|Jiu Cang Miao Wo Yinghua Cun Pian
 18377|1|x-zht|Jiu Chen Fengyun Lu
+20372|1|x-zht|Jiu Jiu Ba Shi Yi
 8120|1|x-zht|Jiu Se Lu
 17601|1|x-zht|Jiu Tian Xuan Di Jue
 18434|1|x-zht|Jiu Tian Xuan Di Jue 3
@@ -26391,6 +26411,7 @@
 16002|2|x-zht|Jiu Ye Shen Chuan
 16002|1|x-zht|Jiu Ye Shen Zhuan
 18014|1|x-zht|Jiuzhou Piaomiao Lu
+20373|1|x-zht|Jixian Chengshi
 16760|1|x-zht|Jiyi Guanli Ju
 16760|2|x-zht|Jiyi Guanli Ju (2020)
 19175|1|x-jat|Jiyi Guanli Ju (2026)
@@ -27247,6 +27268,7 @@
 20341|4|en|Kaiju No. 8: Narumi`s Week at Work
 17550|2|en|Kaiju No.EIGHT
 17358|1|x-zht|Kaiju Yi Zuo Shan
+20376|1|x-zht|Kaiju Yi Zuo Shan 2
 17550|1|x-jat|Kaijuu 8 Gou
 18722|1|x-jat|Kaijuu 8 Gou (2025)
 19471|1|x-jat|Kaijuu 8 Gou Dai 1 Ki Soushuuhen
@@ -33735,6 +33757,7 @@
 423|4|de|Magic Knight Rayearth
 423|4|fr|Magic Knight RayEarth - OAV
 18729|1|x-jat|Magic Knight Rayearth (2026)
+18729|4|en|Magic Knight Rayearth (2026)
 423|4|en|Magic Knight Rayearth OVA
 18750|2|x-jat|Magic Maker - Isekai Mahou no Tsukurikata
 18750|4|en|Magic Maker: How to Make Magic in Another World
@@ -33788,6 +33811,7 @@
 1444|2|x-jat|Magical Emi
 5376|2|en|Magical Emi - Droning in the Chorus of Cicadas OVA
 18208|1|x-jat|Magical Explorer
+18208|4|en|Magical Explorer
 499|2|en|Magical Fairy Persia
 499|2|en|Magical Fairy Perusha
 1358|2|en|Magical Girl Ai
@@ -34555,6 +34579,7 @@
 20159|3|x-jat|mamomusu
 611|2|x-jat|Mamono Hunter Yohko
 611|1|x-jat|Mamono Hunter Youko
+19831|2|x-jat|Mamono Kurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru
 20159|1|x-jat|Mamono Tsukai no Musume
 19831|1|x-jat|Mamonogurai no Boukensha: Ore dake Mamono o Kuratte Tsuyoku Naru
 4529|3|x-jat|mamoru
@@ -45912,7 +45937,7 @@
 4295|1|x-jat|Rebiya
 4747|3|x-jat|Reborn
 19715|4|en|Reborn as a Cat
-19142|2|en|Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!
+19142|4|en|Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!
 17557|4|en|Reborn as a Vending Machine, I Now Wander the Dungeon
 18204|4|en|Reborn as a Vending Machine, I Now Wander the Dungeon 2nd Season
 19580|4|en|Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season
@@ -46783,6 +46808,7 @@
 18858|1|x-jat|Romelia Senki
 18858|2|x-jat|Romelia Senki: Maou wo Taoshita Ato mo Jinrui Yabasou Dakara Guntai Soshiki Shita
 18858|4|de|Romelia War Chronicle
+18858|4|en|Romelia War Chronicle
 18858|2|en|Romélia War Chronicle: The Count’s Daughter Rallies an Army in the Wake of Mankind’s Victory
 2023|3|x-jat|romeo
 2023|4|en|Romeo and The Black Brothers
@@ -51134,7 +51160,7 @@
 5576|2|en|So Long Mr. Despair Extreme
 18007|2|ja|So Low
 13925|2|en|So Many Colors in the Future What a Wonderful World
-19942|2|en|So What`s Wrong with Getting Reborn as a Goblin?
+19942|4|en|So What`s Wrong with Getting Reborn as a Goblin?
 19692|4|en|So You`re Raising a Warrior
 18007|1|x-jat|So_low
 18007|4|ja|so_low
@@ -55159,6 +55185,7 @@
 18108|1|x-jat|The Fable
 19990|1|x-jat|The Fable 2
 19990|2|en|The Fable 2
+16765|2|en|The Fairy Dream of Yeloli
 10220|2|en|The Fake
 10220|4|es|The Fake
 19431|2|en|The Fake Alchemist
@@ -55959,7 +55986,7 @@
 10368|2|en|The Prince of Tennis II OVAs vs Genius 10
 15536|4|en|The Prince of Tennis II: Hyotei vs. Rikkai - Game of Future
 16878|4|en|The Prince of Tennis II: U-17 World Cup
-20348|2|en|The Prince of Tennis II: U-17 World Cup Finals Members Decisive Match
+20348|4|en|The Prince of Tennis II: U-17 World Cup - Final Member Selection Match
 18054|4|en|The Prince of Tennis II: U-17 World Cup Semifinal
 4244|4|en|The Prince of Tennis OVA: The National Tournament
 8344|2|en|The Prince of Tennis: A Gift from Atobe
@@ -56634,7 +56661,7 @@
 18207|2|en|The World`s Finest Assassin Gets Reincarnated in Another World as an Aristocrat (2027)
 7051|4|en|The World`s Greatest Fairy Tales
 19569|4|en|The World`s Strongest Rearguard: Labyrinth Country`s Novice Seeker
-20035|2|en|The World`s Strongest Witch
+20035|4|en|The World`s Strongest Witch
 16537|4|en|The Wrong Way to Use Healing Magic
 18799|4|en|The Wrong Way to Use Healing Magic 2
 18799|2|en|The Wrong Way to Use Healing Magic Season 2
@@ -59666,6 +59693,7 @@
 181|4|tr|Versay`ın Gülü
 17609|4|tr|Versay`ın Gülü (2025)
 19957|1|x-jat|Vertex Force
+19957|4|en|Vertex Force
 249|4|fr|Vertige de l`amour
 1335|4|en|Very Private Lesson
 6496|3|x-jat|vesperia
@@ -62027,6 +62055,10 @@
 13065|1|x-jat|Yell
 13065|4|ja|YELL [エール]
 13371|4|en|Yellow
+20369|1|x-zht|Yeloli: Jin Liu Xin
+20365|1|x-zht|Yeloli: Shijian Yu
+20367|1|x-zht|Yelolii: Luolimo Shui Yu
+20368|1|x-zht|Yelolii: Yue Ling Shi
 19011|4|tr|Yemek Masası Dedektifi‬
 15526|2|x-kot|Yeon-ae Halujeon
 15500|2|x-kot|Yeon-ae Halujeon 0
@@ -81037,6 +81069,7 @@
 11270|4|ja|ハルチカ ~ハルタとチカは青春する~
 1395|4|ja|バルテュス ~ティアの輝き~
 1395|2|ja|バルテュス ティアの輝き
+20374|4|ja|ハルとゲン ~70歳, はじめての子育て~
 3445|4|ja|バルドフォース エグゼ レソリューション
 4536|4|ja|はるのあしおと The Movie 桜鈴奪還
 8669|4|ja|ハルのふえ
@@ -81906,6 +81939,7 @@
 6608|4|ja|プロ野球を10倍楽しく見る方法PART2
 7617|2|ja|ブンナよ, 木からおりてこい
 7617|4|ja|ブンナよ木からおりてこい
+20375|4|ja|ふんばるず
 14338|4|ja|ぶんぶくちゃがま
 12579|4|ja|プンプンポルカ
 9831|4|ja|へ~せいポリスメン!!
@@ -84366,6 +84400,7 @@
 7595|2|ja|乙女蹂躙遊戯 〜Maiden Infringement Play〜
 7595|4|ja|乙女蹂躙遊戯~Maiden Infringement Play~
 2755|4|ja|乙姫CONNECTION
+20372|4|zh|九九八十一
 16002|4|zh-Hans|九夜神传
 17601|4|zh-Hans|九天玄帝诀
 18434|4|zh-Hans|九天玄帝诀 第三季
@@ -85862,6 +85897,7 @@
 13205|4|zh-Hant|前進吧！登山少女 第三季
 10293|4|zh-Hant|前進吧！登山少女 第二季
 16015|4|ja|前髪
+20360|4|zh|剑与远征-伊索米亚的那些事儿
 17596|4|zh-Hans|剑仙在此
 19153|4|zh-Hans|剑仙在此 第2季
 19153|2|zh-Hans|剑仙在此 第二季
@@ -86132,6 +86168,7 @@
 6325|4|ja|劇場版 天元突破グレンラガン 螺巌篇
 18881|4|zh-Hant|劇場版 學姊是男孩：雨後天晴
 15255|4|ja|劇場版 少女☆歌劇 レヴュースタァライト
+15255|4|zh-Hant|劇場版 少女☆歌劇Revue Starlight
 15064|4|ja|劇場版 巨蟲列島
 399|4|ja|劇場版 幻想魔伝最遊記 Requiem 選ばれざる者への鎮魂歌
 13717|2|ja|劇場版 幼女戦記
@@ -86735,7 +86772,11 @@
 17447|4|zh-Hans|史上最强男主角
 7729|2|zh-Hant|史塔斯閘門
 4336|2|zh-Hans|史诗创造者年代记
+20365|4|zh|叶罗丽时间雨
+20368|4|zh|叶罗丽月灵石
 20048|4|zh-Hans|叶罗丽金鎏心
+20369|4|zh|叶罗丽金鎏心
+20367|4|zh|叶罗丽默水语
 19075|2|zh-Hans|叹气的亡灵好想隐退
 18498|4|zh-Hans|叹气的亡灵想隐退
 19075|4|zh-Hans|叹气的亡灵想隐退 第2部分
@@ -89347,6 +89388,7 @@
 14811|4|ja|少女☆寸劇 オールスタァライト
 13152|4|zh-Hans|少女☆歌剧 Revue Starlight
 13152|4|zh-Hant|少女☆歌劇 Revue Starlight
+15254|4|zh-Hant|少女☆歌劇 Revue Starlight RONDO·RONDO·RONDO
 13152|2|ja|少女☆歌劇 レヴュー・スタァライト
 13152|4|ja|少女☆歌劇 レヴュースタァライト
 15254|4|ja|少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド
@@ -89882,6 +89924,7 @@
 13011|4|zh-Hant|开封奇谈 (Movie)
 13010|4|zh-Hans|开封奇谈-这个包公不太行
 17358|4|zh-Hans|开局一座山
+20376|4|zh|开局一座山 2
 19820|4|zh-Hans|开局地摊卖大力
 20073|4|zh-Hans|开局就有王者账号
 20038|4|zh-Hans|开拍啦！怪兽大电影
@@ -92745,6 +92788,7 @@
 1330|4|zh-Hans|极道鲜师
 18394|4|zh-Hans|极道龙神
 17189|2|zh-Hans|极限之心
+20373|4|zh|极限城市
 844|4|zh-Hans|极黑之翼
 10069|4|zh-Hans|极黑的布伦希尔德
 10069|2|zh-Hans|极黑的布伦希尔特
@@ -93582,6 +93626,7 @@
 16720|4|zh-Hans|汉化日记 第二季
 18463|4|zh-Hans|汉化日记 第四季
 8746|4|ja|汐留ケーブルテレビ
+20359|4|zh|江南
 3138|4|ja|江口寿史のNANTOKA NARUDESHO!
 3138|2|ja|江口寿史のなんとかなるでショ!
 2904|4|ja|江口寿史の寿五郎ショウ
@@ -94069,6 +94114,9 @@
 18011|4|zh-Hans|火凤燎原
 19127|4|zh-Hans|火凤燎原 第二季
 16726|4|zh-Hans|火力少年王3
+20356|4|zh|火力少年王3续集
+20357|4|zh|火力少年王之传奇再现
+20358|4|zh|火力少年王之传奇再现续集
 15184|4|zh-Hans|火力少年王之悠拳英雄
 18233|4|zh-Hans|火力少年王之悠拳英雄 2
 19181|4|ja|火喰鳥 羽州ぼろ鳶組
@@ -96183,6 +96231,9 @@
 16962|4|zh-Hans|精灵幻想记 2
 16962|2|zh-Hans|精灵幻想记 第二季
 16765|4|zh-Hans|精灵梦叶罗丽
+20362|4|zh|精灵梦叶罗丽 第10季
+20363|4|zh|精灵梦叶罗丽 第11季
+20364|4|zh|精灵梦叶罗丽 第11季 下
 16766|4|zh-Hans|精灵梦叶罗丽 第2季
 16767|4|zh-Hans|精灵梦叶罗丽 第3季
 16768|4|zh-Hans|精灵梦叶罗丽 第4季
@@ -96190,6 +96241,10 @@
 16770|4|zh-Hans|精灵梦叶罗丽 第6季
 16771|4|zh-Hans|精灵梦叶罗丽 第7季
 16772|4|zh-Hans|精灵梦叶罗丽 第8季
+20361|4|zh|精灵梦叶罗丽 第9季 逆亡之战
+20370|4|zh|精灵梦叶罗丽X光浮尘
+20371|4|zh|精灵梦叶罗丽X冰莲花
+20366|4|zh|精灵梦叶罗丽X金花冠
 14577|2|zh-Hans|精灵王座
 1140|4|zh-Hans|精神力量
 4403|4|ja|精霊の守り人
@@ -97911,8 +97966,11 @@
 5427|2|ja|賭博破戒録カイジ
 6633|4|zh-Hant|賽貝索偵探隊
 13034|2|zh-Hant|賽馬娘 Pretty Derby
+17351|2|zh-Hant|賽馬娘 Pretty Derby ROAD TO THE TOP
 17706|4|zh-Hant|賽馬娘 Pretty Derby 第三季
+15739|4|zh-Hant|賽馬娘 Pretty Derby 第二季
 18829|4|zh-Hant|賽馬娘 灰髮灰姑娘
+18359|4|zh-Hant|賽馬娘Pretty Derby：新時代之門
 15996|4|ja|贄姫と獣の王
 2516|4|ja|贖罪の教室
 1975|4|ja|贖罪の教室 Bad End
