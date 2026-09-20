@@ -1,4 +1,4 @@
-# created: Fri Sep 18 03:00:02 2026
+# created: Sun Sep 20 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -5125,6 +5125,7 @@
 14049|2|x-jat|Bang Dream!: Pastel Life
 12402|2|x-jat|Bang Dream!: Star Beat! Hoshi no Kodou
 11841|2|x-jat|Bang Dream!: Yes! Bang Dream!
+14077|2|zh-Hant|BanG Dream！Girls Band Party!☆PICO
 12570|4|en|Bangable Girl
 16015|1|x-jat|Bangs
 15853|2|pt|Banido da Festa do Herói, Decidi Viver uma Vida Tranquila no Campo
@@ -10791,6 +10792,7 @@
 6986|4|en|Daddy Long Legs
 19451|4|en|Daemons of the Shadow Realm
 19451|2|de|Daemons of the Shadow Realm
+20406|2|en|Daemons of the Shadow Realm 2
 1153|2|en|Daft Punk & Leiji Matsumoto`s INTERSTELLA 5555: The 5tory of the 5ecret 5tar 5ystem
 1153|4|hu|Daft Punk: Interstella 5555
 1710|3|x-jat|Dagarn
@@ -11438,7 +11440,6 @@
 10936|4|nl|De Grens van Rinne
 4172|4|nl|De Heks uit het Westen - Astraea Testament
 10910|4|nl|De Heroïsche Legende van Arslan
-20342|1|x-jat|De Ji Kyaratto Kurisumasu Supesharu
 13175|4|fr|De l`autre côté du ciel
 15782|2|fr|De la nuit germe une tournesol
 6367|2|nl|De Melancholie van Haruhi Suzumiya
@@ -12391,7 +12392,6 @@
 553|4|ja|Di Gi Charat
 769|4|fr|Di Gi Charat - Le voyage vers la planète
 4797|2|en|Di Gi Charat - Winter Garden
-20342|4|en|Di Gi Charat Christmas Special
 769|4|en|Di Gi Charat Movie: A Trip To The Planet
 930|1|x-jat|Di Gi Charat Nyo
 930|4|pt-BR|Di Gi Charat Nyo
@@ -18226,6 +18226,7 @@
 8668|2|x-jat|Galaxy Racer Scan2Go
 4122|2|en|Galaxy Railway 999: Can You Love Like a Mother?!!
 1000|3|en|Galaxy Railways
+1305|2|en|Galaxy Warring State Chronicle Rai
 2822|4|ro|Galeria Falsurilor
 2618|1|x-jat|Galerians: Rion
 2618|4|ja|Galerians: Rion
@@ -18265,6 +18266,7 @@
 11512|1|x-jat|Galo Sengen
 475|3|x-jat|gals
 19628|4|en|Gals Can`t Be Kind to Otaku!?
+20402|1|x-jat|Gals` Fiction The Animation
 11512|4|ja|GAL男宣言
 11225|4|it|Gamba 3D
 11225|4|en|Gamba 3D
@@ -19500,6 +19502,7 @@
 5081|1|x-jat|Ginga Patrol PJ
 3116|1|x-jat|Ginga Reppuu Baxinger
 1305|1|x-jat|Ginga Sengoku Gun Yuuden Rai
+1305|2|x-jat|Ginga Sengoku Gun`yūden Rai
 3117|1|x-jat|Ginga Senpuu Braiger
 3115|1|x-jat|Ginga Shippuu Sasuraiger
 6954|1|x-jat|Ginga Shounen Tai
@@ -26632,6 +26635,7 @@
 15287|4|vi|Josee: Khi nàng thơ yêu
 15287|3|x-jat|joseetora
 4605|1|x-jat|Joseito
+20403|1|x-jat|Josemaru
 3650|2|en|Josephina the Whale
 3650|2|en|Josephine the Whale
 14390|1|x-jat|Joshi Kausei
@@ -27344,6 +27348,7 @@
 1888|1|x-jat|Kaizoku Ouji
 15656|1|x-jat|Kaizoku Oujo
 18243|1|x-jat|Kaji to Kouma
+20401|1|x-jat|Kajitsu The Animation
 4112|3|x-jat|KaKaMa
 13366|1|x-jat|Kakari
 12834|1|x-jat|Kakegurui
@@ -39079,6 +39084,7 @@
 13115|1|x-jat|Neko to Mata
 6912|1|x-jat|Neko to Nezumi
 19172|1|x-jat|Neko to Ryuu
+20404|1|x-jat|Neko to Ryuu (2027)
 17900|1|x-jat|Neko to Wakai se na
 8117|2|x-jat|Nekogami 8,000,000
 8117|1|x-jat|Nekogami Yaoyorozu
@@ -49934,6 +49940,7 @@
 17693|2|x-jat|Shin no Nakama Season 2
 20209|1|x-jat|Shin no Seijo de Aru Watashi wa Tsuihou Saremashita. Dakara Kono Kuni wa Mou Owari Desu
 2585|1|x-jat|Shin Obake no Q-Tarou
+20405|1|x-jat|Shin Oishinbo
 4748|1|x-jat|Shin Onimusha: Dawn of Dreams the Story
 7095|1|x-jat|Shin Otokogi
 4628|1|x-jat|Shin Pro Golfer Saru
@@ -49944,7 +49951,7 @@
 2444|1|x-jat|Shin Saishuu Chikan Densha
 15097|1|x-jat|Shin Sakura Taisen the Animation
 18612|1|x-jat|Shin Samurai-den Yaiba
-19616|1|x-jat|Shin Samurai-den Yaiba 2
+19616|1|x-jat|Shin Samurai-den Yaiba (2027)
 7020|3|x-jat|shin sanjuushi
 6945|2|en|Shin Saru Kani Kassen
 10534|1|x-jat|Shin Sei Yariman Gakuen Enkou Nikki The Animation
@@ -50719,6 +50726,7 @@
 12324|4|ko|sin 일곱개의 대죄
 12324|4|ja|sin 七つの大罪
 12324|4|zh-Hans|sin 七大罪
+12324|4|zh-Hant|sin 七大罪
 15391|2|x-kot|Sin-ui Tap
 17559|2|x-kot|Sin-ui Tap 2nd Season
 7470|2|ja|SIN・KOIHIME†MUSOU LIVE Revolution
@@ -54934,6 +54942,7 @@
 18967|4|en|The Casebook of Arne
 320|2|en|The Castle of Cagliostro
 19172|4|en|The Cat and the Dragon
+20404|2|en|The Cat and the Dragon (2027)
 12882|4|en|The Cat Purr Dance
 679|4|en|The Cat Returns
 679|4|id|The Cat Returns
@@ -61293,6 +61302,8 @@
 9417|3|en|wug
 10245|3|en|wug movie
 10785|3|x-jat|wug zoo
+18907|2|x-zht|Wuhang Zhanshen
+18908|2|x-zht|Wuhang Zhanshen 2
 18908|2|x-zht|Wuhang Zhanshen 2nd Season
 18908|2|x-zht|Wuhang Zhanshen Di Er Ji
 19623|2|en|Wuhun Continent
@@ -61747,7 +61758,7 @@
 329|4|pt|Yaiba - O Pequeno Samurai
 18612|4|en|Yaiba: Samurai Legend
 18612|4|de|YAIBA: Samurai Legend
-19616|2|en|Yaiba: Samurai Legend 2
+19616|2|en|Yaiba: Samurai Legend (2027)
 3993|1|x-jat|Yajikita Gakuen Douchuuki
 5540|1|x-jat|Yakata Jukujo
 10819|1|x-jat|Yakata: Kannou Kitan
@@ -62320,6 +62331,7 @@
 17731|1|x-jat|Yomawari Neko
 19451|1|x-jat|Yomi no Tsugai
 19451|4|pt-BR|Yomi no Tsugai - Daemons do Reino das Sombras
+20406|1|x-jat|Yomi no Tsugai 2
 4113|3|x-jat|Yomigaeru Sora
 4113|1|x-jat|Yomigaeru Sora: Rescue Wings
 8251|2|x-jat|Yon-juu-hachi x Roku-juu-ichi
@@ -77419,6 +77431,7 @@
 6401|4|ja|キャラディのジョークな毎日
 13870|4|ja|キャラとおたまじゃくし島
 2822|4|ja|ギャラリーフェイク
+20402|4|ja|ギャルズフィクション THE ANIMATION
 15072|4|ja|ギャルと恐竜
 13893|4|ja|キャロル&チューズデイ
 559|4|ja|きゃんきゃんバニーエクストラ
@@ -78682,6 +78695,7 @@
 9402|4|ja|じょしらく (2013)
 14909|4|ja|じょしラク!
 15287|4|ja|ジョゼと虎と魚たち
+20403|4|ja|じょせまる
 15287|3|ja|ジョゼ虎
 8349|4|ja|ショッキングピンク!
 9921|4|ja|ジョバンニの島
@@ -86201,6 +86215,7 @@
 20162|4|ja|劇場版 俺だけレベルアップな件 -Beyond the System-
 18068|4|ja|劇場版 僕とロボコ
 18890|4|ja|劇場版 僕の心のヤバイやつ
+12962|4|zh-Hant|劇場版 吹響吧！上低音號～想傳達的旋律～
 13207|4|zh-Hant|劇場版 吹響吧！上低音號～誓言的終章～
 16169|4|ja|劇場版 呪術廻戦 0
 19819|4|ja|劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 先行上映」
@@ -87136,6 +87151,7 @@
 11746|2|zh-Hans|吹响吧！上低音号 第二季
 12962|2|zh-Hans|吹响吧！上低音号～想要传达的旋律～
 13207|4|zh-Hans|吹响吧！上低音号~誓言的终曲~
+14935|4|zh-Hant|吹響吧！上低音號 久美子三年級篇
 17717|4|ja|吾輩は犬である ドン松五郎の生活
 6576|4|ja|吾輩は猫である
 17330|4|zh-Hans|呆萌酷男孩
@@ -87183,6 +87199,7 @@
 18363|4|zh-Hans|咒术回战 死灭回游 前篇
 17196|4|zh-Hans|咒术回战 第二季
 15275|4|zh-Hant|咒術迴戰
+18363|4|zh-Hant|咒術迴戰 死滅迴游 前篇
 17196|2|zh-Hant|咒術迴戰 第二季
 18686|4|zh-Hans|咔嗒咔嗒
 311|4|zh|咕噜咕噜魔法阵
@@ -87436,6 +87453,7 @@
 8485|2|zh-Hant|因果日記
 15853|2|zh-Hant|因為不是命中注定的夥伴而被逐出勇者隊伍，從此到邊境過上了悠閒的隱居生活
 15853|4|zh-Hant|因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生
+17693|4|zh-Hant|因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生 第二季
 16826|2|zh-Hant|因為是反派大小姐所以養了魔王
 17172|4|zh-Hans|团团奇米莫
 20328|4|zh|团子们的使命
@@ -87535,6 +87553,7 @@
 13829|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 2
 16032|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 4
 17652|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 Ⅳ 深章 災厄篇
+11974|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚
 15111|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 第三季
 11941|2|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 第三季 OVA
 18267|4|zh-Hant|在地下城尋求邂逅是否搞錯了什麼 第五季
@@ -87781,6 +87800,7 @@
 5132|4|zh-Hans|夏娃的时间
 7249|4|zh-Hans|夏娃的时间 剧场版
 10832|4|ja|夏恋戦機
+20401|4|ja|夏日 The Animation
 13693|4|zh-Hans|夏日口袋
 6249|4|zh-Hans|夏日大作战
 16064|4|zh-Hant|夏日幽靈
@@ -89350,6 +89370,7 @@
 14834|4|zh-Hans|小明和王猫
 5278|2|zh-Hans|小春日和
 17494|4|zh-Hant|小智是女孩啦！
+18302|4|zh-Hant|小書痴的下剋上 為了成為圖書管理員不擇手段！領主的養女
 14727|4|zh-Hant|小書痴的下剋上：為了成為圖書管理員不擇手段！
 15634|2|zh-Hant|小書痴的下剋上：為了成為圖書管理員不擇手段！第三季
 13252|4|zh-Hans|小木乃伊到我家
@@ -89423,6 +89444,7 @@
 9971|4|zh-Hans|小魔女学园 魔法游行
 9250|2|zh-Hant|小魔女學園
 12235|2|zh-Hant|小魔女學園 2017
+9971|4|zh-Hant|小魔女學園 魔法遊行
 2084|4|zh-Hans|小魔星
 16940|2|zh-Hant|小鳥之翼
 9919|4|ja|小鳥遊六花・改 ~劇場版 中二病でも恋がしたい!~
@@ -89966,6 +89988,7 @@
 15365|4|zh-Hans|座敷童子榻榻米酱
 18622|4|zh-Hant|庫吉馬唱歌的家
 102|4|zh-Hant|庫洛魔法使
+12140|4|zh-Hant|庫洛魔法使 透明牌篇
 640|2|ja|廃棄王女
 14658|4|zh-Hant|廚神小當家
 15336|4|zh-Hant|廚神小當家 第二季
@@ -90655,6 +90678,7 @@
 7934|2|zh-Hant|惡魔奶爸
 9916|4|zh-Hant|惡魔的謎語
 8660|2|zh-Hant|惡魔高校
+10691|4|zh-Hant|惡魔高校 D×D BorN
 8660|2|zh-Hant|惡魔高校D×D
 9409|4|zh-Hant|惡魔高校D×D NEW
 8925|4|zh-Hant|惡魔高校D×D OAD
@@ -90988,6 +91012,7 @@
 14776|4|zh-Hans|我的英雄学院：英雄崛起
 18199|4|zh-Hans|我的英雄学院：雄英HEROES BATTLE
 15672|4|zh-Hans|我的英雄学院OVA 活下来！殊死的生存训练
+11739|4|zh-Hant|我的英雄學院
 16793|2|zh-Hant|我的英雄學院 第六季
 14416|4|zh-Hant|我的英雄學院 第四季
 18199|4|zh-Hant|我的英雄學院：雄英HEROES BATTLE
@@ -91687,6 +91712,7 @@
 11883|4|zh-Hans|斯特拉的魔法
 1908|2|ja|新 カリメロ
 17493|4|zh-Hans|新 吊带袜天使
+20405|4|ja|新 美味しんぼ
 4748|4|ja|新 鬼武者 DAWN OF DREAMS THE STORY
 1073|4|ja|新・エースをねらえ!
 839|4|ja|新・エンジェル
@@ -94220,6 +94246,7 @@
 11712|4|zh-Hant|灰與幻想的格林姆迦爾
 17220|4|zh-Hans|灰色:幻影扳机
 13273|4|zh-Hans|灰色：幻影扳机 THE ANIMATION
+17220|4|zh-Hant|灰色：幻影扳機
 13273|4|zh-Hant|灰色：幻影扳機 Stargazer
 11009|4|zh-Hans|灰色的乐园
 9749|4|zh-Hans|灰色的果实
@@ -94843,6 +94870,7 @@
 13183|4|ja|猫がくれたまぁるいしあわせ
 17182|4|ja|猫ジョッキー
 19172|4|ja|猫と竜
+20404|4|ja|猫と竜 (2027)
 6912|4|ja|猫と鼠
 11677|4|ja|猫なんかよんでもこない.
 19090|4|ja|猫になりたい田万川くん
@@ -95537,7 +95565,7 @@
 14658|4|ja|真・中華一番!
 15336|4|ja|真・中華一番! (2021)
 18612|4|ja|真･侍伝 YAIBA
-19616|4|ja|真･侍伝 YAIBA 2
+19616|4|ja|真･侍伝 YAIBA (2027)
 1221|4|ja|真・女神転生 東京黙示録
 1968|4|ja|真･女神転生D[デビル]チルドレン ライト&ダーク
 1967|4|ja|真・女神転生デビチル[デビルチルドレン]
@@ -97402,6 +97430,7 @@
 19977|4|ja|葬送のフリーレン (2027)
 19977|2|ja|葬送のフリーレン 黄金郷編
 17617|4|zh-Hans|葬送的芙莉莲
+18886|4|zh-Hans|葬送的芙莉莲 第二季
 17617|4|zh-Hant|葬送的芙莉蓮
 836|4|zh-Hans|蒲公英
 9091|4|ja|蒼い世界の中心で
@@ -99359,6 +99388,7 @@
 17709|2|zh-Hant|關於我轉生變成史萊姆這檔事 第三季
 14767|4|zh-Hant|關於我轉生變成史萊姆這檔事 第二季
 15456|4|zh-Hant|關於我轉生變成史萊姆這檔事 第二季 第2部分
+18884|4|zh-Hant|關於我轉生變成史萊姆這檔事 第四季
 17873|2|zh-Hant|關於我轉生變成史萊姆這檔事 高里烏斯之夢
 10676|4|zh-Hant|關於聽不懂老公在說什麼這件事
 9166|4|zh-Hans|闪乱神乐
@@ -100560,6 +100590,7 @@
 5975|4|zh-Hant|魔法禁書目錄
 7599|4|zh-Hant|魔法禁書目錄 II
 13481|4|zh-Hant|魔法禁書目錄 III
+8694|4|zh-Hant|魔法禁書目錄劇場版－安迪米昂的奇蹟－
 15952|4|zh-Hans|魔法科高中的优等生
 15952|4|zh-Hant|魔法科高中的優等生
 10182|4|zh-Hans|魔法科高中的劣等生
@@ -100855,6 +100886,7 @@
 18709|4|zh-Hans|黄昏旅店
 7532|2|zh-Hans|黄段子学生会
 19451|4|ja|黄泉のツガイ
+20406|4|ja|黄泉のツガイ 2
 19451|4|zh-Hans|黄泉使者
 17876|4|ja|黄金の庭園: 冬に積もる新年の願い
 4277|4|ja|黄金の法 エル・カンターレの歴史観
