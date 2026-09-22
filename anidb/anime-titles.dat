@@ -1,4 +1,4 @@
-# created: Sun Sep 20 03:00:01 2026
+# created: Tue Sep 22 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -344,6 +344,7 @@
 18369|2|en|100.000 Years of Refining Qi
 20204|2|en|100.000 Years of Refining Qi: Yang Ascendant
 5308|3|x-jat|100%
+5308|4|ja|100%
 3067|4|it|100% Fragola
 3067|2|pt|100% Morango
 13560|1|x-jat|100% Pascal-sensei
@@ -351,7 +352,7 @@
 12410|4|en|100% Teacher Pascal
 3067|2|ru|100% Клубничка
 3067|2|ar|100% فراولة
-5308|4|ja|100%[A Hundred Percents]
+5308|6|ja|100%[A Hundred Percents]
 13560|4|ja|100%パスカル先生
 12410|4|ja|100%パスカル先生 (2017)
 12410|4|zh-Hans|100%帕斯卡老师
@@ -1030,7 +1031,6 @@
 14300|4|en|A Hot Night With My Boss in a Capsule Hotel
 18009|2|en|A Housewife`s Healing Touch
 5308|1|x-jat|A Hundred Percents
-5308|2|en|A Hundred Percents
 18618|4|en|A Hundred Scenes of Awajima
 16033|4|pt-BR|A Ilha das Sombras
 2038|4|pt|A Ilha do Tesouro
@@ -6320,6 +6320,7 @@
 8584|4|en|Black Rock Shooter
 8584|4|de|Black Rock Shooter
 8584|1|x-jat|Black Rock Shooter (2012)
+16705|2|zh-Hant|BLACK ROCK SHOOTER DAWN FALL
 16705|4|pl|Black Rock Shooter: Apokalipsa
 16705|1|x-jat|Black Rock Shooter: Dawn Fall
 16705|4|cs|Black Rock Shooter: Příchod temna
@@ -13405,7 +13406,7 @@
 6587|1|x-jat|Doraemon: Nobita to Buriki no Labyrinth
 6587|2|x-jat|Doraemon: Nobita to Burikinomeikyu
 2717|1|x-jat|Doraemon: Nobita to Fushigi Kaze Tsukai
-5046|2|x-jat|Doraemon: Nobita to Ginga Chotokkyu
+5046|2|x-jat|Doraemon: Nobita to Ginga Choutokkyuu
 5046|1|x-jat|Doraemon: Nobita to Ginga Express
 6588|1|x-jat|Doraemon: Nobita to Kumo no Oukoku
 6588|2|x-jat|Doraemon: Nobita to Kumonookoku
@@ -17882,6 +17883,7 @@
 18717|2|x-jat|Futsuma Shoujo Charlotte
 19226|3|x-jat|futsutsuka
 19226|1|x-jat|Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den
+20407|1|x-jat|Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den (2027)
 19226|2|x-jat|Futsutsuka na Akujo dewa Gozaimasu ga
 10404|1|x-jat|Futsuu no Joshikousei ga [Locodol] Yattemita.
 11286|1|x-jat|Futsuu no Joshikousei ga [Locodol] Yattemita. (2015)
@@ -20404,10 +20406,12 @@
 13734|4|en|Grand Blue Dreaming
 18892|4|en|Grand Blue Dreaming Season 2
 19600|4|en|Grand Blue Dreaming Season 3
+20408|2|en|Grand Blue Dreaming Season 4
 18892|2|x-jat|Grand Blue S2
 19600|2|x-jat|Grand Blue S3
 18892|1|x-jat|Grand Blue Season 2
 19600|1|x-jat|Grand Blue Season 3
+20408|1|x-jat|Grand Blue Season 4
 15483|4|en|Grand Blues!
 14975|2|fr|Grand frère, reste jusqu’au petit matin !
 1681|4|hu|Grand Prix
@@ -37461,7 +37465,7 @@
 2479|1|x-jat|Mother: Saigo no Shoujo Eve
 19198|1|x-jat|Motokare to wa Dekinakatta Sex Shitemo Ii Desuka?
 11410|1|x-jat|Mottainai
-7680|1|x-jat|Motto To Love-Ru: Trouble
+7680|1|x-jat|Motto To Love-Ru
 7680|4|en|Motto To Loveru
 14986|1|x-jat|Motto! Majime ni Fumajime Kaiketsu Zorori
 15841|1|x-jat|Motto! Majime ni Fumajime Kaiketsu Zorori (2021)
@@ -40150,6 +40154,8 @@
 18014|2|en|Novoland Eagle Flag
 114|4|en|Now and Then, Here and There
 114|4|de|Now and Then, Here and There
+19858|2|en|Now That I Can Control Reality With A Mouse Cursor, I’m Gonna Click Away On The Girls!
+19858|2|en|Now That I Can Control the Real World With My Mouse Cursor, I Click On a Lot of Girls.
 19731|2|en|Now That We Draw
 8835|2|en|Now with Maki
 3672|2|pl|Nowe Przygody Calineczki
@@ -55787,6 +55793,7 @@
 2200|2|en|The Littlest Warrior
 18469|2|en|The Lone Sword Overlord
 18947|2|en|The Lone Sword Overlord 2nd Season
+20340|2|en|The Lonely Snow Widow and the Cursed Ring
 19180|2|en|The Long Ballad
 19517|2|en|The Long March Toward the Universe
 19517|2|en|The Long March Towards the Stars
@@ -56325,6 +56332,7 @@
 18496|4|en|The Shiunji Family Children
 19143|4|en|The Shy Hero and the Assassin Princesses
 15122|4|en|The Shy Oriole
+20340|4|en|The Shy Snow Woman and the Cursed Ring
 5539|1|x-jat|The Siamese: First Mission
 3533|2|en|The Sign of Otaku
 1185|2|en|The Silent Service
@@ -56819,6 +56827,7 @@
 80|4|en|Those Who Hunt Elves II
 15508|2|en|Those Years I Opened a Zoo
 19226|4|en|Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court
+20407|2|en|Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court (2027)
 16041|4|en|Thousand Autumns
 17364|4|en|Thousands of Worlds
 19797|4|en|Threads of Fate: A War Untold
@@ -57169,13 +57178,13 @@
 4158|2|vi|Tổ Kén Xám
 9133|4|fr|To Love Darkness
 5625|2|x-jat|To LOVE Ru - Trouble
+5625|1|x-jat|To Love-Ru
+6463|1|x-jat|To Love-Ru (2009)
 6463|2|x-jat|To Love-Ru OVA
-5625|1|x-jat|To Love-Ru: Trouble
-9133|1|x-jat|To Love-Ru: Trouble - Darkness
-10992|1|x-jat|To Love-Ru: Trouble - Darkness 2nd
-9162|1|x-jat|To Love-Ru: Trouble - Darkness OAD
-12909|1|x-jat|To Love-Ru: Trouble - Multiplication - Mae kara Ushiro kara
-6463|1|x-jat|To Love-Ru: Trouble (2009)
+9133|1|x-jat|To Love-Ru: Darkness
+10992|1|x-jat|To Love-Ru: Darkness 2nd
+9162|1|x-jat|To Love-Ru: Darkness OAD
+12909|1|x-jat|To Love-Ru: Multiplication - Mae kara Ushiro kara
 5625|4|en|To Loveru
 9133|4|en|To Loveru: Darkness
 10992|4|en|To Loveru: Darkness 2
@@ -57186,12 +57195,17 @@
 9133|4|ko|To LOVE루 -트러블- 다크니스
 10992|4|ko|To LOVE루 -트러블- 다크니스 2nd
 9162|4|ko|To LOVE루 -트러블- 다크니스 OAD
-5625|4|ja|To LOVEる -とらぶる-
-6463|4|ja|To LOVEる -とらぶる- (2009)
-12909|4|ja|To LOVEる -とらぶる- Multiplication ~前から後ろから~
-9133|4|ja|To LOVEる -とらぶる- ダークネス
-9162|4|ja|To LOVEる -とらぶる- ダークネス OAD
-10992|4|ja|To LOVEる -とらぶる- ダークネス2nd
+5625|4|ja|To LOVEる
+5625|6|ja|To LOVEる -とらぶる-
+6463|6|ja|To LOVEる -とらぶる- (2009)
+12909|6|ja|To LOVEる -とらぶる- Multiplication ~前から後ろから~
+9133|6|ja|To LOVEる -とらぶる- ダークネス
+10992|6|ja|To LOVEる -とらぶる- ダークネス2nd
+6463|4|ja|To LOVEる (2009)
+12909|4|ja|To LOVEる Multiplication ~前から後ろから~
+9133|4|ja|To LOVEる ダークネス
+9162|4|ja|To LOVEる ダークネス OAD
+10992|4|ja|To LOVEる ダークネス2nd
 16707|4|en|To Me, the One Who Loved You
 7185|2|en|TO Movie
 1137|2|en|To My Brother...
@@ -77673,6 +77687,7 @@
 13734|4|ja|ぐらんぶる
 18892|4|ja|ぐらんぶる Season 2
 19600|4|ja|ぐらんぶる Season 3
+20408|4|ja|ぐらんぶる Season 4
 11597|2|ja|グランブルーファンタジー
 13524|2|ja|グランブルーファンタジー The Animation Season 2
 14717|4|ja|グランベルム
@@ -80183,7 +80198,8 @@
 6593|4|ja|ドラえもん のび太と竜の騎士
 4967|4|ja|ドラえもん のび太と翼の勇者たち
 4674|4|ja|ドラえもん のび太と鉄人兵団
-5046|4|ja|ドラえもん のび太と銀河超特急(エクスプレス)
+5046|4|ja|ドラえもん のび太と銀河超特急
+5046|6|ja|ドラえもん のび太と銀河超特急[エクスプレス]
 6588|4|ja|ドラえもん のび太と雲の王国
 5047|4|ja|ドラえもん のび太のドラビアンナイト
 6584|4|ja|ドラえもん のび太のねじ巻き都市[シティー]冒険記
@@ -80280,7 +80296,7 @@
 16567|4|ja|トラとミケ あにめーしょん
 5909|4|ja|とらドラ!
 2701|3|ja|とらハ2
-5625|2|ja|とらぶる
+5625|5|ja|とらぶる
 2570|4|ja|とらぶる♥EVOCATION
 2570|2|ja|とらぶるEVOCATION
 868|4|ja|トラブルチョコレート
@@ -81291,7 +81307,7 @@
 945|5|ja|ビート・エックス
 16544|2|ja|ビートアンドモーション
 353|4|ja|ヒートガイジェイ
-5794|2|ja|ビートショット!!
+5794|5|ja|ビートショット!!
 13500|2|ja|ビートレス
 15897|4|ja|ビーナス
 7302|2|ja|ピーピング・ライフ
@@ -81466,7 +81482,7 @@
 9502|4|ja|ピューと吹く! ジャガー
 7087|4|ja|ピューと吹く! ジャガー ~いま, 吹きにゆきます~
 9618|4|ja|ピューと吹く! ジャガー リターン・オブ・約1年ぶり
-9804|2|ja|ピューパ
+9804|5|ja|ピューパ
 17657|4|ja|ヒューマンバグ大学
 17657|2|ja|ヒューマンバグ大学 -不死学部不幸学科-
 19414|4|ja|ピュアピュア ぺろぺろ プリンセス
@@ -81713,6 +81729,7 @@
 15981|4|ja|ぷっちみく♪ D4DJ Petit Mix
 19226|3|ja|ふつつか
 19226|4|ja|ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~
+20407|4|ja|ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~ (2027)
 5012|4|ja|ぷッつんメイクLOVE
 15128|2|ja|フットサルボーイズ!!!!!
 316|4|ja|ぶっとび!! CPU
@@ -81937,7 +81954,7 @@
 13436|2|ja|ブレードランナー ブラックアウト2022
 14511|2|ja|ブレードランナー: ブラック・ロータス
 11071|4|ja|フレームアーム A violent struggle
-12563|2|ja|フレームアームズ・ガール
+12563|5|ja|フレームアームズ・ガール
 13981|4|ja|フレームアームズ・ガール ~きゃっきゃうふふなワンダーランド~
 13981|2|ja|フレームアームズ・ガール 2
 6396|2|ja|ブレーメン4 地獄の中の天使たち
@@ -82154,10 +82171,10 @@
 327|3|ja|ぼくたま
 15088|4|ja|ぼくチロ!
 13148|4|ja|ボクとみさき先生
-14340|4|ja|ボクと彼女[ナース]の研修日誌 THE ANIMATION
-15115|4|ja|ボクと彼女[女医]の診察日誌 THE ANIMATION
-14340|2|ja|ボクと彼女の研修日誌 THE ANIMATION
-15115|2|ja|ボクと彼女の診察日誌 THE ANIMATION
+14340|6|ja|ボクと彼女[ナース]の研修日誌 THE ANIMATION
+15115|6|ja|ボクと彼女[女医]の診察日誌 THE ANIMATION
+14340|4|ja|ボクと彼女の研修日誌 THE ANIMATION
+15115|4|ja|ボクと彼女の診察日誌 THE ANIMATION
 18285|4|ja|ぼくのデーモン
 14393|5|ja|ぼくのとなりにあんこくはかいしんがいます.
 14393|4|ja|ぼくのとなりに暗黒破壊神がいます.
@@ -82971,7 +82988,8 @@
 14986|4|ja|もっと! まじめにふまじめ かいけつゾロリ
 15841|4|ja|もっと! まじめにふまじめ かいけつゾロリ (2021)
 16925|4|ja|もっと! まじめにふまじめ かいけつゾロリ (2022)
-7680|4|ja|もっとTo LOVEる -とらぶる-
+7680|4|ja|もっとTo LOVEる
+7680|6|ja|もっとTo LOVEる -とらぶる-
 20104|3|ja|モナリザ
 5585|4|ja|モノクローム・ファクター
 6960|4|ja|ものしり大学 明日のカレンダー
@@ -86496,6 +86514,7 @@
 18246|4|ja|動物村の消防士
 3518|4|ja|動物村ものがたり
 15755|4|zh-Hant|動畫 水豚君
+11540|4|zh-Hant|動畫鍛鍊！EX
 12301|4|zh-Hant|動畫鍛鍊！XX 同一屋檐下
 4992|4|ja|動絵狐狸達引(うごきえこりのたてひき)
 18931|4|ja|勘違いの工房主~英雄パーティの元雑用係が, 実は戦闘以外がSSSランクだったというよくある話~
@@ -87382,6 +87401,7 @@
 12745|4|zh-Hans|噗利噗利奇!!
 10271|4|zh-Hans|噗哔啵 来自未来
 18315|4|zh-Hant|噗妮露是可愛史萊姆
+19072|4|zh-Hant|噗妮露是可愛史萊姆 第二季
 18315|4|zh-Hans|噗妮露是可爱史莱姆
 2740|4|zh-Hant|噴嚏大魔王
 15344|4|zh-Hant|噴嚏大魔王 2020
@@ -95895,7 +95915,7 @@
 10690|4|zh-Hans|神罗万象~天地神明之章~
 10690|4|ja|神羅万象~天地神明の章~
 13139|4|ja|神聖かまってちゃん
-18834|4|ja|神聖昂燐ダクリュオン・ルナ
+18834|4|ja|神聖昂燐ダクリュオン・ルナ 〜堕聖母誕生〜
 5720|4|zh-Hans|神薙
 5720|4|zh-Hant|神薙
 18360|4|zh-Hans|神藏
@@ -97703,10 +97723,14 @@
 13136|4|ja|蟲の溜息
 9666|2|ja|蟲奉行
 3433|4|ja|蟲師
+3433|4|zh-Hant|蟲師
 10274|4|ja|蟲師 特別篇 日蝕む翳
 10384|4|ja|蟲師 続章
 10571|4|ja|蟲師 続章 (2014)
 10991|4|ja|蟲師 続章 鈴の雫
+10384|4|zh-Hant|蟲師 續章
+10991|4|zh-Hant|蟲師 續章 鈴之雫
+10274|4|zh-Hant|蟲師 蝕日之翳
 7299|4|ja|蟲極道 蜜団子抗争編
 14479|4|zh-Hant|蟲籠的卡伽斯特爾
 11579|4|ja|蟹満寺縁起
@@ -100216,6 +100240,7 @@
 16259|4|ja|鬼滅の刃 那田蜘蛛山編
 17070|4|ja|鬼滅の刃 鼓屋敷編
 14107|4|zh-Hant|鬼滅之刃
+14689|2|zh-Hant|鬼滅之刃 兄妹之絆
 17198|4|zh-Hant|鬼滅之刃 刀匠村篇
 18067|4|zh-Hant|鬼滅之刃 柱訓練篇
 16054|2|zh-Hant|鬼滅之刃 遊郭篇
@@ -101038,6 +101063,7 @@
 8059|4|ja|鼻の日
 12112|4|zh-Hant|齊木楠雄的災難
 14189|4|zh-Hant|齊木楠雄的災難 完結篇
+12691|4|zh-Hant|齊木楠雄的災難 第二季
 14797|4|zh-Hant|齊木楠雄的災難：再始動
 12112|4|zh-Hans|齐木楠雄的灾难
 14797|4|zh-Hans|齐木楠雄的灾难 再始动篇
