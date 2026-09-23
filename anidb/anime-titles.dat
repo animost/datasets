@@ -1,4 +1,4 @@
-# created: Tue Sep 22 03:00:02 2026
+# created: Wed Sep 23 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -3908,6 +3908,7 @@
 15293|2|en|Ascendance of a Bookworm S2
 15634|2|en|Ascendance of a Bookworm S3
 18302|2|en|Ascendance of a Bookworm S4
+15293|2|en|Ascendance of a Bookworm Season 2
 15634|2|en|Ascendance of a Bookworm Season 3
 18302|2|en|Ascendance of a Bookworm Season 4
 18302|4|de|Ascendance of a Bookworm: Adopted Daughter of an Archduke
@@ -22193,6 +22194,7 @@
 18675|1|x-jat|Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) o Mugen ni Taberareru You ni Natta Ken ni Tsuite
 18438|1|x-jat|Hazure Waku no "Joutai Ijou Skill" de Saikyou ni Natta Ore ga Subete o Juurin Suru made
 18438|2|x-jat|Hazurewaku
+18438|2|x-jat|Hazurewaku no "Joutai Ijou Skill" de Saikyou ni Natta Ore ga Subete o Juurin Suru made
 2835|3|x-jat|hc
 4422|3|x-jat|hc s2
 4422|3|x-jat|hc2
@@ -29206,6 +29208,7 @@
 7215|1|x-jat|Kiss x Sis (2010)
 6083|2|en|Kiss X Sis OVA
 7215|2|x-jat|Kiss X Sis TV
+3104|2|en|Kiss x2
 4717|1|x-jat|Kiss XXXX
 671|1|x-jat|Kiss yori...
 6083|2|ja|kiss×sis
@@ -44525,6 +44528,7 @@
 20233|2|en|Primordial God
 2209|2|fr|Prince du soleil : les grandes aventures d`Horus
 2074|4|fr|Prince Hercule
+12776|2|en|Prince Moon and Princess Sun
 9369|4|en|Prince Nezha`s Triumph Against Dragon King
 369|2|ja|Prince of Darkness
 2209|2|en|Prince of North
