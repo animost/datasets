@@ -1,4 +1,4 @@
-# created: Wed Sep 23 03:00:02 2026
+# created: Fri Sep 25 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -556,6 +556,7 @@
 13597|4|ko|25세의 여고생
 13597|4|zh-Hans|25岁的女高中生
 13597|4|ja|25歳の女子高生
+19324|4|zh-Hant|29 歲單身中堅冒險家的日常
 19324|1|x-jat|29-sai Dokushin Chuuken Boukensha no Nichijou
 19324|4|zh-Hans|29岁单身中坚冒险家的日常
 19324|3|zh-Hans|29岁单身冒险家的日常
@@ -1006,7 +1007,6 @@
 7294|2|pt|A Garota dos Livros: Lanche de Hoje - Primeiro Amor
 7441|2|pt|A Garota dos Livros: Memória
 4151|2|pt-BR|A Garota que Salta Através do Tempo
-19204|4|de|A Gatherer`s Adventure in Isekai
 19204|4|en|A Gatherer`s Adventure in Isekai
 18914|4|en|A Gentle Noble`s Vacation Recommendation
 17666|4|en|A Girl & Her Guard Dog
@@ -3750,6 +3750,7 @@
 18967|1|x-jat|Arne no Jikenbo
 11024|4|ja|around
 11024|1|x-jat|Around
+20020|2|x-unk|Around 40 Kenja no Isekai Seikatsu Nikki
 18818|2|x-jat|Around 40 Otoko no Isekai Tsuuhan Seikatsu
 2706|2|en|Around the World in Eighty Days
 2706|4|en|Around the World with Willy Fog
@@ -7067,6 +7068,9 @@
 179|1|x-jat|Boogiepop wa Warawanai: Boogiepop Phantom
 6959|4|es|Book Girl
 7441|2|en|Book Girl Memories
+16752|2|en|Book of Spirits
+16753|2|en|Book of Spirits 2
+17426|2|en|Book of Spirits 3
 12817|1|x-kot|Booleung! Booleung! Beuloomijeu: Seupideoeui Moheom Ilgi
 11957|4|en|Boonie Bears
 12533|2|en|Boonie Bears 2: Boonie Bears or Bust
@@ -11232,6 +11236,7 @@
 6176|4|de|Das Mädchen, das durch den Weltraum sprang
 4151|4|de|Das Mädchen, das durch die Zeit sprang
 2299|2|de|Das Maedchen von der Farm
+19204|4|de|Das Reisetagebuch des Sammlers
 320|4|de|Das Schloss des Cagliostro
 331|4|de|Das Schloss im Himmel
 2176|4|de|Das verlorene Koenigreich
@@ -16498,6 +16503,7 @@
 15899|4|ja|Fate/Grand Carnival
 15899|4|en|Fate/Grand Carnival
 15461|2|pl|Fate/Grand Order - Finałowa Osobliwość Wielka Świątynia Czasu: Salomon
+14238|4|zh-Hant|Fate/Grand Order - 絕對魔獸戰線巴比倫尼亞 -
 12519|4|ja|Fate/Grand Order -First Order-
 13643|4|ja|Fate/Grand Order -MOONLIGHT/LOSTROOM-
 13643|4|zh-Hans|Fate/Grand Order -MOONLIGHT/LOSTROOM-
@@ -16583,7 +16589,11 @@
 13508|4|ja|Fate/kaleid liner プリズマ☆イリヤ プリズマ☆ファンタズム
 9900|2|ja|Fate/kaleid liner プリズマ☆イリヤ: 運動会 DE ダンス!
 9042|4|zh-Hans|Fate/kaleid liner 魔法少女☆伊莉雅
+9042|4|zh-Hant|Fate/kaleid liner 魔法少女☆伊莉雅
+10833|4|zh-Hant|Fate/kaleid liner 魔法少女☆伊莉雅 2wei Herz!
 10091|4|zh-Hans|Fate/kaleid liner 魔法少女☆伊莉雅 2wei!
+10091|4|zh-Hant|Fate/kaleid liner 魔法少女☆伊莉雅 2wei!
+11639|4|zh-Hant|Fate/kaleid liner 魔法少女☆伊莉雅 3rei!!
 9900|4|zh-Hans|Fate/kaleid liner 魔法少女☆伊莉雅 OAD
 10804|4|zh-Hans|Fate/kaleid liner 魔法少女☆伊莉雅 第二季 OAD
 10833|4|zh-Hans|Fate/kaleid liner 魔法少女☆依莉雅 2wei! Herz!
@@ -17462,7 +17472,8 @@
 15929|4|ja|from North Field
 12005|2|en|From now, I`m......
 18793|4|en|From Old Country Bumpkin to Master Swordsman
-19400|2|en|From Old Country Bumpkin to Master Swordsman II
+19400|4|en|From Old Country Bumpkin to Master Swordsman II
+20411|2|en|From Old Country Bumpkin to Master Swordsman III
 19400|2|en|From Old Country Bumpkin to Master Swordsman Season 2
 19896|4|en|From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage
 1383|4|en|From the Apennines to the Andes
@@ -22751,8 +22762,8 @@
 1181|2|en|Heretical Doctrine Academy
 2454|4|en|Heritage from Father
 533|3|x-jat|herlock
-661|1|x-jat|Herlock Saga
 661|2|x-jat|Herlock Saga: Nibelung no Yubiwa
+661|1|x-jat|Herlock Saga: Nibelung no Yubiwa - Rhein no Ougon
 4152|2|es|Hermanas al Boing
 174|4|es|Hermanas Inmorales
 1509|4|es|Hermanas inmorales 2
@@ -27901,6 +27912,7 @@
 13420|2|x-jat|Katainaka ni Totsuide Kita Russia Musume to H Shimakuru Ohanashi
 18793|1|x-jat|Katainaka no Ossan, Kensei ni Naru
 19400|1|x-jat|Katainaka no Ossan, Kensei ni Naru II
+20411|1|x-jat|Katainaka no Ossan, Kensei ni Naru III
 6987|1|x-jat|Kataku: Nou "Motometsuka" yori
 13172|4|en|Katana Maidens
 13172|4|fr|Katana Maidens
@@ -35613,6 +35625,7 @@
 18219|1|x-jat|Meitantei Conan: 100-man Dol no Michishirube
 8806|1|x-jat|Meitantei Conan: 11-ninme no Striker
 3591|1|x-jat|Meitantei Conan: 16-nin no Yougisha!?
+20414|1|x-jat|Meitantei Conan: 30-gou Satsujin Jiken
 5444|1|x-jat|Meitantei Conan: Agasa kara no Chousenjou! Agasa vs Conan & Shounen Tanteidan
 867|1|x-jat|Meitantei Conan: Baker Street no Bourei
 8121|1|x-jat|Meitantei Conan: Chinmoku no Quarter
@@ -37011,6 +37024,7 @@
 303|4|sl|Moj sosed Totoro
 17304|4|hr|Moj sretni brak
 303|4|hr|Moj Susjed Totoro
+18437|2|pl|Mój tata jest bohaterem, mama duchem, a ja się odrodziłam
 17449|4|pl|Moja Gwiazda
 8794|2|pl|Moja młodsza siostrzyczka - Diabełek z małymi cycuszkami
 17749|2|pl|Moja natychmiastowa zdolność śmierci jest tak potężna, że nikt w tym innym świecie nie ma ze mną szans!
@@ -39484,7 +39498,6 @@
 4472|1|x-jat|Night Head Genesis
 4472|4|en|Night Head Genesis
 12647|2|en|Night is Short, Walk On Girl
-18416|4|en|Night Life
 4378|2|en|Night of Taneyamagahara
 4378|2|en|Night on Taneyamagahara
 1250|4|en|Night on the Galactic Railroad
@@ -40604,6 +40617,7 @@
 3110|2|en|Ode to Judo
 19981|3|x-jat|odebu akujo
 19981|1|x-jat|Odebu Akujo ni Tensei Shitara, Nazeka Last Boss Ouji-sama ni Shuuchaku Sarete Imasu
+20410|1|x-jat|Odekake Hololive
 18044|1|x-jat|Odekake Kozame
 19929|1|x-jat|Odekake Kozame (2026)
 19929|2|en|Odekake Kozame 2nd Season
@@ -41964,6 +41978,7 @@
 8748|2|x-jat|Otona no Douwa Series: Yonimo Osoroshii Nihon Mukashibanashi
 15697|1|x-jat|Otona Nya Koi no Shikata ga Wakaranee!
 17339|1|x-jat|Otonari ni Ginga
+20409|1|x-jat|Otonari no Nie
 17108|1|x-jat|Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken
 18235|1|x-jat|Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2
 18235|2|x-jat|Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken S2
@@ -42062,6 +42077,7 @@
 16328|2|ko|OVA 사신창관―음란 거유 모녀 산 제물의식
 15780|2|ko|OVA 수국이 질 때
 6285|4|ja|OVA うたわれるもの
+20409|6|ja|OVA お隣の贄
 19704|4|ja|OVA ケガレボシ
 19514|4|ja|OVA シスターブリーダー
 18049|2|ja|OVA ツンデロシリーズ
@@ -42074,6 +42090,7 @@
 19547|4|ja|OVA 夏妻
 19105|4|ja|OVA 夕顔
 19105|6|ja|OVA 夕顔[ゆうがお]
+20160|6|ja|OVA 彼女催眠
 11268|4|ja|OVA 東京喰種[トーキョーグール]
 18756|4|ja|OVA 陰キャカップルが陽ギャル達とSEXトレーニングする話
 1518|4|he|OVA1 פאטלייבור
@@ -42910,6 +42927,8 @@
 6256|2|x-jat|Phantom ~Requiem of Phantom~
 19790|1|x-jat|Phantom Alchemia: Silvia no Dokidoki Sakusei Toshi Keikaku
 9304|2|x-jat|Phantom Blood
+20413|1|x-jat|Phantom Busters
+20413|2|en|Phantom Busters
 1219|2|en|Phantom Fighter: Bast of Lemon
 2017|2|en|Phantom Hunter Miko
 2017|4|it|Phantom Hunter Miko - Spiritelli Porcelli
@@ -50516,7 +50535,9 @@
 20005|2|en|Shrounding the Heavens Movie: Fighting Against Wang Teng with Copper Coffin
 16752|1|x-zht|Shu Ling Ji
 16753|1|x-zht|Shu Ling Ji (2020)
-17426|1|x-zht|Shu Ling Ji 3
+17426|1|x-zht|Shu Ling Ji (2022)
+17426|2|x-zht|Shu Ling Ji 3
+17426|2|x-zht|Shu Ling Ji 3rd Season
 17066|2|x-zht|Shu Shan Qi Xian Lu
 19138|2|x-zht|Shu Shan Qi Xian Lu 2nd season
 18197|1|x-zht|Shu Tian Fu Mo Lu
@@ -50955,6 +50976,7 @@
 20124|2|en|Slay the Gods Ⅱ
 20124|2|en|Slay The Gods S2
 20124|2|en|Slay The Gods Season 2
+20412|2|en|Slay the Gods: The Dead of Cangnan
 39|1|x-jat|Slayers
 39|4|ro|Slayers
 39|4|fr|Slayers
@@ -53354,6 +53376,8 @@
 13902|1|x-jat|Sword Gai
 10858|1|x-jat|Sword Gai The Animation
 14000|1|x-jat|Sword Gai The Animation (2018)
+17596|2|en|Sword Immortal Is Here
+19153|2|en|Sword Immortal Is Here 2nd Season
 18828|2|en|Sword of Coming
 19794|2|en|Sword of Coming 2
 19794|2|en|Sword of Coming 2nd Season
@@ -53997,6 +54021,7 @@
 15864|1|x-jat|Tasuu Ketsu: Judgement Assizes
 18453|2|en|Tasuuketsu
 1955|4|cs|Táta Sekáč
+18437|2|pl|Tata to bohater, mama to duch, a ja jestem reinkarnantką
 2065|1|x-jat|Tatakae! Chou Robot Seimeitai Transformers Victory
 6669|1|x-jat|Tatakae! Chou Robot Seimeitai Transformers: Scramble City Hatsudou Hen
 5076|1|x-jat|Tatakae! Osper
@@ -56478,7 +56503,6 @@
 19545|2|en|The Sword Emperor of Eternity
 17596|2|en|The Sword Fairy Is Here
 17596|4|en|The Sword Immortal Is Here
-19153|2|en|The Sword Immortal is Here 2nd Season
 19153|2|en|The Sword Immortal Is Here S2
 19153|2|en|The Sword Immortal Season 02
 18415|2|en|The Sword Of Dawn
@@ -56776,7 +56800,7 @@
 19308|2|en|There Is Also a Hole in the Student Organization!
 14547|2|en|There is No Way Bitch Academy is Pure!!?
 8043|1|x-jat|There She Is!!
-19440|4|en|There Was a Cute Girl in the Hero`s Party, so I Tried Confessing to Her
+19440|4|en|There Was a Cute Girl in the Hero`s Party, So I Tried Confessing to Her
 2708|2|en|There, Here and Where
 12584|2|en|There`s a Hole in My Bucket
 13647|2|en|There`s a Pit in My Our Big Brother`s Brain
@@ -58500,6 +58524,7 @@
 17801|4|ja|Turkey!
 17801|1|x-jat|Turkey!
 17801|4|en|Turkey! Time to Strike
+13153|2|pt|Turma de Elite
 377|4|pt-BR|Turma do Barulho
 916|1|x-jat|Turn A Gundam
 916|4|en|Turn A Gundam
@@ -62254,7 +62279,6 @@
 4531|1|x-jat|Yoake Mae yori Ruriiro na: Crescent Love
 12738|1|x-jat|Yoake Tsugeru Lu no Uta
 4531|3|x-jat|yoakena
-18416|1|x-jat|Yoasobi Gurashi
 18661|1|x-jat|Yoasobi Gurashi!
 10686|1|x-jat|Yobai Suru Shichinin no Harame
 2861|1|x-jat|Yobarete Tobidete Akubi-chan
@@ -63230,6 +63254,7 @@
 8844|3|en|yy2
 312|3|x-jat|YYH
 340|3|x-jat|yytv
+19896|2|pl|Z cienia do potęgi: Drugie odrodzenie Bezużytecznego Mędrca
 718|2|en|Z Gundam
 2863|4|de|Z wie Zorro
 1530|4|he|Z דרגון בול
@@ -63485,9 +63510,11 @@
 20124|2|x-zht|Zhan Shen 2
 20124|2|x-zht|Zhan Shen S2
 18801|1|x-zht|Zhan Shen: Fanchen Shenyu
+20412|1|x-zht|Zhan Shen: Fanchen Shenyu - The Dead of Cangnan
 20124|2|x-zht|Zhan Shen: Fanchen Shenyu 2nd Season
 20124|2|x-zht|Zhan Shen: Fanchen Shenyu Di Er Ji
 20124|1|x-zht|Zhan Shen: Fanchen Shenyu II
+20412|2|x-zht|Zhan Shen: Fanchen Shenyu Movie - Cangnan Zhi Shang
 15563|1|x-zht|Zhan Shou Zhi Ren
 16754|1|x-zht|Zhan Shuang Panini
 16777|1|x-zht|Zhan Yi Yingxiong
@@ -67728,6 +67755,7 @@
 10725|2|ru|Рассвет Ёны
 10725|2|ru|Рассвет Йоны
 1641|2|ru|Рассвет Марса
+11756|4|ru|Расскажи нам, Гяруко!
 4219|4|ru|Рассказ о привратнике Мукудзо Имокаве
 9251|4|ru|Рё
 3146|4|bg|Реална фантазия
@@ -68224,6 +68252,7 @@
 7079|4|ru|Стич! (2 сезон)
 7570|4|ru|Стич! (3 сезон)
 909|3|uk|Стімбой
+18618|2|ru|Сто видов Авадзимы
 17906|4|ru|Сто девушек, которые очень-очень-очень-очень-очень сильно тебя любят
 1505|4|ru|Столичная история
 406|2|ru|Столоначальник Одзи: Легенда о Черных Небесах
@@ -76672,6 +76701,7 @@
 8553|4|ja|おっぱいハート~彼女はケダモノ発情期ッ!?~
 10231|4|ja|おっぱインフィニティ∞! THE ANIMATION
 10793|4|ja|おっぱい学園マーチングバンド部!
+20410|4|ja|おでかけホロライブ
 18044|4|ja|おでかけ子ザメ
 19929|4|ja|おでかけ子ザメ (2026)
 19981|3|ja|おデブ悪女
@@ -76868,6 +76898,7 @@
 6843|4|ja|お関所
 17108|4|ja|お隣の天使様にいつの間にか駄目人間にされていた件
 18235|4|ja|お隣の天使様にいつの間にか駄目人間にされていた件2
+20409|4|ja|お隣の贄
 14599|2|ja|ガ○にもどって犯りなおしっ!!!
 9682|4|ja|ガーデン
 9682|2|ja|ガーデン THE ANIMATION
@@ -81592,6 +81623,7 @@
 13978|2|ja|ファントム イン ザ トワイライト
 11730|4|ja|ファントム オブ キル -ZEROからの反逆-
 19790|4|ja|ファントム・アルケミア ~シルヴィアのドキドキ搾精都市計画~
+20413|4|ja|ファントムバスターズ
 5823|4|ja|ファントム勇者伝説
 16325|3|ja|ファ美肉
 3668|2|ja|フィールド・ハンター
@@ -83881,7 +83913,7 @@
 15599|2|zh|一人之下3 入世篇
 15599|4|zh-Hans|一人之下3入世篇
 16719|4|zh-Hans|一人之下4
-17095|4|zh-Hans|一人之下5 决战！碧游村
+17095|4|zh-Hans|一人之下5 决战! 碧游村
 20144|4|zh-Hans|一人之下7
 1678|4|ja|一休さん
 9416|4|ja|一休さん ワイド版 大暴れやんちゃ姫
@@ -84164,7 +84196,7 @@
 799|4|zh-Hans|不可告人的秘密
 40|2|zh-Hans|不可思议之海的娜迪娅
 87|2|zh-Hans|不可思议游戏
-3298|2|zh-Hans|不可思议的教室
+3298|4|zh-Hans|不可思议的教室
 4659|4|zh-Hans|不可思议魔法药店
 13899|4|zh-Hant|不吉波普不笑
 13899|4|zh-Hans|不吉波普不笑
@@ -84500,7 +84532,7 @@
 7370|4|zh-Hans|书家
 16752|4|zh-Hans|书灵记
 16753|4|zh-Hans|书灵记 (2020)
-17426|4|zh-Hans|书灵记 第三季
+17426|4|zh-Hans|书灵记 (2022)
 16753|2|zh-Hans|书灵记 第二季
 17157|4|zh-Hans|书虫公主
 14727|4|zh-Hans|书虫的下克上～为了成为图书管理员而不择手段～
@@ -84539,7 +84571,7 @@
 19959|4|ja|二百年の夢を見た。
 2496|4|ja|二重奏 ~罠に落ちた女たち~
 18483|4|zh-Hans|亏成首富从游戏开始
-469|2|zh-Hans|云之彼端, 约定的地方
+469|4|zh-Hans|云之彼端, 约定的地方
 20235|4|zh-Hans|云月大陆
 254|4|zh|云海骑兵队
 19446|4|zh-Hans|云深不知梦
@@ -86988,6 +87020,7 @@
 8806|4|ja|名探偵コナン 11人目のストライカー
 2645|4|ja|名探偵コナン 14番目の標的(ターゲット)
 3591|4|ja|名探偵コナン 16人の容疑者!?
+20414|4|ja|名探偵コナン 30号殺人事件
 9181|4|ja|名探偵コナン BONUS FILE ファンタジスタの花
 3390|4|ja|名探偵コナン CONAN VS KID VS YAIBA
 8399|4|ja|名探偵コナン MAGIC FILE 2011 ~新潟~東京 おみやげ狂騒曲(カプリチオ)~
@@ -87169,11 +87202,12 @@
 6017|2|zh-Hans|吸血鬼骑士.罪
 10889|4|zh-Hans|吹响! 上低音号
 11746|4|zh-Hans|吹响！悠风号 第二季
+13207|4|zh-Hans|吹响吧! 上低音号~誓言的终章~
 10889|2|zh-Hans|吹响吧！上低音号
 14935|4|zh-Hans|吹响吧！上低音号 第三季
 11746|2|zh-Hans|吹响吧！上低音号 第二季
 12962|2|zh-Hans|吹响吧！上低音号～想要传达的旋律～
-13207|4|zh-Hans|吹响吧！上低音号~誓言的终曲~
+13207|2|zh-Hans|吹响吧！上低音号~誓言的终曲~
 14935|4|zh-Hant|吹響吧！上低音號 久美子三年級篇
 17717|4|ja|吾輩は犬である ドン松五郎の生活
 6576|4|ja|吾輩は猫である
@@ -87507,7 +87541,7 @@
 5558|2|zh-Hans|图书馆战争
 8885|4|zh-Hans|图书馆战争 革命之翼
 2775|2|zh-Hans|圆盘皇女 星灵节的新娘
-15298|2|zh-Hant|國王排名
+15298|4|zh-Hant|國王排名
 13335|4|zh-Hant|國王遊戲 The Animation
 15659|4|ja|土下座で頼んでみた
 15659|4|zh-Hant|土下座跪求給看
@@ -88228,7 +88262,7 @@
 6329|2|zh-Hans|天国的少女
 17671|4|zh-Hant|天國大魔境
 14738|4|ja|天地
-15513|2|zh-Hans|天地创造设计部
+15513|4|zh-Hans|天地创造设计部
 15513|4|zh|天地创造设计部
 15513|4|ja|天地創造デザイン部
 409|2|zh-Hans|天地无用
@@ -88290,7 +88324,9 @@
 6246|4|zh-Hans|天才麻将少女
 9490|4|zh-Hans|天才麻将少女 全国篇
 8701|4|zh-Hans|天才麻将少女 阿知贺篇 episode of side-A
+6246|4|zh-Hant|天才麻將少女
 9490|4|zh-Hant|天才麻將少女 全國篇
+8701|4|zh-Hant|天才麻將少女 阿知賀編
 9268|4|zh-Hans|天方魔谭MAGI
 9807|4|zh-Hans|天方魔谭MAGI 第二季
 11672|4|zh-Hans|天方魔谭MAGI 辛巴达的冒险
@@ -89000,7 +89036,7 @@
 481|4|zh-Hans|学校怪谈
 8967|4|zh-Hans|学活！
 9657|4|zh-Hans|学活！ 第二季
-6556|2|zh-Hans|学生会的一己之见
+6556|4|zh-Hans|学生会的一己之见
 6556|2|zh-Hans|学生会的一己之见 碧阳学园学生会议事录
 9090|2|zh-Hans|学生会的一己之见2
 11656|4|ja|学研か何かの昔のビデオ なかよくできるよ
@@ -91721,10 +91757,12 @@
 9875|4|zh-Hans|斩服少女
 20124|2|zh-Hans|斩神2
 18801|4|zh-Hans|斩神之凡尘神域
+20412|4|zh-Hans|斩神之凡尘神域 THE DEAD OF CANGNAN
 20124|4|zh-Hans|斩神之凡尘神域 第2季
 20124|2|zh-Hans|斩神之凡尘神域 第二季
 20124|2|zh-Hans|斩神之凡尘神域2
 20124|2|zh-Hans|斩神之凡尘神域Ⅱ
+20412|2|zh-Hans|斩神之凡尘神域剧场版 沧南之殇
 12116|4|zh-Hans|斩首循环 蓝色学者与戏言跟班
 12116|2|zh-Hans|斩首循环: 蓝色学者与戏言跟班
 12116|4|zh-Hant|斬首循環 - 藍色學者與戲言跟班
@@ -92788,7 +92826,7 @@
 716|4|zh-Hans|机动战士高达0080 口袋里的战争
 2009|4|zh-Hans|机动战士高达0083 吉恩的残光
 717|2|zh-Hans|机动战士高达0083: 星尘的回忆
-5903|2|zh-Hans|机动战士高达00第二季
+5903|4|zh-Hans|机动战士高达00第二季
 8494|4|zh-Hans|机动战士高达AGE
 9719|4|zh-Hans|机动战士高达AGE MEMORY OF EDEN
 14042|4|zh-Hans|机动战士高达NT
@@ -94231,7 +94269,7 @@
 332|4|ja|火垂るの墓
 6987|4|ja|火宅 能「求塚」より
 168|4|ja|火宵の月 ~秋狂言~
-239|2|zh-Hans|火影忍者
+239|4|zh-Hans|火影忍者
 9588|4|zh-Hans|火影忍者 剧场版 终章
 12661|4|zh-Hans|火影忍者 博人传之火影次世代
 8384|4|zh-Hans|火影忍者 特别篇 炎之中忍试验！鸣人VS木叶丸！！
@@ -94631,6 +94669,7 @@
 13420|2|ja|片田舎に嫁いできたロシア娘とHしまくるお話
 18793|4|ja|片田舎のおっさん, 剣聖になる
 19400|4|ja|片田舎のおっさん, 剣聖になるII
+20411|4|ja|片田舎のおっさん, 剣聖になるIII
 9182|4|ja|片翼のクロノスギア
 4264|2|zh-Hans|牙
 4264|4|zh-Hans|牙 -KIBA-
@@ -98238,6 +98277,7 @@
 1039|4|ja|超時空世紀オーガス
 14104|4|ja|超時空世紀オーガス MEMORIAL
 1326|4|ja|超時空世紀オーガス02
+996|4|zh-Hant|超時空要塞 愛‧還記得嗎
 5415|2|zh-Hant|超時空要塞F
 16040|2|zh-Hant|超時空要塞F～時間的迷宮～
 5415|4|zh-Hant|超時空要塞Frontier
