@@ -1,4 +1,4 @@
-# created: Fri Sep 25 03:00:01 2026
+# created: Sat Sep 26 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1859,8 +1859,6 @@
 2290|1|x-jat|Ai no Wakakusa Monogatari
 2291|2|x-jat|Ai no Wakakusa Monogatari II
 3065|1|x-jat|Ai no Wakakusa Yama Monogatari
-20337|4|ja|Ai no Yakusoku
-20337|1|x-jat|Ai no Yakusoku
 17400|1|x-jat|Ai o Kite
 12100|1|x-jat|Ai o Komete
 1509|1|x-jat|Ai Shimai 2: Futari no Kajitsu
@@ -13582,9 +13580,6 @@
 15153|1|x-zht|Dou Long Zhanshi: Xing Yin Luopan
 13721|2|x-jat|Dou Po Cang Qiong
 16179|2|x-zht|Dou Po Cang Qiong 4
-14891|1|x-zht|Dou Po Cang Qiong: Q Ban Xiao Juchang
-14892|1|x-zht|Dou Po Cang Qiong: Q Ban Xiao Juchang 2
-14874|1|x-zht|Dou Po Cang Qiong: Tebie Pian 2 - Sha Zhi Lan Ge
 13721|1|x-jat|Dou Po Cangqiong
 14874|2|x-zht|Dou Po Cangqiong 2: Tebie Pian - Sha Zhi Lan Ge
 14874|2|en|Dou po Cangqiong 2nd Season: Song of Desert
@@ -13593,7 +13588,10 @@
 16179|1|x-zht|Dou Po Cangqiong Di Si Ji
 17052|1|x-zht|Dou Po Cangqiong Nian Fan
 17052|2|x-zht|Dou Po Cangqiong: Nian Fan
+14891|1|x-zht|Dou Po Cangqiong: Q Ban Xiao Juchang
+14892|1|x-zht|Dou Po Cangqiong: Q Ban Xiao Juchang 2
 16566|1|x-zht|Dou Po Cangqiong: San Nian Zhi Yue
+14874|1|x-zht|Dou Po Cangqiong: Tebie Pian 2 - Sha Zhi Lan Ge
 17524|1|x-zht|Dou Po Cangqiong: Yuanqi
 16848|1|x-zht|Dou Shen Ji
 19147|2|x-zht|Dou Zhan Tianxia
@@ -14365,6 +14363,7 @@
 10554|4|en|DRAMAtical Murder
 10554|4|fr|DRAMAtical Murder
 19232|4|en|Draw This, Then Die!
+20417|2|en|Draw This, Then Die! 2
 8143|2|en|Drawer Hobs
 12042|1|x-jat|Dre-Fes!
 12658|1|x-jat|Dre-Fes! R
@@ -15391,6 +15390,7 @@
 80|2|x-jat|Elf wo Karu Mono-tachi II
 7970|1|x-jat|Elf-hime Nina
 18412|1|x-jat|Elf-san wa Yaserarenai.
+20415|1|x-jat|Elf-sensei no Toilet wa Doko Desuka?
 1626|2|x-jat|Elfeana
 3131|4|de|Elfen der Stratosphäre
 3448|4|en|Elfen Laid
@@ -19160,9 +19160,9 @@
 15486|4|zh-Hant|GET UP！GET LIVE！＃GERA GERA
 272|1|x-jat|GetBackers: Dakkan`ya
 272|2|en|GetBackers: Recovery Service
-4177|1|x-jat|Getsumen To Heiki Mina
 4177|2|x-jat|Getsumen Usagi Heiki Miina
 4177|4|en|Getsumento Heiki Mina
+4177|1|x-jat|Getsumento Heiki Mina
 12462|1|x-jat|Getsuyoubi no Tawawa
 16734|1|x-jat|Getsuyoubi no Tawawa 2
 1271|4|it|Getta Robot G
@@ -22409,8 +22409,10 @@
 6554|2|en|Hell Knight Ingrid
 19978|2|en|Hell Mode S2
 19029|4|en|Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing
+20418|2|en|Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing - S-Class Dungeon Conquest Arc
 19978|4|en|Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing (2026)
 19029|1|x-jat|Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru
+20418|1|x-jat|Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru - S-kyuu Dungeon Kouryaku Hen
 19978|1|x-jat|Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru (2026)
 19029|2|x-jat|Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru
 17231|1|x-jat|Hell People!
@@ -24924,7 +24926,7 @@
 5062|4|hu|Ikri és Mikri
 8058|2|lt|Iksmenai
 19105|2|en|Iku Iku Succubus Re-Education
-19007|1|x-jat|Ikuiku Succubus Saikyouiku
+19007|1|x-jat|Iku Iku Succubus Saikyouiku
 17735|1|x-jat|Ikumonogakari The Animation
 5628|1|x-jat|Ikusa Otome Suvia
 2805|1|x-jat|Ikusa Otome Valkyrie
@@ -29882,6 +29884,7 @@
 8896|1|x-jat|Kore ga Umi e no Ai ja Naika!
 2621|1|x-jat|Kore ga Watashi no Goshujin-sama
 19232|1|x-jat|Kore Kaite Shine
+20417|1|x-jat|Kore Kaite Shine 2
 19232|3|x-jat|kore shine
 7674|2|x-jat|Kore wa Zombie desu ka
 7674|1|x-jat|Kore wa Zombie Desuka?
@@ -31264,6 +31267,7 @@
 20382|1|x-zht|Lang Lang Shaonu Lan
 16845|1|x-zht|Lanting Xiao Jingling
 11230|2|x-zht|Lao Fu Zi Shui Hu Chuan
+11230|2|x-zht|Lao Fu Zi: Shui hu zhuan
 11298|2|x-zht|Lao Fu Zi: Xiao Shui Hu Chuan Qi
 16874|1|x-zht|Lao Hu Xue Yi
 16847|1|x-zht|Lao Lang Qing Ke
@@ -32357,6 +32361,7 @@
 181|3|en|LO
 3442|3|x-jat|LO FF7
 3442|3|x-jat|LO FFVII
+11230|2|x-zht|Lo Fu Chi sui foo chuen
 16048|4|es-419|Lo hice con mi mejor amigo y me gustó
 19337|4|es|Lo que le falta a esta estrella
 19337|4|es-419|Lo que le falta a esta estrella
@@ -40876,6 +40881,7 @@
 11298|4|en|Old Master Q and Little Ocean Tiger
 11296|2|en|Old Master Q and San-T
 11296|4|en|Old Master Q Part 3
+11230|2|en|Old Master Q: Water Margin
 11230|4|en|Old Master Q: Water Tiger
 812|2|en|Old Person Z
 2738|2|en|Old-Lady Spoon
@@ -45379,7 +45385,7 @@
 7255|1|x-jat|Quiz Magic Academy The Original Animation 2
 13785|1|x-jat|Quiz Tokiko-san
 17993|1|x-zht|Ququ Bucai, Zaixia Yeguai
-19326|1|x-zht|Ququ Bucai, Zaixia Yeguai Di Er Ji
+19326|1|x-zht|Ququ Bucai, Zaixia Yeguai 2
 12986|4|vi|Quỷ dữ thức giấc
 5787|2|vi|Quyển sổ người bạn
 6816|3|x-jat|Qwaser
@@ -50797,7 +50803,6 @@
 6589|4|cs|Šinko a kouzelná šošolka
 19706|1|x-kot|Sinnaneun Gwahak Aenimeisyeon Why?
 5640|4|en|Sinners Paradise
-20338|1|x-jat|SINoALICE: Ichiban Saigo no Monogatari
 1403|4|en|Sins of the Flesh
 2552|4|en|Sins of the Sisters
 16042|1|x-jat|Sinu Nara Konnna Basyo De Ga Ii
@@ -54498,6 +54503,7 @@
 17709|2|x-jat|Tensei Shitara Slime Datta Ken 3rd Season
 18884|2|x-jat|Tensei Shitara Slime Datta Ken 4th Season
 20052|2|x-jat|Tensei Shitara Slime Datta Ken 4th Season Part 2
+20052|2|x-jat|Tensei Shitara Slime Datta Ken 4th Season Part 3
 18884|1|x-jat|Tensei Shitara Slime Datta Ken Dai 4 Ki
 20052|1|x-jat|Tensei Shitara Slime Datta Ken Dai 4 Ki (2027)
 18885|2|x-jat|Tensei shitara Slime Datta Ken Movie 2 - Soukai no Namida-hen
@@ -54508,6 +54514,7 @@
 20052|2|x-jat|Tensei Shitara Slime Datta Ken S4 Part 2
 15456|2|x-jat|Tensei shitara Slime Datta Ken Season 2 Part 2
 17709|2|x-jat|Tensei Shitara Slime Datta Ken Season 3
+20416|1|x-jat|Tensei Shitara Slime Datta Ken: Clayman Revenge
 17873|1|x-jat|Tensei Shitara Slime Datta Ken: Coleus no Yume
 17873|2|x-jat|Tensei Shitara Slime Datta Ken: Corius no Yume
 15457|1|x-jat|Tensei Shitara Slime Datta Ken: Tensura Nikki
@@ -54748,6 +54755,7 @@
 18884|2|en|That Time I Got Reincarnated as a Slime Season 4
 16776|4|en|That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond
 18885|4|en|That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea
+20416|2|en|That Time I Got Reincarnated as a Slime: Clayman Revenge
 17873|4|en|That Time I Got Reincarnated as a Slime: Visions of Coleus
 13763|2|en|That`s (the reason) Why I`m Going To (Rape my niece) Her
 18046|2|en|That`s Journey
@@ -60750,6 +60758,7 @@
 20239|2|en|Where did Master go? He turned into a divine beast and was rubbed bald by his five disciples
 17667|2|en|Where Does the Doomsday Train Go?
 15232|4|en|Where is Mama
+20415|2|en|Where Is the Elf Teacher`s Toilet?
 6051|2|en|Where the Seagulls Cry
 18813|4|en|Whimsical Wish
 4037|2|en|Whirlwind! Iron Leaguer
@@ -76487,6 +76496,7 @@
 851|4|ja|エルフの若奥様
 79|4|ja|エルフを狩るモノたち
 80|4|ja|エルフを狩るモノたち II
+20415|4|ja|エルフ先生のトイレはどこですか?
 7970|4|ja|エルフ姫ニィーナ
 1167|4|ja|エルフ版下級生 あなただけを見つめて...
 4272|4|ja|エルマーの冒険 MY FATHER`S DRAGON
@@ -78206,6 +78216,7 @@
 8448|4|ja|これはゾンビですか? えぇ,これが最終回ですか?
 8476|2|ja|これはゾンビですか? オブ・ザ・デッド
 19232|4|ja|これ描いて死ね
+20417|4|ja|これ描いて死ね 2
 19232|3|ja|これ死ね
 13863|4|ja|ころがし屋のプン
 7691|4|ja|ころがし涼太
@@ -82141,6 +82152,7 @@
 4275|4|ja|ヘルメス 愛は風の如く
 19029|4|ja|ヘルモード ~やり込み好きのゲーマーは廃設定の異世界で無双する~
 19978|4|ja|ヘルモード ~やり込み好きのゲーマーは廃設定の異世界で無双する~ (2026)
+20418|4|ja|ヘルモード ~やり込み好きのゲーマーは廃設定の異世界で無双する~ S級ダンジョン攻略編
 7192|4|ja|ペレストロイカ
 3623|4|ja|ヘレン・ケラー物語 愛と光の天使
 9933|4|ja|ぺろぺろ☆てぃーちゃー
@@ -84041,6 +84053,7 @@
 15997|4|zh-Hant|七大罪：被光詛咒的人們
 13286|4|zh-Hant|七大罪劇場版：天空的囚人
 11178|4|zh-Hant|七彩卡通老夫子
+11230|2|zh-Hans|七彩卡通老夫子：水虎傳
 3215|4|zh-Hans|七彩的素描
 13439|4|ja|七星のスバル
 1542|4|zh-Hans|七武士
@@ -86585,8 +86598,9 @@
 17682|2|zh-Hans|北海道辣妹儿贼招人稀罕
 17682|4|zh-Hans|北海道辣妹贼拉可爱
 12629|4|ja|北風小僧の寒太郎
+19326|4|zh-Hans|区区不才, 在下野怪 2
+19326|2|zh-Hans|区区不才, 在下野怪 第二季
 17993|4|zh-Hans|区区不才，在下野怪
-19326|4|zh-Hans|区区不才，在下野怪 第二季
 4614|4|ja|医辱
 13567|4|zh-Hans|十万个冷笑话
 14311|4|zh-Hans|十万个冷笑话 第一季
@@ -98464,6 +98478,7 @@
 15456|4|ja|転生したらスライムだった件 (2021 第2部)
 14767|4|ja|転生したらスライムだった件 (2021)
 17709|4|ja|転生したらスライムだった件 (2024)
+20416|4|ja|転生したらスライムだった件 クレイマンREVENGE
 17873|4|ja|転生したらスライムだった件 コリウスの夢
 18884|4|ja|転生したらスライムだった件 第4期
 20052|4|ja|転生したらスライムだった件 第4期 (2027)
