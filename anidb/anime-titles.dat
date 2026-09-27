@@ -1,4 +1,4 @@
-# created: Sat Sep 26 03:00:01 2026
+# created: Sun Sep 27 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -165,6 +165,7 @@
 18901|2|x-jat|[Oshi no Ko] 3rd Season
 9977|3|x-jat|[UBW] 2014
 10760|3|x-jat|[UBW] 2015
+20419|1|x-jat|[Watashi no Ofuru de Waruin dakedo] to Okaasama (Heroine) ni Torimaki wo Oshitsukerare, Totsuida Henkyou demo Yome Atsukai Saremasen ga, Okage de Jiyuu ni Ikiraremasu!
 17449|4|th|[เกิดใหม่เป็นลูกโอชิ]
 12922|2|ko|[넥슨/클로저스] 애니메이션
 17449|4|ko|[최애의 아이]
@@ -205,6 +206,7 @@
 18901|4|zh-Hans|【我推的孩子】
 18086|2|zh-Hans|【我推的孩子】 第二季
 17724|4|zh-Hans|【碧蓝档案】1.5周年纪念短篇动画
+20419|4|ja|【私のおふるで悪いんだけど】とお母様(ヒロイン)に取り巻きを押し付けられ、嫁いだ辺境でも嫁扱いされませんが、おかげで自由に生きれます！
 15249|1|x-jat|**** Kouhai
 10932|4|ja|&lt;harmony/&gt;
 14564|2|ja|&lt;Infinite Dendrogram&gt;
@@ -512,9 +514,10 @@
 11394|1|x-jat|20-dai no Heya Hen
 2213|2|it|20.000 leghe sotto i mari
 2213|4|es|20.000 Leguas de Viaje Submarino
-12813|1|x-jat|2002-nen Harmoni Ondo
+12813|1|x-jat|2002-nen Halmeoni Ondo
 12813|5|ja|2002ねんハルモニおんど
-12813|4|ja|2002年ばあちゃん[ハルモニ]音頭
+12813|6|ja|2002年ばあちゃん[ハルモニ]音頭
+12813|4|ja|2002年ばあちゃん音頭
 11398|2|en|2005 Space Odyssey
 11398|1|x-jat|2005-nen Uchuu no Tabi
 11398|4|ja|2005年宇宙の旅
@@ -1263,6 +1266,7 @@
 18831|4|en|A Wild Last Boss Appeared!
 19777|4|en|A Wild Last Boss Appeared! (2026)
 19777|2|en|A Wild Last Boss Appeared! Season 2
+19777|4|de|A Wild Last Boss Appeared! Staffel 2
 15693|4|en|A Will Eternal
 16619|2|en|A Will Eternal 2
 18384|2|en|A Will Eternal 3
@@ -9720,7 +9724,6 @@
 7508|2|it|Code Geass: Akito the Exiled
 7508|4|en|Code Geass: Akito the Exiled
 7508|4|fr|Code Geass: Akito the Exiled
-19757|2|en|Code Geass: Aspar the Star Chaser
 7508|1|x-jat|Code Geass: Boukoku no Akito
 4521|2|vi|Code Geass: Cuộc khởi nghĩa của Lelouch
 5373|2|vi|Code Geass: Cuộc khởi nghĩa của Lelouch R2
@@ -9754,6 +9757,7 @@
 8914|2|en|Code Geass: Nunnally in Wonderland
 15910|4|en|Code Geass: Roze of the Recapture
 15910|4|es-419|CODE GEASS: Rozé y la reconquista
+19757|2|en|Code Geass: Star Chaser Aspal
 12566|2|pl|Code Geass: Zmartwychwstanie Leloucha
 11516|2|x-jat|code realize
 5023|4|ja|CODE-E
@@ -24441,7 +24445,7 @@
 19487|2|en|I Parry Everything! 2
 18468|2|en|I Picked Up An Attribute
 18468|2|en|I Picked Up An Attribute Collection
-18468|2|en|I Picked Up Lots of Attributes
+18468|4|en|I Picked Up Lots of Attributes
 2548|4|it|I predatori del tempo
 4193|4|it|I Racconti di Terramare
 14449|2|en|I Reincarnated into an Otome Game as a Villainess With Only Destruction Flags...
@@ -35971,6 +35975,7 @@
 4322|1|x-jat|Mezame no Hakobune
 6995|2|x-jat|Mezamero
 19142|1|x-jat|Mezametara Saikyou Soubi to Uchuusen Mochi Datta no de, Ikkodate Mezashite Youhei to Shite Jiyuu ni Ikitai
+19142|3|x-jat|Mezameza
 5614|2|tr|Mezar Kitarou
 1241|2|tr|Mezuniyet
 998|3|fr|Mezzo
@@ -45910,6 +45915,10 @@
 14192|4|zh-Hans|Re:Stage！Dream Days♪
 15538|2|ja|Re:STARS
 11370|3|ja|Re:Zero
+14792|2|es|Re:Zero - Empezar de cero en un mundo diferente (2020)
+15593|2|es|Re:Zero - Empezar de cero en un mundo diferente (2021)
+17947|2|es|Re:Zero - Empezar de cero en un mundo diferente (2024)
+19242|2|es|Re:Zero - Empezar de cero en un mundo diferente (2026)
 11370|4|en|Re:Zero - Starting Life in Another World
 11370|4|de|Re:Zero - Starting Life in Another World
 14792|2|en|Re:Zero - Starting Life in Another World - Season 2
@@ -54240,6 +54249,7 @@
 11450|1|x-jat|Tell Your World
 11450|4|ja|Tell Your World
 572|2|it|Temi d`amore tra i banchi di scuola
+20077|2|x-jat|Tempal - Item no Chikara
 20077|1|x-jat|Tempal: Item no Chikara
 20077|2|en|Tempal: The Power of Items
 17827|2|x-jat|Temple
@@ -54503,9 +54513,9 @@
 17709|2|x-jat|Tensei Shitara Slime Datta Ken 3rd Season
 18884|2|x-jat|Tensei Shitara Slime Datta Ken 4th Season
 20052|2|x-jat|Tensei Shitara Slime Datta Ken 4th Season Part 2
-20052|2|x-jat|Tensei Shitara Slime Datta Ken 4th Season Part 3
 18884|1|x-jat|Tensei Shitara Slime Datta Ken Dai 4 Ki
 20052|1|x-jat|Tensei Shitara Slime Datta Ken Dai 4 Ki (2027)
+20052|2|x-jat|Tensei Shitara Slime Datta Ken Dai 4 Ki Dai 3 Cour
 18885|2|x-jat|Tensei shitara Slime Datta Ken Movie 2 - Soukai no Namida-hen
 14526|2|x-jat|Tensei Shitara Slime Datta Ken OAD
 14526|2|ja|Tensei Shitara Slime Datta Ken OVA
@@ -82927,6 +82937,7 @@
 5845|4|ja|めぐみ
 7348|4|ja|めぐり逢う世界
 14807|5|ja|めごひめ
+19142|3|ja|めざめざ
 4322|4|ja|めざめの方舟
 14089|4|ja|めしぬま.
 2168|4|ja|メジャー
@@ -83226,6 +83237,7 @@
 4838|4|ja|ゆめだまや奇談
 8077|4|ja|ユメミル, アニメ onちゃん
 8078|4|ja|ユメミル, アニメ onちゃん シーズン2
+8077|2|ja|ユメミル, アニメ「onちゃん」
 1268|4|ja|ゆめりあ
 9366|4|ja|ゆゆ式
 12036|4|ja|ゆゆ式 困らせたり, 困らされたり
@@ -98482,6 +98494,7 @@
 17873|4|ja|転生したらスライムだった件 コリウスの夢
 18884|4|ja|転生したらスライムだった件 第4期
 20052|4|ja|転生したらスライムだった件 第4期 (2027)
+20052|2|ja|転生したらスライムだった件 第4期 第3クール
 15457|4|ja|転生したらスライムだった件 転スラ日記
 19217|4|ja|転生したらドラゴンの卵だった~最強以外目指さねぇ~
 16785|4|ja|転生したら剣でした
