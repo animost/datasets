@@ -1,4 +1,4 @@
-# created: Sun Sep 27 03:00:02 2026
+# created: Mon Sep 28 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -1265,8 +1265,8 @@
 13365|4|en|A whistle
 18831|4|en|A Wild Last Boss Appeared!
 19777|4|en|A Wild Last Boss Appeared! (2026)
+19777|4|de|A Wild Last Boss Appeared! (2026)
 19777|2|en|A Wild Last Boss Appeared! Season 2
-19777|4|de|A Wild Last Boss Appeared! Staffel 2
 15693|4|en|A Will Eternal
 16619|2|en|A Will Eternal 2
 18384|2|en|A Will Eternal 3
@@ -3833,6 +3833,7 @@
 18707|4|en|As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World (2024)
 19070|4|en|As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World (2026)
 19070|2|en|As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World Season 3
+19070|4|de|As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World Staffel 3
 196|2|pt|As Asas de Honneamise
 9514|4|pt|As Asas do Vento
 2744|4|pt|As Aventuras de Alice no País das Maravilhas
@@ -18828,6 +18829,7 @@
 16278|1|x-jat|Gekijouban Mahou Shoujo Madoka Magica: Walpurgis no Kaiten
 11980|1|x-jat|Gekijouban Mahouka Koukou no Rettousei: Hoshi o Yobu Shoujo
 18720|1|x-jat|Gekijouban Mahouka Koukou no Rettousei: Yotsuba Keishou Hen
+20420|1|x-jat|Gekijouban Mairimashita! Iruma-kun
 12033|1|x-jat|Gekijouban Majestic Prince: Kakusei no Idenshi
 19812|1|x-jat|Gekijouban Majo no Tabitabi
 5839|3|x-jat|Gekijouban Major
@@ -35845,6 +35847,7 @@
 14702|2|en|Meow Meow Japanese History (2019)
 11884|1|x-jat|Meow no Hoshi
 11884|2|en|Meow`s Star
+20421|1|x-jat|Mera x Death: Shinigami to Boku no Ijou na Koi
 13768|3|en|Merc Storia
 13768|2|ja|Merc Storia – Mukiryoku Shounen to Bin no Naka no Shoujo
 13768|1|x-jat|Merc Storia: Mukiryoku Shounen to Bin no Naka no Shoujo
@@ -37884,6 +37887,7 @@
 18104|2|x-jat|Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2
 17236|2|en|Mushoku Tensei II: Jobless Reincarnation
 18727|1|x-jat|Mushoku Tensei III: Isekai Ittara Honki Dasu
+20422|1|x-jat|Mushoku Tensei III: Isekai Ittara Honki Dasu (2027)
 18727|2|x-jat|Mushoku Tensei S3
 14758|1|x-jat|Mushoku Tensei: Isekai Ittara Honki Dasu
 15954|1|x-jat|Mushoku Tensei: Isekai Ittara Honki Dasu (2021)
@@ -37894,11 +37898,14 @@
 17236|4|en|Mushoku Tensei: Jobless Reincarnation Season 2
 18104|4|en|Mushoku Tensei: Jobless Reincarnation Season 2 (2024)
 18727|4|en|Mushoku Tensei: Jobless Reincarnation Season 3
+20422|4|en|Mushoku Tensei: Jobless Reincarnation Season 3 (2027)
 14758|4|ru|Mushoku Tensei: Перерождение безработного
 14758|3|x-jat|mushokutensei
 15954|2|x-jat|mushokutensei s1p2
 17236|3|x-jat|mushokutensei s2
 18104|3|x-jat|mushokutensei s2p2
+18727|3|x-jat|mushokutensei s3p1
+20422|3|x-jat|mushokutensei s3p2
 2127|1|x-jat|Mushrambo
 5876|1|x-jat|Mushrambo (2008)
 18628|4|en|Mushroom Pup
@@ -60668,6 +60675,7 @@
 18995|4|en|Welcome to Demon School! Iruma-kun (2026)
 18995|2|en|Welcome to Demon School! Iruma-kun Season 4
 18995|4|de|Welcome to Demon School! Iruma-kun Staffel 4
+20420|2|en|Welcome to Demon School! Iruma-kun the Movie
 19878|2|en|Welcome to Demon School! Iruma-kun: IruMafia Edition
 15428|2|en|Welcome to Demon School! Iruma-kun: Season 2
 14592|2|en|Welcome to Hinagiku Virgin Lost Club
@@ -82997,6 +83005,7 @@
 574|4|ja|メモリーズオフ 2nd
 2604|4|ja|メモリーズオフ3.5
 3475|4|ja|めもりい
+20421|4|ja|メラ×デス 死神と僕の異常な恋
 2855|3|ja|メル
 13768|4|ja|メルクストーリア -無気力少年と瓶の中の少女-
 15394|4|ja|メルティス クエスト
@@ -86379,6 +86388,7 @@
 14017|4|zh-Hant|劇場版 高校艦隊
 15113|4|ja|劇場版 鬼滅の刃 無限列車編
 18699|4|ja|劇場版 鬼滅の刃 無限城編
+20420|4|ja|劇場版 魔入りました! 入間くん
 19812|4|ja|劇場版 魔女の旅々
 8778|4|ja|劇場版 魔法少女まどか☆マギカ
 16278|4|ja|劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉
@@ -94486,12 +94496,15 @@
 2757|4|zh-Hant|無線之戰
 18232|4|ja|無職の英雄 別にスキルなんか要らなかったんだが
 18232|4|zh-Hant|無職英雄：技能什麼的毫無用處
+20422|2|ja|無職転生 ~異世界行ったら本気だす~ 第3期 第2クール
 14758|4|ja|無職転生~異世界行ったら本気だす~
 15954|4|ja|無職転生~異世界行ったら本気だす~ (2021)
 15954|2|x-jat|無職転生～異世界行ったら本気だす～(第2クール)
 17236|4|ja|無職転生II ~異世界行ったら本気だす~
 18104|4|ja|無職転生II ~異世界行ったら本気だす~ (2024)
 18727|4|ja|無職転生III ~異世界行ったら本気だす~
+20422|4|ja|無職転生III ~異世界行ったら本気だす~ (2027)
+20422|2|ja|無職転生III ~異世界行ったら本気だす~ 第2クール
 14758|4|zh-Hant|無職轉生～到了異世界就拿出真本事～
 15954|4|zh-Hant|無職轉生～到了異世界就拿出真本事～ (2021)
 17236|4|zh-Hant|無職轉生～到了異世界就拿出真本事～ 第二季
