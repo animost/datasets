@@ -1,4 +1,4 @@
-# created: Mon Sep 28 03:00:02 2026
+# created: Tue Sep 29 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2768,6 +2768,7 @@
 3085|1|x-jat|Andes Shounen Pepero no Bouken
 911|1|x-jat|Android Ana Maico 2010
 911|2|en|Android Announcer Maico 2010
+3404|4|de|Android Girl Arisa
 980|4|en|Android Kikaider - The Animation
 19330|1|x-jat|Android wa Keiken Ninzuu ni Hairimasuka??
 4255|2|es|Androide Rosa
@@ -2782,7 +2783,6 @@
 1061|4|lt|Anė iš žaliujų mansardų
 7915|1|x-jat|Ane Jiru 2 The Animation: Shirakawa San Shimai ni Omakase
 4823|1|x-jat|Ane Jiru The Animation: Shirakawa San Shimai ni Omakase
-18174|2|x-jat|Ane Joku Tsukushi
 9552|1|x-jat|Ane Koi: Suki Kirai Daisuki.
 10716|1|x-jat|Ane Kyun! Joshi ga Ie ni Kita!
 10673|1|x-jat|Ane Log: Moyako Nee-san no Tomaranai Monologue
@@ -2808,6 +2808,7 @@
 5358|1|x-jat|Aneki... My Sweet Elder Sister The Animation
 8707|1|x-jat|Anemone
 8707|4|ja|Anemone
+20424|1|x-jat|Anemone (2027)
 2300|4|pl|Anette
 16288|2|fr|Anette et Liliana, double désir
 15245|2|fr|Anette, ma voisine de palier
@@ -7906,9 +7907,9 @@
 508|4|es|Campeones: Hacia el Mundial
 505|4|es|Campeones: Oliver y Benji
 17689|4|de|Campfire Cooking in Another World with My Absurd Skill
+17689|4|en|Campfire Cooking in Another World with My Absurd Skill
 18257|4|en|Campfire Cooking in Another World with My Absurd Skill Season 2
 18257|4|de|Campfire Cooking in Another World with My Absurd Skill Staffel 2
-17689|4|en|Campfire Cooking in Another World with My Absurd Skills
 8861|4|es|Campione!
 8861|4|es-419|Campione!
 8861|4|en|Campione!
@@ -13406,7 +13407,6 @@
 5432|1|x-jat|Doraemon: Nobita no Shin Makai Daibouken - Shichinin no Mahou Tsukai
 6585|1|x-jat|Doraemon: Nobita no Sousei Nikki
 6583|1|x-jat|Doraemon: Nobita no Taiyou Ou Densetsu
-6594|2|x-jat|Doraemon: Nobita no Uchukosenso
 6599|1|x-jat|Doraemon: Nobita no Uchuu Hyouryuuki
 6590|1|x-jat|Doraemon: Nobita no Uchuu Kaitakushi
 1951|1|x-jat|Doraemon: Nobita no Wan Nyan Jikuuden
@@ -13812,7 +13812,6 @@
 17053|4|pl|Dr. Stone (2023)
 18064|4|pl|Dr. Stone (2023) (Part 2)
 15305|2|en|Dr. Stone S2: Stone Wars
-19614|2|en|Dr. Stone S4
 18064|2|x-jat|Dr. Stone Season 3 Part 2
 18336|2|en|Dr. Stone Season 4
 19248|2|en|Dr. Stone Season 4 Part 2
@@ -15994,6 +15993,7 @@
 936|2|en|Everyday Seems Sunday
 10289|2|en|Everyone Gather! Falcom Academy
 18933|2|en|Everyone in the Sect Except Me is an Undercover Agent
+20423|2|en|Everyone`s Darling Has a Secret
 16057|4|en|Everything for Demon King Evelogia
 16057|2|en|Everything for the Demon King Evelogia
 19150|4|en|Everything is Fine with the Emperor
@@ -19715,7 +19715,6 @@
 19220|2|x-unk|Girls und Panzer - MLLSD
 12361|4|de|Girls und Panzer das Finale
 12361|4|en|Girls und Panzer das Finale
-19220|2|en|Girls und Panzer das Finale: Part 5
 10008|4|de|Girls und Panzer der Film
 10008|4|en|Girls und Panzer der Film
 10008|1|x-jat|Girls und Panzer Gekijouban
@@ -20309,8 +20308,7 @@
 17759|2|x-unk|Görünüşçülük
 3961|2|en|Gosaurer
 1021|1|x-jat|Gosenzo San`e
-1865|2|x-jat|Gosenzo-sama Banbanzai!
-1865|1|x-jat|Gosenzosama Banbanzai!
+1865|1|x-jat|Gosenzo-sama Banbanzai!
 1866|2|en|Gosenzosama Banbanzai! the Movie
 7719|2|x-jat|Goshiku
 4636|4|fr|Gosho Aoyama`s Collection of Short Stories
@@ -23877,6 +23875,7 @@
 9164|1|x-jat|Houkago Midnighters
 13976|1|x-jat|Houkago Midnighters: Short Movies Season 2
 18152|1|x-jat|Houkago no Breath
+20423|1|x-jat|Houkago no Idol ni wa Himitsu ga Aru
 8076|1|x-jat|Houkago no Pleiades
 10958|1|x-jat|Houkago no Pleiades (2015)
 1637|1|x-jat|Houkago no Shokuinshitsu
@@ -24175,7 +24174,7 @@
 132|2|en|HunterxHunter (1999)
 8550|4|ja|HUNTERxHUNTER (2011)
 11530|2|en|Hunts x Trash
-18011|2|x-zht|Huo Feng Liao Yuan
+18011|1|x-zht|Huo Feng Liao Yuan
 19127|1|x-zht|Huo Feng Liao Yuan 2
 19127|2|x-zht|Huo Feng Liao Yuan 2nd Season
 16726|1|x-zht|Huoli Shaonian Wang 3
@@ -30305,7 +30304,6 @@
 17830|1|x-zht|Kun Bing Zhi Long
 2343|2|es|Kun Kun
 19323|1|x-zht|Kun Tun Tianxia Zhi Zhang Men Guilai
-8499|1|x-zht|Kung Fu Cooking Girls
 8499|2|x-zht|Kung Fu Liao Li Niang
 4889|2|lt|Kung Fu Meilė
 12247|2|en|Kung Fu Panda
@@ -30314,6 +30312,7 @@
 3563|2|id|Kungfu Boy
 8499|2|en|Kungfu Cooking Girls
 14881|2|en|Kungfu Heroes
+8499|1|x-zht|Kungfu Liaoli Niang
 10823|1|x-jat|Kuni-chan no Ikka Ranran
 4725|3|x-jat|kunimatsu
 2243|3|x-jat|kunimatsu (1966)
@@ -30849,6 +30848,7 @@
 17820|4|es|La chica que me gusta se ha olvidado sus gafas
 4151|4|es|La chica que saltaba a través del tiempo
 4151|4|es-419|La chica que saltaba a través del tiempo
+13325|2|es|La chica satélite y el chico vaca
 4588|4|fr|La Chorale - Furusato Japan
 1300|4|fr|La cicatrice de la sirène
 9126|4|es-419|La cita de Natsuyuki
@@ -31937,7 +31937,6 @@
 1315|2|fr|Les vengeurs de l`espace
 2148|1|x-jat|Lesbian Byoutou
 7985|2|en|Lesbian Citizen Naoko-san
-8602|4|en|Lesbian Citizen Naoko-san (2012)
 2148|4|en|Lesbian Ward
 4781|3|x-jat|lesmise
 799|2|x-jat|Lesson Double X
@@ -32060,6 +32059,9 @@
 19538|4|en|Liar Game
 19538|4|ja|LIAR GAME
 19538|1|x-jat|Liar Game
+20426|4|ja|LIAR GAME 2
+20426|1|x-jat|Liar Game 2
+20426|2|en|Liar Game 2
 15675|2|en|Liar God
 16182|1|x-jat|Liar Liar
 16182|4|en|Liar, Liar
@@ -32290,9 +32292,9 @@
 307|2|en|Little Monica Story
 7026|2|en|Little Monkey on a Swing
 2530|1|x-jat|Little Nemo
-2530|4|fr|Little Nemo
 2530|4|de|Little Nemo - Abenteuer im Schlummerland
 2530|4|en|Little Nemo: Adventures in Slumberland
+2530|4|fr|Little Nemo: les Aventures au pays de Slumberland
 7317|4|ja|Little Polar Bear しろくまくん, ふねにのる
 9363|1|x-jat|Little Polar Bear: Shirokuma-kun, Doko e?
 7317|1|x-jat|Little Polar Bear: Shirokuma-kun, Fune ni Noru
@@ -33268,7 +33270,7 @@
 986|1|x-jat|Lupin Sansei: Lupin Ansatsu Shirei
 823|1|x-jat|Lupin Sansei: Lupin vs Clone
 823|2|x-jat|Lupin Sansei: Lupin vs Fukusei-ningen
-13670|1|x-jat|Lupin Sansei: Lupin wa Ima mo Moete Iru ka?
+13670|1|x-jat|Lupin Sansei: Lupin wa Ima mo Moete Iruka?
 815|1|x-jat|Lupin Sansei: Moeyo Zantetsuken
 2137|1|x-jat|Lupin Sansei: Napoleon no Jisho o Ubae
 2137|2|x-jat|Lupin Sansei: Napoleon no Jisho wo Ubae
@@ -33899,6 +33901,7 @@
 10770|4|en|Magical Girl Ore
 1075|4|en|Magical Girl Pretty Sammy
 11572|4|en|Magical Girl Raising Project
+17839|2|en|Magical Girl Raising Project Restart
 13424|4|en|Magical Girl Site
 14229|4|en|Magical Girl Spec-Ops Asuka
 10461|2|en|Magical Girl Transforms with a Kiss: To Do It with Someone Other Than My Boyfriend...
@@ -37051,7 +37054,6 @@
 3404|2|x-jat|Moke Moke Taishou Dendo Musume Arisa
 3404|1|x-jat|Moke Moke Taishou Dendou Musume Arisa
 7670|1|x-jat|Mokei Senshi Gunpla Builders Beginning G
-3404|4|de|Mokemoke Taisho Dendo Musume Arisa
 3404|2|x-jat|Mokemoke Taishou Dendou Musume Arisa
 10652|1|x-jat|Mokkai Shiyo?
 5052|1|x-jat|Mokke
@@ -37888,6 +37890,8 @@
 17236|2|en|Mushoku Tensei II: Jobless Reincarnation
 18727|1|x-jat|Mushoku Tensei III: Isekai Ittara Honki Dasu
 20422|1|x-jat|Mushoku Tensei III: Isekai Ittara Honki Dasu (2027)
+18727|4|en|Mushoku Tensei III: Jobless Reincarnation
+20422|4|en|Mushoku Tensei III: Jobless Reincarnation (2027)
 18727|2|x-jat|Mushoku Tensei S3
 14758|1|x-jat|Mushoku Tensei: Isekai Ittara Honki Dasu
 15954|1|x-jat|Mushoku Tensei: Isekai Ittara Honki Dasu (2021)
@@ -37897,8 +37901,6 @@
 15954|4|en|Mushoku Tensei: Jobless Reincarnation (2021)
 17236|4|en|Mushoku Tensei: Jobless Reincarnation Season 2
 18104|4|en|Mushoku Tensei: Jobless Reincarnation Season 2 (2024)
-18727|4|en|Mushoku Tensei: Jobless Reincarnation Season 3
-20422|4|en|Mushoku Tensei: Jobless Reincarnation Season 3 (2027)
 14758|4|ru|Mushoku Tensei: Перерождение безработного
 14758|3|x-jat|mushokutensei
 15954|2|x-jat|mushokutensei s1p2
@@ -40939,7 +40941,7 @@
 13781|1|x-jat|Omae wa Mada Gunma o Shiranai
 19821|1|x-jat|Omae wa Mada Gunma o Shiranai: Reiwa Ban
 13781|2|x-jat|Omae wa Mada Gunma wo Shiranai
-20060|1|x-jat|Omae, Tanuki ni Naranee ka?
+20060|1|x-jat|Omae, Tanuki ni Naraneeka?
 19310|3|x-jat|omagoto
 13781|3|x-jat|Omagun
 6571|3|x-jat|Omahima
@@ -41324,10 +41326,10 @@
 14975|2|en|Onii-chan, Keep Hugging Me Tight Until Morning Comes!
 1137|1|x-jat|Onii-sama e...
 19055|2|x-jat|Onii-san... Ohitori desu ka?
+19055|1|x-jat|Onii-san... Ohitori Desuka?
 7978|2|x-jat|Oniichan no Koto Nanka Zenzen Suki Janain Dakara ne
 13996|1|x-jat|Oniichan Zurui
 1137|2|x-jat|Oniisama E...
-19055|1|x-jat|Oniisan... Ohitori desu ka?
 3494|1|x-jat|Onikirimaru
 10427|1|x-jat|Oniku Daisuki! Zeushi-kun
 11914|1|x-jat|Oniku Daisuki! Zeushi-kun (2014)
@@ -45922,6 +45924,7 @@
 14192|4|zh-Hans|Re:Stage！Dream Days♪
 15538|2|ja|Re:STARS
 11370|3|ja|Re:Zero
+11370|4|es|Re:Zero - Empezar de cero en un mundo diferente
 14792|2|es|Re:Zero - Empezar de cero en un mundo diferente (2020)
 15593|2|es|Re:Zero - Empezar de cero en un mundo diferente (2021)
 17947|2|es|Re:Zero - Empezar de cero en un mundo diferente (2024)
@@ -45937,7 +45940,6 @@
 14792|2|en|Re:Zero - Starting Life in Another World 2nd Season
 17947|2|en|Re:Zero - Starting Life in Another World Season 3
 19242|2|en|Re:Zero - Starting Life in Another World Season 4
-11370|4|es|Re:Zero -Empezar de cero en un mundo diferente-
 14792|4|de|Re:ZERO -Starting Life in Another World- 2
 15593|4|de|Re:ZERO -Starting Life in Another World- 2 Cour 2
 17947|4|de|Re:ZERO -Starting Life in Another World- 3
@@ -47193,7 +47195,7 @@
 18323|4|en|Rurouni Kenshin: Kyoto Disturbance
 18323|2|x-jat|Rurouni Kenshin: Kyoto Douran
 90|1|x-jat|Rurouni Kenshin: Meiji Kenkaku Romantan
-422|1|x-jat|Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Requiem
+422|1|x-jat|Rurouni Kenshin: Meiji Kenkaku Romantan - Ishin Shishi e no Chinkonka
 18323|1|x-jat|Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran
 195|1|x-jat|Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou Hen
 8595|1|x-jat|Rurouni Kenshin: Meiji Kenkaku Romantan - Shin Kyoto Hen
@@ -50178,7 +50180,6 @@
 11000|1|x-jat|Shinmai Maou no Testament: Toujou Basara no Hard Sweet na Nichijou
 17965|1|x-jat|Shinmai Ossan Boukensha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru.
 16732|1|x-jat|Shinmai Renkinjutsushi no Tenpo Keiei
-16036|3|x-jat|shinmaid
 16755|2|x-jat|shinmaid2
 18213|2|x-jat|shinmaid3
 10529|3|x-jat|Shinmaou
@@ -51922,7 +51923,6 @@
 2410|4|fr|Space Symphony Maetel
 2410|2|en|Space Symphony Maetel - The Legend of Galaxy Express
 2410|4|it|Space Symphony Maetel Galaxy Express 999 Outside
-2410|1|x-jat|Space Symphony Maetel: Ginga Tetsudou 999 Gaiden
 2410|2|en|Space Symphony Maetel: The Legend of Galaxy Express
 17321|2|en|Space Time Rift
 11205|4|en|Space Transformers
@@ -53375,12 +53375,10 @@
 11681|4|en|Sword Art Online the Movie: Ordinal Scale
 15735|4|en|Sword Art Online the Movie: Progressive - Aria of a Starless Night
 16951|4|en|Sword Art Online the Movie: Progressive - Scherzo of Deep Night
-20025|4|ja|SWORD ART ONLINE Unanswered//butterfly
 8692|2|en|Sword Art Online: Aincrad
 13493|1|x-jat|Sword Art Online: Alicization
 14796|4|en|Sword Art Online: Alicization - War of Underworld
 14796|1|x-jat|Sword Art Online: Alicization - War of Underworld
-15146|2|x-unk|Sword Art Online: Alicization - War of Underworld - The Last Season
 15146|1|x-jat|Sword Art Online: Alicization - War of Underworld (2020)
 15146|4|en|Sword Art Online: Alicization - War of Underworld (2020)
 15146|2|en|Sword Art Online: Alicization - War of Underworld Part 2
@@ -53390,7 +53388,6 @@
 10022|4|en|Sword Art Online: Extra Edition
 8692|2|en|Sword Art Online: Fairy Dance
 13835|1|x-jat|Sword Art Online: Fatal Bullet - The Third Episode
-20025|1|x-jat|Sword Art Online: Unanswered//Butterfly
 13685|4|en|Sword Dynasty
 13687|4|en|Sword Dynasty 2
 1262|4|en|Sword for Truth
@@ -54510,6 +54507,7 @@
 19217|1|x-jat|Tensei Shitara Dragon no Tamago Datta: Saikyou Igai Mezasanee
 16785|1|x-jat|Tensei Shitara Ken Deshita
 17789|1|x-jat|Tensei Shitara Ken Deshita II
+17789|2|x-jat|Tensei shitara Ken deshita S2
 13871|1|x-jat|Tensei Shitara Slime Datta Ken
 14526|1|x-jat|Tensei Shitara Slime Datta Ken (2019)
 15456|1|x-jat|Tensei Shitara Slime Datta Ken (2021 Dai 2 Bu)
@@ -56094,6 +56092,7 @@
 8374|2|en|The Prince of Tennis - Showdown in England`s Tennis Fortress
 2380|4|en|The Prince of Tennis - Two Samurai: The First Game
 8601|4|en|The Prince of Tennis II
+20348|2|en|The Prince of Tennis II - U-17 World Cup Final Member Selection Match
 10368|2|en|The Prince of Tennis II OVAs vs Genius 10
 15536|4|en|The Prince of Tennis II: Hyotei vs. Rikkai - Game of Future
 16878|4|en|The Prince of Tennis II: U-17 World Cup
@@ -56159,7 +56158,6 @@
 20168|4|en|The Ramparts of Ice (2026)
 16638|2|en|The Ranger Wars
 4878|1|x-jat|The Rapeman Anime Version
-18011|1|x-zht|The Ravages of Time
 18011|2|en|The Ravages of Time
 19127|4|en|The Ravages of Time 2
 14527|2|en|The Reason Why My Wife Got Prettier
@@ -57084,7 +57082,7 @@
 2504|1|x-jat|Time Bokan Series: Yatterman
 1781|1|x-jat|Time Bokan Series: Yattodetaman
 2547|1|x-jat|Time Bokan Series: Zendaman
-13039|1|x-jat|Time Bokan: Gyakushuu no San-Okunin
+13039|1|x-jat|Time Bokan: Gyakushuu no San Akunin
 3580|4|en|Time Bokan: Royal Revival
 13039|4|en|Time Bokan: The Villains` Strike Back
 1066|4|en|Time Colored Scarlet
@@ -58764,6 +58762,7 @@
 1470|1|x-jat|Uchuu Kaizoku Mito no Daibouken: Futari no Joou-sama
 5848|1|x-jat|Uchuu Kaizoku Sara
 3556|1|x-jat|Uchuu Kazoku Carlvinson
+2410|1|x-jat|Uchuu Koukyoushi Maetel: Ginga Tetsudou 999 Gaiden
 2467|1|x-jat|Uchuu Kuubo Blue Noah
 8865|1|x-jat|Uchuu Kyoudai
 9032|1|x-jat|Uchuu Kyoudai: Apo`s Dream
@@ -59029,6 +59028,7 @@
 14537|1|x-jat|Umayon
 14537|4|en|Umayon
 17352|1|x-jat|Umayuru
+20425|1|x-jat|Umayuru: Full Gate!
 19320|1|x-jat|Umayuru: Pretty Gray
 9665|3|en|UMD
 4958|1|x-jat|Umeboshi-denka
@@ -59124,6 +59124,8 @@
 14112|4|es-419|Una Venida de Altura
 10937|4|es-419|Una voz silenciosa
 299|2|de|unanständige Miki
+20025|4|ja|Unanswered//butterfly SWORD ART ONLINE
+20025|1|x-jat|Unanswered//Butterfly: Sword Art Online
 2571|4|es|Unas Gemelas Muy Especiales
 18137|2|en|Unavoidable Love
 1728|1|x-jat|Unbalance
@@ -59906,6 +59908,7 @@
 2362|3|x-jat|vifam s2
 19423|2|en|Vigilante - Boku no Hero Academia Illegals S2
 19069|1|x-jat|Vigilante: Boku no Hero Academia Illegals
+19423|2|x-jat|Vigilante: Boku no Hero Academia Illegals - Aizawa Gakusei Hen
 19423|1|x-jat|Vigilante: Boku no Hero Academia Illegals (2026)
 19069|2|en|Vigilante: My Hero Academia Illegals
 19069|3|en|Vigilantes
@@ -60546,7 +60549,7 @@
 7125|1|x-jat|Watashi no Shiranai Mesu no Kao
 7125|2|x-jat|Watashi no Shiranai Tsuma no Kao
 17362|1|x-jat|Watashi no Yuri wa Oshigoto Desu!
-20186|1|x-jat|Watashi o Center ni Suru to Chikaimasu ka?
+20186|1|x-jat|Watashi o Center ni Suru to Chikaimasuka?
 18942|1|x-jat|Watashi o Tabetai, Hitodenashi
 3325|1|x-jat|Watashi to Watashi: Futari no Lotte
 12599|1|x-jat|Watashi wa Tofu Desu
@@ -76218,6 +76221,7 @@
 1281|4|ja|ヴィジョナリィ
 19069|4|ja|ヴィジランテ -僕のヒーローアカデミア ILLEGALS-
 19423|4|ja|ヴィジランテ -僕のヒーローアカデミア ILLEGALS- (2026)
+19423|2|ja|ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 相澤学生編
 13934|2|ja|ウィズ
 2534|2|ja|ウィッシュ
 7608|4|ja|ウィッシュエンジェル -翼は小さいけれど-
@@ -76322,6 +76326,7 @@
 13380|4|ja|ウマのフレンズ
 17352|4|ja|うまゆる
 19320|4|ja|うまゆる ぷりてぃ~ぐれい
+20425|4|ja|うまゆるふるげ〜と!
 14537|4|ja|うまよん
 18829|4|ja|ウマ娘 シンデレラグレイ
 19419|4|ja|ウマ娘 シンデレラグレイ (2025)
@@ -83330,6 +83335,7 @@
 19066|4|ja|ラーメン赤猫 2
 16182|4|ja|ライアー・ライアー
 19538|2|ja|ライアーゲーム
+20426|2|ja|ライアーゲーム 2
 17920|4|ja|ライザのアトリエ ~常闇の女王と秘密の隠れ家~
 18305|4|ja|ライジングインパクト
 18805|4|ja|ライジングインパクト (2024)
@@ -85938,7 +85944,7 @@
 8692|4|zh-Hant|刀劍神域
 13493|4|zh-Hant|刀劍神域 Alicization
 14796|4|zh-Hant|刀劍神域 Alicization War of Underworld
-15146|4|zh-Hant|刀劍神域 Alicization War of Underworld -THE LAST SEASON-
+15146|2|zh-Hant|刀劍神域 Alicization War of Underworld -THE LAST SEASON-
 10376|4|zh-Hant|刀劍神域 II
 15735|4|zh-Hant|刀劍神域劇場版－Progressive－無星夜的詠嘆調
 16951|4|zh-Hant|刀劍神域劇場版－Progressive－陰沉薄暮的詼諧曲
@@ -88912,6 +88918,7 @@
 10716|4|ja|姉キュン! ~女子が家に来た!~
 4152|4|ja|姉とボイン
 15349|4|ja|姉なるもの
+20424|4|ja|姉モネ
 10673|4|ja|姉ログ 靄子姉さんの止まらないモノローグ
 1098|4|ja|姉妹いじり
 9552|4|ja|姉恋 スキ・キライ・ダイスキ.
@@ -91602,6 +91609,7 @@
 14386|4|ja|放課後さいころ倶楽部
 14827|4|ja|放課後ていぼう日誌
 8730|4|ja|放課後にゃんにゃん
+20423|4|ja|放課後のアイドルには秘密がある
 7695|4|ja|放課後のティンカー・ベル
 8076|4|ja|放課後のプレアデス
 10958|4|ja|放課後のプレアデス (2015)
@@ -92030,13 +92038,11 @@
 9584|4|zh-Hans|旋风管家 Cuties
 8130|4|zh-Hans|旋风管家 HEAVEN IS A PLACE ON EARTH
 10519|4|zh-Hans|旋风管家 OAD
-6389|4|zh|旋风管家 OVA
 6389|4|zh-Hans|旋风管家 泳装篇
 6413|2|zh-Hans|旋风管家 第二季
 4917|2|zh-Hans|旋风管家！
 6413|4|zh-Hans|旋风管家！！
 6413|2|zh-Hans|旋风管家2
-6389|2|zh-Hans|旋风管家ova
 14618|4|zh-Hans|旗扬！兽道
 14618|4|ja|旗揚! けものみち
 15573|4|zh-Hans|无上神帝
