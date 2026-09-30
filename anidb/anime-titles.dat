@@ -1,4 +1,4 @@
-# created: Tue Sep 29 03:00:02 2026
+# created: Wed Sep 30 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -2300,6 +2300,7 @@
 16108|4|hu|Akuma-kun (2023)
 2051|1|x-jat|Akuma-kun: Youkoso Akuma Land e!!
 11848|2|tr|Akuma`nın Gri Çocuğu: Azizlerin Gecesi
+20427|1|x-jat|Akuryou Taisan! Onegai! Iro Kamisama
 1480|1|x-jat|Akuu Daisakusen Srungle
 17937|2|x-jat|Akuyaku LV99
 20259|1|x-jat|Akuyaku no Ending wa Shi Nomi
@@ -45450,6 +45451,7 @@
 7521|3|x-jat|r20
 7521|4|ja|R20 銀河空港
 7521|1|x-jat|R20: Ginga Kuukou
+20428|1|x-jat|Ra/Radio Noise * Planet
 1277|3|x-jat|rabbie
 16673|2|en|Rabbit Man and Flower
 17302|4|ja|RABBITS KINGDOM THE MOVIE
@@ -83326,6 +83328,7 @@
 8288|4|ja|よんでますよ, アザゼルさん. (2011)
 9501|4|ja|よんでますよ, アザゼルさん. Z
 2342|4|ja|ラ・セーヌの星
+20428|4|ja|ラ/ラジオノイズ ＊ プラネット
 14|4|ja|ラーゼフォン
 580|4|ja|ラーゼフォン 多元変奏曲
 7969|4|ja|ラーゼフォン 間奏曲 / 彼女と彼女自身と 「Thatness And Thereness」
@@ -87826,6 +87829,8 @@
 11591|4|zh-Hans|境界的轮回 第二季
 8323|4|ja|境界線上のホライゾン
 8886|4|ja|境界線上のホライゾン II
+8323|4|zh-Hant|境界線上的地平線
+8886|4|zh-Hant|境界線上的地平線 第二季
 8323|4|zh-Hans|境界线上的地平线
 8886|4|zh-Hans|境界线上的地平线 第二季
 10657|4|zh-Hans|境界触发者
@@ -90739,6 +90744,7 @@
 17937|4|ja|悪役令嬢レベル99 ~私は裏ボスですが魔王ではありません~
 18366|4|ja|悪役令嬢転生おじさん
 3126|4|ja|悪戯~いたずら~The Animation
+20427|4|ja|悪霊退散! おねが～い! 色神様
 18941|4|ja|悪食令嬢と狂血公爵
 3496|4|ja|悪魔[ディモス]の花嫁~蘭の組曲
 1854|4|ja|悪魔くん
@@ -98537,6 +98543,7 @@
 4435|4|ja|軽井沢シンドローム
 12007|4|zh-Hant|輕拍翻轉小魔女
 9053|4|ja|輝け!友情のVサイン
+19402|4|zh-Hant|輝夜姬想讓人告白 邁向大人的階梯
 14111|4|zh-Hant|輝夜姬想讓人告白~天才們的戀愛頭腦戰~
 15207|4|zh-Hant|輝夜姬想讓人告白～天才們的戀愛頭腦戰～ 第二季
 15806|4|zh-Hant|輝夜姬想讓人告白ー超級浪漫ー
