@@ -1,4 +1,4 @@
-# created: Wed Sep 30 03:00:02 2026
+# created: Thu Oct  1 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -917,6 +917,7 @@
 784|2|pt|A Canção do Cordeiro
 12523|4|pt|A Canção Perdida
 12637|4|en|A Centaur`s Life
+19159|4|en|A Certain Dark Item
 19159|2|en|A Certain Item of the Dark Side
 5975|4|en|A Certain Magical Index
 5975|4|pl|A Certain Magical Index
@@ -11018,6 +11019,7 @@
 18290|2|en|Dandadan
 18290|4|de|Dandadan
 19912|1|x-jat|Dandelion
+20081|4|en|Dandivine
 6738|2|en|Danemon`s Monster Hunt at Shojoji
 10937|2|x-unk|Dáng hình thanh âm
 10937|4|vi|Dáng Hình Thanh Âm
@@ -11303,6 +11305,7 @@
 18391|1|x-zht|Dawang Raoming 2
 13942|2|en|Dawn of the World
 1220|4|pl|Dawno, Dawno Temu
+20429|1|x-zht|Daxia Shou Mu Ren
 9736|4|en|Day Break Illusion
 9736|4|fr|Day Break Illusion
 2159|2|fr|Day Dream
@@ -17454,7 +17457,7 @@
 14873|2|en|Frog Prince Adventures
 3689|2|en|From Aesop`s Tales: The Bull and the Frog / The Greedy Dog
 18366|4|en|From Bureaucrat to Villainess: Dad`s Been Reincarnated!
-19953|2|en|From Far Away
+19953|4|en|From Far Away
 404|4|pl|From I"S
 404|4|fr|From I``s
 404|4|de|From I``s
@@ -17611,7 +17614,7 @@
 5318|2|en|Fukuyama Theatre - Secret Summer
 1481|4|fr|Fulgutor
 117|2|fr|Fuli Culi
-19822|2|en|Full Clearing Another World Under a Goddess with Zero Believers
+19822|4|en|Full Clearing Another World Under a Goddess with Zero Believers
 15905|4|fr|Full Dive : L`ultime RPG est encore plus foireux que la réalité !
 15905|4|en|Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier Than Real Life!
 979|2|pl|Full Matal Alchemist/Stalowy Alchemik
@@ -23776,7 +23779,7 @@
 8886|3|x-jat|horizon2
 5018|4|en|Horny Ladies and the News
 12609|1|x-jat|Horoscope: Anata no Seiza
-19754|2|en|Horror Collector
+19754|4|en|Horror Collector
 11031|4|en|Horror News
 17092|4|en|Horror of the Underworld
 7743|1|x-jat|Horrorman to Hora Horako
@@ -27905,7 +27908,7 @@
 2843|3|x-jat|Kashimashi
 2843|4|en|Kashimashi: Girl Meets Girl
 2843|1|x-jat|Kashimashi: Girl Meets Girl
-19714|1|x-jat|Kashita Maryoku wa "Ribobarai" de Kyousei Choushuu: Youzumi to Party Tsuihou Sareta Ore wa, Kawaii Support Yousei to Issho ni Toritateta Maryoku o Un`you Shite Saikyou o Mezasu.
+19714|1|x-jat|Kashita Maryoku wa "Revo-barai" de Kyousei Choushuu: Youzumi to Party Tsuihou Sareta Ore wa, Kawaii Support Yousei to Issho ni Toritateta Maryoku o Un`you Shite Saikyou o Mezasu.
 168|2|x-jat|Kashou no Tsuki
 168|1|x-jat|Kashou no Tsuki: Aki Kyougen
 2843|2|x-jat|Kasimasi
@@ -27983,6 +27986,7 @@
 17887|4|en|Kawagoe Boys Sing: Now or Never
 15964|1|x-jat|Kawaii dake ja Nai Shikimori-san
 14695|1|x-jat|Kawaikereba Hentai demo Suki ni Natte Kuremasuka?
+20430|1|x-jat|Kawaisouni! Theater
 17645|1|x-jat|Kawaisugi Crisis
 4396|4|pl|Kawaler miecza
 1535|2|pl|Kawaleria kosmosu
@@ -29301,6 +29305,7 @@
 19087|2|x-jat|Kizoku Tensei - Megumareta Umare kara Saikyou no Chikara wo Eru
 19087|1|x-jat|Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara o Eru
 19442|1|x-jat|Kizu Darake Seijo yori Houfuku o Komete
+20433|1|x-jat|Kizu Darake Seijo yori Houfuku o Komete Season 2
 10139|1|x-jat|Kizudarake no Ringo
 20193|1|x-jat|Kizuguchi to Houtai
 8357|1|x-jat|Kizumonogatari
@@ -33822,7 +33827,7 @@
 17478|2|en|Magic Muscles
 11883|4|en|Magic of Stella
 12623|4|en|Magic of the Circus
-19714|2|en|Magic Repo Man: Dumped by My Party, I’ll Cash In with a Cute Support Fairy to Become the Strongest!
+19714|2|en|Magic Repo Man: Dumped by My Party, I`ll Cash In with a Cute Support Fairy to Become the Strongest!
 3373|2|en|Magic School Lunar: Secret of the Blue Dragon
 1444|2|en|Magic Star Magical Emi
 2605|2|en|Magic Teacher Negima
@@ -40260,6 +40265,7 @@
 19956|1|x-jat|Nuki Nuki Zupposism
 18459|1|x-jat|Nukitashi the Animation
 18459|4|en|Nukitashi The Animation
+18459|4|zh-Hant|NUKITASHI 住在拔作島上的我該如何是好？
 18459|4|de|Nukitashi: Welcome to Love Island!
 9119|1|x-jat|Nukko.
 526|3|en|Nuku Nuku
@@ -40574,6 +40580,7 @@
 6299|4|en|Oblivion Island: Haruka and the Magic Mirror
 11982|2|pl|Oblubienica czarnoksiężnika
 7284|1|x-jat|Obocchama-kun
+20434|1|x-jat|Obocchama-kun Reborn
 7324|2|en|Obscene Campus Dreams
 2519|2|en|Obscene Prison Ward
 19328|2|en|Observation Records of My Fiancee: The Misadventures of a Self-Proclaimed Villainess
@@ -46212,6 +46219,7 @@
 18760|4|en|Reincarnated as a Neglected Noble: Raising My Baby Brother with Memories from My Past Life
 16785|4|en|Reincarnated as a Sword
 17789|4|en|Reincarnated as a Sword II
+17789|2|en|Reincarnated as a Sword Season 2
 18437|2|en|Reincarnated as the Daughter of the Legendary Hero and the Queen of Spirits
 16057|2|en|Reincarnated into Demon King Evelogia`s World
 18624|2|en|Reincarnated Marquis
@@ -48776,11 +48784,13 @@
 17788|3|x-jat|seiradi
 15875|1|x-jat|Seirei Gensouki
 16962|1|x-jat|Seirei Gensouki 2
+20432|1|x-jat|Seirei Gensouki 3
 16962|2|x-jat|Seirei Gensouki S2
 15875|4|en|Seirei Gensouki: Spirit Chronicles
 15875|4|de|Seirei Gensouki: Spirit Chronicles
 16962|4|en|Seirei Gensouki: Spirit Chronicles 2
 16962|4|de|Seirei Gensouki: Spirit Chronicles 2
+20432|2|en|Seirei Gensouki: Spirit Chronicles 3
 16962|2|en|Seirei Gensouki: Spirit Chronicles Season 2
 4403|1|x-jat|Seirei no Moribito
 2792|1|x-jat|Seirei Tsukai
@@ -53088,7 +53098,7 @@
 1392|4|pt-BR|Super Pig
 1392|4|en|Super Pig
 3207|4|pt|Super Poderosas
-19649|2|en|Super Psychic Policeman Chojo
+19649|4|en|Super Psychic Policeman Chojo
 1411|2|en|Super Radical Gag Family
 5259|1|x-jat|Super Real Mahjong
 1672|4|it|Super Robot 28
@@ -55030,6 +55040,7 @@
 813|1|x-jat|The Cockpit
 813|4|fr|The Cockpit
 813|2|en|The Cockpit: Kamikaze Stories
+19955|4|en|The Cold Sato-san Is Only Sweet to Me
 13204|1|x-jat|The Collected Animations of ICAF (2001-2006)
 17753|4|en|The Colors Within
 10295|2|en|The Comic Artist and Assistants
@@ -55458,6 +55469,7 @@
 18879|4|en|The Gorilla God`s Go-To Girl
 2000|2|en|The Gourmet
 16541|2|en|The Grand Lord
+20429|2|en|The Gravekeeper of Great Xia
 1469|2|en|The Great Adventure of Space Pirate Mito
 2219|2|en|The Great Adventures of Kikansha Yaemon D51
 1060|2|en|The Great Adventures of Robin Hood
@@ -55489,6 +55501,7 @@
 125|2|x-jat|the groove adventure RAVE
 12191|4|en|The Guardian Brothers
 18197|2|en|The Guardian Legend
+20429|4|en|The Guardian of Daxia
 2963|2|x-jat|The Guts
 2963|4|de|The Guts
 2963|1|x-jat|The Guts!
@@ -56930,6 +56943,8 @@
 11502|4|ja|THUNDER
 19877|1|x-jat|Thunder 3
 19877|4|en|Thunder 3
+20431|1|x-jat|Thunder 3 (2027)
+20431|2|en|Thunder 3 (2027)
 1305|4|en|Thunder Jet
 9630|4|en|Thunder Prince
 1257|4|en|Thunderbirds 2086
@@ -57866,7 +57881,7 @@
 8022|1|x-jat|Toufu Kozou
 18615|1|x-jat|Tougen Anki
 18615|4|en|Tougen Anki
-19795|2|en|Tougen Anki: Nikko Kegon Falls Arc
+19795|4|en|Tougen Anki: Nikko Kegon Falls Arc
 19795|1|x-jat|Tougen Anki: Nikkou Kegon no Taki Hen
 1870|4|fr|Tough
 11096|1|x-jat|Tough Guy!
@@ -61019,6 +61034,7 @@
 12100|2|en|With Love
 19442|3|en|With Vengeance
 19442|4|en|With Vengeance, Sincerely, Your Broken Saintess
+20433|4|en|With Vengeance, Sincerely, Your Broken Saintess Season 2
 605|4|ja|With You ~みつめていたい~
 18824|4|en|With You and the Rain
 19107|4|en|With You, Our Love Will Make It Through
@@ -76830,6 +76846,7 @@
 12611|4|ja|おふろのかぞえうた
 16185|2|ja|おべいみー
 7284|4|ja|おぼっちゃまくん
+20434|4|ja|おぼっちゃまくん REBORN
 7655|4|ja|おまえうまそうだな
 4063|4|ja|おまかせ スクラッパーズ
 11058|4|ja|おまかせ! みらくるキャット団
@@ -78492,6 +78509,7 @@
 14946|4|ja|サンタ・カンパニー ~クリスマスの秘密~
 16005|4|ja|サンタ・カンパニー ~真夏のメリークリスマス~
 19877|4|ja|サンダー3
+20431|4|ja|サンダー3 (2027)
 5809|4|ja|サンタクロースつかまえた!
 18486|4|ja|サンタさんが二人いた
 7865|4|ja|サンタさんとトナカイクッピ
@@ -85277,6 +85295,7 @@
 17075|4|zh-Hans|傲娇恶役大小姐莉泽洛特与实况转播远藤君和解说员小林
 15206|2|zh-Hant|傳頌之物 二人的白皇
 19442|4|ja|傷だらけ聖女より報復をこめて
+20433|4|ja|傷だらけ聖女より報復をこめて Season2
 20193|4|ja|傷口と包帯
 8357|4|ja|傷物語
 8357|4|zh-Hant|傷物語
@@ -86915,6 +86934,7 @@
 8288|2|zh-Hant|召喚惡魔阿薩謝爾
 2719|4|zh-Hans|可别输了！魔剑道
 290|4|zh-Hans|可可露图书馆
+20430|4|ja|可哀想に！劇場
 10854|4|zh-Hant|可塑性記憶
 10854|4|zh-Hans|可塑性记忆
 15964|4|ja|可愛いだけじゃない式守さん
@@ -88113,6 +88133,7 @@
 9765|4|zh-Hans|大图书馆的牧羊人
 16678|4|ja|大垣まつりにいこうよ！
 9236|2|zh-Hans|大声说爱你
+20429|4|zh-Hans|大夏守墓人
 3448|4|ja|大失禁へレナ
 3448|4|zh-Hans|大失禁海伦娜
 4577|4|zh-Hans|大头狗仔队
@@ -91822,6 +91843,7 @@
 7729|2|zh-Hant|斯坦因之門
 9620|4|zh-Hans|斯特拉女子学院高等科C3部
 11883|4|zh-Hans|斯特拉的魔法
+11883|4|zh-Hant|斯特拉的魔法
 1908|2|ja|新 カリメロ
 17493|4|zh-Hans|新 吊带袜天使
 20405|4|ja|新 美味しんぼ
@@ -96450,6 +96472,7 @@
 9999|4|ja|精霊使いの剣舞
 15875|4|ja|精霊幻想記
 16962|4|ja|精霊幻想記2
+20432|4|ja|精霊幻想記3
 9999|4|zh-Hant|精靈使的劍舞
 2729|2|zh-Hant|精靈俏女巫
 230|4|zh-Hant|精靈寶可夢
@@ -99432,6 +99455,7 @@
 9166|4|ja|閃乱カグラ
 10885|4|ja|閃乱カグラ ESTIVAL VERSUS -水着だらけの前夜祭-
 13341|4|ja|閃乱カグラ SHINOVI MASTER -東京妖魔篇-
+9166|2|zh-Hant|閃亂神樂
 7278|4|ja|閃光のナイトレイド
 10385|4|zh-Hant|閃爍的青春
 16937|2|zh-Hant|閃耀路標
