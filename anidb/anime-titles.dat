@@ -1,4 +1,4 @@
-# created: Thu Oct  1 03:00:01 2026
+# created: Fri Oct  2 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
 4598|2|x-jat|_summer
@@ -9104,6 +9104,7 @@
 5986|1|x-jat|Chocolate Underground
 11387|1|x-jat|Chocolate Underground: Bokura no Chocolate Sensou
 4350|3|x-jat|chocosis
+20435|2|en|Chocot Yabacity
 9607|1|x-jat|Chocotan!
 4350|2|en|Chocotto Sister
 4350|1|x-jat|Chocotto Sister
@@ -9116,6 +9117,7 @@
 9654|1|x-jat|Chokkyuu Hyoudai Robot Anime: Straight Title
 14857|1|x-jat|Chokotto Anime Kemono Friends 3
 4350|2|x-jat|Chokotto Sister
+20435|1|x-jat|Chokotto Yabacity
 20308|1|x-zht|Chong Chu Diqiu
 18659|2|x-zht|Chong Mei
 6934|1|x-jat|Chongire Hebi
@@ -33692,6 +33694,7 @@
 13941|4|de|Made in Abyss (Movie)
 13941|4|en|Made in Abyss (Movies)
 15359|2|fi|Made in Abyss: Auringon paahtama kultainen kaupunki
+17824|2|en|Made in Abyss: Awakening Mystery
 13612|4|en|Made in Abyss: Dawn of the Deep Soul
 15359|4|de|Made in Abyss: Die Goldene Stadt der sengenden Sonne
 13612|4|es|Made in Abyss: El amanecer del Alma Profunda
@@ -35590,6 +35593,7 @@
 18312|4|en|Meiji Gekken: 1874
 12461|1|x-jat|Meiji Tokyo Renka
 12461|4|en|Meiji Tokyo Renka
+20438|1|x-jat|Meiji-hen
 16082|4|x-jat|Meijou
 3305|1|x-jat|Meiken Jolie
 2289|1|x-jat|Meiken Lassie
@@ -46292,9 +46296,13 @@
 11822|3|x-jat|Renbo
 18237|2|en|Renegade Immortal
 19372|2|en|Renegade Immortal Movie
+20436|4|en|Renegade Immortal Movie: Slaying the Blood Progenitor
 19372|2|en|Renegade Immortal: Battle of Gods
 19372|2|en|Renegade Immortal: Battle of the Divine Descent
 19372|2|en|Renegade Immortal: Battle of the God
+20436|2|en|Renegade Immortal: Battle of the Immortal Slayer
+19372|4|en|Renegade Immortal: Divine Descent
+20436|2|en|Renegade Immortal: Slaying the Blood Progenitor
 17282|3|x-jat|Renflo
 7409|2|tr|Rengarenk
 16987|1|x-zht|Renjian Zui Deyi
@@ -53448,6 +53456,7 @@
 10810|3|x-jat|syd2 ova 2
 336|4|fi|Sydämen kuiskaus
 8828|1|x-jat|Sylvanian Families
+20437|1|x-jat|Sylvanian Families: Freya no Colorful Everyday
 18075|1|x-jat|Sylvanian Families: Freya no Go for Dream!
 17610|1|x-jat|Sylvanian Families: Freya no Happy Diary
 18882|1|x-jat|Sylvanian Families: Freya no Piece of Secret
@@ -61564,6 +61573,9 @@
 18420|1|x-zht|Xian Mu
 18237|1|x-zht|Xian Ni
 19372|2|x-zht|Xian Ni Juchang Ban: Shenlin Zhi Zhan
+20436|2|x-zht|Xian Ni Juchang Ban: Shi Xian Zhi Zhan
+19372|2|x-zht|Xian Ni Movie: Shenlin Zhi Zhan
+20436|1|x-zht|Xian Ni Movie: Shi Xian Zhi Zhan
 19372|1|x-zht|Xian Ni: Shenlin Zhi Zhan
 14718|2|x-zht|Xian Wang de Ri Chang Sheng Huo
 14718|1|x-zht|Xian Wang De Richang Shenghuo
@@ -78810,6 +78822,7 @@
 4989|4|ja|シリウスの伝説
 4560|4|ja|シルクロード少年 ユート
 8828|4|ja|シルバニアファミリー
+20437|4|ja|シルバニアファミリー フレアのカラフル・エブリデイ
 18075|4|ja|シルバニアファミリー フレアのゴー・フォー・ドリーム!
 17610|4|ja|シルバニアファミリー フレアのハッピーダイアリー
 18882|4|ja|シルバニアファミリー フレアのピース・オブ・シークレット
@@ -79715,6 +79728,7 @@
 9607|4|ja|チョコタン!
 4350|4|ja|ちょこッとSister
 14857|4|ja|ちょこっとアニメ けものフレンズ3
+20435|4|ja|ちょこっとヤバシティ
 5986|4|ja|チョコレート・アンダーグラウンド
 11387|4|ja|チョコレート・アンダーグラウンド ぼくらのチョコレート戦争
 4002|4|ja|チョッちゃん物語
@@ -84896,6 +84910,7 @@
 963|4|ja|仙界伝 封神演義
 19297|4|zh-Hans|仙迹寻踪
 18237|4|zh-Hans|仙逆
+20436|4|zh-Hans|仙逆剧场版 弑仙之战
 19372|4|zh-Hans|仙逆剧场版 神临之战
 16780|4|zh-Hans|仙风剑雨录
 4685|4|zh-Hans|仙魔大战2000
@@ -92225,6 +92240,7 @@
 12461|4|ja|明治東亰恋伽
 10240|2|ja|明治東亰恋伽 弦月の小夜曲
 10240|2|ja|明治東亰恋伽 花鏡の幻想曲
+20438|4|ja|明治編
 20388|4|zh|明王幻世录
 8029|4|ja|明菜と温泉でHしよっ
 16348|4|ja|星うさぎと月のふね
@@ -98038,6 +98054,7 @@
 10781|4|ja|討鬼伝 極
 16110|4|ja|託された想い篇
 5530|2|zh-Hant|記憶女神
+5530|2|zh-Hant|記憶女神的女兒們
 18117|4|zh-Hant|記憶縫線YOUR FORMA
 9677|4|zh-Hant|記錄的地平線
 10551|4|zh-Hant|記錄的地平線 (2014)
@@ -99622,6 +99639,7 @@
 106|2|zh|阿滋漫画大王
 106|4|zh-Hans|阿滋漫画大王
 18967|4|zh-Hant|阿爾涅事件簿
+19116|4|zh-Hant|阿爾瑪醬想成為家人
 15013|4|zh-Hant|阿爾蒂
 12148|4|zh-Hans|阿童木起源
 10202|4|zh-Hans|阿茹茉妮
