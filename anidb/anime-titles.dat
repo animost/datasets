@@ -1,6 +1,6 @@
-# created: Sat Oct  3 03:00:02 2026
+# created: Sun Oct  4 03:00:01 2026
 # <aid>|<type>|<language>|<title>
-# type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language)
+# type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
 4598|2|ru|_Лето
 17715|4|ja|-禅- グローグーとマックロクロスケ
@@ -217,6 +217,7 @@
 19586|4|en|#I`m Looking for a Zombie
 17297|1|x-jat|#Ima Made de Ichiban Yokatta Sex The Animation
 19565|1|x-jat|#Kanagawa ni Sunderu Elf
+17229|1|x-jat|#Sekai ga Horobiru Mae ni Kimi ni Aitai
 19586|1|x-jat|#Zombie Sagashitemasu
 19565|3|ja|#かなエル
 15798|4|ja|#コンパス
@@ -3922,6 +3923,7 @@
 18302|4|de|Ascendance of a Bookworm: Adopted Daughter of an Archduke
 18302|4|en|Ascendance of a Bookworm: Adopted Daughter of an Archduke
 15300|4|en|Ascendance of a Bookworm: Eustachius`s Incognito Operation Downtown / Visiting Missus Corinna
+20443|2|en|Ascendance of a Bookworm: Founder of the Royal Academy`s So-Called Library Committee
 14727|2|en|Ascendance of a Bookworm: I`ll Do Anything to Become a Librarian!
 19734|4|en|Ascendants of the Nine Suns
 8686|2|ro|Ascultati-ma fetelor. Eu sunt tatal vostru!
@@ -4617,6 +4619,7 @@
 13121|2|en|Backkom Bear: Agent 008
 10322|2|x-kot|Backkom Meogeujan Yeohaeng
 18989|2|en|Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, but Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out for Revenge on My Former Party Members and the World
+20446|1|x-jat|Backstage at Oushun Academy
 9431|1|x-jat|Backstage Idol Story
 9431|4|ja|BackstageIdolStory
 14698|2|en|Backwasher
@@ -5106,7 +5109,7 @@
 16370|1|x-jat|Bang Dream! Garupa Pico: Fever!
 15307|1|x-jat|Bang Dream! Garupa Pico: Oomori
 14077|2|x-jat|Bang Dream! Girl`s Band Party Pico
-17240|1|x-jat|BanG Dream! Girls Band Party! 5th Anniversary Animation: Circle Thanks Party!
+17240|1|x-jat|Bang Dream! Girls Band Party! 5th Anniversary Animation: Circle Thanks Party!
 17981|4|ja|BanG Dream! It`s MyGO!!!!!
 17981|1|x-jat|Bang Dream! It`s MyGo!!!!!
 17981|4|en|Bang Dream! It`s MyGo!!!!!
@@ -5122,6 +5125,7 @@
 19566|1|x-jat|Bang Dream! Yumemita
 19566|4|en|Bang Dream! Yumemita
 17981|4|ru|BanG Dream! Это MyGO!
+17240|4|ja|BanG Dream! ガールズバンドパーティ! 5th Anniversary Animation -CiRCLE THANKS PARTY!-
 14077|4|ja|BanG Dream! ガルパ☆ピコ
 15307|4|ja|BanG Dream! ガルパ☆ピコ ~大盛り~
 16370|4|ja|BanG Dream! ガルパ☆ピコ ふぃーばー!
@@ -6216,7 +6220,9 @@
 12665|1|x-jat|Black Clover (2017)
 12665|2|x-unk|Black Clover (TV)
 19433|1|x-jat|Black Clover 2nd Season
+19433|2|en|Black Clover S2
 19433|4|en|Black Clover Second Season
+19433|4|de|Black Clover Staffel 2
 16176|4|pt|Black Clover: A Espada do Rei Feiticeiro
 16176|4|pt-BR|Black Clover: A Espada do Rei Mago
 16176|4|hu|Black Clover: A varázslókirály kardja
@@ -7074,7 +7080,7 @@
 13899|2|en|Boogiepop wa Warawanai (2019)
 179|1|x-jat|Boogiepop wa Warawanai: Boogiepop Phantom
 6959|4|es|Book Girl
-7441|2|en|Book Girl Memories
+7441|2|en|Book Girl: Memoire
 16752|2|en|Book of Spirits
 16753|2|en|Book of Spirits 2
 17426|2|en|Book of Spirits 3
@@ -11436,6 +11442,7 @@
 18670|2|en|DDDD
 17273|2|en|DDDD movie
 18670|2|zh-Hans|DDDD 恶魔的破坏
+18670|4|zh-Hant|DDDD 惡魔的破壞
 8643|4|ja|DDDにおける池田爆発郎とwattの本名
 1619|3|x-jat|DDL
 9597|2|en|Ddoli and Zeta Robot
@@ -11701,6 +11708,7 @@
 16115|4|ja|DELIVER POLICE/西東京市デリバー警察隊
 17486|1|x-jat|Delivery Chi*ko o Tanomitai Onee-san
 17486|2|x-jat|Delivery Chinko o Tanomitai Onee-san
+20447|2|en|Delivery Kitten Unyan
 20288|4|en|Delta Force: The Creator
 4595|1|x-jat|Deltora Quest
 4595|4|it|Deltora Quest
@@ -13497,6 +13505,7 @@
 4174|2|x-jat|Doredore no Uta
 608|1|x-jat|Dorei Ichiba
 1721|1|x-jat|Dorei Kaigo
+20445|1|x-jat|Dorei kara no Kitai to Hyouka no Sei de Sakushu Dekinai no Da ga
 5218|1|x-jat|Dorei Maid Princess
 5737|2|x-jat|Dorei Ningyou
 10043|1|x-jat|Dorei Usagi to Anthony The Animation
@@ -13855,6 +13864,7 @@
 15305|4|ja|Dr.STONE STONE WARS
 16164|4|zh-Hant|Dr.Stone 新石紀 (龍水)
 18336|4|zh-Hant|Dr.STONE 新石紀 SCIENCE FUTURE
+17053|4|zh-Hant|Dr.STONE 新石紀 第三季
 14491|4|zh-Hans|Ｄｒ．ＳＴＯＮＥ 石纪元
 16164|4|zh-Hans|Ｄｒ．ＳＴＯＮＥ 石纪元 特别篇：龙水
 17053|4|zh-Hans|Ｄｒ．ＳＴＯＮＥ 石纪元 第三季
@@ -16254,6 +16264,7 @@
 9980|2|x-jat|Fairy Tail Zero
 9980|2|ja|FAIRY TAIL ZERØ
 6662|4|zh-Hant|FAIRY TAIL 魔導少年
+16637|4|zh-Hant|FAIRY TAIL 魔導少年 百年任務
 11247|4|fr|Fairy Tail, le film : Dragon Cry
 16637|1|x-jat|Fairy Tail: 100 Years Quest
 16637|4|de|Fairy Tail: 100 Years Quest
@@ -20285,6 +20296,7 @@
 6558|4|de|Good night only to you
 15547|1|x-jat|Good Night World
 15547|4|en|GOOD NIGHT WORLD
+15547|4|zh-Hant|GOOD NIGHT WORLD
 15547|2|x-jat|Good Night, World
 3047|2|en|Good Sunshine!
 4172|3|en|Good Witch
@@ -21492,10 +21504,10 @@
 9459|2|x-jat|Haiyore! Nyarlko W
 8719|2|x-jat|Haiyore! Nyarlko-san
 8719|1|x-jat|Haiyore! Nyaruko-san
-7316|3|x-jat|Haiyore! Nyaruko-san	OVA (2010)
-7992|3|x-jat|Haiyore! Nyaruko-san	TV (2010)
 9459|2|x-jat|Haiyore! Nyaruko-san 2
 10803|1|x-jat|Haiyore! Nyaruko-san F
+7316|3|x-jat|Haiyore! Nyaruko-san OVA (2010)
+7992|3|x-jat|Haiyore! Nyaruko-san TV (2010)
 9459|1|x-jat|Haiyore! Nyaruko-san W
 7316|1|x-jat|Haiyoru! Nyaruani
 7992|2|en|Haiyoru! Nyaruani: Remember My (Mr.) Love(craft)
@@ -23721,6 +23733,7 @@
 18302|2|x-jat|Honzuki no Gekokujou S4
 14727|1|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen
 15300|1|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Eustachius no Shitamachi Sennyuu Daisakusen / Corinna-sama no Otaku Houmon
+20443|1|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Kizoku-in no Jishou Tosho Iin
 18302|1|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Ryoushu no Youjo
 15293|1|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen (2020)
 15634|1|x-jat|Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen (2022)
@@ -24389,6 +24402,7 @@
 18953|2|en|I Can Have Infinite Enlightenment
 335|2|en|I can hear the ocean
 335|2|en|I Can Hear the Sea
+20445|2|en|I Can`t Exploit It Because of the Expectations and Evaluation from Slaves
 15985|2|en|I can`t reach you, far away.
 10676|4|en|I Can`t Understand What My Husband Is Saying
 11002|4|en|I Can`t Understand What My Husband Is Saying: 2nd Thread
@@ -26228,9 +26242,8 @@
 17985|1|x-zht|Jian Yu Fengyun (2023)
 17985|2|x-zht|Jian Yu Fengyun 2
 18346|2|x-zht|Jian Yu Fengyun 3
-18346|1|x-zht|Jian Yu Fengyun 3rd Season
 17985|2|x-zht|Jian Yu Fengyun Di Er Ji
-18346|2|x-zht|Jian Yu Fengyun Di San Ji
+18346|1|x-zht|Jian Yu Fengyun Di San Ji
 20360|1|x-zht|Jian Yu Yuanzheng: Insomnia De Naxie Shier
 18393|1|x-zht|Jiandao Di Yi Xian
 18893|1|x-zht|Jiandao Di Yi Xian 2
@@ -29174,7 +29187,8 @@
 2448|2|en|Kirby of the Stars
 2448|4|en|Kirby: Right Back At Ya!
 19373|1|x-jat|Kirei ni Shite Moraemasu ka.
-5676|1|x-jat|Kirepapa
+5676|2|x-jat|Kirepapa
+5676|1|x-jat|Kirepapa.
 4964|1|x-jat|Kirin Ashita no Calendar
 3649|2|en|Kirin Famous Songs Theater: Julie the Wild Rose
 7054|2|ja|Kirin Monoshiri Kan
@@ -29532,6 +29546,7 @@
 13269|1|x-jat|Kochira Katsushikaku Kameari Kouenmae Hashutsujo: Ryoutsu vs. Nakimushi Idol!? Nihon Isshu Dai Sugoroku Game!!
 12224|1|x-jat|Kochira Katsushikaku Kameari Kouenmae Hashutsujo: The Final - Ryoutsu Kakichi Saigo no Hi
 6354|1|x-jat|Kochira Tamago Outou Negaimasu
+20448|1|x-jat|Kochira, Shuumatsu Teitai Iinkai.
 14569|4|en|Kochoki
 14569|1|x-jat|Kochouki: Wakaki Nobunaga
 4131|2|x-jat|Kochu Ohja Mushiking: Greatest Champion e no Michi
@@ -29764,6 +29779,7 @@
 12103|1|x-jat|Koneko no Chii: Ponponraa Daibouken
 13488|1|x-jat|Koneko no Chii: Ponponraa Dairyokou
 18500|1|x-jat|Koneko no Chii: Ponponraa Natsuyasumi
+20447|1|x-jat|Koneko no Haitatsuin Uunyan
 6768|1|x-jat|Koneko no Rakugaki
 5731|1|x-jat|Koneko no Studio
 16787|1|x-zht|Konglong Baobei Zhi Longshen Yongshi
@@ -32304,6 +32320,8 @@
 307|1|x-jat|Little Monica Monogatari
 307|2|en|Little Monica Story
 7026|2|en|Little Monkey on a Swing
+20264|2|en|Little Mouse`s Red Vest
+20440|2|en|Little Mouse`s Red Vest (2026)
 2530|1|x-jat|Little Nemo
 2530|4|de|Little Nemo - Abenteuer im Schlummerland
 2530|4|en|Little Nemo: Adventures in Slumberland
@@ -32584,6 +32602,7 @@
 17870|4|es|Los diarios de la boticaria
 17870|4|es-419|Los diarios de la boticaria
 18562|4|es|Los diarios de la boticaria Temporada 2
+19444|4|es|Los diarios de la boticaria Temporada 3
 26|4|es-419|Los Doce Reinos
 5310|4|es-419|Los Exploradores del Cielo
 2382|4|es|Los gatos samurái
@@ -35186,6 +35205,8 @@
 14708|1|x-jat|Master Piece The Animation
 11297|4|en|Master Q: Incredible Pet Detective
 12075|4|en|Master Shinran And The Amitayurdhyana Sutra: The Tragedy At Rajagriha
+16356|2|en|Master`s Mercy
+20439|2|en|Master`s Mercy 3
 266|4|sv|Mästerdetektiven Conan
 16841|4|sv|Mästerdetektiven Conan: Förövaren Hanzawa
 16842|4|sv|Mästerdetektiven Conan: Tedags för Zero
@@ -37171,8 +37192,8 @@
 5267|1|x-jat|Money Wars: Nerawareta Waterfront Keikaku
 7611|2|en|MonHun Diary Felyne Village in Danger: Felynes in a Pinch
 7611|2|fr|MonHun Diary Felyne Village in Danger: Felynes in a Pinch
+7611|1|x-jat|MonHun Nikki Girigiri Airou Mura: Airou Kiki Ippatsu
 8475|1|x-jat|MonHun Nikki Girigiri Airu Mura G
-7611|1|x-jat|MonHun Nikki Girigiri Airu Mura: Airu Kiki Ippatsu
 15266|3|x-jat|monisha
 15205|1|x-kot|Monkart
 6945|4|en|Monkey and Crabs
@@ -38293,6 +38314,7 @@
 5078|4|en|My Steady Is a Witch
 16457|4|en|My Stepmom`s Daughter Is My Ex
 19492|2|en|My Stepmother and Stepsisters Aren`t Wicked
+20444|2|en|My Sweet Marriage to My Ex-Nemesis
 13613|4|en|My Sweet Tyrant
 12912|2|en|My Teacher, Mr. T
 9310|4|fr|My Teen Romantic Comedy SNAFU
@@ -38514,6 +38536,7 @@
 12242|1|x-jat|Nama Lo Re: Furachimono The Animation
 12071|1|x-jat|Nama Lo Re: Nama Kemono The Animation
 12242|2|ru|Nama LO Re: Распутник
+19308|3|x-jat|Nama-Anaru
 10132|1|x-jat|Namae... Sore wa Moeru Inochi
 11045|1|x-jat|Namaiki: Kissui-sou e Youkoso! The Animation
 12856|1|x-jat|Namake Gitsune
@@ -39394,6 +39417,7 @@
 6690|1|x-jat|Nezumi no Rusuban
 5732|1|x-jat|Nezumi no Yomeiri
 20264|1|x-jat|Nezumi-kun no Chokki
+20440|1|x-jat|Nezumi-kun no Chokki (2026)
 1364|2|x-jat|NG Kishin Lamune & 40
 1366|2|x-jat|NG Kishin Lamune & 40 DX Wakuwaku Jiku, Hono no Daisousasen
 1365|2|x-jat|NG Kishin Lamune & 40 EX Biku Biku Triangle Ai no Arashi Daisakusen
@@ -41120,6 +41144,8 @@
 8940|4|en|One Piece Film: Z
 11529|4|pt|One Piece Gold
 11529|4|es|One Piece Gold
+19524|4|ja|ONE PIECE HEROINES
+19524|1|x-jat|One Piece Heroines
 19265|2|en|One Piece in Love
 18968|1|en|One Piece Log: Fish-Man Island Saga
 411|3|en|One Piece Movie
@@ -41139,8 +41165,6 @@
 4851|2|en|One Piece Movie 8
 5691|2|en|One Piece Movie 9
 411|2|en|One Piece Movie: The Great Gold Pirate
-19524|4|ja|ONE PIECE novel HEROINES
-19524|1|x-jat|One Piece Novel Heroines
 2736|2|x-jat|ONE PIECE OVA
 17956|1|x-jat|One Piece Special Edition
 6199|4|ja|ONE PIECE SPECIAL ROMANCE DAWN STORY
@@ -42078,6 +42102,8 @@
 17560|1|x-jat|Ousama Ranking: Yuuki no Takarabako
 14270|1|x-jat|Ousama to Nightingale
 12485|1|x-jat|Oushitsu Kyoushi Heine
+20442|1|x-jat|Oushun Jogakuen no Danyuu
+20446|4|ja|Oushun Jogakuin no Danyuu
 8273|1|x-jat|Out of Sight
 8273|4|ja|Out of Sight
 9855|1|x-jat|Outbreak Company
@@ -42386,6 +42412,7 @@
 14682|1|x-jat|Pandora to Akubi
 1640|2|en|Pandora, An Erotic Trilogy
 6288|2|ja|PandoraHearts
+19789|2|x-jat|PANDOROBO
 1482|3|x-jat|pandra
 10412|1|x-jat|Pandra The Animation
 10412|4|ja|PANDRA THE ANIMATION
@@ -44213,6 +44240,7 @@
 8596|4|ja|pop
 1764|2|en|Pop and the Queen`s Cursed Rose
 11211|1|x-jat|Pop in Q
+20452|1|x-jat|Pop Pap Polters
 18510|4|ja|POP POP CITY
 18510|1|x-jat|Pop Pop City
 13067|4|en|Pop Team Epic
@@ -45106,6 +45134,7 @@
 17590|4|en|Punirunes
 18877|1|x-jat|Punirunes: Puni 2
 19361|1|x-jat|Punirunes: Puni 3
+20451|1|x-jat|Punirunes: Puni 4
 2514|4|en|Punishment
 17482|2|en|Punishment 2
 17482|2|en|Punishment 2: Crazy Depaga Guidance
@@ -46016,6 +46045,7 @@
 11370|4|zh-Hant|Re：從零開始的異世界生活
 13430|4|zh-Hant|Re：從零開始的異世界生活 OVA
 14792|4|zh-Hant|Re：從零開始的異世界生活 第二季
+19242|4|zh-Hant|Re：從零開始的異世界生活 第四季
 15538|4|ja|Re꞉STARS
 6466|2|en|Reach You
 6466|2|en|Reaching You
@@ -47273,7 +47303,7 @@
 1270|2|en|Ryokunohara Labyrinth - Sparkling Phantom
 1270|2|x-jat|Ryokunohara Meikyuu
 9697|1|x-jat|Ryou Seibai! Gakuen Bishoujo Seisai Hiroku
-7653|1|x-jat|Ryoujoku Famiresu Choukyou Menu
+7653|1|x-jat|Ryoujoku Famires Choukyou Menu
 5725|1|x-jat|Ryoujoku Guerrilla Kari 3
 4024|1|x-jat|Ryoujoku Hitozuma Onsen
 4302|1|x-jat|Ryoujoku Joshi Gakuen
@@ -48887,7 +48917,6 @@
 8113|3|x-jat|sekahat
 9794|1|x-jat|Sekai de Ichiban Tsuyoku Naritai!
 4190|1|x-jat|Sekai Douwa Anime Zenshuu
-17229|1|x-jat|Sekai ga Horobiru Mae ni Kimi ni Aitai
 8113|4|en|Sekai Ichi Hatsukoi: The World`s Greatest First Love
 8567|4|en|Sekai Ichi Hatsukoi: The World`s Greatest First Love 2
 7921|4|en|Sekai Ichi Hatsukoi: The World`s Greatest First Love OVAs
@@ -50325,6 +50354,7 @@
 8934|1|x-jat|Shirokuma Cafe
 14540|4|en|Shironeko Project Zero Chronicle
 14540|1|x-jat|Shironeko Project: Zero Chronicle
+20441|1|x-jat|Shirotan
 13377|1|x-jat|Shirotan: Shirotan ga Ippai!
 5902|1|x-jat|Shirouto Club: Hamedori Anime Kanzen Mushuusei!!
 7172|1|x-jat|Shisei Sasshin
@@ -50694,7 +50724,7 @@
 9514|4|it|Si alza il vento
 18236|1|x-zht|Si Ge Yongzhe
 14855|1|x-zht|Si Hai Jing Qi
-17082|1|x-zht|Si Hai Jing Qi 2nd Season
+17082|1|x-zht|Si Hai Jing Qi Di Er Ji
 16826|4|fr|Si je suis la Vilaine, autant mater le boss final
 13352|2|x-zht|Si Ling Bianma Zhi Shijie Caozong Zhe
 13352|1|x-zht|Si Ling Bianma: Shijie Caozong Zhe
@@ -51645,6 +51675,7 @@
 5174|4|en|SOS! Tokyo Metro Explorers: The Next
 2889|2|x-jat|Sosei Kishi Gaiarth
 1531|2|x-jat|Sosei Seiki Devadasy
+20444|1|x-jat|Soshiki no Shukuteki to Kekkon Shitara Mecha Amai
 14905|1|x-jat|Soshite Watashi wa Ojisan ni......
 16415|1|x-jat|Soshite Watashi wa Sensei ni......
 11988|1|x-jat|Soshite, Kono Hama kara
@@ -52222,6 +52253,7 @@
 17784|2|ja|SPY×FAMILY Season 2
 17061|4|zh-Hant|SPY×FAMILY 間諜家家酒
 17785|4|zh-Hant|SPY×FAMILY 間諜家家酒 CODE: White
+18677|4|zh-Hant|SPY×FAMILY 間諜家家酒 Season 3
 17784|4|zh-Hant|SPY×FAMILY 間諜家家酒 第二季
 16947|4|zh-Hant|SPY×FAMILY間諜家家酒
 17703|4|it|Squalificati - Ranger Reject
@@ -53613,9 +53645,9 @@
 20389|1|x-zht|Tai Lao Niangniang Yu baicha Xianzi
 16875|1|x-zht|Tai Lyu
 18389|1|x-zht|Tai Yi Jian Xian Chuan
-15541|1|x-zht|Tai Yi Xian Mo Lu Zhi Ling Fei Ji
-15542|1|x-zht|Tai Yi Xian Mo Lu Zhi Ling Fei Ji II
-15543|1|x-zht|Tai Yi Xian Mo Lu Zhi Ling Fei Ji III
+15541|1|x-zht|Tai Yi Xian Mo Lu: Ling Fei Ji
+15542|1|x-zht|Tai Yi Xian Mo Lu: Ling Fei Ji II
+15543|1|x-zht|Tai Yi Xian Mo Lu: Ling Fei Ji III
 16382|1|x-zht|Tai Yi Xian Mo Lu: Ling Fei Ji IV
 16255|1|x-jat|Taiban!
 9320|4|tl|Taichi Chaser
@@ -54008,6 +54040,7 @@
 15998|1|x-jat|Tantei wa Mou, Shinde Iru.
 17527|1|x-jat|Tantei wa Mou, Shinde Iru. Season 2
 13674|1|x-jat|Tanuki to Kitsune
+20450|1|x-jat|Tanuki to Kitsune (2026)
 7636|1|x-jat|Tanuki-san Ooatari
 6848|1|x-jat|Tanukichi no Ohanashi
 11411|1|x-zht|Tao Hua Yuan Ji
@@ -54530,6 +54563,7 @@
 18026|2|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta
 17569|1|x-jat|Tensei Oujo to Tensai Reijou no Mahou Kakumei
 19201|1|x-jat|Tensei Shita Daiseijo wa, Seijo de Aru Koto o Hitakakusu
+19201|2|x-jat|Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu
 17702|2|x-jat|Tensei Shitara Dai Nana Ōji Datta no de, Kimama ni Majutsu o Kiwamemasu
 17702|1|x-jat|Tensei Shitara Dai Nana Ouji Datta no de, Kimama ni Majutsu o Kiwamemasu
 18694|1|x-jat|Tensei Shitara Dai Nana Ouji Datta no de, Kimama ni Majutsu o Kiwamemasu Dai 2 Ki
@@ -56899,6 +56933,7 @@
 14477|2|en|This Hero Is Invincible but "Too Cautious"
 7674|2|en|This is a Zombie?
 18744|2|en|This Is Ridiculous
+20448|2|en|This Is the End Stagnation Committee.
 1824|2|en|This is the Police Station in Front of Kameari Park in Katsushika Ward
 13368|4|en|This Mayonnaise is too liquid.
 18942|4|en|This Monster Wants to Eat Me
@@ -58831,7 +58866,7 @@
 12051|2|ja|Uchuu Senkan Yamato 2202
 12051|1|x-jat|Uchuu Senkan Yamato 2202: Ai no Senshi-tachi
 14804|1|x-jat|Uchuu Senkan Yamato 2205: Aratanaru Tabidachi
-2661|1|x-jat|Uchuu Senkan Yamato 3
+2661|1|x-jat|Uchuu Senkan Yamato III
 2811|1|x-jat|Uchuu Senkan Yamato: Aratanaru Tabidachi
 6680|1|x-jat|Uchuu Senkan Yamato: Fukkatsu Hen
 1956|1|x-jat|Uchuu Senkan Yamato: Kanketsuhen
@@ -61619,7 +61654,7 @@
 13710|1|x-zht|Xiao Hua Xian 3
 15314|1|x-zht|Xiao Hua Xian 4
 15315|1|x-zht|Xiao Hua Xian 5 - Si Shi Huayu Chun Xia Part 1 Chun
-15232|1|x-zht|Xiao Kadou Zhao Mama
+15232|1|x-zht|Xiao Kedou Zhao Mama
 14373|1|x-zht|Xiao Lu He Xiao Lan
 18923|1|x-zht|Xiao Lu He Xiao Lan II
 18924|1|x-zht|Xiao Lu He Xiao Lan III
@@ -63201,6 +63236,7 @@
 14047|2|x-jat|YuruYuri Ten
 8353|4|en|YuruYuri: Happy Go Lily
 8844|4|en|YuruYuri: Happy Go Lily (2012)
+20449|1|x-jat|Yuruyuru Zukan
 4282|2|x-jat|Yusei Shonen Papi
 9659|4|en|Yusibu: I Couldn`t Become a Hero, So I Reluctantly Decided to Get a Job
 10113|2|en|Yusibu: I Couldn`t Become a Hero, So I Reluctantly Decided to Get a Job - My Sister Came to the Capital to See Me, Her Brother Who Could Not Become a Hero.
@@ -63604,8 +63640,8 @@
 18005|1|x-zht|Zhe Tian
 20005|2|zh-Hant|Zhe Tian Juchang Ban: Bei Guan Zhan Wang Teng
 20005|1|x-zht|Zhe Tian Movie: Bei Guan Zhan Wang Teng
-18338|1|x-zht|Zhen Dao Ge 2nd Season
 19915|1|x-zht|Zhen Dao Ge 3
+18338|1|x-zht|Zhen Dao Ge Di Er Ji
 16530|1|x-zht|Zhen Dao Ge: Chen Shi Xing
 16530|2|x-zht|Zhen Dao Ge: Chenshi Hang
 16267|1|x-zht|Zhen Dao Ge: Qianli Bu Liu Xing
@@ -63620,8 +63656,8 @@
 15819|1|x-jat|Zhen Hun Jie: Bei Luo Shi Men Pian Shang
 15820|1|x-jat|Zhen Hun Jie: Bei Luo Shi Men Pian Xia
 18340|1|x-zht|Zhen Wu Dianfeng
-18341|1|x-zht|Zhen Wu Dianfeng 2nd Season
-18342|1|x-zht|Zhen Wu Dianfeng 3rd Season
+18341|1|x-zht|Zhen Wu Dianfeng Di Er Ji
+18342|1|x-zht|Zhen Wu Dianfeng Di San Ji
 18143|1|x-zht|Zhen Yang Wushen
 15223|1|x-zht|Zheng Chenggong
 15224|1|x-zht|Zheng Yi Hong Shi
@@ -63676,9 +63712,9 @@
 13738|1|x-zht|Zhu Zhu Xia: Zhong Ji Jue Zhan Qian Ye Pian
 19939|1|x-zht|Zhuan Zhi Yanwang, Wo Zhizhangle Shengsi Bu
 18006|1|x-zht|Zhui Xu
-18790|1|x-zht|Zhui Xu 2
 18790|2|x-zht|Zhui Xu 2nd Season
 18790|2|x-zht|Zhui Xu Di Er Ji
+18790|1|x-zht|Zhui Xu: Long She Pian
 17548|2|x-zht|Zhuxian
 18577|2|x-zht|Zhuxian (2024)
 16594|1|x-zht|Zi Chuan
@@ -77621,7 +77657,8 @@
 8552|4|ja|キルミーベイベー
 10025|4|ja|キルミーベイベー (2013)
 9875|4|ja|キルラキル
-5676|4|ja|キレパパ
+5676|2|ja|キレパパ
+5676|4|ja|キレパパ.
 9579|4|ja|きんいろモザイク
 12037|4|ja|きんいろモザイク Pretty Days
 1310|5|ja|ぎんがえいゆうでんせつ
@@ -78141,6 +78178,7 @@
 1577|4|ja|ごぞんじ! 月光仮面くん
 11929|4|ja|こだぬき ポンポ
 16795|4|ja|コタローは1人暮らし
+20448|4|ja|こちら, 終末停滞委員会.
 6354|4|ja|こちらたまご応答ねがいます
 3460|4|ja|こちら葛飾区亀有公園前派出所
 1824|4|ja|こちら葛飾区亀有公園前派出所 (1996)
@@ -78845,6 +78883,7 @@
 14280|4|ja|しろいぞう
 8934|4|ja|しろくまカフェ
 12890|4|ja|しろくまベッコムが来た!
+20441|4|ja|しろたん
 13377|4|ja|しろたん しろたんがいっぱい!
 14540|5|ja|しろねこぷろじぇくと ZERO CHRONICLE
 8070|2|ja|シン-メン
@@ -79537,6 +79576,7 @@
 4889|4|ja|たとえ君が世界中の敵になっても
 7636|4|ja|たぬきさん大当り
 13674|4|ja|タヌキとキツネ
+20450|4|ja|タヌキとキツネ (2026)
 6848|4|ja|タヌ吉のお話
 12708|4|ja|たのしいさんすう
 13888|4|ja|たのしいね
@@ -80302,7 +80342,6 @@
 4635|4|ja|ドラえもん (2005)
 4673|5|ja|ドラえもん のびたとアニマルプラネット
 5046|5|ja|ドラえもん のびたとぎんがエクスプレス
-4673|4|ja|ドラえもん のび太とアニマル惑星
 2717|4|ja|ドラえもん のび太とふしぎ風使い
 6587|4|ja|ドラえもん のび太とブリキの迷宮
 6582|4|ja|ドラえもん のび太とロボット王国
@@ -80737,6 +80776,7 @@
 14723|4|ja|ねころんでテレビ.
 11679|4|ja|ねじ巻き精霊戦記 天鏡のアルデラミン
 20264|4|ja|ねずみくんのチョッキ
+20440|4|ja|ねずみくんのチョッキ (2026)
 5732|4|ja|ねずみのよめいり
 5397|4|ja|ねずみ物語 ジョージとジェラルドの冒険
 12970|4|ja|ねっこ君
@@ -81380,7 +81420,6 @@
 1482|3|ja|パンドラ
 14682|4|ja|パンドラとアクビ
 6288|4|ja|パンドラハーツ
-17240|4|ja|バンドリ! ガールズバンドパーティ! 5th Anniversary Animation -CiRCLE THANKS PARTY!-
 14802|2|ja|バンドリ! フィルムライブ
 19566|2|ja|バンドリ! ゆめ∞みた
 1874|2|ja|ハンドル ウイズ ケア
@@ -81856,6 +81895,7 @@
 17590|4|ja|ぷにるんず
 18877|4|ja|ぷにるんず ぷに2
 19361|4|ja|ぷにるんず ぷに3
+20451|4|ja|ぷにるんず ぷに4
 10271|4|ja|プピポー!
 11761|2|ja|ブブキ・ブランキ
 11761|4|ja|ブブキ･ブランキ
@@ -82390,6 +82430,7 @@
 19157|4|ja|ぼっち・ざ・ろっく! 2
 11211|4|ja|ポッピンQ
 8596|5|ja|ポップ
+20452|4|ja|ポップパップポルターズ
 12772|4|ja|ぽっぷるメイル
 19725|4|ja|ほっぺちゃん ~サン王国と黒ほっぺ団の秘密~
 9577|4|ja|ぽっぺん先生と帰らずの沼
@@ -83323,6 +83364,7 @@
 14047|4|ja|ゆるゆり,
 8844|4|ja|ゆるゆり♪♪
 14047|2|ja|ゆるゆりてん
+20449|4|ja|ゆるゆる図鑑
 1325|4|ja|ユンカース・カム・ヒア
 9205|4|ja|ユンカース・カム・ヒア ~メモリーズ・オブ・ユー~
 3534|2|ja|ゆんゆん・パラダイス
@@ -84305,6 +84347,7 @@
 11924|4|zh-Hant|不愉快的妖怪庵
 14177|4|zh-Hant|不愉快的妖怪庵 續
 19141|4|zh-Hans|不擅吸血的吸血鬼
+19141|4|zh-Hant|不擅吸血的吸血鬼
 17914|4|zh-Hans|不时用俄语小声说真心话的邻桌艾莉同学
 17914|2|zh-Hans|不时轻声地以俄语遮羞的邻座艾莉同学
 17914|4|zh-Hant|不時輕聲地以俄語遮羞的鄰座艾莉同學
@@ -84334,6 +84377,7 @@
 17138|4|zh-Hans|不白吃话山海经
 16538|4|zh-Hans|不相信人类的冒险者们好像要去拯救世界
 16538|4|zh-Hant|不相信人類的冒險者們好像要去拯救世界
+17720|2|zh-Hant|不知內情的轉學生不管三七二十一纏了上來。
 15297|4|zh-Hant|不管養狗或是貓每天都很有趣
 2666|4|ja|不純異性交遊 ~大切な君へ~
 9728|4|ja|不良にハメられて受精する巨乳お母さん ~イキ地獄に堕ちた家族のゲーム~ THE ANIMATION
@@ -84456,7 +84500,6 @@
 11268|4|zh-Hans|东京喰种 JACK
 13499|4|zh-Hans|东京喰种:re
 14059|2|zh-Hans|东京喰种:re (2018)
-14059|4|zh-Hant|东京喰种:re 第二季
 20|2|zh-Hans|东京地下城
 6441|2|zh-Hans|东京地震8.0
 15601|4|zh-Hans|东京复仇者
@@ -84875,6 +84918,7 @@
 16410|2|ja|今日子と勝也の物語
 7618|3|ja|今日恋
 5815|2|zh-Hans|今日起是魔王!第三季
+17336|2|zh-Hant|今晚有貓伴身邊
 16198|4|ja|今泉ん家はどうやらギャルの溜まり場になってるらしい
 8454|4|zh-Hans|今生缘
 10628|4|ja|今際の国のアリス
@@ -85671,6 +85715,7 @@
 1111|4|ja|円盤皇女ワるきゅーレ 十二月の夜想曲
 2775|4|ja|円盤皇女ワるきゅーレ 星霊節の花嫁
 4375|4|ja|円盤皇女ワるきゅーレ 時と夢と銀河の宴
+16424|4|zh-Hant|再得一勝！
 16424|4|zh-Hans|再得一胜！
 4004|4|zh-Hans|再续前缘
 17723|4|zh-Hant|再見，地球
@@ -86678,6 +86723,7 @@
 18001|4|ja|北極百貨店のコンシェルジュさん
 17682|2|zh-Hans|北海道辣妹儿贼招人稀罕
 17682|4|zh-Hans|北海道辣妹贼拉可爱
+17682|2|zh-Hant|北海道辣妹金古錐
 12629|4|ja|北風小僧の寒太郎
 19326|4|zh-Hans|区区不才, 在下野怪 2
 19326|2|zh-Hans|区区不才, 在下野怪 第二季
@@ -88757,6 +88803,7 @@
 14923|4|ja|女魔王メリッサのHな冒険記
 13505|4|zh-Hans|奴隶区 我与23人的奴隶
 1606|2|zh-Hans|奴隶学园
+20445|4|ja|奴隷からの期待と評価のせいで搾取できないのだが
 5218|4|ja|奴隷メイドプリンセス
 4213|2|ja|奴隷人形~快楽を追求する獣たち~ (1)
 5737|2|ja|奴隷人形~快楽を追求する獣たち~ (2)
@@ -89062,6 +89109,7 @@
 6869|4|ja|子うさぎものがたり
 18178|4|ja|子作り妊活部!
 13367|4|ja|子供の廻転の事
+20447|4|ja|子猫の配達員うーにゃん
 17872|2|ja|子産み島 ~週7で産めるメスたち~
 17872|4|ja|子産み島 ～週7で産めるメスたち～
 17411|4|ja|子象の行進
@@ -90941,6 +90989,7 @@
 14477|4|zh-Hans|慎重勇者 ～这个勇者明明超强却过分慎重～
 14477|4|ja|慎重勇者~この勇者が俺TUEEEくせに慎重すぎる~
 9704|4|ja|慟哭のナイトメア WAILING NIGHTMARE
+13160|4|zh-Hant|慢活開始
 18349|4|ja|慶応遊撃隊活劇編
 5188|2|zh|憂傷大人二之宮
 15324|4|ja|憂国のモリアーティ
@@ -90997,6 +91046,7 @@
 4453|4|ja|我ハ機ナリ
 9582|4|zh-Hans|我不受欢迎, 怎么想都是你们的错!
 9582|4|zh-Hant|我不受歡迎，怎麼想都是你們的錯！
+13844|4|zh-Hant|我不是說了能力要平均值嗎？
 9230|4|zh-Hans|我与亲爱哥哥的日常
 17428|4|zh-Hans|我与机器妹
 19459|4|zh-Hans|我为刀宗
@@ -91369,6 +91419,7 @@
 18543|4|zh-Hant|戰國妖狐 千魔混沌篇
 15413|4|zh-Hant|戰翼的希格德莉法
 17703|4|zh-Hant|戰隊大失格
+18725|4|zh-Hant|戰隊大失格 第二季
 15440|4|zh-Hant|戰鬥員派遣中！
 12080|4|zh-Hant|戰鬥女子學園
 11595|4|zh-Hans|房东妹子青春期
@@ -92517,6 +92568,7 @@
 20111|4|ja|映画ちいかわ 人魚の島のひみつ
 11354|4|ja|映画ちびまる子ちゃん イタリアから来た少年
 17176|4|ja|映画デリシャスパーティ♡プリキュア 夢みる♡お子さまランチ!
+4673|4|ja|映画ドラえもん のび太とアニマル惑星
 8542|4|ja|映画ドラえもん のび太と奇跡の島 ~アニマル アドベンチャー~
 17500|4|ja|映画ドラえもん のび太と空の理想郷
 6382|4|ja|映画ドラえもん のび太と緑の巨人伝
@@ -92888,6 +92940,7 @@
 15634|4|ja|本好きの下剋上 司書になるためには手段を選んでいられません (2022)
 15300|4|ja|本好きの下剋上 司書になるためには手段を選んでいられません ユストクスの下町潜入大作戦 / コリンナ様のお宅訪問
 15293|2|ja|本好きの下剋上 司書になるためには手段を選んでいられません 第二部
+20443|4|ja|本好きの下剋上 司書になるためには手段を選んでいられません 貴族院の自称図書委員
 18302|4|ja|本好きの下剋上 司書になるためには手段を選んでいられません 領主の養女
 9941|4|ja|本当にあった
 9941|2|ja|本当にあった 女子○生 いけない秘密のアルバイト 明日香
@@ -93079,6 +93132,7 @@
 10401|4|zh-Hant|東京喰種
 13499|4|ja|東京喰種:re
 14059|4|ja|東京喰種:re (2018)
+14059|4|zh-Hant|東京喰種：re 第二季
 10401|4|ja|東京喰種[トーキョーグール]
 10875|4|zh-Hant|東京喰種√A
 10875|4|ja|東京喰種√A
@@ -93220,6 +93274,7 @@
 8404|4|ja|桜の温度
 14749|2|ja|桜宮姉妹のネトラレ記録
 14749|4|ja|桜宮姉妹のネトラレ記録 ~yurisis~
+20442|4|ja|桜春女学院の男優
 12423|4|ja|桜流し
 4148|4|ja|桜蘭高校ホスト部[クラブ]
 138|4|ja|桜通信
@@ -94079,6 +94134,7 @@
 14221|4|zh-Hant|海獸之子
 13945|4|zh-Hans|海盗战记
 13945|4|zh-Hant|海盜戰記
+16426|4|zh-Hant|海盜戰記 第二季
 1830|4|zh-Hans|海螺小姐
 1736|4|zh-Hans|海豚便利店
 6051|2|zh-Hant|海貓鳴泣之時
@@ -94423,7 +94479,7 @@
 17220|4|zh-Hans|灰色:幻影扳机
 13273|4|zh-Hans|灰色：幻影扳机 THE ANIMATION
 17220|4|zh-Hant|灰色：幻影扳機
-13273|4|zh-Hant|灰色：幻影扳機 Stargazer
+13273|4|zh-Hant|灰色：幻影扳機 動畫版
 11009|4|zh-Hans|灰色的乐园
 9749|4|zh-Hans|灰色的果实
 11009|4|zh-Hant|灰色的樂園
@@ -94508,6 +94564,7 @@
 14361|4|ja|点
 17222|4|zh-Hans|点满农民相关技能后，不知为何就变强了。
 17700|4|zh-Hant|為丑女獻上花束
+17504|2|zh-Hant|為了在異世界也能撫摸毛茸茸而努力
 14693|4|zh-Hant|為了女兒，我說不定連魔王都能幹掉。
 17523|2|zh-Hant|為了養老金去異界存八萬金
 14413|4|zh-Hant|為什麼老師會在這裡！？
@@ -94819,6 +94876,7 @@
 18088|4|zh-Hans|物理魔法使马修 第二季
 9183|4|ja|物語シリーズ セカンドシーズン
 9183|4|zh-Hant|物語系列 第二季
+18424|4|zh-Hant|物語系列 第外季＆第怪季
 9183|4|zh-Hans|物语系列 第二季
 18424|4|zh-Hans|物语系列 第外季&第怪季
 13409|4|zh-Hans|牵牛花与加濑同学。
@@ -95322,6 +95380,7 @@
 14589|4|zh-Hans|生日乐园
 6632|4|zh-Hans|生日快乐
 18428|4|zh-Hans|生死回放
+19308|3|ja|生穴る
 17260|4|zh-Hans|生而为狗 我很幸福
 13406|4|zh|生肖传奇
 9411|4|ja|生膣ひゃくぱぁせんと!
@@ -95610,6 +95669,7 @@
 4109|4|ja|百喜夜行 ~わらし~
 15966|4|ja|百妖譜
 15967|4|ja|百妖譜 第2期
+17535|4|ja|百妖譜　第３期
 15966|4|zh-Hans|百妖谱
 15967|2|zh-Hans|百妖谱 2
 17535|4|zh-Hans|百妖谱 京师篇
@@ -96626,6 +96686,7 @@
 10813|4|zh-Hant|終結的熾天使
 10984|4|zh-Hant|終結的熾天使 名古屋決戰篇
 14300|4|ja|終電後, カプセルホテルで, 上司に微熱伝わる夜.
+20444|4|ja|組織の宿敵と結婚したらめちゃ甘い
 16611|2|zh-Hant|組長女兒與保姆
 16611|4|ja|組長娘と世話係
 17043|4|ja|絆
@@ -97479,6 +97540,7 @@
 16112|2|ja|英雄伝説 閃の軌跡 Northern War
 8138|4|zh-Hans|英雄传说 空之轨迹
 16112|4|zh-Hans|英雄传说 闪之轨迹 Northern War
+16112|4|zh-Hant|英雄傳說 閃之軌跡：北方戰役
 11171|4|zh-Hans|英雄公司
 15785|4|zh-Hans|英雄再临
 5016|4|ja|英雄凱伝モザイカ
@@ -97740,6 +97802,7 @@
 9296|4|ja|藤子不二雄のキテレツ大百科
 19557|4|ja|藤本タツキ17-26
 17870|4|zh-Hant|藥師少女的獨語
+18562|4|zh-Hant|藥師少女的獨語 第二季
 19046|4|zh-Hans|蘑菇魔女
 19046|4|zh-Hant|蘑菇魔女
 16853|4|zh-Hans|蘿蔔回來了
@@ -98271,7 +98334,7 @@
 5427|4|zh-Hans|赌博默示录: 逆境無頼
 8242|4|zh-Hans|赌博默示录：破戒录篇
 18006|4|zh-Hans|赘婿
-18790|4|zh-Hans|赘婿 第二季
+18790|4|zh-Hans|赘婿 龍蛇篇
 18790|2|zh-Hans|赘婿 龙蛇篇
 2643|2|zh-Hans|赛亚人灭绝计划 ~地球篇|宇宙篇~
 15610|2|zh-Hans|赛博朋克：边缘行者
@@ -99768,6 +99831,7 @@
 19084|4|zh-Hant|雙人單身露營
 2984|2|zh-Hant|雙戀2
 4396|4|zh-Hant|雙面騎士
+12349|4|zh-Hant|雛子的筆記
 11295|4|zh-Hant|雛蜂-B.E.E-
 2030|4|ja|雛鳥の囀
 2030|4|zh-Hans|雛鳥の囀
@@ -100766,6 +100830,7 @@
 1607|4|ja|魔法少女隊アルス
 3308|4|ja|魔法少女隊アルス (2007)
 14884|4|ja|魔法少獣シャーベット
+17305|4|zh-Hant|魔法帽的工作室
 13916|4|zh-Hans|魔法律事务所
 14953|4|zh-Hans|魔法律事务所 第二季
 14953|4|zh-Hant|魔法律事務所 第二季
@@ -100818,6 +100883,7 @@
 2605|4|zh|魔法老師
 19633|4|zh-Hans|魔法药水救救我
 19633|4|zh-Hant|魔法藥水救救我
+18750|2|zh-Hant|魔法製造者 ～異世界魔法的製作方法～
 1391|4|ja|魔法遊戯
 1393|4|ja|魔法遊戯: 飛び出す!!ハナマル大冒険
 458|4|ja|魔法遣いに大切なこと
