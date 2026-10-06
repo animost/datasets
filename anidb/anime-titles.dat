@@ -1,4 +1,4 @@
-# created: Mon Oct  5 03:00:02 2026
+# created: Tue Oct  6 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -3352,6 +3352,7 @@
 13471|1|x-zht|AOTU Shijie Di Er Ji
 14870|1|x-zht|AOTU Shijie Di San Ji
 20037|1|x-zht|AOTU Shijie REBORN
+20455|1|x-zht|AOTU Shijie REBORN: Di Yi Pianzhang Monu Xianjing
 13470|4|en|AOTU World
 20037|4|en|AOTU World Reborn
 12762|3|x-jat|aoyama
@@ -12222,6 +12223,7 @@
 2763|2|en|Detective Conan: Strategy Above the Depths
 10953|2|en|Detective Conan: Sunflowers of Inferno
 17009|2|en|Detective Conan: The Bride of Halloween
+20414|4|en|Detective Conan: The Counterfeit Crime Case of Ultra 30
 16841|4|en|Detective Conan: The Culprit Hanazawa
 16841|2|en|Detective Conan: The Culprit Hanzawa
 11753|2|en|Detective Conan: The Darkest Nightmare
@@ -13743,6 +13745,7 @@
 16204|2|x-zht|Douluo Dalu: Xingdou Xian Ji Pian
 18069|1|x-zht|Douluo Dalu: Zhangu Zsn Xie
 19876|1|x-jat|Doumo, Suki na Hito ni Horegusuri o Irai Sareta Majo Desu.
+19876|2|x-jat|Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.
 15273|1|x-jat|Dounika Naru Hibi
 13721|2|x-zht|Doupo Cangqiong
 14874|2|x-zht|Doupo Cangqiong: Tebie Pian 2 - Sha Zhi Lan Ge
@@ -27684,7 +27687,7 @@
 16923|1|x-jat|Kanashiki Debu Neko-chan
 12589|1|x-jat|Kanashiki Mongoose
 3289|1|x-jat|Kanashimi no Belladonna
-19953|1|x-jat|Kanata Kara
+19953|1|x-jat|Kanata kara
 14661|1|x-jat|Kanata no Astra
 17999|3|x-jat|kanaten
 18931|1|x-jat|Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyou-gakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi
@@ -35698,7 +35701,7 @@
 18219|1|x-jat|Meitantei Conan: 100-man Dol no Michishirube
 8806|1|x-jat|Meitantei Conan: 11-ninme no Striker
 3591|1|x-jat|Meitantei Conan: 16-nin no Yougisha!?
-20414|1|x-jat|Meitantei Conan: 30-gou Satsujin Jiken
+20414|1|x-jat|Meitantei Conan: 30 Gou Satsujin Jiken
 5444|1|x-jat|Meitantei Conan: Agasa kara no Chousenjou! Agasa vs Conan & Shounen Tanteidan
 867|1|x-jat|Meitantei Conan: Baker Street no Bourei
 8121|1|x-jat|Meitantei Conan: Chinmoku no Quarter
@@ -54595,8 +54598,8 @@
 16030|1|x-jat|Tensei Kenja no Isekai Life: Daini no Shokugyou o Ete, Sekai Saikyou ni Narimashita
 17552|1|x-jat|Tensei Kizoku no Isekai Boukenroku: Jichou o Shiranai Kamigami no Shito
 18026|1|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru
-18707|1|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru (2024)
-19070|1|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru (2026)
+18707|1|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru Dai 2 Ki
+19070|1|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru Dai 3 Ki
 18707|2|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru Season 2
 18026|2|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta
 17569|1|x-jat|Tensei Oujo to Tensai Reijou no Mahou Kakumei
@@ -56270,6 +56273,7 @@
 6786|2|en|The Rebirth of Buddha
 7478|2|en|The Recollection of a Certain Airship Pilot
 7478|2|en|The Recollections of a Certain Pilot
+20456|2|en|The Record of a Fallen Vampire
 14716|2|en|The Record of Unusual Creatures
 8246|2|en|The Red
 18809|4|en|The Red Ranger Becomes an Adventurer in Another World
@@ -58657,6 +58661,7 @@
 17801|1|x-jat|Turkey!
 17801|4|en|Turkey! Time to Strike
 13153|2|pt|Turma de Elite
+17208|2|pt|Turma de Elite 2.ª Temporada
 377|4|pt-BR|Turma do Barulho
 916|1|x-jat|Turn A Gundam
 916|4|en|Turn A Gundam
@@ -59754,6 +59759,7 @@
 14747|1|x-jat|Vampire in the Garden
 14747|4|en|Vampire in the Garden
 14747|4|fr|Vampire in the Garden
+20456|1|x-jat|Vampire Juuji-kai
 2013|2|en|Vampire Kids
 5586|2|x-jat|Vampire Kishi
 5586|4|fr|Vampire Knight
@@ -68628,6 +68634,7 @@
 6441|2|ru|Токийское восьмибалльное
 161|2|ru|Токио Мяу Мяу
 6441|2|bg|Токио, 8-ма степен по Рихтер
+10401|4|uk|Токійський ґуль
 6441|2|uk|Токійський землетрус 8,0
 5429|2|uk|Токійський мармуровий шоколад
 9481|2|uk|Токійські Ворони
@@ -76347,6 +76354,7 @@
 391|5|ja|ヴァンパイア ミユ (1997)
 14747|4|ja|ヴァンパイア・イン・ザ・ガーデン
 59|4|ja|ヴァンパイアハンター
+20456|4|ja|ヴァンパイア十字界
 18260|4|ja|ヴァンパイア男子寮
 5586|4|ja|ヴァンパイア騎士
 6017|4|ja|ヴァンパイア騎士 Guilty
@@ -86072,6 +86080,7 @@
 20037|2|zh-Hans|凹凸世界·新生 先行集
 20037|4|zh-Hans|凹凸世界REBORN
 20037|2|zh-Hans|凹凸世界REBORN 先行集
+20455|4|zh-Hans|凹凸世界REBORN 第一篇章 魔女陷阱
 17614|4|zh-Hans|凹凸魔女的亲子日常
 17614|4|zh-Hant|凹凸魔女的親子日常
 3207|4|ja|出ましたっ! パワパフガールズZ
@@ -86540,6 +86549,7 @@
 12754|4|ja|劇場版 美少女戦士セーラームーンEternal
 12754|2|zh-Hant|劇場版 美少女戰士Eternal
 11489|4|ja|劇場版 艦これ
+11489|4|zh-Hant|劇場版 艦隊Collection
 11489|2|ja|劇場版 艦隊これくしょん
 8827|2|ja|劇場版 花咲くいろは HOME SWEET HOME
 8827|4|zh-Hant|劇場版 花開物語 HOME SWEET HOME
@@ -86819,6 +86829,7 @@
 26|4|ja|十二国記
 26|4|zh|十二国记
 26|4|zh-Hans|十二国记
+26|4|zh-Hant|十二國記
 12956|4|zh-Hans|十二大战
 12956|4|ja|十二大戦
 12956|4|zh-Hant|十二大戰
@@ -91896,6 +91907,7 @@
 562|4|zh-Hans|数码暴龙 驯兽师之王
 2150|4|ja|敵は海賊 ~猫たちの饗宴~
 14240|4|zh-Hant|數碼寶貝 LAST EVOLUTION 絆
+16502|2|zh-Hant|數碼寶貝 幽靈遊戲
 16509|4|zh-Hant|數碼寶貝02：起源
 15358|4|zh-Hant|數碼寶貝大冒險:
 10764|4|zh-Hant|數碼寶貝大冒險tri
@@ -93771,6 +93783,7 @@
 13153|4|zh-Hant|歡迎來到實力至上主義的教室
 17237|2|zh-Hant|歡迎來到實力至上主義的教室 第三季
 17208|2|zh-Hant|歡迎來到實力至上主義的教室 第二季
+18844|4|zh-Hant|歡迎來到實力至上主義的教室 第四季 2年級篇 第一學期
 18361|4|zh-Hant|歡迎來到日本，妖精小姐。
 18012|4|zh-Hant|歡迎來到駒田蒸餾所
 19054|4|zh-Hant|歡迎光臨流放者食堂！
@@ -96726,6 +96739,7 @@
 766|4|ja|紅三四郎
 4364|4|zh-Hant|紅孩兒: 決戰火焰山
 4364|2|zh-Hant|紅孩兒大話火焰山
+18809|4|zh-Hant|紅戰士在異世界成了冒險者
 11815|4|ja|紅殻のパンドラ GHOST URN
 11815|2|zh-Hant|紅殼的潘朵拉
 1466|4|ja|紅狼
@@ -97929,6 +97943,7 @@
 9172|4|ja|藤子不二雄Aの夢魔子
 9296|4|ja|藤子不二雄のキテレツ大百科
 19557|4|ja|藤本タツキ17-26
+19557|4|zh-Hant|藤本樹 17-26
 17870|4|zh-Hant|藥師少女的獨語
 18562|4|zh-Hant|藥師少女的獨語 第二季
 19046|4|zh-Hans|蘑菇魔女
@@ -98800,8 +98815,8 @@
 19996|4|ja|転生悪女の黒歴史 番外編 ヨミと嫉妬と誕生日 / イアナとソル 熱っぽい一日
 17569|4|ja|転生王女と天才令嬢の魔法革命
 18026|4|ja|転生貴族, 鑑定スキルで成り上がる
-18707|4|ja|転生貴族, 鑑定スキルで成り上がる (2024)
-19070|4|ja|転生貴族, 鑑定スキルで成り上がる (2026)
+18707|4|ja|転生貴族, 鑑定スキルで成り上がる 第2期
+19070|4|ja|転生貴族, 鑑定スキルで成り上がる 第3期
 17552|4|ja|転生貴族の異世界冒険録 ~自重を知らない神々の使徒~
 16030|4|ja|転生賢者の異世界ライフ~第二の職業を得て, 世界最強になりました~
 4435|4|ja|軽井沢シンドローム
@@ -99239,6 +99254,7 @@
 13746|4|zh|醉後決定愛上你
 7170|4|ja|醒めよ有権者
 18996|2|zh-Hans|醜男真戰士
+18996|4|zh-Hant|醜男真戰士
 17226|4|zh-Hans|释雪二蓝
 15423|4|zh-Hans|里世界郊游
 16069|2|zh-Hans|里亚德录大地
@@ -99974,6 +99990,7 @@
 11295|4|zh-Hant|雛蜂-B.E.E-
 2030|4|ja|雛鳥の囀
 2030|4|zh-Hans|雛鳥の囀
+18772|4|zh-Hant|雞鬥士
 18852|4|zh-Hant|離開 A 級隊伍的我，和從前的弟子往迷宮深處邁進
 8987|4|ja|難波金融伝 ミナミの帝王
 6935|2|ja|難船ス物語 第一篇 猿ケ島
@@ -100159,6 +100176,7 @@
 18278|4|zh-Hans|青之箱
 16358|4|zh-Hans|青之芦苇
 6443|4|zh-Hans|青之花
+16358|4|zh-Hant|青之蘆葦
 18735|4|zh-Hant|青之驅魔師 終夜篇
 18561|2|zh-Hant|青之驅魔師 雪之盡頭篇
 8148|4|zh-Hans|青之驱魔师
@@ -101241,6 +101259,7 @@
 14167|4|ja|鹿の王 ユナと約束の旅
 15238|2|zh-Hans|鹿与牛
 18534|4|zh-Hans|鹿乃子乃子乃子虎视眈眈
+18534|4|zh-Hant|鹿乃子乃子乃子虎視眈眈
 18534|2|zh-Hans|鹿乃子大摇大摆虎视眈眈
 15238|4|zh-Hans|鹿和牛
 13502|4|zh-Hans|鹿枫堂
