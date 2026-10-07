@@ -1,4 +1,4 @@
-# created: Tue Oct  6 03:00:02 2026
+# created: Wed Oct  7 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -5376,9 +5376,12 @@
 1462|3|x-jat|Battle Royale
 554|4|en|Battle Skipper
 554|2|en|Battle Skipper School
+19951|4|de|Battle Spirits [Re] ZEKKAI NO KU
+19951|4|en|Battle Spirits [Re] Zekkai no Ku
 19951|1|x-jat|Battle Spirits [Re] Zekkai no Kuu
 19951|4|ja|Battle Spirits [Re] 絶界の空
 7675|1|x-jat|Battle Spirits Brave
+19951|2|x-jat|Battle Spirits Re - Zekkai no Kuu
 6978|2|zh-Hans|Battle Spirits 少年激霸弹
 15368|4|zh-Hant|Battle Spirits 赫盟的加雷特
 11026|1|x-jat|Battle Spirits: Burning Soul
@@ -9234,6 +9237,7 @@
 1753|2|ja|Choujin Locke: Witch Era
 1755|2|x-jat|Choujin Locke/Shin Sekai Sentai
 2045|1|x-jat|Choujin Sentai Barattack
+19649|2|x-jat|Choujun! Choujou-senpai
 597|1|x-jat|Choujuu Densetsu Gestalt
 12268|1|x-jat|Choujuu Giga
 1692|1|x-jat|Choujuu Kishin Dancougar
@@ -10401,6 +10405,7 @@
 18839|2|en|Cross-Cultural Exchange With the Girl at the Arcade
 15249|2|en|Crossbreeding Assistance
 8262|2|en|Crossdresser and Princess
+16685|4|en|CrossFire: Project Ghost
 6424|2|x-jat|crossgame
 13753|4|en|Crossing Time
 10458|2|ja|Crossroad
@@ -10590,11 +10595,11 @@
 2731|4|en|Cyberteam in Akihabara - 2011 Summer Vacations
 1558|1|x-jat|Cybervenus FeiFei
 9643|2|en|Cyborg 007
-1527|1|x-jat|Cyborg 009
 2242|4|de|Cyborg 009
 1214|4|es-419|Cyborg 009
+2204|1|x-jat|Cyborg 009
 12277|2|fr|Cyborg 009 : Appel de la justice
-2204|1|x-jat|Cyborg 009 (1966)
+1527|1|x-jat|Cyborg 009 (1968)
 2346|1|x-jat|Cyborg 009 (1979)
 1214|4|sk|Cyborg 009 (2001)
 1214|4|pt-BR|Cyborg 009 (2001)
@@ -13447,7 +13452,6 @@
 4673|2|x-jat|Doraemon: Nobita to Animaruwakusei
 6587|1|x-jat|Doraemon: Nobita to Buriki no Labyrinth
 6587|2|x-jat|Doraemon: Nobita to Burikinomeikyu
-2717|1|x-jat|Doraemon: Nobita to Fushigi Kaze Tsukai
 5046|2|x-jat|Doraemon: Nobita to Ginga Choutokkyuu
 5046|1|x-jat|Doraemon: Nobita to Ginga Express
 6588|1|x-jat|Doraemon: Nobita to Kumo no Oukoku
@@ -15008,6 +15012,7 @@
 10737|1|x-jat|Eiga Doraemon: Nobita no Space Heroes
 13228|1|x-jat|Eiga Doraemon: Nobita no Takarajima
 15852|2|x-jat|Eiga Doraemon: Nobita no Uchuu Shou Sensou 2021
+2717|1|x-jat|Eiga Doraemon: Nobita to Fushigi Kaze Tsukai
 8542|1|x-jat|Eiga Doraemon: Nobita to Kiseki no Shima - Animal Adventure
 6382|1|x-jat|Eiga Doraemon: Nobita to Midori no Kyojin Den
 17500|1|x-jat|Eiga Doraemon: Nobita to Sora no Utopia
@@ -22167,7 +22172,7 @@
 5533|3|x-jat|hatenkou
 5533|4|en|Hatenkou Yugi
 5533|1|x-jat|Hatenkou Yuugi
-19073|1|x-jat|Hateshi Naki Scarlet
+19073|1|x-jat|Hateshinaki Scarlet
 5533|3|x-jat|HateYuu
 262|2|tr|Hatıralar
 8327|1|x-jat|Hato no Oyomesan
@@ -26379,8 +26384,9 @@
 555|3|x-jat|Jing
 555|4|fr|Jing - roi des voleurs
 18395|1|x-zht|Jing Cui Xian Zun
-18396|1|x-zht|Jing Cui Xian Zun 2
+18396|2|x-zht|Jing Cui Xian Zun 2
 18396|2|x-zht|Jing Cui Xian Zun Part 2
+18396|1|x-zht|Jing Cui Xian Zun Xia
 14863|1|x-zht|Jing Hua Yuan
 1371|2|x-jat|Jing OVA
 16762|1|x-zht|Jing Zhong Baoguo
@@ -43368,6 +43374,8 @@
 12058|4|ko|Planetarian ~별의 사람~
 12085|4|ko|Planetarian ~작은 별의 꿈~
 12058|4|ja|planetarian ~星の人~
+12058|2|zh-Hant|planetarian ～星之人～
+12085|2|zh-Hant|planetarian ～星之夢～
 15284|4|ja|planetarian ~雪圏球~
 12085|1|x-jat|Planetarian: Chiisana Hoshi no Yume
 12058|1|x-jat|Planetarian: Hoshi no Hito
@@ -47553,7 +47561,6 @@
 19288|1|x-jat|Sai-Kyo-Oh! Zukan: The Ultimate Tournament
 12923|2|en|SAI: Part 1 / Revolving... to the Core
 10220|1|x-kot|Saibi
-2204|2|x-unk|Saibôgu 009
 18868|1|x-jat|Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshouka
 18868|2|x-jat|Saigo ni Hitotsu dake Onegai Shitemo Yoroshii Deshou ka
 5135|1|x-jat|Saigo no Door o Shimero!
@@ -56660,8 +56667,9 @@
 9515|4|nl|The Tale of The Princess Kaguya
 9515|4|el|The Tale of The Princess Kaguya
 19627|2|en|The Tale of the Scholar-Official Matsurika
-18395|2|en|The Tale of The Spirit Stone
+18395|4|en|The Tale of The Spirit Stone
 18396|2|en|The Tale of The Spirit Stone 2
+18396|4|en|The Tale of The Spirit Stone Part 2
 1861|2|en|The Tale of the White Serpent
 1009|2|en|The Tales from Moominvalley
 10437|2|en|The targeted Angel Goddess Angeltia: Betrayed by the people I`ve protected
@@ -58901,7 +58909,6 @@
 14187|1|x-jat|Uchuu Senkan Tiramisu II
 648|1|x-jat|Uchuu Senkan Yamato
 2814|1|x-jat|Uchuu Senkan Yamato (1977)
-18902|1|x-jat|Uchuu Senkan Yamato (Shinsaku Anime Eizou)
 2662|1|x-jat|Uchuu Senkan Yamato 2
 8787|1|x-jat|Uchuu Senkan Yamato 2199
 10430|1|x-jat|Uchuu Senkan Yamato 2199: Hoshi-Meguru Hakobune
@@ -58910,6 +58917,7 @@
 12051|1|x-jat|Uchuu Senkan Yamato 2202: Ai no Senshi-tachi
 14804|1|x-jat|Uchuu Senkan Yamato 2205: Aratanaru Tabidachi
 2661|1|x-jat|Uchuu Senkan Yamato III
+18902|1|x-jat|Uchuu Senkan Yamato Root 2199
 2811|1|x-jat|Uchuu Senkan Yamato: Aratanaru Tabidachi
 6680|1|x-jat|Uchuu Senkan Yamato: Fukkatsu Hen
 1956|1|x-jat|Uchuu Senkan Yamato: Kanketsuhen
@@ -68943,6 +68951,7 @@
 2842|2|bg|Хотори: Просто търся щастие
 2842|2|uk|Хоторі: Я просто хочу щастя
 10676|2|ru|Хоть кто-нибудь мне намекнёт, что муж болезный мой несёт?
+19226|2|ru|Хоть я и бездарная злодейка: Сказка о том, как бабочка и крыса поменялись местами в девичьем дворе
 4184|2|ru|Хочу взять пятое место
 11964|2|ru|Храбрые ведьмы
 17827|4|ru|Храм: Жизнь в одиночестве — не жизнь
@@ -78507,8 +78516,8 @@
 19445|2|ja|サイバーパンクエッジランナーズ 2
 6301|2|ja|さいふぁ
 1349|4|ja|サイファイハリー
-1527|4|ja|サイボーグ009
-2204|4|ja|サイボーグ009 (1966)
+2204|4|ja|サイボーグ009
+1527|4|ja|サイボーグ009 (1968)
 2346|4|ja|サイボーグ009 (1979)
 1214|4|ja|サイボーグ009 THE CYBORG SOLDIER
 19486|4|ja|サイボーグ009 ネメシス
@@ -80422,7 +80431,6 @@
 4635|4|ja|ドラえもん (2005)
 4673|5|ja|ドラえもん のびたとアニマルプラネット
 5046|5|ja|ドラえもん のびたとぎんがエクスプレス
-2717|4|ja|ドラえもん のび太とふしぎ風使い
 6587|4|ja|ドラえもん のび太とブリキの迷宮
 6582|4|ja|ドラえもん のび太とロボット王国
 6586|4|ja|ドラえもん のび太と夢幻三剣士
@@ -85400,6 +85408,7 @@
 9283|4|zh-Hans|偶像大师 闪耀祭典
 17918|4|zh-Hans|偶像大师 闪耀色彩
 15625|2|zh-Hans|偶像大师百万现场！
+4773|2|zh-Hant|偶像大師 XENOGLOSSIA
 10585|4|zh-Hant|偶像大師 灰姑娘女孩
 11135|4|zh-Hant|偶像大師 灰姑娘女孩 第二季
 15625|2|zh-Hant|偶像大師 百萬人演唱會！
@@ -85424,6 +85433,7 @@
 11934|4|zh-Hans|偶像活动Stars
 11526|4|zh-Hans|偶像活动Stars! 剧场版
 1154|4|zh-Hans|偶像计划
+12400|2|zh-Hant|偶像選舉
 9457|4|zh-Hans|偷·窥·的·小·洞
 10475|2|zh-Hant|偽姬日常
 10475|4|zh-Hant|偽姬物語
@@ -85928,6 +85938,7 @@
 9546|4|ja|最近, 妹のようすがちょっとおかしいんだが.
 10350|4|ja|最近, 妹のようすがちょっとおかしいんだが. 萌亜の初恋メモリー? 16年目のハッピークリスマス
 9546|4|zh-Hans|最近, 妹妹的样子有点怪?
+9546|4|zh-Hant|最近，妹妹的樣子有點怪？
 18827|2|zh-Hans|最近的侦探真没用
 18827|4|zh-Hant|最近的偵探真沒用
 17421|4|ja|最近雇ったメイドが怪しい
@@ -86122,6 +86133,7 @@
 18116|4|zh-Hans|刀剑神域外传 Gun Gale Online 第二季
 18116|2|zh-Hans|刀剑神域外传：暴风之铳 第二季
 10022|4|zh-Hans|刀剑神域特别篇
+15735|4|zh-Hans|刀剑神域进击篇: 无星之夜
 19155|4|ja|刀剣乱舞 廻 -々伝 近し侍らうものら-
 18408|4|ja|刀剣乱舞 廻 -虚伝 燃ゆる本能寺-
 12031|4|ja|刀剣乱舞-花丸-
@@ -86288,7 +86300,7 @@
 18780|4|zh-Hans|剧场版 世界计画 破碎的世界与无法歌唱的未来
 16776|4|zh-Hans|剧场版 关于我转生变成史莱姆这档事 红莲之绊篇
 11713|4|zh-Hans|剧场版 最终流放 银翼之法姆 Over the Wishes
-15735|4|zh-Hans|剧场版 刀剑神域 进击篇 无星之夜的咏叹调
+15735|2|zh-Hans|剧场版 刀剑神域 进击篇 无星之夜的咏叹调
 16951|4|zh-Hans|剧场版 刀剑神域 进击篇 阴沉薄暮的诙谐曲
 18881|4|zh-Hans|剧场版 前辈是男孩子：雨过天晴
 12962|4|zh-Hans|剧场版 吹响！悠风号～想要传达的旋律～
@@ -86532,6 +86544,7 @@
 17361|2|zh-Hant|劇場版 歌之王子殿下 真愛STARISH TOURS
 13479|4|ja|劇場版 活撃/刀剣乱舞
 4388|4|ja|劇場版 灼眼のシャナ
+4388|4|zh-Hant|劇場版 灼眼的夏娜
 14394|4|ja|劇場版 王室教師ハイネ
 18077|4|ja|劇場版 王様ランキング
 12618|4|ja|劇場版 生徒会役員共
@@ -89365,10 +89378,10 @@
 14187|4|ja|宇宙戦艦ティラミスII
 648|4|ja|宇宙戦艦ヤマト
 2814|4|ja|宇宙戦艦ヤマト (1977)
-18902|4|ja|宇宙戦艦ヤマト (新作アニメ映像)
 1956|4|ja|宇宙戦艦ヤマト 完結編
 2811|4|ja|宇宙戦艦ヤマト 新たなる旅立ち
 6680|4|ja|宇宙戦艦ヤマト・復活篇
+18902|4|ja|宇宙戦艦ヤマト√2199
 2662|4|ja|宇宙戦艦ヤマト2
 8787|4|ja|宇宙戦艦ヤマト2199
 10430|4|ja|宇宙戦艦ヤマト2199 星巡る方舟
@@ -89545,6 +89558,7 @@
 13911|4|zh-Hant|寄宿學校的茱麗葉
 10272|4|zh-Hans|寄生兽 生命的准则
 10272|4|ja|寄生獣 セイの格率
+10272|4|zh-Hant|寄生獸：生命的準則
 8614|4|ja|寄生虫の一夜
 779|4|zh-Hans|寄生魔偶
 13412|4|zh-Hans|密奇丽猫咪
@@ -92682,6 +92696,7 @@
 11354|4|ja|映画ちびまる子ちゃん イタリアから来た少年
 17176|4|ja|映画デリシャスパーティ♡プリキュア 夢みる♡お子さまランチ!
 4673|4|ja|映画ドラえもん のび太とアニマル惑星
+2717|4|ja|映画ドラえもん のび太とふしぎ風使い
 8542|4|ja|映画ドラえもん のび太と奇跡の島 ~アニマル アドベンチャー~
 17500|4|ja|映画ドラえもん のび太と空の理想郷
 6382|4|ja|映画ドラえもん のび太と緑の巨人伝
@@ -94530,6 +94545,7 @@
 4821|4|ja|瀬戸の花嫁
 6126|4|ja|瀬戸の花嫁 (2008)
 590|4|zh-Hans|灌篮高手
+590|4|zh-Hant|灌籃高手
 12710|4|ja|火づくり
 13695|4|ja|火ノ丸相撲
 6943|4|ja|火の玉小僧 山賊退治
@@ -94648,11 +94664,15 @@
 8483|4|ja|灼眼のシャナIII[Final]
 6757|4|ja|灼眼のシャナS
 3408|4|zh-Hans|灼眼的夏娜
+3408|4|zh-Hant|灼眼的夏娜
 8483|2|zh-Hans|灼眼的夏娜 Final
+5145|4|zh-Hant|灼眼的夏娜 II
+8483|4|zh-Hant|灼眼的夏娜 III Final
 5145|2|zh-Hans|灼眼的夏娜 第二季
 5145|4|zh-Hans|灼眼的夏娜II -Second-
 8483|4|zh-Hans|灼眼的夏娜III -Final-
 6757|4|zh-Hans|灼眼的夏娜S
+6757|4|zh-Hant|灼眼的夏娜S
 13980|4|zh-Hans|灾祸的真理 -ZUERST-
 1511|4|ja|炎トリッパー[ファイアー・トリッパー]
 3667|4|ja|炎のアルペンローゼ ジュディ&ランディ
@@ -95984,6 +96004,7 @@
 12802|4|ja|真夜中は純潔
 1331|4|ja|真奈美&ナミ スプライト
 4325|2|zh-Hans|真实之泪
+4325|2|zh-Hant|真實之淚
 8835|4|ja|真希ちゃんとなう.
 2098|4|ja|真拳伝説 タイトロード
 6105|4|ja|真救世主伝説 北斗の拳 ZERO ケンシロウ伝
@@ -96220,6 +96241,8 @@
 18407|4|ja|神椿市建設中.
 18407|4|zh-Hans|神椿市建設中。
 1002|4|zh-Hant|神槍少女
+5418|2|zh-Hant|神槍少女 -IL TEATRINO-
+6128|2|zh-Hant|神槍少女 -IL TEATRINO- OVA
 8275|4|ja|神様ドォルズ
 15559|4|ja|神様になった日
 9482|2|ja|神様のいない日曜日
@@ -97181,6 +97204,7 @@
 2540|4|ja|美少女戦士セーラームーンSuperS
 8879|4|zh-Hans|美少女死神 还我H之魂
 8879|2|zh-Hans|美少女死神 还我H之魂!
+8879|4|zh-Hant|美少女死神 還我H之魂!
 18214|4|ja|美少女無罪♡パイレーツ
 494|4|zh-Hans|美少女电脑战队
 11983|4|ja|美少女遊戯ユニットクレーンゲール
@@ -97498,6 +97522,7 @@
 5431|4|ja|舞-乙HiME 0 ~S.ifr~
 4567|4|ja|舞-乙HiME Zwei
 15476|2|zh-Hans|舞伎家的料理人
+15476|4|zh-Hant|舞伎家的料理人
 11761|4|zh-Hans|舞兵器舞乱伎
 12043|4|zh-Hans|舞兵器舞乱伎 星之巨人
 18030|2|zh-Hans|舞冰的祈愿
@@ -97918,6 +97943,7 @@
 8999|4|zh-Hant|薄櫻鬼 黎明錄 新選組奇譚
 13608|4|ja|薄墨桜 -GARO-
 15988|4|zh-Hans|薇薇 -萤石眼之歌-
+4772|4|zh-Hant|薔薇少女 ～序曲～
 15731|4|ja|薔薇王の葬列
 15731|2|zh-Hant|薔薇王的葬列
 18867|4|ja|薫る花は凛と咲く
@@ -97971,6 +97997,7 @@
 4318|4|ja|虚無戦史MIROKU
 13767|4|zh-Hans|虚空魔境
 14701|4|zh-Hans|虚空魔境 第二季
+13890|4|zh-Hant|虛擬入口
 9879|4|ja|虜ノ契 ~家族のために身体を差し出す姉と妹~
 9879|2|ja|虜の契～家族のために身体を差し出す姉と妹～
 12636|2|ja|虜ノ鎖 ~処女たちを穢す淫らな楔~
@@ -98527,6 +98554,8 @@
 11082|4|ja|赤髪の白雪姫 Snow White with the Red Hair
 11348|4|ja|赤髪の白雪姫 Snow White with the Red Hair (2016)
 11524|4|ja|赤髪の白雪姫 Snow White with the Red Hair なんでもない宝物, この頁
+11082|4|zh-Hant|赤髮白雪姬
+11348|4|zh-Hant|赤髮白雪姬 第二季
 12600|4|ja|赤鬼と青鬼のタンゴ
 12628|4|ja|走り始めたばかりのキミに
 14349|4|ja|走り続けてよかったって.
@@ -98911,6 +98940,7 @@
 5018|4|ja|辱アナ
 5465|4|ja|辱妻
 7738|3|ja|農ムス
+9801|4|zh-Hant|農林
 7738|4|ja|農業ムスメ!
 17222|4|ja|農民関連のスキルばっか上げてたら何故か強くなった.
 18646|4|zh-Hans|达尔文事变
@@ -99801,6 +99831,7 @@
 18884|4|zh-Hant|關於我轉生變成史萊姆這檔事 第四季
 17873|2|zh-Hant|關於我轉生變成史萊姆這檔事 高里烏斯之夢
 10676|4|zh-Hant|關於聽不懂老公在說什麼這件事
+11002|4|zh-Hant|關於聽不懂老公在說什麼這件事 第二季
 9166|4|zh-Hans|闪乱神乐
 10885|4|zh-Hans|闪乱神乐 ESTIVAL VERSUS -泳装满载的前夜祭-
 13341|4|zh-Hans|闪乱神乐 SHINOVI MASTER -东京妖魔篇-
@@ -99878,6 +99909,7 @@
 2275|4|zh-Hans|阿拉蕾 哦呦呦！环球大比赛
 532|4|zh-Hans|阿拉蕾(1997)
 11347|4|zh-Hans|阿松
+11347|4|zh-Hant|阿松
 15627|4|zh-Hant|阿松 第三季
 12944|4|zh-Hans|阿松 第二季
 2702|4|zh-Hans|阿松（1988）
