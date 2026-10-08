@@ -1,4 +1,4 @@
-# created: Wed Oct  7 03:00:02 2026
+# created: Thu Oct  8 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -2447,6 +2447,7 @@
 13313|1|x-jat|Alice or Alice
 13313|4|en|Alice or Alice
 13313|4|zh-Hans|ALICE or ALICE
+13313|2|zh-Hant|ALICE OR ALICE～妹控哥哥與雙胞胎妹妹～
 3375|1|x-jat|Alice SOS
 3084|1|x-jat|Alice Tanteikyoku
 16408|1|x-jat|Alice to Teles no Maboroshi Koujou
@@ -2952,6 +2953,7 @@
 13756|1|x-jat|Anima Yell!
 13756|4|en|Anima Yell!
 13756|4|zh-Hans|Anima Yell!
+13756|4|zh-Hant|Anima Yell!
 3080|1|x-jat|Animal 1
 3562|2|en|Animal Alley
 4590|2|en|Animal Crossing
@@ -11046,6 +11048,7 @@
 18290|4|de|Dandadan
 19912|1|x-jat|Dandelion
 20081|4|en|Dandivine
+20081|4|de|Dandivine
 6738|2|en|Danemon`s Monster Hunt at Shojoji
 10937|2|x-unk|Dáng hình thanh âm
 10937|4|vi|Dáng Hình Thanh Âm
@@ -21149,6 +21152,7 @@
 6128|4|en|Gunslinger Girl: Il Teatrino OVA
 1002|1|x-jat|Gunslinger Girl.
 1002|4|ja|GUNSLINGER GIRL.
+5418|4|ja|GUNSLINGER GIRL. -IL TEATRINO-
 1002|6|ja|GUNSLINGER GIRL. The girl has a mechanical body. However, she is still an adolescent child.
 10965|4|fr|Gunslinger Stratos
 10965|4|ja|Gunslinger Stratos -THE ANIMATION-
@@ -22290,6 +22294,7 @@
 7655|4|en|Heart and Yummie
 7285|4|zh-Hans|Heart Catch 光之美少女!
 7620|4|zh-Hans|Heart Catch光之美少女 超级时尚秀在花之都...真的吗！？
+1786|1|x-jat|Heart Cocktail
 9168|1|x-jat|Heart Cocktail Again
 17822|1|x-jat|Heart Cocktail: Colorful
 15776|2|en|Heart Forecast
@@ -27983,6 +27988,7 @@
 6613|4|fr|Katanagatari
 11470|1|x-jat|Kataribe Shoujo Honoka
 14741|1|x-jat|Katasumi no Uroko
+20457|1|x-jat|Kataude
 9182|1|x-jat|Katayoku no Khronos Gear
 933|2|de|Kate in geheimer Mission
 4747|2|x-jat|Kateikyoushi Hitman Reborn!
@@ -41630,7 +41636,7 @@
 11938|4|en|Orange
 12431|4|ja|orange -未来-
 153|4|sv|Orange Road - Superfamiljen
-11938|4|x-unk|Orange 橘色奇蹟
+11938|4|zh-Hant|Orange 橘色奇蹟
 12431|1|x-jat|Orange: Mirai
 12612|1|x-jat|Orangutan
 11974|2|pt|Oratória da Espada: É Errado Tentar Pegar Garotas em uma Masmorra?
@@ -48384,6 +48390,7 @@
 17530|1|x-jat|Sasaki to P-chan
 18563|1|x-jat|Sasaki to P-chan Season 2
 17530|2|x-jat|Sasaki to Pii-chan
+18563|2|x-jat|Sasaki to Pii-chan S2
 18563|2|x-jat|Sasaki to Pii-chan Season 2
 15865|4|es|Sasaki y Miyano
 17077|4|es|Sasaki y Miyano: Una pequeña historia de antes de darme cuenta que era amor
@@ -53638,7 +53645,7 @@
 6740|1|x-jat|Taa-chan no Kaitei Ryokou
 6740|2|en|Taa-chan`s Underwater Adventure
 7867|1|x-jat|Taabou no Ryuuguusei Daitanken
-1786|1|x-jat|Tabako Ippon no Story: Heart Cocktail
+1786|2|x-jat|Tabako Ippon no Story: Heart Cocktail
 4361|1|x-jat|Tabako to Hai
 13854|1|x-jat|Tabechattatte Ii no ni na!
 19048|1|x-jat|Tabekko Doubutsu
@@ -54087,6 +54094,7 @@
 11363|1|x-jat|Tantei Team KZ: Jiken Note
 15998|1|x-jat|Tantei wa Mou, Shinde Iru.
 17527|1|x-jat|Tantei wa Mou, Shinde Iru. Season 2
+17527|2|x-jat|Tantei wa Mou, Shindeiru. S2
 13674|1|x-jat|Tanuki to Kitsune
 20450|1|x-jat|Tanuki to Kitsune (2026)
 7636|1|x-jat|Tanuki-san Ooatari
@@ -55399,6 +55407,7 @@
 8117|4|en|The Everyday Tales of a Cat God
 8932|4|en|The Everyday Tales of a Cat God - Cherry Blossom Viewing Ghost Busters
 16031|4|en|The Executioner and Her Way of Life
+19881|2|en|The Exiled Cheating Magician Enjoys an Unrestrained Second Life. I Can Give "Strengthening Points" Not Only to Weapons, But Also to Everything, and I Can Unlock the Effect at Any Time of My Will, But are the Rest Okay?
 18854|4|en|The Exiled Heavy Knight Knows How to Game the System
 18854|2|en|The Exiled Reincarnated Heavy Knight Is Unrivaled in Game Knowledge
 14800|2|en|The Extraordinary Adventures of the Mouse and His Child
@@ -60449,6 +60458,7 @@
 2228|1|x-jat|Wakusei Robo Danguard Ace: Uchuu Daikaisen
 12232|2|x-jat|Wakuwaku Koma-chan
 12975|1|x-jat|Wakuwaku Nukegake Daisakusen
+19211|2|en|Walking Home with You
 11311|1|x-jat|Walking Man
 11311|4|ja|WALKING MAN
 12220|1|x-jat|Walking Meat
@@ -65704,6 +65714,7 @@
 16030|2|ru|Жизнь перерождённого мудреца в другом мире
 16030|2|ru|Жизнь перерождённого мудреца в другом мире: Получение второй профессии и становление сильнейшим!
 15569|2|ru|Жизнь с суккубом
+18818|2|ru|Жизнь сорокалетнего мужчины в другом мире
 1603|2|uk|Жіночий гріх
 15287|2|uk|Жозе, тигр і риба
 2142|2|ru|Жрица Луны, жрица Солнца
@@ -66848,6 +66859,8 @@
 10967|4|bg|Момчето и звярът
 13545|4|bg|Момчето и чаплата
 781|2|bg|Момчето Пепеляшка
+17870|2|ru|Монолог фармацевта
+18562|2|ru|Монолог фармацевта 2
 5113|2|uk|Мононоке
 17466|4|uk|Мононоке: Привид під дощем
 17466|4|ru|Мононоке: фильм. Призрак под дождем
@@ -77435,7 +77448,7 @@
 17276|4|ja|かんごしっ! PV
 10094|4|ja|かんすけさんとふしぎな自転車
 45|2|ja|ガンスミスキャッツ
-5418|4|ja|ガンスリンガー ガール -IL TEATRINO-
+5418|2|ja|ガンスリンガー ガール -IL TEATRINO-
 6128|4|ja|ガンスリンガー ガール -IL TEATRINO- OVA
 10965|2|ja|ガンスリンガー ストラトス
 1002|2|ja|ガンスリンガー・ガール
@@ -79670,7 +79683,7 @@
 13888|4|ja|たのしいね
 3579|4|ja|たのしい文明史 鉄ものがたり
 11612|4|ja|たのしくてあそび ママになったコキンちゃん!?
-1786|4|ja|たばこ1本のストーリー ハートカクテル
+1786|2|ja|たばこ1本のストーリー ハートカクテル
 4361|4|ja|たばこと灰
 11039|2|ja|タブー・タトゥー
 11931|4|ja|ダブル・ハード
@@ -80837,7 +80850,7 @@
 18786|4|ja|ネガポジアングラー
 6151|4|ja|ねぎぼうずのあさたろう
 4565|4|ja|ネギま!?
-4812|4|ja|ネギま!? 夏 スペシャル
+4812|4|ja|ネギま!? 夏 スペシャル!?
 4510|4|ja|ネギま!? 春 スペシャル!?
 2615|4|ja|ネクスト戦記EHRGEIZ
 2615|2|ja|ネクスト戦記エーアガイツ
@@ -80972,6 +80985,7 @@
 19957|4|ja|バーテックスフォース
 4681|4|ja|バーテンダー
 17673|2|ja|バーテンダー 神のグラス
+1786|4|ja|ハートカクテル
 17822|4|ja|ハートカクテル カラフル
 9168|4|ja|ハートカクテルアゲイン
 7285|4|ja|ハートキャッチプリキュア!
@@ -84135,6 +84149,7 @@
 7847|4|ja|一休さん 春だ! やんちゃ姫
 1680|4|ja|一休さんとやんちゃ姫
 1678|4|zh-Hant|一休和尚
+13989|4|zh-Hant|一個人的○○小日子
 18195|2|zh-Hant|一兆＄遊戲
 18195|4|zh-Hant|一兆遊戲
 5499|2|zh-Hans|一千零一夜
@@ -84189,6 +84204,7 @@
 9082|4|ja|一発必中!! デバンダー
 3094|4|ja|一発貫太くん
 18648|4|zh-Hant|一百公尺
+14349|2|zh-Hant|一直跑下去真的是太好了。
 18528|4|ja|一瞬で治療していたのに役立たずと追放された天才治癒師, 闇ヒーラーとして楽しく生きる
 19811|4|ja|一瞬で治療していたのに役立たずと追放された天才治癒師, 闇ヒーラーとして楽しく生きる 2
 15984|4|zh-Hans|一禅小和尚
@@ -84247,10 +84263,12 @@
 12047|4|zh-Hans|七大罪 圣战的预兆
 16963|4|zh-Hans|七大罪 怨嗟的爱丁堡
 15459|4|zh-Hans|七大罪 愤怒的审判
+15459|4|zh-Hant|七大罪 憤怒的審判
 11646|4|zh-Hans|七大罪 戒律的复活
 11646|4|zh-Hant|七大罪 戒律的復活
 17355|4|zh-Hant|七大罪 啟示錄四騎士
 18558|4|zh-Hant|七大罪 啟示錄四騎士 第二季
+14819|4|zh-Hant|七大罪 眾神的逆鱗
 14819|4|zh-Hans|七大罪 诸神的逆鳞
 16963|4|zh-Hant|七大罪：愛丁堡的恩怨
 15997|4|zh-Hant|七大罪：被光詛咒的人們
@@ -85385,6 +85403,7 @@
 10366|4|zh-Hans|健全机斗士
 5147|2|zh-Hans|健康全裸游泳社
 5147|4|zh-Hans|健康全裸游泳社 海商
+13322|4|zh-Hant|側車搭檔
 15998|4|zh-Hant|偵探已經，死了。
 10841|4|zh-Hant|偵探歌劇 少女福爾摩斯TD
 10983|4|zh-Hans|偶像☆妹妹
@@ -86897,7 +86916,9 @@
 15546|4|zh-Hant|半妖的夜叉姬
 15546|4|zh-Hans|半妖的夜叉姬
 16141|4|zh-Hans|半妖的夜叉姬 第二季
+12637|4|zh-Hant|半獸人的煩惱
 11908|4|zh-Hans|半田君
+11908|2|zh-Hant|半田君
 20300|4|zh|半神之境
 18833|4|ja|卑触家のルール
 2845|4|ja|卒業 Next Graduation
@@ -87531,6 +87552,7 @@
 3289|4|ja|哀しみのベラドンナ
 1438|2|zh-Hans|哀奴隶
 13147|4|zh-Hans|品酒要在成为夫妻后
+13147|4|zh-Hant|品酒要在成為夫妻後
 14984|4|zh-Hant|哆啦A夢：大雄的新恐龍
 4635|4|zh-Hans|哆啦A梦
 1078|4|zh-Hans|哆啦A梦 大山版
@@ -88632,6 +88654,7 @@
 1777|4|ja|天空戦記シュラト
 3600|4|ja|天空戦記シュラト 創世への暗闘
 2698|4|ja|天空断罪スケルターヘブン
+13312|4|zh-Hant|天空與海洋之間
 13149|4|zh|天籁之一萬年以后
 7625|2|zh-Hans|天籁之音
 17156|4|zh-Hans|天籁人偶
@@ -89581,6 +89604,7 @@
 20088|4|ja|寝取られた爆乳妻たち2
 7578|4|ja|寝取られファイター ヤリっちんぐ!
 17208|2|zh-Hant|實教 2
+14100|4|zh-Hant|實況主的逃脫遊戲【直播中】
 12739|4|zh-Hant|實驗品家庭
 10087|4|ja|寫眞館
 9956|4|zh-Hant|寶可夢 XY
@@ -90324,6 +90348,7 @@
 102|4|zh-Hant|庫洛魔法使
 12140|4|zh-Hant|庫洛魔法使 透明牌篇
 640|2|ja|廃棄王女
+14410|4|zh-Hant|廚病激發BOY
 14658|4|zh-Hant|廚神小當家
 15336|4|zh-Hant|廚神小當家 第二季
 12290|4|zh-Hant|廢天使加百列
@@ -90535,6 +90560,7 @@
 18948|4|zh-Hans|徒弟个个是大佬
 12814|4|zh-Hans|徒然Children
 12814|4|ja|徒然チルドレン
+12814|4|zh-Hant|徒然喜歡你
 19484|4|zh-Hant|從 0 位居民開始的邊境領主大人
 18247|4|zh-Hant|從Lv2開始開外掛的前勇者候補過著悠哉異世界生活
 19588|4|zh-Hant|從前從前有隻貓！世界喵童話
@@ -91137,6 +91163,7 @@
 11822|4|zh-Hant|戀愛暴君
 12835|4|zh-Hant|戀愛與謊言
 8820|4|zh-Hant|戀愛選舉巧克力
+9520|4|zh-Hant|戀曲寫真
 15002|4|zh-Hant|戀與製作人
 18197|4|zh-Hans|戍天伏魔录
 10554|4|zh-Hans|戏剧性谋杀
@@ -92873,6 +92900,7 @@
 15619|4|zh-Hant|暗黑企業的迷宮
 10|2|zh-Hans|暗黑破坏神
 14393|4|zh-Hans|暗黑破坏神在身边
+14393|2|zh-Hant|暗黑破壞神在身邊。
 2920|4|zh-Hans|暗黑神话
 7594|4|ja|暗黒キャット
 16413|4|ja|暗黒家族 ワラビさん
@@ -94194,6 +94222,7 @@
 2263|4|ja|流星戦隊ムスメット
 1491|4|ja|流星機ガクセイバー
 14603|4|zh-Hans|流汗吧！健身少女
+14603|4|zh-Hant|流汗吧！健身少女
 9925|4|zh-Hant|流浪神差
 11170|4|zh-Hant|流浪神差ARAGOTO
 4347|3|ja|流聖
@@ -94991,6 +95020,7 @@
 19400|4|ja|片田舎のおっさん, 剣聖になるII
 20411|4|ja|片田舎のおっさん, 剣聖になるIII
 9182|4|ja|片翼のクロノスギア
+20457|4|ja|片腕
 4264|2|zh-Hans|牙
 4264|4|zh-Hans|牙 -KIBA-
 4264|4|ja|牙-KIBA-
@@ -95688,7 +95718,8 @@
 18542|2|ja|異修羅 SEASON 2
 11033|4|ja|異国なレトロ
 5453|4|ja|異国色恋浪漫譚
-8180|4|ja|異国迷路のクロワーゼ The Animation La croisée dans un labyrinthe étranger
+8180|4|ja|異国迷路のクロワーゼ The Animation
+8180|6|ja|異国迷路のクロワーゼ The Animation La croisée dans un labyrinthe étranger
 18610|4|zh-Hant|異國日記
 8180|4|zh-Hant|異國迷宮的十字路口
 11776|4|ja|異字元合体もじバケるZ
@@ -96595,6 +96626,7 @@
 17922|4|zh-Hant|窗邊的小荳荳
 4289|4|ja|立喰師列伝
 13656|4|ja|立花館To Lieあんぐる
+13656|2|zh-Hant|立花館戀愛三角關係
 13656|4|zh-Hans|立花馆恋爱三角铃
 4289|4|zh-Hans|立食师列传
 8716|4|zh-Hans|竖笛与双肩书包
@@ -97298,6 +97330,7 @@
 18153|4|zh-Hant|老夫老妻重返青春
 16846|4|zh-Hans|老婆婆的棗樹
 3360|2|zh-Hans|老婆是女高中生
+10770|2|zh-Hant|老子是魔法少女
 1697|2|zh-Hans|老师的时间
 17523|4|ja|老後に備えて異世界で8万枚の金貨を貯めます
 16847|4|zh-Hans|老狼请客
@@ -97956,6 +97989,7 @@
 18867|4|zh-Hant|薰香花朵凜然綻放
 74|4|ja|藍より青し
 1059|4|ja|藍より青し~縁~
+13583|4|zh-Hant|藍海少女 第二季
 11683|4|zh-Hant|藍海少女！
 154|4|zh-Hant|藍色恐懼
 15993|4|zh-Hant|藍色時期
@@ -98551,9 +98585,12 @@
 627|2|zh-Hans|赤脚阿元
 2011|2|zh-Hans|赤脚阿元 2
 6276|4|ja|赤色エレジー
-11082|4|ja|赤髪の白雪姫 Snow White with the Red Hair
-11348|4|ja|赤髪の白雪姫 Snow White with the Red Hair (2016)
-11524|4|ja|赤髪の白雪姫 Snow White with the Red Hair なんでもない宝物, この頁
+11082|4|ja|赤髪の白雪姫
+11348|4|ja|赤髪の白雪姫 (2016)
+11082|6|ja|赤髪の白雪姫 Snow White with the Red Hair
+11348|6|ja|赤髪の白雪姫 Snow White with the Red Hair (2016)
+11524|6|ja|赤髪の白雪姫 Snow White with the Red Hair なんでもない宝物, この頁
+11524|4|ja|赤髪の白雪姫 なんでもない宝物, この頁
 11082|4|zh-Hant|赤髮白雪姬
 11348|4|zh-Hant|赤髮白雪姬 第二季
 12600|4|ja|赤鬼と青鬼のタンゴ
@@ -101507,6 +101544,7 @@
 2230|4|ja|龍の子太郎
 12359|4|ja|龍の歯医者
 11669|4|ja|龍三と七人の子分たちxFROGMAN
+15142|4|zh-Hant|龍先生，想要買個家。
 1528|4|zh-Hant|龍刀奇緣
 5112|2|zh-Hant|龍嗚
 13384|4|ja|龍堂寺士門の淫謀
