@@ -1,4 +1,4 @@
-# created: Thu Oct  8 03:00:02 2026
+# created: Fri Oct  9 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -889,6 +889,7 @@
 12014|1|x-jat|91 Days
 12014|4|en|91 Days
 12014|4|de|91 Days
+12014|4|zh-Hant|91 Days
 12014|2|ru|91 день
 12014|2|bg|91 дни
 12014|4|fa|91 روز
@@ -4091,11 +4092,14 @@
 7053|1|x-jat|Asuka: Nihon no Rekishi
 7053|2|ja|ASUKA日本の歴史
 8937|1|x-jat|Asura
+18522|2|en|Asura (2024)
+20458|4|en|Asura 2
 6374|2|pt|Asura Chora
 6769|2|pt|Asura Chora 2
 6374|1|x-jat|Asura Cryin`
 6374|2|en|Asura Cryin` 1
 6769|1|x-jat|Asura Cryin` 2
+20458|2|en|Asura S2
 6769|3|en|Asura2
 10937|3|en|ASV
 6493|1|x-jat|Asylum Session
@@ -16543,6 +16547,7 @@
 12704|1|x-jat|Fate/Apocrypha
 12704|4|ja|Fate/Apocrypha
 12704|4|en|Fate/Apocrypha
+12704|4|zh-Hant|Fate/Apocrypha
 12046|4|ja|Fate/EXTRA Last Encore
 12046|4|ko|Fate/EXTRA Last Encore
 12046|4|zh-Hans|Fate/EXTRA Last Encore
@@ -21790,7 +21795,6 @@
 6988|1|x-jat|Hanaori
 19594|4|en|Hanaori-san Still Wants to Fight in the Next Life
 19594|1|x-jat|Hanaori-san wa Tensei Shite mo Kenka ga Shitai
-19594|2|x-jat|Hanaori-san wa Tensei shitemo Kenka ga Shitai
 19594|2|en|Hanaori-san Wants to Have a Fight Even if She Reincarnates
 2109|4|en|Hanappe Bazooka
 2109|1|x-jat|Hanappe Bazooka
@@ -24184,6 +24188,7 @@
 11234|1|x-jat|Hundred
 11234|4|en|Hundred
 1001|2|en|Hundred Stories
+11234|4|zh-Hant|Hundred 百武裝戰記
 612|4|pt-BR|Hungry Heart
 612|4|es-419|Hungry Heart
 612|4|fr|Hungry Heart - Wild Striker
@@ -24353,6 +24358,7 @@
 17341|3|x-jat|hyouken
 17341|1|x-jat|Hyouken no Majutsushi ga Sekai o Suberu
 20065|1|x-jat|Hyouken no Majutsushi ga Sekai o Suberu II
+20065|2|x-jat|Hyouken no Majutsushi ga Sekai wo Suberu S2
 14362|1|x-jat|Hyoutan
 8122|2|x-jat|Hyoutan Douji
 4933|1|x-jat|Hyoutan Suzume
@@ -25857,6 +25863,7 @@
 12020|1|x-jat|Island
 12020|4|en|Island
 12020|4|zh-Hans|ISLAND
+12020|4|zh-Hant|ISLAND
 17872|2|en|Island of Childbearing: Where Women Give Birth After 7 Weeks
 14568|4|en|Island of Giant Insects
 6304|3|x-jat|ism
@@ -30236,6 +30243,10 @@
 15600|2|x-zht|Kuai Ba Wo Ge Dai Zou 4
 17503|2|x-zht|Kuai Ba Wo Ge Dai Zou 5
 16674|1|x-zht|Kuang Shen Mo Zun
+18522|2|x-zht|Kuang Wang
+20458|1|x-zht|Kuang Wang 2
+20458|2|en|Kuang Wang 2nd Season
+20458|2|x-zht|Kuang Wang Di Er Ji
 6030|2|pl|Kuba Guzik
 10081|4|ja|KUBBE ~kort animasjon~
 12662|1|x-jat|Kubbe Gachapin Mukku
@@ -40136,6 +40147,7 @@
 1686|4|fr|Nolan
 2902|4|fr|Nom de code : Love City
 15271|2|en|Nomad - Megalo Box 2
+15271|4|zh-Hant|NOMAD MEGALOBOX 機甲拳擊 第二季
 15271|4|ja|NOMAD メガロボクス2
 15271|1|x-jat|Nomad: Megalo Box 2
 15271|4|en|Nomad: Megalobox 2
@@ -54786,6 +54798,7 @@
 19768|1|x-jat|Tetsunabe no Jan!
 4188|1|x-jat|Tetsuro no Kanata
 19632|1|x-jat|Tetsuryo! Meet with Tetsudou Musume
+19632|2|x-jat|Tetsuryou! Meet with Tetsudou Musume
 1440|1|x-jat|Tetsuwan Atom
 1446|1|x-jat|Tetsuwan Atom (1980)
 807|1|x-jat|Tetsuwan Atom (2003)
@@ -56826,6 +56839,7 @@
 16493|2|en|The Westward 3
 17448|2|en|The Westward 4
 18310|2|en|The Westward 5
+18522|4|en|The Westward: Asura
 16045|4|en|The Westward: Goodbye, Monkey King
 18308|4|en|The westward: The Fantasy Cave
 18126|4|en|The Westward: The Kingdom of Shadow
@@ -59916,6 +59930,7 @@
 4529|4|en|Venus to Mamoru
 4783|1|x-jat|Venus Versus Virus
 4783|4|en|Venus Versus Virus
+4783|2|zh-Hant|Venus Versus Virus 除魔維納斯
 4783|2|x-jat|Venus vs. Virus
 620|4|en|Venus Wars
 620|4|fr|Venus Wars
@@ -84593,6 +84608,7 @@
 19123|4|ja|世紀末伝説 ワンダフル・タツノコランド
 386|2|ja|世紀末救世主伝説 北斗の拳
 984|4|ja|世紀末救世主伝説 北斗の拳2
+7435|2|zh-Hant|世紀末超自然學院
 1400|2|ja|世紀末麗魔伝キメイラ
 211|4|zh-Hans|世纪末救世主传说 北斗神拳 剧场版
 2646|2|zh-Hans|世纪末的魔术师
@@ -84858,6 +84874,8 @@
 1230|4|ja|亜紀子
 11577|4|zh-Hant|亞人
 12374|4|zh-Hant|亞人醬有話要說
+10910|2|zh-Hant|亞爾斯蘭戰記
+11699|2|zh-Hant|亞爾斯蘭戰記 風塵亂舞
 5842|4|ja|亡念のザムド
 5842|2|zh-Hans|亡念的扎穆德
 5549|2|zh-Hans|亡者之信
@@ -85462,6 +85480,7 @@
 8658|4|zh-Hant|偽物語
 4108|4|ja|傀儡哀~瞳裸外伝~
 293|2|zh-Hans|傀儡师左近
+13898|4|zh-Hant|傀儡馬戲團
 9757|4|ja|傘編
 9785|2|ja|催○術ZERO
 14432|2|ja|催Ｏ性指導
@@ -85571,6 +85590,7 @@
 10763|4|zh-Hans|元气少女缘结神◎
 8326|4|ja|元気!! 江古田ちゃん
 5816|4|ja|元気爆発ガンバルガー
+10111|4|zh-Hant|元氣囝仔
 9873|2|zh-Hant|元氣少女緣結神 OVA
 10763|4|zh-Hant|元氣少女緣結神◎
 939|4|ja|元祖 爆れつハンター
@@ -87954,6 +87974,7 @@
 4638|4|zh-Hant|地獄少女 二籠
 4638|4|ja|地獄少女 二籠
 12889|4|ja|地獄少女 宵伽
+12889|4|zh-Hant|地獄少女 宵伽
 16012|4|ja|地獄楽
 18090|4|ja|地獄楽 (2026)
 16012|4|zh-Hant|地獄樂
@@ -88176,6 +88197,7 @@
 11131|4|ja|夕やけだん団
 5166|4|ja|夕やけ番長
 6025|4|zh-Hans|夕阳染红的街道
+6025|4|zh-Hant|夕陽染紅的坡道
 19105|2|ja|夕顔
 18675|4|ja|外れスキル《木の実マスター》~スキルの実 (食べたら死ぬ) を無限に食べられるようになった件について~
 14736|4|zh-Hans|外之国的少女
@@ -89649,6 +89671,7 @@
 18170|4|zh-Hant|尋神的旅途
 18942|4|zh-Hant|對我垂涎欲滴的非人少女
 7478|4|zh|對某飛行員的追憶
+10598|4|zh-Hant|對魔導學園35試驗小隊
 12356|4|ja|導きの星
 19930|4|ja|小3アシベ QQゴマちゃん
 6761|4|ja|小さい潜水艦に恋をしたでかすぎるクジラの話
@@ -91143,6 +91166,7 @@
 16600|4|ja|憂国のモリアーティ (2022)
 15774|2|ja|憂国のモリアーティ(2クール目)
 15324|4|zh-Hant|憂國的莫里亞蒂
+15774|2|zh-Hant|憂國的莫里亞蒂 後半
 10891|4|zh-Hant|憑物語
 10891|4|ja|憑物語 よつぎドール
 19108|4|ja|憧れの女上司が、相部屋出張の隣のベッドで絶倫男に寝取られている
@@ -91243,6 +91267,7 @@
 17820|4|zh-Hans|我喜欢的女孩忘记戴眼镜
 13534|4|zh-Hans|我喜欢的是妹妹但不是妹妹
 17820|2|zh-Hant|我喜歡的女孩忘記戴眼鏡
+13534|4|zh-Hant|我喜歡的妹妹不是妹妹
 19736|4|zh-Hant|我回來了，他又來打擾了！
 18216|4|zh-Hans|我回来了，欢迎回来
 18142|4|zh-Hans|我在仙界挣积分
@@ -91329,6 +91354,7 @@
 19677|4|zh-Hans|我的同学是美人鱼 第二季
 20323|4|zh-Hans|我的坟冢能滋养修为
 13588|4|zh|我的天劫女友
+13217|4|zh-Hant|我的女友是個過度認真的處女 Bitch
 2533|4|zh|我的女神
 27|2|zh-Hans|我的女神
 27|4|zh-Hans|我的女神 OVA
@@ -93838,6 +93864,7 @@
 19983|4|ja|正反対な君と僕 (2026)
 19010|2|zh-Hans|正相反的你与我
 11762|4|zh-Hans|正确的KADO
+11762|4|zh-Hant|正確的卡多
 18918|4|zh-Hans|正经少主的幸福生活
 1576|4|ja|正義を愛する者 月光仮面
 19069|4|zh-Hant|正義使者 -我的英雄學院之非法英雄-
@@ -94496,6 +94523,7 @@
 14519|2|zh-Hans|满脑都是○○的我没办法谈恋爱
 10169|4|zh-Hans|滨虎
 17726|2|zh-Hant|滿懷美夢的少年是現實主義者
+14717|4|zh-Hant|滿月之戰
 14798|4|zh-Hant|滿溢的水果塔
 15963|4|ja|漁港の肉子ちゃん
 15212|4|zh-Hant|漁童
@@ -94771,6 +94799,7 @@
 11650|4|zh|烏蘭其其格
 1824|4|zh-Hant|烏龍派出所
 1824|4|zh-nan|烏龍派出所
+11851|4|zh-Hant|烙印勇士
 19291|4|zh-Hans|烟囱镇的普佩尔~约定的钟楼
 12605|3|zh-Hans|烟花
 13795|4|zh-Hans|烟草
@@ -95121,6 +95150,10 @@
 9186|4|zh-Hans|狂欢节/黑色嘉年华
 16528|4|ja|狂気山脈 ネイキッド・ピーク
 16403|4|zh-Hans|狂热深渊-迷失的孩子
+18522|2|zh-Hans|狂王
+20458|2|zh-Hans|狂王 第2季
+20458|2|zh-Hans|狂王 第二季
+20458|4|zh-Hans|狂王2
 18522|2|zh-Hans|狂王Asura
 2166|2|zh-Hans|狂砂小子
 16674|4|zh-Hans|狂神魔尊
@@ -95488,6 +95521,7 @@
 15788|2|ja|理系が恋に落ちたので証明してみた. r=1-sinθ
 15210|4|ja|理解者
 15510|4|ja|琥珀色のハンター THE ANIMATION
+13537|4|zh-Hant|琴之森 2018
 14193|4|zh-Hant|琴之森 第二季
 9394|4|ja|琴浦さん
 9394|4|zh-Hans|琴浦小姐
@@ -97298,6 +97332,7 @@
 9854|4|ja|義風堂々!! 兼続と慶次
 13375|4|ja|羽
 18245|4|ja|羽ばたけピータン
+13783|4|zh-Hant|羽球戰爭！
 16527|2|zh-Hans|羽球青春
 12480|4|ja|翔ちゃん空をとぶ
 8665|4|ja|翔べ! ペガサス
@@ -97563,8 +97598,10 @@
 16196|4|zh-Hans|舞动不止
 12700|4|zh-Hans|舞动青春
 16196|4|zh-Hant|舞動不止
+12700|4|zh-Hant|舞動青春
 15476|4|ja|舞妓さんちのまかないさん
 4603|4|ja|舞姫
+11761|4|zh-Hant|舞武器舞亂伎
 9721|4|zh-Hans|舞蹈精灵clinoppe
 11997|4|ja|舟を編む
 16983|4|zh-Hant|航海王劇場版：紅髮歌姬
@@ -98847,6 +98884,7 @@
 8842|4|zh-Hant|軍火女王
 14237|4|ja|軒轅剣 蒼き曜
 14237|2|ja|軒轅剣・蒼き曜
+14237|4|zh-Hant|軒轅劍 蒼之曜
 19942|3|ja|転ゴブ
 17873|3|ja|転スラ コリウスの夢
 16785|3|ja|転剣
@@ -99029,6 +99067,7 @@
 13144|4|zh-Hans|迷你偶像 OAD
 10090|4|zh-Hans|迷你先导者
 14489|4|zh-Hans|迷你刀使
+14489|2|zh-Hant|迷你馭刀巫女
 13766|4|zh|迷域行者
 6018|4|zh-Hans|迷宫塔 ～乌鲁克之剑～
 5503|4|zh-Hans|迷宫塔 ～乌鲁克之盾～
@@ -99370,6 +99409,7 @@
 11170|4|zh-Hans|野良神 ARAGOTO
 11860|4|zh-Hans|野良神 ARAGOTO OAD
 10179|4|zh-Hans|野良神 OAD
+11864|4|zh-Hant|野良與皇女與流浪貓之心
 2685|4|zh-Hans|野蛮女
 17474|4|ja|金の国 水の国
 17474|4|zh-Hans|金之国 水之国
@@ -99584,6 +99624,7 @@
 3985|4|ja|鍵姫物語 永久アリス輪舞曲[ロンド]
 16264|4|zh-Hant|鍵等
 17089|2|zh-Hant|鍵等 第二季
+10971|4|zh-Hant|鎖鏈戰記 赫克瑟塔斯之光
 460|4|ja|鎧伝サムライトルーパー
 3380|4|ja|鎧伝サムライトルーパーMESSAGE
 3377|4|ja|鎧伝サムライトルーパー外伝
@@ -100562,6 +100603,7 @@
 14537|4|zh-Hant|馬娘四格
 11519|4|ja|馬鹿馬鹿馬鹿な世界
 13172|2|zh-Hant|馭刀巫女
+15318|2|zh-Hant|馭刀巫女 刻印一閃的燈火
 13672|4|ja|駅メモ!
 18012|4|ja|駒田蒸留所へようこそ
 8745|4|ja|駕籠真太郎アニメ作品集
@@ -100946,6 +100988,7 @@
 458|4|zh-Hans|魔法使的条件
 5830|4|zh-Hans|魔法使的条件 夏季的天空
 458|4|zh-Hant|魔法使的條件
+5830|2|zh-Hant|魔法使的條件 夏日的天空
 5830|2|zh-Hans|魔法使的注意事项~夏之空~
 5830|2|zh-Hans|魔法使的注意事项~夏日的天空~
 18599|4|zh-Hant|魔法使的約定
@@ -101608,6 +101651,8 @@
 14626|4|zh-Hans|龙珠超：超级人造人
 12359|4|zh-Hans|龙的牙医
 19888|4|zh-Hans|龙破九天
+18522|2|zh-Hans|龙神万相之狂王
+20458|2|zh-Hans|龙神万相之狂王2
 19750|2|zh-Hans|龙神万相之龙魂
 1068|4|zh-Hans|龙虎之拳
 5909|2|zh-Hans|龙虎斗
