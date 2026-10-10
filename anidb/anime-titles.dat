@@ -1,4 +1,4 @@
-# created: Fri Oct  9 03:00:01 2026
+# created: Sat Oct 10 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -5755,7 +5755,7 @@
 12414|4|en|Berserk (Season 2)
 7991|2|en|Berserk Movie
 17687|4|en|Berserk of Gluttony
-20026|2|en|Berserk of Gluttony 2
+20026|2|en|Berserk of Gluttony Season 2
 7991|4|de|Berserk: Das goldene Zeitalter
 7991|1|x-jat|Berserk: Ougon Jidai Hen
 7991|2|x-jat|Berserk: Ougon Jidai Hen - Memorial Edition
@@ -7236,7 +7236,7 @@
 1501|4|en|Bounty Hunter: the Hard
 20274|1|x-jat|Bousei no Volicia
 17687|1|x-jat|Boushoku no Berserk
-20026|1|x-jat|Boushoku no Berserk 2
+20026|1|x-jat|Boushoku no Berserk Season 2
 7601|1|x-jat|Bousou Sengokushi
 2329|4|fr|Bouton d`or
 3976|3|x-jat|Bow
@@ -23982,6 +23982,7 @@
 13545|2|en|How Do You Live?
 14603|4|en|How Heavy Are the Dumbbells You Lift?
 18228|4|en|How I Attended an All-Guy`s Mixer
+20461|2|en|How I Became King by Eating Monsters
 18587|2|en|How I made a Harem of Sex Friends
 13757|4|en|How Not to Summon a Demon Lord
 13757|4|de|How Not to Summon a Demon Lord
@@ -27049,7 +27050,7 @@
 20081|2|x-jat|Juuou Mujin Dandivine
 10710|1|x-jat|Juuou Mujin no Fafnir
 4226|1|x-jat|Juuousei
-19995|1|x-jat|Juurin Oukoku
+19995|1|x-jat|Juurin Oukoku: Elf Oukoku wa Kyodai Naedoko ni
 9022|1|x-jat|Juusen Battle Monsuno
 9795|1|x-jat|Juusen Battle Monsuno (2013)
 18732|1|x-jat|Juusen Battle Monsuno (2014)
@@ -37266,6 +37267,7 @@
 11130|3|x-jat|monmusu
 11926|3|x-jat|monmusu ova
 12816|1|x-jat|Monmusu Quest!
+20461|3|x-jat|monniku
 18546|1|x-jat|Mono
 18546|4|ja|mono
 18546|4|en|Mono
@@ -37376,6 +37378,7 @@
 11130|4|en|Monster Musume: Everyday Life with Monster Girls
 11926|2|en|Monster Musume: Everyday Life with Monster Girls OVA
 9262|1|x-jat|Monster ni Natta Domerika
+20461|1|x-jat|Monster no Niku o Kutte Itara Oui ni Tsuita Ken
 4940|2|en|Monster Princess
 2908|4|en|Monster Rancher
 2908|4|pt|Monster Rancher
@@ -38368,6 +38371,7 @@
 19492|2|en|My Stepmother and Stepsisters Aren`t Wicked
 20444|2|en|My Sweet Marriage to My Ex-Nemesis
 13613|4|en|My Sweet Tyrant
+19839|2|en|My Sword Saint Master Is Too Cute to Live With!
 12912|2|en|My Teacher, Mr. T
 9310|4|fr|My Teen Romantic Comedy SNAFU
 9310|4|en|My Teen Romantic Comedy: SNAFU
@@ -39533,6 +39537,7 @@
 19922|2|x-zht|Ni Zai Xing Guang Shen Chu
 19922|1|x-zht|Ni Zai Xingguang Shenchu
 17335|1|x-zht|Ni Zhenshi Ge Tiancai
+19865|2|pt|Nia Liston, a Menina Implacável
 19865|2|en|Nia Liston: The Merciless Maiden
 17594|1|x-zht|Nian Shou da Zuozhan
 18846|1|x-zht|Nian Wushuang
@@ -46246,6 +46251,7 @@
 1386|2|en|Red Photon Zillion: Burning Night
 18809|2|en|Red Ranger Isekai
 854|4|en|Red Riding Hood Chacha
+20263|4|en|Red Riding Hood: A Detective Story
 19894|4|en|Red River
 15564|1|x-kot|Red Shoes
 15564|2|en|Red Shoes And The Seven Dwarfs
@@ -47638,6 +47644,7 @@
 17421|1|x-jat|Saikin Yatotta Maid ga Ayashii
 9546|1|x-jat|Saikin, Imouto no Yousu ga Chotto Okashiinda ga.
 10350|1|x-jat|Saikin, Imouto no Yousu ga Chotto Okashiinda ga. Moa no Hatsukoi Memory? 16 Nenme no Happy Christmas
+20459|1|x-jat|Saikon Shounin o Youkyuushimasu
 4247|2|x-jat|Saikoro Robot Kombock
 4247|2|x-jat|Saikorobot Combock
 19142|2|x-jat|Saikyosoubi
@@ -49630,6 +49637,7 @@
 8483|3|x-jat|ShanaF
 17501|3|x-jat|shanfro
 18578|2|x-jat|Shanfro 2
+19263|3|x-jat|shanfro 3
 6267|1|x-jat|Shangri-La
 6267|4|en|Shangri-La
 13140|1|x-jat|Shangri-La (2011)
@@ -54306,7 +54314,7 @@
 10820|2|en|Teekyuu 6
 10820|2|en|Teekyuu 7
 3195|2|en|Teenage Goddess
-19397|2|en|Teenage Mercenary
+19397|4|en|Teenage Mercenary
 2641|4|en|Teenage Mutant Ninja Turtles - Superman Legend
 20265|4|en|Teenieping: Legend of the Whale Heartstone
 19573|1|x-jat|Tefuda ga Oome no Victoria
@@ -55087,6 +55095,8 @@
 7258|2|en|The Borrower Arrietty
 7258|2|en|The Borrowers
 1095|4|en|The Boundary Between Dream and Reality
+20460|1|x-jat|The Boxer
+20460|4|en|The Boxer
 10967|4|en|The Boy and the Beast
 9064|2|en|The Boy and the Blue Sea
 13545|4|en|The Boy and the Heron
@@ -56318,6 +56328,7 @@
 17159|2|en|The Reincarnation of the Strongest Onmyoji
 14430|4|en|The Relative Worlds
 13040|2|en|The Relative Worlds (2017)
+20459|4|en|The Remarried Empress
 4417|2|en|The Rescue Kids
 5152|2|en|The Researcher`s Search: Perspektivenbox
 10704|4|en|The Residence of Erotic Art
@@ -66251,6 +66262,7 @@
 15530|2|ru|Королевский рейд: Наследники воли
 17846|4|ru|Королевство руин
 14391|2|ru|Король демонов, попытайтесь снова!
+10744|4|uk|Король Магічних Стріл та Ванадіс
 7319|2|ru|Король сорока восьми сисек
 7031|2|ru|Король Терний
 92|4|uk|Король шаманів
@@ -67512,7 +67524,6 @@
 16296|4|ru|Повелитель 4
 13958|4|ru|Повелитель Вермилиона: Алый король
 2190|4|ru|Повелитель призраков
-10744|4|uk|Повелитель стріл та Діва Війни
 9466|2|ru|Повелитель тьмы на подработке!
 2426|4|bg|Повест за Генджи
 4492|2|ru|Повесть о бедных сестрах
@@ -72661,6 +72672,7 @@
 3448|2|ko|대실금 헬레나
 1847|2|ko|대악사
 8280|4|ko|더 무비 케이온
+20460|4|ko|더 복서
 10387|2|ko|더 이상 끼워서는 안돼 - 별에게 부탁했더니 이렇게 화가 나 버렸어!
 129|4|ko|더 파이팅
 6153|4|ko|더 파이팅 New Challenger
@@ -74697,6 +74709,7 @@
 13270|4|ko|장난을 잘 치는 타카기양
 15496|4|ko|장황성희 이스피어 ~음학의 세뇌 개조~
 11712|4|ko|재와 환상의 그림갈
+20459|4|ko|재혼 황후
 271|2|ko|잿빛 날개의 연맹
 16256|4|ko|쟈히님은 기죽지 않아!
 14661|2|ko|저 너머의 아스트라
@@ -78498,6 +78511,7 @@
 19990|4|ja|ザ・ファブル 2
 4408|4|ja|ザ・フロッグマンショー
 3508|2|ja|ザ・ボーグマン ラストバトル
+20460|4|ja|ザ・ボクサー
 17711|2|ja|ザ・マージナルサービス
 9896|4|ja|ザ・ミッドナイト★アニマル
 11745|2|ja|ザ・リフレクション
@@ -83322,6 +83336,7 @@
 19466|4|ja|モンスターストライク デッドバースリローデッド
 15740|2|ja|モンスターストライク ハレルヤ -運命の選択-
 9262|4|ja|モンスターになったドメリカ
+20461|4|ja|モンスターの肉を食っていたら王位に就いた件
 11599|4|ja|モンスターハンターストーリーズ RIDE ON
 4695|4|ja|モンスターファーム~伝説[レジェンド]への道~
 2908|4|ja|モンスターファーム~円盤石の秘密~
@@ -83339,6 +83354,7 @@
 8475|4|ja|モンハン日記 ぎりぎりアイルー村G
 12816|4|ja|もんむす・くえすと!
 15266|3|ja|モン医者
+20461|3|ja|モン肉
 935|4|ja|ヤーリマクイーン
 14053|4|ja|やがて君になる
 9154|3|ja|やきカプ
@@ -85849,6 +85865,7 @@
 1111|4|ja|円盤皇女ワるきゅーレ 十二月の夜想曲
 2775|4|ja|円盤皇女ワるきゅーレ 星霊節の花嫁
 4375|4|ja|円盤皇女ワるきゅーレ 時と夢と銀河の宴
+20459|4|ja|再婚承認を要求します
 16424|4|zh-Hant|再得一勝！
 16424|4|zh-Hans|再得一胜！
 4004|4|zh-Hans|再续前缘
@@ -88340,7 +88357,9 @@
 16699|4|zh-Hans|大世界
 16541|4|zh-Hans|大主宰
 18028|2|zh-Hans|大主宰 年番1
+19893|2|x-zht|大主宰 年番2
 19893|2|zh-Hans|大主宰 第二季
+19893|2|x-zht|大主宰2
 18028|4|zh-Hans|大主宰年番
 19893|4|zh-Hans|大主宰年番2
 15697|4|ja|大人にゃ恋の仕方がわからねぇ!
@@ -92946,7 +92965,7 @@
 7443|4|zh-Hans|暴力宇宙海贼
 7601|4|ja|暴走戦國史
 17687|4|ja|暴食のベルセルク
-20026|4|ja|暴食のベルセルク 2
+20026|4|ja|暴食のベルセルク Season 2
 17687|4|zh-Hans|暴食狂战士
 17687|2|zh-Hant|暴食狂戰士
 11827|4|zh-Hant|曆物語
@@ -98862,7 +98881,7 @@
 9721|4|ja|踊り子クリノッペ
 20228|4|ja|踊る千年家族
 13753|4|ja|踏切時間
-19995|4|ja|蹂躙王国
+19995|4|ja|蹂躙王国 ~エルフ王国は巨大苗床に~
 16981|2|zh-Hant|躍動青春
 17828|2|zh-Hans|身为VTuber的我因为忘记关台而成了传说
 16564|2|zh-Hans|身为女主角 讨厌的女主角与秘密的工作
