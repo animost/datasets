@@ -1,4 +1,4 @@
-# created: Sat Oct 10 03:00:01 2026
+# created: Sun Oct 11 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -12323,6 +12323,7 @@
 7537|2|de|Detektiv Conan: Osaka Okonomiyaki-Odyssee
 16841|4|cs|Detektiv Conan: Pachatel Hanzawa
 7232|2|de|Detektiv Conan: Shinichi und Ran — Die Erinnerungen an Mahjongsteine und Tanabata
+20414|4|de|Detektiv Conan: The Counterfeit Crime Case of Ultra 30
 16841|4|de|Detektiv Conan: The Culprit Hanzawa
 15999|4|de|Detektiv Conan: The Special – Das scharlachrote Alibi
 16842|4|cs|Detektiv Conan: Zero v jednom kole
@@ -13879,6 +13880,7 @@
 19614|1|x-jat|Dr. Stone: Science Future (2026)
 15305|1|x-jat|Dr. Stone: Stone Wars
 15305|4|en|Dr. Stone: Stone Wars
+20462|1|x-jat|Dr. Stone: Terraforming
 7572|2|x-jat|Dr. Typhoon
 7572|4|ja|Dr.(ドク)タイフーン
 14491|4|ja|Dr.STONE
@@ -13888,6 +13890,7 @@
 19248|4|ja|Dr.STONE SCIENCE FUTURE (2025)
 19614|4|ja|Dr.STONE SCIENCE FUTURE (2026)
 15305|4|ja|Dr.STONE STONE WARS
+20462|4|ja|Dr.STONE TERRAFORMING
 16164|4|zh-Hant|Dr.Stone 新石紀 (龍水)
 18336|4|zh-Hant|Dr.STONE 新石紀 SCIENCE FUTURE
 17053|4|zh-Hant|Dr.STONE 新石紀 第三季
@@ -35376,6 +35379,7 @@
 602|4|ja|MAZE☆爆熱時空
 459|4|ja|MAZE☆爆熱時空 (1997)
 3374|4|ja|MAZE☆爆熱時空 天変脅威の大巨人[ジャイアント]
+20465|1|x-jat|Mazenchu
 16084|4|ja|MAZICA PARTY
 16084|1|x-jat|Mazica Party
 5945|3|x-kot|Mazinga 7
@@ -38908,6 +38912,8 @@
 9588|2|x-jat|Naruto the Movie: The Last
 239|2|x-jat|Naruto TV
 9685|2|en|Naruto Ultimate Ninja 3 OVA - Finally a Clash! Jonin vs. Genin!
+20464|4|ja|NARUTO x NINKŪ
+20464|1|x-jat|Naruto x Ninkuu
 8159|2|x-jat|Naruto x Uniqlo
 8159|1|x-jat|Naruto x UT
 9685|4|ja|NARUTO ナルティメットヒーロー3 ついに激突! 上忍VS下忍!! 無差別大乱戦大会開催!!
@@ -42732,6 +42738,7 @@
 10541|4|en|Paulette`s Chair
 17425|2|en|Pause! Let Me Check the Walkthrough First
 19938|4|en|Paw & Palaces
+19938|2|en|Paw and Palaces
 19938|2|en|Paws & Palaces
 15122|1|x-zht|Paxiu de Huangying
 16724|2|en|Payback 45″
@@ -63352,6 +63359,7 @@
 1084|1|x-jat|Yuu Yuu Hakusho (1993)
 14506|1|x-jat|Yuu Yuu Hakusho Kanzen Shinsaku Animation
 753|1|x-jat|Yuu Yuu Hakusho: Meikai Shitou Hen - Honoo no Kizuna
+20463|1|x-jat|Yuu-san chi! from Yuu-hachi
 828|3|x-jat|yuugen
 828|1|x-jat|Yuugen Kaisha
 828|3|x-jat|yuugenk
@@ -82806,6 +82814,7 @@
 1295|4|ja|マスターモスキートン
 684|4|ja|マスターモスキートン`99
 15389|3|ja|マズレ
+20465|4|ja|マゼンチュ
 11638|5|ja|まそうがくえん ハイブリッド・ハート
 18812|4|ja|マゾメスソープで逢いましょう!
 62|4|ja|またまたセイバーマリオネットJ
@@ -83451,6 +83460,7 @@
 19440|3|ja|ゆうかわ
 14998|5|ja|ゆうき×あおい キメラプロジェクト
 14634|5|ja|ゆうきのはながひらくとき やなせたかしとあんぱんまんのものがたり
+20463|4|ja|ゆうさんち！from 遊ハち
 9932|4|ja|ゆうとくんがいく
 12740|4|ja|ゆかいなアニマルバス
 13111|4|ja|ゆかいなアニマルバス (2017)
