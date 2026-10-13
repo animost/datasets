@@ -1,4 +1,4 @@
-# created: Mon Oct 12 03:00:02 2026
+# created: Tue Oct 13 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -3287,6 +3287,7 @@
 14397|3|x-jat|aobuta movie
 17640|3|x-jat|aobuta movie 2
 17862|3|x-jat|aobuta movie 3
+18300|3|x-jat|aobuta season 2
 14519|3|x-jat|aochan
 910|3|en|aod
 8148|3|x-jat|AoEx
@@ -6743,6 +6744,7 @@
 15993|1|x-jat|Blue Period
 15993|4|en|Blue Period
 2107|2|en|Blue Princess
+16053|4|zh-Hant|BLUE REFLECTION : 澪
 16053|1|x-jat|Blue Reflection Ray
 16053|4|en|Blue Reflection Ray
 16053|4|ja|BLUE REFLECTION RAY/澪
@@ -16250,6 +16252,7 @@
 14627|4|ja|Fairy gone
 14627|4|en|Fairy Gone
 14627|4|zh-Hans|Fairy gone
+14627|4|zh-Hant|Fairy gone
 14916|4|en|Fairy Gone (2019)
 14916|4|ja|Fairy gone (2019)
 14916|1|x-jat|Fairy Gone (2019)
@@ -31667,6 +31670,7 @@
 1919|4|fr|Le tour du monde de Lydie
 2706|4|fr|Le tour du monde en 80 jours
 17040|4|fr|Le tunnel des souhaits
+11186|4|fr|Le Typhon de Noruda
 9514|4|fr|Le Vent se lève
 10285|2|fr|Le véritable visage de Shiiba-san, avec Lèvres de Petite Sœur
 775|4|fr|Le violoniste d`Hamelin
@@ -40359,6 +40363,8 @@
 6368|2|x-jat|Nudl Nude
 6368|1|x-jat|Nudlnude
 6371|1|x-jat|Nudlnude 2
+20466|1|x-jat|Nue no Onmyouji
+20466|2|en|Nue`s Exorcist
 17268|4|es|Nuestro Amanecer
 3652|4|es|Nuevos Hermanos
 13119|1|x-jat|Nui Nui Hinobori San Kyoudai
@@ -88241,11 +88247,15 @@
 10447|4|ja|夏目友人帳 いつかゆきのひに
 9904|4|ja|夏目友人帳 ニャンコ先生とはじめてのおつかい
 12009|4|ja|夏目友人帳 伍
+12009|4|zh-Hant|夏目友人帳 伍
 8286|4|ja|夏目友人帳 参
+8286|4|zh-Hant|夏目友人帳 參
 18089|4|ja|夏目友人帳 漆
 15732|4|ja|夏目友人帳 石起こしと怪しき来訪者
 8667|4|ja|夏目友人帳 肆
+8667|4|zh-Hant|夏目友人帳 肆
 12675|4|ja|夏目友人帳 陸
+12675|4|zh-Hant|夏目友人帳 陸
 8520|4|ja|夏色えがおで1, 2, Jump!
 8804|4|ja|夏色キセキ
 8659|4|ja|夏色サプライズ
@@ -88365,6 +88375,7 @@
 8413|2|ja|夢喰い-つるみく式ゲーム製作-
 7725|4|ja|夢喰いメリー
 15059|4|zh-Hant|夢夢貓 Mewkledreamy
+11365|4|zh-Hant|夢幻之星 Online 2
 11025|4|ja|夢幻戦士ヴァリス
 5173|4|ja|夢幻紳士 冒険活劇編
 336|4|zh|夢幻街少女
@@ -88446,6 +88457,7 @@
 18146|4|ja|大室家
 15402|4|ja|大家さんと僕
 11595|4|ja|大家さんは思春期!
+10289|2|zh-Hant|大家集合！Falcom 學園
 10289|4|zh-Hans|大家集合！Falcom学园
 7009|4|zh-Hant|大小姐×執事!
 7009|4|zh-Hans|大小姐x执事！
@@ -88753,6 +88765,7 @@
 4383|2|zh-Hans|天翔少女
 16750|4|zh-Hans|天荒战神
 14858|4|ja|天華百剣 ~めいじ館へようこそ!~
+14858|2|zh-Hant|天華百劍 ～歡迎來到明治館！～
 14402|4|zh-Hans|天行九歌
 14985|4|zh-Hans|天行九歌 第二季
 15452|4|zh-Hans|天谕
@@ -91356,6 +91369,7 @@
 16512|2|zh-Hant|我家師傅沒有尾巴
 5557|4|zh-Hans|我家有个狐仙大人
 18491|4|zh-Hans|我家有个阿宅女忍者
+5557|4|zh-Hant|我家有個狐仙大人
 10972|4|zh-Hant|我家有個魚乾妹
 13106|4|zh-Hant|我家有個魚乾妹 R
 10635|4|zh-Hans|我家浴缸的二三事
@@ -93689,6 +93703,7 @@
 15710|4|zh-Hans|樱花革命～花开时的少女们～
 12431|2|zh-Hant|橘色奇蹟 -未來-
 11938|4|zh-Hans|橘色奇迹
+15906|4|zh-Hant|橘色榮耀！
 153|2|ja|橙路
 153|4|zh-Hans|橙路
 284|4|zh-Hans|橙路 那个夏天的开始
@@ -95875,6 +95890,7 @@
 9755|4|ja|発想編
 4667|4|ja|発明BOYカニパン
 1664|4|zh|發明工坊
+11679|4|zh-Hant|發條精靈戰記 天鏡的極北之星
 8438|2|ja|白い心ペック
 2360|4|ja|白い牙 ホワイトファング物語
 15987|4|ja|白い砂のアクアトープ
@@ -95985,6 +96001,7 @@
 13896|4|zh-Hans|百炼霸王与圣约女武神
 20296|4|zh|百炼飞升录
 20297|4|zh|百炼飞升录二季
+11756|4|zh-Hant|百無禁忌！女高中生私房話
 3507|4|ja|百獣王 ゴライオン
 18648|4|zh-Hans|百米。
 2028|2|ja|百舌鳥の贄
@@ -97092,6 +97109,7 @@
 14728|4|zh-Hant|繼怪怪守護神
 16457|4|zh-Hant|繼母的拖油瓶是我的前女友
 12790|4|zh-Hant|續 刀劍亂舞 - 花丸 -
+6185|4|zh-Hant|續 夏目友人帳
 13691|4|zh-Hant|續‧終物語
 5535|2|zh-Hans|红
 5535|4|zh-Hans|红 Kurenai
@@ -98759,6 +98777,7 @@
 2470|4|zh-Hans|超力机器人 伽拉特
 14308|4|zh-Hans|超可动女孩1/6
 14308|4|ja|超可動ガール1/6
+14308|4|zh-Hant|超可動女孩 1/6
 3483|4|ja|超合体魔術ロボ ギンガイザー
 10394|4|zh-Hans|超地下偶像
 1314|4|ja|超変身コス∞プレイヤー
@@ -101428,6 +101447,7 @@
 17783|4|ja|鴨乃橋ロンの禁断推理
 18350|4|ja|鴨乃橋ロンの禁断推理 2nd Season
 17783|4|zh-Hant|鴨乃橋論的禁忌推理
+20466|4|ja|鵺の陰陽師
 17895|4|ja|鶴が舞う夜に
 11705|4|ja|鶴下絵和歌巻
 5786|4|zh-Hant|鶺鴒女神
