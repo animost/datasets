@@ -1,4 +1,4 @@
-# created: Wed Oct 14 03:00:01 2026
+# created: Thu Oct 15 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -2410,7 +2410,7 @@
 2215|4|es|Alí Babá y los 40 ladrones
 2215|2|de|Ali Cats und der fliegende Professor
 271|4|it|Ali Grigie
-2215|2|en|Alibaba and the Forty Theives
+2215|2|en|Alibaba and the Forty Thieves
 2215|4|de|Alibaba und die 40 Räuber
 2215|2|en|Alibaba`s Revenge
 4448|1|x-jat|Alice
@@ -24081,6 +24081,7 @@
 7382|3|x-jat|HSOTDTV
 13276|3|x-jat|htr
 1173|2|x-unk|https://en.wikipedia.org/wiki/Bakus%C5%8D_Ky%C5%8Ddai_Let`s_&_Go!!
+5133|2|x-unk|https://www.imdb.com/title/tt1804031/?ref_=fn_t_1
 3296|3|en|HU
 18905|1|x-zht|Hu He Yao Shi Lu
 17102|1|x-zht|Hu Li Da Lieren
@@ -47605,6 +47606,7 @@
 12596|1|x-jat|Sagurare Otome The Animation
 12923|1|x-jat|Sai (Zenpen): Mawaru, Meguru, Sono Kaku e
 20243|1|x-zht|Sai Ngoi
+20244|2|x-unk|Sai Ngoi (2025)
 19102|1|x-jat|Sai-Kyo-Oh! Zukan: The Ultimate Battles
 19289|1|x-jat|Sai-Kyo-Oh! Zukan: The Ultimate Battles - Tamashi no Sakebi!
 19288|1|x-jat|Sai-Kyo-Oh! Zukan: The Ultimate Tournament
@@ -47930,6 +47932,7 @@
 399|3|x-jat|Saiyuuki Requiem
 4907|2|x-jat|Saiyuuki Songokuu Tai Hakkotsu Fujin
 6846|1|x-jat|Saiyuuki: Son Gokuu Monogatari
+7927|2|x-jat|Saiyuuki: Tessen Koushu no Maki
 88|3|en|SAK
 89|2|en|sak 2
 1182|3|en|SAK Encore
@@ -48310,6 +48313,7 @@
 1232|1|x-jat|Sangokushi Dai Ni Bu Choukou Moyu!
 5408|1|x-jat|Sangokushi Dai San Bu: Haruka Naru Daichi
 1599|2|es|Sangre Real
+20470|1|x-zht|Sanguo de Xingkong
 20211|1|x-zht|Sanguo Sha: Taiping Tianshu
 14888|2|x-zht|Sanguo Yanyi
 18678|1|x-zht|Sanguo Yanyi Di Er Ji: Zhulu Zhongyuan
@@ -48339,6 +48343,7 @@
 12781|4|en|Sanrio Boys
 12781|1|x-jat|Sanrio Danshi
 17344|2|fr|Sans répit – Dans les songes d’une nuit d’été
+16641|2|x-zht|Sansan de Ezuoju Chufang
 14584|1|x-jat|Sansha Mendan: Rensa Suru Chijoku Choukyou no Gakuen
 11568|1|x-jat|Sansha San`you
 11568|2|x-jat|Sansha Sanyou
@@ -49664,6 +49669,7 @@
 17501|3|x-jat|shanfro
 18578|2|x-jat|Shanfro 2
 19263|3|x-jat|shanfro 3
+20469|1|x-zht|Shanghai Gushi
 6267|1|x-jat|Shangri-La
 6267|4|en|Shangri-La
 13140|1|x-jat|Shangri-La (2011)
@@ -54665,7 +54671,6 @@
 18026|2|x-jat|Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta
 17569|1|x-jat|Tensei Oujo to Tensai Reijou no Mahou Kakumei
 19201|1|x-jat|Tensei Shita Daiseijo wa, Seijo de Aru Koto o Hitakakusu
-19201|2|x-jat|Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu
 17702|2|x-jat|Tensei Shitara Dai Nana Ōji Datta no de, Kimama ni Majutsu o Kiwamemasu
 17702|1|x-jat|Tensei Shitara Dai Nana Ouji Datta no de, Kimama ni Majutsu o Kiwamemasu
 18694|1|x-jat|Tensei Shitara Dai Nana Ouji Datta no de, Kimama ni Majutsu o Kiwamemasu Dai 2 Ki
@@ -62258,7 +62263,7 @@
 19804|4|en|Yao-Chinese Folktales 2
 19804|2|en|Yao-Chinese Folktales II
 12778|1|x-zht|Yaoguai Mingdan
-14078|1|x-jat|Yaoguai Mingdan 2nd Season
+14078|1|x-zht|Yaoguai Mingdan 2nd Season
 3956|2|x-unk|Yap! Bun Bun
 18571|1|x-jat|Yarakashi
 5678|2|tr|Yaramaz Öpücük
@@ -63266,6 +63271,7 @@
 18337|1|x-jat|Yumemiru Otome
 5055|1|x-jat|Yumemiru Topo Gigio
 5055|2|x-jat|Yumemiru Toppo Jijo
+20468|1|x-jat|Yumene Connect
 6966|3|x-jat|Yumepati
 8165|3|x-jat|yumepati ova
 7922|3|x-jat|yumepati s2
@@ -83519,6 +83525,7 @@
 18101|4|ja|ゆびさきと恋々
 9392|4|ja|ゆめくり
 4838|4|ja|ゆめだまや奇談
+20468|4|ja|ゆめねこねくと
 8077|4|ja|ユメミル, アニメ onちゃん
 8078|4|ja|ユメミル, アニメ onちゃん シーズン2
 8077|2|ja|ユメミル, アニメ「onちゃん」
@@ -84456,6 +84463,7 @@
 14888|4|zh-Hans|三国演义
 18640|4|zh-Hans|三国演义 第三季
 18678|4|zh-Hans|三国演义 第二季 逐鹿中原
+20470|4|zh-Hans|三国的星空
 10480|4|zh-Hant|三坪房間的侵略者！？
 10480|4|zh-Hans|三坪房间的侵略者！
 17581|4|zh-Hans|三寸人间
@@ -84481,6 +84489,7 @@
 19206|4|ja|上伊那ぼたん, 酔へる姿は百合の花
 19206|4|zh-Hans|上伊那牡丹，酒醉身姿似百合花般
 19206|4|zh-Hant|上伊那牡丹，醉姿如百合
+20469|4|zh-Hans|上海故事
 18768|4|zh-Hans|上班族去了异世界后成了四天王
 16376|4|zh-Hans|上班族想被治愈
 850|4|zh-Hans|上班族金太郎
@@ -85581,6 +85590,7 @@
 18370|4|zh-Hans|傲世九重天
 18049|4|zh-Hans|傲娇好色
 17075|4|zh-Hans|傲娇恶役大小姐莉泽洛特与实况转播远藤君和解说员小林
+7315|2|zh-Hant|傳說的勇者的傳說
 15206|2|zh-Hant|傳頌之物 二人的白皇
 19442|4|ja|傷だらけ聖女より報復をこめて
 20433|4|ja|傷だらけ聖女より報復をこめて Season2
@@ -89175,7 +89185,7 @@
 4710|4|ja|妖怪伝 猫目小僧
 13017|4|zh-Hans|妖怪公寓的优雅日常
 12778|4|zh|妖怪名单
-14078|4|ja|妖怪名单第2季
+14078|4|zh-Hans|妖怪名单第2季
 15419|4|zh-Hans|妖怪图鉴
 17499|4|zh-Hans|妖怪图鉴！
 14754|4|zh-Hans|妖怪学园Y 猫也能成为HERO 吗
@@ -89882,6 +89892,7 @@
 3064|4|ja|小梅ちゃんが行く!!
 11323|4|ja|小森さんは断れない!
 11323|4|zh-Hans|小森同学拒绝不了！
+11323|4|zh-Hant|小森同學拒絕不了！
 19049|4|zh-Hans|小浣熊 卡尔卡尔团
 6522|4|zh-Hans|小淘气达美欧
 4652|2|zh-Hans|小淘氣smile
@@ -90736,6 +90747,7 @@
 10959|4|ja|心が叫びたがってるんだ.
 10129|4|ja|心のキャッチボール
 10898|4|ja|心の力
+8337|4|zh-Hant|心之國的愛麗絲
 414|4|zh-Hans|心之彼端
 336|4|zh-Hant|心之谷
 15776|4|ja|心予報
@@ -92993,6 +93005,8 @@
 11286|4|ja|普通の女子校生が[ろこどる]やってみた. (2015)
 10404|4|zh-Hans|普通女高中生要做当地偶像
 11286|4|zh-Hans|普通女高中生要做当地偶像OVA
+10404|4|zh-Hant|普通女高中生要做當地偶像
+11286|4|zh-Hant|普通女高中生要做當地偶像 OVA
 14454|4|zh-Hans|普通攻击是全体二连击，这样的妈妈你喜欢吗？
 14454|4|zh-Hant|普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？
 15487|4|ja|景山民夫のダブルファンタジー
@@ -93261,6 +93275,7 @@
 4007|2|ja|本気!
 4007|4|ja|本気(マジ)!
 15260|4|zh-Hans|本田小狼与我
+15260|4|zh-Hant|本田小狼與我
 20172|4|ja|本能寺の変
 19448|4|ja|朱色の仮面
 19448|4|zh-Hans|朱色假面
@@ -95885,6 +95900,7 @@
 15918|4|ja|異世界迷宮でハーレムを
 15918|4|zh-Hant|異世界迷宮裡的後宮生活
 12385|4|ja|異世界食堂
+12385|4|zh-Hant|異世界食堂
 16274|4|ja|異世界食堂2
 13757|4|ja|異世界魔王と召喚少女の奴隷魔術
 19999|4|ja|異世界魔王と召喚少女の奴隷魔術ULT
@@ -98944,6 +98960,7 @@
 13802|2|zh-Hans|超神学院之雄兵连
 16683|4|zh-Hans|超神游戏
 14748|4|zh-Hant|超級小偷
+10134|4|zh-Hant|超級索尼子
 9542|2|zh-Hans|超级好吃！B级美食生存之战
 14648|4|zh-Hans|超级小白
 780|4|zh-Hans|超级库玛君
@@ -100709,6 +100726,7 @@
 306|4|zh-Hant|飛天紅豬俠
 14113|4|zh-Hant|飛翔吧！戰機少女
 11469|2|zh-Hant|飛翔的魔女
+4196|2|zh-Hant|飛輪少年
 13625|4|zh-Hant|飛龍女孩
 2762|4|zh-Hans|飞吧！伊莎美
 20316|4|zh|飞吧！篮球
@@ -101243,6 +101261,7 @@
 18282|2|zh-Hans|魔法少女与邪恶曾经敌对。
 11691|4|zh-Hans|魔法少女什么的已经够了啦。
 12317|4|zh-Hans|魔法少女什么的已经够了啦。第二季
+12317|4|zh-Hant|魔法少女什麼的已經夠了啦 第二季
 11691|4|zh-Hant|魔法少女什麼的已經夠了啦。
 10770|4|zh-Hans|魔法少女俺
 2781|4|zh-Hans|魔法少女加奈
@@ -101591,6 +101610,7 @@
 9714|4|zh-Hans|麻雀酒店
 5265|4|ja|麻雀飛翔伝 哭きの竜
 14048|4|ja|麻雀飛翔伝 哭きの竜 飛竜之章
+8852|4|zh-Hant|黃昏乙女×失憶幽靈
 18709|4|zh-Hant|黃昏旅店
 19451|4|zh-Hant|黃泉使者
 9579|4|zh-Hant|黃金拼圖
