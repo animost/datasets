@@ -1,4 +1,4 @@
-# created: Thu Oct 15 03:00:01 2026
+# created: Fri Oct 16 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -9096,6 +9096,7 @@
 9325|2|en|Chisato stared
 9158|1|x-jat|Chitose Get You!!
 18811|4|en|Chitose Is in the Ramune Bottle
+20240|4|en|Chitose Is in the Ramune Bottle (2026)
 18811|1|x-jat|Chitose-kun wa Ramune Bin no Naka
 20240|1|x-jat|Chitose-kun wa Ramune Bin no Naka (2026)
 11126|3|en|Chivalry
@@ -10962,6 +10963,7 @@
 12380|1|x-kot|Dalbitkungkwol
 15514|1|x-zht|Dali Si Rizhi
 17853|2|x-zht|Dali Si Rizhi 2
+20478|1|x-zht|Dali Si Rizhi 3
 17853|1|x-zht|Dali Si Rizhi Er
 15514|2|x-zht|Dalisi Rizhi
 17853|2|x-zht|Dalisi Rizhi 2
@@ -24165,6 +24167,7 @@
 13526|4|ja|HuGっと! プリキュア
 13526|2|ja|HUGっと！プリキュア
 19296|1|x-zht|huhuan shaonu
+20473|1|x-zht|Huhuan Shaonu Te Bie Pian: Xiang Zuo de Shi Daodi Shi Shenme
 18624|1|x-zht|Hui Ming: Fenghuo San Yue
 18624|2|x-zht|Hui Ming: Fenghuo Sanyue
 15829|1|x-jat|Hula Fulla Dance
@@ -33047,6 +33050,7 @@
 11780|2|x-jat|Luck & Logic
 11780|4|en|Luck & Logic
 11780|4|fr|Luck & Logic
+11780|4|zh-Hant|Luck & Logic
 11780|1|x-jat|Luck and Logic
 1753|4|fr|Luck the galaxy fighter
 11780|3|x-jat|luckandlogic
@@ -49635,7 +49639,6 @@
 13937|1|x-jat|Shammy to Kage Boy
 15209|1|x-jat|Shampoo no Nioi ga Shita
 19544|1|x-jat|Shampoo Ouji
-16041|1|x-zht|Shan He Jian Xin
 14766|2|x-zht|Shan He She Ji Tu
 15214|1|x-zht|Shan Liang De Xia Wu Dong
 18946|1|x-zht|Shan Shantian Tianjian
@@ -49690,6 +49693,7 @@
 18826|1|x-zht|Shanhai Jihui
 19797|1|x-zht|Shanhai Jing Mima
 17598|1|x-zht|Shanhai Juelun
+16041|1|x-zht|Shanhe Jian Xin
 16584|1|x-zht|Shanhe Jian Xin Di Er Ji
 14766|1|x-zht|Shanhe Sheji Tu
 5683|1|x-zht|Shanshan de Hongxing
@@ -49722,6 +49726,7 @@
 16636|1|x-zht|Shaonian Ge Xing: Fenghuaxueyue Pian
 17032|1|x-zht|Shaonian Ge Xing: Fenghuaxueyue Pian (2022)
 18348|1|x-zht|Shaonian Ge Xing: Haiwai Xianshan Pian
+20471|1|x-zht|Shaonian Ge Xing: Nanming Li Huo
 19100|1|x-zht|Shaonian Ge Xing: Xue Ran Tianqi Pian
 13722|2|x-zht|Shaonian Jinyiwei
 13820|2|x-zht|Shaonian Jinyiwei 2nd Season
@@ -49841,6 +49846,7 @@
 18161|1|zh-Hans|Shi Hang
 15675|1|x-zht|Shi Huang Zhi Shen
 7268|4|fr|Shi ki
+20472|1|x-zht|Shi Shaoxia Ganjue Hao Gudan
 18387|1|x-zht|Shi Shi Chuanshuo
 16904|1|x-jat|Shi to Otome
 20244|1|x-zht|Shi Wai
@@ -49988,7 +49994,6 @@
 16029|1|x-jat|Shikkaku Mon no Saikyou Kenja
 16029|3|x-jat|shikkakumon
 16029|2|x-jat|Shikkakumon no Saikyou Kenja
-16029|2|x-jat|Shikkakumon no Saikyoukenja
 12547|1|x-jat|Shikkoku no Shaga The Animation
 17321|1|x-zht|Shikong Zhi Xi
 15721|1|x-jat|Shikoyaka naru Toki mo Hameru Toki mo
@@ -50055,6 +50060,7 @@
 7254|4|es|Shin chan: La novia del futuro
 10252|4|es|Shin Chan: Papá Robot
 148|1|x-jat|Shin Chou Kyou Ryo: Condor Hero
+2907|2|x-jat|Shin Chou Kyou Ryo: Condor Hero II
 3371|1|x-jat|Shin Choubakumatsu Shounen Seiki Takamaru
 874|1|x-jat|Shin Choujin Densetsu Urotsukidouji Mataiden
 14658|1|x-jat|Shin Chuuka Ichiban!
@@ -50462,6 +50468,7 @@
 10952|1|x-jat|Shisha no Teikoku
 19863|1|x-zht|Shishang Zui Qiang Lian Ti Lao Zu
 17447|1|x-zht|Shishang Zui Qiang Nan Zhujiao
+17447|2|x-zht|Shishang Zui Qiang Nan Zhujue
 14887|1|x-jat|Shishigari
 14887|4|ja|SHISHIGARI
 20345|1|x-jat|Shishite Ikiru SSS-kyuu Hunter
@@ -50757,6 +50764,7 @@
 19283|1|x-jat|Shunkashuutou Daikousha: Haru no Mai
 6562|2|x-jat|Shunmao Monogatari TaoTao
 6192|3|x-jat|shunmuki
+20474|1|x-zht|Shuo Feng: Po Zhen Zi
 9174|1|x-jat|Shura ga Yuku
 1663|2|x-jat|Shura no Toki
 1663|4|en|Shura no Toki - Age of Chaos
@@ -55467,8 +55475,8 @@
 14800|2|en|The Extraordinary Adventures of the Mouse and His Child
 6973|2|en|The Extravagant Muchabee
 18108|1|x-jat|The Fable
-19990|1|x-jat|The Fable 2
-19990|2|en|The Fable 2
+19990|1|x-jat|The Fable (2027)
+19990|2|en|The Fable (2027)
 16765|2|en|The Fairy Dream of Yeloli
 10220|2|en|The Fake
 10220|4|es|The Fake
@@ -57143,6 +57151,7 @@
 8685|2|en|Thundercloud Graffiti
 2467|4|en|Thundersub
 13812|4|en|Thus Spoke Kishibe Rohan
+14035|2|x-zht|Ti Ke: Dong Ji Pian
 15615|2|x-zht|Tian Bao Fu Yao Lu
 15615|1|x-zht|Tian Bao Fuyao Lu
 16312|1|x-zht|Tian Bao Fuyao Lu (2021)
@@ -60531,6 +60540,7 @@
 15898|1|x-jat|Wall
 15898|4|ja|WALL
 9931|3|x-jat|WalRoma
+20475|1|x-zht|Waluolan Xiao Zhen
 8385|1|x-jat|Wamono
 8385|4|ja|WAMONO
 14747|4|pl|Wampir w ogrodzie
@@ -60568,6 +60578,8 @@
 15345|1|x-zht|Wan Jie Xian Zong Di San Ji
 16437|1|x-zht|Wan Jie Xian Zong Di Si Ji
 16499|1|x-zht|Wan Jie Xian Zong Di Wu Ji
+20476|1|x-zht|Wan Jie Zhizun
+20477|1|x-zht|Wan Jie Zhizun Di Er Ji
 11123|2|x-jat|Wan Pan Man
 20101|1|x-zht|Wan Ren Zhi Shang
 15576|1|x-zht|Wan Sheng Jie
@@ -78564,7 +78576,7 @@
 10730|4|ja|ザ・バスルーム
 4233|4|ja|ザ・ヒューマノイド 哀の惑星レザリア
 18108|4|ja|ザ・ファブル
-19990|4|ja|ザ・ファブル 2
+19990|4|ja|ザ・ファブル (2027)
 4408|4|ja|ザ・フロッグマンショー
 3508|2|ja|ザ・ボーグマン ラストバトル
 20460|4|ja|ザ・ボクサー
@@ -84428,6 +84440,8 @@
 16741|4|zh-Hans|万界神主 (2021)
 16741|2|zh-Hans|万界神主 第三季
 16740|2|zh-Hans|万界神主 第二季
+20476|4|zh-Hans|万界至尊
+20477|4|zh-Hans|万界至尊 第二季
 15576|4|ja|万聖街
 19302|4|zh-Hans|万能恋爱杂货店
 167|4|ja|万能文化猫娘
@@ -87617,6 +87631,7 @@
 19231|4|ja|味方が弱すぎて補助魔法に徹していた宮廷魔法師, 追放されて最強を目指す
 4380|4|ja|味楽る! ミミカ
 19296|4|zh|呼唤少女
+20473|4|zh-Hans|呼唤少女 特别篇 想做的事到底是什么
 12519|4|zh-Hans|命运/冠位指定:序章
 9977|2|zh|命运之夜: 无限剑制
 11515|4|zh-Hans|命运九重奏
@@ -88552,6 +88567,7 @@
 20439|2|zh-Hans|大王饶命3
 15514|4|zh-Hans|大理寺日志
 17853|2|zh-Hans|大理寺日志 第2季
+20478|4|zh-Hans|大理寺日志 第3季
 17853|4|zh-Hans|大理寺日志 贰
 17853|2|zh-Hans|大理寺日志2
 17853|2|zh-Hans|大理寺日志第二季
@@ -90065,6 +90081,7 @@
 17032|4|zh-Hans|少年歌行 风花雪月篇 (2022)
 16636|2|zh-Hans|少年歌行 风花雪月篇 上部
 17505|4|zh-Hans|少年歌行 风花雪月篇 特别篇
+20471|4|zh-Hans|少年歌行之南明离火
 18383|4|zh-Hans|少年歌行之暗河传
 18763|4|zh-Hans|少年歌行之暗河传 (2024)
 18763|2|zh-Hans|少年歌行之暗河传 下部
@@ -93176,6 +93193,7 @@
 16026|4|zh-Hant|朋友的妹妹只纏著我
 16026|4|zh-Hans|朋友的妹妹只缠着我
 16948|4|zh-Hant|朋友遊戲
+20474|4|zh-Hans|朔风—破阵子
 17320|4|ja|望まぬ不死の冒険者
 19052|4|ja|望まぬ不死の冒険者 2
 15769|4|ja|望古神话之天选者
@@ -95693,6 +95711,7 @@
 16367|2|zh-Hant|瓦尼塔斯的手札 2
 16174|4|zh-Hans|瓦尼塔斯的手记
 16367|4|zh-Hans|瓦尼塔斯的手记 (2022)
+20475|4|zh-Hans|瓦洛兰小镇
 1092|4|ja|瓶詰妖精
 11952|4|ja|甘々と稲妻
 19135|4|ja|甘いイジワル
@@ -96289,6 +96308,7 @@
 9125|4|zh-Hans|短暂和平
 1379|4|ja|短編ユニコ 黒い雲と白い羽
 11647|4|ja|石けり
+20472|4|zh-Hans|石少侠感觉好孤单
 12371|4|ja|石山寺縁起絵巻
 8945|4|ja|石影妖漫画譚
 9507|4|ja|石田とあさくら
@@ -101044,6 +101064,9 @@
 6481|2|zh-Hans|魔力充电娘
 6481|2|zh-Hant|魔力充電娘
 109|2|zh-Hans|魔力女仆真幌
+109|2|zh-Hant|魔力女管家
+201|2|zh-Hant|魔力女管家 ～更美麗的事物～
+6819|2|zh-Hant|魔力女管家 特別篇 我回來了◆歡迎回家
 6819|4|zh-Hans|魔力女管家特别篇 我回来了◆欢迎回来
 8971|4|zh-Hans|魔力家族 -La storia della Arcana Famiglia-
 531|4|zh-Hans|魔动王
