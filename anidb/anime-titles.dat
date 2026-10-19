@@ -1,4 +1,4 @@
-# created: Sun Oct 18 03:00:01 2026
+# created: Mon Oct 19 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -226,6 +226,7 @@
 17229|4|ja|#セカイが滅びる前にキミに会いたい
 19586|4|ja|#ゾンビさがしてます
 17297|4|ja|＃今までで一番良かったセックス THE ANIMATION
+19586|4|zh-Hant|#尋找殭屍中
 19565|4|ja|#神奈川に住んでるエルフ
 17754|4|zh-Hant|#空帕斯2.0
 17754|4|zh-Hans|#空帕斯2.0 战斗天赋解析系统
@@ -5704,6 +5705,7 @@
 8292|1|x-jat|Ben-Tou
 11225|4|de|Ben: Abenteuer auf der Mäuseinsel
 15218|1|x-zht|Beng Huai Xing He
+15218|2|x-zht|Beng Huai Xinghe
 15553|1|x-zht|Benghuai 3: Bronia
 15548|1|x-zht|Benghuai 3: Nuwang Jianglin
 15006|1|x-zht|Benghuai 3: Reburn
@@ -12537,6 +12539,7 @@
 286|4|vi|Dịch vụ giao hàng của phù thủy Kiki
 13844|4|en|Didn`t I Say to Make My Abilities Average in the Next Life?!
 191|2|lt|Didysis mokytojas Onizuka
+5321|2|de|Die 3 Musketiere im Weltraum
 725|4|de|Die Abenteuer des fantastischen Weltraumpiraten Captain Harlock
 11041|4|de|Die Abenteuer des jungen Sinbad
 530|4|de|Die Abenteuer des kleinen Panda
@@ -18061,6 +18064,7 @@
 19847|4|en|FX Fighter Kurumi-chan
 19847|1|x-jat|FX Senshi Kurumi-chan
 19847|4|ja|FX戦士くるみちゃん
+19847|4|zh-Hant|FX戰士久留美
 87|3|ja|FY
 163|3|x-jat|FY OVA1
 164|3|x-jat|FY OVA2
@@ -27728,6 +27732,7 @@
 12492|1|x-jat|Kanagatari. Kanabakari.: Kanadian Families
 19565|2|en|Kanagawa Elves
 9440|1|x-jat|Kanai
+20480|3|x-jat|kanakoro
 11820|1|x-jat|Kaname o
 6531|1|x-jat|Kanamemo
 6531|4|en|Kanamemo
@@ -40413,6 +40418,7 @@
 1852|2|de|Nukutai Teni
 15023|4|en|Null & Peta
 15023|4|zh-Hant|Null & Peta
+20495|1|x-jat|Null Meta
 15023|1|x-jat|Null Peta
 2274|4|de|Null-Zeit - Am Ende aller Tage
 2274|2|de|Null-Zeit - Der III. Weltkrieg hat begonnen
@@ -40458,6 +40464,7 @@
 258|2|x-jat|Nurse Witch Komugi-chan Magikarte 1
 2575|1|x-jat|Nurse Witch Komugi-chan Magikarte Z
 11721|1|x-jat|Nurse Witch Komugi-chan R
+20495|2|x-jat|Nurumeta
 18470|1|x-zht|Nushen You Dian Ling
 13818|1|x-zht|Nusheng Sushe Richang Di 2 Ji
 10776|2|en|Nutcracker (2014)
@@ -43192,6 +43199,7 @@
 14193|3|x-jat|pianomori s2
 4935|4|ro|Pianul din Padure
 19525|1|x-zht|Piaomiao Jian Xian Chuan
+19525|2|x-zht|Piaomiao Jian Xian Zhuan
 249|4|ja|Piaキャロットへようこそ!!
 849|4|ja|Piaキャロットへようこそ!! 2
 566|4|ja|Piaキャロットへようこそ!! 2 DX
@@ -45374,6 +45382,7 @@
 14207|1|x-zht|Qianting Zongdongyuan: Haidi Liang Wanli
 20396|1|x-zht|Qiaohu Tansuo Qimiao Shijie
 11178|2|zh|Qicai Katong Laofuzi
+13394|2|x-zht|Qiche Ren Zongdongyuan
 18128|1|x-zht|Qihuan Long Bao
 14895|1|x-zht|Qin Han Ying Xiong Zhuan
 14656|1|x-zht|Qin Shi Ming Yue 6: Canghai Heng Liu
@@ -77461,6 +77470,7 @@
 9440|4|ja|カナイ
 12492|4|ja|かながたり. かなばかり. 「かな~でぃあんファミリーズ」
 11590|4|ja|かなかなかぞく
+20480|3|ja|カナコロ
 16923|4|ja|かなしきデブ猫ちゃん
 6531|4|ja|かなめも
 11820|4|ja|カナメヲ
@@ -80983,6 +80993,7 @@
 8910|4|ja|ぬらりひょんの孫 ~激闘 大フットサル大会!奴良組Wカップ!!~
 8177|4|ja|ぬらりひょんの孫 千年魔京
 15023|4|ja|ぬるぺた
+20495|4|ja|ぬるめた
 9740|2|ja|ネイキッドウルブズ
 4075|5|ja|ねえ, ちゃんとしようよっ!
 13632|4|ja|ねぇ,...しよ
@@ -84440,6 +84451,7 @@
 13599|2|zh-Hant|七美德
 4884|2|zh-Hans|七色星露
 4884|2|zh-Hans|七色糖果
+20074|4|zh-Hant|七葉樹王國的七名騎士
 5612|4|ja|七都市物語 ~北極海戦線~
 6239|4|zh-Hans|七鬼神
 17030|4|zh-Hans|七魔剑支配天下
@@ -84448,6 +84460,7 @@
 18238|4|zh-Hant|七龍珠DAIMA
 11210|4|zh-Hant|七龍珠超
 13657|4|zh-Hant|七龍珠超 布羅利
+19859|4|zh-Hant|七龍珠超：比魯斯
 17140|4|zh-Hans|万事屋斋藤，到异世界
 20101|4|zh-Hans|万人之上
 19589|4|zh-Hans|万剑王座
@@ -84613,6 +84626,7 @@
 11172|4|zh-Hans|不思议美眉
 11924|4|zh-Hant|不愉快的妖怪庵
 14177|4|zh-Hant|不愉快的妖怪庵 續
+20340|2|zh-Hant|不擅交際的未亡人雪女與詛咒戒指
 19141|4|zh-Hans|不擅吸血的吸血鬼
 19141|4|zh-Hant|不擅吸血的吸血鬼
 17914|4|zh-Hans|不时用俄语小声说真心话的邻桌艾莉同学
@@ -85368,6 +85382,7 @@
 15865|2|zh-Hant|佐佐木與宮野
 17077|4|zh-Hant|佐佐木與宮野 2
 17530|4|zh-Hant|佐佐木與文鳥小嗶
+18563|4|zh-Hant|佐佐木與文鳥小嗶 Season 2
 5293|4|ja|佐武と市 捕物控
 15793|4|ja|佐賀事変
 14198|4|zh-Hant|佐賀偶像是傳奇
@@ -86185,6 +86200,7 @@
 12012|4|zh-Hans|冰上的尤里
 19139|4|zh-Hans|冰之城墙
 19139|4|zh-Hant|冰之城牆
+20168|4|zh-Hant|冰之城牆 第2季
 17357|4|zh-Hant|冰冰冰 冰淇淋君 2
 17341|4|zh-Hans|冰剑的魔术师将要统一世界
 17341|4|ja|冰剣の魔術師が世界を統べる
@@ -87719,6 +87735,7 @@
 11157|4|zh-Hans|和歌子酒
 7598|4|zh-Hans|和殿下一起 1分钟剧场
 8221|4|zh-Hans|和殿下一起～眼罩之野心～
+19822|4|zh-Hant|和沒有信徒的女神大人一起攻略異世界
 18209|4|zh-Hans|和班上第二可爱的女孩成为朋友
 10932|4|zh-Hant|和諧
 18824|4|zh-Hans|和雨．和你
@@ -89056,6 +89073,7 @@
 17628|4|zh-Hans|女友成双 第二季
 15851|2|zh-Hant|女友成堆
 15851|2|zh-Hant|女友成雙
+20040|2|zh-Hant|女友的朋友
 2148|2|zh-Hant|女同病房
 11972|4|zh-Hans|女娲成长日记
 14390|4|ja|女子かう生
@@ -91829,6 +91847,7 @@
 18156|4|zh-Hant|戰國妖狐
 18543|4|zh-Hant|戰國妖狐 千魔混沌篇
 15413|4|zh-Hant|戰翼的希格德莉法
+19952|4|zh-Hant|戰車椅子-TANK CHAIR-
 17703|4|zh-Hant|戰隊大失格
 18725|4|zh-Hant|戰隊大失格 第二季
 15440|4|zh-Hant|戰鬥員派遣中！
@@ -94256,6 +94275,7 @@
 13307|4|ja|殺戮の天使
 13307|4|zh-Hant|殺戮的天使
 18973|4|zh-Hant|殺手旅店
+19621|4|zh-Hant|殺手旅店 第2季
 19546|4|zh-Hant|殺手青春
 1409|4|ja|殻の中の小鳥
 7037|4|ja|殻ノ少女
@@ -94791,6 +94811,7 @@
 11969|4|zh-Hant|滑子菇～世界的朋友～
 8208|4|zh-Hans|滑过河面的风
 8177|2|zh-Hant|滑頭鬼之孫~千年魔京~
+19858|2|zh-Hant|滑鼠游標好像變得能操控現實，那我要點瘋狂點擊女孩子
 17726|4|zh-Hans|满怀美梦的少年是现实主义者
 14717|4|zh-Hans|满月之战
 14519|2|zh-Hans|满脑都是○○的我没办法谈恋爱
@@ -97507,6 +97528,7 @@
 8480|4|zh-Hant|罪惡王冠
 11692|4|zh-Hans|羁绊者
 15253|4|ja|羅小黒戦記 ぼくが選ぶ未来
+18858|4|zh-Hant|羅梅莉亞戰記
 8255|4|zh-Hans|羈绊 一击
 784|4|ja|羊のうた
 784|4|zh-Hans|羊之歌
@@ -97879,6 +97901,7 @@
 12760|2|zh-Hant|與僧侶交合的色慾之夜…
 19720|4|zh-Hant|與奔馳於透明之夜的你，談一場看不見的戀愛。
 19189|4|zh-Hant|與妳相戀到生命盡頭
+19908|2|zh-Hant|與暗黑召喚師秘密戀愛中
 16325|2|zh-Hant|與變成了異世界美少女的大叔一起冒險
 18870|4|ja|舌先から恋 ミニアニメ
 6914|4|ja|舌切雀
@@ -98932,6 +98955,7 @@
 6831|4|ja|赤垣源蔵徳利の別れ
 1061|4|ja|赤毛のアン
 7526|4|ja|赤毛のアン グリーンゲーブルズへの道
+19894|2|zh-Hant|赤河戀影
 18836|4|zh-Hans|赤焰锦衣卫
 2887|4|zh-Hans|赤牙
 3071|4|ja|赤胴鈴之助
@@ -99272,6 +99296,7 @@
 15457|4|zh-Hant|轉生史萊姆日記關於我轉生變成史萊姆這檔事
 19942|4|zh-Hant|轉生哥布林有問題嗎？
 16785|2|zh-Hant|轉生就是劍
+17789|4|zh-Hant|轉生就是劍 第二季
 19201|4|zh-Hant|轉生後的大聖女，極力隱瞞聖女的身分
 18437|4|zh-Hant|轉生後的我成了英雄爸爸和精靈媽媽的女兒
 18497|4|zh-Hant|轉生惡女的黑歷史
@@ -99709,6 +99734,7 @@
 14391|4|zh-Hans|重来吧，魔王大人！
 18167|4|zh-Hans|重来吧、魔王大人！R
 17944|4|zh-Hant|重生者的魔法一定要特別
+18345|4|zh-Hant|重生者的魔法一定要特別 第二季
 17944|4|zh-Hans|重生者的魔法一定要特别
 12252|4|ja|重神機パンドーラ
 10864|4|zh-Hans|重装武器
@@ -99732,6 +99758,7 @@
 19777|4|ja|野生のラスボスが現れた! (2026)
 18831|4|zh-Hans|野生的大魔王出现了！
 18831|4|zh-Hant|野生的大魔王出現了！
+19777|2|zh-Hant|野生的大魔王出現了！第2季
 13210|4|ja|野良スコ
 8083|4|zh-Hans|野良剧
 11864|4|zh-Hans|野良和皇女和流浪猫之心
@@ -101443,6 +101470,7 @@
 13424|4|zh-Hans|魔法少女网站
 11572|4|ja|魔法少女育成計画
 17839|4|ja|魔法少女育成計画 restart
+17839|4|zh-Hant|魔法少女育成計畫 restart
 11572|4|zh-Hans|魔法少女育成计划
 1607|4|ja|魔法少女隊アルス
 3308|4|ja|魔法少女隊アルス (2007)
@@ -101802,6 +101830,7 @@
 8725|4|zh-Hans|黑兽
 19442|4|zh-Hans|黑化吧！圣女大人
 19442|4|zh-Hant|黑化吧！聖女大人
+20433|4|zh-Hant|黑化吧！聖女大人 第二季
 6048|4|zh-Hant|黑執事
 18739|4|zh-Hant|黑執事 -綠之魔女篇-
 6234|2|zh-Hans|黑塔利亚 Axis Powers
@@ -101860,6 +101889,7 @@
 6211|4|zh-Hans|黑神
 12665|4|zh-Hans|黑色五叶草
 12665|4|zh-Hant|黑色五葉草
+19433|4|zh-Hant|黑色五葉草 Season 2
 16176|4|zh-Hant|黑色五葉草：魔法帝之劍
 10181|4|zh-Hans|黑色子弹
 10181|4|zh-Hant|黑色子彈
