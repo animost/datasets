@@ -1,4 +1,4 @@
-# created: Tue Oct 20 03:00:01 2026
+# created: Wed Oct 21 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -186,6 +186,7 @@
 8149|4|zh-Hans|「C」
 9043|4|zh-Hans|「K」
 13066|4|ja|「Magical Music Train 」
+20497|4|ja|「アニメガタリ」×「攻殻機動隊 新劇場版」コラボ映像
 4317|4|ja|「エイジ」
 19310|4|ja|「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので, 王都で気ままに暮らしたい
 19909|4|ja|「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます
@@ -3049,6 +3050,7 @@
 11195|1|x-jat|Anime-Gatari
 13114|1|x-jat|Anime-Gataris
 13114|4|en|Anime-Gataris
+20497|1|x-jat|Animegatari x Koukaku Kidoutai Collab Eizou
 13114|2|x-jat|animegataris
 9215|1|x-jat|Animeka
 15668|2|en|Animen (2011)
@@ -18113,6 +18115,8 @@
 7408|3|en|G00movie
 5903|3|en|g00s2
 1329|3|x-jat|g2
+20498|1|x-jat|G2.5
+20498|4|ja|G2.5
 108|3|x-jat|GA
 260|3|x-jat|GA A
 6574|4|en|GA Geijutsuka Art Design Class
@@ -27385,6 +27389,7 @@
 19582|2|en|Kaiju Decode: The Ring of Aidara
 19820|1|x-zht|Kaiju Ditan Mai Dali
 19782|4|en|Kaiju Girl Caramelise
+19782|4|de|Kaiju Girl Caramelise
 12021|4|en|Kaiju Girls
 12021|4|fr|Kaijû Girls
 13975|4|en|Kaiju Girls Black
@@ -37666,6 +37671,7 @@
 9486|2|en|Mouryou`s Sacrifice
 450|1|x-jat|Mouse
 19858|1|x-jat|Mouse Cursor de Genjitsu o Sousa Dekiru You ni Natta no de, Onnanoko o Ippai Click Shima~su
+19858|2|x-jat|Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu
 15956|1|x-jat|Mouseman: Ai no Katamari
 1265|3|x-jat|Mousou
 1265|1|x-jat|Mousou Dairinin
@@ -58784,6 +58790,7 @@
 17801|4|en|Turkey! Time to Strike
 13153|2|pt|Turma de Elite
 17208|2|pt|Turma de Elite 2.ª Temporada
+17237|2|pt|Turma de Elite 3.ª Temporada
 377|4|pt-BR|Turma do Barulho
 916|1|x-jat|Turn A Gundam
 916|4|en|Turn A Gundam
@@ -90552,6 +90559,7 @@
 8102|4|zh-Hant|幻想嘉年華
 8102|4|zh-nan|幻想嘉年華
 2331|2|ja|幻想序譚エルシア
+19194|4|zh-Hans|幻想水浒传
 19194|4|ja|幻想水滸伝
 488|4|ja|幻想魔伝 最遊記
 4973|4|ja|幻想魔伝最遊記-希望の罪過-
