@@ -1,4 +1,4 @@
-# created: Wed Oct 21 03:00:01 2026
+# created: Thu Oct 22 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -6158,6 +6158,7 @@
 2152|1|x-jat|Bishoujo Senshi Sailor Moon R (1993)
 2538|1|x-jat|Bishoujo Senshi Sailor Moon S
 2151|1|x-jat|Bishoujo Senshi Sailor Moon S: Kaguya-hime no Koibito
+20499|1|x-jat|Bishoujo Senshi Sailor Moon S: Kotaete Moon Call!
 2540|1|x-jat|Bishoujo Senshi Sailor Moon Super S
 2153|1|x-jat|Bishoujo Senshi Sailor Moon Super S: Sailor 9 Senshi Shuuketsu! Black Dream Hole no Kiseki
 2542|1|x-jat|Bishoujo Senshi Sailor Moon: Sailor Stars
@@ -17420,6 +17421,7 @@
 12119|2|en|Fox Spirit Matchmaker (Original Chinese Version)
 16617|2|en|Fox Spirit Matchmaker 10th Season
 16864|2|en|Fox Spirit Matchmaker 11th Season
+18928|2|en|Fox Spirit Matchmaker 13th Season
 16616|2|en|Fox Spirit Matchmaker 9th Season
 18928|2|en|Fox Spirit Matchmaker Season 13
 16864|2|en|Fox Spirit Matchmaker: Endless Arc
@@ -24310,6 +24312,7 @@
 3672|4|hu|Hüvelyk Panna nyomában
 13198|2|x-zht|Huyao Xiao Hongniang
 18928|2|x-zht|Huyao Xiao Hongniang 13: Huang Feng Ling Pian
+18928|2|x-zht|Huyao Xiao Hongniang 13th Season
 4193|4|vi|Huyền thoại đất liền và đại dương
 1|2|cs|Hvězdný erb
 162|4|sk|Hviezdny šerif Saber Rider
@@ -86822,6 +86825,7 @@
 2359|4|ja|劇場版 鋼の錬金術師 シャンバラを征[ゆ]く者
 18324|4|zh-Hant|劇場版 鏈鋸人 蕾潔篇
 16776|4|zh-Hant|劇場版 關於我轉生變成史萊姆這檔事 紅蓮之絆篇
+18885|4|zh-Hant|劇場版 關於我轉生變成史萊姆這檔事 蒼海之淚篇
 18333|4|ja|劇場版 陰の実力者になりたくて! 残響編
 11747|4|ja|劇場版 響け! ユーフォニアム ~北宇治高校吹奏楽部へようこそ~
 13207|4|ja|劇場版 響け! ユーフォニアム ~誓いのフィナーレ~
@@ -87747,6 +87751,7 @@
 7598|4|zh-Hans|和殿下一起 1分钟剧场
 8221|4|zh-Hans|和殿下一起～眼罩之野心～
 19822|4|zh-Hant|和沒有信徒的女神大人一起攻略異世界
+19822|4|zh-Hans|和没有信徒的女神大人一起攻略异世界
 18209|4|zh-Hans|和班上第二可爱的女孩成为朋友
 10932|4|zh-Hant|和諧
 18824|4|zh-Hans|和雨．和你
@@ -91258,6 +91263,8 @@
 16507|4|zh-Hans|悠哉日常大王 Nonstop OAD
 10587|4|zh-Hans|悠哉日常大王 Repeat
 14914|4|zh-Hans|悠哉日常大王 第三季
+17352|4|zh-Hant|悠哉賽馬娘
+20425|4|zh-Hant|悠哉賽馬娘Full Gate！
 9722|4|zh-Hant|悠悠哉哉少女日和
 9366|4|zh-Hans|悠悠式
 12036|4|zh-Hans|悠悠式OVA
@@ -95483,6 +95490,7 @@
 16864|4|zh-Hans|狐妖小红娘 无暮篇
 13198|2|zh-Hans|狐妖小红娘 日语版
 16616|4|zh-Hans|狐妖小红娘 沐天城篇
+18928|2|zh-Hans|狐妖小红娘 第十三季
 18586|4|zh-Hans|狐妖小红娘 镜花缘篇
 18928|4|zh-Hans|狐妖小红娘 黄风岭篇
 16864|2|zh-Hans|狐妖小红娘·无暮篇
@@ -95492,6 +95500,7 @@
 16617|2|zh-Hans|狐妖小红娘10 两生花篇
 16864|2|zh-Hans|狐妖小红娘11 无暮篇
 18586|2|zh-Hans|狐妖小红娘12 镜花缘篇
+18928|2|zh-Hans|狐妖小红娘13 黄风岭篇
 16616|2|zh-Hans|狐妖小红娘9 沐天城篇
 13735|2|ja|狐狸の声
 13735|4|ja|狐狸之声
@@ -97596,6 +97605,7 @@
 11665|2|ja|美少女戦士セーラームーンCrystal 第3期
 2152|4|ja|美少女戦士セーラームーンR
 2151|4|ja|美少女戦士セーラームーンS かぐや姫の恋人
+20499|4|ja|美少女戦士セーラームーンS こたえてムーンコール!
 2540|4|ja|美少女戦士セーラームーンSuperS
 8879|4|zh-Hans|美少女死神 还我H之魂
 8879|2|zh-Hans|美少女死神 还我H之魂!
@@ -100869,6 +100879,7 @@
 3096|4|ja|風魔の小次郎 最終章 風魔反乱篇
 3097|4|ja|風魔の小次郎 夜叉篇
 3099|4|ja|風魔の小次郎 聖剣戦争篇
+19287|4|zh-Hant|飆馬野郎 JOJO 的奇妙冒險
 2147|4|zh-Hans|风－心之呼吸
 2266|4|zh-Hans|风－心之呼吸 OVA
 4891|2|zh-Hans|风之圣痕
