@@ -1,4 +1,4 @@
-# created: Thu Oct 22 03:00:02 2026
+# created: Fri Oct 23 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -28446,6 +28446,7 @@
 1552|3|x-jat|keroro
 10306|1|x-jat|Keroro
 10306|4|zh-Hans|KERORO
+20085|4|en|KERORO
 1552|4|fr|Keroro - Mission Titar
 7246|2|en|Keroro Gunso the Super Movie: Creation! Ultimate Keroro, Wonder Space-Time Island
 1552|1|x-jat|Keroro Gunsou
@@ -29955,6 +29956,7 @@
 11992|3|x-jat|konosuba 2
 17431|2|x-jat|konosuba 3
 16446|3|x-jat|konosuba bakuen
+13310|3|x-jat|konosuba movie
 11854|3|x-jat|konosuba OAD
 13317|3|x-jat|konosuba OAD 2
 11261|2|es|Konosuba: ¡bendito sea este maravilloso mundo!
@@ -39598,7 +39600,7 @@
 19922|1|x-zht|Ni Zai Xingguang Shenchu
 17335|1|x-zht|Ni Zhenshi Ge Tiancai
 19865|2|pt|Nia Liston, a Menina Implacável
-19865|2|en|Nia Liston: The Merciless Maiden
+19865|4|en|Nia Liston: The Merciless Maiden
 17594|1|x-zht|Nian Shou da Zuozhan
 18846|1|x-zht|Nian Wushuang
 8729|2|en|nichibros
@@ -40379,6 +40381,7 @@
 12546|2|ja|NTR
 16065|2|x-jat|NTR Kanojo
 20125|1|x-jat|NTR Kishi
+20125|2|ko|NTR 기사
 9280|2|ko|NTR 아내
 12546|2|en|NTR: Netsuzou Trap
 20125|4|ja|NTR騎士
@@ -63507,6 +63510,8 @@
 12012|1|x-jat|Yuuri!!! on Ice
 13151|1|x-jat|Yuuri!!! on Ice Gekijouban: Ice Adolescence
 12012|2|x-jat|Yuuri!!!: Yuri on Ice
+20463|2|x-jat|Yuusanchi! from Yuu-hachi
+20463|2|x-jat|Yuusanchi! from Yuuhachi
 1821|1|x-jat|Yuusei Kamen
 4282|1|x-jat|Yuusei Shounen Papii
 1707|1|x-jat|Yuusha Exkaiser
@@ -71531,6 +71536,7 @@
 1125|4|th|กันดั้มอีโวลฟ์
 185|4|th|กันบัสเตอร์
 2120|4|th|กันบัสเตอร์ 2: ไดบัสเตอร์
+17038|4|th|กาดำแห่งวังชั้นใน
 102|4|th|การ์ดแคปเตอร์ ซากุระ
 15202|4|th|การเดินทางของคุณแม่มด
 17569|4|th|การปฏิวัติเวทมนตร์ขององค์หญิงเกิดใหม่กับยัยคุณหนูยอดอัจฉริยะ
@@ -73292,6 +73298,7 @@
 1095|2|ko|몽현의 경계
 13867|4|ko|무녀도
 15566|2|ko|무라마타 씨의 비밀
+20087|2|ko|무라마타 씨의 애정
 15566|2|ko|무라마타씨의 비밀
 9140|4|ko|무림 일검의 사생활
 1009|4|ko|무민 잉글리쉬
@@ -95490,6 +95497,7 @@
 16864|4|zh-Hans|狐妖小红娘 无暮篇
 13198|2|zh-Hans|狐妖小红娘 日语版
 16616|4|zh-Hans|狐妖小红娘 沐天城篇
+18928|2|zh-Hans|狐妖小红娘 第13季
 18928|2|zh-Hans|狐妖小红娘 第十三季
 18586|4|zh-Hans|狐妖小红娘 镜花缘篇
 18928|4|zh-Hans|狐妖小红娘 黄风岭篇
