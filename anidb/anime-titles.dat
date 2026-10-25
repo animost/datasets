@@ -1,4 +1,4 @@
-# created: Fri Oct 23 03:00:01 2026
+# created: Sat Oct 24 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -30111,6 +30111,7 @@
 9601|1|x-jat|Koukai Benjo The Animation
 61|2|x-jat|Koukaku Kidoutai
 18652|1|x-jat|Koukaku Kidoutai (2026)
+20500|1|x-jat|Koukaku Kidoutai (Shinsaku Animation)
 6122|2|x-jat|Koukaku Kidoutai 2.0
 11023|3|x-jat|Koukaku Kidoutai AAA
 11023|1|x-jat|Koukaku Kidoutai Arise: Alternative Architecture
@@ -42007,12 +42008,16 @@
 17701|1|x-jat|Oshiri Tantei (2023)
 20275|1|x-jat|Oshiri Tantei (2024)
 20276|1|x-jat|Oshiri Tantei (2025)
+20501|1|x-jat|Oshiri Tantei (2026)
 13203|2|x-unk|Oshiri Tantei Season 1-2
+20501|2|x-jat|Oshiri Tantei Season 10
 15084|2|x-jat|Oshiri Tantei Season 3
 15429|2|x-unk|Oshiri Tantei Season 4
 16133|2|x-jat|Oshiri Tantei Season 5
 16946|2|x-jat|Oshiri Tantei Season 6
 17701|2|x-jat|Oshiri Tantei Season 7
+20275|2|x-jat|Oshiri Tantei Season 8
+20276|2|x-jat|Oshiri Tantei Season 9
 17875|1|x-jat|Oshiri Tantei: Cosmic Front
 6350|1|x-jat|Oshiruko: The Summertime Mischief
 12485|2|x-jat|Oshitsu Kyoshi Haine
@@ -47005,6 +47010,7 @@
 146|2|x-jat|Rockman EXE
 3621|2|x-jat|Rockman EXE Beast
 2912|2|en|Rockman EXE the Movie: Program of Light and Dark
+1144|2|x-jat|Rockman Hoshi ni Negai wo
 4791|2|en|Rockman of the Meteor
 4791|2|en|Rockman of the Shooting Star
 1144|2|x-jat|Rockman OVA
@@ -55640,6 +55646,7 @@
 18652|4|de|The Ghost in the Shell
 18652|4|en|The Ghost in the Shell
 18652|4|it|The Ghost in the Shell
+20500|2|en|The Ghost in the Shell (New Animation)
 3558|4|en|The Gigolo - Dochinpira
 7258|2|x-unk|Thế giới bí mật của Arrietty
 15066|2|ja|The Girl and the Monster
@@ -62247,6 +62254,7 @@
 648|3|x-jat|yamato1
 2662|3|x-jat|yamato2
 2919|4|ja|YAMATO2520
+4697|4|es-419|Yamazaki, el Rey de la Clase
 4697|4|pt|Yamazaki, O Rei da Turma
 18528|2|x-jat|Yami Healer
 5889|2|x-jat|Yami Ichiba: Bijo Dorei
@@ -69437,6 +69445,7 @@
 15201|4|ru|Я 300 лет убивала слизь и прокачалась на максимум
 10323|2|ru|Я буду хвостики носить
 17766|4|ru|Я влюбилась в злодейку
+19908|2|ru|Я встречаюсь с тёмным призывателем
 17878|4|ru|Я выживу на зельях!
 18216|4|ru|Я дома. Добро пожаловать.
 16826|4|ru|Я злодейка, поэтому должна заарканить последнего босса
@@ -77040,6 +77049,7 @@
 17701|4|ja|おしりたんてい (2023)
 20275|4|ja|おしりたんてい (2024)
 20276|4|ja|おしりたんてい (2025)
+20501|4|ja|おしりたんてい (2026)
 17875|4|ja|おしりたんてい コズミックフロント
 6350|4|ja|おしるこ -The Summertime Mischief-
 5505|4|ja|おしん
@@ -92139,6 +92149,7 @@
 11023|4|zh-Hans|攻壳机动队ARISE ALTERNATIVE ARCHITECTURE
 61|2|ja|攻殻機動隊
 18652|4|ja|攻殻機動隊 (2026)
+20500|4|ja|攻殻機動隊 (新作アニメーション)
 11023|4|ja|攻殻機動隊 ARISE ALTERNATIVE ARCHITECTURE
 9658|4|ja|攻殻機動隊 ARISE GHOST IN THE SHELL
 1176|4|ja|攻殻機動隊 S.A.C. 2nd GIG GHOST IN THE SHELL "STAND ALONE COMPLEX"
