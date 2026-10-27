@@ -1,4 +1,4 @@
-# created: Mon Oct 26 03:00:02 2026
+# created: Tue Oct 27 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -2142,6 +2142,7 @@
 19513|4|es-419|Akane-banashi
 19513|4|pt-BR|Akane-banashi
 19513|1|x-jat|Akane-banashi
+19513|4|de|Akane-banashi
 20117|1|x-jat|Akane-banashi (2027)
 1892|1|x-jat|Akane-chan
 1892|4|es|Akane-chan
@@ -16049,6 +16050,7 @@
 19308|4|en|Even the Student Council Has Its Holes
 19308|4|de|Even the Student Council Has Its Holes
 19650|4|en|Even Though I`m a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiance
+19650|4|de|Even Though I`m a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé
 20024|4|en|Ever Night
 7056|2|en|Evergreen Literature
 8783|2|en|Everlasting Bond
@@ -54215,6 +54217,7 @@
 17527|2|x-jat|Tantei wa Mou, Shindeiru. S2
 13674|1|x-jat|Tanuki to Kitsune
 20450|1|x-jat|Tanuki to Kitsune (2026)
+20450|2|x-jat|Tanuki to Kitsune (TV)
 7636|1|x-jat|Tanuki-san Ooatari
 6848|1|x-jat|Tanukichi no Ohanashi
 11411|1|x-zht|Tao Hua Yuan Ji
@@ -66410,7 +66413,6 @@
 15530|2|ru|Королевский рейд: Наследники воли
 17846|4|ru|Королевство руин
 14391|2|ru|Король демонов, попытайтесь снова!
-10744|4|uk|Король Магічних Стріл та Ванадіс
 7319|2|ru|Король сорока восьми сисек
 7031|2|ru|Король Терний
 92|4|uk|Король шаманів
@@ -66668,6 +66670,7 @@
 14602|2|ru|Ложные выводы
 16182|4|ru|Ложь на лжи
 3644|2|ru|Лора, девочка из прерий
+10744|4|uk|Лорд Марксмен і Ванадіс
 1919|2|ru|Лулу, ангел цветов
 16130|2|ru|Луна, Лайка и Носферату
 4900|2|bg|Лунна миля: Сезон Първи - Отлитане
@@ -76419,6 +76422,7 @@
 18620|4|ja|いずれ最強の錬金術師?
 19572|4|ja|いずれ最強の錬金術師? 2
 14038|5|ja|いせかいチートマジシャン
+19507|3|ja|いせしゃち
 17580|3|ja|いせれべ
 4668|4|ja|イソップ・ワールド
 6404|4|ja|イソップ童話
@@ -96332,6 +96336,7 @@
 18719|4|zh-Hans|直至魔女消逝
 19010|4|zh-Hans|相反的你和我
 19010|4|zh-Hant|相反的你和我
+19983|4|zh-Hant|相反的你和我 第二季
 16270|4|zh-Hans|相合之物
 16270|4|zh-Hant|相合之物
 2582|4|zh-Hans|相奸连锁
@@ -101492,6 +101497,7 @@
 4688|2|zh-Hans|魔法少女奈叶SS
 4688|4|zh-Hans|魔法少女奈叶StrikerS
 2430|2|zh-Hant|魔法少女奈葉
+19080|4|zh-Hant|魔法少女奈葉 EXCEEDS Gun Blaze Vengeance
 6075|4|zh-Hant|魔法少女奈葉 The MOVIE 1st
 8821|4|zh-Hant|魔法少女奈葉 The MOVIE 2nd A`s
 3440|4|zh-Hant|魔法少女奈葉A`s
