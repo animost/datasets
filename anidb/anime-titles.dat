@@ -1,4 +1,4 @@
-# created: Tue Oct 27 03:00:01 2026
+# created: Wed Oct 28 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -10541,7 +10541,7 @@
 15275|2|en|Curse Return
 17196|2|en|Curse Return 2
 5114|2|x-unk|Curtain Call
-10159|1|x-jat|Curucuru and Friends
+10159|1|x-kot|Curucuru and Friends
 825|2|x-jat|Custom Dorei
 825|1|x-jat|Custom Reido
 19866|1|x-jat|Custom Robo
@@ -14574,6 +14574,7 @@
 15540|4|vi|Đứa con của tháng các vị thần
 14534|4|vi|Đứa con của thời tiết
 82|4|fr|Dual
+20505|1|x-jat|Dual Shadow: Precure Villain Heroines
 82|1|x-jat|Dual! Parallel Runrun Monogatari
 82|4|en|Dual! Parallel Trouble Adventures
 82|2|es|Dual! Una Historia Paralela
@@ -21965,7 +21966,7 @@
 10282|3|en|hapcha
 10282|3|x-jat|hapicha
 4594|2|x-jat|Hapinesu!
-16339|1|x-jat|Happa no Leaf monogatari
+16339|1|x-jat|Happa no Leaf Monogatari
 8901|1|x-jat|Happening Star
 8901|4|ja|Happening Star ☆
 10282|1|x-jat|Happiness Charge Precure!
@@ -42242,8 +42243,8 @@
 17560|1|x-jat|Ousama Ranking: Yuuki no Takarabako
 14270|1|x-jat|Ousama to Nightingale
 12485|1|x-jat|Oushitsu Kyoushi Heine
-20442|1|x-jat|Oushun Jogakuen no Danyuu
 20446|4|ja|Oushun Jogakuin no Danyuu
+20442|1|x-jat|Oushun Jogakuin no Danyuu
 8273|1|x-jat|Out of Sight
 8273|4|ja|Out of Sight
 9855|1|x-jat|Outbreak Company
@@ -46808,10 +46809,12 @@
 3525|6|x-jat|Rinkan Gakuen: "Yamete! ...Okaasan, Minaide!"
 10936|4|fr|Rinne
 11591|4|fr|Rinne 2
-8583|3|x-jat|Rinne no Lagrange
-8583|1|x-jat|Rinne no Lagrange: Flower Declaration of Your Heart
-9108|1|x-jat|Rinne no Lagrange: Flower Declaration of Your Heart - Kamogawa Days
-8962|1|x-jat|Rinne no Lagrange: Flower Declaration of Your Heart - Season 2
+8583|1|x-jat|Rinne no Lagrange
+8962|1|x-jat|Rinne no Lagrange Season 2
+8583|6|x-jat|Rinne no Lagrange: Flower Declaration of Your Heart
+9108|6|x-jat|Rinne no Lagrange: Flower Declaration of Your Heart - Kamogawa Days
+8962|6|x-jat|Rinne no Lagrange: Flower Declaration of Your Heart - Season 2
+9108|1|x-jat|Rinne no Lagrange: Kamogawa Days
 14258|1|x-jat|Rinshi!! Ekoda-chan
 14258|4|en|Rinshi!! Ekoda-chan
 14258|2|en|Rinshi!! Ekodachan
@@ -52753,8 +52756,10 @@
 1470|2|en|Stellar Buster Mito 2
 14645|2|en|Stellar Transformation
 19137|2|en|Stellar Transformation 6
+19137|2|en|Stellar Transformation 6th Season
 20044|2|en|Stellar Transformation 7
 20044|2|en|Stellar Transformation 7th Season
+20044|2|en|Stellar Transformation Final Season
 15594|2|en|Stellar Transformation Season 2
 16578|2|en|Stellar Transformation Season 3
 16581|2|en|Stellar Transformation Season 4
@@ -60985,7 +60990,7 @@
 7231|4|en|Welcome to the Space Show
 8988|2|en|Welcome, Aliens
 14241|2|en|Welcome, Chitose-chan
-13550|2|en|Welcome! to the forest of lewd elves
+13550|2|en|Welcome! to the Forest of Lewd Elves
 13369|2|en|Well, that`s glasses
 4833|3|en|wellber
 9019|1|x-jat|Wellber no Monogatari: Kanashimi no Senshi Galahad no Banka
@@ -61912,13 +61917,11 @@
 20489|1|x-zht|Xin Xiyou Lixian Ji
 19494|1|x-zht|Xin Yichang Shengwu Jianwen Lu: Xu
 15763|1|x-zht|Xin Yu Gong Yu Shan
-16581|1|x-zht|Xing Chen Bian (2022)
 19137|2|x-zht|Xing Chen Bian 6
 20044|2|x-zht|Xing Chen Bian 7
 20044|2|x-zht|Xing Chen Bian 7th Season
-19137|1|x-zht|Xing Chen Bian Di Liu Ji
-20044|1|x-zht|Xing Chen Bian Di Qi Ji
-17807|1|x-zht|Xing Chen Bian Di Wu Ji
+19137|2|x-zht|Xing Chen Bian Di Liu Ji
+20044|2|x-zht|Xing Chen Bian Di Qi Ji
 15594|2|x-zht|Xing Chen Bian Season 2
 16578|2|x-zht|Xing Chen Bian Season 3
 16581|2|en|Xing Chen Bian Season 4
@@ -61946,15 +61949,19 @@
 20491|1|x-zht|Xing Yuan Zhi Jing
 17554|1|x-zht|Xing Yuan Zhi Zhu
 14645|1|x-zht|Xingchen  Bian
-14645|2|zh|Xingchen Bian
+16581|1|x-zht|Xingchen Bian (2022)
 19137|2|x-zht|Xingchen Bian 6th Season
 20044|2|x-zht|Xingchen Bian 7
 20044|2|x-zht|Xingchen Bian 7th Season
+19137|1|x-zht|Xingchen Bian Di Liu Ji
+20044|1|x-zht|Xingchen Bian Di Qi Ji
+17807|1|x-zht|Xingchen Bian Di Wu Ji
 17807|2|x-zht|Xingchen Bian: An Xing Jie Pian
 16581|2|x-zht|Xingchen Bian: Po Tian Mi Ju
 20044|2|x-zht|Xingchen Bian: Tianzun Zhi Zhan
 16578|1|x-zht|Xingchen Bian: Xingchen Yao Hai
 15594|1|x-zht|Xingchen Bian: Yu Li Cang Hai
+20044|2|x-zht|Xingchen Bian: Zuizhong Ji
 17258|1|x-zht|Xinghe Zhizun
 17333|2|x-zht|Xinghe Zhizun 2
 17333|2|x-zht|Xinghe Zhizun 2nd Season
@@ -62393,6 +62400,7 @@
 3471|1|x-jat|Yasashii Lion
 9263|1|x-jat|Yasashii March
 10118|1|x-jat|Yasashii Ookami
+19777|2|en|Yasei no Last Boss ga Arawareta 2nd Season
 18831|1|x-jat|Yasei no Last Boss ga Arawareta!
 19777|1|x-jat|Yasei no Last Boss ga Arawareta! (2026)
 15546|3|en|Yashahime 1
@@ -80362,6 +80370,7 @@
 10775|4|ja|デモニオン ~外伝~
 19751|4|ja|デモンズ・クレスト
 82|4|ja|デュアル! ぱられルンルン物語
+20505|4|ja|デュアルシャドウ~Precure Villain Heroines~
 2910|4|ja|デュエル・マスターズ
 12818|2|ja|デュエル・マスターズ (2017)
 10522|4|ja|デュエル・マスターズ VS
@@ -86080,7 +86089,7 @@
 4004|4|zh-Hans|再续前缘
 17723|4|zh-Hant|再見，地球
 18862|4|zh-Hant|再見，地球 第二季
-16418|2|zh-Hans|再見了，橡果兄弟！
+16418|2|zh-Hant|再見了，橡果兄弟！
 16418|4|zh-Hant|再見了，橡果兄弟！－奇蹟的暑假－
 19337|4|zh-Hant|再見星上人
 18643|4|zh-Hant|再見菈菈
@@ -95364,7 +95373,7 @@
 16175|2|zh-Hans|爱在西元前 第二季
 891|4|zh-Hans|爱天使传说婚纱桃子
 174|4|zh-Hans|爱姐妹～二人的果实～
-17800|4|zh|爱幽的密室
+17800|4|zh-Hans|爱幽的密室
 19976|2|zh-Hans|爱心符号多一点。
 2372|2|zh-Hans|爱情泡泡糖
 100|2|zh-Hans|爱情白皮书
@@ -99331,9 +99340,12 @@
 3525|4|ja|輪奸学園
 3525|6|ja|輪奸学園 「やめてっ! ...お母さん, 見ないで!」
 11476|4|ja|輪姦媚薬中毒 ~逃げ場無し! 1428人の生徒全員にSEXされる令嬢沙也香~
-8583|4|ja|輪廻のラグランジェ Flower declaration of your heart
-8962|4|ja|輪廻のラグランジェ Flower declaration of your heart season2
-9108|4|ja|輪廻のラグランジェ Flower declaration of your heart 鴨川デイズ
+8583|4|ja|輪廻のラグランジェ
+8583|6|ja|輪廻のラグランジェ Flower declaration of your heart
+8962|6|ja|輪廻のラグランジェ Flower declaration of your heart season2
+9108|6|ja|輪廻のラグランジェ Flower declaration of your heart 鴨川デイズ
+8962|4|ja|輪廻のラグランジェ season2
+9108|4|ja|輪廻のラグランジェ 鴨川デイズ
 8128|2|ja|輪罠 ~白濁まみれの放課後~
 8128|4|ja|輪罠(わな)~白濁まみれの放課後~
 18164|4|zh-Hant|輪迴七次的惡役千金，在前敵國享受隨心所欲的新婚生活
