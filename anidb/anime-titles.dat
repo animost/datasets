@@ -1,4 +1,4 @@
-# created: Wed Oct 28 03:00:01 2026
+# created: Thu Oct 29 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -1308,10 +1308,10 @@
 18852|1|x-jat|A-Rank Party o Ridatsu Shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu o Mezasu.
 19417|1|x-jat|A-Rank Party o Ridatsu Shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu o Mezasu. 2
 16667|1|x-zht|A-Shuai
+16668|1|x-zht|A-Shuai Di 2 Ji
 16669|1|x-zht|A-Shuai Di 3 Ji
 16670|1|x-zht|A-Shuai Di 4 Ji
 16671|1|x-zht|A-Shuai Di 5 Ji
-16668|1|x-zht|A-Shuai Di Er Ji
 16666|1|x-zht|A-Shuai On Line
 17393|4|ja|A・A・B・C
 1719|4|ja|A・LI・CE
@@ -8239,7 +8239,6 @@
 13635|4|ja|CARDFIGHT!! Vanguard (2018)
 13635|4|en|Cardfight!! Vanguard (2018)
 14681|2|en|Cardfight!! Vanguard (2019)
-20003|1|x-jat|Cardfight!! Vanguard (2027)
 8974|4|en|Cardfight!! Vanguard Asia Circuit
 10869|1|x-jat|Cardfight!! Vanguard G
 11485|4|en|Cardfight!! Vanguard G GIRS Crisis
@@ -8269,6 +8268,7 @@
 15646|1|x-jat|Cardfight!! Vanguard: Over Dress
 15995|1|x-jat|Cardfight!! Vanguard: Over Dress (2021)
 14681|2|x-jat|Cardfight!! Vanguard: Shinemon Hen
+20003|1|x-jat|Cardfight!! Vanguard: Veil Lift
 16681|4|en|Cardfight!! Vanguard: Will+Dress
 16681|1|x-jat|Cardfight!! Vanguard: Will+Dress
 16682|4|en|Cardfight!! Vanguard: Will+Dress Season 2
@@ -31225,6 +31225,7 @@
 17798|2|fr|La tanière des gobelins
 1120|4|es|La Tentadora
 332|2|it|La tomba delle lucciole
+20507|4|fr|La tortue rouge
 469|4|fr|La tour au-delà des nuages
 5503|4|fr|La Tour de Druaga
 6176|4|fr|La traversée de l`espace
@@ -42283,6 +42284,7 @@
 6285|4|ja|OVA うたわれるもの
 20409|6|ja|OVA お隣の贄
 19704|4|ja|OVA ケガレボシ
+20506|6|ja|OVA さくら裂ク 散ル花びら
 19514|4|ja|OVA シスターブリーダー
 18049|2|ja|OVA ツンデロシリーズ
 11271|4|ja|OVA ツンプリ
@@ -48085,6 +48087,7 @@
 8404|1|x-jat|Sakura no Ondo
 12602|1|x-jat|Sakura Quest
 12602|4|en|Sakura Quest
+20506|1|x-jat|Sakura Saku Chiru Hanabira
 400|1|x-jat|Sakura Taisen
 1028|4|fr|Sakura Taisen - Sumire Kanzaki quitte la scène ~Su Mi Re~
 628|4|fr|Sakura Taisen ~École de Paris~
@@ -56425,6 +56428,7 @@
 14716|2|en|The Record of Unusual Creatures
 8246|2|en|The Red
 18809|4|en|The Red Ranger Becomes an Adventurer in Another World
+20507|1|en|The red turtle
 1850|2|en|The Red-Blooded Eleven
 11745|4|ja|THE REFLECTION
 11745|1|x-jat|The Reflection
@@ -77322,9 +77326,9 @@
 17967|4|ja|カードキャプターさくら クリアカード編 (続編)
 13060|4|ja|カードキャプターさくら クリアカード編 プロローグ さくらとふたつのくま
 7989|2|ja|カードファイト!! ヴァンガード
+20003|4|ja|カードファイト!! ヴァンガード  ベールリフト
 13635|2|ja|カードファイト!! ヴァンガード (2018)
 14681|2|ja|カードファイト!! ヴァンガード (2019)
-20003|4|ja|カードファイト!! ヴァンガード (2027)
 18248|4|ja|カードファイト!! ヴァンガード Divinez
 18591|4|ja|カードファイト!! ヴァンガード Divinez Season2
 19352|4|ja|カードファイト!! ヴァンガード Divinez デラックス決勝編
@@ -78790,6 +78794,7 @@
 415|4|ja|サクラ大戦 活動写真
 1103|4|ja|サクラ大戦 轟華絢爛
 9153|4|ja|さくら荘のペットな彼女
+20506|4|ja|さくら裂ク 散ル花びら
 15710|4|ja|サクラ革命 ~華咲く乙女たち~
 1830|4|ja|サザエさん
 11808|4|ja|サザエさん ドーンと一家でハワイ旅行
@@ -86268,6 +86273,7 @@
 12985|4|zh-Hans|冰海精灵之灯
 17332|4|zh-Hans|冰火魔厨
 18373|4|zh-Hans|冰火魔厨 第二季
+18373|2|zh-Hans|冰火魔厨2
 8855|4|zh-Hant|冰菓
 8855|4|zh-Hans|冰菓
 16378|4|zh-Hans|冰雪极境
@@ -100428,10 +100434,10 @@
 1190|4|zh-Hans|阿莱蒂公主
 16667|4|zh-Hans|阿衰
 16666|4|zh-Hans|阿衰 on line
+16668|4|zh-Hans|阿衰 第2季
 16669|4|zh-Hans|阿衰 第3季
 16670|4|zh-Hans|阿衰 第4季
 16671|4|zh-Hans|阿衰 第5季
-16668|4|zh-Hans|阿衰 第二季
 8997|2|zh|阿贡
 15587|4|zh-Hans|阿雅与魔女
 17646|4|zh-Hant|阿魯斯的巨獸
