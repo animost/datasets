@@ -1,4 +1,4 @@
-# created: Thu Oct 29 03:00:02 2026
+# created: Fri Oct 30 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -32351,6 +32351,7 @@
 1207|2|de|Lingeries Office
 20335|1|x-zht|Lingjing Xingzhe
 18850|4|en|Lingwu Continent
+18850|2|x-zht|Lingwu Dalu
 16648|2|en|Lingyun Code
 6529|4|pt-BR|Linha Vermelha
 16290|4|en|Link Click
