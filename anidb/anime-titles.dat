@@ -1,4 +1,4 @@
-# created: Sat Oct 31 03:00:02 2026
+# created: Sun Nov  1 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -3262,7 +3262,6 @@
 18561|2|x-jat|Ao no Exorcist - Yuki no Hate-hen
 18561|2|x-jat|Ao no Exorcist 4th Season
 8689|1|x-jat|Ao no Exorcist Gekijouban
-18429|4|ja|Ao no Exorcist: Kuro no Iede
 12240|1|x-jat|Ao no Exorcist: Kyoto Fujouou Hen
 12574|1|x-jat|Ao no Exorcist: Kyoto Fujouou Hen OVA
 17786|1|x-jat|Ao no Exorcist: Shimane Illuminati Hen
@@ -6699,7 +6698,6 @@
 18561|4|en|Blue Exorcist: Beyond the Snow Saga
 12240|4|en|Blue Exorcist: Kyoto Saga
 12574|2|en|Blue Exorcist: Kyoto Saga OVA
-18429|1|x-jat|Blue Exorcist: Runaway Kuro
 17786|4|en|Blue Exorcist: Shimane Illuminati Saga
 18735|4|en|Blue Exorcist: The Blue Night Saga
 8689|4|en|Blue Exorcist: The Movie
@@ -15484,7 +15482,6 @@
 1544|4|de|Elfen Lied
 1544|4|fr|Elfen Lied
 1544|4|en|Elfen Lied
-18239|1|x-jat|Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer
 1544|2|en|Elfen Song
 1544|3|x-jat|elfenlied
 1544|4|sk|Elfia pieseň
@@ -23225,6 +23222,7 @@
 4894|3|x-jat|higurashi2
 5634|3|x-jat|higurashi3
 5634|3|x-jat|HiguRei
+20510|1|x-jat|Hiiragi-san Chi no Kyuuketsu Jijou
 9284|2|x-jat|Hiiro no Kakera 2
 9284|1|x-jat|Hiiro no Kakera Dai Ni Shou
 9614|1|x-jat|Hiiro no Kakera Taizen: Totsugeki! Tonari no Ikemens
@@ -23388,6 +23386,7 @@
 3609|2|en|Hippo and Thomas
 3609|4|es-GA|Hippo e Thomas
 13563|3|x-jat|hiradan
+20510|2|en|Hiragi-san`s House of Vampires
 11655|2|x-jat|Hirake! Ponkikki
 17775|1|x-jat|Hirano to Kagiura
 19491|1|x-jat|Hirayasumi
@@ -25280,6 +25279,7 @@
 9867|3|x-jat|inago3
 13073|1|x-jat|Inaka Nezumi to Machi Nezumi
 20071|1|x-jat|Inaka ni wa Kore Kurai Shika Goraku ga Nai
+20508|1|x-jat|Inaka no Hitozuma-tachi The Animation
 3095|1|x-jat|Inakappe Taishou
 9536|3|x-jat|Inakon
 10391|3|x-jat|Inakon OVA
@@ -25927,6 +25927,7 @@
 8586|3|x-jat|isova
 18098|3|x-jat|iss
 19661|1|x-jat|Isshiki-san wa Koi o Shiritai.
+19661|2|en|Isshiki-san Wants to Know About Love
 7220|1|x-jat|Issho ni Ecchi
 7226|1|x-jat|Issho ni H Shiyo!
 7295|1|x-jat|Issho ni Sleeping: Sleeping with Hinako
@@ -30141,8 +30142,6 @@
 10824|1|x-jat|Koukaku Kidoutai: Shin Gekijouban
 12360|1|x-jat|Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi
 12360|2|x-jat|Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi (2007)
-18316|1|en|Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Section 9 Science File: Tachikoma na Hibi
-18316|4|ja|Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Section 9 Science File: Tachikoma na Hibi
 11815|1|x-jat|Koukaku no Pandora: Ghost Urn
 5911|1|x-jat|Koukaku no Regios
 9345|2|x-jat|Koukou Butouden Crows
@@ -34748,6 +34747,7 @@
 1186|4|de|MaMa
 1186|1|x-jat|MaMa
 1186|4|en|MaMa
+20509|1|x-jat|Mama Bokkui
 13887|1|x-jat|Mama Gomennasai
 1344|2|en|Mama is a 4th Grader
 17660|1|x-jat|Mama Katsu
@@ -47113,9 +47113,11 @@
 17583|4|cs|Romantika na zabití
 4832|3|x-jat|RomeJuli
 18858|1|x-jat|Romelia Senki
+20511|1|x-jat|Romelia Senki (2027)
 18858|2|x-jat|Romelia Senki: Maou wo Taoshita Ato mo Jinrui Yabasou Dakara Guntai Soshiki Shita
 18858|4|de|Romelia War Chronicle
 18858|4|en|Romelia War Chronicle
+20511|4|en|Romelia War Chronicle (2027)
 18858|2|en|Romélia War Chronicle: The Count’s Daughter Rallies an Army in the Wake of Mankind’s Victory
 2023|3|x-jat|romeo
 2023|4|en|Romeo and The Black Brothers
@@ -48889,6 +48891,7 @@
 17355|4|cs|Sedm smrtelných hříchů: Čtyři rytíři apokalypsy
 15997|4|cs|Sedm smrtelných hříchů: Prokletí světlem
 16963|4|cs|Sedm smrtelných hříchů: Zášť edinburská
+20074|4|cs|Sedmero rytířů Království Marronnier
 16048|2|en|Seduced by My Best Friend
 8561|2|fr|Séductions éphémères
 2028|4|pt-BR|Seduzida: A História de Nakano Takashiro
@@ -54784,7 +54787,6 @@
 17709|2|x-jat|Tensei Shitara Slime Datta Ken Season 3
 20416|1|x-jat|Tensei Shitara Slime Datta Ken: Clayman Revenge
 17873|1|x-jat|Tensei Shitara Slime Datta Ken: Coleus no Yume
-17873|2|x-jat|Tensei Shitara Slime Datta Ken: Corius no Yume
 15457|1|x-jat|Tensei Shitara Slime Datta Ken: Tensura Nikki
 16385|2|x-jat|Tensei Shoya Kara Musabari Ecchi: Ouji no Honmei wa Akuyaku Reijou
 19323|2|x-jat|Tensei Soushu no Hadou-tan: Subete o Nomikomu Sakana to Haiagaru
@@ -67627,6 +67629,7 @@
 784|2|ru|Песента на агнето
 784|2|ru|Песнь агнца
 16971|2|ru|Песнь ночных сов
+18531|4|ru|Песнь ночных сов 2
 13538|4|ru|Песнь тетивы: Секция кюдо старшей школы Кадзэмай
 9465|2|ru|Песня боевых принцесс: Мехасимфония 2
 4568|2|bg|Пет сантиметра на секунда
@@ -76898,7 +76901,6 @@
 5009|4|ja|エルフ・17 [セブンティーン]
 1626|4|ja|エルフィーナ ~淫夜へと売られた王国で...~ THE ANIMATION
 1544|4|ja|エルフェンリート
-18239|4|ja|エルフェンリート 通り雨にて 或いは、少女はいかにしてその心情に至ったか?（REGENSCHAUER）
 18412|4|ja|エルフさんは痩せられない.
 18843|4|ja|エルフに淫紋を付ける本 The Animation
 6557|2|ja|エルフの双子姫
@@ -83062,6 +83064,7 @@
 4661|4|ja|ママはぽよぽよザウルスがお好き
 1344|4|ja|ママは小学4年生
 6575|4|ja|ママぷりっ!?
+20509|4|ja|ママぼっくい
 4661|3|ja|ママぽよ
 16555|2|ja|ママホリック ~魅惑のママと甘々カンケイ~ THE ANIMATION
 356|4|ja|ママレード・ボーイ
@@ -84212,6 +84215,7 @@
 4832|4|ja|ロミオ×ジュリエット
 2023|4|ja|ロミオの青い空
 18858|4|ja|ロメリア戦記
+20511|4|ja|ロメリア戦記 (2027)
 3571|4|ja|ロリータアニメ
 3313|4|ja|ロリータアニメ (にっかつビデオ)
 20176|4|ja|ロリポップチェーンソー
@@ -87210,6 +87214,7 @@
 15087|4|ja|南の島の小さな飛行機 バーディー
 2301|4|ja|南の虹のルーシー
 1126|4|ja|南国少年パプワくん
+4309|4|zh-Hant|南家三姊妹
 4309|2|zh-Hans|南家三姐妹
 5510|2|zh-Hans|南家三姐妹 -再来一碗-
 9267|4|zh-Hans|南家三姐妹 久候多时
@@ -93730,6 +93735,7 @@
 15764|4|zh-Hans|枪神记 血族秘史篇
 8166|4|zh-Hans|架向星空之桥
 8166|4|zh-Hant|架向星空之橋
+20510|4|ja|柊さんちの吸血事情
 4684|4|zh-Hans|柏青贵族 银
 11472|4|zh-Hans|某一天收到来自狗狗国的信
 9655|4|zh-Hans|某人的目光
@@ -95977,6 +95983,7 @@
 11783|4|zh-Hant|田中君總是如此慵懶
 15874|4|zh-Hans|田径部女子是我的活自慰套
 20071|4|ja|田舎にはこれくらいしか娯楽がない
+20508|4|ja|田舎の人妻たち THE ANIMATION
 2008|4|ja|甲竜伝説 ヴィルガスト
 4131|4|ja|甲虫王者ムシキング グレイテストチャンピオンへの道 劇場版
 4998|4|ja|甲虫王者ムシキング スーパーバトルムービー ~闇の改造甲虫~
@@ -101429,6 +101436,7 @@
 18076|4|zh-Hans|魔法使的新娘 第二季 第二季度
 18076|4|zh-Hant|魔法使的新娘 第二季 第二季度
 11982|4|zh-Hans|魔法使的新娘 等待繁星之人
+11982|4|zh-Hant|魔法使的新娘 等待繁星之人
 16113|4|zh-Hans|魔法使的新娘 西之少年与青岚的骑士
 458|4|zh-Hans|魔法使的条件
 5830|4|zh-Hans|魔法使的条件 夏季的天空
