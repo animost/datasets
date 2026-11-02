@@ -1,4 +1,4 @@
-# created: Sun Nov  1 03:00:02 2026
+# created: Mon Nov  2 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -24651,7 +24651,7 @@
 19876|2|en|I`m a Witch Who`s Crush Requested a Love Potion
 18058|2|en|I`m Addicted to You.
 3357|2|en|I`m All Yours
-19908|2|en|I`m Dating a Dark Summoner
+19908|4|en|I`m Dating a Dark Summoner
 14550|2|en|I`m from Japan
 18708|4|en|I`m Getting Married to a Girl I Hate in My Class
 17592|4|en|I`m Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness
@@ -62385,6 +62385,7 @@
 12778|1|x-zht|Yaoguai Mingdan
 14078|1|x-zht|Yaoguai Mingdan 2nd Season
 3956|2|x-unk|Yap! Bun Bun
+20512|1|x-jat|Yappari Umi ga Suki
 18571|1|x-jat|Yarakashi
 5678|2|tr|Yaramaz Öpücük
 12570|1|x-jat|Yareruko! Densha Ecchi
@@ -83579,6 +83580,7 @@
 19166|4|ja|やたらやらしい深見くん
 5522|4|ja|ヤッターマン
 5497|4|ja|やっとかめ探偵団
+20512|4|ja|やっぱり海が好き
 14957|5|ja|やとがめちゃんかんさつにっき 2さつめ
 4103|4|ja|やどさがし
 8807|4|ja|やなせたかしメルヘン劇場
@@ -95762,6 +95764,7 @@
 545|4|zh-Hant|獵人X獵人:貪婪之島
 1427|4|zh-Hant|獵人X獵人:貪婪之島 最終章
 132|4|zh-Hant|獵人X獵人(1999)
+4892|4|zh-Hant|獵魔戰記
 6187|2|zh-Hant|獸之奏者艾琳
 20081|4|zh-Hant|獸王武神丹帝拜恩
 15996|4|zh-Hant|獻祭公主與獸王
@@ -99304,6 +99307,7 @@
 4306|4|ja|車畜~車の中で飼ってます~
 14350|4|ja|軌跡
 8842|4|zh-Hant|軍火女王
+9076|4|zh-Hant|軍火女王 PERFECT ORDER
 14237|4|ja|軒轅剣 蒼き曜
 14237|2|ja|軒轅剣・蒼き曜
 14237|4|zh-Hant|軒轅劍 蒼之曜
