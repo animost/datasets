@@ -1,4 +1,4 @@
-# created: Mon Nov  2 03:00:02 2026
+# created: Tue Nov  3 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -6854,6 +6854,7 @@
 19157|1|x-jat|Bocchi the Rock! 2
 19157|2|en|Bocchi the Rock! 2
 18039|2|en|BOCCHI THE ROCK! Recap Part 1 & 2
+20513|2|en|Bocchi the Rock! the Movie: Footprints of the Stars
 7443|4|fr|Bodacious Space Pirates
 7443|4|en|Bodacious Space Pirates
 9293|4|en|Bodacious Space Pirates: Abyss of Hyperspace
@@ -11500,6 +11501,7 @@
 3159|2|nl|De bende van vijf
 18793|4|pt-BR|De Caipira a Mestre Espadachim
 18793|4|pt|De Caipira a Mestre Espadachim
+19400|4|pt-BR|De Caipira a Mestre Espadachim 2
 18793|4|es|De camp esino cuarentón a espadachín legendario
 19400|4|es|De campesino cuarentón a espadachín legendario II
 2302|4|nl|De Familie Robinson
@@ -11685,6 +11687,7 @@
 8423|4|ja|Defend Love
 8950|4|en|Defenders of Space
 19281|2|en|Defense Fully Open
+19298|4|pt-BR|Defesa Territorial Descomplicada pelo Lorde Otimista: Magia de Produção Transforma uma Vila Sem Nome na Cidade Fortificada Mais Forte
 18834|2|en|Defiled Advent
 16494|4|en|Deiji Meets Girl
 3496|3|x-jat|Deimos
@@ -15003,6 +15006,7 @@
 14713|1|x-jat|Eiga Bakutsuri Bar Hunter: Nazo no Bar Code Triangle! Bakutsure! Shinkaigyo Poseidon
 2978|1|x-jat|Eiga Beast Wars Second Chou Seimeitai Transformers Lio Convoy Kikiippatsu!
 16176|1|x-jat|Eiga Black Clover: Mahoutei no Ken
+20513|1|x-jat|Eiga Bocchi the Rock! Hoshi no Ashiato
 11354|1|x-jat|Eiga Chibi Maruko-chan: Italia kara Kita Shounen
 20111|1|x-jat|Eiga Chiikawa: Ningyo no Shima no Himitsu
 13176|1|x-jat|Eiga Chuunibyou demo Koi ga Shitai! Take on Me
@@ -26270,6 +26274,7 @@
 14220|2|fr|Jeunettes en excroissance
 2600|4|fr|Jeux d`amour
 527|4|en|Jewel BEM Hunter Lime
+20514|4|en|Jewel Catch! Teenieping
 6444|2|en|Jewel Pet
 6444|4|cs|Jewel Pet - Zvířátka z drahokamu
 6444|4|pt|Jewel Pets
@@ -26277,6 +26282,7 @@
 8960|4|pt|Jewel Pets Sparkling Deco
 8295|4|pt|Jewel Pets Sunshine
 7414|4|pt|Jewel Pets Twinkle
+20514|1|x-kot|Jewel Star Catch! Tiniping
 6444|1|x-jat|Jewelpet
 6444|4|el|Jewelpet
 9706|1|x-jat|Jewelpet Happiness
@@ -30772,7 +30778,6 @@
 7618|3|x-jat|KyouKoi
 5580|3|x-jat|kyouran
 5580|1|x-jat|Kyouran Kazoku Nikki
-19865|2|ja|Kyouran Reijou Nia Liston
 19865|1|x-jat|Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei Shita Kami-goroshi no Bujin no Karei Naru Musouroku
 6908|1|x-jat|Kyouryoku Boukuusen
 2728|1|x-jat|Kyouryuu Boukenki Jura Tripper
@@ -38695,6 +38700,12 @@
 9479|1|x-jat|Namiuchigiwa no Muromi-san
 9770|1|x-jat|Namiuchigiwa no Muromi-san: Pangea Choutairiku no Muromi-san
 15136|3|x-jat|namiyo
+15299|4|pt-BR|Namorada de Aluguel
+15743|4|pt-BR|Namorada de Aluguel 2
+17629|4|pt-BR|Namorada de Aluguel 3
+18753|4|pt-BR|Namorada de Aluguel 4
+19587|4|pt-BR|Namorada de Aluguel 5
+20136|4|pt-BR|Namorada de Aluguel 6
 19908|2|pt|Namoro com uma Invocadora das Trevas
 14256|2|x-jat|Namu Amida Butsu! -Rendai Utena-
 14256|2|x-jat|Namu Amida Butsu! -Utena-
@@ -58640,7 +58651,7 @@
 6155|1|x-jat|Tsui no Sora
 5568|1|x-jat|Tsuide ni Tonchinkan
 18782|3|x-jat|Tsuihou Hakuma Doushi
-19881|1|x-jat|Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life o Ouka Suru. Ore wa Buki dake Janaku,  Arayuru Mono ni "Kyouka Point" o Fuyo Dekirushi, Ore no Ishi de Itsu demo Kouka o Kaijo Dekiru Kedo, Nokotta Hitotachi Daijoubu?
+19881|1|x-jat|Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life o Ouka Suru. Ore wa Buki dake Janaku, Arayuru Mono ni "Kyouka Point" o Fuyo Dekirushi, Ore no Ishi de Itsu demo Kouka o Kaijo Dekiru Kedo, Nokotta Hitotachi Daijoubu?
 20234|1|x-jat|Tsuihou Sareta Shounin wa Kin no Chikara de Sekai o Sukuu
 18854|1|x-jat|Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru
 18854|2|x-jat|Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru
@@ -75019,6 +75030,7 @@
 6788|4|ko|쥬로링 동물탐정
 13565|2|ko|쥬브나일 포르노그래피
 8926|4|ko|쥬블스
+20514|4|ko|쥬얼스타 캐치! 티니핑
 13750|4|ko|즐겁게 놀아보세
 14127|4|ko|즐겁게 놀아보세: 코스프레 대회 / 어른인 나에게
 17480|4|ko|지. －지구의 운동에 대하여
@@ -93125,6 +93137,7 @@
 12509|4|ja|映画プリキュアドリームスターズ!
 14487|4|ja|映画プリキュアミラクルユニバース
 15204|4|ja|映画プリキュアミラクルリープ みんなとの不思議な1日
+20513|4|ja|映画ぼっち・ざ・ろっく! 星のあしあと
 18079|4|ja|映画ラブライブ! 虹ヶ咲学園スクールアイドル同好会 完結編
 6431|4|ja|映画レイトン教授と永遠の歌姫 THE ETERNAL DIVA
 20218|4|ja|映画名探偵プリキュア! 不思議な庭と2人の秘密
