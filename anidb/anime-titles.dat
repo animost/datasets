@@ -1,4 +1,4 @@
-# created: Tue Nov  3 03:00:01 2026
+# created: Thu Nov  5 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -21377,6 +21377,7 @@
 18245|1|x-jat|Habatake Pii-tan
 353|2|ja|Habitat Ground Jewdo
 10282|3|x-jat|HaCha
+14535|2|x-jat|Hachi-nan tte, Sore wa Nai deshou!
 14535|2|x-jat|Hachi-nantte, Sore wa Nai Deshou!
 14242|1|x-jat|Hachigatsu no Cinderella Nine
 14242|2|x-jat|Hachigatsu no Cinderella Nine 2021
@@ -28720,6 +28721,7 @@
 6492|1|x-jat|Kigurumikku V3
 4711|1|x-jat|Kigyou Senshi Yamazaki Long Distance Call
 8000|1|x-jat|Kihei Senki Legacies
+20517|1|x-jat|Kiiroi Kaiyou Kishoudai
 12105|4|fr|Kiitarô Shônen no Yôkai Enikki
 12105|4|en|Kiitaro`s Yokai Picture Diary
 12105|1|x-jat|Kiitarou Shounen no Youkai Enikki
@@ -33141,7 +33143,6 @@
 17096|2|en|Lum, the Invader Girl
 7258|4|ro|Lumea secretă a lui Arrietty
 134|3|x-jat|luminous
-14204|2|x-jat|Luminous Witches
 1919|2|en|Lun Lun the Flower Child
 1948|3|x-jat|Luna Varga
 4177|2|en|Lunar Bunny Weapon Mina
@@ -33166,6 +33167,8 @@
 15253|1|x-zht|Luo Xiao Hei Zhanji (2019)
 16687|1|x-zht|Luo Xiao Hei Zhanji (2021)
 19721|1|x-zht|Luo Xiao Hei Zhanji 2
+20516|1|x-zht|Luo Xiaohei Zhanji (2026)
+20516|2|x-jat|Luo Xiaohei Zhanji: Xueqian Pian
 17440|1|x-zht|Luoluo Li Xian Ji
 14465|4|vi|Lướt sóng cùng em
 16854|1|x-zht|Luotuo Xian Wu
@@ -49164,6 +49167,7 @@
 15055|1|x-jat|Sekaiichi Hatsukoi: Proposal Hen
 7921|3|x-jat|sekakoi
 20035|3|x-jat|sekamajo
+20035|2|ja|Sekamajo
 9794|3|x-jat|Sekatsuyo
 1913|4|tr|Şeker Kız Candy
 818|2|tr|Şeker Kız Candy Film
@@ -49975,7 +49979,9 @@
 12667|1|x-jat|Shiawase no Uta
 1947|1|x-jat|Shiawase Sou no Okojo-san
 8503|1|x-jat|Shiawasette Naani
+20515|2|en|Shiba Inu Rooms
 8986|1|x-jat|Shiba Inuko-san
+20515|1|x-jat|Shiba-tsuki Bukken
 9173|2|x-jat|Shibai Taroka
 9173|1|x-jat|Shibaitaroka
 4296|3|x-jat|shibawanko
@@ -50370,6 +50376,7 @@
 5084|1|x-jat|Shining Tears X Wind
 5084|4|en|Shining Tears X Wind
 15840|1|x-jat|Shinizokonai Kakarichou
+19822|2|ja|Shinja Zero
 19822|1|x-jat|Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku
 2665|2|x-jat|Shinjin Tour Conductor
 2665|1|x-jat|Shinjin Tour Conductor Rina
@@ -54960,6 +54967,7 @@
 238|3|en|tetsuya
 11829|2|pt|Teu nome
 13824|1|x-kot|Teugbyeolpan Turning Mecard W: Vandyne-ui Bimil
+20518|1|x-kot|Teuligkeol Manhwadongsan
 673|3|x-jat|TEX
 673|1|x-jat|Texhnolyze
 673|4|ja|TEXHNOLYZE
@@ -75484,6 +75492,7 @@
 2988|2|ko|트루 블루
 2810|4|ko|트리니티 블러드
 10818|2|ko|트리아지 X
+20518|4|ko|트릭컬 만화동산
 12253|4|ko|트윈엔젤 BREAK
 4810|2|ko|특무수사관 레이 & 후코
 5469|2|ko|특별 병동
@@ -79011,6 +79020,7 @@
 8986|4|ja|しばいぬ子さん
 2993|4|ja|ジバクくん TWELVE WORLD STORY
 14757|5|ja|じばくしょうねん はなこくん
+20515|4|ja|シバつき物件
 4296|4|ja|しばわんこの和のこころ
 2535|4|ja|ジパング
 15001|2|ja|ジビエート
@@ -97607,7 +97617,9 @@
 14829|4|zh-Hans|罗小黑战记
 15253|4|zh-Hans|罗小黑战记 (2019)
 16687|4|zh-Hans|罗小黑战记 (2021)
+20516|4|zh-Hans|罗小黑战记 (2026)
 16687|2|zh-Hans|罗小黑战记 众生之门篇
+20516|2|zh-Hans|罗小黑战记 学前篇
 19721|4|zh-Hans|罗小黑战记2
 169|2|zh-Hans|罗德岛战记ova
 137|2|zh-Hans|罗德岛战记TV 英雄骑士传
@@ -101903,6 +101915,7 @@
 19451|4|ja|黄泉のツガイ
 20406|4|ja|黄泉のツガイ 2
 19451|4|zh-Hans|黄泉使者
+20517|4|ja|黄色い海洋気象台
 17876|4|ja|黄金の庭園: 冬に積もる新年の願い
 4277|4|ja|黄金の法 エル・カンターレの歴史観
 6862|4|ja|黄金の鈎
