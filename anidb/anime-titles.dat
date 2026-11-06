@@ -1,4 +1,4 @@
-# created: Thu Nov  5 03:00:01 2026
+# created: Fri Nov  6 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -9783,7 +9783,7 @@
 7127|2|en|Code Geass: Hangyaku no Lelouch R2 Special Edition - Zero Requiem
 7126|1|x-jat|Code Geass: Hangyaku no Lelouch Special Edition - Black Rebellion
 7126|2|en|Code Geass: Hangyaku no Lelouch Special Edition - Black Rebellion
-19757|1|x-jat|Code Geass: Hoshi Oi no Aspar
+19757|1|x-jat|Code Geass: Hoshi Oi no Aspal
 4521|2|pt-BR|Code Geass: Lelouch da Rebelião
 5373|2|pt-BR|Code Geass: Lelouch da Rebelião R2
 4521|2|es|Code Geass: Lelouch de la Rebelión
@@ -13547,6 +13547,7 @@
 7011|1|x-jat|Dorami-chan: Hello Kyouryuu Kids!!
 7116|1|x-jat|Dorami-chan: Mini-Dora SOS!!!
 4983|2|en|Dorami-chan: Wow, The Kid Gang of Bandits
+20520|1|x-kot|Doraon Yeongung Hong Gildong
 19217|3|x-jat|doratama
 4174|1|x-jat|Dore Dore no Uta
 4174|2|x-jat|Doredore no Uta
@@ -38826,6 +38827,7 @@
 8190|1|x-jat|Naniwa Yuukyouden: Nekketsu!! Bakushou Mankai Hen
 12938|1|x-jat|Nanja Monja Obake
 948|2|x-jat|Nanjin 28
+20519|1|x-kot|Nanjung Ilgi
 224|2|x-jat|Nankai Kio Neoranga
 224|2|x-jat|Nankai Kiou
 14413|3|x-jat|nankoko
@@ -49389,6 +49391,7 @@
 9808|2|x-jat|Senyuu 2
 9393|2|x-jat|Senyuu.
 2212|4|it|Senza Famiglia
+20522|1|x-kot|Seonhwagongjuwa Son Ogong
 7038|4|x-jat|Seoul Bijin Kisha: Aiyoku Insider
 12732|4|en|Seoul Station
 12732|1|x-kot|Seoulyeok
@@ -51626,6 +51629,8 @@
 13190|4|de|Sommerkotze ist Winterfreude
 763|4|es-GA|Son Gokuh superguerreiro
 13600|1|x-jat|Son Gokuu Silk Road o Tobu!!
+20523|2|x-kot|Son O-gong gwa Byeoldeul-ui Jeonjaeng
+20523|1|x-kot|Son Ogong gwa Byeoldeul-ui Jeonjaeng
 581|2|tr|Son Sürgün
 12252|2|tr|Son Umut
 947|4|es|Soñar con los ojos abiertos
@@ -52142,6 +52147,8 @@
 1315|2|de|Space Firebird 2772
 13312|4|en|Space Fish: Between the Sky and Sea
 77|2|en|Space Fortress Macross
+20525|1|x-kot|Space Gandam V
+20525|2|en|Space Gundam V
 17774|1|x-jat|Space Idol
 1273|2|en|Space Knight Tekkaman
 216|2|en|Space Knight Tekkaman Blade 2
@@ -52314,6 +52321,8 @@
 16329|2|en|Spirit Cage: Incarnation Special
 15674|2|en|Spirit Cage：Incarnation (2020)
 15875|2|en|Spirit Chronicles
+20521|1|x-jat|Spirit Circle
+20521|2|en|Spirit Circle
 7512|2|en|Spirit Girl Zakuro
 14161|2|en|Spirit Guardians
 15465|2|en|Spirit Guardians 2
@@ -53337,6 +53346,7 @@
 12197|4|en|Super Lovers 2
 12022|2|en|Super Lovers OVA
 1683|4|es-419|Super Magnetrón
+20524|1|x-kot|Super Majingga 3
 4391|2|en|Super Mario Bros.: The Great Mission to Rescue Princess Peach!
 4391|1|x-jat|Super Mario Brothers: Peach-hime Kyuushutsu Daisakusen!
 4391|2|en|Super Mario Brothers: The Great Mission to Rescue Princess Peach!
@@ -59196,6 +59206,8 @@
 18800|1|x-jat|Uji ni wa Monogatari ga Aru
 11274|1|x-kot|Uju Heukgisa
 15913|1|x-kot|Uju Jeonsa Hong Gildong
+20526|1|x-kot|Ujudaejang Aekkunun
+20527|1|x-kot|Ujusonyeon Kaesi
 2481|3|x-jat|UK
 7027|1|x-jat|Ukkari Penelope
 7957|1|x-jat|Ukkari Penelope (2007)
@@ -72667,6 +72679,7 @@
 1175|2|ko|난교조교 메이드가 된 소녀
 11075|4|x-kot|난바카
 12558|4|x-kot|난바카 (2017)
+20519|4|ko|난중일기
 14534|4|ko|날씨의 아이
 10799|4|ko|날아라 슈퍼보드
 10873|4|ko|날아라 슈퍼보드 (1998)
@@ -72937,6 +72950,7 @@
 2517|2|ko|독점
 12266|2|ko|독점 마이 히어로
 8421|4|ko|돌아가는 핑드럼
+20520|4|ko|돌아온 영웅 홍길동
 1405|2|ko|돌아온 코트 위의 천사들
 14253|4|ko|동거인은 무릎, 때때로, 머리 위
 18157|2|ko|동거하는 점액
@@ -73077,6 +73091,7 @@
 4247|2|ko|로보짱 큐빅스
 9731|4|ko|로보카 폴리
 13386|4|ko|로보텍스
+8789|2|ko|로보트 태권 V
 10247|4|ko|로보트 태권V 제2탄 - 우주작전
 10249|4|ko|로보트 태권V와 황금날개의 대결
 8789|4|ko|로보트 태권브이
@@ -73792,6 +73807,7 @@
 17561|2|ko|서큐버스를 불렀더니 엄마가 왔다!?
 14255|4|ko|서클릿 프린세스
 15621|4|ko|선배가 짜증나는 후배이야기
+20522|4|ko|선화공주와 손오공
 9166|4|ko|섬란 카구라
 13341|4|ko|섬란 카구라 SHINOVI MASTER -도쿄요마편-
 2552|2|ko|성 미카엘라 학원표류기II
@@ -73941,6 +73957,7 @@
 20133|4|ko|슈팅스타 캐치! 티니핑
 531|4|ko|슈퍼 그랑조
 14086|4|ko|슈퍼 드래곤볼 히어로즈
+20524|4|ko|슈퍼 마징가 3
 13184|4|ko|슈퍼 삼총사
 19339|4|ko|슈퍼 시크릿
 2760|4|ko|슈퍼 차일드
@@ -73986,6 +74003,7 @@
 909|4|ko|스팀보이
 9570|2|ko|스파르타 섹스를 원해
 245|4|ko|스파이럴 ~추리의 띠~
+20525|4|ko|스페이스 간담 V
 10027|2|ko|스페이스 댄디
 10553|2|ko|스페이스 댄디 2
 14054|4|ko|스페이스 버그
@@ -74609,8 +74627,10 @@
 15498|2|ko|우유뷔페 먹는날
 4653|4|ko|우정의 그라운드
 11274|4|ko|우주 흑기사
+20526|4|ko|우주대장 애꾸눈
 13257|4|ko|우주보다 먼 곳
 1446|2|ko|우주소년 아톰
+20527|4|ko|우주소년 캐시
 630|2|ko|우주의 스텔비아
 15913|4|ko|우주전사 홍길동
 8787|2|ko|우주전함 야마토 2199
@@ -79484,6 +79504,7 @@
 9714|4|ja|スパロウズホテル
 4480|4|ja|スピード
 2696|4|ja|スピードグラファー
+20521|4|ja|スピリットサークル
 12656|2|ja|スピリットパクト
 13503|2|ja|スピリットパクト -黄泉の契り-
 2738|4|ja|スプーンおばさん
