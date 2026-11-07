@@ -1,4 +1,4 @@
-# created: Fri Nov  6 03:00:01 2026
+# created: Sat Nov  7 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -7134,6 +7134,7 @@
 14175|2|en|Boonie Bears: The Big Shrink
 11958|4|en|Boonie Bears: To the Rescue!
 1392|2|en|Boorin
+20528|2|en|Booty Royale: Never Go Down Without a Fight!
 13899|3|x-jat|boowara
 5760|2|en|Border
 4516|3|x-jat|BoRe
@@ -7884,6 +7885,9 @@
 320|3|x-jat|cagliostro
 16716|1|x-zht|Cai Bao Gou Da Fanji
 20271|2|x-zht|Cai Shen Dou Zhan Long
+20529|1|x-zht|Caihong Huwei Dui
+20530|1|x-zht|Caihong Huwei Dui 2: Xing Bao Nengliang
+20531|1|x-zht|Caihong Huwei Dui 3: Shengxiao Xing Bao
 647|3|de|Cain
 647|4|de|Cain - Die Macht der Liebe
 20271|1|x-zht|Caishen Dou Zhanlong
@@ -21467,6 +21471,7 @@
 8090|2|x-jat|Hagaren the Movie (2011)
 979|3|x-jat|HagaRen TV
 6107|3|x-jat|hagaren2
+20528|1|x-jat|Hagure Idol Jigoku Hen
 9015|1|x-jat|Hagure Yuusha no Aesthetica
 9015|2|x-jat|Hagure Yuusha no Estetica
 9015|2|x-jat|Hagure Yuusha no Kichiku Bigaku
@@ -22950,6 +22955,7 @@
 15804|1|x-jat|Hetalia: World Stars
 15804|4|en|Hetalia: World Stars
 7448|3|en|Hetalia2
+20532|1|x-zht|Heukkkokdujanggun
 13112|2|en|Heungbu and Nolbu
 13264|1|x-kot|Heungbujeon
 13112|1|x-kot|Heungbuwa Nolbu
@@ -45798,6 +45804,9 @@
 14150|2|en|Rainbow Cat And Blue Rabbit: Undersea Adventures
 14146|2|en|Rainbow Cat and Blue Rabbit: Wielding a Sword to Distant Lands
 14143|2|en|Rainbow Cat And Blue Rabbit: You Asked Me
+20529|4|en|Rainbow Crew
+20530|4|en|Rainbow Crew 2
+20531|4|en|Rainbow Crew 3: Zodiac StarPets
 11487|4|en|Rainbow Days
 11487|4|fr|Rainbow Days
 3636|2|en|Rainbow Fantasia
@@ -66756,6 +66765,7 @@
 16183|4|ru|Любовь после порабощения мира
 12906|4|ru|Любовь похожа на прошедший дождь
 16250|4|ru|Любовь с иголочки
+17630|4|ru|Любовь с иголочки (2025)
 18101|4|ru|Любовь с кончиков пальцев
 9552|2|ru|Любовь старшей сестры
 7995|2|ru|Любовь цыплёнка
@@ -69472,6 +69482,7 @@
 5951|2|ru|Эроманга
 10387|2|ru|Эротическая встреча с инопланетянином!
 1006|2|ru|Эстебан, сын Солнца
+17630|2|ru|Эта фарфоровая кукла влюбилась 2
 4441|2|ru|Это были мы
 15730|4|ru|Это вам не трешовая игра!
 557|4|ru|Это Хамтаро!
@@ -70386,6 +70397,7 @@
 388|2|ar|الفتي الذي رأى الريح
 2073|4|ar|الفرسان
 2707|4|ar|الفرسان الثلاثة
+13960|4|ar|الفرسان النبلاء
 4401|2|ar|الفرقة الأولى: لحظة الحقيقة
 2234|4|ar|الفصول الأربعة
 1544|2|fa|الفن لیت
@@ -75829,6 +75841,7 @@
 3130|2|ko|흑애
 159|2|ko|흑의 단장
 1598|2|ko|흑희 - 질곡의 관-
+20532|4|ko|흙꼭두장군
 8263|2|ko|흡고귀
 13112|4|ko|흥부와 놀부
 13264|4|ko|흥부전
@@ -81399,6 +81412,7 @@
 8150|4|ja|バクマン. (2011)
 8836|4|ja|バクマン. (2012)
 13362|4|ja|ハクメイとミコチ
+20528|4|ja|はぐれアイドル地獄変
 9015|4|ja|はぐれ勇者の鬼畜美学[エステティカ]
 3549|4|ja|バケツでごはん
 12584|4|ja|バケツの穴
@@ -90873,6 +90887,9 @@
 11505|4|ja|彩人四季という名の意思畑
 516|4|zh-Hant|彩夢芭蕾
 7389|2|zh-Hans|彩虹 二舍六房的七人
+20529|4|zh-Hans|彩虹护卫队
+20530|4|zh-Hans|彩虹护卫队2星宝能量
+20531|4|zh-Hans|彩虹护卫队3生肖星宝
 4150|4|ja|彩雲国物語
 5024|4|ja|彩雲国物語 第2シリーズ
 5024|2|zh-Hant|彩雲國物語 第2部
@@ -96152,6 +96169,7 @@
 17507|4|ja|異世界失格
 12562|4|ja|異世界居酒屋~古都アイテーリアの居酒屋のぶ~
 17290|4|zh-Hant|異世界悠閒農家
+19506|4|zh-Hant|異世界悠閒農家 2
 17653|4|ja|異世界来たのでスケベスキルで全力謳歌しようと思う THE ANIMATION
 16389|4|zh-Hant|異世界歸來的舅舅
 18702|4|ja|異世界黙示録マイノグーラ
