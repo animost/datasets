@@ -1,4 +1,4 @@
-# created: Sat Nov  7 03:00:01 2026
+# created: Sun Nov  8 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -12448,6 +12448,7 @@
 1659|1|x-jat|Devilman: Youchou Sirene Hen
 9590|4|en|Devils and Realist
 13283|2|x-jat|Devils Line
+19751|2|en|Devils` Crest
 13283|1|x-jat|Devils` Line
 13283|4|en|Devils` Line
 13283|4|fr|Devils` Line
@@ -12531,8 +12532,13 @@
 17870|4|pt-BR|Diários de uma Apotecária
 18562|4|pt|Diários de uma Apotecária (2025)
 19444|2|pt-BR|Diários de uma Apotecária (2026)
+19444|4|pt|Diários de uma Apotecária (2026)
+19671|4|pt|Diários de uma Apotecária (2027)
 18562|2|pt|Diários de uma Apotecária S2
 19444|2|pt-BR|Diários de uma Apotecária S3
+19444|2|pt|Diários de uma Apotecária S3
+19671|2|x-unk|Diários de uma Apotecária S4
+19670|4|pt|Diários de uma Apotecária: O Filme - O Tesouro da Imperatriz Falecida
 1880|2|en|Diary of a Fishing Fool
 14827|4|en|Diary of Our Days at the Breakwater
 17529|2|pt|Dias Com a Minha Meia-Irmã
@@ -42700,6 +42706,8 @@
 17430|4|ja|Paradox Live THE ANIMATION
 17430|1|x-jat|Paradox Live the Animation
 17430|4|en|Paradox Live the Animation
+20534|4|ja|Paradox Live THE MOVIE
+20534|1|x-jat|Paradox Live the Movie
 3145|3|x-jat|parakiss
 3145|3|x-jat|parakisu
 16441|4|en|Parallel World Pharmacy
@@ -54987,6 +54995,7 @@
 11829|2|pt|Teu nome
 13824|1|x-kot|Teugbyeolpan Turning Mecard W: Vandyne-ui Bimil
 20518|1|x-kot|Teuligkeol Manhwadongsan
+20518|2|x-kot|Teurigkeol Manhwadongsan
 673|3|x-jat|TEX
 673|1|x-jat|Texhnolyze
 673|4|ja|TEXHNOLYZE
@@ -57132,6 +57141,7 @@
 14547|2|en|There is No Way Bitch Academy is Pure!!?
 8043|1|x-jat|There She Is!!
 19440|4|en|There Was a Cute Girl in the Hero`s Party, So I Tried Confessing to Her
+20533|2|en|There Was a Cute Girl in the Hero`s Party, So I Tried Confessing to Her 2
 2708|2|en|There, Here and Where
 12584|2|en|There`s a Hole in My Bucket
 13647|2|en|There`s a Pit in My Our Big Brother`s Brain
@@ -63605,6 +63615,7 @@
 1717|1|x-jat|Yuusha Ou GaoGaiGar Final
 3152|1|x-jat|Yuusha Ou GaoGaiGar Final Grand Glorious Gathering
 19440|1|x-jat|Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku Shite Mita.
+20533|1|x-jat|Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku Shite Mita. 2
 19190|1|x-jat|Yuusha Party o Oidasareta Kiyoubinbou
 19960|1|x-jat|Yuusha Party o Oidasareta Kiyoubinbou 2
 17444|1|x-jat|Yuusha Party o Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau
@@ -87099,6 +87110,7 @@
 10113|4|ja|勇者になれなかった俺はしぶしぶ就職を決意しました. 勇者になれなかった俺の妹が上京してきました.
 19219|4|ja|勇者のクズ
 19440|4|ja|勇者パーティーにかわいい子がいたので, 告白してみた.
+20533|4|ja|勇者パーティーにかわいい子がいたので, 告白してみた. 2
 17444|4|ja|勇者パーティーを追放されたビーストテイマー, 最強種の猫耳少女と出会う
 18782|4|ja|勇者パーティーを追放された白魔導師, Sランク冒険者に拾われる ~この白魔導師が規格外すぎる~
 19190|4|ja|勇者パーティを追い出された器用貧乏
@@ -101637,6 +101649,7 @@
 258|4|zh-Hans|魔法护士小麦
 11721|4|zh-Hans|魔法护士小麦R
 2575|4|zh-Hans|魔法护士小麦Z
+14490|4|zh-Hant|魔法水果籃 (2019)
 14988|4|zh-Hant|魔法水果籃 第二季
 20132|4|zh-Hans|魔法甜心 奇妙! 萌可
 5975|4|zh-Hans|魔法禁书目录
@@ -101654,6 +101667,8 @@
 10182|4|zh-Hant|魔法科高中的劣等生
 11980|4|zh-Hant|魔法科高中的劣等生 呼喚繁星的少女
 15132|2|zh-Hans|魔法科高中的劣等生 来访者篇
+17098|4|zh-Hant|魔法科高中的劣等生 第三季
+16081|4|zh-Hant|魔法科高中的劣等生 追憶篇
 15132|4|zh-Hant|魔法科高中的劣等生來訪者篇
 15952|4|ja|魔法科高校の優等生
 17098|4|ja|魔法科高校の劣等生 (2024)
