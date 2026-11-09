@@ -1,4 +1,4 @@
-# created: Sun Nov  8 03:00:01 2026
+# created: Mon Nov  9 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -19036,6 +19036,7 @@
 13941|1|x-jat|Gekijouban Soushuuhen Made in Abyss
 16952|1|x-jat|Gekijouban Soushuuhen Mazica Party
 12439|1|x-jat|Gekijouban Soushuuhen Overlord
+20536|1|x-jat|Gekijouban Spy x Family
 17785|1|x-jat|Gekijouban Spy x Family Code: White
 18564|1|x-jat|Gekijouban SutoPuri: Hajimari no Monogatari - Strawberry School Festival!!!
 17705|1|x-jat|Gekijouban Sword Art Online: Integral Domain
@@ -42299,7 +42300,6 @@
 19704|1|x-jat|OVA Kegareboshi
 13769|1|x-jat|OVA Muttsuri Do Sukebe Ro Gibo Shimai no Honshitsu Minuite Sex Zanmai
 19547|1|x-jat|OVA Natsu Zuma
-19514|1|x-jat|OVA Sister Breeder
 11268|1|x-jat|OVA Tokyo Ghoul
 19313|1|x-jat|OVA Tonari no Kanojo
 11271|1|x-jat|OVA Tsunpuri
@@ -42317,7 +42317,7 @@
 20409|6|ja|OVA お隣の贄
 19704|4|ja|OVA ケガレボシ
 20506|6|ja|OVA さくら裂ク 散ル花びら
-19514|4|ja|OVA シスターブリーダー
+19514|6|ja|OVA シスターブリーダー
 18049|2|ja|OVA ツンデロシリーズ
 11271|4|ja|OVA ツンプリ
 19313|4|ja|OVA トナリノカノジョ
@@ -51116,6 +51116,7 @@
 13959|4|pl|Sirius the Jaeger
 269|3|x-jat|sispri
 474|2|x-jat|SisPri: Re Pure
+19514|1|x-jat|Sister Breeder
 14549|2|en|Sister Experience Week
 2681|4|en|Sister Marina
 269|1|x-jat|Sister Princess
@@ -52460,6 +52461,8 @@
 17784|4|pl|Spy x Family (2023)
 18677|1|x-jat|Spy x Family (2025)
 18677|4|en|Spy x Family (2025)
+20535|1|x-jat|Spy x Family (2027)
+20535|2|en|Spy x Family (2027)
 17784|2|x-jat|Spy x Family 2nd Season
 17785|4|en|Spy x Family Code: White
 17785|4|pl|Spy x Family Code: White
@@ -52468,10 +52471,13 @@
 17785|4|pt-BR|SPY x FAMILY CÓDIGO: Branco
 17785|4|pt|Spy x Family Código: Branco
 17061|2|en|Spy x Family Part 2
+20535|2|en|Spy x Family S4
 17784|2|x-jat|Spy x Family Season 2
 18677|2|en|Spy x Family Season 3
+20535|2|en|Spy x Family Season 4
 18677|4|de|SPY x FAMILY Staffel 3
 18677|2|it|Spy x Family Stagione 3
+20536|2|en|Spy x Family the Movie
 16947|4|th|SPY x FAMILY ซีซั่น 2
 18933|4|en|Spy x Sect
 19740|4|en|Spy x Sect (2025)
@@ -52480,6 +52486,7 @@
 17061|4|ja|SPY×FAMILY (2022)
 17784|4|ja|SPY×FAMILY (2023)
 18677|4|ja|SPY×FAMILY (2025)
+20535|4|ja|SPY×FAMILY (2027)
 17061|2|en|SPY×FAMILY Part 2
 17784|2|en|SPY×FAMILY Season 2
 17784|2|ja|SPY×FAMILY Season 2
@@ -79036,6 +79043,7 @@
 269|4|ja|シスター・プリンセス
 474|4|ja|シスター・プリンセス ~リピュア~
 269|2|ja|シスター♥プリンセス
+19514|4|ja|シスターブリーダー
 14267|4|ja|したきりすずめ
 2773|4|ja|シックス・エンジェルズ
 12682|2|ja|シックスハートプリンセス
@@ -86787,6 +86795,7 @@
 16180|4|ja|劇場版 Re:cycle of the PENGUINDRUM
 11197|4|ja|劇場版 selector destructed WIXOSS
 12797|4|ja|劇場版 SERVAMP -Alice in the Garden-
+20536|4|ja|劇場版 SPY×FAMILY
 17785|4|ja|劇場版 SPY×FAMILY CODE: White
 8805|4|ja|劇場版 TIGER & BUNNY
 2189|4|ja|劇場版 XXX HOLiC 真夏ノ夜ノ夢
