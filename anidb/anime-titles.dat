@@ -1,4 +1,4 @@
-# created: Mon Nov  9 03:00:02 2026
+# created: Tue Nov 10 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -9089,6 +9089,7 @@
 11356|1|x-jat|Chirico
 3551|1|x-jat|Chirin no Suzu
 3551|2|en|Chirin`s Bell
+20538|1|x-kot|Chiring Chiring Secret Jouju
 15088|4|en|Chiro and Friends
 15088|1|x-kot|Chiro-wa Chingu-deul
 15088|4|x-jat|Chiro!
@@ -23642,6 +23643,7 @@
 15971|3|x-jat|HoloGra
 15965|4|ja|HOLOGRAM CIRCUS
 15965|1|x-jat|Hologram Circus
+20537|1|x-jat|Hololive Alternative Dawn Blue
 2209|3|x-jat|hols
 2209|2|x-jat|Hols no Daiboken
 2209|2|en|Hols the Prince of the Sun
@@ -32213,7 +32215,6 @@
 16298|1|x-zht|Liang Bu Yi
 17988|1|x-zht|Liang Bu Yi 2nd Season
 17988|2|x-zht|Liang Bu Yi Di Er Ji
-18025|1|x-zht|Liang Bu Yi Season 2
 20385|1|x-zht|Liaotian Qun De Richang Shenghuo
 20384|1|x-zht|Liaozhai: Lanre Si
 19538|4|en|Liar Game
@@ -48888,6 +48889,9 @@
 7678|2|en|Secret Hot Spring Tour Hidden Bath
 9433|2|en|Secret Hot Spring Tour Hidden Bath: Mao Chapter
 4263|2|en|Secret Hot Spring Tour The Animation
+20540|1|x-kot|Secret Jouju: Byeol-ui Boseog
+20539|1|x-kot|Secret Jouju: Byeorui Yeosin
+20541|1|x-kot|Secret Jouju: Magical Harmony
 11759|1|x-jat|Secret Journey
 11759|4|ja|SECRET JOURNEY
 2044|2|en|Secret Little Akko: The Sea! The Monster!! Summer Holiday
@@ -71580,6 +71584,7 @@
 18676|4|hi|लेवायथन
 18889|2|hi|विस्टोरिया: छड़ी एंड तलवार सीज़न 2
 13293|4|hi|वोटाकोई: लव इज़ हार्ड फ़ॉर ओटाकु
+19765|4|hi|साइरेन
 10538|4|hi|साएकानो ♭ हाऊ टू रेज़ ए बोरिंग गर्लफ्रेंड
 11221|4|hi|साएकानो ♭ हाऊ टू रेज़ ए बोरिंग गर्लफ्रेंड.फ्लैट
 18654|4|hi|साकामोतो डेज़
@@ -74084,6 +74089,9 @@
 2032|2|ko|시체를 닦다
 18168|2|ko|시크릿 미션 잠입수사관은 절대 지지 않아
 11759|2|ko|시크릿 조니
+20539|4|ko|시크릿 쥬쥬 별의 여신
+20541|4|ko|시크릿 쥬쥬: 마법의 하모니
+20540|4|ko|시크릿쥬쥬 별의 보석
 18874|2|ko|시티 디 애니메이션
 5668|2|ko|식객천국
 13244|4|ko|식극의 소마 세 번째 접시
@@ -75293,6 +75301,7 @@
 4255|2|ko|치궁의 안드로이드
 14116|2|ko|치녀누나 맥스하트
 15088|4|ko|치로와 친구들
+20538|4|ko|치링치링 시크릿 쥬쥬
 19845|2|ko|치매문릉
 3595|2|ko|치모
 6486|2|ko|치열 카르테 The Devilish Cherry
@@ -82883,6 +82892,7 @@
 15971|3|ja|ホロぐら
 12609|4|ja|ホロスコープ~あなたの星座~
 15971|4|ja|ホロのぐらふぃてぃ
+20537|4|ja|ホロライブ・オルタナティブ DAWN BLUE
 7023|4|ja|ポロンギター
 6020|4|ja|ポロンポロン ポロロ
 15705|2|ja|ホワイト ブルー
@@ -84957,7 +84967,6 @@
 14356|4|ja|両人侍誉皮切
 16298|4|zh-Hans|两不疑
 17988|4|zh-Hans|两不疑 第二季
-18025|4|ja|两不疑 第二季
 9678|4|zh-Hans|两个人是少女福尔摩斯
 9582|3|zh-Hans|丧女
 1012|4|zh-Hans|个人授业
