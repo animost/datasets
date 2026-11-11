@@ -1,4 +1,4 @@
-# created: Tue Nov 10 03:00:02 2026
+# created: Wed Nov 11 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -1964,6 +1964,7 @@
 10482|2|x-jat|Aikatsu! Movie
 11262|1|x-jat|Aikatsu! Music Award: Minna de Shou o Moraccha Ima Show!
 12821|1|x-jat|Aikatsu! Nerawareta Mahou no Aikatsu! Card
+19306|4|en|Aikatsu! x PriPara THE MOVIE  A Miraculous Meeting!
 19306|1|x-jat|Aikatsu! x PriPara the Movie: Deai no Kiseki!
 11934|3|x-jat|aikatsu2
 13755|3|x-jat|aikatsu3
@@ -38195,6 +38196,7 @@
 17695|4|en|My Daughter Left the Nest and Returned an S-Rank Adventurer
 1327|2|en|My Days With Midori
 1489|4|en|My Dear Marie
+20543|2|en|My Death Flags Show No Sign of Ending
 18534|4|en|My Deer Friend Nokotan
 13647|2|en|My Disciple Died Yet Again
 8438|2|en|My Dog Bakgu
@@ -40662,6 +40664,7 @@
 2740|2|pt-BR|O Gênio Maluco
 264|4|es-GA|O Gran Suxi
 17662|4|pt-BR|O Grande Clérigo
+19276|4|pt|O Guardião da Árvore de Cânfora
 8181|2|tr|O Gün Gördüğümüz Çiçeğin Adını Hala Bilmiyoruz
 17340|4|pt|O Herói Lendário Está Morto!
 4549|2|pt-BR|O Homen Cinza
@@ -41823,6 +41826,7 @@
 10208|1|x-jat|Ore no Nounai Sentakushi ga, Gakuen LoveCome o Zenryoku de Jama Shite Iru (2014)
 9787|2|x-jat|Ore no Nounai Sentakushi ga, Gakuen Lovecome o Zenryoku de Jama Shiteiru
 10208|2|x-jat|Ore no Nounai Sentakushi ga, Gakuen Lovecome o Zenryoku de Jama Shiteiru (2014)
+20543|1|x-jat|Ore no Shibou Flag ga Todomaru Tokoro o Shiranai
 7705|1|x-jat|Ore no Sora: Keiji Hen
 15403|1|x-jat|Ore no Yubi de Midarero. Heitengo Futarikiri no Salon de...
 14442|1|x-jat|Ore o Suki na no wa Omae dake ka yo
@@ -42527,6 +42531,7 @@
 16261|3|x-jat|paladin
 17078|3|x-jat|paladin s2
 14642|4|pt-BR|Palavras que Borbulham como Refrigerante
+18780|4|pt|Palco Colorido! O Filme: Uma Miku Que Não Sabe Cantar
 4158|1|x-jat|Pale Cocoon
 4158|4|de|Pale Cocoon
 4158|4|fr|Pale Cocoon
@@ -48889,6 +48894,7 @@
 7678|2|en|Secret Hot Spring Tour Hidden Bath
 9433|2|en|Secret Hot Spring Tour Hidden Bath: Mao Chapter
 4263|2|en|Secret Hot Spring Tour The Animation
+20542|1|x-kot|Secret Jouju: Best Friends
 20540|1|x-kot|Secret Jouju: Byeol-ui Boseog
 20539|1|x-kot|Secret Jouju: Byeorui Yeosin
 20541|1|x-kot|Secret Jouju: Magical Harmony
@@ -55543,6 +55549,7 @@
 12359|4|en|The Dragon Dentist
 12359|4|it|The Dragon Dentist
 12359|4|fr|The Dragon Dentist
+20544|4|en|The Dragon Next Door
 18671|2|en|The Dragon Prince
 19750|2|en|The Dragon Spirit
 7209|4|en|The Dream Machine
@@ -62823,6 +62830,7 @@
 16653|1|x-zht|Yong Zhe Donghua Xilie
 16651|1|x-zht|Yong Zhi Cheng
 19109|1|x-zht|Yongheng Jian Zu
+20544|1|x-kot|Yongisanda
 9681|1|x-jat|Yonhyakunijuu Renpai Girl
 10084|1|x-jat|Yonimo Kimyou na Man Gatarou
 8747|1|x-jat|Yonimo Osoroshii Grimm Douwa
@@ -71529,6 +71537,8 @@
 5303|2|fa|یوبی، روباه پنج دم
 16108|4|hi|अकुमा-कुन (2023)
 4193|4|hi|अर्थसी की कहानियां
+17341|4|hi|आइसब्लेड जादूगर दुनिया पर राज करेगा
+20065|4|hi|आइसब्लेड जादूगर दुनिया पर राज करेगा 2
 12906|4|hi|आफ्टर द रेन
 12653|4|hi|इनुयाशिकी लास्ट हीरो
 15587|4|hi|ईयरविग ऐंड द विच
@@ -72659,6 +72669,7 @@
 18935|4|ko|끝이 아닌 시작
 14131|2|ko|끼워줄께
 17495|4|ko|나 혼자만 레벨업
+19542|2|ko|나가치치 나가이 씨 The Animation
 10815|4|ko|나가토 유키짱의 소실
 11163|2|ko|나가토 유키짱의 소실: 끝낼 수 없는 여름방학
 4143|4|ko|나나
@@ -72839,6 +72850,7 @@
 15023|4|ko|누르페타
 9762|4|ko|누키 움찔!
 12594|4|ko|누키 움찔! 레볼루션
+19956|2|ko|누키누키 푹 박는 주의
 9762|2|ko|누키도킷!
 12594|2|ko|누키도킷! 레볼루션
 18459|2|ko|누키타시 THE ANIMATION
@@ -74089,6 +74101,7 @@
 2032|2|ko|시체를 닦다
 18168|2|ko|시크릿 미션 잠입수사관은 절대 지지 않아
 11759|2|ko|시크릿 조니
+20542|4|ko|시크릿 쥬쥬 베스트 프렌즈
 20539|4|ko|시크릿 쥬쥬 별의 여신
 20541|4|ko|시크릿 쥬쥬: 마법의 하모니
 20540|4|ko|시크릿쥬쥬 별의 보석
@@ -74641,6 +74654,7 @@
 19014|2|ko|용사의 모험은 끝났다
 18124|2|ko|용사형에 처함
 13281|4|ko|용왕이 하는 일!
+20544|4|ko|용이산다
 957|4|ko|용자왕 가오가이거
 2373|2|ko|우대접대
 15406|4|ko|우등생 아야카의 뒷면
@@ -85540,6 +85554,7 @@
 5293|4|ja|佐武と市 捕物控
 15793|4|ja|佐賀事変
 14198|4|zh-Hant|佐賀偶像是傳奇
+16911|4|zh-Hant|佐賀偶像是傳奇 夢幻銀河樂園
 15028|4|zh-Hant|佐賀偶像是傳奇 捲土重來
 11855|4|ja|佐賀県を巡るアニメーション
 12779|4|ja|佐賀県を巡るアニメーション (2017)
@@ -85707,6 +85722,7 @@
 9134|4|ja|俺の妹がこんなに可愛いわけがない.
 9305|4|ja|俺の彼女と幼なじみが修羅場すぎる
 15403|4|ja|俺の指で乱れろ. ~閉店後二人きりのサロンで...~
+20543|4|ja|俺の死亡フラグが留まるところを知らない
 7705|4|ja|俺の空 刑事篇
 9787|4|ja|俺の脳内選択肢が, 学園ラブコメを全力で邪魔している
 10208|4|ja|俺の脳内選択肢が, 学園ラブコメを全力で邪魔している (2014)
