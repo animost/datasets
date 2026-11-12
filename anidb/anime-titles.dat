@@ -1,4 +1,4 @@
-# created: Wed Nov 11 03:00:02 2026
+# created: Thu Nov 12 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -10321,6 +10321,7 @@
 12767|2|en|Crayon Shin-chan Side Story: Lone Wolf and Family
 13201|2|en|Crayon Shin-chan Side Story: O O O no Shinnosuke
 12517|2|en|Crayon Shin-chan Side Story: Toy Wars
+4624|2|en|Crayon Shin-chan the Movie: Action Kamen VS Leotard Devil
 18306|2|en|Crayon Shin-chan the Movie: Our Dinosaur Diary
 19766|2|en|Crayon Shin-chan the Movie: Spooky! My Yokai Vacation
 19256|2|en|Crayon Shin-chan the Movie: Super Hot! The Spicy Kasukabe Dancers
@@ -17432,7 +17433,6 @@
 12128|1|x-jat|Four Seasons: Fuuka to Nanami
 14881|2|en|Four Warriors
 14882|2|en|Four Warriors: The Underworld
-12940|1|x-jat|Four Youth
 5275|2|en|Four-leaf Clover
 18586|2|en|Fox Fairy Little Matchmaker: Flowers in the Mirror Chapter
 13604|2|en|Fox Fears
@@ -38813,6 +38813,8 @@
 12047|1|x-jat|Nanatsu no Taizai: Seisen no Shirushi
 2288|1|x-jat|Nanatsu no Umi no Tico
 4884|1|x-jat|Nanatsu-iro Drops: First Love That Encompasses You
+20545|2|en|Nanatsu-ya: Shinobu and Her Jewelry Box
+20545|1|x-jat|Nanatsu-ya: Shinobu no Housekibako
 4884|2|x-jat|Nanatsuiro Drops
 11943|1|x-jat|Nanatsuko Nezumi Series
 17030|3|x-jat|Nanatsuma
@@ -84586,6 +84588,7 @@
 13599|4|ja|七つの美徳
 17030|4|ja|七つの魔剣が支配する
 11943|4|ja|七つ子ねずみシリーズ
+20545|4|ja|七つ屋 志のぶの宝石匣
 853|4|ja|七人のナナ
 10441|4|zh-Hans|七人魔法使
 18485|4|zh-Hans|七侯笔录
@@ -88144,7 +88147,6 @@
 18555|2|zh-Hans|四处贴上吧！小狗 第二季
 5275|2|zh-Hans|四娘物语
 14426|4|zh-Hans|四季樱
-12940|4|ja|四式青春
 10539|4|ja|四月は君の嘘
 10892|4|ja|四月は君の嘘 MOMENTS
 15520|4|ja|四月一日さん家と
