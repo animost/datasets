@@ -1,4 +1,4 @@
-# created: Thu Nov 12 03:00:02 2026
+# created: Fri Nov 13 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -4025,6 +4025,7 @@
 11203|2|en|Assassination Classroom: Final Season
 11203|4|en|Assassination Classroom: Second Season
 15475|2|en|Assassination Classroom: Second Season - Extra Lesson
+19567|4|es|Assassination Classroom. La película: El tiempo que compartimos
 14453|4|en|Assassins Pride
 14453|1|x-jat|Assassins Pride
 15156|1|x-jat|Assault Lily: Bouquet
@@ -7338,7 +7339,6 @@
 2879|4|en|Brave Story
 11964|1|x-jat|Brave Witches
 11964|4|en|Brave Witches
-17130|1|en|Brave Witches: Petersburg Grand Strategy
 8571|4|ja|BRAVE10
 8571|2|x-jat|brave10
 8571|4|zh-Hans|BRAVE10～真田十勇士～
@@ -24067,6 +24067,7 @@
 15052|2|en|How To Build A Wonderful Country
 15052|2|en|How to Build a Wonderful Nation
 13252|4|en|How to Keep a Mummy
+17686|2|en|How to Love Your Elf Bride
 13338|2|en|How to Steal 55 Kisses
 10538|2|en|How to Train the Ordinary Girl to be a Heroine
 14149|2|en|Howie & Landau Brave Return
@@ -32898,7 +32899,6 @@
 19989|1|x-jat|Love Live! Hasu no Sora Jogakuin School Idol Club
 19376|1|x-jat|Love Live! Hasu no Sora Jogakuin School Idol Club: Bloom Garden Party
 19376|2|en|Love Live! Hasunosora Girls` High School Idol Club: Bloom Garden Party
-20069|1|x-jat|Love Live! Hasunosora Jogakuin School Idol Club Bloom Garden Party
 11250|1|x-jat|Love Live! M`s-&gt;Next Love Live! 2014: Endless Parade
 8874|2|x-jat|Love Live! MV 4
 8520|2|x-jat|Love Live! Natsu-iro Egao de 1, 2, Jump!
@@ -45280,6 +45280,7 @@
 8069|4|en|Puella Magi Madoka Magica
 8069|4|fr|Puella Magi Madoka Magica
 8069|2|it|Puella Magi Madoka Magica
+16278|4|es|Puella Magi Madoka Magica La película. La noche de Walpurgis: El ascenso
 8778|4|en|Puella Magi Madoka Magica the Movie
 16278|4|en|Puella Magi Madoka Magica the Movie - Walpurgisnacht: Rising
 16278|4|de|Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-
@@ -83946,7 +83947,6 @@
 15313|4|ja|ラブライブ! 虹ヶ咲学園スクールアイドル同好会
 16310|4|ja|ラブライブ! 虹ヶ咲学園スクールアイドル同好会 (2022)
 17732|4|ja|ラブライブ! 虹ヶ咲学園スクールアイドル同好会 NEXT SKY
-20069|4|ja|ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party
 6464|4|ja|ラブリー・シリーズ
 14974|4|ja|らぶりー♡
 11575|4|ja|ラブリームービー いとしのムーコ
@@ -97213,7 +97213,6 @@
 6747|4|zh-Hant|笨蛋，測驗，召喚獸
 6747|4|zh-Hans|笨蛋、测验、召唤兽
 14203|4|ja|第501統合戦闘航空団 ストライクウィッチーズ ROAD to BERLIN
-17130|4|ja|第501統合戦闘航空団 ブレイブウィッチーズ ペテルブルグ大戦略
 18255|4|zh-Hans|第一序列
 19264|4|zh-Hans|第一序列 第二季
 13248|4|zh-Hans|第一次的Gal OAD
