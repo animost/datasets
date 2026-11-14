@@ -1,4 +1,4 @@
-# created: Fri Nov 13 03:00:02 2026
+# created: Sat Nov 14 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -25851,6 +25851,7 @@
 18241|1|x-jat|Isekai de Cheat Skill o Te ni Shita Ore wa, Genjitsu Sekai o mo Musou Suru: Level Up wa Jinsei o Kaeta (2026)
 19980|1|x-jat|Isekai de Cheat Skill o Te ni Shita Ore wa, Genjitsu Sekai o mo Musou Suru: Level Up wa Jinsei o Kaeta 2nd Season
 17504|1|x-jat|Isekai de Mofumofu Nadenade Suru Tame ni Ganbattemasu.
+20546|1|x-jat|Isekai Douraku ni Akitara
 15537|1|x-jat|Isekai Harem Monogatari
 12562|2|x-jat|Isekai Izakaya - Koto Aitheria no Izakaya Nobu
 12562|4|en|Isekai Izakaya: Japanese Food from Another World
@@ -32512,6 +32513,7 @@
 6157|1|x-jat|Live On Cardliver Kakeru
 4339|4|en|Living for the Day After Tomorrow
 19455|2|en|Living in a One-Tatami Room!
+20546|2|en|Living It Up in Another World Until I Get Bored
 534|4|en|Living Sex Toy Delivery
 4657|2|en|Living Together
 13417|5|zh|Lixiang Jinqu
@@ -41873,7 +41875,6 @@
 10918|3|x-jat|OreMono
 10635|4|en|Orenchi no Furo Jijo
 10635|1|x-jat|Orenchi no Furo Jijou
-16247|1|x-jat|oreneko
 9305|3|x-jat|OreShura
 9305|4|en|Oreshura
 14442|3|en|ORESUKI
@@ -77355,7 +77356,6 @@
 10133|4|ja|おれたち, ともだち!
 4091|4|ja|おれたちイジワルケイ
 8112|3|ja|おれつば
-16247|4|ja|オレネコ
 7334|4|ja|おれは直角
 3485|4|ja|おれは鉄兵
 10635|4|ja|オレん家のフロ事情
@@ -96231,6 +96231,7 @@
 19948|4|ja|異世界転生騒動記
 15918|4|ja|異世界迷宮でハーレムを
 15918|4|zh-Hant|異世界迷宮裡的後宮生活
+20546|4|ja|異世界道楽に飽きたら
 12385|4|ja|異世界食堂
 12385|4|zh-Hant|異世界食堂
 16274|4|ja|異世界食堂2
