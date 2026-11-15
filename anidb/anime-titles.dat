@@ -1,4 +1,4 @@
-# created: Sat Nov 14 03:00:02 2026
+# created: Sun Nov 15 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -21279,7 +21279,7 @@
 7237|2|en|Gurumi Town`s Trap: Stained Body in the Clouds
 15018|1|x-jat|Gusha no Parade
 17910|4|en|Gushing over Magical Girls
-18899|2|en|Gushing over Magical Girls 2
+18899|2|en|Gushing over Magical Girls Season 2
 8922|2|x-jat|Guskô Budori no Denki
 6572|1|x-jat|Guskou Budori no Denki
 8922|1|x-jat|Guskou Budori no Denki (2012)
@@ -24480,7 +24480,7 @@
 19499|2|ko|H한 의붓누나 시리즈
 19499|4|ja|Hな義姉シリーズ The Animation
 17910|2|en|I Admire Magical Girls, and...
-18899|2|en|I Admire Magical Girls, and... 2
+18899|2|en|I Admire Magical Girls, and... Season 2
 19502|2|en|I am "Yingtai"
 6576|2|en|I Am a Cat
 15860|2|en|I Am a Great God
@@ -34322,7 +34322,7 @@
 12317|4|en|Mahou Shoujo Nante Mouiidesukara Second Season
 187|2|x-jat|Mahou Shoujo Neko Taruto
 17910|1|x-jat|Mahou Shoujo ni Akogarete
-18899|1|x-jat|Mahou Shoujo ni Akogarete 2
+18899|1|x-jat|Mahou Shoujo ni Akogarete Season 2
 18109|1|x-jat|Mahou Shoujo Noble Rose The Animation
 10770|1|x-jat|Mahou Shoujo Ore
 1075|1|x-jat|Mahou Shoujo Pretty Sammy
@@ -46182,6 +46182,7 @@
 17947|4|en|Re:Zero - Starting Life in Another World (2024)
 19242|4|en|Re:Zero - Starting Life in Another World (2026)
 14792|2|en|Re:Zero - Starting Life in Another World 2nd Season
+20547|2|en|Re:Zero - Starting Life in Another World 5th Season
 17947|2|en|Re:Zero - Starting Life in Another World Season 3
 19242|2|en|Re:Zero - Starting Life in Another World Season 4
 14792|4|de|Re:ZERO -Starting Life in Another World- 2
@@ -46218,6 +46219,7 @@
 15593|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2
 17947|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season
 19242|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu 4th Season
+20547|1|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu 5th Season
 14792|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu S2
 14792|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu Season 2 Part 1
 15593|2|x-jat|Re:Zero kara Hajimeru Isekai Seikatsu Season 2 Part 2
@@ -46236,6 +46238,7 @@
 19242|4|ja|Re:ゼロから始める異世界生活 (2026)
 14792|2|ja|Re:ゼロから始める異世界生活 2nd season
 15593|2|ja|Re:ゼロから始める異世界生活 2nd season 後半クール
+20547|4|ja|Re:ゼロから始める異世界生活 5th season
 11370|2|ja|Re:ゼロから始める異世界生活 新編集版
 17947|4|zh-Hans|Re：从零开始的异世界生活 第三季
 19242|4|zh-Hans|Re：从零开始的异世界生活 第四季
@@ -61703,6 +61706,7 @@
 19729|2|x-zht|Wu Dong Qiankun 6
 15687|1|x-zht|Wu Dong Qiankun Di Er Ji
 19729|1|x-zht|Wu Dong Qiankun Di Liu Ji
+20548|1|x-zht|Wu Dong Qiankun Di Qi Ji
 16580|2|x-zht|Wu Dong Qiankun Di San Ji
 17818|1|x-zht|Wu Dong Qiankun Di Si Ji
 19126|1|x-zht|Wu Dong Qiankun Di Wu Ji
@@ -67471,6 +67475,7 @@
 13|2|uk|Нуар
 13|4|ru|Нуар
 3651|2|uk|Нудьга Судзумії Харухі
+18459|2|ru|Нукитаси
 8160|2|bg|Нулева съдба
 15597|4|ru|НУЛЕВОЙ ЭДЕМ
 4146|2|ru|Нулизин фамильяр
@@ -94352,6 +94357,7 @@
 16580|4|zh-Hans|武动乾坤 (2021)
 19126|2|zh-Hans|武动乾坤 第5季
 19729|2|zh-Hans|武动乾坤 第6季
+20548|4|zh-Hans|武动乾坤 第七季
 16580|2|zh-Hans|武动乾坤 第三季
 15687|4|zh-Hans|武动乾坤 第二季
 19126|4|zh-Hans|武动乾坤 第五季
@@ -101600,7 +101606,7 @@
 11691|4|ja|魔法少女なんてもういいですから.
 12317|4|ja|魔法少女なんてもういいですから. セカンドシーズン
 17910|4|ja|魔法少女にあこがれて
-18899|4|ja|魔法少女にあこがれて 2
+18899|4|ja|魔法少女にあこがれて Season2
 18109|4|ja|魔法少女ノーブル・ローズ THE ANIMATION
 10461|4|ja|魔法少女はキスして変身[かわ]る ~相手が彼以外の人だなんて......~
 10461|2|ja|魔法少女はキスして変身る
