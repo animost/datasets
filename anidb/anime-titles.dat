@@ -1,4 +1,4 @@
-# created: Sun Nov 15 03:00:02 2026
+# created: Mon Nov 16 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -17023,6 +17023,7 @@
 156|4|de|Final Fantasy: Unlimited
 156|4|en|Final Fantasy: Unlimited
 3146|4|pl|Final Fantasy: Wojna dusz
+20550|1|x-jat|Final Re:Quest The Movie
 1956|4|en|Final Yamato
 17562|4|ja|Find Your One Way
 17562|1|x-jat|Find Your One Way
@@ -24434,6 +24435,7 @@
 17341|3|x-jat|hyouken
 17341|1|x-jat|Hyouken no Majutsushi ga Sekai o Suberu
 20065|1|x-jat|Hyouken no Majutsushi ga Sekai o Suberu II
+17341|2|x-jat|Hyouken no Majutsushi ga Sekai wo Suberu
 20065|2|x-jat|Hyouken no Majutsushi ga Sekai wo Suberu S2
 14362|1|x-jat|Hyoutan
 8122|2|x-jat|Hyoutan Douji
@@ -35762,6 +35764,7 @@
 16899|1|x-zht|Meichuxi De Yinyangshi Yijia 3
 18312|1|x-jat|Meiji Gekken: 1874
 18312|4|en|Meiji Gekken: 1874
+20551|1|x-jat|Meiji hen
 12461|1|x-jat|Meiji Tokyo Renka
 12461|4|en|Meiji Tokyo Renka
 20438|1|x-jat|Meiji-hen
@@ -57165,6 +57168,7 @@
 19308|2|en|There Is Also a Hole in the Student Organization!
 14547|2|en|There is No Way Bitch Academy is Pure!!?
 8043|1|x-jat|There She Is!!
+20549|1|x-jat|There She Is!! Another Step
 19440|4|en|There Was a Cute Girl in the Hero`s Party, So I Tried Confessing to Her
 20533|2|en|There Was a Cute Girl in the Hero`s Party, So I Tried Confessing to Her 2
 2708|2|en|There, Here and Where
@@ -73075,6 +73079,7 @@
 19561|2|ko|딸기 애가 ~엉성하고 건방진 여동생과 딱 잘라 말할 수 없는 오빠~
 8250|4|ko|떠돌이 까치
 8043|4|ko|떳다 그녀!!
+20549|4|ko|떳다 그녀!! another step
 12955|4|ko|똑똑박사 에디
 9650|2|ko|똘이와 백공룡 티라노
 9597|4|ko|똘이와 제타 로보트
@@ -82152,6 +82157,7 @@
 446|4|ja|ファイナルファンタジー
 3146|4|ja|ファイナルファンタジー (2001)
 1208|4|ja|ファイナルファンタジーVII アドベントチルドレン
+20550|4|ja|ファイナルリクエスト劇場版
 652|4|ja|ファイブカード
 730|5|ja|ファイブスターストーリーズ
 730|4|ja|ファイブスター物語
@@ -84843,6 +84849,7 @@
 19492|4|zh-Hant|不虐待我的繼母與繼姐
 19492|4|zh-Hans|不虐待我的继母与继姐
 15622|4|zh-Hant|不要欺負我，長瀞同學
+16926|4|zh-Hant|不要欺負我，長瀞同學 2nd Attack
 15622|4|zh-Hans|不要欺负我，长瀞同学
 16926|4|zh-Hans|不要欺负我，长瀞同学 第二季
 12804|4|zh-Hans|不要输！！恶之军团！
@@ -85258,6 +85265,7 @@
 4583|4|ja|京四郎と永遠の空
 4583|2|zh-Hans|京四郎和永远的天空
 1001|4|ja|京極夏彦 巷説百物語
+20551|4|ja|京都アニメーション 30秒CM
 13904|4|ja|京都寺町三条のホームズ
 13904|4|zh-Hans|京都寺町三条商店街的福尔摩斯
 13904|4|zh-Hant|京都寺町三條商店街的福爾摩斯
@@ -92819,6 +92827,7 @@
 18232|4|zh-Hans|无职英雄：技能什么的毫无用处
 14758|4|zh-Hans|无职转生～到了异世界就拿出真本事～
 15954|4|zh-Hans|无职转生～到了异世界就拿出真本事～ (2021)
+18727|4|zh-Hans|无职转生～到了异世界就拿出真本事～ 第三季
 17236|4|zh-Hans|无职转生～到了异世界就拿出真本事～ 第二季
 18104|4|zh-Hans|无职转生～到了异世界就拿出真本事～ 第二季 第二季度
 15492|4|zh-Hans|无能力者娜娜
@@ -93408,6 +93417,7 @@
 9574|4|zh-Hant|暮蟬悲鳴時擴～Outbreak～
 10462|4|ja|暴れん坊力士!!松太郎
 7443|4|zh-Hans|暴力宇宙海贼
+19530|4|zh-Hans|暴怒千金发誓复仇。 ～凭借魔导书之力打垮祖国～
 7601|4|ja|暴走戦國史
 17687|4|ja|暴食のベルセルク
 20026|4|ja|暴食のベルセルク Season 2
