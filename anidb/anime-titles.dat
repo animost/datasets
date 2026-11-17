@@ -1,4 +1,4 @@
-# created: Mon Nov 16 03:00:01 2026
+# created: Tue Nov 17 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -12527,6 +12527,7 @@
 11115|2|x-unk|Diamond no Ace 2nd Season
 14504|2|x-jat|Diamond no Ace: Act II
 11115|2|x-unk|Diamond no Ace: Second Season
+20552|1|x-jat|Diamond no Kouzai
 18051|1|x-zht|Dian Qi Shao Nu
 18051|2|x-zht|Dianqi Shaonu
 8395|2|pt-BR|Diário do Futuro
@@ -37725,6 +37726,7 @@
 7417|1|x-jat|Mousou Kagaku Series: Wandaba Style - Mix Juice no Tsukurikata
 14665|4|ja|MOVE TO THE FUTURE
 14665|1|x-jat|Move to the Future
+19588|2|en|Move! Cat Folktales
 2978|2|en|Movie Beast Wars Second: Super Lifeform Transformers - Lio Convoy`s Close Call!
 13830|2|en|Movie Is It Wrong to Try to Pick Up Girls in a Dungeon? Arrow of the Orion
 4992|2|en|Movie: The Fox Versus the Racoon
@@ -55441,6 +55443,7 @@
 15586|2|en|The Day That Guy Embraced Her
 2532|4|en|The Day the Earth Moved
 2532|2|en|The Day the Earth Shook
+20552|2|en|The Days of Diamond
 11140|2|ko|THE DEAREST
 11140|2|en|The Dearest
 8301|2|en|The death lullaby
@@ -59247,6 +59250,7 @@
 515|2|lt|Ugninis Labirintas
 3095|4|it|Ugo il Re del Judo
 4992|1|x-jat|Ugokie Kori no Tatehiki
+19588|2|x-jat|Ugoku! Neko Mukashi Banashi
 19588|1|x-jat|Ugoku! Neko Mukashibanashi
 15916|1|x-jat|Ugoku! Nya Shogi
 9156|1|x-jat|Uhou Renka
@@ -61371,9 +61375,9 @@
 18816|1|x-jat|Witch Watch
 18816|4|en|Witch Watch
 18816|4|pl|Witch Watch
-19640|4|ja|WITCH WATCH 2
-19640|1|x-jat|Witch Watch 2
-19640|2|en|Witch Watch 2
+19640|1|x-jat|Witch Watch (2027)
+19640|4|ja|WITCH WATCH (2027)
+19640|2|en|Witch Watch (2027)
 18816|4|zh-Hant|WITCH WATCH 魔女守護者
 286|2|en|Witch`s Delivery Service
 2511|1|x-jat|Witchblade
@@ -67108,6 +67112,15 @@
 14642|4|ru|Мое семнадцатое лето
 10529|4|ru|Моей сестрёнкой стала Повелительница демонов
 12933|2|ru|Может я и дурочка, зато член сосу гениально
+10894|2|ru|Может, я встречу тебя в подземелье?
+13829|2|ru|Может, я встречу тебя в подземелье? II
+15111|2|ru|Может, я встречу тебя в подземелье? III
+16032|2|ru|Может, я встречу тебя в подземелье? IV
+17652|2|ru|Может, я встречу тебя в подземелье? IV. Часть 2
+11941|2|ru|Может, я встречу тебя в подземелье? OVA
+18267|2|ru|Может, я встречу тебя в подземелье? V
+11974|2|ru|Может, я встречу тебя в подземелье? Меч Оратории
+13830|2|ru|Может, я встречу тебя в подземелье? Стрела Ориона
 8131|2|ru|Мозг Фи: Божественная головоломка
 15851|4|ru|Мои девушки
 10221|2|ru|Мои огромные похотливые старшие сёстры
@@ -74608,6 +74621,7 @@
 13584|4|ko|오스카의 오아시스
 5473|2|ko|오오에도 48가지 수법
 17941|4|ko|오오쿠
+20442|2|ko|오우슌 사립 여학교의 남배우
 13383|2|ko|오직 내 가슴의 영혼
 1398|2|ko|오키드 엠블럼
 13293|4|ko|오타쿠에게 사랑은 어려워
@@ -74638,6 +74652,7 @@
 8047|4|ko|왕후심청
 17884|4|ko|외과의사 엘리제
 1181|2|ko|외도학원
+20229|2|ko|외로운 아내
 17759|4|ko|외모지상주의
 9909|2|ko|외설 미사일
 16063|4|ko|외톨이 THE ROCK!
@@ -76728,6 +76743,7 @@
 7608|4|ja|ウィッシュエンジェル -翼は小さいけれど-
 2821|4|ja|ウィッチ ヴィレッジ ストーリー
 18816|2|ja|ウィッチウォッチ
+19640|2|ja|ウィッチウォッチ 2
 9496|4|ja|ウィッチクラフトワークス
 10397|4|ja|ウィッチクラフトワークス 多華宮君と妹の悪巧み
 96|4|ja|ウィッチハンター ロビン
@@ -79972,6 +79988,7 @@
 18638|4|ja|ダイヤのA actII Second Season
 9881|4|ja|ダイヤのA[エース]
 11115|4|ja|ダイヤのA[エース] -SECOND SEASON-
+20552|4|ja|ダイヤモンドの功罪
 3601|4|ja|タオタオ絵本館 世界動物ばなし
 13979|3|ja|だかいち
 11601|4|ja|だがしかし
