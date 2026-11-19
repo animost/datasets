@@ -1,4 +1,4 @@
-# created: Wed Nov 18 03:00:02 2026
+# created: Thu Nov 19 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -8706,6 +8706,7 @@
 14462|1|x-zht|Chao Zhi Neng Zu Qiu 2
 14462|2|x-zht|Chao Zhi Neng Zu Qiu 2: Shijie Dasai Pian
 19784|1|x-zht|Chaofan Jinhua
+19664|1|x-zht|Chaoji Fei Xia: Wenhua Zhonghua
 11080|4|en|Chaos Dragon
 11080|4|fr|Chaos Dragon
 11080|4|de|Chaos Dragon
@@ -53455,7 +53456,6 @@
 1314|2|en|Super Transformation Cosprayers
 8257|2|en|Super Veggie Torracman
 19638|1|x-kot|Super Wings The Movie: Maximum Speed
-19664|1|x-zht|Super Wings: China Culture
 13278|4|pl|Super Wings: Strażnicy Świata
 18590|4|en|SUPER XIANG
 2108|4|en|Super Yoyo
@@ -63597,7 +63597,7 @@
 1084|1|x-jat|Yuu Yuu Hakusho (1993)
 14506|1|x-jat|Yuu Yuu Hakusho Kanzen Shinsaku Animation
 753|1|x-jat|Yuu Yuu Hakusho: Meikai Shitou Hen - Honoo no Kizuna
-20463|1|x-jat|Yuu-san chi! from Yuu-hachi
+20463|1|x-jat|Yuu-san Chi! from Yuu-hachi
 828|3|x-jat|yuugen
 828|1|x-jat|Yuugen Kaisha
 828|3|x-jat|yuugenk
@@ -83779,7 +83779,7 @@
 19440|3|ja|ゆうかわ
 14998|5|ja|ゆうき×あおい キメラプロジェクト
 14634|5|ja|ゆうきのはながひらくとき やなせたかしとあんぱんまんのものがたり
-20463|4|ja|ゆうさんち！from 遊ハち
+20463|4|ja|ゆうさんち! from 遊ハち
 9932|4|ja|ゆうとくんがいく
 12740|4|ja|ゆかいなアニマルバス
 13111|4|ja|ゆかいなアニマルバス (2017)
