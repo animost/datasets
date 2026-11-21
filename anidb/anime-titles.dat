@@ -1,4 +1,4 @@
-# created: Fri Nov 20 03:00:01 2026
+# created: Sat Nov 21 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -5150,12 +5150,15 @@
 14075|2|en|BanG Dream! Season 2
 19566|1|x-jat|Bang Dream! Yumemita
 19566|4|en|Bang Dream! Yumemita
+20556|2|en|Bang Dream! Yumemita (New Animation)
+20556|1|x-jat|Bang Dream! Yumemita (Shinsaku Animation)
 17981|4|ru|BanG Dream! Это MyGO!
 17240|4|ja|BanG Dream! ガールズバンドパーティ! 5th Anniversary Animation -CiRCLE THANKS PARTY!-
 14077|4|ja|BanG Dream! ガルパ☆ピコ
 15307|4|ja|BanG Dream! ガルパ☆ピコ ~大盛り~
 16370|4|ja|BanG Dream! ガルパ☆ピコ ふぃーばー!
 19566|4|ja|BanG Dream! ゆめ∞みた
+20556|4|ja|BanG Dream! ゆめ∞みた (新作アニメーション)
 14077|4|zh-Hans|BanG Dream! 少女乐团派对！
 14802|4|zh-Hans|BanG Dream! 梦想协奏曲 电影演唱会
 14076|4|zh-Hans|BanG Dream! 梦想协奏曲 第三季
@@ -11911,6 +11914,7 @@
 19751|1|x-jat|Demons` Crest
 6284|2|lt|Demonų Valdovai
 4776|4|hu|Démonvadászok - Devil May Cry
+19751|2|x-jat|Demonzu Kuresto
 17026|4|da|Den imaginære
 17026|4|no|Den imaginære
 4345|4|en|Den-noh Coil
@@ -12506,6 +12510,7 @@
 18638|1|x-jat|Dia no Ace: Act II Second Season
 20143|1|x-jat|Dia no Ace: Act II Second Season (2026)
 11115|1|x-jat|Dia no Ace: Second Season
+19751|4|pl|Diabelska pieczęć
 9717|1|x-jat|Diabolik Lovers
 9717|4|ja|DIABOLIK LOVERS
 9717|4|fr|Diabolik Lovers
@@ -14626,6 +14631,7 @@
 15471|1|x-jat|Duel Masters King
 17195|1|x-jat|Duel Masters King Max
 16009|1|x-jat|Duel Masters King!
+20557|4|ja|Duel Masters LOST ~失楽の訣闘~
 19884|4|ja|Duel Masters LOST ~忘却の太陽~
 19913|4|ja|Duel Masters LOST ~断罪の少年~
 18797|4|ja|Duel Masters LOST ~月下の死神~
@@ -14635,6 +14641,7 @@
 19913|1|x-jat|Duel Masters Lost: Danzai no Shounen
 18797|2|en|Duel Masters LOST: Death Under the Moon
 18797|1|x-jat|Duel Masters Lost: Gekka no Shinigami
+20557|1|x-jat|Duel Masters Lost: Shitsuraku no Duel
 18521|1|x-jat|Duel Masters Lost: Tsuioku no Suishou
 2911|2|x-jat|Duel Masters Movie
 2911|2|en|Duel Masters Movie 1
@@ -26460,6 +26467,7 @@
 6030|4|de|Jim Knopf
 15855|1|x-jat|Jimihen!! Jimiko o Kae Chau Jun Isei Kouyuu
 14550|1|x-jat|Jimoto ga Japan
+20554|1|x-jat|Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta.
 20114|1|x-jat|Jimoto Saikou!
 18679|1|x-zht|Jin Can Wangshi
 4907|1|x-zht|Jin Hou Xiang Yao
@@ -30191,6 +30199,7 @@
 17872|2|x-jat|Koumijima: Shuu 7 de Umeru Mesutachi
 11648|1|x-jat|Koumonteki Juuku Ketsujiru Juke
 6704|1|x-jat|Koumori
+20555|1|x-jat|Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru Ichiban Sukebe na Etou-san
 790|1|x-jat|Kounai Shasei
 19058|1|x-jat|Koupen-chan
 17425|2|x-jat|Kouryaku Wanted! Isekai Sukuimasu!?
@@ -88353,6 +88362,7 @@
 16588|4|zh-Hant|地下忍者
 16588|4|zh-Hans|地下忍者
 12151|4|ja|地下鉄に乗るっ
+20554|4|ja|地元のいじめっ子達に仕返ししようとしたら, 別の戦いが始まった.
 20114|4|ja|地元最高!
 15855|4|zh-Hans|地味变!!～改变土妹子的纯洁异性交往～
 13177|4|ja|地図のない冒険
@@ -93912,6 +93922,7 @@
 12895|2|ja|柿の木もっきい
 12895|2|ja|柿の木モッキィ
 6359|4|ja|栄光へのシュプール 猪谷千春物語
+20555|4|ja|校内で一番可愛いくて一番おっぱいがデカくて一番オカズにされてる一番スケベな江藤さん
 790|4|ja|校内写生
 7907|4|zh-Hans|校园恐怖传说 - 新·花子来了
 2165|4|zh-Hans|校园迷糊大王
