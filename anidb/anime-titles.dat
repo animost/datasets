@@ -1,4 +1,4 @@
-# created: Sat Nov 21 03:00:01 2026
+# created: Sun Nov 22 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -24149,6 +24149,7 @@
 13276|3|x-jat|htr
 1173|2|x-unk|https://en.wikipedia.org/wiki/Bakus%C5%8D_Ky%C5%8Ddai_Let`s_&_Go!!
 5133|2|x-unk|https://www.imdb.com/title/tt1804031/?ref_=fn_t_1
+14373|2|x-unk|https://www.imdb.com/title/tt35634364/?ref_=fn_t_1
 3296|3|en|HU
 18905|1|x-zht|Hu He Yao Shi Lu
 17102|1|x-zht|Hu Li Da Lieren
@@ -34006,6 +34007,7 @@
 18750|2|x-jat|Magic Maker - Isekai Mahou no Tsukurikata
 18750|4|en|Magic Maker: How to Make Magic in Another World
 18750|1|x-jat|Magic Maker: Isekai Mahou no Tsukurikata
+18750|2|pl|Magic Maker: Jak tworzyć magię w innym świecie
 17478|2|en|Magic Muscles
 11883|4|en|Magic of Stella
 12623|4|en|Magic of the Circus
@@ -61162,6 +61164,7 @@
 6051|2|en|When They Cry 3
 4894|4|en|When They Cry: Kai
 5634|4|en|When They Cry: Rei
+18992|2|en|When Two Dreams Connect
 15975|4|en|When Will Ayumu Make His Move?
 9176|2|en|When You Look Back
 20239|2|en|Where did Master go? He turned into a divine beast and was rubbed bald by his five disciples
