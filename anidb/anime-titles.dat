@@ -1,4 +1,4 @@
-# created: Sun Nov 22 03:00:02 2026
+# created: Mon Nov 23 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -3617,6 +3617,7 @@
 5115|4|es-419|ARIA The OVA～ARIETTA~
 8109|4|en|Aria the Scarlet Ammo
 10980|4|en|Aria the Scarlet Ammo AA
+20559|2|en|Aria the Scarlet Ammo Corto
 2659|4|en|Aria: The Animation
 11059|4|en|Aria: The Avvenire
 4243|4|en|Aria: The Natural
@@ -23081,6 +23082,7 @@
 9752|1|x-jat|Hidamari Sketch: Sae Hiro Sotsugyou Hen
 8109|1|x-jat|Hidan no Aria
 10980|1|x-jat|Hidan no Aria AA
+20559|1|x-jat|Hidan no Aria Corto
 5255|1|x-jat|Hidari no O`Clock!!
 17751|1|x-jat|Hidarikiki no Eren
 4743|3|x-jat|hidaske
@@ -26287,6 +26289,7 @@
 9598|1|x-kot|Jeonjaingan 337
 18741|4|x-kot|Jeonjijeog Dogja Sijeom
 18250|1|x-jat|Jeremy no Ki
+18939|2|pl|Jestem złym władcą międzygalaktycznego imperium
 466|2|en|Jester the Adventurer
 466|4|es|Jester: El Aventurero
 1413|4|pl|Jesteśmy Pretty Cure
@@ -39597,6 +39600,7 @@
 16309|4|es|Nezha: El renacer de un dios
 15250|1|x-zht|Nezha: Mo Tong Jiang Shi
 19537|1|x-zht|Nezha: Mo Tong Nao Hai
+19537|2|en|Nezha: The Demon Boy Churns the Sea
 5397|1|x-jat|Nezumi Monogatari: George to Gerald no Bouken
 6690|1|x-jat|Nezumi no Rusuban
 5732|1|x-jat|Nezumi no Yomeiri
@@ -44845,6 +44849,7 @@
 2918|4|en|Prince Shisukon
 18253|2|en|Prince Without a Servant: The Chronicle of Yatagarasu
 15786|2|x-unk|Prince, Don`t Do This!
+1190|4|es|Princesa Arete
 19701|4|pt|Princesa Cósmica Kaguya!
 7|4|pt-BR|Princesa Mononoke
 7|4|sl|Princesa Mononoke
@@ -49817,6 +49822,7 @@
 17501|3|x-jat|shanfro
 18578|2|x-jat|Shanfro 2
 19263|3|x-jat|shanfro 3
+20562|4|x-zht|Shang Shan
 20469|1|x-zht|Shanghai Gushi
 6267|1|x-jat|Shangri-La
 6267|4|en|Shangri-La
@@ -50048,6 +50054,7 @@
 4296|2|en|Shibawanko`s Spirit of Tradition
 4296|2|en|Shibawanko`s Spirit of Wa
 18845|1|x-jat|Shibou Yuugi de Meshi o Kuu.
+20558|1|x-jat|Shibou Yuugi de Meshi o Kuu. (Zokuhen)
 19993|1|x-jat|Shibou Yuugi de Meshi o Kuu. 44:Cloudy Beach
 18845|2|x-jat|Shibou Yuugi de Meshi wo Kuu.
 18845|4|fr|SHIBOYUGI : Survivre est mon métier
@@ -50057,6 +50064,7 @@
 18845|4|es-419|SHIBOYUGI: Me gano el pan participando de juegos mortales
 18845|4|en|Shiboyugi: Playing Death Games to Put Food on the Table
 19993|2|en|Shiboyugi: Playing Death Games to Put Food on the Table - 44:Cloudy Beach
+20558|2|en|Shiboyugi: Playing Death Games to Put Food on the Table (Sequel)
 18492|1|x-jat|Shibuya Hachi
 18822|1|x-jat|Shibuya Hachi (2024)
 19274|1|x-jat|Shibuya Hachi (2025)
@@ -50824,6 +50832,7 @@
 16742|2|x-zht|Shouxi Yu Ling Shi 2
 11706|2|x-jat|Shouyakyoku
 1831|1|x-jat|Shouyonoid Makocchan
+20562|1|x-jat|Shouzen
 4482|2|en|Shouzou Toki`s Private Detective Trouble Notes: Hard and Loose
 10830|1|x-jat|Show by Rock!!
 10830|4|ja|SHOW BY ROCK!!
@@ -51752,6 +51761,7 @@
 2059|1|x-jat|Sono Kinisasete yo: My My Mai
 16250|2|x-jat|Sono Kisekae Ningyou wa Koi o Suru
 17630|2|x-jat|Sono Kisekae Ningyou wa Koi o Suru 2
+20560|1|x-jat|Sono Mono. Nochi ni...
 8345|1|x-jat|Sono Mukou no Mukougawa
 14339|1|x-jat|Sono Toki, Kanojo wa.
 18451|3|x-unk|sonochiyushi
@@ -56389,6 +56399,7 @@
 18325|1|x-jat|The One Piece
 18325|4|en|The One Piece
 19360|2|en|The One Within the Villainess
+20560|2|en|The One. Later On...
 14100|4|en|The Ones Within
 15217|2|en|The Ones Within: Knots of Memories
 14091|4|en|The Orbital Children
@@ -62160,6 +62171,7 @@
 18662|2|x-zht|Xu Wu Bian Jing
 19739|1|x-zht|Xuan Jie Zhi Men
 14237|4|en|Xuan Yuan Sword Luminary
+20561|1|x-zht|Xuanmei Ji
 15571|1|x-jat|Xuanyue Mengying
 11132|1|x-jat|Xuccess Heaven
 11132|6|x-jat|Xuccess Heaven: Neo Tokyo School Success Battle
@@ -63032,7 +63044,7 @@
 17237|1|x-jat|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season
 18844|1|x-jat|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2 Nensei Hen 1 Gakki
 18844|2|x-unk|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki
-20123|1|x-jat|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season
+20123|1|x-jat|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season: 2 Nensei Hen 1 Gakki "Zenhan"
 17208|2|x-jat|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S2
 18844|2|x-jat|Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4
 7271|1|x-jat|Youkoso Lodoss-tou e!
@@ -79813,6 +79825,7 @@
 16250|4|ja|その着せ替え人形は恋をする
 17630|4|ja|その着せ替え人形は恋をする (2025)
 17630|2|ja|その着せ替え人形は恋をする Season 2
+20560|4|ja|その者. のちに...
 7541|4|ja|その花びらにくちづけを
 6957|4|ja|そばかすプッチー
 14732|4|ja|そばへ
@@ -83864,7 +83877,7 @@
 17208|4|ja|ようこそ実力至上主義の教室へ 2nd Season
 17237|4|ja|ようこそ実力至上主義の教室へ 3rd Season
 18844|4|ja|ようこそ実力至上主義の教室へ 4th Season 2年生編1学期
-20123|4|ja|ようこそ実力至上主義の教室へ 5th Season
+20123|4|ja|ようこそ実力至上主義の教室へ 5th Season 2年生編2学期＜前半＞
 6332|4|ja|よくわかる現代魔法
 424|4|ja|ヨコハマ買い出し紀行
 468|4|ja|ヨコハマ買い出し紀行 Quiet Country Cafe
@@ -90422,6 +90435,8 @@
 14720|4|zh-Hans|少年阿贝GO！GO！小芝麻 第四季
 4214|4|ja|少年陰陽師
 16714|4|zh-Hans|少林兔与武当狗
+20562|4|zh-Hant|尚善
+20562|4|ja|尚善
 13498|4|zh-Hant|尤利西斯 貞德與鍊金騎士
 13498|4|zh-Hans|尤利西斯 贞德与炼金骑士
 9230|4|zh-Hant|就算是哥哥, 有愛就沒問題了, 對吧
@@ -94463,6 +94478,7 @@
 4563|4|zh-Hant|死亡筆記本
 19209|4|zh-Hans|死亡账号
 18845|4|ja|死亡遊戯で飯を食う.
+20558|4|ja|死亡遊戯で飯を食う. (続編)
 19993|4|ja|死亡遊戯で飯を食う. 44:CLOUDY BEACH
 11255|4|zh-Hans|死亡黑标
 6467|4|zh-Hans|死刑判决
@@ -97553,6 +97569,7 @@
 1272|4|ja|緊縛の館 ~略奪~
 8109|4|ja|緋弾のアリア
 10980|4|ja|緋弾のアリアAA
+20559|4|ja|緋弾のアリアCorto
 8109|4|zh-Hant|緋彈的亞莉亞
 4080|4|ja|緋忍伝 呀宇種(ガウス)
 16135|4|zh-Hant|緋紅結繫
@@ -99745,6 +99762,7 @@
 13918|4|zh-Hans|逆转裁判 第二季
 10417|4|zh-Hans|选择感染者WIXOSS
 10698|4|zh-Hans|选择扩散者WIXOSS
+20561|4|zh|选美记
 19720|4|ja|透明な夜に駆ける君と, 目に見えない恋をした.
 4192|4|ja|透明人間
 7262|4|ja|透明人間R
