@@ -1,4 +1,4 @@
-# created: Mon Nov 23 03:00:01 2026
+# created: Tue Nov 24 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -1131,6 +1131,7 @@
 17004|2|en|A Mortals Journey
 14990|4|hu|A nagy színlelő
 18597|4|en|A New Dawn
+20563|4|en|A New Way for Sanctification
 11577|4|vi|Á nhân
 20019|2|en|A Night in the Valley of Witches
 18596|4|en|A Ninja and an Assassin Under One Roof
@@ -5426,9 +5427,12 @@
 15147|2|en|Battle Through The Heavens 3
 16179|2|en|Battle Through The Heavens 4
 17052|2|en|Battle Through The Heavens 5
+20564|2|en|Battle Through the Heavens Movie: Battle of the Two Emperors
 14874|2|en|Battle Through the Heavens Special II - Song of Desert
 16566|2|en|Battle Through The Heavens Three Year Agreement
+20564|4|en|Battle Through the Heavens: Battle of the Two Emperors
 17524|2|en|Battle Through The Heavens: Origin
+20564|2|en|Battle Through the Heavens: The Battle of Two Emperors
 2805|4|de|Battle Valkyrie
 618|2|en|Battle Vixens
 4251|2|en|Battle-Maiden Valkyrie True Chapter
@@ -5931,6 +5935,8 @@
 11523|4|pl|Bezpańscy Literaci
 17131|4|pl|Bezsenność po szkole
 5533|2|pl|Bezsensowna gra
+19569|2|pl|Beztroska obrona włości optymistycznego lorda
+19569|2|pl|Beztroska obrona włości optymistycznego lorda: Magia produkcji zmienia bezimienną wioskę w potężną twierdzę
 12743|2|pl|Beztroski Kemping
 14438|4|pl|Beztroski kemping Film
 14437|4|pl|Beztroski kemping Sezon 2
@@ -13680,6 +13686,7 @@
 13851|1|x-zht|Dou Po Cangqiong Di Er Ji
 15147|1|x-zht|Dou Po Cangqiong Di San Ji
 16179|1|x-zht|Dou Po Cangqiong Di Si Ji
+20564|1|x-zht|Dou Po Cangqiong Movie: Shuang Di Zhi Zhan
 17052|1|x-zht|Dou Po Cangqiong Nian Fan
 17052|2|x-zht|Dou Po Cangqiong: Nian Fan
 14891|1|x-zht|Dou Po Cangqiong: Q Ban Xiao Juchang
@@ -13803,6 +13810,8 @@
 19876|2|x-jat|Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.
 15273|1|x-jat|Dounika Naru Hibi
 13721|2|x-zht|Doupo Cangqiong
+20564|2|x-zht|Doupo Cangqiong Juchang Ban: Shuang Di Zhi Zhan
+20564|2|x-zht|Doupo Cangqiong Movie: Shuang Di Zhi Zhan
 14874|2|x-zht|Doupo Cangqiong: Tebie Pian 2 - Sha Zhi Lan Ge
 13721|2|x-jat|Doupo Capong
 4250|1|x-jat|Doura
@@ -24273,6 +24282,7 @@
 4614|4|es|Humillación Médica
 840|4|en|Hummingbirds
 9279|1|x-jat|Hump Bang!
+20563|1|x-zht|Hun Zai Mori, Duzi Chengxian
 11234|1|x-jat|Hundred
 11234|4|en|Hundred
 1001|2|en|Hundred Stories
@@ -34096,6 +34106,7 @@
 11572|4|en|Magical Girl Raising Project
 17839|2|en|Magical Girl Raising Project Restart
 13424|4|en|Magical Girl Site
+14229|4|de|Magical Girl Spec Ops Asuka
 14229|4|en|Magical Girl Spec-Ops Asuka
 10461|2|en|Magical Girl Transforms with a Kiss: To Do It with Someone Other Than My Boyfriend...
 8779|4|ja|Magical Halloween みらくる★カルテット
@@ -35220,8 +35231,11 @@
 19126|2|en|Martial Universe 5th Season
 19729|2|en|Martial Universe 6
 19729|2|en|Martial Universe 6th Season
+20548|2|en|Martial Universe 7
+20548|2|en|Martial Universe 7th Season
 19126|2|en|Martial Universe S5
 19729|2|en|Martial Universe S6
+20548|2|en|Martial Universe S7
 180|4|fr|Martian Successor Nadesico
 180|4|en|Martian Successor Nadesico
 180|4|pt-BR|Martian Successor Nadesico
@@ -46745,6 +46759,7 @@
 14792|3|x-jat|rezero2
 17947|3|x-jat|rezero3
 19242|3|x-jat|rezero4
+20547|3|x-jat|rezero5
 15014|2|x-jat|Reバース for you
 4522|3|x-jat|RG
 465|4|en|RG Veda
@@ -53562,6 +53577,7 @@
 1122|3|en|Survive
 1122|2|en|Survive! - Uninhabited Planet
 18685|2|en|Surviving Science!
+20563|2|en|Surviving the Apocalypse, Becoming an Immortal Alone
 13044|1|x-jat|Survivor
 13044|4|ja|Survivor
 11064|4|en|Sushi and Beyond
@@ -61735,10 +61751,12 @@
 20481|1|x-zht|Wu Di de Zuqiu
 19126|2|x-zht|Wu Dong Qian Kun 5th Season
 19729|2|x-zht|Wu Dong Qian Kun 6th Season
+20548|2|x-zht|Wu Dong Qian Kun 7th Season
 14649|1|x-zht|Wu Dong Qiankun
 16580|1|x-zht|Wu Dong Qiankun (2021)
 19126|2|x-zht|Wu Dong Qiankun 5
 19729|2|x-zht|Wu Dong Qiankun 6
+20548|2|x-zht|Wu Dong Qiankun 7
 15687|1|x-zht|Wu Dong Qiankun Di Er Ji
 19729|1|x-zht|Wu Dong Qiankun Di Liu Ji
 20548|1|x-zht|Wu Dong Qiankun Di Qi Ji
@@ -78320,7 +78338,7 @@
 1640|2|ja|くりぃむレモン
 1640|4|ja|くりいむレモン
 4198|4|ja|くりいむレモン ニュージェネレーション
-4210|4|ja|くりぃむレモン レモンエンジェル
+4210|4|ja|くりいむレモン レモンエンジェル
 12985|4|ja|クリオネの灯り
 510|3|ja|グリグリ
 17220|4|ja|グリザイア:ファントムトリガー
@@ -92518,6 +92536,7 @@
 13721|4|zh|斗破苍穹
 14891|4|zh-Hans|斗破苍穹 Q版小剧场
 14892|4|zh-Hans|斗破苍穹 Q版小剧场 第2季
+20564|2|zh-Hans|斗破苍穹 双帝之战
 17052|4|zh-Hans|斗破苍穹 年番
 16566|4|zh-Hans|斗破苍穹 特别篇3 三年之约
 15147|4|zh-Hans|斗破苍穹 第3季
@@ -92529,6 +92548,7 @@
 16179|4|zh-Hans|斗破苍穹 第四季
 17524|4|zh-Hans|斗破苍穹 缘起
 16541|2|zh-Hans|斗破苍穹之大主宰 第一季
+20564|4|zh-Hans|斗破苍穹剧场版 双帝之战
 13721|2|zh-Hans|斗破苍穹动画版
 15147|2|zh-Hans|斗破苍穹动画版 第三季
 14874|4|zh-Hans|斗破苍穹特别篇2沙之澜歌
@@ -94419,6 +94439,7 @@
 16580|4|zh-Hans|武动乾坤 (2021)
 19126|2|zh-Hans|武动乾坤 第5季
 19729|2|zh-Hans|武动乾坤 第6季
+20548|2|zh-Hans|武动乾坤 第7季
 20548|4|zh-Hans|武动乾坤 第七季
 16580|2|zh-Hans|武动乾坤 第三季
 15687|4|zh-Hans|武动乾坤 第二季
@@ -94999,6 +95020,7 @@
 18385|4|zh-Hans|深渊游戏
 19702|4|zh-Hans|深潜 强制倒带
 19841|4|zh-Hans|深空彼岸
+20563|4|zh-Hans|混在末日，独自成仙
 6088|4|zh-Hans|混沌头
 11166|4|zh-Hans|混沌子
 1543|4|zh-Hans|混沌武士
