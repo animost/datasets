@@ -1,4 +1,4 @@
-# created: Tue Nov 24 03:00:01 2026
+# created: Wed Nov 25 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -19327,6 +19327,7 @@
 12796|2|x-kot|Geugjangpan Annyeong Jadooya
 12796|1|x-kot|Geugjangpan Annyeong Jaduya
 13825|1|x-kot|Geugjangpan Turning Mecard W: Black Mirror ui Buhwal
+20565|1|x-kot|Geumgangsan Palseonnyeo
 4909|3|ja|GF
 10709|3|en|GF Beta
 10709|3|x-jat|GF Kari
@@ -30310,7 +30311,9 @@
 3674|4|pl|Królewna Śnieżka
 2828|4|pl|Królowa śniegu
 169|4|pl|Kronika wojny na Lodoss
-15875|2|pl|Kroniki Duszy
+15875|2|pl|Kroniki duszy
+16962|2|pl|Kroniki duszy 2
+20432|2|pl|Kroniki duszy 3
 14765|4|ja|Krosna
 14765|1|x-jat|Krosna
 13816|4|cs|Krtek a Panda
@@ -49454,6 +49457,7 @@
 111|1|x-jat|Sentou Yousei Yukikaze
 15440|2|x-jat|Sentouin Hakenshimasu!
 15440|1|x-jat|Sentouin, Haken Shimasu!
+15440|2|x-jat|Sentouin, Hakenshimasu!
 15621|3|x-jat|senuza
 6244|3|x-jat|senval
 8158|3|x-jat|senval 3
@@ -72660,6 +72664,7 @@
 17913|4|ko|근육맨: 완벽초인시조 편
 14721|4|ko|글레이프니르
 1168|2|ko|글로리아 금단의 혈족
+20565|4|ja|금강산 팔선녀
 9290|2|ko|금단의 병동
 2776|4|ko|금색의 갓슈벨 - 메카 발칸의 역습
 15175|4|ko|기가 트라이브
