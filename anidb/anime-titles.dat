@@ -1,4 +1,4 @@
-# created: Thu Nov 26 03:00:01 2026
+# created: Fri Nov 27 03:00:01 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -2741,6 +2741,7 @@
 11054|2|x-jat|Anata wo Zutto Aishiteru
 19894|2|en|Anatolia Story
 131|3|x-jat|anc
+19308|4|it|Anche il consiglio studentesco cade in fallo!
 14430|4|it|Anche se il mondo finisse domani - The relative worlds
 12089|2|en|Ancien and the Magic Tablet
 12807|2|en|Ancien and the Magic Tablet: Another Story
@@ -17894,6 +17895,8 @@
 4784|4|ja|Funny Pets 2ndシーズン
 4069|2|x-jat|Funny Pets Plus
 20350|1|x-jat|Funsou Deshitara Hatta Made
+20568|1|x-jat|Funtasic Precure!
+20568|2|en|Funtasic Pretty Cure!
 20030|1|x-jat|Furachi
 4323|2|x-jat|Furakappa
 18301|1|x-jat|Fureru.
@@ -20924,6 +20927,7 @@
 13765|1|x-zht|Gui Bao: Baoxiao Chuang Yuzhou
 19540|1|x-zht|Gui Chuideng: Nanhai Gui Xu
 6466|4|vi|Gửi đến bạn hiền
+20572|1|x-zht|Gui Jia Zhongkui
 16021|2|en|Guidance Rape: Day After The Animation
 17720|3|x-jat|guiguikuru
 18118|1|x-jat|Guild no Uketsukejou Desu ga, Zangyou wa Iya nano de Boss o Solo Toubatsu Shiyou to Omoimasu
@@ -25884,6 +25888,7 @@
 12562|4|en|Isekai Izakaya: Japanese Food from Another World
 12562|1|x-jat|Isekai Izakaya: Koto Aitheria no Izakaya Nobu
 17653|1|x-jat|Isekai Kita no de Sukebe Skill de Zenryoku Ouka Shiyou to Omou The Animation
+20573|1|x-jat|Isekai Kuimetsu No Same
 13757|1|x-jat|Isekai Maou to Shoukan Shoujo no Dorei Majutsu
 15493|1|x-jat|Isekai Maou to Shoukan Shoujo no Dorei Majutsu Omega
 19999|1|x-jat|Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ult
@@ -26436,6 +26441,7 @@
 18204|1|x-jat|Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou 2nd Season
 19580|1|x-jat|Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou 3rd Season
 20242|1|x-zht|Jie Men Zhi Xia
+20571|1|x-zht|Jie Mingdeng
 12967|1|x-zht|Jie Mo Ren
 15354|1|x-zht|Jie Yao
 7260|1|x-jat|Jigazou
@@ -28867,6 +28873,7 @@
 15381|2|en|Killer Seven 2
 15961|2|en|Killer Seven 3
 17852|2|en|Killer Seven 4
+20573|2|en|Killer Shark in Another World
 2259|2|en|Killifish School
 12888|4|en|Killing Bites
 12888|1|x-jat|Killing Bites
@@ -34395,6 +34402,7 @@
 11982|1|x-jat|Mahou Tsukai no Yome: Hoshi Matsu Hito
 16113|1|x-jat|Mahou Tsukai no Yome: Nishi no Shounen to Seiran no Kishi
 17080|1|x-jat|Mahou Tsukai no Yoru
+20574|1|x-jat|Mahou Tsukai no Yoru (Zokuhen)
 11794|1|x-jat|Mahou Tsukai Precure!
 17908|1|x-jat|Mahou Tsukai Precure!! Mirai Days
 16280|1|x-jat|Mahou Tsukai Reimeiki
@@ -45558,6 +45566,7 @@
 8248|1|x-zht|Qingcong: Youth
 20398|1|x-zht|Qingwa Wangguo: Jixian Yundong
 20399|1|x-zht|Qingwa Wangguo: Qihuan Nuwang Lixian
+20569|1|x-zht|Qiongding Zhi Shang
 14650|2|x-zht|qipasanguo
 19653|1|x-zht|Qiyun Dantian: Kaiju Qiandao Zhizun Dantian
 366|3|en|qm
@@ -57371,6 +57380,7 @@
 16750|1|x-zht|Tian Huang Zhan Shen
 16043|1|x-zht|Tian Mei De Yao Hen
 16757|1|x-zht|Tian Qi Ri
+20570|1|x-zht|Tian Qi Zhi Men
 17181|1|x-zht|Tian Shu Qi Tan
 18692|2|x-zht|Tian Ting Ban Zhuan Xia
 19651|1|x-zht|Tian Xiang
@@ -61419,6 +61429,7 @@
 96|4|pt|Witch Hunter Robin
 9276|2|en|Witch of Steel: Annerose
 17080|2|en|Witch on the Holy Night
+20574|2|en|Witch on the Holy Night (Sequel)
 2821|1|x-jat|Witch Village Story
 18816|4|ja|WITCH WATCH
 18816|1|x-jat|Witch Watch
@@ -75840,6 +75851,7 @@
 8434|2|ko|학교
 481|4|ko|학교괴담
 10540|2|ko|학살기관 Genocidal Organ
+19308|4|ko|학생회에도 구멍은 있다!
 1995|2|ko|학염칠부사의
 2518|2|ko|학원 ~치욕의 도식~
 8308|2|ko|학원 3
@@ -82247,6 +82259,7 @@
 10674|4|ja|ファンタジスタ ステラ
 9365|4|ja|ファンタジスタドール
 2387|4|ja|ファンタジックチルドレン
+20568|4|ja|ファンたじっくプリキュア!
 6256|2|ja|ファントム -PHANTOM OF INFERNO-
 1625|4|ja|ファントム THE ANIMATION
 13978|2|ja|ファントム イン ザ トワイライト
@@ -85842,6 +85855,7 @@
 2867|4|ja|倒凶十将伝 封魔五行伝承
 7258|4|ja|借りぐらしのアリエッティ
 7258|4|zh-Hans|借东西的小人阿丽埃蒂
+20571|4|zh-Hans|借命灯
 7258|4|zh-Hant|借物少女艾莉緹
 5452|4|ja|借金姉妹
 5452|4|zh|借金姐妹
@@ -89050,6 +89064,7 @@
 4575|4|zh-Hans|天元突破 红莲螺岩
 6609|4|ja|天元突破グレンラガン キラメキ☆ヨーコBOX~Pieces of sweet stars~
 14858|4|zh-Hans|天华百剑 ～欢迎来到铭治馆！～
+20570|4|zh-Hans|天启之门
 16757|4|zh-Hans|天启日
 19128|4|zh-Hans|天命大主宰
 19593|4|zh-Hans|天命大神皇
@@ -96310,6 +96325,7 @@
 17248|4|ja|異世界ワンターンキル姉さん ~姉同伴の異世界生活はじめました~
 17248|4|zh-Hant|異世界一擊殺姊姊 ～姊姊同伴的異世界生活開始了～
 16936|4|ja|異世界召喚は二度目です
+20573|4|ja|異世界喰滅のサメ
 14435|4|zh-Hant|異世界四重奏
 19385|4|zh-Hant|異世界四重奏 3
 15481|2|zh-Hant|異世界四重奏 第三季
@@ -97197,6 +97213,7 @@
 15905|4|ja|究極進化したフルダイブRPGが現実よりもクソゲーだったら
 19290|4|zh-Hans|穹庐下的魔女
 19290|4|zh-Hant|穹廬下的魔女
+20569|4|zh-Hans|穹顶之上
 10167|4|ja|空とぶうさぎの誘拐防止 ぼく いやだよ!
 4932|2|ja|空の境界
 5935|4|ja|空の桃太郎
@@ -101449,6 +101466,7 @@
 11269|2|ja|鬼父Refresh
 11481|4|zh-Hans|鬼牌游戏
 9183|2|ja|鬼物語
+20572|4|zh-Hans|鬼甲钟馗
 10263|4|ja|鬼畜 ~母姉妹調教日記~
 19378|4|zh-Hant|鬼的新娘
 19378|4|zh-Hans|鬼的新娘
@@ -101636,6 +101654,7 @@
 9277|4|ja|魔法使いなら味噌を喰え!
 14461|4|ja|魔法使いになれなかった女の子の話.
 17080|4|ja|魔法使いの夜
+20574|4|ja|魔法使いの夜 (続編)
 12942|4|ja|魔法使いの嫁
 17599|4|ja|魔法使いの嫁 SEASON2
 18076|4|ja|魔法使いの嫁 SEASON2 (2023)
