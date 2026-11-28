@@ -1,4 +1,4 @@
-# created: Fri Nov 27 03:00:01 2026
+# created: Sat Nov 28 03:00:02 2026
 # <aid>|<type>|<language>|<title>
 # type: 1=primary title (one per anime), 2=synonyms (multiple per anime), 3=shorttitles (multiple per anime), 4=official title (one per language), 5=kana reading, 6=title card
 4598|2|x-jat|_summer
@@ -42183,6 +42183,7 @@
 130|4|de|Otaku No Video
 130|4|en|Otaku no Video
 13293|2|fr|Otaku Otaku
+20575|1|x-jat|Otaku Tomodachi to no Sex wa Saikou ni Kimochi Ii The Animation
 13293|2|tr|Otakuysan Gönül İşleri Çok Zahmetli
 6972|1|x-jat|Otanoshimi Anime Gekijou
 1308|3|en|OtaNW
@@ -42374,6 +42375,7 @@
 16328|2|ko|OVA 사신창관―음란 거유 모녀 산 제물의식
 15780|2|ko|OVA 수국이 질 때
 6285|4|ja|OVA うたわれるもの
+20575|6|ja|OVA オタク友達とのセックスは最高に気持ちいい THE ANIMATION
 20409|6|ja|OVA お隣の贄
 19704|4|ja|OVA ケガレボシ
 20506|6|ja|OVA さくら裂ク 散ル花びら
@@ -45948,7 +45950,7 @@
 5693|4|hi|Ramayana: Shree Rama Katha
 5693|4|en|Ramayana: The Legend of Prince Rama
 18289|1|x-jat|Ramen Aka Neko
-19066|1|x-jat|Ramen Aka Neko 2
+19066|1|x-jat|Ramen Aka Neko Sono Ni
 18289|4|en|Ramen Akaneko
 18289|2|x-jat|Ramen Akaneko
 19066|2|en|Ramen Akaneko 2
@@ -77301,6 +77303,7 @@
 130|4|ja|おたくのビデオ
 20034|4|ja|オタクの僕が一軍ギャルと付き合えるまでの話
 3533|4|ja|おたくの星座
+20575|4|ja|オタク友達とのセックスは最高に気持ちいい THE ANIMATION
 15016|5|ja|おだしなもんのぶなが
 20022|3|ja|おたすけ部
 6972|4|ja|おたのしみアニメ劇場
@@ -83952,7 +83955,7 @@
 5693|4|ja|ラーマヤーナ ラーマ王子伝説
 13053|4|ja|ラーメン大好き小泉さん
 18289|4|ja|ラーメン赤猫
-19066|4|ja|ラーメン赤猫 2
+19066|4|ja|ラーメン赤猫 其の二
 16182|4|ja|ライアー・ライアー
 19538|2|ja|ライアーゲーム
 20426|2|ja|ライアーゲーム 2
